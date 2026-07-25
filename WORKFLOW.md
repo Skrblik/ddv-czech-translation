@@ -9,14 +9,14 @@ Hra:           G:\Games\Disney Dreamlight Valley\
 Lokalizace:    G:\Games\Disney Dreamlight Valley\ddv_Data\StreamingAssets\Localization\
   LocDB_en-US.zip              ← Aktivní herní soubor (sem se zapisují překlady)
   záloha\LocDB_en-US.zip       ← Záloha originálního anglického souboru (NEMĚNIT!)
-  LocDB_en-US.cz_original.bak  ← Záloha původního českého překladu od vývojářů (NEMĚNIT!)
+  LocDB_en-US.cz_original.bak  ← Záloha původního českého komunitního překladu od 666joxer (NEMĚNIT!)
 ```
 
 ### Zálohy v tomto repozitáři
 ```
 game_backups/
   LocDB_en-US_original_EN.zip  ← Kopie anglického originálu (pro případ ztráty lokálního souboru)
-  LocDB_en-US_original_CZ.zip  ← Kopie původní české lokalizace od vývojářů
+  LocDB_en-US_original_CZ.zip  ← Kopie původní české lokalizace od 666joxer (komunitni-preklady.org)
 ```
 > ⚠️ Pokud zálohy na disku chybí, obnovte je z `game_backups/` složky tohoto repa.
 

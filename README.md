@@ -9,7 +9,7 @@ Kompletní český překlad pro hru **Disney Dreamlight Valley** včetně Advent
 | **Celkem klíčů** | 142 401 |
 | **Přeložitelné klíče** | 141 354 |
 | **Přeloženo celkem** | 141 181 (99,9 %) |
-| ↳ Předexistující překlad (hra) | 135 067 |
+| ↳ Předexistující překlad ([666joxer](https://komunitni-preklady.org/preklad/disney-dreamlight-valley)) | 135 067 |
 | ↳ **Náš překlad (AI-assisted)** | **6 114** |
 | Nepřeloženo | 173 |
 | Systémové tagy (nepřekládá se) | 1 047 |
@@ -90,7 +90,7 @@ Každý soubor v `translations/` obsahuje JSON strukturu:
 
 | Hodnota | Význam |
 |---------|--------|
-| `pre_existing` | Překlad byl součástí originální české lokalizace hry (potenciálně nižší kvalita, strojový překlad) |
+| `pre_existing` | Komunitní překlad od [666joxer](https://komunitni-preklady.org/preklad/disney-dreamlight-valley) (AI-assisted, lze vylepšit) |
 | `our_translation` | **Přeloženo námi** – kvalitní AI-assisted překlad s lidskou kontrolou |
 | `untranslated` | Dosud nepřeloženo (stále anglicky) |
 | `do_not_translate` | Systémový tag/placeholder (`{DoNotTranslate}`, `{ItemName}` atd.) |
@@ -131,6 +131,11 @@ Při překladu jsme dodržovali tyto české názvy:
 - Klíče jsou identifikovány jako `cesta/soubor.locbin::audio_id`
 - Překlad byl vytvořen v červenci 2025 pro verzi hry s DLC "A Rift in Time"
 
+## 🙏 Poděkování
+
+- **[666joxer](https://komunitni-preklady.org/preklad/disney-dreamlight-valley)** – autor původního českého překladu, na kterém tento projekt staví. Bez jeho práce (135 067 přeložených klíčů) by tento projekt neexistoval.
+- Komunita **[komunitni-preklady.org](https://komunitni-preklady.org/)** – platforma pro československé herní překlady.
+
 ## 📜 Licence
 
-Tento překlad je vytvořen fanoušky pro fanoušky. Disney Dreamlight Valley je vlastnictvím Gameloft / Disney.
+Tento překlad je vytvořen fanoušky pro fanoušky. Základní překlad pochází od **666joxer** z komunitni-preklady.org. Disney Dreamlight Valley je vlastnictvím Gameloft / Disney.
