@@ -12,6 +12,14 @@ Lokalizace:    G:\Games\Disney Dreamlight Valley\ddv_Data\StreamingAssets\Locali
   LocDB_en-US.cz_original.bak  ← Záloha původního českého překladu od vývojářů (NEMĚNIT!)
 ```
 
+### Zálohy v tomto repozitáři
+```
+game_backups/
+  LocDB_en-US_original_EN.zip  ← Kopie anglického originálu (pro případ ztráty lokálního souboru)
+  LocDB_en-US_original_CZ.zip  ← Kopie původní české lokalizace od vývojářů
+```
+> ⚠️ Pokud zálohy na disku chybí, obnovte je z `game_backups/` složky tohoto repa.
+
 ## 🏗️ Architektura lokalizace
 
 - Lokalizační soubory jsou `.locbin` soubory uvnitř ZIP archivu `LocDB_en-US.zip`
