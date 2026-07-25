@@ -129,7 +129,6 @@ Při překladu jsme dodržovali tyto české názvy:
 - Lokalizační soubory používají **Protocol Buffers** (protobuf) serializaci v `.locbin` souborech
 - Soubory jsou zabaleny v **ZIP archivu** (`LocDB_en-US.zip`)
 - Klíče jsou identifikovány jako `cesta/soubor.locbin::audio_id`
-- Překlad byl vytvořen v červenci 2025 pro verzi hry s DLC "A Rift in Time"
 
 ## 🙏 Poděkování
 
