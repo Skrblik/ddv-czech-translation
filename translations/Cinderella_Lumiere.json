@@ -1,0 +1,158 @@
+{
+  "Cinderella_Lumiere/Lumiere_VLG_Cind_040_VLG_Cind_040_TalkTo01.locbin": [
+    {
+      "key": "Lumiere_000_f",
+      "en": "Ah, {PlayerName}, Your Highness Cinderella, you're right on time!",
+      "cz": "Ach, {PlayerName} Vaše Výsosti Popelko, přicházíte přesně včas!",
+      "source": "pre_existing",
+      "original_cz": "Ach, {PlayerName} Vaše Výsosti Popelko, přicházíte přesně včas!"
+    },
+    {
+      "key": "Lumiere_001_f",
+      "en": "Yes, I've brought {PlayerName} to check with you... Have you chosen a location for the Friendship Ball?",
+      "cz": "Ano, přivedl jsem {PlayerName}, abych se s vámi zeptal... Vybrali jste si místo pro Ples přátelství?",
+      "source": "pre_existing",
+      "original_cz": "Ano, přivedl jsem {PlayerName}, abych se s vámi zeptal... Vybrali jste si místo pro Ples přátelství?"
+    },
+    {
+      "key": "Lumiere_002_f",
+      "en": "We have! And we think you will be most pleased. It's majestic! It's romantic! It's grander than grand!",
+      "cz": "Máme! A myslíme si, že budete velmi potěšeni. Je to majestátní! Je to romantické! Je to velkolepější než velkolepé!",
+      "source": "pre_existing",
+      "original_cz": "Máme! A myslíme si, že budete velmi potěšeni. Je to majestátní! Je to romantické! Je to velkolepější než velkolepé!"
+    },
+    {
+      "key": "Lumiere_003_f",
+      "en": "What Lumiere is trying to say, amidst all that loquaciousness, is that we think the <Lore>Dream Castle</Lore> is the perfect location for our grand ball!",
+      "cz": "Lumiere se nám uprostřed vší té upovídanosti snaží říct, že si myslíme, že <Lore>Zámek snů</Lore> je pro náš velký ples ideálním místem!",
+      "source": "pre_existing",
+      "original_cz": "Lumiere se nám uprostřed vší té upovídanosti snaží říct, že si myslíme, že <Lore>Zámek snů</Lore> je pro náš velký ples ideálním místem!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "That's perfect! I wouldn't want it anywhere else.",
+      "cz": "To je perfektní! Nikde jinde bych to nechtěl/a.",
+      "source": "pre_existing",
+      "original_cz": "To je perfektní! Nikde jinde bych to nechtěl/a."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "You two have done this before, haven't you?",
+      "cz": "Vy dva jste to už dělali, že?",
+      "source": "pre_existing",
+      "original_cz": "Vy dva jste to už dělali, že?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I was thinking the Glade of Trust.",
+      "cz": "Přemýšlel jsem o Mýtině důvěry.",
+      "source": "pre_existing",
+      "original_cz": "Přemýšlel jsem o Mýtině důvěry."
+    },
+    {
+      "key": "Lumiere_005_f",
+      "en": "Oh, I'm so glad. Thank you, Lumiere. Thank you, Cogsworth.",
+      "cz": "To mě tak těší. Děkuji, Lumiere. Děkuji, Cogsworthe.",
+      "source": "pre_existing",
+      "original_cz": "To mě tak těší. Děkuji, Lumiere. Děkuji, Cogsworthe."
+    },
+    {
+      "key": "Lumiere_015_f",
+      "en": "Next, we must check with <Lore>Jasmine</Lore>. She and Moana are working on decorations.",
+      "cz": "Dále se musíme zeptat na <Lore>Jasmine</Lore>. Ona a Moana pracují na dekoracích.",
+      "source": "pre_existing",
+      "original_cz": "Dále se musíme zeptat na <Lore>Jasmine</Lore>. Ona a Moana pracují na dekoracích."
+    },
+    {
+      "key": "Lumiere_004_f",
+      "en": "Yes, dozens of times! Hundreds of times! ... Ahem, often. Many years ago, of course.",
+      "cz": "Ano, desítkykrát! Stovkykrát! ... Ehm, často. Před mnoha lety, samozřejmě.",
+      "source": "pre_existing",
+      "original_cz": "Ano, desítkykrát! Stovkykrát! ... Ehm, často. Před mnoha lety, samozřejmě."
+    },
+    {
+      "key": "Lumiere_007_f",
+      "en": "How good to know we haven't gone to rust when it comes to planning grand events.",
+      "cz": "Jak dobré vědět, že jsme nezrezivěli, pokud jde o plánování velkolepých akcí.",
+      "source": "pre_existing",
+      "original_cz": "Jak dobré vědět, že jsme nezrezivěli, pokud jde o plánování velkolepých akcí."
+    },
+    {
+      "key": "Lumiere_006_f",
+      "en": "THE GLADE?!",
+      "cz": "MÝTINA?!",
+      "source": "pre_existing",
+      "original_cz": "MÝTINA?!"
+    },
+    {
+      "key": "Lumiere_008_f",
+      "en": "What Cogsworth means to say is that the Glade is a bit... Hmm... Well, it's rather... \"marshy,\" perhaps, for a ball as grand as you deserve.",
+      "cz": "Cogsworth tím myslí, že Glade je trochu... Hmm... No, je to spíš... \"bažinaté\", možná na tak velkolepý ples, jaký si zasloužíte.",
+      "source": "pre_existing",
+      "original_cz": "Cogsworth tím myslí, že Glade je trochu... Hmm... No, je to spíš... \"bažinaté\", možná na tak velkolepý ples, jaký si zasloužíte."
+    },
+    {
+      "key": "Lumiere_009_f",
+      "en": "Oh dear. This is a disaster! We've already begun planning at the Dream Castle!",
+      "cz": "Jéj. To je katastrofa! Už jsme začali plánovat v Hradě snů!",
+      "source": "pre_existing",
+      "original_cz": "Jéj. To je katastrofa! Už jsme začali plánovat v Hradě snů!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I'm only joking. The Dream Castle is perfect.",
+      "cz": "Jen žertuji. Hrad snů je perfektní.",
+      "source": "pre_existing",
+      "original_cz": "Jen žertuji. Hrad snů je perfektní."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I guess the Dream Castle is fine...",
+      "cz": "Myslím, že Hrad snů je v pohodě...",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že Hrad snů je v pohodě..."
+    },
+    {
+      "key": "Lumiere_010_f",
+      "en": "Oh, ha-ha! Of course you are.",
+      "cz": "Haha! Jasně, že jsi.",
+      "source": "pre_existing",
+      "original_cz": "Haha! Jasně, že jsi."
+    },
+    {
+      "key": "Lumiere_012_f",
+      "en": "I knew that.",
+      "cz": "Věděl jsem to.",
+      "source": "pre_existing",
+      "original_cz": "Věděl jsem to."
+    },
+    {
+      "key": "Lumiere_014_f",
+      "en": "We'll leave you two to your preparations.",
+      "cz": "Necháme vás dva s vašimi přípravami.",
+      "source": "pre_existing",
+      "original_cz": "Necháme vás dva s vašimi přípravami."
+    },
+    {
+      "key": "Lumiere_011_f",
+      "en": "I assure you, we will make it the most splendid ball possible! You won't be disappointed.",
+      "cz": "Ujišťuji vás, že z toho uděláme ten nejúžasnější možný ples! Nebudete zklamáni.",
+      "source": "pre_existing",
+      "original_cz": "Ujišťuji vás, že z toho uděláme ten nejúžasnější možný ples! Nebudete zklamáni."
+    },
+    {
+      "key": "Lumiere_013_f",
+      "en": "You have my word, mon amie!",
+      "cz": "Máš mé slovo, kámo!",
+      "source": "pre_existing",
+      "original_cz": "Máš mé slovo, kámo!"
+    },
+    {
+      "key": "Lumiere_013_m",
+      "en": "You have my word, mon ami!",
+      "cz": "Máš mé slovo, kámo!",
+      "source": "pre_existing",
+      "original_cz": "Máš mé slovo, kámo!"
+    }
+  ]
+}

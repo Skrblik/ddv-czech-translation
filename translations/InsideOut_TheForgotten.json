@@ -1,0 +1,349 @@
+{
+  "InsideOut_TheForgotten/TheForgotten_VLG_Joy_040_VLG_Joy_040_TalkTo07.locbin": [
+    {
+      "key": "TheForgotten_000_f",
+      "en": "Hi, {character:DreamlightValley!TheForgotten}! I have an amazing opportunity for you!",
+      "cz": "Ahoj, {character:DreamlightValley!TheForgotten}! Mám pro tebe úžasnou příležitost!",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {character:DreamlightValley!TheForgotten}! Mám pro tebe úžasnou příležitost!"
+    },
+    {
+      "key": "TheForgotten_001_f",
+      "en": "I'm listening...",
+      "cz": "Poslouchám...",
+      "source": "pre_existing",
+      "original_cz": "Poslouchám..."
+    },
+    {
+      "key": "TheForgotten_014_f",
+      "en": "Joy, Sadness, and I are putting on a performance of sorts, but we need someone to be our star!",
+      "cz": "Radost, Smutek a já předvádíme jakési představení, ale potřebujeme někoho, kdo bude naší hvězdou!",
+      "source": "pre_existing",
+      "original_cz": "Radost, Smutek a já předvádíme jakési představení, ale potřebujeme někoho, kdo bude naší hvězdou!"
+    },
+    {
+      "key": "TheForgotten_015_f",
+      "en": "And you think I'm right for the part?",
+      "cz": "A myslíš, že se na tu roli hodím?",
+      "source": "pre_existing",
+      "original_cz": "A myslíš, že se na tu roli hodím?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "You're perfect!",
+      "cz": "Jsi dokonalý/á!",
+      "source": "pre_existing",
+      "original_cz": "Jsi dokonalý/á!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "You were one of a few options.",
+      "cz": "Byl jsi jednou z mála možností.",
+      "source": "pre_existing",
+      "original_cz": "Byl jsi jednou z mála možností."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Well, you weren't my FIRST choice.",
+      "cz": "No, nebyl jsi moje PRVNÍ volba.",
+      "source": "pre_existing",
+      "original_cz": "No, nebyl jsi moje PRVNÍ volba."
+    },
+    {
+      "key": "TheForgotten_016_f",
+      "en": "I need someone who really understands me, and I don't think anyone in the Valley gets me more than you.",
+      "cz": "Potřebuji někoho, kdo mi opravdu rozumí, a myslím, že nikdo v údolí mi nerozumí víc než ty.",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji někoho, kdo mi opravdu rozumí, a myslím, že nikdo v údolí mi nerozumí víc než ty."
+    },
+    {
+      "key": "TheForgotten_019_f",
+      "en": "We're trying to recreate a moment from my past, but... well, I don't really remember it all.",
+      "cz": "Snažíme se znovu vytvořit okamžik z mé minulosti, ale... no, vlastně si to všechno nepamatuji.",
+      "source": "pre_existing",
+      "original_cz": "Snažíme se znovu vytvořit okamžik z mé minulosti, ale... no, vlastně si to všechno nepamatuji."
+    },
+    {
+      "key": "TheForgotten_020_f",
+      "en": "I'm hoping, as we film, things will start to become clearer.",
+      "cz": "Doufám, že jak budeme natáčet, věci se začnou vyjasňovat.",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že jak budeme natáčet, věci se začnou vyjasňovat."
+    },
+    {
+      "key": "TheForgotten_021_f",
+      "en": "What DO you remember?",
+      "cz": "Co si pamatuješ?",
+      "source": "pre_existing",
+      "original_cz": "Co si pamatuješ?"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "My friends teasing me about... something.",
+      "cz": "Moji přátelé si ze mě dělají legraci... kvůli něčemu.",
+      "source": "pre_existing",
+      "original_cz": "Moji přátelé si ze mě dělají legraci... kvůli něčemu."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Being an outcast.",
+      "cz": "Být vyvrhelem.",
+      "source": "pre_existing",
+      "original_cz": "Být vyvrhelem."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "I mostly remember a lot of sadness.",
+      "cz": "Většinou si pamatuji hodně smutku.",
+      "source": "pre_existing",
+      "original_cz": "Většinou si pamatuji hodně smutku."
+    },
+    {
+      "key": "TheForgotten_002_f",
+      "en": "Sounds pretty dark. I'm definitely in.",
+      "cz": "Zní to dost temně. Rozhodně jdu pro.",
+      "source": "pre_existing",
+      "original_cz": "Zní to dost temně. Rozhodně jdu pro."
+    },
+    {
+      "key": "TheForgotten_003_f",
+      "en": "Thank you! Meet me <Lore>in the secret chamber in the Frosted Heights</Lore> in a little bit, and we'll get you ready for your close-up.",
+      "cz": "Děkuji! Sejdeme se za chvilku <Lore>v tajné komnatě v Mrázných výšinách</Lore> a připravíme vás na detailní záběr.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji! Sejdeme se za chvilku <Lore>v tajné komnatě v Mrázných výšinách</Lore> a připravíme vás na detailní záběr."
+    },
+    {
+      "key": "TheForgotten_017_f",
+      "en": "Ultimately, I need someone who really understands me, and that's what makes you a good fit.",
+      "cz": "V konečném důsledku potřebuji někoho, kdo mi opravdu rozumí, a to je to, co z tebe dělá dobrou volbu.",
+      "source": "pre_existing",
+      "original_cz": "V konečném důsledku potřebuji někoho, kdo mi opravdu rozumí, a to je to, co z tebe dělá dobrou volbu."
+    },
+    {
+      "key": "TheForgotten_018_f",
+      "en": "But I still think you're a good fit. I need someone who really understands me.",
+      "cz": "Ale pořád si myslím, že se k nám hodíš. Potřebuji někoho, kdo mi opravdu rozumí.",
+      "source": "pre_existing",
+      "original_cz": "Ale pořád si myslím, že se k nám hodíš. Potřebuji někoho, kdo mi opravdu rozumí."
+    }
+  ],
+  "InsideOut_TheForgotten/TheForgotten_VLG_Joy_040_VLG_Joy_040_TalkTo08.locbin": [
+    {
+      "key": "TheForgotten_000_f",
+      "en": "Okay, and... action!",
+      "cz": "Dobře, a... akce!",
+      "source": "pre_existing",
+      "original_cz": "Dobře, a... akce!"
+    },
+    {
+      "key": "TheForgotten_001_f",
+      "en": "*ahem* Oh! Why would my friends hurt me so badly? And about something they know is so important to me?!",
+      "cz": "*ehm* Ach! Proč by mi moji přátelé tak ubližovali? A ještě k něčemu, o čem vědí, že je pro mě tak důležité?!",
+      "source": "pre_existing",
+      "original_cz": "*ehm* Ach! Proč by mi moji přátelé tak ubližovali? A ještě k něčemu, o čem vědí, že je pro mě tak důležité?!"
+    },
+    {
+      "key": "TheForgotten_005_f",
+      "en": "They... they called me names. They made me feel... uh...",
+      "cz": "Nadávali mi. Kvůli nim jsem se cítil... ehm...",
+      "source": "pre_existing",
+      "original_cz": "Nadávali mi. Kvůli nim jsem se cítil... ehm..."
+    },
+    {
+      "key": "Player_000_f",
+      "en": "Psst... Say:",
+      "cz": "Psst... Řekni:",
+      "source": "pre_existing",
+      "original_cz": "Psst... Řekni:"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "\"They made me feel rejected.\"",
+      "cz": "\"Cítila jsem se kvůli nim odmítnutá.\"",
+      "source": "pre_existing",
+      "original_cz": "\"Cítila jsem se kvůli nim odmítnutá.\""
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "\"They made me feel lonely.\"",
+      "cz": "\"Cítila jsem se kvůli nim osaměle.\"",
+      "source": "pre_existing",
+      "original_cz": "\"Cítila jsem se kvůli nim osaměle.\""
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "\"They made me feel embarrassed.\"",
+      "cz": "\"Cítila jsem se kvůli nim trapně.\"",
+      "source": "pre_existing",
+      "original_cz": "\"Cítila jsem se kvůli nim trapně.\""
+    },
+    {
+      "key": "TheForgotten_006_f",
+      "en": "\"They made me feel rejected.\"",
+      "cz": "\"Cítila jsem se kvůli nim odmítnutá.\"",
+      "source": "pre_existing",
+      "original_cz": "\"Cítila jsem se kvůli nim odmítnutá.\""
+    },
+    {
+      "key": "TheForgotten_009_f",
+      "en": "And WHY? All because I... um, I...",
+      "cz": "A PROČ? Protože já... ehm, já...",
+      "source": "pre_existing",
+      "original_cz": "A PROČ? Protože já... ehm, já..."
+    },
+    {
+      "key": "Player_001_f",
+      "en": "Psst... Say:",
+      "cz": "Psst... Řekni:",
+      "source": "pre_existing",
+      "original_cz": "Psst... Řekni:"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "\"Still have my baby blanket.\"",
+      "cz": "\"Pořád mám svou dětskou deku.\"",
+      "source": "pre_existing",
+      "original_cz": "\"Pořád mám svou dětskou deku.\""
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "\"Still cuddle my stuffed toy.\"",
+      "cz": "\"Pořád tulím svého plyšáka.\"",
+      "source": "pre_existing",
+      "original_cz": "\"Pořád tulím svého plyšáka.\""
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "\"Still need a hug before bed.\"",
+      "cz": "\"Pořád potřebuji obejmout před spaním.\"",
+      "source": "pre_existing",
+      "original_cz": "\"Pořád potřebuji obejmout před spaním.\""
+    },
+    {
+      "key": "TheForgotten_010_f",
+      "en": "\"Still have my baby blanket.\"",
+      "cz": "\"Pořád mám svou dětskou deku.\"",
+      "source": "pre_existing",
+      "original_cz": "\"Pořád mám svou dětskou deku.\""
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "I think I feel it too!",
+      "cz": "Myslím, že to taky cítím!",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že to taky cítím!"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "I guess we're doing something right.",
+      "cz": "Asi děláme něco správně.",
+      "source": "pre_existing",
+      "original_cz": "Asi děláme něco správně."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "I'm not sure I want to find it anymore.",
+      "cz": "Nejsem si jistý/á, jestli to ještě chci najít.",
+      "source": "pre_existing",
+      "original_cz": "Nejsem si jistý/á, jestli to ještě chci najít."
+    },
+    {
+      "key": "TheForgotten_013_f",
+      "en": "CUT!",
+      "cz": "STŘIH!",
+      "source": "pre_existing",
+      "original_cz": "STŘIH!"
+    },
+    {
+      "key": "TheForgotten_014_f",
+      "en": "I remember now! My friends invited me to a sleepover, but they made fun of me because I still needed comfort... They said it was \"baby-ish.\"",
+      "cz": "Teď si to pamatuju! Kamarádi mě pozvali na přespávání, ale dělali si ze mě legraci, protože jsem pořád potřebovala útěchu... Říkali, že je to „tak trochu miminkovské“.",
+      "source": "pre_existing",
+      "original_cz": "Teď si to pamatuju! Kamarádi mě pozvali na přespávání, ale dělali si ze mě legraci, protože jsem pořád potřebovala útěchu... Říkali, že je to „tak trochu miminkovské“."
+    },
+    {
+      "key": "TheForgotten_015_f",
+      "en": "That's so sad...",
+      "cz": "To je tak smutné...",
+      "source": "pre_existing",
+      "original_cz": "To je tak smutné..."
+    },
+    {
+      "key": "TheForgotten_016_f",
+      "en": "I decided on that day that I would \"grow up,\" but really I just wanted to fit in. I wasn't ready to grow up, not yet.",
+      "cz": "Toho dne jsem se rozhodl/a, že „dospěju“, ale ve skutečnosti jsem se jen chtěl/a začlenit. Nebyl/a jsem připraven/a dospět, ještě ne.",
+      "source": "pre_existing",
+      "original_cz": "Toho dne jsem se rozhodl/a, že „dospěju“, ale ve skutečnosti jsem se jen chtěl/a začlenit. Nebyl/a jsem připraven/a dospět, ještě ne."
+    },
+    {
+      "key": "TheForgotten_002_f",
+      "en": "This bear we've been finding... it's just like that comfort I needed. I destroyed it, hid it away...",
+      "cz": "Ten medvěd, kterého jsme našli... je přesně jako ta útěcha, kterou jsem potřeboval. Zničil jsem ho, schoval ho...",
+      "source": "pre_existing",
+      "original_cz": "Ten medvěd, kterého jsme našli... je přesně jako ta útěcha, kterou jsem potřeboval. Zničil jsem ho, schoval ho..."
+    },
+    {
+      "key": "TheForgotten_003_f",
+      "en": "I'm sorry, {PlayerName}. That sounds awful... and confusing.",
+      "cz": "Je mi líto, {PlayerName}. To zní hrozně... a matoucí.",
+      "source": "pre_existing",
+      "original_cz": "Je mi líto, {PlayerName}. To zní hrozně... a matoucí."
+    },
+    {
+      "key": "TheForgotten_004_f",
+      "en": "Oh... I think it worked. I can tell that the bear is somewhere around here.",
+      "cz": "Myslím, že to zabralo. Cítím, že medvěd je někde tady.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že to zabralo. Cítím, že medvěd je někde tady."
+    },
+    {
+      "key": "TheForgotten_017_f",
+      "en": "Maybe if I <Lore>fix the lighting</Lore> and we go through the scene again, the final bear piece will show up.",
+      "cz": "Možná kdybych <Lore>opravil osvětlení</Lore> a prošli si scénu znovu, objevil by se poslední kousek medvěda.",
+      "source": "pre_existing",
+      "original_cz": "Možná kdybych <Lore>opravil osvětlení</Lore> a prošli si scénu znovu, objevil by se poslední kousek medvěda."
+    },
+    {
+      "key": "TheForgotten_019_f",
+      "en": "I know it's hard, but all these feelings are why we're doing this, right?",
+      "cz": "Vím, že je to těžké, ale všechny tyhle pocity jsou důvodem, proč to děláme, že?",
+      "source": "pre_existing",
+      "original_cz": "Vím, že je to těžké, ale všechny tyhle pocity jsou důvodem, proč to děláme, že?"
+    },
+    {
+      "key": "TheForgotten_020_f",
+      "en": "Yeah, I guess so.",
+      "cz": "Jo, asi jo.",
+      "source": "pre_existing",
+      "original_cz": "Jo, asi jo."
+    },
+    {
+      "key": "TheForgotten_011_f",
+      "en": "\"Still cuddle my stuffed toy.\"",
+      "cz": "\"Pořád tulím svého plyšáka.\"",
+      "source": "pre_existing",
+      "original_cz": "\"Pořád tulím svého plyšáka.\""
+    },
+    {
+      "key": "TheForgotten_012_f",
+      "en": "\"Still need a hug before bed.\"",
+      "cz": "\"Pořád potřebuji obejmout před spaním.\"",
+      "source": "pre_existing",
+      "original_cz": "\"Pořád potřebuji obejmout před spaním.\""
+    },
+    {
+      "key": "TheForgotten_007_f",
+      "en": "\"They made me feel lonely.\"",
+      "cz": "\"Cítila jsem se kvůli nim osaměle.\"",
+      "source": "pre_existing",
+      "original_cz": "\"Cítila jsem se kvůli nim osaměle.\""
+    },
+    {
+      "key": "TheForgotten_008_f",
+      "en": "\"They made me feel embarrassed.\"",
+      "cz": "\"Cítila jsem se kvůli nim trapně.\"",
+      "source": "pre_existing",
+      "original_cz": "\"Cítila jsem se kvůli nim trapně.\""
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "Update11_Buzz/Buzz_VLG_Mula_070_VLG_Mula_070_BringItem01.locbin": [
+    {
+      "key": "Buzz_000_f",
+      "en": "Stellar work, {PlayerName}!",
+      "cz": "Hvězdná práce, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Hvězdná práce, {PlayerName}!"
+    },
+    {
+      "key": "Buzz_001_f",
+      "en": "Once again, you've proven that you're a critical member of the Dreamlight Valley Space Rangers!",
+      "cz": "Opět jsi dokázal/a, že jsi klíčovým členem Vesmírných Strážců z Údolí Světelných Světel!",
+      "source": "pre_existing",
+      "original_cz": "Opět jsi dokázal/a, že jsi klíčovým členem Vesmírných Strážců z Údolí Světelných Světel!"
+    },
+    {
+      "key": "Buzz_003_f",
+      "en": "Our mission here is complete! Now, I wonder what the rest of our team's up to...?",
+      "cz": "Naše mise je splněna! A teď by mě zajímalo, co chystá zbytek našeho týmu...?",
+      "source": "pre_existing",
+      "original_cz": "Naše mise je splněna! A teď by mě zajímalo, co chystá zbytek našeho týmu...?"
+    },
+    {
+      "key": "Buzz_002_f",
+      "en": "I'll note this in your Space Ranger training records.",
+      "cz": "Zaznamenám to do vašich výcvikových záznamů Vesmírných rangerů.",
+      "source": "pre_existing",
+      "original_cz": "Zaznamenám to do vašich výcvikových záznamů Vesmírných rangerů."
+    }
+  ],
+  "Update11_Buzz/Buzz_VLG_Mula_070_VLG_Mula_070_Ongoing01.locbin": [
+    {
+      "key": "Buzz_000_f",
+      "en": "We've got to find our flag, {PlayerName}! The fate of the entire galaxy hangs in the balance!",
+      "cz": "Musíme najít naši vlajku, {PlayerName}! Osud celé galaxie visí na vlásku!",
+      "source": "pre_existing",
+      "original_cz": "Musíme najít naši vlajku, {PlayerName}! Osud celé galaxie visí na vlásku!"
+    },
+    {
+      "key": "Buzz_001_f",
+      "en": "Ahem. Of course, that's not exactly true, but I think imagining high stakes is very motivating.",
+      "cz": "Ehm. To samozřejmě není úplně pravda, ale myslím, že představa vysokých sázek je velmi motivující.",
+      "source": "pre_existing",
+      "original_cz": "Ehm. To samozřejmě není úplně pravda, ale myslím, že představa vysokých sázek je velmi motivující."
+    }
+  ],
+  "Update11_Buzz/Buzz_VLG_Mula_070_VLG_Mula_070_Ongoing02.locbin": [
+    {
+      "key": "Buzz_000_f",
+      "en": "You were going to search for our <ActivityItem>Mini Flag</ActivityItem> somewhere sunny near trees and animal bones... I await your mission update!",
+      "cz": "Chtěl jsi hledat naši <ActivityItem>Miniflag</ActivityItem> někde na slunném místě poblíž stromů a zvířecích kostí... Čekám na tvé aktualizace mise!",
+      "source": "pre_existing",
+      "original_cz": "Chtěl jsi hledat naši <ActivityItem>Miniflag</ActivityItem> někde na slunném místě poblíž stromů a zvířecích kostí... Čekám na tvé aktualizace mise!"
+    }
+  ],
+  "Update11_Buzz/Buzz_VLG_Mula_070_VLG_Mula_070_TalkTo01.locbin": [
+    {
+      "key": "Buzz_000_f",
+      "en": "Glad you're here, {PlayerName}. You and I have serious work to do!",
+      "cz": "Rád jsi tady, {PlayerName}. Ty a já máme před sebou pořádnou práci!",
+      "source": "pre_existing",
+      "original_cz": "Rád jsi tady, {PlayerName}. Ty a já máme před sebou pořádnou práci!"
+    },
+    {
+      "key": "Buzz_001_f",
+      "en": "My clue was buried in front of my RV. It's just a drawing with a simple sun on it and some trees? Plus something else.",
+      "cz": "Moje indicie byla zahrabaná před mým karavanem. Je to jen kresba s jednoduchým sluncem a pár stromy? Plus něco dalšího.",
+      "source": "pre_existing",
+      "original_cz": "Moje indicie byla zahrabaná před mým karavanem. Je to jen kresba s jednoduchým sluncem a pár stromy? Plus něco dalšího."
+    },
+    {
+      "key": "Buzz_002_f",
+      "en": "What do you think?",
+      "cz": "Co si o tom myslíte?",
+      "source": "pre_existing",
+      "original_cz": "Co si o tom myslíte?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "The drawing is the location of your flag.",
+      "cz": "Kresba představuje umístění vaší vlajky.",
+      "source": "pre_existing",
+      "original_cz": "Kresba představuje umístění vaší vlajky."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I have ZERO idea...",
+      "cz": "Nemám ANI JEDNU POTĚŠENÍ...",
+      "source": "pre_existing",
+      "original_cz": "Nemám ANI JEDNU POTĚŠENÍ..."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "The Fairy Godmother does ART? Cute!",
+      "cz": "Víla kmotra dělá UMĚNÍ? Roztomilé!",
+      "source": "pre_existing",
+      "original_cz": "Víla kmotra dělá UMĚNÍ? Roztomilé!"
+    },
+    {
+      "key": "Buzz_004_f",
+      "en": "Of course! Let's have another look. Trees... Are those <Lore>animal bones</Lore>? And there's a <Lore>large sun</Lore> over the landscape.",
+      "cz": "Samozřejmě! Pojďme se podívat znovu. Stromy... Jsou to <Lore>zvířecí kosti</Lore>? A nad krajinou je <Lore>velké slunce</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě! Pojďme se podívat znovu. Stromy... Jsou to <Lore>zvířecí kosti</Lore>? A nad krajinou je <Lore>velké slunce</Lore>."
+    },
+    {
+      "key": "Buzz_008_f",
+      "en": "A <Lore>sunny place with trees and bones</Lore>? I'll have a look around.",
+      "cz": "<Lore>Slunné místo se stromy a kostmi</Lore>? Rozhlédnu se.",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Slunné místo se stromy a kostmi</Lore>? Rozhlédnu se."
+    },
+    {
+      "key": "Buzz_009_f",
+      "en": "Excellent! Remember: I had to <Lore>dig up our clue</Lore>, so you might have to dig up the flag. Bring your shovel!",
+      "cz": "Výborně! Nezapomeň: Musel jsem <Lore>vykopat naši stopu</Lore>, takže ty možná budeš muset vykopat vlajku. Přines si lopatu!",
+      "source": "pre_existing",
+      "original_cz": "Výborně! Nezapomeň: Musel jsem <Lore>vykopat naši stopu</Lore>, takže ty možná budeš muset vykopat vlajku. Přines si lopatu!"
+    },
+    {
+      "key": "Buzz_003_f",
+      "en": "Let's look together... Are those <Lore>animal bones</Lore>? Plus a <Lore>large sun</Lore> over the landscape...",
+      "cz": "Pojďme se podívat společně... Jsou to <Lore>zvířecí kosti</Lore>? Plus <Lore>velké slunce</Lore> nad krajinou...",
+      "source": "pre_existing",
+      "original_cz": "Pojďme se podívat společně... Jsou to <Lore>zvířecí kosti</Lore>? Plus <Lore>velké slunce</Lore> nad krajinou..."
+    },
+    {
+      "key": "Buzz_005_f",
+      "en": "Affirmative, it is adorable. But that doesn't help us find our Mini Flag.",
+      "cz": "Ano, je to rozkošné. Ale to nám nepomůže najít naši Minivlaječku.",
+      "source": "pre_existing",
+      "original_cz": "Ano, je to rozkošné. Ale to nám nepomůže najít naši Minivlaječku."
+    }
+  ],
+  "Update11_Buzz/Buzz_VLG_Mush_040_VLG_Mush_040_TalkTo01.locbin": [
+    {
+      "key": "Buzz_000_f",
+      "en": "Hey, Buzz... has Scar been bothering you lately?",
+      "cz": "Hej, Buzzi... obtěžuje tě v poslední době Scar?",
+      "source": "pre_existing",
+      "original_cz": "Hej, Buzzi... obtěžuje tě v poslední době Scar?"
+    },
+    {
+      "key": "Buzz_001_f",
+      "en": "Hmm... Although Scar and I settled things amicably in regards to our friendship...",
+      "cz": "Hmm... I když jsme se Scarem ohledně našeho přátelství vyřešili smírně...",
+      "source": "pre_existing",
+      "original_cz": "Hmm... I když jsme se Scarem ohledně našeho přátelství vyřešili smírně..."
+    },
+    {
+      "key": "Buzz_003_f",
+      "en": "...sometimes he pushes the boundaries of friendship too far.",
+      "cz": "...někdy posouvá hranice přátelství až příliš daleko.",
+      "source": "pre_existing",
+      "original_cz": "...někdy posouvá hranice přátelství až příliš daleko."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "That sounds bad.",
+      "cz": "To zní špatně.",
+      "source": "pre_existing",
+      "original_cz": "To zní špatně."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "What does that even MEAN?",
+      "cz": "Co to vůbec ZNAMENÁ?",
+      "source": "pre_existing",
+      "original_cz": "Co to vůbec ZNAMENÁ?"
+    },
+    {
+      "key": "Buzz_005_f",
+      "en": "Well, it isn't pleasant.",
+      "cz": "No, není to příjemné.",
+      "source": "pre_existing",
+      "original_cz": "No, není to příjemné."
+    },
+    {
+      "key": "Buzz_006_f",
+      "en": "Lately, Scar seems to enjoy knocking me into mud puddles. One bat of his paw and I go flying.",
+      "cz": "V poslední době si Scar zřejmě užívá, když mě sráží do kaluží bláta. Stačí mu jeden úder tlapky a já už jen lítám.",
+      "source": "pre_existing",
+      "original_cz": "V poslední době si Scar zřejmě užívá, když mě sráží do kaluží bláta. Stačí mu jeden úder tlapky a já už jen lítám."
+    },
+    {
+      "key": "Buzz_007_f",
+      "en": "It takes me hours to get the mud out of the buttons on my uniform.",
+      "cz": "Trvá mi hodiny, než setřu bláto z knoflíků na uniformě.",
+      "source": "pre_existing",
+      "original_cz": "Trvá mi hodiny, než setřu bláto z knoflíků na uniformě."
+    },
+    {
+      "key": "Buzz_008_f",
+      "en": "Sometimes days!",
+      "cz": "Někdy i dny!",
+      "source": "pre_existing",
+      "original_cz": "Někdy i dny!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Does he at least apologize?",
+      "cz": "Omluví se alespoň?",
+      "source": "pre_existing",
+      "original_cz": "Omluví se alespoň?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Maybe it's accidental?",
+      "cz": "Možná je to náhoda?",
+      "source": "pre_existing",
+      "original_cz": "Možná je to náhoda?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Mushu was right...",
+      "cz": "Mushu měl pravdu...",
+      "source": "pre_existing",
+      "original_cz": "Mushu měl pravdu..."
+    },
+    {
+      "key": "Buzz_010_f",
+      "en": "Negative. He laughs and saunters away.",
+      "cz": "Negativní. Zasměje se a odejde.",
+      "source": "pre_existing",
+      "original_cz": "Negativní. Zasměje se a odejde."
+    },
+    {
+      "key": "Buzz_013_f",
+      "en": "I'm sorry this happened, Buzz. Mushu and I are going to work on a solution.",
+      "cz": "Je mi líto, že se to stalo, Buzzi. S Mushu budeme pracovat na řešení.",
+      "source": "pre_existing",
+      "original_cz": "Je mi líto, že se to stalo, Buzzi. S Mushu budeme pracovat na řešení."
+    },
+    {
+      "key": "Buzz_009_f",
+      "en": "An optimistic but unlikely explanation. He always laughs right after it happens.",
+      "cz": "Optimistické, ale nepravděpodobné vysvětlení. Vždycky se hned po události zasměje.",
+      "source": "pre_existing",
+      "original_cz": "Optimistické, ale nepravděpodobné vysvětlení. Vždycky se hned po události zasměje."
+    },
+    {
+      "key": "Buzz_011_f",
+      "en": "Mushu?",
+      "cz": "Mushu?",
+      "source": "pre_existing",
+      "original_cz": "Mushu?"
+    },
+    {
+      "key": "Buzz_012_f",
+      "en": "He said he's got a feeling Scar is picking on smaller Villagers... I have to report back to him.",
+      "cz": "Řekl, že má pocit, že si Scar vybírá menší vesničany... Musím mu to nahlásit.",
+      "source": "pre_existing",
+      "original_cz": "Řekl, že má pocit, že si Scar vybírá menší vesničany... Musím mu to nahlásit."
+    },
+    {
+      "key": "Buzz_004_f",
+      "en": "It means... And this is tough for me to say...",
+      "cz": "Znamená to... A je pro mě těžké to říct...",
+      "source": "pre_existing",
+      "original_cz": "Znamená to... A je pro mě těžké to říct..."
+    },
+    {
+      "key": "Buzz_002_f",
+      "en": "... Scar is a villain. His interactions with me recently have done nothing to convince me otherwise!",
+      "cz": "... Scar je padouch. Jeho nedávné interakce se mnou mě nijak nepřesvědčily o opaku!",
+      "source": "pre_existing",
+      "original_cz": "... Scar je padouch. Jeho nedávné interakce se mnou mě nijak nepřesvědčily o opaku!"
+    }
+  ]
+}

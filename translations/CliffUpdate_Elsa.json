@@ -1,0 +1,542 @@
+{
+  "CliffUpdate_Elsa/Elsa_Discussion_Discussion007.locbin": [
+    {
+      "key": "Elsa_000_f",
+      "en": "{PlayerName}. I've been thinking about Olaf.",
+      "cz": "{PlayerName}. Přemýšlela jsem o Olafovi.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}. Přemýšlela jsem o Olafovi."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "What about him?",
+      "cz": "A co on?",
+      "source": "pre_existing",
+      "original_cz": "A co on?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "He's a sweetheart.",
+      "cz": "Je to zlatíčko.",
+      "source": "pre_existing",
+      "original_cz": "Je to zlatíčko."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "He's annoying.",
+      "cz": "Je otravný.",
+      "source": "pre_existing",
+      "original_cz": "Je otravný."
+    },
+    {
+      "key": "Elsa_001_f",
+      "en": "About what he represents.",
+      "cz": "O tom, co představuje.",
+      "source": "pre_existing",
+      "original_cz": "O tom, co představuje."
+    },
+    {
+      "key": "Elsa_002_f",
+      "en": "He was the first living being I made out of snow. I've started being more careful about making life.",
+      "cz": "Byl to první živý tvor, kterého jsem vytvořila ze sněhu. Začala jsem být opatrnější při vytváření života.",
+      "source": "pre_existing",
+      "original_cz": "Byl to první živý tvor, kterého jsem vytvořila ze sněhu. Začala jsem být opatrnější při vytváření života."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "That's smart.",
+      "cz": "To je chytré.",
+      "source": "pre_existing",
+      "original_cz": "To je chytré."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "No! Make an army of tiny snowmen!",
+      "cz": "Ne! Udělejte armádu malých sněhuláků!",
+      "source": "pre_existing",
+      "original_cz": "Ne! Udělejte armádu malých sněhuláků!"
+    },
+    {
+      "key": "Elsa_003_f",
+      "en": "I hope so. I just feel responsible for anything I create.",
+      "cz": "Doufám. Prostě se cítím zodpovědná za cokoli, co vytvořím.",
+      "source": "pre_existing",
+      "original_cz": "Doufám. Prostě se cítím zodpovědná za cokoli, co vytvořím."
+    },
+    {
+      "key": "Elsa_004_f",
+      "en": "I kind of already did. I had a cold. And I accidentally made snowmen when I sneezed.",
+      "cz": "Už jsem to tak nějak udělala. Byla jsem nachlazená. A omylem jsem udělala sněhuláky, když jsem kýchla.",
+      "source": "pre_existing",
+      "original_cz": "Už jsem to tak nějak udělala. Byla jsem nachlazená. A omylem jsem udělala sněhuláky, když jsem kýchla."
+    },
+    {
+      "key": "Elsa_005_f",
+      "en": "There are a lot of them. And I feel responsible for all of them. Probably no more living snowmen for a while.",
+      "cz": "Je jich spousta. A cítím se za všechny zodpovědná. Pravděpodobně už nějakou dobu žádní živí sněhuláci.",
+      "source": "pre_existing",
+      "original_cz": "Je jich spousta. A cítím se za všechny zodpovědná. Pravděpodobně už nějakou dobu žádní živí sněhuláci."
+    },
+    {
+      "key": "Elsa_006_f",
+      "en": "I'm also very fond of him.",
+      "cz": "Taky ho mám moc ráda.",
+      "source": "pre_existing",
+      "original_cz": "Taky ho mám moc ráda."
+    },
+    {
+      "key": "Elsa_007_f",
+      "en": "He can be a little exasperating at times.",
+      "cz": "Někdy dokáže být trochu otravný.",
+      "source": "pre_existing",
+      "original_cz": "Někdy dokáže být trochu otravný."
+    }
+  ],
+  "CliffUpdate_Elsa/Elsa_MRQS110_MRQS110_LoveIsLove_TalkTo04.locbin": [
+    {
+      "key": "Elsa_000_f",
+      "en": "{PlayerName}! Thank goodness you're here! I've been doing everything I can to try to stop the blizzard in the Frosted Heights.",
+      "cz": "{PlayerName}! Díky bohu, že jsi tady! Dělám vše, co je v mých silách, abych zastavila vánici v Mrázných výšinách.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}! Díky bohu, že jsi tady! Dělám vše, co je v mých silách, abych zastavila vánici v Mrázných výšinách."
+    },
+    {
+      "key": "Elsa_001_f",
+      "en": "But nothing I do seems to work. It has some sort of dark Dreamlight Magic feeding it.",
+      "cz": "Ale nic, co dělám, nefunguje. Živí ho nějaká temná magie snového světla.",
+      "source": "pre_existing",
+      "original_cz": "Ale nic, co dělám, nefunguje. Živí ho nějaká temná magie snového světla."
+    },
+    {
+      "key": "Elsa_002_f",
+      "en": "I think I might have found the key to fixing it. But I do need your help.",
+      "cz": "Myslím, že jsem možná našla klíč k opravě. Ale potřebuji tvou pomoc.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že jsem možná našla klíč k opravě. Ale potřebuji tvou pomoc."
+    },
+    {
+      "key": "Elsa_003_f",
+      "en": "Of course. Anything. Just tell me what I should do.",
+      "cz": "Samozřejmě. Cokoliv. Jen mi řekněte, co mám dělat.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě. Cokoliv. Jen mi řekněte, co mám dělat."
+    },
+    {
+      "key": "Elsa_004_f",
+      "en": "I went to the center of the blizzard and found a secret chamber full of strange magical experiments.",
+      "cz": "Šla jsem do středu vánice a našla jsem tajnou komnatu plnou podivných magických experimentů.",
+      "source": "pre_existing",
+      "original_cz": "Šla jsem do středu vánice a našla jsem tajnou komnatu plnou podivných magických experimentů."
+    },
+    {
+      "key": "Elsa_005_f",
+      "en": "And that's not all. I found Olaf inside!",
+      "cz": "A to není všechno. Našla jsem uvnitř Olafa!",
+      "source": "pre_existing",
+      "original_cz": "A to není všechno. Našla jsem uvnitř Olafa!"
+    },
+    {
+      "key": "Elsa_006_f",
+      "en": "Olaf! Oh, what a relief! Anna and I have been so worried about him. Did he know anything about the blizzard?",
+      "cz": "Olafe! To je ale úleva! S Annou jsme si o něj dělaly velké starosti. Věděl vůbec něco o té vánici?",
+      "source": "pre_existing",
+      "original_cz": "Olafe! To je ale úleva! S Annou jsme si o něj dělaly velké starosti. Věděl vůbec něco o té vánici?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Yes! He's helping me.",
+      "cz": "Ano! Pomáhá mi.",
+      "source": "pre_existing",
+      "original_cz": "Ano! Pomáhá mi."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "He knew a little. But we need to find out more.",
+      "cz": "Něco málo věděl. Ale musíme zjistit víc.",
+      "source": "pre_existing",
+      "original_cz": "Něco málo věděl. Ale musíme zjistit víc."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Not really. He got me to chase some squirrels around.",
+      "cz": "Ani ne. Donutil mě honit veverky.",
+      "source": "pre_existing",
+      "original_cz": "Ani ne. Donutil mě honit veverky."
+    },
+    {
+      "key": "Elsa_007_f",
+      "en": "Good. What did he tell you?",
+      "cz": "Dobře. Co ti řekl?",
+      "source": "pre_existing",
+      "original_cz": "Dobře. Co ti řekl?"
+    },
+    {
+      "key": "Elsa_008_f",
+      "en": "Olaf's arms are missing. He says the last thing he remembers is that they were holding on to the Orb. We need that to restore the Pillar.",
+      "cz": "Olafovi chybí paže. Říká, že poslední věc, kterou si pamatuje, je, že se držely Orbu. To potřebujeme k obnovení Pilíře.",
+      "source": "pre_existing",
+      "original_cz": "Olafovi chybí paže. Říká, že poslední věc, kterou si pamatuje, je, že se držely Orbu. To potřebujeme k obnovení Pilíře."
+    },
+    {
+      "key": "Elsa_009_f",
+      "en": "But he doesn't know where to find them. He said something about... water having memory?",
+      "cz": "Ale neví, kde je najít. Říkal něco o... vodě, která má paměť?",
+      "source": "pre_existing",
+      "original_cz": "Ale neví, kde je najít. Říkal něco o... vodě, která má paměť?"
+    },
+    {
+      "key": "Elsa_010_f",
+      "en": "That's it! Olaf can be a bit of a genius. But I'm not sure my powers will help. Whatever happened may not be tied closely enough to me.",
+      "cz": "To je ono! Olaf může být trochu génius. Ale nejsem si jistá, jestli mi moje schopnosti pomůžou. Ať se stalo cokoli, možná to se mnou není dostatečně úzce spjato.",
+      "source": "pre_existing",
+      "original_cz": "To je ono! Olaf může být trochu génius. Ale nejsem si jistá, jestli mi moje schopnosti pomůžou. Ať se stalo cokoli, možná to se mnou není dostatečně úzce spjato."
+    },
+    {
+      "key": "Elsa_011_f",
+      "en": "But you might be able to do it. In the past, your Royal Watering Can could <Lore>draw out the memories held by water.</Lore>",
+      "cz": "Ale možná to dokážeš. V minulosti tvá Královská konvice na zalévání dokázala <Lore>vytáhnout vzpomínky uchovávané vodou.</Lore>",
+      "source": "pre_existing",
+      "original_cz": "Ale možná to dokážeš. V minulosti tvá Královská konvice na zalévání dokázala <Lore>vytáhnout vzpomínky uchovávané vodou.</Lore>"
+    },
+    {
+      "key": "Elsa_012_f",
+      "en": "Hm. Then maybe we could find out exactly what happened to the Orb. Do you think my Watering Can still has that power...? I wouldn't know where to start.",
+      "cz": "Hm. Pak bychom možná mohli zjistit, co se přesně stalo s Koulí. Myslíš, že moje konvice na zalévání má stále tu moc...? Nevím, kde začít.",
+      "source": "pre_existing",
+      "original_cz": "Hm. Pak bychom možná mohli zjistit, co se přesně stalo s Koulí. Myslíš, že moje konvice na zalévání má stále tu moc...? Nevím, kde začít."
+    },
+    {
+      "key": "Elsa_013_f",
+      "en": "My friend Grand Pabbie would say to start where things began. And that would be <Lore>the Pillar in the Frosted Heights.</Lore> I'll keep trying to fend off this blizzard while you investigate.",
+      "cz": "Můj přítel Grand Pabbie by řekl, abychom začali tam, kde všechno začalo. A to by byl <Lore>Sloup v Mrázných výšinách.</Lore> Budu se snažit odrazit tuhle vánici, zatímco ty budeš vyšetřovat.",
+      "source": "pre_existing",
+      "original_cz": "Můj přítel Grand Pabbie by řekl, abychom začali tam, kde všechno začalo. A to by byl <Lore>Sloup v Mrázných výšinách.</Lore> Budu se snažit odrazit tuhle vánici, zatímco ty budeš vyšetřovat."
+    },
+    {
+      "key": "Elsa_014_f",
+      "en": "Just hold out your Watering Can and <Lore>focus your magic</Lore> near the Pillar.",
+      "cz": "Jen natáhni svou konvici a <Lore>zaměř svou magii</Lore> blízko pilíře.",
+      "source": "pre_existing",
+      "original_cz": "Jen natáhni svou konvici a <Lore>zaměř svou magii</Lore> blízko pilíře."
+    },
+    {
+      "key": "Elsa_015_f",
+      "en": "What did he say?",
+      "cz": "Co říkal?",
+      "source": "pre_existing",
+      "original_cz": "Co říkal?"
+    },
+    {
+      "key": "Elsa_016_f",
+      "en": "That does sound like Olaf. What did he tell you?",
+      "cz": "To zní jako Olaf. Co ti řekl?",
+      "source": "pre_existing",
+      "original_cz": "To zní jako Olaf. Co ti řekl?"
+    }
+  ],
+  "CliffUpdate_Elsa/Elsa_MRQS110_MRQS110_LoveIsLove_TalkTo06.locbin": [
+    {
+      "key": "Elsa_000_f",
+      "en": "Hello, {PlayerName}. Did your Watering Can uncover anything?",
+      "cz": "Ahoj, {PlayerName}. Odhalila tvá konvice něco?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}. Odhalila tvá konvice něco?"
+    },
+    {
+      "key": "Elsa_001_f",
+      "en": "I saw the Forgotten taking the Orb from the Pillar.",
+      "cz": "Viděla jsem, jak Zapomenutý bere Kouli z Pilíře.",
+      "source": "pre_existing",
+      "original_cz": "Viděla jsem, jak Zapomenutý bere Kouli z Pilíře."
+    },
+    {
+      "key": "Elsa_002_f",
+      "en": "Oh... Well, I've spent a lot of time talking to Merlin about the magic in this Village.",
+      "cz": "Ach... No, strávila jsem spoustu času mluvením s Merlinem o magii v této vesnici.",
+      "source": "pre_existing",
+      "original_cz": "Ach... No, strávila jsem spoustu času mluvením s Merlinem o magii v této vesnici."
+    },
+    {
+      "key": "Elsa_003_f",
+      "en": "He told me that the Pillars have protective charms on them to keep Dark Magic at bay.",
+      "cz": "Řekl mi, že Pilíře mají na sobě ochranná kouzla, která drží temnou magii na uzdě.",
+      "source": "pre_existing",
+      "original_cz": "Řekl mi, že Pilíře mají na sobě ochranná kouzla, která drží temnou magii na uzdě."
+    },
+    {
+      "key": "Elsa_004_f",
+      "en": "Maybe the Forgotten wanted to try using more dangerous kinds of magic, and the Pillar's protective aura was stopping that.",
+      "cz": "Možná chtěli Zapomenutí zkusit použít nebezpečnější druhy magie a ochranná aura Pilíře jim v tom bránila.",
+      "source": "pre_existing",
+      "original_cz": "Možná chtěli Zapomenutí zkusit použít nebezpečnější druhy magie a ochranná aura Pilíře jim v tom bránila."
+    },
+    {
+      "key": "Elsa_005_f",
+      "en": "Elsa, there's something I need to tell you. The Forgotten... they're a part of me. Some kind of splinter of myself that I left behind.",
+      "cz": "Elso, musím ti něco říct. Zapomenutí... jsou součástí mě. Jakýsi úlomek mě samotné, který jsem zanechala po sobě.",
+      "source": "pre_existing",
+      "original_cz": "Elso, musím ti něco říct. Zapomenutí... jsou součástí mě. Jakýsi úlomek mě samotné, který jsem zanechala po sobě."
+    },
+    {
+      "key": "Elsa_006_f",
+      "en": "I see... Well, I know that magic can do things like that. Olaf is a part of me. And he's sweet and kind. But so is Marshmallow, a much larger snowman I created. He's... Let's just say he's very protective.",
+      "cz": "Aha... No, vím, že magie dokáže takové věci. Olaf je součástí mě. A je milý a laskavý. Ale stejně tak Marshmallow, mnohem větší sněhulák, kterého jsem stvořila. Je... Řekněme, že je velmi ochranářský.",
+      "source": "pre_existing",
+      "original_cz": "Aha... No, vím, že magie dokáže takové věci. Olaf je součástí mě. A je milý a laskavý. Ale stejně tak Marshmallow, mnohem větší sněhulák, kterého jsem stvořila. Je... Řekněme, že je velmi ochranářský."
+    },
+    {
+      "key": "Elsa_007_f",
+      "en": "So if the Forgotten wanted to mess with Dark Magic... does that mean I did too?",
+      "cz": "Takže pokud si Zapomenutí chtěli zahrávat s temnou magií... znamená to, že jsem to udělala taky?",
+      "source": "pre_existing",
+      "original_cz": "Takže pokud si Zapomenutí chtěli zahrávat s temnou magií... znamená to, že jsem to udělala taky?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I would never mess with Dark Magic.",
+      "cz": "Nikdy bych si nezahrával s temnou magií.",
+      "source": "pre_existing",
+      "original_cz": "Nikdy bych si nezahrával s temnou magií."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "It's the only thing that makes sense.",
+      "cz": "To je jediná věc, která dává smysl.",
+      "source": "pre_existing",
+      "original_cz": "To je jediná věc, která dává smysl."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "It definitely sounds like something I would do.",
+      "cz": "Zní to jako něco, co bych udělal.",
+      "source": "pre_existing",
+      "original_cz": "Zní to jako něco, co bych udělal."
+    },
+    {
+      "key": "Elsa_008_f",
+      "en": "Maybe it's not about Dark Magic. Maybe it's about... letting go.",
+      "cz": "Možná to není o temné magii. Možná to je o... odpuštění.",
+      "source": "pre_existing",
+      "original_cz": "Možná to není o temné magii. Možná to je o... odpuštění."
+    },
+    {
+      "key": "Elsa_017_f",
+      "en": "Then I think you'll find the rest of your answers inside.",
+      "cz": "Myslím, že zbytek odpovědí najdeš uvnitř.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že zbytek odpovědí najdeš uvnitř."
+    },
+    {
+      "key": "Elsa_018_f",
+      "en": "I'll go <Lore>see if there are any more memories inside the secret chamber</Lore>.",
+      "cz": "Půjdu se <Lore>podívat, jestli jsou v tajné komnatě další vzpomínky</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Půjdu se <Lore>podívat, jestli jsou v tajné komnatě další vzpomínky</Lore>."
+    },
+    {
+      "key": "Elsa_009_f",
+      "en": "Maybe that's the part of yourself that the Forgotten represents. The part that can't let go of something.",
+      "cz": "Možná je to ta část tebe, kterou představuje Zapomenutý. Ta část, která se něčeho nedokáže vzdát.",
+      "source": "pre_existing",
+      "original_cz": "Možná je to ta část tebe, kterou představuje Zapomenutý. Ta část, která se něčeho nedokáže vzdát."
+    },
+    {
+      "key": "Elsa_010_f",
+      "en": "But... this would mean that the blizzard, the Forgetting... Could all of this be my fault?",
+      "cz": "Ale... to by znamenalo, že ta vánice, to Zapomnění... Mohla by to všechno být moje chyba?",
+      "source": "pre_existing",
+      "original_cz": "Ale... to by znamenalo, že ta vánice, to Zapomnění... Mohla by to všechno být moje chyba?"
+    },
+    {
+      "key": "Elsa_011_f",
+      "en": "What? No, {PlayerName}... this isn't your fault.",
+      "cz": "Cože? Ne, {PlayerName}... tohle není tvoje chyba.",
+      "source": "pre_existing",
+      "original_cz": "Cože? Ne, {PlayerName}... tohle není tvoje chyba."
+    },
+    {
+      "key": "Elsa_012_f",
+      "en": "Trust me. When it comes to starting magical blizzards that threaten to swallow up everything and everyone I love...",
+      "cz": "Věř mi. Když dojde na rozpoutání magických vánic, které hrozí pohltit všechno a všechny, které miluji...",
+      "source": "pre_existing",
+      "original_cz": "Věř mi. Když dojde na rozpoutání magických vánic, které hrozí pohltit všechno a všechny, které miluji..."
+    },
+    {
+      "key": "Elsa_013_f",
+      "en": "...I've got a little experience. Magic and emotions can make unintended things happen. The more you know about your magic, the more you'll be able to control it.",
+      "cz": "...Mám trochu zkušeností. Magie a emoce mohou způsobit nezamýšlené věci. Čím víc o své magii víš, tím lépe ji budeš moci ovládat.",
+      "source": "pre_existing",
+      "original_cz": "...Mám trochu zkušeností. Magie a emoce mohou způsobit nezamýšlené věci. Čím víc o své magii víš, tím lépe ji budeš moci ovládat."
+    },
+    {
+      "key": "Elsa_014_f",
+      "en": "What matters now is that you're here, trying to fix this.",
+      "cz": "Teď záleží na tom, že jsi tady a snažíš se to napravit.",
+      "source": "pre_existing",
+      "original_cz": "Teď záleží na tom, že jsi tady a snažíš se to napravit."
+    },
+    {
+      "key": "Elsa_015_f",
+      "en": "And I guess now we're one step closer to doing that.",
+      "cz": "A myslím, že teď jsme o krok blíž k dosažení tohoto cíle.",
+      "source": "pre_existing",
+      "original_cz": "A myslím, že teď jsme o krok blíž k dosažení tohoto cíle."
+    },
+    {
+      "key": "Elsa_016_f",
+      "en": "In the memory, it looked like Olaf saw the Forgotten running off with the Orb, and he followed them to the secret chamber.",
+      "cz": "Ve vzpomínce to vypadalo, jako by Olaf viděl Zapomenuté utíkat s Orbem, a následoval je do tajné komnaty.",
+      "source": "pre_existing",
+      "original_cz": "Ve vzpomínce to vypadalo, jako by Olaf viděl Zapomenuté utíkat s Orbem, a následoval je do tajné komnaty."
+    },
+    {
+      "key": "Elsa_019_f",
+      "en": "Just because you WANT to do something doesn't mean that you would ever do it.",
+      "cz": "Jen proto, že něco CHCEŠ udělat, neznamená, že to někdy uděláš.",
+      "source": "pre_existing",
+      "original_cz": "Jen proto, že něco CHCEŠ udělat, neznamená, že to někdy uděláš."
+    },
+    {
+      "key": "Elsa_020_f",
+      "en": "Well, you do seem to be a curious person. Sometimes things call to you, and you just have to follow.",
+      "cz": "No, zdá se, že jsi zvědavý člověk. Někdy tě věci volají a ty je prostě musíš následovat.",
+      "source": "pre_existing",
+      "original_cz": "No, zdá se, že jsi zvědavý člověk. Někdy tě věci volají a ty je prostě musíš následovat."
+    },
+    {
+      "key": "Elsa_021_f",
+      "en": "Maybe that's the part of yourself that the Forgotten represents. All that curiosity.",
+      "cz": "Možná je to ta část tebe, kterou Zapomenutý představuje. Všechna ta zvědavost.",
+      "source": "pre_existing",
+      "original_cz": "Možná je to ta část tebe, kterou Zapomenutý představuje. Všechna ta zvědavost."
+    },
+    {
+      "key": "Elsa_022_f",
+      "en": "But wait. That's not all.",
+      "cz": "Ale počkejte. To není všechno.",
+      "source": "pre_existing",
+      "original_cz": "Ale počkejte. To není všechno."
+    },
+    {
+      "key": "Elsa_023_f",
+      "en": "Elsa, the Forgotten looked just like... like...",
+      "cz": "Elso, Zapomenutá vypadala přesně jako... jako...",
+      "source": "pre_existing",
+      "original_cz": "Elso, Zapomenutá vypadala přesně jako... jako..."
+    },
+    {
+      "key": "Elsa_024_f",
+      "en": "...me.",
+      "cz": "...já.",
+      "source": "pre_existing",
+      "original_cz": "...já."
+    },
+    {
+      "key": "Elsa_025_f",
+      "en": "... Like you?",
+      "cz": "... Jako ty?",
+      "source": "pre_existing",
+      "original_cz": "... Jako ty?"
+    },
+    {
+      "key": "Elsa_026_f",
+      "en": "That's strange... Is it possible that the Forgotten is some part of yourself that you left behind?",
+      "cz": "To je zvláštní... Je možné, že Zapomenutý je nějaká část tebe, kterou jsi zanechal/a?",
+      "source": "pre_existing",
+      "original_cz": "To je zvláštní... Je možné, že Zapomenutý je nějaká část tebe, kterou jsi zanechal/a?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "A part of myself...? How?",
+      "cz": "Část sebe sama...? Jak?",
+      "source": "pre_existing",
+      "original_cz": "Část sebe sama...? Jak?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Elsa... is this all my fault?",
+      "cz": "Elso... je to všechno moje chyba?",
+      "source": "pre_existing",
+      "original_cz": "Elso... je to všechno moje chyba?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "We have to fix this.",
+      "cz": "Musíme to opravit.",
+      "source": "pre_existing",
+      "original_cz": "Musíme to opravit."
+    },
+    {
+      "key": "Elsa_027_f",
+      "en": "Well, I know that magic can make things like that happen. Olaf is a part of me. And he's sweet and kind.",
+      "cz": "No, vím, že magie dokáže takové věci způsobit. Olaf je součástí mě. A je milý a laskavý.",
+      "source": "pre_existing",
+      "original_cz": "No, vím, že magie dokáže takové věci způsobit. Olaf je součástí mě. A je milý a laskavý."
+    },
+    {
+      "key": "Elsa_028_f",
+      "en": "But so is Marshmallow, a much larger snowman I created. He's... Let's just say he's very protective.",
+      "cz": "Ale stejně tak Marshmallow, mnohem větší sněhulák, kterého jsem stvořila. Je... Řekněme, že je velmi ochranářský.",
+      "source": "pre_existing",
+      "original_cz": "Ale stejně tak Marshmallow, mnohem větší sněhulák, kterého jsem stvořila. Je... Řekněme, že je velmi ochranářský."
+    },
+    {
+      "key": "Elsa_029_f",
+      "en": "Maybe the Forgotten is some piece of yourself that you need to find a way to understand.",
+      "cz": "Možná je Zapomenutá část tebe sama, které potřebuješ porozumět.",
+      "source": "pre_existing",
+      "original_cz": "Možná je Zapomenutá část tebe sama, které potřebuješ porozumět."
+    },
+    {
+      "key": "Elsa_030_f",
+      "en": "What? No, {PlayerName}... this isn't your fault.",
+      "cz": "Cože? Ne, {PlayerName}... tohle není tvoje chyba.",
+      "source": "pre_existing",
+      "original_cz": "Cože? Ne, {PlayerName}... tohle není tvoje chyba."
+    },
+    {
+      "key": "Elsa_031_f",
+      "en": "Trust me. When it comes to starting magical blizzards that threaten to swallow up everything and everyone I love...",
+      "cz": "Věř mi. Když dojde na rozpoutání magických vánic, které hrozí pohltit všechno a všechny, které miluji...",
+      "source": "pre_existing",
+      "original_cz": "Věř mi. Když dojde na rozpoutání magických vánic, které hrozí pohltit všechno a všechny, které miluji..."
+    },
+    {
+      "key": "Elsa_032_f",
+      "en": "...I've got a little experience. Magic and emotions can make unintended things happen. The more you know about your magic, the more you'll be able to control it.",
+      "cz": "...Mám trochu zkušeností. Magie a emoce mohou způsobit nezamýšlené věci. Čím víc o své magii víš, tím lépe ji budeš moci ovládat.",
+      "source": "pre_existing",
+      "original_cz": "...Mám trochu zkušeností. Magie a emoce mohou způsobit nezamýšlené věci. Čím víc o své magii víš, tím lépe ji budeš moci ovládat."
+    },
+    {
+      "key": "Elsa_033_f",
+      "en": "Yes. And I know you're the one who can do that, {PlayerName}.",
+      "cz": "Ano. A vím, že to dokážeš ty, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Ano. A vím, že to dokážeš ty, {PlayerName}."
+    }
+  ],
+  "CliffUpdate_Elsa/Elsa_VLG_Olaf_020_VLG_Olaf_020_TalkTo03.locbin": [
+    {
+      "key": "Elsa_000_f",
+      "en": "You're making a snack and Remy told you to get some <ActivityItem>Pure Ice</ActivityItem>? That's interesting...",
+      "cz": "Děláš si svačinu a Remy ti řekl, abys koupila <ActivityItem>Čistý led</ActivityItem>? To je zajímavé...",
+      "source": "pre_existing",
+      "original_cz": "Děláš si svačinu a Remy ti řekl, abys koupila <ActivityItem>Čistý led</ActivityItem>? To je zajímavé..."
+    },
+    {
+      "key": "Elsa_001_f",
+      "en": "Well, who am I to question the master chef?",
+      "cz": "No, kdo jsem já, abych se zpochybňovala šéfkuchaře?",
+      "source": "pre_existing",
+      "original_cz": "No, kdo jsem já, abych se zpochybňovala šéfkuchaře?"
+    },
+    {
+      "key": "Elsa_002_f",
+      "en": "Here you go!",
+      "cz": "Tady to máte!",
+      "source": "pre_existing",
+      "original_cz": "Tady to máte!"
+    }
+  ]
+}

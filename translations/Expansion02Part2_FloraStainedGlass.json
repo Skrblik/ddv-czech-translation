@@ -1,0 +1,790 @@
+{
+  "Expansion02Part2_FloraStainedGlass/FloraStainedGlass_Greetings_Greeting001.locbin": [
+    {
+      "key": "FloraStainedGlass_000_f",
+      "en": "Oh, hello, dear!",
+      "cz": "Ahoj, drahý/drahá!",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, drahý/drahá!"
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Gotta go.",
+      "cz": "Musím jít.",
+      "source": "pre_existing",
+      "original_cz": "Musím jít."
+    }
+  ],
+  "Expansion02Part2_FloraStainedGlass/FloraStainedGlass_MRQS_E02_132_StoryBookWorld_MRQS_E02_132_StoryBookWorld_TalkTo01.locbin": [
+    {
+      "key": "FloraStainedGlass_004_f",
+      "en": "Why, hello dear!",
+      "cz": "Proč, ahoj drahý/drahá!",
+      "source": "pre_existing",
+      "original_cz": "Proč, ahoj drahý/drahá!"
+    },
+    {
+      "key": "FloraStainedGlass_000_f",
+      "en": "Be careful, Fauna! You mustn't startle someone so.",
+      "cz": "Buď opatrná, Fauno! Nesmíš nikoho takhle vylekat.",
+      "source": "pre_existing",
+      "original_cz": "Buď opatrná, Fauno! Nesmíš nikoho takhle vylekat."
+    },
+    {
+      "key": "FloraStainedGlass_001_f",
+      "en": "What's the matter, dear? Not accustomed to talking windows?",
+      "cz": "Co se děje, drahoušku? Nejsi zvyklá mluvit o oknech?",
+      "source": "pre_existing",
+      "original_cz": "Co se děje, drahoušku? Nejsi zvyklá mluvit o oknech?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "It's a bit out of the ordinary for me.",
+      "cz": "Je to pro mě trochu neobvyklé.",
+      "source": "pre_existing",
+      "original_cz": "Je to pro mě trochu neobvyklé."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I'm getting used to weird stuff happening in the Vale.",
+      "cz": "Zvykám si na divné věci, co se dějí v Údolí.",
+      "source": "pre_existing",
+      "original_cz": "Zvykám si na divné věci, co se dějí v Údolí."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Not weird. I talk to windows all the time.",
+      "cz": "Není to divné. Pořád mluvím s Windows.",
+      "source": "pre_existing",
+      "original_cz": "Není to divné. Pořád mluvím s Windows."
+    },
+    {
+      "key": "FloraStainedGlass_002_f",
+      "en": "Oh, but aren't you used to things being out of the ordinary, considering all the strange happenings in the Vale?",
+      "cz": "Ale nejsi zvyklý na to, že se věci dělají neobvykle, vzhledem ke všem těm podivným událostem v Údolí?",
+      "source": "pre_existing",
+      "original_cz": "Ale nejsi zvyklý na to, že se věci dělají neobvykle, vzhledem ke všem těm podivným událostem v Údolí?"
+    },
+    {
+      "key": "FloraStainedGlass_005_f",
+      "en": "Do come a little closer. The glass makes my eyes foggy. I can't see you clearly.",
+      "cz": "Pojď trochu blíž. Z toho skla se mi zamlžuje oči. Nevidím tě jasně.",
+      "source": "pre_existing",
+      "original_cz": "Pojď trochu blíž. Z toho skla se mi zamlžuje oči. Nevidím tě jasně."
+    },
+    {
+      "key": "FloraStainedGlass_018_f",
+      "en": "Why, Flora... that's not her!",
+      "cz": "Floro... to není ona!",
+      "source": "pre_existing",
+      "original_cz": "Floro... to není ona!"
+    },
+    {
+      "key": "FloraStainedGlass_020_f",
+      "en": "You're right! It isn't.",
+      "cz": "Máš pravdu! Není.",
+      "source": "pre_existing",
+      "original_cz": "Máš pravdu! Není."
+    },
+    {
+      "key": "FloraStainedGlass_014_f",
+      "en": "I'm afraid you're not who we were expecting to see, dear.",
+      "cz": "Obávám se, že nejsi ten, koho jsme očekávali, drahoušku.",
+      "source": "pre_existing",
+      "original_cz": "Obávám se, že nejsi ten, koho jsme očekávali, drahoušku."
+    },
+    {
+      "key": "FloraStainedGlass_017_f",
+      "en": "Not that we aren't happy to have some company.",
+      "cz": "Ne že bychom nebyli rádi, že máme nějakou společnost.",
+      "source": "pre_existing",
+      "original_cz": "Ne že bychom nebyli rádi, že máme nějakou společnost."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm {PlayerName}. I'm here to help Princess Aurora.",
+      "cz": "Jsem {PlayerName}. Jsem tu, abych pomohl princezně Auroře.",
+      "source": "pre_existing",
+      "original_cz": "Jsem {PlayerName}. Jsem tu, abych pomohl princezně Auroře."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Who were you expecting, exactly?",
+      "cz": "Koho jsi vlastně čekal/a?",
+      "source": "pre_existing",
+      "original_cz": "Koho jsi vlastně čekal/a?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Could you three try speaking one at a time? I'm getting confused!",
+      "cz": "Mohli byste zkusit mluvit vy tři jeden po druhém? Jsem z toho zmatený/á!",
+      "source": "pre_existing",
+      "original_cz": "Mohli byste zkusit mluvit vy tři jeden po druhém? Jsem z toho zmatený/á!"
+    },
+    {
+      "key": "FloraStainedGlass_007_f",
+      "en": "Ah! Then we want the same thing.",
+      "cz": "Aha! Pak chceme totéž.",
+      "source": "pre_existing",
+      "original_cz": "Aha! Pak chceme totéž."
+    },
+    {
+      "key": "FloraStainedGlass_010_f",
+      "en": "You see, we're <Lore>the good fairies</Lore> — Aurora's adopted aunts.",
+      "cz": "Víte, my jsme **dobré víly** – Aurořiny adoptivní tety.",
+      "source": "pre_existing",
+      "original_cz": "Víte, my jsme **dobré víly** – Aurořiny adoptivní tety."
+    },
+    {
+      "key": "FloraStainedGlass_011_f",
+      "en": "Oh, I'd say we're actually a magical reflection of ourselves that we left behind.",
+      "cz": "Řekl bych, že jsme vlastně magickým odrazem nás samých, který jsme zanechali za sebou.",
+      "source": "pre_existing",
+      "original_cz": "Řekl bych, že jsme vlastně magickým odrazem nás samých, který jsme zanechali za sebou."
+    },
+    {
+      "key": "FloraStainedGlass_038_f",
+      "en": "Don't think about it too hard, dear, or you'll get a headache.",
+      "cz": "Moc o tom nepřemýšlej, drahoušku, nebo tě bude bolet hlava.",
+      "source": "pre_existing",
+      "original_cz": "Moc o tom nepřemýšlej, drahoušku, nebo tě bude bolet hlava."
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "The good fairies? Who are you exactly?",
+      "cz": "Dobré víly? Kdo přesně jste?",
+      "source": "pre_existing",
+      "original_cz": "Dobré víly? Kdo přesně jste?"
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "How did you turn into a stained glass window?",
+      "cz": "Jak ses proměnil/a ve vitrážové okno?",
+      "source": "pre_existing",
+      "original_cz": "Jak ses proměnil/a ve vitrážové okno?"
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "How do I find Princess Aurora?",
+      "cz": "Jak najdu princeznu Auroru?",
+      "source": "pre_existing",
+      "original_cz": "Jak najdu princeznu Auroru?"
+    },
+    {
+      "key": "FloraStainedGlass_024_f",
+      "en": "Why, I'm Flora.",
+      "cz": "Vždyť já jsem Flora.",
+      "source": "pre_existing",
+      "original_cz": "Vždyť já jsem Flora."
+    },
+    {
+      "key": "FloraStainedGlass_039_f",
+      "en": "I'm Fauna!",
+      "cz": "Jsem Fauna!",
+      "source": "pre_existing",
+      "original_cz": "Jsem Fauna!"
+    },
+    {
+      "key": "FloraStainedGlass_048_f",
+      "en": "And I'm Merryweather. It's very nice to meet you.",
+      "cz": "A já jsem Merryweather. Moc mě těší, že tě poznávám.",
+      "source": "pre_existing",
+      "original_cz": "A já jsem Merryweather. Moc mě těší, že tě poznávám."
+    },
+    {
+      "key": "FloraStainedGlass_045_f",
+      "en": "We raised Princess Aurora from the time she was a baby and protected her from the evil witch Maleficent.",
+      "cz": "Vychovávali jsme princeznu Auroru od dětství a chránili jsme ji před zlou čarodějnicí Zlobou.",
+      "source": "pre_existing",
+      "original_cz": "Vychovávali jsme princeznu Auroru od dětství a chránili jsme ji před zlou čarodějnicí Zlobou."
+    },
+    {
+      "key": "FloraStainedGlass_025_f",
+      "en": "Oh, we haven't really transformed ourselves, dear. Why, we'd get quite hungry if we were windows.",
+      "cz": "Ach, my jsme se vlastně ještě neproměnili, drahoušku. Vždyť bychom měli docela hlad, kdybychom byli okna.",
+      "source": "pre_existing",
+      "original_cz": "Ach, my jsme se vlastně ještě neproměnili, drahoušku. Vždyť bychom měli docela hlad, kdybychom byli okna."
+    },
+    {
+      "key": "FloraStainedGlass_046_f",
+      "en": "These windows are merely echoes of us, left to carry our messages to Princess Aurora and others who might aid her.",
+      "cz": "Tato okna jsou jen ozvěnou nás samotných, kteří nám ponechávají vzkazy princezně Auroře a dalším, kteří by jí mohli pomoci.",
+      "source": "pre_existing",
+      "original_cz": "Tato okna jsou jen ozvěnou nás samotných, kteří nám ponechávají vzkazy princezně Auroře a dalším, kteří by jí mohli pomoci."
+    },
+    {
+      "key": "FloraStainedGlass_047_f",
+      "en": "And since we said all of this in the past, we can't tell you where we are now. But maybe you'll meet us for real one day.",
+      "cz": "A protože jsme tohle všechno říkali už v minulosti, nemůžeme vám říct, kde teď jsme. Ale možná se s námi jednou doopravdy setkáte.",
+      "source": "pre_existing",
+      "original_cz": "A protože jsme tohle všechno říkali už v minulosti, nemůžeme vám říct, kde teď jsme. Ale možná se s námi jednou doopravdy setkáte."
+    },
+    {
+      "key": "FloraStainedGlass_019_f",
+      "en": "Well, after someone locked her in this tower, we sealed Aurora away behind this door to protect her from—",
+      "cz": "No, poté, co ji někdo zamkl v této věži, jsme Auroru za těmito dveřmi zapečetili, abychom ji ochránili před—",
+      "source": "pre_existing",
+      "original_cz": "No, poté, co ji někdo zamkl v této věži, jsme Auroru za těmito dveřmi zapečetili, abychom ji ochránili před—"
+    },
+    {
+      "key": "FloraStainedGlass_026_f",
+      "en": "From— from... Hmm.",
+      "cz": "Z—z… Hmm.",
+      "source": "pre_existing",
+      "original_cz": "Z—z… Hmm."
+    },
+    {
+      "key": "FloraStainedGlass_049_f",
+      "en": "Don't leave our friend in suspense, Flora! We sealed her away to protect her from—",
+      "cz": "Nenechávej naši přítelkyni v nejistotě, Floro! Zapečetili jsme ji, abychom ji ochránili před—",
+      "source": "pre_existing",
+      "original_cz": "Nenechávej naši přítelkyni v nejistotě, Floro! Zapečetili jsme ji, abychom ji ochránili před—"
+    },
+    {
+      "key": "FloraStainedGlass_050_f",
+      "en": "Oh. How strange.",
+      "cz": "Ach. Jak zvláštní.",
+      "source": "pre_existing",
+      "original_cz": "Ach. Jak zvláštní."
+    },
+    {
+      "key": "FloraStainedGlass_051_f",
+      "en": "What's gotten into you two? Why, we did all of this to protect Aurora from... from...",
+      "cz": "Co to do vás dvou vjelo? Vždyť jsme tohle všechno udělali, abychom ochránili Auroru před... před...",
+      "source": "pre_existing",
+      "original_cz": "Co to do vás dvou vjelo? Vždyť jsme tohle všechno udělali, abychom ochránili Auroru před... před..."
+    },
+    {
+      "key": "FloraStainedGlass_022_f",
+      "en": "Oh fiddlesticks!",
+      "cz": "Ach ty blbosti!",
+      "source": "pre_existing",
+      "original_cz": "Ach ty blbosti!"
+    },
+    {
+      "key": "Player_004_choice_000_f",
+      "en": "What's wrong?",
+      "cz": "Co je špatně?",
+      "source": "pre_existing",
+      "original_cz": "Co je špatně?"
+    },
+    {
+      "key": "Player_004_choice_001_f",
+      "en": "Maleficent got your tongue?",
+      "cz": "Zloba ti chytila ​​jazyk?",
+      "source": "pre_existing",
+      "original_cz": "Zloba ti chytila ​​jazyk?"
+    },
+    {
+      "key": "Player_004_choice_002_f",
+      "en": "I should definitely incorporate \"Fiddlesticks!\" into my vocabulary more.",
+      "cz": "Rozhodně bych měl/a do své slovní zásoby častěji zařazovat slovo „Fiddlesticks!“.",
+      "source": "pre_existing",
+      "original_cz": "Rozhodně bych měl/a do své slovní zásoby častěji zařazovat slovo „Fiddlesticks!“."
+    },
+    {
+      "key": "FloraStainedGlass_023_f",
+      "en": "I'm afraid some <Lore>strange magic is stopping us from saying anything more</Lore> about the source of this magical muddle.",
+      "cz": "Obávám se, že nějaká **podivná magie** nám brání v tom, abychom řekli cokoli víc o zdroji tohoto magického zmatku.",
+      "source": "pre_existing",
+      "original_cz": "Obávám se, že nějaká **podivná magie** nám brání v tom, abychom řekli cokoli víc o zdroji tohoto magického zmatku."
+    },
+    {
+      "key": "FloraStainedGlass_028_f",
+      "en": "It's like it's been erased from our memories.",
+      "cz": "Je to, jako by to bylo vymazáno z našich pamětí.",
+      "source": "pre_existing",
+      "original_cz": "Je to, jako by to bylo vymazáno z našich pamětí."
+    },
+    {
+      "key": "FloraStainedGlass_029_f",
+      "en": "Maybe you're the one who can set this all right!",
+      "cz": "Možná jsi to ty, kdo tohle všechno dokáže dát do pořádku!",
+      "source": "pre_existing",
+      "original_cz": "Možná jsi to ty, kdo tohle všechno dokáže dát do pořádku!"
+    },
+    {
+      "key": "Player_005_choice_000_f",
+      "en": "Yep. That's kind of my thing.",
+      "cz": "Jo. To je tak trochu moje věc.",
+      "source": "pre_existing",
+      "original_cz": "Jo. To je tak trochu moje věc."
+    },
+    {
+      "key": "Player_005_choice_001_f",
+      "en": "What am I supposed to do?",
+      "cz": "Co mám dělat?",
+      "source": "pre_existing",
+      "original_cz": "Co mám dělat?"
+    },
+    {
+      "key": "Player_005_choice_002_f",
+      "en": "When can I be the one who takes a long nap?",
+      "cz": "Kdy můžu být já ten, kdo si dá dlouho zdřímnout?",
+      "source": "pre_existing",
+      "original_cz": "Kdy můžu být já ten, kdo si dá dlouho zdřímnout?"
+    },
+    {
+      "key": "FloraStainedGlass_037_f",
+      "en": "To help Aurora, you need only <Lore>pass through that door</Lore>.",
+      "cz": "Abys pomohl Auroře, stačí ti jen <Lore>projít těmi dveřmi</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Abys pomohl Auroře, stačí ti jen <Lore>projít těmi dveřmi</Lore>."
+    },
+    {
+      "key": "FloraStainedGlass_030_f",
+      "en": "And to pass through the door, you must find our <Lore>Three Enchanted Gifts</Lore>.",
+      "cz": "A abyste prošli dveřmi, musíte najít naše <Lore>Tři kouzelné dary</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "A abyste prošli dveřmi, musíte najít naše <Lore>Tři kouzelné dary</Lore>."
+    },
+    {
+      "key": "FloraStainedGlass_032_f",
+      "en": "<Lore>The Sword of Truth.</Lore>",
+      "cz": "<Lore>Meč pravdy.</Lore>",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Meč pravdy.</Lore>"
+    },
+    {
+      "key": "FloraStainedGlass_056_f",
+      "en": "<Lore>The Shield of Virtue.</Lore>",
+      "cz": "<Lore>Štít ctnosti.</Lore>",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Štít ctnosti.</Lore>"
+    },
+    {
+      "key": "FloraStainedGlass_057_f",
+      "en": "And the <Lore>Cap of Song</Lore>!",
+      "cz": "A **Víčko písně**!",
+      "source": "pre_existing",
+      "original_cz": "A **Víčko písně**!"
+    },
+    {
+      "key": "FloraStainedGlass_031_f",
+      "en": "Only someone worthy can find and wield them.",
+      "cz": "Pouze někdo hodný je může najít a ovládat.",
+      "source": "pre_existing",
+      "original_cz": "Pouze někdo hodný je může najít a ovládat."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "I'll try to find them.",
+      "cz": "Zkusím je najít.",
+      "source": "pre_existing",
+      "original_cz": "Zkusím je najít."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Do you think I'm worthy enough?",
+      "cz": "Myslíš, že jsem dost hodný/á?",
+      "source": "pre_existing",
+      "original_cz": "Myslíš, že jsem dost hodný/á?"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Did you say something about gifts? I love gifts. Say no more. I'M SO IN.",
+      "cz": "Říkal jsi něco o dárcích? Miluju dárky. Už neříkej. JSEM DO NICH ÚPLNĚ IN.",
+      "source": "pre_existing",
+      "original_cz": "Říkal jsi něco o dárcích? Miluju dárky. Už neříkej. JSEM DO NICH ÚPLNĚ IN."
+    },
+    {
+      "key": "FloraStainedGlass_034_f",
+      "en": "The first test is always being bold enough to take the first step, isn't it?",
+      "cz": "První zkouškou je vždycky být dostatečně odvážný a udělat první krok, že?",
+      "source": "pre_existing",
+      "original_cz": "První zkouškou je vždycky být dostatečně odvážný a udělat první krok, že?"
+    },
+    {
+      "key": "FloraStainedGlass_015_f",
+      "en": "I'll open the door to the first chamber for you.",
+      "cz": "Otevřu ti dveře do první komnaty.",
+      "source": "pre_existing",
+      "original_cz": "Otevřu ti dveře do první komnaty."
+    },
+    {
+      "key": "FloraStainedGlass_033_f",
+      "en": "In each chamber, you'll face tests of your bravery, your kindness, and your wit.",
+      "cz": "V každé komnatě budete čelit zkouškám své statečnosti, laskavosti a důvtipu.",
+      "source": "pre_existing",
+      "original_cz": "V každé komnatě budete čelit zkouškám své statečnosti, laskavosti a důvtipu."
+    },
+    {
+      "key": "FloraStainedGlass_058_f",
+      "en": "Think like Princess Aurora, dear, and you'll do just fine.",
+      "cz": "Mysli jako princezna Aurora, drahá, a budeš si jistá.",
+      "source": "pre_existing",
+      "original_cz": "Mysli jako princezna Aurora, drahá, a budeš si jistá."
+    },
+    {
+      "key": "FloraStainedGlass_035_f",
+      "en": "There's only one way to find out. You've made it this far, haven't you?",
+      "cz": "Existuje jen jeden způsob, jak to zjistit. Dostal ses až sem, že?",
+      "source": "pre_existing",
+      "original_cz": "Existuje jen jeden způsob, jak to zjistit. Dostal ses až sem, že?"
+    },
+    {
+      "key": "FloraStainedGlass_036_f",
+      "en": "Be careful. If you aren't after the treasures for the right reasons, you won't be able to wield them.",
+      "cz": "Buďte opatrní. Pokud poklady nehledáte ze správných důvodů, nebudete je moci ovládat.",
+      "source": "pre_existing",
+      "original_cz": "Buďte opatrní. Pokud poklady nehledáte ze správných důvodů, nebudete je moci ovládat."
+    },
+    {
+      "key": "FloraStainedGlass_043_f",
+      "en": "Oh, I doubt Aurora's sleeping, dear. She's not very fond of naps.",
+      "cz": "Pochybuji, že Aurora spí, drahoušku. Nemá moc ráda zdřímnutí.",
+      "source": "pre_existing",
+      "original_cz": "Pochybuji, že Aurora spí, drahoušku. Nemá moc ráda zdřímnutí."
+    },
+    {
+      "key": "FloraStainedGlass_044_f",
+      "en": "To find her, you need only <Lore>pass through this door</Lore>.",
+      "cz": "Abyste ji našli, stačí vám <Lore>projít těmito dveřmi</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Abyste ji našli, stačí vám <Lore>projít těmito dveřmi</Lore>."
+    },
+    {
+      "key": "FloraStainedGlass_041_f",
+      "en": "*gasp* Don't even utter her wicked name.",
+      "cz": "*zalapej po dechu* Ani nevyslovuj její zlé jméno.",
+      "source": "pre_existing",
+      "original_cz": "*zalapej po dechu* Ani nevyslovuj její zlé jméno."
+    },
+    {
+      "key": "FloraStainedGlass_054_f",
+      "en": "Ugh! Maleficent!",
+      "cz": "Fuj! Zloba!",
+      "source": "pre_existing",
+      "original_cz": "Fuj! Zloba!"
+    },
+    {
+      "key": "FloraStainedGlass_055_f",
+      "en": "Merryweather has some rather strong thoughts on Maleficent.",
+      "cz": "Merryweather má o Zlobě docela silné názory.",
+      "source": "pre_existing",
+      "original_cz": "Merryweather má o Zlobě docela silné názory."
+    },
+    {
+      "key": "FloraStainedGlass_053_f",
+      "en": "Strong thoughts? Why, I'd like to turn her into an old hop toad!",
+      "cz": "Silné myšlenky? Vždyť bych z ní nejraději udělal starou ropuchu!",
+      "source": "pre_existing",
+      "original_cz": "Silné myšlenky? Vždyť bych z ní nejraději udělal starou ropuchu!"
+    },
+    {
+      "key": "FloraStainedGlass_042_f",
+      "en": "Besides, whatever's going on here has nothing to do with her. It's some other sort of wickedness.",
+      "cz": "Kromě toho, ať se tu děje cokoli, s ní to nemá nic společného. Je to nějaký jiný druh zlomyslnosti.",
+      "source": "pre_existing",
+      "original_cz": "Kromě toho, ať se tu děje cokoli, s ní to nemá nic společného. Je to nějaký jiný druh zlomyslnosti."
+    },
+    {
+      "key": "FloraStainedGlass_040_f",
+      "en": "You should. It works for lots of situations.",
+      "cz": "Měl bys. Funguje to v mnoha situacích.",
+      "source": "pre_existing",
+      "original_cz": "Měl bys. Funguje to v mnoha situacích."
+    },
+    {
+      "key": "FloraStainedGlass_008_f",
+      "en": "We were hoping to see Princess Aurora.",
+      "cz": "Doufali jsme, že uvidíme princeznu Auroru.",
+      "source": "pre_existing",
+      "original_cz": "Doufali jsme, že uvidíme princeznu Auroru."
+    },
+    {
+      "key": "FloraStainedGlass_009_f",
+      "en": "Good luck with that. SOME of us can't ever stop interrupting.",
+      "cz": "Hodně štěstí s tím. NĚKTEŘÍ z nás nikdy nedokážou přestat vyrušovat.",
+      "source": "pre_existing",
+      "original_cz": "Hodně štěstí s tím. NĚKTEŘÍ z nás nikdy nedokážou přestat vyrušovat."
+    },
+    {
+      "key": "FloraStainedGlass_021_f",
+      "en": "But we could try speaking a bit more slowly, if it might help.",
+      "cz": "Ale mohli bychom zkusit mluvit trochu pomaleji, pokud by to pomohlo.",
+      "source": "pre_existing",
+      "original_cz": "Ale mohli bychom zkusit mluvit trochu pomaleji, pokud by to pomohlo."
+    },
+    {
+      "key": "FloraStainedGlass_003_f",
+      "en": "The out of the ordinary is a bit ordinary here, isn't it?",
+      "cz": "To neobvyklé je tady trochu obyčejné, že?",
+      "source": "pre_existing",
+      "original_cz": "To neobvyklé je tady trochu obyčejné, že?"
+    },
+    {
+      "key": "FloraStainedGlass_012_f",
+      "en": "Well, I hope we're better conversationalists than those boring old leaded panes.",
+      "cz": "No, doufám, že budeme lepší konverzační lidé než ty nudné staré olověné tabulky.",
+      "source": "pre_existing",
+      "original_cz": "No, doufám, že budeme lepší konverzační lidé než ty nudné staré olověné tabulky."
+    }
+  ],
+  "Expansion02Part2_FloraStainedGlass/FloraStainedGlass_MRQS_E02_132_StoryBookWorld_MRQS_E02_132_StoryBookWorld_TalkTo07.locbin": [
+    {
+      "key": "FloraStainedGlass_000_f",
+      "en": "Well done, dear! You've passed all the tests.",
+      "cz": "Výborně, drahoušku! Zvládla jsi všechny zkoušky.",
+      "source": "pre_existing",
+      "original_cz": "Výborně, drahoušku! Zvládla jsi všechny zkoušky."
+    },
+    {
+      "key": "FloraStainedGlass_001_f",
+      "en": "Princess Aurora waits for you beyond these doors.",
+      "cz": "Princezna Aurora na tebe čeká za těmito dveřmi.",
+      "source": "pre_existing",
+      "original_cz": "Princezna Aurora na tebe čeká za těmito dveřmi."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I can't wait to meet her.",
+      "cz": "Nemůžu se dočkat, až ji potkám.",
+      "source": "pre_existing",
+      "original_cz": "Nemůžu se dočkat, až ji potkám."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I hope she's safe in there.",
+      "cz": "Doufám, že je tam v bezpečí.",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že je tam v bezpečí."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Should I practice my curtsy?",
+      "cz": "Mám si procvičovat pukrle?",
+      "source": "pre_existing",
+      "original_cz": "Mám si procvičovat pukrle?"
+    },
+    {
+      "key": "FloraStainedGlass_003_f",
+      "en": "I suspect the two of you will become fast friends.",
+      "cz": "Mám podezření, že se z vás dvou brzy stanou přáteli.",
+      "source": "pre_existing",
+      "original_cz": "Mám podezření, že se z vás dvou brzy stanou přáteli."
+    },
+    {
+      "key": "FloraStainedGlass_004_f",
+      "en": "Together, I know that you can stop the Neverafter.",
+      "cz": "Společně vím, že můžete zastavit Neverafter.",
+      "source": "pre_existing",
+      "original_cz": "Společně vím, že můžete zastavit Neverafter."
+    },
+    {
+      "key": "FloraStainedGlass_002_f",
+      "en": "You need only wield the <Lore>Shield of Virtue, Sword of Truth, and Cap of Song</Lore> to pass.",
+      "cz": "K úspěšnému projití stačí ovládat <Lore>Štít ctnosti, Meč pravdy a Čepici písně</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "K úspěšnému projití stačí ovládat <Lore>Štít ctnosti, Meč pravdy a Čepici písně</Lore>."
+    },
+    {
+      "key": "FloraStainedGlass_005_f",
+      "en": "We ensured that Aurora would be safe from all harm.",
+      "cz": "Zajistili jsme, aby Aurora byla v bezpečí před vším nebezpečím.",
+      "source": "pre_existing",
+      "original_cz": "Zajistili jsme, aby Aurora byla v bezpečí před vším nebezpečím."
+    },
+    {
+      "key": "FloraStainedGlass_006_f",
+      "en": "There will be time for curtsying later.",
+      "cz": "Na poklonkování bude čas později.",
+      "source": "pre_existing",
+      "original_cz": "Na poklonkování bude čas později."
+    }
+  ],
+  "Expansion02Part2_FloraStainedGlass/FloraStainedGlass_MRQS_E02_137_FloraTrial_MRQS_E02_137_FloraTrial_BringItem01.locbin": [
+    {
+      "key": "FloraStainedGlass_001_f",
+      "en": "You've triumphed in the Trial of Song.",
+      "cz": "Zvítězil jsi v Zkoušce písně.",
+      "source": "pre_existing",
+      "original_cz": "Zvítězil jsi v Zkoušce písně."
+    },
+    {
+      "key": "FloraStainedGlass_002_f",
+      "en": "Just as I knew you would.",
+      "cz": "Přesně jak jsem věděl/a, že uděláš.",
+      "source": "pre_existing",
+      "original_cz": "Přesně jak jsem věděl/a, že uděláš."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I wish I had as much confidence in myself as you do.",
+      "cz": "Přála bych si mít v sebe tolik sebevědomí jako ty.",
+      "source": "pre_existing",
+      "original_cz": "Přála bych si mít v sebe tolik sebevědomí jako ty."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "You three didn't make it easy.",
+      "cz": "Vy tři jste si to moc neulehčili.",
+      "source": "pre_existing",
+      "original_cz": "Vy tři jste si to moc neulehčili."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I didn't even break a sweat. You should make it harder next time.",
+      "cz": "Ani jsem se nepotil. Příště bys to měl ztížit.",
+      "source": "pre_existing",
+      "original_cz": "Ani jsem se nepotil. Příště bys to měl ztížit."
+    },
+    {
+      "key": "FloraStainedGlass_003_f",
+      "en": "The important thing is that you overcame your doubt.",
+      "cz": "Důležité je, že jsi překonal/a své pochybnosti.",
+      "source": "pre_existing",
+      "original_cz": "Důležité je, že jsi překonal/a své pochybnosti."
+    },
+    {
+      "key": "FloraStainedGlass_006_f",
+      "en": "I'll keep the <ActivityItem>Cap of Song</ActivityItem> safe for now. We have one last enchantment to weave on these gifts.",
+      "cz": "<ActivityItem>Čepici písně</ActivityItem> si prozatím schovám v bezpečí. Zbývá nám ještě jedno poslední kouzlo, které na tyto dary utkáme.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Čepici písně</ActivityItem> si prozatím schovám v bezpečí. Zbývá nám ještě jedno poslední kouzlo, které na tyto dary utkáme."
+    },
+    {
+      "key": "FloraStainedGlass_007_f",
+      "en": "Find us in the entrance hall and we'll bestow them all upon you once more.",
+      "cz": "Najdete nás ve vstupní hale a my vám je všechny znovu nabídneme.",
+      "source": "pre_existing",
+      "original_cz": "Najdete nás ve vstupní hale a my vám je všechny znovu nabídneme."
+    },
+    {
+      "key": "FloraStainedGlass_004_f",
+      "en": "We needed to be sure that whoever found these three gifts would be worthy of them.",
+      "cz": "Potřebovali jsme si být jisti, že kdokoli tyto tři dary najde, bude jich hoden.",
+      "source": "pre_existing",
+      "original_cz": "Potřebovali jsme si být jisti, že kdokoli tyto tři dary najde, bude jich hoden."
+    },
+    {
+      "key": "FloraStainedGlass_005_f",
+      "en": "Well, I hope the next time we meet, there's no need for such tests. I'd much rather share a good cup of tea.",
+      "cz": "Doufám, že až se příště setkáme, nebude potřeba takových testů. Raději si dám dobrý šálek čaje.",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že až se příště setkáme, nebude potřeba takových testů. Raději si dám dobrý šálek čaje."
+    }
+  ],
+  "Expansion02Part2_FloraStainedGlass/FloraStainedGlass_MRQS_E02_137_FloraTrial_MRQS_E02_137_FloraTrial_Ongoing01.locbin": [
+    {
+      "key": "FloraStainedGlass_000_f",
+      "en": "You must place the dancers' shadows, dear.",
+      "cz": "Musíš umístit stíny tanečníků, drahoušku.",
+      "source": "pre_existing",
+      "original_cz": "Musíš umístit stíny tanečníků, drahoušku."
+    }
+  ],
+  "Expansion02Part2_FloraStainedGlass/FloraStainedGlass_MRQS_E02_137_FloraTrial_MRQS_E02_137_FloraTrial_Ongoing02.locbin": [
+    {
+      "key": "FloraStainedGlass_000_f",
+      "en": "The instruments each have their proper place. That's the puzzle.",
+      "cz": "Každý nástroj má své správné místo. To je ta hádanka.",
+      "source": "pre_existing",
+      "original_cz": "Každý nástroj má své správné místo. To je ta hádanka."
+    }
+  ],
+  "Expansion02Part2_FloraStainedGlass/FloraStainedGlass_MRQS_E02_137_FloraTrial_MRQS_E02_137_FloraTrial_Ongoing03.locbin": [
+    {
+      "key": "FloraStainedGlass_000_f",
+      "en": "You've solved it! Now you have only to retrieve the gift.",
+      "cz": "Vyřešili jste to! Teď už jen musíte získat dárek.",
+      "source": "pre_existing",
+      "original_cz": "Vyřešili jste to! Teď už jen musíte získat dárek."
+    }
+  ],
+  "Expansion02Part2_FloraStainedGlass/FloraStainedGlass_MRQS_E02_137_FloraTrial_MRQS_E02_137_FloraTrial_Ongoing04.locbin": [
+    {
+      "key": "FloraStainedGlass_000_f",
+      "en": "Bring me the Crown, dear.",
+      "cz": "Přines mi Korunu, drahoušku.",
+      "source": "pre_existing",
+      "original_cz": "Přines mi Korunu, drahoušku."
+    }
+  ],
+  "Expansion02Part2_FloraStainedGlass/FloraStainedGlass_MRQS_E02_137_FloraTrial_MRQS_E02_137_FloraTrial_TalkTo01.locbin": [
+    {
+      "key": "FloraStainedGlass_000_f",
+      "en": "I had confidence you'd pass Merryweather and Fauna's tests, {PlayerName}.",
+      "cz": "Věřil jsem, že projdeš testy Merryweathera a Fauny, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Věřil jsem, že projdeš testy Merryweathera a Fauny, {PlayerName}."
+    },
+    {
+      "key": "FloraStainedGlass_001_f",
+      "en": "Now remember: These trials were meant to challenge Aurora. Fauna gave her the gift of song when she was born.",
+      "cz": "A teď si pamatujte: Tyto zkoušky měly Auroru prověřit. Fauna jí dala dar zpěvu, když se narodila.",
+      "source": "pre_existing",
+      "original_cz": "A teď si pamatujte: Tyto zkoušky měly Auroru prověřit. Fauna jí dala dar zpěvu, když se narodila."
+    },
+    {
+      "key": "FloraStainedGlass_002_f",
+      "en": "Do you have the gift of song?",
+      "cz": "Máš dar zpěvu?",
+      "source": "pre_existing",
+      "original_cz": "Máš dar zpěvu?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm very musically talented.",
+      "cz": "Jsem velmi hudebně talentovaný/á.",
+      "source": "pre_existing",
+      "original_cz": "Jsem velmi hudebně talentovaný/á."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Let me warm up first. Do re mi...",
+      "cz": "Nejdřív se zahřeju. Znovu mi...",
+      "source": "pre_existing",
+      "original_cz": "Nejdřív se zahřeju. Znovu mi..."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I couldn't carry a tune in a wheelbarrow.",
+      "cz": "Nemohl jsem nést melodii v trakaři.",
+      "source": "pre_existing",
+      "original_cz": "Nemohl jsem nést melodii v trakaři."
+    },
+    {
+      "key": "FloraStainedGlass_003_f",
+      "en": "Then you'll have no trouble at all.",
+      "cz": "Pak nebudete mít vůbec žádné potíže.",
+      "source": "pre_existing",
+      "original_cz": "Pak nebudete mít vůbec žádné potíže."
+    },
+    {
+      "key": "FloraStainedGlass_006_f",
+      "en": "First, you must find a way to <Lore>arrange the shadows of the dancers</Lore>.",
+      "cz": "Nejprve musíte najít způsob, jak <Lore>uspořádat stíny tanečníků</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Nejprve musíte najít způsob, jak <Lore>uspořádat stíny tanečníků</Lore>."
+    },
+    {
+      "key": "FloraStainedGlass_007_f",
+      "en": "Then, arrange the instruments correctly.",
+      "cz": "Pak nástroje správně uspořádejte.",
+      "source": "pre_existing",
+      "original_cz": "Pak nástroje správně uspořádejte."
+    },
+    {
+      "key": "FloraStainedGlass_008_f",
+      "en": "If you use the gift of song, you'll be just fine.",
+      "cz": "Pokud využiješ dar zpěvu, budeš v pořádku.",
+      "source": "pre_existing",
+      "original_cz": "Pokud využiješ dar zpěvu, budeš v pořádku."
+    },
+    {
+      "key": "FloraStainedGlass_004_f",
+      "en": "I'm sure you'll manage, dear.",
+      "cz": "Jsem si jistý/á, že to zvládneš, drahoušku.",
+      "source": "pre_existing",
+      "original_cz": "Jsem si jistý/á, že to zvládneš, drahoušku."
+    },
+    {
+      "key": "FloraStainedGlass_005_f",
+      "en": "Then you have quite a challenge ahead of you.",
+      "cz": "Pak vás čeká pořádná výzva.",
+      "source": "pre_existing",
+      "original_cz": "Pak vás čeká pořádná výzva."
+    }
+  ]
+}

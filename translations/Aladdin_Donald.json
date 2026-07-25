@@ -1,0 +1,244 @@
+{
+  "Aladdin_Donald/Donald_VLG_Jasm_040_VLG_Jasm_040_BringItem01.locbin": [
+    {
+      "key": "Donald_000_f",
+      "en": "Thank you, {PlayerName}. I feel much better since the fish disappeared.",
+      "cz": "Děkuji, {PlayerName}. Od té doby, co ryba zmizela, se cítím mnohem lépe.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji, {PlayerName}. Od té doby, co ryba zmizela, se cítím mnohem lépe."
+    },
+    {
+      "key": "Donald_001_f",
+      "en": "It seemed to be a pretty overwhelming situation! I'm glad I could help you out.",
+      "cz": "Zdálo se mi to jako dost složitá situace! Jsem rád, že jsem ti mohl pomoct.",
+      "source": "pre_existing",
+      "original_cz": "Zdálo se mi to jako dost složitá situace! Jsem rád, že jsem ti mohl pomoct."
+    },
+    {
+      "key": "Donald_002_f",
+      "en": "Now that I'm not smelling fish, I remembered something that you might want to know.",
+      "cz": "Teď, když už necítím rybu, jsem si vzpomněl na něco, co bys možná chtěl vědět.",
+      "source": "pre_existing",
+      "original_cz": "Teď, když už necítím rybu, jsem si vzpomněl na něco, co bys možná chtěl vědět."
+    },
+    {
+      "key": "Donald_005_f",
+      "en": "What is it?",
+      "cz": "Co je to?",
+      "source": "pre_existing",
+      "original_cz": "Co je to?"
+    },
+    {
+      "key": "Donald_003_f",
+      "en": "I saw Anna today. Usually, she's pretty happy, but she seemed upset.",
+      "cz": "Dnes jsem viděl Annu. Obvykle je docela šťastná, ale zdála se být rozrušená.",
+      "source": "pre_existing",
+      "original_cz": "Dnes jsem viděl Annu. Obvykle je docela šťastná, ale zdála se být rozrušená."
+    },
+    {
+      "key": "Donald_006_f",
+      "en": "She kept mumbling something about her House being in \"chocolate chaos.\" Seemed peculiar to me.",
+      "cz": "Pořád mumlala něco o tom, že její kolej je v „čokoládovém chaosu“. Připadalo mi to divné.",
+      "source": "pre_existing",
+      "original_cz": "Pořád mumlala něco o tom, že její kolej je v „čokoládovém chaosu“. Připadalo mi to divné."
+    },
+    {
+      "key": "Donald_004_f",
+      "en": "Oh boy. I'm going to <Lore>talk to Anna</Lore> and see what's going on.",
+      "cz": "Ach jo. Půjdu si <Lore>promluvit s Annou</Lore> a zjistit, co se děje.",
+      "source": "pre_existing",
+      "original_cz": "Ach jo. Půjdu si <Lore>promluvit s Annou</Lore> a zjistit, co se děje."
+    }
+  ],
+  "Aladdin_Donald/Donald_VLG_Jasm_040_VLG_Jasm_040_TalkTo01.locbin": [
+    {
+      "key": "Donald_000_f",
+      "en": "Hello, Donald! I heard you were having a problem with some fish?",
+      "cz": "Ahoj, Donalde! Slyšel jsem, že máš problém s nějakými rybami?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, Donalde! Slyšel jsem, že máš problém s nějakými rybami?"
+    },
+    {
+      "key": "Donald_001_f",
+      "en": "That's one way to put it.",
+      "cz": "To je jeden způsob, jak to říct.",
+      "source": "pre_existing",
+      "original_cz": "To je jeden způsob, jak to říct."
+    },
+    {
+      "key": "Donald_002_f",
+      "en": "I'm being TORMENTED by old stinky fish!",
+      "cz": "Trápí mě ta stará smradlavá ryba!",
+      "source": "pre_existing",
+      "original_cz": "Trápí mě ta stará smradlavá ryba!"
+    },
+    {
+      "key": "Donald_003_f",
+      "en": "Fish, fish, fish! Everywhere fish! And not even nice fresh fish either!",
+      "cz": "Ryby, ryby, ryby! Všude ryby! A ani nemíň čerstvé ryby!",
+      "source": "pre_existing",
+      "original_cz": "Ryby, ryby, ryby! Všude ryby! A ani nemíň čerstvé ryby!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Did someone bring them to you?",
+      "cz": "Přinesl vám je někdo?",
+      "source": "pre_existing",
+      "original_cz": "Přinesl vám je někdo?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Why not throw them out?",
+      "cz": "Proč je nevyhodit?",
+      "source": "pre_existing",
+      "original_cz": "Proč je nevyhodit?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Sounds like you need less fish.",
+      "cz": "Zdá se, že potřebujete méně ryb.",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že potřebujete méně ryb."
+    },
+    {
+      "key": "Donald_004_f",
+      "en": "No! They just appeared out of nowhere!",
+      "cz": "Ne! Prostě se objevili z ničeho nic!",
+      "source": "pre_existing",
+      "original_cz": "Ne! Prostě se objevili z ničeho nic!"
+    },
+    {
+      "key": "Donald_007_f",
+      "en": "It must be some sort of FISH MAGIC!",
+      "cz": "To musí být nějaké RYBÍ KOUZLO!",
+      "source": "pre_existing",
+      "original_cz": "To musí být nějaké RYBÍ KOUZLO!"
+    },
+    {
+      "key": "Donald_008_f",
+      "en": "Wait... Fish magic or WISH magic?",
+      "cz": "Počkej... Rybí magie, nebo magie PŘÁNÍ?",
+      "source": "pre_existing",
+      "original_cz": "Počkej... Rybí magie, nebo magie PŘÁNÍ?"
+    },
+    {
+      "key": "Donald_009_f",
+      "en": "Huh?",
+      "cz": "Cože?",
+      "source": "pre_existing",
+      "original_cz": "Cože?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Did you wish for these fish to appear?",
+      "cz": "Přáli jste si, aby se tyto ryby objevily?",
+      "source": "pre_existing",
+      "original_cz": "Přáli jste si, aby se tyto ryby objevily?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "You know what I mean.",
+      "cz": "Víš, co tím myslím.",
+      "source": "pre_existing",
+      "original_cz": "Víš, co tím myslím."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Never mind; it's probably just fish magic.",
+      "cz": "Nevadí; je to pravděpodobně jen rybí kouzlo.",
+      "source": "pre_existing",
+      "original_cz": "Nevadí; je to pravděpodobně jen rybí kouzlo."
+    },
+    {
+      "key": "Donald_010_f",
+      "en": "Um... Maybe. BUT IT'S NOT MY FAULT! I was just so frustrated by how few fish I was catching.",
+      "cz": "Ehm... Možná. ALE NENÍ TO MOJE VINA! Jen mě tak frustrovalo, jak málo ryb jsem chytal.",
+      "source": "pre_existing",
+      "original_cz": "Ehm... Možná. ALE NENÍ TO MOJE VINA! Jen mě tak frustrovalo, jak málo ryb jsem chytal."
+    },
+    {
+      "key": "Donald_017_f",
+      "en": "And did you WISH for them?",
+      "cz": "A PŘÁLI SI SI je?",
+      "source": "pre_existing",
+      "original_cz": "A PŘÁLI SI SI je?"
+    },
+    {
+      "key": "Donald_018_f",
+      "en": "Well sure, I guess I did, but what does that have to do with anything?",
+      "cz": "No jasně, asi ano, ale co to má s čímkoli společného?",
+      "source": "pre_existing",
+      "original_cz": "No jasně, asi ano, ale co to má s čímkoli společného?"
+    },
+    {
+      "key": "Donald_019_f",
+      "en": "I think some sort of wish magic is loose in the Valley, but I can't be sure just yet.",
+      "cz": "Myslím, že v Údolí se volně šíří nějaká magie přání, ale zatím si nejsem jistý.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že v Údolí se volně šíří nějaká magie přání, ale zatím si nejsem jistý."
+    },
+    {
+      "key": "Donald_022_f",
+      "en": "Let me <Lore>clean up the stinky fish</Lore> for you, and then I'll figure out how to get to the bottom of this.",
+      "cz": "Dovol mi, abych ti <Lore>vyčistil tu smradlavou rybu</Lore>, a pak vymyslím, jak se dostat k jádru věci.",
+      "source": "pre_existing",
+      "original_cz": "Dovol mi, abych ti <Lore>vyčistil tu smradlavou rybu</Lore>, a pak vymyslím, jak se dostat k jádru věci."
+    },
+    {
+      "key": "Donald_011_f",
+      "en": "No, I don't.",
+      "cz": "Ne, nechci.",
+      "source": "pre_existing",
+      "original_cz": "Ne, nechci."
+    },
+    {
+      "key": "Donald_013_f",
+      "en": "Come on; something tells me you wished for these fish, didn't you?",
+      "cz": "No tak, něco mi říká, že sis tyhle ryby přál, že?",
+      "source": "pre_existing",
+      "original_cz": "No tak, něco mi říká, že sis tyhle ryby přál, že?"
+    },
+    {
+      "key": "Donald_015_f",
+      "en": "Maybe I WAS frustrated by how few fish I was catching...",
+      "cz": "Možná mě frustrovalo, jak málo ryb jsem chytal...",
+      "source": "pre_existing",
+      "original_cz": "Možná mě frustrovalo, jak málo ryb jsem chytal..."
+    },
+    {
+      "key": "Donald_012_f",
+      "en": "Okay, but WHAT is fish magic, anyway?!",
+      "cz": "Dobře, ale CO je vlastně rybí magie?!",
+      "source": "pre_existing",
+      "original_cz": "Dobře, ale CO je vlastně rybí magie?!"
+    },
+    {
+      "key": "Donald_014_f",
+      "en": "I have no idea. Has anything else unusual happened lately?",
+      "cz": "Nemám tušení. Stalo se v poslední době něco dalšího neobvyklého?",
+      "source": "pre_existing",
+      "original_cz": "Nemám tušení. Stalo se v poslední době něco dalšího neobvyklého?"
+    },
+    {
+      "key": "Donald_016_f",
+      "en": "No. But I HAVE been frustrated by how few fish I've been catching...",
+      "cz": "Ne. Ale frustrovalo mě, jak málo ryb jsem chytil...",
+      "source": "pre_existing",
+      "original_cz": "Ne. Ale frustrovalo mě, jak málo ryb jsem chytil..."
+    },
+    {
+      "key": "Donald_005_f",
+      "en": "I tried that! But the more I pick up, the more appear all over my House!",
+      "cz": "Zkoušel jsem to! Ale čím víc toho sbírám, tím víc se mi objevuje po celém domě!",
+      "source": "pre_existing",
+      "original_cz": "Zkoušel jsem to! Ale čím víc toho sbírám, tím víc se mi objevuje po celém domě!"
+    },
+    {
+      "key": "Donald_006_f",
+      "en": "I KNOW that! But they just appeared out of nowhere!",
+      "cz": "To VÍM! Ale oni se prostě objevili z ničeho nic!",
+      "source": "pre_existing",
+      "original_cz": "To VÍM! Ale oni se prostě objevili z ničeho nic!"
+    }
+  ]
+}

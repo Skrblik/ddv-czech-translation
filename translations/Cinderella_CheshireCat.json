@@ -1,0 +1,165 @@
+{
+  "Cinderella_CheshireCat/CheshireCat_VLG_Cind_020_VLG_Cind_020_TalkTo06.locbin": [
+    {
+      "key": "CheshireCat_001_f",
+      "en": "Cheshire Cat, we were wondering if you'd seen critters around with stolen objects. Specifically, a pencil and a spool of thread.",
+      "cz": "Kočko Cheshire, zajímalo by nás, jestli jsi někdy viděl nějaké potvory s kradenými předměty. Konkrétně tužku a cívku nití.",
+      "source": "pre_existing",
+      "original_cz": "Kočko Cheshire, zajímalo by nás, jestli jsi někdy viděl nějaké potvory s kradenými předměty. Konkrétně tužku a cívku nití."
+    },
+    {
+      "key": "CheshireCat_010_f",
+      "en": "Well, I saw a pencil, but it was in the possession of the water in the <Lore>Glade of Trust</Lore>.",
+      "cz": "No, viděl jsem tužku, ale byla u vody v <Lore>Mytině důvěry</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "No, viděl jsem tužku, ale byla u vody v <Lore>Mytině důvěry</Lore>."
+    },
+    {
+      "key": "CheshireCat_011_f",
+      "en": "Thanks. Now, have you seen a spool of thread lately, in the possession of a critter or not?",
+      "cz": "Díky. Viděl jsi v poslední době cívku nití, ať už ji má nějaká zvířátka, nebo ne?",
+      "source": "pre_existing",
+      "original_cz": "Díky. Viděl jsi v poslední době cívku nití, ať už ji má nějaká zvířátka, nebo ne?"
+    },
+    {
+      "key": "CheshireCat_012_f",
+      "en": "More questions? Then it's my turn. What animal here is never far from home?",
+      "cz": "Další otázky? Pak je řada na mně. Které zvíře tady nikdy není daleko od domova?",
+      "source": "pre_existing",
+      "original_cz": "Další otázky? Pak je řada na mně. Které zvíře tady nikdy není daleko od domova?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "A rabbit?",
+      "cz": "Králík?",
+      "source": "pre_existing",
+      "original_cz": "Králík?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "A squirrel?",
+      "cz": "Veverka?",
+      "source": "pre_existing",
+      "original_cz": "Veverka?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "A turtle?",
+      "cz": "Želva?",
+      "source": "pre_existing",
+      "original_cz": "Želva?"
+    },
+    {
+      "key": "CheshireCat_002_f",
+      "en": "Oh, so you've lost something? I rather lose myself on occasion.",
+      "cz": "Takže jsi něco ztratil/a? Já se občas spíš ztratím sám/sama.",
+      "source": "pre_existing",
+      "original_cz": "Takže jsi něco ztratil/a? Já se občas spíš ztratím sám/sama."
+    },
+    {
+      "key": "CheshireCat_003_f",
+      "en": "Yes, we're looking for Cinderella's missing things. And we think critters took them.",
+      "cz": "Ano, hledáme Popelčiny ztracené věci. A myslíme si, že je vzaly nějaké potvory.",
+      "source": "pre_existing",
+      "original_cz": "Ano, hledáme Popelčiny ztracené věci. A myslíme si, že je vzaly nějaké potvory."
+    },
+    {
+      "key": "CheshireCat_004_f",
+      "en": "Well, if they did, then the location of Cinderella's items is obvious. They're with the smaller animals.",
+      "cz": "No, pokud ano, pak je umístění Popelčiných předmětů zřejmé. Jsou u menších zvířátek.",
+      "source": "pre_existing",
+      "original_cz": "No, pokud ano, pak je umístění Popelčiných předmětů zřejmé. Jsou u menších zvířátek."
+    },
+    {
+      "key": "CheshireCat_005_f",
+      "en": "Let's try breaking this down. Have you seen a pencil?",
+      "cz": "Zkusme to rozebrat. Viděli jste tužku?",
+      "source": "pre_existing",
+      "original_cz": "Zkusme to rozebrat. Viděli jste tužku?"
+    },
+    {
+      "key": "CheshireCat_006_f",
+      "en": "Yes. The bird is that way. Unless of course, it isn't.",
+      "cz": "Ano. Ten pták je tam. Pokud to samozřejmě není pravda.",
+      "source": "pre_existing",
+      "original_cz": "Ano. Ten pták je tam. Pokud to samozřejmě není pravda."
+    },
+    {
+      "key": "CheshireCat_007_f",
+      "en": "Not a pencil bird. Just a pencil. Possibly in the possession of a critter?",
+      "cz": "Není to tužkový pták. Jen tužka. Možná v držení nějakého tvorečka?",
+      "source": "pre_existing",
+      "original_cz": "Není to tužkový pták. Jen tužka. Možná v držení nějakého tvorečka?"
+    },
+    {
+      "key": "CheshireCat_008_f",
+      "en": "Yes and no.",
+      "cz": "Ano i ne.",
+      "source": "pre_existing",
+      "original_cz": "Ano i ne."
+    },
+    {
+      "key": "CheshireCat_009_f",
+      "en": "What does that even mean?",
+      "cz": "Co to vůbec znamená?",
+      "source": "pre_existing",
+      "original_cz": "Co to vůbec znamená?"
+    },
+    {
+      "key": "CheshireCat_014_f",
+      "en": "Oh, the rabbits I know are always rushing away from home. Try again.",
+      "cz": "Ach, králíci, které znám, pořád spěchají z domova. Zkuste to znovu.",
+      "source": "pre_existing",
+      "original_cz": "Ach, králíci, které znám, pořád spěchají z domova. Zkuste to znovu."
+    },
+    {
+      "key": "CheshireCat_015_f",
+      "en": "As a squirrel is at home anywhere, that wouldn't be a fair answer, now would it? Try again.",
+      "cz": "Protože veverka je doma všude, to by nebyla férová odpověď, že? Zkuste to znovu.",
+      "source": "pre_existing",
+      "original_cz": "Protože veverka je doma všude, to by nebyla férová odpověď, že? Zkuste to znovu."
+    },
+    {
+      "key": "CheshireCat_016_f",
+      "en": "Yes! As a turtle carries its home on its back, it can never be far from home, can it?",
+      "cz": "Ano! Stejně jako želva nosí svůj domov na zádech, nikdy nemůže být od domova daleko, že?",
+      "source": "pre_existing",
+      "original_cz": "Ano! Stejně jako želva nosí svůj domov na zádech, nikdy nemůže být od domova daleko, že?"
+    },
+    {
+      "key": "CheshireCat_017_f",
+      "en": "Great! But what's that got to do with thread?",
+      "cz": "Skvělé! Ale co to má společného s nití?",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Ale co to má společného s nití?"
+    },
+    {
+      "key": "CheshireCat_018_f",
+      "en": "Well, it's lost.",
+      "cz": "No, je to ztracené.",
+      "source": "pre_existing",
+      "original_cz": "No, je to ztracené."
+    },
+    {
+      "key": "CheshireCat_019_f",
+      "en": "Yes, that's the problem. The thread is lost.",
+      "cz": "Ano, to je ten problém. Ztratila se nit.",
+      "source": "pre_existing",
+      "original_cz": "Ano, to je ten problém. Ztratila se nit."
+    },
+    {
+      "key": "CheshireCat_020_f",
+      "en": "Exactly. The thread of this conversation is lost, and I shall not be looking for it. Toodle-oo.",
+      "cz": "Přesně tak. Nit této konverzace se ztratila a já ji nebudu hledat. Toodle-oo.",
+      "source": "pre_existing",
+      "original_cz": "Přesně tak. Nit této konverzace se ztratila a já ji nebudu hledat. Toodle-oo."
+    },
+    {
+      "key": "CheshireCat_021_f",
+      "en": "What? Oh, never mind. I guess I'll search the <Lore>water in the Glade of Trust</Lore>, then look for <Lore>an unusual turtle on Dazzle Beach</Lore>.",
+      "cz": "Cože? Ale nevadí. Asi prohledám <Lore>vodu v Glade of Trust</Lore> a pak budu hledat <Lore>neobvyklou želvu na Dazzle Beach</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Cože? Ale nevadí. Asi prohledám <Lore>vodu v Glade of Trust</Lore> a pak budu hledat <Lore>neobvyklou želvu na Dazzle Beach</Lore>."
+    }
+  ]
+}

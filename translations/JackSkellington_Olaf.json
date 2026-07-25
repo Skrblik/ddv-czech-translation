@@ -1,0 +1,707 @@
+{
+  "JackSkellington_Olaf/Olaf_VLG_Jack_010_VLG_Jack_010_BringItem01.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Olaf, I'm back!",
+      "cz": "Olafe, jsem zpátky!",
+      "source": "pre_existing",
+      "original_cz": "Olafe, jsem zpátky!"
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "Here's some new <Lore>Chocolate Ice Cream</Lore>, made with love just for you... for Anna.",
+      "cz": "Tady je nová <Lore>čokoládová zmrzlina</Lore>, vyrobená s láskou jen pro vás... pro Annu.",
+      "source": "pre_existing",
+      "original_cz": "Tady je nová <Lore>čokoládová zmrzlina</Lore>, vyrobená s láskou jen pro vás... pro Annu."
+    },
+    {
+      "key": "Olaf_002_f",
+      "en": "Oh, thank you, {PlayerName}! Anna's going to love it!",
+      "cz": "Ach, děkuji, {PlayerName}! Anně se to bude líbit!",
+      "source": "pre_existing",
+      "original_cz": "Ach, děkuji, {PlayerName}! Anně se to bude líbit!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Now, that's the Olaf I know.",
+      "cz": "Tak to je ten Olaf, kterého znám.",
+      "source": "pre_existing",
+      "original_cz": "Tak to je ten Olaf, kterého znám."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Are you sure Anna likes chocolate?",
+      "cz": "Jsi si jistá, že Anna má ráda čokoládu?",
+      "source": "pre_existing",
+      "original_cz": "Jsi si jistá, že Anna má ráda čokoládu?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Are you sure, because I can eat it if you're not sure.",
+      "cz": "Jsi si jistý/á? Protože můžu to sníst, pokud si nejsi jistý/á.",
+      "source": "pre_existing",
+      "original_cz": "Jsi si jistý/á? Protože můžu to sníst, pokud si nejsi jistý/á."
+    },
+    {
+      "key": "Olaf_003_f",
+      "en": "I'm confused. Is there another Olaf?",
+      "cz": "Jsem zmatený. Existuje nějaký další Olaf?",
+      "source": "pre_existing",
+      "original_cz": "Jsem zmatený. Existuje nějaký další Olaf?"
+    },
+    {
+      "key": "Olaf_007_f",
+      "en": "And don't worry; I'll talk to Jack Skellington about touching people's food without permission.",
+      "cz": "A nebojte se; promluvím si s Jackem Skellingtonem o sahání jídla bez dovolení.",
+      "source": "pre_existing",
+      "original_cz": "A nebojte se; promluvím si s Jackem Skellingtonem o sahání jídla bez dovolení."
+    },
+    {
+      "key": "Olaf_008_f",
+      "en": "That's probably wise.",
+      "cz": "To je asi moudré.",
+      "source": "pre_existing",
+      "original_cz": "To je asi moudré."
+    },
+    {
+      "key": "Olaf_010_f",
+      "en": "Bye, Olaf!",
+      "cz": "Nashledanou, Olafe!",
+      "source": "pre_existing",
+      "original_cz": "Nashledanou, Olafe!"
+    },
+    {
+      "key": "Olaf_004_f",
+      "en": "Does he like warm hugs too?!",
+      "cz": "Taky má rád vřelé objetí?!",
+      "source": "pre_existing",
+      "original_cz": "Taky má rád vřelé objetí?!"
+    },
+    {
+      "key": "Olaf_011_f",
+      "en": "No, no. You are THE only Olaf! I'm just glad you're not upset anymore.",
+      "cz": "Ne, ne. Jsi JEDINÝ Olaf! Jsem jen ráda, že už nejsi naštvaný.",
+      "source": "pre_existing",
+      "original_cz": "Ne, ne. Jsi JEDINÝ Olaf! Jsem jen ráda, že už nejsi naštvaný."
+    },
+    {
+      "key": "Olaf_012_f",
+      "en": "Me too. Being upset isn't fun.",
+      "cz": "Já taky. Být naštvaný není zábava.",
+      "source": "pre_existing",
+      "original_cz": "Já taky. Být naštvaný není zábava."
+    },
+    {
+      "key": "Olaf_013_f",
+      "en": "I was trying to tell myself that I was happy...",
+      "cz": "Snažila jsem se sama sobě namluvit, že jsem šťastná...",
+      "source": "pre_existing",
+      "original_cz": "Snažila jsem se sama sobě namluvit, že jsem šťastná..."
+    },
+    {
+      "key": "Olaf_014_f",
+      "en": "But frustration is such a pointy emotion — like icicles! I couldn't ignore it.",
+      "cz": "Ale frustrace je tak ostrá emoce – jako rampouchy! Nemohla jsem ji ignorovat.",
+      "source": "pre_existing",
+      "original_cz": "Ale frustrace je tak ostrá emoce – jako rampouchy! Nemohla jsem ji ignorovat."
+    },
+    {
+      "key": "Olaf_015_f",
+      "en": "Well, I'm happy that you don't need to repress any negative emotions anymore.",
+      "cz": "No, jsem rád, že už nemusíš potlačovat žádné negativní emoce.",
+      "source": "pre_existing",
+      "original_cz": "No, jsem rád, že už nemusíš potlačovat žádné negativní emoce."
+    },
+    {
+      "key": "Olaf_005_f",
+      "en": "Thank you for saving Best Friends Forever Day, {PlayerName}!",
+      "cz": "Děkuji, že jsi zachránil/a Den nejlepších přátel navždy, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Děkuji, že jsi zachránil/a Den nejlepších přátel navždy, {PlayerName}!"
+    },
+    {
+      "key": "Olaf_006_f",
+      "en": "You're welcome!",
+      "cz": "Není zač!",
+      "source": "pre_existing",
+      "original_cz": "Není zač!"
+    },
+    {
+      "key": "Olaf_016_f",
+      "en": "Are you kidding?! Anna LOVES chocolate!",
+      "cz": "Děláš si legraci?! Anna MILUJE čokoládu!",
+      "source": "pre_existing",
+      "original_cz": "Děláš si legraci?! Anna MILUJE čokoládu!"
+    },
+    {
+      "key": "Olaf_017_f",
+      "en": "I'm completely and totally and absolutely sure. Anna LOVES chocolate!",
+      "cz": "Jsem si naprosto, naprosto a absolutně jistá. Anna MILUJE čokoládu!",
+      "source": "pre_existing",
+      "original_cz": "Jsem si naprosto, naprosto a absolutně jistá. Anna MILUJE čokoládu!"
+    }
+  ],
+  "JackSkellington_Olaf/Olaf_VLG_Jack_010_VLG_Jack_010_TalkTo01.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Olaf, I'd like to introduce you to someone.",
+      "cz": "Olafe, rád bych tě s někým seznámil.",
+      "source": "pre_existing",
+      "original_cz": "Olafe, rád bych tě s někým seznámil."
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "Have you met Jack Skelli—",
+      "cz": "Potkal jsi Jacka Skelliho—",
+      "source": "pre_existing",
+      "original_cz": "Potkal jsi Jacka Skelliho—"
+    },
+    {
+      "key": "Olaf_002_f",
+      "en": "*sigh* We've met.",
+      "cz": "*povzdech* Potkali jsme se.",
+      "source": "pre_existing",
+      "original_cz": "*povzdech* Potkali jsme se."
+    },
+    {
+      "key": "Olaf_007_f",
+      "en": "That's great!",
+      "cz": "To je skvělé!",
+      "source": "pre_existing",
+      "original_cz": "To je skvělé!"
+    },
+    {
+      "key": "Olaf_003_f",
+      "en": "I have a trivia fact about the word \"great\"... but... never mind.",
+      "cz": "Mám jednu zajímavost o slově „skvělý“... ale... na tom nezáleží.",
+      "source": "pre_existing",
+      "original_cz": "Mám jednu zajímavost o slově „skvělý“... ale... na tom nezáleží."
+    },
+    {
+      "key": "Olaf_006_f",
+      "en": "You don't want to share a fun fact?!",
+      "cz": "Nechceš se podělit o zábavný fakt?!",
+      "source": "pre_existing",
+      "original_cz": "Nechceš se podělit o zábavný fakt?!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Olaf, what's wrong?!",
+      "cz": "Olafe, co se děje?!",
+      "source": "pre_existing",
+      "original_cz": "Olafe, co se děje?!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "What happened to my cheerful friend Olaf?",
+      "cz": "Co se stalo s mým veselým kamarádem Olafem?",
+      "source": "pre_existing",
+      "original_cz": "Co se stalo s mým veselým kamarádem Olafem?"
+    },
+    {
+      "key": "Player_000_choice_003_f",
+      "en": "A snowman that's lost his excitement for trivia has lost his excitement for life!",
+      "cz": "Sněhulák, který ztratil nadšení pro kvízy, ztratil nadšení na celý život!",
+      "source": "pre_existing",
+      "original_cz": "Sněhulák, který ztratil nadšení pro kvízy, ztratil nadšení na celý život!"
+    },
+    {
+      "key": "Olaf_004_f",
+      "en": "Umm...",
+      "cz": "Ehm...",
+      "source": "pre_existing",
+      "original_cz": "Ehm..."
+    },
+    {
+      "key": "Olaf_008_f",
+      "en": "It was earlier today...",
+      "cz": "Bylo to dnes dříve...",
+      "source": "pre_existing",
+      "original_cz": "Bylo to dnes dříve..."
+    },
+    {
+      "key": "Olaf_009_f",
+      "en": "Remy brought me some INCREDIBLE <Lore>Chocolate Ice Cream</Lore> that I wanted to give to Anna as a surprise for Best Friends Forever Day... which I invented this morning.",
+      "cz": "Remy mi přinesl ÚŽASNOU <Lore>čokoládovou zmrzlinu</Lore>, kterou jsem chtěl dát Anně jako překvapení ke Dni nejlepších přátel navždy... kterou jsem dnes ráno vymyslel.",
+      "source": "pre_existing",
+      "original_cz": "Remy mi přinesl ÚŽASNOU <Lore>čokoládovou zmrzlinu</Lore>, kterou jsem chtěl dát Anně jako překvapení ke Dni nejlepších přátel navždy... kterou jsem dnes ráno vymyslel."
+    },
+    {
+      "key": "Olaf_010_f",
+      "en": "And then... something disturbing happened.",
+      "cz": "A pak... se stalo něco znepokojivého.",
+      "source": "pre_existing",
+      "original_cz": "A pak... se stalo něco znepokojivého."
+    },
+    {
+      "key": "Olaf_027_f",
+      "en": "I may not be mature yet, but I think even someone mature would have been disturbed.",
+      "cz": "Možná ještě nejsem zralý, ale myslím, že i někdo zralý by byl vyrušený.",
+      "source": "pre_existing",
+      "original_cz": "Možná ještě nejsem zralý, ale myslím, že i někdo zralý by byl vyrušený."
+    },
+    {
+      "key": "Olaf_011_f",
+      "en": "Mr. Skellington kept saying \"what's this?\" and poking the ice cream with his bony fingers!",
+      "cz": "Pan Skellington se pořád ptal „co to je?“ a šťouchal do zmrzliny svými kostnatými prsty!",
+      "source": "pre_existing",
+      "original_cz": "Pan Skellington se pořád ptal „co to je?“ a šťouchal do zmrzliny svými kostnatými prsty!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Ohh, that's terrible!",
+      "cz": "Jé, to je hrozné!",
+      "source": "pre_existing",
+      "original_cz": "Jé, to je hrozné!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I think he was just curious about it?",
+      "cz": "Myslím, že ho to jen zajímalo?",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že ho to jen zajímalo?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I can't lie — that's kinda funny.",
+      "cz": "Nemůžu lhát – to je docela vtipné.",
+      "source": "pre_existing",
+      "original_cz": "Nemůžu lhát – to je docela vtipné."
+    },
+    {
+      "key": "Olaf_013_f",
+      "en": "Oh, thank goodness! I'm glad I'm not the only one who thinks fingers don't belong in ice cream.",
+      "cz": "Díky bohu! Jsem ráda, že nejsem jediná, kdo si myslí, že prsty do zmrzliny nepatří.",
+      "source": "pre_existing",
+      "original_cz": "Díky bohu! Jsem ráda, že nejsem jediná, kdo si myslí, že prsty do zmrzliny nepatří."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Thank you, I appreciate that, Olaf.",
+      "cz": "Děkuji, vážím si toho, Olafe.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji, vážím si toho, Olafe."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "You're great.",
+      "cz": "Jsi skvělý/á.",
+      "source": "pre_existing",
+      "original_cz": "Jsi skvělý/á."
+    },
+    {
+      "key": "Olaf_018_f",
+      "en": "Don't worry, Olaf; I'll make you a fresh batch of <Lore>Chocolate Ice Cream</Lore>.",
+      "cz": "Neboj se, Olafe, udělám ti novou várku <Lore>čokoládové zmrzliny</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Neboj se, Olafe, udělám ti novou várku <Lore>čokoládové zmrzliny</Lore>."
+    },
+    {
+      "key": "Olaf_019_f",
+      "en": "And I'll have a word with Jack Skellington about barging into people's houses like that.",
+      "cz": "A promluvím si s Jackem Skellingtonem o takovém vloupávání do domů.",
+      "source": "pre_existing",
+      "original_cz": "A promluvím si s Jackem Skellingtonem o takovém vloupávání do domů."
+    },
+    {
+      "key": "Olaf_020_f",
+      "en": "Thank you! Oh, here! Have the recipe.",
+      "cz": "Děkuji! Tady je recept!",
+      "source": "pre_existing",
+      "original_cz": "Děkuji! Tady je recept!"
+    },
+    {
+      "key": "Olaf_028_f",
+      "en": "And... {PlayerName}?",
+      "cz": "A... {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "A... {PlayerName}?"
+    },
+    {
+      "key": "Olaf_021_f",
+      "en": "Yes, Olaf?",
+      "cz": "Ano, Olafe?",
+      "source": "pre_existing",
+      "original_cz": "Ano, Olafe?"
+    },
+    {
+      "key": "Olaf_022_f",
+      "en": "I could never keep a fun piece of trivia from you.",
+      "cz": "Nikdy bych před tebou nedokázal utajit žádnou zábavnou zajímavost.",
+      "source": "pre_existing",
+      "original_cz": "Nikdy bych před tebou nedokázal utajit žádnou zábavnou zajímavost."
+    },
+    {
+      "key": "Olaf_023_f",
+      "en": "Did you know that before it was a synonym for \"excellent,\" \"great\" first meant \"large\"?",
+      "cz": "Věděli jste, že než se slovo „skvělý“ stalo synonymem pro „vynikající“, znamenalo nejprve „velký“?",
+      "source": "pre_existing",
+      "original_cz": "Věděli jste, že než se slovo „skvělý“ stalo synonymem pro „vynikající“, znamenalo nejprve „velký“?"
+    },
+    {
+      "key": "Olaf_024_f",
+      "en": "I'll get right on making you some <ActivityItem>Chocolate Ice Cream</ActivityItem> so you have a Best Friends Forever Day surprise for Anna.",
+      "cz": "Hned ti udělám <ActivityItem>čokoládovou zmrzlinu</ActivityItem>, abys měla pro Annu překvapení ke Dni nejlepších přátel navždy.",
+      "source": "pre_existing",
+      "original_cz": "Hned ti udělám <ActivityItem>čokoládovou zmrzlinu</ActivityItem>, abys měla pro Annu překvapení ke Dni nejlepších přátel navždy."
+    },
+    {
+      "key": "Olaf_025_f",
+      "en": "In the modern sense, but also the old sense to refer to your great heart. I'll get right on making you some <ActivityItem>Chocolate Ice Cream</ActivityItem> so you have a Best Friends Forever Day surprise for Anna.",
+      "cz": "V moderním smyslu, ale také ve starém, který označuje tvé velké srdce. Hned ti udělám <ActivityItem>čokoládovou zmrzlinu</ActivityItem>, abys měla pro Annu překvapení ke Dni nejlepších přátel navždy.",
+      "source": "pre_existing",
+      "original_cz": "V moderním smyslu, ale také ve starém, který označuje tvé velké srdce. Hned ti udělám <ActivityItem>čokoládovou zmrzlinu</ActivityItem>, abys měla pro Annu překvapení ke Dni nejlepších přátel navždy."
+    },
+    {
+      "key": "Olaf_014_f",
+      "en": "Oh... But, {PlayerName}, I'm curious about lots of things, too...",
+      "cz": "Ale, {PlayerName}, taky mě zajímá spousta věcí...",
+      "source": "pre_existing",
+      "original_cz": "Ale, {PlayerName}, taky mě zajímá spousta věcí..."
+    },
+    {
+      "key": "Olaf_015_f",
+      "en": "...and I try not to let my curiosity ruin other people's first-ever Best Friends Forever Day ice cream surprise.",
+      "cz": "...a snažím se, aby mi moje zvědavost nezkazila úplně první zmrzlinové překvapení ostatních lidí ke Dni nejlepších přátel navždy.",
+      "source": "pre_existing",
+      "original_cz": "...a snažím se, aby mi moje zvědavost nezkazila úplně první zmrzlinové překvapení ostatních lidí ke Dni nejlepších přátel navždy."
+    },
+    {
+      "key": "Olaf_016_f",
+      "en": "It is? But it ruined my surprise for Anna. Is this a kind of humor I'm not old enough to understand?",
+      "cz": "Je? Ale zkazilo mi to překvapení pro Annu. Je tohle nějaký druh humoru, kterému ještě nejsem dost stará na to, abych ho chápala?",
+      "source": "pre_existing",
+      "original_cz": "Je? Ale zkazilo mi to překvapení pro Annu. Je tohle nějaký druh humoru, kterému ještě nejsem dost stará na to, abych ho chápala?"
+    },
+    {
+      "key": "Olaf_017_f",
+      "en": "No. It's not that. I guess it's just Jack Skellington being Jack Skellington.",
+      "cz": "Ne. To není ono. Asi je to prostě Jack Skellington, protože je Jack Skellington.",
+      "source": "pre_existing",
+      "original_cz": "Ne. To není ono. Asi je to prostě Jack Skellington, protože je Jack Skellington."
+    },
+    {
+      "key": "Olaf_005_f",
+      "en": "Well... Jack Skellington visited me.",
+      "cz": "No... navštívil mě Jack Skellington.",
+      "source": "pre_existing",
+      "original_cz": "No... navštívil mě Jack Skellington."
+    },
+    {
+      "key": "Olaf_012_f",
+      "en": "Oh, I could never lose my excitement for trivia.",
+      "cz": "Ach, nikdy jsem neztratil nadšení pro kvízy.",
+      "source": "pre_existing",
+      "original_cz": "Ach, nikdy jsem neztratil nadšení pro kvízy."
+    },
+    {
+      "key": "Olaf_026_f",
+      "en": "But I am having not-excited feelings...",
+      "cz": "Ale mám nepříliš nadšené pocity...",
+      "source": "pre_existing",
+      "original_cz": "Ale mám nepříliš nadšené pocity..."
+    }
+  ],
+  "JackSkellington_Olaf/Olaf_VLG_Jack_030_VLG_Jack_030_Ongoing07.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Wow, you sure look busy!",
+      "cz": "Páni, vypadáš vážně zaneprázdněně!",
+      "source": "pre_existing",
+      "original_cz": "Páni, vypadáš vážně zaneprázdněně!"
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "I am! Jack Skellington has a wonderful holiday gift idea that I'm helping him with!",
+      "cz": "To jo! Jack Skellington má skvělý nápad na vánoční dárek, se kterým mu pomáhám!",
+      "source": "pre_existing",
+      "original_cz": "To jo! Jack Skellington má skvělý nápad na vánoční dárek, se kterým mu pomáhám!"
+    }
+  ],
+  "JackSkellington_Olaf/Olaf_VLG_Jack_030_VLG_Jack_030_Ongoing09.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "{PlayerName}, you seem like you have a lot on your to-do list to-day. *giggle*",
+      "cz": "{PlayerName}, vypadá to, že máš dnes na seznamu úkolů hodně úkolů. *chichotání*",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, vypadá to, že máš dnes na seznamu úkolů hodně úkolů. *chichotání*"
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "Oh yeah, your surprise is nearly done!",
+      "cz": "Jo, tvé překvapení je skoro hotové!",
+      "source": "pre_existing",
+      "original_cz": "Jo, tvé překvapení je skoro hotové!"
+    }
+  ],
+  "JackSkellington_Olaf/Olaf_VLG_Jack_030_VLG_Jack_030_TalkTo04.locbin": [
+    {
+      "key": "Olaf_001_f",
+      "en": "Hi, Olaf! Can I ask you a few questions?",
+      "cz": "Ahoj, Olafe! Můžu se tě zeptat na pár otázek?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, Olafe! Můžu se tě zeptat na pár otázek?"
+    },
+    {
+      "key": "Olaf_011_f",
+      "en": "You know, that doesn't surprise me at all.",
+      "cz": "Víš, to mě vůbec nepřekvapuje.",
+      "source": "pre_existing",
+      "original_cz": "Víš, to mě vůbec nepřekvapuje."
+    },
+    {
+      "key": "Olaf_012_f",
+      "en": "I just love the looks on their faces when they unwrap something I've given them...",
+      "cz": "Prostě miluju ty výrazy v jejich tvářích, když rozbalují něco, co jsem jim dal/a...",
+      "source": "pre_existing",
+      "original_cz": "Prostě miluju ty výrazy v jejich tvářích, když rozbalují něco, co jsem jim dal/a..."
+    },
+    {
+      "key": "Olaf_013_f",
+      "en": "It's like the best warm hug ever!",
+      "cz": "Je to jako to nejlepší vřelé objetí na světě!",
+      "source": "pre_existing",
+      "original_cz": "Je to jako to nejlepší vřelé objetí na světě!"
+    },
+    {
+      "key": "Olaf_010_f",
+      "en": "Perfect, thanks Olaf!",
+      "cz": "Perfektní, díky Olafe!",
+      "source": "pre_existing",
+      "original_cz": "Perfektní, díky Olafe!"
+    },
+    {
+      "key": "Olaf_002_f",
+      "en": "Of course, {PlayerName}! I love answering questions.",
+      "cz": "Samozřejmě, {PlayerName}! Rád odpovídám na otázky.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě, {PlayerName}! Rád odpovídám na otázky."
+    },
+    {
+      "key": "Olaf_003_f",
+      "en": "Jack Skellington and I are trying to come up with a new holiday for Dreamlight Valley.",
+      "cz": "S Jackem Skellingtonem se snažíme vymyslet novou dovolenou pro Dreamlight Valley.",
+      "source": "pre_existing",
+      "original_cz": "S Jackem Skellingtonem se snažíme vymyslet novou dovolenou pro Dreamlight Valley."
+    },
+    {
+      "key": "Olaf_004_f",
+      "en": "And we wanted to ask what your favorite holiday is and why.",
+      "cz": "A chtěli jsme se zeptat, jaký je váš oblíbený svátek a proč.",
+      "source": "pre_existing",
+      "original_cz": "A chtěli jsme se zeptat, jaký je váš oblíbený svátek a proč."
+    },
+    {
+      "key": "Olaf_005_f",
+      "en": "Well, holidays are too special to choose just one, but I definitely have a favorite holiday activity.",
+      "cz": "No, svátky jsou příliš speciální na to, abych vybral jen jedny, ale rozhodně mám oblíbenou sváteční aktivitu.",
+      "source": "pre_existing",
+      "original_cz": "No, svátky jsou příliš speciální na to, abych vybral jen jedny, ale rozhodně mám oblíbenou sváteční aktivitu."
+    },
+    {
+      "key": "Olaf_006_f",
+      "en": "Sure, that works — what is it?",
+      "cz": "Jasně, to funguje – co to je?",
+      "source": "pre_existing",
+      "original_cz": "Jasně, to funguje – co to je?"
+    },
+    {
+      "key": "Olaf_007_f",
+      "en": "Giving presents!",
+      "cz": "Dáváme dárky!",
+      "source": "pre_existing",
+      "original_cz": "Dáváme dárky!"
+    },
+    {
+      "key": "Olaf_008_f",
+      "en": "All year long I collect trivia about my friends... What they like, what they need, and the things they don't do for themselves...",
+      "cz": "Celý rok sbírám zajímavosti o svých přátelích... Co mají rádi, co potřebují a co si sami nedělají...",
+      "source": "pre_existing",
+      "original_cz": "Celý rok sbírám zajímavosti o svých přátelích... Co mají rádi, co potřebují a co si sami nedělají..."
+    },
+    {
+      "key": "Olaf_009_f",
+      "en": "And then I come up with the perfect present for them!",
+      "cz": "A pak pro ně vymyslím perfektní dárek!",
+      "source": "pre_existing",
+      "original_cz": "A pak pro ně vymyslím perfektní dárek!"
+    }
+  ],
+  "JackSkellington_Olaf/Olaf_VLG_Jack_040_VLG_Jack_040_TalkTo06.locbin": [
+    {
+      "key": "Olaf_003_f",
+      "en": "Olaf, I heard you were in trouble — are you all right?",
+      "cz": "Olafe, slyšel jsem, že máš potíže – jsi v pořádku?",
+      "source": "pre_existing",
+      "original_cz": "Olafe, slyšel jsem, že máš potíže – jsi v pořádku?"
+    },
+    {
+      "key": "Olaf_004_f",
+      "en": "Oh {PlayerName}, I'm so glad you're here! It was horrible!",
+      "cz": "Ach {PlayerName}, jsem tak ráda, že jsi tady! Bylo to hrozné!",
+      "source": "pre_existing",
+      "original_cz": "Ach {PlayerName}, jsem tak ráda, že jsi tady! Bylo to hrozné!"
+    },
+    {
+      "key": "Olaf_005_f",
+      "en": "It'll be OK; just tell me what happened. What did Jack's Dreamlight Day gift do?",
+      "cz": "Bude to v pořádku; jen mi řekni, co se stalo. Co udělal Jackův dárek ke Dni snů?",
+      "source": "pre_existing",
+      "original_cz": "Bude to v pořádku; jen mi řekni, co se stalo. Co udělal Jackův dárek ke Dni snů?"
+    },
+    {
+      "key": "Olaf_006_f",
+      "en": "Well, there-there was a book...",
+      "cz": "No, tam-tam byla kniha...",
+      "source": "pre_existing",
+      "original_cz": "No, tam-tam byla kniha..."
+    },
+    {
+      "key": "Olaf_007_f",
+      "en": "Go on...",
+      "cz": "Pokračuj...",
+      "source": "pre_existing",
+      "original_cz": "Pokračuj..."
+    },
+    {
+      "key": "Olaf_008_f",
+      "en": "I opened it... and it was full... of trivia!",
+      "cz": "Otevřel jsem to... a bylo to plné... kvízů!",
+      "source": "pre_existing",
+      "original_cz": "Otevřel jsem to... a bylo to plné... kvízů!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Keep going...",
+      "cz": "Pokračuj...",
+      "source": "pre_existing",
+      "original_cz": "Pokračuj..."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I thought you liked trivia!",
+      "cz": "Myslel jsem, že máš rád/a kvízy!",
+      "source": "pre_existing",
+      "original_cz": "Myslel jsem, že máš rád/a kvízy!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "THE HORROR!",
+      "cz": "HRŮZA!",
+      "source": "pre_existing",
+      "original_cz": "HRŮZA!"
+    },
+    {
+      "key": "Olaf_009_f",
+      "en": "But it wasn't just SOME trivia...",
+      "cz": "Ale nebyly to jen nějaké drobnosti...",
+      "source": "pre_existing",
+      "original_cz": "Ale nebyly to jen nějaké drobnosti..."
+    },
+    {
+      "key": "Olaf_021_f",
+      "en": "Ooo, so maybe if I <Lore>take pictures of the trivia book</Lore>, it will lock up Jack's magic?",
+      "cz": "Jé, takže když <Lore>vyfotím tu kvízovou knihu</Lore>, uzamkne to Jackovu magii?",
+      "source": "pre_existing",
+      "original_cz": "Jé, takže když <Lore>vyfotím tu kvízovou knihu</Lore>, uzamkne to Jackovu magii?"
+    },
+    {
+      "key": "Olaf_022_f",
+      "en": "Maybe! It's worth a try.",
+      "cz": "Možná! Stojí to za vyzkoušení.",
+      "source": "pre_existing",
+      "original_cz": "Možná! Stojí to za vyzkoušení."
+    },
+    {
+      "key": "Olaf_023_f",
+      "en": "Great, I'm on it!",
+      "cz": "Skvělé, jdu do toho!",
+      "source": "pre_existing",
+      "original_cz": "Skvělé, jdu do toho!"
+    },
+    {
+      "key": "Olaf_024_f",
+      "en": "Oh, but it's not just one book, {PlayerName}. Somehow, the one book made more books!",
+      "cz": "Ale není to jen jedna kniha, {PlayerName}. Nějak se stalo, že z jedné knihy vzniklo více knih!",
+      "source": "pre_existing",
+      "original_cz": "Ale není to jen jedna kniha, {PlayerName}. Nějak se stalo, že z jedné knihy vzniklo více knih!"
+    },
+    {
+      "key": "Olaf_013_f",
+      "en": "The book... it's filled with every piece of trivia in existence!",
+      "cz": "Ta kniha... je plná všech možných drobností!",
+      "source": "pre_existing",
+      "original_cz": "Ta kniha... je plná všech možných drobností!"
+    },
+    {
+      "key": "Olaf_014_f",
+      "en": "I only read one page, and I could feel the knowledge pouring into my head.",
+      "cz": "Přečetl jsem jen jednu stránku a cítil jsem, jak se mi do hlavy hrnou znalosti.",
+      "source": "pre_existing",
+      "original_cz": "Přečetl jsem jen jednu stránku a cítil jsem, jak se mi do hlavy hrnou znalosti."
+    },
+    {
+      "key": "Olaf_015_f",
+      "en": "And I knew, if I read the whole book, I'd know all the trivia there is to know.",
+      "cz": "A věděl jsem, že když si přečtu celou knihu, budu vědět všechny zajímavosti, které se dají znát.",
+      "source": "pre_existing",
+      "original_cz": "A věděl jsem, že když si přečtu celou knihu, budu vědět všechny zajímavosti, které se dají znát."
+    },
+    {
+      "key": "Olaf_016_f",
+      "en": "So, I'd never again have the joy of learning a new fact!",
+      "cz": "Takže už nikdy nebudu mít tu radost z učení se nové věci!",
+      "source": "pre_existing",
+      "original_cz": "Takže už nikdy nebudu mít tu radost z učení se nové věci!"
+    },
+    {
+      "key": "Olaf_017_f",
+      "en": "OK, now I get why you were so upset.",
+      "cz": "Dobře, teď už chápu, proč jsi byl tak naštvaný.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, teď už chápu, proč jsi byl tak naštvaný."
+    },
+    {
+      "key": "Olaf_018_f",
+      "en": "Any idea how to deal with the trivia book?",
+      "cz": "Máte nějaký nápad, jak se vypořádat s knihou o kvízech?",
+      "source": "pre_existing",
+      "original_cz": "Máte nějaký nápad, jak se vypořádat s knihou o kvízech?"
+    },
+    {
+      "key": "Olaf_019_f",
+      "en": "Well, there was one piece of trivia on that first page that might help...",
+      "cz": "No, na té první stránce byla jedna drobnost, která by mohla pomoct...",
+      "source": "pre_existing",
+      "original_cz": "No, na té první stránce byla jedna drobnost, která by mohla pomoct..."
+    },
+    {
+      "key": "Olaf_020_f",
+      "en": "Did you know that some cultures think a camera is capable of capturing someone's spirit?",
+      "cz": "Věděli jste, že některé kultury si myslí, že fotoaparát dokáže zachytit něčí duši?",
+      "source": "pre_existing",
+      "original_cz": "Věděli jste, že některé kultury si myslí, že fotoaparát dokáže zachytit něčí duši?"
+    },
+    {
+      "key": "Olaf_010_f",
+      "en": "I do! But what I like most is learning NEW trivia!",
+      "cz": "To jo! Ale nejvíc mě baví učit se NOVÉ kvízy!",
+      "source": "pre_existing",
+      "original_cz": "To jo! Ale nejvíc mě baví učit se NOVÉ kvízy!"
+    },
+    {
+      "key": "Olaf_011_f",
+      "en": "Are you... making fun of me?",
+      "cz": "Děláš si ze mě... legraci?",
+      "source": "pre_existing",
+      "original_cz": "Děláš si ze mě... legraci?"
+    },
+    {
+      "key": "Olaf_012_f",
+      "en": "I'm sorry, Olaf; please continue.",
+      "cz": "Promiň, Olafe, prosím, pokračuj.",
+      "source": "pre_existing",
+      "original_cz": "Promiň, Olafe, prosím, pokračuj."
+    }
+  ]
+}

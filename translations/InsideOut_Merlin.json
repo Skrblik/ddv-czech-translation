@@ -1,0 +1,695 @@
+{
+  "InsideOut_Merlin/Merlin_RLM_InsideOutIP_Joy_010_RLM_InsideOutIP_Joy_010_TalkTo01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "How peculiar! Why, this door seems incapable of entrance or egress.",
+      "cz": "To je zvláštní! Zdá se, že těmito dveřmi není možné vstoupit ani vyjít.",
+      "source": "pre_existing",
+      "original_cz": "To je zvláštní! Zdá se, že těmito dveřmi není možné vstoupit ani vyjít."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Why did this happen?",
+      "cz": "Proč se to stalo?",
+      "source": "pre_existing",
+      "original_cz": "Proč se to stalo?"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Why can't I open the door?",
+      "cz": "Proč nemůžu otevřít dveře?",
+      "source": "pre_existing",
+      "original_cz": "Proč nemůžu otevřít dveře?"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "How are we going to fix this?",
+      "cz": "Jak tohle napravíme?",
+      "source": "pre_existing",
+      "original_cz": "Jak tohle napravíme?"
+    },
+    {
+      "key": "Merlin_012_f",
+      "en": "Well... Emotions DO have great power in this Realm. Perhaps we've disturbed some sort of delicate emotional balance.",
+      "cz": "No... Emoce v této Říši MAJÍ velkou moc. Možná jsme narušili nějakou křehkou emocionální rovnováhu.",
+      "source": "pre_existing",
+      "original_cz": "No... Emoce v této Říši MAJÍ velkou moc. Možná jsme narušili nějakou křehkou emocionální rovnováhu."
+    },
+    {
+      "key": "Merlin_013_f",
+      "en": "This <Lore>memory</Lore> will power the door. But, at the moment, it's incomplete. Specifically, the essences of joy and sadness seem to be missing.",
+      "cz": "Tato <Lore>vzpomínka</Lore> bude pohánět dveře. Ale v tuto chvíli je neúplná. Konkrétně se zdá, že chybí esence radosti a smutku.",
+      "source": "pre_existing",
+      "original_cz": "Tato <Lore>vzpomínka</Lore> bude pohánět dveře. Ale v tuto chvíli je neúplná. Konkrétně se zdá, že chybí esence radosti a smutku."
+    },
+    {
+      "key": "Merlin_014_f",
+      "en": "Though, with some determination, one should be able to restore the missing emotional essences to this <Lore>memory</Lore> and open the door again.",
+      "cz": "I když s určitým odhodláním by člověk měl být schopen obnovit chybějící emocionální esence v této <Lore>vzpomínce</Lore> a znovu otevřít dveře.",
+      "source": "pre_existing",
+      "original_cz": "I když s určitým odhodláním by člověk měl být schopen obnovit chybějící emocionální esence v této <Lore>vzpomínce</Lore> a znovu otevřít dveře."
+    },
+    {
+      "key": "Player_004_choice_000_f",
+      "en": "Wait, do you mean that emotions are physical things?",
+      "cz": "Počkej, myslíš tím, že emoce jsou fyzické věci?",
+      "source": "pre_existing",
+      "original_cz": "Počkej, myslíš tím, že emoce jsou fyzické věci?"
+    },
+    {
+      "key": "Player_004_choice_001_f",
+      "en": "How do we add more joy?",
+      "cz": "Jak si můžeme přidat více radosti?",
+      "source": "pre_existing",
+      "original_cz": "Jak si můžeme přidat více radosti?"
+    },
+    {
+      "key": "Player_004_choice_002_f",
+      "en": "How do we add more sadness?",
+      "cz": "Jak přidáme více smutku?",
+      "source": "pre_existing",
+      "original_cz": "Jak přidáme více smutku?"
+    },
+    {
+      "key": "Merlin_016_f",
+      "en": "Hmm... How should I put it... Ah! In the Realm you're trying to enter, Emotions are potential friends.",
+      "cz": "Hmm... Jak bych to jen řekl... Ach! V Říši, do které se snažíš vstoupit, jsou emoce potenciálními přáteli.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Jak bych to jen řekl... Ach! V Říši, do které se snažíš vstoupit, jsou emoce potenciálními přáteli."
+    },
+    {
+      "key": "Merlin_017_f",
+      "en": "You can talk with them, dance with them, even shake their hands!",
+      "cz": "Můžete si s nimi povídat, tančit s nimi, dokonce jim i potřást rukou!",
+      "source": "pre_existing",
+      "original_cz": "Můžete si s nimi povídat, tančit s nimi, dokonce jim i potřást rukou!"
+    },
+    {
+      "key": "Merlin_023_f",
+      "en": "I get it. I'll go restore the <Lore>memory</Lore> now and get that door open.",
+      "cz": "Rozumím. Jdu teď obnovit <Lore>vzpomínku</Lore> a otevřít ty dveře.",
+      "source": "pre_existing",
+      "original_cz": "Rozumím. Jdu teď obnovit <Lore>vzpomínku</Lore> a otevřít ty dveře."
+    },
+    {
+      "key": "Merlin_018_f",
+      "en": "Let me think... Of course! Many people find that cooking brings joy. Perhaps <Lore>cooking a favorite dish</Lore> will enhance this <Lore>memory</Lore>?",
+      "cz": "Nechte mě přemýšlet... Samozřejmě! Mnoho lidí zjišťuje, že vaření přináší radost. Možná <Lore>uvaření oblíbeného jídla</Lore> tuto <Lore>vzpomínku</Lore> posílí?",
+      "source": "pre_existing",
+      "original_cz": "Nechte mě přemýšlet... Samozřejmě! Mnoho lidí zjišťuje, že vaření přináší radost. Možná <Lore>uvaření oblíbeného jídla</Lore> tuto <Lore>vzpomínku</Lore> posílí?"
+    },
+    {
+      "key": "Merlin_019_f",
+      "en": "Well, that will be a challenge to your creativity. For sadness is rarely found in this bountiful and eternal Valley.",
+      "cz": "To bude výzva pro vaši kreativitu. Neboť smutek se v tomto hojném a věčném údolí vyskytuje jen zřídka.",
+      "source": "pre_existing",
+      "original_cz": "To bude výzva pro vaši kreativitu. Neboť smutek se v tomto hojném a věčném údolí vyskytuje jen zřídka."
+    },
+    {
+      "key": "Player_005_f",
+      "en": "So I'm looking for...",
+      "cz": "Takže hledám...",
+      "source": "pre_existing",
+      "original_cz": "Takže hledám..."
+    },
+    {
+      "key": "Player_005_choice_000_f",
+      "en": "...something that doesn't belong in the Valley.",
+      "cz": "...něco, co do Údolí nepatří.",
+      "source": "pre_existing",
+      "original_cz": "...něco, co do Údolí nepatří."
+    },
+    {
+      "key": "Player_005_choice_001_f",
+      "en": "...something that's upsetting.",
+      "cz": "...něco, co je znepokojivé.",
+      "source": "pre_existing",
+      "original_cz": "...něco, co je znepokojivé."
+    },
+    {
+      "key": "Player_005_choice_002_f",
+      "en": "...something that makes everybody sad, not just me.",
+      "cz": "...něco, co zarmoucuje každého, nejen mě.",
+      "source": "pre_existing",
+      "original_cz": "...něco, co zarmoucuje každého, nejen mě."
+    },
+    {
+      "key": "Merlin_021_f",
+      "en": "Night Thorns! Those could generate sadness.",
+      "cz": "Noční trny! Ty by mohly vyvolat smutek.",
+      "source": "pre_existing",
+      "original_cz": "Noční trny! Ty by mohly vyvolat smutek."
+    },
+    {
+      "key": "Merlin_022_f",
+      "en": "What a splendid idea! Those certainly make everyone sad, including yours truly. <Lore>Taking a picture of a Night Thorn</Lore> may imbue the <Lore>memory</Lore> with sadness.",
+      "cz": "To je skvělý nápad! To jistě zarmoutilo každého, včetně mě samotného. <Lore>Vyfocení nočního trnu</Lore> může naplnit <Lore>vzpomínku</Lore> smutkem.",
+      "source": "pre_existing",
+      "original_cz": "To je skvělý nápad! To jistě zarmoutilo každého, včetně mě samotného. <Lore>Vyfocení nočního trnu</Lore> může naplnit <Lore>vzpomínku</Lore> smutkem."
+    }
+  ],
+  "InsideOut_Merlin/Merlin_RLM_InsideOutIP_Joy_010_RLM_InsideOutIP_Joy_010_TalkTo05.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Wonderful, you've restored the <Lore>memory</Lore>! Returning it to the door should re-energize the entrance.",
+      "cz": "Skvělé, obnovil jsi <Lore>vzpomínku</Lore>! Vrácení ke dveřím by mělo vchod znovu nastartovat.",
+      "source": "pre_existing",
+      "original_cz": "Skvělé, obnovil jsi <Lore>vzpomínku</Lore>! Vrácení ke dveřím by mělo vchod znovu nastartovat."
+    }
+  ],
+  "InsideOut_Merlin/Merlin_VLG_Joy_010_VLG_Joy_010_TalkTo02.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Hi, Merlin! I was wondering if you would like to join Joy and me in a game of Capture the Sun?",
+      "cz": "Ahoj Merline! Zajímalo by mě, jestli by ses ke mně a Joy nepřidal/a ve hře Capture the Sun?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj Merline! Zajímalo by mě, jestli by ses ke mně a Joy nepřidal/a ve hře Capture the Sun?"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Oh yes, Joy did ask me about how we might conjure those small cosmic wonders, but I never imagined that you'd— Did I hear you correctly? You're inviting ME to play a game?",
+      "cz": "Ano, Joy se mě ptala, jak bychom mohli vykouzlit ty malé kosmické zázraky, ale nikdy by mě nenapadlo, že bys… Slyšela jsem tě správně? Zveš MĚ, abych si zahrála hru?",
+      "source": "pre_existing",
+      "original_cz": "Ano, Joy se mě ptala, jak bychom mohli vykouzlit ty malé kosmické zázraky, ale nikdy by mě nenapadlo, že bys… Slyšela jsem tě správně? Zveš MĚ, abych si zahrála hru?"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "Yes!",
+      "cz": "Ano!",
+      "source": "pre_existing",
+      "original_cz": "Ano!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'd love for you to be there!",
+      "cz": "Moc ráda bych, abys tam byl/a!",
+      "source": "pre_existing",
+      "original_cz": "Moc ráda bych, abys tam byl/a!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Is that okay?",
+      "cz": "Je to v pořádku?",
+      "source": "pre_existing",
+      "original_cz": "Je to v pořádku?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "You don't have to if you don't want to.",
+      "cz": "Nemusíš, pokud nechceš.",
+      "source": "pre_existing",
+      "original_cz": "Nemusíš, pokud nechceš."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Everyone can use some fun now and then!",
+      "cz": "Každý si občas užije trochu zábavy!",
+      "source": "pre_existing",
+      "original_cz": "Každý si občas užije trochu zábavy!"
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "I'd be thrilled to join in your frivolity! Though, I must say, I'm a bit surprised.",
+      "cz": "Rád se k tvé lehkovážnosti připojím! I když musím říct, že mě to trochu překvapuje.",
+      "source": "pre_existing",
+      "original_cz": "Rád se k tvé lehkovážnosti připojím! I když musím říct, že mě to trochu překvapuje."
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "I'm used to people needing my help or advice. It's rather nice to be included in the fun now and again!",
+      "cz": "Jsem zvyklý na to, že lidé potřebují mou pomoc nebo radu. Je docela fajn být občas součástí zábavy!",
+      "source": "pre_existing",
+      "original_cz": "Jsem zvyklý na to, že lidé potřebují mou pomoc nebo radu. Je docela fajn být občas součástí zábavy!"
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "Great! We'll meet you in the Dream Castle a little later!",
+      "cz": "Skvělé! Sejdeme se v Hradě snů o něco později!",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Sejdeme se v Hradě snů o něco později!"
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "No, no, no. {PlayerName}, you misunderstand me.",
+      "cz": "Ne, ne, ne. {PlayerName}, špatně mě chápete.",
+      "source": "pre_existing",
+      "original_cz": "Ne, ne, ne. {PlayerName}, špatně mě chápete."
+    }
+  ],
+  "InsideOut_Merlin/Merlin_VLG_Joy_020_VLG_Joy_020_BringItem01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Merlin! I found another part of a plush bear! This time it's the <ActivityItem>Plush Bear Thread</ActivityItem>.",
+      "cz": "Merline! Našel jsem další část plyšového medvídka! Tentokrát je to <ActivityItem>Vlákno s plyšovými medvídky</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Merline! Našel jsem další část plyšového medvídka! Tentokrát je to <ActivityItem>Vlákno s plyšovými medvídky</ActivityItem>."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Let me see... Oh my! The magic emanating from this is extremely powerful! It's almost as if the bear has a great sadness imbued within it.",
+      "cz": "Ukažte... Páni! Kouzlo, které z toho vychází, je nesmírně silné! Je to skoro, jako by v sobě medvěd choval velký smutek.",
+      "source": "pre_existing",
+      "original_cz": "Ukažte... Páni! Kouzlo, které z toho vychází, je nesmírně silné! Je to skoro, jako by v sobě medvěd choval velký smutek."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Why are there parts all over the Valley?",
+      "cz": "Proč jsou části po celém údolí?",
+      "source": "pre_existing",
+      "original_cz": "Proč jsou části po celém údolí?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Who did this belong to?",
+      "cz": "Komu tohle patřilo?",
+      "source": "pre_existing",
+      "original_cz": "Komu tohle patřilo?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Why was this bear torn apart?",
+      "cz": "Proč byl tento medvěd roztrhán?",
+      "source": "pre_existing",
+      "original_cz": "Proč byl tento medvěd roztrhán?"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "I wish I had the answers, {PlayerName}.",
+      "cz": "Kéž bych znal odpovědi, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Kéž bych znal odpovědi, {PlayerName}."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "The strange sadness you and the other Villagers have been feeling... Could that be because of this bear?",
+      "cz": "Ten zvláštní smutek, který ty a ostatní vesničané cítíte... Mohlo by to být kvůli tomu medvědovi?",
+      "source": "pre_existing",
+      "original_cz": "Ten zvláštní smutek, který ty a ostatní vesničané cítíte... Mohlo by to být kvůli tomu medvědovi?"
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "That certainly seems possible.",
+      "cz": "To se jistě zdá možné.",
+      "source": "pre_existing",
+      "original_cz": "To se jistě zdá možné."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "I wonder if there are more bear parts around the Valley, then?",
+      "cz": "Zajímalo by mě, jestli je v údolí víc míst, kde žijí medvědi?",
+      "source": "pre_existing",
+      "original_cz": "Zajímalo by mě, jestli je v údolí víc míst, kde žijí medvědi?"
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "I would certainly keep your eyes open for them, {PlayerName}. I suspect we haven't found the last of this bear.",
+      "cz": "Určitě bych ti na ně dával pozor, {PlayerName}. Mám podezření, že jsme toho medvěda ještě nenašli naposledy.",
+      "source": "pre_existing",
+      "original_cz": "Určitě bych ti na ně dával pozor, {PlayerName}. Mám podezření, že jsme toho medvěda ještě nenašli naposledy."
+    }
+  ],
+  "InsideOut_Merlin/Merlin_VLG_Joy_020_VLG_Joy_020_TalkTo06.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "Hi, Merlin! Is everything okay?",
+      "cz": "Ahoj, Merline! Je všechno v pořádku?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, Merline! Je všechno v pořádku?"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "We uh... well, we noticed you seemed a little down after Capture the Sun.",
+      "cz": "My, eh... no, všimli jsme si, že jsi po filmu Zachyť slunce působil trochu sklesle.",
+      "source": "pre_existing",
+      "original_cz": "My, eh... no, všimli jsme si, že jsi po filmu Zachyť slunce působil trochu sklesle."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Oh, {PlayerName}, Joy... How perceptive. There's just so much woe in... well, in me. And blast it all! I have no idea why.",
+      "cz": "Ach, {PlayerName}, Joy... Jak vnímavá. Je v sobě tolik trápení... no, ve mně. A sakra! Nemám tušení proč.",
+      "source": "pre_existing",
+      "original_cz": "Ach, {PlayerName}, Joy... Jak vnímavá. Je v sobě tolik trápení... no, ve mně. A sakra! Nemám tušení proč."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "It's okay to be sad for no reason sometimes.",
+      "cz": "Je v pořádku být někdy smutný bezdůvodně.",
+      "source": "pre_existing",
+      "original_cz": "Je v pořádku být někdy smutný bezdůvodně."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Are you sad you lost the game?",
+      "cz": "Mrzí tě, že jsi prohrál/a zápas?",
+      "source": "pre_existing",
+      "original_cz": "Mrzí tě, že jsi prohrál/a zápas?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I think something mysterious is causing this.",
+      "cz": "Myslím, že to způsobuje něco záhadného.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že to způsobuje něco záhadného."
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "That's true! Sadness taught me that. Long story. Anyway, sometimes it's important to just feel those things!",
+      "cz": "To je pravda! Smutek mě to naučil. Dlouhý příběh. Každopádně, někdy je důležité tyhle věci prostě cítit!",
+      "source": "pre_existing",
+      "original_cz": "To je pravda! Smutek mě to naučil. Dlouhý příběh. Každopádně, někdy je důležité tyhle věci prostě cítit!"
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "You're both right, of course...",
+      "cz": "Oba máte samozřejmě pravdu...",
+      "source": "pre_existing",
+      "original_cz": "Oba máte samozřejmě pravdu..."
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "I'm sensing a \"but\" coming.",
+      "cz": "Cítím, že se blíží nějaké „ale“.",
+      "source": "pre_existing",
+      "original_cz": "Cítím, že se blíží nějaké „ale“."
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "...but this feels like a very deep sadness. Perhaps a magical one, even.",
+      "cz": "...ale tohle působí jako velmi hluboký smutek. Možná dokonce magický.",
+      "source": "pre_existing",
+      "original_cz": "...ale tohle působí jako velmi hluboký smutek. Možná dokonce magický."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I'm sorry you're going through this.",
+      "cz": "Je mi líto, čím si procházíš.",
+      "source": "pre_existing",
+      "original_cz": "Je mi líto, čím si procházíš."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "We'll help you figure this out.",
+      "cz": "Pomůžeme vám to zjistit.",
+      "source": "pre_existing",
+      "original_cz": "Pomůžeme vám to zjistit."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I've felt that way before.",
+      "cz": "Už jsem se tak cítil/a.",
+      "source": "pre_existing",
+      "original_cz": "Už jsem se tak cítil/a."
+    },
+    {
+      "key": "Merlin_016_f",
+      "en": "No one should have to feel this way alone.",
+      "cz": "Nikdo by se takhle neměl cítit sám.",
+      "source": "pre_existing",
+      "original_cz": "Nikdo by se takhle neměl cítit sám."
+    },
+    {
+      "key": "Merlin_017_f",
+      "en": "That's right. We'll help you!",
+      "cz": "Přesně tak. Pomůžeme vám!",
+      "source": "pre_existing",
+      "original_cz": "Přesně tak. Pomůžeme vám!"
+    },
+    {
+      "key": "Merlin_018_f",
+      "en": "Thank you both. *sigh* I haven't even been able to keep my library tidy.",
+      "cz": "Děkuji vám oběma. *povzdech* Ani jsem si nedokázala udržet pořádek v knihovně.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji vám oběma. *povzdech* Ani jsem si nedokázala udržet pořádek v knihovně."
+    },
+    {
+      "key": "Merlin_020_f",
+      "en": "Joy and I will go make a plan to help you. Till then, take care of yourself, okay?",
+      "cz": "S Joy vymyslíme plán, jak ti pomoct. Do té doby se o sebe starej, ano?",
+      "source": "pre_existing",
+      "original_cz": "S Joy vymyslíme plán, jak ti pomoct. Do té doby se o sebe starej, ano?"
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "I know losing can be tough. Riley doesn't like it, but she always bounces back.",
+      "cz": "Vím, že prohra může být těžká. Riley to nemá ráda, ale vždycky se vzpamatuje.",
+      "source": "pre_existing",
+      "original_cz": "Vím, že prohra může být těžká. Riley to nemá ráda, ale vždycky se vzpamatuje."
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "Oh, no, the game was quite fun. That's not what has me all out of sorts.",
+      "cz": "Ale ne, hra byla docela zábavná. To není to, co mě tak rozčiluje.",
+      "source": "pre_existing",
+      "original_cz": "Ale ne, hra byla docela zábavná. To není to, co mě tak rozčiluje."
+    },
+    {
+      "key": "Merlin_012_f",
+      "en": "What I feel right now is a deep sadness. Perhaps a magical one, even.",
+      "cz": "To, co právě teď cítím, je hluboký smutek. Možná dokonce magický.",
+      "source": "pre_existing",
+      "original_cz": "To, co právě teď cítím, je hluboký smutek. Možná dokonce magický."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "That's exactly what Sadness and I were thinking.",
+      "cz": "Přesně tohle jsme si se Smutkem mysleli.",
+      "source": "pre_existing",
+      "original_cz": "Přesně tohle jsme si se Smutkem mysleli."
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "Perhaps so.",
+      "cz": "Možná ano.",
+      "source": "pre_existing",
+      "original_cz": "Možná ano."
+    }
+  ],
+  "InsideOut_Merlin/Merlin_VLG_Joy_020_VLG_Joy_020_TalkTo11.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Hi, Merlin! Joy and I cleaned up your library. We thought that might cheer you up a bit.",
+      "cz": "Ahoj Merline! S Joy jsme ti uklidily knihovnu. Myslely jsme, že by tě to mohlo trochu rozveselit.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj Merline! S Joy jsme ti uklidily knihovnu. Myslely jsme, že by tě to mohlo trochu rozveselit."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "You did? Well, I... I certainly do appreciate the assistance.",
+      "cz": "Udělal jsi to? No, já... já si té pomoci rozhodně vážím.",
+      "source": "pre_existing",
+      "original_cz": "Udělal jsi to? No, já... já si té pomoci rozhodně vážím."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "And yet... you still look sad.",
+      "cz": "A přesto... pořád vypadáš smutně.",
+      "source": "pre_existing",
+      "original_cz": "A přesto... pořád vypadáš smutně."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "I suppose this is just deeper than an unorganized library. *sigh*",
+      "cz": "Předpokládám, že tohle je prostě hlubší než neuspořádaná knihovna. *povzdech*",
+      "source": "pre_existing",
+      "original_cz": "Předpokládám, že tohle je prostě hlubší než neuspořádaná knihovna. *povzdech*"
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "I worried that might be the case. Joy and I are going to <Lore>talk to Vanellope next</Lore> and see how we can help her, though I suspect it won't be simple. We're going to find a way to fix this, Merlin.",
+      "cz": "Bála jsem se, že by to tak mohlo být. Joy a já si příště <Lore>promluvíme s Vanellope</Lore> a uvidíme, jak jí můžeme pomoct, i když mám podezření, že to nebude jednoduché. Najdeme způsob, jak to napravit, Merline.",
+      "source": "pre_existing",
+      "original_cz": "Bála jsem se, že by to tak mohlo být. Joy a já si příště <Lore>promluvíme s Vanellope</Lore> a uvidíme, jak jí můžeme pomoct, i když mám podezření, že to nebude jednoduché. Najdeme způsob, jak to napravit, Merline."
+    }
+  ],
+  "InsideOut_Merlin/Merlin_VLG_Joy_030_VLG_Joy_030_TalkTo08.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Ah, {PlayerName}, Joy, what brings you two here?",
+      "cz": "Ach, {PlayerName}, Joy, co vás sem přivádí?",
+      "source": "pre_existing",
+      "original_cz": "Ach, {PlayerName}, Joy, co vás sem přivádí?"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "I was removing some Night Thorns from the Forgotten Lands when this <ActivityItem>Brown Plush Bear Yarn</ActivityItem> appeared!",
+      "cz": "Zrovna jsem odstraňovala Noční trny ze Zapomenutých zemí, když se objevila tato <ActivityItem>příze s hnědým plyšovým medvídkem</ActivityItem>!",
+      "source": "pre_existing",
+      "original_cz": "Zrovna jsem odstraňovala Noční trny ze Zapomenutých zemí, když se objevila tato <ActivityItem>příze s hnědým plyšovým medvídkem</ActivityItem>!"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "<i>More</i> bear parts? This is all quite unusual.",
+      "cz": "<i>Další</i> medvědí části? Tohle všechno je docela neobvyklé.",
+      "source": "pre_existing",
+      "original_cz": "<i>Další</i> medvědí části? Tohle všechno je docela neobvyklé."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "You're telling me!",
+      "cz": "Říkáš mi to!",
+      "source": "pre_existing",
+      "original_cz": "Říkáš mi to!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Unusual? More like really, REALLY weird.",
+      "cz": "Neobvyklé? Spíš fakt, fakt divné.",
+      "source": "pre_existing",
+      "original_cz": "Neobvyklé? Spíš fakt, fakt divné."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Just another day in the Valley, right?",
+      "cz": "Jen další den v údolí, že?",
+      "source": "pre_existing",
+      "original_cz": "Jen další den v údolí, že?"
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "But why did this happen now? All we were doing was giving the Forgotten Lands a little sunshine-y makeover.",
+      "cz": "Ale proč se to stalo zrovna teď? Jediné, co jsme dělali, bylo, že jsme Zapomenutým zemím dali trochu slunečného šmrncu.",
+      "source": "pre_existing",
+      "original_cz": "Ale proč se to stalo zrovna teď? Jediné, co jsme dělali, bylo, že jsme Zapomenutým zemím dali trochu slunečného šmrncu."
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "The Forgotten Lands? \"Sunshine-y\"? Balderdash! The Forgotten Lands may be dark and gloomy, but they are an important part of the Valley. What were you thinking?!",
+      "cz": "Zapomenuté země? „Sluneční“? Blbost! Zapomenuté země jsou sice temné a ponuré, ale jsou důležitou součástí Údolí. Na co sis myslel?!",
+      "source": "pre_existing",
+      "original_cz": "Zapomenuté země? „Sluneční“? Blbost! Zapomenuté země jsou sice temné a ponuré, ale jsou důležitou součástí Údolí. Na co sis myslel?!"
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "Hey, I barely changed anything! I just thought it would be a fun little update to one LITTLE part.",
+      "cz": "Hej, skoro jsem nic nezměnil! Jen jsem si myslel, že by to byla zábavná malá aktualizace jedné MALÉ části.",
+      "source": "pre_existing",
+      "original_cz": "Hej, skoro jsem nic nezměnil! Jen jsem si myslel, že by to byla zábavná malá aktualizace jedné MALÉ části."
+    },
+    {
+      "key": "Player_001_f",
+      "en": "Merlin...",
+      "cz": "Merline...",
+      "source": "pre_existing",
+      "original_cz": "Merline..."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Is that why the <ActivityItem>Brown Plush Bear Yarn</ActivityItem> appeared?",
+      "cz": "Proto se objevila <ActivityItem>příze s hnědým plyšovým medvídkem</ActivityItem>?",
+      "source": "pre_existing",
+      "original_cz": "Proto se objevila <ActivityItem>příze s hnědým plyšovým medvídkem</ActivityItem>?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Do you think that's why there was a burst of Night Thorns?",
+      "cz": "Myslíš, že proto došlo k výbuchu Nočních trnů?",
+      "source": "pre_existing",
+      "original_cz": "Myslíš, že proto došlo k výbuchu Nočních trnů?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Please tell me what you think is going on, 'cause I'm lost.",
+      "cz": "Prosím, řekněte mi, co si myslíte, že se děje, protože jsem ztracený/á.",
+      "source": "pre_existing",
+      "original_cz": "Prosím, řekněte mi, co si myslíte, že se děje, protože jsem ztracený/á."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "I'm not sure, {PlayerName}. Clearly these items are magically connected to the Valley in some way. Which means they're connected to YOU.",
+      "cz": "Nejsem si jistý, {PlayerName}. Je zřejmé, že tyto předměty jsou nějakým způsobem magicky spojeny s Údolím. Což znamená, že jsou spojeny s TEBOU.",
+      "source": "pre_existing",
+      "original_cz": "Nejsem si jistý, {PlayerName}. Je zřejmé, že tyto předměty jsou nějakým způsobem magicky spojeny s Údolím. Což znamená, že jsou spojeny s TEBOU."
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "Actually, there's something else: The more plush bear parts we find, the more I'm reminded of a moment in my past...",
+      "cz": "Vlastně je tu ještě něco jiného: Čím víc částí plyšového medvídka najdeme, tím víc si připomínám jeden okamžik z mé minulosti...",
+      "source": "pre_existing",
+      "original_cz": "Vlastně je tu ještě něco jiného: Čím víc částí plyšového medvídka najdeme, tím víc si připomínám jeden okamžik z mé minulosti..."
+    },
+    {
+      "key": "Player_002_f",
+      "en": "The details are still fuzzy, but...",
+      "cz": "Detaily jsou zatím nejasné, ale...",
+      "source": "pre_existing",
+      "original_cz": "Detaily jsou zatím nejasné, ale..."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "...a friend made fun of me for something.",
+      "cz": "...jeden kamarád si ze mě kvůli něčemu udělal legraci.",
+      "source": "pre_existing",
+      "original_cz": "...jeden kamarád si ze mě kvůli něčemu udělal legraci."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "...I was being excluded and felt so lonely.",
+      "cz": "...Byla jsem vyloučená a cítila jsem se tak osamělá.",
+      "source": "pre_existing",
+      "original_cz": "...Byla jsem vyloučená a cítila jsem se tak osamělá."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "...someone made me really mad.",
+      "cz": "...někdo mě opravdu naštval.",
+      "source": "pre_existing",
+      "original_cz": "...někdo mě opravdu naštval."
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "Embarrassment, shame... These are very difficult emotions for someone young to deal with.",
+      "cz": "Rozpaky, stud... To jsou pro někoho mladého velmi těžké emoce.",
+      "source": "pre_existing",
+      "original_cz": "Rozpaky, stud... To jsou pro někoho mladého velmi těžké emoce."
+    },
+    {
+      "key": "Merlin_014_f",
+      "en": "Could this bear have once belonged to me?",
+      "cz": "Mohl by tento medvěd kdysi patřit mně?",
+      "source": "pre_existing",
+      "original_cz": "Mohl by tento medvěd kdysi patřit mně?"
+    },
+    {
+      "key": "Merlin_015_f",
+      "en": "It's hard to say just yet. The magic of the Valley can be quite mysterious.",
+      "cz": "Těžko to zatím říct. Kouzlo údolí může být docela tajemné.",
+      "source": "pre_existing",
+      "original_cz": "Těžko to zatím říct. Kouzlo údolí může být docela tajemné."
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "What is clear is that this bear, torn up and destroyed as it is, must represent something so difficult it had to be hidden away.",
+      "cz": "Je jasné, že tento medvěd, roztrhaný a zničený tak, jak je, musí představovat něco tak složitého, že musel být skryt.",
+      "source": "pre_existing",
+      "original_cz": "Je jasné, že tento medvěd, roztrhaný a zničený tak, jak je, musí představovat něco tak složitého, že musel být skryt."
+    },
+    {
+      "key": "Merlin_016_f",
+      "en": "Maybe we just need to find the rest of the bear parts. Hiding away unpleasant things only makes them worse.",
+      "cz": "Možná jen potřebujeme najít zbytek medvědích částí těla. Schovávání nepříjemných věcí je jen zhoršuje.",
+      "source": "pre_existing",
+      "original_cz": "Možná jen potřebujeme najít zbytek medvědích částí těla. Schovávání nepříjemných věcí je jen zhoršuje."
+    },
+    {
+      "key": "Merlin_017_f",
+      "en": "A very astute observation, Joy! Why don't you two come up with a plan to bring forth the rest of this strange bear? I suspect that's the only way to get to the bottom of this.",
+      "cz": "Velmi bystrý postřeh, Joy! Proč vy dvě nevymyslíte plán, jak vyvést ven zbytek toho podivného medvěda? Hádám, že to je jediný způsob, jak se dostat k jádru věci.",
+      "source": "pre_existing",
+      "original_cz": "Velmi bystrý postřeh, Joy! Proč vy dvě nevymyslíte plán, jak vyvést ven zbytek toho podivného medvěda? Hádám, že to je jediný způsob, jak se dostat k jádru věci."
+    },
+    {
+      "key": "Merlin_012_f",
+      "en": "Feeling left out is a very difficult situation for someone young to deal with.",
+      "cz": "Pocit odcizení je pro mladého člověka velmi obtížná situace.",
+      "source": "pre_existing",
+      "original_cz": "Pocit odcizení je pro mladého člověka velmi obtížná situace."
+    },
+    {
+      "key": "Merlin_013_f",
+      "en": "Anger can be a difficult emotion to deal with when we are young.",
+      "cz": "Hněv může být v mládí těžko zvládnutelná emoce.",
+      "source": "pre_existing",
+      "original_cz": "Hněv může být v mládí těžko zvládnutelná emoce."
+    }
+  ]
+}

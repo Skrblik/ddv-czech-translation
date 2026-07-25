@@ -1,0 +1,844 @@
+{
+  "Expansion03Main_Scrooge/Scrooge_MRQS_E03_020_MRQS_E03_020_TalkTo04.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "{PlayerName}, always a pleasure to see you.",
+      "cz": "{PlayerName}, vždycky těší mě tě vidět.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, vždycky těší mě tě vidět."
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "But not a pleasure to see this! I cannae believe the Wishblossom Mountains and Ranch are in such a sorry state! It's a cryin' shame.",
+      "cz": "Ale tohle není radost vidět! Nemůžu uvěřit, že Wishblossom Mountains a Ranch jsou v tak žalostném stavu! Je to naprostá ostuda.",
+      "source": "pre_existing",
+      "original_cz": "Ale tohle není radost vidět! Nemůžu uvěřit, že Wishblossom Mountains a Ranch jsou v tak žalostném stavu! Je to naprostá ostuda."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "What are you doing here?",
+      "cz": "Co tady děláš?",
+      "source": "pre_existing",
+      "original_cz": "Co tady děláš?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Did you come to critique the landscape?",
+      "cz": "Přišel jste zkritizovat krajinu?",
+      "source": "pre_existing",
+      "original_cz": "Přišel jste zkritizovat krajinu?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I didn't think the ranch life would appeal to you.",
+      "cz": "Nemyslel jsem si, že by tě život na ranči mohl lákat.",
+      "source": "pre_existing",
+      "original_cz": "Nemyslel jsem si, že by tě život na ranči mohl lákat."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "I came to help Snow White. She's a kind, sweet lass.",
+      "cz": "Přišel jsem pomoct Sněhurce. Je to laskavá a milá holčička.",
+      "source": "pre_existing",
+      "original_cz": "Přišel jsem pomoct Sněhurce. Je to laskavá a milá holčička."
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "After you arrived here, she sent word back to the Valley. Said she needed help. I got here as quick as I could.",
+      "cz": "Poté, co jsi sem dorazil, poslala zprávu do Údolí. Řekla, že potřebuje pomoc. Dostal jsem se sem, jak nejrychleji jsem mohl.",
+      "source": "pre_existing",
+      "original_cz": "Poté, co jsi sem dorazil, poslala zprávu do Údolí. Řekla, že potřebuje pomoc. Dostal jsem se sem, jak nejrychleji jsem mohl."
+    },
+    {
+      "key": "Player_002_f",
+      "en": "Good, she needs a House.",
+      "cz": "Dobře, potřebuje dům.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, potřebuje dům."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Something destroyed her old one. Maybe Cruella?",
+      "cz": "Něco zničilo ten její starý. Možná Cruella?",
+      "source": "pre_existing",
+      "original_cz": "Něco zničilo ten její starý. Možná Cruella?"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Think you can manage it?",
+      "cz": "Myslíš, že to zvládneš?",
+      "source": "pre_existing",
+      "original_cz": "Myslíš, že to zvládneš?"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "She's been through a lot; be nice.",
+      "cz": "Prošla si tím hodně, buď milá.",
+      "source": "pre_existing",
+      "original_cz": "Prošla si tím hodně, buď milá."
+    },
+    {
+      "key": "Scrooge_008_f",
+      "en": "Cruella's about? Och, I should've known there was villainy behind this!",
+      "cz": "O Cruelle jde? Ach, měla jsem vědět, že se za tím skrývá darebnost!",
+      "source": "pre_existing",
+      "original_cz": "O Cruelle jde? Ach, měla jsem vědět, že se za tím skrývá darebnost!"
+    },
+    {
+      "key": "Scrooge_014_f",
+      "en": "Nae, it doesnae matter. Let's get wee Snow White a place to lay her head.",
+      "cz": "Ne, na tom nezáleží. Pojďme najít malé Sněhurce místo, kde si může složit hlavu.",
+      "source": "pre_existing",
+      "original_cz": "Ne, na tom nezáleží. Pojďme najít malé Sněhurce místo, kde si může složit hlavu."
+    },
+    {
+      "key": "Scrooge_007_f",
+      "en": "Course I can. What kinda enterprising businessman do you take me for?",
+      "cz": "Jasně, že můžu. Za jakého podnikavého obchodníka mě máš?",
+      "source": "pre_existing",
+      "original_cz": "Jasně, že můžu. Za jakého podnikavého obchodníka mě máš?"
+    },
+    {
+      "key": "Scrooge_013_f",
+      "en": "I'm always nice! ... Unless your surname's \"Glomgold\"!",
+      "cz": "Vždycky jsem milý! ... Pokud tedy tvoje příjmení není „Glomgold“!",
+      "source": "pre_existing",
+      "original_cz": "Vždycky jsem milý! ... Pokud tedy tvoje příjmení není „Glomgold“!"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Not at all. Just noting its unfortunate circumstances.",
+      "cz": "Vůbec ne. Jen konstatuji nešťastné okolnosti.",
+      "source": "pre_existing",
+      "original_cz": "Vůbec ne. Jen konstatuji nešťastné okolnosti."
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "O'course it does! There's adventures to be had in these Mountains... and treasure too.",
+      "cz": "Jasně že ano! V těchto horách se dají zažít dobrodružství... a taky poklady.",
+      "source": "pre_existing",
+      "original_cz": "Jasně že ano! V těchto horách se dají zažít dobrodružství... a taky poklady."
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "But that's not why I'm here.",
+      "cz": "Ale proto tu nejsem.",
+      "source": "pre_existing",
+      "original_cz": "Ale proto tu nejsem."
+    }
+  ],
+  "Expansion03Main_Scrooge/Scrooge_MRQS_E03_030_TheTown_MRQS_E03_030_TheTown_Ongoing01.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Go look into the raised drawbridge by the river with your horse. Just leave the Ranch and head east.",
+      "cz": "Jdi se s koněm podívat na vyvýšený padací most u řeky. Prostě opusť ranč a jdi na východ.",
+      "source": "pre_existing",
+      "original_cz": "Jdi se s koněm podívat na vyvýšený padací most u řeky. Prostě opusť ranč a jdi na východ."
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "You cannae miss it. There's a boulder nearby practically bigger than my money bin!",
+      "cz": "To se nedá minout. Poblíž je balvan, který je skoro větší než moje pokladna!",
+      "source": "pre_existing",
+      "original_cz": "To se nedá minout. Poblíž je balvan, který je skoro větší než moje pokladna!"
+    }
+  ],
+  "Expansion03Main_Scrooge/Scrooge_MRQS_E03_030_TheTown_MRQS_E03_030_TheTown_Ongoing02.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Did you and your horse find a way to <Lore>move the boulder to lower the drawbridge</Lore> so we can reach the village?",
+      "cz": "Našli jste s koněm způsob, jak <Lore>přesunout balvan a spustit padací most</Lore>, abychom se dostali do vesnice?",
+      "source": "pre_existing",
+      "original_cz": "Našli jste s koněm způsob, jak <Lore>přesunout balvan a spustit padací most</Lore>, abychom se dostali do vesnice?"
+    }
+  ],
+  "Expansion03Main_Scrooge/Scrooge_MRQS_E03_030_TheTown_MRQS_E03_030_TheTown_Ongoing03.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Bless me bagpipes! Ya did it!",
+      "cz": "Žehnej mi dudy! Zvládli jste to!",
+      "source": "pre_existing",
+      "original_cz": "Žehnej mi dudy! Zvládli jste to!"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Now, let's head into the village proper and see what we can see.",
+      "cz": "A teď se pojďme vydat do samotné vesnice a podívat se, co tam můžeme vidět.",
+      "source": "pre_existing",
+      "original_cz": "A teď se pojďme vydat do samotné vesnice a podívat se, co tam můžeme vidět."
+    }
+  ],
+  "Expansion03Main_Scrooge/Scrooge_MRQS_E03_030_TheTown_MRQS_E03_030_TheTown_Ongoing11.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "You got all the materials ya need to fix the <Lore>Water Tower</Lore>? Fantastic! Hop to it, {PlayerName}!",
+      "cz": "Máš všechny materiály, které potřebuješ na opravu <Lore>Vodenářské věže</Lore>? Skvělé! Hopni do toho, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Máš všechny materiály, které potřebuješ na opravu <Lore>Vodenářské věže</Lore>? Skvělé! Hopni do toho, {PlayerName}!"
+    }
+  ],
+  "Expansion03Main_Scrooge/Scrooge_MRQS_E03_030_TheTown_MRQS_E03_030_TheTown_Ongoing21.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Ya fixed the Water Tower? That's grand!",
+      "cz": "Opravil jsi tu vodárenskou věž? To je skvělé!",
+      "source": "pre_existing",
+      "original_cz": "Opravil jsi tu vodárenskou věž? To je skvělé!"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Let's <Lore>open my shop</Lore> right here in the Wishblossom Mountains.",
+      "cz": "Otevřeme si <Lore>můj obchod</Lore> přímo tady v pohoří Wishblossom.",
+      "source": "pre_existing",
+      "original_cz": "Otevřeme si <Lore>můj obchod</Lore> přímo tady v pohoří Wishblossom."
+    }
+  ],
+  "Expansion03Main_Scrooge/Scrooge_MRQS_E03_030_TheTown_MRQS_E03_030_TheTown_Ongoing23.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Ah, there you are! Come talk to me as soon as you can. We've business to discuss.",
+      "cz": "Aha, tady to máte! Pojďte si se mnou promluvit, jakmile to bude možné. Musíme o čem obchodovat.",
+      "source": "pre_existing",
+      "original_cz": "Aha, tady to máte! Pojďte si se mnou promluvit, jakmile to bude možné. Musíme o čem obchodovat."
+    }
+  ],
+  "Expansion03Main_Scrooge/Scrooge_MRQS_E03_030_TheTown_MRQS_E03_030_TheTown_Ongoing26.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "You've got to collect everything we need to fix the Water Tower in the Wishblossom Village. And no dawdling!",
+      "cz": "Musíš shromáždit všechno, co potřebujeme k opravě Vodárenské věže ve vesnici Wishblossom. A žádné otálení!",
+      "source": "pre_existing",
+      "original_cz": "Musíš shromáždit všechno, co potřebujeme k opravě Vodárenské věže ve vesnici Wishblossom. A žádné otálení!"
+    }
+  ],
+  "Expansion03Main_Scrooge/Scrooge_MRQS_E03_030_TheTown_MRQS_E03_030_TheTown_Ongoing27.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Follow me. We need to have a look at the Water Tower!",
+      "cz": "Pojďte za mnou. Musíme se podívat na Vodárenskou věž!",
+      "source": "pre_existing",
+      "original_cz": "Pojďte za mnou. Musíme se podívat na Vodárenskou věž!"
+    }
+  ],
+  "Expansion03Main_Scrooge/Scrooge_MRQS_E03_030_TheTown_MRQS_E03_030_TheTown_Ongoing28.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "If you grow your bond with your horse, you're sure to be able to move that boulder. Try petting {companion:DreamlightValley!GenericHorse}.",
+      "cz": "Pokud si s koněm vybudujete pouto, určitě s tím balvanem pohnete. Zkuste pohladit {companion:DreamlightValley!GenericHorse}.",
+      "source": "pre_existing",
+      "original_cz": "Pokud si s koněm vybudujete pouto, určitě s tím balvanem pohnete. Zkuste pohladit {companion:DreamlightValley!GenericHorse}."
+    }
+  ],
+  "Expansion03Main_Scrooge/Scrooge_MRQS_E03_030_TheTown_MRQS_E03_030_TheTown_TalkTo01.locbin": [
+    {
+      "key": "Scrooge_001_f",
+      "en": "Ah, {PlayerName}, it's grand to be back in these bonnie Mountains.",
+      "cz": "Ach, {PlayerName}, je skvělé být zpátky v těchto krásných horách.",
+      "source": "pre_existing",
+      "original_cz": "Ach, {PlayerName}, je skvělé být zpátky v těchto krásných horách."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Remy, Goofy, and I are hoping to open up shop in the wee town just east of the Ranch...",
+      "cz": "Remy, Goofy a já doufáme, že si otevřeme krámek v malém městečku východně od Ranče...",
+      "source": "pre_existing",
+      "original_cz": "Remy, Goofy a já doufáme, že si otevřeme krámek v malém městečku východně od Ranče..."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "What is it ya need, anyway?",
+      "cz": "Co vlastně potřebuješ?",
+      "source": "pre_existing",
+      "original_cz": "Co vlastně potřebuješ?"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "I'm looking for something called a \"Crystal Key.\"",
+      "cz": "Hledám něco, čemu se říká „Křišťálový klíč“.",
+      "source": "pre_existing",
+      "original_cz": "Hledám něco, čemu se říká „Křišťálový klíč“."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Have you seen it?",
+      "cz": "Viděl jsi to?",
+      "source": "pre_existing",
+      "original_cz": "Viděl jsi to?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "If I don't find it, the Mountains are doomed.",
+      "cz": "Pokud to nenajdu, Hory jsou odsouzeny k zániku.",
+      "source": "pre_existing",
+      "original_cz": "Pokud to nenajdu, Hory jsou odsouzeny k zániku."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Do you have one in your shop?",
+      "cz": "Máte nějaký ve svém obchodě?",
+      "source": "pre_existing",
+      "original_cz": "Máte nějaký ve svém obchodě?"
+    },
+    {
+      "key": "Scrooge_016_f",
+      "en": "Sorry, but I dinnae know anything about a key... a whatever-ya-called-it key.",
+      "cz": "Promiňte, ale já o klíči nic nevím... o klíči, jak se tomu říká.",
+      "source": "pre_existing",
+      "original_cz": "Promiňte, ale já o klíči nic nevím... o klíči, jak se tomu říká."
+    },
+    {
+      "key": "Scrooge_017_f",
+      "en": "A <ActivityItem>Crystal Key</ActivityItem> is a special, glowing gem.",
+      "cz": "<ActivityItem>Křišťálový klíč</ActivityItem> je speciální, zářící drahokam.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Křišťálový klíč</ActivityItem> je speciální, zářící drahokam."
+    },
+    {
+      "key": "Scrooge_018_f",
+      "en": "Well, I've DEFINITELY not seen any gems about! I've an eye for 'em, ya know.",
+      "cz": "No, rozhodně jsem žádné drahokamy neviděl! Víš, mám na ně oko.",
+      "source": "pre_existing",
+      "original_cz": "No, rozhodně jsem žádné drahokamy neviděl! Víš, mám na ně oko."
+    },
+    {
+      "key": "Scrooge_019_f",
+      "en": "Let's <Lore>go to the Wishblossom Village east of the Ranch</Lore>. Remy and Goofy are there now. Maybe they've seen something.",
+      "cz": "Pojďme <Lore>do vesnice Wishblossom východně od ranče</Lore>. Remy a Goofy jsou tam teď. Možná něco viděli.",
+      "source": "pre_existing",
+      "original_cz": "Pojďme <Lore>do vesnice Wishblossom východně od ranče</Lore>. Remy a Goofy jsou tam teď. Možná něco viděli."
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "We'll have to find a way to <Lore>lower the bridge to cross the river</Lore>.",
+      "cz": "Budeme muset najít způsob, jak <Lore>spustit most a překonat řeku</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Budeme muset najít způsob, jak <Lore>spustit most a překonat řeku</Lore>."
+    },
+    {
+      "key": "Scrooge_000_f",
+      "en": "Well, that sounds dire. Wish I could help ya {PlayerName}, but I don't even know what it is you're lookin' for.",
+      "cz": "No, to zní hrozně. Kéž bych ti mohl pomoct {PlayerName}, ale ani nevím, co hledáš.",
+      "source": "pre_existing",
+      "original_cz": "No, to zní hrozně. Kéž bych ti mohl pomoct {PlayerName}, ale ani nevím, co hledáš."
+    },
+    {
+      "key": "Scrooge_015_f",
+      "en": "I'm afraid not. I JUST did my inventory for the quarter, and I'd have noticed any magical key doohickeys.",
+      "cz": "Obávám se, že ne. Zrovna jsem si udělal inventuru za čtvrtletí a všiml bych si nějakých magických klíčů.",
+      "source": "pre_existing",
+      "original_cz": "Obávám se, že ne. Zrovna jsem si udělal inventuru za čtvrtletí a všiml bych si nějakých magických klíčů."
+    }
+  ],
+  "Expansion03Main_Scrooge/Scrooge_MRQS_E03_030_TheTown_MRQS_E03_030_TheTown_TalkTo02.locbin": [
+    {
+      "key": "Scrooge_002_f",
+      "en": "{PlayerName}! Mr. McDuck! You made it! We were just trying to figure out how to get you across the drawbridge over the river.",
+      "cz": "{PlayerName}! Pane McDucku! Zvládli jste to! Jen jsme se snažili vymyslet, jak vás dostat přes padací most přes řeku.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}! Pane McDucku! Zvládli jste to! Jen jsme se snažili vymyslet, jak vás dostat přes padací most přes řeku."
+    },
+    {
+      "key": "Scrooge_000_f",
+      "en": "Boys, {PlayerName} here is lookin' for somethin' called a <ActivityItem>Crystal Key</ActivityItem>.",
+      "cz": "Kluci, {PlayerName} tady hledá něco, čemu se říká <ActivityItem>Křišťálový klíč</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Kluci, {PlayerName} tady hledá něco, čemu se říká <ActivityItem>Křišťálový klíč</ActivityItem>."
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "A glowy gemstone of some sort. Have you seen anything like that about?",
+      "cz": "Nějaký zářící drahokam. Viděl jsi už něco takového?",
+      "source": "pre_existing",
+      "original_cz": "Nějaký zářící drahokam. Viděl jsi už něco takového?"
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Sorry, I haven't come across any glowing things. Goofy?",
+      "cz": "Promiň, ale nenarazil jsem na žádné svítící věci. Blbost?",
+      "source": "pre_existing",
+      "original_cz": "Promiň, ale nenarazil jsem na žádné svítící věci. Blbost?"
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "A glowy cave? {PlayerName}, sounds like we've got a ticket on the express train to success! Lead on to the cave, Goofy.",
+      "cz": "Zářící jeskyně? {PlayerName}, zní to, jako bychom měli lístek na rychlík k úspěchu! Veď tě k jeskyni, Goofy.",
+      "source": "pre_existing",
+      "original_cz": "Zářící jeskyně? {PlayerName}, zní to, jako bychom měli lístek na rychlík k úspěchu! Veď tě k jeskyni, Goofy."
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "And we WANT to help, but... I haven't seen anything like that.",
+      "cz": "A my CHCEME pomoct, ale... nic takového jsem neviděl/a.",
+      "source": "pre_existing",
+      "original_cz": "A my CHCEME pomoct, ale... nic takového jsem neviděl/a."
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "Well, that sounds bad but... I haven't seen any glowing... anything. Goofy?",
+      "cz": "No, to zní špatně, ale... neviděl jsem žádné zářící... nic. Blbost?",
+      "source": "pre_existing",
+      "original_cz": "No, to zní špatně, ale... neviděl jsem žádné zářící... nic. Blbost?"
+    }
+  ],
+  "Expansion03Main_Scrooge/Scrooge_MRQS_E03_030_TheTown_MRQS_E03_030_TheTown_TalkTo08.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "If this is about Goofy's Caravan wheel, {PlayerName}, I'll stop ya right there. That's business. And I cannae do business unless my shop's open.",
+      "cz": "Jestli jde o Goofyho kolo s karavanem, {PlayerName}, tak tě hned zastavím. To je byznys. A já nemůžu obchodovat, dokud nemám otevřený obchod.",
+      "source": "pre_existing",
+      "original_cz": "Jestli jde o Goofyho kolo s karavanem, {PlayerName}, tak tě hned zastavím. To je byznys. A já nemůžu obchodovat, dokud nemám otevřený obchod."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Can I help you with that?",
+      "cz": "Můžu vám s tím pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Můžu vám s tím pomoct?"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Let's cut the red ribbon already!",
+      "cz": "Už přestřihněme červenou stužku!",
+      "source": "pre_existing",
+      "original_cz": "Už přestřihněme červenou stužku!"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "What's the hold up?",
+      "cz": "Co zdržuje?",
+      "source": "pre_existing",
+      "original_cz": "Co zdržuje?"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Unfortunately, there's something we need to take care of before I can open my doors.",
+      "cz": "Bohužel, než budu moct otevřít dveře, musíme se o něco postarat.",
+      "source": "pre_existing",
+      "original_cz": "Bohužel, než budu moct otevřít dveře, musíme se o něco postarat."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Look at this place! Not exactly a vacation destination for would-be customers. The infrastructure's in shambles! There's not even running <Lore>water</Lore>!",
+      "cz": "Podívejte se na tohle místo! Není to zrovna ideální prázdninová destinace pro potenciální zákazníky. Infrastruktura je v troskách! Není tu ani tekoucí <Lore>voda</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Podívejte se na tohle místo! Není to zrovna ideální prázdninová destinace pro potenciální zákazníky. Infrastruktura je v troskách! Není tu ani tekoucí <Lore>voda</Lore>!"
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "We'll need to repair the <Lore>Water Tower</Lore> in the village before I attach the McDuck name to this shop!",
+      "cz": "Budeme muset opravit <Lore>Vodenářskou věž</Lore> ve vesnici, než k tomuto obchodu připojím jméno McDuck!",
+      "source": "pre_existing",
+      "original_cz": "Budeme muset opravit <Lore>Vodenářskou věž</Lore> ve vesnici, než k tomuto obchodu připojím jméno McDuck!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "No problem! I can fix it.",
+      "cz": "Žádný problém! Můžu to opravit.",
+      "source": "pre_existing",
+      "original_cz": "Žádný problém! Můžu to opravit."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Okay...",
+      "cz": "Dobře...",
+      "source": "pre_existing",
+      "original_cz": "Dobře..."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Sounds too easy... What's the catch?",
+      "cz": "Zní to až moc jednoduše... V čem je háček?",
+      "source": "pre_existing",
+      "original_cz": "Zní to až moc jednoduše... V čem je háček?"
+    },
+    {
+      "key": "Scrooge_009_f",
+      "en": "You've got to see the tower for yourself, first. <Lore>Follow me.</Lore>",
+      "cz": "Nejdřív si musíš věž prohlédnout na vlastní oči. <Lore>Pojď za mnou.</Lore>",
+      "source": "pre_existing",
+      "original_cz": "Nejdřív si musíš věž prohlédnout na vlastní oči. <Lore>Pojď za mnou.</Lore>"
+    }
+  ],
+  "Expansion03Main_Scrooge/Scrooge_MRQS_E03_030_TheTown_MRQS_E03_030_TheTown_TalkTo09.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "What a bonnie job ya did on that Water Tower, {PlayerName}!",
+      "cz": "To jsi odvedl skvělou práci s tou vodárenskou věží, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "To jsi odvedl skvělou práci s tou vodárenskou věží, {PlayerName}!"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "With water restored, the Wishing Alps are primed to be a perfect vacation destination. And I'm ready to open up the shop.",
+      "cz": "S obnoveným vodovodním potrubím se Alpy přání stávají ideální destinací pro dovolenou. A já jsem připraven otevřít obchod.",
+      "source": "pre_existing",
+      "original_cz": "S obnoveným vodovodním potrubím se Alpy přání stávají ideální destinací pro dovolenou. A já jsem připraven otevřít obchod."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "I'll leave the Grand Opening business up to you.",
+      "cz": "Slavnostní otevření nechám na vás.",
+      "source": "pre_existing",
+      "original_cz": "Slavnostní otevření nechám na vás."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "It's practically tradition at this point!",
+      "cz": "V tomto ohledu je to prakticky tradice!",
+      "source": "pre_existing",
+      "original_cz": "V tomto ohledu je to prakticky tradice!"
+    }
+  ],
+  "Expansion03Main_Scrooge/Scrooge_MRQS_E03_030_TheTown_MRQS_E03_030_TheTown_TalkTo10.locbin": [
+    {
+      "key": "Scrooge_001_f",
+      "en": "Sparkle me spats! The shop's open for business!",
+      "cz": "Třpytivé kamaše! Obchod je otevřený!",
+      "source": "pre_existing",
+      "original_cz": "Třpytivé kamaše! Obchod je otevřený!"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "I just know these Mountains are safe in your hands, {PlayerName}.",
+      "cz": "Vím jen, že tyto hory jsou v tvých rukou v bezpečí, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Vím jen, že tyto hory jsou v tvých rukou v bezpečí, {PlayerName}."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "This nastiness with the Decay and Cruella doesn't hold a candle to what you can do.",
+      "cz": "Tahle ošklivost s Decay a Cruellou se nedá srovnat s tím, co dokážeš.",
+      "source": "pre_existing",
+      "original_cz": "Tahle ošklivost s Decay a Cruellou se nedá srovnat s tím, co dokážeš."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm doing it for the horses!",
+      "cz": "Dělám to pro koně!",
+      "source": "pre_existing",
+      "original_cz": "Dělám to pro koně!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I sure hope so...",
+      "cz": "To doufám, že ano...",
+      "source": "pre_existing",
+      "original_cz": "To doufám, že ano..."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Thanks for the pep talk!",
+      "cz": "Díky za povzbudivou řeč!",
+      "source": "pre_existing",
+      "original_cz": "Díky za povzbudivou řeč!"
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "Whatever your reasons, you've got the whole Valley behind you.",
+      "cz": "Ať už jsou vaše důvody jakékoli, máte za sebou celé údolí.",
+      "source": "pre_existing",
+      "original_cz": "Ať už jsou vaše důvody jakékoli, máte za sebou celé údolí."
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "Oh, and here! A <Lore>brand-new wheel</Lore> for Goofy's Caravan, as promised.",
+      "cz": "A tady! <Lore>Zbrusu nové kolo</Lore> pro Goofyho karavan, jak jsem slíbil.",
+      "source": "pre_existing",
+      "original_cz": "A tady! <Lore>Zbrusu nové kolo</Lore> pro Goofyho karavan, jak jsem slíbil."
+    },
+    {
+      "key": "Scrooge_000_f",
+      "en": "I KNOW so.",
+      "cz": "JÁ TO VÍM.",
+      "source": "pre_existing",
+      "original_cz": "JÁ TO VÍM."
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "Anytime.",
+      "cz": "Kdykoli.",
+      "source": "pre_existing",
+      "original_cz": "Kdykoli."
+    }
+  ],
+  "Expansion03Main_Scrooge/Scrooge_MRQS_E03_030_TheTown_MRQS_E03_030_TheTown_TalkToDialog01.locbin": [
+    {
+      "key": "Scrooge_001_f",
+      "en": "Here it is — a total disaster! Though, I'm sure it was quite impressive before things took a nasty turn around here.",
+      "cz": "Tady to je – naprostá katastrofa! I když jsem si jistý, že to bylo docela působivé, než se to tady nepříjemně zvrtlo.",
+      "source": "pre_existing",
+      "original_cz": "Tady to je – naprostá katastrofa! I když jsem si jistý, že to bylo docela působivé, než se to tady nepříjemně zvrtlo."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "The Decay did this?",
+      "cz": "Udělal to Rozklad?",
+      "source": "pre_existing",
+      "original_cz": "Udělal to Rozklad?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "We'll get it fixed up; don't worry!",
+      "cz": "Opravíme to, nebojte se!",
+      "source": "pre_existing",
+      "original_cz": "Opravíme to, nebojte se!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "It looks like a water tower to me.",
+      "cz": "Připadá mi to jako vodárenská věž.",
+      "source": "pre_existing",
+      "original_cz": "Připadá mi to jako vodárenská věž."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Aye. There was no one here to push back against it, and all Cruella's wishes must've accelerated the process.",
+      "cz": "Ano. Nebyl tu nikdo, kdo by se tomu postavil, a všechna Cruellina přání musela proces urychlit.",
+      "source": "pre_existing",
+      "original_cz": "Ano. Nebyl tu nikdo, kdo by se tomu postavil, a všechna Cruellina přání musela proces urychlit."
+    },
+    {
+      "key": "Scrooge_008_f",
+      "en": "Now listen close, {PlayerName}...",
+      "cz": "Teď pozorně poslouchej, {PlayerName}...",
+      "source": "pre_existing",
+      "original_cz": "Teď pozorně poslouchej, {PlayerName}..."
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "Snow White explained to me that things are worse around here because there's a shortage of <ActivityItem>Pixie Dust</ActivityItem>.",
+      "cz": "Sněhurka mi vysvětlila, že je to tady horší, protože je nedostatek <ActivityItem>Praštiny víl</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Sněhurka mi vysvětlila, že je to tady horší, protože je nedostatek <ActivityItem>Praštiny víl</ActivityItem>."
+    },
+    {
+      "key": "Scrooge_007_f",
+      "en": "So I'll give you a list of materials you'll need to repair the tower, but you'll want to collect some <ActivityItem>Pixie Dust</ActivityItem> too.",
+      "cz": "Takže vám dám seznam materiálů, které budete potřebovat k opravě věže, ale budete si chtít nasbírat i nějaký <ActivityItem>Pixie Dust</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Takže vám dám seznam materiálů, které budete potřebovat k opravě věže, ale budete si chtít nasbírat i nějaký <ActivityItem>Pixie Dust</ActivityItem>."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "I knew I could count on your fighting spirit!",
+      "cz": "Věděl jsem, že se můžu spolehnout na tvou bojovnost!",
+      "source": "pre_existing",
+      "original_cz": "Věděl jsem, že se můžu spolehnout na tvou bojovnost!"
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "A water tower? Ha! A proper mess, more like. At least until we get our hands on it.",
+      "cz": "Vodárenská věž? Ha! Spíš pořádný chaos. Alespoň dokud se k ní nedostaneme.",
+      "source": "pre_existing",
+      "original_cz": "Vodárenská věž? Ha! Spíš pořádný chaos. Alespoň dokud se k ní nedostaneme."
+    }
+  ],
+  "Expansion03Main_Scrooge/Scrooge_MRQS_E03_030_TheTown_MRQS_E03_030_TheTown_TalkToDialog02.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Y'see this boulder? Why, it's practically larger than my money bin.",
+      "cz": "Vidíš tenhle balvan? Vždyť je skoro větší než moje pokladna.",
+      "source": "pre_existing",
+      "original_cz": "Vidíš tenhle balvan? Vždyť je skoro větší než moje pokladna."
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "I'll bet <Lore>{companion:DreamlightValley!GenericHorse} could push it</Lore> though.",
+      "cz": "Vsadím se, že <Lore>{companion:DreamlightValley!GenericHorse} by to ale dokázal dotáhnout</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Vsadím se, že <Lore>{companion:DreamlightValley!GenericHorse} by to ale dokázal dotáhnout</Lore>."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "But first, you're going to need to <Lore>grow your bond</Lore>.",
+      "cz": "Ale nejdřív budeš muset <Lore>posílit své pouto</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Ale nejdřív budeš muset <Lore>posílit své pouto</Lore>."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "My advice? <Lore>Try petting {companion:DreamlightValley!GenericHorse}!</Lore>",
+      "cz": "Moje rada? <Lore>Zkuste pohladit {companion:DreamlightValley!GenericHorse}!</Lore>",
+      "source": "pre_existing",
+      "original_cz": "Moje rada? <Lore>Zkuste pohladit {companion:DreamlightValley!GenericHorse}!</Lore>"
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "And might I suggest a small scratch under the chin?",
+      "cz": "A můžu navrhnout malé poškrábání pod bradou?",
+      "source": "pre_existing",
+      "original_cz": "A můžu navrhnout malé poškrábání pod bradou?"
+    }
+  ],
+  "Expansion03Main_Scrooge/Scrooge_UnlocksAndUpgrades_CruellaHouseUnlock.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Och, what a sight! Cruella's House will require a few Star Coins to repair, but what a marvelous House it'll be!",
+      "cz": "To je ale podívaná! Oprava Cruellina domu bude vyžadovat pár hvězdných mincí, ale bude to úžasný dům!",
+      "source": "pre_existing",
+      "original_cz": "To je ale podívaná! Oprava Cruellina domu bude vyžadovat pár hvězdných mincí, ale bude to úžasný dům!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's get Cruella's House fixed. (Use {UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)",
+      "cz": "Pojďme opravit Cruellin dům. (Použijte {UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)",
+      "source": "pre_existing",
+      "original_cz": "Pojďme opravit Cruellin dům. (Použijte {UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Perhaps some other time.",
+      "cz": "Možná někdy jindy.",
+      "source": "pre_existing",
+      "original_cz": "Možná někdy jindy."
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "You're a good one, {PlayerName}. Maybe even a little too good in this case.",
+      "cz": "Jsi dobrý, {PlayerName}. V tomto případě možná až příliš dobrý.",
+      "source": "pre_existing",
+      "original_cz": "Jsi dobrý, {PlayerName}. V tomto případě možná až příliš dobrý."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "I'm afraid you'll need more coins than that to cover repairs for this place.",
+      "cz": "Obávám se, že na opravy tohoto místa budete potřebovat víc mincí.",
+      "source": "pre_existing",
+      "original_cz": "Obávám se, že na opravy tohoto místa budete potřebovat víc mincí."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Making her wait a bit, aye? A shrewd business tactic, if I ever saw one.",
+      "cz": "Nechat ji trochu čekat, že? Chytrá obchodní taktika, pokud jsem ji někdy viděl.",
+      "source": "pre_existing",
+      "original_cz": "Nechat ji trochu čekat, že? Chytrá obchodní taktika, pokud jsem ji někdy viděl."
+    }
+  ],
+  "Expansion03Main_Scrooge/Scrooge_UnlocksAndUpgrades_Expansion03RestaurantUnlock.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Once we have Chez Remy fixed up, the Ranch'll surely see a boost in visitors!",
+      "cz": "Jakmile dáme Chez Remy do pořádku, ranč určitě zaznamená nárůst návštěvnosti!",
+      "source": "pre_existing",
+      "original_cz": "Jakmile dáme Chez Remy do pořádku, ranč určitě zaznamená nárůst návštěvnosti!"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Here we go...",
+      "cz": "Tak a je to tady...",
+      "source": "pre_existing",
+      "original_cz": "Tak a je to tady..."
+    }
+  ],
+  "Expansion03Main_Scrooge/Scrooge_UnlocksAndUpgrades_Expansion03StoreUnlock.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "It's just about time to open my shop in the Wishblossom Mountains!",
+      "cz": "Je zrovna načase otevřít svůj obchod v pohoří Wishblossom!",
+      "source": "pre_existing",
+      "original_cz": "Je zrovna načase otevřít svůj obchod v pohoří Wishblossom!"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Put your coins away, {PlayerName}. This one's on me. You've helped out so much with this place already.",
+      "cz": "Schovej si mince, {PlayerName}. Tyhle jsou na mě. Už jsi s tímhle místem tolik pomohl.",
+      "source": "pre_existing",
+      "original_cz": "Schovej si mince, {PlayerName}. Tyhle jsou na mě. Už jsi s tímhle místem tolik pomohl."
+    }
+  ],
+  "Expansion03Main_Scrooge/Scrooge_UnlocksAndUpgrades_SnowWhiteHouseUnlock.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Snow White's House has been ruined? That's horrible! We'll give her a nice place to stay, poor lassie.",
+      "cz": "Sněhurčin dům je zničený? To je hrozné! Dáme jí hezké místo k pobytu, chudince holčičce.",
+      "source": "pre_existing",
+      "original_cz": "Sněhurčin dům je zničený? To je hrozné! Dáme jí hezké místo k pobytu, chudince holčičce."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's build Snow White a cottage. (Use <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>",
+      "cz": "Postavme Sněhurce chaloupku. (Použijte <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>",
+      "source": "pre_existing",
+      "original_cz": "Postavme Sněhurce chaloupku. (Použijte <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Perhaps some other time.",
+      "cz": "Možná někdy jindy.",
+      "source": "pre_existing",
+      "original_cz": "Možná někdy jindy."
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "One quaint wee cottage comin' right up!",
+      "cz": "Jedna malebná chatička se blíží!",
+      "source": "pre_existing",
+      "original_cz": "Jedna malebná chatička se blíží!"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "And this time, there'll be no charge! Just don't tell anyone. Wouldn't want to ruin my reputation.",
+      "cz": "A tentokrát ti to nebudou účtovat! Jen to nikomu neříkej. Nechci si zničit pověst.",
+      "source": "pre_existing",
+      "original_cz": "A tentokrát ti to nebudou účtovat! Jen to nikomu neříkej. Nechci si zničit pověst."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Are you sure? Let's not keep her waiting too long, aye?",
+      "cz": "Jsi si jistý? Nenechme ji čekat moc dlouho, ano?",
+      "source": "pre_existing",
+      "original_cz": "Jsi si jistý? Nenechme ji čekat moc dlouho, ano?"
+    }
+  ],
+  "Expansion03Main_Scrooge/Scrooge_UnlocksAndUpgrades_TiggerHouseUnlock.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "So Tigger needs a place to stay, does he?",
+      "cz": "Takže Tygr potřebuje někde bydlet, že?",
+      "source": "pre_existing",
+      "original_cz": "Takže Tygr potřebuje někde bydlet, že?"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Well, we'll build it extra durable for that boisterously bouncing rascal!",
+      "cz": "No, pro toho bujarého poskakujícího darebáka ho postavíme extra odolného!",
+      "source": "pre_existing",
+      "original_cz": "No, pro toho bujarého poskakujícího darebáka ho postavíme extra odolného!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's build Tigger's House. (Use {UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)",
+      "cz": "Postavme Tygří dům. (Použij {UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)",
+      "source": "pre_existing",
+      "original_cz": "Postavme Tygří dům. (Použij {UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Perhaps some other time.",
+      "cz": "Možná někdy jindy.",
+      "source": "pre_existing",
+      "original_cz": "Možná někdy jindy."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "And he'll give us a proper thanks, I'm sure... If he could sit still for a moment.",
+      "cz": "A jistě nám náležitě poděkuje... Kdyby se na chvilku mohl v klidu usadit.",
+      "source": "pre_existing",
+      "original_cz": "A jistě nám náležitě poděkuje... Kdyby se na chvilku mohl v klidu usadit."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Seems you're a tad short of Star Coins. Not to worry; I'll be right here whenever you're ready to build this beauty.",
+      "cz": "Zdá se, že ti trochu chybí Star Coins. Neboj se, budu tady, až budeš připravený postavit tuhle krásku.",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že ti trochu chybí Star Coins. Neboj se, budu tady, až budeš připravený postavit tuhle krásku."
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "Are ya sure? You don't want to contain that chaos a bit?",
+      "cz": "Jsi si jistý? Nechceš ten chaos trochu zastavit?",
+      "source": "pre_existing",
+      "original_cz": "Jsi si jistý? Nechceš ten chaos trochu zastavit?"
+    }
+  ]
+}

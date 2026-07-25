@@ -1,0 +1,196 @@
+{
+  "MiniEvent23_Buzz/Buzz_Buzz_ParkFest_020_Buzz_ParkFest_020_Intro.locbin": [
+    {
+      "key": "Buzz_000_f",
+      "en": "Greetings, {PlayerName}. Woody recently gave me a checkerboard as a gift for the Parks Festival.",
+      "cz": "Zdravím, {PlayerName}. Woody mi nedávno daroval šachovnici jako dárek k Festivalu parků.",
+      "source": "pre_existing",
+      "original_cz": "Zdravím, {PlayerName}. Woody mi nedávno daroval šachovnici jako dárek k Festivalu parků."
+    },
+    {
+      "key": "Buzz_001_f",
+      "en": "We've been enjoying our time playing together. And he mentioned that you helped him make it. For that, you have my thanks.",
+      "cz": "Užívali jsme si společné hraní. A zmínil se, že jsi mu pomohl/a to zvládnout. Za to ti děkuji.",
+      "source": "pre_existing",
+      "original_cz": "Užívali jsme si společné hraní. A zmínil se, že jsi mu pomohl/a to zvládnout. Za to ti děkuji."
+    },
+    {
+      "key": "Buzz_002_f",
+      "en": "I'd like to do something for Woody in return. Goofy suggested that Woody and I work on a scrapbook.",
+      "cz": "Na oplátku bych rád pro Woodyho něco udělal. Goofy navrhl, abychom s Woodym pracovali na albu.",
+      "source": "pre_existing",
+      "original_cz": "Na oplátku bych rád pro Woodyho něco udělal. Goofy navrhl, abychom s Woodym pracovali na albu."
+    },
+    {
+      "key": "Buzz_003_f",
+      "en": "Could you <Lore>return to Bonnie's room</Lore> and take some pictures for me? Photographs of home will be an important part of our book.",
+      "cz": "Mohla by ses <Lore>vrátit do Bonnieina pokoje</Lore> a pořídit mi pár fotek? Fotografie domova budou důležitou součástí naší knihy.",
+      "source": "pre_existing",
+      "original_cz": "Mohla by ses <Lore>vrátit do Bonnieina pokoje</Lore> a pořídit mi pár fotek? Fotografie domova budou důležitou součástí naší knihy."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Time to practice my photography skills!",
+      "cz": "Je čas procvičit si své fotografické dovednosti!",
+      "source": "pre_existing",
+      "original_cz": "Je čas procvičit si své fotografické dovednosti!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Maybe later.",
+      "cz": "Možná později.",
+      "source": "pre_existing",
+      "original_cz": "Možná později."
+    },
+    {
+      "key": "Buzz_004_f",
+      "en": "I'm off to the Toy Story Realm!",
+      "cz": "Jdu do Říše hraček!",
+      "source": "pre_existing",
+      "original_cz": "Jdu do Říše hraček!"
+    }
+  ],
+  "MiniEvent23_Buzz/Buzz_Buzz_ParkFest_020_Buzz_ParkFest_020_Ongoing01.locbin": [
+    {
+      "key": "Buzz_000_f",
+      "en": "{PlayerName}, did you take the photographs of <Lore>Bonnie's room</Lore>?",
+      "cz": "{PlayerName}, vyfotil jsi <Lore>Bonniein pokoj</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, vyfotil jsi <Lore>Bonniein pokoj</Lore>?"
+    },
+    {
+      "key": "Buzz_001_f",
+      "en": "Oh, right! I need to return to the <Lore>Toy Story Realm</Lore> to do that. Don't worry, Buzz; I'm on the case.",
+      "cz": "Jasně! Abych to mohl udělat, musím se vrátit do <Lore>Království hraček</Lore>. Neboj se, Buzzi, pracuji na tom případu.",
+      "source": "pre_existing",
+      "original_cz": "Jasně! Abych to mohl udělat, musím se vrátit do <Lore>Království hraček</Lore>. Neboj se, Buzzi, pracuji na tom případu."
+    }
+  ],
+  "MiniEvent23_Buzz/Buzz_Buzz_ParkFest_020_Buzz_ParkFest_020_Outro.locbin": [
+    {
+      "key": "Buzz_000_f",
+      "en": "These photographs are excellent, {PlayerName}.",
+      "cz": "Tyto fotografie jsou vynikající, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Tyto fotografie jsou vynikající, {PlayerName}."
+    },
+    {
+      "key": "Buzz_001_f",
+      "en": "Say, are those from Bonnie's room? Oh, look! Her drawings! Her school portrait. Now, those are some great memories.",
+      "cz": "Řekněte, to je z Bonnieina pokoje? Podívejte! Její kresby! Její školní portrét. To jsou ale krásné vzpomínky.",
+      "source": "pre_existing",
+      "original_cz": "Řekněte, to je z Bonnieina pokoje? Podívejte! Její kresby! Její školní portrét. To jsou ale krásné vzpomínky."
+    },
+    {
+      "key": "Buzz_002_f",
+      "en": "I thought we could take these and make a scrapbook. What do you say, Sheriff?",
+      "cz": "Myslel jsem, že bychom si z toho mohli udělat album. Co říkáte, šerife?",
+      "source": "pre_existing",
+      "original_cz": "Myslel jsem, že bychom si z toho mohli udělat album. Co říkáte, šerife?"
+    },
+    {
+      "key": "Buzz_003_f",
+      "en": "YEE-HAA! I think that's the rootinest, tootinest idea I've heard in ages!",
+      "cz": "JOO! Myslím, že to je ta nejtrapnější a nejtrapnější myšlenka, jakou jsem za poslední dobu slyšel!",
+      "source": "pre_existing",
+      "original_cz": "JOO! Myslím, že to je ta nejtrapnější a nejtrapnější myšlenka, jakou jsem za poslední dobu slyšel!"
+    },
+    {
+      "key": "Buzz_004_f",
+      "en": "... Sorry, heh-heh. I got a little overexcited.",
+      "cz": "... Promiň, heh-heh. Trochu jsem se přehnal.",
+      "source": "pre_existing",
+      "original_cz": "... Promiň, heh-heh. Trochu jsem se přehnal."
+    },
+    {
+      "key": "Buzz_005_f",
+      "en": "Thank you for your assistance, {PlayerName}. You have my thanks — and this too. Enjoy the Parks Fest.",
+      "cz": "Děkuji za vaši pomoc, {PlayerName}. Máte mé díky – a i toto. Užijte si Festival parků.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji za vaši pomoc, {PlayerName}. Máte mé díky – a i toto. Užijte si Festival parků."
+    }
+  ],
+  "MiniEvent23_Buzz/Buzz_Daily_Buzz_ClickMagic_010_Daily_Buzz_ClickMagic_010_Intro.locbin": [
+    {
+      "key": "Buzz_000_f",
+      "en": "{PlayerName}, I heard you've been partaking in photographic scavenger hunts.",
+      "cz": "{PlayerName}, slyšel jsem, že se účastníš honů za fotografickým pokladem.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, slyšel jsem, že se účastníš honů za fotografickým pokladem."
+    },
+    {
+      "key": "Buzz_001_f",
+      "en": "Well, I've got one for you!",
+      "cz": "No, jeden pro tebe mám!",
+      "source": "pre_existing",
+      "original_cz": "No, jeden pro tebe mám!"
+    },
+    {
+      "key": "Buzz_002_f",
+      "en": "Before Woody and I arrived in the Valley, we put stickers of Hamm all over Bonnie's room. One of her friends had a sticker printer, and... well, we got a little carried away.",
+      "cz": "Než jsme s Woodym dorazili do Údolí, nalepili jsme po celém Bonniině pokoji samolepky s Hammem. Jedna z jejích kamarádek měla tiskárnu samolepek a... no, trochu jsme se nechali unést.",
+      "source": "pre_existing",
+      "original_cz": "Než jsme s Woodym dorazili do Údolí, nalepili jsme po celém Bonniině pokoji samolepky s Hammem. Jedna z jejích kamarádek měla tiskárnu samolepek a... no, trochu jsme se nechali unést."
+    },
+    {
+      "key": "Buzz_005_f",
+      "en": "Anyway — are you interested?",
+      "cz": "Každopádně – máte zájem?",
+      "source": "pre_existing",
+      "original_cz": "Každopádně – máte zájem?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm going to find every sticker!",
+      "cz": "Najdu každou samolepku!",
+      "source": "pre_existing",
+      "original_cz": "Najdu každou samolepku!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Let's talk about this later.",
+      "cz": "O tom si promluvíme později.",
+      "source": "pre_existing",
+      "original_cz": "O tom si promluvíme později."
+    },
+    {
+      "key": "Buzz_003_f",
+      "en": "Be sure to capture photographic evidence of <Lore>all four stickers</Lore>!",
+      "cz": "Nezapomeňte pořídit fotografický důkaz <Lore>všech čtyř samolepek</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Nezapomeňte pořídit fotografický důkaz <Lore>všech čtyř samolepek</Lore>!"
+    },
+    {
+      "key": "Buzz_004_f",
+      "en": "Absolutely. I'm off to your Realm!",
+      "cz": "Rozhodně. Jdu do tvé říše!",
+      "source": "pre_existing",
+      "original_cz": "Rozhodně. Jdu do tvé říše!"
+    }
+  ],
+  "MiniEvent23_Buzz/Buzz_Daily_Buzz_ClickMagic_010_Daily_Buzz_ClickMagic_010_Ongoing01.locbin": [
+    {
+      "key": "Buzz_000_f",
+      "en": "I need to track down the <Lore>stickers of Hamm</Lore> back in the Toy Story Realm and take a picture of each one with my Camera.",
+      "cz": "Potřebuji v Říši hraček najít ty <Lore>nálepky Hamma</Lore> a každou z nich vyfotit fotoaparátem.",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji v Říši hraček najít ty <Lore>nálepky Hamma</Lore> a každou z nich vyfotit fotoaparátem."
+    }
+  ],
+  "MiniEvent23_Buzz/Buzz_Daily_Buzz_ClickMagic_010_Daily_Buzz_ClickMagic_010_Outro.locbin": [
+    {
+      "key": "Buzz_000_f",
+      "en": "Nice work! You found every sticker.",
+      "cz": "Skvělá práce! Našli jste všechny samolepky.",
+      "source": "pre_existing",
+      "original_cz": "Skvělá práce! Našli jste všechny samolepky."
+    },
+    {
+      "key": "Buzz_001_f",
+      "en": "And here's a reward for your efforts, {PlayerName}. I hope you enjoyed the challenge.",
+      "cz": "A tady je odměna za tvé úsilí, {PlayerName}. Doufám, že se ti výzva líbila.",
+      "source": "pre_existing",
+      "original_cz": "A tady je odměna za tvé úsilí, {PlayerName}. Doufám, že se ti výzva líbila."
+    }
+  ]
+}

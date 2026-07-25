@@ -1,0 +1,413 @@
+{
+  "InsideOut_Goofy/Goofy_VLG_Joy_010_VLG_Joy_010_TalkTo09.locbin": [
+    {
+      "key": "Goofy_001_f",
+      "en": "Hiya, pal! I hear you're gettin' a game of Capture the Flag together!",
+      "cz": "Čau, kámo! Slyšel jsem, že si spolu chystáte zahrát Capture the Flag!",
+      "source": "pre_existing",
+      "original_cz": "Čau, kámo! Slyšel jsem, že si spolu chystáte zahrát Capture the Flag!"
+    },
+    {
+      "key": "Goofy_002_f",
+      "en": "Well, it's \"Capture the Sun,\" but you've got the idea! How would you like to join us?",
+      "cz": "No, je to „Zachyť slunce“, ale máš nápad! Co kdybys k nám přidal/a?",
+      "source": "pre_existing",
+      "original_cz": "No, je to „Zachyť slunce“, ale máš nápad! Co kdybys k nám přidal/a?"
+    },
+    {
+      "key": "Goofy_003_f",
+      "en": "Well, I sure do love games...",
+      "cz": "No, já hry rozhodně miluju...",
+      "source": "pre_existing",
+      "original_cz": "No, já hry rozhodně miluju..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "So you're in?",
+      "cz": "Takže jsi uvnitř?",
+      "source": "pre_existing",
+      "original_cz": "Takže jsi uvnitř?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Games are the best!",
+      "cz": "Hry jsou nejlepší!",
+      "source": "pre_existing",
+      "original_cz": "Hry jsou nejlepší!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "This game is a little different.",
+      "cz": "Tato hra je trochu jiná.",
+      "source": "pre_existing",
+      "original_cz": "Tato hra je trochu jiná."
+    },
+    {
+      "key": "Goofy_007_f",
+      "en": "Absolutely!",
+      "cz": "Absolutně!",
+      "source": "pre_existing",
+      "original_cz": "Absolutně!"
+    },
+    {
+      "key": "Goofy_008_f",
+      "en": "This is gonna be FUN!",
+      "cz": "Tohle bude ZÁBAVA!",
+      "source": "pre_existing",
+      "original_cz": "Tohle bude ZÁBAVA!"
+    },
+    {
+      "key": "Goofy_000_f",
+      "en": "I think so too.",
+      "cz": "Taky si to myslím.",
+      "source": "pre_existing",
+      "original_cz": "Taky si to myslím."
+    },
+    {
+      "key": "Goofy_004_f",
+      "en": "That'll make it even better!",
+      "cz": "To to ještě vylepší!",
+      "source": "pre_existing",
+      "original_cz": "To to ještě vylepší!"
+    }
+  ],
+  "InsideOut_Goofy/Goofy_VLG_Joy_020_VLG_Joy_020_BringItem07.locbin": [
+    {
+      "key": "Goofy_000_f",
+      "en": "Wow, thanks, {PlayerName}. This <ActivityItem>Shiny New Fishing Rod</ActivityItem> is swell.",
+      "cz": "Páni, díky, {PlayerName}. Tenhle <ActivityItem>Nový lesklý rybářský prut</ActivityItem> je skvělý.",
+      "source": "pre_existing",
+      "original_cz": "Páni, díky, {PlayerName}. Tenhle <ActivityItem>Nový lesklý rybářský prut</ActivityItem> je skvělý."
+    },
+    {
+      "key": "Goofy_001_f",
+      "en": "Do you feel happy again?",
+      "cz": "Cítíš se zase šťastný/á?",
+      "source": "pre_existing",
+      "original_cz": "Cítíš se zase šťastný/á?"
+    },
+    {
+      "key": "Goofy_002_f",
+      "en": "Hmm... Let me see... *sigh* Not really. But I sure do appreciate the thought.",
+      "cz": "Hmm... Tak se podívám... *povzdech* Ne tak docela. Ale tu myšlenku si opravdu vážím.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Tak se podívám... *povzdech* Ne tak docela. Ale tu myšlenku si opravdu vážím."
+    },
+    {
+      "key": "Goofy_003_f",
+      "en": "Maybe we need to test the rod out? We can go fishing together!",
+      "cz": "Možná bychom měli vyzkoušet prut? Můžeme jít společně na ryby!",
+      "source": "pre_existing",
+      "original_cz": "Možná bychom měli vyzkoušet prut? Můžeme jít společně na ryby!"
+    },
+    {
+      "key": "Goofy_004_f",
+      "en": "Ya know, come to think of it, I saw some interesting fish in the Peaceful Meadow the other day. Still don't feel much like fishin', but maybe if we do it together, it'll cheer me up.",
+      "cz": "Víš, když o tom tak přemýšlím, nedávno jsem v Klidné louce viděl pár zajímavých ryb. Pořád se mi moc nechce rybařit, ale možná když to uděláme společně, tak mě to rozveselí.",
+      "source": "pre_existing",
+      "original_cz": "Víš, když o tom tak přemýšlím, nedávno jsem v Klidné louce viděl pár zajímavých ryb. Pořád se mi moc nechce rybařit, ale možná když to uděláme společně, tak mě to rozveselí."
+    },
+    {
+      "key": "Goofy_005_f",
+      "en": "Great idea! <Lore>Let's go fishing in the pond in the Peaceful Meadow!</Lore>",
+      "cz": "Skvělý nápad! <Lore>Pojďme si zarybařit do rybníka na Klidné louce!</Lore>",
+      "source": "pre_existing",
+      "original_cz": "Skvělý nápad! <Lore>Pojďme si zarybařit do rybníka na Klidné louce!</Lore>"
+    }
+  ],
+  "InsideOut_Goofy/Goofy_VLG_Joy_020_VLG_Joy_020_FollowingBarkDialogue03.locbin": [
+    {
+      "key": "Goofy_000_f",
+      "en": "{DoNotTranslate} Not visible.",
+      "cz": "{DoNotTranslate} Není viditelné.",
+      "source": "pre_existing",
+      "original_cz": "{DoNotTranslate} Není viditelné."
+    }
+  ],
+  "InsideOut_Goofy/Goofy_VLG_Joy_020_VLG_Joy_020_TalkTo07.locbin": [
+    {
+      "key": "Goofy_000_f",
+      "en": "Hello there, {PlayerName}. Howdy, Joy. How ya doin'?",
+      "cz": "Ahoj, {PlayerName}. Zdravím, Joy. Jak se máš?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}. Zdravím, Joy. Jak se máš?"
+    },
+    {
+      "key": "Goofy_001_f",
+      "en": "Goofy, you don't seem so great. Are you okay?",
+      "cz": "Goofy, nevypadáš moc dobře. Jsi v pořádku?",
+      "source": "pre_existing",
+      "original_cz": "Goofy, nevypadáš moc dobře. Jsi v pořádku?"
+    },
+    {
+      "key": "Goofy_002_f",
+      "en": "Gawrsh, I'm not sure what's wrong. I just don't have the energy to do much of anything right now.",
+      "cz": "Gawrsh, nejsem si jistý/á, co je špatně. Prostě teď nemám energii na nic moc.",
+      "source": "pre_existing",
+      "original_cz": "Gawrsh, nejsem si jistý/á, co je špatně. Prostě teď nemám energii na nic moc."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "That sounds sad.",
+      "cz": "To zní smutně.",
+      "source": "pre_existing",
+      "original_cz": "To zní smutně."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Do you need a nap?",
+      "cz": "Potřebujete si zdřímnout?",
+      "source": "pre_existing",
+      "original_cz": "Potřebujete si zdřímnout?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "That's not like you!",
+      "cz": "To se ti nepodobá!",
+      "source": "pre_existing",
+      "original_cz": "To se ti nepodobá!"
+    },
+    {
+      "key": "Goofy_003_f",
+      "en": "It sure is.",
+      "cz": "To jistě je.",
+      "source": "pre_existing",
+      "original_cz": "To jistě je."
+    },
+    {
+      "key": "Goofy_006_f",
+      "en": "I don't even wanna go fishin'.",
+      "cz": "Ani se mi nechce jít na ryby.",
+      "source": "pre_existing",
+      "original_cz": "Ani se mi nechce jít na ryby."
+    },
+    {
+      "key": "Goofy_008_f",
+      "en": "Seriously? Something strange is definitely happening here.",
+      "cz": "Vážně? Tady se rozhodně děje něco divného.",
+      "source": "pre_existing",
+      "original_cz": "Vážně? Tady se rozhodně děje něco divného."
+    },
+    {
+      "key": "Goofy_009_f",
+      "en": "We'll help you find that spark again! We just need to make a plan.",
+      "cz": "Pomůžeme ti znovu najít tu jiskru! Jen musíme vymyslet plán.",
+      "source": "pre_existing",
+      "original_cz": "Pomůžeme ti znovu najít tu jiskru! Jen musíme vymyslet plán."
+    },
+    {
+      "key": "Goofy_010_f",
+      "en": "Okay. Well, I'll wait for ya here... So long.",
+      "cz": "Dobře. Tak na tebe tady počkám... Tak sbohem.",
+      "source": "pre_existing",
+      "original_cz": "Dobře. Tak na tebe tady počkám... Tak sbohem."
+    },
+    {
+      "key": "Goofy_004_f",
+      "en": "No, that's not it.",
+      "cz": "Ne, to není ono.",
+      "source": "pre_existing",
+      "original_cz": "Ne, to není ono."
+    },
+    {
+      "key": "Goofy_005_f",
+      "en": "It sure isn't...",
+      "cz": "To určitě ne...",
+      "source": "pre_existing",
+      "original_cz": "To určitě ne..."
+    }
+  ],
+  "InsideOut_Goofy/Goofy_VLG_Joy_020_VLG_Joy_020_TalkTo13.locbin": [
+    {
+      "key": "Goofy_000_f",
+      "en": "Hi Goofy! How are you feeling? Any better yet?",
+      "cz": "Ahoj Goofy! Jak se cítíš? Už je ti líp?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj Goofy! Jak se cítíš? Už je ti líp?"
+    },
+    {
+      "key": "Goofy_001_f",
+      "en": "'Fraid not, {PlayerName}. Feels like I could fill a fishin' pond with my \"ho-hums,\" AND I wouldn't even wanna fish in it.",
+      "cz": "„Bohužel ne, {PlayerName}.“ Připadám si, jako bych svými „ho-humy“ naplnil rybník A ANI bych v něm nechtěl rybařit.",
+      "source": "pre_existing",
+      "original_cz": "„Bohužel ne, {PlayerName}.“ Připadám si, jako bych svými „ho-humy“ naplnil rybník A ANI bych v něm nechtěl rybařit."
+    },
+    {
+      "key": "Player_000_f",
+      "en": "Aw, Goofy...",
+      "cz": "Jo, Goofy...",
+      "source": "pre_existing",
+      "original_cz": "Jo, Goofy..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I hate to see you like this.",
+      "cz": "Nesnáším tě takhle vidět.",
+      "source": "pre_existing",
+      "original_cz": "Nesnáším tě takhle vidět."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "There must be some way to cheer you up.",
+      "cz": "Musí existovat nějaký způsob, jak tě rozveselit.",
+      "source": "pre_existing",
+      "original_cz": "Musí existovat nějaký způsob, jak tě rozveselit."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Have you tried NOT being sad?",
+      "cz": "Zkoušel/a jsi NEBÝT smutný/á?",
+      "source": "pre_existing",
+      "original_cz": "Zkoušel/a jsi NEBÝT smutný/á?"
+    },
+    {
+      "key": "Goofy_002_f",
+      "en": "Gawrsh, I'm sorry that my feelin' bad is makin' you feel bad.",
+      "cz": "Gawrsh, je mi líto, že můj špatný pocit způsobuje, že se cítíš špatně i ty.",
+      "source": "pre_existing",
+      "original_cz": "Gawrsh, je mi líto, že můj špatný pocit způsobuje, že se cítíš špatně i ty."
+    },
+    {
+      "key": "Goofy_005_f",
+      "en": "Don't apologize! I know it isn't your fault. This magic funk has hit a bunch of Villagers hard.",
+      "cz": "Neomlouvej se! Vím, že to není tvoje chyba. Tahle magická katastrofa tvrdě zasáhla spoustu vesničanů.",
+      "source": "pre_existing",
+      "original_cz": "Neomlouvej se! Vím, že to není tvoje chyba. Tahle magická katastrofa tvrdě zasáhla spoustu vesničanů."
+    },
+    {
+      "key": "Goofy_007_f",
+      "en": "I have an idea! Goofy, what if we made you a brand-new fishing rod? Maybe that'll spark something!",
+      "cz": "Mám nápad! Goofy, co kdybychom ti vyrobili úplně nový rybářský prut? Třeba z toho něco vyjde!",
+      "source": "pre_existing",
+      "original_cz": "Mám nápad! Goofy, co kdybychom ti vyrobili úplně nový rybářský prut? Třeba z toho něco vyjde!"
+    },
+    {
+      "key": "Goofy_008_f",
+      "en": "Aw, you two are real sweet to me. I don't deserve friends like you.",
+      "cz": "Jé, vy dva jste ke mně fakt milí. Nezasloužím si takové kamarády jako vy.",
+      "source": "pre_existing",
+      "original_cz": "Jé, vy dva jste ke mně fakt milí. Nezasloužím si takové kamarády jako vy."
+    },
+    {
+      "key": "Goofy_009_f",
+      "en": "Of course you do. I'll <Lore>craft a Shiny New Fishing Rod</Lore> just for you, Goofy!",
+      "cz": "Jasně, že ano. Vyrobím ti <Lore>nový lesklý rybářský prut</Lore>, Goofy!",
+      "source": "pre_existing",
+      "original_cz": "Jasně, že ano. Vyrobím ti <Lore>nový lesklý rybářský prut</Lore>, Goofy!"
+    },
+    {
+      "key": "Goofy_003_f",
+      "en": "If there is, I can't figure it out. If fishin' can't do it, I don't know what will.",
+      "cz": "Pokud ano, tak to nedokážu zjistit. Pokud to rybaření nezvládne, nevím, co ano.",
+      "source": "pre_existing",
+      "original_cz": "Pokud ano, tak to nedokážu zjistit. Pokud to rybaření nezvládne, nevím, co ano."
+    },
+    {
+      "key": "Goofy_004_f",
+      "en": "I don't think that's exactly helpful, {PlayerName}.",
+      "cz": "Nemyslím si, že je to zrovna užitečné, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Nemyslím si, že je to zrovna užitečné, {PlayerName}."
+    },
+    {
+      "key": "Goofy_006_f",
+      "en": "You're right; I'm sorry. I just want to help somehow.",
+      "cz": "Máš pravdu, omlouvám se, jen chci nějak pomoct.",
+      "source": "pre_existing",
+      "original_cz": "Máš pravdu, omlouvám se, jen chci nějak pomoct."
+    }
+  ],
+  "InsideOut_Goofy/Goofy_VLG_Sadn_020_VLG_Sadn_020_TalkTo06.locbin": [
+    {
+      "key": "Goofy_000_f",
+      "en": "Hello, Goofy! I was wondering if you could lend me a spare pillow? It's for a pillow fort I made for Sadness.",
+      "cz": "Ahoj Goofy! Zajímalo by mě, jestli bys mi nemohl půjčit náhradní polštář? Je do polštářové pevnosti, kterou jsem vyrobil pro Smutek.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj Goofy! Zajímalo by mě, jestli bys mi nemohl půjčit náhradní polštář? Je do polštářové pevnosti, kterou jsem vyrobil pro Smutek."
+    },
+    {
+      "key": "Goofy_001_f",
+      "en": "Gawrsh, I'd be happy to loan you a pillow, {PlayerName}!",
+      "cz": "Gawrsh, rád ti půjčím polštář, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Gawrsh, rád ti půjčím polštář, {PlayerName}!"
+    },
+    {
+      "key": "Goofy_002_f",
+      "en": "Great!",
+      "cz": "Velký!",
+      "source": "pre_existing",
+      "original_cz": "Velký!"
+    },
+    {
+      "key": "Goofy_003_f",
+      "en": "But unfortunately, my only spare one fell in the water at Dazzle Beach.",
+      "cz": "Ale bohužel mi jediný náhradní spadl do vody na pláži Dazzle.",
+      "source": "pre_existing",
+      "original_cz": "Ale bohužel mi jediný náhradní spadl do vody na pláži Dazzle."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Oh Goofy, you're so funny!",
+      "cz": "Ach Goofy, jsi tak vtipný!",
+      "source": "pre_existing",
+      "original_cz": "Ach Goofy, jsi tak vtipný!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "You were using a pillow for bait?",
+      "cz": "Používal jsi polštář jako návnadu?",
+      "source": "pre_existing",
+      "original_cz": "Používal jsi polštář jako návnadu?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "... How does that happen, exactly?",
+      "cz": "... Jak se to přesně stane?",
+      "source": "pre_existing",
+      "original_cz": "... Jak se to přesně stane?"
+    },
+    {
+      "key": "Goofy_004_f",
+      "en": "Gee, thanks, {PlayerName}! Though I don't think I told ya a joke...",
+      "cz": "Páni, díky, {PlayerName}! I když si nemyslím, že jsem ti vyprávěl vtip...",
+      "source": "pre_existing",
+      "original_cz": "Páni, díky, {PlayerName}! I když si nemyslím, že jsem ti vyprávěl vtip..."
+    },
+    {
+      "key": "Goofy_007_f",
+      "en": "I brought the pillow to Dazzle Beach, thinkin' I could sit on it by the water. But while I was walkin' along the shore, I tripped and the pillow went flying!",
+      "cz": "Vzal jsem si polštář na Dazzle Beach v domnění, že si na něm můžu sednout u vody. Ale když jsem šel podél břehu, zakopl jsem a polštář odletěl!",
+      "source": "pre_existing",
+      "original_cz": "Vzal jsem si polštář na Dazzle Beach v domnění, že si na něm můžu sednout u vody. Ale když jsem šel podél břehu, zakopl jsem a polštář odletěl!"
+    },
+    {
+      "key": "Goofy_008_f",
+      "en": "You're welcome to keep it if you can fish it outta the water and dry it off.",
+      "cz": "Můžeš si ho nechat, pokud ho dokážeš vylovit z vody a osušit.",
+      "source": "pre_existing",
+      "original_cz": "Můžeš si ho nechat, pokud ho dokážeš vylovit z vody a osušit."
+    },
+    {
+      "key": "Goofy_009_f",
+      "en": "Guess I'll <Lore>go fishing off Dazzle Beach</Lore> and try to find this pillow of yours. Thanks!",
+      "cz": "Asi <Lore>pojedu na ryby k Dazzle Beach</Lore> a zkusím najít tenhle tvůj polštář. Díky!",
+      "source": "pre_existing",
+      "original_cz": "Asi <Lore>pojedu na ryby k Dazzle Beach</Lore> a zkusím najít tenhle tvůj polštář. Díky!"
+    },
+    {
+      "key": "Goofy_005_f",
+      "en": "No, it was nothin' like that. Though I suppose if I was fishin' for sleepy fish it might work. A-hyuck!",
+      "cz": "Ne, nic takového to nebylo. I když si myslím, že kdybych chytal ospalé ryby, mohlo by to fungovat. Hyp!",
+      "source": "pre_existing",
+      "original_cz": "Ne, nic takového to nebylo. I když si myslím, že kdybych chytal ospalé ryby, mohlo by to fungovat. Hyp!"
+    },
+    {
+      "key": "Goofy_006_f",
+      "en": "What was a pillow ever doing near the water? How did it get INTO the water? I'm so confused.",
+      "cz": "Co dělal polštář u vody? Jak se dostal DO VODY? Jsem tak zmatený.",
+      "source": "pre_existing",
+      "original_cz": "Co dělal polštář u vody? Jak se dostal DO VODY? Jsem tak zmatený."
+    }
+  ]
+}

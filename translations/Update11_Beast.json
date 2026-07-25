@@ -1,0 +1,620 @@
+{
+  "Update11_Beast/Beast_CrossNPCDialogues_Mushu_VLG_Mush_020_MushuBeastListen01.locbin": [
+    {
+      "key": "Beast_001_f",
+      "en": "Hey Beast. Real quick, take a look at that sign there and tell me what you see.",
+      "cz": "Hej Bestie. Rychle se podívej na tu ceduli a řekni mi, co vidíš.",
+      "source": "pre_existing",
+      "original_cz": "Hej Bestie. Rychle se podívej na tu ceduli a řekni mi, co vidíš."
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "Destruction.",
+      "cz": "Zničení.",
+      "source": "pre_existing",
+      "original_cz": "Zničení."
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "No... Wait. Shame and guilt?",
+      "cz": "Ne... Počkejte. Hanba a vina?",
+      "source": "pre_existing",
+      "original_cz": "Ne... Počkejte. Hanba a vina?"
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "An empty room where your only company is shadows?",
+      "cz": "Prázdná místnost, kde tvou jedinou společností jsou stíny?",
+      "source": "pre_existing",
+      "original_cz": "Prázdná místnost, kde tvou jedinou společností jsou stíny?"
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "That can't be right! UGH, listen to me, I'm a fool!",
+      "cz": "To nemůže být pravda! Fuj, poslouchejte mě, jsem blázen!",
+      "source": "pre_existing",
+      "original_cz": "To nemůže být pravda! Fuj, poslouchejte mě, jsem blázen!"
+    },
+    {
+      "key": "Beast_006_f",
+      "en": "Whoa. Okay... Um... Don't worry. It's just some silly splashes of ink on paper.",
+      "cz": "No páni. Dobře... Ehm... Nebojte se. Jsou to jen nějaké hloupé cákance inkoustu na papíře.",
+      "source": "pre_existing",
+      "original_cz": "No páni. Dobře... Ehm... Nebojte se. Jsou to jen nějaké hloupé cákance inkoustu na papíře."
+    },
+    {
+      "key": "Beast_007_f",
+      "en": "In fact, I think that might just be spilled tea. How'd that get on there?",
+      "cz": "Vlastně si myslím, že to mohl být jen rozlitý čaj. Jak se tam dostal?",
+      "source": "pre_existing",
+      "original_cz": "Vlastně si myslím, že to mohl být jen rozlitý čaj. Jak se tam dostal?"
+    },
+    {
+      "key": "Beast_000_f",
+      "en": "Hey, you go ahead and relax.",
+      "cz": "Hej, klidně si odpočiň.",
+      "source": "pre_existing",
+      "original_cz": "Hej, klidně si odpočiň."
+    },
+    {
+      "key": "Beast_008_f",
+      "en": "We'll be back real soon with step two, which will definitely make you feel better.",
+      "cz": "Brzy se vrátíme s druhým krokem, který vám určitě zlepší náladu.",
+      "source": "pre_existing",
+      "original_cz": "Brzy se vrátíme s druhým krokem, který vám určitě zlepší náladu."
+    }
+  ],
+  "Update11_Beast/Beast_CrossNPCDialogues_Mushu_VLG_Mush_020_MushuBeastListen02.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Is that a statue of ME? Mushu, what is this?",
+      "cz": "Je to socha MĚ? Mushu, co to je?",
+      "source": "pre_existing",
+      "original_cz": "Je to socha MĚ? Mushu, co to je?"
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "I'm not Mushu, I'm the Beast! And I deserve to be cursed forever.",
+      "cz": "Nejsem Mushu, jsem Bestie! A zasloužím si být navždy proklet.",
+      "source": "pre_existing",
+      "original_cz": "Nejsem Mushu, jsem Bestie! A zasloužím si být navždy proklet."
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "Hmm...",
+      "cz": "Hmm...",
+      "source": "pre_existing",
+      "original_cz": "Hmm..."
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "NOBODY should be allowed to learn from their mistakes, or grow, or change!",
+      "cz": "NIKDO by neměl mít možnost učit se ze svých chyb, růst nebo se měnit!",
+      "source": "pre_existing",
+      "original_cz": "NIKDO by neměl mít možnost učit se ze svých chyb, růst nebo se měnit!"
+    },
+    {
+      "key": "Beast_009_f",
+      "en": "I don't believe that—",
+      "cz": "Tomu nevěřím—",
+      "source": "pre_existing",
+      "original_cz": "Tomu nevěřím—"
+    },
+    {
+      "key": "Beast_006_f",
+      "en": "And I, THE BEAST, haven't made new friends and I don't care about anyone: I'm selfish, selfish, selfish.",
+      "cz": "A já, BESTIE, jsem si nenašla nové přátele a na nikom mi nezáleží: Jsem sobecká, sobecká, sobecká.",
+      "source": "pre_existing",
+      "original_cz": "A já, BESTIE, jsem si nenašla nové přátele a na nikom mi nezáleží: Jsem sobecká, sobecká, sobecká."
+    },
+    {
+      "key": "Beast_007_f",
+      "en": "That's not true! There's Belle, and {PlayerName}, and others here. I care for them a great deal.",
+      "cz": "To není pravda! Je tu Belle, {PlayerName} a další. Moc mi na nich záleží.",
+      "source": "pre_existing",
+      "original_cz": "To není pravda! Je tu Belle, {PlayerName} a další. Moc mi na nich záleží."
+    },
+    {
+      "key": "Beast_008_f",
+      "en": "Why would you talk about yourself this way? Oh. I... I think I understand this lesson.",
+      "cz": "Proč o sobě takhle mluvíš? Aha. Já... myslím, že tuhle lekci chápu.",
+      "source": "pre_existing",
+      "original_cz": "Proč o sobě takhle mluvíš? Aha. Já... myslím, že tuhle lekci chápu."
+    }
+  ],
+  "Update11_Beast/Beast_VLG_Mush_020_VLG_Mush_020_BringItem02.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "What is this? It smells delicious.",
+      "cz": "Co to je? Voní to lahodně.",
+      "source": "pre_existing",
+      "original_cz": "Co to je? Voní to lahodně."
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "Wonton soup. Mulan's grandmother's recipe.",
+      "cz": "Polévka wonton. Recept Mulaniny babičky.",
+      "source": "pre_existing",
+      "original_cz": "Polévka wonton. Recept Mulaniny babičky."
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "Thank you, {PlayerName}.",
+      "cz": "Děkuji, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji, {PlayerName}."
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "If I have friends like you, Belle, and Mushu who treat me with kindness...",
+      "cz": "Kdybych měla přátele jako ty, Belle a Mushu, kteří se ke mně chovají laskavě...",
+      "source": "pre_existing",
+      "original_cz": "Kdybych měla přátele jako ty, Belle a Mushu, kteří se ke mně chovají laskavě..."
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "...that's a very good sign that I should try to treat myself with kindness as well.",
+      "cz": "...to je velmi dobré znamení, že bych se měl/a také snažit chovat se k sobě laskavě.",
+      "source": "pre_existing",
+      "original_cz": "...to je velmi dobré znamení, že bych se měl/a také snažit chovat se k sobě laskavě."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "So proud of you!",
+      "cz": "Jsem na tebe tak hrdý/á!",
+      "source": "pre_existing",
+      "original_cz": "Jsem na tebe tak hrdý/á!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Wow, Mushu's program worked?",
+      "cz": "Páni, Mushuův program fungoval?",
+      "source": "pre_existing",
+      "original_cz": "Páni, Mushuův program fungoval?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "You better try, or the mannequin is coming back.",
+      "cz": "Raději to zkus, nebo se figurína vrátí.",
+      "source": "pre_existing",
+      "original_cz": "Raději to zkus, nebo se figurína vrátí."
+    },
+    {
+      "key": "Beast_007_f",
+      "en": "I... Thank you. That means a great deal.",
+      "cz": "Já... Děkuji. To pro mě hodně znamená.",
+      "source": "pre_existing",
+      "original_cz": "Já... Děkuji. To pro mě hodně znamená."
+    },
+    {
+      "key": "Beast_006_f",
+      "en": "I think it did. He's a very good Guardian.",
+      "cz": "Myslím, že ano. Je to velmi dobrý Strážce.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že ano. Je to velmi dobrý Strážce."
+    },
+    {
+      "key": "Beast_008_f",
+      "en": "I will do my very best.",
+      "cz": "Udělám, co bude v mých silách.",
+      "source": "pre_existing",
+      "original_cz": "Udělám, co bude v mých silách."
+    }
+  ],
+  "Update11_Beast/Beast_VLG_Mush_020_VLG_Mush_020_FollowingBarkDialogue02.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Are you certain this is a good idea...?",
+      "cz": "Jsi si jistý/á, že je to dobrý nápad...?",
+      "source": "pre_existing",
+      "original_cz": "Jsi si jistý/á, že je to dobrý nápad...?"
+    }
+  ],
+  "Update11_Beast/Beast_VLG_Mush_020_VLG_Mush_020_TalkTo01.locbin": [
+    {
+      "key": "Beast_001_f",
+      "en": "Hey, Beast...",
+      "cz": "Hej, Bestie...",
+      "source": "pre_existing",
+      "original_cz": "Hej, Bestie..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Your fur is SO shiny today!",
+      "cz": "Dnes máš TAK lesklou srst!",
+      "source": "pre_existing",
+      "original_cz": "Dnes máš TAK lesklou srst!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "You're looking very... serious.",
+      "cz": "Vypadáš velmi... vážně.",
+      "source": "pre_existing",
+      "original_cz": "Vypadáš velmi... vážně."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Are you brooding AGAIN?",
+      "cz": "Zase se trápíš?",
+      "source": "pre_existing",
+      "original_cz": "Zase se trápíš?"
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "I didn't do anything different.",
+      "cz": "Neudělal jsem nic jiného.",
+      "source": "pre_existing",
+      "original_cz": "Neudělal jsem nic jiného."
+    },
+    {
+      "key": "Beast_009_f",
+      "en": "... But... thank you. That was very nice of you to say.",
+      "cz": "... Ale... děkuji. To bylo od vás moc hezké.",
+      "source": "pre_existing",
+      "original_cz": "... Ale... děkuji. To bylo od vás moc hezké."
+    },
+    {
+      "key": "Beast_010_f",
+      "en": "Can I talk to you about something?",
+      "cz": "Můžu s tebou o něčem mluvit?",
+      "source": "pre_existing",
+      "original_cz": "Můžu s tebou o něčem mluvit?"
+    },
+    {
+      "key": "Player_001_f",
+      "en": "You know Mushu, right?",
+      "cz": "Znáš Mushua, že?",
+      "source": "pre_existing",
+      "original_cz": "Znáš Mushua, že?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "He wants to help build up your confidence.",
+      "cz": "Chce ti pomoci vybudovat si sebevědomí.",
+      "source": "pre_existing",
+      "original_cz": "Chce ti pomoci vybudovat si sebevědomí."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "He thinks you look sad.",
+      "cz": "Myslí si, že vypadáš smutně.",
+      "source": "pre_existing",
+      "original_cz": "Myslí si, že vypadáš smutně."
+    },
+    {
+      "key": "Beast_012_f",
+      "en": "He... wants to help me? How? Why?",
+      "cz": "On... mi chce pomoct? Jak? Proč?",
+      "source": "pre_existing",
+      "original_cz": "On... mi chce pomoct? Jak? Proč?"
+    },
+    {
+      "key": "Beast_013_f",
+      "en": "I thought opening my Greenhouse helped the Village accept me.",
+      "cz": "Myslel jsem, že otevření mého skleníku pomohlo vesnici mě přijmout.",
+      "source": "pre_existing",
+      "original_cz": "Myslel jsem, že otevření mého skleníku pomohlo vesnici mě přijmout."
+    },
+    {
+      "key": "Beast_015_f",
+      "en": "I think... Mushu wants to help you accept YOURSELF. He's got some kind of program that he thinks will help.",
+      "cz": "Myslím... Mushu ti chce pomoct přijmout SEBE. Má nějaký program, o kterém si myslí, že ti pomůže.",
+      "source": "pre_existing",
+      "original_cz": "Myslím... Mushu ti chce pomoct přijmout SEBE. Má nějaký program, o kterém si myslí, že ti pomůže."
+    },
+    {
+      "key": "Beast_016_f",
+      "en": "I don't know. That makes me...",
+      "cz": "Nevím. To mě nutí...",
+      "source": "pre_existing",
+      "original_cz": "Nevím. To mě nutí..."
+    },
+    {
+      "key": "Beast_017_f",
+      "en": "Nervous.",
+      "cz": "Nervózní.",
+      "source": "pre_existing",
+      "original_cz": "Nervózní."
+    },
+    {
+      "key": "Player_003_f",
+      "en": "Would it help if I do Mushu's program with you?",
+      "cz": "Pomohlo by ti, kdybych s tebou dělal Mushuův program?",
+      "source": "pre_existing",
+      "original_cz": "Pomohlo by ti, kdybych s tebou dělal Mushuův program?"
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "We can go through it together.",
+      "cz": "Můžeme si tím projít společně.",
+      "source": "pre_existing",
+      "original_cz": "Můžeme si tím projít společně."
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "It will prove Mushu is trustworthy.",
+      "cz": "To dokáže, že Mushu je důvěryhodný.",
+      "source": "pre_existing",
+      "original_cz": "To dokáže, že Mushu je důvěryhodný."
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "I should be there in case it's a disaster.",
+      "cz": "Měl bych tam být pro případ, že by došlo k nějaké katastrofě.",
+      "source": "pre_existing",
+      "original_cz": "Měl bych tam být pro případ, že by došlo k nějaké katastrofě."
+    },
+    {
+      "key": "Beast_018_f",
+      "en": "That would make me more comfortable. Hmm...",
+      "cz": "To by mi udělalo větší pohodlí. Hmm...",
+      "source": "pre_existing",
+      "original_cz": "To by mi udělalo větší pohodlí. Hmm..."
+    },
+    {
+      "key": "Beast_021_f",
+      "en": "Tell Mushu I will accept his help... please.",
+      "cz": "Řekni Mushuovi, že přijmu jeho pomoc... prosím.",
+      "source": "pre_existing",
+      "original_cz": "Řekni Mushuovi, že přijmu jeho pomoc... prosím."
+    },
+    {
+      "key": "Beast_019_f",
+      "en": "I trust him. It's myself I don't trust. Hmm...",
+      "cz": "Věřím mu. Sama sobě nevěřím. Hmm...",
+      "source": "pre_existing",
+      "original_cz": "Věřím mu. Sama sobě nevěřím. Hmm..."
+    },
+    {
+      "key": "Beast_020_f",
+      "en": "Hmm. Perhaps with you, it won't be... bad.",
+      "cz": "Hmm. Možná s tebou to nebude... špatné.",
+      "source": "pre_existing",
+      "original_cz": "Hmm. Možná s tebou to nebude... špatné."
+    },
+    {
+      "key": "Beast_014_f",
+      "en": "I... I've been trying to understand how to make the Villagers... accept me.",
+      "cz": "Já... Snažím se pochopit, jak přimět vesničany... aby mě přijali.",
+      "source": "pre_existing",
+      "original_cz": "Já... Snažím se pochopit, jak přimět vesničany... aby mě přijali."
+    },
+    {
+      "key": "Beast_011_f",
+      "en": "I am not... sad. I'm... something else.",
+      "cz": "Nejsem... smutný. Jsem... něco jiného.",
+      "source": "pre_existing",
+      "original_cz": "Nejsem... smutný. Jsem... něco jiného."
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "I suppose I am serious.",
+      "cz": "Asi to myslím vážně.",
+      "source": "pre_existing",
+      "original_cz": "Asi to myslím vážně."
+    },
+    {
+      "key": "Beast_007_f",
+      "en": "I'm sorry if that bothers you.",
+      "cz": "Je mi líto, pokud vám to vadí.",
+      "source": "pre_existing",
+      "original_cz": "Je mi líto, pokud vám to vadí."
+    },
+    {
+      "key": "Beast_008_f",
+      "en": "I'm just making conversation.",
+      "cz": "Jen si povídám.",
+      "source": "pre_existing",
+      "original_cz": "Jen si povídám."
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "No. I'm... *sigh* Fine, I may be brooding...",
+      "cz": "Ne. Já... *povzdech* Fajn, možná jsem zamyšlený...",
+      "source": "pre_existing",
+      "original_cz": "Ne. Já... *povzdech* Fajn, možná jsem zamyšlený..."
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "...a little.",
+      "cz": "...trochu.",
+      "source": "pre_existing",
+      "original_cz": "...trochu."
+    }
+  ],
+  "Update11_Beast/Beast_VLG_Mush_020_VLG_Mush_020_TalkTo05.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Hey, Beast! Mushu says we're ready for phase two of his program.",
+      "cz": "Hej, Bestie! Mushu říká, že jsme připraveni na druhou fázi jeho programu.",
+      "source": "pre_existing",
+      "original_cz": "Hej, Bestie! Mushu říká, že jsme připraveni na druhou fázi jeho programu."
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "What is it?",
+      "cz": "Co to je?",
+      "source": "pre_existing",
+      "original_cz": "Co to je?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Something to help you celebrate your strength.",
+      "cz": "Něco, co ti pomůže oslavit tvou sílu.",
+      "source": "pre_existing",
+      "original_cz": "Něco, co ti pomůže oslavit tvou sílu."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "It's a surprise... A good one.",
+      "cz": "To je překvapení... Dobré.",
+      "source": "pre_existing",
+      "original_cz": "To je překvapení... Dobré."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "We're gonna wreck stuff!",
+      "cz": "Zničíme to!",
+      "source": "pre_existing",
+      "original_cz": "Zničíme to!"
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "Celebrate my...? But how can that...? ... *sigh* I suppose I did give Mushu my word...",
+      "cz": "Oslavovat můj...? Ale jak to může...? ... *povzdech* Asi jsem Mushuovi dal slovo...",
+      "source": "pre_existing",
+      "original_cz": "Oslavovat můj...? Ale jak to může...? ... *povzdech* Asi jsem Mushuovi dal slovo..."
+    },
+    {
+      "key": "Beast_006_f",
+      "en": "All right. Lead the way.",
+      "cz": "Dobře. Veďte cestu.",
+      "source": "pre_existing",
+      "original_cz": "Dobře. Veďte cestu."
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "I don't like surprises but... I trust you, {PlayerName}.",
+      "cz": "Nemám rád překvapení, ale... věřím ti, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Nemám rád překvapení, ale... věřím ti, {PlayerName}."
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "Wreck things? On purpose?",
+      "cz": "Zničit věci? Úmyslně?",
+      "source": "pre_existing",
+      "original_cz": "Zničit věci? Úmyslně?"
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "Exactly. And it's going to be FUN!",
+      "cz": "Přesně tak. A bude to ZÁBAVA!",
+      "source": "pre_existing",
+      "original_cz": "Přesně tak. A bude to ZÁBAVA!"
+    },
+    {
+      "key": "Beast_007_f",
+      "en": "Fun...? *sigh*",
+      "cz": "Zábava...? *vzdech*",
+      "source": "pre_existing",
+      "original_cz": "Zábava...? *vzdech*"
+    }
+  ],
+  "Update11_Beast/Beast_VLG_Mush_020_VLG_Mush_020_TalkTo06.locbin": [
+    {
+      "key": "Beast_002_f",
+      "en": "I'm not sure I should do this.",
+      "cz": "Nejsem si jistý/á, jestli bych to měl/a dělat.",
+      "source": "pre_existing",
+      "original_cz": "Nejsem si jistý/á, jestli bych to měl/a dělat."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I did it; you can too!",
+      "cz": "Zvládl jsem to; ty taky!",
+      "source": "pre_existing",
+      "original_cz": "Zvládl jsem to; ty taky!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Don't be afraid; just go for it.",
+      "cz": "Neboj se, prostě do toho.",
+      "source": "pre_existing",
+      "original_cz": "Neboj se, prostě do toho."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I get it: You're scared you're not strong enough.",
+      "cz": "Chápu to: Bojíš se, že nejsi dost silný/á.",
+      "source": "pre_existing",
+      "original_cz": "Chápu to: Bojíš se, že nejsi dost silný/á."
+    },
+    {
+      "key": "Beast_006_f",
+      "en": "Come on. Mushu set this up just for you and me.",
+      "cz": "No tak. Mushu tohle připravil jen pro tebe a pro mě.",
+      "source": "pre_existing",
+      "original_cz": "No tak. Mushu tohle připravil jen pro tebe a pro mě."
+    },
+    {
+      "key": "Beast_007_f",
+      "en": "Won't it feel good to use your strength on purpose?",
+      "cz": "Nebude to příjemný pocit, když použiješ svou sílu schválně?",
+      "source": "pre_existing",
+      "original_cz": "Nebude to příjemný pocit, když použiješ svou sílu schválně?"
+    },
+    {
+      "key": "Beast_008_f",
+      "en": "Perhaps...",
+      "cz": "Možná...",
+      "source": "pre_existing",
+      "original_cz": "Možná..."
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "I actually do feel better.",
+      "cz": "Ve skutečnosti se cítím lépe.",
+      "source": "pre_existing",
+      "original_cz": "Ve skutečnosti se cítím lépe."
+    },
+    {
+      "key": "Beast_009_f",
+      "en": "I never thought of my power as an asset before. Only something that made me dangerous.",
+      "cz": "Nikdy předtím jsem o své moci nepřemýšlel jako o aktivu. Jen jako o něčem, co mě dělá nebezpečným.",
+      "source": "pre_existing",
+      "original_cz": "Nikdy předtím jsem o své moci nepřemýšlel jako o aktivu. Jen jako o něčem, co mě dělá nebezpečným."
+    },
+    {
+      "key": "Beast_010_f",
+      "en": "See, there you go!",
+      "cz": "Vidíš, tady to máš!",
+      "source": "pre_existing",
+      "original_cz": "Vidíš, tady to máš!"
+    },
+    {
+      "key": "Beast_011_f",
+      "en": "Please tell Mushu I am ready to continue.",
+      "cz": "Prosím, řekněte Mushuovi, že jsem připraven pokračovat.",
+      "source": "pre_existing",
+      "original_cz": "Prosím, řekněte Mushuovi, že jsem připraven pokračovat."
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "I'm not afraid... It's just... I've never broken something for fun before.",
+      "cz": "Nebojím se... Jen... Nikdy předtím jsem nic nerozbil pro zábavu.",
+      "source": "pre_existing",
+      "original_cz": "Nebojím se... Jen... Nikdy předtím jsem nic nerozbil pro zábavu."
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "That is not my worry. It's just... I've never broken anything for fun before.",
+      "cz": "To není můj problém. Jen... Nikdy předtím jsem nic nerozbil jen tak pro zábavu.",
+      "source": "pre_existing",
+      "original_cz": "To není můj problém. Jen... Nikdy předtím jsem nic nerozbil jen tak pro zábavu."
+    }
+  ],
+  "Update11_Beast/Beast_VLG_Mush_030_VLG_Mush_030_BringItem01.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Is this...? Oh.",
+      "cz": "Je tohle...? Aha.",
+      "source": "pre_existing",
+      "original_cz": "Je tohle...? Aha."
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "I'm not usually comfortable at parties. But Mushu has done so much for me...",
+      "cz": "Na večírcích se obvykle necítím dobře. Ale Mushu pro mě udělal tolik...",
+      "source": "pre_existing",
+      "original_cz": "Na večírcích se obvykle necítím dobře. Ale Mushu pro mě udělal tolik..."
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "I will attend.",
+      "cz": "Zúčastním se.",
+      "source": "pre_existing",
+      "original_cz": "Zúčastním se."
+    }
+  ]
+}

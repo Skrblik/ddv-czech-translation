@@ -1,0 +1,158 @@
+{
+  "PeterPan_Minnie/Minnie_VLG_Pete_010_VLG_Pete_010_TalkTo01.locbin": [
+    {
+      "key": "Minnie_001_f",
+      "en": "{PlayerName}! Peter! How lovely to see you.",
+      "cz": "{PlayerName}! Petře! To je skvělé tě vidět.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}! Petře! To je skvělé tě vidět."
+    },
+    {
+      "key": "Player_000_f",
+      "en": "Hi, Minnie. We're looking for Peter's shadow.",
+      "cz": "Ahoj, Minnie. Hledáme Petrův stín.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, Minnie. Hledáme Petrův stín."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Have you seen it around?",
+      "cz": "Viděl jsi to už někde?",
+      "source": "pre_existing",
+      "original_cz": "Viděl jsi to už někde?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Just like we used to do back in the old days!",
+      "cz": "Přesně jako jsme to dělali za starých časů!",
+      "source": "pre_existing",
+      "original_cz": "Přesně jako jsme to dělali za starých časů!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "He VERY IRRESPONSIBLY lost it again.",
+      "cz": "Zase to VELMI NEZODPOVĚDNĚ ztratil.",
+      "source": "pre_existing",
+      "original_cz": "Zase to VELMI NEZODPOVĚDNĚ ztratil."
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "I was just coming to find you about that! I saw something very strange.",
+      "cz": "Zrovna jsem se tě chystal zeptat na to! Viděl jsem něco velmi zvláštního.",
+      "source": "pre_existing",
+      "original_cz": "Zrovna jsem se tě chystal zeptat na to! Viděl jsem něco velmi zvláštního."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Was it a Peter-shaped shadow?",
+      "cz": "Byl to stín ve tvaru Petra?",
+      "source": "pre_existing",
+      "original_cz": "Byl to stín ve tvaru Petra?"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Strange how? Lots of things here are strange.",
+      "cz": "Jak divné? Spousta věcí je tady divných.",
+      "source": "pre_existing",
+      "original_cz": "Jak divné? Spousta věcí je tady divných."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Strange like a flying pirate ship?",
+      "cz": "Divné jako létající pirátská loď?",
+      "source": "pre_existing",
+      "original_cz": "Divné jako létající pirátská loď?"
+    },
+    {
+      "key": "Minnie_006_f",
+      "en": "It was!",
+      "cz": "Bylo to!",
+      "source": "pre_existing",
+      "original_cz": "Bylo to!"
+    },
+    {
+      "key": "Minnie_011_f",
+      "en": "You see, I was watching my favorite scary movie with all the lights off. That always makes it extra fun!",
+      "cz": "Víš, díval jsem se na svůj oblíbený horor se zhasnutými světly. To ho vždycky dělá ještě zábavnějším!",
+      "source": "pre_existing",
+      "original_cz": "Víš, díval jsem se na svůj oblíbený horor se zhasnutými světly. To ho vždycky dělá ještě zábavnějším!"
+    },
+    {
+      "key": "Minnie_012_f",
+      "en": "When suddenly, I saw a shape moving along the wall! It frightened me so much I had to turn off the movie and get some fresh air.",
+      "cz": "Když jsem najednou uviděl po zdi pohybující se tvar! Vyděsilo mě to tak, že jsem musel vypnout film a nadechnout se čerstvého vzduchu.",
+      "source": "pre_existing",
+      "original_cz": "Když jsem najednou uviděl po zdi pohybující se tvar! Vyděsilo mě to tak, že jsem musel vypnout film a nadechnout se čerstvého vzduchu."
+    },
+    {
+      "key": "Minnie_013_f",
+      "en": "That sounds like my shadow all right. {PlayerName}, let's <Lore>go to Minnie's House and see if my shadow's still there</Lore>.",
+      "cz": "To zní jako můj stín, jo. {PlayerName}, pojďme <Lore>k Minnie domů a podíváme se, jestli tam můj stín ještě je</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "To zní jako můj stín, jo. {PlayerName}, pojďme <Lore>k Minnie domů a podíváme se, jestli tam můj stín ještě je</Lore>."
+    },
+    {
+      "key": "Minnie_014_f",
+      "en": "I'll come too!",
+      "cz": "Taky přijdu!",
+      "source": "pre_existing",
+      "original_cz": "Taky přijdu!"
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "That IS true.",
+      "cz": "To JE pravda.",
+      "source": "pre_existing",
+      "original_cz": "To JE pravda."
+    },
+    {
+      "key": "Minnie_010_f",
+      "en": "Well no, not that.",
+      "cz": "No ne, to ne.",
+      "source": "pre_existing",
+      "original_cz": "No ne, to ne."
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "I remember that!",
+      "cz": "To si pamatuju!",
+      "source": "pre_existing",
+      "original_cz": "To si pamatuju!"
+    },
+    {
+      "key": "Minnie_009_f",
+      "en": "You two used to have so much fun chasing it all around the Valley.",
+      "cz": "Vy dva jste si to dřív užívali honěním po celém údolí.",
+      "source": "pre_existing",
+      "original_cz": "Vy dva jste si to dřív užívali honěním po celém údolí."
+    },
+    {
+      "key": "Minnie_000_f",
+      "en": "And you know what? I think this explains the strange thing I was coming to talk to you about.",
+      "cz": "A víš co? Myslím, že to vysvětluje tu zvláštní věc, o které jsem si s tebou chtěl promluvit.",
+      "source": "pre_existing",
+      "original_cz": "A víš co? Myslím, že to vysvětluje tu zvláštní věc, o které jsem si s tebou chtěl promluvit."
+    },
+    {
+      "key": "Minnie_005_f",
+      "en": "Oh dear. Peter, do we need to talk about looking after our things?",
+      "cz": "Ach jo. Petře, musíme si promluvit o péči o naše věci?",
+      "source": "pre_existing",
+      "original_cz": "Ach jo. Petře, musíme si promluvit o péči o naše věci?"
+    },
+    {
+      "key": "Minnie_007_f",
+      "en": "Huh?! My shadow got away from ME. It's ALWAYS doin' that. Don't you remember?",
+      "cz": "Cože?! Můj stín mi utekl. Dělá to VŽDYCKY. Nepamatuješ si?",
+      "source": "pre_existing",
+      "original_cz": "Cože?! Můj stín mi utekl. Dělá to VŽDYCKY. Nepamatuješ si?"
+    },
+    {
+      "key": "Minnie_008_f",
+      "en": "Oh yes, it's coming back to me now!",
+      "cz": "Ach jo, teď se mi to vrací!",
+      "source": "pre_existing",
+      "original_cz": "Ach jo, teď se mi to vrací!"
+    }
+  ]
+}

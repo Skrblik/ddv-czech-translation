@@ -1,0 +1,361 @@
+{
+  "CliffUpdate_Story/MRQS110_LoveIsLove.locbin": [
+    {
+      "key": "Story!MRQS110_LoveIsLove_Any_CompletedRequestDescription",
+      "en": "Talk to Olaf in the secret chamber.",
+      "cz": "Promluvte si s Olafem v tajné komnatě.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Olafem v tajné komnatě."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_AvailableDescription",
+      "en": "An enchanted blizzard has started in the Frosted Heights. You'll need to investigate to find out what's going on.",
+      "cz": "V Mrázných výšinách začala začarovaná vánice. Budete muset prozkoumat, co se děje.",
+      "source": "pre_existing",
+      "original_cz": "V Mrázných výšinách začala začarovaná vánice. Budete muset prozkoumat, co se děje."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_CompletedStoryDescription",
+      "en": "A simple act of love — a warm hug from Olaf — turns out to be all it takes to restore the light inside the Orb. You place it back in the Pillar in the Frosted Heights, and the Dark Magic powering the blizzard dissipates.",
+      "cz": "K obnovení světla uvnitř Koule stačí jednoduchý akt lásky – vřelé objetí od Olafa. Umístíte ji zpět do Pilíře v Mrázných výšinách a temná magie pohánějící vánici se rozptýlí.",
+      "source": "pre_existing",
+      "original_cz": "K obnovení světla uvnitř Koule stačí jednoduchý akt lásky – vřelé objetí od Olafa. Umístíte ji zpět do Pilíře v Mrázných výšinách a temná magie pohánějící vánici se rozptýlí."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_DisplayName",
+      "en": "The Great Blizzard",
+      "cz": "Velká sněhová bouře",
+      "source": "pre_existing",
+      "original_cz": "Velká sněhová bouře"
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group01_Step01_StepDescription",
+      "en": "There's a magical blizzard in the Frosted Heights!",
+      "cz": "V Mrázných výšinách je magická vánice!",
+      "source": "pre_existing",
+      "original_cz": "V Mrázných výšinách je magická vánice!"
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "Consult with Merlin.",
+      "cz": "Poraďte se s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Poraďte se s Merlinem."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group02_Step02_VisitArea01_StepDescription",
+      "en": "Search around for clues to the source of the blizzard in the Frosted Heights.",
+      "cz": "Hledejte v Mrázných výšinách stopy k nalezení zdroje sněhové bouře.",
+      "source": "pre_existing",
+      "original_cz": "Hledejte v Mrázných výšinách stopy k nalezení zdroje sněhové bouře."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group02_StoryDescription",
+      "en": "Merlin tells you that you'll need to investigate the center of the mystical disturbance if you're to have any hope of solving this.",
+      "cz": "Merlin vám říká, že pokud chcete mít nějakou naději na vyřešení tohoto problému, budete muset prozkoumat střed mystické poruchy.",
+      "source": "pre_existing",
+      "original_cz": "Merlin vám říká, že pokud chcete mít nějakou naději na vyřešení tohoto problému, budete muset prozkoumat střed mystické poruchy."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group03_Step03_Interaction01_StepDescription",
+      "en": "Interact with the wall of the cliff.",
+      "cz": "Interakce se stěnou útesu.",
+      "source": "pre_existing",
+      "original_cz": "Interakce se stěnou útesu."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group04_Step04_VisitArea02_StepDescription",
+      "en": "Enter the secret chamber in the wall of the cliff in the Frosted Heights.",
+      "cz": "Vstupte do tajné komnaty ve stěně útesu v Mrázných výšinách.",
+      "source": "pre_existing",
+      "original_cz": "Vstupte do tajné komnaty ve stěně útesu v Mrázných výšinách."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group05_Step05_TalkToCharacter02_StepDescription",
+      "en": "Talk to Olaf in the secret chamber.",
+      "cz": "Promluvte si s Olafem v tajné komnatě.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Olafem v tajné komnatě."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group06_Step06_VisitArea03_StepDescription",
+      "en": "Search the blizzard for the <ActivityItem>Scary Squirrels</ActivityItem>.",
+      "cz": "V vánici hledejte <ActivityItem>Strašidelné veverky</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "V vánici hledejte <ActivityItem>Strašidelné veverky</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group06_StoryDescription",
+      "en": "Inside the secret chamber, you find Olaf. He's been trapped in here for a long time. But before he can help you solve the magical mystery, you'll need to help him find all his pieces.",
+      "cz": "Uvnitř tajné komnaty najdete Olafa. Je zde uvězněn už dlouho. Než vám ale pomůže vyřešit magickou záhadu, budete mu muset pomoci najít všechny jeho kousky.",
+      "source": "pre_existing",
+      "original_cz": "Uvnitř tajné komnaty najdete Olafa. Je zde uvězněn už dlouho. Než vám ale pomůže vyřešit magickou záhadu, budete mu muset pomoci najít všechny jeho kousky."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group07_Step07_StepDescription",
+      "en": "Chase down the <ActivityItem>Scary Squirrels</ActivityItem> to get Olaf's buttons and nose back.",
+      "cz": "Pronásledujte <ActivityItem>Strašidelné veverky</ActivityItem>, abyste získali zpět Olafovy knoflíky a čumák.",
+      "source": "pre_existing",
+      "original_cz": "Pronásledujte <ActivityItem>Strašidelné veverky</ActivityItem>, abyste získali zpět Olafovy knoflíky a čumák."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group08_StepDescription",
+      "en": "Return to the secret chamber and bring Olaf his <ActivityItem>Nose and Buttons</ActivityItem>.",
+      "cz": "Vrať se do tajné komnaty a přines Olafovi jeho <ActivityItem>Nos a knoflíky</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Vrať se do tajné komnaty a přines Olafovi jeho <ActivityItem>Nos a knoflíky</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group09_StepDescription",
+      "en": "Figure out which gems are missing in the secret chamber and replace them.",
+      "cz": "Zjistěte, které drahokamy v tajné komoře chybí, a nahraďte je.",
+      "source": "pre_existing",
+      "original_cz": "Zjistěte, které drahokamy v tajné komoře chybí, a nahraďte je."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group10_Step10_TalkToCharacter08_StepDescription",
+      "en": "Talk to Olaf.",
+      "cz": "Promluv si s Olafem.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Olafem."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group11_Step11_TalkToCharacter03_StepDescription",
+      "en": "Talk to Merlin.",
+      "cz": "Promluv si s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Merlinem."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group12_Step12_TalkToCharacter04_StepDescription",
+      "en": "Talk to Elsa.",
+      "cz": "Promluv si s Elsou.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Elsou."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group13_Step13_VisitArea04_StepDescription",
+      "en": "Investigate the Pillar in the Frosted Heights.",
+      "cz": "Prozkoumejte sloup v Mrázných výšinách.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte sloup v Mrázných výšinách."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group14_Step14_Possess01_StepDescription",
+      "en": "<ActivityItem>Glass.</ActivityItem>",
+      "cz": "<ActivityItem>Glass.</ActivityItem>",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Glass.</ActivityItem>"
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group14_Step14_Possess02_StepDescription",
+      "en": "<ActivityItem>Purified Night Shard.</ActivityItem>",
+      "cz": "<ActivityItem>Očištěný noční úlomek.</ActivityItem>",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Očištěný noční úlomek.</ActivityItem>"
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group14_Step14_Possess04_StepDescription",
+      "en": "<ActivityItem>Shattered Prism</ActivityItem> in the secret chamber.",
+      "cz": "<ActivityItem>Roztříštěný hranol</ActivityItem> v tajné komoře.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Roztříštěný hranol</ActivityItem> v tajné komoře."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group14_Step14_StepDescription",
+      "en": "Gather the following items:",
+      "cz": "Shromážděte následující položky:",
+      "source": "pre_existing",
+      "original_cz": "Shromážděte následující položky:"
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group15_Step15_WaterPlant01_StepDescription",
+      "en": "Use your Watering Can on the sparkling water particles near the Pillar.",
+      "cz": "Použijte konvičku na perlivou vodu poblíž sloupu.",
+      "source": "pre_existing",
+      "original_cz": "Použijte konvičku na perlivou vodu poblíž sloupu."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group16_Step16_TalkToCharacter05_StepDescription",
+      "en": "Talk to Merlin about what you saw.",
+      "cz": "Promluv si s Merlinem o tom, co jsi viděl/a.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Merlinem o tom, co jsi viděl/a."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group16_StoryDescription",
+      "en": "Merlin shows you how to use your Watering Can to uncover the memories within water. You discover that it was you who ripped the Orb from the Pillar all those years ago.",
+      "cz": "Merlin ti ukáže, jak použít konvici k odhalení vzpomínek ve vodě. Zjistíš, že jsi to byl ty, kdo před lety vyrval Kouli ze Sloupu.",
+      "source": "pre_existing",
+      "original_cz": "Merlin ti ukáže, jak použít konvici k odhalení vzpomínek ve vodě. Zjistíš, že jsi to byl ty, kdo před lety vyrval Kouli ze Sloupu."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group17_Step17_TalkToCharacter06_StepDescription",
+      "en": "Talk to Elsa about what you saw.",
+      "cz": "Promluv si s Elsou o tom, co jsi viděla.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Elsou o tom, co jsi viděla."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group17_StoryDescription",
+      "en": "Elsa shows you how to use your Watering Can to uncover the memories within water. You discover that it was you who ripped the Orb from the Pillar all those years ago.",
+      "cz": "Elsa ti ukáže, jak pomocí konve odhalit vzpomínky ve vodě. Zjistíš, že jsi to byl ty, kdo před lety vytrhl kouli ze sloupu.",
+      "source": "pre_existing",
+      "original_cz": "Elsa ti ukáže, jak pomocí konve odhalit vzpomínky ve vodě. Zjistíš, že jsi to byl ty, kdo před lety vytrhl kouli ze sloupu."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group18_Step18_TalkToCharacter07_StepDescription",
+      "en": "Return to Olaf in the secret chamber.",
+      "cz": "Vrať se za Olafem do tajné komnaty.",
+      "source": "pre_existing",
+      "original_cz": "Vrať se za Olafem do tajné komnaty."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group19_Step19_ReadyDescription",
+      "en": "Give Olaf his arms back.",
+      "cz": "Vraťte Olafovi jeho náruč.",
+      "source": "pre_existing",
+      "original_cz": "Vraťte Olafovi jeho náruč."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group19_Step19_StepDescription",
+      "en": "Bring the Orb and arms to Olaf.",
+      "cz": "Přineste Olafovi Orb a paže.",
+      "source": "pre_existing",
+      "original_cz": "Přineste Olafovi Orb a paže."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group19_StepDescription",
+      "en": "The Orb seems to be broken. But at least you found Olaf's arms...",
+      "cz": "Zdá se, že koule je rozbitá. Ale alespoň jsi našel Olafovy paže...",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že koule je rozbitá. Ale alespoň jsi našel Olafovy paže..."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group19_StoryDescription",
+      "en": "You recover the Orb and Olaf's arms. But something is wrong with the Orb. Its light is dim, and the magic inside of it no longer seems to be working.",
+      "cz": "Získáte zpět Orb a Olafovy paže. Ale s Orbem je něco v nepořádku. Její světlo je slabé a magie uvnitř už zřejmě nefunguje.",
+      "source": "pre_existing",
+      "original_cz": "Získáte zpět Orb a Olafovy paže. Ale s Orbem je něco v nepořádku. Její světlo je slabé a magie uvnitř už zřejmě nefunguje."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group20_Step20_CraftItem01_StepDescription",
+      "en": "Craft the <ActivityItem>Dreamlight Prism</ActivityItem> at a Crafting Station.",
+      "cz": "Vyrobte <ActivityItem>Hranol snového světla</ActivityItem> na řemeslné stanici.",
+      "source": "pre_existing",
+      "original_cz": "Vyrobte <ActivityItem>Hranol snového světla</ActivityItem> na řemeslné stanici."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group21_Step22_Possess03_StepDescription",
+      "en": "Find a book about portals in the secret chamber.",
+      "cz": "V tajné komoře najděte knihu o portálech.",
+      "source": "pre_existing",
+      "original_cz": "V tajné komoře najděte knihu o portálech."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group21_StoryDescription",
+      "en": "With Olaf's help, you learn that the Orb was thrown into the flickering portal. You'll need to figure out how to stabilize it to get the Orb.",
+      "cz": "S Olafovou pomocí se dozvíte, že Orb byl vržen do mihotavého portálu. Budete muset přijít na to, jak ho stabilizovat, abyste Orb získali.",
+      "source": "pre_existing",
+      "original_cz": "S Olafovou pomocí se dozvíte, že Orb byl vržen do mihotavého portálu. Budete muset přijít na to, jak ho stabilizovat, abyste Orb získali."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group22_Step23_WaterPlant02_StepDescription",
+      "en": "Use your Watering Can on the sparkling water particles in the secret chamber.",
+      "cz": "Použijte svou konvici na perlivou vodu v tajné komoře.",
+      "source": "pre_existing",
+      "original_cz": "Použijte svou konvici na perlivou vodu v tajné komoře."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group23_Step24_WaterPlant03_StepDescription",
+      "en": "Use your Watering Can on the sparkling water particles closer to the portal in the secret chamber.",
+      "cz": "Použijte svou konvici na perlivé částice vody blíže k portálu v tajné komoře.",
+      "source": "pre_existing",
+      "original_cz": "Použijte svou konvici na perlivé částice vody blíže k portálu v tajné komoře."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group24_Step25_TalkToCharacter09_StepDescription",
+      "en": "Talk to Olaf.",
+      "cz": "Promluv si s Olafem.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Olafem."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group25_Step26_FillKeyhole01_StepDescription",
+      "en": "Place the <ActivityItem>Dreamlight Prism</ActivityItem> on the pedestal in the secret chamber.",
+      "cz": "Umístěte <ActivityItem>Hranol snového světla</ActivityItem> na podstavec v tajné komoře.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte <ActivityItem>Hranol snového světla</ActivityItem> na podstavec v tajné komoře."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group26_Step27_TalkToCharacter10_StepDescription",
+      "en": "Whisper one of your deepest fears to the flickering portal in the secret chamber.",
+      "cz": "Zašepte jeden ze svých nejhlubších strachů mihotavému portálu v tajné komnatě.",
+      "source": "pre_existing",
+      "original_cz": "Zašepte jeden ze svých nejhlubších strachů mihotavému portálu v tajné komnatě."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group27_Step28_FillKeyhole02_StepDescription",
+      "en": "Place the Orb in the Pillar in the Frosted Heights.",
+      "cz": "Umístěte kouli do sloupu v Mrázných výšinách.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte kouli do sloupu v Mrázných výšinách."
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group06_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What was I doing again?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What was I doing again?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What was I doing again?"
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group07_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What was I doing again?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What was I doing again?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What was I doing again?"
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group08_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What was I doing?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What was I doing?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What was I doing?"
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group12_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What was I doing again?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What was I doing again?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What was I doing again?"
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group13_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What were we doing again?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What were we doing again?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What were we doing again?"
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group16_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What was I doing?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What was I doing?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What was I doing?"
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group21_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What's next?"
+    },
+    {
+      "key": "Story!MRQS110_LoveIsLove_Group22_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What was I doing again???",
+      "cz": "<smallcaps>{title}</smallcaps><br>What was I doing again???",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What was I doing again???"
+    }
+  ]
+}

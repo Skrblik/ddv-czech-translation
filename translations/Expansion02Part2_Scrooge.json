@@ -1,0 +1,165 @@
+{
+  "Expansion02Part2_Scrooge/Scrooge_VLG_Male_020_VLG_Male_020_BringItem05.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Hey Mr. McDuck, any chance that this is your feather?",
+      "cz": "Hej, pane McDucku, je nějaká šance, že je tohle vaše pírko?",
+      "source": "pre_existing",
+      "original_cz": "Hej, pane McDucku, je nějaká šance, že je tohle vaše pírko?"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Well, it's surely the right color. Let me see...",
+      "cz": "No, to je určitě ta správná barva. Ukaž mi...",
+      "source": "pre_existing",
+      "original_cz": "No, to je určitě ta správná barva. Ukaž mi..."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Aye, it's mine! That ripple along the edge is from the end of my frock coat.",
+      "cz": "Ano, je to moje! Ta vlnka na okraji je z konce mého fraku.",
+      "source": "pre_existing",
+      "original_cz": "Ano, je to moje! Ta vlnka na okraji je z konce mého fraku."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Great, mystery solved!",
+      "cz": "Skvělé, záhada vyřešena!",
+      "source": "pre_existing",
+      "original_cz": "Skvělé, záhada vyřešena!"
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "Now, next question. Did you find a magical orb somewhere around the Teapot Falls in Everafter?",
+      "cz": "A teď další otázka. Našli jste v Everafteru někde kolem Teapot Falls magickou kouli?",
+      "source": "pre_existing",
+      "original_cz": "A teď další otázka. Našli jste v Everafteru někde kolem Teapot Falls magickou kouli?"
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "A magical orb? Well, bless me bagpipes, I did!",
+      "cz": "Magická koule? No, panebože, dudy, to jsem udělal!",
+      "source": "pre_existing",
+      "original_cz": "Magická koule? No, panebože, dudy, to jsem udělal!"
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "But {PlayerName}, that orb was filled to the brim with evil magic!",
+      "cz": "Ale {PlayerName}, ta koule byla až po okraj naplněna zlou magií!",
+      "source": "pre_existing",
+      "original_cz": "Ale {PlayerName}, ta koule byla až po okraj naplněna zlou magií!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Yup, that's the orb I'm looking for.",
+      "cz": "Ano, to je ta koule, kterou hledám.",
+      "source": "pre_existing",
+      "original_cz": "Ano, to je ta koule, kterou hledám."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Makes sense — it belongs to Maleficent.",
+      "cz": "Dává to smysl – patří to Maleficent.",
+      "source": "pre_existing",
+      "original_cz": "Dává to smysl – patří to Maleficent."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I try not to judge.",
+      "cz": "Snažím se nesoudit.",
+      "source": "pre_existing",
+      "original_cz": "Snažím se nesoudit."
+    },
+    {
+      "key": "Scrooge_007_f",
+      "en": "What could ya ever want with an orb of evil magic?!",
+      "cz": "Co bys mohl chtít s koulí zlé magie?!",
+      "source": "pre_existing",
+      "original_cz": "Co bys mohl chtít s koulí zlé magie?!"
+    },
+    {
+      "key": "Scrooge_010_f",
+      "en": "It's Maleficent's property, and I'm trying to get it back to her.",
+      "cz": "Je to Zlobin majetek a já se jí ho snažím dostat zpátky.",
+      "source": "pre_existing",
+      "original_cz": "Je to Zlobin majetek a já se jí ho snažím dostat zpátky."
+    },
+    {
+      "key": "Scrooge_012_f",
+      "en": "What did you do with the orb? Do you still have it around?",
+      "cz": "Co jsi udělal s tou koulí? Máš ji ještě u sebe?",
+      "source": "pre_existing",
+      "original_cz": "Co jsi udělal s tou koulí? Máš ji ještě u sebe?"
+    },
+    {
+      "key": "Scrooge_013_f",
+      "en": "Absolutely not! I knew that orb was bad news! I <Lore>buried it by the Library of Lore</Lore>.",
+      "cz": "V žádném případě! Věděl jsem, že ta koule je špatná zpráva! <Lore>Zakopal jsem ji u Knihovny tradic</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "V žádném případě! Věděl jsem, že ta koule je špatná zpráva! <Lore>Zakopal jsem ji u Knihovny tradic</Lore>."
+    },
+    {
+      "key": "Scrooge_014_f",
+      "en": "If I remember, the precise spot was <Lore>near one of the spiral staircases</Lore>.",
+      "cz": "Pokud si dobře pamatuji, přesné místo bylo <Lore>poblíž jednoho z točitých schodišť</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Pokud si dobře pamatuji, přesné místo bylo <Lore>poblíž jednoho z točitých schodišť</Lore>."
+    },
+    {
+      "key": "Scrooge_008_f",
+      "en": "Then I certainly made the correct choice of what to do with it!",
+      "cz": "Pak jsem se rozhodně správně rozhodl, co s tím udělám!",
+      "source": "pre_existing",
+      "original_cz": "Pak jsem se rozhodně správně rozhodl, co s tím udělám!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I'll take \"happy Maleficent with orb\" over \"angry Maleficent.\"",
+      "cz": "Dám přednost „šťastné Zlobě s koulí“ před „rozzlobenou Zlobou“.",
+      "source": "pre_existing",
+      "original_cz": "Dám přednost „šťastné Zlobě s koulí“ před „rozzlobenou Zlobou“."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Maleficent deserves the same help I'd give any other Villager.",
+      "cz": "Zloba si zaslouží stejnou pomoc, jakou bych poskytl kterémukoli jinému vesničanovi.",
+      "source": "pre_existing",
+      "original_cz": "Zloba si zaslouží stejnou pomoc, jakou bych poskytl kterémukoli jinému vesničanovi."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Hey, I reserve the right to reclaim the orb and hide it again if needed.",
+      "cz": "Hej, vyhrazuji si právo si kouli vzít zpět a znovu ji schovat, pokud to bude potřeba.",
+      "source": "pre_existing",
+      "original_cz": "Hej, vyhrazuji si právo si kouli vzít zpět a znovu ji schovat, pokud to bude potřeba."
+    },
+    {
+      "key": "Scrooge_015_f",
+      "en": "Aye, that's a good point.",
+      "cz": "Ano, to je dobrý postřeh.",
+      "source": "pre_existing",
+      "original_cz": "Ano, to je dobrý postřeh."
+    },
+    {
+      "key": "Scrooge_016_f",
+      "en": "Hmm, yes, I suppose...",
+      "cz": "Hmm, ano, předpokládám...",
+      "source": "pre_existing",
+      "original_cz": "Hmm, ano, předpokládám..."
+    },
+    {
+      "key": "Scrooge_017_f",
+      "en": "Well, that makes me feel better!",
+      "cz": "No, to mi dělá lépe!",
+      "source": "pre_existing",
+      "original_cz": "No, to mi dělá lépe!"
+    },
+    {
+      "key": "Scrooge_009_f",
+      "en": "I dinnae either — when it comes to matters of taste. But evil magic?",
+      "cz": "Já taky ne – co se týče vkusu. Ale zlá magie?",
+      "source": "pre_existing",
+      "original_cz": "Já taky ne – co se týče vkusu. Ale zlá magie?"
+    }
+  ]
+}

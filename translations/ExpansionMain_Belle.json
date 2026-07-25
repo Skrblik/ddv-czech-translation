@@ -1,0 +1,43 @@
+{
+  "ExpansionMain_Belle/Belle_Dialogues_Eager001.locbin": [
+    {
+      "key": "Belle_000_f",
+      "en": "{PlayerName}, I've been reading the most fascinating book on Scramblecoin! Would you like to play?",
+      "cz": "{PlayerName}, četla jsem tu nejzajímavější knihu o Scramblecoinu! Chceš si zahrát?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, četla jsem tu nejzajímavější knihu o Scramblecoinu! Chceš si zahrát?"
+    }
+  ],
+  "ExpansionMain_Belle/Belle_Dialogues_Postgame001.locbin": [
+    {
+      "key": "Belle_000_f",
+      "en": "Oh!",
+      "cz": "Ach!",
+      "source": "pre_existing",
+      "original_cz": "Ach!"
+    },
+    {
+      "key": "Belle_001_f",
+      "en": "That was so much fun! I'll have to keep researching if I hope to win against you.",
+      "cz": "To byla taková zábava! Budu muset dál pátrat, pokud doufám, že tě vyhraju.",
+      "source": "pre_existing",
+      "original_cz": "To byla taková zábava! Budu muset dál pátrat, pokud doufám, že tě vyhraju."
+    },
+    {
+      "key": "Belle_002_f",
+      "en": "The strategies I read about worked! Thank you for a lovely game, {PlayerName}.",
+      "cz": "Strategie, o kterých jsem četla, fungovaly! Děkuji za krásnou hru, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Strategie, o kterých jsem četla, fungovaly! Děkuji za krásnou hru, {PlayerName}."
+    }
+  ],
+  "ExpansionMain_Belle/Belle_Dialogues_Pregame001.locbin": [
+    {
+      "key": "Belle_000_f",
+      "en": "I can't wait to try out some of the strategies I've been reading about.",
+      "cz": "Nemůžu se dočkat, až vyzkouším některé ze strategií, o kterých jsem četla.",
+      "source": "pre_existing",
+      "original_cz": "Nemůžu se dočkat, až vyzkouším některé ze strategií, o kterých jsem četla."
+    }
+  ]
+}

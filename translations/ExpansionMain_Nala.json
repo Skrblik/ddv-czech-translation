@@ -1,0 +1,43 @@
+{
+  "ExpansionMain_Nala/Nala_Dialogues_Eager001.locbin": [
+    {
+      "key": "Nala_000_f",
+      "en": "{PlayerName}, would you like to play a game of Scramblecoin?",
+      "cz": "{PlayerName}, chceš si zahrát Scramblecoin?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, chceš si zahrát Scramblecoin?"
+    }
+  ],
+  "ExpansionMain_Nala/Nala_Dialogues_PostGame001.locbin": [
+    {
+      "key": "Nala_000_f",
+      "en": "Hm.",
+      "cz": "Hm.",
+      "source": "pre_existing",
+      "original_cz": "Hm."
+    },
+    {
+      "key": "Nala_001_f",
+      "en": "That was amazing! Could you teach me some of your moves?",
+      "cz": "To bylo úžasné! Mohl bys mě naučit nějaké své pohyby?",
+      "source": "pre_existing",
+      "original_cz": "To bylo úžasné! Mohl bys mě naučit nějaké své pohyby?"
+    },
+    {
+      "key": "Nala_002_f",
+      "en": "Remember: Winning isn't everything — never giving up is.",
+      "cz": "Pamatujte: Vítězství není všechno – nikdy se nevzdávat ano.",
+      "source": "pre_existing",
+      "original_cz": "Pamatujte: Vítězství není všechno – nikdy se nevzdávat ano."
+    }
+  ],
+  "ExpansionMain_Nala/Nala_Dialogues_PreGame001.locbin": [
+    {
+      "key": "Nala_000_f",
+      "en": "All right. I'm ready.",
+      "cz": "Dobře. Jsem připraven/a.",
+      "source": "pre_existing",
+      "original_cz": "Dobře. Jsem připraven/a."
+    }
+  ]
+}

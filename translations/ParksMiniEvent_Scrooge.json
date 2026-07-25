@@ -1,0 +1,447 @@
+{
+  "ParksMiniEvent_Scrooge/Scrooge_Scro_ParkMining_010_Scro_ParkMining_010_Intro.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "A very happy Dreamlight Parks Fest to ya, {PlayerName}!",
+      "cz": "Šťastný festival Dreamlight Parks, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Šťastný festival Dreamlight Parks, {PlayerName}!"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "What do ya say to a wee scavenger hunt?",
+      "cz": "Co říkáte na malý hon za pokladem?",
+      "source": "pre_existing",
+      "original_cz": "Co říkáte na malý hon za pokladem?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "What sort of scavenger hunt?",
+      "cz": "Jaký druh honby za pokladem?",
+      "source": "pre_existing",
+      "original_cz": "Jaký druh honby za pokladem?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Maybe later, Uncle Scrooge.",
+      "cz": "Možná později, strýčku Scrooge.",
+      "source": "pre_existing",
+      "original_cz": "Možná později, strýčku Scrooge."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Oh, one that'll be quite profitable for you, I promise!",
+      "cz": "Slibuji, že to pro tebe bude docela výnosné!",
+      "source": "pre_existing",
+      "original_cz": "Slibuji, že to pro tebe bude docela výnosné!"
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "We'll simply do some <Lore>mining together</Lore> for different kinds of gems. And after <Lore>four outings</Lore>, I'll have a nice reward for ya.",
+      "cz": "Prostě budeme <Lore>společně těžit</Lore> různé druhy drahokamů. A po <Lore>čtyř výpravách</Lore> pro tebe budu mít pěknou odměnu.",
+      "source": "pre_existing",
+      "original_cz": "Prostě budeme <Lore>společně těžit</Lore> různé druhy drahokamů. A po <Lore>čtyř výpravách</Lore> pro tebe budu mít pěknou odměnu."
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "Not ta mention you'll be swimmin' in precious stones!",
+      "cz": "Nemluvě o tom, že se budeš koupat v drahokamech!",
+      "source": "pre_existing",
+      "original_cz": "Nemluvě o tom, že se budeš koupat v drahokamech!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Why mine gems to celebrate Dreamlight Parks Fest?",
+      "cz": "Proč těžit drahokamy na oslavu festivalu Dreamlight Parks?",
+      "source": "pre_existing",
+      "original_cz": "Proč těžit drahokamy na oslavu festivalu Dreamlight Parks?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "You don't want a cut of what we find?",
+      "cz": "Nechceš mít podíl na tom, co najdeme?",
+      "source": "pre_existing",
+      "original_cz": "Nechceš mít podíl na tom, co najdeme?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Sounds great; I'm in!",
+      "cz": "Zní to skvěle; beru!",
+      "source": "pre_existing",
+      "original_cz": "Zní to skvěle; beru!"
+    },
+    {
+      "key": "Scrooge_007_f",
+      "en": "Because the festival's about having fun. But it's ALSO about appreciatin' the bounty of treasure in the Valley.",
+      "cz": "Protože festival je o zábavě. Ale JE TO TAKÉ o ocenění hojnosti pokladů v Údolí.",
+      "source": "pre_existing",
+      "original_cz": "Protože festival je o zábavě. Ale JE TO TAKÉ o ocenění hojnosti pokladů v Údolí."
+    },
+    {
+      "key": "Scrooge_010_f",
+      "en": "Too often we forget the wonder of glittering gems and jewels right on our doorstep!",
+      "cz": "Příliš často zapomínáme na zázrak třpytivých drahokamů a šperků přímo před našimi dveřmi!",
+      "source": "pre_existing",
+      "original_cz": "Příliš často zapomínáme na zázrak třpytivých drahokamů a šperků přímo před našimi dveřmi!"
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "Not this time. To tell ya true, {PlayerName}, I just want to spend some time with you in the spirit of the celebration.",
+      "cz": "Tentokrát ne. Abych ti řekl pravdu, {PlayerName}, chci s tebou jen strávit nějaký čas v duchu oslav.",
+      "source": "pre_existing",
+      "original_cz": "Tentokrát ne. Abych ti řekl pravdu, {PlayerName}, chci s tebou jen strávit nějaký čas v duchu oslav."
+    },
+    {
+      "key": "Scrooge_011_f",
+      "en": "It does my heart good to see my friends thrive!",
+      "cz": "Dělá mi radost, když vidím, jak se mým přátelům daří!",
+      "source": "pre_existing",
+      "original_cz": "Dělá mi radost, když vidím, jak se mým přátelům daří!"
+    },
+    {
+      "key": "Scrooge_008_f",
+      "en": "Well, bless me bagpipes! That's excellent news.",
+      "cz": "No, ať jsou dudy boží! To je skvělá zpráva.",
+      "source": "pre_existing",
+      "original_cz": "No, ať jsou dudy boží! To je skvělá zpráva."
+    },
+    {
+      "key": "Scrooge_009_f",
+      "en": "Now, break out your Royal Pickaxe, because first we'll be mining for <Lore>any gems and minerals</Lore> we can find!",
+      "cz": "A teď vytáhněte svůj královský krumpáč, protože nejdřív budeme těžit <Lore>všechny drahokamy a minerály</Lore>, které najdeme!",
+      "source": "pre_existing",
+      "original_cz": "A teď vytáhněte svůj královský krumpáč, protože nejdřív budeme těžit <Lore>všechny drahokamy a minerály</Lore>, které najdeme!"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "All right, if ya say so.",
+      "cz": "Dobře, když to tak říkáš.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, když to tak říkáš."
+    }
+  ],
+  "ParksMiniEvent_Scrooge/Scrooge_Scro_ParkMining_010_Scro_ParkMining_010_Ongoing01.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Let's <Lore>spend some time together</Lore> and mine for <Lore>any gems and minerals we can find</Lore>!",
+      "cz": "Pojďme <Lore>strávit nějaký čas společně</Lore> a těžit <Lore>všechny drahokamy a minerály, které najdeme</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Pojďme <Lore>strávit nějaký čas společně</Lore> a těžit <Lore>všechny drahokamy a minerály, které najdeme</Lore>!"
+    }
+  ],
+  "ParksMiniEvent_Scrooge/Scrooge_Scro_ParkMining_010_Scro_ParkMining_010_Ongoing02.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Break out your Royal Pickaxe, and let's <Lore>mine for any minerals we can find</Lore>!",
+      "cz": "Vytáhněte svůj královský krumpáč a pojďme <Lore>těžit jakékoli minerály, které najdeme</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Vytáhněte svůj královský krumpáč a pojďme <Lore>těžit jakékoli minerály, které najdeme</Lore>!"
+    }
+  ],
+  "ParksMiniEvent_Scrooge/Scrooge_Scro_ParkMining_010_Scro_ParkMining_010_Outro.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "What a bonnie grand showing!",
+      "cz": "To je ale parádní představení!",
+      "source": "pre_existing",
+      "original_cz": "To je ale parádní představení!"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Now, you keep all the gems, {PlayerName}, and I'll prepare the next stage of our scavenger hunt!",
+      "cz": "Teď si nech všechny drahokamy, {PlayerName}, a já připravím další fázi našeho honbu za pokladem!",
+      "source": "pre_existing",
+      "original_cz": "Teď si nech všechny drahokamy, {PlayerName}, a já připravím další fázi našeho honbu za pokladem!"
+    }
+  ],
+  "ParksMiniEvent_Scrooge/Scrooge_Scro_ParkMining_020_Scro_ParkMining_020_Intro.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "{PlayerName}, I've got the next stage of our Dreamlight Parks Fest scavenger hunt all prepared! Are ya ready?",
+      "cz": "{PlayerName}, mám připravenou další fázi našeho honbu za pokladem na Dreamlight Parks Fest! Jsi připravený?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, mám připravenou další fázi našeho honbu za pokladem na Dreamlight Parks Fest! Jsi připravený?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Me and my Pickaxe are READY!",
+      "cz": "Já a můj krumpáč jsme PŘIPRAVENI!",
+      "source": "pre_existing",
+      "original_cz": "Já a můj krumpáč jsme PŘIPRAVENI!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Maybe later!",
+      "cz": "Možná později!",
+      "source": "pre_existing",
+      "original_cz": "Možná později!"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Marvelous! Now, our next mining excursion will be a bit more challengin' than the last.",
+      "cz": "Úžasné! Naše další těžební exkurze bude o něco náročnější než ta předchozí.",
+      "source": "pre_existing",
+      "original_cz": "Úžasné! Naše další těžební exkurze bude o něco náročnější než ta předchozí."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "This time, we'll be after <Lore>oval gems</Lore>.",
+      "cz": "Tentokrát půjdeme po <Lore>oválných drahokamech</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Tentokrát půjdeme po <Lore>oválných drahokamech</Lore>."
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "<Lore>Together</Lore>, I'm sure we'll find some absolute beauties!",
+      "cz": "<Lore>Společně</Lore> jistě najdeme nějaké naprosté krásky!",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Společně</Lore> jistě najdeme nějaké naprosté krásky!"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Ah, of course. Find me when you have a moment!",
+      "cz": "Aha, samozřejmě. Najdi si mě, až budeš mít chvilku!",
+      "source": "pre_existing",
+      "original_cz": "Aha, samozřejmě. Najdi si mě, až budeš mít chvilku!"
+    }
+  ],
+  "ParksMiniEvent_Scrooge/Scrooge_Scro_ParkMining_020_Scro_ParkMining_020_Ongoing01.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Don't you want to <Lore>\"hang out,\"</Lore> as my great-nephews would say?",
+      "cz": "Nechceš si <Lore>„trávit čas,“</Lore> jak by řekli moji prasynovci?",
+      "source": "pre_existing",
+      "original_cz": "Nechceš si <Lore>„trávit čas,“</Lore> jak by řekli moji prasynovci?"
+    }
+  ],
+  "ParksMiniEvent_Scrooge/Scrooge_Scro_ParkMining_020_Scro_ParkMining_020_Ongoing02.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "What are ya waitin' for?! Let's start <Lore>mining for oval gems</Lore>!",
+      "cz": "Na co čekáš?! Začněme <Lore>těžit oválné drahokamy</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Na co čekáš?! Začněme <Lore>těžit oválné drahokamy</Lore>!"
+    }
+  ],
+  "ParksMiniEvent_Scrooge/Scrooge_Scro_ParkMining_020_Scro_ParkMining_020_Outro.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "That's a brilliant collection, {PlayerName}!",
+      "cz": "To je skvělá sbírka, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "To je skvělá sbírka, {PlayerName}!"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "And now we're halfway through our Dreamlight Parks Fest scavenger gauntlet.",
+      "cz": "A teď jsme v polovině naší soutěže sběratelů na festivalu Dreamlight Parks.",
+      "source": "pre_existing",
+      "original_cz": "A teď jsme v polovině naší soutěže sběratelů na festivalu Dreamlight Parks."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "While I devise the next stage, why don't you enjoy your new riches? You might sell them for Star Coins, or even craft somethin'!",
+      "cz": "Zatímco vymýšlím další fázi, proč si neužít svého nového bohatství? Mohl byste ho prodat za hvězdné mince, nebo si dokonce něco vyrobit!",
+      "source": "pre_existing",
+      "original_cz": "Zatímco vymýšlím další fázi, proč si neužít svého nového bohatství? Mohl byste ho prodat za hvězdné mince, nebo si dokonce něco vyrobit!"
+    }
+  ],
+  "ParksMiniEvent_Scrooge/Scrooge_Scro_ParkMining_030_Scro_ParkMining_030_Intro.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "I've readied the next stage of our Dreamlight Parks Fest mining scavenger hunt!",
+      "cz": "Připravil jsem další fázi našeho honby za pokladem v rámci Dreamlight Parks Fest!",
+      "source": "pre_existing",
+      "original_cz": "Připravil jsem další fázi našeho honby za pokladem v rámci Dreamlight Parks Fest!"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Great Scott, that's a mouthful to say.",
+      "cz": "Skvělý Scotte, to se dá říct nahlas.",
+      "source": "pre_existing",
+      "original_cz": "Skvělý Scotte, to se dá říct nahlas."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Are you ready, {PlayerName}?",
+      "cz": "Jsi připravený, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Jsi připravený, {PlayerName}?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Bring on the challenge!",
+      "cz": "Přijď do výzvy!",
+      "source": "pre_existing",
+      "original_cz": "Přijď do výzvy!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'll talk to you later.",
+      "cz": "Ozveme se později.",
+      "source": "pre_existing",
+      "original_cz": "Ozveme se později."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "I was hopin' you'd say that!",
+      "cz": "Doufal jsem, že to řekneš!",
+      "source": "pre_existing",
+      "original_cz": "Doufal jsem, že to řekneš!"
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "Now, for the next phase of our scavenger hunt, you and I will look for <Lore>rectangular gems and minerals</Lore>.",
+      "cz": "A teď, v další fázi našeho honby za pokladem, budeme my dva hledat <Lore>obdélníkové drahokamy a minerály</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "A teď, v další fázi našeho honby za pokladem, budeme my dva hledat <Lore>obdélníkové drahokamy a minerály</Lore>."
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "Lead the way, my friend!",
+      "cz": "Veď cestu, příteli!",
+      "source": "pre_existing",
+      "original_cz": "Veď cestu, příteli!"
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "Of course... But remember: There's only ONE more challenge after this one, and then a special reward will be yours!",
+      "cz": "Samozřejmě... Ale pamatujte: Po této výzvě zbývá už jen JEDNA a pak budete mít speciální odměnu!",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě... Ale pamatujte: Po této výzvě zbývá už jen JEDNA a pak budete mít speciální odměnu!"
+    }
+  ],
+  "ParksMiniEvent_Scrooge/Scrooge_Scro_ParkMining_030_Scro_ParkMining_030_Ongoing01.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "The rules of the scavenger hunt say we've got to look for these gems <Lore>as a team</Lore>.",
+      "cz": "Pravidla honby za pokladem říkají, že tyto drahokamy musíme hledat <Lore>jako tým</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Pravidla honby za pokladem říkají, že tyto drahokamy musíme hledat <Lore>jako tým</Lore>."
+    }
+  ],
+  "ParksMiniEvent_Scrooge/Scrooge_Scro_ParkMining_030_Scro_ParkMining_030_Ongoing02.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Ready your Royal Pickaxe! We've got to find ourselves some bonnie <Lore>rectangular gems</Lore>.",
+      "cz": "Připravte si královský krumpáč! Musíme si najít nějaké krásné <Lore>obdélníkové drahokamy</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Připravte si královský krumpáč! Musíme si najít nějaké krásné <Lore>obdélníkové drahokamy</Lore>."
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Emeralds, rubies, sapphires... Anything that catches your eye!",
+      "cz": "Smaragdy, rubíny, safíry... Cokoliv, co vás zaujme!",
+      "source": "pre_existing",
+      "original_cz": "Smaragdy, rubíny, safíry... Cokoliv, co vás zaujme!"
+    }
+  ],
+  "ParksMiniEvent_Scrooge/Scrooge_Scro_ParkMining_030_Scro_ParkMining_030_Outro.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "A glorious display of the earth's riches, wouldn't you say?",
+      "cz": "Nádherná ukázka bohatství Země, nemyslíte?",
+      "source": "pre_existing",
+      "original_cz": "Nádherná ukázka bohatství Země, nemyslíte?"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Well done, {PlayerName}! Now, the next scavenger challenge will <Lore>be the last</Lore>.",
+      "cz": "Výborně, {PlayerName}! Další výzva s pokladem bude <Lore>poslední</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Výborně, {PlayerName}! Další výzva s pokladem bude <Lore>poslední</Lore>."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Until then, enjoy your newfound wealth! You can always sell the gems, store 'em for a rainy day, or put them on display in your House.",
+      "cz": "Do té doby si užívejte svého nově nabytého bohatství! Drahokamy můžete vždycky prodat, uschovat si je na horší časy nebo je vystavit ve svém rodném domě.",
+      "source": "pre_existing",
+      "original_cz": "Do té doby si užívejte svého nově nabytého bohatství! Drahokamy můžete vždycky prodat, uschovat si je na horší časy nebo je vystavit ve svém rodném domě."
+    }
+  ],
+  "ParksMiniEvent_Scrooge/Scrooge_Scro_ParkMining_040_Scro_ParkMining_040_Intro.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "{PlayerName}! I've got our final mining scavenger hunt stage all set!",
+      "cz": "{PlayerName}! Mám připravenou naši poslední fázi honby za pokladem!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}! Mám připravenou naši poslední fázi honby za pokladem!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm ready for my final reward!",
+      "cz": "Jsem připraven/a na svou poslední odměnu!",
+      "source": "pre_existing",
+      "original_cz": "Jsem připraven/a na svou poslední odměnu!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'll find you later, okay?",
+      "cz": "Najdu tě později, ano?",
+      "source": "pre_existing",
+      "original_cz": "Najdu tě později, ano?"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "And you'll get it, right after we complete our last challenge as a team.",
+      "cz": "A dostaneš to hned poté, co jako tým dokončíme naši poslední výzvu.",
+      "source": "pre_existing",
+      "original_cz": "A dostaneš to hned poté, co jako tým dokončíme naši poslední výzvu."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Be prepared, because today may be our toughest yet. We need to mine for <Lore>shiny gems</Lore>. Those extra special, precious rarities.",
+      "cz": "Buďte připraveni, protože dnešek může být náš dosud nejtěžší. Musíme těžit <Lore>lesklé drahokamy</Lore>. Ty extra speciální, vzácné rarity.",
+      "source": "pre_existing",
+      "original_cz": "Buďte připraveni, protože dnešek může být náš dosud nejtěžší. Musíme těžit <Lore>lesklé drahokamy</Lore>. Ty extra speciální, vzácné rarity."
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Of course. I know you've always got plenty to do on your to-do list.",
+      "cz": "Samozřejmě. Vím, že máš na svém seznamu úkolů vždycky spoustu práce.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě. Vím, že máš na svém seznamu úkolů vždycky spoustu práce."
+    }
+  ],
+  "ParksMiniEvent_Scrooge/Scrooge_Scro_ParkMining_040_Scro_ParkMining_040_Ongoing01.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Don't forget, we must finish this the way we started it: <Lore>as a team</Lore>.",
+      "cz": "Nezapomeňte, že to musíme dokončit tak, jak jsme to začali: <Lore>jako tým</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Nezapomeňte, že to musíme dokončit tak, jak jsme to začali: <Lore>jako tým</Lore>."
+    }
+  ],
+  "ParksMiniEvent_Scrooge/Scrooge_Scro_ParkMining_040_Scro_ParkMining_040_Ongoing02.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Let's search for <Lore>shiny gems</Lore>, the rarest and most precious of all.",
+      "cz": "Pojďme hledat <Lore>lesklé drahokamy</Lore>, ty nejvzácnější a nejcennější ze všech.",
+      "source": "pre_existing",
+      "original_cz": "Pojďme hledat <Lore>lesklé drahokamy</Lore>, ty nejvzácnější a nejcennější ze všech."
+    }
+  ],
+  "ParksMiniEvent_Scrooge/Scrooge_Scro_ParkMining_040_Scro_ParkMining_040_Outro.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "As I live and breathe, would you look at how those gems shine?",
+      "cz": "Žiji a dýchám, podíval by ses, jak se ty drahokamy lesknou?",
+      "source": "pre_existing",
+      "original_cz": "Žiji a dýchám, podíval by ses, jak se ty drahokamy lesknou?"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "A truly spectacular job, {PlayerName}! You've captured a marvelous display of the vast beauty and wealth we have here in the Valley.",
+      "cz": "Opravdu velkolepá práce, {PlayerName}! Zachytil jsi úžasnou ukázku rozlehlé krásy a bohatství, které zde v údolí máme.",
+      "source": "pre_existing",
+      "original_cz": "Opravdu velkolepá práce, {PlayerName}! Zachytil jsi úžasnou ukázku rozlehlé krásy a bohatství, které zde v údolí máme."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "And here's your reward. Well earned, I'd say!",
+      "cz": "A tady je vaše odměna. Zasloužená, řekl bych!",
+      "source": "pre_existing",
+      "original_cz": "A tady je vaše odměna. Zasloužená, řekl bych!"
+    }
+  ]
+}

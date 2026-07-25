@@ -1,0 +1,71 @@
+{
+  "MiniEvent23_Alice/Alice_Daily_Alic_ClickMagic_010_Daily_Alic_ClickMagic_010_Intro.locbin": [
+    {
+      "key": "Alice_000_f",
+      "en": "{PlayerName}, I've been thinking about Wonderland quite a lot, you know.",
+      "cz": "{PlayerName}, víš, docela dost jsem přemýšlel o Říši divů.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, víš, docela dost jsem přemýšlel o Říši divů."
+    },
+    {
+      "key": "Alice_001_f",
+      "en": "Odd things happen there all the time. I remember once, curious little images appeared in the strangest places. I had rather a fun time finding them.",
+      "cz": "Pořád se tam dějí divné věci. Pamatuji si, jak se jednou na těch nejpodivnějších místech objevily zvláštní malé obrázky. Docela jsem si jejich hledání užil.",
+      "source": "pre_existing",
+      "original_cz": "Pořád se tam dějí divné věci. Pamatuji si, jak se jednou na těch nejpodivnějších místech objevily zvláštní malé obrázky. Docela jsem si jejich hledání užil."
+    },
+    {
+      "key": "Alice_002_f",
+      "en": "You mean in your <Lore>Realm</Lore>? Maybe I'll try and <Lore>find some curious images</Lore> too!",
+      "cz": "Myslíš ve tvé <Lore>Říši</Lore>? Možná se taky pokusím <Lore>najít nějaké zajímavé obrázky</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Myslíš ve tvé <Lore>Říši</Lore>? Možná se taky pokusím <Lore>najít nějaké zajímavé obrázky</Lore>!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'll take pictures of them with my Camera!",
+      "cz": "Vyfotím je svým fotoaparátem!",
+      "source": "pre_existing",
+      "original_cz": "Vyfotím je svým fotoaparátem!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Later, though. I'm busy now.",
+      "cz": "Později ale. Teď mám hodně práce.",
+      "source": "pre_existing",
+      "original_cz": "Později ale. Teď mám hodně práce."
+    },
+    {
+      "key": "Alice_003_f",
+      "en": "Be sure to come and show me what you've found when you're finished. If I were you, I'd <Lore>search in the forest</Lore>, not the Queen of Hearts' Garden.",
+      "cz": "Až skončíš, určitě mi přijď ukázat, co jsi našel. Kdybych byl tebou, hledal bych <Lore>v lese</Lore>, ne v zahradě Srdcové královny.",
+      "source": "pre_existing",
+      "original_cz": "Až skončíš, určitě mi přijď ukázat, co jsi našel. Kdybych byl tebou, hledal bych <Lore>v lese</Lore>, ne v zahradě Srdcové královny."
+    }
+  ],
+  "MiniEvent23_Alice/Alice_Daily_Alic_ClickMagic_010_Daily_Alic_ClickMagic_010_Ongoing01.locbin": [
+    {
+      "key": "Alice_000_f",
+      "en": "I'm going to search the Wonderland forest in your Realm, Alice! I want to <Lore>take pictures of hidden images I find</Lore>.",
+      "cz": "Jdu prohledat Říši divů v tvé Říši, Alice! Chci <Lore>vyfotit skryté obrázky, které najdu</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Jdu prohledat Říši divů v tvé Říši, Alice! Chci <Lore>vyfotit skryté obrázky, které najdu</Lore>."
+    }
+  ],
+  "MiniEvent23_Alice/Alice_Daily_Alic_ClickMagic_010_Daily_Alic_ClickMagic_010_Outro.locbin": [
+    {
+      "key": "Alice_000_f",
+      "en": "Why, these aren't the same pictures I saw before. They must have changed for you, {PlayerName}. How curious!",
+      "cz": "Vždyť tohle nejsou ty samé obrázky, co jsem viděl předtím. Pro tebe se musely změnit, {PlayerName}. To je zvláštní!",
+      "source": "pre_existing",
+      "original_cz": "Vždyť tohle nejsou ty samé obrázky, co jsem viděl předtím. Pro tebe se musely změnit, {PlayerName}. To je zvláštní!"
+    },
+    {
+      "key": "Alice_001_f",
+      "en": "Now then, you played the game rather well, so here's a little something for you.",
+      "cz": "Tak tedy, hru jsi odehrál docela dobře, takže tady je něco pro tebe.",
+      "source": "pre_existing",
+      "original_cz": "Tak tedy, hru jsi odehrál docela dobře, takže tady je něco pro tebe."
+    }
+  ]
+}

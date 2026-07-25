@@ -1,0 +1,43 @@
+{
+  "ExpansionMain_Beast/Beast_BoardGame_Pregame001.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Thank you for helping me.",
+      "cz": "Děkuji za pomoc.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji za pomoc."
+    }
+  ],
+  "ExpansionMain_Beast/Beast_Dialogues_Eager001.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "{PlayerName}... Could you help me practice Scramblecoin? Belle likes to play...",
+      "cz": "{PlayerName}... Mohla bys mi pomoct procvičit si Scramblecoin? Belle ráda hraje...",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}... Mohla bys mi pomoct procvičit si Scramblecoin? Belle ráda hraje..."
+    }
+  ],
+  "ExpansionMain_Beast/Beast_Dialogues_Postgame001.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Hm...",
+      "cz": "Hm...",
+      "source": "pre_existing",
+      "original_cz": "Hm..."
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "I lost?! Wait... I have to remember what Belle told me: \"It's just a game. And games are for fun\"... Thank you, {PlayerName}.",
+      "cz": "Prohrála jsem?! Počkej... Musím si vzpomenout, co mi Belle řekla: „Je to jen hra. A hry jsou pro zábavu“... Děkuji, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Prohrála jsem?! Počkej... Musím si vzpomenout, co mi Belle řekla: „Je to jen hra. A hry jsou pro zábavu“... Děkuji, {PlayerName}."
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "I won...? Perhaps I CAN be a worthy challenger for Belle. Thank you, {PlayerName}.",
+      "cz": "Vyhrála jsem...? Možná můžu být důstojnou vyzyvatelkou pro Belle. Děkuji, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Vyhrála jsem...? Možná můžu být důstojnou vyzyvatelkou pro Belle. Děkuji, {PlayerName}."
+    }
+  ]
+}

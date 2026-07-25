@@ -1,0 +1,197 @@
+{
+  "Tiana_Daisy/Daisy_CrossNPCDialogues_Request_Tiana_VLG_Tian_040_ParadeMeadowListenStitchDaisy.locbin": [
+    {
+      "key": "Daisy_000_f",
+      "en": "Daisy, great job on that mask!",
+      "cz": "Daisy, skvělá práce s tou maskou!",
+      "source": "pre_existing",
+      "original_cz": "Daisy, skvělá práce s tou maskou!"
+    },
+    {
+      "key": "Daisy_001_f",
+      "en": "Well, what can I say? Fashion's my forte!",
+      "cz": "No, co můžu říct? Móda je moje silná stránka!",
+      "source": "pre_existing",
+      "original_cz": "No, co můžu říct? Móda je moje silná stránka!"
+    }
+  ],
+  "Tiana_Daisy/Daisy_CrossNPCDialogues_Request_Tiana_VLG_Tian_040_ParadePlazaStitchDaisy.locbin": [
+    {
+      "key": "Daisy_000_f",
+      "en": "What would your parade headpiece look like?",
+      "cz": "Jak by vypadala vaše přehlídková čelenka?",
+      "source": "pre_existing",
+      "original_cz": "Jak by vypadala vaše přehlídková čelenka?"
+    },
+    {
+      "key": "Daisy_001_f",
+      "en": "Oojika... Oh! Spaceship hat!",
+      "cz": "Oojika... Ach! Kosmická čepice!",
+      "source": "pre_existing",
+      "original_cz": "Oojika... Ach! Kosmická čepice!"
+    },
+    {
+      "key": "Daisy_002_f",
+      "en": "How fun! I can see it now — all silvery and round.",
+      "cz": "To je legrace! Už to vidím – celé stříbřité a kulaté.",
+      "source": "pre_existing",
+      "original_cz": "To je legrace! Už to vidím – celé stříbřité a kulaté."
+    }
+  ],
+  "Tiana_Daisy/Daisy_VLG_Tian_040_VLG_Tian_040_TalkTo01.locbin": [
+    {
+      "key": "Tiana_000_f",
+      "en": "Hey Daisy, I heard that you're dipping your toes into mask-making?",
+      "cz": "Ahoj Daisy, slyšela jsem, že se věnuješ výrobě roušek?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj Daisy, slyšela jsem, že se věnuješ výrobě roušek?"
+    },
+    {
+      "key": "Daisy_000_f",
+      "en": "That's right! After all, every big occasion calls for the perfect mask. And a parade is certainly a fabulous occasion... Tiana told me you might be stopping by.",
+      "cz": "Přesně tak! Koneckonců, každá velká příležitost si žádá perfektní masku. A průvod je rozhodně skvělá příležitost... Tiana mi říkala, že se možná zastavíš.",
+      "source": "pre_existing",
+      "original_cz": "Přesně tak! Koneckonců, každá velká příležitost si žádá perfektní masku. A průvod je rozhodně skvělá příležitost... Tiana mi říkala, že se možná zastavíš."
+    },
+    {
+      "key": "Daisy_001_f",
+      "en": "Now hold still a moment; I need to get some measurements...",
+      "cz": "Teď chvilku klidně zastavte, potřebuji si udělat nějaké míry...",
+      "source": "pre_existing",
+      "original_cz": "Teď chvilku klidně zastavte, potřebuji si udělat nějaké míry..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "So, uh—",
+      "cz": "Takže, ehm—",
+      "source": "pre_existing",
+      "original_cz": "Takže, ehm—"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I've never been fitted for a mask before!",
+      "cz": "Nikdy předtím mi nenasadili masku!",
+      "source": "pre_existing",
+      "original_cz": "Nikdy předtím mi nenasadili masku!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Tiana must have seemed excited—",
+      "cz": "Tiana musela vypadat nadšeně –",
+      "source": "pre_existing",
+      "original_cz": "Tiana musela vypadat nadšeně –"
+    },
+    {
+      "key": "Daisy_003_f",
+      "en": "Hold still!",
+      "cz": "Drž se klidně!",
+      "source": "pre_existing",
+      "original_cz": "Drž se klidně!"
+    },
+    {
+      "key": "Daisy_012_f",
+      "en": "What if you also wear something <Lore>quirky</Lore>?",
+      "cz": "Co když si také oblečete něco <Lore>netradičního</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "Co když si také oblečete něco <Lore>netradičního</Lore>?"
+    },
+    {
+      "key": "Daisy_013_f",
+      "en": "Can do!",
+      "cz": "Můžu to udělat!",
+      "source": "pre_existing",
+      "original_cz": "Můžu to udělat!"
+    },
+    {
+      "key": "Daisy_014_f",
+      "en": "Perfect. Now, while I'm working on the mask, could you help Tiana some more?",
+      "cz": "Perfektní. A teď, když už pracuji na masce, mohla bys ještě trochu pomoct Tianě?",
+      "source": "pre_existing",
+      "original_cz": "Perfektní. A teď, když už pracuji na masce, mohla bys ještě trochu pomoct Tianě?"
+    },
+    {
+      "key": "Daisy_015_f",
+      "en": "Of course. What does she need?",
+      "cz": "Samozřejmě. Co potřebuje?",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě. Co potřebuje?"
+    },
+    {
+      "key": "Daisy_016_f",
+      "en": "She mentioned that she needed something to mark the start of the parade.",
+      "cz": "Zmínila se, že potřebuje něco, co by označilo začátek průvodu.",
+      "source": "pre_existing",
+      "original_cz": "Zmínila se, že potřebuje něco, co by označilo začátek průvodu."
+    },
+    {
+      "key": "Daisy_017_f",
+      "en": "*gasp* What about a balloon <ActivityItem>Parade Arch</ActivityItem> as a tribute to New Orleans?!",
+      "cz": "*zalapání po dechu* Co takhle balón <ActivityItem>Parade Arch</ActivityItem> jako pocta New Orleans?!",
+      "source": "pre_existing",
+      "original_cz": "*zalapání po dechu* Co takhle balón <ActivityItem>Parade Arch</ActivityItem> jako pocta New Orleans?!"
+    },
+    {
+      "key": "Daisy_018_f",
+      "en": "No problem; I can work on that!",
+      "cz": "Žádný problém, můžu na tom zapracovat!",
+      "source": "pre_existing",
+      "original_cz": "Žádný problém, můžu na tom zapracovat!"
+    },
+    {
+      "key": "Daisy_004_f",
+      "en": "...",
+      "cz": "...",
+      "source": "pre_existing",
+      "original_cz": "..."
+    },
+    {
+      "key": "Daisy_005_f",
+      "en": "All right, done. I'll start working on your <ActivityItem>Parade Float Mask</ActivityItem> right away.",
+      "cz": "Dobře, hotovo. Hned se pustím do práce na tvé <ActivityItem>masce pro průvod</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, hotovo. Hned se pustím do práce na tvé <ActivityItem>masce pro průvod</ActivityItem>."
+    },
+    {
+      "key": "Daisy_006_f",
+      "en": "So cool — can't wait to see how it will turn out!",
+      "cz": "Tak super – už se nemůžu dočkat, jak to dopadne!",
+      "source": "pre_existing",
+      "original_cz": "Tak super – už se nemůžu dočkat, jak to dopadne!"
+    },
+    {
+      "key": "Daisy_007_f",
+      "en": "About that — I wouldn't be doing my duty as a designer if I didn't try to match this to your parade outfit.",
+      "cz": "O tom – nekonal bych svou povinnost návrháře, kdybych se nepokusil to sladit s tvým přehlídkovým outfitem.",
+      "source": "pre_existing",
+      "original_cz": "O tom – nekonal bych svou povinnost návrháře, kdybych se nepokusil to sladit s tvým přehlídkovým outfitem."
+    },
+    {
+      "key": "Daisy_008_f",
+      "en": "What will you be wearing?",
+      "cz": "Co budeš mít na sobě?",
+      "source": "pre_existing",
+      "original_cz": "Co budeš mít na sobě?"
+    },
+    {
+      "key": "Daisy_009_f",
+      "en": "Hmm, I hadn't thought about that yet.",
+      "cz": "Hmm, o tom jsem ještě nepřemýšlel/a.",
+      "source": "pre_existing",
+      "original_cz": "Hmm, o tom jsem ještě nepřemýšlel/a."
+    },
+    {
+      "key": "Daisy_010_f",
+      "en": "From what I understand about New Orleans, it's full of exciting and fun people. Maybe I should dress up in something <Lore>bold</Lore>?",
+      "cz": "Pokud vím, tak New Orleans je plný vzrušujících a zábavných lidí. Možná bych se měl/a obléknout do něčeho <Lore>odvážného</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "Pokud vím, tak New Orleans je plný vzrušujících a zábavných lidí. Možná bych se měl/a obléknout do něčeho <Lore>odvážného</Lore>?"
+    },
+    {
+      "key": "Daisy_011_f",
+      "en": "Absolutely! Let's see... Well, Tiana told me that the parades can be quite playful.",
+      "cz": "Rozhodně! Uvidíme... No, Tiana mi říkala, že ty průvody můžou být docela hravé.",
+      "source": "pre_existing",
+      "original_cz": "Rozhodně! Uvidíme... No, Tiana mi říkala, že ty průvody můžou být docela hravé."
+    }
+  ]
+}

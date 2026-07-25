@@ -1,0 +1,1317 @@
+{
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_BringItem01.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "Hey, Moana. I found this <ActivityItem>Glowing Algae</ActivityItem> on Dazzle Beach...",
+      "cz": "Ahoj, Moano. Našla jsem tyhle <ActivityItem>zářící řasy</ActivityItem> na pláži Dazzle...",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, Moano. Našla jsem tyhle <ActivityItem>zářící řasy</ActivityItem> na pláži Dazzle..."
+    },
+    {
+      "key": "Moana_001_f",
+      "en": "Oh, yes! I wanted to talk to you about this. While I was out on my canoe today, the water beneath me was glowing...",
+      "cz": "Ano, ano! Chtěl jsem si s tebou o tom promluvit. Když jsem dnes byl na kánoi, voda pode mnou zářila...",
+      "source": "pre_existing",
+      "original_cz": "Ano, ano! Chtěl jsem si s tebou o tom promluvit. Když jsem dnes byl na kánoi, voda pode mnou zářila..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Is the glow connected to your grandmother?",
+      "cz": "Souvisí ta záře s tvou babičkou?",
+      "source": "pre_existing",
+      "original_cz": "Souvisí ta záře s tvou babičkou?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I've never seen anything like this!",
+      "cz": "Nikdy jsem nic takového neviděl/a!",
+      "source": "pre_existing",
+      "original_cz": "Nikdy jsem nic takového neviděl/a!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Stranger things have happened, I guess.",
+      "cz": "Asi se děly i podivnější věci.",
+      "source": "pre_existing",
+      "original_cz": "Asi se děly i podivnější věci."
+    },
+    {
+      "key": "Moana_005_f",
+      "en": "No, definitely not. This was different.",
+      "cz": "Ne, rozhodně ne. Tohle bylo jiné.",
+      "source": "pre_existing",
+      "original_cz": "Ne, rozhodně ne. Tohle bylo jiné."
+    },
+    {
+      "key": "Moana_008_f",
+      "en": "And there was something else... a <Lore>strange wind carrying flower petals</Lore> was swirling all around me. It was familiar, somehow, like an old friend...",
+      "cz": "A bylo tu ještě něco... kolem mě vířil <Lore>podivný vítr nesoucí okvětní lístky</Lore>. Bylo to nějak povědomé, jako starý přítel...",
+      "source": "pre_existing",
+      "original_cz": "A bylo tu ještě něco... kolem mě vířil <Lore>podivný vítr nesoucí okvětní lístky</Lore>. Bylo to nějak povědomé, jako starý přítel..."
+    },
+    {
+      "key": "Moana_003_f",
+      "en": "When I looked closer, I saw the glow in the water was <ActivityItem>Glowing Algae</ActivityItem>. I collected some. I think we should take the boating stuff in my House and go investigate.",
+      "cz": "Když jsem se podíval blíž, viděl jsem, že záře ve vodě jsou <ActivityItem>Zářící řasy</ActivityItem>. Nějaké jsem nasbíral. Myslím, že bychom měli vzít věci na lodě z mého domu a jít to prozkoumat.",
+      "source": "pre_existing",
+      "original_cz": "Když jsem se podíval blíž, viděl jsem, že záře ve vodě jsou <ActivityItem>Zářící řasy</ActivityItem>. Nějaké jsem nasbíral. Myslím, že bychom měli vzít věci na lodě z mého domu a jít to prozkoumat."
+    },
+    {
+      "key": "Moana_004_f",
+      "en": "Good idea! We need to investigate this.",
+      "cz": "Dobrý nápad! Musíme to prošetřit.",
+      "source": "pre_existing",
+      "original_cz": "Dobrý nápad! Musíme to prošetřit."
+    },
+    {
+      "key": "Moana_009_f",
+      "en": "When I looked closer, I saw the glow in the water was <ActivityItem>Glowing Algae</ActivityItem>. I think we should take the boating things in my House, get out on the water, and find out more!",
+      "cz": "Když jsem se podíval blíž, viděl jsem, že záře ve vodě jsou <ActivityItem>Zářící řasy</ActivityItem>. Myslím, že bychom měli vzít ty lodičky z mého domu, vyrazit na vodu a zjistit víc!",
+      "source": "pre_existing",
+      "original_cz": "Když jsem se podíval blíž, viděl jsem, že záře ve vodě jsou <ActivityItem>Zářící řasy</ActivityItem>. Myslím, že bychom měli vzít ty lodičky z mého domu, vyrazit na vodu a zjistit víc!"
+    },
+    {
+      "key": "Moana_011_f",
+      "en": "Great idea! Let's <Lore>go to your House</Lore> right away!",
+      "cz": "Skvělý nápad! Pojďme <Lore>hned k tobě domů</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Skvělý nápad! Pojďme <Lore>hned k tobě domů</Lore>!"
+    },
+    {
+      "key": "Moana_006_f",
+      "en": "Me neither. It was way different than any kind of glowing I've seen before.",
+      "cz": "Já taky ne. Bylo to úplně jiné než jakákoli záře, kterou jsem kdy viděl.",
+      "source": "pre_existing",
+      "original_cz": "Já taky ne. Bylo to úplně jiné než jakákoli záře, kterou jsem kdy viděl."
+    },
+    {
+      "key": "Moana_007_f",
+      "en": "True. But this is different. I can feel it.",
+      "cz": "Pravda. Ale tohle je jiné. Cítím to.",
+      "source": "pre_existing",
+      "original_cz": "Pravda. Ale tohle je jiné. Cítím to."
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_BringItem02.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "Try talking to the winds again. That worked before!",
+      "cz": "Zkus si znovu promluvit s větrem. To už fungovalo!",
+      "source": "pre_existing",
+      "original_cz": "Zkus si znovu promluvit s větrem. To už fungovalo!"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "Hello again, Swirling Flower Petal Winds!",
+      "cz": "Ahoj znovu, Větru vířících květinových okvětních lístků!",
+      "source": "pre_existing",
+      "original_cz": "Ahoj znovu, Větru vířících květinových okvětních lístků!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Is this necklace yours?",
+      "cz": "Je tento náhrdelník tvůj?",
+      "source": "pre_existing",
+      "original_cz": "Je tento náhrdelník tvůj?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Where did this necklace come from?",
+      "cz": "Odkud se vzal tento náhrdelník?",
+      "source": "pre_existing",
+      "original_cz": "Odkud se vzal tento náhrdelník?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I know who this necklace used to belong to...",
+      "cz": "Vím, komu tenhle náhrdelník patřil...",
+      "source": "pre_existing",
+      "original_cz": "Vím, komu tenhle náhrdelník patřil..."
+    },
+    {
+      "key": "Moana_001_f",
+      "en": "How would that work, anyway? Do you even have a neck?",
+      "cz": "Jak by to vlastně fungovalo? Máš vůbec krk?",
+      "source": "pre_existing",
+      "original_cz": "Jak by to vlastně fungovalo? Máš vůbec krk?"
+    },
+    {
+      "key": "Moana_004_f",
+      "en": "Wait! {PlayerName}, something new is happening!",
+      "cz": "Počkejte! {PlayerName}, děje se něco nového!",
+      "source": "pre_existing",
+      "original_cz": "Počkejte! {PlayerName}, děje se něco nového!"
+    },
+    {
+      "key": "Moana_002_f",
+      "en": "It looks so familiar, but I still can't place it...",
+      "cz": "Vypadá mi to tak povědomě, ale pořád si to nemůžu zařadit...",
+      "source": "pre_existing",
+      "original_cz": "Vypadá mi to tak povědomě, ale pořád si to nemůžu zařadit..."
+    },
+    {
+      "key": "Moana_003_f",
+      "en": "My friend Pocahontas used to wear this.",
+      "cz": "Moje kamarádka Pocahontas tohle nosila.",
+      "source": "pre_existing",
+      "original_cz": "Moje kamarádka Pocahontas tohle nosila."
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_BringItem04.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "I found these <ActivityItem>Jewelry Pieces</ActivityItem>!",
+      "cz": "Našla jsem tyto <ActivityItem>šperky</ActivityItem>!",
+      "source": "pre_existing",
+      "original_cz": "Našla jsem tyto <ActivityItem>šperky</ActivityItem>!"
+    },
+    {
+      "key": "Moana_009_f",
+      "en": "<ActivityItem>Jewelry Pieces</ActivityItem>...? Wonder what they mean...",
+      "cz": "<ActivityItem>Šperky</ActivityItem>...? Zajímalo by mě, co znamenají...",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Šperky</ActivityItem>...? Zajímalo by mě, co znamenají..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Impossible to say for sure.",
+      "cz": "Nelze s jistotou říct.",
+      "source": "pre_existing",
+      "original_cz": "Nelze s jistotou říct."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "They look familiar...",
+      "cz": "Vypadají povědomě...",
+      "source": "pre_existing",
+      "original_cz": "Vypadají povědomě..."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "It's probably nothing important.",
+      "cz": "Asi to není nic důležitého.",
+      "source": "pre_existing",
+      "original_cz": "Asi to není nic důležitého."
+    },
+    {
+      "key": "Moana_001_f",
+      "en": "Not until we find the rest of it, at least.",
+      "cz": "Alespoň ne, dokud nenajdeme zbytek.",
+      "source": "pre_existing",
+      "original_cz": "Alespoň ne, dokud nenajdeme zbytek."
+    },
+    {
+      "key": "Moana_006_f",
+      "en": "Something tells me you know how we'll do that.",
+      "cz": "Něco mi říká, že víš, jak to uděláme.",
+      "source": "pre_existing",
+      "original_cz": "Něco mi říká, že víš, jak to uděláme."
+    },
+    {
+      "key": "Moana_005_f",
+      "en": "I have an idea.",
+      "cz": "Mám nápad.",
+      "source": "pre_existing",
+      "original_cz": "Mám nápad."
+    },
+    {
+      "key": "Player_001_f",
+      "en": "Swirling Flower Petal Winds, I have a question for you:",
+      "cz": "Vířící větry okvětních lístků, mám na tebe otázku:",
+      "source": "pre_existing",
+      "original_cz": "Vířící větry okvětních lístků, mám na tebe otázku:"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Are there more jewelry pieces to be found on the Mystery Island?",
+      "cz": "Dají se na Ostrově záhad najít další šperky?",
+      "source": "pre_existing",
+      "original_cz": "Dají se na Ostrově záhad najít další šperky?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Did these <ActivityItem>Jewelry Pieces</ActivityItem> belong to someone I know?",
+      "cz": "Patřily tyto <ActivityItem>šperky</ActivityItem> někomu, koho znám?",
+      "source": "pre_existing",
+      "original_cz": "Patřily tyto <ActivityItem>šperky</ActivityItem> někomu, koho znám?"
+    },
+    {
+      "key": "Player_001_choice_003_f",
+      "en": "Do you know where we need to go next?",
+      "cz": "Víš, kam musíme jít dál?",
+      "source": "pre_existing",
+      "original_cz": "Víš, kam musíme jít dál?"
+    },
+    {
+      "key": "Moana_008_f",
+      "en": "{PlayerName}, it's working! Look!",
+      "cz": "{PlayerName}, funguje to! Podívej!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, funguje to! Podívej!"
+    },
+    {
+      "key": "Moana_002_f",
+      "en": "I think this belonged to someone I knew a long time ago...",
+      "cz": "Myslím, že tohle patřilo někomu, koho jsem znal už dávno...",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že tohle patřilo někomu, koho jsem znal už dávno..."
+    },
+    {
+      "key": "Moana_007_f",
+      "en": "Really? Wow! Who is it?",
+      "cz": "Vážně? Páni! Kdo to je?",
+      "source": "pre_existing",
+      "original_cz": "Vážně? Páni! Kdo to je?"
+    },
+    {
+      "key": "Moana_003_f",
+      "en": "If that's true, why would the winds be pointing us towards them?",
+      "cz": "Pokud je to pravda, proč by nás vítr měl ukazovat k nim?",
+      "source": "pre_existing",
+      "original_cz": "Pokud je to pravda, proč by nás vítr měl ukazovat k nim?"
+    },
+    {
+      "key": "Moana_004_f",
+      "en": "Hmm, good point.",
+      "cz": "Hmm, dobrý postřeh.",
+      "source": "pre_existing",
+      "original_cz": "Hmm, dobrý postřeh."
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_BringItem05.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "This stuff's perfect, {PlayerName}. I'll tie these planks together so you can <Lore>fish in the whirlpool</Lore>.",
+      "cz": "Tohle je perfektní, {PlayerName}. Svážu ta prkna k sobě, abys mohl <Lore>rybařit ve vířivce</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Tohle je perfektní, {PlayerName}. Svážu ta prkna k sobě, abys mohl <Lore>rybařit ve vířivce</Lore>."
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_Ongoing01.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "Have you seen that <ActivityItem>Glowing Algae</ActivityItem>? If you go get some, we can try to figure out what it is together.",
+      "cz": "Viděl jsi tu <ActivityItem>Zářící řasu</ActivityItem>? Pokud si pro nějakou půjdeš, můžeme se společně pokusit zjistit, co to je.",
+      "source": "pre_existing",
+      "original_cz": "Viděl jsi tu <ActivityItem>Zářící řasu</ActivityItem>? Pokud si pro nějakou půjdeš, můžeme se společně pokusit zjistit, co to je."
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_Ongoing02.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "We need to <Lore>go to my House</Lore>! We can pick up things for boating and follow the Glowing Algae.",
+      "cz": "Musíme <Lore>jít ke mně domů</Lore>! Můžeme si vzít věci na plavbu lodí a sledovat zářící řasy.",
+      "source": "pre_existing",
+      "original_cz": "Musíme <Lore>jít ke mně domů</Lore>! Můžeme si vzít věci na plavbu lodí a sledovat zářící řasy."
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_Ongoing03.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "Aren't we going to <Lore>use the boating tools in my House</Lore>?",
+      "cz": "Nepoužijeme <Lore>nářadí na plavbu lodí v mém domě</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "Nepoužijeme <Lore>nářadí na plavbu lodí v mém domě</Lore>?"
+    },
+    {
+      "key": "Moana_001_f",
+      "en": "Yes! It's the only way to learn more about the <ActivityItem>Glowing Algae</ActivityItem> we found.",
+      "cz": "Ano! Je to jediný způsob, jak se dozvědět více o <ActivityItem>zářících řasách</ActivityItem>, které jsme našli.",
+      "source": "pre_existing",
+      "original_cz": "Ano! Je to jediný způsob, jak se dozvědět více o <ActivityItem>zářících řasách</ActivityItem>, které jsme našli."
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_Ongoing04.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "I recognize those Swirling Flower Petal Winds on the island! We should <Lore>get closer to them</Lore> so we can see what's going on.",
+      "cz": "Poznávám ty Vířící Větry Květinových Okvětních Lístků na ostrově! Měli bychom se k nim <Lore>přiblížit</Lore>, abychom viděli, co se děje.",
+      "source": "pre_existing",
+      "original_cz": "Poznávám ty Vířící Větry Květinových Okvětních Lístků na ostrově! Měli bychom se k nim <Lore>přiblížit</Lore>, abychom viděli, co se děje."
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_Ongoing05.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "I recognize those Swirling Flower Petal Winds on the island! We should <Lore>get closer to them</Lore> so we can see what's going on.",
+      "cz": "Poznávám ty Vířící Větry Květinových Okvětních Lístků na ostrově! Měli bychom se k nim <Lore>přiblížit</Lore>, abychom viděli, co se děje.",
+      "source": "pre_existing",
+      "original_cz": "Poznávám ty Vířící Větry Květinových Okvětních Lístků na ostrově! Měli bychom se k nim <Lore>přiblížit</Lore>, abychom viděli, co se děje."
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_Ongoing06.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "The Swirling Flower Petal Wind is showing us a Memory. We've got to take a look!",
+      "cz": "Vířící vítr z okvětních lístků nám ukazuje vzpomínku. Musíme se na ni podívat!",
+      "source": "pre_existing",
+      "original_cz": "Vířící vítr z okvětních lístků nám ukazuje vzpomínku. Musíme se na ni podívat!"
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_Ongoing07.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "We should <Lore>really look at the Memory</Lore> the Swirling Flower Petal Wind showed us.",
+      "cz": "Měli bychom se <Lore>opravdu podívat na tu vzpomínku</Lore>, kterou nám ukázal Vítr s vířícími okvětními lístky.",
+      "source": "pre_existing",
+      "original_cz": "Měli bychom se <Lore>opravdu podívat na tu vzpomínku</Lore>, kterou nám ukázal Vítr s vířícími okvětními lístky."
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_Ongoing08.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "That Memory the Swirling Flower Petal Wind showed us seemed to be pointing us to somewhere...",
+      "cz": "Ta vzpomínka, kterou nám ukázal Vítr z vířících okvětních lístků, jako by nás někam ukazovala...",
+      "source": "pre_existing",
+      "original_cz": "Ta vzpomínka, kterou nám ukázal Vítr z vířících okvětních lístků, jako by nás někam ukazovala..."
+    },
+    {
+      "key": "Moana_001_f",
+      "en": "We should <Lore>really look at the Memory</Lore> and try to figure out where it wants us to go.",
+      "cz": "Měli bychom se <Lore>opravdu podívat na Paměť</Lore> a pokusit se zjistit, kam nás chce směřovat.",
+      "source": "pre_existing",
+      "original_cz": "Měli bychom se <Lore>opravdu podívat na Paměť</Lore> a pokusit se zjistit, kam nás chce směřovat."
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_Ongoing10.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "We've been shown a puzzle we need to solve!",
+      "cz": "Byla nám ukázána hádanka, kterou musíme vyřešit!",
+      "source": "pre_existing",
+      "original_cz": "Byla nám ukázána hádanka, kterou musíme vyřešit!"
+    },
+    {
+      "key": "Moana_001_f",
+      "en": "We need to solve the puzzle to see what to do next!",
+      "cz": "Musíme vyřešit hádanku, abychom viděli, co budeme dělat dál!",
+      "source": "pre_existing",
+      "original_cz": "Musíme vyřešit hádanku, abychom viděli, co budeme dělat dál!"
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_Ongoing11.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "We won't know what to do next until we solve the puzzle the Swirling Flower Petal Wind showed us!",
+      "cz": "Nebudeme vědět, co dál, dokud nevyřešíme hádanku, kterou nám ukázal Vítr s vířícími okvětními lístky!",
+      "source": "pre_existing",
+      "original_cz": "Nebudeme vědět, co dál, dokud nevyřešíme hádanku, kterou nám ukázal Vítr s vířícími okvětními lístky!"
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_Ongoing12.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "If we want to find the last <ActivityItem>Jewelry Piece</ActivityItem>, we need to <Lore>get on my canoe</Lore> and fish it out.",
+      "cz": "Pokud chceme najít poslední <ActivityItem>šperk</ActivityItem>, musíme <Lore>nasednout na mou kánoi</Lore> a vylovit ho.",
+      "source": "pre_existing",
+      "original_cz": "Pokud chceme najít poslední <ActivityItem>šperk</ActivityItem>, musíme <Lore>nasednout na mou kánoi</Lore> a vylovit ho."
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_Ongoing13.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "Have you fished up whatever's at the bottom of the glowing whirlpool?",
+      "cz": "Vylovil jsi, co je na dně toho zářícího víru?",
+      "source": "pre_existing",
+      "original_cz": "Vylovil jsi, co je na dně toho zářícího víru?"
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_Ongoing14.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "It worked! We found the last of the <ActivityItem>Jewelry Pieces</ActivityItem>!",
+      "cz": "Fungovalo to! Našli jsme poslední <ActivityItem>šperky</ActivityItem>!",
+      "source": "pre_existing",
+      "original_cz": "Fungovalo to! Našli jsme poslední <ActivityItem>šperky</ActivityItem>!"
+    },
+    {
+      "key": "Moana_001_f",
+      "en": "Now we need to <Lore>return to the Mystery Island</Lore> and put all the pieces together.",
+      "cz": "Teď se musíme <Lore>vrátit na Tajemný ostrov</Lore> a dát všechny kousky dohromady.",
+      "source": "pre_existing",
+      "original_cz": "Teď se musíme <Lore>vrátit na Tajemný ostrov</Lore> a dát všechny kousky dohromady."
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_Ongoing15.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "Come on; let's put all of the <ActivityItem>Jewelry Pieces</ActivityItem> together and see what they make.",
+      "cz": "Pojďme, dáme všechny <ActivityItem>šperky</ActivityItem> dohromady a uvidíme, co z nich vznikne.",
+      "source": "pre_existing",
+      "original_cz": "Pojďme, dáme všechny <ActivityItem>šperky</ActivityItem> dohromady a uvidíme, co z nich vznikne."
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_Ongoing17.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "Well, all the <ActivityItem>Jewelry Pieces</ActivityItem> made a <ActivityItem>Necklace</ActivityItem>.",
+      "cz": "No, všechny <ActivityItem>šperky</ActivityItem> si vytvořily <ActivityItem>náhrdelník</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "No, všechny <ActivityItem>šperky</ActivityItem> si vytvořily <ActivityItem>náhrdelník</ActivityItem>."
+    },
+    {
+      "key": "Moana_001_f",
+      "en": "Let's take it to the Swirling Flower Petal Winds.",
+      "cz": "Vezměme to do Větrů vířících květinových okvětních lístků.",
+      "source": "pre_existing",
+      "original_cz": "Vezměme to do Větrů vířících květinových okvětních lístků."
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_Ongoing18.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "Pocahontas is back! Let's <Lore>make sure her House is set up</Lore>.",
+      "cz": "Pocahontas je zpět! Pojďme se <Lore>ujistit, že je její dům připravený</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Pocahontas je zpět! Pojďme se <Lore>ujistit, že je její dům připravený</Lore>."
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_Ongoing19.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "Pocahontas is back! Let's <Lore>make sure her Yehakin is set up</Lore>.",
+      "cz": "Pocahontas je zpět! Pojďme se <Lore>ujistit, že její Yehakin je připraven</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Pocahontas je zpět! Pojďme se <Lore>ujistit, že její Yehakin je připraven</Lore>."
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_Ongoing20.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "Now that Pocahontas's Yehakin is set up in the Valley, we need to <Lore>unlock it</Lore>.",
+      "cz": "Teď, když je Pocahontasův Yehakin v Údolí, musíme ho <Lore>odemknout</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Teď, když je Pocahontasův Yehakin v Údolí, musíme ho <Lore>odemknout</Lore>."
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_Ongoing21.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "Have you said <Lore>hello to Pocahontas</Lore>?",
+      "cz": "Už jsi <Lore>pozdravil Pocahontas</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "Už jsi <Lore>pozdravil Pocahontas</Lore>?"
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_Ongoing22.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "We found a Mystery Island with the boating tools in my House. We need to go explore it!",
+      "cz": "Našli jsme tajemný ostrov s nářadím pro plavbu v mém domě. Musíme ho prozkoumat!",
+      "source": "pre_existing",
+      "original_cz": "Našli jsme tajemný ostrov s nářadím pro plavbu v mém domě. Musíme ho prozkoumat!"
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_Ongoing23.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "Go <Lore>talk to Pocahontas</Lore> and see what she wants to do next!",
+      "cz": "Jdi si <Lore>promluvit s Pocahontas</Lore> a zjisti, co chce dělat dál!",
+      "source": "pre_existing",
+      "original_cz": "Jdi si <Lore>promluvit s Pocahontas</Lore> a zjisti, co chce dělat dál!"
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_Ongoing24.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "Pocahontas is back! She was one of our friends from before the Forgetting!",
+      "cz": "Pocahontas je zpět! Byla jednou z našich kamarádek z doby před Zapomněním!",
+      "source": "pre_existing",
+      "original_cz": "Pocahontas je zpět! Byla jednou z našich kamarádek z doby před Zapomněním!"
+    },
+    {
+      "key": "Moana_001_f",
+      "en": "Then what are you waiting for? <Lore>Go talk to Pocahontas</Lore> and see where she's been!",
+      "cz": "Tak na co ještě čekáš? <Lore>Jdi si promluvit s Pocahontas</Lore> a podívej se, kde byla!",
+      "source": "pre_existing",
+      "original_cz": "Tak na co ještě čekáš? <Lore>Jdi si promluvit s Pocahontas</Lore> a podívej se, kde byla!"
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_Ongoing25.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "Meet me at the dock on the Mystery Island. We can take my canoe and search the surrounding waters from there.",
+      "cz": "Sejdeme se u mola na Ostrově záhad. Můžeme si vzít mou kánoi a prohledat okolní vody odtamtud.",
+      "source": "pre_existing",
+      "original_cz": "Sejdeme se u mola na Ostrově záhad. Můžeme si vzít mou kánoi a prohledat okolní vody odtamtud."
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_Ongoing26.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "Let's sail around the Mystery Island and look for wreckage from any damaged boats.",
+      "cz": "Pojďme se plavit kolem Tajemného ostrova a hledat trosky poškozených lodí.",
+      "source": "pre_existing",
+      "original_cz": "Pojďme se plavit kolem Tajemného ostrova a hledat trosky poškozených lodí."
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_Ongoing27.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "You've got the planks. Now, just set them up on the edge of my canoe by the glowing whirlpool.",
+      "cz": "Prkna máš. Teď je jen postav na okraj mé kánoe u zářícího víru.",
+      "source": "pre_existing",
+      "original_cz": "Prkna máš. Teď je jen postav na okraj mé kánoe u zářícího víru."
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_Ongoing28.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "You'll need to gather the planks so we can fasten them to our boat!",
+      "cz": "Budeš muset shromáždit prkna, abychom je mohli připevnit k naší lodi!",
+      "source": "pre_existing",
+      "original_cz": "Budeš muset shromáždit prkna, abychom je mohli připevnit k naší lodi!"
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_TalkTo01.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "All right, I've got all those boating tools there. I can use them to get out on the water and follow the <ActivityItem>Glowing Algae</ActivityItem>.",
+      "cz": "Dobře, mám tam všechno to náčiní na plavbu. Můžu ho použít k tomu, abych se dostal na vodu a sledoval <ActivityItem>Zářící řasy</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, mám tam všechno to náčiní na plavbu. Můžu ho použít k tomu, abych se dostal na vodu a sledoval <ActivityItem>Zářící řasy</ActivityItem>."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm definitely coming with you.",
+      "cz": "Určitě s tebou jdu.",
+      "source": "pre_existing",
+      "original_cz": "Určitě s tebou jdu."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Do you think the algae might be dangerous?",
+      "cz": "Myslíte si, že by řasy mohly být nebezpečné?",
+      "source": "pre_existing",
+      "original_cz": "Myslíte si, že by řasy mohly být nebezpečné?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "This feels like trouble...",
+      "cz": "Tohle vypadá jako problém...",
+      "source": "pre_existing",
+      "original_cz": "Tohle vypadá jako problém..."
+    },
+    {
+      "key": "Moana_001_f",
+      "en": "Great! We make a great team.",
+      "cz": "Skvělé! Tvoříme skvělý tým.",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Tvoříme skvělý tým."
+    },
+    {
+      "key": "Moana_004_f",
+      "en": "I wonder where the algae will lead us?",
+      "cz": "Zajímalo by mě, kam nás ty řasy zavedou?",
+      "source": "pre_existing",
+      "original_cz": "Zajímalo by mě, kam nás ty řasy zavedou?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Only one way to find out!",
+      "cz": "Jen jeden způsob, jak to zjistit!",
+      "source": "pre_existing",
+      "original_cz": "Jen jeden způsob, jak to zjistit!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Somewhere fun and new!",
+      "cz": "Někde zábavně a nově!",
+      "source": "pre_existing",
+      "original_cz": "Někde zábavně a nově!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Wherever it leads, I'm sure we'll find answers there.",
+      "cz": "Ať už to povede kamkoli, jsem si jistý, že tam najdeme odpovědi.",
+      "source": "pre_existing",
+      "original_cz": "Ať už to povede kamkoli, jsem si jistý, že tam najdeme odpovědi."
+    },
+    {
+      "key": "Moana_006_f",
+      "en": "Let's <Lore>use the boating gear</Lore> and see where the ocean takes us!",
+      "cz": "Pojďme <Lore>použít lodní vybavení</Lore> a podívat se, kam nás oceán zavede!",
+      "source": "pre_existing",
+      "original_cz": "Pojďme <Lore>použít lodní vybavení</Lore> a podívat se, kam nás oceán zavede!"
+    },
+    {
+      "key": "Moana_002_f",
+      "en": "I don't think so, {PlayerName}.",
+      "cz": "To si nemyslím, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "To si nemyslím, {PlayerName}."
+    },
+    {
+      "key": "Moana_005_f",
+      "en": "I had to check!",
+      "cz": "Musel jsem to zkontrolovat!",
+      "source": "pre_existing",
+      "original_cz": "Musel jsem to zkontrolovat!"
+    },
+    {
+      "key": "Moana_003_f",
+      "en": "Good thing we're great at stopping trouble, right?",
+      "cz": "Ještě že umíme skvěle zastavovat problémy, že?",
+      "source": "pre_existing",
+      "original_cz": "Ještě že umíme skvěle zastavovat problémy, že?"
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_TalkTo02.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "There's something special about these Swirling Flower Petal Winds, right?",
+      "cz": "Na těchto vířivých větrech z okvětních lístků je něco zvláštního, že?",
+      "source": "pre_existing",
+      "original_cz": "Na těchto vířivých větrech z okvětních lístků je něco zvláštního, že?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Oh, for sure!",
+      "cz": "Jistě!",
+      "source": "pre_existing",
+      "original_cz": "Jistě!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Maybe?",
+      "cz": "Možná?",
+      "source": "pre_existing",
+      "original_cz": "Možná?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Nah, it's just normal wind blowing around.",
+      "cz": "Ne, je to jen obyčejný vítr, co fouká kolem.",
+      "source": "pre_existing",
+      "original_cz": "Ne, je to jen obyčejný vítr, co fouká kolem."
+    },
+    {
+      "key": "Moana_006_f",
+      "en": "You saw these at the same time as the <ActivityItem>Glowing Algae</ActivityItem> leading us <i>here</i>...",
+      "cz": "Viděl jsi je ve stejnou dobu jako <ActivityItem>Zářící řasy</ActivityItem>, které nás <i>sem</i>vedou...",
+      "source": "pre_existing",
+      "original_cz": "Viděl jsi je ve stejnou dobu jako <ActivityItem>Zářící řasy</ActivityItem>, které nás <i>sem</i>vedou..."
+    },
+    {
+      "key": "Moana_008_f",
+      "en": "Something is definitely going on.",
+      "cz": "Něco se rozhodně děje.",
+      "source": "pre_existing",
+      "original_cz": "Něco se rozhodně děje."
+    },
+    {
+      "key": "Moana_010_f",
+      "en": "This wind... I get the feeling that it's a friend. Or... it wants to return a friend to us. What if you tried talking to it?",
+      "cz": "Tenhle vítr... mám pocit, že je to přítel. Nebo... nám chce přítele vrátit. Co kdybys s ním zkusil promluvit?",
+      "source": "pre_existing",
+      "original_cz": "Tenhle vítr... mám pocit, že je to přítel. Nebo... nám chce přítele vrátit. Co kdybys s ním zkusil promluvit?"
+    },
+    {
+      "key": "Moana_011_f",
+      "en": "I talk to the ocean all the time.",
+      "cz": "Pořád mluvím s oceánem.",
+      "source": "pre_existing",
+      "original_cz": "Pořád mluvím s oceánem."
+    },
+    {
+      "key": "Moana_012_f",
+      "en": "Um, let me give this a try...",
+      "cz": "Ehm, zkusím to...",
+      "source": "pre_existing",
+      "original_cz": "Ehm, zkusím to..."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Hello there! I'm {PlayerName}! Do <i>you</i> have a name?",
+      "cz": "Ahoj! Já jsem {PlayerName}! Máš <i>ty</i> nějaké jméno?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj! Já jsem {PlayerName}! Máš <i>ty</i> nějaké jméno?"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Um... hi... winds? Windy friend? Your Windiness?",
+      "cz": "Ehm... ahoj... větry? Větrný příteli? Tvoje Větrnost?",
+      "source": "pre_existing",
+      "original_cz": "Ehm... ahoj... větry? Větrný příteli? Tvoje Větrnost?"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Ahem. Hey, what's up?",
+      "cz": "Ehm. Hej, co se děje?",
+      "source": "pre_existing",
+      "original_cz": "Ehm. Hej, co se děje?"
+    },
+    {
+      "key": "Moana_013_f",
+      "en": "{PlayerName}, I think it's working! Something's happening!",
+      "cz": "{PlayerName}, myslím, že to funguje! Něco se děje!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, myslím, že to funguje! Něco se děje!"
+    },
+    {
+      "key": "Moana_007_f",
+      "en": "You think so? I saw them at the same time as the <ActivityItem>Glowing Algae</ActivityItem>...",
+      "cz": "Myslíš? Viděl jsem je ve stejnou dobu jako <ActivityItem>Zářící řasy</ActivityItem>...",
+      "source": "pre_existing",
+      "original_cz": "Myslíš? Viděl jsem je ve stejnou dobu jako <ActivityItem>Zářící řasy</ActivityItem>..."
+    },
+    {
+      "key": "Moana_009_f",
+      "en": "Okay, maybe you have a point.",
+      "cz": "Dobře, možná máš pravdu.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, možná máš pravdu."
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_TalkTo03.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "That Memory showed us two locations on this Mystery Island... I think we are being pointed in a certain direction.",
+      "cz": "Ta paměť nám ukázala dvě místa na tomto Tajemném ostrově... Myslím, že jsme nasměrováni určitým směrem.",
+      "source": "pre_existing",
+      "original_cz": "Ta paměť nám ukázala dvě místa na tomto Tajemném ostrově... Myslím, že jsme nasměrováni určitým směrem."
+    },
+    {
+      "key": "Moana_001_f",
+      "en": "That's what I thought, too!",
+      "cz": "To jsem si taky myslel/a!",
+      "source": "pre_existing",
+      "original_cz": "To jsem si taky myslel/a!"
+    },
+    {
+      "key": "Moana_002_f",
+      "en": "Let's <Lore>investigate more of the Mystery Island</Lore>, and try to find those two locations.",
+      "cz": "Pojďme <Lore>prozkoumat více o Tajemném ostrově</Lore> a pokusit se najít tato dvě místa.",
+      "source": "pre_existing",
+      "original_cz": "Pojďme <Lore>prozkoumat více o Tajemném ostrově</Lore> a pokusit se najít tato dvě místa."
+    },
+    {
+      "key": "Moana_003_f",
+      "en": "I'm sure we'll dig up something there to help us with this mystery.",
+      "cz": "Jsem si jistý, že tam něco vykopeme, co nám s touhle záhadou pomůže.",
+      "source": "pre_existing",
+      "original_cz": "Jsem si jistý, že tam něco vykopeme, co nám s touhle záhadou pomůže."
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_TalkTo04.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "If I'm reading this right, the last piece of jewelry must be somewhere in the waters around the Mystery Island.",
+      "cz": "Pokud to čtu správně, poslední šperk musí být někde ve vodách kolem Tajemného ostrova.",
+      "source": "pre_existing",
+      "original_cz": "Pokud to čtu správně, poslední šperk musí být někde ve vodách kolem Tajemného ostrova."
+    },
+    {
+      "key": "Moana_001_f",
+      "en": "That means it's time to sail and do some fishing. Two of my favorite things!",
+      "cz": "To znamená, že je čas na plachtění a rybaření. Dvě z mých nejoblíbenějších věcí!",
+      "source": "pre_existing",
+      "original_cz": "To znamená, že je čas na plachtění a rybaření. Dvě z mých nejoblíbenějších věcí!"
+    },
+    {
+      "key": "Moana_002_f",
+      "en": "Definitely! We'll need to <Lore>use your canoe and look for fishing spots around the island</Lore> to find the last piece.",
+      "cz": "Určitě! Budeme muset <Lore>použít tvou kánoi a hledat rybářská místa po celém ostrově</Lore>, abychom našli poslední kus.",
+      "source": "pre_existing",
+      "original_cz": "Určitě! Budeme muset <Lore>použít tvou kánoi a hledat rybářská místa po celém ostrově</Lore>, abychom našli poslední kus."
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_TalkTo06.locbin": [
+    {
+      "key": "Moana_001_f",
+      "en": "{PlayerName}, I think I just saw the same flower petals floating on the wind that I noticed when I was on my canoe!",
+      "cz": "{PlayerName}, myslím, že jsem právě viděl stejné okvětní lístky vznášející se ve větru, kterých jsem si všiml, když jsem byl na kánoi!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, myslím, že jsem právě viděl stejné okvětní lístky vznášející se ve větru, kterých jsem si všiml, když jsem byl na kánoi!"
+    },
+    {
+      "key": "Moana_002_f",
+      "en": "That can't be a coincidence, right?",
+      "cz": "To nemůže být náhoda, že?",
+      "source": "pre_existing",
+      "original_cz": "To nemůže být náhoda, že?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I mean, it COULD be...",
+      "cz": "Myslím tím, že by to MOHLO být...",
+      "source": "pre_existing",
+      "original_cz": "Myslím tím, že by to MOHLO být..."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Who knows?",
+      "cz": "Kdo ví?",
+      "source": "pre_existing",
+      "original_cz": "Kdo ví?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "NOTHING in the Valley is a coincidence.",
+      "cz": "NIC v údolí není náhoda.",
+      "source": "pre_existing",
+      "original_cz": "NIC v údolí není náhoda."
+    },
+    {
+      "key": "Moana_003_f",
+      "en": "Well, I say we <Lore>look for more of those Swirling Flower Petal Winds</Lore> on this island.",
+      "cz": "No, já říkám, že bychom <Lore>měli na tomto ostrově hledat víc těch Vířících Větrů Květinových Okvětních Lístků</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "No, já říkám, že bychom <Lore>měli na tomto ostrově hledat víc těch Vířících Větrů Květinových Okvětních Lístků</Lore>."
+    },
+    {
+      "key": "Moana_004_f",
+      "en": "I bet we'll get some answers once we <Lore>look at them closely</Lore>.",
+      "cz": "Vsadím se, že nějaké odpovědi dostaneme, až se na ně <Lore>podíváme pozorně</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Vsadím se, že nějaké odpovědi dostaneme, až se na ně <Lore>podíváme pozorně</Lore>."
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_TalkTo07.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "I was searching around the island, and I found a strange, glowing whirlpool. It reminded me of the <ActivityItem>Glowing Algae</ActivityItem>.",
+      "cz": "Prohledával jsem ostrov a našel jsem podivný, zářící vír. Připomínal mi <ActivityItem>Zářící řasy</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Prohledával jsem ostrov a našel jsem podivný, zářící vír. Připomínal mi <ActivityItem>Zářící řasy</ActivityItem>."
+    },
+    {
+      "key": "Moana_001_f",
+      "en": "Huh... Wonder if there's something in that whirlpool we should <Lore>fish out</Lore>? Whirlpools are very good at hiding secrets.",
+      "cz": "Hm... Zajímalo by mě, jestli je v tom víru něco, co bychom měli <Lore>vylovit</Lore>? Vířivky umí velmi dobře skrývat tajemství.",
+      "source": "pre_existing",
+      "original_cz": "Hm... Zajímalo by mě, jestli je v tom víru něco, co bychom měli <Lore>vylovit</Lore>? Vířivky umí velmi dobře skrývat tajemství."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "It's worth a try.",
+      "cz": "Stojí to za vyzkoušení.",
+      "source": "pre_existing",
+      "original_cz": "Stojí to za vyzkoušení."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "We need to do SOMETHING to solve this mystery...",
+      "cz": "Musíme s vyřešením této záhady NĚCO udělat...",
+      "source": "pre_existing",
+      "original_cz": "Musíme s vyřešením této záhady NĚCO udělat..."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Aren't whirlpools dangerous?",
+      "cz": "Nejsou vířivky nebezpečné?",
+      "source": "pre_existing",
+      "original_cz": "Nejsou vířivky nebezpečné?"
+    },
+    {
+      "key": "Moana_002_f",
+      "en": "Okay, let me think...",
+      "cz": "Dobře, nech mě přemýšlet...",
+      "source": "pre_existing",
+      "original_cz": "Dobře, nech mě přemýšlet..."
+    },
+    {
+      "key": "Moana_005_f",
+      "en": "We don't want to get too close with the canoe, or we could get pulled in.",
+      "cz": "Nechceme se s kánoí přiblížit příliš blízko, jinak by nás mohlo vtáhnout do vody.",
+      "source": "pre_existing",
+      "original_cz": "Nechceme se s kánoí přiblížit příliš blízko, jinak by nás mohlo vtáhnout do vody."
+    },
+    {
+      "key": "Moana_006_f",
+      "en": "Got it! Let's <Lore>look around the Mystery Island</Lore> for wreckage from any damaged boats.",
+      "cz": "Rozumím! Pojďme se <Lore>rozhlédnout po Ostrově záhad</Lore>, jestli tam nejsou trosky poškozených lodí.",
+      "source": "pre_existing",
+      "original_cz": "Rozumím! Pojďme se <Lore>rozhlédnout po Ostrově záhad</Lore>, jestli tam nejsou trosky poškozených lodí."
+    },
+    {
+      "key": "Moana_007_f",
+      "en": "Then we can make something to extend our reach WITHOUT getting too close to the whirlpool.",
+      "cz": "Pak můžeme vyrobit něco, čím rozšíříme svůj dosah, ANIŽ bychom se dostali příliš blízko k vířivce.",
+      "source": "pre_existing",
+      "original_cz": "Pak můžeme vyrobit něco, čím rozšíříme svůj dosah, ANIŽ bychom se dostali příliš blízko k vířivce."
+    },
+    {
+      "key": "Moana_004_f",
+      "en": "Oh, they're SUPER dangerous.",
+      "cz": "Jé, jsou SUPER nebezpeční.",
+      "source": "pre_existing",
+      "original_cz": "Jé, jsou SUPER nebezpeční."
+    }
+  ],
+  "Pocahontas_Moana/Moana_SEC_Moan_010_SEC_Moan_010_TalkToDialog01.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "You're in charge of navigating today. See that paddle on the dock? <Lore>Use it to steer the canoe to where you want us to sail.</Lore>",
+      "cz": "Dnes máš na starosti navigaci. Vidíš to pádlo na molu? <Lore>Použij ho k navedení kánoe tam, kam chceš, abychom plouli.</Lore>",
+      "source": "pre_existing",
+      "original_cz": "Dnes máš na starosti navigaci. Vidíš to pádlo na molu? <Lore>Použij ho k navedení kánoe tam, kam chceš, abychom plouli.</Lore>"
+    },
+    {
+      "key": "Moana_001_f",
+      "en": "And anytime you want to go someplace new, just do the same thing. We'll find that final <ActivityItem>Jewelry Piece</ActivityItem> in no time!",
+      "cz": "A kdykoli budete chtít jít někam nově, udělejte totéž. Ten poslední <ActivityItem>šperk</ActivityItem> najdeme raz dva!",
+      "source": "pre_existing",
+      "original_cz": "A kdykoli budete chtít jít někam nově, udělejte totéž. Ten poslední <ActivityItem>šperk</ActivityItem> najdeme raz dva!"
+    }
+  ],
+  "Pocahontas_Moana/SEC_Moan_010.locbin": [
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_AvailableDescription",
+      "en": "Moana's seen the <ActivityItem>Glowing Algae</ActivityItem>. Maybe she knows more about it?",
+      "cz": "Vaiana viděla <ActivityItem>Zářící řasy</ActivityItem>. Možná o nich ví víc?",
+      "source": "pre_existing",
+      "original_cz": "Vaiana viděla <ActivityItem>Zářící řasy</ActivityItem>. Možná o nich ví víc?"
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_DisplayName",
+      "en": "Whispers in the Wind",
+      "cz": "Šepot ve větru",
+      "source": "pre_existing",
+      "original_cz": "Šepot ve větru"
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group01_Step01_BringItem01_StepDescription",
+      "en": "Make sure the <ActivityItem>Glowing Algae</ActivityItem> is in your Inventory.",
+      "cz": "Ujistěte se, že máte v inventáři <ActivityItem>Zářící řasy</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte v inventáři <ActivityItem>Zářící řasy</ActivityItem>."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group01_Step01_ReadyDescription",
+      "en": "Bring the <ActivityItem>Glowing Algae</ActivityItem> to {TargetNPC}.",
+      "cz": "Přineste <ActivityItem>Zářící řasy</ActivityItem> do {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Přineste <ActivityItem>Zářící řasy</ActivityItem> do {TargetNPC}."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluvte si s {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC}."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group02_Step02_TalkToCharacter01_WrongSceneDescription",
+      "en": "Meet {TargetNPC} in her House.",
+      "cz": "Sezpoznaj se s {TargetNPC} v jejím domě.",
+      "source": "pre_existing",
+      "original_cz": "Sezpoznaj se s {TargetNPC} v jejím domě."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group02_StoryDescription",
+      "en": "Moana thinks you need to follow the <ActivityItem>Glowing Algae</ActivityItem> to solve this mystery! It's time to go out onto the ocean using the boating stuff in her House.",
+      "cz": "Vaiana si myslí, že k vyřešení této záhady musíš následovat <ActivityItem>Zářící řasy</ActivityItem>! Je čas vyrazit na oceán s využitím vybavení na plavbu v jejím domě.",
+      "source": "pre_existing",
+      "original_cz": "Vaiana si myslí, že k vyřešení této záhady musíš následovat <ActivityItem>Zářící řasy</ActivityItem>! Je čas vyrazit na oceán s využitím vybavení na plavbu v jejím domě."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group03_Step03_VisitArea01_StepDescription",
+      "en": "Use the boating equipment in Moana's House.",
+      "cz": "Použijte vybavení na plavbu lodí ve Váianově domě.",
+      "source": "pre_existing",
+      "original_cz": "Použijte vybavení na plavbu lodí ve Váianově domě."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group04_Step04_TalkToCharacter02_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluvte si s {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC}."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group04_Step04_TalkToCharacter02_WrongSceneDescription",
+      "en": "Go to the Mystery Island using the boating gear in Moana's House.",
+      "cz": "Vydejte se na Tajemný ostrov s využitím lodního vybavení ve Váianin domě.",
+      "source": "pre_existing",
+      "original_cz": "Vydejte se na Tajemný ostrov s využitím lodního vybavení ve Váianin domě."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group05_Step05_VisitArea02_StepDescription",
+      "en": "Investigate the Mystery Island for the Swirling Flower Petal Winds.",
+      "cz": "Prozkoumejte Tajemný ostrov a hledejte Vířící větry květinových okvětních lístků.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte Tajemný ostrov a hledejte Vířící větry květinových okvětních lístků."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group05_StoryDescription",
+      "en": "Moana recognized the Swirling Flower Petal Winds on the Mystery Island found through the portal in her House. It's probably a good idea to investigate them more closely...",
+      "cz": "Moana poznala Vířící větry květinových okvětních lístků na Tajemném ostrově, které našla portálem v jejím domě. Asi by bylo dobré je prozkoumat blíže...",
+      "source": "pre_existing",
+      "original_cz": "Moana poznala Vířící větry květinových okvětních lístků na Tajemném ostrově, které našla portálem v jejím domě. Asi by bylo dobré je prozkoumat blíže..."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group06_Step06_TalkToCharacter03_StepDescription",
+      "en": "Talk to {TargetNPC} near the Swirling Flower Petal Winds.",
+      "cz": "Promluvte si s {TargetNPC} poblíž Větrů vířících květních okvětních lístků.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC} poblíž Větrů vířících květních okvětních lístků."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group06_Step06_TalkToCharacter03_WrongSceneDescription",
+      "en": "Go to the Mystery Island using the boating gear in Moana's House.",
+      "cz": "Vydejte se na Tajemný ostrov s využitím lodního vybavení ve Váianin domě.",
+      "source": "pre_existing",
+      "original_cz": "Vydejte se na Tajemný ostrov s využitím lodního vybavení ve Váianin domě."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group07_Step07_Unlock01_StepDescription",
+      "en": "Pick up the Memory Orb near the Swirling Flower Petal Winds.",
+      "cz": "Seberte Kouli paměti poblíž Větrů vířících květinových okvětních lístků.",
+      "source": "pre_existing",
+      "original_cz": "Seberte Kouli paměti poblíž Větrů vířících květinových okvětních lístků."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group07_StoryDescription",
+      "en": "After attempting to communicate with the Swirling Flower Petal Winds, a Memory Orb appeared! Are the winds trying to communicate back?",
+      "cz": "Poté, co jsem se pokusil komunikovat s Větry Vířících Květinových Okvětních Lístků, se objevila Paměťová Koule! Snaží se větry komunikovat zpět?",
+      "source": "pre_existing",
+      "original_cz": "Poté, co jsem se pokusil komunikovat s Větry Vířících Květinových Okvětních Lístků, se objevila Paměťová Koule! Snaží se větry komunikovat zpět?"
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group08_Step08_TalkToCharacter04_StepDescription",
+      "en": "Talk to {TargetNPC} near the Swirling Flower Petal Winds.",
+      "cz": "Promluvte si s {TargetNPC} poblíž Větrů vířících květních okvětních lístků.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC} poblíž Větrů vířících květních okvětních lístků."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group08_Step08_TalkToCharacter04_WrongSceneDescription",
+      "en": "Go to the Mystery Island using the boating gear in Moana's House.",
+      "cz": "Vydejte se na Tajemný ostrov s využitím lodního vybavení ve Váianin domě.",
+      "source": "pre_existing",
+      "original_cz": "Vydejte se na Tajemný ostrov s využitím lodního vybavení ve Váianin domě."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group09_Step09_ReadyDescription",
+      "en": "Bring the <ActivityItem>Jewelry Pieces</ActivityItem> to {TargetNPC} near the Swirling Flower Petal Winds.",
+      "cz": "Přineste <ActivityItem>Šperky</ActivityItem> do {TargetNPC} poblíž Vířících květinových okvětních lístků.",
+      "source": "pre_existing",
+      "original_cz": "Přineste <ActivityItem>Šperky</ActivityItem> do {TargetNPC} poblíž Vířících květinových okvětních lístků."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group09_Step09_StepDescription",
+      "en": "Search the Mystery Island for dig spots.",
+      "cz": "Prohledejte Tajemný ostrov a hledejte vykopávky.",
+      "source": "pre_existing",
+      "original_cz": "Prohledejte Tajemný ostrov a hledejte vykopávky."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group09_Step09_WrongSceneDescription",
+      "en": "Go to the Mystery Island using the boating gear in Moana's House.",
+      "cz": "Vydejte se na Tajemný ostrov s využitím lodního vybavení ve Váianin domě.",
+      "source": "pre_existing",
+      "original_cz": "Vydejte se na Tajemný ostrov s využitím lodního vybavení ve Váianin domě."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group09_StoryDescription",
+      "en": "Using the Memory as a clue, you'll need to find the locations the Swirling Flower Petal Winds are pointing you towards and see what may be hidden there.",
+      "cz": "Pomocí paměti jako vodítka budete muset najít místa, kam vás ukazují Vířící květinové okvětní lístky, a zjistit, co se tam může skrývat.",
+      "source": "pre_existing",
+      "original_cz": "Pomocí paměti jako vodítka budete muset najít místa, kam vás ukazují Vířící květinové okvětní lístky, a zjistit, co se tam může skrývat."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group10_Step10_StepDescription",
+      "en": "Re-order the jumbled Memory by touching the <Lore>Orb</Lore> on the <Lore>Mystery Island</Lore>.",
+      "cz": "Uspořádejte si zpřeházenou paměť dotykem na <Lore>kouli</Lore> na <Lore>Ostrově záhad</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Uspořádejte si zpřeházenou paměť dotykem na <Lore>kouli</Lore> na <Lore>Ostrově záhad</Lore>."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group10_StoryDescription",
+      "en": "The Swirling Flower Petal Winds have shown you a puzzle! What could this mean?",
+      "cz": "Vířící větry květinových okvětních lístků vám ukázaly hádanku! Co by to mohlo znamenat?",
+      "source": "pre_existing",
+      "original_cz": "Vířící větry květinových okvětních lístků vám ukázaly hádanku! Co by to mohlo znamenat?"
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group11_Step11_TalkToCharacter05_StepDescription",
+      "en": "Talk to {TargetNPC} near the Swirling Flower Petal Winds.",
+      "cz": "Promluvte si s {TargetNPC} poblíž Větrů vířících květních okvětních lístků.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC} poblíž Větrů vířících květních okvětních lístků."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group11_Step11_TalkToCharacter05_WrongSceneDescription",
+      "en": "Go to the Mystery Island using the boating gear in Moana's House.",
+      "cz": "Vydejte se na Tajemný ostrov s využitím lodního vybavení ve Váianin domě.",
+      "source": "pre_existing",
+      "original_cz": "Vydejte se na Tajemný ostrov s využitím lodního vybavení ve Váianin domě."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group12_Step12_FollowCharacter01_StepDescription",
+      "en": "Follow {TargetNPC} to the boat on the dock.",
+      "cz": "Sledujte {TargetNPC} k lodi na molu.",
+      "source": "pre_existing",
+      "original_cz": "Sledujte {TargetNPC} k lodi na molu."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group12_Step12_FollowCharacter01_TalkToDescription",
+      "en": "Talk to Moana.",
+      "cz": "Promluv si s Moanou.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Moanou."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group12_Step12_FollowCharacter01_WrongSceneDescription",
+      "en": "Go to the Mystery Island using the boating gear in Moana's House.",
+      "cz": "Vydejte se na Tajemný ostrov s využitím lodního vybavení ve Váianin domě.",
+      "source": "pre_existing",
+      "original_cz": "Vydejte se na Tajemný ostrov s využitím lodního vybavení ve Váianin domě."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group13_Step13_VisitArea03_StepDescription",
+      "en": "Interact with the boat on the Mystery Island and head out to sea to find the location in the Memory.",
+      "cz": "Promluvte si s lodí na Ostrově záhad a vydejte se na moře, abyste našli místo v Paměti.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s lodí na Ostrově záhad a vydejte se na moře, abyste našli místo v Paměti."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group13_StoryDescription",
+      "en": "In order to find the last Jewelry Piece, you need to use a boat and search for the correct fishing spot. This mystery is almost solved!",
+      "cz": "Abyste našli poslední šperk, musíte použít loď a hledat správné místo k rybolovu. Tato záhada je téměř vyřešena!",
+      "source": "pre_existing",
+      "original_cz": "Abyste našli poslední šperk, musíte použít loď a hledat správné místo k rybolovu. Tato záhada je téměř vyřešena!"
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group14_Step14_TalkToCharacter06_StepDescription",
+      "en": "Talk to {TargetNPC} on the boat.",
+      "cz": "Promluvte si s {TargetNPC} na lodi.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC} na lodi."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group15_Step15_BringItem04_StepDescription",
+      "en": "Explore the surroundings of the Mystery Island with the boat to find floating planks.",
+      "cz": "Prozkoumejte okolí Tajemného ostrova s ​​lodí a najděte plovoucí prkna.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte okolí Tajemného ostrova s ​​lodí a najděte plovoucí prkna."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group15_Step15_ReadyDescription",
+      "en": "Bring the planks to {TargetNPC}.",
+      "cz": "Přineste prkna na {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Přineste prkna na {TargetNPC}."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group15_Step15_WrongSceneDescription",
+      "en": "Go to the Mystery Island using the boating gear in Moana's House.",
+      "cz": "Vydejte se na Tajemný ostrov s využitím lodního vybavení ve Váianin domě.",
+      "source": "pre_existing",
+      "original_cz": "Vydejte se na Tajemný ostrov s využitím lodního vybavení ve Váianin domě."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group16_Step16_VisitArea04_StepDescription",
+      "en": "Return to the glowing whirlpool by sailing east.",
+      "cz": "Vraťte se do zářícího víru plavbou na východ.",
+      "source": "pre_existing",
+      "original_cz": "Vraťte se do zářícího víru plavbou na východ."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group17_Step17_FillKeyhole01_StepDescription",
+      "en": "Place the planks on the boat.",
+      "cz": "Umístěte prkna na loď.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte prkna na loď."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group18_Step18_Possess01_StepDescription",
+      "en": "Fish out the last <ActivityItem>Jewelry Piece</ActivityItem> in the glowing whirlpool by the Mystery Island rocks to the east.",
+      "cz": "Vylov poslední <ActivityItem>šperk</ActivityItem> v zářícím víru u skal Tajemného ostrova na východě.",
+      "source": "pre_existing",
+      "original_cz": "Vylov poslední <ActivityItem>šperk</ActivityItem> v zářícím víru u skal Tajemného ostrova na východě."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group19_Step19_VisitArea05_StepDescription",
+      "en": "Interact with the boat to return to the Mystery Island.",
+      "cz": "Pro návrat na Tajemný ostrov komunikujte s lodí.",
+      "source": "pre_existing",
+      "original_cz": "Pro návrat na Tajemný ostrov komunikujte s lodí."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group20_Step20_CraftItem01_StepDescription",
+      "en": "Repair the <ActivityItem>Jewelry Pieces</ActivityItem> at a Crafting Station.<br><br>(Hint: There's one on the new Mystery Island by the dock.)",
+      "cz": "Opravte <ActivityItem>Šperky</ActivityItem> v řemeslné stanici.<br><br>(Nápověda: Jedna je na novém Tajemném ostrově u doku.)",
+      "source": "pre_existing",
+      "original_cz": "Opravte <ActivityItem>Šperky</ActivityItem> v řemeslné stanici.<br><br>(Nápověda: Jedna je na novém Tajemném ostrově u doku.)"
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group21_Step21_BringItem05_StepDescription",
+      "en": "Make sure the <ActivityItem>Repaired Necklace</ActivityItem> is in your Inventory.",
+      "cz": "Ujistěte se, že máte v inventáři <ActivityItem>Opravený náhrdelník</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte v inventáři <ActivityItem>Opravený náhrdelník</ActivityItem>."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group21_Step21_ReadyDescription",
+      "en": "Bring the <ActivityItem>Repaired Necklace</ActivityItem> to {TargetNPC} near the Swirling Flower Petal Winds.",
+      "cz": "Přineste <ActivityItem>Opravený náhrdelník</ActivityItem> do {TargetNPC} poblíž Vířících květinových okvětních lístků.",
+      "source": "pre_existing",
+      "original_cz": "Přineste <ActivityItem>Opravený náhrdelník</ActivityItem> do {TargetNPC} poblíž Vířících květinových okvětních lístků."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group21_Step21_WrongSceneDescription",
+      "en": "Go to the Mystery Island using the boating gear in Moana's House.",
+      "cz": "Vydejte se na Tajemný ostrov s využitím lodního vybavení ve Váianin domě.",
+      "source": "pre_existing",
+      "original_cz": "Vydejte se na Tajemný ostrov s využitím lodního vybavení ve Váianin domě."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group22_Step22_TalkToCharacter07_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluvte si s {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC}."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group22_Step22_TalkToCharacter07_WrongSceneDescription",
+      "en": "Go to the Mystery Island using the boating gear in Moana's House.",
+      "cz": "Vydejte se na Tajemný ostrov s využitím lodního vybavení ve Váianin domě.",
+      "source": "pre_existing",
+      "original_cz": "Vydejte se na Tajemný ostrov s využitím lodního vybavení ve Váianin domě."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group23_Step23_VisitArea06_StepDescription",
+      "en": "Return to the Valley using the boating gear near the dock.",
+      "cz": "Vraťte se do údolí pomocí lodního vybavení poblíž mola.",
+      "source": "pre_existing",
+      "original_cz": "Vraťte se do údolí pomocí lodního vybavení poblíž mola."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group23_StoryDescription",
+      "en": "Pocahontas has returned! While investigating the Forgetting, she was whisked away to safety by the winds! Now that she's back, she can be welcomed to the Valley.",
+      "cz": "Pocahontas se vrátila! Při vyšetřování Zapomnění ji vítr odnesl do bezpečí! Teď, když je zpět, ji můžeme přivítat v Údolí.",
+      "source": "pre_existing",
+      "original_cz": "Pocahontas se vrátila! Při vyšetřování Zapomnění ji vítr odnesl do bezpečí! Teď, když je zpět, ji můžeme přivítat v Údolí."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group24_Step24_PlaceBuilding01_StepDescription",
+      "en": "Place Pocahontas's Yehakin in the Valley.",
+      "cz": "Umístěte Pocahontasova Yehakina do údolí.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte Pocahontasova Yehakina do údolí."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group25_Step25_Unlock02_StepDescription",
+      "en": "Unlock Pocahontas's Yehakin.",
+      "cz": "Odemkni Pocahontasova Yehakina.",
+      "source": "pre_existing",
+      "original_cz": "Odemkni Pocahontasova Yehakina."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group26_Step26_UnlockCharacter01_StepDescription",
+      "en": "Welcome Pocahontas to the Valley.",
+      "cz": "Vítej Pocahontas v údolí.",
+      "source": "pre_existing",
+      "original_cz": "Vítej Pocahontas v údolí."
+    },
+    {
+      "key": "Secret!Moana!Moana!SEC_Moan_010_Group27_Step27_TalkToCharacter08_StepDescription",
+      "en": "Talk to Pocahontas.",
+      "cz": "Promluv si s Pocahontas.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Pocahontas."
+    }
+  ]
+}

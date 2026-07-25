@@ -1,0 +1,81 @@
+{
+  "Expansion03Main_Buzz/Buzz_VLG_Tink_030_VLG_Tink_030_BringItem03.locbin": [
+    {
+      "key": "Buzz_000_f",
+      "en": "{PlayerName}, what brings you by today?",
+      "cz": "{PlayerName}, co tě dnes sem přivedlo?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, co tě dnes sem přivedlo?"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "I've got this <ActivityItem>Star Command \"Laser\" Toy</ActivityItem>...",
+      "cz": "Mám tuhle <ActivityItem>laserovou hračku od Star Command</ActivityItem>...",
+      "source": "pre_existing",
+      "original_cz": "Mám tuhle <ActivityItem>laserovou hračku od Star Command</ActivityItem>..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Is it yours?",
+      "cz": "Je to tvoje?",
+      "source": "pre_existing",
+      "original_cz": "Je to tvoje?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Do you know who it belongs to?",
+      "cz": "Víš, komu patří?",
+      "source": "pre_existing",
+      "original_cz": "Víš, komu patří?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Do you want it? I've got to get rid of it.",
+      "cz": "Chceš to? Musím se toho zbavit.",
+      "source": "pre_existing",
+      "original_cz": "Chceš to? Musím se toho zbavit."
+    },
+    {
+      "key": "Buzz_001_f",
+      "en": "Negative, {PlayerName}.",
+      "cz": "Negativní, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Negativní, {PlayerName}."
+    },
+    {
+      "key": "Buzz_004_f",
+      "en": "All Buzz Lightyear toys come equipped with their own built-in red light. We don't need toy lasers.",
+      "cz": "Všechny hračky Buzze Rakeťáka jsou vybaveny vlastním vestavěným červeným světlem. Nepotřebujeme hračkové lasery.",
+      "source": "pre_existing",
+      "original_cz": "Všechny hračky Buzze Rakeťáka jsou vybaveny vlastním vestavěným červeným světlem. Nepotřebujeme hračkové lasery."
+    },
+    {
+      "key": "Buzz_005_f",
+      "en": "Hmm... Upon close examination, it seems to have <Lore>claw marks</Lore> on it and a strand of <Lore>blue fur</Lore>. That might help you find its owner.",
+      "cz": "Hmm... Při bližším prozkoumání se zdá, že má <Lore>stopy drápů</Lore> a pramínek <Lore>modré srsti</Lore>. To by vám mohlo pomoci najít jeho majitele.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Při bližším prozkoumání se zdá, že má <Lore>stopy drápů</Lore> a pramínek <Lore>modré srsti</Lore>. To by vám mohlo pomoci najít jeho majitele."
+    },
+    {
+      "key": "Buzz_007_f",
+      "en": "I would guess I gave it to Scar as a gift before the Forgetting... a token of our friendship. THAT still feels weird to say.",
+      "cz": "Hádám, že jsem to dal Scarovi jako dárek před Zapomněním... na důkaz našeho přátelství. TO je pořád divné říct.",
+      "source": "pre_existing",
+      "original_cz": "Hádám, že jsem to dal Scarovi jako dárek před Zapomněním... na důkaz našeho přátelství. TO je pořád divné říct."
+    },
+    {
+      "key": "Buzz_006_f",
+      "en": "But it does seem... oddly familiar.",
+      "cz": "Ale zdá se mi to... podivně povědomé.",
+      "source": "pre_existing",
+      "original_cz": "Ale zdá se mi to... podivně povědomé."
+    },
+    {
+      "key": "Buzz_003_f",
+      "en": "It wouldn't be right for me to take it. It doesn't belong to me.",
+      "cz": "Nebylo by správné, abych si to vzal. Nepatří mi.",
+      "source": "pre_existing",
+      "original_cz": "Nebylo by správné, abych si to vzal. Nepatří mi."
+    }
+  ]
+}

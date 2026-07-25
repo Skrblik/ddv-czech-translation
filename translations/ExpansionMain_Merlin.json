@@ -1,0 +1,1541 @@
+{
+  "ExpansionMain_Merlin/Merlin_Dialogues_Eager001.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Would you like to try your hand at a game of Scramblecoin, {PlayerName}?",
+      "cz": "Chceš si, {PlayerName}, zkusit zahrát Scramblecoin?",
+      "source": "pre_existing",
+      "original_cz": "Chceš si, {PlayerName}, zkusit zahrát Scramblecoin?"
+    }
+  ],
+  "ExpansionMain_Merlin/Merlin_Dialogues_PostGame001.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Ah!",
+      "cz": "Ach!",
+      "source": "pre_existing",
+      "original_cz": "Ach!"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "A stupendous win! Bravo!",
+      "cz": "Úžasné vítězství! Bravo!",
+      "source": "pre_existing",
+      "original_cz": "Úžasné vítězství! Bravo!"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Having fun is its own victory, you know.",
+      "cz": "Víš, že už jen zábava je vítězství.",
+      "source": "pre_existing",
+      "original_cz": "Víš, že už jen zábava je vítězství."
+    }
+  ],
+  "ExpansionMain_Merlin/Merlin_Dialogues_PreGame001.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Now then, I've a few tricks up my sleeves, but magic is strictly forbidden!",
+      "cz": "Tak tedy, mám v rukávu pár triků, ale magie je přísně zakázaná!",
+      "source": "pre_existing",
+      "original_cz": "Tak tedy, mám v rukávu pár triků, ale magie je přísně zakázaná!"
+    }
+  ],
+  "ExpansionMain_Merlin/Merlin_MRQS_E01_010_MRQS_E01_010_Ongoing01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "To the Dream Castle. And there's no time to lose!",
+      "cz": "Do Hradu snů. A není čas ztrácet čas!",
+      "source": "pre_existing",
+      "original_cz": "Do Hradu snů. A není čas ztrácet čas!"
+    }
+  ],
+  "ExpansionMain_Merlin/Merlin_MRQS_E01_010_MRQS_E01_010_Ongoing02.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Follow me, {PlayerName}. No time for dawdling.",
+      "cz": "Pojď za mnou, {PlayerName}. Není čas na otálení.",
+      "source": "pre_existing",
+      "original_cz": "Pojď za mnou, {PlayerName}. Není čas na otálení."
+    }
+  ],
+  "ExpansionMain_Merlin/Merlin_MRQS_E01_010_MRQS_E01_010_Ongoing04.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "It's time to open the gate and cross the threshold. There's nothing to fear. Curiosity most often leads to great discovery, you know.",
+      "cz": "Je čas otevřít bránu a překročit práh. Není se čeho bát. Zvědavost nejčastěji vede k velkým objevům, víš?",
+      "source": "pre_existing",
+      "original_cz": "Je čas otevřít bránu a překročit práh. Není se čeho bát. Zvědavost nejčastěji vede k velkým objevům, víš?"
+    }
+  ],
+  "ExpansionMain_Merlin/Merlin_MRQS_E01_010_MRQS_E01_010_TalkTo01.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "{PlayerName}! You're right on schedule! I've just remembered something of the utmost importance.",
+      "cz": "{PlayerName}! Jdeš přesně podle plánu! Právě jsem si vzpomněl na něco naprosto důležitého.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}! Jdeš přesně podle plánu! Právě jsem si vzpomněl na něco naprosto důležitého."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "There is a <Lore>hidden place in Dreamlight Valley</Lore> from which you can travel to the farthest reaches of this world!",
+      "cz": "V <Lore>Údolí snů</Lore> je skryté místo, odkud se můžete vydat do nejvzdálenějších koutů tohoto světa!",
+      "source": "pre_existing",
+      "original_cz": "V <Lore>Údolí snů</Lore> je skryté místo, odkud se můžete vydat do nejvzdálenějších koutů tohoto světa!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Where could I travel to?",
+      "cz": "Kam bych mohl cestovat?",
+      "source": "pre_existing",
+      "original_cz": "Kam bych mohl cestovat?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'd love to see more of what's out there!",
+      "cz": "Rád bych viděl víc toho, co je k dispozici!",
+      "source": "pre_existing",
+      "original_cz": "Rád bych viděl víc toho, co je k dispozici!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "You gonna make me guess where it is?",
+      "cz": "Necháš mě hádat, kde to je?",
+      "source": "pre_existing",
+      "original_cz": "Necháš mě hádat, kde to je?"
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Well, I'm sure, in time, you'll learn of countless places to explore.",
+      "cz": "No, jsem si jistý, že časem se dozvíš o nespočtu míst k prozkoumání.",
+      "source": "pre_existing",
+      "original_cz": "No, jsem si jistý, že časem se dozvíš o nespočtu míst k prozkoumání."
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "What we seek is in the Dream Castle. <Lore>Meet me there</Lore> whenever you're ready to begin your journey.",
+      "cz": "To, co hledáme, je v Hradě snů. <Lore>Sejdeme se tam</Lore>, až budete připraveni vydat se na svou cestu.",
+      "source": "pre_existing",
+      "original_cz": "To, co hledáme, je v Hradě snů. <Lore>Sejdeme se tam</Lore>, až budete připraveni vydat se na svou cestu."
+    },
+    {
+      "key": "Merlin_000_f",
+      "en": "Of course you do! Why, there's so much to discover! So much to research!",
+      "cz": "Samozřejmě, že ano! Vždyť je toho tolik k objevování! Tolik k výzkumu!",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě, že ano! Vždyť je toho tolik k objevování! Tolik k výzkumu!"
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "Of course not. You could search for a thousand years and never find it.",
+      "cz": "Samozřejmě, že ne. Mohli byste hledat tisíc let a nikdy byste to nenašli.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě, že ne. Mohli byste hledat tisíc let a nikdy byste to nenašli."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "And we haven't got a moment to waste!",
+      "cz": "A nemáme ani chvilku nazbyt!",
+      "source": "pre_existing",
+      "original_cz": "A nemáme ani chvilku nazbyt!"
+    }
+  ],
+  "ExpansionMain_Merlin/Merlin_MRQS_E01_010_MRQS_E01_010_TalkTo02.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "Now then, beyond this gate, you'll discover places that will change everything you know about Dreamlight Valley.",
+      "cz": "A teď tedy, za touto branou, objevíte místa, která změní vše, co víte o Údolí snů.",
+      "source": "pre_existing",
+      "original_cz": "A teď tedy, za touto branou, objevíte místa, která změní vše, co víte o Údolí snů."
+    },
+    {
+      "key": "Merlin_000_f",
+      "en": "Oh, where did I put that key...? Hmm...",
+      "cz": "Ach, kam jsem jen dal ten klíč...? Hmm...",
+      "source": "pre_existing",
+      "original_cz": "Ach, kam jsem jen dal ten klíč...? Hmm..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Maybe it's in your Library?",
+      "cz": "Možná je to ve vaší knihovně?",
+      "source": "pre_existing",
+      "original_cz": "Možná je to ve vaší knihovně?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Did you check your pockets?",
+      "cz": "Zkontroloval sis kapsy?",
+      "source": "pre_existing",
+      "original_cz": "Zkontroloval sis kapsy?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "It's always in the last place you look.",
+      "cz": "Vždycky je to na posledním místě, kam se díváte.",
+      "source": "pre_existing",
+      "original_cz": "Vždycky je to na posledním místě, kam se díváte."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "I hope not. There are more than 72 ways to catalogue a key. It could take weeks to find it!",
+      "cz": "Doufám, že ne. Existuje více než 72 způsobů, jak katalogizovat klíč. Jeho nalezení může trvat týdny!",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že ne. Existuje více než 72 způsobů, jak katalogizovat klíč. Jeho nalezení může trvat týdny!"
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Ah-ha! I've got it! It was sewn into a tiny pocket near my elbow!",
+      "cz": "Aha! Mám to! Bylo to všité v malé kapse blízko lokte!",
+      "source": "pre_existing",
+      "original_cz": "Aha! Mám to! Bylo to všité v malé kapse blízko lokte!"
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "I hope it's the right one...",
+      "cz": "Doufám, že je to ten správný...",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že je to ten správný..."
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "Eureka! It worked!",
+      "cz": "Heuréka! Fungovalo to!",
+      "source": "pre_existing",
+      "original_cz": "Heuréka! Fungovalo to!"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Well, what are you waiting for? <Lore>Step through the gate and find out what's on the other side</Lore>. I wouldn't dare spoil the surprise.",
+      "cz": "Tak na co ještě čekáš? <Lore>Projdi branou a zjisti, co je na druhé straně</Lore>. Neodvážil bych se zkazit překvapení.",
+      "source": "pre_existing",
+      "original_cz": "Tak na co ještě čekáš? <Lore>Projdi branou a zjisti, co je na druhé straně</Lore>. Neodvážil bych se zkazit překvapení."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "Right. Right. This could take some time. I have many pockets... and countless things in each of them...",
+      "cz": "Jasně. Jasně. Tohle by mohlo chvíli trvat. Mám spoustu kapes... a v každé z nich nespočet věcí...",
+      "source": "pre_existing",
+      "original_cz": "Jasně. Jasně. Tohle by mohlo chvíli trvat. Mám spoustu kapes... a v každé z nich nespočet věcí..."
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "Well, of course it is. Why would you keep searching once you'd found it?",
+      "cz": "No, samozřejmě. Proč bys dál hledal, když už jsi to našel?",
+      "source": "pre_existing",
+      "original_cz": "No, samozřejmě. Proč bys dál hledal, když už jsi to našel?"
+    }
+  ],
+  "ExpansionMain_Merlin/Merlin_MRQS_E01_010_MRQS_E01_010_TalkTo03.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "Welcome to the <Lore>Stardust Port</Lore>, {PlayerName}.",
+      "cz": "Vítej v <Lore>Hvězdném přístavu</Lore>, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Vítej v <Lore>Hvězdném přístavu</Lore>, {PlayerName}."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "From here, you can <Lore>explore the farthest reaches of this world</Lore>. There are countless locations around Dreamlight Valley that you've yet to visit.",
+      "cz": "Odtud můžete <Lore>prozkoumat nejvzdálenější kouty tohoto světa</Lore>. V okolí Údolí snů je nespočet míst, která jste ještě nenavštívili.",
+      "source": "pre_existing",
+      "original_cz": "Odtud můžete <Lore>prozkoumat nejvzdálenější kouty tohoto světa</Lore>. V okolí Údolí snů je nespočet míst, která jste ještě nenavštívili."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "I must say, I'm looking forward to the adventures and discoveries that await out there!",
+      "cz": "Musím říct, že se těším na dobrodružství a objevy, které na mě čekají!",
+      "source": "pre_existing",
+      "original_cz": "Musím říct, že se těším na dobrodružství a objevy, které na mě čekají!"
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "Is this safe? Will I always be able to come back here...?",
+      "cz": "Je tohle bezpečné? Budu se sem moct vždycky vrátit...?",
+      "source": "pre_existing",
+      "original_cz": "Je tohle bezpečné? Budu se sem moct vždycky vrátit...?"
+    },
+    {
+      "key": "Merlin_000_f",
+      "en": "Of course, {PlayerName}! In the blink of an eye. And the Villagers here will be able to visit you wherever you go.",
+      "cz": "Samozřejmě, {PlayerName}! Mrknutím oka. A vesničané tě budou moci navštívit, ať už půjdeš kamkoli.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě, {PlayerName}! Mrknutím oka. A vesničané tě budou moci navštívit, ať už půjdeš kamkoli."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "To infinity and beyond!",
+      "cz": "Do nekonečna a ještě dál!",
+      "source": "pre_existing",
+      "original_cz": "Do nekonečna a ještě dál!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Off I go!",
+      "cz": "Jdu!",
+      "source": "pre_existing",
+      "original_cz": "Jdu!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Bon voyage!",
+      "cz": "Šťastnou cestu!",
+      "source": "pre_existing",
+      "original_cz": "Šťastnou cestu!"
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "Precisely! That's the spirit.",
+      "cz": "Přesně tak! To je ten duch.",
+      "source": "pre_existing",
+      "original_cz": "Přesně tak! To je ten duch."
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "Whenever you wish to venture somewhere else, simply <Lore>approach one of the conveyances waiting here for you</Lore>.",
+      "cz": "Kdykoli se budete chtít vydat někam jinam, jednoduše <Lore>přistupte k jednomu z dopravních prostředků, které na vás zde čekají</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Kdykoli se budete chtít vydat někam jinam, jednoduše <Lore>přistupte k jednomu z dopravních prostředků, které na vás zde čekají</Lore>."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "I daresay that as you keep discovering more locations beyond Dreamlight Valley, the Stardust Port is sure to fill up with countless ships, flying contraptions, chariots...",
+      "cz": "Troufám si říct, že jak budete objevovat další místa za Údolím snů, Přístav Hvězdného prachu se jistě zaplní nespočtem lodí, létajících vynálezů, vozů...",
+      "source": "pre_existing",
+      "original_cz": "Troufám si říct, že jak budete objevovat další místa za Údolím snů, Přístav Hvězdného prachu se jistě zaplní nespočtem lodí, létajících vynálezů, vozů..."
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "The possibilities are endless! Exploration awaits!",
+      "cz": "Možnosti jsou nekonečné! Průzkum čeká!",
+      "source": "pre_existing",
+      "original_cz": "Možnosti jsou nekonečné! Průzkum čeká!"
+    }
+  ],
+  "ExpansionMain_Merlin/Merlin_MRQS_E01_140_MRQS_E01_140_TalkTo03.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "{PlayerName}! I see you've managed to mend the rift in time around the palace.",
+      "cz": "{PlayerName}! Vidím, že se ti podařilo zacelit časovou trhlinu kolem paláce.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}! Vidím, že se ti podařilo zacelit časovou trhlinu kolem paláce."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Hmm... I suppose that means Jafar's free...",
+      "cz": "Hmm... To asi znamená, že Džafar je volný...",
+      "source": "pre_existing",
+      "original_cz": "Hmm... To asi znamená, že Džafar je volný..."
+    },
+    {
+      "key": "Player_000_f",
+      "en": "Not quite.",
+      "cz": "Ne tak docela.",
+      "source": "pre_existing",
+      "original_cz": "Ne tak docela."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I think he's locked in the palace.",
+      "cz": "Myslím, že je zamčený v paláci.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že je zamčený v paláci."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "It was all part of a bigger scheme.",
+      "cz": "To všechno bylo součástí většího plánu.",
+      "source": "pre_existing",
+      "original_cz": "To všechno bylo součástí většího plánu."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "He's kind of a jerk!",
+      "cz": "Je to docela blbec!",
+      "source": "pre_existing",
+      "original_cz": "Je to docela blbec!"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Locked in the...? What do you mean?",
+      "cz": "Zamčený v...? Co tím myslíš?",
+      "source": "pre_existing",
+      "original_cz": "Zamčený v...? Co tím myslíš?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "But where do we start?",
+      "cz": "Ale kde začneme?",
+      "source": "pre_existing",
+      "original_cz": "Ale kde začneme?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Maybe something like that should stay lost...",
+      "cz": "Možná by něco takového mělo zůstat ztraceno...",
+      "source": "pre_existing",
+      "original_cz": "Možná by něco takového mělo zůstat ztraceno..."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Just think of what I could do if I got ahold of that...",
+      "cz": "Jen si představte, co bych mohl udělat, kdybych se toho zmocnil...",
+      "source": "pre_existing",
+      "original_cz": "Jen si představte, co bych mohl udělat, kdybych se toho zmocnil..."
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "Jafar tried to take the Hourglass from me. But Rapunzel, Gaston, and EVE didn't like that. EVE almost gave Jafar a taste of her laser cannon.",
+      "cz": "Jafar se mi pokusil vzít přesýpací hodiny. Ale Locice, Gastonovi a EVE se to nelíbilo. EVE málem dala Jafarovi ochutnat svůj laserový kanón.",
+      "source": "pre_existing",
+      "original_cz": "Jafar se mi pokusil vzít přesýpací hodiny. Ale Locice, Gastonovi a EVE se to nelíbilo. EVE málem dala Jafarovi ochutnat svůj laserový kanón."
+    },
+    {
+      "key": "Merlin_016_f",
+      "en": "Jafar vanished. I can only guess he's hiding in the palace — it's kind of his fortress. But before that...",
+      "cz": "Džafar zmizel. Můžu jen hádat, že se skrývá v paláci – je to taková jeho pevnost. Ale předtím...",
+      "source": "pre_existing",
+      "original_cz": "Džafar zmizel. Můžu jen hádat, že se skrývá v paláci – je to taková jeho pevnost. Ale předtím..."
+    },
+    {
+      "key": "Merlin_017_f",
+      "en": "...he said he's <Lore>after something called the Spark of Imagination</Lore>.",
+      "cz": "...řekl, že <Lore>touží po něčem, čemu se říká Jiskra představivosti</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "...řekl, že <Lore>touží po něčem, čemu se říká Jiskra představivosti</Lore>."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "The Spark of Imagination? Why, I've never heard of it.",
+      "cz": "Jiskra představivosti? Vždyť jsem o ní nikdy neslyšel.",
+      "source": "pre_existing",
+      "original_cz": "Jiskra představivosti? Vždyť jsem o ní nikdy neslyšel."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "Jafar said that it was somewhere <Lore>beneath this island</Lore>, and that only someone with the Hourglass can find it...",
+      "cz": "Džafar říkal, že je to někde <Lore>pod tímto ostrovem</Lore> a že to najde jen někdo s přesýpacími hodinami...",
+      "source": "pre_existing",
+      "original_cz": "Džafar říkal, že je to někde <Lore>pod tímto ostrovem</Lore> a že to najde jen někdo s přesýpacími hodinami..."
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "Oh! And he also said that it would give him the power to control all of space and time!",
+      "cz": "Ach! A také řekl, že mu to dá moc ovládat veškerý prostor a čas!",
+      "source": "pre_existing",
+      "original_cz": "Ach! A také řekl, že mu to dá moc ovládat veškerý prostor a čas!"
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "... Control all of space and time?! Then we've no choice but to stop him!",
+      "cz": "... Ovládá veškerý prostor a čas?! Pak nám nezbývá nic jiného, ​​než ho zastavit!",
+      "source": "pre_existing",
+      "original_cz": "... Ovládá veškerý prostor a čas?! Pak nám nezbývá nic jiného, ​​než ho zastavit!"
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "Whatever this \"Spark of Imagination\" is, we must find it before Jafar does!",
+      "cz": "Ať už je tato „Jiskra představivosti“ cokoli, musíme ji najít dříve než Jafar!",
+      "source": "pre_existing",
+      "original_cz": "Ať už je tato „Jiskra představivosti“ cokoli, musíme ji najít dříve než Jafar!"
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "Where so many good adventures start. With a trip to the Library!",
+      "cz": "Kde začíná tolik dobrých dobrodružství. Výletem do knihovny!",
+      "source": "pre_existing",
+      "original_cz": "Kde začíná tolik dobrých dobrodružství. Výletem do knihovny!"
+    },
+    {
+      "key": "Merlin_014_f",
+      "en": "I must do some research. This may take quite a while. In the meantime...",
+      "cz": "Musím udělat nějaký průzkum. Může to chvíli trvat. Mezitím...",
+      "source": "pre_existing",
+      "original_cz": "Musím udělat nějaký průzkum. Může to chvíli trvat. Mezitím..."
+    },
+    {
+      "key": "Merlin_018_f",
+      "en": "Keep uncovering the secrets of Eternity Isle, and do whatever you can to make it feel like home.",
+      "cz": "Neustále odhalujte tajemství Eternity Isle a dělejte vše pro to, abyste se zde cítili jako doma.",
+      "source": "pre_existing",
+      "original_cz": "Neustále odhalujte tajemství Eternity Isle a dělejte vše pro to, abyste se zde cítili jako doma."
+    },
+    {
+      "key": "Merlin_021_f",
+      "en": "Now then, I wonder if <Lore>the Spark of Imagination might be connected to the magic of the Realms</Lore>...",
+      "cz": "Tak tedy, zajímalo by mě, jestli <Lore>Jiskra představivosti může být spojena s magií Říší</Lore>...",
+      "source": "pre_existing",
+      "original_cz": "Tak tedy, zajímalo by mě, jestli <Lore>Jiskra představivosti může být spojena s magií Říší</Lore>..."
+    },
+    {
+      "key": "Merlin_022_f",
+      "en": "You ought to try <Lore>venturing to one of the Realms and using your Hourglass to search there</Lore>.",
+      "cz": "Měl bys zkusit <Lore>vydat se do jedné z Říší a použít tam své přesýpací hodiny k hledání</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Měl bys zkusit <Lore>vydat se do jedné z Říší a použít tam své přesýpací hodiny k hledání</Lore>."
+    },
+    {
+      "key": "Merlin_023_f",
+      "en": "Why, there's no telling what you might find... or what you could create from it!",
+      "cz": "Ale nikde se nedá říct, co všechno najdete... nebo co z toho můžete stvořit!",
+      "source": "pre_existing",
+      "original_cz": "Ale nikde se nedá říct, co všechno najdete... nebo co z toho můžete stvořit!"
+    },
+    {
+      "key": "Merlin_012_f",
+      "en": "No secret can stay buried forever. If we don't find it, I fear Jafar will.",
+      "cz": "Žádné tajemství nemůže zůstat pohřbené navždy. Pokud ho nenajdeme, obávám se, že to udělá Jafar.",
+      "source": "pre_existing",
+      "original_cz": "Žádné tajemství nemůže zůstat pohřbené navždy. Pokud ho nenajdeme, obávám se, že to udělá Jafar."
+    },
+    {
+      "key": "Merlin_013_f",
+      "en": "You shouldn't be too eager to wield power like that. You'll find it can be a great burden to use it wisely.",
+      "cz": "Neměl bys být příliš dychtivý ovládat takovou moc. Zjistíš, že její moudré používání může být velkou zátěží.",
+      "source": "pre_existing",
+      "original_cz": "Neměl bys být příliš dychtivý ovládat takovou moc. Zjistíš, že její moudré používání může být velkou zátěží."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Well, that's no surprise. Tell me... what sort of scheme?",
+      "cz": "No, to není žádné překvapení. Řekněte mi... jaký to byl plán?",
+      "source": "pre_existing",
+      "original_cz": "No, to není žádné překvapení. Řekněte mi... jaký to byl plán?"
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "My friend, he is much more than a \"jerk.\" But what drew you to that conclusion?",
+      "cz": "Příteli, on je mnohem víc než jen „blbec“. Ale co tě k tomuto závěru vedlo?",
+      "source": "pre_existing",
+      "original_cz": "Příteli, on je mnohem víc než jen „blbec“. Ale co tě k tomuto závěru vedlo?"
+    }
+  ],
+  "ExpansionMain_Merlin/Merlin_SEC_E01_Merlin_010_SEC_E01_Merl_010_Intro01.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "Ah, {PlayerName}, marvelous timing, as usual! I've been exploring Eternity Isle and it's... it's...",
+      "cz": "Ah, {PlayerName}, jako obvykle skvělé načasování! Prozkoumávám Eternity Isle a je... je...",
+      "source": "pre_existing",
+      "original_cz": "Ah, {PlayerName}, jako obvykle skvělé načasování! Prozkoumávám Eternity Isle a je... je..."
+    },
+    {
+      "key": "Merlin_021_f",
+      "en": "...well, it's a marvel! So much to study here and much to discover!",
+      "cz": "...no, je to zázrak! Tolik je tu k nastudování a k objevování!",
+      "source": "pre_existing",
+      "original_cz": "...no, je to zázrak! Tolik je tu k nastudování a k objevování!"
+    },
+    {
+      "key": "Player_004_choice_000_f",
+      "en": "I'm happy you're happy.",
+      "cz": "Jsem rád, že jsi spokojený/á.",
+      "source": "pre_existing",
+      "original_cz": "Jsem rád, že jsi spokojený/á."
+    },
+    {
+      "key": "Player_004_choice_001_f",
+      "en": "Just glad I have more room to decorate.",
+      "cz": "Jsem rád, že mám víc místa na zdobení.",
+      "source": "pre_existing",
+      "original_cz": "Jsem rád, že mám víc místa na zdobení."
+    },
+    {
+      "key": "Player_004_choice_002_f",
+      "en": "Uh-oh. You seem a little overstimulated.",
+      "cz": "Jejda. Zdá se, že jsi trochu přehnaně stimulovaný.",
+      "source": "pre_existing",
+      "original_cz": "Jejda. Zdá se, že jsi trochu přehnaně stimulovaný."
+    },
+    {
+      "key": "Merlin_022_f",
+      "en": "Ha-ha! Yes. That's the wonder of happiness. A candle whose flame never extinguishes, no matter how much it's shared.",
+      "cz": "Ha-ha! Ano. To je zázrak štěstí. Svíčka, jejíž plamen nikdy nezhasne, bez ohledu na to, jak moc se o něj dělíme.",
+      "source": "pre_existing",
+      "original_cz": "Ha-ha! Ano. To je zázrak štěstí. Svíčka, jejíž plamen nikdy nezhasne, bez ohledu na to, jak moc se o něj dělíme."
+    },
+    {
+      "key": "Merlin_026_f",
+      "en": "Oh, and speaking of sharing... have you discovered anything about Eternity Isle that you'd like to share with me?",
+      "cz": "A když už mluvíme o sdílení... objevil jsi něco o Eternity Isle, o co bys se mnou chtěl/a sdílet?",
+      "source": "pre_existing",
+      "original_cz": "A když už mluvíme o sdílení... objevil jsi něco o Eternity Isle, o co bys se mnou chtěl/a sdílet?"
+    },
+    {
+      "key": "Merlin_027_f",
+      "en": "That's kind of what I wanted to talk to you about.",
+      "cz": "O tom jsem s tebou chtěl mluvit.",
+      "source": "pre_existing",
+      "original_cz": "O tom jsem s tebou chtěl mluvit."
+    },
+    {
+      "key": "Merlin_028_f",
+      "en": "I'm learning about how this <ActivityItem>Royal Hourglass</ActivityItem> works. But I'd love to learn even more about this place!",
+      "cz": "Učím se, jak fungují tyto <ActivityItem>Královské přesýpací hodiny</ActivityItem>. Ale rád bych se o tomto místě dozvěděl ještě víc!",
+      "source": "pre_existing",
+      "original_cz": "Učím se, jak fungují tyto <ActivityItem>Královské přesýpací hodiny</ActivityItem>. Ale rád bych se o tomto místě dozvěděl ještě víc!"
+    },
+    {
+      "key": "Merlin_029_f",
+      "en": "Ah, yes, the Royal Hourglass! Quite the stroke of luck you've found it. No doubt it will help us discover all the wonders of this Isle.",
+      "cz": "Ach ano, Královské přesýpací hodiny! Máte velké štěstí, že jste je našli. Není pochyb o tom, že nám pomohou objevit všechny divy tohoto ostrova.",
+      "source": "pre_existing",
+      "original_cz": "Ach ano, Královské přesýpací hodiny! Máte velké štěstí, že jste je našli. Není pochyb o tom, že nám pomohou objevit všechny divy tohoto ostrova."
+    },
+    {
+      "key": "Merlin_030_f",
+      "en": "You see, the <ActivityItem>Mist</ActivityItem> in your Hourglass lets it repair spots where time has... well, I suppose you could say, time has broken.",
+      "cz": "Víš, <ActivityItem>Mlha</ActivityItem> ve tvých přesýpacích hodinách umožňuje opravit místa, kde čas... no, dalo by se říct, že čas zlomil.",
+      "source": "pre_existing",
+      "original_cz": "Víš, <ActivityItem>Mlha</ActivityItem> ve tvých přesýpacích hodinách umožňuje opravit místa, kde čas... no, dalo by se říct, že čas zlomil."
+    },
+    {
+      "key": "Merlin_031_f",
+      "en": "Keep using the <ActivityItem>Royal Hourglass</ActivityItem> to obtain more <ActivityItem>Mist</ActivityItem>, so you may uncover more of this Island.",
+      "cz": "Používejte <ActivityItem>Královské přesýpací hodiny</ActivityItem> k získání další <ActivityItem>Mlhy</ActivityItem>, abyste mohli objevit více z tohoto ostrova.",
+      "source": "pre_existing",
+      "original_cz": "Používejte <ActivityItem>Královské přesýpací hodiny</ActivityItem> k získání další <ActivityItem>Mlhy</ActivityItem>, abyste mohli objevit více z tohoto ostrova."
+    },
+    {
+      "key": "Merlin_032_f",
+      "en": "Now then, Mist appears to be connected to both <Lore>using the Hourglass AND caring for Eternity Isle</Lore>.",
+      "cz": "Zdá se tedy, že Mist je spojena jak s <Lore>používáním Přesýpacích hodin, tak i péčí o Ostrov Věčnosti</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Zdá se tedy, že Mist je spojena jak s <Lore>používáním Přesýpacích hodin, tak i péčí o Ostrov Věčnosti</Lore>."
+    },
+    {
+      "key": "Player_005_f",
+      "en": "No problem! To find more Mist, I'll just keep...",
+      "cz": "Žádný problém! Abych našel další Mist, prostě si ponechám...",
+      "source": "pre_existing",
+      "original_cz": "Žádný problém! Abych našel další Mist, prostě si ponechám..."
+    },
+    {
+      "key": "Player_005_choice_001_f",
+      "en": "...decorating and cleaning up the Island!",
+      "cz": "...zdobení a úklid ostrova!",
+      "source": "pre_existing",
+      "original_cz": "...zdobení a úklid ostrova!"
+    },
+    {
+      "key": "Player_005_choice_002_f",
+      "en": "...finding treasures with my Hourglass!",
+      "cz": "...hledám poklady s mými přesýpacími hodinami!",
+      "source": "pre_existing",
+      "original_cz": "...hledám poklady s mými přesýpacími hodinami!"
+    },
+    {
+      "key": "Player_005_choice_003_f",
+      "en": "...uncovering the secrets of this place!",
+      "cz": "...odhalování tajemství tohoto místa!",
+      "source": "pre_existing",
+      "original_cz": "...odhalování tajemství tohoto místa!"
+    },
+    {
+      "key": "Merlin_033_f",
+      "en": "That's using your intellect! And I presume you've also begun to <Lore>uncover the magic of Timebending Tables</Lore>?",
+      "cz": "To je používání tvého intelektu! A předpokládám, že jsi také začal <Lore>odhalovat kouzlo stolů ohýbání času</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "To je používání tvého intelektu! A předpokládám, že jsi také začal <Lore>odhalovat kouzlo stolů ohýbání času</Lore>?"
+    },
+    {
+      "key": "Merlin_034_f",
+      "en": "Only a little... but I'd love to know more!",
+      "cz": "Jen trochu... ale rád bych se dozvěděl víc!",
+      "source": "pre_existing",
+      "original_cz": "Jen trochu... ale rád bych se dozvěděl víc!"
+    },
+    {
+      "key": "Merlin_035_f",
+      "en": "Well, there's no better way to learn than to experiment! Here.",
+      "cz": "No, není lepší způsob, jak se učit, než experimentovat! Tady.",
+      "source": "pre_existing",
+      "original_cz": "No, není lepší způsob, jak se učit, než experimentovat! Tady."
+    },
+    {
+      "key": "Merlin_036_f",
+      "en": "I uncovered this Timebending Table while exploring the Island.",
+      "cz": "Tento stůl ohýbání času jsem objevil při prozkoumávání ostrova.",
+      "source": "pre_existing",
+      "original_cz": "Tento stůl ohýbání času jsem objevil při prozkoumávání ostrova."
+    },
+    {
+      "key": "Merlin_037_f",
+      "en": "Contained within it are <Lore>echoes of items which once stood here on Eternity Isle</Lore>.",
+      "cz": "Uvnitř jsou <Lore>ozvěny předmětů, které kdysi stály zde na Ostrově Věčnosti</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Uvnitř jsou <Lore>ozvěny předmětů, které kdysi stály zde na Ostrově Věčnosti</Lore>."
+    },
+    {
+      "key": "Merlin_038_f",
+      "en": "If you <Lore>examine the Timebending Table</Lore>, you'll see how to <Lore>reconstruct those items</Lore> with materials you find using the Hourglass.",
+      "cz": "Pokud <Lore>prozkoumáte Stůl ohýbání času</Lore>, zjistíte, jak <Lore>rekonstruovat tyto předměty</Lore> s materiály, které najdete pomocí přesýpacích hodin.",
+      "source": "pre_existing",
+      "original_cz": "Pokud <Lore>prozkoumáte Stůl ohýbání času</Lore>, zjistíte, jak <Lore>rekonstruovat tyto předměty</Lore> s materiály, které najdete pomocí přesýpacích hodin."
+    },
+    {
+      "key": "Merlin_039_f",
+      "en": "I look forward to seeing what sort of magic you work!",
+      "cz": "Těším se, až uvidím, jaká kouzla předvedeš!",
+      "source": "pre_existing",
+      "original_cz": "Těším se, až uvidím, jaká kouzla předvedeš!"
+    },
+    {
+      "key": "Merlin_023_f",
+      "en": "Yes, this Isle does offer more opportunities for that sort of thing.",
+      "cz": "Ano, tento ostrov nabízí pro takové věci více příležitostí.",
+      "source": "pre_existing",
+      "original_cz": "Ano, tento ostrov nabízí pro takové věci více příležitostí."
+    },
+    {
+      "key": "Merlin_025_f",
+      "en": "Though, I'll stick to my research and leave the decorating to you.",
+      "cz": "Ale budu se držet svého výzkumu a zdobení nechám na vás.",
+      "source": "pre_existing",
+      "original_cz": "Ale budu se držet svého výzkumu a zdobení nechám na vás."
+    },
+    {
+      "key": "Merlin_024_f",
+      "en": "Don't be ridiculous There's no such thing as too much intellectual curiosity!",
+      "cz": "Nebuď směšný. Intelektuální zvědavosti není moc!",
+      "source": "pre_existing",
+      "original_cz": "Nebuď směšný. Intelektuální zvědavosti není moc!"
+    }
+  ],
+  "ExpansionMain_Merlin/Merlin_SEC_E01_Merlin_010_SEC_E01_Merl_010_Ongoing01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Get to work with that Timebending Table!",
+      "cz": "Pusťte se do práce s tím stolem pro ohýbání času!",
+      "source": "pre_existing",
+      "original_cz": "Pusťte se do práce s tím stolem pro ohýbání času!"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Of course, you'll... well, you'll have to start by putting it down somewhere.",
+      "cz": "Samozřejmě, budete... no, budete muset začít tím, že to někam položíte.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě, budete... no, budete muset začít tím, že to někam položíte."
+    }
+  ],
+  "ExpansionMain_Merlin/Merlin_SEC_E01_Merlin_010_SEC_E01_Merl_010_Ongoing02.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Have you examined the Timebending Table, {PlayerName}?",
+      "cz": "Prozkoumal jsi tabulku ohýbání času, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumal jsi tabulku ohýbání času, {PlayerName}?"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "There must be something there that's caught your eye. <Lore>Simply use your Hourglass to find the pieces you'll need to recreate it</Lore>!",
+      "cz": "Musí tam být něco, co tě zaujalo. <Lore>Jednoduše použij své přesýpací hodiny k nalezení kousíčků, které budeš potřebovat k jejich znovuvytvoření</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Musí tam být něco, co tě zaujalo. <Lore>Jednoduše použij své přesýpací hodiny k nalezení kousíčků, které budeš potřebovat k jejich znovuvytvoření</Lore>!"
+    }
+  ],
+  "ExpansionMain_Merlin/Merlin_SEC_E01_Merlin_010_SEC_E01_Merlin_010_Outro.locbin": [
+    {
+      "key": "Merlin_011_f",
+      "en": "Ah-ha! You've done it!",
+      "cz": "Ááá! Dokázal jsi to!",
+      "source": "pre_existing",
+      "original_cz": "Ááá! Dokázal jsi to!"
+    },
+    {
+      "key": "Merlin_012_f",
+      "en": "You're constructing with your Hourglass and the Timebending Tables. Well done, {PlayerName}.",
+      "cz": "Stavíš s přesýpacími hodinami a stoly pro ohýbání času. Výborně, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Stavíš s přesýpacími hodinami a stoly pro ohýbání času. Výborně, {PlayerName}."
+    },
+    {
+      "key": "Merlin_013_f",
+      "en": "I'd say, it's almost as if you're rediscovering the past with each thing you build. Exciting, eh?",
+      "cz": "Řekl bych, že je to skoro, jako byste s každou věcí, kterou postavíte, znovuobjevovali minulost. Vzrušující, že?",
+      "source": "pre_existing",
+      "original_cz": "Řekl bych, že je to skoro, jako byste s každou věcí, kterou postavíte, znovuobjevovali minulost. Vzrušující, že?"
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "Like I'm doing archaeology with magic!",
+      "cz": "Jako bych dělal archeologii s magií!",
+      "source": "pre_existing",
+      "original_cz": "Jako bych dělal archeologii s magií!"
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "Like discovering potato chips under the couch cushions... but for lost treasures!",
+      "cz": "Jako objevování brambůrků pod polštáři na gauči... ale pro ztracené poklady!",
+      "source": "pre_existing",
+      "original_cz": "Jako objevování brambůrků pod polštáři na gauči... ale pro ztracené poklady!"
+    },
+    {
+      "key": "Merlin_014_f",
+      "en": "Precisely!",
+      "cz": "Přesně tak!",
+      "source": "pre_existing",
+      "original_cz": "Přesně tak!"
+    },
+    {
+      "key": "Merlin_016_f",
+      "en": "Oh, and there's something else that I've uncovered... The Mist in your Hourglass isn't just useful for <Lore>fixing the Time Rifts</Lore> around the Isle.",
+      "cz": "A ještě něco jsem objevil... Mlha ve vašich přesýpacích hodinách není užitečná jen pro <Lore>opravu časových trhlin</Lore> kolem ostrova.",
+      "source": "pre_existing",
+      "original_cz": "A ještě něco jsem objevil... Mlha ve vašich přesýpacích hodinách není užitečná jen pro <Lore>opravu časových trhlin</Lore> kolem ostrova."
+    },
+    {
+      "key": "Merlin_017_f",
+      "en": "You can <Lore>also use the Mist to make your Hourglass more powerful</Lore>!",
+      "cz": "Můžete <Lore>také použít mlhu, abyste zesílili své přesýpací hodiny</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Můžete <Lore>také použít mlhu, abyste zesílili své přesýpací hodiny</Lore>!"
+    },
+    {
+      "key": "Merlin_018_f",
+      "en": "I'm sure if you do, you'll uncover additional things to create.",
+      "cz": "Jsem si jistý, že když to uděláš, objevíš další věci k tvorbě.",
+      "source": "pre_existing",
+      "original_cz": "Jsem si jistý, že když to uděláš, objevíš další věci k tvorbě."
+    },
+    {
+      "key": "Merlin_019_f",
+      "en": "But to understand it all... well, more research is required. I'll let you know if I discover anything else.",
+      "cz": "Ale abychom tomu všemu porozuměli... no, je zapotřebí dalšího výzkumu. Dám vám vědět, pokud objevím něco dalšího.",
+      "source": "pre_existing",
+      "original_cz": "Ale abychom tomu všemu porozuměli... no, je zapotřebí dalšího výzkumu. Dám vám vědět, pokud objevím něco dalšího."
+    },
+    {
+      "key": "Merlin_015_f",
+      "en": "Er, that's not quite how I would have phrased it, but I suppose the metaphor is apt.",
+      "cz": "Ehm, takhle bych to úplně nevyjádřil, ale myslím, že metafora je výstižná.",
+      "source": "pre_existing",
+      "original_cz": "Ehm, takhle bych to úplně nevyjádřil, ale myslím, že metafora je výstižná."
+    }
+  ],
+  "ExpansionMain_Merlin/Merlin_SEC_E01_Merlin_020_SEC_E01_Merl_020_Intro.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "{PlayerName}, I presume you've noticed the strange debris littered all over Eternity Isle...",
+      "cz": "{PlayerName}, předpokládám, že sis všiml těch podivných trosek rozházených po celém ostrově Eternity...",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, předpokládám, že sis všiml těch podivných trosek rozházených po celém ostrově Eternity..."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "Some sort of <Lore>ancient rubble</Lore> strewn about Ancient's Landing.",
+      "cz": "Nějaký druh <Lore>starodávných sutin</Lore> rozházených po Přístavišti Prastarých.",
+      "source": "pre_existing",
+      "original_cz": "Nějaký druh <Lore>starodávných sutin</Lore> rozházených po Přístavišti Prastarých."
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "...<Lore>stalagmites made of glass</Lore> in the Glittering Dunes...",
+      "cz": "...<Lore>stalagmity ze skla</Lore> v Třpytivých dunách...",
+      "source": "pre_existing",
+      "original_cz": "...<Lore>stalagmity ze skla</Lore> v Třpytivých dunách..."
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "...and <Lore>malicious plants</Lore> sprouting all over the Wild Tangle.",
+      "cz": "...a <Lore>škodlivé rostliny</Lore> raší po celém Divokém spleti.",
+      "source": "pre_existing",
+      "original_cz": "...a <Lore>škodlivé rostliny</Lore> raší po celém Divokém spleti."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "They're blocking me from decorating!",
+      "cz": "Braní mi v zdobení!",
+      "source": "pre_existing",
+      "original_cz": "Braní mi v zdobení!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "They're stopping me from reaching places I want to explore!",
+      "cz": "Brání mi v dosažení míst, která chci prozkoumat!",
+      "source": "pre_existing",
+      "original_cz": "Brání mi v dosažení míst, která chci prozkoumat!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "They sure are ugly.",
+      "cz": "Jsou opravdu oškliví.",
+      "source": "pre_existing",
+      "original_cz": "Jsou opravdu oškliví."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Yes, yes... You know, it's curious. Your Royal Tools should remove the debris...",
+      "cz": "Ano, ano... Víš, je to zvláštní. Tvoje Královské nástroje by měly odstranit trosky...",
+      "source": "pre_existing",
+      "original_cz": "Ano, ano... Víš, je to zvláštní. Tvoje Královské nástroje by měly odstranit trosky..."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "...but it appears that the magic of Eternity Isle has seeped into them. They're <Lore>frozen in time</Lore>.",
+      "cz": "...ale zdá se, že do nich pronikla magie Věčného ostrova. Jsou <Lore>zmrazeni v čase</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "...ale zdá se, že do nich pronikla magie Věčného ostrova. Jsou <Lore>zmrazeni v čase</Lore>."
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "To destroy them, <Lore>you'll need the magic of the Hourglass and the Timebending Table</Lore>.",
+      "cz": "K jejich zničení <Lore>budeš potřebovat magii přesýpacích hodin a Stůl pro ohýbání času</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "K jejich zničení <Lore>budeš potřebovat magii přesýpacích hodin a Stůl pro ohýbání času</Lore>."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "Examine the echoes from the past on your Timebending Table. There must be some way for you to <Lore>make potions to infuse your Royal Tools with the magic you need</Lore>.",
+      "cz": "Prozkoumejte ozvěny z minulosti na svém Stole Ohýbání Času. Musí existovat nějaký způsob, jak <Lore>vyrobit lektvary, které naplní vaše Královské nástroje potřebnou magií</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte ozvěny z minulosti na svém Stole Ohýbání Času. Musí existovat nějaký způsob, jak <Lore>vyrobit lektvary, které naplní vaše Královské nástroje potřebnou magií</Lore>."
+    }
+  ],
+  "ExpansionMain_Merlin/Merlin_SEC_E01_Merlin_020_SEC_E01_Merl_020_Outro.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "Marvelous! Your Royal Tools have been <Lore>infused with the magic of the Hourglass</Lore>!",
+      "cz": "Úžasné! Vaše královské nástroje byly <Lore>naplněny magií přesýpacích hodin</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Úžasné! Vaše královské nástroje byly <Lore>naplněny magií přesýpacích hodin</Lore>!"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "You should have no trouble <Lore>removing the smaller pieces of rubble, the glass stalagmites, and the malicious plants now</Lore>.",
+      "cz": "S odstraněním menších kousků suti, skleněných stalagmitů a škodlivých rostlin <Lore> byste nyní neměli mít problém.",
+      "source": "pre_existing",
+      "original_cz": "S odstraněním menších kousků suti, skleněných stalagmitů a škodlivých rostlin <Lore> byste nyní neměli mít problém."
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "Though I'm afraid the larger ones may require more research...",
+      "cz": "I když se obávám, že ty větší by mohly vyžadovat více výzkumu...",
+      "source": "pre_existing",
+      "original_cz": "I když se obávám, že ty větší by mohly vyžadovat více výzkumu..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's research fast! I want to clean up the whole Isle!",
+      "cz": "Pojďme rychle prozkoumat! Chci vyčistit celý ostrov!",
+      "source": "pre_existing",
+      "original_cz": "Pojďme rychle prozkoumat! Chci vyčistit celý ostrov!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "No problem! I already have enough to clean up around here.",
+      "cz": "Žádný problém! Už toho mám dost na to, abych tu uklidil.",
+      "source": "pre_existing",
+      "original_cz": "Žádný problém! Už toho mám dost na to, abych tu uklidil."
+    },
+    {
+      "key": "Merlin_000_f",
+      "en": "Such determination! Quite admirable. Well, I'm off to my library to do just that.",
+      "cz": "Takové odhodlání! Docela obdivuhodné. Tak přesně to jdu udělat do knihovny.",
+      "source": "pre_existing",
+      "original_cz": "Takové odhodlání! Docela obdivuhodné. Tak přesně to jdu udělat do knihovny."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "I'll be sure to let you know if anything turns up.",
+      "cz": "Určitě vám dám vědět, pokud se něco objeví.",
+      "source": "pre_existing",
+      "original_cz": "Určitě vám dám vědět, pokud se něco objeví."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "Yes, it seems like you've got your hands, er, quite full. I'll just return to my library and get to work.",
+      "cz": "Ano, vypadá to, že máš, ehm, docela plné ruce práce. Já se prostě vrátím do knihovny a pustím se do práce.",
+      "source": "pre_existing",
+      "original_cz": "Ano, vypadá to, že máš, ehm, docela plné ruce práce. Já se prostě vrátím do knihovny a pustím se do práce."
+    }
+  ],
+  "ExpansionMain_Merlin/Merlin_SEC_E01_Merlin_030_SEC_E01_Merl_030_Intro.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "{PlayerName}, that Hourglass of yours is growing more powerful by the day!",
+      "cz": "{PlayerName}, ty tvoje přesýpací hodiny jsou den ode dne silnější!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, ty tvoje přesýpací hodiny jsou den ode dne silnější!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Hopefully I'll be able to help even more Villagers now.",
+      "cz": "Doufám, že teď budu moci pomoci ještě více vesničanům.",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že teď budu moci pomoci ještě více vesničanům."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I hope its power never goes out of control.",
+      "cz": "Doufám, že se jeho síla nikdy nevymkne kontrole.",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že se jeho síla nikdy nevymkne kontrole."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I'm pretty awesome, huh?",
+      "cz": "Jsem docela úžasný, co?",
+      "source": "pre_existing",
+      "original_cz": "Jsem docela úžasný, co?"
+    },
+    {
+      "key": "Merlin_000_f",
+      "en": "Ah, thinking of your subjects before yourself... a sure sign of a wise ruler.",
+      "cz": "Ach, myslet na své poddané dříve než na sebe... jisté znamení moudrého vládce.",
+      "source": "pre_existing",
+      "original_cz": "Ach, myslet na své poddané dříve než na sebe... jisté znamení moudrého vládce."
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "In fact, that's precisely what I wished to speak with you about. I know how you can help those around the Isle with the Hourglass!",
+      "cz": "Přesně o tom jsem s tebou chtěl mluvit. Vím, jak můžeš pomoci lidem na ostrově s přesýpacími hodinami!",
+      "source": "pre_existing",
+      "original_cz": "Přesně o tom jsem s tebou chtěl mluvit. Vím, jak můžeš pomoci lidem na ostrově s přesýpacími hodinami!"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "I believe it now has enough magic to <Lore>remove even more of the debris littering Eternity Isle</Lore>!",
+      "cz": "Věřím, že teď má dost magie na to, aby <Lore>odstranila ještě více trosek pokrývajících Eternity Isle</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Věřím, že teď má dost magie na to, aby <Lore>odstranila ještě více trosek pokrývajících Eternity Isle</Lore>!"
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "You must examine the Timebending Table once again to discover what sorts of potions you can make.",
+      "cz": "Musíš znovu prozkoumat Stůl ohýbání času, abys zjistil, jaké druhy lektvarů umíš vyrobit.",
+      "source": "pre_existing",
+      "original_cz": "Musíš znovu prozkoumat Stůl ohýbání času, abys zjistil, jaké druhy lektvarů umíš vyrobit."
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "Oh yes, well, it's wise to be heedful of dangers, but I trust you to wield that Hourglass responsibly.",
+      "cz": "Ano, je moudré dávat si pozor na nebezpečí, ale věřím, že s těmi přesýpacími hodinami budeš zacházet zodpovědně.",
+      "source": "pre_existing",
+      "original_cz": "Ano, je moudré dávat si pozor na nebezpečí, ale věřím, že s těmi přesýpacími hodinami budeš zacházet zodpovědně."
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "In fact, that's precisely what I wished to speak with you about. I have yet another reason for you to take up your Hourglass once again!",
+      "cz": "Přesně o tom jsem s tebou chtěl mluvit. Mám pro tebe další důvod, proč bys měl znovu vzít do ruky přesýpací hodiny!",
+      "source": "pre_existing",
+      "original_cz": "Přesně o tom jsem s tebou chtěl mluvit. Mám pro tebe další důvod, proč bys měl znovu vzít do ruky přesýpací hodiny!"
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "Yes, your skills are indeed prodigious!",
+      "cz": "Ano, tvé dovednosti jsou vskutku ohromující!",
+      "source": "pre_existing",
+      "original_cz": "Ano, tvé dovednosti jsou vskutku ohromující!"
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "In fact, that's precisely what I wished to speak with you about. I have yet another way for you to use your skills with that Hourglass!",
+      "cz": "Přesně o tom jsem s tebou chtěl mluvit. Mám pro tebe ještě jeden způsob, jak využít tvé dovednosti s přesýpacími hodinami!",
+      "source": "pre_existing",
+      "original_cz": "Přesně o tom jsem s tebou chtěl mluvit. Mám pro tebe ještě jeden způsob, jak využít tvé dovednosti s přesýpacími hodinami!"
+    }
+  ],
+  "ExpansionMain_Merlin/Merlin_SEC_E01_Merlin_030_SEC_E01_Merl_030_Outro.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "Ah, your Royal Tools have even more of the magic of the Timebending Table radiating from them. Excellent work!",
+      "cz": "Ah, z tvých Královských nástrojů vyzařuje ještě více magie Stolu pro ohýbání času. Vynikající práce!",
+      "source": "pre_existing",
+      "original_cz": "Ah, z tvých Královských nástrojů vyzařuje ještě více magie Stolu pro ohýbání času. Vynikající práce!"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Go forth, {PlayerName}, and use your Royal Tools wisely. I'm sure Eternity Isle will be a much tidier place very soon.",
+      "cz": "Jdi do toho, {PlayerName}, a moudře používej své královské nástroje. Jsem si jistý, že Eternity Isle bude brzy mnohem uklizenějším místem.",
+      "source": "pre_existing",
+      "original_cz": "Jdi do toho, {PlayerName}, a moudře používej své královské nástroje. Jsem si jistý, že Eternity Isle bude brzy mnohem uklizenějším místem."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "And <Lore>keep using Mist to make your Hourglass more powerful</Lore>. You're sure to discover additional ways to improve life on Eternity Isle... and in Dreamlight Valley!",
+      "cz": "A <Lore>pokračuj v používání Mlhy, abys zesílil/a své přesýpací hodiny</Lore>. Určitě objevíš další způsoby, jak zlepšit život na Věčném ostrově... a v Údolí snů!",
+      "source": "pre_existing",
+      "original_cz": "A <Lore>pokračuj v používání Mlhy, abys zesílil/a své přesýpací hodiny</Lore>. Určitě objevíš další způsoby, jak zlepšit život na Věčném ostrově... a v Údolí snů!"
+    }
+  ],
+  "ExpansionMain_Merlin/Merlin_SEC_E01_Mickey_010_SEC_E01_Mickey_010_BringItem02.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Hm? Oh, what are these?",
+      "cz": "Hm? Co je tohle?",
+      "source": "pre_existing",
+      "original_cz": "Hm? Co je tohle?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Some strange flora from around Eternity Isle.",
+      "cz": "Nějaká zvláštní flóra z okolí Eternity Isle.",
+      "source": "pre_existing",
+      "original_cz": "Nějaká zvláštní flóra z okolí Eternity Isle."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I was hoping you could tell me.",
+      "cz": "Doufal jsem, že mi to řekneš.",
+      "source": "pre_existing",
+      "original_cz": "Doufal jsem, že mi to řekneš."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Flowers. Do you like them?",
+      "cz": "Květiny. Líbí se ti?",
+      "source": "pre_existing",
+      "original_cz": "Květiny. Líbí se ti?"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Oh, well... how fascinating. These are quite peculiar indeed.",
+      "cz": "No, to je fascinující... To je opravdu zvláštní.",
+      "source": "pre_existing",
+      "original_cz": "No, to je fascinující... To je opravdu zvláštní."
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "It's a good thing you brought them to me. We have to make sure Ursula doesn't get her hands on any of these...",
+      "cz": "Je dobře, že jsi mi je přinesl. Musíme se ujistit, že se k ničemu z toho Ursula nedostane...",
+      "source": "pre_existing",
+      "original_cz": "Je dobře, že jsi mi je přinesl. Musíme se ujistit, že se k ničemu z toho Ursula nedostane..."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "I'll need some time in the Library to research them... and some experiments may be required.",
+      "cz": "Budu potřebovat nějaký čas v knihovně, abych je prozkoumal... a možná bude potřeba provést i nějaké experimenty.",
+      "source": "pre_existing",
+      "original_cz": "Budu potřebovat nějaký čas v knihovně, abych je prozkoumal... a možná bude potřeba provést i nějaké experimenty."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "I expect they'll keep me busy for quite a while.",
+      "cz": "Myslím, že mě na docela dlouho zaměstná.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že mě na docela dlouho zaměstná."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "It's so cute when you get into your hobbies!",
+      "cz": "Je to tak roztomilé, když se věnuješ svým koníčkům!",
+      "source": "pre_existing",
+      "original_cz": "Je to tak roztomilé, když se věnuješ svým koníčkům!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Think you'll be able to make something useful out of them?",
+      "cz": "Myslíš, že z nich budeš schopen/schopna něco užitečného vyrobit?",
+      "source": "pre_existing",
+      "original_cz": "Myslíš, že z nich budeš schopen/schopna něco užitečného vyrobit?"
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "\"Cute\"? \"Hobbies\"?! I'll have you know my research is serious business!",
+      "cz": "\"Roztomilý\"? \"Koníčky\"?! Abys věděl/a, že můj výzkum je vážná věc!",
+      "source": "pre_existing",
+      "original_cz": "\"Roztomilý\"? \"Koníčky\"?! Abys věděl/a, že můj výzkum je vážná věc!"
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "Although, I do have quite a lot of fun doing it, I'll admit...",
+      "cz": "I když přiznávám, že si u toho docela užívám zábavu...",
+      "source": "pre_existing",
+      "original_cz": "I když přiznávám, že si u toho docela užívám zábavu..."
+    },
+    {
+      "key": "Merlin_012_f",
+      "en": "In any case, I'd like to give you something to thank you for bringing me such an interesting project.",
+      "cz": "V každém případě bych vám rád poděkoval za to, že jste mi přinesl tak zajímavý projekt.",
+      "source": "pre_existing",
+      "original_cz": "V každém případě bych vám rád poděkoval za to, že jste mi přinesl tak zajímavý projekt."
+    },
+    {
+      "key": "Merlin_013_f",
+      "en": "I was doing some research with these earlier, but they're of no use to me now. Use them wisely!",
+      "cz": "Dříve jsem si o nich něco zkoumal, ale teď mi nejsou k ničemu. Používejte je moudře!",
+      "source": "pre_existing",
+      "original_cz": "Dříve jsem si o nich něco zkoumal, ale teď mi nejsou k ničemu. Používejte je moudře!"
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "I suspect I can discover myriad uses. Possibly even something as useful as indoor plumbing.",
+      "cz": "Myslím, že bych mohl objevit nespočet využití. Možná i něco tak užitečného, ​​jako je vnitřní instalatérství.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že bych mohl objevit nespočet využití. Možná i něco tak užitečného, ​​jako je vnitřní instalatérství."
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "But more investigation is in order!",
+      "cz": "Ale je na místě další vyšetřování!",
+      "source": "pre_existing",
+      "original_cz": "Ale je na místě další vyšetřování!"
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Why, er, they seem to be a peculiar type of flora. I suspect they're native to Eternity Isle.",
+      "cz": "No, ehm, zdá se, že jsou to zvláštní druhy flóry. Mám podezření, že pocházejí z Eternity Isle.",
+      "source": "pre_existing",
+      "original_cz": "No, ehm, zdá se, že jsou to zvláštní druhy flóry. Mám podezření, že pocházejí z Eternity Isle."
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "Like them? Well, I'm certainly intrigued by them. They seem to grow only on Eternity Isle.",
+      "cz": "Líbí se vám? No, mě rozhodně zaujaly. Zdá se, že rostou jen na Ostrově věčnosti.",
+      "source": "pre_existing",
+      "original_cz": "Líbí se vám? No, mě rozhodně zaujaly. Zdá se, že rostou jen na Ostrově věčnosti."
+    }
+  ],
+  "ExpansionMain_Merlin/Merlin_VLG_Gast_020_VLG_Gast_020_TalkTo03.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "Merlin! Gaston and I found a brush in the desert — could it belong to you?",
+      "cz": "Merline! S Gastonem jsme v poušti našli štětec – mohl by patřit tobě?",
+      "source": "pre_existing",
+      "original_cz": "Merline! S Gastonem jsme v poušti našli štětec – mohl by patřit tobě?"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "You know, it just might! I had completely forgotten about my beard brush!",
+      "cz": "Víš, možná to tak je! Úplně jsem zapomněl na kartáč na vousy!",
+      "source": "pre_existing",
+      "original_cz": "Víš, možná to tak je! Úplně jsem zapomněl na kartáč na vousy!"
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Great! I'll get Gaston to bring it back to you.",
+      "cz": "Skvělé! Řeknu Gastonovi, aby ti to přinesl.",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Řeknu Gastonovi, aby ti to přinesl."
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "Mickey gave that to me as a gift, long before the Forgetting.",
+      "cz": "Mickey mi to dal jako dárek, dávno před Zapomněním.",
+      "source": "pre_existing",
+      "original_cz": "Mickey mi to dal jako dárek, dávno před Zapomněním."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "And well, my beard has been rather out of sorts. I'll be glad to brush it thoroughly!",
+      "cz": "A taky, moje vousy jsou dost špatně. Rád si je důkladně vyčešu!",
+      "source": "pre_existing",
+      "original_cz": "A taky, moje vousy jsou dost špatně. Rád si je důkladně vyčešu!"
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "Thank you, {PlayerName}!",
+      "cz": "Děkuji, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Děkuji, {PlayerName}!"
+    }
+  ],
+  "ExpansionMain_Merlin/Merlin_VLG_Rapu_030_VLG_Rapu_030_TalkTo02.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Hey, Merlin! Do you know anything about time magic?",
+      "cz": "Hej, Merline! Víš něco o časové magii?",
+      "source": "pre_existing",
+      "original_cz": "Hej, Merline! Víš něco o časové magii?"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "I'm afraid you'll have to be more specific. Time travel? Freezing time? Making time fly?",
+      "cz": "Obávám se, že budete muset být konkrétnější. Cestování v čase? Zmrazení času? Nechat čas plynout?",
+      "source": "pre_existing",
+      "original_cz": "Obávám se, že budete muset být konkrétnější. Cestování v čase? Zmrazení času? Nechat čas plynout?"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Uh... No. A sort of time spell with Sundrop petals that can help Mother Gothel keep her youth.",
+      "cz": "Ehm... Ne. Nějaké časové kouzlo s okvětními lístky Sluneční kapky, které může pomoci Matce Gothel udržet si mládí.",
+      "source": "pre_existing",
+      "original_cz": "Ehm... Ne. Nějaké časové kouzlo s okvětními lístky Sluneční kapky, které může pomoci Matce Gothel udržet si mládí."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "I'm afraid I don't. The preservation of youth hasn't been a field of study I've pursued. Why, just look at my beard! Ha-ha!",
+      "cz": "Obávám se, že ne. Zachování mládí nebylo oborem, kterým bych se zabýval. Jen se podívejte na můj vous! Haha!",
+      "source": "pre_existing",
+      "original_cz": "Obávám se, že ne. Zachování mládí nebylo oborem, kterým bych se zabýval. Jen se podívejte na můj vous! Haha!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "It's an impressive beard.",
+      "cz": "Je to impozantní vous.",
+      "source": "pre_existing",
+      "original_cz": "Je to impozantní vous."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "So... you DON'T know about an eternal youth charm?",
+      "cz": "Takže... nevíte o kouzlu věčného mládí?",
+      "source": "pre_existing",
+      "original_cz": "Takže... nevíte o kouzlu věčného mládí?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I thought it was a costume beard.",
+      "cz": "Myslel jsem, že je to kostýmní vous.",
+      "source": "pre_existing",
+      "original_cz": "Myslel jsem, že je to kostýmní vous."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "Well, I'm rather proud of it, you know.",
+      "cz": "No, jsem na to docela hrdý, víš.",
+      "source": "pre_existing",
+      "original_cz": "No, jsem na to docela hrdý, víš."
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "{PlayerName}, I'm afraid I don't currently have the knowledge to help you or Mother Gothel stave off age. You might want to seek someone whose magical pursuits lie more in the vanity realm.",
+      "cz": "{PlayerName}, obávám se, že momentálně nemám dostatek znalostí, abych tobě nebo Matce Gothel pomohl oddálit stárnutí. Možná byste měl/a hledat někoho, jehož magické zájmy spadají spíše do sféry marnivosti.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, obávám se, že momentálně nemám dostatek znalostí, abych tobě nebo Matce Gothel pomohl oddálit stárnutí. Možná byste měl/a hledat někoho, jehož magické zájmy spadají spíše do sféry marnivosti."
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "You've divined my meaning perfectly! After all, to age is a privilege!",
+      "cz": "Dokonale jsi uhodl/a, co tím myslím! Koneckonců, stáří je privilegium!",
+      "source": "pre_existing",
+      "original_cz": "Dokonale jsi uhodl/a, co tím myslím! Koneckonců, stáří je privilegium!"
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "A costume — a COSTUME?! Hardly! I assure you this is all very genuine and earned with experience!",
+      "cz": "Kostým — KOSTÝM?! To sotva! Ujišťuji vás, že je to všechno velmi originální a získané zkušenostmi!",
+      "source": "pre_existing",
+      "original_cz": "Kostým — KOSTÝM?! To sotva! Ujišťuji vás, že je to všechno velmi originální a získané zkušenostmi!"
+    }
+  ],
+  "ExpansionMain_Merlin/SEC_E01_Merl_010.locbin": [
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_010_Any_CompletedRequestDescription",
+      "en": "Return to Merlin.",
+      "cz": "Zpět k Merlinovi.",
+      "source": "pre_existing",
+      "original_cz": "Zpět k Merlinovi."
+    },
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_010_CompletedStoryDescription",
+      "en": "You've recreated something from the past using the Timebending Table. It's time to return to Merlin and share the fruits of your experiment.",
+      "cz": "Pomocí Stolu ohýbání času jste znovu vytvořili něco z minulosti. Je čas vrátit se k Merlinovi a podělit se o plody svého experimentu.",
+      "source": "pre_existing",
+      "original_cz": "Pomocí Stolu ohýbání času jste znovu vytvořili něco z minulosti. Je čas vrátit se k Merlinovi a podělit se o plody svého experimentu."
+    },
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_010_DisplayName",
+      "en": "Village Project: Timeless Treasures",
+      "cz": "Vesnický projekt: Nadčasové poklady",
+      "source": "pre_existing",
+      "original_cz": "Vesnický projekt: Nadčasové poklady"
+    },
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_010_Group01_Step01_Decorate01_StepDescription",
+      "en": "Place the <ActivityItem>Timebending Table</ActivityItem> Merlin gave you anywhere on Eternity Isle.",
+      "cz": "Umístěte <ActivityItem>Stůl ohýbání času</ActivityItem>, který vám Merlin dal, kamkoli na Eternity Isle.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte <ActivityItem>Stůl ohýbání času</ActivityItem>, který vám Merlin dal, kamkoli na Eternity Isle."
+    },
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_010_Group02_Step02_StepDescription",
+      "en": "(Use your Hourglass to search for the pieces you need!)",
+      "cz": "(Použijte přesýpací hodiny k nalezení potřebných dílků!)",
+      "source": "pre_existing",
+      "original_cz": "(Použijte přesýpací hodiny k nalezení potřebných dílků!)"
+    },
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_010_Group02_StepDescription",
+      "en": "Use the Timebending Table to craft any <ActivityItem>Furniture</ActivityItem>.",
+      "cz": "Použijte stůl ohýbání času k výrobě libovolného <ActivityItem>nábytku</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Použijte stůl ohýbání času k výrobě libovolného <ActivityItem>nábytku</ActivityItem>."
+    },
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_010_Group02_StoryDescription",
+      "en": "Merlin gives you a Timebending Table and asks you to do some research by crafting something with it.",
+      "cz": "Merlin vám dá Stůl pro ohýbání času a požádá vás, abyste si s ním něco vyrobili.",
+      "source": "pre_existing",
+      "original_cz": "Merlin vám dá Stůl pro ohýbání času a požádá vás, abyste si s ním něco vyrobili."
+    },
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_010_Group03_Step03_TalkToCharacter01_StepDescription",
+      "en": "Talk to Merlin.",
+      "cz": "Promluvte si s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Merlinem."
+    },
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_010_Group03_StepDescription",
+      "en": "Merlin must know more about the magic of this Hourglass...",
+      "cz": "Merlin musí vědět víc o magii těchto přesýpacích hodin...",
+      "source": "pre_existing",
+      "original_cz": "Merlin musí vědět víc o magii těchto přesýpacích hodin..."
+    }
+  ],
+  "ExpansionMain_Merlin/SEC_E01_Merl_020.locbin": [
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_020_Any_CompletedRequestDescription",
+      "en": "Return to Merlin.",
+      "cz": "Zpět k Merlinovi.",
+      "source": "pre_existing",
+      "original_cz": "Zpět k Merlinovi."
+    },
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_020_AvailableDescription",
+      "en": "There's a lot of junk around Eternity Isle, blocking your way and keeping you from decorating.",
+      "cz": "Kolem Eternity Isle je spousta harampádí, které vám blokuje cestu a brání vám v zdobení.",
+      "source": "pre_existing",
+      "original_cz": "Kolem Eternity Isle je spousta harampádí, které vám blokuje cestu a brání vám v zdobení."
+    },
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_020_CompletedStoryDescription",
+      "en": "You use the Timebending Table to infuse your Royal Tools with magic. You should be able to clear away much of that pesky debris littering Eternity Isle now.",
+      "cz": "Používáš Stůl ohýbání času k naplnění svých Královských nástrojů magií. Teď bys měl být schopen odstranit většinu těch otravných trosek, které pokrývají Eternity Isle.",
+      "source": "pre_existing",
+      "original_cz": "Používáš Stůl ohýbání času k naplnění svých Královských nástrojů magií. Teď bys měl být schopen odstranit většinu těch otravných trosek, které pokrývají Eternity Isle."
+    },
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_020_DisplayName",
+      "en": "Village Project: Timeless Trash",
+      "cz": "Vesnický projekt: Nadčasový odpad",
+      "source": "pre_existing",
+      "original_cz": "Vesnický projekt: Nadčasový odpad"
+    },
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_020_Group01_Step01_Conditional01_StepDescription",
+      "en": "<ActivityItem>Small Rubble Shovel Potion</ActivityItem>.",
+      "cz": "<ActivityItem>Lekštýl na lopatu na suť</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Lekštýl na lopatu na suť</ActivityItem>."
+    },
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_020_Group01_Step01_Conditional02_StepDescription",
+      "en": "<ActivityItem>Small Glass Stalagmite Pickaxe Potion</ActivityItem>.",
+      "cz": "<ActivityItem>Lektvar s krumpáčem z malého skleněného stalagmitu</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Lektvar s krumpáčem z malého skleněného stalagmitu</ActivityItem>."
+    },
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_020_Group01_Step01_Conditional03_StepDescription",
+      "en": "<ActivityItem>Small Evil Plant Watering Can Potion</ActivityItem>.",
+      "cz": "<ActivityItem>Lektvar z konve s malou zlou rostlinou</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Lektvar z konve s malou zlou rostlinou</ActivityItem>."
+    },
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_020_Group01_Step01_StepDescription",
+      "en": "Using the Timebending Table, craft and use the following:",
+      "cz": "Pomocí Stolu ohýbání času vyrobte a použijte následující:",
+      "source": "pre_existing",
+      "original_cz": "Pomocí Stolu ohýbání času vyrobte a použijte následující:"
+    },
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_020_Group01_StoryDescription",
+      "en": "Merlin thinks the Timebending Table's magic could be just what you need to remove those pesky obstacles.",
+      "cz": "Merlin si myslí, že magie Stolu ohýbání času by mohla být přesně to, co potřebuješ k odstranění těch otravných překážek.",
+      "source": "pre_existing",
+      "original_cz": "Merlin si myslí, že magie Stolu ohýbání času by mohla být přesně to, co potřebuješ k odstranění těch otravných překážek."
+    },
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_020_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Talk to Merlin for help removing it.",
+      "cz": "Promluvte si s Merlinem o pomoc s jeho odstraněním.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Merlinem o pomoc s jeho odstraněním."
+    },
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_020_Group02_StepDescription",
+      "en": "There sure is an awful lot of junk littering Eternity Isle...",
+      "cz": "Na Eternity Isle je opravdu spousta odpadků...",
+      "source": "pre_existing",
+      "original_cz": "Na Eternity Isle je opravdu spousta odpadků..."
+    }
+  ],
+  "ExpansionMain_Merlin/SEC_E01_Merl_030.locbin": [
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_030_Any_CompletedRequestDescription",
+      "en": "Return to Merlin.",
+      "cz": "Zpět k Merlinovi.",
+      "source": "pre_existing",
+      "original_cz": "Zpět k Merlinovi."
+    },
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_030_AvailableDescription",
+      "en": "Now that you've made your Hourglass more powerful, you might be able to use it to improve your Tools even further.",
+      "cz": "Nyní, když jste zesílili své přesýpací hodiny, můžete je použít k dalšímu vylepšení svých nástrojů.",
+      "source": "pre_existing",
+      "original_cz": "Nyní, když jste zesílili své přesýpací hodiny, můžete je použít k dalšímu vylepšení svých nástrojů."
+    },
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_030_CompletedStoryDescription",
+      "en": "You use the magic of the Timebending Table to empower your Royal Tools. Nothing will stop you now!",
+      "cz": "Používáš magii Stolu ohýbání času k posílení svých Královských nástrojů. Teď tě už nic nezastaví!",
+      "source": "pre_existing",
+      "original_cz": "Používáš magii Stolu ohýbání času k posílení svých Královských nástrojů. Teď tě už nic nezastaví!"
+    },
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_030_DisplayName",
+      "en": "Village Project: Timeless Tools",
+      "cz": "Vesnický projekt: Nadčasové nástroje",
+      "source": "pre_existing",
+      "original_cz": "Vesnický projekt: Nadčasové nástroje"
+    },
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_030_Group01_Step01_Conditional01_StepDescription",
+      "en": "<ActivityItem>Large Swirling Sands Hourglass Potion</ActivityItem>.",
+      "cz": "<ActivityItem>Velký lektvar přesýpacích hodin z Vířících písků</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Velký lektvar přesýpacích hodin z Vířících písků</ActivityItem>."
+    },
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_030_Group01_Step01_Conditional02_StepDescription",
+      "en": "<ActivityItem>Large Copper Rocks Pickaxe Potion</ActivityItem>.",
+      "cz": "<ActivityItem>Large Copper Rocks Pickaxe Potion</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Large Copper Rocks Pickaxe Potion</ActivityItem>."
+    },
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_030_Group01_Step01_Conditional03_StepDescription",
+      "en": "<ActivityItem>Large Rubble Shovel Potion</ActivityItem>.",
+      "cz": "<ActivityItem>Lektvar na velkou lopatu na suť</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Lektvar na velkou lopatu na suť</ActivityItem>."
+    },
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_030_Group01_Step01_Conditional04_StepDescription",
+      "en": "<ActivityItem>Large Glass Stalagmite Pickaxe Potion</ActivityItem>.",
+      "cz": "<ActivityItem>Lektvar s velkým skleněným stalagmitovým krumpáčem</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Lektvar s velkým skleněným stalagmitovým krumpáčem</ActivityItem>."
+    },
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_030_Group01_Step01_Conditional05_StepDescription",
+      "en": "<ActivityItem>Large Evil Plant Watering Can Potion</ActivityItem>.",
+      "cz": "<ActivityItem>Lektvar z konve na zalévání velké zlé rostliny</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Lektvar z konve na zalévání velké zlé rostliny</ActivityItem>."
+    },
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_030_Group01_Step01_StepDescription",
+      "en": "Using the Timebending Table, craft and use the following:",
+      "cz": "Pomocí Stolu ohýbání času vyrobte a použijte následující:",
+      "source": "pre_existing",
+      "original_cz": "Pomocí Stolu ohýbání času vyrobte a použijte následující:"
+    },
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_030_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Talk to Merlin.",
+      "cz": "Promluvte si s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Merlinem."
+    },
+    {
+      "key": "Secret!Expansion01!Merlin!SEC_E01_Merl_030_Group02_StepDescription",
+      "en": "Your Hourglass has grown more powerful...",
+      "cz": "Vaše přesýpací hodiny se staly silnějšími...",
+      "source": "pre_existing",
+      "original_cz": "Vaše přesýpací hodiny se staly silnějšími..."
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "Expansion02Main_Kristoff/Kristoff_VLG_Flyn_010_VLG_Flyn_010_TalkTo03.locbin": [
+    {
+      "key": "Kristoff_000_f",
+      "en": "Hey, {PlayerName}! It's good to see you.",
+      "cz": "Ahoj, {PlayerName}! Rád tě vidím.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}! Rád tě vidím."
+    },
+    {
+      "key": "Kristoff_001_f",
+      "en": "Hey Kristoff, do you have a second to help me out?",
+      "cz": "Ahoj Kristoffe, máš chvilku, abys mi pomohl?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj Kristoffe, máš chvilku, abys mi pomohl?"
+    },
+    {
+      "key": "Kristoff_002_f",
+      "en": "After everything you've done for me? Of course!",
+      "cz": "Po všem, co jsi pro mě udělal? Samozřejmě!",
+      "source": "pre_existing",
+      "original_cz": "Po všem, co jsi pro mě udělal? Samozřejmě!"
+    },
+    {
+      "key": "Kristoff_003_f",
+      "en": "It's about Flynn. Maleficent placed him under a curse. Now I think he feels...",
+      "cz": "Jde o Flynna. Zloba na něj uvalila kletbu. Teď si myslím, že cítí...",
+      "source": "pre_existing",
+      "original_cz": "Jde o Flynna. Zloba na něj uvalila kletbu. Teď si myslím, že cítí..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "...lonely.",
+      "cz": "...osamělý.",
+      "source": "pre_existing",
+      "original_cz": "...osamělý."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "...heartbroken.",
+      "cz": "...zlomené srdce.",
+      "source": "pre_existing",
+      "original_cz": "...zlomené srdce."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "...sad.",
+      "cz": "...smutné.",
+      "source": "pre_existing",
+      "original_cz": "...smutné."
+    },
+    {
+      "key": "Kristoff_004_f",
+      "en": "He's fighting it, but it's clear he misses somebody, and being the Wolf of the Wilds really messed with his head.",
+      "cz": "Bojuje s tím, ale je jasné, že mu někdo chybí, a to, že je Vlkem z divočiny, mu opravdu zamotalo hlavu.",
+      "source": "pre_existing",
+      "original_cz": "Bojuje s tím, ale je jasné, že mu někdo chybí, a to, že je Vlkem z divočiny, mu opravdu zamotalo hlavu."
+    },
+    {
+      "key": "Kristoff_006_f",
+      "en": "Oof, that sounds rough. What can I do?",
+      "cz": "Uf, to zní drsně. Co můžu dělat?",
+      "source": "pre_existing",
+      "original_cz": "Uf, to zní drsně. Co můžu dělat?"
+    },
+    {
+      "key": "Kristoff_007_f",
+      "en": "I was thinking you could lend an ear and get him to open up?",
+      "cz": "Myslel jsem, že bys ho mohl vyslechnout a přimět ho, aby se otevřel?",
+      "source": "pre_existing",
+      "original_cz": "Myslel jsem, že bys ho mohl vyslechnout a přimět ho, aby se otevřel?"
+    },
+    {
+      "key": "Kristoff_008_f",
+      "en": "I'm happy to give it a try. Let's <Lore>go to Flynn's House</Lore> and see if he'll talk to me.",
+      "cz": "Rád to zkusím. Pojďme <Lore>do Flynnova domu</Lore> a uvidíme, jestli si se mnou promluví.",
+      "source": "pre_existing",
+      "original_cz": "Rád to zkusím. Pojďme <Lore>do Flynnova domu</Lore> a uvidíme, jestli si se mnou promluví."
+    }
+  ],
+  "Expansion02Main_Kristoff/Kristoff_VLG_Flyn_010_VLG_Flyn_010_TalkTo04.locbin": [
+    {
+      "key": "Kristoff_000_f",
+      "en": "All right {PlayerName}, I'll try to talk to Flynn.",
+      "cz": "Dobře, {PlayerName}, zkusím si promluvit s Flynnem.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, {PlayerName}, zkusím si promluvit s Flynnem."
+    },
+    {
+      "key": "Player_000_f",
+      "en": "While you do that, I'm cleaning this place up.",
+      "cz": "Zatímco to budeš dělat, já tu uklízím.",
+      "source": "pre_existing",
+      "original_cz": "Zatímco to budeš dělat, já tu uklízím."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "A tidy place will help him feel better.",
+      "cz": "Uklizené místo mu pomůže cítit se lépe.",
+      "source": "pre_existing",
+      "original_cz": "Uklizené místo mu pomůže cítit se lépe."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "The clutter is getting to me.",
+      "cz": "Ten nepořádek mě štve.",
+      "source": "pre_existing",
+      "original_cz": "Ten nepořádek mě štve."
+    },
+    {
+      "key": "Player_000_choice_003_f",
+      "en": "This place is chaos!",
+      "cz": "Tohle místo je chaos!",
+      "source": "pre_existing",
+      "original_cz": "Tohle místo je chaos!"
+    },
+    {
+      "key": "Kristoff_003_f",
+      "en": "You're probably right.",
+      "cz": "Asi máš pravdu.",
+      "source": "pre_existing",
+      "original_cz": "Asi máš pravdu."
+    },
+    {
+      "key": "Kristoff_002_f",
+      "en": "I'm sure Flynn will appreciate your help.",
+      "cz": "Jsem si jistý, že Flynn vaši pomoc ocení.",
+      "source": "pre_existing",
+      "original_cz": "Jsem si jistý, že Flynn vaši pomoc ocení."
+    },
+    {
+      "key": "Kristoff_001_f",
+      "en": "Really? I didn't know you were the organizing type.",
+      "cz": "Vážně? Nevěděl jsem, že jsi organizátorský typ.",
+      "source": "pre_existing",
+      "original_cz": "Vážně? Nevěděl jsem, že jsi organizátorský typ."
+    },
+    {
+      "key": "Kristoff_004_f",
+      "en": "It's... not great.",
+      "cz": "To... není skvělé.",
+      "source": "pre_existing",
+      "original_cz": "To... není skvělé."
+    }
+  ],
+  "Expansion02Main_Kristoff/Kristoff_VLG_Flyn_010_VLG_Flyn_010_TalkTo05.locbin": [
+    {
+      "key": "Kristoff_000_f",
+      "en": "I had a good talk with Flynn.",
+      "cz": "Dobře jsem si popovídal s Flynnem.",
+      "source": "pre_existing",
+      "original_cz": "Dobře jsem si popovídal s Flynnem."
+    },
+    {
+      "key": "Kristoff_001_f",
+      "en": "And did he open up to you?",
+      "cz": "A otevřel se ti?",
+      "source": "pre_existing",
+      "original_cz": "A otevřel se ti?"
+    },
+    {
+      "key": "Kristoff_005_f",
+      "en": "Yeah. And you're right. The poor guy's hung up on a girl. But he wants to solve everything to do with Maleficent's curse before he goes looking for her again.",
+      "cz": "Jo. A máš pravdu. Ten chudák je po nějaké holce zamilovaný. Ale než se po ní znovu vydá hledat, chce vyřešit všechno, co souvisí s kletbou Zloby.",
+      "source": "pre_existing",
+      "original_cz": "Jo. A máš pravdu. Ten chudák je po nějaké holce zamilovaný. Ale než se po ní znovu vydá hledat, chce vyřešit všechno, co souvisí s kletbou Zloby."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Oh! Poor Flynn!",
+      "cz": "Ach! Chudák Flynn!",
+      "source": "pre_existing",
+      "original_cz": "Ach! Chudák Flynn!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "This is all Maleficent's fault!",
+      "cz": "Tohle všechno je Zloba!",
+      "source": "pre_existing",
+      "original_cz": "Tohle všechno je Zloba!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "That doesn't make sense!",
+      "cz": "To nedává smysl!",
+      "source": "pre_existing",
+      "original_cz": "To nedává smysl!"
+    },
+    {
+      "key": "Kristoff_006_f",
+      "en": "I know...",
+      "cz": "Já vím...",
+      "source": "pre_existing",
+      "original_cz": "Já vím..."
+    },
+    {
+      "key": "Kristoff_009_f",
+      "en": "Heartbreak isn't easy. Trust me; I'm familiar with it.",
+      "cz": "Zlomené srdce není snadné. Věřte mi, znám to.",
+      "source": "pre_existing",
+      "original_cz": "Zlomené srdce není snadné. Věřte mi, znám to."
+    },
+    {
+      "key": "Kristoff_013_f",
+      "en": "Even though I chose to wipe Anna from my memory for a good reason, it was hard to get over, even when I remembered her again.",
+      "cz": "I když jsem se rozhodl vymazat Annu ze své paměti z dobrého důvodu, bylo těžké se s tím vyrovnat, i když jsem si na ni znovu vzpomněl.",
+      "source": "pre_existing",
+      "original_cz": "I když jsem se rozhodl vymazat Annu ze své paměti z dobrého důvodu, bylo těžké se s tím vyrovnat, i když jsem si na ni znovu vzpomněl."
+    },
+    {
+      "key": "Kristoff_014_f",
+      "en": "You can't feel good when you think you hurt someone you love, even unintentionally.",
+      "cz": "Nemůžete se cítit dobře, když si myslíte, že jste ublížili někomu, koho milujete, i když neúmyslně.",
+      "source": "pre_existing",
+      "original_cz": "Nemůžete se cítit dobře, když si myslíte, že jste ublížili někomu, koho milujete, i když neúmyslně."
+    },
+    {
+      "key": "Kristoff_015_f",
+      "en": "Flynn just needs to know that if he needs help getting to the bottom of what happened with Maleficent... I'll be there for him.",
+      "cz": "Flynn jen potřebuje vědět, že pokud bude potřebovat pomoc s vyřešením situace se Zlobou... budu tu pro něj.",
+      "source": "pre_existing",
+      "original_cz": "Flynn jen potřebuje vědět, že pokud bude potřebovat pomoc s vyřešením situace se Zlobou... budu tu pro něj."
+    },
+    {
+      "key": "Kristoff_016_f",
+      "en": "You should tell him that. I think he'd really appreciate it.",
+      "cz": "Měl bys mu to říct. Myslím, že by to opravdu ocenil.",
+      "source": "pre_existing",
+      "original_cz": "Měl bys mu to říct. Myslím, že by to opravdu ocenil."
+    },
+    {
+      "key": "Kristoff_017_f",
+      "en": "Thanks for your help, Kristoff.",
+      "cz": "Děkuji za tvou pomoc, Kristoffe.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji za tvou pomoc, Kristoffe."
+    },
+    {
+      "key": "Kristoff_018_f",
+      "en": "The more I get to know Anna, the harder it is to see her upset that I don't remember her.",
+      "cz": "Čím víc Annu poznávám, tím těžší je vidět ji naštvanou, že si ji nepamatuji.",
+      "source": "pre_existing",
+      "original_cz": "Čím víc Annu poznávám, tím těžší je vidět ji naštvanou, že si ji nepamatuji."
+    },
+    {
+      "key": "Kristoff_019_f",
+      "en": "I don't feel good knowing she's hurting, no matter what happened.",
+      "cz": "Není mi dobře vědět, že trpí, ať se stalo cokoli.",
+      "source": "pre_existing",
+      "original_cz": "Není mi dobře vědět, že trpí, ať se stalo cokoli."
+    },
+    {
+      "key": "Kristoff_007_f",
+      "en": "That curse sure did a number on him. But it's even deeper than that.",
+      "cz": "Ta kletba ho vážně zasáhla. Ale je to ještě hlubší.",
+      "source": "pre_existing",
+      "original_cz": "Ta kletba ho vážně zasáhla. Ale je to ještě hlubší."
+    },
+    {
+      "key": "Kristoff_010_f",
+      "en": "He's lonely. I can understand that.",
+      "cz": "Je osamělý. Chápu to.",
+      "source": "pre_existing",
+      "original_cz": "Je osamělý. Chápu to."
+    },
+    {
+      "key": "Kristoff_008_f",
+      "en": "Feelings are complicated and confusing... not always clean-cut like a block of ice.",
+      "cz": "Pocity jsou složité a matoucí... ne vždycky jsou jasné jako blok ledu.",
+      "source": "pre_existing",
+      "original_cz": "Pocity jsou složité a matoucí... ne vždycky jsou jasné jako blok ledu."
+    },
+    {
+      "key": "Kristoff_011_f",
+      "en": "And heartbreak is not an easy thing to get through. I know.",
+      "cz": "A zlomené srdce není snadné překonat. Já vím.",
+      "source": "pre_existing",
+      "original_cz": "A zlomené srdce není snadné překonat. Já vím."
+    }
+  ]
+}

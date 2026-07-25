@@ -1,0 +1,831 @@
+{
+  "Aladdin_Ursula/Ursula_Barks_Bark003.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Now to find my next... bargain.",
+      "cz": "Teď zrovna najdu svou další... výhodnou koupi.",
+      "source": "pre_existing",
+      "original_cz": "Teď zrovna najdu svou další... výhodnou koupi."
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Barks_Bark004.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Watch out, angelfishes. The tides are turning.",
+      "cz": "Pozor, andělské rybky. Příliv se mění.",
+      "source": "pre_existing",
+      "original_cz": "Pozor, andělské rybky. Příliv se mění."
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Barks_Bark005.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "When someone wants something enough, I can make them wriggle like a worm on a hook.",
+      "cz": "Když někdo něco chce dost, dokážu ho donutit se kroutit jako červ na háčku.",
+      "source": "pre_existing",
+      "original_cz": "Když někdo něco chce dost, dokážu ho donutit se kroutit jako červ na háčku."
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Barks_Bark006.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "I always know what I want. Deal with it!",
+      "cz": "Vždycky vím, co chci. Smiř se s tím!",
+      "source": "pre_existing",
+      "original_cz": "Vždycky vím, co chci. Smiř se s tím!"
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Barks_Bark007.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "It's more fun to be in charge... But you know that, don't you?",
+      "cz": "Je větší zábava být ve vedení... Ale to přece víš, ne?",
+      "source": "pre_existing",
+      "original_cz": "Je větší zábava být ve vedení... Ale to přece víš, ne?"
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Barks_Bark008.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "You know what they say, \"Happy is the sea witch who wears the crown.\"",
+      "cz": "Víte, co se říká: „Šťastná je mořská čarodějnice, která nosí korunu.“",
+      "source": "pre_existing",
+      "original_cz": "Víte, co se říká: „Šťastná je mořská čarodějnice, která nosí korunu.“"
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Barks_Bark009.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Look at me! Pining away for my own dreams. Who's going to help ME, I ask you?",
+      "cz": "Podívejte se na mě! Toužím po svých vlastních snech. Kdo mi pomůže, ptám se vás?",
+      "source": "pre_existing",
+      "original_cz": "Podívejte se na mě! Toužím po svých vlastních snech. Kdo mi pomůže, ptám se vás?"
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Barks_Bark010.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "You try to help ONE daughter of the Sea King and suddenly everyone's a CRITIC.",
+      "cz": "Snažíš se pomoct JEDNÉ dceři Mořského krále a najednou jsou všichni KRITICÍ.",
+      "source": "pre_existing",
+      "original_cz": "Snažíš se pomoct JEDNÉ dceři Mořského krále a najednou jsou všichni KRITICÍ."
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Barks_Bark011.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Don't worry; I'm no tiger shark.",
+      "cz": "Neboj se, nejsem tygří žralok.",
+      "source": "pre_existing",
+      "original_cz": "Neboj se, nejsem tygří žralok."
+    },
+    {
+      "key": "Ursula_001_f",
+      "en": "Perhaps I can be of assistance...",
+      "cz": "Možná můžu být nápomocný/á...",
+      "source": "pre_existing",
+      "original_cz": "Možná můžu být nápomocný/á..."
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Barks_Bark012.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "I LOVE helping people follow their heart's desire.",
+      "cz": "MILUJI pomáhat lidem následovat touhu jejich srdce.",
+      "source": "pre_existing",
+      "original_cz": "MILUJI pomáhat lidem následovat touhu jejich srdce."
+    },
+    {
+      "key": "Ursula_001_f",
+      "en": "Remember: I'm used to a certain lifestyle!",
+      "cz": "Pamatujte: Jsem zvyklý na určitý životní styl!",
+      "source": "pre_existing",
+      "original_cz": "Pamatujte: Jsem zvyklý na určitý životní styl!"
+    }
+  ],
+  "Aladdin_Ursula/Ursula_CrossNPCDialogues_Ursula_Beast_Conversation001.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "So, Beast... Let's talk.",
+      "cz": "Takže, Bestie... Pojďme si promluvit.",
+      "source": "pre_existing",
+      "original_cz": "Takže, Bestie... Pojďme si promluvit."
+    },
+    {
+      "key": "Ursula_001_f",
+      "en": "Yes? About what?",
+      "cz": "Ano? O čem?",
+      "source": "pre_existing",
+      "original_cz": "Ano? O čem?"
+    },
+    {
+      "key": "Ursula_002_f",
+      "en": "Are you and Belle... in love? How did you do it? A potion? A spell?",
+      "cz": "Jste s Belle... zamilovaní? Jak jste to udělali? Lektvarem? Kouzlem?",
+      "source": "pre_existing",
+      "original_cz": "Jste s Belle... zamilovaní? Jak jste to udělali? Lektvarem? Kouzlem?"
+    },
+    {
+      "key": "Ursula_003_f",
+      "en": "Go on; don't be bashful.",
+      "cz": "No tak, nebuď stydlivý.",
+      "source": "pre_existing",
+      "original_cz": "No tak, nebuď stydlivý."
+    },
+    {
+      "key": "Ursula_004_f",
+      "en": "I care a great deal for Belle, and I hope she has grown fond of me as well.",
+      "cz": "Na Belle mi moc záleží a doufám, že si mě taky oblíbila.",
+      "source": "pre_existing",
+      "original_cz": "Na Belle mi moc záleží a doufám, že si mě taky oblíbila."
+    },
+    {
+      "key": "Ursula_005_f",
+      "en": "Hmm... interesting...",
+      "cz": "Hmm... zajímavé...",
+      "source": "pre_existing",
+      "original_cz": "Hmm... zajímavé..."
+    }
+  ],
+  "Aladdin_Ursula/Ursula_CrossNPCDialogues_Ursula_Kristoff_Conversation001.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Kristoff! What's an ice harvester like you doing in the Valley?",
+      "cz": "Kristoffe! Co dělá takový ledový kombajn jako ty v údolí?",
+      "source": "pre_existing",
+      "original_cz": "Kristoffe! Co dělá takový ledový kombajn jako ty v údolí?"
+    },
+    {
+      "key": "Ursula_001_f",
+      "en": "I'm gathering flowers and seashells for Anna.",
+      "cz": "Sbírám květiny a mušle pro Annu.",
+      "source": "pre_existing",
+      "original_cz": "Sbírám květiny a mušle pro Annu."
+    },
+    {
+      "key": "Ursula_002_f",
+      "en": "Young love? Oh, how quaint. Perhaps I could help...",
+      "cz": "Mladá láska? Ach, jak zvláštní. Možná bych mohl/a pomoct...",
+      "source": "pre_existing",
+      "original_cz": "Mladá láska? Ach, jak zvláštní. Možná bych mohl/a pomoct..."
+    },
+    {
+      "key": "Ursula_003_f",
+      "en": "Ahh... I don't think so.",
+      "cz": "Ááá... To si nemyslím.",
+      "source": "pre_existing",
+      "original_cz": "Ááá... To si nemyslím."
+    },
+    {
+      "key": "Ursula_004_f",
+      "en": "Pishposh. I'm sure you could use a little help if you want to get the girl...",
+      "cz": "Pishposh. Určitě by se ti hodila trocha pomoci, pokud chceš tu holku získat...",
+      "source": "pre_existing",
+      "original_cz": "Pishposh. Určitě by se ti hodila trocha pomoci, pokud chceš tu holku získat..."
+    },
+    {
+      "key": "Ursula_005_f",
+      "en": "No thanks. I get the feeling there are strings attached.",
+      "cz": "Ne, děkuji. Mám pocit, že je mezi tím něco závazného.",
+      "source": "pre_existing",
+      "original_cz": "Ne, děkuji. Mám pocit, že je mezi tím něco závazného."
+    },
+    {
+      "key": "Ursula_006_f",
+      "en": "Don't get so heated, dearie; your ice will melt.",
+      "cz": "Nerozpaluj se tolik, drahoušku, tvůj led roztaje.",
+      "source": "pre_existing",
+      "original_cz": "Nerozpaluj se tolik, drahoušku, tvůj led roztaje."
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Discussion_Discussion023.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "I've been thinking, dearie. Most of our fellow Villagers are humans... with legs.",
+      "cz": "Přemýšlela jsem, drahoušku. Většina našich vesničanů jsou lidé... s nohama.",
+      "source": "pre_existing",
+      "original_cz": "Přemýšlela jsem, drahoušku. Většina našich vesničanů jsou lidé... s nohama."
+    },
+    {
+      "key": "Ursula_001_f",
+      "en": "And...?",
+      "cz": "A...?",
+      "source": "pre_existing",
+      "original_cz": "A...?"
+    },
+    {
+      "key": "Ursula_002_f",
+      "en": "I wonder... would any of them wish to have a tail instead?",
+      "cz": "Zajímalo by mě... přál by si některý z nich mít místo toho ocas?",
+      "source": "pre_existing",
+      "original_cz": "Zajímalo by mě... přál by si některý z nich mít místo toho ocas?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Everyone seems happy.",
+      "cz": "Všichni se zdají být šťastní.",
+      "source": "pre_existing",
+      "original_cz": "Všichni se zdají být šťastní."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "What kind of tail?",
+      "cz": "Jaký druh ocasu?",
+      "source": "pre_existing",
+      "original_cz": "Jaký druh ocasu?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "You're up to something...",
+      "cz": "Něco chystáš...",
+      "source": "pre_existing",
+      "original_cz": "Něco chystáš..."
+    },
+    {
+      "key": "Ursula_003_f",
+      "en": "Yes. But is it all just a show?",
+      "cz": "Ano. Ale je to všechno jen představení?",
+      "source": "pre_existing",
+      "original_cz": "Ano. Ale je to všechno jen představení?"
+    },
+    {
+      "key": "Ursula_008_f",
+      "en": "After all, I do have great powers.",
+      "cz": "Koneckonců, mám velké schopnosti.",
+      "source": "pre_existing",
+      "original_cz": "Koneckonců, mám velké schopnosti."
+    },
+    {
+      "key": "Ursula_011_f",
+      "en": "I think you should avoid messing with people, Ursula.",
+      "cz": "Myslím, že by ses měla vyhýbat zabývání se lidmi, Ursulo.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že by ses měla vyhýbat zabývání se lidmi, Ursulo."
+    },
+    {
+      "key": "Ursula_012_f",
+      "en": "Oh, you're no fun.",
+      "cz": "Jé, nejsi žádná legrace.",
+      "source": "pre_existing",
+      "original_cz": "Jé, nejsi žádná legrace."
+    },
+    {
+      "key": "Ursula_006_f",
+      "en": "Oh, whichever they'd like... fish, shark, perhaps something in the eel family.",
+      "cz": "Ach, cokoli by si přáli... rybu, žraloka, možná něco z čeledi úhořovitých.",
+      "source": "pre_existing",
+      "original_cz": "Ach, cokoli by si přáli... rybu, žraloka, možná něco z čeledi úhořovitých."
+    },
+    {
+      "key": "Ursula_009_f",
+      "en": "I could do it all! If we strike the right bargain, that is.",
+      "cz": "Zvládnu všechno! Pokud se ovšem dobře dohodneme.",
+      "source": "pre_existing",
+      "original_cz": "Zvládnu všechno! Pokud se ovšem dobře dohodneme."
+    },
+    {
+      "key": "Ursula_007_f",
+      "en": "Ugh. Are you implying I can't be trusted?",
+      "cz": "Fuj. Naznačuješ tím, že mi nelze věřit?",
+      "source": "pre_existing",
+      "original_cz": "Fuj. Naznačuješ tím, že mi nelze věřit?"
+    },
+    {
+      "key": "Ursula_010_f",
+      "en": "My contracts have all the smallest details spelled out... if you bother to read them.",
+      "cz": "Moje smlouvy mají všechny ty nejmenší detaily rozepsané... pokud se obtěžujete si je přečíst.",
+      "source": "pre_existing",
+      "original_cz": "Moje smlouvy mají všechny ty nejmenší detaily rozepsané... pokud se obtěžujete si je přečíst."
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Discussion_Discussion024.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Good news. I've decided to turn over a new frond.",
+      "cz": "Dobrá zpráva. Rozhodl jsem se obrátit novou větev.",
+      "source": "pre_existing",
+      "original_cz": "Dobrá zpráva. Rozhodl jsem se obrátit novou větev."
+    },
+    {
+      "key": "Ursula_001_f",
+      "en": "Oh really?",
+      "cz": "Vážně?",
+      "source": "pre_existing",
+      "original_cz": "Vážně?"
+    },
+    {
+      "key": "Ursula_002_f",
+      "en": "Yes! I want to help ALL the poor, unfortunate souls.",
+      "cz": "Ano! Chci pomoci VŠEM chudým, nešťastným duším.",
+      "source": "pre_existing",
+      "original_cz": "Ano! Chci pomoci VŠEM chudým, nešťastným duším."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "That's wonderful!",
+      "cz": "To je úžasné!",
+      "source": "pre_existing",
+      "original_cz": "To je úžasné!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I don't believe you.",
+      "cz": "Nevěřím ti.",
+      "source": "pre_existing",
+      "original_cz": "Nevěřím ti."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I'm glad I'm having a positive influence on you!",
+      "cz": "Jsem rád/a, že na tebe mám pozitivní vliv!",
+      "source": "pre_existing",
+      "original_cz": "Jsem rád/a, že na tebe mám pozitivní vliv!"
+    },
+    {
+      "key": "Ursula_003_f",
+      "en": "It is, isn't it?",
+      "cz": "Je to tak, že?",
+      "source": "pre_existing",
+      "original_cz": "Je to tak, že?"
+    },
+    {
+      "key": "Ursula_008_f",
+      "en": "Now tell me, how do I get perceived as... \"good\"?",
+      "cz": "A teď mi řekněte, jak můžu být vnímán jako... \"dobrý\"?",
+      "source": "pre_existing",
+      "original_cz": "A teď mi řekněte, jak můžu být vnímán jako... \"dobrý\"?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Do good deeds and expect nothing in return.",
+      "cz": "Konejte dobré skutky a nic na oplátku nečekejte.",
+      "source": "pre_existing",
+      "original_cz": "Konejte dobré skutky a nic na oplátku nečekejte."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Be a good friend.",
+      "cz": "Buď dobrým přítelem.",
+      "source": "pre_existing",
+      "original_cz": "Buď dobrým přítelem."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Start by not making unfair deals with your clients!",
+      "cz": "Začněte tím, že se svými klienty nebudete uzavírat nekalé dohody!",
+      "source": "pre_existing",
+      "original_cz": "Začněte tím, že se svými klienty nebudete uzavírat nekalé dohody!"
+    },
+    {
+      "key": "Ursula_009_f",
+      "en": "HA-HA-HA!",
+      "cz": "HA-HA-HA!",
+      "source": "pre_existing",
+      "original_cz": "HA-HA-HA!"
+    },
+    {
+      "key": "Ursula_012_f",
+      "en": "Oh my... you're serious.",
+      "cz": "Ach jo... to myslíš vážně.",
+      "source": "pre_existing",
+      "original_cz": "Ach jo... to myslíš vážně."
+    },
+    {
+      "key": "Ursula_015_f",
+      "en": "Being a good person isn't hard; you just need a little practice.",
+      "cz": "Být dobrým člověkem není těžké, stačí jen trochu cviku.",
+      "source": "pre_existing",
+      "original_cz": "Být dobrým člověkem není těžké, stačí jen trochu cviku."
+    },
+    {
+      "key": "Ursula_016_f",
+      "en": "P-practice? How boring. I thought it would be easier.",
+      "cz": "P-trénink? Jak nudný. Myslel jsem, že to bude jednodušší.",
+      "source": "pre_existing",
+      "original_cz": "P-trénink? Jak nudný. Myslel jsem, že to bude jednodušší."
+    },
+    {
+      "key": "Ursula_017_f",
+      "en": "Well, I suppose... If it's not broken, why fix it, right?",
+      "cz": "No, asi... Když to není rozbité, proč to opravovat, že?",
+      "source": "pre_existing",
+      "original_cz": "No, asi... Když to není rozbité, proč to opravovat, že?"
+    },
+    {
+      "key": "Ursula_010_f",
+      "en": "Oh, but I'm already a fabulous friend!",
+      "cz": "Ale já už jsem skvělá kamarádka!",
+      "source": "pre_existing",
+      "original_cz": "Ale já už jsem skvělá kamarádka!"
+    },
+    {
+      "key": "Ursula_013_f",
+      "en": "I'm always happy to help... I just ask a little something in return. You can't get something for nothing, you know.",
+      "cz": "Vždycky rád pomůžu... Jen na oplátku žádám o něco málo. Víš, nic nedostaneš zadarmo.",
+      "source": "pre_existing",
+      "original_cz": "Vždycky rád pomůžu... Jen na oplátku žádám o něco málo. Víš, nic nedostaneš zadarmo."
+    },
+    {
+      "key": "Ursula_011_f",
+      "en": "Unfair? Dearie, I'm completely straightforward when I strike a deal.",
+      "cz": "Nefér? Draháčku, když uzavírám dohody, jsem naprosto upřímný.",
+      "source": "pre_existing",
+      "original_cz": "Nefér? Draháčku, když uzavírám dohody, jsem naprosto upřímný."
+    },
+    {
+      "key": "Ursula_014_f",
+      "en": "My contracts are legal, binding, and completely unbreakable.",
+      "cz": "Moje smlouvy jsou legální, závazné a zcela neporušitelné.",
+      "source": "pre_existing",
+      "original_cz": "Moje smlouvy jsou legální, závazné a zcela neporušitelné."
+    },
+    {
+      "key": "Ursula_004_f",
+      "en": "You poor, naïve dear.",
+      "cz": "Ty chudáčku, naivní drahoušku.",
+      "source": "pre_existing",
+      "original_cz": "Ty chudáčku, naivní drahoušku."
+    },
+    {
+      "key": "Ursula_005_f",
+      "en": "Yes. So it seems.",
+      "cz": "Ano. Zdá se, že ano.",
+      "source": "pre_existing",
+      "original_cz": "Ano. Zdá se, že ano."
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Discussion_Discussion025.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Well dearie, I'm thinking of a new look. There's nothing to improve, of course. I'm just looking for a bit of a refresh.",
+      "cz": "No, drahoušku, přemýšlím o novém vzhledu. Samozřejmě není co vylepšovat. Jen hledám trochu osvěžení.",
+      "source": "pre_existing",
+      "original_cz": "No, drahoušku, přemýšlím o novém vzhledu. Samozřejmě není co vylepšovat. Jen hledám trochu osvěžení."
+    },
+    {
+      "key": "Ursula_001_f",
+      "en": "How would you improve on my perfection?",
+      "cz": "Jak bys vylepšil/a mou dokonalost?",
+      "source": "pre_existing",
+      "original_cz": "Jak bys vylepšil/a mou dokonalost?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I wouldn't change a thing.",
+      "cz": "Nic bych neměnil/a.",
+      "source": "pre_existing",
+      "original_cz": "Nic bych neměnil/a."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Maybe a cool hat?",
+      "cz": "Možná nějaká parádní čepice?",
+      "source": "pre_existing",
+      "original_cz": "Možná nějaká parádní čepice?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I'm not sure...",
+      "cz": "Nejsem si jistý...",
+      "source": "pre_existing",
+      "original_cz": "Nejsem si jistý..."
+    },
+    {
+      "key": "Ursula_002_f",
+      "en": "Hmm... you do make a good point.",
+      "cz": "Hmm... máte dobrý postřeh.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... máte dobrý postřeh."
+    },
+    {
+      "key": "Ursula_005_f",
+      "en": "Why mess with perfection?",
+      "cz": "Proč si zahrávat s dokonalostí?",
+      "source": "pre_existing",
+      "original_cz": "Proč si zahrávat s dokonalostí?"
+    },
+    {
+      "key": "Ursula_008_f",
+      "en": "Never change, Ursula.",
+      "cz": "Nikdy se neměň, Ursulo.",
+      "source": "pre_existing",
+      "original_cz": "Nikdy se neměň, Ursulo."
+    },
+    {
+      "key": "Ursula_009_f",
+      "en": "I don't intend to!",
+      "cz": "Nemám v úmyslu!",
+      "source": "pre_existing",
+      "original_cz": "Nemám v úmyslu!"
+    },
+    {
+      "key": "Ursula_003_f",
+      "en": "A hat? Have you ever seen anyone wear a HAT under the sea? I think not.",
+      "cz": "Klobouk? Viděl jsi někdy někoho nosit pod mořem KLOBOUKU? Myslím, že ne.",
+      "source": "pre_existing",
+      "original_cz": "Klobouk? Viděl jsi někdy někoho nosit pod mořem KLOBOUKU? Myslím, že ne."
+    },
+    {
+      "key": "Ursula_006_f",
+      "en": "Besides, why would I ever cover up my gorgeous hair?",
+      "cz": "Kromě toho, proč bych si vůbec měla zakrývat své nádherné vlasy?",
+      "source": "pre_existing",
+      "original_cz": "Kromě toho, proč bych si vůbec měla zakrývat své nádherné vlasy?"
+    },
+    {
+      "key": "Ursula_004_f",
+      "en": "Oh?",
+      "cz": "Ó?",
+      "source": "pre_existing",
+      "original_cz": "Ó?"
+    }
+  ],
+  "Aladdin_Ursula/Ursula_GiftThanks_HappyGiftThanks002.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "A gift? Why? What's in it for you?",
+      "cz": "Dárek? Proč? Co z toho budeš mít?",
+      "source": "pre_existing",
+      "original_cz": "Dárek? Proč? Co z toho budeš mít?"
+    }
+  ],
+  "Aladdin_Ursula/Ursula_GiftThanks_HappyGiftThanks003.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "For little ol' me?",
+      "cz": "Pro mě malého/malou?",
+      "source": "pre_existing",
+      "original_cz": "Pro mě malého/malou?"
+    }
+  ],
+  "Aladdin_Ursula/Ursula_GiftThanks_HappyGiftThanks004.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Someone obviously recognizes TRUE royalty.",
+      "cz": "Někdo evidentně uznává PRAVOU královskou rodinu.",
+      "source": "pre_existing",
+      "original_cz": "Někdo evidentně uznává PRAVOU královskou rodinu."
+    }
+  ],
+  "Aladdin_Ursula/Ursula_GiftThanks_HappyGiftThanks005.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Perfect.",
+      "cz": "Perfektní.",
+      "source": "pre_existing",
+      "original_cz": "Perfektní."
+    }
+  ],
+  "Aladdin_Ursula/Ursula_GiftThanks_HappyGiftThanks006.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Why, angelfish, aren't you a dear!",
+      "cz": "No, anděle, nejsi ale zlatíčko!",
+      "source": "pre_existing",
+      "original_cz": "No, anděle, nejsi ale zlatíčko!"
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Greetings_Geeting011.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Oh, you poor dear. You look EXHAUSTED.",
+      "cz": "Ach, ty chudáčku. Vypadáš VYČERPANĚ.",
+      "source": "pre_existing",
+      "original_cz": "Ach, ty chudáčku. Vypadáš VYČERPANĚ."
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Sorry, I can't talk now!",
+      "cz": "Promiň, teď nemůžu mluvit!",
+      "source": "pre_existing",
+      "original_cz": "Promiň, teď nemůžu mluvit!"
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Greetings_Greeting005.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Come here, come here, my dear.",
+      "cz": "Pojď sem, pojď sem, drahá.",
+      "source": "pre_existing",
+      "original_cz": "Pojď sem, pojď sem, drahá."
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Sorry, I can't talk now!",
+      "cz": "Promiň, teď nemůžu mluvit!",
+      "source": "pre_existing",
+      "original_cz": "Promiň, teď nemůžu mluvit!"
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Greetings_Greeting006.locbin": [
+    {
+      "key": "Ursula_001_f",
+      "en": "Charming.",
+      "cz": "Okouzlující.",
+      "source": "pre_existing",
+      "original_cz": "Okouzlující."
+    },
+    {
+      "key": "Player_001_exit_000_f",
+      "en": "Sorry, I can't talk now!",
+      "cz": "Promiň, teď nemůžu mluvit!",
+      "source": "pre_existing",
+      "original_cz": "Promiň, teď nemůžu mluvit!"
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Greetings_Greeting007.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Stop lurking. It's rude.",
+      "cz": "Přestaň se schovávat. Je to neslušné.",
+      "source": "pre_existing",
+      "original_cz": "Přestaň se schovávat. Je to neslušné."
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Sorry, I can't talk now!",
+      "cz": "Promiň, teď nemůžu mluvit!",
+      "source": "pre_existing",
+      "original_cz": "Promiň, teď nemůžu mluvit!"
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Greetings_Greeting008.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Well, don't clam up. Its unbecoming!",
+      "cz": "No, nemlč. To se nesluší!",
+      "source": "pre_existing",
+      "original_cz": "No, nemlč. To se nesluší!"
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Sorry, I can't talk now!",
+      "cz": "Promiň, teď nemůžu mluvit!",
+      "source": "pre_existing",
+      "original_cz": "Promiň, teď nemůžu mluvit!"
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Greetings_Greeting009.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "How... nice to see you.",
+      "cz": "Jak... rád tě vidím.",
+      "source": "pre_existing",
+      "original_cz": "Jak... rád tě vidím."
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Sorry, I can't talk now!",
+      "cz": "Promiň, teď nemůžu mluvit!",
+      "source": "pre_existing",
+      "original_cz": "Promiň, teď nemůžu mluvit!"
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Greetings_Greeting010.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Well, are you just going to stare?",
+      "cz": "No, budeš jen zírat?",
+      "source": "pre_existing",
+      "original_cz": "No, budeš jen zírat?"
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Sorry, I can't talk now!",
+      "cz": "Promiň, teď nemůžu mluvit!",
+      "source": "pre_existing",
+      "original_cz": "Promiň, teď nemůžu mluvit!"
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Greetings_Greeting012.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Don't be coy, now. I'm not a shark.",
+      "cz": "Nebuď teď stydlivý. Nejsem žralok.",
+      "source": "pre_existing",
+      "original_cz": "Nebuď teď stydlivý. Nejsem žralok."
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Sorry, I can't talk now!",
+      "cz": "Promiň, teď nemůžu mluvit!",
+      "source": "pre_existing",
+      "original_cz": "Promiň, teď nemůžu mluvit!"
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Greetings_Greeting013.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Well, well, well. Look who the tide brought in.",
+      "cz": "No, no, no. Podívejte se, koho příliv přinesl.",
+      "source": "pre_existing",
+      "original_cz": "No, no, no. Podívejte se, koho příliv přinesl."
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Sorry, I can't talk now!",
+      "cz": "Promiň, teď nemůžu mluvit!",
+      "source": "pre_existing",
+      "original_cz": "Promiň, teď nemůžu mluvit!"
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Hangouts_EndHangout002.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "All right then, move along.",
+      "cz": "Tak dobře, pokračujte dál.",
+      "source": "pre_existing",
+      "original_cz": "Tak dobře, pokračujte dál."
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Hangouts_EndHangout003.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Fine. Goodbye... for now.",
+      "cz": "Dobře. Nashledanou... prozatím.",
+      "source": "pre_existing",
+      "original_cz": "Dobře. Nashledanou... prozatím."
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Hangouts_EndHangout004.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Swim along now!",
+      "cz": "Plavte teď!",
+      "source": "pre_existing",
+      "original_cz": "Plavte teď!"
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Hangouts_EndHangout005.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Well, that wasn't horrid.",
+      "cz": "No, to nebylo hrozné.",
+      "source": "pre_existing",
+      "original_cz": "No, to nebylo hrozné."
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Hangouts_EndHangout006.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Farewell, dearie. Don't get washed away with the tide.",
+      "cz": "Sbohem, drahoušku. Nenech se spláchnout přílivem.",
+      "source": "pre_existing",
+      "original_cz": "Sbohem, drahoušku. Nenech se spláchnout přílivem."
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Hangouts_EndHangout007.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Goodbye, angelfish.",
+      "cz": "Sbohem, anděle.",
+      "source": "pre_existing",
+      "original_cz": "Sbohem, anděle."
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Hangouts_StartHangout002.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Don't get your fins all twisted. Let's go!",
+      "cz": "Nenech si zkroutit ploutve. Jdeme na to!",
+      "source": "pre_existing",
+      "original_cz": "Nenech si zkroutit ploutve. Jdeme na to!"
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Hangouts_StartHangout004.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Shall we get started?",
+      "cz": "Začneme?",
+      "source": "pre_existing",
+      "original_cz": "Začneme?"
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Hangouts_StartHangout005.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Come along, dearie. Let's go before I get bored.",
+      "cz": "Pojď, drahoušku. Půjdeme, než se začnu nudit.",
+      "source": "pre_existing",
+      "original_cz": "Pojď, drahoušku. Půjdeme, než se začnu nudit."
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Hangouts_StartHangout006.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Hello, angelfish! What shall we do today?",
+      "cz": "Ahoj, anděle! Co budeme dnes dělat?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, anděle! Co budeme dnes dělat?"
+    }
+  ],
+  "Aladdin_Ursula/Ursula_Hangouts_StartHappyHangout003.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "I'm restless. Let's stir up some fun!",
+      "cz": "Jsem neklidný/á. Pojďme si udělat trochu legrace!",
+      "source": "pre_existing",
+      "original_cz": "Jsem neklidný/á. Pojďme si udělat trochu legrace!"
+    }
+  ]
+}

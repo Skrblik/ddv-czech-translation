@@ -1,0 +1,2663 @@
+{
+  "PrinceEric/PrinceEric_Barks_Bark001.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "I can't wait to get back out on the water.",
+      "cz": "Už se nemůžu dočkat, až se zase dostanu na vodu.",
+      "source": "pre_existing",
+      "original_cz": "Už se nemůžu dočkat, až se zase dostanu na vodu."
+    }
+  ],
+  "PrinceEric/PrinceEric_CrossNPCDialogues_Eric_Ariel_Discussion001.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "Ariel! It's me! I'm finally human again!",
+      "cz": "Ariel! To jsem já! Konečně jsem zase člověk!",
+      "source": "pre_existing",
+      "original_cz": "Ariel! To jsem já! Konečně jsem zase člověk!"
+    },
+    {
+      "key": "PrinceEric_001_f",
+      "en": "Oh Eric! That makes me so happy!",
+      "cz": "Ach Eriku! To mě tak těší!",
+      "source": "pre_existing",
+      "original_cz": "Ach Eriku! To mě tak těší!"
+    },
+    {
+      "key": "PrinceEric_002_f",
+      "en": "I wanted to tell you... I'm sorry about the deal with Ursula. I just wanted to protect you and...",
+      "cz": "Chtěl jsem ti říct... Je mi líto té dohody s Ursulou. Jen jsem tě chtěl ochránit a...",
+      "source": "pre_existing",
+      "original_cz": "Chtěl jsem ti říct... Je mi líto té dohody s Ursulou. Jen jsem tě chtěl ochránit a..."
+    },
+    {
+      "key": "PrinceEric_003_f",
+      "en": "It's all right. I made a deal with her once too, remember?",
+      "cz": "To je v pořádku. Taky jsem s ní jednou uzavřel dohodu, pamatuješ?",
+      "source": "pre_existing",
+      "original_cz": "To je v pořádku. Taky jsem s ní jednou uzavřel dohodu, pamatuješ?"
+    },
+    {
+      "key": "PrinceEric_004_f",
+      "en": "Never again then?",
+      "cz": "Tak už nikdy?",
+      "source": "pre_existing",
+      "original_cz": "Tak už nikdy?"
+    },
+    {
+      "key": "PrinceEric_005_f",
+      "en": "Never again. We're together now and that's all that matters.",
+      "cz": "Už nikdy. Teď jsme spolu a na tom jediném záleží.",
+      "source": "pre_existing",
+      "original_cz": "Už nikdy. Teď jsme spolu a na tom jediném záleží."
+    }
+  ],
+  "PrinceEric/PrinceEric_Discussion_Discussion002.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "I love Dazzle Beach. The salty sea air. The wind blowing in your face! There's nothing like it.",
+      "cz": "Miluji Dazzle Beach. Slaný mořský vzduch. Vítr vanoucí do obličeje! Nic se tomu nevyrovná.",
+      "source": "pre_existing",
+      "original_cz": "Miluji Dazzle Beach. Slaný mořský vzduch. Vítr vanoucí do obličeje! Nic se tomu nevyrovná."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I love the ocean.",
+      "cz": "Miluji oceán.",
+      "source": "pre_existing",
+      "original_cz": "Miluji oceán."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I get seasick.",
+      "cz": "Mám mořskou nemoc.",
+      "source": "pre_existing",
+      "original_cz": "Mám mořskou nemoc."
+    },
+    {
+      "key": "PrinceEric_001_f",
+      "en": "You do? We're pretty similar then. What's your favorite thing about the sea?",
+      "cz": "Vážně? Takže jsme si docela podobní. Co máš na moři nejraději?",
+      "source": "pre_existing",
+      "original_cz": "Vážně? Takže jsme si docela podobní. Co máš na moři nejraději?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "The waves.",
+      "cz": "Vlny.",
+      "source": "pre_existing",
+      "original_cz": "Vlny."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "The salty air.",
+      "cz": "Slaný vzduch.",
+      "source": "pre_existing",
+      "original_cz": "Slaný vzduch."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "The mermaids!",
+      "cz": "Mořské panny!",
+      "source": "pre_existing",
+      "original_cz": "Mořské panny!"
+    },
+    {
+      "key": "PrinceEric_006_f",
+      "en": "I understand that. I love crashing over the waves, as long as they aren't crashing over the ship!",
+      "cz": "Rozumím tomu. Miluji tříštíní se o vlny, pokud se netříští o loď!",
+      "source": "pre_existing",
+      "original_cz": "Rozumím tomu. Miluji tříštíní se o vlny, pokud se netříští o loď!"
+    },
+    {
+      "key": "PrinceEric_007_f",
+      "en": "Yes! There's something about the air near the ocean. It smells so fresh and alive.",
+      "cz": "Ano! Vzduch u oceánu je zvláštní. Voní tak svěže a živě.",
+      "source": "pre_existing",
+      "original_cz": "Ano! Vzduch u oceánu je zvláštní. Voní tak svěže a živě."
+    },
+    {
+      "key": "PrinceEric_008_f",
+      "en": "Not everyone believes in them, but you and I know they're real. And one of them, at least, is pretty amazing.",
+      "cz": "Ne každý v ně věří, ale ty a já víme, že jsou skuteční. A alespoň jeden z nich je docela úžasný.",
+      "source": "pre_existing",
+      "original_cz": "Ne každý v ně věří, ale ty a já víme, že jsou skuteční. A alespoň jeden z nich je docela úžasný."
+    },
+    {
+      "key": "PrinceEric_002_f",
+      "en": "Oh, I'm sorry about that. I don't get seasick myself, but I have a friend who does.",
+      "cz": "Ach, to mě mrzí. Sám mořskou nemoc nemám, ale mám kamaráda, který ji má.",
+      "source": "pre_existing",
+      "original_cz": "Ach, to mě mrzí. Sám mořskou nemoc nemám, ale mám kamaráda, který ji má."
+    },
+    {
+      "key": "PrinceEric_003_f",
+      "en": "I know it's pretty unpleasant. Well, I hope you can enjoy the ocean from the shore.",
+      "cz": "Vím, že je to dost nepříjemné. Doufám, že si oceán z břehu užijete.",
+      "source": "pre_existing",
+      "original_cz": "Vím, že je to dost nepříjemné. Doufám, že si oceán z břehu užijete."
+    }
+  ],
+  "PrinceEric/PrinceEric_Discussion_Discussion004.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "There's this old riddle we used to ask new sailors on our ship. Would you like to hear it?",
+      "cz": "Je tu jedna stará hádanka, kterou jsme kladli novým námořníkům na naší lodi. Chtěli byste ji slyšet?",
+      "source": "pre_existing",
+      "original_cz": "Je tu jedna stará hádanka, kterou jsme kladli novým námořníkům na naší lodi. Chtěli byste ji slyšet?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Yes.",
+      "cz": "Ano.",
+      "source": "pre_existing",
+      "original_cz": "Ano."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "No.",
+      "cz": "Ne.",
+      "source": "pre_existing",
+      "original_cz": "Ne."
+    },
+    {
+      "key": "PrinceEric_001_f",
+      "en": "Okay, here you go: What do you throw out to use and take back to stop?",
+      "cz": "Dobře, tady to máte: Co vyhodíte, abyste to použili, a co si vezmete zpět, abyste to zastavili?",
+      "source": "pre_existing",
+      "original_cz": "Dobře, tady to máte: Co vyhodíte, abyste to použili, a co si vezmete zpět, abyste to zastavili?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Trash.",
+      "cz": "Odpad.",
+      "source": "pre_existing",
+      "original_cz": "Odpad."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "An anchor.",
+      "cz": "Kotva.",
+      "source": "pre_existing",
+      "original_cz": "Kotva."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "A net.",
+      "cz": "Síť.",
+      "source": "pre_existing",
+      "original_cz": "Síť."
+    },
+    {
+      "key": "PrinceEric_003_f",
+      "en": "Huh? That's an interesting answer. It's not the one the old sea dogs taught me, though.",
+      "cz": "Cože? To je zajímavá odpověď. Není to ale ta, kterou mě naučili staří mořští vlci.",
+      "source": "pre_existing",
+      "original_cz": "Cože? To je zajímavá odpověď. Není to ale ta, kterou mě naučili staří mořští vlci."
+    },
+    {
+      "key": "PrinceEric_004_f",
+      "en": "Yes! That's the answer. Pretty clever, huh?",
+      "cz": "Ano! To je odpověď. Docela chytré, co?",
+      "source": "pre_existing",
+      "original_cz": "Ano! To je odpověď. Docela chytré, co?"
+    },
+    {
+      "key": "PrinceEric_002_f",
+      "en": "Guess you're not a riddle sort of a person. That's okay.",
+      "cz": "Asi nejsi zrovna typ na hádanky. To je v pořádku.",
+      "source": "pre_existing",
+      "original_cz": "Asi nejsi zrovna typ na hádanky. To je v pořádku."
+    }
+  ],
+  "PrinceEric/PrinceEric_Discussion_Discussion005.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "Hey, {PlayerName}, I really love the fishing expeditions I've taken. I get to explore all the waters around the Valley.",
+      "cz": "Ahoj, {PlayerName}, opravdu miluji rybářské výpravy, které jsem podnikl. Mohu prozkoumat všechny vody kolem údolí.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}, opravdu miluji rybářské výpravy, které jsem podnikl. Mohu prozkoumat všechny vody kolem údolí."
+    },
+    {
+      "key": "PrinceEric_001_f",
+      "en": "I haven't found many other islands yet, but I've seen a lot of reefs and strange fish.",
+      "cz": "Zatím jsem nenašel mnoho dalších ostrovů, ale viděl jsem spoustu útesů a zvláštních ryb.",
+      "source": "pre_existing",
+      "original_cz": "Zatím jsem nenašel mnoho dalších ostrovů, ale viděl jsem spoustu útesů a zvláštních ryb."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "What do you need to go exploring?",
+      "cz": "Co potřebujete k průzkumu?",
+      "source": "pre_existing",
+      "original_cz": "Co potřebujete k průzkumu?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Is there anything special out there?",
+      "cz": "Je tam něco zvláštního?",
+      "source": "pre_existing",
+      "original_cz": "Je tam něco zvláštního?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Is it safe?",
+      "cz": "Je to bezpečné?",
+      "source": "pre_existing",
+      "original_cz": "Je to bezpečné?"
+    },
+    {
+      "key": "PrinceEric_002_f",
+      "en": "Just a ship and a fair wind.",
+      "cz": "Jen loď a příznivý vítr.",
+      "source": "pre_existing",
+      "original_cz": "Jen loď a příznivý vítr."
+    },
+    {
+      "key": "PrinceEric_006_f",
+      "en": "A map can be handy, but sometimes it's more fun to chart your own way.",
+      "cz": "Mapa se může hodit, ale někdy je zábavnější si cestu naplánovat sami.",
+      "source": "pre_existing",
+      "original_cz": "Mapa se může hodit, ale někdy je zábavnější si cestu naplánovat sami."
+    },
+    {
+      "key": "PrinceEric_003_f",
+      "en": "Well, I won't know unless I look!",
+      "cz": "No, dokud se nepodívám, nebudu vědět!",
+      "source": "pre_existing",
+      "original_cz": "No, dokud se nepodívám, nebudu vědět!"
+    },
+    {
+      "key": "PrinceEric_007_f",
+      "en": "That's part of what makes it exciting. Not knowing what I'll find.",
+      "cz": "To je částečně to, co na tom dělá vzrušující. Nevědět, co najdu.",
+      "source": "pre_existing",
+      "original_cz": "To je částečně to, co na tom dělá vzrušující. Nevědět, co najdu."
+    },
+    {
+      "key": "PrinceEric_004_f",
+      "en": "Well, I can't be completely sure. And that's part of the fun! Adventure is never guaranteed to be safe.",
+      "cz": "No, nejsem si úplně jistý. A to je součástí té zábavy! Dobrodružství nikdy není zaručeně bezpečné.",
+      "source": "pre_existing",
+      "original_cz": "No, nejsem si úplně jistý. A to je součástí té zábavy! Dobrodružství nikdy není zaručeně bezpečné."
+    },
+    {
+      "key": "PrinceEric_008_f",
+      "en": "Ships are safe in the harbor, but that's not what ships are built for.",
+      "cz": "Lodě jsou v přístavu v bezpečí, ale k tomu se lodě nestaví.",
+      "source": "pre_existing",
+      "original_cz": "Lodě jsou v přístavu v bezpečí, ale k tomu se lodě nestaví."
+    },
+    {
+      "key": "PrinceEric_009_f",
+      "en": "They're meant to sail out and explore.",
+      "cz": "Jsou určeny k vyplutí a průzkumu.",
+      "source": "pre_existing",
+      "original_cz": "Jsou určeny k vyplutí a průzkumu."
+    }
+  ],
+  "PrinceEric/PrinceEric_Discussion_Discussion006.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "{PlayerName}, I really want to do something nice for Ariel. So I thought I should take her on a picnic.",
+      "cz": "{PlayerName}, opravdu chci pro Ariel udělat něco hezkého. Tak jsem si říkal, že bych ji měl vzít na piknik.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, opravdu chci pro Ariel udělat něco hezkého. Tak jsem si říkal, že bych ji měl vzít na piknik."
+    },
+    {
+      "key": "PrinceEric_001_f",
+      "en": "Just the two of us. Where do you think we should go?",
+      "cz": "Jen my dva. Kam myslíš, že bychom měli jít?",
+      "source": "pre_existing",
+      "original_cz": "Jen my dva. Kam myslíš, že bychom měli jít?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Dazzle Beach!",
+      "cz": "Oslňující pláž!",
+      "source": "pre_existing",
+      "original_cz": "Oslňující pláž!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "The Forest of Valor!",
+      "cz": "Les statečnosti!",
+      "source": "pre_existing",
+      "original_cz": "Les statečnosti!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "The Frosted Heights!",
+      "cz": "Zmrzlé výšiny!",
+      "source": "pre_existing",
+      "original_cz": "Zmrzlé výšiny!"
+    },
+    {
+      "key": "PrinceEric_002_f",
+      "en": "That's a great idea! A blanket, some nice food...",
+      "cz": "To je skvělý nápad! Deka, nějaké dobré jídlo...",
+      "source": "pre_existing",
+      "original_cz": "To je skvělý nápad! Deka, nějaké dobré jídlo..."
+    },
+    {
+      "key": "PrinceEric_005_f",
+      "en": "Watching the waves and the horizon.",
+      "cz": "Sledování vln a horizontu.",
+      "source": "pre_existing",
+      "original_cz": "Sledování vln a horizontu."
+    },
+    {
+      "key": "PrinceEric_007_f",
+      "en": "Well, the location's decided. What should I bring along to enjoy with our main course?",
+      "cz": "No, místo je rozhodnuto. Co si mám vzít s sebou k hlavnímu chodu?",
+      "source": "pre_existing",
+      "original_cz": "No, místo je rozhodnuto. Co si mám vzít s sebou k hlavnímu chodu?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Fruit.",
+      "cz": "Ovoce.",
+      "source": "pre_existing",
+      "original_cz": "Ovoce."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Freshly baked bread.",
+      "cz": "Čerstvě upečený chléb.",
+      "source": "pre_existing",
+      "original_cz": "Čerstvě upečený chléb."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Chocolate chip cookies.",
+      "cz": "Sušenky s čokoládovými kousky.",
+      "source": "pre_existing",
+      "original_cz": "Sušenky s čokoládovými kousky."
+    },
+    {
+      "key": "PrinceEric_008_f",
+      "en": "Sounds good! I'll gather some different fruit and maybe visit Goofy's Stall.",
+      "cz": "Zní to dobře! Nasbírám si nějaké různé ovoce a možná navštívím Goofyho stánek.",
+      "source": "pre_existing",
+      "original_cz": "Zní to dobře! Nasbírám si nějaké různé ovoce a možná navštívím Goofyho stánek."
+    },
+    {
+      "key": "PrinceEric_009_f",
+      "en": "Ariel will love it.",
+      "cz": "Ariel to bude milovat.",
+      "source": "pre_existing",
+      "original_cz": "Ariel to bude milovat."
+    },
+    {
+      "key": "PrinceEric_010_f",
+      "en": "She gets almost as excited about surface food as she does about human objects.",
+      "cz": "Z jídla na hladině ji nadchne téměř stejně jako z lidských předmětů.",
+      "source": "pre_existing",
+      "original_cz": "Z jídla na hladině ji nadchne téměř stejně jako z lidských předmětů."
+    },
+    {
+      "key": "PrinceEric_011_f",
+      "en": "Yeah! Merfolk can't exactly mill flour underwater.",
+      "cz": "Jo! Mořští lidé sice neumí mlít mouku pod vodou.",
+      "source": "pre_existing",
+      "original_cz": "Jo! Mořští lidé sice neumí mlít mouku pod vodou."
+    },
+    {
+      "key": "PrinceEric_012_f",
+      "en": "So I bet Ariel hasn't tried many different kinds of bread.",
+      "cz": "Takže se vsadím, že Ariel moc různých druhů chleba nezkoušela.",
+      "source": "pre_existing",
+      "original_cz": "Takže se vsadím, že Ariel moc různých druhů chleba nezkoušela."
+    },
+    {
+      "key": "PrinceEric_013_f",
+      "en": "I'll ask Remy if he has any good ideas.",
+      "cz": "Zeptám se Remyho, jestli má nějaké dobré nápady.",
+      "source": "pre_existing",
+      "original_cz": "Zeptám se Remyho, jestli má nějaké dobré nápady."
+    },
+    {
+      "key": "PrinceEric_014_f",
+      "en": "Great idea. We definitely have to have a dessert.",
+      "cz": "Skvělý nápad. Určitě si musíme dát dezert.",
+      "source": "pre_existing",
+      "original_cz": "Skvělý nápad. Určitě si musíme dát dezert."
+    },
+    {
+      "key": "PrinceEric_003_f",
+      "en": "Yeah, that'd be nice. I can lay down a blanket beside the river and she can swim up alongside me.",
+      "cz": "Jo, to by bylo hezké. Můžu si rozložit deku vedle řeky a ona může plavat vedle mě.",
+      "source": "pre_existing",
+      "original_cz": "Jo, to by bylo hezké. Můžu si rozložit deku vedle řeky a ona může plavat vedle mě."
+    },
+    {
+      "key": "PrinceEric_004_f",
+      "en": "That's a little cold for us, but I bet Ariel would like to explore up there.",
+      "cz": "Pro nás je to trochu zima, ale vsadím se, že Ariel by se tam nahoře ráda vydala na průzkum.",
+      "source": "pre_existing",
+      "original_cz": "Pro nás je to trochu zima, ale vsadím se, že Ariel by se tam nahoře ráda vydala na průzkum."
+    },
+    {
+      "key": "PrinceEric_006_f",
+      "en": "It would be an adventure.",
+      "cz": "Bylo by to dobrodružství.",
+      "source": "pre_existing",
+      "original_cz": "Bylo by to dobrodružství."
+    }
+  ],
+  "PrinceEric/PrinceEric_Discussion_Discussion007.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "Settle a question for me, {PlayerName}.",
+      "cz": "Vyřešte mi otázku, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Vyřešte mi otázku, {PlayerName}."
+    },
+    {
+      "key": "PrinceEric_001_f",
+      "en": "I love sailing big ships. Galleons, with a crew and three masts.",
+      "cz": "Miluji plavbu na velkých lodích. Galeony s posádkou a třemi stěžni.",
+      "source": "pre_existing",
+      "original_cz": "Miluji plavbu na velkých lodích. Galeony s posádkou a třemi stěžni."
+    },
+    {
+      "key": "PrinceEric_002_f",
+      "en": "But Moana says there's nothing like skimming the waves in a small canoe.",
+      "cz": "Ale Moana říká, že není nic lepšího než klouzání po vlnách v malé kánoi.",
+      "source": "pre_existing",
+      "original_cz": "Ale Moana říká, že není nic lepšího než klouzání po vlnách v malé kánoi."
+    },
+    {
+      "key": "PrinceEric_003_f",
+      "en": "Which do you prefer? A big ship or a small canoe?",
+      "cz": "Co dáváte přednost? Velká loď nebo malá kánoe?",
+      "source": "pre_existing",
+      "original_cz": "Co dáváte přednost? Velká loď nebo malá kánoe?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Big ships.",
+      "cz": "Velké lodě.",
+      "source": "pre_existing",
+      "original_cz": "Velké lodě."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Small canoes.",
+      "cz": "Malé kánoe.",
+      "source": "pre_existing",
+      "original_cz": "Malé kánoe."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "It depends.",
+      "cz": "Záleží na situaci.",
+      "source": "pre_existing",
+      "original_cz": "Záleží na situaci."
+    },
+    {
+      "key": "PrinceEric_005_f",
+      "en": "That's how I feel. I like a solid deck under my feet.",
+      "cz": "Takhle to cítím. Mám rád pevnou podlahu pod nohama.",
+      "source": "pre_existing",
+      "original_cz": "Takhle to cítím. Mám rád pevnou podlahu pod nohama."
+    },
+    {
+      "key": "PrinceEric_008_f",
+      "en": "And bigger ships means you can haul more, and carry more people.",
+      "cz": "A větší lodě znamenají, že můžete přepravovat více věcí a více lidí.",
+      "source": "pre_existing",
+      "original_cz": "A větší lodě znamenají, že můžete přepravovat více věcí a více lidí."
+    },
+    {
+      "key": "PrinceEric_009_f",
+      "en": "But maybe I'm just more comfortable with large ships because they're what I'm used to.",
+      "cz": "Ale možná se prostě cítím lépe s velkými loděmi, protože jsem na ně zvyklý.",
+      "source": "pre_existing",
+      "original_cz": "Ale možná se prostě cítím lépe s velkými loděmi, protože jsem na ně zvyklý."
+    },
+    {
+      "key": "PrinceEric_004_f",
+      "en": "Yeah? Well, they are useful. I can't deny that. Light and fast.",
+      "cz": "Jo? No, jsou užitečné. To nemůžu popřít. Lehké a rychlé.",
+      "source": "pre_existing",
+      "original_cz": "Jo? No, jsou užitečné. To nemůžu popřít. Lehké a rychlé."
+    },
+    {
+      "key": "PrinceEric_007_f",
+      "en": "Moana offered to teach me how to sail one. Maybe I should take her up on it.",
+      "cz": "Vaiana mi nabídla, že mě naučí řídit jeden z nich. Možná bych se s ní měl s tím spojit.",
+      "source": "pre_existing",
+      "original_cz": "Vaiana mi nabídla, že mě naučí řídit jeden z nich. Možná bych se s ní měl s tím spojit."
+    },
+    {
+      "key": "PrinceEric_006_f",
+      "en": "I guess you're right. Different kinds of boats work for different things.",
+      "cz": "Asi máš pravdu. Různé druhy lodí slouží k různým účelům.",
+      "source": "pre_existing",
+      "original_cz": "Asi máš pravdu. Různé druhy lodí slouží k různým účelům."
+    },
+    {
+      "key": "PrinceEric_010_f",
+      "en": "My kingdom needs large ships to carry trade cargo.",
+      "cz": "Moje království potřebuje velké lodě k přepravě obchodního nákladu.",
+      "source": "pre_existing",
+      "original_cz": "Moje království potřebuje velké lodě k přepravě obchodního nákladu."
+    },
+    {
+      "key": "PrinceEric_011_f",
+      "en": "But Moana's canoe is perfect for navigating between smaller islands.",
+      "cz": "Ale Vaianina kánoe je perfektní pro navigaci mezi menšími ostrovy.",
+      "source": "pre_existing",
+      "original_cz": "Ale Vaianina kánoe je perfektní pro navigaci mezi menšími ostrovy."
+    },
+    {
+      "key": "PrinceEric_012_f",
+      "en": "We're lucky we have both options.",
+      "cz": "Máme štěstí, že máme obě možnosti.",
+      "source": "pre_existing",
+      "original_cz": "Máme štěstí, že máme obě možnosti."
+    }
+  ],
+  "PrinceEric/PrinceEric_Discussion_Discussion008.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "You know, {PlayerName}, I've been thinking about exploring lately.",
+      "cz": "Víš, {PlayerName}, v poslední době jsem přemýšlel o průzkumu.",
+      "source": "pre_existing",
+      "original_cz": "Víš, {PlayerName}, v poslední době jsem přemýšlel o průzkumu."
+    },
+    {
+      "key": "PrinceEric_001_f",
+      "en": "Which do you prefer: leisurely exploration or action-filled adventure?",
+      "cz": "Co preferujete: pohodové objevování nebo akcí nabité dobrodružství?",
+      "source": "pre_existing",
+      "original_cz": "Co preferujete: pohodové objevování nebo akcí nabité dobrodružství?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Leisurely exploration.",
+      "cz": "Pohodové prozkoumávání.",
+      "source": "pre_existing",
+      "original_cz": "Pohodové prozkoumávání."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Action-filled adventure.",
+      "cz": "Dobrodružství plné akce.",
+      "source": "pre_existing",
+      "original_cz": "Dobrodružství plné akce."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Staying home.",
+      "cz": "Zůstat doma.",
+      "source": "pre_existing",
+      "original_cz": "Zůstat doma."
+    },
+    {
+      "key": "PrinceEric_002_f",
+      "en": "Nice. I love exploring. Ariel does too.",
+      "cz": "Pěkné. Miluji objevování. Ariel taky.",
+      "source": "pre_existing",
+      "original_cz": "Pěkné. Miluji objevování. Ariel taky."
+    },
+    {
+      "key": "PrinceEric_003_f",
+      "en": "It's so exciting to find new things. New places!",
+      "cz": "Je tak vzrušující objevovat nové věci. Nová místa!",
+      "source": "pre_existing",
+      "original_cz": "Je tak vzrušující objevovat nové věci. Nová místa!"
+    },
+    {
+      "key": "PrinceEric_004_f",
+      "en": "And when we do it together, we notice so much more.",
+      "cz": "A když to děláme společně, všimneme si mnohem víc.",
+      "source": "pre_existing",
+      "original_cz": "A když to děláme společně, všimneme si mnohem víc."
+    },
+    {
+      "key": "PrinceEric_005_f",
+      "en": "Hey, there's nothing like grand adventures on the high seas!",
+      "cz": "Hej, není nic lepšího než velkolepá dobrodružství na širém moři!",
+      "source": "pre_existing",
+      "original_cz": "Hej, není nic lepšího než velkolepá dobrodružství na širém moři!"
+    },
+    {
+      "key": "PrinceEric_006_f",
+      "en": "Diving into the unknown is dangerous sometimes...",
+      "cz": "Potápět se do neznáma je někdy nebezpečné...",
+      "source": "pre_existing",
+      "original_cz": "Potápět se do neznáma je někdy nebezpečné..."
+    },
+    {
+      "key": "PrinceEric_007_f",
+      "en": "But that just makes it more exciting!",
+      "cz": "Ale o to je to jen napínavější!",
+      "source": "pre_existing",
+      "original_cz": "Ale o to je to jen napínavější!"
+    },
+    {
+      "key": "PrinceEric_008_f",
+      "en": "Ha! You're right. That's another important option.",
+      "cz": "Ha! Máš pravdu. To je další důležitá možnost.",
+      "source": "pre_existing",
+      "original_cz": "Ha! Máš pravdu. To je další důležitá možnost."
+    },
+    {
+      "key": "PrinceEric_009_f",
+      "en": "And some people do prefer it. Even I get tired of exploring sometimes.",
+      "cz": "A někteří lidé to dávají přednost. I mě občas unavuje objevování.",
+      "source": "pre_existing",
+      "original_cz": "A někteří lidé to dávají přednost. I mě občas unavuje objevování."
+    },
+    {
+      "key": "PrinceEric_010_f",
+      "en": "It's important to be able to rest and recover.",
+      "cz": "Je důležité si umět odpočinout a zotavit se.",
+      "source": "pre_existing",
+      "original_cz": "Je důležité si umět odpočinout a zotavit se."
+    }
+  ],
+  "PrinceEric/PrinceEric_Discussion_Discussion009.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "Hmm...",
+      "cz": "Hmm...",
+      "source": "pre_existing",
+      "original_cz": "Hmm..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "You look thoughtful, Eric.",
+      "cz": "Vypadáš zamyšleně, Eriku.",
+      "source": "pre_existing",
+      "original_cz": "Vypadáš zamyšleně, Eriku."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Is everything okay?",
+      "cz": "Je všechno v pořádku?",
+      "source": "pre_existing",
+      "original_cz": "Je všechno v pořádku?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Hmm?",
+      "cz": "Hmm?",
+      "source": "pre_existing",
+      "original_cz": "Hmm?"
+    },
+    {
+      "key": "PrinceEric_001_f",
+      "en": "Do I? Well, I've been thinking about something Olaf asked me, and it's a little complicated.",
+      "cz": "Mám? No, přemýšlel jsem o něčem, na co se mě Olaf zeptal, a je to trochu složité.",
+      "source": "pre_existing",
+      "original_cz": "Mám? No, přemýšlel jsem o něčem, na co se mě Olaf zeptal, a je to trochu složité."
+    },
+    {
+      "key": "PrinceEric_004_f",
+      "en": "If you have a ship for a long time, you need to repair it.",
+      "cz": "Pokud máte loď dlouhou dobu, musíte ji opravit.",
+      "source": "pre_existing",
+      "original_cz": "Pokud máte loď dlouhou dobu, musíte ji opravit."
+    },
+    {
+      "key": "PrinceEric_005_f",
+      "en": "If you repair it so much that you've replaced every piece of it...",
+      "cz": "Pokud to opravíte tolik, že vyměníte každý jeho kus...",
+      "source": "pre_existing",
+      "original_cz": "Pokud to opravíte tolik, že vyměníte každý jeho kus..."
+    },
+    {
+      "key": "PrinceEric_006_f",
+      "en": "...is it still the same ship?",
+      "cz": "...je to pořád ta samá loď?",
+      "source": "pre_existing",
+      "original_cz": "...je to pořád ta samá loď?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Yes — it's the same ship.",
+      "cz": "Ano – je to ta samá loď.",
+      "source": "pre_existing",
+      "original_cz": "Ano – je to ta samá loď."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "No — it's a different ship.",
+      "cz": "Ne – je to jiná loď.",
+      "source": "pre_existing",
+      "original_cz": "Ne – je to jiná loď."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I don't know.",
+      "cz": "Nevím.",
+      "source": "pre_existing",
+      "original_cz": "Nevím."
+    },
+    {
+      "key": "PrinceEric_007_f",
+      "en": "I guess so. After all, it looks the same. It feels the same.",
+      "cz": "Asi jo. Koneckonců, vypadá to stejně. Je to stejný pocit.",
+      "source": "pre_existing",
+      "original_cz": "Asi jo. Koneckonců, vypadá to stejně. Je to stejný pocit."
+    },
+    {
+      "key": "PrinceEric_010_f",
+      "en": "Even though everything is different...",
+      "cz": "I když je všechno jinak...",
+      "source": "pre_existing",
+      "original_cz": "I když je všechno jinak..."
+    },
+    {
+      "key": "PrinceEric_011_f",
+      "en": "Strange to think about, huh?",
+      "cz": "Zvláštní pomyšlení, co?",
+      "source": "pre_existing",
+      "original_cz": "Zvláštní pomyšlení, co?"
+    },
+    {
+      "key": "PrinceEric_008_f",
+      "en": "I can see that. After all, it's all new parts. Different wood. New sails.",
+      "cz": "To vidím. Koneckonců, jsou to všechno nové díly. Jiné dřevo. Nové plachty.",
+      "source": "pre_existing",
+      "original_cz": "To vidím. Koneckonců, jsou to všechno nové díly. Jiné dřevo. Nové plachty."
+    },
+    {
+      "key": "PrinceEric_012_f",
+      "en": "But even so, it looks the same...",
+      "cz": "Ale i tak to vypadá stejně...",
+      "source": "pre_existing",
+      "original_cz": "Ale i tak to vypadá stejně..."
+    },
+    {
+      "key": "PrinceEric_009_f",
+      "en": "Yeah. I don't either. It's funny to think about.",
+      "cz": "Jo. Já taky ne. Je to legrační, když o tom přemýšlím.",
+      "source": "pre_existing",
+      "original_cz": "Jo. Já taky ne. Je to legrační, když o tom přemýšlím."
+    },
+    {
+      "key": "PrinceEric_002_f",
+      "en": "Oh, everything's fine. I was just thinking about something Olaf asked me.",
+      "cz": "Aha, všechno je v pořádku. Jen jsem přemýšlel o něčem, na co se mě Olaf zeptal.",
+      "source": "pre_existing",
+      "original_cz": "Aha, všechno je v pořádku. Jen jsem přemýšlel o něčem, na co se mě Olaf zeptal."
+    },
+    {
+      "key": "PrinceEric_003_f",
+      "en": "Oh! Sorry, I was lost in thought. Olaf asked me a question that I can't quite figure out.",
+      "cz": "Ach! Promiňte, byl jsem ztracen v myšlenkách. Olaf mi položil otázku, které úplně nerozumím.",
+      "source": "pre_existing",
+      "original_cz": "Ach! Promiňte, byl jsem ztracen v myšlenkách. Olaf mi položil otázku, které úplně nerozumím."
+    }
+  ],
+  "PrinceEric/PrinceEric_Discussion_Discussion010.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "{PlayerName}, have you ever seen a dolphin?",
+      "cz": "{PlayerName}, viděl jsi někdy delfína?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, viděl jsi někdy delfína?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I have!",
+      "cz": "Mám!",
+      "source": "pre_existing",
+      "original_cz": "Mám!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I haven't.",
+      "cz": "Nemám.",
+      "source": "pre_existing",
+      "original_cz": "Nemám."
+    },
+    {
+      "key": "PrinceEric_001_f",
+      "en": "Hey, that's good luck for you!",
+      "cz": "Hej, to je pro tebe hodně štěstí!",
+      "source": "pre_existing",
+      "original_cz": "Hej, to je pro tebe hodně štěstí!"
+    },
+    {
+      "key": "PrinceEric_003_f",
+      "en": "There's an old sailors' legend that seeing a dolphin means good fortune for a journey.",
+      "cz": "Existuje stará námořní legenda, která říká, že spatření delfína znamená štěstí na cestě.",
+      "source": "pre_existing",
+      "original_cz": "Existuje stará námořní legenda, která říká, že spatření delfína znamená štěstí na cestě."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Are there a lot of dolphins around the Valley?",
+      "cz": "Je v údolí hodně delfínů?",
+      "source": "pre_existing",
+      "original_cz": "Je v údolí hodně delfínů?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I didn't know that.",
+      "cz": "To jsem nevěděl.",
+      "source": "pre_existing",
+      "original_cz": "To jsem nevěděl."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I love dolphins!",
+      "cz": "Miluji delfíny!",
+      "source": "pre_existing",
+      "original_cz": "Miluji delfíny!"
+    },
+    {
+      "key": "PrinceEric_005_f",
+      "en": "A few. Sometimes I see them while I'm fishing.",
+      "cz": "Pár jich. Někdy je vidím při rybaření.",
+      "source": "pre_existing",
+      "original_cz": "Pár jich. Někdy je vidím při rybaření."
+    },
+    {
+      "key": "PrinceEric_006_f",
+      "en": "Well, all the crews I've sailed with believe it. I like to think it's true.",
+      "cz": "No, všechny posádky, se kterými jsem se plavil, tomu věří. Rád si myslím, že je to pravda.",
+      "source": "pre_existing",
+      "original_cz": "No, všechny posádky, se kterými jsem se plavil, tomu věří. Rád si myslím, že je to pravda."
+    },
+    {
+      "key": "PrinceEric_007_f",
+      "en": "I do too. Seeing them is always really impressive.",
+      "cz": "Já taky. Vidět je je vždycky opravdu působivé.",
+      "source": "pre_existing",
+      "original_cz": "Já taky. Vidět je je vždycky opravdu působivé."
+    },
+    {
+      "key": "PrinceEric_004_f",
+      "en": "Oh, I hope you do someday. They're amazing. And good luck!",
+      "cz": "Doufám, že se ti to jednou podaří. Jsou úžasní. A hodně štěstí!",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že se ti to jednou podaří. Jsou úžasní. A hodně štěstí!"
+    }
+  ],
+  "PrinceEric/PrinceEric_Discussion_Discussion011.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "Hey, {PlayerName}. I had a thought — you know forks?",
+      "cz": "Ahoj, {PlayerName}. Napadlo mě něco – znáš forks?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}. Napadlo mě něco – znáš forks?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Like, the cutlery?",
+      "cz": "Jako třeba příbory?",
+      "source": "pre_existing",
+      "original_cz": "Jako třeba příbory?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Yes. I am aware of forks.",
+      "cz": "Ano. Jsem si vědom/a forků.",
+      "source": "pre_existing",
+      "original_cz": "Ano. Jsem si vědom/a forků."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "You mean \"dinglehoppers\"?",
+      "cz": "Myslíte „dinglehoppers“?",
+      "source": "pre_existing",
+      "original_cz": "Myslíte „dinglehoppers“?"
+    },
+    {
+      "key": "PrinceEric_002_f",
+      "en": "Yes. Forks, as in cutlery.",
+      "cz": "Ano. Vidličky, tedy příbory.",
+      "source": "pre_existing",
+      "original_cz": "Ano. Vidličky, tedy příbory."
+    },
+    {
+      "key": "PrinceEric_003_f",
+      "en": "They have kind of a boring name, don't they? \"Fork.\"",
+      "cz": "Mají trochu nudný název, že? „Vidlička.“",
+      "source": "pre_existing",
+      "original_cz": "Mají trochu nudný název, že? „Vidlička.“"
+    },
+    {
+      "key": "PrinceEric_006_f",
+      "en": "Ariel calls them \"dinglehoppers.\" That's way more fun. Do you think we should change the name?",
+      "cz": "Ariel jim říká „dinglehoppers“. To je mnohem zábavnější. Myslíš, že bychom měli změnit jméno?",
+      "source": "pre_existing",
+      "original_cz": "Ariel jim říká „dinglehoppers“. To je mnohem zábavnější. Myslíš, že bychom měli změnit jméno?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Sounds kind of confusing.",
+      "cz": "Zní to trochu matoucí.",
+      "source": "pre_existing",
+      "original_cz": "Zní to trochu matoucí."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I think you're very in love with Ariel.",
+      "cz": "Myslím, že jsi do Ariel moc zamilovaný/á.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že jsi do Ariel moc zamilovaný/á."
+    },
+    {
+      "key": "PrinceEric_007_f",
+      "en": "I guess you're right.",
+      "cz": "Asi máš pravdu.",
+      "source": "pre_existing",
+      "original_cz": "Asi máš pravdu."
+    },
+    {
+      "key": "PrinceEric_008_f",
+      "en": "But I still think \"dinglehopper\" is a great name.",
+      "cz": "Ale pořád si myslím, že „dinglehopper“ je skvělé jméno.",
+      "source": "pre_existing",
+      "original_cz": "Ale pořád si myslím, že „dinglehopper“ je skvělé jméno."
+    },
+    {
+      "key": "PrinceEric_009_f",
+      "en": "Ha. Yeah, I am.",
+      "cz": "Ha. Ano, to jsem já.",
+      "source": "pre_existing",
+      "original_cz": "Ha. Ano, to jsem já."
+    },
+    {
+      "key": "PrinceEric_010_f",
+      "en": "Maybe changing the name isn't the best idea.",
+      "cz": "Možná změna jména není nejlepší nápad.",
+      "source": "pre_existing",
+      "original_cz": "Možná změna jména není nejlepší nápad."
+    },
+    {
+      "key": "PrinceEric_011_f",
+      "en": "I just love how excited she gets about dinglehoppers.",
+      "cz": "Prostě miluju, jak moc ji nadchnou dinglehoppery.",
+      "source": "pre_existing",
+      "original_cz": "Prostě miluju, jak moc ji nadchnou dinglehoppery."
+    },
+    {
+      "key": "PrinceEric_004_f",
+      "en": "Sorry, that was a silly question. Of course you're aware of forks.",
+      "cz": "Promiňte, to byla hloupá otázka. Samozřejmě, že o forcích víte.",
+      "source": "pre_existing",
+      "original_cz": "Promiňte, to byla hloupá otázka. Samozřejmě, že o forcích víte."
+    },
+    {
+      "key": "PrinceEric_005_f",
+      "en": "Ha! Yes. Exactly. I was just thinking...",
+      "cz": "Ha! Ano. Přesně tak. Jen jsem si říkal...",
+      "source": "pre_existing",
+      "original_cz": "Ha! Ano. Přesně tak. Jen jsem si říkal..."
+    }
+  ],
+  "PrinceEric/PrinceEric_GiftThanks_HappyGiftThanks001.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "Thanks, {PlayerName}!",
+      "cz": "Díky, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Díky, {PlayerName}!"
+    }
+  ],
+  "PrinceEric/PrinceEric_Greetings_Greeting001.locbin": [
+    {
+      "key": "PrinceEric_001_f",
+      "en": "Hi, {PlayerName}!",
+      "cz": "Ahoj, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}!"
+    },
+    {
+      "key": "Player_001_exit_000_f",
+      "en": "Sorry, I can't talk now.",
+      "cz": "Promiňte, teď nemůžu mluvit.",
+      "source": "pre_existing",
+      "original_cz": "Promiňte, teď nemůžu mluvit."
+    }
+  ],
+  "PrinceEric/PrinceEric_Greetings_RealmGreeting001.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "I'm glad you're here.",
+      "cz": "Jsem rád, že jsi tady.",
+      "source": "pre_existing",
+      "original_cz": "Jsem rád, že jsi tady."
+    }
+  ],
+  "PrinceEric/PrinceEric_Hangouts_EndHangout001.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "Sure! I bet we can find an adventure or two.",
+      "cz": "Jasně! Vsadím se, že si najdeme nějaké to dobrodružství nebo dvě.",
+      "source": "pre_existing",
+      "original_cz": "Jasně! Vsadím se, že si najdeme nějaké to dobrodružství nebo dvě."
+    }
+  ],
+  "PrinceEric/PrinceEric_Hangouts_StartHangout001.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "So long! Let me know when you want to go on another expedition!",
+      "cz": "Nashledanou! Dejte mi vědět, až budete chtít jet na další expedici!",
+      "source": "pre_existing",
+      "original_cz": "Nashledanou! Dejte mi vědět, až budete chtít jet na další expedici!"
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_010_VLG_Eric_010_BringItem03.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "{PlayerName}, this looks delicious. Even better than what Chef Louis makes. Thanks!",
+      "cz": "{PlayerName}, tohle vypadá lahodně. Ještě lépe než to, co dělá šéfkuchař Louis. Díky!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, tohle vypadá lahodně. Ještě lépe než to, co dělá šéfkuchař Louis. Díky!"
+    },
+    {
+      "key": "PrinceEric_011_f",
+      "en": "Wow, that was great. I feel so much better. I can't wait to talk to Ariel.",
+      "cz": "Páni, to bylo skvělé. Cítím se mnohem lépe. Nemůžu se dočkat, až si promluvím s Ariel.",
+      "source": "pre_existing",
+      "original_cz": "Páni, to bylo skvělé. Cítím se mnohem lépe. Nemůžu se dočkat, až si promluvím s Ariel."
+    },
+    {
+      "key": "PrinceEric_001_f",
+      "en": "I know she'll be so happy to see you. Let's go now!",
+      "cz": "Vím, že tě bude moc ráda vidět. Pojďme hned!",
+      "source": "pre_existing",
+      "original_cz": "Vím, že tě bude moc ráda vidět. Pojďme hned!"
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_010_VLG_Eric_010_Ongoing01.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "... ...",
+      "cz": "... ...",
+      "source": "pre_existing",
+      "original_cz": "... ..."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_010_VLG_Eric_010_Ongoing02.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "... ...",
+      "cz": "... ...",
+      "source": "pre_existing",
+      "original_cz": "... ..."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_010_VLG_Eric_010_Ongoing03.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "... ...",
+      "cz": "... ...",
+      "source": "pre_existing",
+      "original_cz": "... ..."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_010_VLG_Eric_010_Ongoing04.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "Use the Scrooge sign to pay for the construction of my House.",
+      "cz": "Použijte Scroogův znak k zaplacení stavby mého domu.",
+      "source": "pre_existing",
+      "original_cz": "Použijte Scroogův znak k zaplacení stavby mého domu."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_010_VLG_Eric_010_Ongoing06.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "... ...",
+      "cz": "... ...",
+      "source": "pre_existing",
+      "original_cz": "... ..."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_010_VLG_Eric_010_Ongoing07.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "Whoa, am I glad to be back in the Valley.",
+      "cz": "Páni, to jsem rád, že jsem zpátky v Údolí.",
+      "source": "pre_existing",
+      "original_cz": "Páni, to jsem rád, že jsem zpátky v Údolí."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_010_VLG_Eric_010_Ongoing10.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "I've gotta talk to Ariel. Could you follow me? I'd like to talk to you after.",
+      "cz": "Musím mluvit s Ariel. Mohla bys jít za mnou? Rád bych si s tebou promluvil potom.",
+      "source": "pre_existing",
+      "original_cz": "Musím mluvit s Ariel. Mohla bys jít za mnou? Rád bych si s tebou promluvil potom."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_010_VLG_Eric_010_Ongoing12.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "I could really use some food. You said something about <ActivityItem>Gazpacho</ActivityItem>, <ActivityItem>Vegetable Stew</ActivityItem>, and a fresh <ActivityItem>Berry Salad</ActivityItem>.",
+      "cz": "Opravdu bych potřeboval nějaké jídlo. Říkal jsi něco o <ActivityItem>Gazpachu</ActivityItem>, <ActivityItem>Zeleninovém guláši</ActivityItem> a čerstvém <ActivityItem>Bobulovém salátu</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Opravdu bych potřeboval nějaké jídlo. Říkal jsi něco o <ActivityItem>Gazpachu</ActivityItem>, <ActivityItem>Zeleninovém guláši</ActivityItem> a čerstvém <ActivityItem>Bobulovém salátu</ActivityItem>."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_010_VLG_Eric_010_Ongoing13.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "I could really use some food. You said something about <ActivityItem>Gazpacho</ActivityItem>, <ActivityItem>Vegetable Stew</ActivityItem>, and a fresh <ActivityItem>Berry Salad</ActivityItem>.",
+      "cz": "Opravdu bych potřeboval nějaké jídlo. Říkal jsi něco o <ActivityItem>Gazpachu</ActivityItem>, <ActivityItem>Zeleninovém guláši</ActivityItem> a čerstvém <ActivityItem>Bobulovém salátu</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Opravdu bych potřeboval nějaké jídlo. Říkal jsi něco o <ActivityItem>Gazpachu</ActivityItem>, <ActivityItem>Zeleninovém guláši</ActivityItem> a čerstvém <ActivityItem>Bobulovém salátu</ActivityItem>."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_010_VLG_Eric_010_Outro.locbin": [
+    {
+      "key": "PrinceEric_001_f",
+      "en": "I can't thank you enough, {PlayerName}. There were times when Ursula had me captive that I lost hope. I thought I'd never see Ariel again.",
+      "cz": "Nemohu ti dostatečně poděkovat, {PlayerName}. Byly chvíle, kdy mě Ursula držela v zajetí, že jsem ztrácel naději. Myslel jsem, že už Ariel nikdy neuvidím.",
+      "source": "pre_existing",
+      "original_cz": "Nemohu ti dostatečně poděkovat, {PlayerName}. Byly chvíle, kdy mě Ursula držela v zajetí, že jsem ztrácel naději. Myslel jsem, že už Ariel nikdy neuvidím."
+    },
+    {
+      "key": "PrinceEric_002_f",
+      "en": "But now, because of you, we're reunited.",
+      "cz": "Ale teď, díky tobě, jsme znovu shledáni.",
+      "source": "pre_existing",
+      "original_cz": "Ale teď, díky tobě, jsme znovu shledáni."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm a sucker for a good love story.",
+      "cz": "Jsem slabý na dobré milostné příběhy.",
+      "source": "pre_existing",
+      "original_cz": "Jsem slabý na dobré milostné příběhy."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I couldn't let Ursula win.",
+      "cz": "Nemohl jsem nechat Ursulu vyhrát.",
+      "source": "pre_existing",
+      "original_cz": "Nemohl jsem nechat Ursulu vyhrát."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "No problem. Helping the Valley is what I do.",
+      "cz": "Žádný problém. Pomáhám údolí.",
+      "source": "pre_existing",
+      "original_cz": "Žádný problém. Pomáhám údolí."
+    },
+    {
+      "key": "PrinceEric_003_f",
+      "en": "There's just one thing I can't stop thinking about.",
+      "cz": "Je jen jedna věc, na kterou nemůžu přestat myslet.",
+      "source": "pre_existing",
+      "original_cz": "Je jen jedna věc, na kterou nemůžu přestat myslet."
+    },
+    {
+      "key": "PrinceEric_004_f",
+      "en": "Something Ursula said to taunt me...",
+      "cz": "Něco, co mi Ursula řekla, aby se mi posmívala...",
+      "source": "pre_existing",
+      "original_cz": "Něco, co mi Ursula řekla, aby se mi posmívala..."
+    },
+    {
+      "key": "PrinceEric_005_f",
+      "en": "Actually, never mind. You've already helped me enough for one day. I'm gonna try to solve this mystery on my own.",
+      "cz": "Vlastně, nevadí. Už jsi mi na jeden den pomohl dost. Zkusím tuhle záhadu vyřešit sám.",
+      "source": "pre_existing",
+      "original_cz": "Vlastně, nevadí. Už jsi mi na jeden den pomohl dost. Zkusím tuhle záhadu vyřešit sám."
+    },
+    {
+      "key": "PrinceEric_006_f",
+      "en": "Thanks again, {PlayerName}!",
+      "cz": "Ještě jednou díky, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Ještě jednou díky, {PlayerName}!"
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_010_VLG_Eric_010_TalkTo02.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "Is it true? Am I really human again...?",
+      "cz": "Je to pravda? Jsem zase opravdu člověk...?",
+      "source": "pre_existing",
+      "original_cz": "Je to pravda? Jsem zase opravdu člověk...?"
+    },
+    {
+      "key": "PrinceEric_007_f",
+      "en": "I am! And it's all thanks to you! I don't know how I'll ever repay you.",
+      "cz": "Jsem! A to všechno díky tobě! Nevím, jak se ti to kdy oplatím.",
+      "source": "pre_existing",
+      "original_cz": "Jsem! A to všechno díky tobě! Nevím, jak se ti to kdy oplatím."
+    },
+    {
+      "key": "PrinceEric_001_f",
+      "en": "Oh, and... heh-heh, just so you know, I was conscious the whole time, bumping around inside your pack. You should really clean that thing out.",
+      "cz": "Aha, a... heh-heh, jen abys věděl, celou dobu jsem byl při vědomí a poskakoval jsem v tvém batohu. Měl by sis tu věc opravdu vyčistit.",
+      "source": "pre_existing",
+      "original_cz": "Aha, a... heh-heh, jen abys věděl, celou dobu jsem byl při vědomí a poskakoval jsem v tvém batohu. Měl by sis tu věc opravdu vyčistit."
+    },
+    {
+      "key": "Player_000_choice_003_f",
+      "en": "Yeah, I know.",
+      "cz": "Jo, já vím.",
+      "source": "pre_existing",
+      "original_cz": "Jo, já vím."
+    },
+    {
+      "key": "Player_000_choice_004_f",
+      "en": "Maybe later.",
+      "cz": "Možná později.",
+      "source": "pre_existing",
+      "original_cz": "Možná později."
+    },
+    {
+      "key": "Player_000_choice_005_f",
+      "en": "But I never know what I'll need!",
+      "cz": "Ale nikdy nevím, co budu potřebovat!",
+      "source": "pre_existing",
+      "original_cz": "Ale nikdy nevím, co budu potřebovat!"
+    },
+    {
+      "key": "PrinceEric_008_f",
+      "en": "Wait a second... where's Ariel?! Is she okay? What did Ursula do to her?",
+      "cz": "Počkej chvilku... kde je Ariel?! Je v pořádku? Co jí Ursula udělala?",
+      "source": "pre_existing",
+      "original_cz": "Počkej chvilku... kde je Ariel?! Je v pořádku? Co jí Ursula udělala?"
+    },
+    {
+      "key": "PrinceEric_006_f",
+      "en": "Ursula sent her to a deserted island. But she's safe now. She helped me rescue you!",
+      "cz": "Ursula ji poslala na opuštěný ostrov. Ale teď je v bezpečí. Pomohla mi tě zachránit!",
+      "source": "pre_existing",
+      "original_cz": "Ursula ji poslala na opuštěný ostrov. Ale teď je v bezpečí. Pomohla mi tě zachránit!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "She'll be happy to see you.",
+      "cz": "Bude ráda, až tě uvidí.",
+      "source": "pre_existing",
+      "original_cz": "Bude ráda, až tě uvidí."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "But let's hear more about your story.",
+      "cz": "Ale pojďme si poslechnout více o vašem příběhu.",
+      "source": "pre_existing",
+      "original_cz": "Ale pojďme si poslechnout více o vašem příběhu."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "She's pretty mad at Ursula...",
+      "cz": "Je na Ursulu docela naštvaná...",
+      "source": "pre_existing",
+      "original_cz": "Je na Ursulu docela naštvaná..."
+    },
+    {
+      "key": "PrinceEric_002_f",
+      "en": "I've got to see her right away. Whoa...",
+      "cz": "Musím ji hned vidět. Páni...",
+      "source": "pre_existing",
+      "original_cz": "Musím ji hned vidět. Páni..."
+    },
+    {
+      "key": "PrinceEric_009_f",
+      "en": "Wow... I'm so famished I can barely walk. I can't face her like this... not after everything... I have to get my strength back first.",
+      "cz": "Páni... Jsem tak vyhladovělý, že sotva chodím. Nemůžu se jí takhle podívat do očí... ne po tom všem... Nejdřív musím nabrat síly.",
+      "source": "pre_existing",
+      "original_cz": "Páni... Jsem tak vyhladovělý, že sotva chodím. Nemůžu se jí takhle podívat do očí... ne po tom všem... Nejdřív musím nabrat síly."
+    },
+    {
+      "key": "PrinceEric_010_f",
+      "en": "No problem. I'll whip up a dish for you that's fit for a prince. How does <ActivityItem>Gazpacho</ActivityItem>, <ActivityItem>Vegetable Stew</ActivityItem>, and a fresh <ActivityItem>Berry Salad</ActivityItem> sound?",
+      "cz": "Žádný problém. Uvařím pro vás pokrm hodné prince. Co říkáte na <ActivityItem>Gazpacho</ActivityItem>, <ActivityItem>Zeleninový guláš</ActivityItem> a čerstvý <ActivityItem>Bobulový salát</ActivityItem>?",
+      "source": "pre_existing",
+      "original_cz": "Žádný problém. Uvařím pro vás pokrm hodné prince. Co říkáte na <ActivityItem>Gazpacho</ActivityItem>, <ActivityItem>Zeleninový guláš</ActivityItem> a čerstvý <ActivityItem>Bobulový salát</ActivityItem>?"
+    },
+    {
+      "key": "PrinceEric_011_f",
+      "en": "That sounds incredible!",
+      "cz": "To zní neuvěřitelně!",
+      "source": "pre_existing",
+      "original_cz": "To zní neuvěřitelně!"
+    },
+    {
+      "key": "PrinceEric_012_f",
+      "en": "Thanks, {PlayerName}.",
+      "cz": "Díky, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Díky, {PlayerName}."
+    },
+    {
+      "key": "PrinceEric_003_f",
+      "en": "I'll tell you everything. But not right now. I need to see Ariel... Whoa...",
+      "cz": "Řeknu ti všechno. Ale ne hned. Potřebuji vidět Ariel... Páni...",
+      "source": "pre_existing",
+      "original_cz": "Řeknu ti všechno. Ale ne hned. Potřebuji vidět Ariel... Páni..."
+    },
+    {
+      "key": "PrinceEric_004_f",
+      "en": "So am I.",
+      "cz": "Já taky.",
+      "source": "pre_existing",
+      "original_cz": "Já taky."
+    },
+    {
+      "key": "PrinceEric_005_f",
+      "en": "I have to go see Ariel right away... Whoa...",
+      "cz": "Musím hned jít za Ariel... Páni...",
+      "source": "pre_existing",
+      "original_cz": "Musím hned jít za Ariel... Páni..."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_020_VLG_Eric_020_Intro.locbin": [
+    {
+      "key": "PrinceEric_009_f",
+      "en": "{PlayerName}, I could use your help solving a mystery that came up while I was being held captive by Ursula.",
+      "cz": "{PlayerName}, potřeboval bych tvou pomoc s vyřešením záhady, která vyvstala, když mě držela v zajetí Ursula.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, potřeboval bych tvou pomoc s vyřešením záhady, která vyvstala, když mě držela v zajetí Ursula."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Yes. Tell me everything.",
+      "cz": "Ano. Řekni mi všechno.",
+      "source": "pre_existing",
+      "original_cz": "Ano. Řekni mi všechno."
+    },
+    {
+      "key": "Player_001_choice_003_f",
+      "en": "Some other time, sorry.",
+      "cz": "Někdy jindy, omlouvám se.",
+      "source": "pre_existing",
+      "original_cz": "Někdy jindy, omlouvám se."
+    },
+    {
+      "key": "PrinceEric_000_f",
+      "en": "While she had me in her little \"garden,\" Ursula liked to taunt me with something.",
+      "cz": "Zatímco mě měla Ursula ve své malé „zahrádce“, ráda si ze mě něčím utahovala.",
+      "source": "pre_existing",
+      "original_cz": "Zatímco mě měla Ursula ve své malé „zahrádce“, ráda si ze mě něčím utahovala."
+    },
+    {
+      "key": "PrinceEric_010_f",
+      "en": "She said there was a way that Ariel wouldn't have to be torn between worlds anymore. That we could be together on land whenever we wanted.",
+      "cz": "Řekla, že existuje způsob, jak Ariel už nebude muset být rozpolcená mezi světy. Že můžeme být spolu na souši, kdykoli budeme chtít.",
+      "source": "pre_existing",
+      "original_cz": "Řekla, že existuje způsob, jak Ariel už nebude muset být rozpolcená mezi světy. Že můžeme být spolu na souši, kdykoli budeme chtít."
+    },
+    {
+      "key": "PrinceEric_002_f",
+      "en": "She said there's a kind of magic that would allow Ariel to change between human and mermaid.",
+      "cz": "Řekla, že existuje druh magie, která by Ariel umožnila proměnit se z člověka na mořskou pannu.",
+      "source": "pre_existing",
+      "original_cz": "Řekla, že existuje druh magie, která by Ariel umožnila proměnit se z člověka na mořskou pannu."
+    },
+    {
+      "key": "PrinceEric_001_f",
+      "en": "I've been looking in every book in Merlin's library, but I can't figure out what she was talking about. It must be Dreamlight Magic.",
+      "cz": "Prohledal jsem každou knihu v Merlinově knihovně, ale nemůžu přijít na to, o čem mluvila. Musí to být Kouzlo snového světla.",
+      "source": "pre_existing",
+      "original_cz": "Prohledal jsem každou knihu v Merlinově knihovně, ale nemůžu přijít na to, o čem mluvila. Musí to být Kouzlo snového světla."
+    },
+    {
+      "key": "Player_000_f",
+      "en": "Hmm. So it's all about changing shape... I should speak to Maui...",
+      "cz": "Hmm. Takže jde jen o změnu tvaru... Měl bych si promluvit s Maui...",
+      "source": "pre_existing",
+      "original_cz": "Hmm. Takže jde jen o změnu tvaru... Měl bych si promluvit s Maui..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "He's got a power like that.",
+      "cz": "Má takovou moc.",
+      "source": "pre_existing",
+      "original_cz": "Má takovou moc."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "He's been around a long time. I bet he's seen a lot of weird magic.",
+      "cz": "Je tu už dlouho. Vsadím se, že viděl spoustu podivné magie.",
+      "source": "pre_existing",
+      "original_cz": "Je tu už dlouho. Vsadím se, že viděl spoustu podivné magie."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "He's a demigod after all.",
+      "cz": "Koneckonců je to polobůh.",
+      "source": "pre_existing",
+      "original_cz": "Koneckonců je to polobůh."
+    },
+    {
+      "key": "PrinceEric_005_f",
+      "en": "Right! Maybe he can teach Ariel.",
+      "cz": "Správně! Možná by mohl naučit Ariel.",
+      "source": "pre_existing",
+      "original_cz": "Správně! Možná by mohl naučit Ariel."
+    },
+    {
+      "key": "PrinceEric_008_f",
+      "en": "Thanks, {PlayerName}. Come back and see me after you talk to him.",
+      "cz": "Díky, {PlayerName}. Vrať se za mnou, až si s ním promluvíš.",
+      "source": "pre_existing",
+      "original_cz": "Díky, {PlayerName}. Vrať se za mnou, až si s ním promluvíš."
+    },
+    {
+      "key": "PrinceEric_006_f",
+      "en": "Yeah, maybe he heard about something like this on one of his adventures.",
+      "cz": "Jo, možná o něčem takovém slyšel na jednom ze svých dobrodružství.",
+      "source": "pre_existing",
+      "original_cz": "Jo, možná o něčem takovém slyšel na jednom ze svých dobrodružství."
+    },
+    {
+      "key": "PrinceEric_007_f",
+      "en": "Yeah, he probably knows all about this sort of stuff.",
+      "cz": "Jo, on o tomhle asi všechno ví.",
+      "source": "pre_existing",
+      "original_cz": "Jo, on o tomhle asi všechno ví."
+    },
+    {
+      "key": "PrinceEric_004_f",
+      "en": "That's okay. I'll be here when you have the time.",
+      "cz": "To je v pořádku. Budu tady, až budete mít čas.",
+      "source": "pre_existing",
+      "original_cz": "To je v pořádku. Budu tady, až budete mít čas."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_020_VLG_Eric_020_Ongoing01.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "You were gonna ask Maui about shapeshifting.",
+      "cz": "Chtěl ses Maui zeptat na měňavost.",
+      "source": "pre_existing",
+      "original_cz": "Chtěl ses Maui zeptat na měňavost."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_020_VLG_Eric_020_Ongoing03.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "Could you ask Remy for help with the bait?",
+      "cz": "Mohl bys požádat Remyho o pomoc s návnadou?",
+      "source": "pre_existing",
+      "original_cz": "Mohl bys požádat Remyho o pomoc s návnadou?"
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_020_VLG_Eric_020_Ongoing04.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "First, we need to gather the Ingredients for the bait. Remy must have told you what we need.",
+      "cz": "Nejdřív musíme shromáždit ingredience na návnadu. Remy ti musel říct, co potřebujeme.",
+      "source": "pre_existing",
+      "original_cz": "Nejdřív musíme shromáždit ingredience na návnadu. Remy ti musel říct, co potřebujeme."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_020_VLG_Eric_020_Ongoing07.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "Just place the bait on a hook and then we'll be ready.",
+      "cz": "Prostě nasaďte návnadu na háček a budeme připraveni.",
+      "source": "pre_existing",
+      "original_cz": "Prostě nasaďte návnadu na háček a budeme připraveni."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_020_VLG_Eric_020_Ongoing08.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "We have everything we need to catch the <ActivityItem>Nautilus</ActivityItem>. Now we just need to go fish it out of the sea.",
+      "cz": "Máme vše, co potřebujeme k ulovení <ActivityItem>Nautiluse</ActivityItem>. Teď už ho jen musíme vylovit z moře.",
+      "source": "pre_existing",
+      "original_cz": "Máme vše, co potřebujeme k ulovení <ActivityItem>Nautiluse</ActivityItem>. Teď už ho jen musíme vylovit z moře."
+    },
+    {
+      "key": "PrinceEric_001_f",
+      "en": "I think we should go to <Lore>where the river meets the sea on Dazzle Beach</Lore>. The currents will help the smell reach the depths.",
+      "cz": "Myslím, že bychom měli jet na <Lore>místo, kde se řeka setkává s mořem na Dazzle Beach</Lore>. Proudy pomohou vůni dosáhnout hlubin.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že bychom měli jet na <Lore>místo, kde se řeka setkává s mořem na Dazzle Beach</Lore>. Proudy pomohou vůni dosáhnout hlubin."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_020_VLG_Eric_020_Ongoing09.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "It sounds like you need to make a Shapeshifting Enchantment.",
+      "cz": "Zní to, jako bys potřeboval vytvořit kouzlo pro měnící se tvar.",
+      "source": "pre_existing",
+      "original_cz": "Zní to, jako bys potřeboval vytvořit kouzlo pro měnící se tvar."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_020_VLG_Eric_020_Ongoing10.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "Now that we have everything, I guess you just need to craft the enchantment.",
+      "cz": "Teď, když už máme všechno, asi už jen zbývá vyrobit kouzlo.",
+      "source": "pre_existing",
+      "original_cz": "Teď, když už máme všechno, asi už jen zbývá vyrobit kouzlo."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_020_VLG_Eric_020_Ongoing12.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "Let's bring the <ActivityItem>Nautilus Pendant</ActivityItem> to Ariel.",
+      "cz": "Přinesme Ariel <ActivityItem>Přívěsek Nautilus</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Přinesme Ariel <ActivityItem>Přívěsek Nautilus</ActivityItem>."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_020_VLG_Eric_020_Outro.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "It worked, {PlayerName}! Now Ariel and I can be together in the Village and Ursula can't do anything about it.",
+      "cz": "Fungovalo to, {PlayerName}! Teď můžeme být s Ariel spolu ve vesnici a Ursula s tím nic nenadělá.",
+      "source": "pre_existing",
+      "original_cz": "Fungovalo to, {PlayerName}! Teď můžeme být s Ariel spolu ve vesnici a Ursula s tím nic nenadělá."
+    },
+    {
+      "key": "PrinceEric_001_f",
+      "en": "I can't thank you enough. We're finally gonna be able to enjoy our life together here.",
+      "cz": "Nemohu vám dostatečně poděkovat. Konečně si budeme moci užívat náš společný život tady.",
+      "source": "pre_existing",
+      "original_cz": "Nemohu vám dostatečně poděkovat. Konečně si budeme moci užívat náš společný život tady."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_020_VLG_Eric_020_TalkTo02.locbin": [
+    {
+      "key": "PrinceEric_004_f",
+      "en": "Did you learn anything from Maui?",
+      "cz": "Naučil ses něco z Maui?",
+      "source": "pre_existing",
+      "original_cz": "Naučil ses něco z Maui?"
+    },
+    {
+      "key": "PrinceEric_002_f",
+      "en": "He told me we need to enchant an object. I put together everything we need for the spell... except for the object we need to enchant.",
+      "cz": "Řekl mi, že musíme očarovat nějaký předmět. Připravil jsem si všechno, co potřebujeme pro kouzlo... kromě předmětu, který potřebujeme očarovat.",
+      "source": "pre_existing",
+      "original_cz": "Řekl mi, že musíme očarovat nějaký předmět. Připravil jsem si všechno, co potřebujeme pro kouzlo... kromě předmětu, který potřebujeme očarovat."
+    },
+    {
+      "key": "PrinceEric_000_f",
+      "en": "Enchanting an object? That sounds familiar...",
+      "cz": "Očarování předmětu? To zní povědomě...",
+      "source": "pre_existing",
+      "original_cz": "Očarování předmětu? To zní povědomě..."
+    },
+    {
+      "key": "PrinceEric_001_f",
+      "en": "Wait! Ursula! When she made a deal with Ariel for her voice, Ursula used a Nautilus shell pendant.",
+      "cz": "Počkej! Ursulo! Když uzavřela dohodu s Ariel o jejím hlasu, Ursula použila přívěsek z mušle Nautilus.",
+      "source": "pre_existing",
+      "original_cz": "Počkej! Ursulo! Když uzavřela dohodu s Ariel o jejím hlasu, Ursula použila přívěsek z mušle Nautilus."
+    },
+    {
+      "key": "PrinceEric_007_f",
+      "en": "It allowed her to speak with Ariel's voice. So we know they can be enchanted!",
+      "cz": "Umožnilo jí to mluvit Arieliným hlasem. Takže víme, že je lze očarovat!",
+      "source": "pre_existing",
+      "original_cz": "Umožnilo jí to mluvit Arieliným hlasem. Takže víme, že je lze očarovat!"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "A Nautilus shell...",
+      "cz": "Mušle Nautilus...",
+      "source": "pre_existing",
+      "original_cz": "Mušle Nautilus..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's get one.",
+      "cz": "Pojďme si jeden dát.",
+      "source": "pre_existing",
+      "original_cz": "Pojďme si jeden dát."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Is that an octopus snail?",
+      "cz": "Je to chobotnice-hlemýžď?",
+      "source": "pre_existing",
+      "original_cz": "Je to chobotnice-hlemýžď?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I've never fished one out before.",
+      "cz": "Nikdy předtím jsem žádný nevylovil.",
+      "source": "pre_existing",
+      "original_cz": "Nikdy předtím jsem žádný nevylovil."
+    },
+    {
+      "key": "PrinceEric_008_f",
+      "en": "It won't be easy; they live deep under the waves, but maybe we can lure one up.",
+      "cz": "Nebude to snadné; žijí hluboko pod vlnami, ale možná se nám podaří jednoho vylákat nahoru.",
+      "source": "pre_existing",
+      "original_cz": "Nebude to snadné; žijí hluboko pod vlnami, ale možná se nám podaří jednoho vylákat nahoru."
+    },
+    {
+      "key": "PrinceEric_013_f",
+      "en": "They're scavengers. We'll need something that smells awful, like it comes from the depths of the ocean. I have this <ActivityItem>Fish Gut Oil</ActivityItem> sailors sometimes use.",
+      "cz": "Jsou to mrchožrouti. Budeme potřebovat něco, co hrozně páchne, jako by to pocházelo z hlubin oceánu. Mám tenhle <ActivityItem>rybí olej</ActivityItem>, který námořníci někdy používají.",
+      "source": "pre_existing",
+      "original_cz": "Jsou to mrchožrouti. Budeme potřebovat něco, co hrozně páchne, jako by to pocházelo z hlubin oceánu. Mám tenhle <ActivityItem>rybí olej</ActivityItem>, který námořníci někdy používají."
+    },
+    {
+      "key": "PrinceEric_011_f",
+      "en": "Maybe we can combine it with some other Ingredients... But I'm not sure what would work.",
+      "cz": "Možná bychom to mohli zkombinovat s nějakými dalšími ingrediencemi... Ale nejsem si jistý, co by fungovalo.",
+      "source": "pre_existing",
+      "original_cz": "Možná bychom to mohli zkombinovat s nějakými dalšími ingrediencemi... Ale nejsem si jistý, co by fungovalo."
+    },
+    {
+      "key": "Player_001_f",
+      "en": "I'll ask Remy. He knows everything about...",
+      "cz": "Zeptám se Remyho. Ví všechno o...",
+      "source": "pre_existing",
+      "original_cz": "Zeptám se Remyho. Ví všechno o..."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "...how to put together flavors.",
+      "cz": "...jak kombinovat příchutě.",
+      "source": "pre_existing",
+      "original_cz": "...jak kombinovat příchutě."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "...seafood.",
+      "cz": "...mořské plody.",
+      "source": "pre_existing",
+      "original_cz": "...mořské plody."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "...scavenging. He IS a rat.",
+      "cz": "...sbírá poklady. ON JE krysa.",
+      "source": "pre_existing",
+      "original_cz": "...sbírá poklady. ON JE krysa."
+    },
+    {
+      "key": "PrinceEric_003_f",
+      "en": "That's great! Here, take the <ActivityItem>Fish Gut Oil</ActivityItem> with you. And thanks again for helping me.",
+      "cz": "To je skvělé! Tady, vezmi si s sebou <ActivityItem>rybí olej</ActivityItem>. A ještě jednou díky za pomoc.",
+      "source": "pre_existing",
+      "original_cz": "To je skvělé! Tady, vezmi si s sebou <ActivityItem>rybí olej</ActivityItem>. A ještě jednou díky za pomoc."
+    },
+    {
+      "key": "PrinceEric_009_f",
+      "en": "That's a pretty good description, {PlayerName}.",
+      "cz": "To je docela dobrý popis, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "To je docela dobrý popis, {PlayerName}."
+    },
+    {
+      "key": "PrinceEric_010_f",
+      "en": "That's not surprising. They're rare on the surface but maybe we can lure one up.",
+      "cz": "To není překvapivé. Na povrchu jsou vzácní, ale možná se nám podaří jednoho vylákat nahoru.",
+      "source": "pre_existing",
+      "original_cz": "To není překvapivé. Na povrchu jsou vzácní, ale možná se nám podaří jednoho vylákat nahoru."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_020_VLG_Eric_020_TalkTo03.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "You did it! I'm impressed, {PlayerName}.",
+      "cz": "Dokázal jsi to! Jsem ohromen, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Dokázal jsi to! Jsem ohromen, {PlayerName}."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Oh, thank you!",
+      "cz": "Děkuji!",
+      "source": "pre_existing",
+      "original_cz": "Děkuji!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I hope it'll help you and Ariel.",
+      "cz": "Doufám, že to pomůže tobě a Ariel.",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že to pomůže tobě a Ariel."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Yeah, I'm the best, I know.",
+      "cz": "Jo, jsem nejlepší, to vím.",
+      "source": "pre_existing",
+      "original_cz": "Jo, jsem nejlepší, to vím."
+    },
+    {
+      "key": "PrinceEric_001_f",
+      "en": "Hey, I should be the one thanking you.",
+      "cz": "Hej, to já bych ti měl poděkovat.",
+      "source": "pre_existing",
+      "original_cz": "Hej, to já bych ti měl poděkovat."
+    },
+    {
+      "key": "PrinceEric_005_f",
+      "en": "Now I'll just put together the enchantment you made with the Nautilus shell...",
+      "cz": "Teď jen dám dohromady kouzlo, které jsi vytvořil s mušlí Nautilus...",
+      "source": "pre_existing",
+      "original_cz": "Teď jen dám dohromady kouzlo, které jsi vytvořil s mušlí Nautilus..."
+    },
+    {
+      "key": "PrinceEric_004_f",
+      "en": "There! Now we just have to give the <ActivityItem>Nautilus Pendant</ActivityItem> to Ariel.",
+      "cz": "Tak! Teď už jen musíme dát Ariel <ActivityItem>Přívěsek Nautilus</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Tak! Teď už jen musíme dát Ariel <ActivityItem>Přívěsek Nautilus</ActivityItem>."
+    },
+    {
+      "key": "PrinceEric_002_f",
+      "en": "There's only one way to find out.",
+      "cz": "Existuje jen jeden způsob, jak to zjistit.",
+      "source": "pre_existing",
+      "original_cz": "Existuje jen jeden způsob, jak to zjistit."
+    },
+    {
+      "key": "PrinceEric_003_f",
+      "en": "And you certainly are confident.",
+      "cz": "A vy jste si jistý/á.",
+      "source": "pre_existing",
+      "original_cz": "A vy jste si jistý/á."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_030_VLG_Eric_030_BringItem01.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "These maps are great!",
+      "cz": "Tyto mapy jsou skvělé!",
+      "source": "pre_existing",
+      "original_cz": "Tyto mapy jsou skvělé!"
+    },
+    {
+      "key": "PrinceEric_001_f",
+      "en": "But Mr. McDuck said they won't be much help to you if you haven't got a compass.",
+      "cz": "Ale pan McDuck řekl, že vám moc nepomohou, pokud nemáte kompas.",
+      "source": "pre_existing",
+      "original_cz": "Ale pan McDuck řekl, že vám moc nepomohou, pokud nemáte kompas."
+    },
+    {
+      "key": "PrinceEric_002_f",
+      "en": "Oh, I have one. You gave it to me, back before the Forgetting. But something happened to it while Ursula held me prisoner. It doesn't work anymore.",
+      "cz": "Ach, jeden mám. Dal jsi mi ho, před Zapomněním. Ale něco se s ním stalo, když mě Ursula držela jako zajatce. Už to nefunguje.",
+      "source": "pre_existing",
+      "original_cz": "Ach, jeden mám. Dal jsi mi ho, před Zapomněním. Ale něco se s ním stalo, když mě Ursula držela jako zajatce. Už to nefunguje."
+    },
+    {
+      "key": "Player_000_f",
+      "en": "It must have gotten demagnetized. I'll go see WALL·E...",
+      "cz": "Muselo se to demagnetizovat. Půjdu se podívat na WALL·E...",
+      "source": "pre_existing",
+      "original_cz": "Muselo se to demagnetizovat. Půjdu se podívat na WALL·E..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "He's always happy to help.",
+      "cz": "Vždycky rád pomůže.",
+      "source": "pre_existing",
+      "original_cz": "Vždycky rád pomůže."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "His collection must hold the solution.",
+      "cz": "Jeho sbírka musí obsahovat řešení.",
+      "source": "pre_existing",
+      "original_cz": "Jeho sbírka musí obsahovat řešení."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "He's good with mechanical stuff.",
+      "cz": "Je dobrý v mechanice.",
+      "source": "pre_existing",
+      "original_cz": "Je dobrý v mechanice."
+    },
+    {
+      "key": "PrinceEric_003_f",
+      "en": "That funny little metal guy? He's Ariel's friend. And you're right; I'm sure he'll know what to do.",
+      "cz": "Ten legrační malý kovový chlapík? Je to Arielin kamarád. A máš pravdu; jsem si jistý, že bude vědět, co má dělat.",
+      "source": "pre_existing",
+      "original_cz": "Ten legrační malý kovový chlapík? Je to Arielin kamarád. A máš pravdu; jsem si jistý, že bude vědět, co má dělat."
+    },
+    {
+      "key": "PrinceEric_006_f",
+      "en": "Here. Take my Compass. I'll start looking over these new maps.",
+      "cz": "Tady. Vezmi si můj kompas. Začnu si prohlížet tyhle nové mapy.",
+      "source": "pre_existing",
+      "original_cz": "Tady. Vezmi si můj kompas. Začnu si prohlížet tyhle nové mapy."
+    },
+    {
+      "key": "PrinceEric_004_f",
+      "en": "I wouldn't be surprised. He collects tons of stuff.",
+      "cz": "Nebyl bych překvapen. Sbírá spoustu věcí.",
+      "source": "pre_existing",
+      "original_cz": "Nebyl bych překvapen. Sbírá spoustu věcí."
+    },
+    {
+      "key": "PrinceEric_005_f",
+      "en": "Good call. He's always tinkering around the Village.",
+      "cz": "Dobrá volba. Pořád si ve vesnici něco hraje.",
+      "source": "pre_existing",
+      "original_cz": "Dobrá volba. Pořád si ve vesnici něco hraje."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_030_VLG_Eric_030_BringItem04.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "Wow, {PlayerName}, you're pretty amazing. You got me the maps AND you fixed my Compass!",
+      "cz": "Páni, {PlayerName}, jsi fakt úžasný. Sehnal jsi mi mapy A OPRAVIL jsi mi kompas!",
+      "source": "pre_existing",
+      "original_cz": "Páni, {PlayerName}, jsi fakt úžasný. Sehnal jsi mi mapy A OPRAVIL jsi mi kompas!"
+    },
+    {
+      "key": "PrinceEric_001_f",
+      "en": "I'll be back at sea in no time. But before I go, there's something that I want to show you. Let's go to my House.",
+      "cz": "Za chvilku budu zpátky na moři. Ale než odejdu, chci ti něco ukázat. Pojďme do mého domu.",
+      "source": "pre_existing",
+      "original_cz": "Za chvilku budu zpátky na moři. Ale než odejdu, chci ti něco ukázat. Pojďme do mého domu."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_030_VLG_Eric_030_Intro.locbin": [
+    {
+      "key": "PrinceEric_002_f",
+      "en": "Hey {PlayerName}, do you have time to talk? I have something to ask you.",
+      "cz": "Ahoj {PlayerName}, máš čas si popovídat? Musím se tě na něco zeptat.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj {PlayerName}, máš čas si popovídat? Musím se tě na něco zeptat."
+    },
+    {
+      "key": "Player_000_choice_003_f",
+      "en": "Of course. How can I help?",
+      "cz": "Samozřejmě. Jak můžu pomoci?",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě. Jak můžu pomoci?"
+    },
+    {
+      "key": "Player_000_choice_004_f",
+      "en": "Not right now...",
+      "cz": "Teď ne...",
+      "source": "pre_existing",
+      "original_cz": "Teď ne..."
+    },
+    {
+      "key": "PrinceEric_000_f",
+      "en": "Would you say you yearn for adventure?",
+      "cz": "Řekl/a byste, že toužíte po dobrodružství?",
+      "source": "pre_existing",
+      "original_cz": "Řekl/a byste, že toužíte po dobrodružství?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Definitely!",
+      "cz": "Rozhodně!",
+      "source": "pre_existing",
+      "original_cz": "Rozhodně!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "This is the important question you wanted to ask?",
+      "cz": "Tohle je ta důležitá otázka, kterou jste chtěl položit?",
+      "source": "pre_existing",
+      "original_cz": "Tohle je ta důležitá otázka, kterou jste chtěl položit?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Not really. I'd prefer to take a nap.",
+      "cz": "Ani ne. Raději bych si zdřímnul.",
+      "source": "pre_existing",
+      "original_cz": "Ani ne. Raději bych si zdřímnul."
+    },
+    {
+      "key": "PrinceEric_004_f",
+      "en": "I knew it! I bet it's why we get along so well. Anyway...",
+      "cz": "Já to věděl! Vsadím se, že proto si tak dobře rozumíme. Každopádně...",
+      "source": "pre_existing",
+      "original_cz": "Já to věděl! Vsadím se, že proto si tak dobře rozumíme. Každopádně..."
+    },
+    {
+      "key": "PrinceEric_007_f",
+      "en": "Before the Forgetting, I used to sail the seas around the Valley. It was great. The salty sea air. The wind blowing in your face.",
+      "cz": "Před Zapomněním jsem se plavil po mořích kolem Údolí. Bylo to skvělé. Slaný mořský vzduch. Vítr vanoucí do obličeje.",
+      "source": "pre_existing",
+      "original_cz": "Před Zapomněním jsem se plavil po mořích kolem Údolí. Bylo to skvělé. Slaný mořský vzduch. Vítr vanoucí do obličeje."
+    },
+    {
+      "key": "PrinceEric_011_f",
+      "en": "Sometimes, I'd even discover Valley artifacts and bring them back for archiving.",
+      "cz": "Někdy jsem dokonce objevil artefakty z Údolí a přinesl je zpět k archivaci.",
+      "source": "pre_existing",
+      "original_cz": "Někdy jsem dokonce objevil artefakty z Údolí a přinesl je zpět k archivaci."
+    },
+    {
+      "key": "Player_000_choice_006_f",
+      "en": "You need to start sailing again!",
+      "cz": "Musíš znovu začít plachtit!",
+      "source": "pre_existing",
+      "original_cz": "Musíš znovu začít plachtit!"
+    },
+    {
+      "key": "Player_000_choice_007_f",
+      "en": "You must miss it very much.",
+      "cz": "Musí ti to moc chybět.",
+      "source": "pre_existing",
+      "original_cz": "Musí ti to moc chybět."
+    },
+    {
+      "key": "Player_000_choice_008_f",
+      "en": "Okay, get to the point. What do you need?",
+      "cz": "Dobře, k věci. Co potřebujete?",
+      "source": "pre_existing",
+      "original_cz": "Dobře, k věci. Co potřebujete?"
+    },
+    {
+      "key": "PrinceEric_008_f",
+      "en": "I'd love to! But I can't go back unprepared. I need some help with my maps.",
+      "cz": "Rád bych! Ale nemůžu se vrátit nepřipravený. Potřebuji pomoct s mapami.",
+      "source": "pre_existing",
+      "original_cz": "Rád bych! Ale nemůžu se vrátit nepřipravený. Potřebuji pomoct s mapami."
+    },
+    {
+      "key": "PrinceEric_015_f",
+      "en": "There's something funny about the ocean now. It seems to change all the time.",
+      "cz": "Na oceánu je teď něco zvláštního. Zdá se, že se neustále mění.",
+      "source": "pre_existing",
+      "original_cz": "Na oceánu je teď něco zvláštního. Zdá se, že se neustále mění."
+    },
+    {
+      "key": "Player_001_f",
+      "en": "I'll go ask Scrooge McDuck. After all...",
+      "cz": "Jdu se zeptat Scrooge McDucka. Koneckonců...",
+      "source": "pre_existing",
+      "original_cz": "Jdu se zeptat Scrooge McDucka. Koneckonců..."
+    },
+    {
+      "key": "Player_000_choice_009_f",
+      "en": "...he's an adventurer himself.",
+      "cz": "...sám je dobrodruh.",
+      "source": "pre_existing",
+      "original_cz": "...sám je dobrodruh."
+    },
+    {
+      "key": "Player_000_choice_010_f",
+      "en": "...he'd never say no to a business opportunity.",
+      "cz": "...nikdy by neřekl ne obchodní příležitosti.",
+      "source": "pre_existing",
+      "original_cz": "...nikdy by neřekl ne obchodní příležitosti."
+    },
+    {
+      "key": "Player_000_choice_011_f",
+      "en": "...I won't give him a choice.",
+      "cz": "...Nedám mu na výběr.",
+      "source": "pre_existing",
+      "original_cz": "...Nedám mu na výběr."
+    },
+    {
+      "key": "PrinceEric_001_f",
+      "en": "Yeah, he does love treasure hunting.",
+      "cz": "Jo, miluje honbu za poklady.",
+      "source": "pre_existing",
+      "original_cz": "Jo, miluje honbu za poklady."
+    },
+    {
+      "key": "PrinceEric_014_f",
+      "en": "Could you ask him for any maps he has of the seas around the Valley? He'll know what we need.",
+      "cz": "Mohl byste ho požádat o nějaké mapy moří kolem údolí, které má? Bude vědět, co potřebujeme.",
+      "source": "pre_existing",
+      "original_cz": "Mohl byste ho požádat o nějaké mapy moří kolem údolí, které má? Bude vědět, co potřebujeme."
+    },
+    {
+      "key": "PrinceEric_012_f",
+      "en": "Yeah, you can always count on his interest in making money.",
+      "cz": "Ano, na jeho zájem o vydělávání peněz se můžete vždycky spolehnout.",
+      "source": "pre_existing",
+      "original_cz": "Ano, na jeho zájem o vydělávání peněz se můžete vždycky spolehnout."
+    },
+    {
+      "key": "PrinceEric_013_f",
+      "en": "Whoa, whoa! You should totally be nice.",
+      "cz": "No teda, no tak! Měl bys být fakt hodný.",
+      "source": "pre_existing",
+      "original_cz": "No teda, no tak! Měl bys být fakt hodný."
+    },
+    {
+      "key": "PrinceEric_009_f",
+      "en": "I do. I want to sail again, but first I need some updated maps...",
+      "cz": "Ano. Chci se znovu plavit, ale nejdřív potřebuji aktualizované mapy...",
+      "source": "pre_existing",
+      "original_cz": "Ano. Chci se znovu plavit, ale nejdřív potřebuji aktualizované mapy..."
+    },
+    {
+      "key": "PrinceEric_010_f",
+      "en": "I need maps. Mine date back to before the Forgetting, and they aren't accurate.",
+      "cz": "Potřebuji mapy. Ty moje pocházejí z doby před Zapomněním a nejsou přesné.",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji mapy. Ty moje pocházejí z doby před Zapomněním a nejsou přesné."
+    },
+    {
+      "key": "PrinceEric_005_f",
+      "en": "No. Sorry. I'll get to my real question.",
+      "cz": "Ne. Promiňte. Přejdu k mé hlavní otázce.",
+      "source": "pre_existing",
+      "original_cz": "Ne. Promiňte. Přejdu k mé hlavní otázce."
+    },
+    {
+      "key": "PrinceEric_006_f",
+      "en": "Really? Wow. That's funny, because adventure seems to find you. Anyway...",
+      "cz": "Vážně? Páni. To je vtipné, protože dobrodružství si vás, zdá se, samo najde. Každopádně...",
+      "source": "pre_existing",
+      "original_cz": "Vážně? Páni. To je vtipné, protože dobrodružství si vás, zdá se, samo najde. Každopádně..."
+    },
+    {
+      "key": "PrinceEric_003_f",
+      "en": "I understand. Let me know when you have some time.",
+      "cz": "Rozumím. Dej mi vědět, až budeš mít čas.",
+      "source": "pre_existing",
+      "original_cz": "Rozumím. Dej mi vědět, až budeš mít čas."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_030_VLG_Eric_030_Ongoing01.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "Scrooge McDuck must have maps that are more up to date than mine. Could you ask him?",
+      "cz": "Scrooge McDuck musí mít mapy, které jsou aktuálnější než ty moje. Mohl byste se ho zeptat?",
+      "source": "pre_existing",
+      "original_cz": "Scrooge McDuck musí mít mapy, které jsou aktuálnější než ty moje. Mohl byste se ho zeptat?"
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_030_VLG_Eric_030_Ongoing04.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "If Scrooge McDuck has any new maps, could you bring them to me?",
+      "cz": "Pokud má Scrooge McDuck nějaké nové mapy, mohl byste mi je přinést?",
+      "source": "pre_existing",
+      "original_cz": "Pokud má Scrooge McDuck nějaké nové mapy, mohl byste mi je přinést?"
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_030_VLG_Eric_030_Ongoing05.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "You were gonna show WALL·E my Broken Compass.",
+      "cz": "Chtěl jsi WALL·Emu ukázat můj Zlomený kompas.",
+      "source": "pre_existing",
+      "original_cz": "Chtěl jsi WALL·Emu ukázat můj Zlomený kompas."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_030_VLG_Eric_030_Ongoing06.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "My Compass needs a new <ActivityItem>Dreamlight Magnet</ActivityItem>, and WALL·E's book said we can make a new one using <ActivityItem>Tinkering Parts</ActivityItem>, <ActivityItem>Iron Ingots</ActivityItem>, and <ActivityItem>Crystals</ActivityItem>.",
+      "cz": "Můj kompas potřebuje nový <ActivityItem>Dreamlight Magnet</ActivityItem> a v knize WALL·Eho se píše, že si nový můžeme vyrobit s použitím <ActivityItem>Tinkering Parts</ActivityItem>, <ActivityItem>Iron Ingots</ActivityItem> a <ActivityItem>Crystals</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Můj kompas potřebuje nový <ActivityItem>Dreamlight Magnet</ActivityItem> a v knize WALL·Eho se píše, že si nový můžeme vyrobit s použitím <ActivityItem>Tinkering Parts</ActivityItem>, <ActivityItem>Iron Ingots</ActivityItem> a <ActivityItem>Crystals</ActivityItem>."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_030_VLG_Eric_030_Ongoing07.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "Once you have everything we need, we'll have to craft the magnet.",
+      "cz": "Jakmile budete mít vše, co potřebujeme, budeme muset vyrobit magnet.",
+      "source": "pre_existing",
+      "original_cz": "Jakmile budete mít vše, co potřebujeme, budeme muset vyrobit magnet."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_030_VLG_Eric_030_Ongoing08.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "Didn't WALL·E tell you to bring him the magnet once it's crafted?",
+      "cz": "Neřekl ti WALL·E, abys mu přinesl ten magnet, jakmile bude vyrobený?",
+      "source": "pre_existing",
+      "original_cz": "Neřekl ti WALL·E, abys mu přinesl ten magnet, jakmile bude vyrobený?"
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_030_VLG_Eric_030_Ongoing09.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "Well, I'd really like to get my Compass back.",
+      "cz": "No, opravdu bych rád dostal svůj kompas zpátky.",
+      "source": "pre_existing",
+      "original_cz": "No, opravdu bych rád dostal svůj kompas zpátky."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_030_VLG_Eric_030_Ongoing10.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "There's something I want to show you in my House. C'mon!",
+      "cz": "Chci ti něco ukázat ve svém domě. Pojď!",
+      "source": "pre_existing",
+      "original_cz": "Chci ti něco ukázat ve svém domě. Pojď!"
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_030_VLG_Eric_030_Outro.locbin": [
+    {
+      "key": "PrinceEric_001_f",
+      "en": "I used to bring back all kinds of lost Valley artifacts from my voyages.",
+      "cz": "Ze svých cest jsem si přivážel nejrůznější ztracené artefakty z Údolí.",
+      "source": "pre_existing",
+      "original_cz": "Ze svých cest jsem si přivážel nejrůznější ztracené artefakty z Údolí."
+    },
+    {
+      "key": "PrinceEric_008_f",
+      "en": "We would preserve and archive them, and I'd make blueprints so we could build replicas anytime we wanted.",
+      "cz": "Uchovávali a archivovali bychom je a já bych vytvářel plány, abychom si mohli kdykoli postavit repliky.",
+      "source": "pre_existing",
+      "original_cz": "Uchovávali a archivovali bychom je a já bych vytvářel plány, abychom si mohli kdykoli postavit repliky."
+    },
+    {
+      "key": "PrinceEric_000_f",
+      "en": "And now that you've fixed my Compass and brought me new maps, I can start sailing again and sell the blueprints I make here in my House.",
+      "cz": "A teď, když jsi mi opravil kompas a přinesl nové mapy, můžu zase začít plachtařit a prodávat plány, které si tady ve svém domě vyrábím.",
+      "source": "pre_existing",
+      "original_cz": "A teď, když jsi mi opravil kompas a přinesl nové mapy, můžu zase začít plachtařit a prodávat plány, které si tady ve svém domě vyrábím."
+    },
+    {
+      "key": "PrinceEric_002_f",
+      "en": "That'll help me finance future expeditions.",
+      "cz": "To mi pomůže financovat budoucí expedice.",
+      "source": "pre_existing",
+      "original_cz": "To mi pomůže financovat budoucí expedice."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm happy to help with your projects.",
+      "cz": "Rád vám pomůžu s vašimi projekty.",
+      "source": "pre_existing",
+      "original_cz": "Rád vám pomůžu s vašimi projekty."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I've always wanted to become a patron!",
+      "cz": "Vždycky jsem se chtěl stát patronem!",
+      "source": "pre_existing",
+      "original_cz": "Vždycky jsem se chtěl stát patronem!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "This better be a good investment...",
+      "cz": "Tohle by měla být dobrá investice...",
+      "source": "pre_existing",
+      "original_cz": "Tohle by měla být dobrá investice..."
+    },
+    {
+      "key": "PrinceEric_003_f",
+      "en": "Thanks, {PlayerName}. You're a great friend.",
+      "cz": "Díky, {PlayerName}. Jsi skvělý přítel.",
+      "source": "pre_existing",
+      "original_cz": "Díky, {PlayerName}. Jsi skvělý přítel."
+    },
+    {
+      "key": "PrinceEric_006_f",
+      "en": "Come by and look at the table in my living room anytime to see if there's something you'd like. I already added some old blueprints I found.",
+      "cz": "Kdykoli se přijďte podívat na stůl v mém obývacím pokoji, jestli byste tam něco nechtěli. Už jsem tam přidal nějaké staré plány, které jsem našel.",
+      "source": "pre_existing",
+      "original_cz": "Kdykoli se přijďte podívat na stůl v mém obývacím pokoji, jestli byste tam něco nechtěli. Už jsem tam přidal nějaké staré plány, které jsem našel."
+    },
+    {
+      "key": "PrinceEric_007_f",
+      "en": "And I'll add new stuff as often as I can.",
+      "cz": "A budu přidávat nové věci tak často, jak jen to bude možné.",
+      "source": "pre_existing",
+      "original_cz": "A budu přidávat nové věci tak často, jak jen to bude možné."
+    },
+    {
+      "key": "PrinceEric_004_f",
+      "en": "I really appreciate it.",
+      "cz": "Opravdu si toho vážím.",
+      "source": "pre_existing",
+      "original_cz": "Opravdu si toho vážím."
+    },
+    {
+      "key": "PrinceEric_005_f",
+      "en": "Ha-ha! Nice Scrooge McDuck impression. Trust me; I think you'll like what I find.",
+      "cz": "Ha-ha! Pěkná imitace Scrooge McDucka. Věř mi, myslím, že se ti bude líbit, co najdu.",
+      "source": "pre_existing",
+      "original_cz": "Ha-ha! Pěkná imitace Scrooge McDucka. Věř mi, myslím, že se ti bude líbit, co najdu."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_040_VLG_Eric_040_BringItem03.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "Merlin enchanted my Compass? That's fantastic!",
+      "cz": "Merlin očaroval můj kompas? To je fantastické!",
+      "source": "pre_existing",
+      "original_cz": "Merlin očaroval můj kompas? To je fantastické!"
+    },
+    {
+      "key": "PrinceEric_001_f",
+      "en": "With this, I can find the ruins. Of course, I still need a way to dive under the ocean for long enough to look around.",
+      "cz": "S tímhle můžu najít ruiny. Samozřejmě stále potřebuji způsob, jak se ponořit pod oceán dostatečně dlouho, abych se mohl rozhlédnout.",
+      "source": "pre_existing",
+      "original_cz": "S tímhle můžu najít ruiny. Samozřejmě stále potřebuji způsob, jak se ponořit pod oceán dostatečně dlouho, abych se mohl rozhlédnout."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I LOVE diving.",
+      "cz": "MILUJI potápění.",
+      "source": "pre_existing",
+      "original_cz": "MILUJI potápění."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Careful. Diving can be dangerous.",
+      "cz": "Pozor. Potápění může být nebezpečné.",
+      "source": "pre_existing",
+      "original_cz": "Pozor. Potápění může být nebezpečné."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Diving is my worst nightmare.",
+      "cz": "Potápění je moje nejhorší noční můra.",
+      "source": "pre_existing",
+      "original_cz": "Potápění je moje nejhorší noční můra."
+    },
+    {
+      "key": "PrinceEric_003_f",
+      "en": "Then you're gonna love my idea.",
+      "cz": "Pak se ti můj nápad bude líbit.",
+      "source": "pre_existing",
+      "original_cz": "Pak se ti můj nápad bude líbit."
+    },
+    {
+      "key": "PrinceEric_006_f",
+      "en": "I need to find a way to walk on the bottom of the ocean and still breathe. Unlike Ariel, I'm not a merperson.",
+      "cz": "Potřebuji najít způsob, jak chodit po dně oceánu a přitom dýchat. Na rozdíl od Ariel nejsem mořský člověk.",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji najít způsob, jak chodit po dně oceánu a přitom dýchat. Na rozdíl od Ariel nejsem mořský člověk."
+    },
+    {
+      "key": "PrinceEric_007_f",
+      "en": "What about a <ActivityItem>Diving Suit</ActivityItem>? That would do the trick. I bet Mr. McDuck would know how to make one.",
+      "cz": "A co takhle <ActivityItem>potápěčský oblek</ActivityItem>? To by stačilo. Vsadím se, že pan McDuck by věděl, jak si ho vyrobit.",
+      "source": "pre_existing",
+      "original_cz": "A co takhle <ActivityItem>potápěčský oblek</ActivityItem>? To by stačilo. Vsadím se, že pan McDuck by věděl, jak si ho vyrobit."
+    },
+    {
+      "key": "PrinceEric_008_f",
+      "en": "Okay, I got some schematics for a diving suit from Scrooge McDuck.",
+      "cz": "Dobře, mám od Scrooge McDucka nějaké náčrty potápěčského obleku.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, mám od Scrooge McDucka nějaké náčrty potápěčského obleku."
+    },
+    {
+      "key": "PrinceEric_002_f",
+      "en": "We'll need <ActivityItem>Fabric</ActivityItem>, <ActivityItem>Gold Ingots</ActivityItem>, <ActivityItem>Iron Ingots</ActivityItem>, and some <ActivityItem>Glass</ActivityItem>. If you can find all that, I'll study the plans.",
+      "cz": "Budeme potřebovat <ActivityItem>Látku</ActivityItem>, <ActivityItem>Zlaté ingoty</ActivityItem>, <ActivityItem>Železné ingoty</ActivityItem> a trochu <ActivityItem>Sklo</ActivityItem>. Pokud to všechno najdete, prostuduju si plány.",
+      "source": "pre_existing",
+      "original_cz": "Budeme potřebovat <ActivityItem>Látku</ActivityItem>, <ActivityItem>Zlaté ingoty</ActivityItem>, <ActivityItem>Železné ingoty</ActivityItem> a trochu <ActivityItem>Sklo</ActivityItem>. Pokud to všechno najdete, prostuduju si plány."
+    },
+    {
+      "key": "PrinceEric_004_f",
+      "en": "Well sure, but everything at sea can be dangerous if you're not careful.",
+      "cz": "No jasně, ale všechno na moři může být nebezpečné, pokud si nedáte pozor.",
+      "source": "pre_existing",
+      "original_cz": "No jasně, ale všechno na moři může být nebezpečné, pokud si nedáte pozor."
+    },
+    {
+      "key": "PrinceEric_005_f",
+      "en": "Don't worry. I'll take care of that part.",
+      "cz": "Nebojte se. O tu část se postarám.",
+      "source": "pre_existing",
+      "original_cz": "Nebojte se. O tu část se postarám."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_040_VLG_Eric_040_Intro.locbin": [
+    {
+      "key": "Player_002_f",
+      "en": "Mysterious ruins... and some kind of magic messing with your Compass? Hm...",
+      "cz": "Záhadné ruiny... a nějaká magie, která ti mění kompas? Hm...",
+      "source": "pre_existing",
+      "original_cz": "Záhadné ruiny... a nějaká magie, která ti mění kompas? Hm..."
+    },
+    {
+      "key": "PrinceEric_000_f",
+      "en": "Hey, {PlayerName}. If you've got some time, I have another mystery that I'd love your help solving.",
+      "cz": "Ahoj, {PlayerName}. Pokud máš trochu času, mám pro tebe další záhadu, s jejímž vyřešením bych byl moc rád.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}. Pokud máš trochu času, mám pro tebe další záhadu, s jejímž vyřešením bych byl moc rád."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I always have time for my friends.",
+      "cz": "Vždycky mám čas na své přátele.",
+      "source": "pre_existing",
+      "original_cz": "Vždycky mám čas na své přátele."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'll come back later.",
+      "cz": "Vrátím se později.",
+      "source": "pre_existing",
+      "original_cz": "Vrátím se později."
+    },
+    {
+      "key": "PrinceEric_002_f",
+      "en": "Thanks! So on my last expedition, I was sailing by some mysterious ruins. My Compass started to go haywire... I think some sort of magic was messing with it.",
+      "cz": "Díky! Takže na mé poslední expedici jsem plul kolem nějakých záhadných ruin. Můj kompas se začal bláznit... Myslím, že s ním dělala nějaká magie.",
+      "source": "pre_existing",
+      "original_cz": "Díky! Takže na mé poslední expedici jsem plul kolem nějakých záhadných ruin. Můj kompas se začal bláznit... Myslím, že s ním dělala nějaká magie."
+    },
+    {
+      "key": "Player_000_choice_003_f",
+      "en": "We need to get to the bottom of this!",
+      "cz": "Musíme se dostat k jádru věci!",
+      "source": "pre_existing",
+      "original_cz": "Musíme se dostat k jádru věci!"
+    },
+    {
+      "key": "Player_000_choice_004_f",
+      "en": "Magic sure causes a lot of trouble.",
+      "cz": "Magie rozhodně způsobuje spoustu problémů.",
+      "source": "pre_existing",
+      "original_cz": "Magie rozhodně způsobuje spoustu problémů."
+    },
+    {
+      "key": "PrinceEric_004_f",
+      "en": "I agree.",
+      "cz": "Souhlasím.",
+      "source": "pre_existing",
+      "original_cz": "Souhlasím."
+    },
+    {
+      "key": "PrinceEric_007_f",
+      "en": "I found an odd Valley artifact while I was sailing by the ruins. Then a storm hit.",
+      "cz": "Když jsem se plavil kolem ruin, našel jsem zvláštní artefakt z Údolí. Pak udeřila bouře.",
+      "source": "pre_existing",
+      "original_cz": "Když jsem se plavil kolem ruin, našel jsem zvláštní artefakt z Údolí. Pak udeřila bouře."
+    },
+    {
+      "key": "PrinceEric_005_f",
+      "en": "I bet there's more to find in that area if I could just get closer.",
+      "cz": "Vsadím se, že v té oblasti by se dalo najít víc, kdybych se jen mohl dostat blíž.",
+      "source": "pre_existing",
+      "original_cz": "Vsadím se, že v té oblasti by se dalo najít víc, kdybych se jen mohl dostat blíž."
+    },
+    {
+      "key": "PrinceEric_011_f",
+      "en": "But when I do, my Compass is useless. So I was thinking — what if we could enchant it to get through the magic?",
+      "cz": "Ale když to udělám, můj kompas je k ničemu. Tak jsem si říkal – co kdybychom ho mohli očarovat, aby se magie dostala skrz ni?",
+      "source": "pre_existing",
+      "original_cz": "Ale když to udělám, můj kompas je k ničemu. Tak jsem si říkal – co kdybychom ho mohli očarovat, aby se magie dostala skrz ni?"
+    },
+    {
+      "key": "PrinceEric_008_f",
+      "en": "Then I could sell the blueprints for all kinds of amazing artifacts!",
+      "cz": "Pak bych mohl prodávat plány na všechny možné úžasné artefakty!",
+      "source": "pre_existing",
+      "original_cz": "Pak bych mohl prodávat plány na všechny možné úžasné artefakty!"
+    },
+    {
+      "key": "PrinceEric_006_f",
+      "en": "I'll ask Merlin. He knows a thing or two about enchantments.",
+      "cz": "Zeptám se Merlina. Ví o kouzlech své.",
+      "source": "pre_existing",
+      "original_cz": "Zeptám se Merlina. Ví o kouzlech své."
+    },
+    {
+      "key": "PrinceEric_010_f",
+      "en": "That would be great! Here, take my Compass and the artifact I found. Maybe he can enchant the Compass to lead us back to the ruins.",
+      "cz": "To by bylo skvělé! Tady máš můj kompas a artefakt, který jsem našel. Možná by mohl očarovat kompas, aby nás dovedl zpátky k ruinám.",
+      "source": "pre_existing",
+      "original_cz": "To by bylo skvělé! Tady máš můj kompas a artefakt, který jsem našel. Možná by mohl očarovat kompas, aby nás dovedl zpátky k ruinám."
+    },
+    {
+      "key": "PrinceEric_001_f",
+      "en": "I'll say. Magic's been nothing but trouble for Ariel and me. But then again, we couldn't be together on land without it. Anyway...",
+      "cz": "Řeknu to. Magie pro mě a Ariel byla jen potíže. Ale na druhou stranu, bez ní bychom spolu na souši nemohli být. Každopádně...",
+      "source": "pre_existing",
+      "original_cz": "Řeknu to. Magie pro mě a Ariel byla jen potíže. Ale na druhou stranu, bez ní bychom spolu na souši nemohli být. Každopádně..."
+    },
+    {
+      "key": "PrinceEric_003_f",
+      "en": "Great! I look forward to it.",
+      "cz": "Skvělé! Těším se na to.",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Těším se na to."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_040_VLG_Eric_040_Ongoing04.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "You were gonna ask Merlin to help us find more Valley artifacts by enchanting my Compass...",
+      "cz": "Chtěl jsi požádat Merlina, aby nám pomohl najít další artefakty z Údolí tím, že mi očaruje Kompas...",
+      "source": "pre_existing",
+      "original_cz": "Chtěl jsi požádat Merlina, aby nám pomohl najít další artefakty z Údolí tím, že mi očaruje Kompas..."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_040_VLG_Eric_040_Ongoing06.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "Didn't Merlin say to bring him the Ingredients for the enchantment when we have them?",
+      "cz": "Neřekl Merlin, abychom mu přinesli ingredience na kouzlo, až je budeme mít?",
+      "source": "pre_existing",
+      "original_cz": "Neřekl Merlin, abychom mu přinesli ingredience na kouzlo, až je budeme mít?"
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_040_VLG_Eric_040_Ongoing08.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "Oh, well... uh, I kind of need my Compass back. Remember? The one you were gonna get Merlin to enchant.",
+      "cz": "No, ehm... potřebuju zpátky svůj kompas. Pamatuješ? Ten, co jsi chtěl nechat Merlina očarovat.",
+      "source": "pre_existing",
+      "original_cz": "No, ehm... potřebuju zpátky svůj kompas. Pamatuješ? Ten, co jsi chtěl nechat Merlina očarovat."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_040_VLG_Eric_040_Ongoing11.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "Once you have everything we need for the <ActivityItem>Diving Suit</ActivityItem>, could you bring me the materials?",
+      "cz": "Jakmile budete mít vše potřebné pro <ActivityItem>potápěčský oblek</ActivityItem>, mohli byste mi přinést materiály?",
+      "source": "pre_existing",
+      "original_cz": "Jakmile budete mít vše potřebné pro <ActivityItem>potápěčský oblek</ActivityItem>, mohli byste mi přinést materiály?"
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Eric_040_VLG_Eric_040_Outro.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "This is amazing, {PlayerName}! You found everything I need.",
+      "cz": "To je úžasné, {PlayerName}! Našel jsi všechno, co jsem potřeboval.",
+      "source": "pre_existing",
+      "original_cz": "To je úžasné, {PlayerName}! Našel jsi všechno, co jsem potřeboval."
+    },
+    {
+      "key": "Player_000_f",
+      "en": "A Diving Helmet? It's so...",
+      "cz": "Potápěčská helma? Je tak...",
+      "source": "pre_existing",
+      "original_cz": "Potápěčská helma? Je tak..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "...fashionable.",
+      "cz": "...módní.",
+      "source": "pre_existing",
+      "original_cz": "...módní."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "...useful.",
+      "cz": "...užitečné.",
+      "source": "pre_existing",
+      "original_cz": "...užitečné."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "...heavy. How do you walk around in that thing?",
+      "cz": "...těžký. Jak se v tomhle chodí?",
+      "source": "pre_existing",
+      "original_cz": "...těžký. Jak se v tomhle chodí?"
+    },
+    {
+      "key": "PrinceEric_001_f",
+      "en": "I'll go put the <ActivityItem>Diving Suit</ActivityItem> together and head out on my first expedition. See you when I get back!",
+      "cz": "Půjdu si dát dohromady <ActivityItem>potápěčský oblek</ActivityItem> a vydám se na svou první expedici. Uvidíme se, až se vrátím!",
+      "source": "pre_existing",
+      "original_cz": "Půjdu si dát dohromady <ActivityItem>potápěčský oblek</ActivityItem> a vydám se na svou první expedici. Uvidíme se, až se vrátím!"
+    },
+    {
+      "key": "PrinceEric_007_f",
+      "en": "Well, my dive was a big success! I found all kinds of odd and mystical stuff on the sea floor by those ruins.",
+      "cz": "No, můj ponor byl velký úspěch! Na mořském dně u těch ruin jsem našel spoustu podivných a mystických věcí.",
+      "source": "pre_existing",
+      "original_cz": "No, můj ponor byl velký úspěch! Na mořském dně u těch ruin jsem našel spoustu podivných a mystických věcí."
+    },
+    {
+      "key": "PrinceEric_003_f",
+      "en": "If you're interested, I'll have the blueprints for them at my House. You might be able to use a few to make things for the Valley.",
+      "cz": "Pokud máš zájem, plány k nim budu mít u mě doma. Možná by se ti pár jich hodilo k výrobě věcí pro Údolí.",
+      "source": "pre_existing",
+      "original_cz": "Pokud máš zájem, plány k nim budu mít u mě doma. Možná by se ti pár jich hodilo k výrobě věcí pro Údolí."
+    },
+    {
+      "key": "PrinceEric_006_f",
+      "en": "Sounds great!",
+      "cz": "Zní to skvěle!",
+      "source": "pre_existing",
+      "original_cz": "Zní to skvěle!"
+    },
+    {
+      "key": "PrinceEric_002_f",
+      "en": "And hey... now that I've found what I was looking for, I won't be needing this <ActivityItem>Diving Helmet</ActivityItem> anymore. I'd love for you to have it.",
+      "cz": "A teď, když jsem našel, co jsem hledal, už tuhle <ActivityItem>potápěčskou helmu</ActivityItem> nebudu potřebovat. Moc rád bych, abys ji měl/a.",
+      "source": "pre_existing",
+      "original_cz": "A teď, když jsem našel, co jsem hledal, už tuhle <ActivityItem>potápěčskou helmu</ActivityItem> nebudu potřebovat. Moc rád bych, abys ji měl/a."
+    },
+    {
+      "key": "PrinceEric_009_f",
+      "en": "Ha-ha! Yeah, if we ever have an \"Under the Sea\" fashion show here in the Valley, you'll be the star.",
+      "cz": "Ha-ha! Jo, pokud tu v údolí někdy budeme mít módní přehlídku „Pod mořem“, budeš hvězdou ty.",
+      "source": "pre_existing",
+      "original_cz": "Ha-ha! Jo, pokud tu v údolí někdy budeme mít módní přehlídku „Pod mořem“, budeš hvězdou ty."
+    },
+    {
+      "key": "PrinceEric_005_f",
+      "en": "Oh... and Ariel and I also wanted you to have this. We can never thank you enough, {PlayerName}, but maybe this gift we made will give you some idea of how much you mean to us.",
+      "cz": "Ach... a Ariel a já jsme ti taky chtěli dát tohle. Nikdy ti nemůžeme dostatečně poděkovat, {PlayerName}, ale možná ti tento dárek, který jsme ti vyrobili, dá alespoň trochu představy o tom, jak moc pro nás znamenáš.",
+      "source": "pre_existing",
+      "original_cz": "Ach... a Ariel a já jsme ti taky chtěli dát tohle. Nikdy ti nemůžeme dostatečně poděkovat, {PlayerName}, ale možná ti tento dárek, který jsme ti vyrobili, dá alespoň trochu představy o tom, jak moc pro nás znamenáš."
+    },
+    {
+      "key": "PrinceEric_010_f",
+      "en": "Just be careful. You should probably leave searching the bottom of the sea to us professionals, okay?",
+      "cz": "Jen buď opatrný. Pátrání po mořském dně bys asi měl nechat na nás profesionálech, ano?",
+      "source": "pre_existing",
+      "original_cz": "Jen buď opatrný. Pátrání po mořském dně bys asi měl nechat na nás profesionálech, ano?"
+    },
+    {
+      "key": "PrinceEric_011_f",
+      "en": "You'll get used to it. Don't worry.",
+      "cz": "Zvykneš si. Neboj se.",
+      "source": "pre_existing",
+      "original_cz": "Zvykneš si. Neboj se."
+    }
+  ],
+  "PrinceEric/PrinceEric_VLG_Stit_040_VLG_Stit_040_TalkTo09.locbin": [
+    {
+      "key": "PrinceEric_003_f",
+      "en": "Hey, Eric... you play the flute, right?",
+      "cz": "Hej, Eriku... hraješ na flétnu, že?",
+      "source": "pre_existing",
+      "original_cz": "Hej, Eriku... hraješ na flétnu, že?"
+    },
+    {
+      "key": "PrinceEric_004_f",
+      "en": "I do. But I haven't had much chance to practice lately.",
+      "cz": "Ano. Ale v poslední době jsem neměl moc příležitostí trénovat.",
+      "source": "pre_existing",
+      "original_cz": "Ano. Ale v poslední době jsem neměl moc příležitostí trénovat."
+    },
+    {
+      "key": "PrinceEric_005_f",
+      "en": "I'm kind of rusty.",
+      "cz": "Jsem trochu zrezivělý.",
+      "source": "pre_existing",
+      "original_cz": "Jsem trochu zrezivělý."
+    },
+    {
+      "key": "PrinceEric_006_f",
+      "en": "Not too rusty, I hope? Stitch is putting together a band. I think it'd be great if you'd play with him.",
+      "cz": "Doufám, že ne moc zrezivělý? Stitch dává dohromady kapelu. Myslím, že by bylo skvělé, kdybys s ním hrál.",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že ne moc zrezivělý? Stitch dává dohromady kapelu. Myslím, že by bylo skvělé, kdybys s ním hrál."
+    },
+    {
+      "key": "PrinceEric_012_f",
+      "en": "Kristoff has already agreed to join. I think you'd make a great trio.",
+      "cz": "Kristoff už souhlasil, že se přidá. Myslím, že byste byli skvělé trio.",
+      "source": "pre_existing",
+      "original_cz": "Kristoff už souhlasil, že se přidá. Myslím, že byste byli skvělé trio."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "You could get some practice with your flute again.",
+      "cz": "Mohl by sis zase trochu procvičit flétnu.",
+      "source": "pre_existing",
+      "original_cz": "Mohl by sis zase trochu procvičit flétnu."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Stitch would love to have a prince in his band.",
+      "cz": "Stitch by moc rád měl ve své kapele prince.",
+      "source": "pre_existing",
+      "original_cz": "Stitch by moc rád měl ve své kapele prince."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "It's just for fun. No pressure.",
+      "cz": "Je to jen pro zábavu. Žádný tlak.",
+      "source": "pre_existing",
+      "original_cz": "Je to jen pro zábavu. Žádný tlak."
+    },
+    {
+      "key": "PrinceEric_007_f",
+      "en": "Well, it would give me the chance to play more and learn some new songs.",
+      "cz": "No, dalo by mi to šanci hrát víc a naučit se nějaké nové písničky.",
+      "source": "pre_existing",
+      "original_cz": "No, dalo by mi to šanci hrát víc a naučit se nějaké nové písničky."
+    },
+    {
+      "key": "PrinceEric_013_f",
+      "en": "Sure, I'll do it!",
+      "cz": "Jasně, udělám to!",
+      "source": "pre_existing",
+      "original_cz": "Jasně, udělám to!"
+    },
+    {
+      "key": "PrinceEric_014_f",
+      "en": "Great! Start practicing. In the meantime, I'm going to <Lore>talk to Mr. McDuck</Lore>.",
+      "cz": "Skvělé! Začněte cvičit. Mezitím si jdu <Lore>promluvit s panem McDuckem</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Začněte cvičit. Mezitím si jdu <Lore>promluvit s panem McDuckem</Lore>."
+    },
+    {
+      "key": "PrinceEric_017_f",
+      "en": "Now that we've got a band together, you'll need to put on a concert. Maybe he has some sound equipment he can lend us.",
+      "cz": "Teď, když máme kapelu, budeš muset uspořádat koncert. Možná by nám mohl půjčit nějaké ozvučení.",
+      "source": "pre_existing",
+      "original_cz": "Teď, když máme kapelu, budeš muset uspořádat koncert. Možná by nám mohl půjčit nějaké ozvučení."
+    },
+    {
+      "key": "PrinceEric_015_f",
+      "en": "Great! Now I just have to <Lore>find one more band member...</Lore>",
+      "cz": "Skvělé! Teď už jen musím <Lore>najít ještě jednoho člena kapely...</Lore>",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Teď už jen musím <Lore>najít ještě jednoho člena kapely...</Lore>"
+    },
+    {
+      "key": "PrinceEric_016_f",
+      "en": "Hmm... isn't there someone around here who plays the lute?",
+      "cz": "Hmm... není tu někdo, kdo hraje na loutnu?",
+      "source": "pre_existing",
+      "original_cz": "Hmm... není tu někdo, kdo hraje na loutnu?"
+    },
+    {
+      "key": "PrinceEric_008_f",
+      "en": "You might be right. He was asking me something about a music-playing king the other day, but I'd never heard of him.",
+      "cz": "Možná máš pravdu. Onehdy se mě ptal na něco o králi hrajícím na hudbu, ale nikdy jsem o něm neslyšel.",
+      "source": "pre_existing",
+      "original_cz": "Možná máš pravdu. Onehdy se mě ptal na něco o králi hrajícím na hudbu, ale nikdy jsem o něm neslyšel."
+    },
+    {
+      "key": "PrinceEric_009_f",
+      "en": "It would be fun to play music with other people again.",
+      "cz": "Bylo by zábavné znovu hrát hudbu s ostatními lidmi.",
+      "source": "pre_existing",
+      "original_cz": "Bylo by zábavné znovu hrát hudbu s ostatními lidmi."
+    }
+  ]
+}

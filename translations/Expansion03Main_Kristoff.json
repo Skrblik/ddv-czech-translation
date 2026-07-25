@@ -1,0 +1,866 @@
+{
+  "Expansion03Main_Kristoff/Kristoff_Barks_SvenBark001.locbin": [
+    {
+      "key": "Kristoff_000_f",
+      "en": "This'd be a great day for Sven and I to go for a ride.",
+      "cz": "To by byl pro mě a Svena skvělý den na projížďku.",
+      "source": "pre_existing",
+      "original_cz": "To by byl pro mě a Svena skvělý den na projížďku."
+    }
+  ],
+  "Expansion03Main_Kristoff/Kristoff_Barks_SvenBark002.locbin": [
+    {
+      "key": "Kristoff_000_f",
+      "en": "Sven can take you as far as you need to go.",
+      "cz": "Sven vás může dovést tak daleko, jak potřebujete.",
+      "source": "pre_existing",
+      "original_cz": "Sven vás může dovést tak daleko, jak potřebujete."
+    }
+  ],
+  "Expansion03Main_Kristoff/Kristoff_Discussion_SvenDiscussion001.locbin": [
+    {
+      "key": "Kristoff_000_f",
+      "en": "He really likes 'em.",
+      "cz": "Má je opravdu rád.",
+      "source": "pre_existing",
+      "original_cz": "Má je opravdu rád."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Even if the ice is all up in the Mountains?",
+      "cz": "I když je v horách úplně led?",
+      "source": "pre_existing",
+      "original_cz": "I když je v horách úplně led?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Has he made friends with the horses?",
+      "cz": "Spřátelil se s koňmi?",
+      "source": "pre_existing",
+      "original_cz": "Spřátelil se s koňmi?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Does he like the geese?",
+      "cz": "Má rád husy?",
+      "source": "pre_existing",
+      "original_cz": "Má rád husy?"
+    },
+    {
+      "key": "Kristoff_001_f",
+      "en": "It did take a little getting used to...",
+      "cz": "Chvíli trvalo, než si člověk zvykl...",
+      "source": "pre_existing",
+      "original_cz": "Chvíli trvalo, než si člověk zvykl..."
+    },
+    {
+      "key": "Kristoff_004_f",
+      "en": "But it's not much different here than Arendelle in the summer.",
+      "cz": "Ale není to tu moc jiné než v Arendelle v létě.",
+      "source": "pre_existing",
+      "original_cz": "Ale není to tu moc jiné než v Arendelle v létě."
+    },
+    {
+      "key": "Kristoff_007_f",
+      "en": "This place is a nice change of scenery, though.",
+      "cz": "Tohle místo je ale příjemná změna scenérie.",
+      "source": "pre_existing",
+      "original_cz": "Tohle místo je ale příjemná změna scenérie."
+    },
+    {
+      "key": "Kristoff_008_f",
+      "en": "And Sven is pretty crazy about all the new foods he's tried.",
+      "cz": "A Sven je docela blázen do všech nových jídel, která vyzkoušel.",
+      "source": "pre_existing",
+      "original_cz": "A Sven je docela blázen do všech nových jídel, která vyzkoušel."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Is he getting tired of carrots?",
+      "cz": "Už ho nebaví mrkev?",
+      "source": "pre_existing",
+      "original_cz": "Už ho nebaví mrkev?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Does he have a dish from the Ranch he likes most?",
+      "cz": "Má nějaké jídlo z ranče, které má nejraději?",
+      "source": "pre_existing",
+      "original_cz": "Má nějaké jídlo z ranče, které má nejraději?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I'm glad he's settling in!",
+      "cz": "Jsem ráda, že se usazuje!",
+      "source": "pre_existing",
+      "original_cz": "Jsem ráda, že se usazuje!"
+    },
+    {
+      "key": "Kristoff_009_f",
+      "en": "No, not at all. No matter what, carrots will always be his favorite.",
+      "cz": "Ne, vůbec ne. Ať se děje cokoli, mrkev bude vždycky jeho nejoblíbenější.",
+      "source": "pre_existing",
+      "original_cz": "Ne, vůbec ne. Ať se děje cokoli, mrkev bude vždycky jeho nejoblíbenější."
+    },
+    {
+      "key": "Kristoff_012_f",
+      "en": "Well, I'll have to try to give him some treats!",
+      "cz": "No, budu se muset pokusit mu dát nějaké pamlsky!",
+      "source": "pre_existing",
+      "original_cz": "No, budu se muset pokusit mu dát nějaké pamlsky!"
+    },
+    {
+      "key": "Kristoff_013_f",
+      "en": "Oh, he'll love you even more for it.",
+      "cz": "Ach, bude tě za to milovat ještě víc.",
+      "source": "pre_existing",
+      "original_cz": "Ach, bude tě za to milovat ještě víc."
+    },
+    {
+      "key": "Kristoff_010_f",
+      "en": "I caught him chomping down on a <ActivityItem>Scarlet Bouquet Salad</ActivityItem> yesterday. He thought it was pretty tasty.",
+      "cz": "Včera jsem ho přistihnul, jak se zakousl do <ActivityItem>Salátu Šarlatová Kytice</ActivityItem>. Myslel si, že je docela chutný.",
+      "source": "pre_existing",
+      "original_cz": "Včera jsem ho přistihnul, jak se zakousl do <ActivityItem>Salátu Šarlatová Kytice</ActivityItem>. Myslel si, že je docela chutný."
+    },
+    {
+      "key": "Kristoff_011_f",
+      "en": "Me, too. Sven's tough and adapts to almost anything, but it's great to see him so happy here.",
+      "cz": "Já taky. Sven je houževnatý a přizpůsobí se téměř všemu, ale je skvělé vidět ho tady tak šťastného.",
+      "source": "pre_existing",
+      "original_cz": "Já taky. Sven je houževnatý a přizpůsobí se téměř všemu, ale je skvělé vidět ho tady tak šťastného."
+    },
+    {
+      "key": "Kristoff_002_f",
+      "en": "They met, but it may take him a bit to warm up to them.",
+      "cz": "Potkali se, ale možná mu bude chvíli trvat, než si k nim zvykne.",
+      "source": "pre_existing",
+      "original_cz": "Potkali se, ale možná mu bude chvíli trvat, než si k nim zvykne."
+    },
+    {
+      "key": "Kristoff_005_f",
+      "en": "He was like that with the horses in Arendelle, too.",
+      "cz": "Takový byl i s koňmi v Arendelle.",
+      "source": "pre_existing",
+      "original_cz": "Takový byl i s koňmi v Arendelle."
+    },
+    {
+      "key": "Kristoff_003_f",
+      "en": "Definitely not.",
+      "cz": "Rozhodně ne.",
+      "source": "pre_existing",
+      "original_cz": "Rozhodně ne."
+    },
+    {
+      "key": "Kristoff_006_f",
+      "en": "They are way too aggressive! Frankly, they scare me, too.",
+      "cz": "Jsou až moc agresivní! Upřímně řečeno, děsí mě taky.",
+      "source": "pre_existing",
+      "original_cz": "Jsou až moc agresivní! Upřímně řečeno, děsí mě taky."
+    }
+  ],
+  "Expansion03Main_Kristoff/Kristoff_Discussion_SvenDiscussion002.locbin": [
+    {
+      "key": "Kristoff_000_f",
+      "en": "Yeah! I missed him a lot.",
+      "cz": "Jo! Moc mi chyběl.",
+      "source": "pre_existing",
+      "original_cz": "Jo! Moc mi chyběl."
+    },
+    {
+      "key": "Kristoff_001_f",
+      "en": "He was happy to see me too, though he was a little testy at first.",
+      "cz": "Taky byl rád, že mě vidí, i když zpočátku byl trochu podrážděný.",
+      "source": "pre_existing",
+      "original_cz": "Taky byl rád, že mě vidí, i když zpočátku byl trochu podrážděný."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "How does a reindeer act testy?",
+      "cz": "Jak se sob chová podrážděně?",
+      "source": "pre_existing",
+      "original_cz": "Jak se sob chová podrážděně?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "How did you cheer him up?",
+      "cz": "Jak jsi ho rozveselil/a?",
+      "source": "pre_existing",
+      "original_cz": "Jak jsi ho rozveselil/a?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Awww, he really cares about you, doesn't he?",
+      "cz": "Jéé, vážně mu na tobě záleží, že?",
+      "source": "pre_existing",
+      "original_cz": "Jéé, vážně mu na tobě záleží, že?"
+    },
+    {
+      "key": "Kristoff_002_f",
+      "en": "Well, Sven huffs a lot and refuses to make eye contact. And if I'm not looking, he'll try and chew on my favorite boots.",
+      "cz": "No, Sven hodně funí a odmítá se mi dívat do očí. A když se nedívám, snaží se mi okousat oblíbené boty.",
+      "source": "pre_existing",
+      "original_cz": "No, Sven hodně funí a odmítá se mi dívat do očí. A když se nedívám, snaží se mi okousat oblíbené boty."
+    },
+    {
+      "key": "Kristoff_005_f",
+      "en": "I explained everything about the Forgetting and why we got separated, so he's not upset anymore.",
+      "cz": "Vysvětlila jsem mu všechno o Zapomnění a proč jsme se rozešli, takže už není naštvaný.",
+      "source": "pre_existing",
+      "original_cz": "Vysvětlila jsem mu všechno o Zapomnění a proč jsme se rozešli, takže už není naštvaný."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "What do you do for fun with him?",
+      "cz": "Co s ním děláš pro zábavu?",
+      "source": "pre_existing",
+      "original_cz": "Co s ním děláš pro zábavu?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Any plans for the future?",
+      "cz": "Nějaké plány do budoucna?",
+      "source": "pre_existing",
+      "original_cz": "Nějaké plány do budoucna?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "How does Anna feel about him?",
+      "cz": "Co k němu cítí Anna?",
+      "source": "pre_existing",
+      "original_cz": "Co k němu cítí Anna?"
+    },
+    {
+      "key": "Kristoff_006_f",
+      "en": "Oh, you know, the usual — take a ride through the woods, share a snack, sing together...",
+      "cz": "Víte, to obvyklé – projet se lesem, dát si svačinu, zazpívat si...",
+      "source": "pre_existing",
+      "original_cz": "Víte, to obvyklé – projet se lesem, dát si svačinu, zazpívat si..."
+    },
+    {
+      "key": "Kristoff_010_f",
+      "en": "Well, I hope you two enjoy Wishblossom Ranch!",
+      "cz": "Doufám, že si oba užijete Wishblossom Ranch!",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že si oba užijete Wishblossom Ranch!"
+    },
+    {
+      "key": "Kristoff_011_f",
+      "en": "We will. Thanks!",
+      "cz": "Uděláme to. Díky!",
+      "source": "pre_existing",
+      "original_cz": "Uděláme to. Díky!"
+    },
+    {
+      "key": "Kristoff_007_f",
+      "en": "We might head into the Mountains for a while. Maybe we can find a good pond to harvest ice!",
+      "cz": "Možná se na chvíli vydáme do hor. Třeba najdeme dobrý rybník na sběr ledu!",
+      "source": "pre_existing",
+      "original_cz": "Možná se na chvíli vydáme do hor. Třeba najdeme dobrý rybník na sběr ledu!"
+    },
+    {
+      "key": "Kristoff_008_f",
+      "en": "Oh, she loves Sven!",
+      "cz": "Ach, ona miluje Svena!",
+      "source": "pre_existing",
+      "original_cz": "Ach, ona miluje Svena!"
+    },
+    {
+      "key": "Kristoff_009_f",
+      "en": "Actually, it's a little annoying when she takes his side during a disagreement.",
+      "cz": "Vlastně je trochu otravné, když se při neshodě postaví na jeho stranu.",
+      "source": "pre_existing",
+      "original_cz": "Vlastně je trochu otravné, když se při neshodě postaví na jeho stranu."
+    },
+    {
+      "key": "Kristoff_003_f",
+      "en": "Carrots. Lots and lots of carrots. Also...",
+      "cz": "Mrkev. Spousta a spousta mrkve. Taky...",
+      "source": "pre_existing",
+      "original_cz": "Mrkev. Spousta a spousta mrkve. Taky..."
+    },
+    {
+      "key": "Kristoff_004_f",
+      "en": "Yep. We're best friends!",
+      "cz": "Jo. Jsme nejlepší kamarádi!",
+      "source": "pre_existing",
+      "original_cz": "Jo. Jsme nejlepší kamarádi!"
+    }
+  ],
+  "Expansion03Main_Kristoff/Kristoff_Discussion_SvenDiscussion003.locbin": [
+    {
+      "key": "Kristoff_000_f",
+      "en": "They're pretty impressive.",
+      "cz": "Jsou docela působivé.",
+      "source": "pre_existing",
+      "original_cz": "Jsou docela působivé."
+    },
+    {
+      "key": "Kristoff_001_f",
+      "en": "But if I need a sled or cart pulled, I'll stick with Sven.",
+      "cz": "Ale pokud potřebuji odtáhnout sáně nebo vozík, zůstanu u Svena.",
+      "source": "pre_existing",
+      "original_cz": "Ale pokud potřebuji odtáhnout sáně nebo vozík, zůstanu u Svena."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "What's wrong with horses?",
+      "cz": "Co je špatného na koních?",
+      "source": "pre_existing",
+      "original_cz": "Co je špatného na koních?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I guess they each have their good points.",
+      "cz": "Myslím, že každý z nich má své dobré stránky.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že každý z nich má své dobré stránky."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "What if we find another reindeer?",
+      "cz": "Co když najdeme dalšího soba?",
+      "source": "pre_existing",
+      "original_cz": "Co když najdeme dalšího soba?"
+    },
+    {
+      "key": "Kristoff_002_f",
+      "en": "Nothing exactly. They're just not as good on ice and snow as reindeer.",
+      "cz": "Nic tak docela. Jen nejsou tak dobří na ledu a sněhu jako sobi.",
+      "source": "pre_existing",
+      "original_cz": "Nic tak docela. Jen nejsou tak dobří na ledu a sněhu jako sobi."
+    },
+    {
+      "key": "Kristoff_003_f",
+      "en": "I mean, can a horse keep their balance while running full tilt over a frozen fjord when the love of your life's in trouble?",
+      "cz": "Myslím tím, dokáže si kůň udržet rovnováhu, když běží plnými palci přes zamrzlý fjord, když má láska tvého života potíže?",
+      "source": "pre_existing",
+      "original_cz": "Myslím tím, dokáže si kůň udržet rovnováhu, když běží plnými palci přes zamrzlý fjord, když má láska tvého života potíže?"
+    },
+    {
+      "key": "Kristoff_004_f",
+      "en": "Hmm, I guess not.",
+      "cz": "Hmm, asi ne.",
+      "source": "pre_existing",
+      "original_cz": "Hmm, asi ne."
+    },
+    {
+      "key": "Kristoff_010_f",
+      "en": "What about you? Do you prefer horses or reindeer?",
+      "cz": "A co ty? Máš raději koně nebo soby?",
+      "source": "pre_existing",
+      "original_cz": "A co ty? Máš raději koně nebo soby?"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Definitely reindeer!",
+      "cz": "Rozhodně sob!",
+      "source": "pre_existing",
+      "original_cz": "Rozhodně sob!"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Gotta go with horses — sorry.",
+      "cz": "Musím jet s koňmi – promiň.",
+      "source": "pre_existing",
+      "original_cz": "Musím jet s koňmi – promiň."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "I kinda like them both, for different reasons.",
+      "cz": "Mám je oba docela rád, z různých důvodů.",
+      "source": "pre_existing",
+      "original_cz": "Mám je oba docela rád, z různých důvodů."
+    },
+    {
+      "key": "Kristoff_011_f",
+      "en": "Yep, they're the best.",
+      "cz": "Jo, jsou nejlepší.",
+      "source": "pre_existing",
+      "original_cz": "Jo, jsou nejlepší."
+    },
+    {
+      "key": "Kristoff_012_f",
+      "en": "Reindeer have a certain... musk about them.",
+      "cz": "Sobi mají v sobě takový... pižmový zápach.",
+      "source": "pre_existing",
+      "original_cz": "Sobi mají v sobě takový... pižmový zápach."
+    },
+    {
+      "key": "Kristoff_013_f",
+      "en": "Aw, you get used to it. I don't even smell it anymore!",
+      "cz": "No, člověk si na to zvykne. Už to ani necítím!",
+      "source": "pre_existing",
+      "original_cz": "No, člověk si na to zvykne. Už to ani necítím!"
+    },
+    {
+      "key": "Kristoff_014_f",
+      "en": "Yeah, that's kinda the problem, Kristoff...",
+      "cz": "Jo, to je tak trochu ten problém, Kristoffe...",
+      "source": "pre_existing",
+      "original_cz": "Jo, to je tak trochu ten problém, Kristoffe..."
+    },
+    {
+      "key": "Kristoff_015_f",
+      "en": "Reindeer are so sturdy! And obviously suited to cold climates.",
+      "cz": "Sobi jsou tak robustní! A samozřejmě se jim daří v chladném podnebí.",
+      "source": "pre_existing",
+      "original_cz": "Sobi jsou tak robustní! A samozřejmě se jim daří v chladném podnebí."
+    },
+    {
+      "key": "Kristoff_016_f",
+      "en": "But horses are just so graceful and fast...",
+      "cz": "Ale koně jsou prostě tak elegantní a rychlí...",
+      "source": "pre_existing",
+      "original_cz": "Ale koně jsou prostě tak elegantní a rychlí..."
+    },
+    {
+      "key": "Kristoff_017_f",
+      "en": "True. Sven is lots of things, but I'm not sure I'd include \"graceful\" among them.",
+      "cz": "Pravda. Sven je spousta věcí, ale nejsem si jistý, jestli bych mezi ně zařadil i „půvabný“.",
+      "source": "pre_existing",
+      "original_cz": "Pravda. Sven je spousta věcí, ale nejsem si jistý, jestli bych mezi ně zařadil i „půvabný“."
+    },
+    {
+      "key": "Kristoff_005_f",
+      "en": "Sure, horses are great for lots of things.",
+      "cz": "Jasně, koně jsou skvělí na spoustu věcí.",
+      "source": "pre_existing",
+      "original_cz": "Jasně, koně jsou skvělí na spoustu věcí."
+    },
+    {
+      "key": "Kristoff_006_f",
+      "en": "But pulling a sled hauling ice through the frozen woods? Give me a reindeer any day.",
+      "cz": "Ale táhnout saně a tahat led zamrzlým lesem? Dejte mi kdykoli soba.",
+      "source": "pre_existing",
+      "original_cz": "Ale táhnout saně a tahat led zamrzlým lesem? Dejte mi kdykoli soba."
+    },
+    {
+      "key": "Kristoff_007_f",
+      "en": "Sounds intense.",
+      "cz": "Zní to intenzivně.",
+      "source": "pre_existing",
+      "original_cz": "Zní to intenzivně."
+    },
+    {
+      "key": "Kristoff_008_f",
+      "en": "That's great.",
+      "cz": "To je skvělé.",
+      "source": "pre_existing",
+      "original_cz": "To je skvělé."
+    },
+    {
+      "key": "Kristoff_009_f",
+      "en": "But for me, it'll always be Sven. He's my best friend.",
+      "cz": "Ale pro mě to vždycky bude Sven. Je to můj nejlepší přítel.",
+      "source": "pre_existing",
+      "original_cz": "Ale pro mě to vždycky bude Sven. Je to můj nejlepší přítel."
+    }
+  ],
+  "Expansion03Main_Kristoff/Kristoff_ORQS_E03_Kris_010_ORQS_E03_Kris_010_Intro.locbin": [
+    {
+      "key": "Kristoff_001_f",
+      "en": "Hey, {PlayerName}, Sven's back!",
+      "cz": "Hej, {PlayerName}, Sven je zpátky!",
+      "source": "pre_existing",
+      "original_cz": "Hej, {PlayerName}, Sven je zpátky!"
+    },
+    {
+      "key": "Kristoff_002_f",
+      "en": "I've been looking for him everywhere. And all this time, he was stuck in the Wishblossom Mountains.",
+      "cz": "Hledal jsem ho všude. A celou tu dobu uvízl v Květinových horách.",
+      "source": "pre_existing",
+      "original_cz": "Hledal jsem ho všude. A celou tu dobu uvízl v Květinových horách."
+    },
+    {
+      "key": "Kristoff_003_f",
+      "en": "I really missed him. We've been best friends since we were little.",
+      "cz": "Moc mi chyběl. Jsme nejlepší přátelé už odmala.",
+      "source": "pre_existing",
+      "original_cz": "Moc mi chyběl. Jsme nejlepší přátelé už odmala."
+    },
+    {
+      "key": "Kristoff_004_f",
+      "en": "You know, Sven can be a little wary of new people. But he seems to really like you already.",
+      "cz": "Víš, Sven může být trochu opatrný vůči novým lidem. Ale zdá se, že tě už má opravdu rád.",
+      "source": "pre_existing",
+      "original_cz": "Víš, Sven může být trochu opatrný vůči novým lidem. Ale zdá se, že tě už má opravdu rád."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I mean, I AM pretty amazing.",
+      "cz": "Myslím tím, že JSEM docela úžasný/á.",
+      "source": "pre_existing",
+      "original_cz": "Myslím tím, že JSEM docela úžasný/á."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I like Sven too! He's great.",
+      "cz": "Taky se mi Sven líbí! Je skvělý.",
+      "source": "pre_existing",
+      "original_cz": "Taky se mi Sven líbí! Je skvělý."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I wonder why.",
+      "cz": "Zajímalo by mě proč.",
+      "source": "pre_existing",
+      "original_cz": "Zajímalo by mě proč."
+    },
+    {
+      "key": "Kristoff_005_f",
+      "en": "And humble too, huh? Just kidding...",
+      "cz": "A taky skromný, co? Jen žertuju...",
+      "source": "pre_existing",
+      "original_cz": "A taky skromný, co? Jen žertuju..."
+    },
+    {
+      "key": "Kristoff_008_f",
+      "en": "You know what'll really make you a hero in Sven's eyes?",
+      "cz": "Víš, co z tebe v Svenových očích udělá hrdinu?",
+      "source": "pre_existing",
+      "original_cz": "Víš, co z tebe v Svenových očích udělá hrdinu?"
+    },
+    {
+      "key": "Kristoff_010_f",
+      "en": "Feed him some of his favorite foods.",
+      "cz": "Nakrmte ho některými z jeho oblíbených jídel.",
+      "source": "pre_existing",
+      "original_cz": "Nakrmte ho některými z jeho oblíbených jídel."
+    },
+    {
+      "key": "Kristoff_011_f",
+      "en": "The way to a reindeer's heart is definitely through his stomach.",
+      "cz": "Cesta k srdci soba vede rozhodně přes jeho žaludek.",
+      "source": "pre_existing",
+      "original_cz": "Cesta k srdci soba vede rozhodně přes jeho žaludek."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "That's a great idea!",
+      "cz": "To je skvělý nápad!",
+      "source": "pre_existing",
+      "original_cz": "To je skvělý nápad!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Maybe some other time.",
+      "cz": "Možná někdy jindy.",
+      "source": "pre_existing",
+      "original_cz": "Možná někdy jindy."
+    },
+    {
+      "key": "Kristoff_012_f",
+      "en": "Sven can be pretty particular though, ever since the cooks at the Arendelle castle started making him special treats.",
+      "cz": "Sven ale umí být docela vybíravý, a to už od té doby, co mu kuchaři na hradě Arendelle začali připravovat speciální pochoutky.",
+      "source": "pre_existing",
+      "original_cz": "Sven ale umí být docela vybíravý, a to už od té doby, co mu kuchaři na hradě Arendelle začali připravovat speciální pochoutky."
+    },
+    {
+      "key": "Kristoff_013_f",
+      "en": "He's even been known to sneak a bite of pie when we go on picnics.",
+      "cz": "Dokonce je známo, že si tajně dá kousek koláče, když jdeme na piknik.",
+      "source": "pre_existing",
+      "original_cz": "Dokonce je známo, že si tajně dá kousek koláče, když jdeme na piknik."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "I can appreciate a reindeer with refined tastes.",
+      "cz": "Dokážu ocenit soba s vytříbeným vkusem.",
+      "source": "pre_existing",
+      "original_cz": "Dokážu ocenit soba s vytříbeným vkusem."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "A great reindeer deserves great food.",
+      "cz": "Skvělý sob si zaslouží skvělé jídlo.",
+      "source": "pre_existing",
+      "original_cz": "Skvělý sob si zaslouží skvělé jídlo."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Yeesh. Sven eats better than I do!",
+      "cz": "Jéé. Sven jí líp než já!",
+      "source": "pre_existing",
+      "original_cz": "Jéé. Sven jí líp než já!"
+    },
+    {
+      "key": "Kristoff_014_f",
+      "en": "Right?",
+      "cz": "Právo?",
+      "source": "pre_existing",
+      "original_cz": "Právo?"
+    },
+    {
+      "key": "Kristoff_018_f",
+      "en": "You should make him something. Then, he'll really know how much you care about him.",
+      "cz": "Měla bys mu něco vyrobit. Pak opravdu pozná, jak moc ti na něm záleží.",
+      "source": "pre_existing",
+      "original_cz": "Měla bys mu něco vyrobit. Pak opravdu pozná, jak moc ti na něm záleží."
+    },
+    {
+      "key": "Kristoff_019_f",
+      "en": "Let me know how it goes!",
+      "cz": "Dej mi vědět, jak to jde!",
+      "source": "pre_existing",
+      "original_cz": "Dej mi vědět, jak to jde!"
+    },
+    {
+      "key": "Kristoff_015_f",
+      "en": "That's what I say!",
+      "cz": "To říkám i já!",
+      "source": "pre_existing",
+      "original_cz": "To říkám i já!"
+    },
+    {
+      "key": "Kristoff_016_f",
+      "en": "Me too, sometimes.",
+      "cz": "Já taky, někdy.",
+      "source": "pre_existing",
+      "original_cz": "Já taky, někdy."
+    },
+    {
+      "key": "Kristoff_020_f",
+      "en": "Sure. Let me know if you wanna learn more about Sven.",
+      "cz": "Jasně. Dej mi vědět, jestli se chceš o Svenovi dozvědět víc.",
+      "source": "pre_existing",
+      "original_cz": "Jasně. Dej mi vědět, jestli se chceš o Svenovi dozvědět víc."
+    },
+    {
+      "key": "Kristoff_006_f",
+      "en": "Isn't he?",
+      "cz": "Není on?",
+      "source": "pre_existing",
+      "original_cz": "Není on?"
+    },
+    {
+      "key": "Kristoff_007_f",
+      "en": "Have you been using carrot-scented soap? That could explain it.",
+      "cz": "Používala jsi mýdlo s vůní mrkve? To by to mohlo vysvětlovat.",
+      "source": "pre_existing",
+      "original_cz": "Používala jsi mýdlo s vůní mrkve? To by to mohlo vysvětlovat."
+    },
+    {
+      "key": "Kristoff_009_f",
+      "en": "Or maybe it's just because you're nice to all the animals around here.",
+      "cz": "Nebo je to možná jen proto, že jsi hodný ke všem zvířatům v okolí.",
+      "source": "pre_existing",
+      "original_cz": "Nebo je to možná jen proto, že jsi hodný ke všem zvířatům v okolí."
+    }
+  ],
+  "Expansion03Main_Kristoff/Kristoff_ORQS_E03_Kris_010_ORQS_E03_Kris_010_Ongoing02.locbin": [
+    {
+      "key": "Kristoff_000_f",
+      "en": "Have you fed Sven yet?",
+      "cz": "Už jsi nakrmil Svena?",
+      "source": "pre_existing",
+      "original_cz": "Už jsi nakrmil Svena?"
+    }
+  ],
+  "Expansion03Main_Kristoff/Kristoff_ORQS_E03_Kris_010_ORQS_E03_Kris_010_Ongoing03.locbin": [
+    {
+      "key": "Kristoff_000_f",
+      "en": "Before you feed Sven, you should try petting him so he gets to know you better.",
+      "cz": "Než Svena nakrmíte, zkuste ho pohladit, aby vás lépe poznal.",
+      "source": "pre_existing",
+      "original_cz": "Než Svena nakrmíte, zkuste ho pohladit, aby vás lépe poznal."
+    },
+    {
+      "key": "Kristoff_001_f",
+      "en": "My advice? Try scratching under his chin. He loves that.",
+      "cz": "Moje rada? Zkuste ho poškrábat pod bradou. To miluje.",
+      "source": "pre_existing",
+      "original_cz": "Moje rada? Zkuste ho poškrábat pod bradou. To miluje."
+    }
+  ],
+  "Expansion03Main_Kristoff/Kristoff_ORQS_E03_Kris_010_ORQS_E03_Kris_010_Ongoing04.locbin": [
+    {
+      "key": "Kristoff_000_f",
+      "en": "Have you tried riding Sven yet? Gallop around the Mountains and try jumping over some stuff.",
+      "cz": "Už jsi zkoušel/a jezdit na Svenovi? Procválej po horách a zkus něco přeskakovat.",
+      "source": "pre_existing",
+      "original_cz": "Už jsi zkoušel/a jezdit na Svenovi? Procválej po horách a zkus něco přeskakovat."
+    }
+  ],
+  "Expansion03Main_Kristoff/Kristoff_ORQS_E03_Kris_010_ORQS_E03_Kris_010_Outro.locbin": [
+    {
+      "key": "Kristoff_000_f",
+      "en": "Sven's pretty tired after that ride, {PlayerName}. Nice job.",
+      "cz": "Sven je po té jízdě docela unavený, {PlayerName}. Dobrá práce.",
+      "source": "pre_existing",
+      "original_cz": "Sven je po té jízdě docela unavený, {PlayerName}. Dobrá práce."
+    },
+    {
+      "key": "Kristoff_001_f",
+      "en": "I usually prefer reindeer to people, but as far as people go...",
+      "cz": "Obvykle mám raději soby než lidi, ale co se týče lidí...",
+      "source": "pre_existing",
+      "original_cz": "Obvykle mám raději soby než lidi, ale co se týče lidí..."
+    },
+    {
+      "key": "Kristoff_002_f",
+      "en": "Sven and I think that you're pretty okay.",
+      "cz": "Sven a já si myslíme, že jsi docela v pohodě.",
+      "source": "pre_existing",
+      "original_cz": "Sven a já si myslíme, že jsi docela v pohodě."
+    }
+  ],
+  "Expansion03Main_Kristoff/Kristoff_ORQS_E03_Kris_010_ORQS_E03_Kris_010_TalkTo01.locbin": [
+    {
+      "key": "Kristoff_000_f",
+      "en": "Sven really loved that food, {PlayerName}.",
+      "cz": "Sven si to jídlo opravdu zamiloval, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Sven si to jídlo opravdu zamiloval, {PlayerName}."
+    },
+    {
+      "key": "Kristoff_001_f",
+      "en": "You ever consider opening a restaurant for reindeer here in the Mountains?",
+      "cz": "Uvažoval jsi někdy o otevření restaurace pro soby tady v horách?",
+      "source": "pre_existing",
+      "original_cz": "Uvažoval jsi někdy o otevření restaurace pro soby tady v horách?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Say, that's not a bad idea.",
+      "cz": "Řekněte, to není špatný nápad.",
+      "source": "pre_existing",
+      "original_cz": "Řekněte, to není špatný nápad."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "But there would only be one customer.",
+      "cz": "Ale byl by tam jen jeden zákazník.",
+      "source": "pre_existing",
+      "original_cz": "Ale byl by tam jen jeden zákazník."
+    },
+    {
+      "key": "Kristoff_002_f",
+      "en": "Just be careful if you ask Remy to be the head chef. He's gonna have to watch out for all the hooves.",
+      "cz": "Jen buď opatrný, pokud požádáš Remyho, aby byl šéfkuchařem. Bude si muset dávat pozor na všechna ta kopyta.",
+      "source": "pre_existing",
+      "original_cz": "Jen buď opatrný, pokud požádáš Remyho, aby byl šéfkuchařem. Bude si muset dávat pozor na všechna ta kopyta."
+    },
+    {
+      "key": "Kristoff_005_f",
+      "en": "Say, Sven could use a good workout after that heavy dinner.",
+      "cz": "Řekněme, že by se Svenovi po té vydatné večeři hodil pořádný trénink.",
+      "source": "pre_existing",
+      "original_cz": "Řekněme, že by se Svenovi po té vydatné večeři hodil pořádný trénink."
+    },
+    {
+      "key": "Kristoff_004_f",
+      "en": "He's feeling comfortable enough for you to ride him now. Which is a pretty big deal.",
+      "cz": "Teď se cítí dostatečně pohodlně, abys na něm mohla jet. Což je docela velká věc.",
+      "source": "pre_existing",
+      "original_cz": "Teď se cítí dostatečně pohodlně, abys na něm mohla jet. Což je docela velká věc."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "It's an honor!",
+      "cz": "Je to čest!",
+      "source": "pre_existing",
+      "original_cz": "Je to čest!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I just hope I don't fall off.",
+      "cz": "Jen doufám, že nespadnu.",
+      "source": "pre_existing",
+      "original_cz": "Jen doufám, že nespadnu."
+    },
+    {
+      "key": "Kristoff_006_f",
+      "en": "Just don't pull on his antlers. Oh, and careful not to kick his sides.",
+      "cz": "Jen mu netahejte za parohy. A dávejte pozor, abyste mu nekopali do boků.",
+      "source": "pre_existing",
+      "original_cz": "Jen mu netahejte za parohy. A dávejte pozor, abyste mu nekopali do boků."
+    },
+    {
+      "key": "Kristoff_007_f",
+      "en": "And every once in a while, give him a pat on the head to show him he's doing great.",
+      "cz": "A občas ho poplácej po hlavě, abys mu ukázal/a, že se mu daří skvěle.",
+      "source": "pre_existing",
+      "original_cz": "A občas ho poplácej po hlavě, abys mu ukázal/a, že se mu daří skvěle."
+    },
+    {
+      "key": "Kristoff_008_f",
+      "en": "Ah, you'll figure it out, {PlayerName}. Good luck.",
+      "cz": "No, na to přijdeš, {PlayerName}. Hodně štěstí.",
+      "source": "pre_existing",
+      "original_cz": "No, na to přijdeš, {PlayerName}. Hodně štěstí."
+    },
+    {
+      "key": "Kristoff_003_f",
+      "en": "Hey, if you don't let the reindeer know there's food, you won't have any more reindeer showing up.",
+      "cz": "Hej, když nedáš sobům vědět, že je tu jídlo, tak se tu už žádní další sobi neukážou.",
+      "source": "pre_existing",
+      "original_cz": "Hej, když nedáš sobům vědět, že je tu jídlo, tak se tu už žádní další sobi neukážou."
+    }
+  ],
+  "Expansion03Main_Kristoff/Kristoff_VLG_Crue_020_VLG_Crue_020_TalkTo07.locbin": [
+    {
+      "key": "Kristoff_000_f",
+      "en": "Hey, Kristoff, does this fishing tool belong to you?",
+      "cz": "Hej, Kristoffe, patří tohle rybářské náčiní tobě?",
+      "source": "pre_existing",
+      "original_cz": "Hej, Kristoffe, patří tohle rybářské náčiní tobě?"
+    },
+    {
+      "key": "Kristoff_001_f",
+      "en": "Let me see... Nope, that's a lure. Can't be mine. I always use my own bait.",
+      "cz": "Ukaž... Ne, to je návnada. Nemůže být moje. Vždycky používám svou vlastní návnadu.",
+      "source": "pre_existing",
+      "original_cz": "Ukaž... Ne, to je návnada. Nemůže být moje. Vždycky používám svou vlastní návnadu."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "What's the difference?",
+      "cz": "Jaký je v tom rozdíl?",
+      "source": "pre_existing",
+      "original_cz": "Jaký je v tom rozdíl?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Ah well, I'll keep looking.",
+      "cz": "No nic, budu hledat dál.",
+      "source": "pre_existing",
+      "original_cz": "No nic, budu hledat dál."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Any idea who it could belong to?",
+      "cz": "Máte tušení, komu by to mohlo patřit?",
+      "source": "pre_existing",
+      "original_cz": "Máte tušení, komu by to mohlo patřit?"
+    },
+    {
+      "key": "Kristoff_002_f",
+      "en": "A lure isn't eaten by the fish. It's meant to trick them into biting. I like to make my own bait from garden worms.",
+      "cz": "Návnadu ryby nesežerou. Má je nalákat ke kousnutí. Rád si dělám vlastní návnadu ze zahradních červů.",
+      "source": "pre_existing",
+      "original_cz": "Návnadu ryby nesežerou. Má je nalákat ke kousnutí. Rád si dělám vlastní návnadu ze zahradních červů."
+    },
+    {
+      "key": "Kristoff_004_f",
+      "en": "That lure does look like something Donald might've made, though.",
+      "cz": "Ta návnada ale vypadá jako něco, co mohl vyrobit Donald.",
+      "source": "pre_existing",
+      "original_cz": "Ta návnada ale vypadá jako něco, co mohl vyrobit Donald."
+    },
+    {
+      "key": "Kristoff_005_f",
+      "en": "Donald, huh? I'll give that a shot. Thanks!",
+      "cz": "Donalde, jo? Zkusím to. Díky!",
+      "source": "pre_existing",
+      "original_cz": "Donalde, jo? Zkusím to. Díky!"
+    },
+    {
+      "key": "Kristoff_003_f",
+      "en": "Good luck!",
+      "cz": "Hodně štěstí!",
+      "source": "pre_existing",
+      "original_cz": "Hodně štěstí!"
+    }
+  ]
+}

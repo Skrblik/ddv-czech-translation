@@ -1,0 +1,1101 @@
+{
+  "Alice_Scrooge/SEC_Scro_020.locbin": [
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_020_AvailableDescription",
+      "en": "Something's going on in Scrooge McDuck's General Store! It might be a good idea to talk to Scrooge and see what happened.",
+      "cz": "V obchodě se smíšeným zbožím Scrooge McDucka se něco děje! Možná by bylo dobré si se Scroogem promluvit a zjistit, co se stalo.",
+      "source": "pre_existing",
+      "original_cz": "V obchodě se smíšeným zbožím Scrooge McDucka se něco děje! Možná by bylo dobré si se Scroogem promluvit a zjistit, co se stalo."
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_020_DisplayName",
+      "en": "Mannequin Madness",
+      "cz": "Šílenství figurín",
+      "source": "pre_existing",
+      "original_cz": "Šílenství figurín"
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_020_Group01_Step01_StepDescription",
+      "en": "Why is there so much trash everywhere? Clean up Scrooge McDuck's General Store.",
+      "cz": "Proč je všude tolik odpadků? Ukliďte obchod se smíšeným zbožím Scrooge McDucka.",
+      "source": "pre_existing",
+      "original_cz": "Proč je všude tolik odpadků? Ukliďte obchod se smíšeným zbožím Scrooge McDucka."
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_020_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Talk to {TargetNPC} in Scrooge McDuck's General Store.",
+      "cz": "Promluvte si s {TargetNPC} v obchodě se smíšeným zbožím Scrooge McDucka.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC} v obchodě se smíšeným zbožím Scrooge McDucka."
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_020_Group03_Step03_TalkToCharacter02_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluvte si s {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC}."
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_020_Group03_StoryDescription",
+      "en": "A strange mannequin has appeared in Scrooge McDuck's General Store! Maybe Alice can help with this...",
+      "cz": "V obchodě se smíšeným zbožím Scrooge McDucka se objevila podivná figurína! Možná by s tím mohla pomoct Alice...",
+      "source": "pre_existing",
+      "original_cz": "V obchodě se smíšeným zbožím Scrooge McDucka se objevila podivná figurína! Možná by s tím mohla pomoct Alice..."
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_020_Group04_Step04_VisitArea01_StepDescription",
+      "en": "Meet Alice in Scrooge McDuck's General Store.",
+      "cz": "Seznamte se s Alicí v obchodě se smíšeným zbožím Scrooge McDucka.",
+      "source": "pre_existing",
+      "original_cz": "Seznamte se s Alicí v obchodě se smíšeným zbožím Scrooge McDucka."
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_020_Group05_Step05_TalkToCharacter03_StepDescription",
+      "en": "Talk to {TargetNPC} inside Scrooge McDuck's General Store.",
+      "cz": "Promluvte si s {TargetNPC} uvnitř obchodu se smíšeným zbožím Scrooge McDucka.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC} uvnitř obchodu se smíšeným zbožím Scrooge McDucka."
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_020_Group06_Step06_Interaction01_StepDescription",
+      "en": "Interact with the strange mannequin in Scrooge McDuck's General Store.",
+      "cz": "Promluvte si s podivnou figurínou v obchodě se smíšeným zbožím Scrooge McDucka.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s podivnou figurínou v obchodě se smíšeným zbožím Scrooge McDucka."
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_020_Group06_StoryDescription",
+      "en": "The mannequin looks a lot like the Cheshire Cat. Alice thinks you should take a closer look and see if there are any clues as to where it came from.",
+      "cz": "Figurína vypadá hodně podobně jako kočka Cheshire. Alice si myslí, že byste se na ni měli podívat blíž a zjistit, jestli existují nějaké indicie, odkud se vzala.",
+      "source": "pre_existing",
+      "original_cz": "Figurína vypadá hodně podobně jako kočka Cheshire. Alice si myslí, že byste se na ni měli podívat blíž a zjistit, jestli existují nějaké indicie, odkud se vzala."
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_020_Group07_Step07_Interaction02_StepDescription",
+      "en": "A new mannequin? Interact with it, too.",
+      "cz": "Nová figurína? Interagujte s ní také.",
+      "source": "pre_existing",
+      "original_cz": "Nová figurína? Interagujte s ní také."
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_020_Group08_Step08_Interaction03_StepDescription",
+      "en": "Another one? How strange! Interact with it one more time.",
+      "cz": "Další? To je zvláštní! Promluvte si s ním ještě jednou.",
+      "source": "pre_existing",
+      "original_cz": "Další? To je zvláštní! Promluvte si s ním ještě jednou."
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_020_Group09_Step09_Possess01_StepDescription",
+      "en": "Grab the {itemName} on the ground in Scrooge McDuck's General Store.",
+      "cz": "Vezměte si {itemName} na zemi v obchodě se smíšeným zbožím Scrooge McDucka.",
+      "source": "pre_existing",
+      "original_cz": "Vezměte si {itemName} na zemi v obchodě se smíšeným zbožím Scrooge McDucka."
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_020_Group10_Step10_ReadyDescription",
+      "en": "Bring the {itemName} to {TargetNPC}.",
+      "cz": "Přiveďte {itemName} k {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Přiveďte {itemName} k {TargetNPC}."
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_020_Group10_Step10_StepDescription",
+      "en": "Make sure you have {itemName} in your Inventory.",
+      "cz": "Ujistěte se, že máte v inventáři {itemName}.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte v inventáři {itemName}."
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_020_Group10_StoryDescription",
+      "en": "The mannequin is gone, but in its place is a... coupon? This is most unusual. Maybe Scrooge can help you with this!",
+      "cz": "Figurína je pryč, ale místo ní je... kupón? To je nanejvýš neobvyklé. Možná ti s tím pomůže Scrooge!",
+      "source": "pre_existing",
+      "original_cz": "Figurína je pryč, ale místo ní je... kupón? To je nanejvýš neobvyklé. Možná ti s tím pomůže Scrooge!"
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_020_Group11_Step11_PurchaseItem01_StepDescription",
+      "en": "{itemName}.",
+      "cz": "{itemName}.",
+      "source": "pre_existing",
+      "original_cz": "{itemName}."
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_020_Group11_Step11_PurchaseItem02_StepDescription",
+      "en": "{itemName}.",
+      "cz": "{itemName}.",
+      "source": "pre_existing",
+      "original_cz": "{itemName}."
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_020_Group11_Step11_StepDescription",
+      "en": "Purchase items from Scrooge's delivery system:",
+      "cz": "Nákup položek z doručovacího systému Scrooge's:",
+      "source": "pre_existing",
+      "original_cz": "Nákup položek z doručovacího systému Scrooge's:"
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_020_Group12_Step12_DressUp01_StepDescription",
+      "en": "{itemName}.",
+      "cz": "{itemName}.",
+      "source": "pre_existing",
+      "original_cz": "{itemName}."
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_020_Group12_Step12_DressUp02_StepDescription",
+      "en": "{itemName}.",
+      "cz": "{itemName}.",
+      "source": "pre_existing",
+      "original_cz": "{itemName}."
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_020_Group12_Step12_StepDescription",
+      "en": "Put on your new items.",
+      "cz": "Oblečte si nové věci.",
+      "source": "pre_existing",
+      "original_cz": "Oblečte si nové věci."
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_020_Group13_Step13_TalkToCharacter04_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluvte si s {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC}."
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_020_Group13_StoryDescription",
+      "en": "It definitely seems like that mischievous cat is up to something. You'll need to keep your eyes open for more strangeness around the Valley.",
+      "cz": "Vypadá to, že ta zlomyslná kočka něco chystá. Budete si muset dávat pozor na další podivnosti v údolí.",
+      "source": "pre_existing",
+      "original_cz": "Vypadá to, že ta zlomyslná kočka něco chystá. Budete si muset dávat pozor na další podivnosti v údolí."
+    }
+  ],
+  "Alice_Scrooge/Scrooge_SEC_Scro_020_SEC_Scro_020_BringItem01.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Hmm... I dinnae recognize the items on this coupon...",
+      "cz": "Hmm... Nevím, co je na tom kupónu za zboží...",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Nevím, co je na tom kupónu za zboží..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "That's odd.",
+      "cz": "To je zvláštní.",
+      "source": "pre_existing",
+      "original_cz": "To je zvláštní."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Maybe you have them in storage?",
+      "cz": "Možná je máte ve skladu?",
+      "source": "pre_existing",
+      "original_cz": "Možná je máte ve skladu?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Can I speak to the manager?",
+      "cz": "Můžu mluvit s manažerem?",
+      "source": "pre_existing",
+      "original_cz": "Můžu mluvit s manažerem?"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "It is, isn't it?",
+      "cz": "Je to tak, že?",
+      "source": "pre_existing",
+      "original_cz": "Je to tak, že?"
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "Well, it has to be for SOMETHING? Uh... unless it doesn't.",
+      "cz": "No, k NĚČEMU to přece musí být? Ehm... pokud tedy k NĚČEMU ne.",
+      "source": "pre_existing",
+      "original_cz": "No, k NĚČEMU to přece musí být? Ehm... pokud tedy k NĚČEMU ne."
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "As I live and breathe! There ARE some new things in my inventory. How strange!",
+      "cz": "Jak žiju a dýchám! V mém inventáři ZÁROVEŇ jsou nové věci. To je zvláštní!",
+      "source": "pre_existing",
+      "original_cz": "Jak žiju a dýchám! V mém inventáři ZÁROVEŇ jsou nové věci. To je zvláštní!"
+    },
+    {
+      "key": "Scrooge_007_f",
+      "en": "I dinnae remember these items at all, but... well, they're available, you have a coupon, and business is business.",
+      "cz": "Vůbec si na tyhle věci nepamatuju, ale... no, jsou k dispozici, máte kupón a byznys je byznys.",
+      "source": "pre_existing",
+      "original_cz": "Vůbec si na tyhle věci nepamatuju, ale... no, jsou k dispozici, máte kupón a byznys je byznys."
+    },
+    {
+      "key": "Scrooge_008_f",
+      "en": "I can order these for you right away.",
+      "cz": "Můžu ti je hned objednat.",
+      "source": "pre_existing",
+      "original_cz": "Můžu ti je hned objednat."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "I dinnae think so.",
+      "cz": "To si nemyslím.",
+      "source": "pre_existing",
+      "original_cz": "To si nemyslím."
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "Sparkle me spats! I AM the manager!",
+      "cz": "Třpytivé kamaše! JSEM manažer!",
+      "source": "pre_existing",
+      "original_cz": "Třpytivé kamaše! JSEM manažer!"
+    }
+  ],
+  "Alice_Scrooge/Scrooge_SEC_Scro_020_SEC_Scro_020_Ongoing02.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "I need to <Lore>ask Alice her opinion about the strange mannequin</Lore> in the store!",
+      "cz": "Musím se <Lore>zeptat Alice na její názor na tu podivnou figurínu</Lore> v obchodě!",
+      "source": "pre_existing",
+      "original_cz": "Musím se <Lore>zeptat Alice na její názor na tu podivnou figurínu</Lore> v obchodě!"
+    }
+  ],
+  "Alice_Scrooge/Scrooge_SEC_Scro_020_SEC_Scro_020_Ongoing03.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "It's time to <Lore>meet Alice in Mr. McDuck's shop</Lore> so she can see the strange mannequin there.",
+      "cz": "Je čas <Lore>setkat se s Alicí v obchodě pana McDucka</Lore>, aby si mohla prohlédnout tu podivnou figurínu.",
+      "source": "pre_existing",
+      "original_cz": "Je čas <Lore>setkat se s Alicí v obchodě pana McDucka</Lore>, aby si mohla prohlédnout tu podivnou figurínu."
+    }
+  ],
+  "Alice_Scrooge/Scrooge_SEC_Scro_020_SEC_Scro_020_Ongoing06.locbin": [
+    {
+      "key": "Scrooge_001_f",
+      "en": "Did you fix that mannequin yet?",
+      "cz": "Už jsi opravil tu figurínu?",
+      "source": "pre_existing",
+      "original_cz": "Už jsi opravil tu figurínu?"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "I did! Something appeared in its place... <Lore>I need to go pick up the item that fell from the mannequin</Lore>.",
+      "cz": "Ano! Něco se objevilo na jeho místě... <Lore>Musím jít sebrat ten předmět, co spadl z figuríny</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Ano! Něco se objevilo na jeho místě... <Lore>Musím jít sebrat ten předmět, co spadl z figuríny</Lore>."
+    }
+  ],
+  "Alice_Scrooge/Scrooge_SEC_Scro_020_SEC_Scro_020_Ongoing07.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "I should <Lore>pick up the coupon that is on the floor</Lore> in the store.",
+      "cz": "Měl bych si <Lore>vyzvednout kupón, který je na podlaze</Lore> v obchodě.",
+      "source": "pre_existing",
+      "original_cz": "Měl bych si <Lore>vyzvednout kupón, který je na podlaze</Lore> v obchodě."
+    }
+  ],
+  "Alice_Scrooge/Scrooge_SEC_Scro_020_SEC_Scro_020_Ongoing08.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "I need to <Lore>order the items from this coupon I found and put them on</Lore>!",
+      "cz": "Musím si <Lore>objednat položky z tohoto kupónu, který jsem našel, a nasadit je</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Musím si <Lore>objednat položky z tohoto kupónu, který jsem našel, a nasadit je</Lore>!"
+    }
+  ],
+  "Alice_Scrooge/Scrooge_SEC_Scro_020_SEC_Scro_020_Ongoing09.locbin": [
+    {
+      "key": "Scrooge_001_f",
+      "en": "You should <Lore>put on those items you bought with the coupon</Lore>!",
+      "cz": "Měli byste si <Lore>obléct věci, které jste si koupili s tímto kupónem</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Měli byste si <Lore>obléct věci, které jste si koupili s tímto kupónem</Lore>!"
+    }
+  ],
+  "Alice_Scrooge/Scrooge_SEC_Scro_020_SEC_Scro_020_Ongoing10.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Have you spoken to Alice about my situation?",
+      "cz": "Mluvil jsi s Alicí o mé situaci?",
+      "source": "pre_existing",
+      "original_cz": "Mluvil jsi s Alicí o mé situaci?"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Yes! We are meeting up to investigate.",
+      "cz": "Ano! Setkáváme se, abychom to prošetřili.",
+      "source": "pre_existing",
+      "original_cz": "Ano! Setkáváme se, abychom to prošetřili."
+    }
+  ],
+  "Alice_Scrooge/Scrooge_SEC_Scro_020_SEC_Scro_020_Ongoing11.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Do you like your new attire?",
+      "cz": "Líbí se ti tvůj nový outfit?",
+      "source": "pre_existing",
+      "original_cz": "Líbí se ti tvůj nový outfit?"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Yes! Very much!",
+      "cz": "Ano! Moc!",
+      "source": "pre_existing",
+      "original_cz": "Ano! Moc!"
+    }
+  ],
+  "Alice_Scrooge/Scrooge_SEC_Scro_020_SEC_Scro_020_Ongoing12.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Och! <Lore>Someone left rubbish around my shop</Lore>! This must be tidied up at once!",
+      "cz": "Ach! <Lore>Někdo nechal odpadky kolem mého obchodu</Lore>! Tohle se musí okamžitě uklidit!",
+      "source": "pre_existing",
+      "original_cz": "Ach! <Lore>Někdo nechal odpadky kolem mého obchodu</Lore>! Tohle se musí okamžitě uklidit!"
+    }
+  ],
+  "Alice_Scrooge/Scrooge_SEC_Scro_020_SEC_Scro_020_Ongoing13.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Have you figured out why my mannequin looks the way it does yet?",
+      "cz": "Už jsi přišel na to, proč moje figurína vypadá tak, jak vypadá?",
+      "source": "pre_existing",
+      "original_cz": "Už jsi přišel na to, proč moje figurína vypadá tak, jak vypadá?"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Not yet. I need to <Lore>take a closer look at it</Lore> and see what happens!",
+      "cz": "Ještě ne. Musím se na to <Lore>blíže podívat</Lore> a uvidím, co se stane!",
+      "source": "pre_existing",
+      "original_cz": "Ještě ne. Musím se na to <Lore>blíže podívat</Lore> a uvidím, co se stane!"
+    }
+  ],
+  "Alice_Scrooge/Scrooge_SEC_Scro_020_SEC_Scro_020_Ongoing14.locbin": [
+    {
+      "key": "Scrooge_001_f",
+      "en": "Have you figured out why my mannequin looks the way it does yet?",
+      "cz": "Už jsi přišel na to, proč moje figurína vypadá tak, jak vypadá?",
+      "source": "pre_existing",
+      "original_cz": "Už jsi přišel na to, proč moje figurína vypadá tak, jak vypadá?"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Not yet. I need to <Lore>take a closer look at it</Lore> and see what happens!",
+      "cz": "Ještě ne. Musím se na to <Lore>blíže podívat</Lore> a uvidím, co se stane!",
+      "source": "pre_existing",
+      "original_cz": "Ještě ne. Musím se na to <Lore>blíže podívat</Lore> a uvidím, co se stane!"
+    }
+  ],
+  "Alice_Scrooge/Scrooge_SEC_Scro_020_SEC_Scro_020_Ongoing15.locbin": [
+    {
+      "key": "Scrooge_001_f",
+      "en": "Have you figured out why my mannequin looks the way it does yet?",
+      "cz": "Už jsi přišel na to, proč moje figurína vypadá tak, jak vypadá?",
+      "source": "pre_existing",
+      "original_cz": "Už jsi přišel na to, proč moje figurína vypadá tak, jak vypadá?"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Not yet. I need to <Lore>take a closer look at it</Lore> and see what happens!",
+      "cz": "Ještě ne. Musím se na to <Lore>blíže podívat</Lore> a uvidím, co se stane!",
+      "source": "pre_existing",
+      "original_cz": "Ještě ne. Musím se na to <Lore>blíže podívat</Lore> a uvidím, co se stane!"
+    }
+  ],
+  "Alice_Scrooge/Scrooge_SEC_Scro_020_SEC_Scro_020_Ongoing16.locbin": [
+    {
+      "key": "Scrooge_001_f",
+      "en": "Och! <Lore>Someone left rubbish around my shop</Lore>! This must be tidied up at once!",
+      "cz": "Ach! <Lore>Někdo nechal odpadky kolem mého obchodu</Lore>! Tohle se musí okamžitě uklidit!",
+      "source": "pre_existing",
+      "original_cz": "Ach! <Lore>Někdo nechal odpadky kolem mého obchodu</Lore>! Tohle se musí okamžitě uklidit!"
+    }
+  ],
+  "Alice_Scrooge/Scrooge_SEC_Scro_020_SEC_Scro_020_TalkTo01.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Hi, Mr. McDuck! What happened in here? Why was there trash all over the place?",
+      "cz": "Ahoj, pane McDucku! Co se tu stalo? Proč jsou všude odpadky?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, pane McDucku! Co se tu stalo? Proč jsou všude odpadky?"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "I've no idea, {PlayerName}! On top of all the rubbish, one of my mannequins has gone wonky!",
+      "cz": "Nemám tušení, {PlayerName}! Ke všemu tomu harampádí se mi ještě jedna figurína zbláznila!",
+      "source": "pre_existing",
+      "original_cz": "Nemám tušení, {PlayerName}! Ke všemu tomu harampádí se mi ještě jedna figurína zbláznila!"
+    },
+    {
+      "key": "Scrooge_011_f",
+      "en": "It's taken on some... peculiar features...",
+      "cz": "Převzalo to některé... zvláštní rysy...",
+      "source": "pre_existing",
+      "original_cz": "Převzalo to některé... zvláštní rysy..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "That sounds frustrating!",
+      "cz": "To zní frustrující!",
+      "source": "pre_existing",
+      "original_cz": "To zní frustrující!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Well, I cleaned the mess for you.",
+      "cz": "No, uklidil jsem za tebe ten nepořádek.",
+      "source": "pre_existing",
+      "original_cz": "No, uklidil jsem za tebe ten nepořádek."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "What's wrong with the mannequin?",
+      "cz": "Co je s figurínou špatně?",
+      "source": "pre_existing",
+      "original_cz": "Co je s figurínou špatně?"
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "Aye, it's a might frustrating.",
+      "cz": "Ano, je to možná frustrující.",
+      "source": "pre_existing",
+      "original_cz": "Ano, je to možná frustrující."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "It's gone purple and has a strange smile...",
+      "cz": "Zfialovatělo a má divný úsměv...",
+      "source": "pre_existing",
+      "original_cz": "Zfialovatělo a má divný úsměv..."
+    },
+    {
+      "key": "Scrooge_007_f",
+      "en": "Purple with a strange smile?",
+      "cz": "Fialová s podivným úsměvem?",
+      "source": "pre_existing",
+      "original_cz": "Fialová s podivným úsměvem?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "That sounds familiar...",
+      "cz": "To zní povědomě...",
+      "source": "pre_existing",
+      "original_cz": "To zní povědomě..."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "It must be the cat!",
+      "cz": "To musí být ta kočka!",
+      "source": "pre_existing",
+      "original_cz": "To musí být ta kočka!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Are you sure you didn't just order purple smiling mannequins?",
+      "cz": "Jsi si jistý/á, že sis právě neobjednal/a fialové usměvavé figuríny?",
+      "source": "pre_existing",
+      "original_cz": "Jsi si jistý/á, že sis právě neobjednal/a fialové usměvavé figuríny?"
+    },
+    {
+      "key": "Scrooge_008_f",
+      "en": "It does?",
+      "cz": "Ano?",
+      "source": "pre_existing",
+      "original_cz": "Ano?"
+    },
+    {
+      "key": "Scrooge_015_f",
+      "en": "The Cheshire Cat! He's purple and always grinning. That must be it!",
+      "cz": "Kocour z Cheshire! Je fialový a pořád se usmívá. To musí být on!",
+      "source": "pre_existing",
+      "original_cz": "Kocour z Cheshire! Je fialový a pořád se usmívá. To musí být on!"
+    },
+    {
+      "key": "Scrooge_018_f",
+      "en": "I dinnae know about any Cheshire Cat, but I'd be grateful for any help I can get!",
+      "cz": "Nevím o žádné kočce Cheshire, ale budu vděčný za jakoukoli pomoc, kterou dostanu!",
+      "source": "pre_existing",
+      "original_cz": "Nevím o žádné kočce Cheshire, ale budu vděčný za jakoukoli pomoc, kterou dostanu!"
+    },
+    {
+      "key": "Scrooge_009_f",
+      "en": "All right, I'll <Lore>talk to Alice about all of this</Lore>. She's very familiar with the Cheshire Cat's behavior and might have some advice.",
+      "cz": "Dobře, <Lore>promluvím si o tom všem s Alicí</Lore>. Je velmi dobře obeznámena s chováním kočky Cheshire a možná by mi měla nějakou radu.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, <Lore>promluvím si o tom všem s Alicí</Lore>. Je velmi dobře obeznámena s chováním kočky Cheshire a možná by mi měla nějakou radu."
+    },
+    {
+      "key": "Scrooge_010_f",
+      "en": "That'd be grand! I know you and the lass are friends.",
+      "cz": "To by bylo skvělé! Vím, že ty a ta holka jste kamarádky.",
+      "source": "pre_existing",
+      "original_cz": "To by bylo skvělé! Vím, že ty a ta holka jste kamarádky."
+    },
+    {
+      "key": "Scrooge_013_f",
+      "en": "Bless my kilts! What cat?",
+      "cz": "Žehnej mým kiltům! Jaká kočka?",
+      "source": "pre_existing",
+      "original_cz": "Žehnej mým kiltům! Jaká kočka?"
+    },
+    {
+      "key": "Scrooge_014_f",
+      "en": "Burst my bagpipes! Of COURSE not! This mannequin is sure to scare away my customers!",
+      "cz": "Praskněte mi dudy! SAMOZŘEJMĚ, že ne! Tahle figurína mi zákazníky určitě vyděsí!",
+      "source": "pre_existing",
+      "original_cz": "Praskněte mi dudy! SAMOZŘEJMĚ, že ne! Tahle figurína mi zákazníky určitě vyděsí!"
+    },
+    {
+      "key": "Scrooge_017_f",
+      "en": "In that case, there's only one explanation I can think of...",
+      "cz": "V tom případě mě napadá jen jedno vysvětlení...",
+      "source": "pre_existing",
+      "original_cz": "V tom případě mě napadá jen jedno vysvětlení..."
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "Aye, I noticed. Thank you, {PlayerName}! That's one less thing I need to worry about.",
+      "cz": "Ano, všiml jsem si. Děkuji, {PlayerName}! To je o jednu starost méně.",
+      "source": "pre_existing",
+      "original_cz": "Ano, všiml jsem si. Děkuji, {PlayerName}! To je o jednu starost méně."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "But I still have a wee mannequin problem to deal with.",
+      "cz": "Ale pořád mám problém s malou figurínou, se kterým se musím vypořádat.",
+      "source": "pre_existing",
+      "original_cz": "Ale pořád mám problém s malou figurínou, se kterým se musím vypořádat."
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "You'll have to see for yourself! You willnae believe your eyes.",
+      "cz": "Budete se muset přesvědčit sami! Nebudete věřit vlastním očím.",
+      "source": "pre_existing",
+      "original_cz": "Budete se muset přesvědčit sami! Nebudete věřit vlastním očím."
+    },
+    {
+      "key": "Scrooge_012_f",
+      "en": "I have no clue what can be done.",
+      "cz": "Nemám tušení, co se dá dělat.",
+      "source": "pre_existing",
+      "original_cz": "Nemám tušení, co se dá dělat."
+    }
+  ],
+  "Alice_Scrooge/Scrooge_VLG_Alic_010_VLG_Alic_010_TalkTo08.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Hey, Mr. McDuck! I was hoping you could help me with something.",
+      "cz": "Hej, pane McDucku! Doufal jsem, že byste mi s něčím mohl pomoct.",
+      "source": "pre_existing",
+      "original_cz": "Hej, pane McDucku! Doufal jsem, že byste mi s něčím mohl pomoct."
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Why of course, {PlayerName}! What seems to be the trouble?",
+      "cz": "No samozřejmě, {PlayerName}! V čem je problém?",
+      "source": "pre_existing",
+      "original_cz": "No samozřejmě, {PlayerName}! V čem je problém?"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Vanellope and Alice were hanging out in the Dreamlight Library. Vanellope messed with a book, and now we've got a bunch of words running wild!",
+      "cz": "Vanellope a Alice se poflakovaly v knihovně Dreamlight. Vanellope si hrála s knihou a teď nám z ní poletuje hromada slov!",
+      "source": "pre_existing",
+      "original_cz": "Vanellope a Alice se poflakovaly v knihovně Dreamlight. Vanellope si hrála s knihou a teď nám z ní poletuje hromada slov!"
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "We're starting by looking for the nouns. Any chance you've seen them around?",
+      "cz": "Začneme hledáním podstatných jmen. Neviděl jsi je už náhodou?",
+      "source": "pre_existing",
+      "original_cz": "Začneme hledáním podstatných jmen. Neviděl jsi je už náhodou?"
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "Ahh, the bairns are causin' trouble again, are they?",
+      "cz": "Ach, ty děti zase dělají potíže, že?",
+      "source": "pre_existing",
+      "original_cz": "Ach, ty děti zase dělají potíže, že?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Kids. *sigh*",
+      "cz": "Děti. *povzdech*",
+      "source": "pre_existing",
+      "original_cz": "Děti. *povzdech*"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "They're lucky they're adorable.",
+      "cz": "Mají štěstí, že jsou rozkošní.",
+      "source": "pre_existing",
+      "original_cz": "Mají štěstí, že jsou rozkošní."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "All in a day's work...",
+      "cz": "Všechno v rámci jednoho pracovního dne...",
+      "source": "pre_existing",
+      "original_cz": "Všechno v rámci jednoho pracovního dne..."
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "I've had many similar troubles with my great-nephews.",
+      "cz": "Měl jsem mnoho podobných problémů se svými prasynovci.",
+      "source": "pre_existing",
+      "original_cz": "Měl jsem mnoho podobných problémů se svými prasynovci."
+    },
+    {
+      "key": "Scrooge_007_f",
+      "en": "But, I'm afraid I haven't seen any of your nouns.",
+      "cz": "Ale obávám se, že jsem žádné z vašich podstatných jmen neviděl.",
+      "source": "pre_existing",
+      "original_cz": "Ale obávám se, že jsem žádné z vašich podstatných jmen neviděl."
+    },
+    {
+      "key": "Scrooge_008_f",
+      "en": "Though, you might want to <Lore>check in with Goofy</Lore>. He was fishing and said he'd caught the strangest fish he'd ever seen!",
+      "cz": "Možná by ses ale měl <Lore>zeptat Goofyho</Lore>. Byl na rybách a říkal, že chytil tu nejpodivnější rybu, jakou kdy viděl!",
+      "source": "pre_existing",
+      "original_cz": "Možná by ses ale měl <Lore>zeptat Goofyho</Lore>. Byl na rybách a říkal, že chytil tu nejpodivnější rybu, jakou kdy viděl!"
+    },
+    {
+      "key": "Scrooge_009_f",
+      "en": "Great, I'll go talk to him then. Thanks, Mr. McDuck!",
+      "cz": "Skvělé, tak si s ním promluvím. Díky, pane McDucku!",
+      "source": "pre_existing",
+      "original_cz": "Skvělé, tak si s ním promluvím. Díky, pane McDucku!"
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "Such is the burden of being an adult!",
+      "cz": "Taková je tíha dospělosti!",
+      "source": "pre_existing",
+      "original_cz": "Taková je tíha dospělosti!"
+    }
+  ],
+  "Alice_Scrooge/Scrooge_VLG_Alic_030_VLG_Alic_030_Listen04.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Och, my shop! My poor shop!",
+      "cz": "Ach, můj obchod! Můj ubohý obchod!",
+      "source": "pre_existing",
+      "original_cz": "Ach, můj obchod! Můj ubohý obchod!"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Wow! What happened, Uncle Scrooge?",
+      "cz": "Páni! Co se stalo, strýčku Scrooge?",
+      "source": "pre_existing",
+      "original_cz": "Páni! Co se stalo, strýčku Scrooge?"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "It's Alice! Something's gotten into the lass and she's causing chaos!",
+      "cz": "To je Alice! Něco se do té dívky vjelo a ona způsobuje chaos!",
+      "source": "pre_existing",
+      "original_cz": "To je Alice! Něco se do té dívky vjelo a ona způsobuje chaos!"
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "It looks like she's having fun to me.",
+      "cz": "Vypadá to, že se mi baví.",
+      "source": "pre_existing",
+      "original_cz": "Vypadá to, že se mi baví."
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "Aye, SHE'S having fun! But what about me?! And {PlayerName} had the nerve to say it's my fault!",
+      "cz": "Jo, ONA se baví! Ale co já?! A {PlayerName} měla tu drzost říct, že je to moje chyba!",
+      "source": "pre_existing",
+      "original_cz": "Jo, ONA se baví! Ale co já?! A {PlayerName} měla tu drzost říct, že je to moje chyba!"
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "Well, {PlayerName} IS pretty smart. Heh-heh-heh.",
+      "cz": "No, {PlayerName} JE docela chytrý. Heh-heh-heh.",
+      "source": "pre_existing",
+      "original_cz": "No, {PlayerName} JE docela chytrý. Heh-heh-heh."
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "DONALD! You're not helping!",
+      "cz": "DONALDE! Nepomáháš!",
+      "source": "pre_existing",
+      "original_cz": "DONALDE! Nepomáháš!"
+    }
+  ],
+  "Alice_Scrooge/Scrooge_VLG_Alic_030_VLG_Alic_030_TalkTo01.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Hey Mr. McDuck, could we have a quick little chat?",
+      "cz": "Hej, pane McDucku, mohli bychom si krátce popovídat?",
+      "source": "pre_existing",
+      "original_cz": "Hej, pane McDucku, mohli bychom si krátce popovídat?"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Why of course, {PlayerName}! Are ya lookin' for a special piece of clothing or some fine furniture?",
+      "cz": "No jasně, {PlayerName}! Hledáš nějaký speciální kus oblečení nebo nějaký elegantní nábytek?",
+      "source": "pre_existing",
+      "original_cz": "No jasně, {PlayerName}! Hledáš nějaký speciální kus oblečení nebo nějaký elegantní nábytek?"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Not exactly. It's about Alice...",
+      "cz": "Ne tak docela. Jde o Alici...",
+      "source": "pre_existing",
+      "original_cz": "Ne tak docela. Jde o Alici..."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Sufferin' Scots! That child was rushin' about my shop not long ago!",
+      "cz": "Trpící Skotové! To dítě mi nedávno pobíhalo po obchodě!",
+      "source": "pre_existing",
+      "original_cz": "Trpící Skotové! To dítě mi nedávno pobíhalo po obchodě!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "What was she doing?",
+      "cz": "Co dělala?",
+      "source": "pre_existing",
+      "original_cz": "Co dělala?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "That is something children tend to do now and again.",
+      "cz": "To je něco, co děti mají tendenci čas od času dělat.",
+      "source": "pre_existing",
+      "original_cz": "To je něco, co děti mají tendenci čas od času dělat."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Was she acting strange to you?",
+      "cz": "Chovala se k tobě divně?",
+      "source": "pre_existing",
+      "original_cz": "Chovala se k tobě divně?"
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "The lass kept tryin' on all the clothes I'd just set up on display!",
+      "cz": "Ta holka si pořád zkoušela všechno oblečení, co jsem právě vystavila!",
+      "source": "pre_existing",
+      "original_cz": "Ta holka si pořád zkoušela všechno oblečení, co jsem právě vystavila!"
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "And she threw the lot in a pile, puttin' nothing back!",
+      "cz": "A hodila to všechno na hromadu a nic nevrátila!",
+      "source": "pre_existing",
+      "original_cz": "A hodila to všechno na hromadu a nic nevrátila!"
+    },
+    {
+      "key": "Scrooge_013_f",
+      "en": "You'd think I'd be used to such shenanigans from my great-nephews, but a mess is a mess!",
+      "cz": "Člověk by si myslel, že jsem na takové lumpárny od svých prasynovců zvyklý, ale nepořádek je nepořádek!",
+      "source": "pre_existing",
+      "original_cz": "Člověk by si myslel, že jsem na takové lumpárny od svých prasynovců zvyklý, ale nepořádek je nepořádek!"
+    },
+    {
+      "key": "Scrooge_009_f",
+      "en": "Did you say anything to her?",
+      "cz": "Řekl jsi jí něco?",
+      "source": "pre_existing",
+      "original_cz": "Řekl jsi jí něco?"
+    },
+    {
+      "key": "Scrooge_010_f",
+      "en": "Aye, I was quite cross with her and told her to stop being so silly.",
+      "cz": "Jo, byl jsem na ni docela naštvaný a řekl jsem jí, ať přestane být tak hloupá.",
+      "source": "pre_existing",
+      "original_cz": "Jo, byl jsem na ni docela naštvaný a řekl jsem jí, ať přestane být tak hloupá."
+    },
+    {
+      "key": "Scrooge_011_f",
+      "en": "Though now, I fear I was too harsh. She said she was goin' back home. And then I spent my afternoon ironing out wrinkles!",
+      "cz": "I když teď se bojím, že jsem byl moc drsný. Řekla, že se vrací domů. A pak jsem strávil odpoledne žehlením vrásek!",
+      "source": "pre_existing",
+      "original_cz": "I když teď se bojím, že jsem byl moc drsný. Řekla, že se vrací domů. A pak jsem strávil odpoledne žehlením vrásek!"
+    },
+    {
+      "key": "Scrooge_012_f",
+      "en": "How curious. I had better keep investigating. Thanks, Mr. McDuck.",
+      "cz": "To je zvláštní. Raději budu pokračovat v pátrání. Díky, pane McDucku.",
+      "source": "pre_existing",
+      "original_cz": "To je zvláštní. Raději budu pokračovat v pátrání. Díky, pane McDucku."
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "Aye, but such antics have a time and a place. And my shop isn't either!",
+      "cz": "Ano, ale takové kousky mají svůj čas a místo. A můj obchod taky ne!",
+      "source": "pre_existing",
+      "original_cz": "Ano, ale takové kousky mají svůj čas a místo. A můj obchod taky ne!"
+    },
+    {
+      "key": "Scrooge_007_f",
+      "en": "She was pullin' all my clothes off of the displays and tryin' to wear 'em all together!",
+      "cz": "Strhávala mi všechno oblečení z vitrín a snažila se ho obléct najednou!",
+      "source": "pre_existing",
+      "original_cz": "Strhávala mi všechno oblečení z vitrín a snažila se ho obléct najednou!"
+    },
+    {
+      "key": "Scrooge_008_f",
+      "en": "No stranger than any other misbehaving bairn.",
+      "cz": "Není o nic podivnější než kterékoli jiné zlobivé dítě.",
+      "source": "pre_existing",
+      "original_cz": "Není o nic podivnější než kterékoli jiné zlobivé dítě."
+    }
+  ],
+  "Alice_Scrooge/Scrooge_VLG_Alic_030_VLG_Alic_030_TalkTo04.locbin": [
+    {
+      "key": "Alice_000_f",
+      "en": "Hey Mr. McDuck, we need to talk about—",
+      "cz": "Hej, pane McDucku, musíme si promluvit o—",
+      "source": "pre_existing",
+      "original_cz": "Hej, pane McDucku, musíme si promluvit o—"
+    },
+    {
+      "key": "Alice_001_f",
+      "en": "Ah, there you are, {PlayerName}! Alice is running about again! Help me — quick!",
+      "cz": "Aha, tady jsi, {PlayerName}! Alice zase pobíhá! Pomoz mi – rychle!",
+      "source": "pre_existing",
+      "original_cz": "Aha, tady jsi, {PlayerName}! Alice zase pobíhá! Pomoz mi – rychle!"
+    },
+    {
+      "key": "Alice_002_f",
+      "en": "Hee-hee! Your angry face is so funny, Mister McDuck!",
+      "cz": "Hi-hi! Váš rozzlobený výraz je tak legrační, pane McDucke!",
+      "source": "pre_existing",
+      "original_cz": "Hi-hi! Váš rozzlobený výraz je tak legrační, pane McDucke!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "We need to talk about the Alice situation.",
+      "cz": "Musíme si promluvit o situaci s Alicí.",
+      "source": "pre_existing",
+      "original_cz": "Musíme si promluvit o situaci s Alicí."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Hi Alice. What are you doing?",
+      "cz": "Ahoj Alice. Co děláš?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj Alice. Co děláš?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Oh, I see chaos has come to the shop.",
+      "cz": "Vidím, že v obchodě zavládl chaos.",
+      "source": "pre_existing",
+      "original_cz": "Vidím, že v obchodě zavládl chaos."
+    },
+    {
+      "key": "Alice_003_f",
+      "en": "I agree! The child's a menace! Look what she's done to my shop!",
+      "cz": "Souhlasím! To dítě je postrach! Podívejte se, co udělalo s mým obchodem!",
+      "source": "pre_existing",
+      "original_cz": "Souhlasím! To dítě je postrach! Podívejte se, co udělalo s mým obchodem!"
+    },
+    {
+      "key": "Alice_015_f",
+      "en": "Okay, okay, I'll deal with that, but then we NEED to have a proper conversation.",
+      "cz": "Dobře, dobře, s tím se vypořádám, ale pak si MUSÍME pořádně promluvit.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, dobře, s tím se vypořádám, ale pak si MUSÍME pořádně promluvit."
+    },
+    {
+      "key": "Alice_006_f",
+      "en": "Why, it's not a shop! This is the Wonderland museum, and I'm an explorer!",
+      "cz": "Vždyť to není obchod! Tohle je muzeum v Říši divů a já jsem průzkumník!",
+      "source": "pre_existing",
+      "original_cz": "Vždyť to není obchod! Tohle je muzeum v Říši divů a já jsem průzkumník!"
+    },
+    {
+      "key": "Alice_008_f",
+      "en": "Oh, how creative!",
+      "cz": "Ach, jak kreativní!",
+      "source": "pre_existing",
+      "original_cz": "Ach, jak kreativní!"
+    },
+    {
+      "key": "Alice_009_f",
+      "en": "Creative?! She's making a mess of everything! And now I'm late with my inventory count!",
+      "cz": "Kreativní?! Dělá ze všeho nepořádek! A teď se opožďuji s inventurou!",
+      "source": "pre_existing",
+      "original_cz": "Kreativní?! Dělá ze všeho nepořádek! A teď se opožďuji s inventurou!"
+    },
+    {
+      "key": "Alice_010_f",
+      "en": "Okay, well this is kinda your fault...",
+      "cz": "Dobře, tohle je tak trochu tvoje chyba...",
+      "source": "pre_existing",
+      "original_cz": "Dobře, tohle je tak trochu tvoje chyba..."
+    },
+    {
+      "key": "Alice_011_f",
+      "en": "My fault?! That's preposterous!",
+      "cz": "Moje chyba?! To je absurdní!",
+      "source": "pre_existing",
+      "original_cz": "Moje chyba?! To je absurdní!"
+    },
+    {
+      "key": "Alice_012_f",
+      "en": "Preposterous is quite a funny word! You're preposterous, Mister McDuck!",
+      "cz": "„Absurdní“ je docela vtipné slovo! Jste absurdní, pane McDucku!",
+      "source": "pre_existing",
+      "original_cz": "„Absurdní“ je docela vtipné slovo! Jste absurdní, pane McDucku!"
+    },
+    {
+      "key": "Alice_013_f",
+      "en": "This is what we need to talk about — the whole Alice situation.",
+      "cz": "O tomhle si musíme promluvit – o celé situaci s Alicí.",
+      "source": "pre_existing",
+      "original_cz": "O tomhle si musíme promluvit – o celé situaci s Alicí."
+    },
+    {
+      "key": "Alice_014_f",
+      "en": "I won't have time to talk <Lore>until my shop is put right</Lore>!",
+      "cz": "Nebudu mít čas mluvit, <Lore>dokud mi nedají do pořádku krám</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Nebudu mít čas mluvit, <Lore>dokud mi nedají do pořádku krám</Lore>!"
+    },
+    {
+      "key": "Alice_004_f",
+      "en": "I'm having fun!",
+      "cz": "Bavím se!",
+      "source": "pre_existing",
+      "original_cz": "Bavím se!"
+    },
+    {
+      "key": "Alice_007_f",
+      "en": "I'm a great explorer, and I'm making the new exhibit at the Wonderland museum!",
+      "cz": "Jsem skvělý průzkumník a připravuji novou výstavu v muzeu Wonderland!",
+      "source": "pre_existing",
+      "original_cz": "Jsem skvělý průzkumník a připravuji novou výstavu v muzeu Wonderland!"
+    },
+    {
+      "key": "Alice_005_f",
+      "en": "To put it mildly!",
+      "cz": "Mírně řečeno!",
+      "source": "pre_existing",
+      "original_cz": "Mírně řečeno!"
+    }
+  ],
+  "Alice_Scrooge/Scrooge_VLG_Alic_030_VLG_Alic_030_TalkTo05.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Ahh, that's much better! Now, what was this nonsense about this being my fault?",
+      "cz": "Ááá, to je mnohem lepší! A co to bylo za nesmysl o tom, že je to moje chyba?",
+      "source": "pre_existing",
+      "original_cz": "Ááá, to je mnohem lepší! A co to bylo za nesmysl o tom, že je to moje chyba?"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Yeah, so about that... it kinda is your fault.",
+      "cz": "Jo, takže o tom... je to tak trochu tvoje chyba.",
+      "source": "pre_existing",
+      "original_cz": "Jo, takže o tom... je to tak trochu tvoje chyba."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Alice has this magical kaleidoscope. We weren't sure what it did, but when you told her to stop being so silly, it activated.",
+      "cz": "Alice má tenhle kouzelný kaleidoskop. Nevěděli jsme jistě, co dělá, ale když jsi jí řekla, aby přestala být tak hloupá, aktivoval se.",
+      "source": "pre_existing",
+      "original_cz": "Alice má tenhle kouzelný kaleidoskop. Nevěděli jsme jistě, co dělá, ale když jsi jí řekla, aby přestala být tak hloupá, aktivoval se."
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "And what exactly did the kaleidoscope do?",
+      "cz": "A co přesně kaleidoskop dělal?",
+      "source": "pre_existing",
+      "original_cz": "A co přesně kaleidoskop dělal?"
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "It split her into two Alices! You've been dealing with the Happy Alice recently, and back at her House there's a Sad Alice just moping around.",
+      "cz": "Rozdělilo ji to na dvě Alice! Nedávno jsi měl co do činění se Šťastnou Alicí a v jejím koleji se jen potuluje Smutná Alice.",
+      "source": "pre_existing",
+      "original_cz": "Rozdělilo ji to na dvě Alice! Nedávno jsi měl co do činění se Šťastnou Alicí a v jejím koleji se jen potuluje Smutná Alice."
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "Oh, I had no idea! I feel terrible now. I should've been more understanding of the lass.",
+      "cz": "To jsem neměla tušení! Teď se cítím hrozně. Měla jsem k té holce mít víc pochopení.",
+      "source": "pre_existing",
+      "original_cz": "To jsem neměla tušení! Teď se cítím hrozně. Měla jsem k té holce mít víc pochopení."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Well, hopefully you can help put things right.",
+      "cz": "No, doufám, že pomůžete dát věci do pořádku.",
+      "source": "pre_existing",
+      "original_cz": "No, doufám, že pomůžete dát věci do pořádku."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Yeah, you've got to keep in mind that she's just a kid!",
+      "cz": "Jo, musíš mít na paměti, že je to jen dítě!",
+      "source": "pre_existing",
+      "original_cz": "Jo, musíš mít na paměti, že je to jen dítě!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Everyone makes mistakes.",
+      "cz": "Každý dělá chyby.",
+      "source": "pre_existing",
+      "original_cz": "Každý dělá chyby."
+    },
+    {
+      "key": "Scrooge_012_f",
+      "en": "Tell me what I can do.",
+      "cz": "Řekni mi, co můžu dělat.",
+      "source": "pre_existing",
+      "original_cz": "Řekni mi, co můžu dělat."
+    },
+    {
+      "key": "Scrooge_007_f",
+      "en": "Well, Sad Alice is still feeling rather small — literally. If you could try to cheer her up and let her know that it's okay to be silly sometimes, I'm sure that would mean the world to her.",
+      "cz": "No, Smutná Alice se pořád cítí dost malá – doslova. Kdybys ji mohla zkusit rozveselit a dát jí najevo, že je v pořádku být někdy hloupá, jsem si jistá, že by to pro ni znamenalo celý svět.",
+      "source": "pre_existing",
+      "original_cz": "No, Smutná Alice se pořád cítí dost malá – doslova. Kdybys ji mohla zkusit rozveselit a dát jí najevo, že je v pořádku být někdy hloupá, jsem si jistá, že by to pro ni znamenalo celý svět."
+    },
+    {
+      "key": "Scrooge_008_f",
+      "en": "I'll do it right away! But what will you do about the two Alices?",
+      "cz": "Udělám to hned! Ale co uděláš s těmi dvěma Alicemi?",
+      "source": "pre_existing",
+      "original_cz": "Udělám to hned! Ale co uděláš s těmi dvěma Alicemi?"
+    },
+    {
+      "key": "Scrooge_009_f",
+      "en": "I'm not sure. I think I'll <Lore>go talk to Merlin</Lore>. Maybe he can give me some advice about how these magical items work.",
+      "cz": "Nejsem si jistý. Myslím, že si <Lore>promluvím s Merlinem</Lore>. Možná mi poradí, jak tyhle magické předměty fungují.",
+      "source": "pre_existing",
+      "original_cz": "Nejsem si jistý. Myslím, že si <Lore>promluvím s Merlinem</Lore>. Možná mi poradí, jak tyhle magické předměty fungují."
+    },
+    {
+      "key": "Scrooge_010_f",
+      "en": "Could you meet me in Alice's House after I speak with Merlin?",
+      "cz": "Mohla bys se se mnou setkat v Alicině domě, až si promluvím s Merlinem?",
+      "source": "pre_existing",
+      "original_cz": "Mohla bys se se mnou setkat v Alicině domě, až si promluvím s Merlinem?"
+    },
+    {
+      "key": "Scrooge_011_f",
+      "en": "Of course! I'll compose my apology along the way.",
+      "cz": "Jasně! Omluvu si složím cestou.",
+      "source": "pre_existing",
+      "original_cz": "Jasně! Omluvu si složím cestou."
+    },
+    {
+      "key": "Scrooge_013_f",
+      "en": "Aye, sometimes I get too focused on the shop and forget my manners.",
+      "cz": "Ano, někdy se příliš soustředím na obchod a zapomínám na slušné chování.",
+      "source": "pre_existing",
+      "original_cz": "Ano, někdy se příliš soustředím na obchod a zapomínám na slušné chování."
+    },
+    {
+      "key": "Scrooge_014_f",
+      "en": "True, but now it's on me to fix my mistake.",
+      "cz": "To je pravda, ale teď je na mně, abych svou chybu napravil.",
+      "source": "pre_existing",
+      "original_cz": "To je pravda, ale teď je na mně, abych svou chybu napravil."
+    }
+  ]
+}

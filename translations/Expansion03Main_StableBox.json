@@ -1,0 +1,74 @@
+{
+  "Expansion03Main_StableBox/Unknown_RanchBuildings01_StableBoxInteractionDialogue.locbin": [
+    {
+      "key": "Player_000_f",
+      "en": "This Stable is just waiting for a horse to fill it!",
+      "cz": "Tato stáj jen čeká, až ji zaplní kůň!",
+      "source": "pre_existing",
+      "original_cz": "Tato stáj jen čeká, až ji zaplní kůň!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Adopt a new horse.",
+      "cz": "Adoptujte si nového koně.",
+      "source": "pre_existing",
+      "original_cz": "Adoptujte si nového koně."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Do nothing for now.",
+      "cz": "Prozatím nic nedělejte.",
+      "source": "pre_existing",
+      "original_cz": "Prozatím nic nedělejte."
+    },
+    {
+      "key": "Player_002_f",
+      "en": "Hi, {mountName}! What are we up to today?",
+      "cz": "Ahoj, {mountName}! Co máme dnes v plánu?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {mountName}! Co máme dnes v plánu?"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Take {mountName} for a ride.",
+      "cz": "Vezměte si {mountName} na projížďku.",
+      "source": "pre_existing",
+      "original_cz": "Vezměte si {mountName} na projížďku."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Customize {mountName}.",
+      "cz": "Přizpůsobit {mountName}.",
+      "source": "pre_existing",
+      "original_cz": "Přizpůsobit {mountName}."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Do nothing for now.",
+      "cz": "Prozatím nic nedělejte.",
+      "source": "pre_existing",
+      "original_cz": "Prozatím nic nedělejte."
+    },
+    {
+      "key": "Player_001_f",
+      "en": "{mountName} is already out. What do I want to do?",
+      "cz": "{mountName} je již venku. Co chci dělat?",
+      "source": "pre_existing",
+      "original_cz": "{mountName} je již venku. Co chci dělat?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Customize {mountName}.",
+      "cz": "Přizpůsobit {mountName}.",
+      "source": "pre_existing",
+      "original_cz": "Přizpůsobit {mountName}."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Do nothing for now.",
+      "cz": "Prozatím nic nedělejte.",
+      "source": "pre_existing",
+      "original_cz": "Prozatím nic nedělejte."
+    }
+  ]
+}

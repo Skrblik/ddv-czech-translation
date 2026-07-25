@@ -1,0 +1,272 @@
+{
+  "Expansion02Main_WolfDoor/WolfDoor_MRQS_E02_031_MRQS_E02_031_BringItem01.locbin": [
+    {
+      "key": "WolfDoor_004_f",
+      "en": "<i>You've... you've returned?!</i>",
+      "cz": "<i>Vrátil ses... vrátil ses?!</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Vrátil ses... vrátil ses?!</i>"
+    },
+    {
+      "key": "WolfDoor_005_f",
+      "en": "<i>That was most foolish of you!</i>",
+      "cz": "<i>To bylo od tebe naprostá hloupost!</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>To bylo od tebe naprostá hloupost!</i>"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm starting to think you really BELIEVE that you're a wolf.",
+      "cz": "Začínám si myslet, že si opravdu VĚŘÍŠ, že jsi vlk.",
+      "source": "pre_existing",
+      "original_cz": "Začínám si myslet, že si opravdu VĚŘÍŠ, že jsi vlk."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "You're the foolish one here. Give it up.",
+      "cz": "Ty jsi tady ten hlupák. Vzdej to.",
+      "source": "pre_existing",
+      "original_cz": "Ty jsi tady ten hlupák. Vzdej to."
+    },
+    {
+      "key": "WolfDoor_013_f",
+      "en": "Whoa. My head... I feel... dizzy all of a sudden...",
+      "cz": "Páni. Točí se mi hlava... Najednou se mi... točí hlava...",
+      "source": "pre_existing",
+      "original_cz": "Páni. Točí se mi hlava... Najednou se mi... točí hlava..."
+    },
+    {
+      "key": "WolfDoor_014_f",
+      "en": "Open this door! Let me help you!",
+      "cz": "Otevři ty dveře! Pomůžu ti!",
+      "source": "pre_existing",
+      "original_cz": "Otevři ty dveře! Pomůžu ti!"
+    },
+    {
+      "key": "WolfDoor_007_f",
+      "en": "<i>Believe...? What's to believe? I'm the Wolf of the Wilds, guardian of these woods and right hand of Maleficent!</i>",
+      "cz": "<i>Věřit...? Čemu věřit? Jsem Vlk z divočiny, strážce těchto lesů a pravá ruka Zloby!</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Věřit...? Čemu věřit? Jsem Vlk z divočiny, strážce těchto lesů a pravá ruka Zloby!</i>"
+    },
+    {
+      "key": "WolfDoor_009_f",
+      "en": "Those big wolfy feet of yours? Nothing more than some slippers you wear. Here!",
+      "cz": "Ty tvoje velké vlčí nohy? Jen ty pantofle, co nosíš. Tady!",
+      "source": "pre_existing",
+      "original_cz": "Ty tvoje velké vlčí nohy? Jen ty pantofle, co nosíš. Tady!"
+    },
+    {
+      "key": "WolfDoor_010_f",
+      "en": "That wolfish scent? It doesn't come from you. It comes from a spray bottle. I found it down here. Look!",
+      "cz": "Ten vlčí zápach? Nepochází od tebe. Pochází z rozprašovače. Našel jsem ho tady dole. Podívej!",
+      "source": "pre_existing",
+      "original_cz": "Ten vlčí zápach? Nepochází od tebe. Pochází z rozprašovače. Našel jsem ho tady dole. Podívej!"
+    },
+    {
+      "key": "WolfDoor_011_f",
+      "en": "And that howl of yours? Just a sound effect. I found the phonograph you use to play it! Voila!",
+      "cz": "A to tvé vytí? Jenom zvukový efekt. Našel jsem ten gramofon, na kterém ho hraješ! Voilá!",
+      "source": "pre_existing",
+      "original_cz": "A to tvé vytí? Jenom zvukový efekt. Našel jsem ten gramofon, na kterém ho hraješ! Voilá!"
+    },
+    {
+      "key": "WolfDoor_012_f",
+      "en": "<i>I... I... But...</i>",
+      "cz": "<i>Já... já... Ale...</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Já... já... Ale...</i>"
+    },
+    {
+      "key": "WolfDoor_008_f",
+      "en": "<i>How many times do I have to tell you...?! Leave, now, before you enrage me more!</i>",
+      "cz": "<i>Kolikrát ti to mám ještě říkat...?! Odejdi, hned, než mě ještě víc rozzuříš!</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Kolikrát ti to mám ještě říkat...?! Odejdi, hned, než mě ještě víc rozzuříš!</i>"
+    }
+  ],
+  "Expansion02Main_WolfDoor/WolfDoor_MRQS_E02_031_MRQS_E02_031_TalkTo02.locbin": [
+    {
+      "key": "WolfDoor_002_f",
+      "en": "Hello? Excuse me?",
+      "cz": "Haló? Promiňte?",
+      "source": "pre_existing",
+      "original_cz": "Haló? Promiňte?"
+    },
+    {
+      "key": "WolfDoor_003_f",
+      "en": "Wait. Is someone out there?",
+      "cz": "Počkej. Je tam někdo?",
+      "source": "pre_existing",
+      "original_cz": "Počkej. Je tam někdo?"
+    },
+    {
+      "key": "WolfDoor_004_f",
+      "en": "Uh... I mean... <i>Grrrr... Who... who DARES disturb my slumber? Awooooo!</i>",
+      "cz": "Ehm... chci říct... <i>Grrrr... Kdo... kdo se DOPORUČUJE rušit můj spánek? Awooooo!</i>",
+      "source": "pre_existing",
+      "original_cz": "Ehm... chci říct... <i>Grrrr... Kdo... kdo se DOPORUČUJE rušit můj spánek? Awooooo!</i>"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm {PlayerName}. Pleased to meet you.",
+      "cz": "Jsem {PlayerName}. Těší mě, že vás poznávám.",
+      "source": "pre_existing",
+      "original_cz": "Jsem {PlayerName}. Těší mě, že vás poznávám."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I've got a question for YOU. What is this place?",
+      "cz": "Mám na VÁS otázku. Co je tohle za místo?",
+      "source": "pre_existing",
+      "original_cz": "Mám na VÁS otázku. Co je tohle za místo?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Your growling and howling could really use some work.",
+      "cz": "Tvé vrčení a vytí by si opravdu zasloužilo trochu vylepšit.",
+      "source": "pre_existing",
+      "original_cz": "Tvé vrčení a vytí by si opravdu zasloužilo trochu vylepšit."
+    },
+    {
+      "key": "WolfDoor_005_f",
+      "en": "Hey, it's great to meet you too — uh, I mean, <i>your name matters not to me!</i>",
+      "cz": "Ahoj, taky tě rád poznávám — ehm, chci říct, <i>na tvém jméně mi nezáleží!</i>",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, taky tě rád poznávám — ehm, chci říct, <i>na tvém jméně mi nezáleží!</i>"
+    },
+    {
+      "key": "WolfDoor_006_f",
+      "en": "<i>Leave this place, or you'll be my entrée for lunch! AwooooOOOOooo!</i>",
+      "cz": "<i>Opusť toto místo, nebo budeš mým hlavním chodem k obědu! AwooooOOOOooo!</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Opusť toto místo, nebo budeš mým hlavním chodem k obědu! AwooooOOOOooo!</i>"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "No offense, but I'm starting to think you're not really a wolf.",
+      "cz": "Bez urážky, ale začínám si myslet, že nejsi vlastně vlk.",
+      "source": "pre_existing",
+      "original_cz": "Bez urážky, ale začínám si myslet, že nejsi vlastně vlk."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Wow. You are the fakest faker I have ever met.",
+      "cz": "Páni. Jsi ten největší falešný podvodník, jakého jsem kdy potkal.",
+      "source": "pre_existing",
+      "original_cz": "Páni. Jsi ten největší falešný podvodník, jakého jsem kdy potkal."
+    },
+    {
+      "key": "WolfDoor_010_f",
+      "en": "<i>What? No! Of course I'm a wolf.</i>",
+      "cz": "<i>Cože? Ne! Samozřejmě, že jsem vlk.</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Cože? Ne! Samozřejmě, že jsem vlk.</i>"
+    },
+    {
+      "key": "WolfDoor_018_f",
+      "en": "<i>I am <Lore>the Wolf of the Wilds</Lore>, guardian of these woods and servant of Maleficent.</Lore>",
+      "cz": "<i>Jsem <Lore>Vlk z divočiny</Lore>, strážce těchto lesů a služebník Zloby.</Lore>",
+      "source": "pre_existing",
+      "original_cz": "<i>Jsem <Lore>Vlk z divočiny</Lore>, strážce těchto lesů a služebník Zloby.</Lore>"
+    },
+    {
+      "key": "WolfDoor_019_f",
+      "en": "<i>It's just that this is kind of an off day for me.</i>",
+      "cz": "<i>Jenže dneska nemám takový volný den.</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Jenže dneska nemám takový volný den.</i>"
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "Uh, yeah, sure.",
+      "cz": "Ehm, jo, jistě.",
+      "source": "pre_existing",
+      "original_cz": "Ehm, jo, jistě."
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "A likely story.",
+      "cz": "Pravděpodobný příběh.",
+      "source": "pre_existing",
+      "original_cz": "Pravděpodobný příběh."
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "It must be a VERY off day.",
+      "cz": "Musí to být VELMI špatný den.",
+      "source": "pre_existing",
+      "original_cz": "Musí to být VELMI špatný den."
+    },
+    {
+      "key": "WolfDoor_020_f",
+      "en": "<i>Don't believe me? Well, look at the proof...</i>",
+      "cz": "<i>Nevěříte mi? Podívejte se na důkaz...</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Nevěříte mi? Podívejte se na důkaz...</i>"
+    },
+    {
+      "key": "WolfDoor_017_f",
+      "en": "Oh, would you just leave me alone. That's right... <i>Leave now, before my hunger returns!</i>",
+      "cz": "Ach, nechal bys mě být? Přesně tak... <i>Odejděte hned, než se mi vrátí hlad!</i>",
+      "source": "pre_existing",
+      "original_cz": "Ach, nechal bys mě být? Přesně tak... <i>Odejděte hned, než se mi vrátí hlad!</i>"
+    },
+    {
+      "key": "WolfDoor_011_f",
+      "en": "<i>Like <Lore>what large, wolfish feet I have</Lore>! I'm sure you saw the footprints I left outside...</i>",
+      "cz": "<i>Jako <Lore>mám ty velké vlčí nohy</Lore>! Jsem si jistý, že jsi viděl ty stopy, co jsem zanechal venku...</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Jako <Lore>mám ty velké vlčí nohy</Lore>! Jsem si jistý, že jsi viděl ty stopy, co jsem zanechal venku...</i>"
+    },
+    {
+      "key": "WolfDoor_013_f",
+      "en": "<i>Or... or <Lore>what a wolfish musk I have</Lore>? I mean, come on, you can smell me from halfway across the woods.</i>",
+      "cz": "<i>Nebo... nebo <Lore>jaké vlčí pižmo mám</Lore>? Vždyť mě cítíš až z půlky lesa.</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Nebo... nebo <Lore>jaké vlčí pižmo mám</Lore>? Vždyť mě cítíš až z půlky lesa.</i>"
+    },
+    {
+      "key": "WolfDoor_014_f",
+      "en": "<i>Or maybe you'll be convinced by <Lore>what a terrifying howl I have</Lore>! I'm sure you've heard me howling at the moon.</i>",
+      "cz": "<i>Nebo tě možná přesvědčí <Lore>jak děsivě vyji</Lore>! Jsem si jistá, že jsi mě slyšela vyt na měsíc.</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Nebo tě možná přesvědčí <Lore>jak děsivě vyji</Lore>! Jsem si jistá, že jsi mě slyšela vyt na měsíc.</i>"
+    },
+    {
+      "key": "WolfDoor_015_f",
+      "en": "So if I could <Lore>find proof that your feet, your scent, and your howl</Lore> are all fake...",
+      "cz": "Kdybych tedy mohla <Lore>najít důkaz, že tvé nohy, tvůj pach a tvé vytí</Lore> jsou falešné...",
+      "source": "pre_existing",
+      "original_cz": "Kdybych tedy mohla <Lore>najít důkaz, že tvé nohy, tvůj pach a tvé vytí</Lore> jsou falešné..."
+    },
+    {
+      "key": "WolfDoor_016_f",
+      "en": "...you'll stop pretending and open up that door?",
+      "cz": "...přestaneš předstírat a otevřeš ty dveře?",
+      "source": "pre_existing",
+      "original_cz": "...přestaneš předstírat a otevřeš ty dveře?"
+    },
+    {
+      "key": "WolfDoor_007_f",
+      "en": "Honest, I don't really know — uh, I mean... <i>It's my den! Grrrr!</i>",
+      "cz": "Upřímně, já vlastně nevím — ehm, myslím... <i>To je moje doupě! Grrrr!</i>",
+      "source": "pre_existing",
+      "original_cz": "Upřímně, já vlastně nevím — ehm, myslím... <i>To je moje doupě! Grrrr!</i>"
+    },
+    {
+      "key": "WolfDoor_008_f",
+      "en": "Seriously?! Do you know how hard talking like this is on your throat?",
+      "cz": "Vážně?! Víš, jak těžké je takovéhle mluvení pro tvé hrdlo?",
+      "source": "pre_existing",
+      "original_cz": "Vážně?! Víš, jak těžké je takovéhle mluvení pro tvé hrdlo?"
+    },
+    {
+      "key": "WolfDoor_009_f",
+      "en": "Uh, I mean... <i>GrrrRRRRRrrr! How dare you insult my ferocious growl?!</i>",
+      "cz": "Ehm, myslím... <i>GrrrRRRRrrrr! Jak se opovažuješ urážet mé zuřivé vrčení?!</i>",
+      "source": "pre_existing",
+      "original_cz": "Ehm, myslím... <i>GrrrRRRRrrrr! Jak se opovažuješ urážet mé zuřivé vrčení?!</i>"
+    }
+  ]
+}

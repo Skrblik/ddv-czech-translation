@@ -1,0 +1,144 @@
+{
+  "PeterPan_PrinceEric/PrinceEric_VLG_Pete_040_VLG_Pete_040_TalkTo02.locbin": [
+    {
+      "key": "PrinceEric_000_f",
+      "en": "Hi, {PlayerName}! Wait, I mean—",
+      "cz": "Ahoj, {PlayerName}! Počkej, chci říct—",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}! Počkej, chci říct—"
+    },
+    {
+      "key": "PrinceEric_001_f",
+      "en": "EEEK! How'd you find me?! Please don't hurt me!",
+      "cz": "JÉÉÉ! Jak jsi mě našel?! Prosím, neubližuj mi!",
+      "source": "pre_existing",
+      "original_cz": "JÉÉÉ! Jak jsi mě našel?! Prosím, neubližuj mi!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "It doesn't matter now. I want information.",
+      "cz": "Teď už na tom nezáleží. Chci informace.",
+      "source": "pre_existing",
+      "original_cz": "Teď už na tom nezáleží. Chci informace."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "You've been bested! Surrender the hideout of your crew!",
+      "cz": "Byli jste poraženi! Vzdejte se úkrytu své posádky!",
+      "source": "pre_existing",
+      "original_cz": "Byli jste poraženi! Vzdejte se úkrytu své posádky!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I knew a coward like you would be hiding!",
+      "cz": "Věděl jsem, že se takový zbabělec jako ty bude schovávat!",
+      "source": "pre_existing",
+      "original_cz": "Věděl jsem, že se takový zbabělec jako ty bude schovávat!"
+    },
+    {
+      "key": "PrinceEric_003_f",
+      "en": "Psst, you're really good at this make-believe thing.",
+      "cz": "Psst, v tomhle předstírání jsi fakt dobrý.",
+      "source": "pre_existing",
+      "original_cz": "Psst, v tomhle předstírání jsi fakt dobrý."
+    },
+    {
+      "key": "PrinceEric_006_f",
+      "en": "Ahem... Shiver me timbers! I'll never tell you where the hideout is!",
+      "cz": "Ehm... Chvěj se! Nikdy ti neřeknu, kde je ta skrýš!",
+      "source": "pre_existing",
+      "original_cz": "Ehm... Chvěj se! Nikdy ti neřeknu, kde je ta skrýš!"
+    },
+    {
+      "key": "Player_001_f",
+      "en": "Tell me! Or...",
+      "cz": "Řekni mi to! Nebo...",
+      "source": "pre_existing",
+      "original_cz": "Řekni mi to! Nebo..."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I'll feed you to the Sea Turtles on Dazzle Beach!",
+      "cz": "Nakrmím tě mořským želvám na pláži Dazzle!",
+      "source": "pre_existing",
+      "original_cz": "Nakrmím tě mořským želvám na pláži Dazzle!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I'll put paint on your precious statue!",
+      "cz": "Natřem tvou drahocennou sochu barvou!",
+      "source": "pre_existing",
+      "original_cz": "Natřem tvou drahocennou sochu barvou!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Actually, just tell me. Pretty please with sugar on top?",
+      "cz": "Vlastně, jen mi to řekni. Prosím tě hezky s cukrem navrchu?",
+      "source": "pre_existing",
+      "original_cz": "Vlastně, jen mi to řekni. Prosím tě hezky s cukrem navrchu?"
+    },
+    {
+      "key": "PrinceEric_008_f",
+      "en": "No! Nooooo!",
+      "cz": "Ne! Néééé!",
+      "source": "pre_existing",
+      "original_cz": "Ne! Néééé!"
+    },
+    {
+      "key": "PrinceEric_010_f",
+      "en": "Not those ADORABLE turtles!",
+      "cz": "Ne ty ROZKOŠNÉ želvy!",
+      "source": "pre_existing",
+      "original_cz": "Ne ty ROZKOŠNÉ želvy!"
+    },
+    {
+      "key": "PrinceEric_011_f",
+      "en": "The captain said you'd take no prisoners.",
+      "cz": "Kapitán říkal, že nebudete brát žádné zajatce.",
+      "source": "pre_existing",
+      "original_cz": "Kapitán říkal, že nebudete brát žádné zajatce."
+    },
+    {
+      "key": "PrinceEric_012_f",
+      "en": "That's why I don't KNOW where the hideout is. Nobody on my crew trusted me not to tell you.",
+      "cz": "Proto nevím, kde je ta skrýš. Nikdo z mé posádky mi nevěřil, že ti to neřeknu.",
+      "source": "pre_existing",
+      "original_cz": "Proto nevím, kde je ta skrýš. Nikdo z mé posádky mi nevěřil, že ti to neřeknu."
+    },
+    {
+      "key": "PrinceEric_013_f",
+      "en": "But, I CAN tell you where to find the pirate who DOES know: the captain's First Mate!",
+      "cz": "Ale MOHU vám říct, kde najdete piráta, který to VÍ: kapitánův první důstojník!",
+      "source": "pre_existing",
+      "original_cz": "Ale MOHU vám říct, kde najdete piráta, který to VÍ: kapitánův první důstojník!"
+    },
+    {
+      "key": "PrinceEric_014_f",
+      "en": "They're hiding out in <Lore>the Dreamscape</Lore>.",
+      "cz": "Schovávají se v <Lore>Krajině snů</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Schovávají se v <Lore>Krajině snů</Lore>."
+    },
+    {
+      "key": "PrinceEric_015_f",
+      "en": "Bring <Lore>plenty o' gems</Lore>, though. The First Mate is as FIERCE and TERRIBLE as the stormy seas. They'll want payment for information!",
+      "cz": "Přineste si ale <Lore>spoustu drahokamů</Lore>. První důstojník je DISKUTNÝ a HROZNÝ jako rozbouřené moře. Budou chtít zaplatit za informace!",
+      "source": "pre_existing",
+      "original_cz": "Přineste si ale <Lore>spoustu drahokamů</Lore>. První důstojník je DISKUTNÝ a HROZNÝ jako rozbouřené moře. Budou chtít zaplatit za informace!"
+    },
+    {
+      "key": "PrinceEric_007_f",
+      "en": "Not the statue! Please!",
+      "cz": "Ne tu sochu! Prosím!",
+      "source": "pre_existing",
+      "original_cz": "Ne tu sochu! Prosím!"
+    },
+    {
+      "key": "PrinceEric_009_f",
+      "en": "Huh. I wasn't expecting the Lost Boys to be so polite.",
+      "cz": "Hm. Nečekal jsem, že Ztracení kluci budou tak zdvořilí.",
+      "source": "pre_existing",
+      "original_cz": "Hm. Nečekal jsem, že Ztracení kluci budou tak zdvořilí."
+    }
+  ]
+}

@@ -1,0 +1,4082 @@
+{
+  "BeautyBeastBundle_Beast/Beast_Barks_Bark007.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "I hadn't noticed the peacefulness of the evening silence before...",
+      "cz": "Nevšiml jsem si toho klidu večerního ticha předtím...",
+      "source": "pre_existing",
+      "original_cz": "Nevšiml jsem si toho klidu večerního ticha předtím..."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_Barks_Bark008.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "I never thought I'd have the chance to wear this again.",
+      "cz": "Nikdy by mě nenapadlo, že budu mít znovu možnost si tohle obléct.",
+      "source": "pre_existing",
+      "original_cz": "Nikdy by mě nenapadlo, že budu mít znovu možnost si tohle obléct."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_Barks_Bark009.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Do you think the roses are too... red, {PlayerName}?",
+      "cz": "Myslíš, že ty růže jsou moc... červené, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Myslíš, že ty růže jsou moc... červené, {PlayerName}?"
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_Barks_Bark010.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "The Villagers saw me. Not just the Beast... but me.",
+      "cz": "Vesničané mě viděli. Nejen Bestie... ale i já.",
+      "source": "pre_existing",
+      "original_cz": "Vesničané mě viděli. Nejen Bestie... ale i já."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_Barks_Bark011.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Seeing Belle smile... That's what makes me truly happy.",
+      "cz": "Vidět Belle se usmívat... To je to, co mě dělá opravdu šťastným.",
+      "source": "pre_existing",
+      "original_cz": "Vidět Belle se usmívat... To je to, co mě dělá opravdu šťastným."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_CrossNPCDialogues_Beast_Belle_VLG_Discusssion001.locbin": [
+    {
+      "key": "Beast_006_f",
+      "en": "So... you're happy?",
+      "cz": "Takže... jsi šťastný/á?",
+      "source": "pre_existing",
+      "original_cz": "Takže... jsi šťastný/á?"
+    },
+    {
+      "key": "Beast_007_f",
+      "en": "Very happy. Just like my gown, these brought back such special memories.",
+      "cz": "Jsem moc spokojená. Stejně jako moje šaty, i tyto mi připomněly takové zvláštní vzpomínky.",
+      "source": "pre_existing",
+      "original_cz": "Jsem moc spokojená. Stejně jako moje šaty, i tyto mi připomněly takové zvláštní vzpomínky."
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "Belle, I have some gifts for you. Reminders of our time at my castle.",
+      "cz": "Bello, mám pro tebe pár dárků. Připomínky našeho pobytu na mém hradě.",
+      "source": "pre_existing",
+      "original_cz": "Bello, mám pro tebe pár dárků. Připomínky našeho pobytu na mém hradě."
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "The first book we read together! And porridge... and a bird feeder for the time we fed the birds!",
+      "cz": "První kniha, kterou jsme si společně přečetli! A kaše... a krmítko pro ptáky na dobu, kdy jsme krmili ptáky!",
+      "source": "pre_existing",
+      "original_cz": "První kniha, kterou jsme si společně přečetli! A kaše... a krmítko pro ptáky na dobu, kdy jsme krmili ptáky!"
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "Oh, I feel like I'm right back in those moments with you.",
+      "cz": "Ach, mám pocit, jako bych se s tebou vrátila do těch chvil.",
+      "source": "pre_existing",
+      "original_cz": "Ach, mám pocit, jako bych se s tebou vrátila do těch chvil."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_Discussions_Discussion_016.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Is it that obvious? I was hoping to keep it a secret... at least for a little while.",
+      "cz": "Je to tak očividné? Doufal jsem, že to udržím v tajnosti... alespoň na chvíli.",
+      "source": "pre_existing",
+      "original_cz": "Je to tak očividné? Doufal jsem, že to udržím v tajnosti... alespoň na chvíli."
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "You see... I want to surprise Belle with a gift. Something thoughtful. But I... I need some advice.",
+      "cz": "Víš... chci Belle překvapit dárkem. Něčím promyšleným. Ale já... potřebuji poradit.",
+      "source": "pre_existing",
+      "original_cz": "Víš... chci Belle překvapit dárkem. Něčím promyšleným. Ale já... potřebuji poradit."
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "Let's think of something she'd truly love.",
+      "cz": "Pojďme si vymyslet něco, co by se jí opravdu líbilo.",
+      "source": "pre_existing",
+      "original_cz": "Pojďme si vymyslet něco, co by se jí opravdu líbilo."
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "But she loves many things. How do I pick the right one?",
+      "cz": "Ale miluje spoustu věcí. Jak si mám vybrat tu správnou?",
+      "source": "pre_existing",
+      "original_cz": "Ale miluje spoustu věcí. Jak si mám vybrat tu správnou?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "A handmade bookmark with roses.",
+      "cz": "Ručně vyrobená záložka s růžemi.",
+      "source": "pre_existing",
+      "original_cz": "Ručně vyrobená záložka s růžemi."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "A picnic under the biggest tree in the Valley.",
+      "cz": "Piknik pod největším stromem v údolí.",
+      "source": "pre_existing",
+      "original_cz": "Piknik pod největším stromem v údolí."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "A dramatic reading of her favorite book — with sound effects, of course.",
+      "cz": "Dramatické čtení její oblíbené knihy – samozřejmě se zvukovými efekty.",
+      "source": "pre_existing",
+      "original_cz": "Dramatické čtení její oblíbené knihy – samozřejmě se zvukovými efekty."
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "That's... perfect. It would be elegant, useful, and it would remind her of the things she loves most.",
+      "cz": "To je... perfektní. Bylo by to elegantní, užitečné a připomínalo by jí to věci, které má nejraději.",
+      "source": "pre_existing",
+      "original_cz": "To je... perfektní. Bylo by to elegantní, užitečné a připomínalo by jí to věci, které má nejraději."
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "Thank you, {PlayerName}. You always seem to know just what to say — or suggest.",
+      "cz": "Děkuji, {PlayerName}. Zdá se, že vždycky víš přesně, co říct – nebo navrhnout.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji, {PlayerName}. Zdá se, že vždycky víš přesně, co říct – nebo navrhnout."
+    },
+    {
+      "key": "Beast_006_f",
+      "en": "A picnic... I hadn't thought of that. She does love spending quiet time in nature.",
+      "cz": "Piknik... Na to jsem nepomyslela. Miluje trávení klidu v přírodě.",
+      "source": "pre_existing",
+      "original_cz": "Piknik... Na to jsem nepomyslela. Miluje trávení klidu v přírodě."
+    },
+    {
+      "key": "Beast_007_f",
+      "en": "Hmm... That might take practice. But it's sure to make her laugh.",
+      "cz": "Hmm... To bude chtít cvik. Ale určitě ji to rozesměje.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... To bude chtít cvik. Ale určitě ji to rozesměje."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_Discussions_Discussion_017.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "I suppose I do feel lighter.",
+      "cz": "Asi se cítím lehčí.",
+      "source": "pre_existing",
+      "original_cz": "Asi se cítím lehčí."
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "I had a dream last night... about my first dance with Belle, in the ballroom. It felt so real, like I was there again.",
+      "cz": "Včera v noci se mi zdál sen... o mém prvním tanci s Belle v tanečním sále. Připadalo mi to tak skutečné, jako bych tam zase byla.",
+      "source": "pre_existing",
+      "original_cz": "Včera v noci se mi zdál sen... o mém prvním tanci s Belle v tanečním sále. Připadalo mi to tak skutečné, jako bych tam zase byla."
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "Do you ever have dreams like that, {PlayerName}? The ones that stay with you after you wake up?",
+      "cz": "Máš někdy takové sny, {PlayerName}? Ty, které tě provázejí i po probuzení?",
+      "source": "pre_existing",
+      "original_cz": "Máš někdy takové sny, {PlayerName}? Ty, které tě provázejí i po probuzení?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I once dreamed I turned into a waffle.",
+      "cz": "Jednou se mi zdálo, že jsem se proměnil ve vafl.",
+      "source": "pre_existing",
+      "original_cz": "Jednou se mi zdálo, že jsem se proměnil ve vafl."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "My dreams are gone with the alarm.",
+      "cz": "Mé sny jsou pryč s budíkem.",
+      "source": "pre_existing",
+      "original_cz": "Mé sny jsou pryč s budíkem."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I dream about flying sometimes.",
+      "cz": "Někdy se mi zdá o létání.",
+      "source": "pre_existing",
+      "original_cz": "Někdy se mi zdá o létání."
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "... I don't know what that means, but now I want breakfast.",
+      "cz": "... Nevím, co to znamená, ale teď chci snídani.",
+      "source": "pre_existing",
+      "original_cz": "... Nevím, co to znamená, ale teď chci snídani."
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "Dreams can be strange, but... comforting too.",
+      "cz": "Sny mohou být zvláštní, ale... také uklidňující.",
+      "source": "pre_existing",
+      "original_cz": "Sny mohou být zvláštní, ale... také uklidňující."
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "Do you think dreams mean anything? Or are they just nighttime nonsense?",
+      "cz": "Myslíš, že sny něco znamenají? Nebo jsou to jen noční nesmysly?",
+      "source": "pre_existing",
+      "original_cz": "Myslíš, že sny něco znamenají? Nebo jsou to jen noční nesmysly?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "If they mean something, mine say \"eat more waffles.\"",
+      "cz": "Pokud něco znamenají, tak moji říkají „jezte víc vaflí“.",
+      "source": "pre_existing",
+      "original_cz": "Pokud něco znamenají, tak moji říkají „jezte víc vaflí“."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I think they matter. Even the weird ones.",
+      "cz": "Myslím, že na nich záleží. I na těch divných.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že na nich záleží. I na těch divných."
+    },
+    {
+      "key": "Beast_006_f",
+      "en": "That... is odd. But if you enjoy them, I suppose it's good.",
+      "cz": "To... je divné. Ale pokud si je užíváte, tak je to asi dobré.",
+      "source": "pre_existing",
+      "original_cz": "To... je divné. Ale pokud si je užíváte, tak je to asi dobré."
+    },
+    {
+      "key": "Beast_007_f",
+      "en": "Thank you for listening. I'm glad I shared these thoughts with you.",
+      "cz": "Děkuji za poslech. Jsem rád/a, že jsem se s vámi o tyto myšlenky podělil/a.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji za poslech. Jsem rád/a, že jsem se s vámi o tyto myšlenky podělil/a."
+    },
+    {
+      "key": "Beast_008_f",
+      "en": "Hmmm... Then I'll treasure this one a little longer.",
+      "cz": "Hmmm... Pak si toho budu vážit ještě o trochu déle.",
+      "source": "pre_existing",
+      "original_cz": "Hmmm... Pak si toho budu vážit ještě o trochu déle."
+    },
+    {
+      "key": "Beast_009_f",
+      "en": "So are mine... usually.",
+      "cz": "Taky moje... obvykle.",
+      "source": "pre_existing",
+      "original_cz": "Taky moje... obvykle."
+    },
+    {
+      "key": "Beast_010_f",
+      "en": "Flying. I wonder what that would be like — to go anywhere at any time...",
+      "cz": "Létání. Zajímalo by mě, jaké by to bylo – letět kamkoli a kdykoli...",
+      "source": "pre_existing",
+      "original_cz": "Létání. Zajímalo by mě, jaké by to bylo – letět kamkoli a kdykoli..."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_Discussions_Discussion_018.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "I... I'm... *sigh* Why is it so hard to ask for help?",
+      "cz": "Já... já... *povzdech* Proč je tak těžké požádat o pomoc?",
+      "source": "pre_existing",
+      "original_cz": "Já... já... *povzdech* Proč je tak těžké požádat o pomoc?"
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "Belle says I should ask the Villagers for help, but it's just so difficult!",
+      "cz": "Belle říká, že bych měla požádat vesničany o pomoc, ale je to prostě tak těžké!",
+      "source": "pre_existing",
+      "original_cz": "Belle říká, že bych měla požádat vesničany o pomoc, ale je to prostě tak těžké!"
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "So, you're struggling to ask for a little help? That's rough.",
+      "cz": "Takže se ti nedaří požádat o trochu pomoci? To je těžké.",
+      "source": "pre_existing",
+      "original_cz": "Takže se ti nedaří požádat o trochu pomoci? To je těžké."
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "I'm used to doing things myself. Or at home, my staff just does them. Asking is... embarrassing.",
+      "cz": "Jsem zvyklý dělat si věci sám. Nebo je doma dělají prostě moji zaměstnanci. Ptát se je... trapné.",
+      "source": "pre_existing",
+      "original_cz": "Jsem zvyklý dělat si věci sám. Nebo je doma dělají prostě moji zaměstnanci. Ptát se je... trapné."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Just put yourself out there. The worst that could happen is someone says no.",
+      "cz": "Prostě se do toho dejte. Nejhorší, co se může stát, je, že vám někdo řekne ne.",
+      "source": "pre_existing",
+      "original_cz": "Prostě se do toho dejte. Nejhorší, co se může stát, je, že vám někdo řekne ne."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Offer them something in return.",
+      "cz": "Nabídněte jim něco na oplátku.",
+      "source": "pre_existing",
+      "original_cz": "Nabídněte jim něco na oplátku."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Start small. Ask for something simple, like the time of day.",
+      "cz": "Začněte v malém. Zeptejte se na něco jednoduchého, například na denní dobu.",
+      "source": "pre_existing",
+      "original_cz": "Začněte v malém. Zeptejte se na něco jednoduchého, například na denní dobu."
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "I suppose I could try... Yes. For Minnie's gingerbread cookies, I'll do it.",
+      "cz": "Asi bych to mohla zkusit... Ano. Pro Minnieiny perníčky to udělám.",
+      "source": "pre_existing",
+      "original_cz": "Asi bych to mohla zkusit... Ano. Pro Minnieiny perníčky to udělám."
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "...thank you, {PlayerName}.",
+      "cz": "...děkuji, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "...děkuji, {PlayerName}."
+    },
+    {
+      "key": "Beast_006_f",
+      "en": "An exchange! Yes, that would help...",
+      "cz": "Výměna! Ano, to by pomohlo...",
+      "source": "pre_existing",
+      "original_cz": "Výměna! Ano, to by pomohlo..."
+    },
+    {
+      "key": "Beast_007_f",
+      "en": "That's... not a bad idea.",
+      "cz": "To... není špatný nápad.",
+      "source": "pre_existing",
+      "original_cz": "To... není špatný nápad."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_Discussions_Discussion_019.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "I don't know. Belle says I've changed. That I'm... kinder. But then I look at my reflection, and all I see is...",
+      "cz": "Nevím. Belle říká, že jsem se změnil. Že jsem... laskavější. Ale pak se podívám na svůj odraz a vidím jen...",
+      "source": "pre_existing",
+      "original_cz": "Nevím. Belle říká, že jsem se změnil. Že jsem... laskavější. Ale pak se podívám na svůj odraz a vidím jen..."
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "I behaved abominably for so long. Is it possible to truly be worthy of a good heart like Belle's?",
+      "cz": "Tak dlouho jsem se choval ohavně. Je možné si skutečně zasloužit takové dobré srdce, jako má Belle?",
+      "source": "pre_existing",
+      "original_cz": "Tak dlouho jsem se choval ohavně. Je možné si skutečně zasloužit takové dobré srdce, jako má Belle?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Belle sees the <i>real</i> you now.",
+      "cz": "Belle teď vidí tvé <i>pravé</i> tělo.",
+      "source": "pre_existing",
+      "original_cz": "Belle teď vidí tvé <i>pravé</i> tělo."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Everyone grows, Beast. What matters is the effort you put in now.",
+      "cz": "Každý roste, Bestie. Důležité je úsilí, které teď vynakládáš.",
+      "source": "pre_existing",
+      "original_cz": "Každý roste, Bestie. Důležité je úsilí, které teď vynakládáš."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Think about the changes you've made.",
+      "cz": "Zamyslete se nad změnami, které jste provedli.",
+      "source": "pre_existing",
+      "original_cz": "Zamyslete se nad změnami, které jste provedli."
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "She does, doesn't she? Perhaps she always did...",
+      "cz": "Vždyť jo, že? Možná to tak vždycky dělala...",
+      "source": "pre_existing",
+      "original_cz": "Vždyť jo, že? Možná to tak vždycky dělala..."
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "I suppose it's not about erasing the past, but finding a better future... together.",
+      "cz": "Předpokládám, že nejde o vymazání minulosti, ale o nalezení lepší budoucnosti... společně.",
+      "source": "pre_existing",
+      "original_cz": "Předpokládám, že nejde o vymazání minulosti, ale o nalezení lepší budoucnosti... společně."
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "Effort... Yes. I have tried quite hard. Though, I still occasionally lose my temper. But you're right.",
+      "cz": "Snaha... Ano. Snažil jsem se docela dost. I když občas se pořád rozčílím. Ale máš pravdu.",
+      "source": "pre_existing",
+      "original_cz": "Snaha... Ano. Snažil jsem se docela dost. I když občas se pořád rozčílím. Ale máš pravdu."
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "I have gotten better about controlling my temper.",
+      "cz": "Zlepšil jsem se v ovládání svého hněvu.",
+      "source": "pre_existing",
+      "original_cz": "Zlepšil jsem se v ovládání svého hněvu."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_Discussions_Discussion_020.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Kristoff tried to teach me a romantic tune on his lute. For Belle.",
+      "cz": "Kristoff se mě snažil naučit romantickou melodii na svou loutnu. Pro Belle.",
+      "source": "pre_existing",
+      "original_cz": "Kristoff se mě snažil naučit romantickou melodii na svou loutnu. Pro Belle."
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "I barely touched the instrument, and it snapped in half.",
+      "cz": "Sotva jsem se nástroje dotkl a on se zlomil vedví.",
+      "source": "pre_existing",
+      "original_cz": "Sotva jsem se nástroje dotkl a on se zlomil vedví."
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "I wanted to do something... gentle. But I'm not exactly built for that.",
+      "cz": "Chtěl jsem udělat něco... jemného. Ale na to nejsem zrovna stavěný.",
+      "source": "pre_existing",
+      "original_cz": "Chtěl jsem udělat něco... jemného. Ale na to nejsem zrovna stavěný."
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "{PlayerName}, you try so many knew things. What helps you feel confident when you're not suited for something?",
+      "cz": "{PlayerName}, zkoušíš tolik známých věcí. Co ti pomáhá cítit se sebejistě, když se na něco nehodíš?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, zkoušíš tolik známých věcí. Co ti pomáhá cítit se sebejistě, když se na něco nehodíš?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I break things too. Laughing helps!",
+      "cz": "Taky věci rozbíjím. Smích pomáhá!",
+      "source": "pre_existing",
+      "original_cz": "Taky věci rozbíjím. Smích pomáhá!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Practice makes perfect! Even if it takes a hundred tries.",
+      "cz": "Cvičení dělá mistra! I kdyby to stálo sto pokusů.",
+      "source": "pre_existing",
+      "original_cz": "Cvičení dělá mistra! I kdyby to stálo sto pokusů."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I imagine how proud I'll feel once I get it right.",
+      "cz": "Představuji si, jak budu hrdý, až to zvládnu správně.",
+      "source": "pre_existing",
+      "original_cz": "Představuji si, jak budu hrdý, až to zvládnu správně."
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "Laughing, hmm? I usually growl. It's... less charming.",
+      "cz": "Směješ se, hmm? Obvykle vrčím. Je to... méně okouzlující.",
+      "source": "pre_existing",
+      "original_cz": "Směješ se, hmm? Obvykle vrčím. Je to... méně okouzlující."
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "Thank you. I don't think the lute will work, but I'll find another way.",
+      "cz": "Děkuji. Myslím, že loutna nebude fungovat, ale najdu si jinou cestu.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji. Myslím, že loutna nebude fungovat, ale najdu si jinou cestu."
+    },
+    {
+      "key": "Beast_006_f",
+      "en": "A hundred? That... sounds like what I would need.",
+      "cz": "Stovka? To... zní jako přesně to, co bych potřeboval.",
+      "source": "pre_existing",
+      "original_cz": "Stovka? To... zní jako přesně to, co bych potřeboval."
+    },
+    {
+      "key": "Beast_007_f",
+      "en": "Thinking of Belle's smile. I'll try that.",
+      "cz": "Myslím na Bellin úsměv. Zkusím to.",
+      "source": "pre_existing",
+      "original_cz": "Myslím na Bellin úsměv. Zkusím to."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_010_PRM_Beas_010_BringItem01.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "This book looks just like the one <Lore>Belle</Lore> and I read together. Thank you, {PlayerName}.",
+      "cz": "Tahle kniha vypadá přesně jako ta, kterou jsme s <Lore>Belle</Lore> četly společně. Děkuji, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Tahle kniha vypadá přesně jako ta, kterou jsme s <Lore>Belle</Lore> četly společně. Děkuji, {PlayerName}."
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "I'm so glad it helped! Do you remember anything else?",
+      "cz": "Jsem moc rád/a, že to pomohlo! Pamatuješ si ještě něco?",
+      "source": "pre_existing",
+      "original_cz": "Jsem moc rád/a, že to pomohlo! Pamatuješ si ještě něco?"
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "Yes. I had another memory... The first time we had breakfast together. It was <Lore>Sweet Porridge</Lore>, and I... I might have spilled it. But she was very kind and didn't make me feel bad at all.",
+      "cz": "Ano. Měla jsem ještě jednu vzpomínku... Poprvé, co jsme spolu snídali. Byla to <Lore>Sladká kaše</Lore> a já... možná jsem ji rozlila. Ale byla velmi milá a vůbec mi nedělala špatný pocit.",
+      "source": "pre_existing",
+      "original_cz": "Ano. Měla jsem ještě jednu vzpomínku... Poprvé, co jsme spolu snídali. Byla to <Lore>Sladká kaše</Lore> a já... možná jsem ji rozlila. Ale byla velmi milá a vůbec mi nedělala špatný pocit."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Did it have fruit in it?",
+      "cz": "Bylo v něm ovoce?",
+      "source": "pre_existing",
+      "original_cz": "Bylo v něm ovoce?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Was it overly sweet?",
+      "cz": "Bylo to příliš sladké?",
+      "source": "pre_existing",
+      "original_cz": "Bylo to příliš sladké?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Was it lumpy?",
+      "cz": "Bylo to hrudkovité?",
+      "source": "pre_existing",
+      "original_cz": "Bylo to hrudkovité?"
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "Hmm. I'm not certain, but fruit seems right.",
+      "cz": "Hmm. Nejsem si jistý/á, ale ovoce se zdá být v pořádku.",
+      "source": "pre_existing",
+      "original_cz": "Hmm. Nejsem si jistý/á, ale ovoce se zdá být v pořádku."
+    },
+    {
+      "key": "Beast_006_f",
+      "en": "I don't know anything about cooking. But perhaps you could ask someone who does.",
+      "cz": "O vaření nic nevím. Ale možná byste se mohli zeptat někoho, kdo to ví.",
+      "source": "pre_existing",
+      "original_cz": "O vaření nic nevím. Ale možná byste se mohli zeptat někoho, kdo to ví."
+    },
+    {
+      "key": "Beast_007_f",
+      "en": "Sure! <Lore>Tiana</Lore> is the right person to help with this.",
+      "cz": "Jasně! <Lore>Tiana</Lore> je ta pravá osoba, která s tím pomůže.",
+      "source": "pre_existing",
+      "original_cz": "Jasně! <Lore>Tiana</Lore> je ta pravá osoba, která s tím pomůže."
+    },
+    {
+      "key": "Beast_008_f",
+      "en": "Thank you. I'll try to recall <i>one more</i> memory...",
+      "cz": "Děkuji. Zkusím si vzpomenout ještě na jednu <i>vzpomínku</i>...",
+      "source": "pre_existing",
+      "original_cz": "Děkuji. Zkusím si vzpomenout ještě na jednu <i>vzpomínku</i>..."
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "No, just pleasantly so.",
+      "cz": "Ne, jen příjemně.",
+      "source": "pre_existing",
+      "original_cz": "Ne, jen příjemně."
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "No. No lumps.",
+      "cz": "Ne. Žádné hrudky.",
+      "source": "pre_existing",
+      "original_cz": "Ne. Žádné hrudky."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_010_PRM_Beas_010_BringItem02.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "That smell... Is that...?",
+      "cz": "Ta vůně... Je to...?",
+      "source": "pre_existing",
+      "original_cz": "Ta vůně... Je to...?"
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "<Lore>The Sweet Porridge!</Lore>",
+      "cz": "<Lore>Sladká kaše!</Lore>",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Sladká kaše!</Lore>"
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "It reminds me of the meal we shared that morning. We sat by the window. It was quiet, just the two of us.",
+      "cz": "Připomíná mi to jídlo, které jsme spolu sdíleli to ráno. Seděli jsme u okna. Bylo ticho, jen my dva.",
+      "source": "pre_existing",
+      "original_cz": "Připomíná mi to jídlo, které jsme spolu sdíleli to ráno. Seděli jsme u okna. Bylo ticho, jen my dva."
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "Thank you for this. It brings back more than I expected. I think Belle will like it too.",
+      "cz": "Děkuji za tohle. Připomíná to víc, než jsem čekal/a. Myslím, že se to bude líbit i Belle.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji za tohle. Připomíná to víc, než jsem čekal/a. Myslím, že se to bude líbit i Belle."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Always happy to help, Beast!",
+      "cz": "Vždycky rád pomůžu, Bestie!",
+      "source": "pre_existing",
+      "original_cz": "Vždycky rád pomůžu, Bestie!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "We're a real team, after all.",
+      "cz": "Koneckonců, jsme opravdový tým.",
+      "source": "pre_existing",
+      "original_cz": "Koneckonců, jsme opravdový tým."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I'm here for you, Beast!",
+      "cz": "Jsem tu pro tebe, Bestie!",
+      "source": "pre_existing",
+      "original_cz": "Jsem tu pro tebe, Bestie!"
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "I appreciate that... {PlayerName}, there's one more memory...",
+      "cz": "Vážím si toho... {PlayerName}, je tu ještě jedna vzpomínka...",
+      "source": "pre_existing",
+      "original_cz": "Vážím si toho... {PlayerName}, je tu ještě jedna vzpomínka..."
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "It's the way <Lore>we fed the birds</Lore> in the castle courtyard.",
+      "cz": "Takhle <Lore>jsme krmili ptáky</Lore> na nádvoří hradu.",
+      "source": "pre_existing",
+      "original_cz": "Takhle <Lore>jsme krmili ptáky</Lore> na nádvoří hradu."
+    },
+    {
+      "key": "Beast_006_f",
+      "en": "Would you help me <Lore>recreate that memory</Lore>?",
+      "cz": "Pomohl bys mi <Lore>znovu si vybavit tu vzpomínku</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "Pomohl bys mi <Lore>znovu si vybavit tu vzpomínku</Lore>?"
+    },
+    {
+      "key": "Beast_007_f",
+      "en": "Of course! Did you use anything special?",
+      "cz": "Jasně! Použil jsi něco speciálního?",
+      "source": "pre_existing",
+      "original_cz": "Jasně! Použil jsi něco speciálního?"
+    },
+    {
+      "key": "Beast_008_f",
+      "en": "No... But I thought of a gift to go with the memory. <Lore>A Bird Feeder.</Lore> I have the design here. Kristoff gave it to me.",
+      "cz": "Ne... Ale napadlo mě, že k té vzpomínce bude dárek. <Lore>Krmítko pro ptáky.</Lore> Mám tady návrh. Dal mi ho Kristoff.",
+      "source": "pre_existing",
+      "original_cz": "Ne... Ale napadlo mě, že k té vzpomínce bude dárek. <Lore>Krmítko pro ptáky.</Lore> Mám tady návrh. Dal mi ho Kristoff."
+    },
+    {
+      "key": "Beast_009_f",
+      "en": "That's perfect! We'll bring all these memories together. Belle's going to love it.",
+      "cz": "To je perfektní! Spojíme všechny tyhle vzpomínky dohromady. Belle si to zamiluje.",
+      "source": "pre_existing",
+      "original_cz": "To je perfektní! Spojíme všechny tyhle vzpomínky dohromady. Belle si to zamiluje."
+    },
+    {
+      "key": "Beast_010_f",
+      "en": "I hope so. Now, I think I'll work on something to say to <Lore>Belle</Lore>. Please <Lore>come back</Lore> when you're ready. And... thank you for all your help, {PlayerName}.",
+      "cz": "Doufám. Teď si myslím, že budu pracovat na tom, co řeknu <Lore>Belle</Lore>. Prosím, <Lore>vrať se</Lore>, až budeš připravená. A... děkuji ti za veškerou pomoc, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Doufám. Teď si myslím, že budu pracovat na tom, co řeknu <Lore>Belle</Lore>. Prosím, <Lore>vrať se</Lore>, až budeš připravená. A... děkuji ti za veškerou pomoc, {PlayerName}."
+    },
+    {
+      "key": "Beast_012_f",
+      "en": "You added fruit? I... like it.",
+      "cz": "Přidal jsi ovoce? Mně... chutná.",
+      "source": "pre_existing",
+      "original_cz": "Přidal jsi ovoce? Mně... chutná."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_010_PRM_Beas_010_Ongoing01.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Belle looks so deep in thought... Would you find out what's on her mind?",
+      "cz": "Belle vypadá tak hluboce zamyšleně... Zjistila bys, co má na mysli?",
+      "source": "pre_existing",
+      "original_cz": "Belle vypadá tak hluboce zamyšleně... Zjistila bys, co má na mysli?"
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_010_PRM_Beas_010_Ongoing02.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Belle wants to tell you something. You should go find her.",
+      "cz": "Belle ti chce něco říct. Měl bys ji jít najít.",
+      "source": "pre_existing",
+      "original_cz": "Belle ti chce něco říct. Měl bys ji jít najít."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_010_PRM_Beas_010_Ongoing03.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Belle wants to tell you something. You should go find her.",
+      "cz": "Belle ti chce něco říct. Měl bys ji jít najít.",
+      "source": "pre_existing",
+      "original_cz": "Belle ti chce něco říct. Měl bys ji jít najít."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_010_PRM_Beas_010_Ongoing04.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Did you speak to Belle?",
+      "cz": "Mluvil jsi s Belle?",
+      "source": "pre_existing",
+      "original_cz": "Mluvil jsi s Belle?"
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "She looked so thoughtful today...",
+      "cz": "Dnes vypadala tak zamyšleně...",
+      "source": "pre_existing",
+      "original_cz": "Dnes vypadala tak zamyšleně..."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_010_PRM_Beas_010_Ongoing05.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Have you checked the Dreamlight Library for the book?",
+      "cz": "Zkontroloval jsi tu knihu v knihovně Dreamlight?",
+      "source": "pre_existing",
+      "original_cz": "Zkontroloval jsi tu knihu v knihovně Dreamlight?"
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_010_PRM_Beas_010_Ongoing06.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "I'm hoping to remind Belle of three memories: <Lore>the Sweet Porridge</Lore> we shared, <Lore>the Romance Book</Lore> we read, and <Lore>a Bird Feeder</Lore> for birds like the ones we fed.",
+      "cz": "Doufám, že Belle připomenu tři vzpomínky: <Lore>sladkou kaši</Lore>, kterou jsme spolu sdílely, <Lore>románovou knihu</Lore>, kterou jsme četly, a <Lore>krmítko pro ptáky</Lore>, jako jsou ti, které jsme krmily.",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že Belle připomenu tři vzpomínky: <Lore>sladkou kaši</Lore>, kterou jsme spolu sdílely, <Lore>románovou knihu</Lore>, kterou jsme četly, a <Lore>krmítko pro ptáky</Lore>, jako jsou ti, které jsme krmily."
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "Have you found a book?",
+      "cz": "Našli jste nějakou knihu?",
+      "source": "pre_existing",
+      "original_cz": "Našli jste nějakou knihu?"
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_010_PRM_Beas_010_Ongoing07.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "We've already gathered what we need to remind Belle of two of the memories.",
+      "cz": "Už jsme shromáždili vše potřebné, abychom Belle připomněli dvě vzpomínky.",
+      "source": "pre_existing",
+      "original_cz": "Už jsme shromáždili vše potřebné, abychom Belle připomněli dvě vzpomínky."
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "Have you finished the <ActivityItem>Bird Feeder</ActivityItem>?",
+      "cz": "Dokončil jsi <ActivityItem>Ptačí krmítko</ActivityItem>?",
+      "source": "pre_existing",
+      "original_cz": "Dokončil jsi <ActivityItem>Ptačí krmítko</ActivityItem>?"
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_010_PRM_Beas_010_Ongoing08.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Thank you for helping me recreate the memories I share with Belle.",
+      "cz": "Děkuji, že jsi mi pomohl/a znovu vyvolat vzpomínky, které sdílím s Belle.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji, že jsi mi pomohl/a znovu vyvolat vzpomínky, které sdílím s Belle."
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "You found the book. Did you also find <Lore>the Sweet Porridge</Lore>?",
+      "cz": "Našli jste knihu. Našli jste také <Lore>Sladkou kaši</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "Našli jste knihu. Našli jste také <Lore>Sladkou kaši</Lore>?"
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_010_PRM_Beas_010_Ongoing09.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Did Tiana have an idea about the porridge?",
+      "cz": "Měla Tiana s tou kaší nějaký nápad?",
+      "source": "pre_existing",
+      "original_cz": "Měla Tiana s tou kaší nějaký nápad?"
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "She did! And I'm already in the middle of crafting a sweet masterpiece!",
+      "cz": "Udělala to! A já už jsem uprostřed tvorby sladkého mistrovského díla!",
+      "source": "pre_existing",
+      "original_cz": "Udělala to! A já už jsem uprostřed tvorby sladkého mistrovského díla!"
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_010_PRM_Beas_010_Ongoing10.locbin": [
+    {
+      "key": "Beast_001_f",
+      "en": "We have <Lore>all the memory tokens.</Lore> It's time to speak with Belle... and give them to her.",
+      "cz": "Máme <Lore>všechny žetony paměti.</Lore> Je čas promluvit si s Belle... a dát jí je.",
+      "source": "pre_existing",
+      "original_cz": "Máme <Lore>všechny žetony paměti.</Lore> Je čas promluvit si s Belle... a dát jí je."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_010_PRM_Beas_010_Ongoing11.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "We've already gathered what we need to remind Belle of two of the memories.",
+      "cz": "Už jsme shromáždili vše potřebné, abychom Belle připomněli dvě vzpomínky.",
+      "source": "pre_existing",
+      "original_cz": "Už jsme shromáždili vše potřebné, abychom Belle připomněli dvě vzpomínky."
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "Have you finished the <ActivityItem>Bird Feeder</ActivityItem>?",
+      "cz": "Dokončil jsi <ActivityItem>Ptačí krmítko</ActivityItem>?",
+      "source": "pre_existing",
+      "original_cz": "Dokončil jsi <ActivityItem>Ptačí krmítko</ActivityItem>?"
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_010_PRM_Beas_010_Ongoing12.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "I think Belle liked those gifts. They brought back good memories for her.",
+      "cz": "Myslím, že se Belle ty dárky líbily. Připomněly jí hezké vzpomínky.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že se Belle ty dárky líbily. Připomněly jí hezké vzpomínky."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_010_PRM_Beas_010_Outro.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "The Beast told me about how much you helped him.",
+      "cz": "Bestie mi říkala, jak moc jsi mu pomohl.",
+      "source": "pre_existing",
+      "original_cz": "Bestie mi říkala, jak moc jsi mu pomohl."
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "{PlayerName}, I don't think there's a better friend in the Village.",
+      "cz": "{PlayerName}, myslím, že v celé vesnici není lepšího přítele.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, myslím, že v celé vesnici není lepšího přítele."
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "You know me, I can't ignore someone in need. Especially when...",
+      "cz": "Znáš mě, nedokážu ignorovat někoho v nouzi. Zvlášť když...",
+      "source": "pre_existing",
+      "original_cz": "Znáš mě, nedokážu ignorovat někoho v nouzi. Zvlášť když..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "...it's in the name of love!",
+      "cz": "...je to ve jménu lásky!",
+      "source": "pre_existing",
+      "original_cz": "...je to ve jménu lásky!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "...friends ask for help.",
+      "cz": "...přátelé žádají o pomoc.",
+      "source": "pre_existing",
+      "original_cz": "...přátelé žádají o pomoc."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "...a little mystery and adventure call my name.",
+      "cz": "...trocha záhady a dobrodružství volají mé jméno.",
+      "source": "pre_existing",
+      "original_cz": "...trocha záhady a dobrodružství volají mé jméno."
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "And that's what helps make this place feel like a fairy tale.",
+      "cz": "A to je to, co pomáhá tomuto místu působit jako pohádka.",
+      "source": "pre_existing",
+      "original_cz": "A to je to, co pomáhá tomuto místu působit jako pohádka."
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "Those memories... they mean the world to me. Revisiting them was wonderful.",
+      "cz": "Ty vzpomínky... znamenají pro mě celý svět. Bylo úžasné si je znovu prožít.",
+      "source": "pre_existing",
+      "original_cz": "Ty vzpomínky... znamenají pro mě celý svět. Bylo úžasné si je znovu prožít."
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "I'm just happy I could help bring that magic back.",
+      "cz": "Jsem prostě rád/a, že jsem mohl/a pomoci vrátit to kouzlo zpět.",
+      "source": "pre_existing",
+      "original_cz": "Jsem prostě rád/a, že jsem mohl/a pomoci vrátit to kouzlo zpět."
+    },
+    {
+      "key": "Beast_006_f",
+      "en": "I'd like to give you something to express my thanks...",
+      "cz": "Chtěl bych ti dát něco, čím bych ti vyjádřil své poděkování...",
+      "source": "pre_existing",
+      "original_cz": "Chtěl bych ti dát něco, čím bych ti vyjádřil své poděkování..."
+    },
+    {
+      "key": "Beast_007_f",
+      "en": "I found two items in storage with my gown. The Beast and I think you might like them.",
+      "cz": "Našla jsem ve skladu s mými šaty dvě věci. Bestii a myslím, že by se ti mohly líbit.",
+      "source": "pre_existing",
+      "original_cz": "Našla jsem ve skladu s mými šaty dvě věci. Bestii a myslím, že by se ti mohly líbit."
+    },
+    {
+      "key": "Beast_008_f",
+      "en": "A <Lore>Gold Enchanted Rose Tiara</Lore> and some <Lore>Royal Bowdrop Earrings</Lore>. I hope they always bring you memories of our gratitude and friendship.",
+      "cz": "<Lore>Zlatá čarovná růžová tiara</Lore> a <Lore>královské náušnice s mašličkou</Lore>. Doufám, že ti budou vždy připomínat naši vděčnost a přátelství.",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Zlatá čarovná růžová tiara</Lore> a <Lore>královské náušnice s mašličkou</Lore>. Doufám, že ti budou vždy připomínat naši vděčnost a přátelství."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_010_PRM_Beas_010_TalkTo02.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "{PlayerName}, I saw Belle in her gown. The golden one.",
+      "cz": "{PlayerName}, Viděl jsem Belle v jejích šatech. V těch zlatých.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, Viděl jsem Belle v jejích šatech. V těch zlatých."
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "She looked... so happy. Talking about that night, we danced...",
+      "cz": "Vypadala... tak šťastně. Mluvili jsme o té noci, kdy jsme tančili...",
+      "source": "pre_existing",
+      "original_cz": "Vypadala... tak šťastně. Mluvili jsme o té noci, kdy jsme tančili..."
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "Do you think it's possible to feel that way again, here in the Valley?",
+      "cz": "Myslíš, že je možné se takhle cítit znovu tady v Údolí?",
+      "source": "pre_existing",
+      "original_cz": "Myslíš, že je možné se takhle cítit znovu tady v Údolí?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Totally. She looked so happy talking about the dance.",
+      "cz": "Naprosto. Vypadala tak šťastně, když mluvila o tanci.",
+      "source": "pre_existing",
+      "original_cz": "Naprosto. Vypadala tak šťastně, když mluvila o tanci."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "It wasn't just a memory. It was a feeling.",
+      "cz": "Nebyla to jen vzpomínka. Byl to pocit.",
+      "source": "pre_existing",
+      "original_cz": "Nebyla to jen vzpomínka. Byl to pocit."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Why not start with a gift?",
+      "cz": "Proč nezačít s dárkem?",
+      "source": "pre_existing",
+      "original_cz": "Proč nezačít s dárkem?"
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "Yes. I want to see her smile like that again.",
+      "cz": "Ano. Chci ji znovu vidět takhle se usmívat.",
+      "source": "pre_existing",
+      "original_cz": "Ano. Chci ji znovu vidět takhle se usmívat."
+    },
+    {
+      "key": "Beast_008_f",
+      "en": "Maybe it's time to make some new memories here?",
+      "cz": "Možná je čas si tady vytvořit nějaké nové vzpomínky?",
+      "source": "pre_existing",
+      "original_cz": "Možná je čas si tady vytvořit nějaké nové vzpomínky?"
+    },
+    {
+      "key": "Beast_009_f",
+      "en": "New memories... inspired by the old. I like that.",
+      "cz": "Nové vzpomínky... inspirované těmi starými. To se mi líbí.",
+      "source": "pre_existing",
+      "original_cz": "Nové vzpomínky... inspirované těmi starými. To se mi líbí."
+    },
+    {
+      "key": "Beast_010_f",
+      "en": "There are moments that brought us closer. If we could remind her of them, perhaps we could recapture the magic of that night.",
+      "cz": "Byly chvíle, které nás sblížily. Kdybychom jí je mohli připomenout, možná bychom mohli znovu zachytit kouzlo té noci.",
+      "source": "pre_existing",
+      "original_cz": "Byly chvíle, které nás sblížily. Kdybychom jí je mohli připomenout, možná bychom mohli znovu zachytit kouzlo té noci."
+    },
+    {
+      "key": "Beast_019_f",
+      "en": "The first was when we <i>read together</i>. She read aloud. I pretended I wasn't nervous.",
+      "cz": "Poprvé to bylo, když jsme si <i>četli společně</i>. Četla nahlas. Předstíral jsem, že nejsem nervózní.",
+      "source": "pre_existing",
+      "original_cz": "Poprvé to bylo, když jsme si <i>četli společně</i>. Četla nahlas. Předstíral jsem, že nejsem nervózní."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "What was it about?",
+      "cz": "O co šlo?",
+      "source": "pre_existing",
+      "original_cz": "O co šlo?"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Was it a long book?",
+      "cz": "Byla to dlouhá kniha?",
+      "source": "pre_existing",
+      "original_cz": "Byla to dlouhá kniha?"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Anything funny in it?",
+      "cz": "Je na tom něco vtipného?",
+      "source": "pre_existing",
+      "original_cz": "Je na tom něco vtipného?"
+    },
+    {
+      "key": "Beast_021_f",
+      "en": "An adventure story, I think. I was... a little distracted by Belle's beautiful voice.",
+      "cz": "Myslím, že dobrodružný příběh. Trochu mě... rozptyloval Bellin krásný hlas.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že dobrodružný příběh. Trochu mě... rozptyloval Bellin krásný hlas."
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "Do you know where we might find a book like that?",
+      "cz": "Nevíte, kde bychom mohli sehnat takovou knihu?",
+      "source": "pre_existing",
+      "original_cz": "Nevíte, kde bychom mohli sehnat takovou knihu?"
+    },
+    {
+      "key": "Beast_012_f",
+      "en": "I'm sure we could <Lore>check the Dreamlight Library</Lore>. Merlin has tons of books!",
+      "cz": "Jsem si jistý, že bychom se mohli <Lore>podívat do knihovny Dreamlight</Lore>. Merlin má spoustu knih!",
+      "source": "pre_existing",
+      "original_cz": "Jsem si jistý, že bychom se mohli <Lore>podívat do knihovny Dreamlight</Lore>. Merlin má spoustu knih!"
+    },
+    {
+      "key": "Beast_016_f",
+      "en": "Could you find one for me? I'll do what I can to recall <i>more</i> memories.",
+      "cz": "Mohl bys mi jednu najít? Udělám, co bude v mých silách, abych si vybavil <i>více</i> vzpomínek.",
+      "source": "pre_existing",
+      "original_cz": "Mohl bys mi jednu najít? Udělám, co bude v mých silách, abych si vybavil <i>více</i> vzpomínek."
+    },
+    {
+      "key": "Beast_022_f",
+      "en": "Very long. She loves stories she can get lost in.",
+      "cz": "Velmi dlouhé. Miluje příběhy, ve kterých se dokáže ztratit.",
+      "source": "pre_existing",
+      "original_cz": "Velmi dlouhé. Miluje příběhy, ve kterých se dokáže ztratit."
+    },
+    {
+      "key": "Beast_023_f",
+      "en": "I... can't recall. I was too focused on the way she read.",
+      "cz": "Já... nemůžu si vzpomenout. Příliš jsem se soustředil na to, jak četla.",
+      "source": "pre_existing",
+      "original_cz": "Já... nemůžu si vzpomenout. Příliš jsem se soustředil na to, jak četla."
+    },
+    {
+      "key": "Beast_006_f",
+      "en": "Yes. A feeling I hope she can feel again. With me.",
+      "cz": "Ano. Pocit, který doufám, že bude moci cítit znovu. Se mnou.",
+      "source": "pre_existing",
+      "original_cz": "Ano. Pocit, který doufám, že bude moci cítit znovu. Se mnou."
+    },
+    {
+      "key": "Beast_007_f",
+      "en": "Perhaps. But Belle cherishes the small, meaningful things most...",
+      "cz": "Možná. Ale Belle si nejvíc váží malých, smysluplných věcí...",
+      "source": "pre_existing",
+      "original_cz": "Možná. Ale Belle si nejvíc váží malých, smysluplných věcí..."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_010_PRM_Beas_010_TalkTo05.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Hey, Beast! We're ready. We have everything we need to remind Belle of your special memories together.",
+      "cz": "Hej, Bestie! Jsme připraveni. Máme všechno, co potřebujeme, abychom Belle připomněli vaše společné výjimečné vzpomínky.",
+      "source": "pre_existing",
+      "original_cz": "Hej, Bestie! Jsme připraveni. Máme všechno, co potřebujeme, abychom Belle připomněli vaše společné výjimečné vzpomínky."
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "Good. Then I suppose it's time to show them to her.",
+      "cz": "Dobře. Pak je asi čas jí je ukázat.",
+      "source": "pre_existing",
+      "original_cz": "Dobře. Pak je asi čas jí je ukázat."
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "Do you think she'll like them?",
+      "cz": "Myslíš, že se jí budou líbit?",
+      "source": "pre_existing",
+      "original_cz": "Myslíš, že se jí budou líbit?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "She's going to love them.",
+      "cz": "Bude si je zamilovat.",
+      "source": "pre_existing",
+      "original_cz": "Bude si je zamilovat."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "What do you think?",
+      "cz": "Co si o tom myslíš?",
+      "source": "pre_existing",
+      "original_cz": "Co si o tom myslíš?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Why are you so nervous?",
+      "cz": "Proč jsi tak nervózní?",
+      "source": "pre_existing",
+      "original_cz": "Proč jsi tak nervózní?"
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "These memories... they mean a great deal to me.",
+      "cz": "Tyto vzpomínky... pro mě hodně znamenají.",
+      "source": "pre_existing",
+      "original_cz": "Tyto vzpomínky... pro mě hodně znamenají."
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "I can only hope they mean the same for her.",
+      "cz": "Můžu jen doufat, že pro ni myslí totéž.",
+      "source": "pre_existing",
+      "original_cz": "Můžu jen doufat, že pro ni myslí totéž."
+    },
+    {
+      "key": "Beast_006_f",
+      "en": "Only one way to find out!",
+      "cz": "Jen jeden způsob, jak to zjistit!",
+      "source": "pre_existing",
+      "original_cz": "Jen jeden způsob, jak to zjistit!"
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_020_PRM_Beas_020_BringItem01.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "{PlayerName}, these dishes are wonderful.",
+      "cz": "{PlayerName}, tyto pokrmy jsou skvělé.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, tyto pokrmy jsou skvělé."
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "The aroma is... quite pleasing. And they look very nice.",
+      "cz": "Vůně je... docela příjemná. A vypadají moc hezky.",
+      "source": "pre_existing",
+      "original_cz": "Vůně je... docela příjemná. A vypadají moc hezky."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I hope they meet your expectations.",
+      "cz": "Doufám, že splní vaše očekávání.",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že splní vaše očekávání."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'm glad to help you.",
+      "cz": "Rád vám pomůžu.",
+      "source": "pre_existing",
+      "original_cz": "Rád vám pomůžu."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Romantic, sophisticated menu: Done!",
+      "cz": "Romantické, sofistikované menu: Hotovo!",
+      "source": "pre_existing",
+      "original_cz": "Romantické, sofistikované menu: Hotovo!"
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "I think they will do nicely. While you were busy, I've been trying to repair <Lore>the ballroom floor</Lore>.",
+      "cz": "Myslím, že se jim to bude dařit. Zatímco jsi měl/a hodně práce, snažil/a jsem se opravit <Lore>podlahu v tanečním sále</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že se jim to bude dařit. Zatímco jsi měl/a hodně práce, snažil/a jsem se opravit <Lore>podlahu v tanečním sále</Lore>."
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "I believe <Lore>Kristoff</Lore> could help us. He's good with tools and constructing. Could you ask him while I untangle and comb my fur? It's not looking its best.",
+      "cz": "Myslím, že by nám <Lore>Kristoff</Lore>mohl pomoct. Umí dobře s nářadím a stavěním. Mohl byste se ho zeptat, zatímco si rozpletu a pročesám srst? Nevypadá zrovna nejlépe.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že by nám <Lore>Kristoff</Lore>mohl pomoct. Umí dobře s nářadím a stavěním. Mohl byste se ho zeptat, zatímco si rozpletu a pročesám srst? Nevypadá zrovna nejlépe."
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "Got it: <Lore>Talk to Kristoff</Lore> about the most dance-worthy floor ever!",
+      "cz": "Rozumím: <Lore>Promluvte si s Kristoffem</Lore> o nejtancovanějším parketu vůbec!",
+      "source": "pre_existing",
+      "original_cz": "Rozumím: <Lore>Promluvte si s Kristoffem</Lore> o nejtancovanějším parketu vůbec!"
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_020_PRM_Beas_020_Intro.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "{PlayerName}, you helped Belle and me relive our small moments so well.",
+      "cz": "{PlayerName}, pomohli jste mně a Belle znovu prožít naše krátké chvíle.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, pomohli jste mně a Belle znovu prožít naše krátké chvíle."
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "I've been thinking... perhaps I could make an even grander gesture. I'd like to relive a big moment with her here.",
+      "cz": "Přemýšlel jsem... možná bych mohl udělat ještě velkolepější gesto. Rád bych si s ní znovu prožil jeden velký okamžik.",
+      "source": "pre_existing",
+      "original_cz": "Přemýšlel jsem... možná bych mohl udělat ještě velkolepější gesto. Rád bych si s ní znovu prožil jeden velký okamžik."
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "I want to recreate the evening we first danced together. Will you help me?",
+      "cz": "Chci si znovu připomenout večer, kdy jsme spolu poprvé tančili. Pomůžeš mi?",
+      "source": "pre_existing",
+      "original_cz": "Chci si znovu připomenout večer, kdy jsme spolu poprvé tančili. Pomůžeš mi?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "That's such a beautiful idea! Let's make it happen with...",
+      "cz": "To je tak krásný nápad! Pojďme ho realizovat s...",
+      "source": "pre_existing",
+      "original_cz": "To je tak krásný nápad! Pojďme ho realizovat s..."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Not right now, but I'll come back later.",
+      "cz": "Teď ne, ale vrátím se později.",
+      "source": "pre_existing",
+      "original_cz": "Teď ne, ale vrátím se později."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "...a costume party?",
+      "cz": "...maskovací párty?",
+      "source": "pre_existing",
+      "original_cz": "...maskovací párty?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "...a Village-wide dance battle!",
+      "cz": "...celovesnická taneční bitva!",
+      "source": "pre_existing",
+      "original_cz": "...celovesnická taneční bitva!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "...a ball for just the two of you?",
+      "cz": "...ples jen pro vás dva?",
+      "source": "pre_existing",
+      "original_cz": "...ples jen pro vás dva?"
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "That... that seems like a lot. Perhaps something simpler.",
+      "cz": "To... to se zdá být hodně. Možná něco jednoduššího.",
+      "source": "pre_existing",
+      "original_cz": "To... to se zdá být hodně. Možná něco jednoduššího."
+    },
+    {
+      "key": "Beast_007_f",
+      "en": "Like... a ball. For just the two of us.",
+      "cz": "Jako... míč. Jen pro nás dva.",
+      "source": "pre_existing",
+      "original_cz": "Jako... míč. Jen pro nás dva."
+    },
+    {
+      "key": "Beast_008_f",
+      "en": "Somewhere peaceful. With lots of roses. What do you think?",
+      "cz": "Někde klidně. S množstvím růží. Co si o tom myslíš?",
+      "source": "pre_existing",
+      "original_cz": "Někde klidně. S množstvím růží. Co si o tom myslíš?"
+    },
+    {
+      "key": "Beast_009_f",
+      "en": "I think Belle is going to love this. Should we tell her?",
+      "cz": "Myslím, že se to Belle bude líbit. Měli bychom jí to říct?",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že se to Belle bude líbit. Měli bychom jí to říct?"
+    },
+    {
+      "key": "Beast_010_f",
+      "en": "No. I want it to be <Lore>a surprise</Lore>.",
+      "cz": "Ne. Chci, aby to bylo <Lore>překvapení</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Ne. Chci, aby to bylo <Lore>překvapení</Lore>."
+    },
+    {
+      "key": "Beast_011_f",
+      "en": "Lucky for you, I happen to be a professional dance-planner. First things first, we need to...",
+      "cz": "Naštěstí pro tebe jsem profesionální taneční plánovač. V první řadě musíme...",
+      "source": "pre_existing",
+      "original_cz": "Naštěstí pro tebe jsem profesionální taneční plánovač. V první řadě musíme..."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "...pick the perfect location!",
+      "cz": "...vyberte si perfektní místo!",
+      "source": "pre_existing",
+      "original_cz": "...vyberte si perfektní místo!"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "...decorate, of course!",
+      "cz": "...zdobit, samozřejmě!",
+      "source": "pre_existing",
+      "original_cz": "...zdobit, samozřejmě!"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "...plan the snacks!",
+      "cz": "...naplánujte si svačiny!",
+      "source": "pre_existing",
+      "original_cz": "...naplánujte si svačiny!"
+    },
+    {
+      "key": "Beast_012_f",
+      "en": "Somewhere calm. And quiet. That would be good.",
+      "cz": "Někde klidně. A tiše. To by bylo dobré.",
+      "source": "pre_existing",
+      "original_cz": "Někde klidně. A tiše. To by bylo dobré."
+    },
+    {
+      "key": "Beast_017_f",
+      "en": "Perhaps we could start with decorations. I planted roses <Lore>in the Forest of Valor</Lore> that we could use.",
+      "cz": "Možná bychom mohli začít s dekoracemi. Zasadila jsem růže <Lore>v Lese odvahy</Lore>, které bychom mohli použít.",
+      "source": "pre_existing",
+      "original_cz": "Možná bychom mohli začít s dekoracemi. Zasadila jsem růže <Lore>v Lese odvahy</Lore>, které bychom mohli použít."
+    },
+    {
+      "key": "Beast_018_f",
+      "en": "Great choice! I think <Lore>Minnie</Lore> can definitely help us out with <Lore>flowery decor</Lore>.",
+      "cz": "Skvělá volba! Myslím, že <Lore>Minnie</Lore> nám s <Lore>květinovou výzdobou</Lore> určitě pomůže.",
+      "source": "pre_existing",
+      "original_cz": "Skvělá volba! Myslím, že <Lore>Minnie</Lore> nám s <Lore>květinovou výzdobou</Lore> určitě pomůže."
+    },
+    {
+      "key": "Beast_019_f",
+      "en": "This is very kind of you, {PlayerName}. Thank you.",
+      "cz": "To je od vás velmi laskavé, {PlayerName}. Děkuji.",
+      "source": "pre_existing",
+      "original_cz": "To je od vás velmi laskavé, {PlayerName}. Děkuji."
+    },
+    {
+      "key": "Beast_013_f",
+      "en": "Decorations. Right.",
+      "cz": "Dekorace. Správně.",
+      "source": "pre_existing",
+      "original_cz": "Dekorace. Správně."
+    },
+    {
+      "key": "Beast_021_f",
+      "en": "My new rose variety is blooming <Lore>in the Forest of Valor</Lore>. We should use them.",
+      "cz": "Moje nová odrůda růží kvete <Lore>v Lese odvahy</Lore>. Měli bychom je použít.",
+      "source": "pre_existing",
+      "original_cz": "Moje nová odrůda růží kvete <Lore>v Lese odvahy</Lore>. Měli bychom je použít."
+    },
+    {
+      "key": "Beast_015_f",
+      "en": "Snacks? If that's important for a ball, then... yes.",
+      "cz": "Svačinky? Pokud je to pro ples důležité, tak... ano.",
+      "source": "pre_existing",
+      "original_cz": "Svačinky? Pokud je to pro ples důležité, tak... ano."
+    },
+    {
+      "key": "Beast_016_f",
+      "en": "Or maybe we should set up the decorations first. You could use the roses I planted <Lore>in the Forest of Valor</Lore>.",
+      "cz": "Nebo bychom možná měli nejdřív připravit dekorace. Mohli byste použít růže, které jsem zasadil <Lore>v Lese odvahy</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Nebo bychom možná měli nejdřív připravit dekorace. Mohli byste použít růže, které jsem zasadil <Lore>v Lese odvahy</Lore>."
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "No. No, that doesn't feel right. Perhaps a ball. For just the two of us.",
+      "cz": "Ne. Ne, to se mi nezdá správné. Možná ples. Jen pro nás dva.",
+      "source": "pre_existing",
+      "original_cz": "Ne. Ne, to se mi nezdá správné. Možná ples. Jen pro nás dva."
+    },
+    {
+      "key": "Beast_006_f",
+      "en": "Yes. A ball. For the two of us.",
+      "cz": "Ano. Ples. Pro nás dva.",
+      "source": "pre_existing",
+      "original_cz": "Ano. Ples. Pro nás dva."
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "I understand. Please just let me know when you're ready.",
+      "cz": "Rozumím. Prosím, dejte mi vědět, až budete připraveni.",
+      "source": "pre_existing",
+      "original_cz": "Rozumím. Prosím, dejte mi vědět, až budete připraveni."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_020_PRM_Beas_020_Ongoing01.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "We're planning the surprise ball for Belle.",
+      "cz": "Plánujeme překvapivý ples pro Belle.",
+      "source": "pre_existing",
+      "original_cz": "Plánujeme překvapivý ples pro Belle."
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "Have you spoken to Minnie about the decorations?",
+      "cz": "Mluvil jsi s Minnie o těch dekoracích?",
+      "source": "pre_existing",
+      "original_cz": "Mluvil jsi s Minnie o těch dekoracích?"
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_020_PRM_Beas_020_Ongoing02.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "You spoke with Minnie about the decorations? Thank you.",
+      "cz": "Mluvil jsi s Minnie o těch dekoracích? Děkuji.",
+      "source": "pre_existing",
+      "original_cz": "Mluvil jsi s Minnie o těch dekoracích? Děkuji."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_020_PRM_Beas_020_Ongoing03.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "We still need to make the columns. Minnie suggested they have many flowers.",
+      "cz": "Ještě musíme udělat sloupy. Minnie navrhla, aby měli hodně květin.",
+      "source": "pre_existing",
+      "original_cz": "Ještě musíme udělat sloupy. Minnie navrhla, aby měli hodně květin."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_020_PRM_Beas_020_Ongoing06.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "How is the planning of the meal going?",
+      "cz": "Jak probíhá plánování jídla?",
+      "source": "pre_existing",
+      "original_cz": "Jak probíhá plánování jídla?"
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "Has the little chef shared any of his recipes with you?",
+      "cz": "Podělil se s vámi ten malý šéfkuchař o nějaké své recepty?",
+      "source": "pre_existing",
+      "original_cz": "Podělil se s vámi ten malý šéfkuchař o nějaké své recepty?"
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_020_PRM_Beas_020_Ongoing07.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Have you finished the dishes for the ball?",
+      "cz": "Už jsi umyl nádobí na ples?",
+      "source": "pre_existing",
+      "original_cz": "Už jsi umyl nádobí na ples?"
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_020_PRM_Beas_020_Ongoing08.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "{PlayerName}, did you speak with Kristoff about the dance floor?",
+      "cz": "{PlayerName}, mluvil jsi s Kristoffem o tanečním parketu?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, mluvil jsi s Kristoffem o tanečním parketu?"
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_020_PRM_Beas_020_Ongoing09.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "{PlayerName}, did you speak with Kristoff about the dance floor?",
+      "cz": "{PlayerName}, mluvil jsi s Kristoffem o tanečním parketu?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, mluvil jsi s Kristoffem o tanečním parketu?"
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "Sure did! I just need all the resources and then I can craft the dance floor.",
+      "cz": "Jasně že jo! Jen potřebuju všechny zdroje a pak můžu postavit taneční parket.",
+      "source": "pre_existing",
+      "original_cz": "Jasně že jo! Jen potřebuju všechny zdroje a pak můžu postavit taneční parket."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_020_PRM_Beas_020_Ongoing10.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "{PlayerName}, did you speak with Kristoff about the dance floor?",
+      "cz": "{PlayerName}, mluvil jsi s Kristoffem o tanečním parketu?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, mluvil jsi s Kristoffem o tanečním parketu?"
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "Just need to craft the dance floor and then it'll be ready to go!",
+      "cz": "Už jen stačí postavit taneční parket a bude to připravené!",
+      "source": "pre_existing",
+      "original_cz": "Už jen stačí postavit taneční parket a bude to připravené!"
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_020_PRM_Beas_020_Ongoing12.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "I think it's time to place the decorations.",
+      "cz": "Myslím, že je čas umístit dekorace.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že je čas umístit dekorace."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_020_PRM_Beas_020_Ongoing13.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "You've finished the decorations?",
+      "cz": "Dokončil jsi dekorace?",
+      "source": "pre_existing",
+      "original_cz": "Dokončil jsi dekorace?"
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "Thank you. I... I'm not sure what's next.",
+      "cz": "Děkuji. Já... nejsem si jistý/á, co bude dál.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji. Já... nejsem si jistý/á, co bude dál."
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "Next we figure out food for your perfect evening.",
+      "cz": "Dále vymyslíme jídlo pro váš dokonalý večer.",
+      "source": "pre_existing",
+      "original_cz": "Dále vymyslíme jídlo pro váš dokonalý večer."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_020_PRM_Beas_020_Outro.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Hey, Beast. How's our top-secret ball mission going?",
+      "cz": "Hej, Bestie. Jak jde naše supertajná mise s plesem?",
+      "source": "pre_existing",
+      "original_cz": "Hej, Bestie. Jak jde naše supertajná mise s plesem?"
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "Oh. Hello, {PlayerName}.",
+      "cz": "Ahoj. Dobrý den, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj. Dobrý den, {PlayerName}."
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "<Lore>Decorations?</Lore> Done. <Lore>Dance floor?</Lore> So smooth you could skate on it.",
+      "cz": "<Lore>Dekorace?</Lore> Hotovo. <Lore>Taneční parket?</Lore> Tak hladký, že by se na něm dalo bruslit.",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Dekorace?</Lore> Hotovo. <Lore>Taneční parket?</Lore> Tak hladký, že by se na něm dalo bruslit."
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "That is good news. I've been working on something, too. For the decorations.",
+      "cz": "To je dobrá zpráva. Taky na něčem pracuji. Na těch dekoracích.",
+      "source": "pre_existing",
+      "original_cz": "To je dobrá zpráva. Taky na něčem pracuji. Na těch dekoracích."
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "I would like to give it to you. As a gift.",
+      "cz": "Rád bych ti to dal. Jako dárek.",
+      "source": "pre_existing",
+      "original_cz": "Rád bych ti to dal. Jako dárek."
+    },
+    {
+      "key": "Beast_015_f",
+      "en": "It... belonged to the castle once. I had it repaired and added a few roses. I hope you like it.",
+      "cz": "Kdysi... patřilo k hradu. Nechal jsem ho opravit a přidal jsem tam pár růží. Doufám, že se vám líbí.",
+      "source": "pre_existing",
+      "original_cz": "Kdysi... patřilo k hradu. Nechal jsem ho opravit a přidal jsem tam pár růží. Doufám, že se vám líbí."
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "For me? Whoa, Beast. That's really thoughtful.",
+      "cz": "Pro mě? Páni, Bestie. To je vážně promyšlené.",
+      "source": "pre_existing",
+      "original_cz": "Pro mě? Páni, Bestie. To je vážně promyšlené."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Hug time?",
+      "cz": "Čas na objetí?",
+      "source": "pre_existing",
+      "original_cz": "Čas na objetí?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "This will look REALLY nice as decor.",
+      "cz": "Tohle bude jako dekorace vypadat opravdu krásně.",
+      "source": "pre_existing",
+      "original_cz": "Tohle bude jako dekorace vypadat opravdu krásně."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "About TIME someone appreciated me!",
+      "cz": "Už je NA ČASE, že si mě někdo vážil!",
+      "source": "pre_existing",
+      "original_cz": "Už je NA ČASE, že si mě někdo vážil!"
+    },
+    {
+      "key": "Beast_014_f",
+      "en": "...",
+      "cz": "...",
+      "source": "pre_existing",
+      "original_cz": "..."
+    },
+    {
+      "key": "Beast_006_f",
+      "en": "You've done so much for me. This would not be possible without you.",
+      "cz": "Udělal jsi pro mě tolik. Bez tebe by to nebylo možné.",
+      "source": "pre_existing",
+      "original_cz": "Udělal jsi pro mě tolik. Bez tebe by to nebylo možné."
+    },
+    {
+      "key": "Beast_007_f",
+      "en": "Before the big moment, anything else we need?",
+      "cz": "Než tou velkou chvílí dopadne, potřebujeme ještě něco?",
+      "source": "pre_existing",
+      "original_cz": "Než tou velkou chvílí dopadne, potřebujeme ještě něco?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "A chocolate fountain?",
+      "cz": "Čokoládová fontána?",
+      "source": "pre_existing",
+      "original_cz": "Čokoládová fontána?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "A fog machine for dramatic entrances?",
+      "cz": "Výrobník mlhy pro dramatické vstupy?",
+      "source": "pre_existing",
+      "original_cz": "Výrobník mlhy pro dramatické vstupy?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "A marching band to follow us in?",
+      "cz": "Pochodující kapela, která nás bude doprovázet?",
+      "source": "pre_existing",
+      "original_cz": "Pochodující kapela, která nás bude doprovázet?"
+    },
+    {
+      "key": "Beast_008_f",
+      "en": "A what? I... No. No.",
+      "cz": "Cože? Já... Ne. Ne.",
+      "source": "pre_existing",
+      "original_cz": "Cože? Já... Ne. Ne."
+    },
+    {
+      "key": "Beast_011_f",
+      "en": "Just kidding. Sort of.",
+      "cz": "Jen žertuji. Tak nějak.",
+      "source": "pre_existing",
+      "original_cz": "Jen žertuji. Tak nějak."
+    },
+    {
+      "key": "Beast_012_f",
+      "en": "Thank you, {PlayerName}. This... means a lot.",
+      "cz": "Děkuji, {PlayerName}. Tohle... pro mě hodně znamená.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji, {PlayerName}. Tohle... pro mě hodně znamená."
+    },
+    {
+      "key": "Beast_013_f",
+      "en": "I need a few more moments to finish getting ready. I will find you again when I have.",
+      "cz": "Potřebuji ještě pár chvil, abych se dokončil/a. Až to budu mít, najdu tě znovu.",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji ještě pár chvil, abych se dokončil/a. Až to budu mít, najdu tě znovu."
+    },
+    {
+      "key": "Beast_009_f",
+      "en": "Fog? That might make it hard to see...",
+      "cz": "Mlha? Kvůli tomu by to mohlo být špatně vidět...",
+      "source": "pre_existing",
+      "original_cz": "Mlha? Kvůli tomu by to mohlo být špatně vidět..."
+    },
+    {
+      "key": "Beast_010_f",
+      "en": "A band? I was hoping for a quiet moment...",
+      "cz": "Kapela? Doufal jsem v klidnou chvilku...",
+      "source": "pre_existing",
+      "original_cz": "Kapela? Doufal jsem v klidnou chvilku..."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_020_PRM_Beas_020_TalkTo03.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Beast, do you have a favorite French dish?",
+      "cz": "Bestie, máš nějaké oblíbené francouzské jídlo?",
+      "source": "pre_existing",
+      "original_cz": "Bestie, máš nějaké oblíbené francouzské jídlo?"
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "Me? I... I suppose I do. Why?",
+      "cz": "Já? Já... asi jo. Proč?",
+      "source": "pre_existing",
+      "original_cz": "Já? Já... asi jo. Proč?"
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "Let's just say there might be food involved in this <Lore>surprise for Belle</Lore>.",
+      "cz": "Řekněme, že v tomhle <Lore>překvapení pro Belle</Lore> by mohlo být i jídlo.",
+      "source": "pre_existing",
+      "original_cz": "Řekněme, že v tomhle <Lore>překvapení pro Belle</Lore> by mohlo být i jídlo."
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "A surprise inside of my surprise? You're very kind.",
+      "cz": "Překvapení uvnitř mého překvapení? Jste moc laskavý/á.",
+      "source": "pre_existing",
+      "original_cz": "Překvapení uvnitř mého překvapení? Jste moc laskavý/á."
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "Let's refocus: What about food?",
+      "cz": "Zaměřme se znovu: A co jídlo?",
+      "source": "pre_existing",
+      "original_cz": "Zaměřme se znovu: A co jídlo?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Something rich and hearty?",
+      "cz": "Něco bohatého a vydatného?",
+      "source": "pre_existing",
+      "original_cz": "Něco bohatého a vydatného?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Something classic and elegant?",
+      "cz": "Něco klasického a elegantního?",
+      "source": "pre_existing",
+      "original_cz": "Něco klasického a elegantního?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Something cheesy and comforting?",
+      "cz": "Něco kýčovitého a uklidňujícího?",
+      "source": "pre_existing",
+      "original_cz": "Něco kýčovitého a uklidňujícího?"
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "Like beef bourguignon? Or something similar. But then... I might make a mess like I did with our porridge...",
+      "cz": "Třeba hovězí po bourguignonu? Nebo něco podobného. Ale pak... můžu udělat nepořádek, jako jsem to udělala s naší kaší...",
+      "source": "pre_existing",
+      "original_cz": "Třeba hovězí po bourguignonu? Nebo něco podobného. Ale pak... můžu udělat nepořádek, jako jsem to udělala s naší kaší..."
+    },
+    {
+      "key": "Beast_009_f",
+      "en": "Maybe we ask <Lore>Remy</Lore> for help?",
+      "cz": "Možná bychom mohli požádat o pomoc <Lore>Remyho</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "Možná bychom mohli požádat o pomoc <Lore>Remyho</Lore>?"
+    },
+    {
+      "key": "Beast_010_f",
+      "en": "The little chef? Yes. He's a very capable cook.",
+      "cz": "Ten malý kuchař? Ano. Je to velmi schopný kuchař.",
+      "source": "pre_existing",
+      "original_cz": "Ten malý kuchař? Ano. Je to velmi schopný kuchař."
+    },
+    {
+      "key": "Beast_011_f",
+      "en": "When you're done, please <Lore>come back</Lore>, and we can taste everything. To make sure it's perfect.",
+      "cz": "Až budeš hotový/á, prosím <Lore>vrať se</Lore> a my můžeme všechno ochutnat. Abychom se ujistili, že je to perfektní.",
+      "source": "pre_existing",
+      "original_cz": "Až budeš hotový/á, prosím <Lore>vrať se</Lore> a my můžeme všechno ochutnat. Abychom se ujistili, že je to perfektní."
+    },
+    {
+      "key": "Beast_006_f",
+      "en": "Elegant, yes... but not too fussy. I don't want to have to worry about which fork or knife to use.",
+      "cz": "Elegantní, ano... ale ne příliš okázalé. Nechci si lámat hlavu s tím, jakou vidličku nebo nůž použít.",
+      "source": "pre_existing",
+      "original_cz": "Elegantní, ano... ale ne příliš okázalé. Nechci si lámat hlavu s tím, jakou vidličku nebo nůž použít."
+    },
+    {
+      "key": "Beast_007_f",
+      "en": "Cheese...? No. That could be too... pungent.",
+      "cz": "Sýr...? Ne. To by mohlo být moc... štiplavé.",
+      "source": "pre_existing",
+      "original_cz": "Sýr...? Ne. To by mohlo být moc... štiplavé."
+    },
+    {
+      "key": "Beast_008_f",
+      "en": "Something warm and familiar might be better.",
+      "cz": "Něco teplého a známého by mohlo být lepší.",
+      "source": "pre_existing",
+      "original_cz": "Něco teplého a známého by mohlo být lepší."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_020_PRM_Beas_020_TalkTo07.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Hey Belle, quick question! What's your favorite dessert?",
+      "cz": "Ahoj Belle, rychlá otázka! Jaký je tvůj oblíbený dezert?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj Belle, rychlá otázka! Jaký je tvůj oblíbený dezert?"
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "Well... there are so many delicious ones. Why do you ask?",
+      "cz": "No... je jich tolik lahodných. Proč se ptáš?",
+      "source": "pre_existing",
+      "original_cz": "No... je jich tolik lahodných. Proč se ptáš?"
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "I'm helping the Beast plan... something you're not supposed to know about yet!",
+      "cz": "Pomáhám Bestii s plánem... něco, o čem bys ještě neměl vědět!",
+      "source": "pre_existing",
+      "original_cz": "Pomáhám Bestii s plánem... něco, o čem bys ještě neměl vědět!"
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "That sounds intriguing!",
+      "cz": "To zní zajímavě!",
+      "source": "pre_existing",
+      "original_cz": "To zní zajímavě!"
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "So... If we're talking about evening food, should it be...",
+      "cz": "Takže... Pokud mluvíme o večerním jídle, mělo by to být...",
+      "source": "pre_existing",
+      "original_cz": "Takže... Pokud mluvíme o večerním jídle, mělo by to být..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "...light and elegant?",
+      "cz": "...lehké a elegantní?",
+      "source": "pre_existing",
+      "original_cz": "...lehké a elegantní?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "...sweet and warm?",
+      "cz": "...sladké a teplé?",
+      "source": "pre_existing",
+      "original_cz": "...sladké a teplé?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "...simple and unforgettable?",
+      "cz": "...jednoduché a nezapomenutelné?",
+      "source": "pre_existing",
+      "original_cz": "...jednoduché a nezapomenutelné?"
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "That does sound nice.",
+      "cz": "To zní hezky.",
+      "source": "pre_existing",
+      "original_cz": "To zní hezky."
+    },
+    {
+      "key": "Beast_008_f",
+      "en": "Great, thanks, Belle!",
+      "cz": "Skvělé, díky, Belle!",
+      "source": "pre_existing",
+      "original_cz": "Skvělé, díky, Belle!"
+    },
+    {
+      "key": "Beast_009_f",
+      "en": "Of course, {PlayerName}.",
+      "cz": "Samozřejmě, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě, {PlayerName}."
+    },
+    {
+      "key": "Beast_010_f",
+      "en": "I need to go <Lore>talk to Remy</Lore> for... reasons.",
+      "cz": "Potřebuji si jít <Lore>promluvit s Remym</Lore> z... důvodů.",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji si jít <Lore>promluvit s Remym</Lore> z... důvodů."
+    },
+    {
+      "key": "Beast_006_f",
+      "en": "Hmm... a dessert that feels like a happy ending. That would be perfect.",
+      "cz": "Hmm... dezert, který působí jako šťastný konec. To by bylo perfektní.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... dezert, který působí jako šťastný konec. To by bylo perfektní."
+    },
+    {
+      "key": "Beast_007_f",
+      "en": "Oh, perhaps a rich, creamy soufflé?",
+      "cz": "A možná bohaté, krémové suflé?",
+      "source": "pre_existing",
+      "original_cz": "A možná bohaté, krémové suflé?"
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_030_PRM_Beas_030_Intro.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Hey, Beast. Big moment ahead. Ready for the final touches?",
+      "cz": "Hej, Bestie. Velký okamžik před námi. Jsi připravený na poslední úpravy?",
+      "source": "pre_existing",
+      "original_cz": "Hej, Bestie. Velký okamžik před námi. Jsi připravený na poslední úpravy?"
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "{PlayerName}, I'm not sure anymore. What if this is a bad idea? What if our first dance can't be recaptured and I'm fooling myself?",
+      "cz": "{PlayerName}, už si nejsem jistý/á. Co když je to špatný nápad? Co když se náš první tanec nepodaří zopakovat a já se jen klamu?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, už si nejsem jistý/á. Co když je to špatný nápad? Co když se náš první tanec nepodaří zopakovat a já se jen klamu?"
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "WHAT?! But we're almost there!",
+      "cz": "CO?! Ale už tam skoro jsme!",
+      "source": "pre_existing",
+      "original_cz": "CO?! Ale už tam skoro jsme!"
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "It's all just wishful thinking. Please forget it.",
+      "cz": "Je to jen zbožné přání. Prosím, zapomeň na to.",
+      "source": "pre_existing",
+      "original_cz": "Je to jen zbožné přání. Prosím, zapomeň na to."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "This is no time to get cold feet! How can I help?",
+      "cz": "Teď není čas na zoufalé obavy! Jak můžu pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Teď není čas na zoufalé obavy! Jak můžu pomoct?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Then I'll give you some time, okay?",
+      "cz": "Pak ti dám trochu času, ano?",
+      "source": "pre_existing",
+      "original_cz": "Pak ti dám trochu času, ano?"
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "I want it to be perfect. For Belle. But... now I'm not sure I can go through with it.",
+      "cz": "Chci, aby to bylo perfektní. Pro Belle. Ale... teď si nejsem jistý/á, jestli to dokážu dokončit.",
+      "source": "pre_existing",
+      "original_cz": "Chci, aby to bylo perfektní. Pro Belle. Ale... teď si nejsem jistý/á, jestli to dokážu dokončit."
+    },
+    {
+      "key": "Beast_006_f",
+      "en": "Okay. Deep breath. Let's figure this out together.",
+      "cz": "Dobře. Zhluboka se nadechněte. Pojďme to společně vyřešit.",
+      "source": "pre_existing",
+      "original_cz": "Dobře. Zhluboka se nadechněte. Pojďme to společně vyřešit."
+    },
+    {
+      "key": "Beast_007_f",
+      "en": "I feel so... so... nervous.",
+      "cz": "Cítím se tak... tak... nervózní.",
+      "source": "pre_existing",
+      "original_cz": "Cítím se tak... tak... nervózní."
+    },
+    {
+      "key": "Beast_008_f",
+      "en": "Hmm. What usually helps when you feel like this?",
+      "cz": "Hmm. Co ti obvykle pomáhá, když se takhle cítíš?",
+      "source": "pre_existing",
+      "original_cz": "Hmm. Co ti obvykle pomáhá, když se takhle cítíš?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Do you want to talk about it?",
+      "cz": "Chceš si o tom promluvit?",
+      "source": "pre_existing",
+      "original_cz": "Chceš si o tom promluvit?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Want a little snack?",
+      "cz": "Chceš malou svačinku?",
+      "source": "pre_existing",
+      "original_cz": "Chceš malou svačinku?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Should we take a break?",
+      "cz": "Měli bychom si dát pauzu?",
+      "source": "pre_existing",
+      "original_cz": "Měli bychom si dát pauzu?"
+    },
+    {
+      "key": "Beast_009_f",
+      "en": "I don't want to bother you. Maybe I'll go for a walk. Nature is so... calming.",
+      "cz": "Nechci tě obtěžovat. Možná se půjdu projít. Příroda je tak... uklidňující.",
+      "source": "pre_existing",
+      "original_cz": "Nechci tě obtěžovat. Možná se půjdu projít. Příroda je tak... uklidňující."
+    },
+    {
+      "key": "Beast_012_f",
+      "en": "Nature? That gives me an idea.",
+      "cz": "Příroda? To mi dává nápad.",
+      "source": "pre_existing",
+      "original_cz": "Příroda? To mi dává nápad."
+    },
+    {
+      "key": "Beast_013_f",
+      "en": "It does?",
+      "cz": "Ano?",
+      "source": "pre_existing",
+      "original_cz": "Ano?"
+    },
+    {
+      "key": "Beast_014_f",
+      "en": "Hang tight, Beast. I'll be back soon.",
+      "cz": "Drž se, Bestie. Brzy se vrátím.",
+      "source": "pre_existing",
+      "original_cz": "Drž se, Bestie. Brzy se vrátím."
+    },
+    {
+      "key": "Beast_010_f",
+      "en": "No.",
+      "cz": "Žádný.",
+      "source": "pre_existing",
+      "original_cz": "Žádný."
+    },
+    {
+      "key": "Beast_011_f",
+      "en": "A break might be wise.",
+      "cz": "Pauza by mohla být moudrá.",
+      "source": "pre_existing",
+      "original_cz": "Pauza by mohla být moudrá."
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "All right... Maybe that's for the best.",
+      "cz": "Dobře... Možná je to tak nejlepší.",
+      "source": "pre_existing",
+      "original_cz": "Dobře... Možná je to tak nejlepší."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_030_PRM_Beas_030_Ongoing01.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "I'm just so nervous. I need to find a way to feel at peace.",
+      "cz": "Jsem tak nervózní. Potřebuji najít způsob, jak se uklidnit.",
+      "source": "pre_existing",
+      "original_cz": "Jsem tak nervózní. Potřebuji najít způsob, jak se uklidnit."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_030_PRM_Beas_030_Ongoing02.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "I need to practice my dancing.",
+      "cz": "Potřebuji si procvičit tanec.",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji si procvičit tanec."
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "Will you join me at my rehearsal with Anna?",
+      "cz": "Přidáš se ke mně na zkoušku s Annou?",
+      "source": "pre_existing",
+      "original_cz": "Přidáš se ke mně na zkoušku s Annou?"
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_030_PRM_Beas_030_Ongoing04.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "My outfit isn't appropriate for a ball.",
+      "cz": "Můj outfit se na ples nehodí.",
+      "source": "pre_existing",
+      "original_cz": "Můj outfit se na ples nehodí."
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "Would you speak to Daisy about it? I usually have Lumiere to help.",
+      "cz": "Promluvil bys o tom s Daisy? Obvykle mi na pomoc chodí Lumiere.",
+      "source": "pre_existing",
+      "original_cz": "Promluvil bys o tom s Daisy? Obvykle mi na pomoc chodí Lumiere."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_030_PRM_Beas_030_Ongoing05.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "I need something new to wear for the ball.",
+      "cz": "Potřebuji si na ples obléct něco nového.",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji si na ples obléct něco nového."
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "Have you found everything Daisy requested?",
+      "cz": "Našla jsi všechno, co Daisy požadovala?",
+      "source": "pre_existing",
+      "original_cz": "Našla jsi všechno, co Daisy požadovala?"
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_030_PRM_Beas_030_Ongoing06.locbin": [
+    {
+      "key": "Beast_003_f",
+      "en": "The invitation for Belle is ready.",
+      "cz": "Pozvánka pro Belle je připravená.",
+      "source": "pre_existing",
+      "original_cz": "Pozvánka pro Belle je připravená."
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "Could you place the pieces in spots she'll be sure to find?",
+      "cz": "Mohl bys ty dílky umístit na místa, která si jistě najde?",
+      "source": "pre_existing",
+      "original_cz": "Mohl bys ty dílky umístit na místa, která si jistě najde?"
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "And make sure she knows where to go. I don't want her to miss anything.",
+      "cz": "A ujistěte se, že ví, kam má jít. Nechci, aby o něco přišla.",
+      "source": "pre_existing",
+      "original_cz": "A ujistěte se, že ví, kam má jít. Nechci, aby o něco přišla."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_030_PRM_Beas_030_Ongoing07.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Have you hidden the pieces of Belle's invitation?",
+      "cz": "Schoval jsi kousky Belliny pozvánky?",
+      "source": "pre_existing",
+      "original_cz": "Schoval jsi kousky Belliny pozvánky?"
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_030_PRM_Beas_030_Ongoing08.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "I think Daisy's finished working on my suit. I have to try it on.",
+      "cz": "Myslím, že Daisy už dokončila práci na mém obleku. Musím si ho vyzkoušet.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že Daisy už dokončila práci na mém obleku. Musím si ho vyzkoušet."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_030_PRM_Beas_030_Ongoing09.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "I'm ready. Would you like to see how this new outfit looks?",
+      "cz": "Jsem připravená. Chtěla bys vidět, jak vypadá tenhle nový outfit?",
+      "source": "pre_existing",
+      "original_cz": "Jsem připravená. Chtěla bys vidět, jak vypadá tenhle nový outfit?"
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_030_PRM_Beas_030_Ongoing10.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "{PlayerName}, please set the <Lore>Royal Blossom Gazebo</Lore> in place. It's time. The ball's about to start.",
+      "cz": "{PlayerName}, prosím, postavte <Lore>Královský květový altán</Lore> na místo. Je čas. Ples se chystá začít.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, prosím, postavte <Lore>Královský květový altán</Lore> na místo. Je čas. Ples se chystá začít."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_030_PRM_Beas_030_Outro.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "I never imagined this moment would turn out like this. Belle... the Villagers... you... Everyone came together to help me.",
+      "cz": "Nikdy jsem si nepředstavovala, že se tahle chvíle vyvine takhle. Belle... vesničané... ty... Všichni se spojili, aby mi pomohli.",
+      "source": "pre_existing",
+      "original_cz": "Nikdy jsem si nepředstavovala, že se tahle chvíle vyvine takhle. Belle... vesničané... ty... Všichni se spojili, aby mi pomohli."
+    },
+    {
+      "key": "Beast_013_f",
+      "en": "It was absolutely wonderful! And now we have a perfect <i>new</i> memory.",
+      "cz": "Bylo to naprosto úžasné! A teď máme dokonalou <i>novou</i> vzpomínku.",
+      "source": "pre_existing",
+      "original_cz": "Bylo to naprosto úžasné! A teď máme dokonalou <i>novou</i> vzpomínku."
+    },
+    {
+      "key": "Beast_012_f",
+      "en": "The invitation clues, the dance floor, the decorations, the food... I feel just the way I did the night we first danced.",
+      "cz": "Pozvánky, taneční parket, dekorace, jídlo... Cítím se přesně stejně jako tu noc, kdy jsme tančili poprvé.",
+      "source": "pre_existing",
+      "original_cz": "Pozvánky, taneční parket, dekorace, jídlo... Cítím se přesně stejně jako tu noc, kdy jsme tančili poprvé."
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "Sounds like...",
+      "cz": "Zní to jako...",
+      "source": "pre_existing",
+      "original_cz": "Zní to jako..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "...you shared a perfect moment.",
+      "cz": "...sdíleli jste dokonalý okamžik.",
+      "source": "pre_existing",
+      "original_cz": "...sdíleli jste dokonalý okamžik."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "...we knocked it out of the park, Beast!",
+      "cz": "...překonali jsme to, Bestie!",
+      "source": "pre_existing",
+      "original_cz": "...překonali jsme to, Bestie!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "...all the hard work is done. Time for a nap!",
+      "cz": "...všechna těžká práce je hotová. Čas na zdřímnutí!",
+      "source": "pre_existing",
+      "original_cz": "...všechna těžká práce je hotová. Čas na zdřímnutí!"
+    },
+    {
+      "key": "Beast_006_f",
+      "en": "Yes, I think we did.",
+      "cz": "Ano, myslím, že jsme to udělali.",
+      "source": "pre_existing",
+      "original_cz": "Ano, myslím, že jsme to udělali."
+    },
+    {
+      "key": "Beast_009_f",
+      "en": "And now, whatever comes next...",
+      "cz": "A teď, ať už bude následovat cokoli...",
+      "source": "pre_existing",
+      "original_cz": "A teď, ať už bude následovat cokoli..."
+    },
+    {
+      "key": "Beast_011_f",
+      "en": "...we always know the magic is with us, wherever we are.",
+      "cz": "...vždycky víme, že kouzlo je s námi, ať jsme kdekoli.",
+      "source": "pre_existing",
+      "original_cz": "...vždycky víme, že kouzlo je s námi, ať jsme kdekoli."
+    },
+    {
+      "key": "Beast_010_f",
+      "en": "Thank you, {PlayerName}. Truly.",
+      "cz": "Děkuji, {PlayerName}. Opravdu.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji, {PlayerName}. Opravdu."
+    },
+    {
+      "key": "Beast_007_f",
+      "en": "The park? I... You mean we did good work? Yes, we did.",
+      "cz": "Park? Já... Myslíš, že jsme odvedli dobrou práci? Ano, odvedli.",
+      "source": "pre_existing",
+      "original_cz": "Park? Já... Myslíš, že jsme odvedli dobrou práci? Ano, odvedli."
+    },
+    {
+      "key": "Beast_008_f",
+      "en": "Yes, you worked so hard. You deserve as much rest as you'd like.",
+      "cz": "Ano, tak tvrdě jsi pracoval/a. Zasloužíš si tolik odpočinku, kolik si přeješ.",
+      "source": "pre_existing",
+      "original_cz": "Ano, tak tvrdě jsi pracoval/a. Zasloužíš si tolik odpočinku, kolik si přeješ."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_030_PRM_Beas_030_TalkTo01.locbin": [
+    {
+      "key": "Beast_001_f",
+      "en": "{PlayerName}?",
+      "cz": "{PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}?"
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "I brought something for you. <Lore>Photos</Lore> of the most peaceful places in the Valley.",
+      "cz": "Přinesl jsem ti něco. <Lore>Fotky</Lore> nejklidnějších míst v údolí.",
+      "source": "pre_existing",
+      "original_cz": "Přinesl jsem ti něco. <Lore>Fotky</Lore> nejklidnějších míst v údolí."
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "Photos? Oh, the tiny paintings.",
+      "cz": "Fotky? Ach, ty drobné obrazy.",
+      "source": "pre_existing",
+      "original_cz": "Fotky? Ach, ty drobné obrazy."
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "I thought it might be like having meditation spots in your pocket.",
+      "cz": "Myslel jsem, že by to mohlo být jako mít meditační skvrny v kapse.",
+      "source": "pre_existing",
+      "original_cz": "Myslel jsem, že by to mohlo být jako mít meditační skvrny v kapse."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "You can see them, take a deep breath, remember everything's okay.",
+      "cz": "Můžete je vidět, zhluboka se nadechnout a pamatovat si, že je všechno v pořádku.",
+      "source": "pre_existing",
+      "original_cz": "Můžete je vidět, zhluboka se nadechnout a pamatovat si, že je všechno v pořádku."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'm a great photographer, right?",
+      "cz": "Jsem skvělý fotograf, že?",
+      "source": "pre_existing",
+      "original_cz": "Jsem skvělý fotograf, že?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I'll explain meditation some other time.",
+      "cz": "Meditaci vysvětlím někdy jindy.",
+      "source": "pre_existing",
+      "original_cz": "Meditaci vysvětlím někdy jindy."
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "They're... beautiful.",
+      "cz": "Jsou... krásné.",
+      "source": "pre_existing",
+      "original_cz": "Jsou... krásné."
+    },
+    {
+      "key": "Beast_006_f",
+      "en": "And just holding them reminds me that you're on my side.",
+      "cz": "A jen to, že je držím v náručí, mi připomíná, že jsi na mé straně.",
+      "source": "pre_existing",
+      "original_cz": "A jen to, že je držím v náručí, mi připomíná, že jsi na mé straně."
+    },
+    {
+      "key": "Beast_008_f",
+      "en": "Thank you, {PlayerName}. I needed this more than I knew.",
+      "cz": "Děkuji, {PlayerName}. Potřeboval jsem to víc, než jsem tušil.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji, {PlayerName}. Potřeboval jsem to víc, než jsem tušil."
+    },
+    {
+      "key": "Beast_009_f",
+      "en": "Any time. Now... Ready to finish what we started?",
+      "cz": "Kdykoli. Teď... Jsi připravený dokončit, co jsme začali?",
+      "source": "pre_existing",
+      "original_cz": "Kdykoli. Teď... Jsi připravený dokončit, co jsme začali?"
+    },
+    {
+      "key": "Beast_010_f",
+      "en": "Yes. Though, I'm still a bit nervous. I haven't danced since that night.",
+      "cz": "Ano. I když jsem pořád trochu nervózní. Od té noci jsem netancovala.",
+      "source": "pre_existing",
+      "original_cz": "Ano. I když jsem pořád trochu nervózní. Od té noci jsem netancovala."
+    },
+    {
+      "key": "Beast_011_f",
+      "en": "I asked <Lore>Anna</Lore> to help me practice. Will you join us?",
+      "cz": "Požádal jsem <Lore>Annu</Lore>, aby mi pomohla s tréninkem. Přidáš se k nám?",
+      "source": "pre_existing",
+      "original_cz": "Požádal jsem <Lore>Annu</Lore>, aby mi pomohla s tréninkem. Přidáš se k nám?"
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_030_PRM_Beas_030_TalkTo04.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Beast, how's it going? What are you working on now?",
+      "cz": "Bestie, jak se máš? Na čem teď pracuješ?",
+      "source": "pre_existing",
+      "original_cz": "Bestie, jak se máš? Na čem teď pracuješ?"
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "{PlayerName}, I've started the invitation to formally invite Belle to the ball.",
+      "cz": "{PlayerName}, Začal jsem formálně pozvat Belle na ples.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, Začal jsem formálně pozvat Belle na ples."
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "But finding the right words is harder than I thought.",
+      "cz": "Ale najít ta správná slova je těžší, než jsem si myslel.",
+      "source": "pre_existing",
+      "original_cz": "Ale najít ta správná slova je těžší, než jsem si myslel."
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "This is what I have so far: <Lore>\"Dear Belle, on this special night...\"</Lore>",
+      "cz": "Toto je zatím, co jsem slyšela: <Lore>„Milá Belle, v tuto zvláštní noc...“</Lore>",
+      "source": "pre_existing",
+      "original_cz": "Toto je zatím, co jsem slyšela: <Lore>„Milá Belle, v tuto zvláštní noc...“</Lore>"
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "But then... I get stuck. What do you think the next line should be?",
+      "cz": "Ale pak... se zaseknu. Jaký by podle vás měl být další řádek?",
+      "source": "pre_existing",
+      "original_cz": "Ale pak... se zaseknu. Jaký by podle vás měl být další řádek?"
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "You're in luck! I know <i>ALL</i> about writing the best invitations! So the next line should be...",
+      "cz": "Máte štěstí! Vím <i>VŠECHNO</i> o psaní nejlepších pozvánek! Takže další řádek by měl být...",
+      "source": "pre_existing",
+      "original_cz": "Máte štěstí! Vím <i>VŠECHNO</i> o psaní nejlepších pozvánek! Takže další řádek by měl být..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "\"...I promise not to step on your toes. Much.\"",
+      "cz": "„...Slibuji, že ti nešlápnu na nohu. Moc.“",
+      "source": "pre_existing",
+      "original_cz": "„...Slibuji, že ti nešlápnu na nohu. Moc.“"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "\"...prepare your dancing shoes and your best smile, or else!\"",
+      "cz": "„...připravte si taneční boty a svůj nejlepší úsměv, nebo jinak!“",
+      "source": "pre_existing",
+      "original_cz": "„...připravte si taneční boty a svůj nejlepší úsměv, nebo jinak!“"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "\"...warning: I may attempt to twirl you awkwardly, but with love.\"",
+      "cz": "„...varování: Možná se s tebou pokusím neohrabaně zatočit, ale s láskou.“",
+      "source": "pre_existing",
+      "original_cz": "„...varování: Možná se s tebou pokusím neohrabaně zatočit, ale s láskou.“"
+    },
+    {
+      "key": "Beast_006_f",
+      "en": "Hmm. If you're sure...",
+      "cz": "Hmm. Pokud si jsi jistý/á...",
+      "source": "pre_existing",
+      "original_cz": "Hmm. Pokud si jsi jistý/á..."
+    },
+    {
+      "key": "Beast_010_f",
+      "en": "Next, I was thinking of adding: <Lore>\"Let's share this moment full of...\"</Lore>",
+      "cz": "Dále jsem přemýšlel o tom, že bych dodal: <Lore>„Pojďme sdílet tento okamžik plný...“</Lore>",
+      "source": "pre_existing",
+      "original_cz": "Dále jsem přemýšlel o tom, že bych dodal: <Lore>„Pojďme sdílet tento okamžik plný...“</Lore>"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "\"...awkward steps and lots of laughter.\"",
+      "cz": "„...neohrabané kroky a spousta smíchu.“",
+      "source": "pre_existing",
+      "original_cz": "„...neohrabané kroky a spousta smíchu.“"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "\"...stumbling, but with style.\"",
+      "cz": "„...potácí se, ale stylově.“",
+      "source": "pre_existing",
+      "original_cz": "„...potácí se, ale stylově.“"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "\"...quiet joy and a little magic.\"",
+      "cz": "„...tichá radost a trocha magie.“",
+      "source": "pre_existing",
+      "original_cz": "„...tichá radost a trocha magie.“"
+    },
+    {
+      "key": "Beast_016_f",
+      "en": "Belle's laugh is... wonderful. I'd like to hear it more often. But I don't think I'll mention the awkward steps.",
+      "cz": "Bellin smích je... úžasný. Ráda bych ho slyšela častěji. Ale myslím, že se o těch nepříjemných schůdcích zmiňovat nebudu.",
+      "source": "pre_existing",
+      "original_cz": "Bellin smích je... úžasný. Ráda bych ho slyšela častěji. Ale myslím, že se o těch nepříjemných schůdcích zmiňovat nebudu."
+    },
+    {
+      "key": "Beast_007_f",
+      "en": "And then <Lore>the signature</Lore>. What do you think?",
+      "cz": "A pak <Lore>podpis</Lore>. Co si o tom myslíte?",
+      "source": "pre_existing",
+      "original_cz": "A pak <Lore>podpis</Lore>. Co si o tom myslíte?"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Sincerely, Your Friend.",
+      "cz": "S pozdravem, Váš přítel.",
+      "source": "pre_existing",
+      "original_cz": "S pozdravem, Váš přítel."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "With my admiration, the Beast.",
+      "cz": "S mým obdivem, Bestie.",
+      "source": "pre_existing",
+      "original_cz": "S mým obdivem, Bestie."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Just sign your name.",
+      "cz": "Jen se podepište.",
+      "source": "pre_existing",
+      "original_cz": "Jen se podepište."
+    },
+    {
+      "key": "Beast_008_f",
+      "en": "There. I think it's ready.",
+      "cz": "Tak jo. Myslím, že je to hotové.",
+      "source": "pre_existing",
+      "original_cz": "Tak jo. Myslím, že je to hotové."
+    },
+    {
+      "key": "Beast_012_f",
+      "en": "<Lore>Belle's</Lore> going to be really touched when she reads this.",
+      "cz": "<Lore>Belle</Lore> bude opravdu dojatá, až si tohle přečte.",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Belle</Lore> bude opravdu dojatá, až si tohle přečte."
+    },
+    {
+      "key": "Beast_009_f",
+      "en": "There's something else. I know Belle loves mysteries. I wanted to make one for her to solve, using the invitation.",
+      "cz": "Je tu ještě něco. Vím, že Belle miluje záhady. Chtěla jsem pro ni jednu vytvořit, aby ji vyřešila, s využitím pozvánky.",
+      "source": "pre_existing",
+      "original_cz": "Je tu ještě něco. Vím, že Belle miluje záhady. Chtěla jsem pro ni jednu vytvořit, aby ji vyřešila, s využitím pozvánky."
+    },
+    {
+      "key": "Beast_013_f",
+      "en": "Will you hide the three parts of the invitation <Lore>in special spots where she'll find them</Lore>? Maybe somewhere with lots of books. And when you see <Lore>Belle</Lore>, tell her there's a surprise waiting.",
+      "cz": "Schováš ty tři části pozvánky <Lore>na speciální místa, kde je najde</Lore>? Třeba někde, kde je spousta knih. A až uvidíš <Lore>Belle</Lore>, řekni jí, že na ni čeká překvapení.",
+      "source": "pre_existing",
+      "original_cz": "Schováš ty tři části pozvánky <Lore>na speciální místa, kde je najde</Lore>? Třeba někde, kde je spousta knih. A až uvidíš <Lore>Belle</Lore>, řekni jí, že na ni čeká překvapení."
+    },
+    {
+      "key": "Beast_014_f",
+      "en": "I need to finish a few things, and then I'll see you at the venue.",
+      "cz": "Potřebuji ještě pár věcí dokončit a pak se uvidíme na místě konání.",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji ještě pár věcí dokončit a pak se uvidíme na místě konání."
+    },
+    {
+      "key": "Beast_017_f",
+      "en": "After rehearsing with Anna, I think I'll stumble much less.",
+      "cz": "Po zkoušce s Annou si myslím, že budu mnohem méně klopýtnout.",
+      "source": "pre_existing",
+      "original_cz": "Po zkoušce s Annou si myslím, že budu mnohem méně klopýtnout."
+    },
+    {
+      "key": "Beast_018_f",
+      "en": "Yes, that feels right.",
+      "cz": "Ano, to se zdá správné.",
+      "source": "pre_existing",
+      "original_cz": "Ano, to se zdá správné."
+    },
+    {
+      "key": "Beast_011_f",
+      "en": "That sounds threatening. I wouldn't say that to Belle.",
+      "cz": "To zní výhružně. To bych Belle neřekla.",
+      "source": "pre_existing",
+      "original_cz": "To zní výhružně. To bych Belle neřekla."
+    },
+    {
+      "key": "Beast_015_f",
+      "en": "That... that doesn't sound like me.",
+      "cz": "To... to mi nezní jako mně.",
+      "source": "pre_existing",
+      "original_cz": "To... to mi nezní jako mně."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_030_PRM_Beas_030_TalkTo07.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Everything is ready, {PlayerName}. I... I hope it goes well.",
+      "cz": "Všechno je připraveno, {PlayerName}. Já... doufám, že to dobře dopadne.",
+      "source": "pre_existing",
+      "original_cz": "Všechno je připraveno, {PlayerName}. Já... doufám, že to dobře dopadne."
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "It will. You know, I think this has inspired the whole Village.",
+      "cz": "Bude. Víte, myslím, že tohle inspirovalo celou vesnici.",
+      "source": "pre_existing",
+      "original_cz": "Bude. Víte, myslím, že tohle inspirovalo celou vesnici."
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "That's... nice. Thank you. For everything.",
+      "cz": "To je... hezké. Děkuji. Za všechno.",
+      "source": "pre_existing",
+      "original_cz": "To je... hezké. Děkuji. Za všechno."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Thank YOU for including me in this grand romantic gesture!",
+      "cz": "Děkuji, že jste mě zahrnuli do tohoto velkého romantického gesta!",
+      "source": "pre_existing",
+      "original_cz": "Děkuji, že jste mě zahrnuli do tohoto velkého romantického gesta!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'm just here to support you, Beast!",
+      "cz": "Jsem tu jen proto, abych tě podpořil, Bestie!",
+      "source": "pre_existing",
+      "original_cz": "Jsem tu jen proto, abych tě podpořil, Bestie!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Adding \"ball planner\" to my résumé.",
+      "cz": "Přidávám si do životopisu \"plánovač míčů\".",
+      "source": "pre_existing",
+      "original_cz": "Přidávám si do životopisu \"plánovač míčů\"."
+    },
+    {
+      "key": "Beast_006_f",
+      "en": "I have something for you.",
+      "cz": "Mám pro tebe něco.",
+      "source": "pre_existing",
+      "original_cz": "Mám pro tebe něco."
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "It's not much, but I want you to have it.",
+      "cz": "Není to moc, ale chci, abys to měl/a.",
+      "source": "pre_existing",
+      "original_cz": "Není to moc, ale chci, abys to měl/a."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "A gift? You didn't have to!",
+      "cz": "Dárek? Nemusel jsi!",
+      "source": "pre_existing",
+      "original_cz": "Dárek? Nemusel jsi!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "If it's a tiara, I'm gonna wear it to breakfast.",
+      "cz": "Jestli to bude tiára, vezmu si ji na snídani.",
+      "source": "pre_existing",
+      "original_cz": "Jestli to bude tiára, vezmu si ji na snídani."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Is it enchanted?",
+      "cz": "Je to očarované?",
+      "source": "pre_existing",
+      "original_cz": "Je to očarované?"
+    },
+    {
+      "key": "Beast_007_f",
+      "en": "I did. It's a small gesture, but I hope it's meaningful.",
+      "cz": "Udělal jsem to. Je to malé gesto, ale doufám, že má smysl.",
+      "source": "pre_existing",
+      "original_cz": "Udělal jsem to. Je to malé gesto, ale doufám, že má smysl."
+    },
+    {
+      "key": "Beast_010_f",
+      "en": "It's for all the dances still to come.",
+      "cz": "Je to pro všechny tance, které teprve přijdou.",
+      "source": "pre_existing",
+      "original_cz": "Je to pro všechny tance, které teprve přijdou."
+    },
+    {
+      "key": "Beast_014_f",
+      "en": "I tried my best to make it beautiful and elegant. There are roses woven in, too. I hope you like it.",
+      "cz": "Snažila jsem se, aby to bylo krásné a elegantní. Jsou tam i pletené růže. Doufám, že se vám to líbí.",
+      "source": "pre_existing",
+      "original_cz": "Snažila jsem se, aby to bylo krásné a elegantní. Jsou tam i pletené růže. Doufám, že se vám to líbí."
+    },
+    {
+      "key": "Beast_015_f",
+      "en": "Now, let's get to the reason we're all here! <Lore>A ball!</Lore>",
+      "cz": "A teď se pojďme podívat na důvod, proč jsme tady všichni! <Lore>Ples!</Lore>",
+      "source": "pre_existing",
+      "original_cz": "A teď se pojďme podívat na důvod, proč jsme tady všichni! <Lore>Ples!</Lore>"
+    },
+    {
+      "key": "Beast_008_f",
+      "en": "It's not a tiara.",
+      "cz": "Není to tiára.",
+      "source": "pre_existing",
+      "original_cz": "Není to tiára."
+    },
+    {
+      "key": "Beast_009_f",
+      "en": "No.",
+      "cz": "Žádný.",
+      "source": "pre_existing",
+      "original_cz": "Žádný."
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "I'm lucky to have you as a friend.",
+      "cz": "Mám štěstí, že tě mám za přítele.",
+      "source": "pre_existing",
+      "original_cz": "Mám štěstí, že tě mám za přítele."
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "You're very good at it.",
+      "cz": "Jsi v tom moc dobrý/á.",
+      "source": "pre_existing",
+      "original_cz": "Jsi v tom moc dobrý/á."
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_030_PRM_Beas_030_TalkTo08.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "There you are, {PlayerName}.",
+      "cz": "Tak tady to máte, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Tak tady to máte, {PlayerName}."
+    },
+    {
+      "key": "Daisy_000_f",
+      "en": "Don't worry — everything's perfect. It's the only way I work!",
+      "cz": "Nebojte se – všechno je perfektní. Jen takhle pracuji!",
+      "source": "pre_existing",
+      "original_cz": "Nebojte se – všechno je perfektní. Jen takhle pracuji!"
+    },
+    {
+      "key": "Daisy_001_f",
+      "en": "And, I've got something for you, too. Watching you help the Beast recreate romance has been so much fun, I just couldn't resist!",
+      "cz": "A mám pro tebe taky něco. Sledovat, jak pomáháš Bestii znovu vytvářet romantiku, bylo tak zábavné, že jsem prostě nemohla odolat!",
+      "source": "pre_existing",
+      "original_cz": "A mám pro tebe taky něco. Sledovat, jak pomáháš Bestii znovu vytvářet romantiku, bylo tak zábavné, že jsem prostě nemohla odolat!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Those buttons? Tiny masterpieces.",
+      "cz": "Ty knoflíky? Drobná mistrovská díla.",
+      "source": "pre_existing",
+      "original_cz": "Ty knoflíky? Drobná mistrovská díla."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "The stitches are so perfect!",
+      "cz": "Stehy jsou tak dokonalé!",
+      "source": "pre_existing",
+      "original_cz": "Stehy jsou tak dokonalé!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Wow. Just WOW.",
+      "cz": "Páni. Prostě Páni.",
+      "source": "pre_existing",
+      "original_cz": "Páni. Prostě Páni."
+    },
+    {
+      "key": "Daisy_004_f",
+      "en": "Try not to outshine everyone TOO much, okay?",
+      "cz": "Zkus všechny moc nezastínit, ano?",
+      "source": "pre_existing",
+      "original_cz": "Zkus všechny moc nezastínit, ano?"
+    },
+    {
+      "key": "Daisy_003_f",
+      "en": "And send my best wishes to <Lore>the Beast</Lore>. I'm sure everything will be fabulous!",
+      "cz": "A posílám ode mě všechno nejlepší <Lore>Bestie</Lore>. Jsem si jistý, že všechno bude báječné!",
+      "source": "pre_existing",
+      "original_cz": "A posílám ode mě všechno nejlepší <Lore>Bestie</Lore>. Jsem si jistý, že všechno bude báječné!"
+    }
+  ],
+  "BeautyBeastBundle_Beast/Beast_PRM_Beas_060_PRM_Beas_060_TalkTo01.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Hey, Beast. Got a moment?",
+      "cz": "Hej, Bestie. Máš chvilku?",
+      "source": "pre_existing",
+      "original_cz": "Hej, Bestie. Máš chvilku?"
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "<Lore>Kristoff</Lore> and I were talking about how being in nature can help you feel more at peace.",
+      "cz": "<Lore>Kristoff</Lore> a já jsme mluvili o tom, jak vám pobyt v přírodě může pomoci cítit se klidněji.",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Kristoff</Lore> a já jsme mluvili o tom, jak vám pobyt v přírodě může pomoci cítit se klidněji."
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "Hmm... I understand that. When I first came to the Village, I felt... lost.",
+      "cz": "Hmm... To chápu. Když jsem poprvé přišel do vesnice, cítil jsem se... ztracený.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... To chápu. Když jsem poprvé přišel do vesnice, cítil jsem se... ztracený."
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "But caring for the small creatures here, feeding them, watching them, it helped me find my place.",
+      "cz": "Ale péče o ty malé tvorečky tady, jejich krmení, jejich pozorování mi pomohlo najít si své místo.",
+      "source": "pre_existing",
+      "original_cz": "Ale péče o ty malé tvorečky tady, jejich krmení, jejich pozorování mi pomohlo najít si své místo."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "You're great with them now!",
+      "cz": "Teď s nimi jsi skvělý/á!",
+      "source": "pre_existing",
+      "original_cz": "Teď s nimi jsi skvělý/á!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "That sounds really healing.",
+      "cz": "To zní opravdu léčivě.",
+      "source": "pre_existing",
+      "original_cz": "To zní opravdu léčivě."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Critter Rangers, assemble!",
+      "cz": "Strážci tvorů, shromážděte se!",
+      "source": "pre_existing",
+      "original_cz": "Strážci tvorů, shromážděte se!"
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "So, maybe you'd want to join us... Just a peaceful walk, time with the critters?",
+      "cz": "Tak se k nám možná budete chtít přidat... Jen klidná procházka, čas s těmi zvířátky?",
+      "source": "pre_existing",
+      "original_cz": "Tak se k nám možná budete chtít přidat... Jen klidná procházka, čas s těmi zvířátky?"
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "A quiet outing? That sounds nice.",
+      "cz": "Klidný výlet? To zní hezky.",
+      "source": "pre_existing",
+      "original_cz": "Klidný výlet? To zní hezky."
+    },
+    {
+      "key": "Beast_006_f",
+      "en": "Is there anything we need to prepare?",
+      "cz": "Je něco, co si musíme připravit?",
+      "source": "pre_existing",
+      "original_cz": "Je něco, co si musíme připravit?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I'll gather treats for the critters.",
+      "cz": "Nasbírám pamlsky pro zvířátka.",
+      "source": "pre_existing",
+      "original_cz": "Nasbírám pamlsky pro zvířátka."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Maybe we should wear fur-themed costumes.",
+      "cz": "Možná bychom si měli obléknout kostýmy s kožešinovou tematikou.",
+      "source": "pre_existing",
+      "original_cz": "Možná bychom si měli obléknout kostýmy s kožešinovou tematikou."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I could ask <i>Scar</i> for help.",
+      "cz": "Mohl bych požádat o pomoc <i>Scara</i>.",
+      "source": "pre_existing",
+      "original_cz": "Mohl bych požádat o pomoc <i>Scara</i>."
+    },
+    {
+      "key": "Beast_007_f",
+      "en": "They'll like that.",
+      "cz": "To se jim bude líbit.",
+      "source": "pre_existing",
+      "original_cz": "To se jim bude líbit."
+    },
+    {
+      "key": "Beast_008_f",
+      "en": "Thank you for thinking of it.",
+      "cz": "Děkuji, že jste na to mysleli.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji, že jste na to mysleli."
+    },
+    {
+      "key": "Beast_009_f",
+      "en": "I'd prefer if we just looked after the creatures who need to be fed.",
+      "cz": "Raději bychom se starali jen o tvory, kteří potřebují krmit.",
+      "source": "pre_existing",
+      "original_cz": "Raději bychom se starali jen o tvory, kteří potřebují krmit."
+    },
+    {
+      "key": "Beast_010_f",
+      "en": "Scar? No, leave him out of it. He toys with smaller things. It's cruel.",
+      "cz": "Jizva? Ne, nechte ho z toho stranou. Hraje si s maličkostmi. Je to kruté.",
+      "source": "pre_existing",
+      "original_cz": "Jizva? Ne, nechte ho z toho stranou. Hraje si s maličkostmi. Je to kruté."
+    },
+    {
+      "key": "Beast_011_f",
+      "en": "We should bring something for the animals to eat.",
+      "cz": "Měli bychom přinést něco k jídlu pro zvířata.",
+      "source": "pre_existing",
+      "original_cz": "Měli bychom přinést něco k jídlu pro zvířata."
+    }
+  ],
+  "BeautyBeastBundle_Beast/PRM_Beas_010_Beas.locbin": [
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_010_Beas_AvailableDescription",
+      "en": "Belle finds a forgotten chest in the castle... You should speak to her about that.",
+      "cz": "Belle najde v hradě zapomenutou truhlici... Měl by sis s ní o tom promluvit.",
+      "source": "pre_existing",
+      "original_cz": "Belle najde v hradě zapomenutou truhlici... Měl by sis s ní o tom promluvit."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_010_Beas_DisplayName",
+      "en": "Serenade of Memory",
+      "cz": "Serenáda paměti",
+      "source": "pre_existing",
+      "original_cz": "Serenáda paměti"
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_010_Beas_Group01_Step01_Conditional01_StepDescription",
+      "en": "Progress further with the <ActivityItem>Beast</ActivityItem>.",
+      "cz": "Pokračujte dále s <ActivityItem>Bestií</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Pokračujte dále s <ActivityItem>Bestií</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_010_Beas_Group01_Step01_Conditional02_StepDescription",
+      "en": "Progress further with <ActivityItem>Belle</ActivityItem>.",
+      "cz": "Pokračujte dále s <ActivityItem>Belle</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Pokračujte dále s <ActivityItem>Belle</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_010_Beas_Group01_Step01_Conditional03_StepDescription",
+      "en": "Unlock <ActivityItem>Tiana</ActivityItem>.",
+      "cz": "Odemkněte <ActivityItem>Tianu</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Odemkněte <ActivityItem>Tianu</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_010_Beas_Group01_StepDescription",
+      "en": "Unlock Characters.",
+      "cz": "Odemkněte postavy.",
+      "source": "pre_existing",
+      "original_cz": "Odemkněte postavy."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_010_Beas_Group02_Step02_StepDescription",
+      "en": "Equip the <ActivityItem>Enchanted Evening Belle Dream Style</ActivityItem>.",
+      "cz": "Vybavte se <ActivityItem>Stylem snu Kouzelné večerní krásky</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Vybavte se <ActivityItem>Stylem snu Kouzelné večerní krásky</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_010_Beas_Group03_Step03_TalkToCharacter01_StepDescription",
+      "en": "Talk to {TargetNPC} about what she found.",
+      "cz": "Promluv si s {TargetNPC} o tom, co našla.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s {TargetNPC} o tom, co našla."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_010_Beas_Group04_Step04_TalkToCharacter02_StepDescription",
+      "en": "Talk to {TargetNPC} about what Belle shared with you.",
+      "cz": "Promluvte si s {TargetNPC} o tom, co vám Belle sdělila.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC} o tom, co vám Belle sdělila."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_010_Beas_Group04_StoryDescription",
+      "en": "The Beast is inspired by what Belle found and her memories. He asks for your help to recreate three cherished moments they once shared.",
+      "cz": "Bestie je inspirována tím, co Belle našla, a jejími vzpomínkami. Žádá vás o pomoc s vytvořením tří drahocenných okamžiků, které kdysi spolu sdíleli.",
+      "source": "pre_existing",
+      "original_cz": "Bestie je inspirována tím, co Belle našla, a jejími vzpomínkami. Žádá vás o pomoc s vytvořením tří drahocenných okamžiků, které kdysi spolu sdíleli."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_010_Beas_Group05_Step05_VisitArea01_StepDescription",
+      "en": "Visit <ActivityItem>the Dreamlight Library</ActivityItem> to find the most romantic book.",
+      "cz": "Navštivte <ActivityItem>knihovnu Dreamlight</ActivityItem> a najděte tu nejromantičtější knihu.",
+      "source": "pre_existing",
+      "original_cz": "Navštivte <ActivityItem>knihovnu Dreamlight</ActivityItem> a najděte tu nejromantičtější knihu."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_010_Beas_Group06_Step06_Possess01_StepDescription",
+      "en": "Find the <ActivityItem>Romance Book</ActivityItem>.",
+      "cz": "Najděte <ActivityItem>Knihu romantiky</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Najděte <ActivityItem>Knihu romantiky</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_010_Beas_Group06_StoryDescription",
+      "en": "To bring their memories to life, you help the Beast collect three meaningful tokens for Belle: a Romance Book, Sweet Porridge, and a Bird Feeder.",
+      "cz": "Abyste oživili jejich vzpomínky, pomozte Bestii nasbírat pro Belle tři smysluplné žetony: Romantickou knihu, Sladkou kaši a Krmítko pro ptáky.",
+      "source": "pre_existing",
+      "original_cz": "Abyste oživili jejich vzpomínky, pomozte Bestii nasbírat pro Belle tři smysluplné žetony: Romantickou knihu, Sladkou kaši a Krmítko pro ptáky."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_010_Beas_Group07_StepDescription",
+      "en": "Bring the <ActivityItem>Romance Book</ActivityItem> to the Beast and discover his next memory.",
+      "cz": "Přines <ActivityItem>Knihu romantiky</ActivityItem> Bestii a objev jeho další vzpomínku.",
+      "source": "pre_existing",
+      "original_cz": "Přines <ActivityItem>Knihu romantiky</ActivityItem> Bestii a objev jeho další vzpomínku."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_010_Beas_Group08_Step08_TalkToCharacter03_StepDescription",
+      "en": "Talk to {TargetNPC} about making something sweet.",
+      "cz": "Promluvte si s {TargetNPC} o přípravě něčeho sladkého.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC} o přípravě něčeho sladkého."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_010_Beas_Group09_Step09_CookMeal01_StepDescription",
+      "en": "Cook <ActivityItem>Sweet Porridge</ActivityItem>.",
+      "cz": "Uvařte <ActivityItem>sladkou kaši</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Uvařte <ActivityItem>sladkou kaši</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_010_Beas_Group10_Step10_ReadyDescription",
+      "en": "Bring <ActivityItem>Sweet Porridge</ActivityItem> to the Beast. It's time for the last memory.",
+      "cz": "Přineste Bestii <ActivityItem>Sladkou kaši</ActivityItem>. Je čas na poslední vzpomínku.",
+      "source": "pre_existing",
+      "original_cz": "Přineste Bestii <ActivityItem>Sladkou kaši</ActivityItem>. Je čas na poslední vzpomínku."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_010_Beas_Group10_Step10_StepDescription",
+      "en": "Make sure you have <ActivityItem>Sweet Porridge</ActivityItem> in your Inventory.",
+      "cz": "Ujistěte se, že máte v inventáři <ActivityItem>Sladkou kaši</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte v inventáři <ActivityItem>Sladkou kaši</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_010_Beas_Group11_Step11_Possess02_StepDescription",
+      "en": "<ActivityItem>Softwood</ActivityItem>.",
+      "cz": "<ActivityItem>Měkké dřevo</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Měkké dřevo</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_010_Beas_Group11_Step11_Possess03_StepDescription",
+      "en": "<ActivityItem>Purple Bell Flower</ActivityItem>.",
+      "cz": "<ActivityItem>Květ fialového zvonku</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Květ fialového zvonku</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_010_Beas_Group11_Step11_Possess04_StepDescription",
+      "en": "<ActivityItem>Red Falling Penstemon</ActivityItem>.",
+      "cz": "<ActivityItem>Červený padající penstemon</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Červený padající penstemon</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_010_Beas_Group11_Step11_Possess05_StepDescription",
+      "en": "<ActivityItem>Garnet</ActivityItem>.",
+      "cz": "<ActivityItem>Granát</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Granát</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_010_Beas_Group11_Step11_StepDescription",
+      "en": "Gather materials for <ActivityItem>the Beast's Bird Feeder</ActivityItem>:",
+      "cz": "Shromážděte materiály pro <ActivityItem>krmítko pro ptáky Bestie</ActivityItem>:",
+      "source": "pre_existing",
+      "original_cz": "Shromážděte materiály pro <ActivityItem>krmítko pro ptáky Bestie</ActivityItem>:"
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_010_Beas_Group12_Step12_CraftItem01_StepDescription",
+      "en": "Craft <ActivityItem>the Beast's Bird Feeder</ActivityItem>.",
+      "cz": "Vyrobte <ActivityItem>krmítko pro ptáky Bestie</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Vyrobte <ActivityItem>krmítko pro ptáky Bestie</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_010_Beas_Group13_StepDescription",
+      "en": "All <ActivityItem>memory tokens</ActivityItem> are collected. Talk to the <ActivityItem>Beast</ActivityItem> to see what comes next.",
+      "cz": "Všechny <ActivityItem>žetony paměti</ActivityItem> jsou shromážděny. Promluvte si s <ActivityItem>Bestií</ActivityItem> a zjistěte, co bude dál.",
+      "source": "pre_existing",
+      "original_cz": "Všechny <ActivityItem>žetony paměti</ActivityItem> jsou shromážděny. Promluvte si s <ActivityItem>Bestií</ActivityItem> a zjistěte, co bude dál."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_010_Beas_Group14_Step14_Listen01_StepDescription",
+      "en": "Listen to the <ActivityItem>Beast</ActivityItem> present the memory tokens to <ActivityItem>Belle</ActivityItem>.",
+      "cz": "Poslechněte si, jak <ActivityItem>Bestie</ActivityItem> předává žetony paměti <ActivityItem>Belle</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Poslechněte si, jak <ActivityItem>Bestie</ActivityItem> předává žetony paměti <ActivityItem>Belle</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_010_Beas_Group14_StoryDescription",
+      "en": "After all the preparations and your help, the Beast presents Belle with their shared memories. Belle's smile makes him happy too.",
+      "cz": "Po všech přípravách a tvé pomoci Bestie představí Belle jejich společné vzpomínky. Bellin úsměv potěší i jeho.",
+      "source": "pre_existing",
+      "original_cz": "Po všech přípravách a tvé pomoci Bestie představí Belle jejich společné vzpomínky. Bellin úsměv potěší i jeho."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_010_Beas_Group15_Step15_TalkToCharacter04_StepDescription",
+      "en": "Catch up with {TargetNPC} and see how she feels about everything.",
+      "cz": "Popovídej si s {TargetNPC} a zjisti, co si o všem myslí.",
+      "source": "pre_existing",
+      "original_cz": "Popovídej si s {TargetNPC} a zjisti, co si o všem myslí."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_010_Beas_Group15_StoryDescription",
+      "en": "Thanks to your help, the Beast gathered the most meaningful memories to share with Belle. Each gift reminded her of the love, joy, and wonder they've experienced together.",
+      "cz": "Díky tvé pomoci Bestie shromáždila ty nejvýznamnější vzpomínky, které může sdílet s Belle. Každý dárek jí připomněl lásku, radost a úžas, které společně zažili.",
+      "source": "pre_existing",
+      "original_cz": "Díky tvé pomoci Bestie shromáždila ty nejvýznamnější vzpomínky, které může sdílet s Belle. Každý dárek jí připomněl lásku, radost a úžas, které společně zažili."
+    }
+  ],
+  "BeautyBeastBundle_Beast/PRM_Beas_020_Beas.locbin": [
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_Any_CompletedRequestDescription",
+      "en": "Speak with {TargetNPC} to recap everything.",
+      "cz": "Promluvte si s {TargetNPC} a vše shrňte.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC} a vše shrňte."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_AvailableDescription",
+      "en": "Hearing Belle reminisce, the Beast is moved by a simple wish: to see Belle as happy as she was that night.",
+      "cz": "Když Bestie slyší Belle vzpomínat, pohne ji prosté přání: vidět Belle tak šťastnou, jako byla onu noc.",
+      "source": "pre_existing",
+      "original_cz": "Když Bestie slyší Belle vzpomínat, pohne ji prosté přání: vidět Belle tak šťastnou, jako byla onu noc."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_CompletedStoryDescription",
+      "en": "Touched by the support, the Beast thanks you for helping bring his vision to life. The ball is about to begin...",
+      "cz": "Dojatý podporou, Bestie vám děkuje za pomoc s realizací jeho vize. Ples se chystá začít...",
+      "source": "pre_existing",
+      "original_cz": "Dojatý podporou, Bestie vám děkuje za pomoc s realizací jeho vize. Ples se chystá začít..."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_DisplayName",
+      "en": "The Rising Rhapsody",
+      "cz": "Vzestupná rapsodie",
+      "source": "pre_existing",
+      "original_cz": "Vzestupná rapsodie"
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "Talk to {TargetNPC} about ball decorations.",
+      "cz": "Promluvte si s {TargetNPC} o výzdobě plesu.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC} o výzdobě plesu."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_Group02_Step02_Possess01_StepDescription",
+      "en": "<ActivityItem>Red Roses in the Forest of Valor</ActivityItem>.",
+      "cz": "<ActivityItem>Rudé růže v Lese odvahy</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Rudé růže v Lese odvahy</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_Group02_Step02_Possess02_StepDescription",
+      "en": "<ActivityItem>Clay</ActivityItem>.",
+      "cz": "<ActivityItem>Hlína</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Hlína</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_Group02_Step02_Possess03_StepDescription",
+      "en": "<ActivityItem>Stone</ActivityItem>.",
+      "cz": "<ActivityItem>Kámen</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Kámen</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_Group02_Step02_StepDescription",
+      "en": "Gather these materials for the <ActivityItem>Columns</ActivityItem>:",
+      "cz": "Připravte si tyto materiály pro <ActivityItem>Sloupce</ActivityItem>:",
+      "source": "pre_existing",
+      "original_cz": "Připravte si tyto materiály pro <ActivityItem>Sloupce</ActivityItem>:"
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_Group02_StoryDescription",
+      "en": "You asked Minnie for help with the ballroom décor. Columns felt just right, especially with roses the Beast planted in the Forest of Valor.",
+      "cz": "Požádal jsi Minnie o pomoc s výzdobou tanečního sálu. Sloupy působily dokonale, obzvlášť s růžemi, které Bestie zasadila v Lese odvahy.",
+      "source": "pre_existing",
+      "original_cz": "Požádal jsi Minnie o pomoc s výzdobou tanečního sálu. Sloupy působily dokonale, obzvlášť s růžemi, které Bestie zasadila v Lese odvahy."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_Group03_Step03_CraftItem01_StepDescription",
+      "en": "Craft the <ActivityItem>Royal Blossom Column</ActivityItem>.",
+      "cz": "Vyrobte <ActivityItem>Sloup královského květu</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Vyrobte <ActivityItem>Sloup královského květu</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_Group04_Step04_TalkToCharacter02_StepDescription",
+      "en": "Talk to {TargetNPC} about what he likes to eat.",
+      "cz": "Promluvte si s {TargetNPC} o tom, co rád jí.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC} o tom, co rád jí."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_Group04_Step04_TalkToCharacter03_StepDescription",
+      "en": "Ask {TargetNPC} about her favorite flavors.",
+      "cz": "Zeptejte se {TargetNPC} na její oblíbené příchutě.",
+      "source": "pre_existing",
+      "original_cz": "Zeptejte se {TargetNPC} na její oblíbené příchutě."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_Group05_Step05_TalkToCharacter04_StepDescription",
+      "en": "Discuss dinner ideas with {TargetNPC}.",
+      "cz": "Proberte nápady na večeři s {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Proberte nápady na večeři s {TargetNPC}."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_Group06_Step06_CookMeal01_StepDescription",
+      "en": "<ActivityItem>Creamy Garlic Scallops</ActivityItem>.",
+      "cz": "<ActivityItem>Krémové česnekové mušle</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Krémové česnekové mušle</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_Group06_Step06_CookMeal02_StepDescription",
+      "en": "<ActivityItem>Soufflé</ActivityItem>.",
+      "cz": "<ActivityItem>Suflé</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Suflé</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_Group06_StepDescription",
+      "en": "Cook <ActivityItem>a romantic French Meal</ActivityItem>.",
+      "cz": "Uvařte <ActivityItem>romantické francouzské jídlo</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Uvařte <ActivityItem>romantické francouzské jídlo</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_Group07_Step07_BringItem01_StepDescription",
+      "en": "<ActivityItem>Creamy Garlic Scallops</ActivityItem>.",
+      "cz": "<ActivityItem>Krémové česnekové mušle</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Krémové česnekové mušle</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_Group07_Step07_BringItem02_StepDescription",
+      "en": "<ActivityItem>Soufflé</ActivityItem>.",
+      "cz": "<ActivityItem>Suflé</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Suflé</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_Group07_Step07_ReadyDescription",
+      "en": "Bring prepared dishes to {TargetNPC} for a taste test:",
+      "cz": "Přineste připravená jídla na ochutnání do {TargetNPC}:",
+      "source": "pre_existing",
+      "original_cz": "Přineste připravená jídla na ochutnání do {TargetNPC}:"
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_Group07_Step07_StepDescription",
+      "en": "Make sure to have dishes in your Inventory:",
+      "cz": "Ujistěte se, že máte v inventáři nádobí:",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte v inventáři nádobí:"
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_Group08_Step08_TalkToCharacter05_StepDescription",
+      "en": "Talk to {TargetNPC} about the perfect dance floor.",
+      "cz": "Promluvte si s {TargetNPC} o perfektním tanečním parketu.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC} o perfektním tanečním parketu."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_Group09_Step09_Possess04_StepDescription",
+      "en": "<ActivityItem>Stone</ActivityItem>.",
+      "cz": "<ActivityItem>Kámen</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Kámen</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_Group09_Step09_Possess05_StepDescription",
+      "en": "<ActivityItem>Gold Ingot</ActivityItem>.",
+      "cz": "<ActivityItem>Zlatý ingot</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Zlatý ingot</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_Group09_Step09_StepDescription",
+      "en": "Make sure you have the following items in your Inventory:",
+      "cz": "Ujistěte se, že máte v inventáři následující položky:",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte v inventáři následující položky:"
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_Group10_Step10_CraftItem02_StepDescription",
+      "en": "Craft the <ActivityItem>Gold & Opal Road</ActivityItem>.",
+      "cz": "Vytvořte <ActivityItem>Zlatou a opálovou cestu</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Vytvořte <ActivityItem>Zlatou a opálovou cestu</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_Group11_Step11_Decorate01_StepDescription",
+      "en": "<ActivityItem>Dance Floor</ActivityItem>.",
+      "cz": "<ActivityItem>Taneční parket</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Taneční parket</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_Group11_Step11_Decorate02_StepDescription",
+      "en": "<ActivityItem>Royal Blossom Column</ActivityItem>.",
+      "cz": "<ActivityItem>Královský květový sloup</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Královský květový sloup</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_Group11_Step11_StepDescription",
+      "en": "Place the Decorations:",
+      "cz": "Umístění dekorací:",
+      "source": "pre_existing",
+      "original_cz": "Umístění dekorací:"
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_Group11_StoryDescription",
+      "en": "Together with the other Villagers, you helped create beautiful ballroom decorations. The Beast seems quietly pleased as well.",
+      "cz": "Spolu s ostatními vesničany jsi pomohl vytvořit krásné dekorace plesového sálu. Zdá se, že i Bestie je tiše spokojená.",
+      "source": "pre_existing",
+      "original_cz": "Spolu s ostatními vesničany jsi pomohl vytvořit krásné dekorace plesového sálu. Zdá se, že i Bestie je tiše spokojená."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_020_Beas_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol"
+    }
+  ],
+  "BeautyBeastBundle_Beast/PRM_Beas_030_Beas.locbin": [
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_Any_CompletedRequestDescription",
+      "en": "Talk to the <ActivityItem>Beast</ActivityItem> after the Grand Enchanted Ball.",
+      "cz": "Po Velkém kouzelném plese si promluvte s <ActivityItem>Bestií</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Po Velkém kouzelném plese si promluvte s <ActivityItem>Bestií</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_AvailableDescription",
+      "en": "With the ball approaching, the Beast seems nervous. Will the surprise go off without a hitch?",
+      "cz": "S blížícím se míčem se Bestie zdá být nervózní. Proběhne překvapení bez problémů?",
+      "source": "pre_existing",
+      "original_cz": "S blížícím se míčem se Bestie zdá být nervózní. Proběhne překvapení bez problémů?"
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_CompletedStoryDescription",
+      "en": "The magical ball came to life thanks to your help! Now it's time to see how the Beast feels about it.",
+      "cz": "Díky tvé pomoci ožila kouzelná koule! Teď je čas zjistit, co si o tom myslí Bestie.",
+      "source": "pre_existing",
+      "original_cz": "Díky tvé pomoci ožila kouzelná koule! Teď je čas zjistit, co si o tom myslí Bestie."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_DisplayName",
+      "en": "The Grand Enchanted Ball",
+      "cz": "Velký kouzelný ples",
+      "source": "pre_existing",
+      "original_cz": "Velký kouzelný ples"
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_Group01_Step01_TakePicture01_StepDescription",
+      "en": "Bright winged creature from the Sunlit Plateau.",
+      "cz": "Jasně okřídlený tvor ze Sluncem zalité plošiny.",
+      "source": "pre_existing",
+      "original_cz": "Jasně okřídlený tvor ze Sluncem zalité plošiny."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_Group01_Step01_TakePicture02_StepDescription",
+      "en": "Falling water through the ruins of the Glade.",
+      "cz": "Padající voda skrz ruiny Glade.",
+      "source": "pre_existing",
+      "original_cz": "Padající voda skrz ruiny Glade."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_Group01_Step01_TakePicture03_StepDescription",
+      "en": "Golden sun blooming on Dazzle Beach.",
+      "cz": "Zlaté slunce kvete na pláži Dazzle.",
+      "source": "pre_existing",
+      "original_cz": "Zlaté slunce kvete na pláži Dazzle."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_Group01_Step01_TakePicture04_StepDescription",
+      "en": "Lonely tree wrapped in frost.",
+      "cz": "Osamělý strom zahalený v mrazu.",
+      "source": "pre_existing",
+      "original_cz": "Osamělý strom zahalený v mrazu."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_Group01_StepDescription",
+      "en": "Take pictures of peaceful and graceful moments throughout the Village.",
+      "cz": "Vyfoťte si klidné a půvabné chvíle po celé vesnici.",
+      "source": "pre_existing",
+      "original_cz": "Vyfoťte si klidné a půvabné chvíle po celé vesnici."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_Group01_StoryDescription",
+      "en": "You offered to help the Beast find some inner peace before the ball. Taking a few calming nature photos around the Village might just do the trick.",
+      "cz": "Nabídl jsi, že Bestii pomůžeš najít vnitřní klid před plesem. Pořízení pár uklidňujících fotografií přírody v okolí Vesnice by mohlo stačit.",
+      "source": "pre_existing",
+      "original_cz": "Nabídl jsi, že Bestii pomůžeš najít vnitřní klid před plesem. Pořízení pár uklidňujících fotografií přírody v okolí Vesnice by mohlo stačit."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Bring the photos to the <ActivityItem>Beast</ActivityItem> to see his reaction.",
+      "cz": "Přines fotky <ActivityItem>Bestii</ActivityItem>, ať uvidíš jeho reakci.",
+      "source": "pre_existing",
+      "original_cz": "Přines fotky <ActivityItem>Bestii</ActivityItem>, ať uvidíš jeho reakci."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_Group03_Step03_TalkToCharacter02_StepDescription",
+      "en": "Join {TargetNPC} for a light dance rehearsal to get back into the rhythm.",
+      "cz": "Přidejte se k {TargetNPC} na lehkou taneční zkoušku, abyste se vrátili do rytmu.",
+      "source": "pre_existing",
+      "original_cz": "Přidejte se k {TargetNPC} na lehkou taneční zkoušku, abyste se vrátili do rytmu."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_Group03_StoryDescription",
+      "en": "With Anna leading a lighthearted rehearsal, the Beast and you both start to rediscover the joy of dancing, step by step.",
+      "cz": "S Annou, která vede lehkou zkoušku, vy i Bestie krok za krokem znovuobjevujete radost z tance.",
+      "source": "pre_existing",
+      "original_cz": "S Annou, která vede lehkou zkoušku, vy i Bestie krok za krokem znovuobjevujete radost z tance."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_Group04_Step04_TalkToCharacter03_StepDescription",
+      "en": "Talk to {TargetNPC} about the ballroom outfits.",
+      "cz": "Promluv si s {TargetNPC} o kostýmech do tanečního sálu.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s {TargetNPC} o kostýmech do tanečního sálu."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_Group05_Step05_BringItem01_StepDescription",
+      "en": "<ActivityItem>Fabric</ActivityItem>.",
+      "cz": "<ActivityItem>Látka</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Látka</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_Group05_Step05_BringItem02_StepDescription",
+      "en": "<ActivityItem>Gold Ingot</ActivityItem>.",
+      "cz": "<ActivityItem>Zlatý ingot</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Zlatý ingot</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_Group05_Step05_BringItem03_StepDescription",
+      "en": "<ActivityItem>Blue Hydrangea</ActivityItem>.",
+      "cz": "<ActivityItem>Modrá hortenzie</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Modrá hortenzie</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_Group05_Step05_BringItem04_StepDescription",
+      "en": "<ActivityItem>Aquamarine</ActivityItem>.",
+      "cz": "<ActivityItem>Akvamarín</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Akvamarín</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_Group05_Step05_ReadyDescription",
+      "en": "Bring the materials you gathered to <ActivityItem>Daisy</ActivityItem>.",
+      "cz": "Přines materiály, které jsi shromáždil/a, <ActivityItem>Daisy</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Přines materiály, které jsi shromáždil/a, <ActivityItem>Daisy</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_Group05_Step05_StepDescription",
+      "en": "Gather extra materials to help <ActivityItem>Daisy</ActivityItem> put the finishing touches on the ball outfit:",
+      "cz": "Nasbírejte další materiály, které pomohou <ActivityItem>Daisy</ActivityItem> doladit plesový outfit:",
+      "source": "pre_existing",
+      "original_cz": "Nasbírejte další materiály, které pomohou <ActivityItem>Daisy</ActivityItem> doladit plesový outfit:"
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_Group06_Step06_TalkToCharacter04_StepDescription",
+      "en": "The <ActivityItem>Beast</ActivityItem> needs your help with a poetic task. Talk to him.",
+      "cz": "<ActivityItem>Bestie</ActivityItem> potřebuje tvou pomoc s básnickým úkolem. Promluv si s ní.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Bestie</ActivityItem> potřebuje tvou pomoc s básnickým úkolem. Promluv si s ní."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_Group07_Step07_FillKeyhole01_StepDescription",
+      "en": "Mickey's House.",
+      "cz": "Mickeyho dům.",
+      "source": "pre_existing",
+      "original_cz": "Mickeyho dům."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_Group07_Step07_FillKeyhole02_StepDescription",
+      "en": "Anna's Castle.",
+      "cz": "Annin hrad.",
+      "source": "pre_existing",
+      "original_cz": "Annin hrad."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_Group07_Step07_FillKeyhole03_StepDescription",
+      "en": "Tiana's House.",
+      "cz": "Tianin dům.",
+      "source": "pre_existing",
+      "original_cz": "Tianin dům."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_Group07_Step07_StepDescription",
+      "en": "Place the <ActivityItem>invitation elements</ActivityItem> on the bookshelves in specific areas:",
+      "cz": "Umístěte <ActivityItem>prvky pozvánky</ActivityItem> na police do určených oblastí:",
+      "source": "pre_existing",
+      "original_cz": "Umístěte <ActivityItem>prvky pozvánky</ActivityItem> na police do určených oblastí:"
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_Group08_Step08_TalkToCharacter05_StepDescription",
+      "en": "Tell {TargetNPC} about the little quest the Beast planned for her.",
+      "cz": "Řekni {TargetNPC} o malém úkolu, který pro ni Bestie naplánovala.",
+      "source": "pre_existing",
+      "original_cz": "Řekni {TargetNPC} o malém úkolu, který pro ni Bestie naplánovala."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_Group09_Step09_TalkToCharacter06_StepDescription",
+      "en": "Check the ready ballroom outfits with {TargetNPC}.",
+      "cz": "Prohlédněte si připravené kostýmy na ples u {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Prohlédněte si připravené kostýmy na ples u {TargetNPC}."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_Group10_Step10_Conditional01_StepDescription",
+      "en": "Equip the Beast with his ballroom outfit.",
+      "cz": "Vybav Bestii jeho tanečním kostýmem.",
+      "source": "pre_existing",
+      "original_cz": "Vybav Bestii jeho tanečním kostýmem."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_Group10_Step11_StepDescription",
+      "en": "Make sure that Belle is wearing her ball gown.",
+      "cz": "Ujistěte se, že Belle má na sobě plesové šaty.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že Belle má na sobě plesové šaty."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_Group10_Step12_DressUp01_StepDescription",
+      "en": "Get dressed in your ball outfit.",
+      "cz": "Oblékněte se do plesového outfitu.",
+      "source": "pre_existing",
+      "original_cz": "Oblékněte se do plesového outfitu."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_Group11_Step13_TalkToCharacter07_StepDescription",
+      "en": "Check on the <ActivityItem>Beast</ActivityItem> before the ball begins.",
+      "cz": "Před začátkem plesu se podívejte na <ActivityItem>Bestii</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Před začátkem plesu se podívejte na <ActivityItem>Bestii</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_Group12_Step14_Decorate01_StepDescription",
+      "en": "Place the <ActivityItem>Royal Blossom Gazebo</ActivityItem> in the decorated area.",
+      "cz": "Umístěte <ActivityItem>Královský květový altán</ActivityItem> do vyzdobené oblasti.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte <ActivityItem>Královský květový altán</ActivityItem> do vyzdobené oblasti."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_030_Beas_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol"
+    }
+  ],
+  "BeautyBeastBundle_Beast/PRM_Beas_040_Mira.locbin": [
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_040_Mira_Any_CompletedRequestDescription",
+      "en": "Recap your creative journey with {TargetNPC}.",
+      "cz": "Shrňte si svou tvůrčí cestu s {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Shrňte si svou tvůrčí cestu s {TargetNPC}."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_040_Mira_AvailableDescription",
+      "en": "Mirabel has an idea to create something interesting. She needs your help with it; go talk to her.",
+      "cz": "Mirabel má nápad vytvořit něco zajímavého. Potřebuje s tím tvou pomoc; promluv si s ní.",
+      "source": "pre_existing",
+      "original_cz": "Mirabel má nápad vytvořit něco zajímavého. Potřebuje s tím tvou pomoc; promluv si s ní."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_040_Mira_CompletedStoryDescription",
+      "en": "Thanks to you, Mirabel's idea became a reality, and the Villagers came together once again for a shared purpose.",
+      "cz": "Díky vám se Mirabelin nápad stal skutečností a vesničané se opět sešli pro společný cíl.",
+      "source": "pre_existing",
+      "original_cz": "Díky vám se Mirabelin nápad stal skutečností a vesničané se opět sešli pro společný cíl."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_040_Mira_DisplayName",
+      "en": "Once Upon a Dance: Pieces of the Hearts",
+      "cz": "Bylo nebylo tancovat: Kousky srdcí",
+      "source": "pre_existing",
+      "original_cz": "Bylo nebylo tancovat: Kousky srdcí"
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_040_Mira_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "Ask {TargetNPC} about her <ActivityItem>Memory Token</ActivityItem>.",
+      "cz": "Zeptej se {TargetNPC} na její <ActivityItem>Žeton paměti</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Zeptej se {TargetNPC} na její <ActivityItem>Žeton paměti</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_040_Mira_Group01_StoryDescription",
+      "en": "Mirabel has an idea to create a Mosaic of Friendship, a colorful tribute to the bonds in the Valley. She needs your help collecting Memory Tokens from the Villagers to make it truly meaningful.",
+      "cz": "Mirabel má nápad vytvořit Mozaiku přátelství, barevnou poctu poutům v Údolí. Potřebuje vaši pomoc se sbíráním žetonů paměti od vesničanů, aby to mělo skutečný smysl.",
+      "source": "pre_existing",
+      "original_cz": "Mirabel má nápad vytvořit Mozaiku přátelství, barevnou poctu poutům v Údolí. Potřebuje vaši pomoc se sbíráním žetonů paměti od vesničanů, aby to mělo skutečný smysl."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_040_Mira_Group02_Step02_TalkToCharacter02_StepDescription",
+      "en": "Talk to {TargetNPC} about his <ActivityItem>Memory Token</ActivityItem>.",
+      "cz": "Promluvte si s {TargetNPC} o jeho <ActivityItem>Žetonu paměti</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC} o jeho <ActivityItem>Žetonu paměti</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_040_Mira_Group03_Step03_Possess01_StepDescription",
+      "en": "Search the <ActivityItem>Toy Story Realm</ActivityItem> for <ActivityItem>Andy's Marker</ActivityItem>.",
+      "cz": "Vyhledejte v <ActivityItem>Království Příběhu hraček</ActivityItem> <ActivityItem>Andyho fixu</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Vyhledejte v <ActivityItem>Království Příběhu hraček</ActivityItem> <ActivityItem>Andyho fixu</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_040_Mira_Group04_Step04_TalkToCharacter03_StepDescription",
+      "en": "Talk to {TargetNPC} and ask him about his <ActivityItem>Memory Token</ActivityItem>.",
+      "cz": "Promluvte si s {TargetNPC} a zeptejte se ho na jeho <ActivityItem>Žeton paměti</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC} a zeptejte se ho na jeho <ActivityItem>Žeton paměti</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_040_Mira_Group04_StoryDescription",
+      "en": "Moana and Woody have already shared their most meaningful Memory Tokens. Now, you've turned to WALL·E, but earning his token might take a little water... and some patience.",
+      "cz": "Moana a Woody se již podělili o své nejvýznamnější žetony paměti. Nyní jste se obrátili na WALL·Eho, ale získání jeho žetonu může vyžadovat trochu vody... a trpělivosti.",
+      "source": "pre_existing",
+      "original_cz": "Moana a Woody se již podělili o své nejvýznamnější žetony paměti. Nyní jste se obrátili na WALL·Eho, ale získání jeho žetonu může vyžadovat trochu vody... a trpělivosti."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_040_Mira_Group05_Step05_GardeningPlant01_StepDescription",
+      "en": "Plant the <ActivityItem>Memorable Seed</ActivityItem> WALL·E shared with you.",
+      "cz": "Zasejte <ActivityItem>Nezapomenutelné semínko</ActivityItem>, o které se s vámi WALL·E podělil.",
+      "source": "pre_existing",
+      "original_cz": "Zasejte <ActivityItem>Nezapomenutelné semínko</ActivityItem>, o které se s vámi WALL·E podělil."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_040_Mira_Group08_Step12_Possess02_StepDescription",
+      "en": "Harvest WALL·E's special <ActivityItem>Friendship Plant</ActivityItem> when it's ready.",
+      "cz": "Sklidi WALL·Eho speciální <ActivityItem>Rostlinu přátelství</ActivityItem>, až bude hotová.",
+      "source": "pre_existing",
+      "original_cz": "Sklidi WALL·Eho speciální <ActivityItem>Rostlinu přátelství</ActivityItem>, až bude hotová."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_040_Mira_Group09_Step09_BringItem01_StepDescription",
+      "en": "<ActivityItem>Andy's Marker</ActivityItem>.",
+      "cz": "<ActivityItem>Andyho fix</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Andyho fix</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_040_Mira_Group09_Step09_BringItem02_StepDescription",
+      "en": "<ActivityItem>Moana's Shell</ActivityItem>.",
+      "cz": "<ActivityItem>Vaianina skořápka</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Vaianina skořápka</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_040_Mira_Group09_Step09_BringItem03_StepDescription",
+      "en": "<ActivityItem>Friendship Plant</ActivityItem>.",
+      "cz": "<ActivityItem>Rostlina přátelství</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Rostlina přátelství</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_040_Mira_Group09_Step09_ReadyDescription",
+      "en": "Bring all the <ActivityItem>Friendship Tokens</ActivityItem> to Mirabel.",
+      "cz": "Přineste všechny <ActivityItem>Žetony přátelství</ActivityItem> Mirabel.",
+      "source": "pre_existing",
+      "original_cz": "Přineste všechny <ActivityItem>Žetony přátelství</ActivityItem> Mirabel."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_040_Mira_Group09_Step09_StepDescription",
+      "en": "Gather all the <ActivityItem>Friendship Tokens</ActivityItem> for Mirabel.",
+      "cz": "Sesbírejte všechny <ActivityItem>žetony přátelství</ActivityItem> pro Mirabel.",
+      "source": "pre_existing",
+      "original_cz": "Sesbírejte všechny <ActivityItem>žetony přátelství</ActivityItem> pro Mirabel."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_040_Mira_Group09_StoryDescription",
+      "en": "Now you've collected all three special Memory Tokens from the Villagers: Moana's Shell, a symbol of her bond with the ocean; Andy's Marker, used to sign Woody's boot for the first time; and a one-of-a-kind Friendship Plant from WALL·E.",
+      "cz": "Nyní jste od vesničanů shromáždili všechny tři speciální žetony paměti: Vaianinu mušli, symbol jejího pouta s oceánem; Andyho fixu, kterou poprvé podepsal Woodyho botu; a jedinečnou rostlinu přátelství z WALL·E.",
+      "source": "pre_existing",
+      "original_cz": "Nyní jste od vesničanů shromáždili všechny tři speciální žetony paměti: Vaianinu mušli, symbol jejího pouta s oceánem; Andyho fixu, kterou poprvé podepsal Woodyho botu; a jedinečnou rostlinu přátelství z WALL·E."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_040_Mira_Group10_Step10_Decorate01_StepDescription",
+      "en": "Place the <ActivityItem>Mosaic of Friendship</ActivityItem> in the heart of the Valley.",
+      "cz": "Umístěte <ActivityItem>Mozaiku přátelství</ActivityItem> do srdce údolí.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte <ActivityItem>Mozaiku přátelství</ActivityItem> do srdce údolí."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_040_Mira_Group10_StoryDescription",
+      "en": "With the Mosaic of Friendship complete and glowing, Mirabel asks you to pick the perfect spot where everyone can admire the result.",
+      "cz": "S Mozaikou přátelství hotovou a zářící vás Mirabel požádá, abyste si vybrali perfektní místo, kde všichni mohou výsledek obdivovat.",
+      "source": "pre_existing",
+      "original_cz": "S Mozaikou přátelství hotovou a zářící vás Mirabel požádá, abyste si vybrali perfektní místo, kde všichni mohou výsledek obdivovat."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_040_Mira_Group11_Step11_Party01_StepDescription",
+      "en": "Celebrate <ActivityItem>the finished Mosaic of Friendship</ActivityItem> with all the Villagers.",
+      "cz": "Oslavte <ActivityItem>dokončenou Mozaiku přátelství</ActivityItem> se všemi vesničany.",
+      "source": "pre_existing",
+      "original_cz": "Oslavte <ActivityItem>dokončenou Mozaiku přátelství</ActivityItem> se všemi vesničany."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_040_Mira_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol"
+    }
+  ],
+  "BeautyBeastBundle_Beast/PRM_Beas_050_Dais.locbin": [
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_050_Dais_AvailableDescription",
+      "en": "Daisy is looking for the perfect inspiration to break through her creative block. Something important is missing...",
+      "cz": "Daisy hledá perfektní inspiraci, jak prolomit svůj tvůrčí blok. Něco důležitého jí chybí...",
+      "source": "pre_existing",
+      "original_cz": "Daisy hledá perfektní inspiraci, jak prolomit svůj tvůrčí blok. Něco důležitého jí chybí..."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_050_Dais_CompletedStoryDescription",
+      "en": "The Memory Perfume is ready now. Thanks to you, Daisy feels inspired and happy with a few fragrant spritzes. Fashion and memories will always go hand in hand.",
+      "cz": "Parfém Vzpomínka je připraven. Díky vám se Daisy cítí inspirovaná a šťastná s pár voňavými stříknutími. Móda a vzpomínky půjdou vždy ruku v ruce.",
+      "source": "pre_existing",
+      "original_cz": "Parfém Vzpomínka je připraven. Díky vám se Daisy cítí inspirovaná a šťastná s pár voňavými stříknutími. Móda a vzpomínky půjdou vždy ruku v ruce."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_050_Dais_DisplayName",
+      "en": "Once Upon a Dance: Essence of Moments",
+      "cz": "Kdysi dávno tanec: Esence okamžiků",
+      "source": "pre_existing",
+      "original_cz": "Kdysi dávno tanec: Esence okamžiků"
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_050_Dais_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "Ask {TargetNPC} about her most memorable outfit.",
+      "cz": "Zeptejte se {TargetNPC} na její nejpamátnější outfit.",
+      "source": "pre_existing",
+      "original_cz": "Zeptejte se {TargetNPC} na její nejpamátnější outfit."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_050_Dais_Group01_StoryDescription",
+      "en": "Daisy is inspired by Belle and the Beast's elegance at the ball but struggles with a creative block. She asks you to talk to Belle to learn the secret behind her most memorable outfit.",
+      "cz": "Daisy se inspiruje elegancí Belle a zvířete na plese, ale bojuje s tvůrčím blokem. Požádá vás, abyste si s Belle promluvili a zjistili tajemství jejího nejpamátnějšího outfitu.",
+      "source": "pre_existing",
+      "original_cz": "Daisy se inspiruje elegancí Belle a zvířete na plese, ale bojuje s tvůrčím blokem. Požádá vás, abyste si s Belle promluvili a zjistili tajemství jejího nejpamátnějšího outfitu."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_050_Dais_Group02_Step02_TalkToCharacter02_StepDescription",
+      "en": "Talk to {TargetNPC} about his favorite memory of Daisy.",
+      "cz": "Promluv si s {TargetNPC} o jeho nejoblíbenější vzpomínce na Daisy.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s {TargetNPC} o jeho nejoblíbenější vzpomínce na Daisy."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_050_Dais_Group02_Step02_TalkToCharacter03_StepDescription",
+      "en": "Ask {TargetNPC} to share her most special memory of Daisy.",
+      "cz": "Požádejte {TargetNPC}, aby se podělila o svou nejvzácnější vzpomínku na Daisy.",
+      "source": "pre_existing",
+      "original_cz": "Požádejte {TargetNPC}, aby se podělila o svou nejvzácnější vzpomínku na Daisy."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_050_Dais_Group03_Step03_Possess01_StepDescription",
+      "en": "<ActivityItem>Cherry</ActivityItem>.",
+      "cz": "<ActivityItem>Třešeň</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Třešeň</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_050_Dais_Group03_Step03_Possess02_StepDescription",
+      "en": "<ActivityItem>White Daisy</ActivityItem>.",
+      "cz": "<ActivityItem>Bílá sedmikráska</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Bílá sedmikráska</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_050_Dais_Group03_Step03_Possess03_StepDescription",
+      "en": "<ActivityItem>Pink Hydrangea</ActivityItem>.",
+      "cz": "<ActivityItem>Růžová hortenzie</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Růžová hortenzie</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_050_Dais_Group03_Step03_Possess04_StepDescription",
+      "en": "<ActivityItem>Glass</ActivityItem>.",
+      "cz": "<ActivityItem>Sklo</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Sklo</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_050_Dais_Group03_StepDescription",
+      "en": "Gather Ingredients for the <ActivityItem>Memory Perfume</ActivityItem>:",
+      "cz": "Připravte si ingredience na <ActivityItem>Pamětní parfém</ActivityItem>:",
+      "source": "pre_existing",
+      "original_cz": "Připravte si ingredience na <ActivityItem>Pamětní parfém</ActivityItem>:"
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_050_Dais_Group03_StoryDescription",
+      "en": "You talk with Daisy's close ones while gathering Ingredients for the Memory Perfume. Donald suggests collecting White Daisies, and Minnie shares a story about Cherries.",
+      "cz": "Mluvíte s Daisyinými blízkými a sbíráte ingredience na Vzpomínkový parfém. Donald navrhne sbírat bílé sedmikrásky a Minnie se s vámi podělí o příběh o třešních.",
+      "source": "pre_existing",
+      "original_cz": "Mluvíte s Daisyinými blízkými a sbíráte ingredience na Vzpomínkový parfém. Donald navrhne sbírat bílé sedmikrásky a Minnie se s vámi podělí o příběh o třešních."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_050_Dais_Group04_Step04_CraftItem01_StepDescription",
+      "en": "Craft the <ActivityItem>Memory Perfume</ActivityItem> at a Crafting Station.",
+      "cz": "Vyrobte si <ActivityItem>Paměťový parfém</ActivityItem> na řemeslné stanici.",
+      "source": "pre_existing",
+      "original_cz": "Vyrobte si <ActivityItem>Paměťový parfém</ActivityItem> na řemeslné stanici."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_050_Dais_Group05_Step05_StepDescription",
+      "en": "Bring the <ActivityItem>Memory Perfume</ActivityItem> to Daisy and see her reaction.",
+      "cz": "Přines Daisy <ActivityItem>Pamětní parfém</ActivityItem> a sleduj její reakci.",
+      "source": "pre_existing",
+      "original_cz": "Přines Daisy <ActivityItem>Pamětní parfém</ActivityItem> a sleduj její reakci."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_050_Dais_Group06_Step06_TalkToCharacter04_StepDescription",
+      "en": "Share with {TargetNPC} how you and Daisy beat the creative block.",
+      "cz": "Podělte se s {TargetNPC} o to, jak jste s Daisy překonali tvůrčí blok.",
+      "source": "pre_existing",
+      "original_cz": "Podělte se s {TargetNPC} o to, jak jste s Daisy překonali tvůrčí blok."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_050_Dais_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol"
+    }
+  ],
+  "BeautyBeastBundle_Beast/PRM_Beas_060_Kris.locbin": [
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_060_Kris_Any_CompletedRequestDescription",
+      "en": "See how <ActivityItem>Kristoff</ActivityItem> is feeling after the walk.",
+      "cz": "Podívejte se, jak se <ActivityItem>Kristoff</ActivityItem> cítí po procházce.",
+      "source": "pre_existing",
+      "original_cz": "Podívejte se, jak se <ActivityItem>Kristoff</ActivityItem> cítí po procházce."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_060_Kris_AvailableDescription",
+      "en": "Kristoff looks a bit down today. Maybe there's something on his mind...",
+      "cz": "Kristoff dnes vypadá trochu sklesle. Možná má něco na srdci...",
+      "source": "pre_existing",
+      "original_cz": "Kristoff dnes vypadá trochu sklesle. Možná má něco na srdci..."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_060_Kris_CompletedStoryDescription",
+      "en": "Thanks to you, the critters in the Valley are even happier, and Kristoff enjoyed some peaceful time in nature.",
+      "cz": "Díky vám jsou zvířátka v údolí ještě šťastnější a Kristoff si užil klidný čas v přírodě.",
+      "source": "pre_existing",
+      "original_cz": "Díky vám jsou zvířátka v údolí ještě šťastnější a Kristoff si užil klidný čas v přírodě."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_060_Kris_DisplayName",
+      "en": "Once Upon a Dance: Soft Steps, Strong Ties",
+      "cz": "Bylo nebylo tancovat: Jemné kroky, silné vazby",
+      "source": "pre_existing",
+      "original_cz": "Bylo nebylo tancovat: Jemné kroky, silné vazby"
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_060_Kris_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "Talk to {TargetNPC} about his connection with nature in the Village.",
+      "cz": "Promluvte si s {TargetNPC} o jeho vztahu k přírodě ve vesnici.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC} o jeho vztahu k přírodě ve vesnici."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_060_Kris_Group01_StoryDescription",
+      "en": "Kristoff has been quieter than usual lately. With your help, he hopes a calm walk and some company will lift his spirits.",
+      "cz": "Kristoff je v poslední době tišší než obvykle. S vaší pomocí doufá, že mu klidná procházka a trochu společnosti zlepší náladu.",
+      "source": "pre_existing",
+      "original_cz": "Kristoff je v poslední době tišší než obvykle. S vaší pomocí doufá, že mu klidná procházka a trochu společnosti zlepší náladu."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_060_Kris_Group02_Step02_Possess01_StepDescription",
+      "en": "<ActivityItem>Blueberry</ActivityItem>.",
+      "cz": "<ActivityItem>Borůvka</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Borůvka</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_060_Kris_Group02_Step02_Possess02_StepDescription",
+      "en": "<ActivityItem>Carrot</ActivityItem>.",
+      "cz": "<ActivityItem>Mrkev</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Mrkev</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_060_Kris_Group02_Step02_Possess03_StepDescription",
+      "en": "<ActivityItem>Peanut</ActivityItem>.",
+      "cz": "<ActivityItem>Arašíd</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Arašíd</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_060_Kris_Group02_StepDescription",
+      "en": "Gather the <ActivityItem>critters' favorite treats</ActivityItem> to feed them:",
+      "cz": "Nasbírejte <ActivityItem>oblíbené pamlsky zvířátek</ActivityItem> a nakrmte je:",
+      "source": "pre_existing",
+      "original_cz": "Nasbírejte <ActivityItem>oblíbené pamlsky zvířátek</ActivityItem> a nakrmte je:"
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_060_Kris_Group03_Step03_FeedCritter01_StepDescription",
+      "en": "Raccoon.",
+      "cz": "Mýval.",
+      "source": "pre_existing",
+      "original_cz": "Mýval."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_060_Kris_Group03_Step03_FeedCritter02_StepDescription",
+      "en": "Rabbit.",
+      "cz": "Králičí.",
+      "source": "pre_existing",
+      "original_cz": "Králičí."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_060_Kris_Group03_Step03_FeedCritter03_StepDescription",
+      "en": "Squirrel.",
+      "cz": "Veverka.",
+      "source": "pre_existing",
+      "original_cz": "Veverka."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_060_Kris_Group03_Step03_StepDescription",
+      "en": "Join <ActivityItem>Kristoff</ActivityItem> while feeding critters.",
+      "cz": "Přidejte se ke <ActivityItem>Kristoffovi</ActivityItem> při krmení zvířátek.",
+      "source": "pre_existing",
+      "original_cz": "Přidejte se ke <ActivityItem>Kristoffovi</ActivityItem> při krmení zvířátek."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_060_Kris_Group03_StoryDescription",
+      "en": "Once all the treats are gathered, you can join Kristoff on a peaceful stroll to feed the critters in the Valley. The Beast might even join you.",
+      "cz": "Jakmile nasbíráte všechny pamlsky, můžete se připojit k Kristoffovi na klidné procházce a nakrmit zvířátka v Údolí. Možná se k vám přidá i Bestie.",
+      "source": "pre_existing",
+      "original_cz": "Jakmile nasbíráte všechny pamlsky, můžete se připojit k Kristoffovi na klidné procházce a nakrmit zvířátka v Údolí. Možná se k vám přidá i Bestie."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_060_Kris_Group04_Step04_Listen01_StepDescription",
+      "en": "Listen to <ActivityItem>Kristoff and the Beast</ActivityItem> share a moment of understanding and peace.",
+      "cz": "Poslechněte si <ActivityItem>Kristoffa a zvíře</ActivityItem>, jak sdílejí okamžik porozumění a míru.",
+      "source": "pre_existing",
+      "original_cz": "Poslechněte si <ActivityItem>Kristoffa a zvíře</ActivityItem>, jak sdílejí okamžik porozumění a míru."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_060_Kris_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol"
+    }
+  ],
+  "BeautyBeastBundle_Beast/PRM_Beas_070_Jack.locbin": [
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_070_Jack_Any_CompletedRequestDescription",
+      "en": "Talk to <ActivityItem>Jack Skellington</ActivityItem> to get his opinion.",
+      "cz": "Promluvte si s <ActivityItem>Jackem Skellingtonem</ActivityItem> a získejte jeho názor.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s <ActivityItem>Jackem Skellingtonem</ActivityItem> a získejte jeho názor."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_070_Jack_AvailableDescription",
+      "en": "Jack looks like he's brewing up something... special. Check what he's planning.",
+      "cz": "Vypadá to, že Jack chystá něco... speciálního. Zkontroluj, co plánuje.",
+      "source": "pre_existing",
+      "original_cz": "Vypadá to, že Jack chystá něco... speciálního. Zkontroluj, co plánuje."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_070_Jack_CompletedStoryDescription",
+      "en": "Jack Skellington is thrilled with your frightening photos. With your help, his spooktacular design is a success!",
+      "cz": "Jack Skellington je nadšený z vašich děsivých fotografií. S vaší pomocí se jeho strašidelný design povedl!",
+      "source": "pre_existing",
+      "original_cz": "Jack Skellington je nadšený z vašich děsivých fotografií. S vaší pomocí se jeho strašidelný design povedl!"
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_070_Jack_DisplayName",
+      "en": "Once Upon a Dance: Frightfully Formal",
+      "cz": "Bylo nebylo tancovat: Děsivě formální",
+      "source": "pre_existing",
+      "original_cz": "Bylo nebylo tancovat: Děsivě formální"
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_070_Jack_Group01_Step01_Possess01_StepDescription",
+      "en": "<ActivityItem>Blue Falling Penstemon</ActivityItem>.",
+      "cz": "<ActivityItem>Modrý padající penstemon</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Modrý padající penstemon</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_070_Jack_Group01_Step01_Possess02_StepDescription",
+      "en": "<ActivityItem>Red Rose</ActivityItem>.",
+      "cz": "<ActivityItem>Rudá růže</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Rudá růže</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_070_Jack_Group01_Step01_Possess03_StepDescription",
+      "en": "<ActivityItem>Hardwood</ActivityItem>.",
+      "cz": "<ActivityItem>Tvrdé dřevo</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Tvrdé dřevo</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_070_Jack_Group01_Step01_Possess04_StepDescription",
+      "en": "<ActivityItem>Cotton</ActivityItem>.",
+      "cz": "<ActivityItem>Bavlna</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Bavlna</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_070_Jack_Group01_Step01_StepDescription",
+      "en": "Gather the following materials for <ActivityItem>Jack Skellington's</ActivityItem> project:",
+      "cz": "Připravte si následující materiály pro projekt <ActivityItem>Jacka Skellingtona</ActivityItem>:",
+      "source": "pre_existing",
+      "original_cz": "Připravte si následující materiály pro projekt <ActivityItem>Jacka Skellingtona</ActivityItem>:"
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_070_Jack_Group01_StoryDescription",
+      "en": "After witnessing the Beast's hauntingly elegant presence at the ball, Jack Skellington was struck with inspiration. He's determined to create a frightfully formal accessory and needs your help to bring his dramatic vision to life.",
+      "cz": "Poté, co Jack Skellington na plese spatřil úžasně elegantní přítomnost Bestie, ho zasáhla inspirace. Je odhodlán vytvořit děsivě formální doplněk a potřebuje vaši pomoc, aby svou dramatickou vizi vdechl život.",
+      "source": "pre_existing",
+      "original_cz": "Poté, co Jack Skellington na plese spatřil úžasně elegantní přítomnost Bestie, ho zasáhla inspirace. Je odhodlán vytvořit děsivě formální doplněk a potřebuje vaši pomoc, aby svou dramatickou vizi vdechl život."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_070_Jack_Group02_Step02_BringItem01_StepDescription",
+      "en": "<ActivityItem>Blue Falling Penstemon</ActivityItem>.",
+      "cz": "<ActivityItem>Modrý padající penstemon</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Modrý padající penstemon</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_070_Jack_Group02_Step02_BringItem02_StepDescription",
+      "en": "<ActivityItem>Red Rose</ActivityItem>.",
+      "cz": "<ActivityItem>Rudá růže</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Rudá růže</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_070_Jack_Group02_Step02_BringItem03_StepDescription",
+      "en": "<ActivityItem>Hardwood</ActivityItem>.",
+      "cz": "<ActivityItem>Tvrdé dřevo</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Tvrdé dřevo</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_070_Jack_Group02_Step02_BringItem04_StepDescription",
+      "en": "<ActivityItem>Cotton</ActivityItem>.",
+      "cz": "<ActivityItem>Bavlna</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Bavlna</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_070_Jack_Group02_Step02_ReadyDescription",
+      "en": "Bring the gathered materials to <ActivityItem>Jack Skellington</ActivityItem>.",
+      "cz": "Přineste shromážděné materiály <ActivityItem>Jacku Skellingtonovi</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Přineste shromážděné materiály <ActivityItem>Jacku Skellingtonovi</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_070_Jack_Group02_Step02_StepDescription",
+      "en": "Make sure you have all the materials in your Inventory:",
+      "cz": "Ujistěte se, že máte v inventáři všechny materiály:",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte v inventáři všechny materiály:"
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_070_Jack_Group03_Step03_DressUp01_StepDescription",
+      "en": "Put on the <ActivityItem>Curly Ribboned Mane</ActivityItem>.",
+      "cz": "Nasaďte si <ActivityItem>Kudrnatou stužkovou hřívu</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Nasaďte si <ActivityItem>Kudrnatou stužkovou hřívu</ActivityItem>."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_070_Jack_Group04_Step04_TakePicture01_StepDescription",
+      "en": "Scar.",
+      "cz": "Jizva.",
+      "source": "pre_existing",
+      "original_cz": "Jizva."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_070_Jack_Group04_Step04_TakePicture02_StepDescription",
+      "en": "Ursula.",
+      "cz": "Uršula.",
+      "source": "pre_existing",
+      "original_cz": "Uršula."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_070_Jack_Group04_Step04_TakePicture03_StepDescription",
+      "en": "Mother Gothel.",
+      "cz": "Matka Gothel.",
+      "source": "pre_existing",
+      "original_cz": "Matka Gothel."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_070_Jack_Group04_StepDescription",
+      "en": "Take 3 dramatic photos wearing the <ActivityItem>Curly Ribboned Mane</ActivityItem> with these Villagers:",
+      "cz": "Pořiďte 3 dramatické fotografie s těmito vesničany v <ActivityItem>Kudrnatá hříva se stužkami</ActivityItem>:",
+      "source": "pre_existing",
+      "original_cz": "Pořiďte 3 dramatické fotografie s těmito vesničany v <ActivityItem>Kudrnatá hříva se stužkami</ActivityItem>:"
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_070_Jack_Group04_StoryDescription",
+      "en": "Now that the Curly Ribboned Mane is finished, it's time to take some dramatically frightful photos so Jack Skellington can see his creation in all its glory.",
+      "cz": "Teď, když je Kudrnatá stužková hříva hotová, je čas pořídit pár dramaticky děsivých fotografií, aby Jack Skellington mohl vidět svůj výtvor v celé jeho kráse.",
+      "source": "pre_existing",
+      "original_cz": "Teď, když je Kudrnatá stužková hříva hotová, je čas pořídit pár dramaticky děsivých fotografií, aby Jack Skellington mohl vidět svůj výtvor v celé jeho kráse."
+    },
+    {
+      "key": "Premium!BeautyBeast!Beast!PRM_Beas_070_Jack_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol"
+    }
+  ]
+}

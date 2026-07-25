@@ -1,0 +1,112 @@
+{
+  "MiniEvent21_Anna/Anna_CrossNPCDialogues_Anna_Kristoff_RPT_Anna_Valentines_010.locbin": [
+    {
+      "key": "Anna_000_f",
+      "en": "Whoa, Anna, it's so accurate! You even added little wooden blocks of ice!",
+      "cz": "Páni, Anno, to je tak přesné! Dokonce jsi přidala i malé dřevěné kostky ledu!",
+      "source": "pre_existing",
+      "original_cz": "Páni, Anno, to je tak přesné! Dokonce jsi přidala i malé dřevěné kostky ledu!"
+    },
+    {
+      "key": "Anna_001_f",
+      "en": "So you like it?",
+      "cz": "Takže se ti to líbí?",
+      "source": "pre_existing",
+      "original_cz": "Takže se ti to líbí?"
+    },
+    {
+      "key": "Anna_002_f",
+      "en": "I love it.",
+      "cz": "Miluju to.",
+      "source": "pre_existing",
+      "original_cz": "Miluju to."
+    }
+  ],
+  "MiniEvent21_Anna/Anna_RPT_Anna_Valentines_010_RPT_Anna_Valentines_010_BringItem01.locbin": [
+    {
+      "key": "Anna_000_f",
+      "en": "This is perfect, {PlayerName}. Thanks!",
+      "cz": "To je perfektní, {PlayerName}. Díky!",
+      "source": "pre_existing",
+      "original_cz": "To je perfektní, {PlayerName}. Díky!"
+    },
+    {
+      "key": "Anna_001_f",
+      "en": "I'm gonna use this to make Kristoff a miniature version of his sled, including a tiny little Sven!",
+      "cz": "Z tohohle udělám z Kristoffa miniaturní verzi jeho saní, včetně maličkého Svena!",
+      "source": "pre_existing",
+      "original_cz": "Z tohohle udělám z Kristoffa miniaturní verzi jeho saní, včetně maličkého Svena!"
+    }
+  ],
+  "MiniEvent21_Anna/Anna_RPT_Anna_Valentines_010_RPT_Anna_Valentines_010_Intro.locbin": [
+    {
+      "key": "Anna_000_f",
+      "en": "{PlayerName}, can I get your help with something? I have a great idea for a gift for Kristoff, but I don't have quite enough time to do it all myself.",
+      "cz": "{PlayerName}, mohl/a bych s něčím požádat o pomoc? Mám skvělý nápad na dárek pro Kristoffa, ale nemám dost času, abych to všechno udělal/a sám/sama.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, mohl/a bych s něčím požádat o pomoc? Mám skvělý nápad na dárek pro Kristoffa, ale nemám dost času, abych to všechno udělal/a sám/sama."
+    },
+    {
+      "key": "Anna_003_f",
+      "en": "Could you gather me some different types of wood?",
+      "cz": "Mohl byste mi sehnat nějaké různé druhy dřeva?",
+      "source": "pre_existing",
+      "original_cz": "Mohl byste mi sehnat nějaké různé druhy dřeva?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Of course!",
+      "cz": "Samozřejmě!",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Let's talk again soon.",
+      "cz": "Brzy si zase promluvíme.",
+      "source": "pre_existing",
+      "original_cz": "Brzy si zase promluvíme."
+    },
+    {
+      "key": "Anna_002_f",
+      "en": "Thank you!",
+      "cz": "Děkuju!",
+      "source": "pre_existing",
+      "original_cz": "Děkuju!"
+    },
+    {
+      "key": "Anna_001_f",
+      "en": "I understand. Well, if you change your mind, I'd love some help!",
+      "cz": "Chápu. No, pokud si to rozmyslíš, rád ti pomůžu!",
+      "source": "pre_existing",
+      "original_cz": "Chápu. No, pokud si to rozmyslíš, rád ti pomůžu!"
+    }
+  ],
+  "MiniEvent21_Anna/Anna_RPT_Anna_Valentines_010_RPT_Anna_Valentines_010_Ongoing01.locbin": [
+    {
+      "key": "Anna_000_f",
+      "en": "Could you bring me some <ActivityItem>Hardwood</ActivityItem>, <ActivityItem>Softwood</ActivityItem>, and <ActivityItem>Dry Wood</ActivityItem>, please? I need to find paints for my gift for Kristoff.",
+      "cz": "Mohl byste mi prosím přinést nějaké <ActivityItem>tvrdé dřevo</ActivityItem>, <ActivityItem>měkké dřevo</ActivityItem> a <ActivityItem>suché dřevo</ActivityItem>? Potřebuji najít barvy na dárek pro Kristoffa.",
+      "source": "pre_existing",
+      "original_cz": "Mohl byste mi prosím přinést nějaké <ActivityItem>tvrdé dřevo</ActivityItem>, <ActivityItem>měkké dřevo</ActivityItem> a <ActivityItem>suché dřevo</ActivityItem>? Potřebuji najít barvy na dárek pro Kristoffa."
+    }
+  ],
+  "MiniEvent21_Anna/Anna_RPT_Anna_Valentines_010_RPT_Anna_Valentines_010_Ongoing02.locbin": [
+    {
+      "key": "Anna_000_f",
+      "en": "I'm going to give Kristoff his surprise!",
+      "cz": "Dám Kristoffovi jeho překvapení!",
+      "source": "pre_existing",
+      "original_cz": "Dám Kristoffovi jeho překvapení!"
+    }
+  ],
+  "MiniEvent21_Anna/Anna_RPT_Anna_Valentines_010_RPT_Anna_Valentines_010_Outro.locbin": [
+    {
+      "key": "Anna_000_f",
+      "en": "Kristoff loved my gift! Maybe I'll make him a tiny troll village next? Ooh! Before I forget — here! Thank you SO MUCH for your help, {PlayerName}!",
+      "cz": "Kristoffovi se můj dárek moc líbil! Možná mu příště udělám malou trolí vesnici? Jé! Než zapomenu – tady to je! Moc děkuji za pomoc, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Kristoffovi se můj dárek moc líbil! Možná mu příště udělám malou trolí vesnici? Jé! Než zapomenu – tady to je! Moc děkuji za pomoc, {PlayerName}!"
+    }
+  ]
+}

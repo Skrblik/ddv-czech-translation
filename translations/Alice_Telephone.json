@@ -1,0 +1,216 @@
+{
+  "Alice_Telephone/Telephone_Greetings_Telephone_Greetings00.locbin": [
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "What a weird bird...",
+      "cz": "To je ale zvláštní pták...",
+      "source": "pre_existing",
+      "original_cz": "To je ale zvláštní pták..."
+    }
+  ],
+  "Alice_Telephone/Telephone_Greetings_Telephone_Greetings01.locbin": [
+    {
+      "key": "Player_006_exit_000_f",
+      "en": "What a weird bird...",
+      "cz": "To je ale zvláštní pták...",
+      "source": "pre_existing",
+      "original_cz": "To je ale zvláštní pták..."
+    },
+    {
+      "key": "Telephone_000_f",
+      "en": "<i>The pencil bird blinks up at you curiously and taps its beak on a piece of paper in front of it.</i>",
+      "cz": "<i>Pták tužkový na vás zvědavě mrkne a poklepe zobákem o kus papíru před sebou.</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Pták tužkový na vás zvědavě mrkne a poklepe zobákem o kus papíru před sebou.</i>"
+    },
+    {
+      "key": "Telephone_001_f",
+      "en": "<i>In scratchy writing, you see a question: <Lore>\"How many light pink stripes does the Cheshire Cat have on its tail?\"</Lore></i>",
+      "cz": "<i>Škrábaným písmem vidíte otázku: <Lore>„Kolik světle růžových pruhů má kočka Cheshire na ocasu?“</Lore></i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Škrábaným písmem vidíte otázku: <Lore>„Kolik světle růžových pruhů má kočka Cheshire na ocasu?“</Lore></i>"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "1.",
+      "cz": "1.",
+      "source": "pre_existing",
+      "original_cz": "1."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "6.",
+      "cz": "6.",
+      "source": "pre_existing",
+      "original_cz": "6."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "2.",
+      "cz": "2.",
+      "source": "pre_existing",
+      "original_cz": "2."
+    },
+    {
+      "key": "Player_001_choice_003_f",
+      "en": "*back away*",
+      "cz": "*couvnout*",
+      "source": "pre_existing",
+      "original_cz": "*couvnout*"
+    },
+    {
+      "key": "Telephone_002_f",
+      "en": "<i>The bird excitedly tippy taps its feet and turns the page. <Lore>\"What animal did you chase to get here?\"</Lore></i>",
+      "cz": "<i>Pták vzrušeně poklepává nožičkami a obrací stránku. <Lore>„Jaké zvíře jsi pronásledoval, abys se sem dostal?“</Lore></i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Pták vzrušeně poklepává nožičkami a obrací stránku. <Lore>„Jaké zvíře jsi pronásledoval, abys se sem dostal?“</Lore></i>"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "A penguin.",
+      "cz": "Tučňák.",
+      "source": "pre_existing",
+      "original_cz": "Tučňák."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "A walrus.",
+      "cz": "Mrož.",
+      "source": "pre_existing",
+      "original_cz": "Mrož."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "A white rabbit.",
+      "cz": "Bílý králík.",
+      "source": "pre_existing",
+      "original_cz": "Bílý králík."
+    },
+    {
+      "key": "Player_002_choice_003_f",
+      "en": "*back away*",
+      "cz": "*couvnout*",
+      "source": "pre_existing",
+      "original_cz": "*couvnout*"
+    },
+    {
+      "key": "Telephone_003_f",
+      "en": "<i>The pencil bird shivers with happiness and uses its beak to push the previous page aside. <Lore>\"What did the Mad Hatter and March Hare celebrate at Alice's first tea party in Wonderland?\"</Lore></i>",
+      "cz": "<i>Ptáček tužky se třese štěstím a zobákem odstrkuje předchozí stránku. <Lore>„Co oslavovali Šílený kloboučník a Březňák na Alenčině prvním čajovém dýchánku v říši divů?“</Lore></i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Ptáček tužky se třese štěstím a zobákem odstrkuje předchozí stránku. <Lore>„Co oslavovali Šílený kloboučník a Březňák na Alenčině prvním čajovém dýchánku v říši divů?“</Lore></i>"
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "Opposite day.",
+      "cz": "Opačný den.",
+      "source": "pre_existing",
+      "original_cz": "Opačný den."
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "The hare defeating a tortoise in a race.",
+      "cz": "Zajíc poráží želvu v závodě.",
+      "source": "pre_existing",
+      "original_cz": "Zajíc poráží želvu v závodě."
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "An unbirthday.",
+      "cz": "Nenarozeniny.",
+      "source": "pre_existing",
+      "original_cz": "Nenarozeniny."
+    },
+    {
+      "key": "Player_003_choice_003_f",
+      "en": "*back away*",
+      "cz": "*couvnout*",
+      "source": "pre_existing",
+      "original_cz": "*couvnout*"
+    },
+    {
+      "key": "Telephone_004_f",
+      "en": "<i>The pencil bird flips to the next question: <Lore>How many playing-card guards did you meet in the Queen's Garden maze?</Lore></i>",
+      "cz": "<i>Tužkový ptáček se otočí k další otázce: <Lore>Kolik strážných s hracími kartami jsi potkal v bludišti Královniny zahrady?</Lore></i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Tužkový ptáček se otočí k další otázce: <Lore>Kolik strážných s hracími kartami jsi potkal v bludišti Královniny zahrady?</Lore></i>"
+    },
+    {
+      "key": "Player_004_choice_000_f",
+      "en": "17.",
+      "cz": "17.",
+      "source": "pre_existing",
+      "original_cz": "17."
+    },
+    {
+      "key": "Player_004_choice_001_f",
+      "en": "12.",
+      "cz": "12.",
+      "source": "pre_existing",
+      "original_cz": "12."
+    },
+    {
+      "key": "Player_004_choice_002_f",
+      "en": "20.",
+      "cz": "20.",
+      "source": "pre_existing",
+      "original_cz": "20."
+    },
+    {
+      "key": "Player_004_choice_003_f",
+      "en": "*back away*",
+      "cz": "*couvnout*",
+      "source": "pre_existing",
+      "original_cz": "*couvnout*"
+    },
+    {
+      "key": "Telephone_005_f",
+      "en": "<i>The pencil bird writes down one last question: <Lore>\"How many questions have I asked so far, including this one?\"</Lore></i>",
+      "cz": "<i>Pták tužky zapíše poslední otázku: <Lore>„Kolik otázek jsem už položil, včetně této?“</Lore></i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Pták tužky zapíše poslední otázku: <Lore>„Kolik otázek jsem už položil, včetně této?“</Lore></i>"
+    },
+    {
+      "key": "Player_005_choice_000_f",
+      "en": "5.",
+      "cz": "5.",
+      "source": "pre_existing",
+      "original_cz": "5."
+    },
+    {
+      "key": "Player_005_choice_001_f",
+      "en": "6.",
+      "cz": "6.",
+      "source": "pre_existing",
+      "original_cz": "6."
+    },
+    {
+      "key": "Player_005_choice_002_f",
+      "en": "7.",
+      "cz": "7.",
+      "source": "pre_existing",
+      "original_cz": "7."
+    },
+    {
+      "key": "Player_005_choice_003_f",
+      "en": "*back away*",
+      "cz": "*couvnout*",
+      "source": "pre_existing",
+      "original_cz": "*couvnout*"
+    },
+    {
+      "key": "Telephone_006_f",
+      "en": "<i>The pencil bird shakes with excitement, hopping up and down. You succeeded! It scampers off into a nearby shrub and returns with the final Ingredient you need.</i>",
+      "cz": "<i>Pták tužkový se třese vzrušením a poskakuje nahoru a dolů. Uspěli jste! Utíká do blízkého keře a vrací se s poslední ingrediencí, kterou potřebujete.</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Pták tužkový se třese vzrušením a poskakuje nahoru a dolů. Uspěli jste! Utíká do blízkého keře a vrací se s poslední ingrediencí, kterou potřebujete.</i>"
+    },
+    {
+      "key": "Telephone_007_f",
+      "en": "<i>The pencil bird looks up at you sadly and shakes its head. Somewhere, an answer or three have gone wrong.</i>",
+      "cz": "<i>Pták tužky se na tebe smutně podívá a zavrtí hlavou. Někde se jedna nebo tři odpovědi pokazily.</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Pták tužky se na tebe smutně podívá a zavrtí hlavou. Někde se jedna nebo tři odpovědi pokazily.</i>"
+    }
+  ]
+}

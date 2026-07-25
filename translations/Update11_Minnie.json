@@ -1,0 +1,188 @@
+{
+  "Update11_Minnie/Minnie_VLG_Mula_020_VLG_Mula_020_TalkTo05.locbin": [
+    {
+      "key": "Minnie_001_f",
+      "en": "Hello, {PlayerName}! Hmm... by the look on your face, I suspect you have a question for me.",
+      "cz": "Ahoj, {PlayerName}! Hmm... podle tvého výrazu v obličeji mám podezření, že na mě máš otázku.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}! Hmm... podle tvého výrazu v obličeji mám podezření, že na mě máš otázku."
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "I do. Mulan is putting together something called a shadow play to show the Village and...",
+      "cz": "Ano. Mulan připravuje něco, čemu se říká stínová hra, aby ukázala vesnici a...",
+      "source": "pre_existing",
+      "original_cz": "Ano. Mulan připravuje něco, čemu se říká stínová hra, aby ukázala vesnici a..."
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "Oh, I just love shadow plays!",
+      "cz": "Jé, já prostě miluju stínové divadlo!",
+      "source": "pre_existing",
+      "original_cz": "Jé, já prostě miluju stínové divadlo!"
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "You know about them?",
+      "cz": "Víš o nich?",
+      "source": "pre_existing",
+      "original_cz": "Víš o nich?"
+    },
+    {
+      "key": "Minnie_005_f",
+      "en": "Of course. I'm interested in all sorts of arts. And shadow plays are beautiful! Let me guess... Mulan would like some help with the <ActivityItem>Shadow Puppets</ActivityItem>?",
+      "cz": "Samozřejmě. Zajímá mě všechno možné umění. A stínové hry jsou krásné! Nechte mě hádat... Mulan by potřebovala pomoct s <ActivityItem>Stínovými loutkami</ActivityItem>?",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě. Zajímá mě všechno možné umění. A stínové hry jsou krásné! Nechte mě hádat... Mulan by potřebovala pomoct s <ActivityItem>Stínovými loutkami</ActivityItem>?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Yes, it'd help A LOT.",
+      "cz": "Ano, to by HODNĚ pomohlo.",
+      "source": "pre_existing",
+      "original_cz": "Ano, to by HODNĚ pomohlo."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Do you think you can make them?",
+      "cz": "Myslíš, že je dokážeš vyrobit?",
+      "source": "pre_existing",
+      "original_cz": "Myslíš, že je dokážeš vyrobit?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Were you spying on Mulan and me?",
+      "cz": "Špehoval jsi Mulan a mě?",
+      "source": "pre_existing",
+      "original_cz": "Špehoval jsi Mulan a mě?"
+    },
+    {
+      "key": "Minnie_006_f",
+      "en": "Well, I'd love to make them.",
+      "cz": "No, moc ráda bych je upekla.",
+      "source": "pre_existing",
+      "original_cz": "No, moc ráda bych je upekla."
+    },
+    {
+      "key": "Minnie_009_f",
+      "en": "She wants to regale us with the journey she and Mushu took back to their Realm during the Forgetting.",
+      "cz": "Chce nám ukázat cestu, kterou s Mushu podnikli zpět do své Říše během Zapomnění.",
+      "source": "pre_existing",
+      "original_cz": "Chce nám ukázat cestu, kterou s Mushu podnikli zpět do své Říše během Zapomnění."
+    },
+    {
+      "key": "Minnie_010_f",
+      "en": "Oh, that'll be fascinating!",
+      "cz": "To bude fascinující!",
+      "source": "pre_existing",
+      "original_cz": "To bude fascinující!"
+    },
+    {
+      "key": "Minnie_000_f",
+      "en": "I'll get started on the puppets right away and bring them to Mulan once I'm finished.",
+      "cz": "Hned se pustím do práce s loutkami a jakmile je dokončím, přinesu je Mulan.",
+      "source": "pre_existing",
+      "original_cz": "Hned se pustím do práce s loutkami a jakmile je dokončím, přinesu je Mulan."
+    },
+    {
+      "key": "Minnie_014_f",
+      "en": "Thanks, Minnie!",
+      "cz": "Díky, Minnie!",
+      "source": "pre_existing",
+      "original_cz": "Díky, Minnie!"
+    },
+    {
+      "key": "Minnie_007_f",
+      "en": "Absolutely. You just need to tell me what the story's about.",
+      "cz": "Rozhodně. Jen mi musíš říct, o čem ten příběh je.",
+      "source": "pre_existing",
+      "original_cz": "Rozhodně. Jen mi musíš říct, o čem ten příběh je."
+    },
+    {
+      "key": "Minnie_008_f",
+      "en": "No, I'd never do that. But Mulan has told me before that sewing and crafts aren't exactly her forte.",
+      "cz": "Ne, to bych nikdy neudělala. Ale Mulan mi už dříve říkala, že šití a tvoření nejsou zrovna její silná stránka.",
+      "source": "pre_existing",
+      "original_cz": "Ne, to bych nikdy neudělala. Ale Mulan mi už dříve říkala, že šití a tvoření nejsou zrovna její silná stránka."
+    }
+  ],
+  "Update11_Minnie/Minnie_VLG_Mush_020_VLG_Mush_020_TalkTo13.locbin": [
+    {
+      "key": "Minnie_001_f",
+      "en": "Oh, {PlayerName}! You're here for Mushu's mannequin order, I bet?",
+      "cz": "Aha, {PlayerName}! Vsadím se, že sis tu objednala figurínu od Mushua?",
+      "source": "pre_existing",
+      "original_cz": "Aha, {PlayerName}! Vsadím se, že sis tu objednala figurínu od Mushua?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Whatever it is, I'm here to collect it.",
+      "cz": "Ať je to cokoli, jsem tu, abych si to vyzvedl.",
+      "source": "pre_existing",
+      "original_cz": "Ať je to cokoli, jsem tu, abych si to vyzvedl."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Mushu ordered a mannequin?",
+      "cz": "Mushu si objednal figurínu?",
+      "source": "pre_existing",
+      "original_cz": "Mushu si objednal figurínu?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Mannequins are SO creepy.",
+      "cz": "Figuríny jsou TAK děsivé.",
+      "source": "pre_existing",
+      "original_cz": "Figuríny jsou TAK děsivé."
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "Fabulous! I'm sure you'll see that this is some of my finest work... Whatever it's for.",
+      "cz": "Skvělé! Jsem si jistá, že uvidíte, že tohle je jedna z mých nejlepších prací... Ať už je to k čemukoli.",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Jsem si jistá, že uvidíte, že tohle je jedna z mých nejlepších prací... Ať už je to k čemukoli."
+    },
+    {
+      "key": "Minnie_000_f",
+      "en": "Stitch gave me a drawing of the Beast's face... I think I know what Mushu is up to.",
+      "cz": "Stitch mi dal kresbu zvířecího obličeje... Myslím, že vím, co Mushu chystá.",
+      "source": "pre_existing",
+      "original_cz": "Stitch mi dal kresbu zvířecího obličeje... Myslím, že vím, co Mushu chystá."
+    },
+    {
+      "key": "Minnie_006_f",
+      "en": "Well, when you're done with whatever it is, will you come back and tell me? I've just got to know!",
+      "cz": "No, až s tím budeš hotová, ať už je to cokoli, vrátíš se a řekneš mi to? Prostě to musím vědět!",
+      "source": "pre_existing",
+      "original_cz": "No, až s tím budeš hotová, ať už je to cokoli, vrátíš se a řekneš mi to? Prostě to musím vědět!"
+    },
+    {
+      "key": "Minnie_008_f",
+      "en": "Here you go!",
+      "cz": "Tady to máte!",
+      "source": "pre_existing",
+      "original_cz": "Tady to máte!"
+    },
+    {
+      "key": "Minnie_007_f",
+      "en": "I need to pick up something from Stitch too... Maybe that will clear things up.",
+      "cz": "Taky si musím něco vyzvednout od Stitche... Možná to něco objasní.",
+      "source": "pre_existing",
+      "original_cz": "Taky si musím něco vyzvednout od Stitche... Možná to něco objasní."
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "I was confused too, believe me. I tried to get him to tell me what it was for, but he wouldn't budge!",
+      "cz": "Věřte mi, já jsem byla taky zmatená. Snažila jsem se ho přimět, aby mi řekl, k čemu to je, ale ani se nehnul!",
+      "source": "pre_existing",
+      "original_cz": "Věřte mi, já jsem byla taky zmatená. Snažila jsem se ho přimět, aby mi řekl, k čemu to je, ale ani se nehnul!"
+    },
+    {
+      "key": "Minnie_005_f",
+      "en": "Oh, they're not so bad — especially if you dress them up in something nice!",
+      "cz": "Ale nejsou tak hrozné – obzvlášť když je oblečete do něčeho hezkého!",
+      "source": "pre_existing",
+      "original_cz": "Ale nejsou tak hrozné – obzvlášť když je oblečete do něčeho hezkého!"
+    }
+  ]
+}

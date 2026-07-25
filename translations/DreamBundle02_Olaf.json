@@ -1,0 +1,193 @@
+{
+  "DreamBundle02_Olaf/Olaf_PRM_Ursu_080_PRM_Ursu_080_TalkTo01.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Oh, {PlayerName}! I'm SO glad to see you.",
+      "cz": "Ach, {PlayerName}! Jsem TAK rád, že tě vidím.",
+      "source": "pre_existing",
+      "original_cz": "Ach, {PlayerName}! Jsem TAK rád, že tě vidím."
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "I know you can help me with my problem.",
+      "cz": "Vím, že mi s mým problémem můžete pomoct.",
+      "source": "pre_existing",
+      "original_cz": "Vím, že mi s mým problémem můžete pomoct."
+    },
+    {
+      "key": "Olaf_002_f",
+      "en": "Ursula gave me an adorable <ActivityItem>Stuffed Animal</ActivityItem>. Ooo, it's so cute!",
+      "cz": "Ursula mi dala rozkošné <ActivityItem>plyšové zvířátko</ActivityItem>. Jé, je tak roztomilé!",
+      "source": "pre_existing",
+      "original_cz": "Ursula mi dala rozkošné <ActivityItem>plyšové zvířátko</ActivityItem>. Jé, je tak roztomilé!"
+    },
+    {
+      "key": "Olaf_003_f",
+      "en": "What did she ask for in exchange?",
+      "cz": "Co si na oplátku přála?",
+      "source": "pre_existing",
+      "original_cz": "Co si na oplátku přála?"
+    },
+    {
+      "key": "Olaf_004_f",
+      "en": "Exchange? Nothing. She just gave it to me! It was very nice of her.",
+      "cz": "Výměna? Nic. Prostě mi to dala! Bylo to od ní moc hezké.",
+      "source": "pre_existing",
+      "original_cz": "Výměna? Nic. Prostě mi to dala! Bylo to od ní moc hezké."
+    },
+    {
+      "key": "Olaf_005_f",
+      "en": "But it looked a little dirty. So I gave it a bath.",
+      "cz": "Ale vypadalo to trochu špinavě. Tak jsem to vykoupal.",
+      "source": "pre_existing",
+      "original_cz": "Ale vypadalo to trochu špinavě. Tak jsem to vykoupal."
+    },
+    {
+      "key": "Olaf_006_f",
+      "en": "Ever since then, it's been spewing strange black smoke. {PlayerName}, I think I broke it!",
+      "cz": "Od té doby z něj jde divný černý kouř. {PlayerName}, myslím, že jsem ho rozbil!",
+      "source": "pre_existing",
+      "original_cz": "Od té doby z něj jde divný černý kouř. {PlayerName}, myslím, že jsem ho rozbil!"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "I'm sorry to have to break it to you. But I think Ursula tried to use her magic on you for some nefarious purpose...",
+      "cz": "Je mi líto, že ti to musím prozradit. Ale myslím, že se Ursula pokusila na tebe použít svou magii k nějakému nekalému účelu...",
+      "source": "pre_existing",
+      "original_cz": "Je mi líto, že ti to musím prozradit. Ale myslím, že se Ursula pokusila na tebe použít svou magii k nějakému nekalému účelu..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Please don't be sad.",
+      "cz": "Prosím, nebuďte smutní.",
+      "source": "pre_existing",
+      "original_cz": "Prosím, nebuďte smutní."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "You're sure you didn't make a deal with her and forget?",
+      "cz": "Jsi si jistý, že jsi s ní neuzavřel dohodu a nezapomněl?",
+      "source": "pre_existing",
+      "original_cz": "Jsi si jistý, že jsi s ní neuzavřel dohodu a nezapomněl?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Let's plot your revenge.",
+      "cz": "Pojďme si naplánovat tvou pomstu.",
+      "source": "pre_existing",
+      "original_cz": "Pojďme si naplánovat tvou pomstu."
+    },
+    {
+      "key": "Olaf_007_f",
+      "en": "Oh... I think I am a little sad. But mostly for Ursula.",
+      "cz": "Ach... Myslím, že jsem trochu smutný. Ale hlavně kvůli Uršule.",
+      "source": "pre_existing",
+      "original_cz": "Ach... Myslím, že jsem trochu smutný. Ale hlavně kvůli Uršule."
+    },
+    {
+      "key": "Olaf_008_f",
+      "en": "She doesn't have to try to trick everyone. Maybe she doesn't know how to make friends.",
+      "cz": "Nemusí se snažit všechny oklamat. Možná neví, jak si najít přátele.",
+      "source": "pre_existing",
+      "original_cz": "Nemusí se snažit všechny oklamat. Možná neví, jak si najít přátele."
+    },
+    {
+      "key": "Olaf_009_f",
+      "en": "*gasp* I know! We can bring her a friend! Let's give her the <ActivityItem>Stuffed Animal</ActivityItem> back! After we fix it, of course.",
+      "cz": "*vzdech* Já vím! Můžeme jí přivést kamaráda! Vraťme jí to <ActivityItem>Plyšové zvířátko</ActivityItem>! Samozřejmě až ho opravíme.",
+      "source": "pre_existing",
+      "original_cz": "*vzdech* Já vím! Můžeme jí přivést kamaráda! Vraťme jí to <ActivityItem>Plyšové zvířátko</ActivityItem>! Samozřejmě až ho opravíme."
+    },
+    {
+      "key": "Olaf_010_f",
+      "en": "Hmm... I also want her to know that I'm not mad and that I'll be her friend, too.",
+      "cz": "Hmm... Taky chci, aby věděla, že se nezlobím a že budu i jejím kamarádem.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Taky chci, aby věděla, že se nezlobím a že budu i jejím kamarádem."
+    },
+    {
+      "key": "Olaf_011_f",
+      "en": "And nothing says that like a <ActivityItem>Bouquet of Flowers</ActivityItem>!",
+      "cz": "A nic to nevystihne lépe než <ActivityItem>Kytice květin</ActivityItem>!",
+      "source": "pre_existing",
+      "original_cz": "A nic to nevystihne lépe než <ActivityItem>Kytice květin</ActivityItem>!"
+    },
+    {
+      "key": "Olaf_012_f",
+      "en": "Could you help me do that, {PlayerName}? Could you?",
+      "cz": "Mohl bys mi s tím pomoct, {PlayerName}? Mohl bys?",
+      "source": "pre_existing",
+      "original_cz": "Mohl bys mi s tím pomoct, {PlayerName}? Mohl bys?"
+    },
+    {
+      "key": "Player_001_f",
+      "en": "Sure, I'll help you.",
+      "cz": "Jasně, pomůžu ti.",
+      "source": "pre_existing",
+      "original_cz": "Jasně, pomůžu ti."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Let's show Ursula what it means to be nice.",
+      "cz": "Ukažme Uršule, co znamená být milá.",
+      "source": "pre_existing",
+      "original_cz": "Ukažme Uršule, co znamená být milá."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Because you're my friend.",
+      "cz": "Protože jsi můj přítel.",
+      "source": "pre_existing",
+      "original_cz": "Protože jsi můj přítel."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "You're too nice. You sure you don't want to get revenge?",
+      "cz": "Jsi moc hodný. Jsi si jistý, že se nechceš pomstít?",
+      "source": "pre_existing",
+      "original_cz": "Jsi moc hodný. Jsi si jistý, že se nechceš pomstít?"
+    },
+    {
+      "key": "Olaf_013_f",
+      "en": "Oh, thank you, {PlayerName}! I knew you'd understand.",
+      "cz": "Děkuji, {PlayerName}! Věděl jsem, že to pochopíš.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji, {PlayerName}! Věděl jsem, že to pochopíš."
+    },
+    {
+      "key": "Olaf_014_f",
+      "en": "Always and forever.",
+      "cz": "Navždy a navždy.",
+      "source": "pre_existing",
+      "original_cz": "Navždy a navždy."
+    },
+    {
+      "key": "Olaf_015_f",
+      "en": "Positive. And is there really such a thing as \"too nice\"? I may not be very old, but I have yet to meet anyone with too much niceness.",
+      "cz": "Pozitivní. A existuje opravdu něco jako „příliš milý“? Možná nejsem moc starý, ale ještě jsem nepotkal nikoho, kdo by byl příliš milý.",
+      "source": "pre_existing",
+      "original_cz": "Pozitivní. A existuje opravdu něco jako „příliš milý“? Možná nejsem moc starý, ale ještě jsem nepotkal nikoho, kdo by byl příliš milý."
+    },
+    {
+      "key": "Olaf_016_f",
+      "en": "No. I would definitely remember something as fun as a \"deal.\"",
+      "cz": "Ne. Určitě bych si vzpomněl na něco tak zábavného jako „dohodu“.",
+      "source": "pre_existing",
+      "original_cz": "Ne. Určitě bych si vzpomněl na něco tak zábavného jako „dohodu“."
+    },
+    {
+      "key": "Olaf_017_f",
+      "en": "Hey... do you think that making deals and playing tricks is Ursula's way of making friends?",
+      "cz": "Hej... myslíš, že uzavírání obchodů a hraní triků je Ursulin způsob, jak si najít přátele?",
+      "source": "pre_existing",
+      "original_cz": "Hej... myslíš, že uzavírání obchodů a hraní triků je Ursulin způsob, jak si najít přátele?"
+    },
+    {
+      "key": "Olaf_018_f",
+      "en": "Oh, I don't want to do anything like that. We should show her that she doesn't have to trick everyone to make friends.",
+      "cz": "Ach, nic takového nechci dělat. Měli bychom jí ukázat, že nemusí všechny obelhávat, aby si našla přátele.",
+      "source": "pre_existing",
+      "original_cz": "Ach, nic takového nechci dělat. Měli bychom jí ukázat, že nemusí všechny obelhávat, aby si našla přátele."
+    }
+  ]
+}

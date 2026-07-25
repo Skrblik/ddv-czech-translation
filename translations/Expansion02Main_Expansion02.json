@@ -1,0 +1,3107 @@
+{
+  "Expansion02Main_Expansion02/MRQS_E02_010.locbin": [
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Any_CompletedRequestDescription",
+      "en": "Return to Merida.",
+      "cz": "Return to Merida.",
+      "source": "pre_existing",
+      "original_cz": "Return to Merida."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_AvailableDescription",
+      "en": "Once upon a time, {PlayerName} received a letter from a mysterious figure known as \"The Keeper of the Lore.\" Eager for adventure, {PlayerName} set out on a journey to the Storybook Vale.",
+      "cz": "Once upon a time, {PlayerName} received a letter from a mysterious figure known as \"The Keeper of the Lore.\" Eager for adventure, {PlayerName} set out on a journey to the Storybook Vale.",
+      "source": "pre_existing",
+      "original_cz": "Once upon a time, {PlayerName} received a letter from a mysterious figure known as \"The Keeper of the Lore.\" Eager for adventure, {PlayerName} set out on a journey to the Storybook Vale."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_CompletedStoryDescription",
+      "en": "You restored a little life to the Lorekeeper, but this is hardly a happily ever after. Your adventure is only just beginning.",
+      "cz": "You restored a little life to the Lorekeeper, but this is hardly a happily ever after. Your adventure is only just beginning.",
+      "source": "pre_existing",
+      "original_cz": "You restored a little life to the Lorekeeper, but this is hardly a happily ever after. Your adventure is only just beginning."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_DisplayName",
+      "en": "Welcome to the Storybook Vale",
+      "cz": "Welcome to the Storybook Vale",
+      "source": "pre_existing",
+      "original_cz": "Welcome to the Storybook Vale"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_DisplayName_000",
+      "en": "Mystery",
+      "cz": "Mystery",
+      "source": "pre_existing",
+      "original_cz": "Mystery"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group01_Step02_TalkToCharacter06_StepDescription",
+      "en": "Return to Merida.",
+      "cz": "Return to Merida.",
+      "source": "pre_existing",
+      "original_cz": "Return to Merida."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group01_StoryDescription",
+      "en": "Merida introduced you to the Lorekeeper, a talking tome that rules over the Storybook Vale.",
+      "cz": "Merida introduced you to the Lorekeeper, a talking tome that rules over the Storybook Vale.",
+      "source": "pre_existing",
+      "original_cz": "Merida introduced you to the Lorekeeper, a talking tome that rules over the Storybook Vale."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group02_Step03_CatchSnippet01_StepDescription",
+      "en": "(Equip the Royal Net and approach the Snippets. Press {input_usetool} to do a vertical swipe! Hold and release {input_usetool} to do a spin!)",
+      "cz": "(Equip the Royal Net and approach the Snippets. Press {input_usetool} to do a vertical swipe! Hold and release {input_usetool} to do a spin!)",
+      "source": "pre_existing",
+      "original_cz": "(Equip the Royal Net and approach the Snippets. Press {input_usetool} to do a vertical swipe! Hold and release {input_usetool} to do a spin!)"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group02_StepDescription",
+      "en": "Use the Royal Net to catch the <ActivityItem>Snippets</ActivityItem> in the main hall of the Library of Lore.",
+      "cz": "Use the Royal Net to catch the <ActivityItem>Snippets</ActivityItem> in the main hall of the Library of Lore.",
+      "source": "pre_existing",
+      "original_cz": "Use the Royal Net to catch the <ActivityItem>Snippets</ActivityItem> in the main hall of the Library of Lore."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group03_Step09_Conditional06_StepDescription",
+      "en": "Open your mailbox and claim the content of the message titled <Lore>\"The Storybook Vale awaits...\"</Lore> to embark on a new adventure.",
+      "cz": "Open your mailbox and claim the content of the message titled <Lore>\"The Storybook Vale awaits...\"</Lore> to embark on a new adventure.",
+      "source": "pre_existing",
+      "original_cz": "Open your mailbox and claim the content of the message titled <Lore>\"The Storybook Vale awaits...\"</Lore> to embark on a new adventure."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group04_Step04_Conditional01_StepDescription",
+      "en": "Complete <ActivityItem>\"The Port of Many Worlds\"</ActivityItem> quest.",
+      "cz": "Complete <ActivityItem>\"The Port of Many Worlds\"</ActivityItem> quest.",
+      "source": "pre_existing",
+      "original_cz": "Complete <ActivityItem>\"The Port of Many Worlds\"</ActivityItem> quest."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group04_Step04_StepDescription",
+      "en": "You need to find a place called the Stardust Port to continue your adventure to the Vale.",
+      "cz": "You need to find a place called the Stardust Port to continue your adventure to the Vale.",
+      "source": "pre_existing",
+      "original_cz": "You need to find a place called the Stardust Port to continue your adventure to the Vale."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group04_StoryDescription",
+      "en": "But first, {PlayerName} needed to find a place called the Stardust Port. Like so many adventures, a visit to Merlin was in order before the journey could begin.",
+      "cz": "Ale nejdříve {PlayerName} potřeboval najít místo zvané Hvězdný přístav. Jako u mnoha dobrodružství, i zde musel před začátkem cesty navštívit Merlina.",
+      "source": "pre_existing",
+      "original_cz": "Ale nejdříve {PlayerName} potřeboval najít místo zvané Hvězdný přístav. Jako u mnoha dobrodružství, i zde musel před začátkem cesty navštívit Merlina."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group05_Step05_VisitArea01_StepDescription",
+      "en": "Use the gate inside the Dream Castle to access the <ActivityItem>Stardust Port</ActivityItem>.",
+      "cz": "Použijte bránu uvnitř Hradu snů pro přístup do <ActivityItem>Přístavu hvězdného prachu</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Použijte bránu uvnitř Hradu snů pro přístup do <ActivityItem>Přístavu hvězdného prachu</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group05_StoryDescription",
+      "en": "It's time to embark on your adventure to the Storybook Vale.",
+      "cz": "Je čas vydat se na dobrodružství do Údolí pohádek.",
+      "source": "pre_existing",
+      "original_cz": "Je čas vydat se na dobrodružství do Údolí pohádek."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group06_Step06_VisitArea02_StepDescription",
+      "en": "Embark on the <ActivityItem>Hummingbird Airship</ActivityItem> in the Stardust Port to go to the Storybook Vale.",
+      "cz": "Naloďte se na **Vzducholoď Hummingbird** v přístavu Stardust a vydejte se do Pohádkového údolí.",
+      "source": "pre_existing",
+      "original_cz": "Naloďte se na **Vzducholoď Hummingbird** v přístavu Stardust a vydejte se do Pohádkového údolí."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group07_Step07_StepDescription",
+      "en": "You've arrived in the Storybook Vale!",
+      "cz": "Dorazili jste do Údolí pohádek!",
+      "source": "pre_existing",
+      "original_cz": "Dorazili jste do Údolí pohádek!"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group07_Step07_VisitArea03_StepDescription",
+      "en": "Explore this strange new world.",
+      "cz": "Prozkoumejte tento podivný nový svět.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte tento podivný nový svět."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group08_Step01_StepDescription",
+      "en": "That strange magical ink seems to have trapped that Villager!",
+      "cz": "Zdá se, že ten podivný magický inkoust uvěznil toho vesničana!",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že ten podivný magický inkoust uvěznil toho vesničana!"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group08_Step01_TalkToCharacter01_StepDescription",
+      "en": "Free Merida and talk to her.",
+      "cz": "Osvoboďte Meridu a promluvte si s ní.",
+      "source": "pre_existing",
+      "original_cz": "Osvoboďte Meridu a promluvte si s ní."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group10_Step10_Conditional02_StepDescription",
+      "en": "(Optional) Ask Merida for a hint.",
+      "cz": "(Volitelné) Požádejte Meridu o radu.",
+      "source": "pre_existing",
+      "original_cz": "(Volitelné) Požádejte Meridu o radu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group10_Step10_StepDescription",
+      "en": "Find the <ActivityItem>Royal Net's secret location</ActivityItem> by investigating the Library of Lore.",
+      "cz": "Najděte **tajné místo Královské sítě** prozkoumáním Knihovny tradic.",
+      "source": "pre_existing",
+      "original_cz": "Najděte **tajné místo Královské sítě** prozkoumáním Knihovny tradic."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group10_StoryDescription",
+      "en": "The Lorekeeper's magic is fading.",
+      "cz": "Kouzlo Věštce slábne.",
+      "source": "pre_existing",
+      "original_cz": "Kouzlo Věštce slábne."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group11_Step11_StepDescription",
+      "en": "Catch all <ActivityItem>Snippets</ActivityItem> in the Library's wings.",
+      "cz": "Zachyťte všechny <ActivityItem>Úryvky</ActivityItem> v zákulisí knihovny.",
+      "source": "pre_existing",
+      "original_cz": "Zachyťte všechny <ActivityItem>Úryvky</ActivityItem> v zákulisí knihovny."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group11_Step19_StepDescription",
+      "en": "Open the gates to each wing using the right Royal Net swing on the golden wheels. (Press {input_usetool} to do a vertical swipe! Hold and release {input_usetool} to do a spin!)",
+      "cz": "Otevřete brány do každého křídla pomocí pravého houpání Královské sítě na zlatých kolech. (Stiskněte {input_usetool} pro vertikální pohyb! Podržte a uvolněte {input_usetool} pro roztočení!)",
+      "source": "pre_existing",
+      "original_cz": "Otevřete brány do každého křídla pomocí pravého houpání Královské sítě na zlatých kolech. (Stiskněte {input_usetool} pro vertikální pohyb! Podržte a uvolněte {input_usetool} pro roztočení!)"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group11_StepDescription",
+      "en": "You found the Royal Net! You can now put it to good use:",
+      "cz": "Našli jste Královskou síť! Nyní ji můžete dobře využít:",
+      "source": "pre_existing",
+      "original_cz": "Našli jste Královskou síť! Nyní ji můžete dobře využít:"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group12_Step12_TalkToCharacter02_StepDescription",
+      "en": "Return to {TargetNPC}.",
+      "cz": "Zpět na {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Zpět na {TargetNPC}."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group12_StoryDescription",
+      "en": "With Merida's help, you found the Royal Net and put it to use catching Snippets, the magical creatures made out of pure Story Magic.",
+      "cz": "S Meridinou pomocí jsi našel Královskou síť a použil ji k chytání Útržků, magických tvorů stvořených z čisté Příběhové magie.",
+      "source": "pre_existing",
+      "original_cz": "S Meridinou pomocí jsi našel Královskou síť a použil ji k chytání Útržků, magických tvorů stvořených z čisté Příběhové magie."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group13_Step08_Conditional05_StepDescription",
+      "en": "Rearrange the <ActivityItem>\"Once Upon a Time in Storybook Vale...\"</ActivityItem> story in the Lorekeeper's pages.",
+      "cz": "Uspořádej příběh <ActivityItem>„Kdysi dávno v Pohádkovém údolí...“</ActivityItem> na stránkách Věštce.",
+      "source": "pre_existing",
+      "original_cz": "Uspořádej příběh <ActivityItem>„Kdysi dávno v Pohádkovém údolí...“</ActivityItem> na stránkách Věštce."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group13_StepDescription",
+      "en": "(Rearrange stories in the Lorekeeper's pages by talking to her and selecting \"Reorder Stories\" from the dialogue menu!)",
+      "cz": "(Příběhy na stránkách Věštkyně můžete uspořádat tak, že si s ní promluvíte a v dialogovém menu vyberete možnost „Změnit pořadí příběhů“!)",
+      "source": "pre_existing",
+      "original_cz": "(Příběhy na stránkách Věštkyně můžete uspořádat tak, že si s ní promluvíte a v dialogovém menu vyberete možnost „Změnit pořadí příběhů“!)"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group14_Step14_TalkToCharacter03_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluvte si s {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC}."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group15_Step15_TalkToCharacter04_StepDescription",
+      "en": "Talk to... {TargetNPC}?",
+      "cz": "Mluvit s... {TargetNPC}?",
+      "source": "pre_existing",
+      "original_cz": "Mluvit s... {TargetNPC}?"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group16_Step16_StepDescription",
+      "en": "You uncovered the hiding place!",
+      "cz": "Odhalil jsi úkryt!",
+      "source": "pre_existing",
+      "original_cz": "Odhalil jsi úkryt!"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group16_Step16_Unlock01_StepDescription",
+      "en": "Pick up the <ActivityItem>Royal Net</ActivityItem>.",
+      "cz": "Seberte <ActivityItem>Královskou síť</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Seberte <ActivityItem>Královskou síť</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group17_Step17_TalkToCharacter05_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluvte si s {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC}."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group18_Step18_FollowCharacter02_TalkToDescription",
+      "en": "Talk to Merida.",
+      "cz": "Promluv si s Meridou.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Meridou."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_010_Group18_Step18_StepDescription",
+      "en": "Follow Merida.",
+      "cz": "Sleduj Meridu.",
+      "source": "pre_existing",
+      "original_cz": "Sleduj Meridu."
+    }
+  ],
+  "Expansion02Main_Expansion02/MRQS_E02_020.locbin": [
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Any_CompletedRequestDescription",
+      "en": "Talk to Merida.",
+      "cz": "Promluv si s Meridou.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Meridou."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_AvailableDescription",
+      "en": "{PlayerName} had learned much about this strange new world, but to reach Maleficent and Hades and set things right, there would be a lot more work to do. Perhaps Merida could help with the next step in the journey.",
+      "cz": "{PlayerName} se o tomto podivném novém světě hodně dozvěděl, ale k dosažení Zloby a Háda a k nápravě věcí bude ještě hodně práce. Možná by Merida mohla pomoci s dalším krokem na cestě.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName} se o tomto podivném novém světě hodně dozvěděl, ale k dosažení Zloby a Háda a k nápravě věcí bude ještě hodně práce. Možná by Merida mohla pomoci s dalším krokem na cestě."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_CompletedStoryDescription",
+      "en": "But {PlayerName}'s journey was only just beginning. Soon they would need to decide which way to go next: towards a land of fairy tales and fables or a land of myths and legend.",
+      "cz": "Ale {PlayerName}ova cesta teprve začínala. Brzy se budou muset rozhodnout, kterou cestou se vydají dál: do země pohádek a bajek, nebo do země mýtů a legend.",
+      "source": "pre_existing",
+      "original_cz": "Ale {PlayerName}ova cesta teprve začínala. Brzy se budou muset rozhodnout, kterou cestou se vydají dál: do země pohádek a bajek, nebo do země mýtů a legend."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_DisplayName",
+      "en": "A New Chapter",
+      "cz": "Nová kapitola",
+      "source": "pre_existing",
+      "original_cz": "Nová kapitola"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group01_Step01_FollowCharacter01_StepDescription",
+      "en": "Meet {TargetNPC} near the Well outside the Library of Lore.",
+      "cz": "Sejděte se s {TargetNPC} poblíž studny před Knihovnou tradic.",
+      "source": "pre_existing",
+      "original_cz": "Sejděte se s {TargetNPC} poblíž studny před Knihovnou tradic."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group01_Step01_FollowCharacter01_TalkToDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluvte si s {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC}."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group02_Step02_Conditional01_StepDescription",
+      "en": "(<ActivityItem>Story Magic</ActivityItem> can be gathered by completing Duties and Achievements. Access the menu by pressing {input_mainmenu}.)",
+      "cz": "(<ActivityItem>Příběhovou magii</ActivityItem> lze získat plněním povinností a dosažených cílů. Do menu se dostanete stisknutím {input_mainmenu}.)",
+      "source": "pre_existing",
+      "original_cz": "(<ActivityItem>Příběhovou magii</ActivityItem> lze získat plněním povinností a dosažených cílů. Do menu se dostanete stisknutím {input_mainmenu}.)"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group02_Step02_StepDescription",
+      "en": "Unlock access to the <Lore>Bind</Lore> by removing the <ActivityItem>Wall of Ink</ActivityItem> blocking the way.",
+      "cz": "Odemkněte přístup k **Bind** odstraněním **Zdi inkoustu**, která blokuje cestu.",
+      "source": "pre_existing",
+      "original_cz": "Odemkněte přístup k **Bind** odstraněním **Zdi inkoustu**, která blokuje cestu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group03_Step03_FollowCharacter02_StepDescription",
+      "en": "Explore the Bind with {TargetNPC}.",
+      "cz": "Prozkoumejte Bind s {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte Bind s {TargetNPC}."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group03_Step03_FollowCharacter02_TalkToDescription",
+      "en": "Talk to Merida.",
+      "cz": "Promluv si s Meridou.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Meridou."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group03_StoryDescription",
+      "en": "With just a bit of Story Magic, the wall of ink blocking passage to the Bind melted away. It was time to explore.",
+      "cz": "S trochou Příběhové magie se zeď inkoustu blokující průchod do Svazku rozplynula. Nastal čas prozkoumat.",
+      "source": "pre_existing",
+      "original_cz": "S trochou Příběhové magie se zeď inkoustu blokující průchod do Svazku rozplynula. Nastal čas prozkoumat."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group04_Step04_StepDescription",
+      "en": "The Bind is looking better already!",
+      "cz": "Bind už vypadá lépe!",
+      "source": "pre_existing",
+      "original_cz": "Bind už vypadá lépe!"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group04_Step04_TalkToCharacter01_StepDescription",
+      "en": "Find {TargetNPC} and tell her about your progress.",
+      "cz": "Najdi {TargetNPC} a řekni jí o svém pokroku.",
+      "source": "pre_existing",
+      "original_cz": "Najdi {TargetNPC} a řekni jí o svém pokroku."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group05_Step06_StepDescription",
+      "en": "It seems the news of your journey reached Dreamlight Valley and attracted some Villagers:",
+      "cz": "Zdá se, že zpráva o tvé cestě dorazila do Údolí Světla Snů a přilákala některé vesničany:",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že zpráva o tvé cestě dorazila do Údolí Světla Snů a přilákala některé vesničany:"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group05_Step06_TalkToCharacter02_StepDescription",
+      "en": "Check in on {TargetNPC}.",
+      "cz": "Přihlásit se na {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Přihlásit se na {TargetNPC}."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group05_Step06_TalkToCharacter04_StepDescription",
+      "en": "Speak to {TargetNPC} about his store in the Bind.",
+      "cz": "Promluv si s {TargetNPC} o jeho obchodě v Bindu.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s {TargetNPC} o jeho obchodě v Bindu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group06_Step07_StepDescription",
+      "en": "Catch <ActivityItem>Fish</ActivityItem> and <ActivityItem>Seafood</ActivityItem> around the Bind.",
+      "cz": "Chyťte <ActivityItem>ryby</ActivityItem> a <ActivityItem>mořské plody</ActivityItem> v okolí Bind.",
+      "source": "pre_existing",
+      "original_cz": "Chyťte <ActivityItem>ryby</ActivityItem> a <ActivityItem>mořské plody</ActivityItem> v okolí Bind."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group06_Step08_StepDescription",
+      "en": "Mine gems and minerals from the Bind's <Lore>mining rocks</Lore>.",
+      "cz": "Těžte drahokamy a minerály z <Lore>těžebních kamenů</Lore> Bind.",
+      "source": "pre_existing",
+      "original_cz": "Těžte drahokamy a minerály z <Lore>těžebních kamenů</Lore> Bind."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group06_StepDescription",
+      "en": "Goofy and Scrooge McDuck need your help getting to know the Bind.",
+      "cz": "Goofy a Scrooge McDuck potřebují vaši pomoc, aby se seznámili s Bind.",
+      "source": "pre_existing",
+      "original_cz": "Goofy a Scrooge McDuck potřebují vaši pomoc, aby se seznámili s Bind."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group07_Step09_TalkToCharacter05_StepDescription",
+      "en": "Return to {TargetNPC} to check in on her progress with the fountains.",
+      "cz": "Vrať se k {TargetNPC} a zkontroluj její pokrok s fontánami.",
+      "source": "pre_existing",
+      "original_cz": "Vrať se k {TargetNPC} a zkontroluj její pokrok s fontánami."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group08_Step10_Conditional04_StepDescription",
+      "en": "Open the mysterious door beneath the bridge in the Bind.",
+      "cz": "Otevři tajemné dveře pod mostem v Bindu.",
+      "source": "pre_existing",
+      "original_cz": "Otevři tajemné dveře pod mostem v Bindu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group09_Step16_StepDescription",
+      "en": "You uncovered a secret room beneath the bridge in the Bind!",
+      "cz": "Odhalil jsi tajnou místnost pod mostem v Bindu!",
+      "source": "pre_existing",
+      "original_cz": "Odhalil jsi tajnou místnost pod mostem v Bindu!"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group09_Step16_Unlock01_StepDescription",
+      "en": "Search for clues in the secret room.",
+      "cz": "Hledejte stopy v tajné místnosti.",
+      "source": "pre_existing",
+      "original_cz": "Hledejte stopy v tajné místnosti."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group10_Step17_StepDescription",
+      "en": "Find a way to access what is behind the wall in Aurora's room.",
+      "cz": "Najdi způsob, jak se dostat k tomu, co je za zdí v Aurořině pokoji.",
+      "source": "pre_existing",
+      "original_cz": "Najdi způsob, jak se dostat k tomu, co je za zdí v Aurořině pokoji."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group11_Step05_CatchSnippet01_StepDescription",
+      "en": "Catch <ActivityItem>Snippets</ActivityItem> in the Bind.",
+      "cz": "Zachyťte <ActivityItem>Úryvky</ActivityItem> do složky Bind.",
+      "source": "pre_existing",
+      "original_cz": "Zachyťte <ActivityItem>Úryvky</ActivityItem> do složky Bind."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group11_Step11_PickUp01_StepDescription",
+      "en": "Remove <ActivityItem>Inkies</ActivityItem> from the Bind.",
+      "cz": "Odstraňte <ActivityItem>Inkies</ActivityItem> z vazby.",
+      "source": "pre_existing",
+      "original_cz": "Odstraňte <ActivityItem>Inkies</ActivityItem> z vazby."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group11_StepDescription",
+      "en": "The Bind needs some love and care. Restore it to its former glory:",
+      "cz": "Bind potřebuje trochu lásky a péče. Vraťte mu dřívější slávu:",
+      "source": "pre_existing",
+      "original_cz": "Bind potřebuje trochu lásky a péče. Vraťte mu dřívější slávu:"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group12_Step18_Conditional02_StepDescription",
+      "en": "Use your Royal Net on the wheel inside the secret room.",
+      "cz": "Použijte svou Královskou síť na kolo uvnitř tajné místnosti.",
+      "source": "pre_existing",
+      "original_cz": "Použijte svou Královskou síť na kolo uvnitř tajné místnosti."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group13_Step13_TalkToCharacter03_StepDescription",
+      "en": "Check back with Merida.",
+      "cz": "Zkus to znovu u Meridy.",
+      "source": "pre_existing",
+      "original_cz": "Zkus to znovu u Meridy."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group13_StepDescription",
+      "en": "The fountain sprang to life!",
+      "cz": "Fontána ožila!",
+      "source": "pre_existing",
+      "original_cz": "Fontána ožila!"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group13_StoryDescription",
+      "en": "With a little more love and care, {PlayerName} and Merida restored the Bind to its former glory.",
+      "cz": "S trochou větší lásky a péče {PlayerName} a Merida obnovili Bind do jeho dřívější slávy.",
+      "source": "pre_existing",
+      "original_cz": "S trochou větší lásky a péče {PlayerName} a Merida obnovili Bind do jeho dřívější slávy."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group14_Step14_PlaceBuilding01_StepDescription",
+      "en": "Place the foundations for <ActivityItem>Merida's House</ActivityItem> in the Bind.",
+      "cz": "Položte základy pro **Meridin dům** v Bind.",
+      "source": "pre_existing",
+      "original_cz": "Položte základy pro **Meridin dům** v Bind."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group15_Step15_UnlockCharacter01_StepDescription",
+      "en": "Welcome {TargetNPC} to your Village.",
+      "cz": "Vítej {TargetNPC} ve své vesnici.",
+      "source": "pre_existing",
+      "original_cz": "Vítej {TargetNPC} ve své vesnici."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group16_Step19_FollowCharacter03_StepDescription",
+      "en": "Follow {TargetNPC}.",
+      "cz": "Sledujte {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Sledujte {TargetNPC}."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group16_Step19_FollowCharacter03_TalkToDescription",
+      "en": "Talk to Merida.",
+      "cz": "Promluv si s Meridou.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Meridou."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group17_Step12_TalkToCharacter07_StepDescription",
+      "en": "Goofy.",
+      "cz": "Bláznivý.",
+      "source": "pre_existing",
+      "original_cz": "Bláznivý."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group17_Step12_TalkToCharacter08_StepDescription",
+      "en": "Scrooge McDuck.",
+      "cz": "Scrooge McDuck.",
+      "source": "pre_existing",
+      "original_cz": "Scrooge McDuck."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group17_StepDescription",
+      "en": "The Bind has plenty to offer! Tell the good news to:",
+      "cz": "Bind toho nabízí hodně! Povězte dobrou zprávu:",
+      "source": "pre_existing",
+      "original_cz": "Bind toho nabízí hodně! Povězte dobrou zprávu:"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group18_Step21_TalkToCharacter06_StepDescription",
+      "en": "Talk to {TargetNPC} about your discovery.",
+      "cz": "Promluvte si s {TargetNPC} o svém objevu.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC} o svém objevu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group19_Step20_StepDescription",
+      "en": "Goofy and Scrooge McDuck are almost open for business! Interact with the Scrooge McDuck Sign beside the following to unlock:",
+      "cz": "Goofy a Scrooge McDuck se téměř otevřeli! Pro odemčení interagujte s cedulí Scrooge McDucka vedle následujících prvků:",
+      "source": "pre_existing",
+      "original_cz": "Goofy a Scrooge McDuck se téměř otevřeli! Pro odemčení interagujte s cedulí Scrooge McDucka vedle následujících prvků:"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group19_Step20_Unlock02_StepDescription",
+      "en": "Goofy's Stall in the Bind.",
+      "cz": "Goofyho stánek v pojistce.",
+      "source": "pre_existing",
+      "original_cz": "Goofyho stánek v pojistce."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group19_Step20_Unlock03_StepDescription",
+      "en": "Scrooge McDuck's General Store in the Bind.",
+      "cz": "Scrooge McDuckův obchod se smíšeným zbožím v Bindu.",
+      "source": "pre_existing",
+      "original_cz": "Scrooge McDuckův obchod se smíšeným zbožím v Bindu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_020_Group20_Step22_Unlock04_StepDescription",
+      "en": "Unlock <ActivityItem>Merida's House</ActivityItem> by interacting with the Scrooge McDuck Sign beside it.",
+      "cz": "Odemkněte <ActivityItem>Meridin dům</ActivityItem> interakcí se cedulí Scrooge McDucka vedle něj.",
+      "source": "pre_existing",
+      "original_cz": "Odemkněte <ActivityItem>Meridin dům</ActivityItem> interakcí se cedulí Scrooge McDucka vedle něj."
+    }
+  ],
+  "Expansion02Main_Expansion02/MRQS_E02_030_IntroWolf.locbin": [
+    {
+      "key": "Story!Expansion02!MRQS_E02_030_IntroWolf_AvailableDescription",
+      "en": "{PlayerName} cleared away the ink blocking the path into Everafter. There, our hero found some dark woods, and yet more ink spilling from the ground. What mysteries could this place hold?",
+      "cz": "{PlayerName} odstranil inkoust blokující cestu do Everafteru. Tam náš hrdina našel temné lesy a další inkoust vytékající ze země. Jaká tajemství by toto místo mohlo skrývat?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName} odstranil inkoust blokující cestu do Everafteru. Tam náš hrdina našel temné lesy a další inkoust vytékající ze země. Jaká tajemství by toto místo mohlo skrývat?"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_030_IntroWolf_DisplayName",
+      "en": "The Wolf of the Wilds",
+      "cz": "Vlk z divočiny",
+      "source": "pre_existing",
+      "original_cz": "Vlk z divočiny"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_030_IntroWolf_Group01_Step01_VisitArea01_StepDescription",
+      "en": "Explore the <ActivityItem>Wild Woods</ActivityItem>.",
+      "cz": "Prozkoumejte <ActivityItem>Divoké lesy</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte <ActivityItem>Divoké lesy</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_030_IntroWolf_Group01_StepDescription",
+      "en": "You've cleared away the ink! The first part of Everafter is yours to discover.",
+      "cz": "Odstranili jste inkoust! První část Everafteru je na vás, abyste ji objevili.",
+      "source": "pre_existing",
+      "original_cz": "Odstranili jste inkoust! První část Everafteru je na vás, abyste ji objevili."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_030_IntroWolf_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Ask the Lorekeeper about it.",
+      "cz": "Zeptejte se na to Znalce.",
+      "source": "pre_existing",
+      "original_cz": "Zeptejte se na to Znalce."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_030_IntroWolf_Group02_StepDescription",
+      "en": "You've found a mysterious gateway, swirling with magical ink, deep in the Wild Woods.",
+      "cz": "Hluboko v Divokých lesích jste objevili tajemnou bránu, vířící magickým inkoustem.",
+      "source": "pre_existing",
+      "original_cz": "Hluboko v Divokých lesích jste objevili tajemnou bránu, vířící magickým inkoustem."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_030_IntroWolf_Group02_StoryDescription",
+      "en": "{PlayerName} soon found a mysterious gateway, swirling with magical ink, in the deepest, darkest part of the Woods. Only one person — or, more accurately, book — could explain this: the Lorekeeper.",
+      "cz": "{PlayerName} brzy objevil tajemnou bránu, vířící magickým inkoustem, v nejhlubší a nejtemnější části Lesa. Pouze jedna osoba – nebo přesněji řečeno kniha – to dokázala vysvětlit: Strážce Vědomostí.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName} brzy objevil tajemnou bránu, vířící magickým inkoustem, v nejhlubší a nejtemnější části Lesa. Pouze jedna osoba – nebo přesněji řečeno kniha – to dokázala vysvětlit: Strážce Vědomostí."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_030_IntroWolf_Group03_Step03_StepDescription",
+      "en": "The Lorekeeper warned you about venturing into the forest alone.",
+      "cz": "Strážce věštby vás varoval, abyste se do lesa vydali sami.",
+      "source": "pre_existing",
+      "original_cz": "Strážce věštby vás varoval, abyste se do lesa vydali sami."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_030_IntroWolf_Group03_Step03_TalkToCharacter02_StepDescription",
+      "en": "Talk to Merida.",
+      "cz": "Promluvte si s Meridou.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Meridou."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_030_IntroWolf_Group03_StoryDescription",
+      "en": "The Lorekeeper explained that {PlayerName} had uncovered a Fairy Tale Trial, a vortex of magical corruption caused by Maleficent's meddling. {PlayerName} would need to set it right with the help of Merida.",
+      "cz": "Strážce věštby vysvětlil, že {PlayerName} odhalil Pohádkovou zkoušku, vír magické zkaženosti způsobený Maleficentiným vměšováním. {PlayerName} ho bude muset s Meridovou pomocí napravit.",
+      "source": "pre_existing",
+      "original_cz": "Strážce věštby vysvětlil, že {PlayerName} odhalil Pohádkovou zkoušku, vír magické zkaženosti způsobený Maleficentiným vměšováním. {PlayerName} ho bude muset s Meridovou pomocí napravit."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_030_IntroWolf_Group04_Step04_FollowCharacter01_StepDescription",
+      "en": "Follow Merida to the <Lore>Fairy Tale Trial</Lore> in the Wild Woods.",
+      "cz": "Následujte Meridu k <Lore>Pohádkové zkoušce</Lore> v Divokých lesích.",
+      "source": "pre_existing",
+      "original_cz": "Následujte Meridu k <Lore>Pohádkové zkoušce</Lore> v Divokých lesích."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_030_IntroWolf_Group04_Step04_FollowCharacter01_TalkToDescription",
+      "en": "Talk to Merida.",
+      "cz": "Promluvte si s Meridou.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Meridou."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_030_IntroWolf_Group05_Step08_Conditional02_StepDescription",
+      "en": "Use your <Lore>Royal Net</Lore> on the wheel to open the Fairy Tale Trial.",
+      "cz": "Použijte svou <Lore>Královskou síť</Lore> na kole k otevření Pohádkové zkoušky.",
+      "source": "pre_existing",
+      "original_cz": "Použijte svou <Lore>Královskou síť</Lore> na kole k otevření Pohádkové zkoušky."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_030_IntroWolf_Group06_Step06_FollowCharacter02_StepDescription",
+      "en": "Follow Merida to the Fairy Tale Trial... but keep an eye out for any big bad wolves.",
+      "cz": "Následujte Meridu k Pohádkové zkoušce... ale dávejte si pozor na velké zlé vlky.",
+      "source": "pre_existing",
+      "original_cz": "Následujte Meridu k Pohádkové zkoušce... ale dávejte si pozor na velké zlé vlky."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_030_IntroWolf_Group06_Step06_FollowCharacter02_TalkToDescription",
+      "en": "Talk to Merida.",
+      "cz": "Promluvte si s Meridou.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Meridou."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_030_IntroWolf_Group07_Step05_FillKeyhole01_StepDescription",
+      "en": "Search the area for the <ActivityItem>Missing Wheel</ActivityItem> and restore it to its rightful place.",
+      "cz": "Vyhledejte v oblasti <ActivityItem>Chybějící kolo</ActivityItem> a vraťte ho na jeho správné místo.",
+      "source": "pre_existing",
+      "original_cz": "Vyhledejte v oblasti <ActivityItem>Chybějící kolo</ActivityItem> a vraťte ho na jeho správné místo."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_030_IntroWolf_Group07_StepDescription",
+      "en": "Merida thinks the wheel was torn off by a wolf...",
+      "cz": "Merida si myslí, že kolo utrhl vlk...",
+      "source": "pre_existing",
+      "original_cz": "Merida si myslí, že kolo utrhl vlk..."
+    }
+  ],
+  "Expansion02Main_Expansion02/MRQS_E02_031_TrialWolf.locbin": [
+    {
+      "key": "Story!Expansion02!MRQS_E02_031_TrialWolf_Any_CompletedRequestDescription",
+      "en": "Return to Flynn.",
+      "cz": "Zpět k Flynnovi.",
+      "source": "pre_existing",
+      "original_cz": "Zpět k Flynnovi."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_031_TrialWolf_AvailableDescription",
+      "en": "{PlayerName} ventured into the darkness at the edges of the Wild Woods and found a strange gateway there, just waiting for {PlayerName} to step inside.",
+      "cz": "{PlayerName} se vydal do tmy na okraji Divokého lesa a našel tam podivnou bránu, která jen čekala, až dovnitř vstoupí.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName} se vydal do tmy na okraji Divokého lesa a našel tam podivnou bránu, která jen čekala, až dovnitř vstoupí."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_031_TrialWolf_CompletedStoryDescription",
+      "en": "{PlayerName} removed the curse in the Fairy Tale Trial and made a home for Flynn Rider in the Storybook Vale. It was now clear what {PlayerName} would need to do to save the Vale: Venture forth and find more Fairy Tale Trials.",
+      "cz": "{PlayerName} odstranil kletbu v Pohádkové zkoušce a vytvořil domov pro Flynna Ridera v Pohádkovém údolí. Nyní bylo jasné, co bude muset {PlayerName} udělat, aby zachránil údolí: Vydat se na cestu a najít další Pohádkové zkoušky.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName} odstranil kletbu v Pohádkové zkoušce a vytvořil domov pro Flynna Ridera v Pohádkovém údolí. Nyní bylo jasné, co bude muset {PlayerName} udělat, aby zachránil údolí: Vydat se na cestu a najít další Pohádkové zkoušky."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_031_TrialWolf_DisplayName",
+      "en": "A Sheep in Wolf's Clothing",
+      "cz": "Ovce ve vlčím rouše",
+      "source": "pre_existing",
+      "original_cz": "Ovce ve vlčím rouše"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_031_TrialWolf_DisplayName_000",
+      "en": "The Wolf of the Wilds",
+      "cz": "Vlk z divočiny",
+      "source": "pre_existing",
+      "original_cz": "Vlk z divočiny"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_031_TrialWolf_Group01_Step01_VisitArea01_StepDescription",
+      "en": "Step through the gateway in the Wild Woods to enter the first <ActivityItem>Fairy Tale Trial</ActivityItem>.",
+      "cz": "Projděte branou v Divokých lesích a vstupte do první <ActivityItem>Pohádkové zkoušky</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Projděte branou v Divokých lesích a vstupte do první <ActivityItem>Pohádkové zkoušky</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_031_TrialWolf_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Investigate the mysterious, growling doorway...",
+      "cz": "Prozkoumejte tajemné, vrčící dveře...",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte tajemné, vrčící dveře..."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_031_TrialWolf_Group03_Step03_BringItem01_StepDescription",
+      "en": "What big feet he has.",
+      "cz": "Jak velké nohy má.",
+      "source": "pre_existing",
+      "original_cz": "Jak velké nohy má."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_031_TrialWolf_Group03_Step03_BringItem02_StepDescription",
+      "en": "What a wolfish smell he has.",
+      "cz": "To je ale vlčí pach.",
+      "source": "pre_existing",
+      "original_cz": "To je ale vlčí pach."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_031_TrialWolf_Group03_Step03_BringItem03_StepDescription",
+      "en": "What a fierce howl he has.",
+      "cz": "Jak zuřivě vyje.",
+      "source": "pre_existing",
+      "original_cz": "Jak zuřivě vyje."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_031_TrialWolf_Group03_Step03_ReadyDescription",
+      "en": "Bring the evidence to the door.",
+      "cz": "Přineste důkazy ke dveřím.",
+      "source": "pre_existing",
+      "original_cz": "Přineste důkazy ke dveřím."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_031_TrialWolf_Group03_Step03_StepDescription",
+      "en": "Prove the Wolf of the Wilds isn't really a wolf by searching the Trial for evidence to disprove:",
+      "cz": "Dokažte, že Vlk z divočiny není ve skutečnosti vlk, a to tak, že v Procesu naleznete důkazy, které to vyvrátí:",
+      "source": "pre_existing",
+      "original_cz": "Dokažte, že Vlk z divočiny není ve skutečnosti vlk, a to tak, že v Procesu naleznete důkazy, které to vyvrátí:"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_031_TrialWolf_Group03_StoryDescription",
+      "en": "Within the first Fairy Tale Trial, {PlayerName} discovered a snarling figure behind a locked door. Was this really the Wolf of the Wilds? Or was it someone playing a trick?",
+      "cz": "Během první Pohádkové zkoušky objevil {PlayerName} vrčící postavu za zamčenými dveřmi. Byl to opravdu Vlk z divočiny? Nebo si z něj někdo dělal trik?",
+      "source": "pre_existing",
+      "original_cz": "Během první Pohádkové zkoušky objevil {PlayerName} vrčící postavu za zamčenými dveřmi. Byl to opravdu Vlk z divočiny? Nebo si z něj někdo dělal trik?"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_031_TrialWolf_Group04_Step04_TalkToCharacter02_StepDescription",
+      "en": "Talk to Flynn.",
+      "cz": "Promluvte si s Flynnem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Flynnem."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_031_TrialWolf_Group05_Step05_Interaction01_StepDescription",
+      "en": "Interact with the <ActivityItem>source of the corruption</ActivityItem> inside the Fairy Tale Trial.",
+      "cz": "Interakce se zdrojem korupce <ActivityItem>v rámci Pohádkové zkoušky.",
+      "source": "pre_existing",
+      "original_cz": "Interakce se zdrojem korupce <ActivityItem>v rámci Pohádkové zkoušky."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_031_TrialWolf_Group05_StoryDescription",
+      "en": "{PlayerName} uncovered the truth: The Wolf of the Wilds was no wolf at all, but Flynn Rider, suffering under a curse from Maleficent.",
+      "cz": "{PlayerName} odhalil pravdu: Vlk z divočiny nebyl vůbec žádný vlk, ale Flynn Rider, trpící kletbou Zloby.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName} odhalil pravdu: Vlk z divočiny nebyl vůbec žádný vlk, ale Flynn Rider, trpící kletbou Zloby."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_031_TrialWolf_Group06_Step06_VisitArea02_StepDescription",
+      "en": "Return to the Storybook Vale.",
+      "cz": "Návrat do Údolí pohádek.",
+      "source": "pre_existing",
+      "original_cz": "Návrat do Údolí pohádek."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_031_TrialWolf_Group07_Step07_TalkToCharacter03_StepDescription",
+      "en": "Talk to Flynn.",
+      "cz": "Promluvte si s Flynnem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Flynnem."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_031_TrialWolf_Group08_Step08_PlaceBuilding01_StepDescription",
+      "en": "Place the foundations for <ActivityItem>Flynn Rider's House</ActivityItem> anywhere in the Storybook Vale.",
+      "cz": "Umístěte základy pro <ActivityItem>Dům Flynna Ridera</ActivityItem> kdekoli v Údolí pohádek.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte základy pro <ActivityItem>Dům Flynna Ridera</ActivityItem> kdekoli v Údolí pohádek."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_031_TrialWolf_Group09_Step09_Unlock01_StepDescription",
+      "en": "Unlock <ActivityItem>Flynn Rider's House</ActivityItem> by interacting with the Scrooge McDuck Sign beside it.",
+      "cz": "Odemkněte <ActivityItem>Dům Flynna Ridera</ActivityItem> interakcí se cedulí Scrooge McDucka vedle něj.",
+      "source": "pre_existing",
+      "original_cz": "Odemkněte <ActivityItem>Dům Flynna Ridera</ActivityItem> interakcí se cedulí Scrooge McDucka vedle něj."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_031_TrialWolf_Group10_Step10_VisitArea03_StepDescription",
+      "en": "Explore the Fairy Tale Trial.",
+      "cz": "Prozkoumejte Pohádkovou zkoušku.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte Pohádkovou zkoušku."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_031_TrialWolf_Group11_Step11_UnlockCharacter01_StepDescription",
+      "en": "Welcome Flynn Rider to the Vale!",
+      "cz": "Vítej, Flynne Ridere, v Údolí!",
+      "source": "pre_existing",
+      "original_cz": "Vítej, Flynne Ridere, v Údolí!"
+    }
+  ],
+  "Expansion02Main_Expansion02/MRQS_E02_033_FairyDecoratePuzzle.locbin": [
+    {
+      "key": "Story!Expansion02!MRQS_E02_033_FairyDecoratePuzzle_AvailableDescription",
+      "en": "Within the Fairy Tale Trial, {PlayerName} stumbled upon a vexing puzzle: three building materials and three construction sites.",
+      "cz": "Během zkušební verze Pohádky narazil {PlayerName} na otravnou hádanku: tři stavební materiály a tři staveniště.",
+      "source": "pre_existing",
+      "original_cz": "Během zkušební verze Pohádky narazil {PlayerName} na otravnou hádanku: tři stavební materiály a tři staveniště."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_033_FairyDecoratePuzzle_DisplayName",
+      "en": "Not By the Hair on My Chinny Chin Chin",
+      "cz": "Ne za vlasy na mé bradě",
+      "source": "pre_existing",
+      "original_cz": "Ne za vlasy na mé bradě"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_033_FairyDecoratePuzzle_DisplayName_000",
+      "en": "The Wolf of the Wilds",
+      "cz": "Vlk z divočiny",
+      "source": "pre_existing",
+      "original_cz": "Vlk z divočiny"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_033_FairyDecoratePuzzle_Group01_Step01_SceneryPuzzle01_StepDescription",
+      "en": "Bricks.",
+      "cz": "Bricks.",
+      "source": "pre_existing",
+      "original_cz": "Bricks."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_033_FairyDecoratePuzzle_Group01_Step01_SceneryPuzzle02_StepDescription",
+      "en": "Hay.",
+      "cz": "Seno.",
+      "source": "pre_existing",
+      "original_cz": "Seno."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_033_FairyDecoratePuzzle_Group01_Step01_SceneryPuzzle03_StepDescription",
+      "en": "Wood.",
+      "cz": "Wood.",
+      "source": "pre_existing",
+      "original_cz": "Wood."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_033_FairyDecoratePuzzle_Group01_Step01_StepDescription",
+      "en": "(Press {input_inventory}, then navigate to the Furniture section to pick up and move the building materials to the correct place!)",
+      "cz": "(Stiskněte {input_inventory} a poté přejděte do sekce Nábytek, kde můžete sebrat stavební materiál a přemístit ho na správné místo!)",
+      "source": "pre_existing",
+      "original_cz": "(Stiskněte {input_inventory} a poté přejděte do sekce Nábytek, kde můžete sebrat stavební materiál a přemístit ho na správné místo!)"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_033_FairyDecoratePuzzle_Group01_Step01_StepDescriptionMobile",
+      "en": "(Open your Inventory, then navigate to the Furniture section to pick up and move the building materials to the correct place!)",
+      "cz": "(Otevřete si inventář a poté přejděte do sekce Nábytek, kde si můžete sebrat stavební materiál a přemístit ho na správné místo!)",
+      "source": "pre_existing",
+      "original_cz": "(Otevřete si inventář a poté přejděte do sekce Nábytek, kde si můžete sebrat stavební materiál a přemístit ho na správné místo!)"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_033_FairyDecoratePuzzle_Group01_StepDescription",
+      "en": "Place the right building material in the right construction site.",
+      "cz": "Umístěte správný stavební materiál na správné staveniště.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte správný stavební materiál na správné staveniště."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_033_FairyDecoratePuzzle_Group02_Step02_VisitArea01_StepDescription",
+      "en": "Investigate the room full of building materials.",
+      "cz": "Prozkoumejte místnost plnou stavebních materiálů.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte místnost plnou stavebních materiálů."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_033_FairyDecoratePuzzle_Group03_Step03_Possess01_StepDescription",
+      "en": "Pick up the {ItemName}.",
+      "cz": "Seberte předmět {ItemName}.",
+      "source": "pre_existing",
+      "original_cz": "Seberte předmět {ItemName}."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_033_FairyDecoratePuzzle_Group03_StepDescription",
+      "en": "A curtain opened at the back of the room, revealing something!",
+      "cz": "V zadní části místnosti se otevřela opona a něco odhalila!",
+      "source": "pre_existing",
+      "original_cz": "V zadní části místnosti se otevřela opona a něco odhalila!"
+    }
+  ],
+  "Expansion02Main_Expansion02/MRQS_E02_040_IntroTea.locbin": [
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_AvailableDescription",
+      "en": "{PlayerName} journeyed deeper into Everafter, and uncovered a most curious sight: an area marked by a waterfall shaped like a giant teapot! This certainly called for some exploration.",
+      "cz": "Hráč {PlayerName} se vydal hlouběji do Everafteru a objevil velmi kuriózní úkaz: oblast označenou vodopádem ve tvaru obří konvice! To si rozhodně vyžádalo průzkum.",
+      "source": "pre_existing",
+      "original_cz": "Hráč {PlayerName} se vydal hlouběji do Everafteru a objevil velmi kuriózní úkaz: oblast označenou vodopádem ve tvaru obří konvice! To si rozhodně vyžádalo průzkum."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_DisplayName",
+      "en": "Curiouser and Curiouser...",
+      "cz": "Podivnější a podivnější...",
+      "source": "pre_existing",
+      "original_cz": "Podivnější a podivnější..."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group01_Step01_VisitArea01_StepDescription",
+      "en": "Explore the <ActivityItem>Teapot Falls</ActivityItem>.",
+      "cz": "Prozkoumejte <ActivityItem>Vodopády Teapot</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte <ActivityItem>Vodopády Teapot</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group01_StepDescription",
+      "en": "You've cleared away the ink blocking the way, and discovered a new part of Everafter.",
+      "cz": "Odstranili jste inkoust blokující cestu a objevili jste novou část Everafteru.",
+      "source": "pre_existing",
+      "original_cz": "Odstranili jste inkoust blokující cestu a objevili jste novou část Everafteru."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group02_Step02_StepDescription",
+      "en": "The way forward is blocked by those curious giant teacups.",
+      "cz": "Cestu vpřed blokují ty zvědavé obří čajové šálky.",
+      "source": "pre_existing",
+      "original_cz": "Cestu vpřed blokují ty zvědavé obří čajové šálky."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group02_Step02_TakePicture01_StepDescription",
+      "en": "Take a picture of them.",
+      "cz": "Vyfoťte je.",
+      "source": "pre_existing",
+      "original_cz": "Vyfoťte je."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group02_StoryDescription",
+      "en": "{PlayerName} found it was impossible to get any closer to the Teapot Falls, for some mysterious debris was blocking the way. {PlayerName} decided to snap some pictures for further investigation.",
+      "cz": "Hráč {PlayerName} zjistil, že se k vodopádům Teapot Falls nemůže dostat blíž, protože cestu blokovaly nějaké záhadné trosky. {PlayerName} se rozhodl pořídit si pár fotek pro další zkoumání.",
+      "source": "pre_existing",
+      "original_cz": "Hráč {PlayerName} zjistil, že se k vodopádům Teapot Falls nemůže dostat blíž, protože cestu blokovaly nějaké záhadné trosky. {PlayerName} se rozhodl pořídit si pár fotek pro další zkoumání."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group03_Step03_Conditional01_StepDescription",
+      "en": "Explore the Wild Woods to find a Villager who might be able to help you.",
+      "cz": "Prozkoumejte Divoké lesy a najděte vesničana, který by vám mohl pomoci.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte Divoké lesy a najděte vesničana, který by vám mohl pomoci."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group03_StepDescription",
+      "en": "The way is blocked, and there are no clues about how to proceed...",
+      "cz": "Cesta je zablokovaná a neexistují žádné vodítka, jak postupovat...",
+      "source": "pre_existing",
+      "original_cz": "Cesta je zablokovaná a neexistují žádné vodítka, jak postupovat..."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group04_Step04_StepDescription",
+      "en": "Maybe a Villager who's spent more time in Everafter knows what these are...",
+      "cz": "Možná vesničan, který strávil delší dobu v Everafteru, ví, co tohle je...",
+      "source": "pre_existing",
+      "original_cz": "Možná vesničan, který strávil delší dobu v Everafteru, ví, co tohle je..."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group04_Step04_TalkToCharacter01_StepDescription",
+      "en": "Show Flynn the pictures.",
+      "cz": "Ukaž Flynnovi obrázky.",
+      "source": "pre_existing",
+      "original_cz": "Ukaž Flynnovi obrázky."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group05_Step05_StepDescription",
+      "en": "To clear the way to the Teapot Falls, you'll need some help from someone knowledgeable...",
+      "cz": "Abyste si vyčistili cestu k vodopádům Teapot Falls, budete potřebovat pomoc od někoho zkušeného...",
+      "source": "pre_existing",
+      "original_cz": "Abyste si vyčistili cestu k vodopádům Teapot Falls, budete potřebovat pomoc od někoho zkušeného..."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group05_Step05_TalkToCharacter02_StepDescription",
+      "en": "Talk to the Lorekeeper.",
+      "cz": "Promluvte si se Strážcem věštby.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Strážcem věštby."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group06_Step06_Possess01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group06_Step06_Possess06_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group06_Step06_Possess07_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group06_Step06_StepDescription",
+      "en": "Catch Snippets to restore the story of Aurora to the Lorekeeper's pages.",
+      "cz": "Zachyťte úryvky, abyste obnovili příběh Aurory na stránkách Věštce.",
+      "source": "pre_existing",
+      "original_cz": "Zachyťte úryvky, abyste obnovili příběh Aurory na stránkách Věštce."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group06_StoryDescription",
+      "en": "The Lorekeeper told {PlayerName} that Aurora faced this same challenge with the help of the good fairies. {PlayerName} would need to uncover more of Aurora's story to find out how she solved it.",
+      "cz": "Strážce věštby řekl hráči {PlayerName}, že Aurora čelila stejné výzvě s pomocí dobrých víl. {PlayerName} bude muset odhalit více z Aurorina příběhu, aby zjistila, jak ji vyřešila.",
+      "source": "pre_existing",
+      "original_cz": "Strážce věštby řekl hráči {PlayerName}, že Aurora čelila stejné výzvě s pomocí dobrých víl. {PlayerName} bude muset odhalit více z Aurorina příběhu, aby zjistila, jak ji vyřešila."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group07_Step08_StepDescription",
+      "en": "(Press {input_mainmenu} to access the Collection menu and navigate to the correct section to see your completed Lorekeeper Tales.)",
+      "cz": "(Stiskněte {input_mainmenu} pro přístup do nabídky Sbírka a přejděte do správné sekce, kde najdete své dokončené Příběhy znalců.)",
+      "source": "pre_existing",
+      "original_cz": "(Stiskněte {input_mainmenu} pro přístup do nabídky Sbírka a přejděte do správné sekce, kde najdete své dokončené Příběhy znalců.)"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group07_Step08_StepDescriptionMobile",
+      "en": "(Open your Collection menu and navigate to the correct section to see your completed Lorekeeper Tales.)",
+      "cz": "(Otevřete nabídku Sbírky a přejděte do správné sekce, kde najdete své dokončené Příběhy znalců.)",
+      "source": "pre_existing",
+      "original_cz": "(Otevřete nabídku Sbírky a přejděte do správné sekce, kde najdete své dokončené Příběhy znalců.)"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group07_StepDescription",
+      "en": "Find the bookshelf shown in Aurora's story in the Bind and search it for <ActivityItem>Aurora's Notes</ActivityItem>.",
+      "cz": "Ve složce Bind najděte knihovnu zobrazenou v Aurořině příběhu a vyhledejte v ní <ActivityItem>Aurořiny poznámky</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ve složce Bind najděte knihovnu zobrazenou v Aurořině příběhu a vyhledejte v ní <ActivityItem>Aurořiny poznámky</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group07_StoryDescription",
+      "en": "{PlayerName} uncovered the tale of Aurora and the good fairies. She was given a special recipe to help remove the debris blocking the way. Now, it was up to {PlayerName} to find those notes.",
+      "cz": "{PlayerName} odhalila příběh o Auroře a dobrých vílách. Dostala speciální recept, který jí měl pomoci odstranit trosky blokující cestu. Nyní bylo na {PlayerName}, aby tyto poznámky našla.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName} odhalila příběh o Auroře a dobrých vílách. Dostala speciální recept, který jí měl pomoci odstranit trosky blokující cestu. Nyní bylo na {PlayerName}, aby tyto poznámky našla."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group08_Step09_Possess02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group08_Step09_Possess03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group08_Step09_Possess04_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group08_Step09_Possess05_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group08_Step09_StepDescription",
+      "en": "Gather the Ingredients from Aurora's notes:",
+      "cz": "Seberte ingredience z Aurořiných poznámek:",
+      "source": "pre_existing",
+      "original_cz": "Seberte ingredience z Aurořiných poznámek:"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group09_Step10_CraftItem01_StepDescription",
+      "en": "Craft the {ItemName}.",
+      "cz": "Vyrobte {ItemName}.",
+      "source": "pre_existing",
+      "original_cz": "Vyrobte {ItemName}."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group10_Step11_ConsumeItem01_StepDescription",
+      "en": "Use the {ItemName} in your Inventory.",
+      "cz": "Použijte {ItemName} ve svém inventáři.",
+      "source": "pre_existing",
+      "original_cz": "Použijte {ItemName} ve svém inventáři."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group11_Step12_Conditional03_StepDescription",
+      "en": "Activate the Fairy Tale Trial using your Royal Net.",
+      "cz": "Aktivujte zkušební verzi Pohádky pomocí Královské sítě.",
+      "source": "pre_existing",
+      "original_cz": "Aktivujte zkušební verzi Pohádky pomocí Královské sítě."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group11_Step12_StepDescription",
+      "en": "Return to the Teapot Falls and remove the debris blocking the way.",
+      "cz": "Vraťte se k vodopádům Teapot Falls a odstraňte trosky blokující cestu.",
+      "source": "pre_existing",
+      "original_cz": "Vraťte se k vodopádům Teapot Falls a odstraňte trosky blokující cestu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group11_StoryDescription",
+      "en": "{PlayerName} cleared the way to the Fairy Tale Trial. Now all that remained was to step inside.",
+      "cz": "{PlayerName} uvolnil cestu k Pohádkové zkoušce. Teď už jen zbývalo vstoupit dovnitř.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName} uvolnil cestu k Pohádkové zkoušce. Teď už jen zbývalo vstoupit dovnitř."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group12_Step07_StepDescription",
+      "en": "Restore the <ActivityItem>Aurora and the Teapot Falls</ActivityItem> tale to the Lorekeeper's pages.",
+      "cz": "Obnovte příběh <ActivityItem>Aurora a vodopády v čajové konvici</ActivityItem> na stránky Věštce.",
+      "source": "pre_existing",
+      "original_cz": "Obnovte příběh <ActivityItem>Aurora a vodopády v čajové konvici</ActivityItem> na stránky Věštce."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_040_IntroTea_Group07_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>I can't figure out where Aurora left her notes!",
+      "cz": "<smallcaps>{title}</smallcaps><br>I can't figure out where Aurora left her notes!",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>I can't figure out where Aurora left her notes!"
+    }
+  ],
+  "Expansion02Main_Expansion02/MRQS_E02_041_TrialTea.locbin": [
+    {
+      "key": "Story!Expansion02!MRQS_E02_041_TrialTea_Any_CompletedRequestDescription",
+      "en": "Talk to Flynn.",
+      "cz": "Promluvte si s Flynnem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Flynnem."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_041_TrialTea_AvailableDescription",
+      "en": "Deep in Everafter, {PlayerName} uncovered a waterfall made of mysterious, giant tea pots. In their shadow, {PlayerName} found yet another Fairy Tale Trial, and grew one step closer to a meeting with Maleficent.",
+      "cz": "Hluboko v Everafteru objevil {PlayerName} vodopád složený z tajemných obřích čajových konvic. V jejich stínu našel {PlayerName} další Pohádkovou zkoušku a o krok se přiblížil k setkání se Zlobou.",
+      "source": "pre_existing",
+      "original_cz": "Hluboko v Everafteru objevil {PlayerName} vodopád složený z tajemných obřích čajových konvic. V jejich stínu našel {PlayerName} další Pohádkovou zkoušku a o krok se přiblížil k setkání se Zlobou."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_041_TrialTea_DisplayName",
+      "en": "Teapot Falls",
+      "cz": "Pády čajové konvice",
+      "source": "pre_existing",
+      "original_cz": "Pády čajové konvice"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_041_TrialTea_Group01_Step01_VisitArea01_StepDescription",
+      "en": "Enter the <ActivityItem>Fairy Tale Trial</ActivityItem> at the Teapot Falls.",
+      "cz": "Vstupte do <ActivityItem>Pohádkové zkoušky</ActivityItem> u vodopádů Teapot Falls.",
+      "source": "pre_existing",
+      "original_cz": "Vstupte do <ActivityItem>Pohádkové zkoušky</ActivityItem> u vodopádů Teapot Falls."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_041_TrialTea_Group03_Step03_VisitArea02_StepDescription",
+      "en": "Explore the Fairy Tale Trial with Flynn.",
+      "cz": "Prozkoumejte Pohádkovou zkoušku s Flynnem.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte Pohádkovou zkoušku s Flynnem."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_041_TrialTea_Group04_Step04_Conditional01_StepDescription",
+      "en": "Figure out what to do with the clock on the wall.",
+      "cz": "Vymyslete, co dělat s hodinami na zdi.",
+      "source": "pre_existing",
+      "original_cz": "Vymyslete, co dělat s hodinami na zdi."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_041_TrialTea_Group06_Step06_FillKeyhole01_StepDescription",
+      "en": "Find the <ActivityItem>Stout Tea Pot</ActivityItem> and <ActivityItem>Tall Tea Pot</ActivityItem> and put them both on the tray at the end of the table.",
+      "cz": "Najděte <ActivityItem>Těžkou konvici</ActivityItem> a <ActivityItem>Vysokou konvici</ActivityItem> a obě je položte na tác na konci stolu.",
+      "source": "pre_existing",
+      "original_cz": "Najděte <ActivityItem>Těžkou konvici</ActivityItem> a <ActivityItem>Vysokou konvici</ActivityItem> a obě je položte na tác na konci stolu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_041_TrialTea_Group07_Step05_TalkToCharacter02_StepDescription",
+      "en": "(Optional) Check in with Flynn.",
+      "cz": "(Volitelné) Kontaktujte Flynna.",
+      "source": "pre_existing",
+      "original_cz": "(Volitelné) Kontaktujte Flynna."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_041_TrialTea_Group07_Step10_SceneryPuzzle01_StepDescription",
+      "en": "The Ornate Pink Chair.",
+      "cz": "Zdobená růžová židle.",
+      "source": "pre_existing",
+      "original_cz": "Zdobená růžová židle."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_041_TrialTea_Group07_Step10_SceneryPuzzle02_StepDescription",
+      "en": "The Sturdy Wooden Chair.",
+      "cz": "Robustní dřevěná židle.",
+      "source": "pre_existing",
+      "original_cz": "Robustní dřevěná židle."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_041_TrialTea_Group07_Step10_SceneryPuzzle03_StepDescription",
+      "en": "The Elegant Blue Chair.",
+      "cz": "Elegantní modrá židle.",
+      "source": "pre_existing",
+      "original_cz": "Elegantní modrá židle."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_041_TrialTea_Group07_Step10_StepDescription",
+      "en": "(Press {input_inventory}, then navigate to the Furniture section to pick up and move the items to the correct place!)",
+      "cz": "(Stiskněte {input_inventory} a poté přejděte do sekce Nábytek, kde si můžete sebrat a přemístit předměty na správné místo!)",
+      "source": "pre_existing",
+      "original_cz": "(Stiskněte {input_inventory} a poté přejděte do sekce Nábytek, kde si můžete sebrat a přemístit předměty na správné místo!)"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_041_TrialTea_Group07_Step10_StepDescriptionMobile",
+      "en": "(Open your Inventory, then navigate to the Furniture section to pick up and move the items to the correct place!)",
+      "cz": "(Otevřete si inventář a poté přejděte do sekce Nábytek, kde si můžete sebrat a přemístit předměty na správné místo!)",
+      "source": "pre_existing",
+      "original_cz": "(Otevřete si inventář a poté přejděte do sekce Nábytek, kde si můžete sebrat a přemístit předměty na správné místo!)"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_041_TrialTea_Group07_StepDescription",
+      "en": "Set the table for tea time.",
+      "cz": "Prostřete stůl k čaji.",
+      "source": "pre_existing",
+      "original_cz": "Prostřete stůl k čaji."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_041_TrialTea_Group08_Step08_Interaction01_StepDescription",
+      "en": "Interact with the source of the corruption inside the Fairy Tale Trial.",
+      "cz": "Interakce se zdrojem korupce uvnitř Pohádkové zkoušky.",
+      "source": "pre_existing",
+      "original_cz": "Interakce se zdrojem korupce uvnitř Pohádkové zkoušky."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_041_TrialTea_Group09_Step09_VisitArea03_StepDescription",
+      "en": "Return to the Storybook Vale.",
+      "cz": "Návrat do Údolí pohádek.",
+      "source": "pre_existing",
+      "original_cz": "Návrat do Údolí pohádek."
+    }
+  ],
+  "Expansion02Main_Expansion02/MRQS_E02_050_IntroKnight.locbin": [
+    {
+      "key": "Story!Expansion02!MRQS_E02_050_IntroKnight_AvailableDescription",
+      "en": "{PlayerName} soon stumbled upon yet another grand place in Everafter: a vast moor with a ruined old castle at the far side. The place seemed like an invitation to adventure.",
+      "cz": "{PlayerName} brzy narazil na další velkolepé místo v Everafteru: rozlehlé vřesoviště se zříceninou starého hradu na druhé straně. Místo se zdálo být pozvánkou k dobrodružství.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName} brzy narazil na další velkolepé místo v Everafteru: rozlehlé vřesoviště se zříceninou starého hradu na druhé straně. Místo se zdálo být pozvánkou k dobrodružství."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_050_IntroKnight_DisplayName",
+      "en": "The Fallen Fortress",
+      "cz": "Padlá pevnost",
+      "source": "pre_existing",
+      "original_cz": "Padlá pevnost"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_050_IntroKnight_Group01_Step01_VisitArea01_StepDescription",
+      "en": "Explore the area around the <ActivityItem>Fallen Fortress</ActivityItem>.",
+      "cz": "Prozkoumejte oblast kolem <ActivityItem>Padlé pevnosti</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte oblast kolem <ActivityItem>Padlé pevnosti</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_050_IntroKnight_Group02_Step02_Interaction01_StepDescription",
+      "en": "Look for a way to <ActivityItem>lower the castle's drawbridge</ActivityItem>.",
+      "cz": "Hledejte způsob, jak <ActivityItem>spustit padací most hradu</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Hledejte způsob, jak <ActivityItem>spustit padací most hradu</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_050_IntroKnight_Group02_Step02_StepDescription",
+      "en": "There seems to be something important on the other side of those crumbling castle walls...",
+      "cz": "Zdá se, že za těmi rozpadajícími se hradními zdmi je něco důležitého...",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že za těmi rozpadajícími se hradními zdmi je něco důležitého..."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_050_IntroKnight_Group03_Step03_Conditional01_StepDescription",
+      "en": "Explore the Wild Woods to find a Villager who might be able to help you.",
+      "cz": "Prozkoumejte Divoké lesy a najděte vesničana, který by vám mohl pomoci.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte Divoké lesy a najděte vesničana, který by vám mohl pomoci."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_050_IntroKnight_Group03_Step03_StepDescription",
+      "en": "The drawbridge won't budge. You might need help on this one...",
+      "cz": "Padací most se nehne. S tímhle budeš možná potřebovat pomoc...",
+      "source": "pre_existing",
+      "original_cz": "Padací most se nehne. S tímhle budeš možná potřebovat pomoc..."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_050_IntroKnight_Group04_Step04_StepDescription",
+      "en": "The drawbridge won't budge. You might need help on this one...",
+      "cz": "Padací most se nehne. S tímhle budeš možná potřebovat pomoc...",
+      "source": "pre_existing",
+      "original_cz": "Padací most se nehne. S tímhle budeš možná potřebovat pomoc..."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_050_IntroKnight_Group04_Step04_TalkToCharacter01_StepDescription",
+      "en": "Talk to Flynn about the mysterious Fortress and its drawbridge.",
+      "cz": "Promluv si s Flynnem o tajemné pevnosti a jejím padacím mostě.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Flynnem o tajemné pevnosti a jejím padacím mostě."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_050_IntroKnight_Group05_Step05_ConsumeItem01_StepDescription",
+      "en": "Examine {ItemName} in your Inventory.",
+      "cz": "Prozkoumejte {ItemName} ve svém inventáři.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte {ItemName} ve svém inventáři."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_050_IntroKnight_Group06_Step06_Possess01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_050_IntroKnight_Group06_Step06_Possess02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_050_IntroKnight_Group06_Step06_Possess03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_050_IntroKnight_Group06_Step06_Possess04_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_050_IntroKnight_Group06_Step06_StepDescription",
+      "en": "Gather the materials required to craft the <ActivityItem>Fairy Tale Armor</ActivityItem>:",
+      "cz": "Shromážděte materiály potřebné k výrobě <ActivityItem>Pohádkové zbroje</ActivityItem>:",
+      "source": "pre_existing",
+      "original_cz": "Shromážděte materiály potřebné k výrobě <ActivityItem>Pohádkové zbroje</ActivityItem>:"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_050_IntroKnight_Group07_Step07_CraftItem01_StepDescription",
+      "en": "Craft the {ItemName}.",
+      "cz": "Vyrobte {ItemName}.",
+      "source": "pre_existing",
+      "original_cz": "Vyrobte {ItemName}."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_050_IntroKnight_Group08_Step08_TalkToCharacter02_StepDescription",
+      "en": "Return to {TargetNPC}.",
+      "cz": "Zpět na {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Zpět na {TargetNPC}."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_050_IntroKnight_Group10_Step10_DressUp01_StepDescription",
+      "en": "Wearing {ItemName}.",
+      "cz": "Nošení {ItemName}.",
+      "source": "pre_existing",
+      "original_cz": "Nošení {ItemName}."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_050_IntroKnight_Group10_Step11_Conditional03_StepDescription",
+      "en": "Hanging out with your squire (Flynn!).",
+      "cz": "Trávím čas s tvým panošem (Flynnem!).",
+      "source": "pre_existing",
+      "original_cz": "Trávím čas s tvým panošem (Flynnem!)."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_050_IntroKnight_Group10_Step11_Conditional06_StepDescription",
+      "en": "(Optional) Tame any <ActivityItem>Baby Dragon</ActivityItem> in Everafter.",
+      "cz": "(Volitelné) Zkroťte libovolné <ActivityItem>mládě draka</ActivityItem> v Everafteru.",
+      "source": "pre_existing",
+      "original_cz": "(Volitelné) Zkroťte libovolné <ActivityItem>mládě draka</ActivityItem> v Everafteru."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_050_IntroKnight_Group10_StepDescription",
+      "en": "You are making good progress on your way to becoming a knight! Complete the journey by:",
+      "cz": "Děláš dobré pokroky na cestě k tomu, abys se stal rytířem! Dokonči cestu tím, že:",
+      "source": "pre_existing",
+      "original_cz": "Děláš dobré pokroky na cestě k tomu, abys se stal rytířem! Dokonči cestu tím, že:"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_050_IntroKnight_Group11_Step13_StepDescription",
+      "en": "Enter the Fortress grounds and activate the <ActivityItem>Fairy Tale Trial</ActivityItem> with your Royal Net.",
+      "cz": "Vstupte do pevnosti a aktivujte <ActivityItem>Pohádkovou zkoušku</ActivityItem> pomocí své Královské sítě.",
+      "source": "pre_existing",
+      "original_cz": "Vstupte do pevnosti a aktivujte <ActivityItem>Pohádkovou zkoušku</ActivityItem> pomocí své Královské sítě."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_050_IntroKnight_Group11_StepDescription",
+      "en": "The drawbridge is lowered!",
+      "cz": "Padací most je spuštěn!",
+      "source": "pre_existing",
+      "original_cz": "Padací most je spuštěn!"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_050_IntroKnight_Group12_Step14_Conditional05_StepDescription",
+      "en": "Lower the drawbridge to the Fallen Fortress.",
+      "cz": "Spusťte padací most k Padlé pevnosti.",
+      "source": "pre_existing",
+      "original_cz": "Spusťte padací most k Padlé pevnosti."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_050_IntroKnight_Group12_StepDescription",
+      "en": "You are officially a knight! Congratulations, {PlayerName} the Brave.",
+      "cz": "Jsi oficiálně rytíř! Gratuluji, {PlayerName} Statečný.",
+      "source": "pre_existing",
+      "original_cz": "Jsi oficiálně rytíř! Gratuluji, {PlayerName} Statečný."
+    }
+  ],
+  "Expansion02Main_Expansion02/MRQS_E02_051_TrialKnight.locbin": [
+    {
+      "key": "Story!Expansion02!MRQS_E02_051_TrialKnight_Any_CompletedRequestDescription",
+      "en": "Return to Flynn.",
+      "cz": "Zpět k Flynnovi.",
+      "source": "pre_existing",
+      "original_cz": "Zpět k Flynnovi."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_051_TrialKnight_AvailableDescription",
+      "en": "Amidst some old castle ruins, {PlayerName} found the entrance to yet another Fairy Tale Trial. What adventures awaited inside?",
+      "cz": "Uprostřed ruin starého hradu našel {PlayerName} vchod do další Pohádkové zkoušky. Jaká dobrodružství ho uvnitř čekala?",
+      "source": "pre_existing",
+      "original_cz": "Uprostřed ruin starého hradu našel {PlayerName} vchod do další Pohádkové zkoušky. Jaká dobrodružství ho uvnitř čekala?"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_051_TrialKnight_CompletedStoryDescription",
+      "en": "Inside the Fairy Tale Trial, {PlayerName} recreated a scene from an old adventure story: brave knights facing down fierce foes. {PlayerName} would need a little of that same courage if there was to be any hope of facing down Maleficent.",
+      "cz": "V rámci Pohádkové zkoušky {PlayerName} znovu vytvořil scénu ze starého dobrodružného příběhu: stateční rytíři čelí zuřivým nepřátelům. {PlayerName} by potřeboval trochu stejné odvahy, pokud by chtěl čelit Zlobě.",
+      "source": "pre_existing",
+      "original_cz": "V rámci Pohádkové zkoušky {PlayerName} znovu vytvořil scénu ze starého dobrodružného příběhu: stateční rytíři čelí zuřivým nepřátelům. {PlayerName} by potřeboval trochu stejné odvahy, pokud by chtěl čelit Zlobě."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_051_TrialKnight_DisplayName",
+      "en": "The Knights of the Round Table",
+      "cz": "Rytíři kulatého stolu",
+      "source": "pre_existing",
+      "original_cz": "Rytíři kulatého stolu"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_051_TrialKnight_Group01_Step01_VisitArea01_StepDescription",
+      "en": "Enter the Fairy Tale Trial near the Fallen Fortress.",
+      "cz": "Vstupte do Pohádkové zkoušky poblíž Padlé pevnosti.",
+      "source": "pre_existing",
+      "original_cz": "Vstupte do Pohádkové zkoušky poblíž Padlé pevnosti."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_051_TrialKnight_Group03_Step03_StepDescription",
+      "en": "Search for and return the missing piece to each knight.",
+      "cz": "Vyhledejte a vraťte chybějící figurku každému rytíři.",
+      "source": "pre_existing",
+      "original_cz": "Vyhledejte a vraťte chybějící figurku každému rytíři."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_051_TrialKnight_Group03_Step08_TalkToCharacter02_StepDescription",
+      "en": "(Optional) Talk to Flynn.",
+      "cz": "(Volitelné) Promluvte si s Flynnem.",
+      "source": "pre_existing",
+      "original_cz": "(Volitelné) Promluvte si s Flynnem."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_051_TrialKnight_Group03_StepDescription",
+      "en": "These knight statues seem to be missing something...",
+      "cz": "Zdá se, že těmto sochám rytířů něco chybí...",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že těmto sochám rytířů něco chybí..."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_051_TrialKnight_Group04_Step04_Conditional01_StepDescription",
+      "en": "Position each knight to face its foe.",
+      "cz": "Postavte každého rytíře čelem k jeho nepříteli.",
+      "source": "pre_existing",
+      "original_cz": "Postavte každého rytíře čelem k jeho nepříteli."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_051_TrialKnight_Group05_Step05_Interaction01_StepDescription",
+      "en": "Interact with the source of the corruption inside the Fairy Tale Trial.",
+      "cz": "Interakce se zdrojem korupce uvnitř Pohádkové zkoušky.",
+      "source": "pre_existing",
+      "original_cz": "Interakce se zdrojem korupce uvnitř Pohádkové zkoušky."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_051_TrialKnight_Group06_Step06_VisitArea02_StepDescription",
+      "en": "Return to the Storybook Vale.",
+      "cz": "Návrat do Údolí pohádek.",
+      "source": "pre_existing",
+      "original_cz": "Návrat do Údolí pohádek."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_051_TrialKnight_Group07_Step07_VisitArea03_StepDescription",
+      "en": "Explore the Fairy Tale Trial.",
+      "cz": "Prozkoumejte Pohádkovou zkoušku.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte Pohádkovou zkoušku."
+    }
+  ],
+  "Expansion02Main_Expansion02/MRQS_E02_060_FairyDungeon.locbin": [
+    {
+      "key": "Story!Expansion02!MRQS_E02_060_FairyDungeon_Any_CompletedRequestDescription",
+      "en": "Talk to Maleficent.",
+      "cz": "Promluv si se Zlobou.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si se Zlobou."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_060_FairyDungeon_AvailableDescription",
+      "en": "At last, after trying so long to reach Maleficent's castle, {PlayerName} cleared away the last of the ink.",
+      "cz": "Konečně, po tak dlouhém pokusu dostat se k Zlobě hradu, {PlayerName} setřela poslední zbytky inkoustu.",
+      "source": "pre_existing",
+      "original_cz": "Konečně, po tak dlouhém pokusu dostat se k Zlobě hradu, {PlayerName} setřela poslední zbytky inkoustu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_060_FairyDungeon_CompletedStoryDescription",
+      "en": "Though Maleficent doubted that {PlayerName} could capture her \"pet,\" {PlayerName} proved her wrong. Now, all that remained was convincing Maleficent to settle her feud with Hades.",
+      "cz": "Ačkoliv Zloba pochybovala, že {PlayerName} dokáže ukořistit jejího „mazlíčka“, {PlayerName} jí dokázala, že se mýlila. Teď už jen zbývalo přesvědčit Zlobu, aby urovnala svůj spor s Hádem.",
+      "source": "pre_existing",
+      "original_cz": "Ačkoliv Zloba pochybovala, že {PlayerName} dokáže ukořistit jejího „mazlíčka“, {PlayerName} jí dokázala, že se mýlila. Teď už jen zbývalo přesvědčit Zlobu, aby urovnala svůj spor s Hádem."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_060_FairyDungeon_DisplayName",
+      "en": "The Mistress of All Evil",
+      "cz": "Paní všeho zla",
+      "source": "pre_existing",
+      "original_cz": "Paní všeho zla"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_060_FairyDungeon_DisplayName_000",
+      "en": "Mystery",
+      "cz": "Tajemství",
+      "source": "pre_existing",
+      "original_cz": "Tajemství"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_060_FairyDungeon_Group01_Step01_VisitArea01_StepDescription",
+      "en": "Explore the Beanstalk Marshes around Maleficent's castle.",
+      "cz": "Prozkoumejte Beanstalk Marshes kolem Zlobyina hradu.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte Beanstalk Marshes kolem Zlobyina hradu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_060_FairyDungeon_Group02_Step02_Conditional01_StepDescription",
+      "en": "The Wolf of the Wilds.",
+      "cz": "Vlk z divočiny.",
+      "source": "pre_existing",
+      "original_cz": "Vlk z divočiny."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_060_FairyDungeon_Group02_Step02_Conditional02_StepDescription",
+      "en": "Teapot Falls.",
+      "cz": "Vodopády Teapot.",
+      "source": "pre_existing",
+      "original_cz": "Vodopády Teapot."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_060_FairyDungeon_Group02_Step02_Conditional03_StepDescription",
+      "en": "Knights of the Round Table.",
+      "cz": "Rytíři kulatého stolu.",
+      "source": "pre_existing",
+      "original_cz": "Rytíři kulatého stolu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_060_FairyDungeon_Group02_Step02_StepDescription",
+      "en": "Explore Everafter and complete the three Fairy Tale Trials to reach Maleficent's castle.",
+      "cz": "Prozkoumejte Everafter a dokončete tři Pohádkové zkoušky, abyste se dostali k Maleficentinu hradu.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte Everafter a dokončete tři Pohádkové zkoušky, abyste se dostali k Maleficentinu hradu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_060_FairyDungeon_Group03_Step03_VisitArea02_StepDescription",
+      "en": "Enter Maleficent's castle.",
+      "cz": "Vstupte do Zlobyina hradu.",
+      "source": "pre_existing",
+      "original_cz": "Vstupte do Zlobyina hradu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_060_FairyDungeon_Group04_Step04_TalkToCharacter01_StepDescription",
+      "en": "Talk to Maleficent inside her castle.",
+      "cz": "Promluvte si se Zlobou uvnitř jejího hradu.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Zlobou uvnitř jejího hradu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_060_FairyDungeon_Group05_Step05_FillKeyhole01_StepDescription",
+      "en": "Find Maleficent's missing <ActivityItem>Spinning Wheel</ActivityItem> and <ActivityItem>Throne</ActivityItem> in her castle, then place them back in the main room.",
+      "cz": "Najděte v Zloběčině hradě chybějící <ActivityItem>Kolovrat</ActivityItem> a <ActivityItem>Trůn</ActivityItem> a poté je vraťte zpět do hlavní místnosti.",
+      "source": "pre_existing",
+      "original_cz": "Najděte v Zloběčině hradě chybějící <ActivityItem>Kolovrat</ActivityItem> a <ActivityItem>Trůn</ActivityItem> a poté je vraťte zpět do hlavní místnosti."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_060_FairyDungeon_Group05_StoryDescription",
+      "en": "Inside the castle, {PlayerName} came face to face with the Mistress of All Evil herself. Maleficent asked {PlayerName} for a little favor: Set the castle right and capture her escaped \"pets.\"",
+      "cz": "Uvnitř hradu se {PlayerName} setkala tváří v tvář se samotnou Paní všeho zla. Zloba požádala {PlayerName} o malou laskavost: Opravit hrad a zajmout její uprchlé „mazlíčky“.",
+      "source": "pre_existing",
+      "original_cz": "Uvnitř hradu se {PlayerName} setkala tváří v tvář se samotnou Paní všeho zla. Zloba požádala {PlayerName} o malou laskavost: Opravit hrad a zajmout její uprchlé „mazlíčky“."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_060_FairyDungeon_Group06_Step06_SceneryPuzzle01_StepDescription",
+      "en": "Maleficent's Throne.",
+      "cz": "Zlobivý trůn.",
+      "source": "pre_existing",
+      "original_cz": "Zlobivý trůn."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_060_FairyDungeon_Group06_Step06_SceneryPuzzle02_StepDescription",
+      "en": "Maleficent's Candelabra.",
+      "cz": "Zlobivý svícen.",
+      "source": "pre_existing",
+      "original_cz": "Zlobivý svícen."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_060_FairyDungeon_Group06_Step06_SceneryPuzzle03_StepDescription",
+      "en": "Maleficent's Fire.",
+      "cz": "Maleficentin oheň.",
+      "source": "pre_existing",
+      "original_cz": "Maleficentin oheň."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_060_FairyDungeon_Group06_Step06_SceneryPuzzle04_StepDescription",
+      "en": "Maleficent's Spinning Wheel.",
+      "cz": "Zlobivé kolovrat.",
+      "source": "pre_existing",
+      "original_cz": "Zlobivé kolovrat."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_060_FairyDungeon_Group06_Step06_StepDescription",
+      "en": "(Press {input_inventory}, then navigate to the Furniture section to pick up and move the furniture to the correct place.)",
+      "cz": "(Stiskněte {input_inventory} a poté přejděte do sekce Nábytek, kde si můžete nábytek vyzvednout a přemístit na správné místo.)",
+      "source": "pre_existing",
+      "original_cz": "(Stiskněte {input_inventory} a poté přejděte do sekce Nábytek, kde si můžete nábytek vyzvednout a přemístit na správné místo.)"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_060_FairyDungeon_Group06_Step06_StepDescriptionMobile",
+      "en": "(Open your Inventory, then navigate to the Furniture section to pick up and move the furniture to the correct place.)",
+      "cz": "(Otevřete si inventář a poté přejděte do sekce Nábytek, kde si můžete nábytek sebrat a přemístit na správné místo.)",
+      "source": "pre_existing",
+      "original_cz": "(Otevřete si inventář a poté přejděte do sekce Nábytek, kde si můžete nábytek sebrat a přemístit na správné místo.)"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_060_FairyDungeon_Group06_StepDescription",
+      "en": "Place all of Maleficent's furniture back where it belongs.",
+      "cz": "Vraťte veškerý Zlobin nábytek na své místo.",
+      "source": "pre_existing",
+      "original_cz": "Vraťte veškerý Zlobin nábytek na své místo."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_060_FairyDungeon_Group07_Step07_VisitArea03_StepDescription",
+      "en": "Pass through the portal to Maleficent's throne room.",
+      "cz": "Projděte portálem do Zlobyina trůnního sálu.",
+      "source": "pre_existing",
+      "original_cz": "Projděte portálem do Zlobyina trůnního sálu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_060_FairyDungeon_Group08_StepDescription",
+      "en": "Catch <ActivityItem>Maleficent's Pets</ActivityItem>.",
+      "cz": "Chyť <ActivityItem>Zlobivé mazlíčky</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Chyť <ActivityItem>Zlobivé mazlíčky</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_060_FairyDungeon_Group09_StepDescription",
+      "en": "Catch <ActivityItem>Maleficent's Pets</ActivityItem>.",
+      "cz": "Chyť <ActivityItem>Zlobivé mazlíčky</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Chyť <ActivityItem>Zlobivé mazlíčky</ActivityItem>."
+    }
+  ],
+  "Expansion02Main_Expansion02/MRQS_E02_070_IntroGlory.locbin": [
+    {
+      "key": "Story!Expansion02!MRQS_E02_070_IntroGlory_AvailableDescription",
+      "en": "{PlayerName} cleared away the ink blocking the path into Mythopia. There, our hero found some golden fields, and yet more ink spilling from the ground. What mysteries could this place hold?",
+      "cz": "{PlayerName} odstranil inkoust blokující cestu do Mythopie. Tam náš hrdina nalezl zlatá pole a ještě více inkoustu vytékajícího ze země. Jaká tajemství by toto místo mohlo skrývat?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName} odstranil inkoust blokující cestu do Mythopie. Tam náš hrdina nalezl zlatá pole a ještě více inkoustu vytékajícího ze země. Jaká tajemství by toto místo mohlo skrývat?"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_070_IntroGlory_DisplayName",
+      "en": "A Land of Myths and Legends",
+      "cz": "Země mýtů a legend",
+      "source": "pre_existing",
+      "original_cz": "Země mýtů a legend"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_070_IntroGlory_Group01_Step01_VisitArea01_StepDescription",
+      "en": "Explore <ActivityItem>the Elysian Fields</ActivityItem>.",
+      "cz": "Prozkoumejte <ActivityItem>Elysejská pole</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte <ActivityItem>Elysejská pole</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_070_IntroGlory_Group01_StepDescription",
+      "en": "You've cleared away the ink! The first part of Mythopia is yours to discover.",
+      "cz": "Odstranili jste inkoust! První část Mythopie je na vás.",
+      "source": "pre_existing",
+      "original_cz": "Odstranili jste inkoust! První část Mythopie je na vás."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_070_IntroGlory_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Ask the Lorekeeper about it.",
+      "cz": "Zeptej se na to Věštce.",
+      "source": "pre_existing",
+      "original_cz": "Zeptej se na to Věštce."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_070_IntroGlory_Group02_StepDescription",
+      "en": "You've found a mysterious gateway, swirling with magical ink, deep in the Elysian Fields.",
+      "cz": "Hluboko v Elysejských polích jsi našel tajemnou bránu, vířící magickým inkoustem.",
+      "source": "pre_existing",
+      "original_cz": "Hluboko v Elysejských polích jsi našel tajemnou bránu, vířící magickým inkoustem."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_070_IntroGlory_Group02_StoryDescription",
+      "en": "{PlayerName} soon found a mysterious gateway, swirling with magical ink, near some enormous statues of Pegasus in Mythopia. Only one person — or, more accurately, book — could explain this: the Lorekeeper.",
+      "cz": "{PlayerName} brzy objevil tajemnou bránu, vířící magickým inkoustem, poblíž obrovských soch Pegase v Mythopii. Pouze jedna osoba – nebo přesněji řečeno kniha – to dokázala vysvětlit: Věštce.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName} brzy objevil tajemnou bránu, vířící magickým inkoustem, poblíž obrovských soch Pegase v Mythopii. Pouze jedna osoba – nebo přesněji řečeno kniha – to dokázala vysvětlit: Věštce."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_070_IntroGlory_Group03_Step03_StepDescription",
+      "en": "You should not venture into the Mythic Trial alone.",
+      "cz": "Do Mytické zkoušky byste se neměli vydávat sami.",
+      "source": "pre_existing",
+      "original_cz": "Do Mytické zkoušky byste se neměli vydávat sami."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_070_IntroGlory_Group03_Step03_TalkToCharacter02_StepDescription",
+      "en": "Talk to Merida.",
+      "cz": "Promluv si s Meridou.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Meridou."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_070_IntroGlory_Group04_Step04_FollowCharacter01_StepDescription",
+      "en": "Follow Merida to the <ActivityItem>Mythic Trial</ActivityItem>.",
+      "cz": "Následujte Meridu k <ActivityItem>Mýtickému procesu</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Následujte Meridu k <ActivityItem>Mýtickému procesu</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_070_IntroGlory_Group04_Step04_FollowCharacter01_TalkToDescription",
+      "en": "Talk to Merida.",
+      "cz": "Promluv si s Meridou.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Meridou."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_070_IntroGlory_Group05_Step05_Conditional03_StepDescription",
+      "en": "Use your Royal Net on the wheel to open the <ActivityItem>Mythic Trial</ActivityItem>.",
+      "cz": "Použijte svou Královskou síť na kole k otevření <ActivityItem>Mýtické zkoušky</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Použijte svou Královskou síť na kole k otevření <ActivityItem>Mýtické zkoušky</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_070_IntroGlory_Group06_Step06_StepDescription",
+      "en": "(Remember: The magic of the Royal Net only works on Snippets! Catch these with your hands!)",
+      "cz": "(Pamatujte: Kouzlo Královské sítě funguje pouze na úryvky! Chyťte je rukama!)",
+      "source": "pre_existing",
+      "original_cz": "(Pamatujte: Kouzlo Královské sítě funguje pouze na úryvky! Chyťte je rukama!)"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_070_IntroGlory_Group06_StepDescription",
+      "en": "Catch the... <ActivityItem>Will-o'—the-Wisps</ActivityItem>? ...racing around the Elysian Fields.",
+      "cz": "Chyťte... <ActivityItem>Bludičky</ActivityItem>? ...hnací se po Elysejských polích.",
+      "source": "pre_existing",
+      "original_cz": "Chyťte... <ActivityItem>Bludičky</ActivityItem>? ...hnací se po Elysejských polích."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_070_IntroGlory_Group07_Step08_FollowCharacter02_StepDescription",
+      "en": "Meet Merida near the entrance to the Trial in the Elysian Fields.",
+      "cz": "Setkejte se s Meridou poblíž vchodu do Zkoušky na Elysejských polích.",
+      "source": "pre_existing",
+      "original_cz": "Setkejte se s Meridou poblíž vchodu do Zkoušky na Elysejských polích."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_070_IntroGlory_Group07_Step08_FollowCharacter02_TalkToDescription",
+      "en": "Talk to Merida.",
+      "cz": "Promluv si s Meridou.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Meridou."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_070_IntroGlory_Group08_Step09_Conditional02_StepDescription",
+      "en": "Find a way to power it up. Maybe something to do with the torches...?",
+      "cz": "Najdi způsob, jak to zapnout. Možná něco s těmi pochodněmi...?",
+      "source": "pre_existing",
+      "original_cz": "Najdi způsob, jak to zapnout. Možná něco s těmi pochodněmi...?"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_070_IntroGlory_Group08_Step09_StepDescription",
+      "en": "This wheel won't budge no matter how hard you swing your Royal Net.",
+      "cz": "Toto kolo se nepohne, ať už svou Royal Net rozmáchnete sebevíc.",
+      "source": "pre_existing",
+      "original_cz": "Toto kolo se nepohne, ať už svou Royal Net rozmáchnete sebevíc."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_070_IntroGlory_Group08_StoryDescription",
+      "en": "{PlayerName} and Merida stumbled upon some mysterious blue flame. Merida was certain that these were Will-o'—the-Wisps, spirits intent on leading people to their fates. When you arrived at the Mythic Trial, though, the blue flame fizzled out. Perhaps they weren't Will-o'—the-Wisps at all.",
+      "cz": "{PlayerName} a Merida narazila na jakýsi záhadný modrý plamen. Merida si byla jistá, že to jsou Bludky, duchové odhodlaní vést lidi k jejich osudům. Když jste ale dorazili k Mytické zkoušce, modrý plamen vyhasl. Možná to vůbec nebyli Bludky.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName} a Merida narazila na jakýsi záhadný modrý plamen. Merida si byla jistá, že to jsou Bludky, duchové odhodlaní vést lidi k jejich osudům. Když jste ale dorazili k Mytické zkoušce, modrý plamen vyhasl. Možná to vůbec nebyli Bludky."
+    }
+  ],
+  "Expansion02Main_Expansion02/MRQS_E02_071_TrialGlory.locbin": [
+    {
+      "key": "Story!Expansion02!MRQS_E02_071_TrialGlory_Any_CompletedRequestDescription",
+      "en": "Check in with Hades.",
+      "cz": "Ověřte si to u Háda.",
+      "source": "pre_existing",
+      "original_cz": "Ověřte si to u Háda."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_071_TrialGlory_AvailableDescription",
+      "en": "On the journey through Mythopia, {PlayerName} discovered a mysterious gateway. To find Hades and put a stop to the Neverafter, {PlayerName} would need to step through the gateway and find out what lay inside.",
+      "cz": "Na cestě Mythopií objevil {PlayerName} záhadnou bránu. Aby našel Háda a zastavil Neverafter, musel by {PlayerName} projít bránou a zjistit, co se skrývá uvnitř.",
+      "source": "pre_existing",
+      "original_cz": "Na cestě Mythopií objevil {PlayerName} záhadnou bránu. Aby našel Háda a zastavil Neverafter, musel by {PlayerName} projít bránou a zjistit, co se skrývá uvnitř."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_071_TrialGlory_CompletedStoryDescription",
+      "en": "{PlayerName} made a home for Hades in the Storybook Vale. But would Hades end his feud with Maleficent? {PlayerName} had a feeling there was still quite a journey ahead to complete the remaining Trials and reach Mount Olympus.",
+      "cz": "{PlayerName} se usadil pro Háda v Údoli pohádek. Ale ukončí Hádes svůj spor se Zlobou? {PlayerName} měl pocit, že ho čeká ještě dlouhá cesta k dokončení zbývajících zkoušek a dosažení hory Olymp.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName} se usadil pro Háda v Údoli pohádek. Ale ukončí Hádes svůj spor se Zlobou? {PlayerName} měl pocit, že ho čeká ještě dlouhá cesta k dokončení zbývajících zkoušek a dosažení hory Olymp."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_071_TrialGlory_DisplayName",
+      "en": "Guts & Glory",
+      "cz": "Odvaha a sláva",
+      "source": "pre_existing",
+      "original_cz": "Odvaha a sláva"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_071_TrialGlory_Group01_Step01_VisitArea01_StepDescription",
+      "en": "Enter the Mythic Trial in the Elysian Fields.",
+      "cz": "Vstupte do Mytické zkoušky na Elysejských polích.",
+      "source": "pre_existing",
+      "original_cz": "Vstupte do Mytické zkoušky na Elysejských polích."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_071_TrialGlory_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Explore the first Mythic Trial.",
+      "cz": "Prozkoumejte první mytickou zkoušku.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte první mytickou zkoušku."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_071_TrialGlory_Group03_Step03_Conditional01_StepDescription",
+      "en": "Push Hades' cart.",
+      "cz": "Zatlačte Hádův vozík.",
+      "source": "pre_existing",
+      "original_cz": "Zatlačte Hádův vozík."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_071_TrialGlory_Group04_Step04_FollowCharacter01_StepDescription",
+      "en": "Follow Hades.",
+      "cz": "Následujte Háda.",
+      "source": "pre_existing",
+      "original_cz": "Následujte Háda."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_071_TrialGlory_Group05_Step05_VisitArea05_StepDescription",
+      "en": "Cross the bridge.",
+      "cz": "Přejděte most.",
+      "source": "pre_existing",
+      "original_cz": "Přejděte most."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_071_TrialGlory_Group06_Step06_Conditional02_StepDescription",
+      "en": "Find a way to rotate the bridge.",
+      "cz": "Najděte způsob, jak otočit most.",
+      "source": "pre_existing",
+      "original_cz": "Najděte způsob, jak otočit most."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_071_TrialGlory_Group07_Step07_UnlockCharacter01_StepDescription",
+      "en": "Welcome Hades to the Vale!",
+      "cz": "Vítej, Hádes, v Údolí!",
+      "source": "pre_existing",
+      "original_cz": "Vítej, Hádes, v Údolí!"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_071_TrialGlory_Group09_Step09_StepDescription",
+      "en": "Find a way to open the gates and push the cart through.",
+      "cz": "Najděte způsob, jak otevřít brány a protlačit jimi vozík.",
+      "source": "pre_existing",
+      "original_cz": "Najděte způsob, jak otevřít brány a protlačit jimi vozík."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_071_TrialGlory_Group10_Step10_FollowCharacter04_StepDescription",
+      "en": "Follow Hades.",
+      "cz": "Následujte Háda.",
+      "source": "pre_existing",
+      "original_cz": "Následujte Háda."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_071_TrialGlory_Group11_Step11_Conditional05_StepDescription",
+      "en": "Figure out how to release the bridge.",
+      "cz": "Zjistěte, jak uvolnit most.",
+      "source": "pre_existing",
+      "original_cz": "Zjistěte, jak uvolnit most."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_071_TrialGlory_Group12_Step12_FollowCharacter02_StepDescription",
+      "en": "Follow Hades.",
+      "cz": "Následujte Háda.",
+      "source": "pre_existing",
+      "original_cz": "Následujte Háda."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_071_TrialGlory_Group13_Step13_Conditional06_StepDescription",
+      "en": "Find a way to rotate the bridge.",
+      "cz": "Najděte způsob, jak otočit most.",
+      "source": "pre_existing",
+      "original_cz": "Najděte způsob, jak otočit most."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_071_TrialGlory_Group14_Step14_VisitArea03_StepDescription",
+      "en": "Explore deeper in the Mythic Trial.",
+      "cz": "Prozkoumejte hlouběji Mythic Trial.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte hlouběji Mythic Trial."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_071_TrialGlory_Group15_Step15_FollowCharacter03_StepDescription",
+      "en": "Follow Hades.",
+      "cz": "Následujte Háda.",
+      "source": "pre_existing",
+      "original_cz": "Následujte Háda."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_071_TrialGlory_Group15_Step15_FollowCharacter03_TalkToDescription",
+      "en": "Talk to Hades.",
+      "cz": "Promluvte si s Hádem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Hádem."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_071_TrialGlory_Group16_Step16_StepDescription",
+      "en": "Find a way to open the gates and move the cart along.",
+      "cz": "Najděte způsob, jak otevřít brány a posunout vozík dál.",
+      "source": "pre_existing",
+      "original_cz": "Najděte způsob, jak otevřít brány a posunout vozík dál."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_071_TrialGlory_Group18_Step18_Interaction01_StepDescription",
+      "en": "Interact with the source of the corruption inside the first Mythic Trial.",
+      "cz": "Interakce se zdrojem korupce v první Mytické zkoušce.",
+      "source": "pre_existing",
+      "original_cz": "Interakce se zdrojem korupce v první Mytické zkoušce."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_071_TrialGlory_Group19_Step19_TalkToCharacter02_StepDescription",
+      "en": "Talk to Hades.",
+      "cz": "Promluvte si s Hádem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Hádem."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_071_TrialGlory_Group19_StoryDescription",
+      "en": "Inside the mysterious Trial, {PlayerName} met Hades, god of the Underworld. Together, they crossed the Trial, and {PlayerName} fixed some sort of dark, corrupted magic.",
+      "cz": "Uvnitř tajemné Zkoušky se {PlayerName} setkal s Hádem, bohem podsvětí. Společně překročili Zkoušku a {PlayerName} opravil jakousi temnou, zkaženou magii.",
+      "source": "pre_existing",
+      "original_cz": "Uvnitř tajemné Zkoušky se {PlayerName} setkal s Hádem, bohem podsvětí. Společně překročili Zkoušku a {PlayerName} opravil jakousi temnou, zkaženou magii."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_071_TrialGlory_Group20_Step20_PlaceBuilding01_StepDescription",
+      "en": "Place <ActivityItem>Hades' Lair</ActivityItem> anywhere in the Storybook Vale.",
+      "cz": "Umístěte <ActivityItem>Hádovo doupě</ActivityItem> kamkoli do Údolí pohádek.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte <ActivityItem>Hádovo doupě</ActivityItem> kamkoli do Údolí pohádek."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_071_TrialGlory_Group21_Step21_Unlock01_StepDescription",
+      "en": "Unlock <ActivityItem>Hades' Lair</ActivityItem> by interacting with the Scrooge McDuck Sign next to it.",
+      "cz": "Odemkněte <ActivityItem>Hádovo doupě</ActivityItem> interakcí se cedulí Scrooge McDucka vedle ní.",
+      "source": "pre_existing",
+      "original_cz": "Odemkněte <ActivityItem>Hádovo doupě</ActivityItem> interakcí se cedulí Scrooge McDucka vedle ní."
+    }
+  ],
+  "Expansion02Main_Expansion02/MRQS_E02_080_IntroFlame.locbin": [
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_AvailableDescription",
+      "en": "{PlayerName} forged forward into another part of Mythopia, clearing away yet more ink. This corner of the Vale had some sort of enormous, flaming torch in one corner. Surely that was worthy of investigation.",
+      "cz": "{PlayerName} se prodral do další části Mythopie a odklízel další inkoust. V tomto koutě Údolí hořela jakási obrovská, planoucí pochodeň. To si jistě zasloužilo prozkoumání.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName} se prodral do další části Mythopie a odklízel další inkoust. V tomto koutě Údolí hořela jakási obrovská, planoucí pochodeň. To si jistě zasloužilo prozkoumání."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_DisplayName",
+      "en": "A Moth to a Flame",
+      "cz": "Od můry k plameni",
+      "source": "pre_existing",
+      "original_cz": "Od můry k plameni"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group01_Step01_VisitArea01_StepDescription",
+      "en": "Explore <ActivityItem>the Fiery Plains</ActivityItem>.",
+      "cz": "Prozkoumejte <ActivityItem>Ohnivé pláně</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte <ActivityItem>Ohnivé pláně</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group01_StepDescription",
+      "en": "You've cleared away the ink blocking the way, and discovered a new part of Mythopia.",
+      "cz": "Odstranili jste inkoust blokující cestu a objevili jste novou část Mythopie.",
+      "source": "pre_existing",
+      "original_cz": "Odstranili jste inkoust blokující cestu a objevili jste novou část Mythopie."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group02_Step02_StepDescription",
+      "en": "Take a picture of them.",
+      "cz": "Vyfoťte je.",
+      "source": "pre_existing",
+      "original_cz": "Vyfoťte je."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group02_StepDescription",
+      "en": "Mysterious flames block the path!",
+      "cz": "Cestu blokují záhadné plameny!",
+      "source": "pre_existing",
+      "original_cz": "Cestu blokují záhadné plameny!"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group02_StoryDescription",
+      "en": "Deeper in Mythopia, {PlayerName} found the way blocked by mysterious green and blue flames. No ordinary water could remove them. It seemed they were enchanted, imbued with some sort of mysterious magic.",
+      "cz": "Hluboko v Mythopii našel {PlayerName} cestu zablokovanou záhadnými zelenými a modrými plameny. Žádná obyčejná voda je nemohla odstranit. Zdálo se, že jsou očarovaní, naplněni nějakou tajemnou magií.",
+      "source": "pre_existing",
+      "original_cz": "Hluboko v Mythopii našel {PlayerName} cestu zablokovanou záhadnými zelenými a modrými plameny. Žádná obyčejná voda je nemohla odstranit. Zdálo se, že jsou očarovaní, naplněni nějakou tajemnou magií."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group03_Step03_StepDescription",
+      "en": "Explore the Elysian Fields to find a Villager who can help you.",
+      "cz": "Prozkoumejte Elysejská pole a najděte vesničana, který vám může pomoci.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte Elysejská pole a najděte vesničana, který vám může pomoci."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group03_StepDescription",
+      "en": "If only there were someone knowledgeable about Mythopia who could help you...",
+      "cz": "Kéž by existoval někdo, kdo se vyzná v Mythopii a mohl by ti pomoct...",
+      "source": "pre_existing",
+      "original_cz": "Kéž by existoval někdo, kdo se vyzná v Mythopii a mohl by ti pomoct..."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group04_Step04_TalkToCharacter01_StepDescription",
+      "en": "Talk to {TargetNPC} and show him the picture of the <Lore>Mysterious Flames</Lore>.",
+      "cz": "Promluvte si s {TargetNPC} a ukažte mu obrázek <Lore>Tajemných plamenů</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC} a ukažte mu obrázek <Lore>Tajemných plamenů</Lore>."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group05_Step05_StepDescription",
+      "en": "Hades talked about a hidden spring of sacred water with magical properties.",
+      "cz": "Hádes mluvil o skrytém prameni posvátné vody s magickými vlastnostmi.",
+      "source": "pre_existing",
+      "original_cz": "Hádes mluvil o skrytém prameni posvátné vody s magickými vlastnostmi."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group05_Step05_TalkToCharacter02_StepDescription",
+      "en": "Talk to {TargetNPC} about its location.",
+      "cz": "Promluvte si s {TargetNPC} o jeho poloze.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC} o jeho poloze."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group05_StoryDescription",
+      "en": "Hades told {PlayerName} of a hidden spring somewhere in the Vale. But (perhaps fortunately) the Lord of the Underworld had no clue where it actually was. {PlayerName} would need to seek the advice of the Lorekeeper once more.",
+      "cz": "Hádes řekl hráči {PlayerName} o skrytém prameni někde v Údolí. Ale (možná naštěstí) Pán podsvětí neměl tušení, kde vlastně je. {PlayerName} se bude muset znovu poradit se Strážcem Věštby.",
+      "source": "pre_existing",
+      "original_cz": "Hádes řekl hráči {PlayerName} o skrytém prameni někde v Údolí. Ale (možná naštěstí) Pán podsvětí neměl tušení, kde vlastně je. {PlayerName} se bude muset znovu poradit se Strážcem Věštby."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group06_Step06_Possess01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group06_Step06_Possess06_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group06_Step06_Possess07_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group06_Step06_StepDescription",
+      "en": "The Lorekeeper holds a story about the Sacred Spring's location. Collect enough Snippets to restore it to her pages.",
+      "cz": "Strážkyně věštby uchovává příběh o umístění Posvátného pramene. Nasbírejte dostatek úryvků, abyste ho mohli obnovit na svých stránkách.",
+      "source": "pre_existing",
+      "original_cz": "Strážkyně věštby uchovává příběh o umístění Posvátného pramene. Nasbírejte dostatek úryvků, abyste ho mohli obnovit na svých stránkách."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group07_Step07_StepDescription",
+      "en": "(Press {input_mainmenu} to access the Collection menu and navigate to the correct section to see your completed Lorekeeper Tales.)",
+      "cz": "(Stiskněte {input_mainmenu} pro přístup do nabídky Kolekce a přejděte do správné sekce, kde najdete své dokončené Příběhy znalců.)",
+      "source": "pre_existing",
+      "original_cz": "(Stiskněte {input_mainmenu} pro přístup do nabídky Kolekce a přejděte do správné sekce, kde najdete své dokončené Příběhy znalců.)"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group07_Step07_StepDescriptionMobile",
+      "en": "(Open your Collection menu and navigate to the correct section to see your completed Lorekeeper Tales.)",
+      "cz": "(Otevřete nabídku Sbírky a přejděte do správné sekce, kde najdete své dokončené Příběhy uchovávajících věd.)",
+      "source": "pre_existing",
+      "original_cz": "(Otevřete nabídku Sbírky a přejděte do správné sekce, kde najdete své dokončené Příběhy uchovávajících věd.)"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group07_StepDescription",
+      "en": "Reorder the <ActivityItem>\"Aurora and the Sacred Spring\"</ActivityItem> Tale in the Lorekeeper's pages.",
+      "cz": "Změňte pořadí příběhu <ActivityItem>„Aurora a posvátné jaro“</ActivityItem> na stránkách Věštce.",
+      "source": "pre_existing",
+      "original_cz": "Změňte pořadí příběhu <ActivityItem>„Aurora a posvátné jaro“</ActivityItem> na stránkách Věštce."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group08_Step08_StepDescription",
+      "en": "Find the <ActivityItem>Sacred Spring</ActivityItem> hidden in Storybook Vale using the clues from Aurora's story.",
+      "cz": "Najděte <ActivityItem>Posvátný pramen</ActivityItem> ukrytý v Údolí pohádek pomocí indicií z Aurořina příběhu.",
+      "source": "pre_existing",
+      "original_cz": "Najděte <ActivityItem>Posvátný pramen</ActivityItem> ukrytý v Údolí pohádek pomocí indicií z Aurořina příběhu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group09_Step09_Possess02_StepDescription",
+      "en": "Pick up a <ActivityItem>vial of the sacred water</ActivityItem>.",
+      "cz": "Seberte <ActivityItem>lahvičku s posvátnou vodou</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Seberte <ActivityItem>lahvičku s posvátnou vodou</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group09_Step09_StepDescription",
+      "en": "You found the Sacred Spring!",
+      "cz": "Našli jste Posvátný pramen!",
+      "source": "pre_existing",
+      "original_cz": "Našli jste Posvátný pramen!"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group09_StoryDescription",
+      "en": "{PlayerName} soon uncovered another lost story from the Lorekeeper's pages — the tale of how Aurora discovered the Sacred Spring. Perhaps the hero of the Storybook Vale could follow in Aurora's footsteps once more.",
+      "cz": "{PlayerName} brzy objevil další ztracený příběh ze stránek Věštce – příběh o tom, jak Aurora objevila Posvátný pramen. Možná by se hrdina z Pohádkového údolí mohl znovu vydat v Aurořiných stopách.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName} brzy objevil další ztracený příběh ze stránek Věštce – příběh o tom, jak Aurora objevila Posvátný pramen. Možná by se hrdina z Pohádkového údolí mohl znovu vydat v Aurořiných stopách."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group10_Step10_TalkToCharacter03_StepDescription",
+      "en": "Return to {TargetNPC}.",
+      "cz": "Return to {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Return to {TargetNPC}."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group11_Step11_Possess03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group11_Step11_Possess04_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group11_Step11_Possess05_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group11_Step11_StepDescription",
+      "en": "Gather the following in Mythopia:",
+      "cz": "Shromážděte v Mythopii následující:",
+      "source": "pre_existing",
+      "original_cz": "Shromážděte v Mythopii následující:"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group12_Step12_CraftItem01_StepDescription",
+      "en": "Craft the {ItemName}.",
+      "cz": "Vyrobte {ItemName}.",
+      "source": "pre_existing",
+      "original_cz": "Vyrobte {ItemName}."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group13_Step13_ConsumeItem01_StepDescription",
+      "en": "Use the {ItemName} from your Inventory.",
+      "cz": "Použijte {ItemName} ze svého inventáře.",
+      "source": "pre_existing",
+      "original_cz": "Použijte {ItemName} ze svého inventáře."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group14_Step14_Conditional03_StepDescription",
+      "en": "Reach the <ActivityItem>Mythic Trial</ActivityItem> in the Fiery Plains and use your Royal Net to activate it.",
+      "cz": "Dosáhněte <ActivityItem>Mýtické zkoušky</ActivityItem> v Ohnivých pláních a použijte svou Královskou síť k její aktivaci.",
+      "source": "pre_existing",
+      "original_cz": "Dosáhněte <ActivityItem>Mýtické zkoušky</ActivityItem> v Ohnivých pláních a použijte svou Královskou síť k její aktivaci."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group14_Step14_StepDescription",
+      "en": "You can now use your Watering Can to remove the <Lore>Mysterious Flames</Lore>!",
+      "cz": "Nyní můžete pomocí konve odstranit <Lore>Tajemné plameny</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Nyní můžete pomocí konve odstranit <Lore>Tajemné plameny</Lore>!"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_080_IntroFlame_Group14_StoryDescription",
+      "en": "At last, {PlayerName} dealt with the flames blocking the way. Mount Olympus, and an end to Hades and Maleficent's feud, was one step closer.",
+      "cz": "Konečně se {PlayerName} vypořádal s plameny, které mu blokovaly cestu. Hora Olymp a konec sporu Háda a Zlé panny byly o krok blíž.",
+      "source": "pre_existing",
+      "original_cz": "Konečně se {PlayerName} vypořádal s plameny, které mu blokovaly cestu. Hora Olymp a konec sporu Háda a Zlé panny byly o krok blíž."
+    }
+  ],
+  "Expansion02Main_Expansion02/MRQS_E02_081_TrialFlame.locbin": [
+    {
+      "key": "Story!Expansion02!MRQS_E02_081_TrialFlame_Any_CompletedRequestDescription",
+      "en": "Talk to Hades.",
+      "cz": "Promluvte si s Hádem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Hádem."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_081_TrialFlame_AvailableDescription",
+      "en": "{PlayerName} came across another Mythic Trial in the journey across Mythopia. What wonders would there be to discover instead?",
+      "cz": "Hráč {PlayerName} narazil na další Mythic Trial během své cesty Mythopií. Jaké divy by mohl místo toho objevit?",
+      "source": "pre_existing",
+      "original_cz": "Hráč {PlayerName} narazil na další Mythic Trial během své cesty Mythopií. Jaké divy by mohl místo toho objevit?"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_081_TrialFlame_CompletedStoryDescription",
+      "en": "{PlayerName} discovered a Promethean challenge inside the Trial: Steal fire and bring it to its rightful place. Completing this feat worthy of a Titan brought {PlayerName} one step closer to Mount Olympus.",
+      "cz": "{PlayerName} objevil v Zkoušce prometheovskou výzvu: Ukradnout oheň a přivést ho na jeho právoplatné místo. Dokončení tohoto úkolu hodného Titána přiblížilo {PlayerName} k hoře Olymp.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName} objevil v Zkoušce prometheovskou výzvu: Ukradnout oheň a přivést ho na jeho právoplatné místo. Dokončení tohoto úkolu hodného Titána přiblížilo {PlayerName} k hoře Olymp."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_081_TrialFlame_DisplayName",
+      "en": "The Promethean Flame",
+      "cz": "Prométheův plamen",
+      "source": "pre_existing",
+      "original_cz": "Prométheův plamen"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_081_TrialFlame_Group01_Step01_VisitArea01_StepDescription",
+      "en": "Enter the Mythic Trial in the Fiery Plains.",
+      "cz": "Vstupte do Mytické zkoušky v Ohnivých pláních.",
+      "source": "pre_existing",
+      "original_cz": "Vstupte do Mytické zkoušky v Ohnivých pláních."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_081_TrialFlame_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Talk to Hades.",
+      "cz": "Promluvte si s Hádem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Hádem."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_081_TrialFlame_Group03_Step03_StepDescription",
+      "en": "Move every <ActivityItem>Flaming Torch</ActivityItem> to the correct place.",
+      "cz": "Přesuň každou <ActivityItem>Hořící pochodeň</ActivityItem> na správné místo.",
+      "source": "pre_existing",
+      "original_cz": "Přesuň každou <ActivityItem>Hořící pochodeň</ActivityItem> na správné místo."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_081_TrialFlame_Group04_Step04_TalkToCharacter02_StepDescription",
+      "en": "Return to Hades.",
+      "cz": "Návrat do Hádu.",
+      "source": "pre_existing",
+      "original_cz": "Návrat do Hádu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_081_TrialFlame_Group06_Step06_Interaction01_StepDescription",
+      "en": "Interact with the magical corruption at the heart of the Trial.",
+      "cz": "Interakce s magickou zkažeností, která je srdcem Zkoušky.",
+      "source": "pre_existing",
+      "original_cz": "Interakce s magickou zkažeností, která je srdcem Zkoušky."
+    }
+  ],
+  "Expansion02Main_Expansion02/MRQS_E02_090_IntroColossus.locbin": [
+    {
+      "key": "Story!Expansion02!MRQS_E02_090_IntroColossus_AvailableDescription",
+      "en": "{PlayerName} cleared away yet more ink, and uncovered a land that stood in the shadow of a great marble statue... that looked exactly like Hades. Drawing closer to the colossus was surely the best way to uncover more about the Neverafter.",
+      "cz": "{PlayerName} uklidil další inkoust a odhalil zemi, která stála ve stínu velké mramorové sochy... která vypadala přesně jako Hádes. Přiblížit se ke kolosu byl jistě nejlepší způsob, jak se dozvědět více o Neverafteru.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName} uklidil další inkoust a odhalil zemi, která stála ve stínu velké mramorové sochy... která vypadala přesně jako Hádes. Přiblížit se ke kolosu byl jistě nejlepší způsob, jak se dozvědět více o Neverafteru."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_090_IntroColossus_DisplayName",
+      "en": "The Marble Colossus",
+      "cz": "Mramorový kolos",
+      "source": "pre_existing",
+      "original_cz": "Mramorový kolos"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_090_IntroColossus_Group01_Step01_VisitArea01_StepDescription",
+      "en": "Explore <ActivityItem>the Statue's Shadow</ActivityItem>.",
+      "cz": "Prozkoumejte <ActivityItem>stín sochy</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte <ActivityItem>stín sochy</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_090_IntroColossus_Group01_StepDescription",
+      "en": "You've cleared away the ink and discovered a new part of Mythopia.",
+      "cz": "Odstranili jste inkoust a objevili novou část Mythopie.",
+      "source": "pre_existing",
+      "original_cz": "Odstranili jste inkoust a objevili novou část Mythopie."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_090_IntroColossus_Group02_Step02_StepDescription",
+      "en": "Try to extend the bridge to reach the statue by interacting with the panel nearby.",
+      "cz": "Zkuste prodloužit most, abyste se dostali k soše, interakcí s panelem v okolí.",
+      "source": "pre_existing",
+      "original_cz": "Zkuste prodloužit most, abyste se dostali k soše, interakcí s panelem v okolí."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_090_IntroColossus_Group03_Step03_Conditional01_StepDescription",
+      "en": "Explore the Elysian Fields to find a Villager who can help you.",
+      "cz": "Prozkoumejte Elysejská pole a najděte vesničana, který vám může pomoci.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte Elysejská pole a najděte vesničana, který vám může pomoci."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_090_IntroColossus_Group03_Step03_StepDescription",
+      "en": "The bridge is broken!",
+      "cz": "Most je rozbitý!",
+      "source": "pre_existing",
+      "original_cz": "Most je rozbitý!"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_090_IntroColossus_Group04_Step04_StepDescription",
+      "en": "The bridge is broken!",
+      "cz": "Most je rozbitý!",
+      "source": "pre_existing",
+      "original_cz": "Most je rozbitý!"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_090_IntroColossus_Group04_Step04_TalkToCharacter01_StepDescription",
+      "en": "Talk to Hades.",
+      "cz": "Promluvte si s Hádem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Hádem."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_090_IntroColossus_Group05_Step05_Possess01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_090_IntroColossus_Group05_Step05_Possess02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_090_IntroColossus_Group05_Step05_Possess03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_090_IntroColossus_Group05_Step05_StepDescription",
+      "en": "Gather the materials necessary to rebuild the missing pillars:",
+      "cz": "Shromážděte materiály potřebné k obnově chybějících pilířů:",
+      "source": "pre_existing",
+      "original_cz": "Shromážděte materiály potřebné k obnově chybějících pilířů:"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_090_IntroColossus_Group05_StoryDescription",
+      "en": "The bridge to the colossal statue was blocked. It seemed a pair of minions once held it up. To cross to the statue, {PlayerName} would need to craft vases featuring Pain and Panic and put them back into place.",
+      "cz": "Most k obrovské soše byl zablokovaný. Zdálo se, že ho kdysi držela dvojice minionů. Aby se {PlayerName} dostal k soše, musel by vyrobit vázy s motivy Bolesti a Paniky a vrátit je na své místo.",
+      "source": "pre_existing",
+      "original_cz": "Most k obrovské soše byl zablokovaný. Zdálo se, že ho kdysi držela dvojice minionů. Aby se {PlayerName} dostal k soše, musel by vyrobit vázy s motivy Bolesti a Paniky a vrátit je na své místo."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_090_IntroColossus_Group06_Step06_CraftItem01_StepDescription",
+      "en": "Craft the {ItemName}.",
+      "cz": "Vyrobte {ItemName}.",
+      "source": "pre_existing",
+      "original_cz": "Vyrobte {ItemName}."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_090_IntroColossus_Group07_Step07_FillKeyhole01_StepDescription",
+      "en": "Place a <ActivityItem>Pain & Panic Vase</ActivityItem> on the left.",
+      "cz": "Umístěte <ActivityItem>vázu Bolest a panika</ActivityItem> nalevo.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte <ActivityItem>vázu Bolest a panika</ActivityItem> nalevo."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_090_IntroColossus_Group07_Step07_FillKeyhole02_StepDescription",
+      "en": "Place a <ActivityItem>Pain & Panic Vase</ActivityItem> on the right.",
+      "cz": "Umístěte <ActivityItem>vázu proti bolesti a panice</ActivityItem> napravo.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte <ActivityItem>vázu proti bolesti a panice</ActivityItem> napravo."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_090_IntroColossus_Group07_Step07_StepDescription",
+      "en": "You can now repair the bridge to the statue of Hades!",
+      "cz": "Nyní můžete opravit most k soše Háda!",
+      "source": "pre_existing",
+      "original_cz": "Nyní můžete opravit most k soše Háda!"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_090_IntroColossus_Group08_Step08_Conditional03_StepDescription",
+      "en": "Try to lower the bridge by interacting with the panel.",
+      "cz": "Zkuste spustit most interakcí s panelem.",
+      "source": "pre_existing",
+      "original_cz": "Zkuste spustit most interakcí s panelem."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_090_IntroColossus_Group08_Step08_StepDescription",
+      "en": "The bridge should work now...",
+      "cz": "Most by nyní měl fungovat...",
+      "source": "pre_existing",
+      "original_cz": "Most by nyní měl fungovat..."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_090_IntroColossus_Group09_Step09_Conditional02_StepDescription",
+      "en": "Activate the gateway to the Mythic Trial with your Royal Net.",
+      "cz": "Aktivujte bránu do Mytické zkoušky pomocí své Královské sítě.",
+      "source": "pre_existing",
+      "original_cz": "Aktivujte bránu do Mytické zkoušky pomocí své Královské sítě."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_090_IntroColossus_Group09_Step09_StepDescription",
+      "en": "The bridge to the statue is repaired!",
+      "cz": "Most k soše je opraven!",
+      "source": "pre_existing",
+      "original_cz": "Most k soše je opraven!"
+    }
+  ],
+  "Expansion02Main_Expansion02/MRQS_E02_091_TrialColossus.locbin": [
+    {
+      "key": "Story!Expansion02!MRQS_E02_091_TrialColossus_Any_CompletedRequestDescription",
+      "en": "Return to Hades.",
+      "cz": "Návrat do Hádu.",
+      "source": "pre_existing",
+      "original_cz": "Návrat do Hádu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_091_TrialColossus_AvailableDescription",
+      "en": "{PlayerName} uncovered another gateway to a Mythic Trial, this one beneath a great statue of Hades. What mysteries would {PlayerName} find inside?",
+      "cz": "Hráč {PlayerName} objevil další bránu do Mytické zkoušky, tentokrát pod velkou sochou Háda. Jaká tajemství najde {PlayerName} uvnitř?",
+      "source": "pre_existing",
+      "original_cz": "Hráč {PlayerName} objevil další bránu do Mytické zkoušky, tentokrát pod velkou sochou Háda. Jaká tajemství najde {PlayerName} uvnitř?"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_091_TrialColossus_CompletedStoryDescription",
+      "en": "{PlayerName} navigated the bridges inside the Mythic Trial and dealt with the source of the corruption deep within.",
+      "cz": "{PlayerName} prošel mosty uvnitř Mytické zkoušky a vypořádal se se zdrojem zkaženosti hluboko uvnitř.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName} prošel mosty uvnitř Mytické zkoušky a vypořádal se se zdrojem zkaženosti hluboko uvnitř."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_091_TrialColossus_DisplayName",
+      "en": "Losing Your Marbles",
+      "cz": "Ztrácíte kuličky",
+      "source": "pre_existing",
+      "original_cz": "Ztrácíte kuličky"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_091_TrialColossus_Group01_Step01_VisitArea01_StepDescription",
+      "en": "Enter the <ActivityItem>Mythic Trial</ActivityItem> beneath the statue of Hades.",
+      "cz": "Vstupte do <ActivityItem>Mýtické zkoušky</ActivityItem> pod sochou Háda.",
+      "source": "pre_existing",
+      "original_cz": "Vstupte do <ActivityItem>Mýtické zkoušky</ActivityItem> pod sochou Háda."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_091_TrialColossus_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Find Hades and speak with him.",
+      "cz": "Najděte Háda a promluvte si s ním.",
+      "source": "pre_existing",
+      "original_cz": "Najděte Háda a promluvte si s ním."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_091_TrialColossus_Group03_Step03_Conditional01_StepDescription",
+      "en": "Pull the lever to lower the drawbridge.",
+      "cz": "Zatáhněte za páku pro spuštění padacího mostu.",
+      "source": "pre_existing",
+      "original_cz": "Zatáhněte za páku pro spuštění padacího mostu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_091_TrialColossus_Group04_Step04_TalkToCharacter02_StepDescription",
+      "en": "Talk to Hades.",
+      "cz": "Promluvte si s Hádem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Hádem."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_091_TrialColossus_Group04_StepDescription",
+      "en": "Whoops... That didn't work so well...",
+      "cz": "Jejda... To moc dobře nefungovalo...",
+      "source": "pre_existing",
+      "original_cz": "Jejda... To moc dobře nefungovalo..."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_091_TrialColossus_Group04_StoryDescription",
+      "en": "Hades revealed that {PlayerName} would need to complete a task of Herculean proportions: push a bunch of rocks around for him. (Okay, perhaps it was not as mythic as Hades made it sound.)",
+      "cz": "Hádes prozradil, že {PlayerName} bude muset splnit úkol herkulovských rozměrů: tlačit pro něj hromadu kamenů. (Dobře, možná to nebylo tak mytické, jak to Hádes líčil.)",
+      "source": "pre_existing",
+      "original_cz": "Hádes prozradil, že {PlayerName} bude muset splnit úkol herkulovských rozměrů: tlačit pro něj hromadu kamenů. (Dobře, možná to nebylo tak mytické, jak to Hádes líčil.)"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_091_TrialColossus_Group05_Step05_Conditional02_StepDescription",
+      "en": "Find a way to hold up the drawbridge.",
+      "cz": "Najděte způsob, jak zadržet padací most.",
+      "source": "pre_existing",
+      "original_cz": "Najděte způsob, jak zadržet padací most."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_091_TrialColossus_Group07_Step07_Conditional03_StepDescription",
+      "en": "Try pulling the lever again.",
+      "cz": "Zkuste znovu zatáhnout za páku.",
+      "source": "pre_existing",
+      "original_cz": "Zkuste znovu zatáhnout za páku."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_091_TrialColossus_Group08_Step08_FollowCharacter01_StepDescription",
+      "en": "Follow Hades.",
+      "cz": "Následujte Háda.",
+      "source": "pre_existing",
+      "original_cz": "Následujte Háda."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_091_TrialColossus_Group08_Step08_FollowCharacter01_TalkToDescription",
+      "en": "Talk to Hades.",
+      "cz": "Promluvte si s Hádem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Hádem."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_091_TrialColossus_Group10_Step10_Conditional04_StepDescription",
+      "en": "Turn the rotating platform.",
+      "cz": "Otočte otočnou plošinu.",
+      "source": "pre_existing",
+      "original_cz": "Otočte otočnou plošinu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_091_TrialColossus_Group11_Step11_Interaction01_StepDescription",
+      "en": "Interact with the source of the corruption inside the first Mythic Trial.",
+      "cz": "Interakce se zdrojem korupce v první Mytické zkoušce.",
+      "source": "pre_existing",
+      "original_cz": "Interakce se zdrojem korupce v první Mytické zkoušce."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_091_TrialColossus_Group12_Step12_StepDescription",
+      "en": "Talk to Hades.",
+      "cz": "Promluvte si s Hádem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Hádem."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_091_TrialColossus_Group12_Step12_TalkToCharacter05_StepDescription",
+      "en": "Uh-oh. The platform spins all the way around with nothing to stop it...",
+      "cz": "Jejda. Plošina se točí dokola a nic ji nezastaví...",
+      "source": "pre_existing",
+      "original_cz": "Jejda. Plošina se točí dokola a nic ji nezastaví..."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_091_TrialColossus_Group13_Step13_Conditional06_StepDescription",
+      "en": "Find a way to block the rotation of the bridge.",
+      "cz": "Najděte způsob, jak zablokovat otáčení mostu.",
+      "source": "pre_existing",
+      "original_cz": "Najděte způsob, jak zablokovat otáčení mostu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_091_TrialColossus_Group15_Step15_FollowCharacter02_StepDescription",
+      "en": "Follow Hades.",
+      "cz": "Následujte Háda.",
+      "source": "pre_existing",
+      "original_cz": "Následujte Háda."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_091_TrialColossus_Group17_Step17_Conditional05_StepDescription",
+      "en": "Turn the rotating platform.",
+      "cz": "Otočte otočnou plošinu.",
+      "source": "pre_existing",
+      "original_cz": "Otočte otočnou plošinu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_091_TrialColossus_Group18_Step18_FollowCharacter03_StepDescription",
+      "en": "Follow Hades.",
+      "cz": "Následujte Háda.",
+      "source": "pre_existing",
+      "original_cz": "Následujte Háda."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_091_TrialColossus_Group18_Step18_FollowCharacter03_TalkToDescription",
+      "en": "Talk to Hades.",
+      "cz": "Promluvte si s Hádem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Hádem."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_091_TrialColossus_Group18_StoryDescription",
+      "en": "{PlayerName} soon discovered the task would be easier handed down than carried out. There were many obstacles in the way of exploring the Mythic Trial.",
+      "cz": "{PlayerName} brzy zjistil, že úkol bude snazší předat, než splnit. V cestě prozkoumání Mytické zkoušky stálo mnoho překážek.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName} brzy zjistil, že úkol bude snazší předat, než splnit. V cestě prozkoumání Mytické zkoušky stálo mnoho překážek."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_091_TrialColossus_Group19_Step19_FollowCharacter04_StepDescription",
+      "en": "Follow Hades.",
+      "cz": "Následujte Háda.",
+      "source": "pre_existing",
+      "original_cz": "Následujte Háda."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_091_TrialColossus_Group19_Step19_FollowCharacter04_TalkToDescription",
+      "en": "Talk to Hades.",
+      "cz": "Promluvte si s Hádem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Hádem."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_091_TrialColossus_Group20_Step20_VisitArea03_StepDescription",
+      "en": "Explore deeper in the Mythic Trial.",
+      "cz": "Prozkoumejte hlouběji Mythic Trial.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte hlouběji Mythic Trial."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_091_TrialColossus_Group21_Step21_Conditional07_StepDescription",
+      "en": "Push the cart.",
+      "cz": "Zatlačte vozík.",
+      "source": "pre_existing",
+      "original_cz": "Zatlačte vozík."
+    }
+  ],
+  "Expansion02Main_Expansion02/MRQS_E02_100_MythDungeon.locbin": [
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Any_CompletedRequestDescription",
+      "en": "Talk to Hades.",
+      "cz": "Promluv si s Hádem.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Hádem."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_AvailableDescription",
+      "en": "At last, {PlayerName} cleared the way to Mount Olympus. But challenges awaited inside — the Neverafter's corruption would need to be dealt with before Hades would agree to end the feud.",
+      "cz": "Konečně {PlayerName} uvolnila cestu k hoře Olymp. Uvnitř však čekaly výzvy – než Hádes souhlasí s ukončením sváru, bude třeba se vypořádat s korupcí Neverafteru.",
+      "source": "pre_existing",
+      "original_cz": "Konečně {PlayerName} uvolnila cestu k hoře Olymp. Uvnitř však čekaly výzvy – než Hádes souhlasí s ukončením sváru, bude třeba se vypořádat s korupcí Neverafteru."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_CompletedStoryDescription",
+      "en": "{PlayerName} captured the Snippet that Hades had stolen from the Lorekeeper. With Mount Olympus restored, there remained only one thing left to do: Get Hades to give up the feud with Maleficent.",
+      "cz": "{PlayerName} získal Úryvek, který Hádes ukradl Věštci. Po obnovení hory Olymp zbývala už jen jedna věc: Přimět Háda, aby se vzdal sporu se Zlobou.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName} získal Úryvek, který Hádes ukradl Věštci. Po obnovení hory Olymp zbývala už jen jedna věc: Přimět Háda, aby se vzdal sporu se Zlobou."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_DisplayName",
+      "en": "Mount Olympus",
+      "cz": "Hora Olymp",
+      "source": "pre_existing",
+      "original_cz": "Hora Olymp"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group01_Step01_VisitArea01_StepDescription",
+      "en": "Enter Mount Olympus.",
+      "cz": "Vstupte na horu Olymp.",
+      "source": "pre_existing",
+      "original_cz": "Vstupte na horu Olymp."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Find Hades and talk to him.",
+      "cz": "Najdi Háda a promluv si s ním.",
+      "source": "pre_existing",
+      "original_cz": "Najdi Háda a promluv si s ním."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group03_Step03_StepDescription",
+      "en": "Find a way to open the first gates.",
+      "cz": "Najděte způsob, jak otevřít první brány.",
+      "source": "pre_existing",
+      "original_cz": "Najděte způsob, jak otevřít první brány."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group04_Step04_FollowCharacter01_StepDescription",
+      "en": "Follow Hades.",
+      "cz": "Následuj Háda.",
+      "source": "pre_existing",
+      "original_cz": "Následuj Háda."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group04_Step04_FollowCharacter01_TalkToDescription",
+      "en": "Talk to Hades.",
+      "cz": "Promluv si s Hádem.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Hádem."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group05_Step11_Conditional05_StepDescription",
+      "en": "Guts & Glory.",
+      "cz": "Odvaha a sláva.",
+      "source": "pre_existing",
+      "original_cz": "Odvaha a sláva."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group05_Step11_Conditional06_StepDescription",
+      "en": "The Promethean Flame.",
+      "cz": "Prométheův plamen.",
+      "source": "pre_existing",
+      "original_cz": "Prométheův plamen."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group05_Step11_Conditional07_StepDescription",
+      "en": "Losing Your Marbles.",
+      "cz": "Ztrácíte kuličky.",
+      "source": "pre_existing",
+      "original_cz": "Ztrácíte kuličky."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group05_Step11_StepDescription",
+      "en": "Explore Mythopia and complete the three Mythic Trials to reach Mount Olympus.",
+      "cz": "Prozkoumejte Mythopii a dokončete tři Mytické zkoušky, abyste dosáhli hory Olymp.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte Mythopii a dokončete tři Mytické zkoušky, abyste dosáhli hory Olymp."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group06_Step25_Possess04_StepDescription",
+      "en": "Find two more <ActivityItem>Vases</ActivityItem> deeper in Mount Olympus.",
+      "cz": "Najděte další dvě **vázy** hlouběji v hoře Olymp.",
+      "source": "pre_existing",
+      "original_cz": "Najděte další dvě **vázy** hlouběji v hoře Olymp."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group06_StoryDescription",
+      "en": "Hades and {PlayerName} labored to find the vases to help them reach their goals. (Well, {PlayerName} labored, while Hades looked on.)",
+      "cz": "Hádes a {PlayerName} se namáhavě snažili najít vázy, které by jim pomohly dosáhnout jejich cílů. (No, {PlayerName} se namáhal, zatímco Hádes přihlížel.)",
+      "source": "pre_existing",
+      "original_cz": "Hádes a {PlayerName} se namáhavě snažili najít vázy, které by jim pomohly dosáhnout jejich cílů. (No, {PlayerName} se namáhal, zatímco Hádes přihlížel.)"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group07_Step07_Conditional01_StepDescription",
+      "en": "Find a way to rotate the platform.",
+      "cz": "Najděte způsob, jak otočit plošinu.",
+      "source": "pre_existing",
+      "original_cz": "Najděte způsob, jak otočit plošinu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group08_Step08_Conditional02_StepDescription",
+      "en": "Find a way to open the first gate.",
+      "cz": "Najděte způsob, jak otevřít první bránu.",
+      "source": "pre_existing",
+      "original_cz": "Najděte způsob, jak otevřít první bránu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group09_Step09_StepDescription",
+      "en": "Find a way to open the second gate.",
+      "cz": "Najděte způsob, jak otevřít druhou bránu.",
+      "source": "pre_existing",
+      "original_cz": "Najděte způsob, jak otevřít druhou bránu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group10_Step10_FollowCharacter02_StepDescription",
+      "en": "Follow Hades.",
+      "cz": "Následuj Háda.",
+      "source": "pre_existing",
+      "original_cz": "Následuj Háda."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group10_Step10_FollowCharacter02_TalkToDescription",
+      "en": "Talk to Hades.",
+      "cz": "Promluv si s Hádem.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Hádem."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group11_Step05_VisitArea05_StepDescription",
+      "en": "Explore Mount Olympus.",
+      "cz": "Prozkoumejte horu Olymp.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte horu Olymp."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group12_Step12_FollowCharacter04_StepDescription",
+      "en": "Follow Hades.",
+      "cz": "Následuj Háda.",
+      "source": "pre_existing",
+      "original_cz": "Následuj Háda."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group12_Step12_FollowCharacter04_TalkToDescription",
+      "en": "Talk to Hades.",
+      "cz": "Promluv si s Hádem.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Hádem."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group13_StepDescription",
+      "en": "Find two more <ActivityItem>Vases</ActivityItem> deeper in Mount Olympus.",
+      "cz": "Najděte další dvě **vázy** hlouběji v hoře Olymp.",
+      "source": "pre_existing",
+      "original_cz": "Najděte další dvě **vázy** hlouběji v hoře Olymp."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group14_Step14_StepDescription",
+      "en": "Find a way to open the third gate.",
+      "cz": "Najděte způsob, jak otevřít třetí bránu.",
+      "source": "pre_existing",
+      "original_cz": "Najděte způsob, jak otevřít třetí bránu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group15_Step15_CatchSnippet01_StepDescription",
+      "en": "Capture the <ActivityItem>Demon Snippet</ActivityItem> inside the throne room.",
+      "cz": "Zachyťte <ActivityItem>Úryvek démona</ActivityItem> uvnitř trůnního sálu.",
+      "source": "pre_existing",
+      "original_cz": "Zachyťte <ActivityItem>Úryvek démona</ActivityItem> uvnitř trůnního sálu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group15_StoryDescription",
+      "en": "Having made their way through the trial, they felt victory was within their grasp.",
+      "cz": "Poté, co zvládli zkoušku, cítili, že vítězství je na dosah ruky.",
+      "source": "pre_existing",
+      "original_cz": "Poté, co zvládli zkoušku, cítili, že vítězství je na dosah ruky."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group16_Step16_Conditional03_StepDescription",
+      "en": "Find a way to raise the second drawbridge.",
+      "cz": "Najděte způsob, jak zvednout druhý padací most.",
+      "source": "pre_existing",
+      "original_cz": "Najděte způsob, jak zvednout druhý padací most."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group16_StoryDescription",
+      "en": "Another puzzle awaited them as they labored to find a way to pass the second drawbridge.",
+      "cz": "Další hádanka je čekala, zatímco se lopotili s hledáním cesty, jak překonat druhý padací most.",
+      "source": "pre_existing",
+      "original_cz": "Další hádanka je čekala, zatímco se lopotili s hledáním cesty, jak překonat druhý padací most."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group17_Step17_FollowCharacter03_StepDescription",
+      "en": "Follow Hades.",
+      "cz": "Následuj Háda.",
+      "source": "pre_existing",
+      "original_cz": "Následuj Háda."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group18_Step18_FollowCharacter05_StepDescription",
+      "en": "Follow Hades.",
+      "cz": "Následuj Háda.",
+      "source": "pre_existing",
+      "original_cz": "Následuj Háda."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group19_Step19_VisitArea04_StepDescription",
+      "en": "Cross the drawbridge.",
+      "cz": "Přejděte přes padací most.",
+      "source": "pre_existing",
+      "original_cz": "Přejděte přes padací most."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group20_Step20_Conditional04_StepDescription",
+      "en": "Find a way to open the second gate.",
+      "cz": "Najděte způsob, jak otevřít druhou bránu.",
+      "source": "pre_existing",
+      "original_cz": "Najděte způsob, jak otevřít druhou bránu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group21_Step21_FollowCharacter06_StepDescription",
+      "en": "Follow Hades.",
+      "cz": "Následuj Háda.",
+      "source": "pre_existing",
+      "original_cz": "Následuj Háda."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group22_Step24_Possess03_StepDescription",
+      "en": "Find two more <ActivityItem>Vases</ActivityItem> deeper in Mount Olympus.",
+      "cz": "Najděte další dvě **vázy** hlouběji v hoře Olymp.",
+      "source": "pre_existing",
+      "original_cz": "Najděte další dvě **vázy** hlouběji v hoře Olymp."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group22_StoryDescription",
+      "en": "The Lord of the Underworld and {PlayerName} were at the very gates of Olympus itself. However, they needed to answer an important question: \"What does not look like a key, but works as a key?\"",
+      "cz": "Pán podsvětí a {PlayerName} stáli před samotnými branami Olympu. Potřebovali však odpovědět na důležitou otázku: „Co nevypadá jako klíč, ale funguje jako klíč?“",
+      "source": "pre_existing",
+      "original_cz": "Pán podsvětí a {PlayerName} stáli před samotnými branami Olympu. Potřebovali však odpovědět na důležitou otázku: „Co nevypadá jako klíč, ale funguje jako klíč?“"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group23_Step26_Conditional08_StepDescription",
+      "en": "Lower the bridge.",
+      "cz": "Spusťte most dolů.",
+      "source": "pre_existing",
+      "original_cz": "Spusťte most dolů."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group23_Step26_StepDescription",
+      "en": "Capture the <ActivityItem>Demon Snippets</ActivityItem> inside the throne room.",
+      "cz": "Zachyťte <ActivityItem>Úryvky démonů</ActivityItem> uvnitř trůnního sálu.",
+      "source": "pre_existing",
+      "original_cz": "Zachyťte <ActivityItem>Úryvky démonů</ActivityItem> uvnitř trůnního sálu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group23_StepDescription",
+      "en": "More Snippets have appeared!",
+      "cz": "Objevily se další úryvky!",
+      "source": "pre_existing",
+      "original_cz": "Objevily se další úryvky!"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_100_MythDungeon_Group24_Step22_VisitArea02_StepDescription",
+      "en": "Cross the bridge.",
+      "cz": "Přejděte most.",
+      "source": "pre_existing",
+      "original_cz": "Přejděte most."
+    }
+  ],
+  "Expansion02Main_Expansion02/MRQS_E02_110_FeudEnd.locbin": [
+    {
+      "key": "Story!Expansion02!MRQS_E02_110_FeudEnd_AvailableDescription",
+      "en": "{PlayerName} had managed to do the impossible: Reach Maleficent's castle and restore Hades to his \"rightful\" place in Mount Olympus. But the fiery rivals still refused to make peace. {PlayerName} decided to seek out the wisdom of the Lorekeeper to finally put an end to this squabble once and for all.",
+      "cz": "Hráči {PlayerName} se podařilo nemožné: dostat se na Zlobin hrad a vrátit Hádovi jeho „právoplatné“ místo na hoře Olymp. Ale vášniví rivalové stále odmítali uzavřít mír. {PlayerName} se rozhodl vyhledat moudrost Věštce, aby konečně a navždy ukončil tuto hádku.",
+      "source": "pre_existing",
+      "original_cz": "Hráči {PlayerName} se podařilo nemožné: dostat se na Zlobin hrad a vrátit Hádovi jeho „právoplatné“ místo na hoře Olymp. Ale vášniví rivalové stále odmítali uzavřít mír. {PlayerName} se rozhodl vyhledat moudrost Věštce, aby konečně a navždy ukončil tuto hádku."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_110_FeudEnd_DisplayName",
+      "en": "A Long-Awaited Invitation",
+      "cz": "Dlouho očekávaná pozvánka",
+      "source": "pre_existing",
+      "original_cz": "Dlouho očekávaná pozvánka"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_110_FeudEnd_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "Talk to the Lorekeeper for advice.",
+      "cz": "Promluvte si se Strážcem věštby a požádejte ho o radu.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Strážcem věštby a požádejte ho o radu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_110_FeudEnd_Group01_StepDescription",
+      "en": "Hades and Maleficent refuse to make peace.",
+      "cz": "Hádes a Zloba odmítají uzavřít mír.",
+      "source": "pre_existing",
+      "original_cz": "Hádes a Zloba odmítají uzavřít mír."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_110_FeudEnd_Group02_Step02_Conditional01_StepDescription",
+      "en": "Reorder <ActivityItem>\"The Spark of Spite\"</ActivityItem> in the Lorekeeper's pages.",
+      "cz": "Změňte pořadí položky <ActivityItem>„Jiskra zášti“</ActivityItem> na stránkách Věštce.",
+      "source": "pre_existing",
+      "original_cz": "Změňte pořadí položky <ActivityItem>„Jiskra zášti“</ActivityItem> na stránkách Věštce."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_110_FeudEnd_Group03_Step03_TalkToCharacter02_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluvte si s {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC}."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_110_FeudEnd_Group04_Step04_Possess01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_110_FeudEnd_Group04_Step04_Possess02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_110_FeudEnd_Group04_Step04_Possess03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_110_FeudEnd_Group04_Step04_Possess04_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_110_FeudEnd_Group04_Step04_Possess05_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_110_FeudEnd_Group04_Step04_StepDescription",
+      "en": "Gather the materials for the invitations:",
+      "cz": "Shromážděte materiály pro pozvánky:",
+      "source": "pre_existing",
+      "original_cz": "Shromážděte materiály pro pozvánky:"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_110_FeudEnd_Group05_Step05_StepDescription",
+      "en": "Craft the <ActivityItem>Neverafter Council Invitations</ActivityItem>.",
+      "cz": "Vyrobte <ActivityItem>Pozvánky do rady Neverafter</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Vyrobte <ActivityItem>Pozvánky do rady Neverafter</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_110_FeudEnd_Group06_Step06_ReadyDescription",
+      "en": "Deliver the invitation to Maleficent in her castle.",
+      "cz": "Doručte pozvání Zlobě do jejího hradu.",
+      "source": "pre_existing",
+      "original_cz": "Doručte pozvání Zlobě do jejího hradu."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_110_FeudEnd_Group06_Step06_StepDescription",
+      "en": "Make sure Maleficent's invitation is in your Inventory.",
+      "cz": "Ujistěte se, že máte ve svém inventáři Zlobivou pozvánku.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte ve svém inventáři Zlobivou pozvánku."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_110_FeudEnd_Group06_Step07_ReadyDescription",
+      "en": "Deliver the invitation to Hades.",
+      "cz": "Doručte pozvání Hádovi.",
+      "source": "pre_existing",
+      "original_cz": "Doručte pozvání Hádovi."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_110_FeudEnd_Group06_Step07_StepDescription",
+      "en": "Make sure Hades' invitation is in your Inventory.",
+      "cz": "Ujistěte se, že máte ve svém inventáři Hádovo pozvání.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte ve svém inventáři Hádovo pozvání."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_110_FeudEnd_Group06_StepDescription",
+      "en": "Invite the villainous pair to the gathering:",
+      "cz": "Pozvěte padouchskou dvojici na setkání:",
+      "source": "pre_existing",
+      "original_cz": "Pozvěte padouchskou dvojici na setkání:"
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_110_FeudEnd_Group07_Step08_TalkToCharacter03_StepDescription",
+      "en": "Talk to the Lorekeeper when you're ready to start the meeting.",
+      "cz": "Až budete připraveni zahájit schůzku, promluvte si se Strážcem věštby.",
+      "source": "pre_existing",
+      "original_cz": "Až budete připraveni zahájit schůzku, promluvte si se Strážcem věštby."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_110_FeudEnd_Group08_Step09_Listen01_StepDescription",
+      "en": "Watch as the Mistress of All Evil and Lord of the Underworld finally meet.",
+      "cz": "Sledujte, jak se konečně setkávají Paní všeho zla a Pán podsvětí.",
+      "source": "pre_existing",
+      "original_cz": "Sledujte, jak se konečně setkávají Paní všeho zla a Pán podsvětí."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_110_FeudEnd_Group09_Step10_TalkToCharacter04_StepDescription",
+      "en": "Talk to the Lorekeeper.",
+      "cz": "Promluvte si se Strážcem věštby.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Strážcem věštby."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_110_FeudEnd_Group09_Step10_TalkToCharacter05_StepDescription",
+      "en": "Talk to Hades.",
+      "cz": "Promluvte si s Hádem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Hádem."
+    },
+    {
+      "key": "Story!Expansion02!MRQS_E02_110_FeudEnd_Group09_StepDescription",
+      "en": "Maleficent has vanished!",
+      "cz": "Zlá tvář zmizela!",
+      "source": "pre_existing",
+      "original_cz": "Zlá tvář zmizela!"
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "BeautyBeastUpdate_MotherGothel/MotherGothel_VLG_Beas_030_VLG_Beas_030_TalkTo04.locbin": [
+    {
+      "key": "MotherGothel_000_f",
+      "en": "Why, {PlayerName}, have you brought me a gift?",
+      "cz": "Proč jsi mi, {PlayerName}, přinesl/a dárek?",
+      "source": "pre_existing",
+      "original_cz": "Proč jsi mi, {PlayerName}, přinesl/a dárek?"
+    },
+    {
+      "key": "MotherGothel_001_f",
+      "en": "Think of it as a little something from the Beast and me. Go on and take a look.",
+      "cz": "Berte to jako malý dárek od Bestie a mě. Běžte se na to podívat.",
+      "source": "pre_existing",
+      "original_cz": "Berte to jako malý dárek od Bestie a mě. Běžte se na to podívat."
+    },
+    {
+      "key": "MotherGothel_002_f",
+      "en": "...",
+      "cz": "...",
+      "source": "pre_existing",
+      "original_cz": "..."
+    },
+    {
+      "key": "MotherGothel_003_f",
+      "en": "... Something on your mind, Mother Gothel?",
+      "cz": "... Něco tě trápí, Matko Gothel?",
+      "source": "pre_existing",
+      "original_cz": "... Něco tě trápí, Matko Gothel?"
+    },
+    {
+      "key": "MotherGothel_004_f",
+      "en": "Hm? No. Nothing at all.",
+      "cz": "Hm? Ne. Vůbec nic.",
+      "source": "pre_existing",
+      "original_cz": "Hm? Ne. Vůbec nic."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I think you're lying.",
+      "cz": "Myslím, že lžeš.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že lžeš."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "You haven't been... reflecting on anything?",
+      "cz": "Nepřemýšlel jsi... o ničem?",
+      "source": "pre_existing",
+      "original_cz": "Nepřemýšlel jsi... o ničem?"
+    },
+    {
+      "key": "MotherGothel_005_f",
+      "en": "Really, dear. Now why would you say that?",
+      "cz": "Vážně, drahoušku. Proč to říkáš?",
+      "source": "pre_existing",
+      "original_cz": "Vážně, drahoušku. Proč to říkáš?"
+    },
+    {
+      "key": "MotherGothel_006_f",
+      "en": "Perhaps something has caused you to see yourself in a new light?",
+      "cz": "Možná vás něco přimělo vidět se v novém světle?",
+      "source": "pre_existing",
+      "original_cz": "Možná vás něco přimělo vidět se v novém světle?"
+    },
+    {
+      "key": "MotherGothel_007_f",
+      "en": "Ugh! You're behind the enchantment on that mirror, aren't you? What a horrific illusion you placed within it...",
+      "cz": "Uf! Jsi za tím kouzlem na tom zrcadle, že? Jakou hrůznou iluzi jsi do něj vložila...",
+      "source": "pre_existing",
+      "original_cz": "Uf! Jsi za tím kouzlem na tom zrcadle, že? Jakou hrůznou iluzi jsi do něj vložila..."
+    },
+    {
+      "key": "MotherGothel_008_f",
+      "en": "It's a Mirror of True Seeing. Whatever you saw in it... is already deep within you.",
+      "cz": "Je to Zrcadlo Pravého Vidění. Cokoli jste v něm viděli... je už hluboko v vás.",
+      "source": "pre_existing",
+      "original_cz": "Je to Zrcadlo Pravého Vidění. Cokoli jste v něm viděli... je už hluboko v vás."
+    },
+    {
+      "key": "MotherGothel_009_f",
+      "en": "Impossible. You're lying.",
+      "cz": "Nemožné. Lžeš.",
+      "source": "pre_existing",
+      "original_cz": "Nemožné. Lžeš."
+    },
+    {
+      "key": "MotherGothel_010_f",
+      "en": "I'm not.",
+      "cz": "Nejsem.",
+      "source": "pre_existing",
+      "original_cz": "Nejsem."
+    },
+    {
+      "key": "MotherGothel_011_f",
+      "en": "I refuse to believe you. And I refuse to look at that... that thing a moment longer. If I promise never to bother with Belle again, will you get rid of that hideous mirror and leave me be?",
+      "cz": "Odmítám ti věřit. A odmítám se na tu... tu věc podívat ani o chvíli déle. Pokud slíbím, že se s Belle už nikdy nebudu obtěžovat, zbavíš se toho ohavného zrcadla a necháš mě být?",
+      "source": "pre_existing",
+      "original_cz": "Odmítám ti věřit. A odmítám se na tu... tu věc podívat ani o chvíli déle. Pokud slíbím, že se s Belle už nikdy nebudu obtěžovat, zbavíš se toho ohavného zrcadla a necháš mě být?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "You have to promise.",
+      "cz": "Musíš slíbit.",
+      "source": "pre_existing",
+      "original_cz": "Musíš slíbit."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I think that could work.",
+      "cz": "Myslím, že by to mohlo fungovat.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že by to mohlo fungovat."
+    },
+    {
+      "key": "MotherGothel_012_f",
+      "en": "You swear you're going to leave the Beast and Belle alone now?",
+      "cz": "Přísaháš, že teď necháš Bestii a Belle na pokoji?",
+      "source": "pre_existing",
+      "original_cz": "Přísaháš, že teď necháš Bestii a Belle na pokoji?"
+    },
+    {
+      "key": "MotherGothel_013_f",
+      "en": "*SIGH* Yes. But only if you stop with that awful enchantment...",
+      "cz": "*VZDECH* Ano. Ale jen když přestaneš s tím hrozným kouzlem...",
+      "source": "pre_existing",
+      "original_cz": "*VZDECH* Ano. Ale jen když přestaneš s tím hrozným kouzlem..."
+    },
+    {
+      "key": "MotherGothel_014_f",
+      "en": "I'll move the mirror. But if you don't keep your word... I'll put it back.",
+      "cz": "Přesunu zrcadlo. Ale pokud nedodržíš slovo... dám ho zpátky.",
+      "source": "pre_existing",
+      "original_cz": "Přesunu zrcadlo. Ale pokud nedodržíš slovo... dám ho zpátky."
+    },
+    {
+      "key": "MotherGothel_015_f",
+      "en": "I never want to see that hideous illusion again. I promise that I will leave Belle and the Beast be. Since they OBVIOUSLY can't handle a little teasing...",
+      "cz": "Už nikdy nechci vidět tu ohavnou iluzi. Slibuji, že nechám Bellu a zvíře na pokoji. Protože ZŘEJMĚ nesnesou trochu škádlení...",
+      "source": "pre_existing",
+      "original_cz": "Už nikdy nechci vidět tu ohavnou iluzi. Slibuji, že nechám Bellu a zvíře na pokoji. Protože ZŘEJMĚ nesnesou trochu škádlení..."
+    },
+    {
+      "key": "MotherGothel_016_f",
+      "en": "Had I known the Beast was capable of such subterfuge, I would have been more careful. I'm... almost impressed.",
+      "cz": "Kdybych věděla, že Bestie je schopná takové lsti, byla bych opatrnější. Jsem... skoro ohromená.",
+      "source": "pre_existing",
+      "original_cz": "Kdybych věděla, že Bestie je schopná takové lsti, byla bych opatrnější. Jsem... skoro ohromená."
+    },
+    {
+      "key": "MotherGothel_017_f",
+      "en": "Well, I'll let you mull over that revelation. Bye for now — be good!",
+      "cz": "No, nechám tě nad tím odhalením promyslet. Zatím nashledanou – buď hodný/á!",
+      "source": "pre_existing",
+      "original_cz": "No, nechám tě nad tím odhalením promyslet. Zatím nashledanou – buď hodný/á!"
+    },
+    {
+      "key": "MotherGothel_018_f",
+      "en": "No, I... Wait. Reflecting?",
+      "cz": "Ne, já... Počkej. Přemýšlíš?",
+      "source": "pre_existing",
+      "original_cz": "Ne, já... Počkej. Přemýšlíš?"
+    }
+  ],
+  "BeautyBeastUpdate_MotherGothel/MotherGothel_VLG_Beas_030_VLG_Beas_030_TalkTo05.locbin": [
+    {
+      "key": "MotherGothel_000_f",
+      "en": "Well well, look what the Beast dragged in.",
+      "cz": "No, podívejte se, co sem Bestie přitáhla.",
+      "source": "pre_existing",
+      "original_cz": "No, podívejte se, co sem Bestie přitáhla."
+    },
+    {
+      "key": "MotherGothel_001_f",
+      "en": "Or did he tell you to leave him alone? I'm certain I heard the sound of a childish tantrum coming from his general direction.",
+      "cz": "Nebo ti řekl, abys ho nechala být? Jsem si jistá, že jsem slyšela zvuk dětského záchvatu vzteku vycházejícího zhruba z jeho směru.",
+      "source": "pre_existing",
+      "original_cz": "Nebo ti řekl, abys ho nechala být? Jsem si jistá, že jsem slyšela zvuk dětského záchvatu vzteku vycházejícího zhruba z jeho směru."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Can't you just... be cool for once?",
+      "cz": "Nemůžeš být aspoň jednou... v pohodě?",
+      "source": "pre_existing",
+      "original_cz": "Nemůžeš být aspoň jednou... v pohodě?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "You really upset him, Mother Gothel.",
+      "cz": "Opravdu jsi ho rozrušila, Matko Gothel.",
+      "source": "pre_existing",
+      "original_cz": "Opravdu jsi ho rozrušila, Matko Gothel."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "You need to be more compassionate around the other Villagers.",
+      "cz": "Musíš být k ostatním vesničanům soucitnější.",
+      "source": "pre_existing",
+      "original_cz": "Musíš být k ostatním vesničanům soucitnější."
+    },
+    {
+      "key": "MotherGothel_002_f",
+      "en": "You sound like my ungrateful daughter, accusing me of being cold.",
+      "cz": "Zníš jako moje nevděčná dcera, obviňuješ mě, že mi je zima.",
+      "source": "pre_existing",
+      "original_cz": "Zníš jako moje nevděčná dcera, obviňuješ mě, že mi je zima."
+    },
+    {
+      "key": "MotherGothel_003_f",
+      "en": "Please, I'm just trying to sort this out.",
+      "cz": "Prosím, jen se to snažím vyřešit.",
+      "source": "pre_existing",
+      "original_cz": "Prosím, jen se to snažím vyřešit."
+    },
+    {
+      "key": "MotherGothel_004_f",
+      "en": "What did you say to Belle to make her upset in the first place?",
+      "cz": "Co jsi Belle řekl/a, že jsi ji tak naštval/a?",
+      "source": "pre_existing",
+      "original_cz": "Co jsi Belle řekl/a, že jsi ji tak naštval/a?"
+    },
+    {
+      "key": "MotherGothel_005_f",
+      "en": "Nothing really. She's just SO sensitive.",
+      "cz": "Vlastně nic. Je jen TAK citlivá.",
+      "source": "pre_existing",
+      "original_cz": "Vlastně nic. Je jen TAK citlivá."
+    },
+    {
+      "key": "MotherGothel_006_f",
+      "en": "We were discussing literature, and she was telling me about her favorite fables...",
+      "cz": "Bavili jsme se o literatuře a ona mi vyprávěla o svých oblíbených bajkách...",
+      "source": "pre_existing",
+      "original_cz": "Bavili jsme se o literatuře a ona mi vyprávěla o svých oblíbených bajkách..."
+    },
+    {
+      "key": "MotherGothel_007_f",
+      "en": "I merely suggested that we discuss it further once she broadens her horizons.",
+      "cz": "Jen jsem navrhla, abychom si o tom promluvili dále, až si rozšíří obzory.",
+      "source": "pre_existing",
+      "original_cz": "Jen jsem navrhla, abychom si o tom promluvili dále, až si rozšíří obzory."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "That doesn't sound too bad...",
+      "cz": "To nezní tak špatně...",
+      "source": "pre_existing",
+      "original_cz": "To nezní tak špatně..."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Is that really what you said?",
+      "cz": "Opravdu jsi to řekl/a?",
+      "source": "pre_existing",
+      "original_cz": "Opravdu jsi to řekl/a?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Please give me the exact words.",
+      "cz": "Prosím, uveďte přesná slova.",
+      "source": "pre_existing",
+      "original_cz": "Prosím, uveďte přesná slova."
+    },
+    {
+      "key": "MotherGothel_008_f",
+      "en": "I certainly didn't think so.",
+      "cz": "To jsem si rozhodně nemyslela.",
+      "source": "pre_existing",
+      "original_cz": "To jsem si rozhodně nemyslela."
+    },
+    {
+      "key": "MotherGothel_009_f",
+      "en": "What did you say, precisely?",
+      "cz": "Co přesně jsi říkala?",
+      "source": "pre_existing",
+      "original_cz": "Co přesně jsi říkala?"
+    },
+    {
+      "key": "MotherGothel_010_f",
+      "en": "Well, I believe I mentioned that her literary interests were... hmm... What word did I use? Oh, yes. Provincial.",
+      "cz": "No, myslím, že jsem se zmínila, že její literární zájmy byly... hmm... Jaké slovo jsem to použila? Ach ano. Provinční.",
+      "source": "pre_existing",
+      "original_cz": "No, myslím, že jsem se zmínila, že její literární zájmy byly... hmm... Jaké slovo jsem to použila? Ach ano. Provinční."
+    },
+    {
+      "key": "MotherGothel_011_f",
+      "en": "Oh boy...",
+      "cz": "No páni...",
+      "source": "pre_existing",
+      "original_cz": "No páni..."
+    },
+    {
+      "key": "MotherGothel_012_f",
+      "en": "I also may have said that no one would be friends with someone who had such pedestrian taste in books.",
+      "cz": "Možná jsem také řekla, že nikdo by se nekamarádil s někým, kdo má takový obyčejný vkus na knihy.",
+      "source": "pre_existing",
+      "original_cz": "Možná jsem také řekla, že nikdo by se nekamarádil s někým, kdo má takový obyčejný vkus na knihy."
+    },
+    {
+      "key": "MotherGothel_013_f",
+      "en": "Mother Gothel! That's horrible!",
+      "cz": "Matko Gothel! To je hrozné!",
+      "source": "pre_existing",
+      "original_cz": "Matko Gothel! To je hrozné!"
+    },
+    {
+      "key": "MotherGothel_014_f",
+      "en": "Her tastes are horrible, aren't they?",
+      "cz": "Má hrozný vkus, že?",
+      "source": "pre_existing",
+      "original_cz": "Má hrozný vkus, že?"
+    },
+    {
+      "key": "MotherGothel_015_f",
+      "en": "Ugh, never mind. I need to talk to the Beast.",
+      "cz": "Uf, nevadí. Potřebuji si promluvit s Bestií.",
+      "source": "pre_existing",
+      "original_cz": "Uf, nevadí. Potřebuji si promluvit s Bestií."
+    },
+    {
+      "key": "MotherGothel_016_f",
+      "en": "Tell Belle I'm always here for self-improvement advice!",
+      "cz": "Řekni Belle, že jsem tu vždycky pro rady ohledně sebezdokonalování!",
+      "source": "pre_existing",
+      "original_cz": "Řekni Belle, že jsem tu vždycky pro rady ohledně sebezdokonalování!"
+    },
+    {
+      "key": "MotherGothel_017_f",
+      "en": "In summary, yes.",
+      "cz": "Stručně řečeno, ano.",
+      "source": "pre_existing",
+      "original_cz": "Stručně řečeno, ano."
+    },
+    {
+      "key": "MotherGothel_018_f",
+      "en": "Well, that was my intent.",
+      "cz": "No, to byl můj záměr.",
+      "source": "pre_existing",
+      "original_cz": "No, to byl můj záměr."
+    },
+    {
+      "key": "MotherGothel_019_f",
+      "en": "After all, he needs to learn self-control.",
+      "cz": "Koneckonců se musí naučit sebeovládání.",
+      "source": "pre_existing",
+      "original_cz": "Koneckonců se musí naučit sebeovládání."
+    },
+    {
+      "key": "MotherGothel_020_f",
+      "en": "I was simply helping.",
+      "cz": "Jen jsem pomáhala.",
+      "source": "pre_existing",
+      "original_cz": "Jen jsem pomáhala."
+    },
+    {
+      "key": "MotherGothel_021_f",
+      "en": "I don't \"need\" to do anything, dear.",
+      "cz": "Nemusím nic dělat, drahá.",
+      "source": "pre_existing",
+      "original_cz": "Nemusím nic dělat, drahá."
+    }
+  ],
+  "BeautyBeastUpdate_MotherGothel/MotherGothel_VLG_Beas_040_VLG_Beas_040_BringItem02.locbin": [
+    {
+      "key": "MotherGothel_001_f",
+      "en": "Oh please. Don't tell me you plan to chastise me yet again.",
+      "cz": "Prosím tě. Neříkej mi, že mě plánuješ znovu potrestat.",
+      "source": "pre_existing",
+      "original_cz": "Prosím tě. Neříkej mi, že mě plánuješ znovu potrestat."
+    },
+    {
+      "key": "MotherGothel_002_f",
+      "en": "Oh no, this is just a simple gift.",
+      "cz": "Ach ne, tohle je jen obyčejný dárek.",
+      "source": "pre_existing",
+      "original_cz": "Ach ne, tohle je jen obyčejný dárek."
+    },
+    {
+      "key": "MotherGothel_003_f",
+      "en": "I helped the Beast bring some roses back from his Realm, and he wants to share them with the Valley.",
+      "cz": "Pomohla jsem Bestii přinést z jeho Říše nějaké růže a on se o ně chce podělit s Údolím.",
+      "source": "pre_existing",
+      "original_cz": "Pomohla jsem Bestii přinést z jeho Říše nějaké růže a on se o ně chce podělit s Údolím."
+    },
+    {
+      "key": "MotherGothel_004_f",
+      "en": "Well... I suppose that is relatively harmless.",
+      "cz": "No... předpokládám, že je to relativně neškodné.",
+      "source": "pre_existing",
+      "original_cz": "No... předpokládám, že je to relativně neškodné."
+    },
+    {
+      "key": "MotherGothel_005_f",
+      "en": "It's not my preferred form of enchanted flower...",
+      "cz": "Není to moje oblíbená forma kouzelné květiny...",
+      "source": "pre_existing",
+      "original_cz": "Není to moje oblíbená forma kouzelné květiny..."
+    },
+    {
+      "key": "MotherGothel_006_f",
+      "en": "But it is rather pretty.",
+      "cz": "Ale je docela hezký.",
+      "source": "pre_existing",
+      "original_cz": "Ale je docela hezký."
+    },
+    {
+      "key": "MotherGothel_007_f",
+      "en": "Consider it a peace offering. The Beast hopes that this will mark a new period of... let's say, relative calm between you two.",
+      "cz": "Považuj to za mírovou nabídku. Bestie doufá, že to bude znamenat nové období... řekněme, relativního klidu mezi vámi dvěma.",
+      "source": "pre_existing",
+      "original_cz": "Považuj to za mírovou nabídku. Bestie doufá, že to bude znamenat nové období... řekněme, relativního klidu mezi vámi dvěma."
+    },
+    {
+      "key": "MotherGothel_008_f",
+      "en": "... Very well, I'll play nice.",
+      "cz": "... Dobře, budu se chovat slušně.",
+      "source": "pre_existing",
+      "original_cz": "... Dobře, budu se chovat slušně."
+    },
+    {
+      "key": "MotherGothel_009_f",
+      "en": "Excellent.",
+      "cz": "Výborně.",
+      "source": "pre_existing",
+      "original_cz": "Výborně."
+    },
+    {
+      "key": "MotherGothel_010_f",
+      "en": "Ouch! He left the thorns on!",
+      "cz": "Au! Nechal tam trny!",
+      "source": "pre_existing",
+      "original_cz": "Au! Nechal tam trny!"
+    },
+    {
+      "key": "MotherGothel_011_f",
+      "en": "Yes, the Beast was hoping you would pick up on that.",
+      "cz": "Ano, Bestie doufala, že si toho všimneš.",
+      "source": "pre_existing",
+      "original_cz": "Ano, Bestie doufala, že si toho všimneš."
+    },
+    {
+      "key": "MotherGothel_012_f",
+      "en": "He hopes that things between you two can be civilized. But if not... he'll defend those he cares about.",
+      "cz": "Doufá, že se věci mezi vámi dvěma dají civilizovat. Ale pokud ne... bude bránit ty, na kterých mu záleží.",
+      "source": "pre_existing",
+      "original_cz": "Doufá, že se věci mezi vámi dvěma dají civilizovat. Ale pokud ne... bude bránit ty, na kterých mu záleží."
+    },
+    {
+      "key": "MotherGothel_013_f",
+      "en": "I... Please tell him that we have an understanding.",
+      "cz": "Já... Prosím, řekněte mu, že jsme si porozuměli.",
+      "source": "pre_existing",
+      "original_cz": "Já... Prosím, řekněte mu, že jsme si porozuměli."
+    },
+    {
+      "key": "MotherGothel_014_f",
+      "en": "Are you planning on attacking me with enchanted mirrors once more?",
+      "cz": "Plánuješ mě znovu napadnout s očarovanými zrcadly?",
+      "source": "pre_existing",
+      "original_cz": "Plánuješ mě znovu napadnout s očarovanými zrcadly?"
+    }
+  ]
+}

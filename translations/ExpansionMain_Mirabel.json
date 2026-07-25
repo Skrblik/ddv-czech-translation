@@ -1,0 +1,829 @@
+{
+  "ExpansionMain_Mirabel/Mirabel_Dialogues_Eager001.locbin": [
+    {
+      "key": "Mirabel_000_f",
+      "en": "¡Hola! Wanna play a game of Scramblecoin?",
+      "cz": "¡Hola! Chceš si zahrát Scramblecoin?",
+      "source": "pre_existing",
+      "original_cz": "¡Hola! Chceš si zahrát Scramblecoin?"
+    }
+  ],
+  "ExpansionMain_Mirabel/Mirabel_Dialogues_Postgame001.locbin": [
+    {
+      "key": "Mirabel_000_f",
+      "en": "Hey!",
+      "cz": "Ahoj!",
+      "source": "pre_existing",
+      "original_cz": "Ahoj!"
+    },
+    {
+      "key": "Mirabel_001_f",
+      "en": "¡Felicidades! You're really good at this!",
+      "cz": "¡Felicidades! V tomhle jsi fakt dobrá!",
+      "source": "pre_existing",
+      "original_cz": "¡Felicidades! V tomhle jsi fakt dobrá!"
+    },
+    {
+      "key": "Mirabel_002_f",
+      "en": "Hey, I think you played great. Let's have a rematch soon, okay?",
+      "cz": "Hej, myslím, že jsi hrála skvěle. Brzy si dáme odvetu, ano?",
+      "source": "pre_existing",
+      "original_cz": "Hej, myslím, že jsi hrála skvěle. Brzy si dáme odvetu, ano?"
+    }
+  ],
+  "ExpansionMain_Mirabel/Mirabel_Dialogues_Pregame001.locbin": [
+    {
+      "key": "Mirabel_000_f",
+      "en": "I'm ready. Let's do this!",
+      "cz": "Jsem připravená. Pojďme na to!",
+      "source": "pre_existing",
+      "original_cz": "Jsem připravená. Pojďme na to!"
+    }
+  ],
+  "ExpansionMain_Mirabel/Mirabel_SEC_E01_Mira_010_SEC_E01_Mira_010_Intro.locbin": [
+    {
+      "key": "Mirabel_000_f",
+      "en": "Hola, {PlayerName}! I've been wanting to do something special for my cousin Antonio. Could you help me out?",
+      "cz": "Ahoj, {PlayerName}! Chtěla jsem udělat něco speciálního pro svého bratrance Antonia. Mohl bys mi s tím pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}! Chtěla jsem udělat něco speciálního pro svého bratrance Antonia. Mohl bys mi s tím pomoct?"
+    },
+    {
+      "key": "Mirabel_001_f",
+      "en": "Ooh! \"Talks to animals\" Antonio?! How can I help?",
+      "cz": "Jé! „Mluví se zvířaty“ Antonio?! Jak můžu pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Jé! „Mluví se zvířaty“ Antonio?! Jak můžu pomoct?"
+    },
+    {
+      "key": "Mirabel_009_f",
+      "en": "Well, I've been missing him a ton lately.",
+      "cz": "No, v poslední době mi hrozně chybí.",
+      "source": "pre_existing",
+      "original_cz": "No, v poslední době mi hrozně chybí."
+    },
+    {
+      "key": "Mirabel_012_f",
+      "en": "So, I was thinking that maybe I'd write to him and tell him all about the cool animals on Eternity Isle.",
+      "cz": "Tak jsem si říkala, že bych mu možná napsala a pověděla mu o všech těch úžasných zvířatech na Eternity Isle.",
+      "source": "pre_existing",
+      "original_cz": "Tak jsem si říkala, že bych mu možná napsala a pověděla mu o všech těch úžasných zvířatech na Eternity Isle."
+    },
+    {
+      "key": "Mirabel_013_f",
+      "en": "But it'd be even cooler if I could show him photographs of the animals... with me alongside them!",
+      "cz": "Ale bylo by ještě lepší, kdybych mu mohla ukázat fotografie zvířat... se mnou vedle nich!",
+      "source": "pre_existing",
+      "original_cz": "Ale bylo by ještě lepší, kdybych mu mohla ukázat fotografie zvířat... se mnou vedle nich!"
+    },
+    {
+      "key": "Player_001_choice_003_f",
+      "en": "Nature photography doesn't usually include people.",
+      "cz": "Fotografie přírody obvykle nezahrnuje lidi.",
+      "source": "pre_existing",
+      "original_cz": "Fotografie přírody obvykle nezahrnuje lidi."
+    },
+    {
+      "key": "Player_001_choice_004_f",
+      "en": "What kinds of animals does Antonio like?",
+      "cz": "Jaká zvířata má Antonio rád?",
+      "source": "pre_existing",
+      "original_cz": "Jaká zvířata má Antonio rád?"
+    },
+    {
+      "key": "Player_001_choice_005_f",
+      "en": "Say no more — sounds like a job for my Camera!",
+      "cz": "Už nic neříkejte – zní to jako práce pro můj fotoaparát!",
+      "source": "pre_existing",
+      "original_cz": "Už nic neříkejte – zní to jako práce pro můj fotoaparát!"
+    },
+    {
+      "key": "Mirabel_014_f",
+      "en": "Okay... But I want to show Antonio that I REALLY saw all of them!",
+      "cz": "Dobře... Ale chci Antoniovi ukázat, že jsem je všechny OPRAVDU viděla!",
+      "source": "pre_existing",
+      "original_cz": "Dobře... Ale chci Antoniovi ukázat, že jsem je všechny OPRAVDU viděla!"
+    },
+    {
+      "key": "Mirabel_015_f",
+      "en": "Some of the animals are so incredible, he might think the photos are drawings if I don't give him proof.",
+      "cz": "Některá zvířata jsou tak neuvěřitelná, že by si mohl myslet, že fotky jsou kresby, pokud mu nepředložím důkaz.",
+      "source": "pre_existing",
+      "original_cz": "Některá zvířata jsou tak neuvěřitelná, že by si mohl myslet, že fotky jsou kresby, pokud mu nepředložím důkaz."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Got it — we need incontrovertible photographic evidence!!",
+      "cz": "Rozumím – potřebujeme nezpochybnitelný fotografický důkaz!!",
+      "source": "pre_existing",
+      "original_cz": "Rozumím – potřebujeme nezpochybnitelný fotografický důkaz!!"
+    },
+    {
+      "key": "Player_002_choice_003_f",
+      "en": "I can see all of the animals myself, and I STILL barely believe it.",
+      "cz": "Všechna ta zvířata vidím sám a POŘÁD tomu skoro nevěřím.",
+      "source": "pre_existing",
+      "original_cz": "Všechna ta zvířata vidím sám a POŘÁD tomu skoro nevěřím."
+    },
+    {
+      "key": "Mirabel_016_f",
+      "en": "Exactly!",
+      "cz": "Přesně tak!",
+      "source": "pre_existing",
+      "original_cz": "Přesně tak!"
+    },
+    {
+      "key": "Mirabel_017_f",
+      "en": "Well, after living with my family in Casita, I'm used to surprises. But this place has them around every corner!",
+      "cz": "No, po tom, co jsem žila s rodinou v Casitě, jsem na překvapení zvyklá. Ale tady je máte na každém rohu!",
+      "source": "pre_existing",
+      "original_cz": "No, po tom, co jsem žila s rodinou v Casitě, jsem na překvapení zvyklá. Ale tady je máte na každém rohu!"
+    },
+    {
+      "key": "Mirabel_018_f",
+      "en": "Oh, he likes ALL animals. Birds, jaguars, donkeys, butterflies, rats—",
+      "cz": "Ach, má rád VŠECHNA zvířata. Ptáky, jaguáře, osly, motýly, krysy—",
+      "source": "pre_existing",
+      "original_cz": "Ach, má rád VŠECHNA zvířata. Ptáky, jaguáře, osly, motýly, krysy—"
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "Lions and tigers!",
+      "cz": "Lvi a tygři!",
+      "source": "pre_existing",
+      "original_cz": "Lvi a tygři!"
+    },
+    {
+      "key": "Player_003_choice_003_f",
+      "en": "Penguins and polar bears!",
+      "cz": "Tučňáci a lední medvědi!",
+      "source": "pre_existing",
+      "original_cz": "Tučňáci a lední medvědi!"
+    },
+    {
+      "key": "Mirabel_019_f",
+      "en": "He'd love those!",
+      "cz": "To by se mu moc líbilo!",
+      "source": "pre_existing",
+      "original_cz": "To by se mu moc líbilo!"
+    },
+    {
+      "key": "Mirabel_020_f",
+      "en": "But there's one I definitely want to be sure and include. And the Wild Tangle has a lot of them.",
+      "cz": "Ale je tu jeden, který chci určitě zahrnout. A v Divoké spleti jich je spousta.",
+      "source": "pre_existing",
+      "original_cz": "Ale je tu jeden, který chci určitě zahrnout. A v Divoké spleti jich je spousta."
+    },
+    {
+      "key": "Mirabel_021_f",
+      "en": "He'd love those! But I don't think there are any around here.",
+      "cz": "Ty by se mu moc líbily! Ale myslím, že tady žádné nejsou.",
+      "source": "pre_existing",
+      "original_cz": "Ty by se mu moc líbily! Ale myslím, že tady žádné nejsou."
+    },
+    {
+      "key": "Mirabel_022_f",
+      "en": "There is one animal I definitely want to be sure and include. And there are a lot in the Wild Tangle.",
+      "cz": "Je tu jedno zvíře, které chci určitě zahrnout. A v Divoké zvěři je jich spousta.",
+      "source": "pre_existing",
+      "original_cz": "Je tu jedno zvíře, které chci určitě zahrnout. A v Divoké zvěři je jich spousta."
+    },
+    {
+      "key": "Mirabel_023_f",
+      "en": "Great! So I noticed there are <Lore>five different types of chigüiros</Lore> on Eternity Isle.",
+      "cz": "Skvělé! Všimla jsem si, že na Eternity Isle je <Lore>pět různých druhů chigüiros</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Všimla jsem si, že na Eternity Isle je <Lore>pět různých druhů chigüiros</Lore>."
+    },
+    {
+      "key": "Mirabel_024_f",
+      "en": "Chigüiros...? Oh, that must be the Spanish name for <ActivityItem>Capybaras</ActivityItem>! They're all over the place.",
+      "cz": "Chigüiros...? To musí být španělský název pro <ActivityItem>Kapybary</ActivityItem>! Jsou všude možně.",
+      "source": "pre_existing",
+      "original_cz": "Chigüiros...? To musí být španělský název pro <ActivityItem>Kapybary</ActivityItem>! Jsou všude možně."
+    },
+    {
+      "key": "Mirabel_025_f",
+      "en": "Well, Antonio really loves chigüiros, especially his friend Chispi. If you could <Lore>get a photo of me with each of the ones here</Lore>, I know Antonio would think that was amazing!",
+      "cz": "Antonio chigüiros opravdu miluje, obzvlášť svého kamaráda Chispiho. Kdybys mohla <Lore>vyfotit mě s každým z nich tady</Lore>, vím, že by si Antonio myslel, že je to úžasné!",
+      "source": "pre_existing",
+      "original_cz": "Antonio chigüiros opravdu miluje, obzvlášť svého kamaráda Chispiho. Kdybys mohla <Lore>vyfotit mě s každým z nich tady</Lore>, vím, že by si Antonio myslel, že je to úžasné!"
+    },
+    {
+      "key": "Mirabel_027_f",
+      "en": "Since we're already hanging out together, how 'bout we do it now?",
+      "cz": "Když už spolu trávíme čas, co kdybychom to udělali hned?",
+      "source": "pre_existing",
+      "original_cz": "Když už spolu trávíme čas, co kdybychom to udělali hned?"
+    },
+    {
+      "key": "Mirabel_028_f",
+      "en": "<Lore>Five pictures of Mirabel with Capybaras</Lore> for Antonio? It'll be a snap!",
+      "cz": "<Lore>Pět fotek Mirabel s kapybarami</Lore> pro Antonia? Bude to chvilka!",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Pět fotek Mirabel s kapybarami</Lore> pro Antonia? Bude to chvilka!"
+    },
+    {
+      "key": "Mirabel_029_f",
+      "en": "Get it? Like, because the Camera... Aw, forget it; let's do this.",
+      "cz": "Rozumíš? Protože ten fotoaparát... Ale zapomeň na to, pojďme to udělat.",
+      "source": "pre_existing",
+      "original_cz": "Rozumíš? Protože ten fotoaparát... Ale zapomeň na to, pojďme to udělat."
+    },
+    {
+      "key": "Mirabel_026_f",
+      "en": "Sure, let's hang out!",
+      "cz": "Jasně, pojďme se sejít!",
+      "source": "pre_existing",
+      "original_cz": "Jasně, pojďme se sejít!"
+    }
+  ],
+  "ExpansionMain_Mirabel/Mirabel_SEC_E01_Mira_010_SEC_E01_Mira_010_Ongoing01.locbin": [
+    {
+      "key": "Mirabel_001_f",
+      "en": "If we can <Lore>figure out the chigüiros' favorite food</Lore> and feed them, I can include that in my letter to Antonio.",
+      "cz": "Pokud se nám podaří <Lore>zjistit, jaké jídlo mají chigüiros oblíbené</Lore> a nakrmit je, můžu to zahrnout do svého dopisu Antoniovi.",
+      "source": "pre_existing",
+      "original_cz": "Pokud se nám podaří <Lore>zjistit, jaké jídlo mají chigüiros oblíbené</Lore> a nakrmit je, můžu to zahrnout do svého dopisu Antoniovi."
+    },
+    {
+      "key": "Mirabel_002_f",
+      "en": "He'll want to know if they're like the ones back home.",
+      "cz": "Bude chtít vědět, jestli jsou jako ti doma.",
+      "source": "pre_existing",
+      "original_cz": "Bude chtít vědět, jestli jsou jako ti doma."
+    },
+    {
+      "key": "Mirabel_004_f",
+      "en": "Rapunzel said their favorite food is <ActivityItem>Cabbage</ActivityItem>. I'll have to try that...",
+      "cz": "Losička řekla, že jejich nejoblíbenější jídlo je <ActivityItem>Zelí</ActivityItem>. To budu muset zkusit...",
+      "source": "pre_existing",
+      "original_cz": "Losička řekla, že jejich nejoblíbenější jídlo je <ActivityItem>Zelí</ActivityItem>. To budu muset zkusit..."
+    },
+    {
+      "key": "Mirabel_003_f",
+      "en": "There must be <Lore>someone who's spent a lot of time in the Wild Tangle</Lore> who knows what they like.",
+      "cz": "Musí existovat <Lore>někdo, kdo strávil spoustu času v Divoké spleti</Lore> a ví, co má rád.",
+      "source": "pre_existing",
+      "original_cz": "Musí existovat <Lore>někdo, kdo strávil spoustu času v Divoké spleti</Lore> a ví, co má rád."
+    }
+  ],
+  "ExpansionMain_Mirabel/Mirabel_SEC_E01_Mira_010_SEC_E01_Mira_010_Ongoing02.locbin": [
+    {
+      "key": "Mirabel_002_f",
+      "en": "Antonio really loves chigüiros. If you could <Lore>get a photo of me with each of the ones here</Lore>, I know Antonio would think that was amazing!",
+      "cz": "Antonio opravdu miluje chigüiros. Kdybys mohla <Lore>vyfotit mě s každým z nich tady</Lore>, vím, že by si Antonio myslel, že je to úžasné!",
+      "source": "pre_existing",
+      "original_cz": "Antonio opravdu miluje chigüiros. Kdybys mohla <Lore>vyfotit mě s každým z nich tady</Lore>, vím, že by si Antonio myslel, že je to úžasné!"
+    },
+    {
+      "key": "Mirabel_003_f",
+      "en": "Since we're already hanging out together, how 'bout we do it now?",
+      "cz": "Když už spolu trávíme čas, co kdybychom to udělali hned?",
+      "source": "pre_existing",
+      "original_cz": "Když už spolu trávíme čas, co kdybychom to udělali hned?"
+    },
+    {
+      "key": "Mirabel_004_f",
+      "en": "Sure, let's hang out!",
+      "cz": "Jasně, pojďme se sejít!",
+      "source": "pre_existing",
+      "original_cz": "Jasně, pojďme se sejít!"
+    }
+  ],
+  "ExpansionMain_Mirabel/Mirabel_SEC_E01_Mira_010_SEC_E01_Mira_010_Outro.locbin": [
+    {
+      "key": "Mirabel_000_f",
+      "en": "The chigüiros love <ActivityItem>Cabbage</ActivityItem>? So does Antonio! Especially Mamá's repollo guisado.",
+      "cz": "Čigüiros milují <ActivityItem>zelí</ActivityItem>? Stejně tak Antonio! Hlavně Mamin repollo guisado.",
+      "source": "pre_existing",
+      "original_cz": "Čigüiros milují <ActivityItem>zelí</ActivityItem>? Stejně tak Antonio! Hlavně Mamin repollo guisado."
+    },
+    {
+      "key": "Mirabel_001_f",
+      "en": "{PlayerName}, will you help me finish my letter to him?",
+      "cz": "{PlayerName}, pomůžeš mi dokončit dopis pro něj?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, pomůžeš mi dokončit dopis pro něj?"
+    },
+    {
+      "key": "Mirabel_002_f",
+      "en": "I just need the perfect send-off...",
+      "cz": "Potřebuji jen perfektní rozloučení...",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji jen perfektní rozloučení..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "\"Adiós to my favorite cousin!\"",
+      "cz": "\"Sbohem mému nejoblíbenějšímu bratranci!\"",
+      "source": "pre_existing",
+      "original_cz": "\"Sbohem mému nejoblíbenějšímu bratranci!\""
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "\"Come visit soon!\"",
+      "cz": "\"Brzy se na nás přijďte podívat!\"",
+      "source": "pre_existing",
+      "original_cz": "\"Brzy se na nás přijďte podívat!\""
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "You said he was your roommate, right? Maybe, \"To the world's best roomie.\"",
+      "cz": "Říkal jsi, že je tvůj spolubydlící, že? Možná „Nejlepšímu spolubydlícímu na světě.“",
+      "source": "pre_existing",
+      "original_cz": "Říkal jsi, že je tvůj spolubydlící, že? Možná „Nejlepšímu spolubydlícímu na světě.“"
+    },
+    {
+      "key": "Mirabel_003_f",
+      "en": "Actually, it's true. Just don't tell my other cousins.",
+      "cz": "Vlastně je to pravda. Jen to neříkej mým ostatním bratrancům a sestřenicím.",
+      "source": "pre_existing",
+      "original_cz": "Vlastně je to pravda. Jen to neříkej mým ostatním bratrancům a sestřenicím."
+    },
+    {
+      "key": "Mirabel_006_f",
+      "en": "And... It's done! I'm gonna send this letter right away!",
+      "cz": "A... Hotovo! Hned pošlu tenhle dopis!",
+      "source": "pre_existing",
+      "original_cz": "A... Hotovo! Hned pošlu tenhle dopis!"
+    },
+    {
+      "key": "Mirabel_007_f",
+      "en": "Oh, I almost forgot... While I was studying the chigüiros, I learned something from EVE about the <ActivityItem>Monkeys</ActivityItem> in Ancient's Landing.",
+      "cz": "Jé, málem jsem zapomněla... Když jsem studovala chigüiros, dozvěděla jsem se od EVE něco o <ActivityItem>Opicích</ActivityItem> v Ancient's Landing.",
+      "source": "pre_existing",
+      "original_cz": "Jé, málem jsem zapomněla... Když jsem studovala chigüiros, dozvěděla jsem se od EVE něco o <ActivityItem>Opicích</ActivityItem> v Ancient's Landing."
+    },
+    {
+      "key": "Mirabel_008_f",
+      "en": "She showed me that they're crazy for desserts! Maybe you could try feeding them some of the ones that I got from Remy?",
+      "cz": "Ukázala mi, že jsou blázni do dezertů! Možná bys jim mohla zkusit dát některým z těch, co jsem dostala od Remyho?",
+      "source": "pre_existing",
+      "original_cz": "Ukázala mi, že jsou blázni do dezertů! Možná bys jim mohla zkusit dát některým z těch, co jsem dostala od Remyho?"
+    },
+    {
+      "key": "Mirabel_004_f",
+      "en": "I hope he does. There's so much here I would love to show him!",
+      "cz": "Doufám, že ano. Je tu tolik věcí, které bych mu ráda ukázala!",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že ano. Je tu tolik věcí, které bych mu ráda ukázala!"
+    },
+    {
+      "key": "Mirabel_005_f",
+      "en": "Of course! Spending all that time with Antonio in the nursery was really nice.",
+      "cz": "Samozřejmě! Trávit všechen ten čas s Antoniem v dětském pokoji bylo opravdu příjemné.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě! Trávit všechen ten čas s Antoniem v dětském pokoji bylo opravdu příjemné."
+    }
+  ],
+  "ExpansionMain_Mirabel/Mirabel_SEC_E01_Mira_010_SEC_E01_Mira_010_TalkTo01.locbin": [
+    {
+      "key": "Mirabel_000_f",
+      "en": "Antonio is going to love the pictures you took!",
+      "cz": "Antonio bude milovat fotky, které jsi pořídil/a!",
+      "source": "pre_existing",
+      "original_cz": "Antonio bude milovat fotky, které jsi pořídil/a!"
+    },
+    {
+      "key": "Mirabel_001_f",
+      "en": "But some of those chigüiros looked a little hungry. I wonder if we should try <Lore>feeding them</Lore>?",
+      "cz": "Ale někteří z těch chigüirů vypadali trochu hladově. Zajímalo by mě, jestli bychom je neměli zkusit <Lore>nakrmit</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "Ale někteří z těch chigüirů vypadali trochu hladově. Zajímalo by mě, jestli bychom je neměli zkusit <Lore>nakrmit</Lore>?"
+    },
+    {
+      "key": "Mirabel_002_f",
+      "en": "What do you think their favorite food is here?",
+      "cz": "Jaké myslíš, že je tady jejich oblíbené jídlo?",
+      "source": "pre_existing",
+      "original_cz": "Jaké myslíš, že je tady jejich oblíbené jídlo?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Veggies...?",
+      "cz": "Zelenina...?",
+      "source": "pre_existing",
+      "original_cz": "Zelenina...?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Anything 5 stars?",
+      "cz": "Něco s 5 hvězdičkami?",
+      "source": "pre_existing",
+      "original_cz": "Něco s 5 hvězdičkami?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Obviously molten chocolate lava cake.",
+      "cz": "Je zřejmé, že se jedná o roztavený čokoládový lávový dort.",
+      "source": "pre_existing",
+      "original_cz": "Je zřejmé, že se jedná o roztavený čokoládový lávový dort."
+    },
+    {
+      "key": "Mirabel_003_f",
+      "en": "That makes sense... But what kind of vegetables?",
+      "cz": "To dává smysl... Ale jaký druh zeleniny?",
+      "source": "pre_existing",
+      "original_cz": "To dává smysl... Ale jaký druh zeleniny?"
+    },
+    {
+      "key": "Mirabel_007_f",
+      "en": "If we can <Lore>figure out the chigüiros' favorite food</Lore> and feed them, I can include that in my letter to Antonio.",
+      "cz": "Pokud se nám podaří <Lore>zjistit, jaké jídlo mají chigüiros oblíbené</Lore> a nakrmit je, můžu to zahrnout do svého dopisu Antoniovi.",
+      "source": "pre_existing",
+      "original_cz": "Pokud se nám podaří <Lore>zjistit, jaké jídlo mají chigüiros oblíbené</Lore> a nakrmit je, můžu to zahrnout do svého dopisu Antoniovi."
+    },
+    {
+      "key": "Mirabel_008_f",
+      "en": "He'll want to know if they're like the ones back home.",
+      "cz": "Bude chtít vědět, jestli jsou jako ti doma.",
+      "source": "pre_existing",
+      "original_cz": "Bude chtít vědět, jestli jsou jako ti doma."
+    },
+    {
+      "key": "Mirabel_009_f",
+      "en": "There must be <Lore>someone who's spent a lot of time in the Wild Tangle</Lore> who knows what they like...",
+      "cz": "Musí existovat <Lore>někdo, kdo strávil spoustu času v Divoké spleti</Lore> a ví, co má rád...",
+      "source": "pre_existing",
+      "original_cz": "Musí existovat <Lore>někdo, kdo strávil spoustu času v Divoké spleti</Lore> a ví, co má rád..."
+    },
+    {
+      "key": "Mirabel_004_f",
+      "en": "Hmm... If I had to guess, I'd say it's probably something simpler.",
+      "cz": "Hmm... Kdybych měla hádat, řekla bych, že je to asi něco jednoduššího.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Kdybych měla hádat, řekla bych, že je to asi něco jednoduššího."
+    },
+    {
+      "key": "Mirabel_006_f",
+      "en": "Heh-heh! I think you're thinking of Anna, not the chigüiros.",
+      "cz": "Heh-heh! Myslím, že myslíš na Annu, ne na chigüiros.",
+      "source": "pre_existing",
+      "original_cz": "Heh-heh! Myslím, že myslíš na Annu, ne na chigüiros."
+    },
+    {
+      "key": "Mirabel_005_f",
+      "en": "Ooh, no. I think that would make a chigüiro sick.",
+      "cz": "Jé, ne. Myslím, že z toho by se chigüirovi udělalo špatně.",
+      "source": "pre_existing",
+      "original_cz": "Jé, ne. Myslím, že z toho by se chigüirovi udělalo špatně."
+    }
+  ],
+  "ExpansionMain_Mirabel/Mirabel_VLG_EVE_020_VLG_EVE_020_TalkTo02.locbin": [
+    {
+      "key": "Mirabel_001_f",
+      "en": "Hola, {PlayerName}! I've been having SO much fun exploring Eternity Isle!",
+      "cz": "Ahoj, {PlayerName}! Moc jsem si užila prozkoumávání Eternity Isle!",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}! Moc jsem si užila prozkoumávání Eternity Isle!"
+    },
+    {
+      "key": "Mirabel_002_f",
+      "en": "Anything you need my help with?",
+      "cz": "Potřebujete s něčím pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Potřebujete s něčím pomoct?"
+    },
+    {
+      "key": "Mirabel_003_f",
+      "en": "You've met EVE, right?",
+      "cz": "Potkala jsi EVE, že?",
+      "source": "pre_existing",
+      "original_cz": "Potkala jsi EVE, že?"
+    },
+    {
+      "key": "Mirabel_004_f",
+      "en": "I have! She's so cute with WALL·E.",
+      "cz": "Ano! Je tak roztomilá s WALL·E.",
+      "source": "pre_existing",
+      "original_cz": "Ano! Je tak roztomilá s WALL·E."
+    },
+    {
+      "key": "Mirabel_005_f",
+      "en": "Well, EVE accidentally incinerated their plants...",
+      "cz": "No, EVE omylem spálila jejich rostliny...",
+      "source": "pre_existing",
+      "original_cz": "No, EVE omylem spálila jejich rostliny..."
+    },
+    {
+      "key": "Mirabel_006_f",
+      "en": "Whoa. That's not good.",
+      "cz": "Páni. To není dobré.",
+      "source": "pre_existing",
+      "original_cz": "Páni. To není dobré."
+    },
+    {
+      "key": "Player_001_f",
+      "en": "So while she replaces the plants, I wanted to add something to their secret garden. Something...",
+      "cz": "Zatímco ona vyměňuje rostliny, chtěl jsem do jejich tajné zahrady něco přidat. Něco...",
+      "source": "pre_existing",
+      "original_cz": "Zatímco ona vyměňuje rostliny, chtěl jsem do jejich tajné zahrady něco přidat. Něco..."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "...super cute, just like EVE and WALL·E.",
+      "cz": "...super roztomilé, přesně jako EVE a WALL·E.",
+      "source": "pre_existing",
+      "original_cz": "...super roztomilé, přesně jako EVE a WALL·E."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "...meaningful.",
+      "cz": "...smysluplné.",
+      "source": "pre_existing",
+      "original_cz": "...smysluplné."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "...that she can't destroy so easily.",
+      "cz": "...kterou nemůže tak snadno zničit.",
+      "source": "pre_existing",
+      "original_cz": "...kterou nemůže tak snadno zničit."
+    },
+    {
+      "key": "Mirabel_008_f",
+      "en": "Well, you're in luck... because before the Forgetting...",
+      "cz": "No, máte štěstí... protože před Zapomněním...",
+      "source": "pre_existing",
+      "original_cz": "No, máte štěstí... protože před Zapomněním..."
+    },
+    {
+      "key": "Mirabel_009_f",
+      "en": "...you had a project like that. You wanted to create a <ActivityItem>Stone Canvas</ActivityItem> where EVE could use her laser to create art.",
+      "cz": "...měla jsi takový projekt. Chtěla jsi vytvořit <ActivityItem>Kamenné plátno</ActivityItem>, kde by EVA mohla pomocí laseru tvořit umění.",
+      "source": "pre_existing",
+      "original_cz": "...měla jsi takový projekt. Chtěla jsi vytvořit <ActivityItem>Kamenné plátno</ActivityItem>, kde by EVA mohla pomocí laseru tvořit umění."
+    },
+    {
+      "key": "Mirabel_011_f",
+      "en": "...you asked me for help, and I've kept all the plans we made together.",
+      "cz": "...požádala jsi mě o pomoc a já si uchovávám všechny plány, které jsme spolu uzavřeli.",
+      "source": "pre_existing",
+      "original_cz": "...požádala jsi mě o pomoc a já si uchovávám všechny plány, které jsme spolu uzavřeli."
+    },
+    {
+      "key": "Mirabel_016_f",
+      "en": "Do you remember the materials?",
+      "cz": "Pamatuješ si ty materiály?",
+      "source": "pre_existing",
+      "original_cz": "Pamatuješ si ty materiály?"
+    },
+    {
+      "key": "Mirabel_013_f",
+      "en": "Let me think...",
+      "cz": "Nech mě přemýšlet...",
+      "source": "pre_existing",
+      "original_cz": "Nech mě přemýšlet..."
+    },
+    {
+      "key": "Mirabel_014_f",
+      "en": "We were gonna use <ActivityItem>Quartz</ActivityItem> and then something you called <ActivityItem>Plastic</ActivityItem>...",
+      "cz": "Chystali jsme se použít <ActivityItem>Křemen</ActivityItem> a pak něco, co jsi nazvala <ActivityItem>Plast</ActivityItem>...",
+      "source": "pre_existing",
+      "original_cz": "Chystali jsme se použít <ActivityItem>Křemen</ActivityItem> a pak něco, co jsi nazvala <ActivityItem>Plast</ActivityItem>..."
+    },
+    {
+      "key": "Mirabel_015_f",
+      "en": "Oh, and <ActivityItem>Ancient Gemstones</ActivityItem> too. You had to search for them around here using your Hourglass then you asked EVE to melt them.",
+      "cz": "Ach, a taky <ActivityItem>Starověké drahokamy</ActivityItem>. Musel jsi je tady hledat pomocí přesýpacích hodin a pak jsi požádal EVE, aby je roztavila.",
+      "source": "pre_existing",
+      "original_cz": "Ach, a taky <ActivityItem>Starověké drahokamy</ActivityItem>. Musel jsi je tady hledat pomocí přesýpacích hodin a pak jsi požádal EVE, aby je roztavila."
+    },
+    {
+      "key": "Mirabel_000_f",
+      "en": "I remember they were supposed to be around Ancient's Landing.",
+      "cz": "Pamatuji si, že měli být někde kolem Ancient's Landing.",
+      "source": "pre_existing",
+      "original_cz": "Pamatuji si, že měli být někde kolem Ancient's Landing."
+    },
+    {
+      "key": "Mirabel_017_f",
+      "en": "Okay... I think I need to talk about it with EVE, first. Thanks a lot, Mirabel.",
+      "cz": "Dobře... Myslím, že si o tom nejdřív musím promluvit s EVE. Díky moc, Mirabel.",
+      "source": "pre_existing",
+      "original_cz": "Dobře... Myslím, že si o tom nejdřív musím promluvit s EVE. Díky moc, Mirabel."
+    },
+    {
+      "key": "Mirabel_018_f",
+      "en": "Anytime, {PlayerName}!",
+      "cz": "Kdykoli, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Kdykoli, {PlayerName}!"
+    },
+    {
+      "key": "Mirabel_010_f",
+      "en": "The Old Ruler had a project like that. They wanted to create a <ActivityItem>Stone Canvas</ActivityItem> where EVE could use her laser to create art.",
+      "cz": "Starý vládce měl takový projekt. Chtěl vytvořit <ActivityItem>Kamenné plátno</ActivityItem>, kde by EVA mohla pomocí laseru tvořit umění.",
+      "source": "pre_existing",
+      "original_cz": "Starý vládce měl takový projekt. Chtěl vytvořit <ActivityItem>Kamenné plátno</ActivityItem>, kde by EVA mohla pomocí laseru tvořit umění."
+    },
+    {
+      "key": "Mirabel_012_f",
+      "en": "They asked me for help, and I've kept all the plans we made together.",
+      "cz": "Požádali mě o pomoc a já si uchovávám všechny plány, které jsme společně uzavřeli.",
+      "source": "pre_existing",
+      "original_cz": "Požádali mě o pomoc a já si uchovávám všechny plány, které jsme společně uzavřeli."
+    }
+  ],
+  "ExpansionMain_Mirabel/Mirabel_VLG_Rapu_040_VLG_Rapu_040_TalkTo02.locbin": [
+    {
+      "key": "Mirabel_000_f",
+      "en": "Hola, {PlayerName}! For my painting today, I'm thinking about... self-expression, my family, and Casita — my favorite inspirations.",
+      "cz": "Ahoj, {PlayerName}! Při dnešním malování přemýšlím o... sebevyjádření, rodině a Casitě – mých nejoblíbenějších inspiracích.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}! Při dnešním malování přemýšlím o... sebevyjádření, rodině a Casitě – mých nejoblíbenějších inspiracích."
+    },
+    {
+      "key": "Mirabel_001_f",
+      "en": "What do you think? It's a self-portrait inspired by the art on the doors Casita creates.",
+      "cz": "Co si o tom myslíte? Je to autoportrét inspirovaný uměním na dveřích, které Casita vytváří.",
+      "source": "pre_existing",
+      "original_cz": "Co si o tom myslíte? Je to autoportrét inspirovaný uměním na dveřích, které Casita vytváří."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Such a creative and personal idea!",
+      "cz": "To je ale kreativní a osobní nápad!",
+      "source": "pre_existing",
+      "original_cz": "To je ale kreativní a osobní nápad!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Casita will love it!",
+      "cz": "Casita si to zamiluje!",
+      "source": "pre_existing",
+      "original_cz": "Casita si to zamiluje!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Your gift MIGHT be painting!",
+      "cz": "Vaším dárkem by MOHLO být malování!",
+      "source": "pre_existing",
+      "original_cz": "Vaším dárkem by MOHLO být malování!"
+    },
+    {
+      "key": "Mirabel_003_f",
+      "en": "That's what I was hoping you'd see.",
+      "cz": "To jsem doufala, že uvidíš.",
+      "source": "pre_existing",
+      "original_cz": "To jsem doufala, že uvidíš."
+    },
+    {
+      "key": "Mirabel_005_f",
+      "en": "Casita's style's pretty amazing, so I've got a lot to live up to.",
+      "cz": "Casitin styl je úžasný, takže mám co napodobovat.",
+      "source": "pre_existing",
+      "original_cz": "Casitin styl je úžasný, takže mám co napodobovat."
+    },
+    {
+      "key": "Mirabel_002_f",
+      "en": "You think? I can't wait to bring it home!",
+      "cz": "Myslíš? Už se nemůžu dočkat, až si to přinesu domů!",
+      "source": "pre_existing",
+      "original_cz": "Myslíš? Už se nemůžu dočkat, až si to přinesu domů!"
+    },
+    {
+      "key": "Mirabel_004_f",
+      "en": "Well, I don't think I'm as good as Rapunzel yet. I've got a lot to learn!",
+      "cz": "No, myslím, že ještě nejsem tak dobrá jako Locika. Musím se toho hodně naučit!",
+      "source": "pre_existing",
+      "original_cz": "No, myslím, že ještě nejsem tak dobrá jako Locika. Musím se toho hodně naučit!"
+    },
+    {
+      "key": "Mirabel_006_f",
+      "en": "But gracias, {PlayerName}!",
+      "cz": "Ale děkuji, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Ale děkuji, {PlayerName}!"
+    }
+  ],
+  "ExpansionMain_Mirabel/SEC_E01_Mira_010.locbin": [
+    {
+      "key": "Secret!Expansion01!Mirabel!SEC_E01_Mira_010_Any_CompletedRequestDescription",
+      "en": "Talk to Mirabel.",
+      "cz": "Promluvte si s Mirabel.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Mirabel."
+    },
+    {
+      "key": "Secret!Expansion01!Mirabel!SEC_E01_Mira_010_AvailableDescription",
+      "en": "Mirabel seems curious about the jungle. You wonder why.",
+      "cz": "Mirabel se zdá být zvědavá na džungli. Divíte se proč.",
+      "source": "pre_existing",
+      "original_cz": "Mirabel se zdá být zvědavá na džungli. Divíte se proč."
+    },
+    {
+      "key": "Secret!Expansion01!Mirabel!SEC_E01_Mira_010_CompletedStoryDescription",
+      "en": "After all you've discovered, Mirabel will definitely have a lot to write to Antonio about!",
+      "cz": "Po všem, co jsi objevila, bude mít Mirabel Antoniovi rozhodně o čem napsat!",
+      "source": "pre_existing",
+      "original_cz": "Po všem, co jsi objevila, bude mít Mirabel Antoniovi rozhodně o čem napsat!"
+    },
+    {
+      "key": "Secret!Expansion01!Mirabel!SEC_E01_Mira_010_DisplayName",
+      "en": "A Letter for Antonio",
+      "cz": "Dopis pro Antonia",
+      "source": "pre_existing",
+      "original_cz": "Dopis pro Antonia"
+    },
+    {
+      "key": "Secret!Expansion01!Mirabel!SEC_E01_Mira_010_Group01_Step01_StepDescription",
+      "en": "<ActivityItem>Classic Capybara</ActivityItem>.",
+      "cz": "<ActivityItem>Classic Capybara</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Classic Capybara</ActivityItem>."
+    },
+    {
+      "key": "Secret!Expansion01!Mirabel!SEC_E01_Mira_010_Group01_Step02_StepDescription",
+      "en": "<ActivityItem>Black and White Capybara</ActivityItem>.",
+      "cz": "<ActivityItem>Black and White Capybara</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Black and White Capybara</ActivityItem>."
+    },
+    {
+      "key": "Secret!Expansion01!Mirabel!SEC_E01_Mira_010_Group01_Step03_StepDescription",
+      "en": "<ActivityItem>Blue Striped Capybara</ActivityItem>.",
+      "cz": "<ActivityItem>Blue Striped Capybara</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Blue Striped Capybara</ActivityItem>."
+    },
+    {
+      "key": "Secret!Expansion01!Mirabel!SEC_E01_Mira_010_Group01_Step04_StepDescription",
+      "en": "<ActivityItem>Gray Spotted Capybara</ActivityItem>.",
+      "cz": "<ActivityItem>Kapybara šedá skvrnitá</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Kapybara šedá skvrnitá</ActivityItem>."
+    },
+    {
+      "key": "Secret!Expansion01!Mirabel!SEC_E01_Mira_010_Group01_Step05_StepDescription",
+      "en": "<ActivityItem>Red and White Striped Capybara</ActivityItem>.",
+      "cz": "<ActivityItem>Kapybara pruhovaná červenobíle</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Kapybara pruhovaná červenobíle</ActivityItem>."
+    },
+    {
+      "key": "Secret!Expansion01!Mirabel!SEC_E01_Mira_010_Group01_StepDescription",
+      "en": "Take a picture of Mirabel alongside:",
+      "cz": "Vyfoťte Mirabel vedle:",
+      "source": "pre_existing",
+      "original_cz": "Vyfoťte Mirabel vedle:"
+    },
+    {
+      "key": "Secret!Expansion01!Mirabel!SEC_E01_Mira_010_Group01_StoryDescription",
+      "en": "Mirabel has been thinking of sending a letter to Antonio about all the new critters on Eternity Isle. But first, you'll need to get some pictures of them...",
+      "cz": "Mirabel přemýšlela o tom, že Antoniovi pošle dopis o všech nových tvorech na Eternity Isle. Ale nejdřív si je budeš muset vyfotit...",
+      "source": "pre_existing",
+      "original_cz": "Mirabel přemýšlela o tom, že Antoniovi pošle dopis o všech nových tvorech na Eternity Isle. Ale nejdřív si je budeš muset vyfotit..."
+    },
+    {
+      "key": "Secret!Expansion01!Mirabel!SEC_E01_Mira_010_Group02_Step06_TalkToCharacter01_StepDescription",
+      "en": "Talk to Mirabel.",
+      "cz": "Promluvte si s Mirabel.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Mirabel."
+    },
+    {
+      "key": "Secret!Expansion01!Mirabel!SEC_E01_Mira_010_Group02_StoryDescription",
+      "en": "You get some great pictures of Mirabel with the capybaras in the Wild Tangle. Antonio's going to think she's so cool...",
+      "cz": "V Divoké spleti pořídíte skvělé fotky Mirabel s kapybarami. Antonio si bude myslet, že je tak skvělá...",
+      "source": "pre_existing",
+      "original_cz": "V Divoké spleti pořídíte skvělé fotky Mirabel s kapybarami. Antonio si bude myslet, že je tak skvělá..."
+    },
+    {
+      "key": "Secret!Expansion01!Mirabel!SEC_E01_Mira_010_Group03_Step07_FeedCritter01_StepDescription",
+      "en": "Feed any capybara its favorite food.",
+      "cz": "Nakrmte jakoukoli kapybaru jejím oblíbeným jídlem.",
+      "source": "pre_existing",
+      "original_cz": "Nakrmte jakoukoli kapybaru jejím oblíbeným jídlem."
+    },
+    {
+      "key": "Secret!Expansion01!Mirabel!SEC_E01_Mira_010_Group03_Step08_TalkToCharacter02_StepDescription",
+      "en": "(Optional) Ask someone who's spent a lot of time in the Wild Tangle about what <ActivityItem>Capybaras</ActivityItem> like to eat.",
+      "cz": "(Volitelné) Zeptejte se někoho, kdo strávil hodně času v Divoké spleti, co <ActivityItem>Kapybary</ActivityItem> rády jedí.",
+      "source": "pre_existing",
+      "original_cz": "(Volitelné) Zeptejte se někoho, kdo strávil hodně času v Divoké spleti, co <ActivityItem>Kapybary</ActivityItem> rády jedí."
+    },
+    {
+      "key": "Secret!Expansion01!Mirabel!SEC_E01_Mira_010_Group03_StoryDescription",
+      "en": "There's just one thing left to do to really make Antonio happy — find out what capybaras love to eat!",
+      "cz": "Zbývá už jen jedna věc, aby byl Antonio opravdu šťastný – zjistit, co kapybary rády jedí!",
+      "source": "pre_existing",
+      "original_cz": "Zbývá už jen jedna věc, aby byl Antonio opravdu šťastný – zjistit, co kapybary rády jedí!"
+    },
+    {
+      "key": "Secret!Expansion01!Mirabel!SEC_E01_Mira_010_Group04_Step09_TalkToCharacter03_StepDescription",
+      "en": "Talk to Mirabel.",
+      "cz": "Promluvte si s Mirabel.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Mirabel."
+    },
+    {
+      "key": "Secret!Expansion01!Mirabel!SEC_E01_Mira_010_Group04_StepDescription",
+      "en": "Mirabel's been spending a lot of time exploring the Wild Tangle...",
+      "cz": "Mirabel tráví spoustu času prozkoumáváním Divoké spleti...",
+      "source": "pre_existing",
+      "original_cz": "Mirabel tráví spoustu času prozkoumáváním Divoké spleti..."
+    }
+  ]
+}

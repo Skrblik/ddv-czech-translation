@@ -1,0 +1,178 @@
+{
+  "DesignChallenges_Scrooge/SEC_Scro_010.locbin": [
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_010_AvailableDescription",
+      "en": "Scrooge McDuck needs your help with something in the Valley...",
+      "cz": "Scrooge McDuck potřebuje tvou pomoc s něčím v údolí...",
+      "source": "pre_existing",
+      "original_cz": "Scrooge McDuck potřebuje tvou pomoc s něčím v údolí..."
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_010_CompletedStoryDescription",
+      "en": "The specter is actually a glitching Vanellope von Schweetz. She asks for your help in fixing her glitch and coming to the Valley.",
+      "cz": "Strašidlo je ve skutečnosti závadná Vanellope von Schweetz. Žádá vás o pomoc s opravou její závady a s příchodem do Údolí.",
+      "source": "pre_existing",
+      "original_cz": "Strašidlo je ve skutečnosti závadná Vanellope von Schweetz. Žádá vás o pomoc s opravou její závady a s příchodem do Údolí."
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_010_DisplayName",
+      "en": "The Haunting of Dreamlight Valley",
+      "cz": "Strašidelný dům v údolí Dreamlight",
+      "source": "pre_existing",
+      "original_cz": "Strašidelný dům v údolí Dreamlight"
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_010_Group01_StepDescription",
+      "en": "Search inside the Dream Castle for the specter.<br>(Scrooge McDuck mentioned he saw it close to the entrance.)",
+      "cz": "Hledejte uvnitř Hradu snů přízrak.<br>(Scrooge McDuck se zmínil, že ho viděl blízko vchodu.)",
+      "source": "pre_existing",
+      "original_cz": "Hledejte uvnitř Hradu snů přízrak.<br>(Scrooge McDuck se zmínil, že ho viděl blízko vchodu.)"
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_010_Group01_StoryDescription",
+      "en": "He claims he saw a ghost in the Dream Castle and asks you to investigate.",
+      "cz": "Tvrdí, že v Hradě snů viděl ducha a žádá vás, abyste to vyšetřili.",
+      "source": "pre_existing",
+      "original_cz": "Tvrdí, že v Hradě snů viděl ducha a žádá vás, abyste to vyšetřili."
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_010_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Talk to the \"specter\" inside the Dream Castle.",
+      "cz": "Promluvte si s „přízrakem“ uvnitř Hradu snů.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s „přízrakem“ uvnitř Hradu snů."
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_010_Group02_StoryDescription",
+      "en": "You find the specter in the Dream Castle. But it doesn't seem very ghostly...",
+      "cz": "Strašidlo najdete v Hradě snů. Ale nevypadá to moc strašidelně...",
+      "source": "pre_existing",
+      "original_cz": "Strašidlo najdete v Hradě snů. Ale nevypadá to moc strašidelně..."
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_010_Group03_StepDescription",
+      "en": "Ach! You hear a frustrated cry from Scrooge McDuck. Go check on him.",
+      "cz": "Ach! Slyšíte frustrovaný výkřik Scrooge McDucka. Běžte se na něj podívat.",
+      "source": "pre_existing",
+      "original_cz": "Ach! Slyšíte frustrovaný výkřik Scrooge McDucka. Běžte se na něj podívat."
+    },
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_010_Group01_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What am I doing?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co dělám?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co dělám?"
+    }
+  ],
+  "DesignChallenges_Scrooge/Scrooge_SEC_Scro_010_SEC_Scro_010_Intro.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "{PlayerName}! Thank goodness you're here! I need your help with a potentially... supernatural matter.",
+      "cz": "{PlayerName}! Díkybohu, že jste tady! Potřebuji vaši pomoc s potenciálně... nadpřirozenou záležitostí.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}! Díkybohu, že jste tady! Potřebuji vaši pomoc s potenciálně... nadpřirozenou záležitostí."
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "I was exploring the Dream Castle looking for hidden rooms and treasure troves when...",
+      "cz": "Prozkoumával jsem Hrad snů a hledal skryté místnosti a poklady, když...",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumával jsem Hrad snů a hledal skryté místnosti a poklady, když..."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Bless me bagpipes — I think I saw a ghost!",
+      "cz": "Žehnej mi dudy – myslím, že jsem viděl ducha!",
+      "source": "pre_existing",
+      "original_cz": "Žehnej mi dudy – myslím, že jsem viděl ducha!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "The Dream Castle is haunted?",
+      "cz": "Straší hrad snů?",
+      "source": "pre_existing",
+      "original_cz": "Straší hrad snů?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "You're scaring me!",
+      "cz": "Děsíš mě!",
+      "source": "pre_existing",
+      "original_cz": "Děsíš mě!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "There's no such thing as ghosts.",
+      "cz": "Nic jako duchové neexistuje.",
+      "source": "pre_existing",
+      "original_cz": "Nic jako duchové neexistuje."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Aye, it's possible! My ancestral home, Castle McDuck, had ghosts and apparitions clear to the rafters!",
+      "cz": "Ano, je to možné! Můj rodový dům, hrad McDuck, měl duchy a zjevení až po strop!",
+      "source": "pre_existing",
+      "original_cz": "Ano, je to možné! Můj rodový dům, hrad McDuck, měl duchy a zjevení až po strop!"
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "But this specter looked different than any ghost I've seen before. It flickered in and out of sight.",
+      "cz": "Ale tento přízrak vypadal jinak než kterýkoli jiný, které jsem kdy viděl. Mihotal se z dohledu a zase mizel.",
+      "source": "pre_existing",
+      "original_cz": "Ale tento přízrak vypadal jinak než kterýkoli jiný, které jsem kdy viděl. Mihotal se z dohledu a zase mizel."
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "Since you're an adventurer like me, I want your second opinion. Could ya <Lore>go to the Dream Castle and look for the ghost?</Lore>",
+      "cz": "Jelikož jsi dobrodruh jako já, chci znát tvůj druhý názor. Mohl bys <Lore>jít do Hradu snů a hledat ducha?</Lore>",
+      "source": "pre_existing",
+      "original_cz": "Jelikož jsi dobrodruh jako já, chci znát tvůj druhý názor. Mohl bys <Lore>jít do Hradu snů a hledat ducha?</Lore>"
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "I last saw it <Lore>at the very entrance, just inside the doors</Lore>.",
+      "cz": "Naposledy jsem to viděl <Lore>u samého vchodu, hned za dveřmi</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Naposledy jsem to viděl <Lore>u samého vchodu, hned za dveřmi</Lore>."
+    },
+    {
+      "key": "Scrooge_007_f",
+      "en": "Och. There's no need to be frightened of ghosts. Why, back in Scotland, Castle McDuck is rife with my formerly living relatives.",
+      "cz": "Ach. Není třeba se bát duchů. Vždyť ve Skotsku je hrad McDuck plný mých dříve žijících příbuzných.",
+      "source": "pre_existing",
+      "original_cz": "Ach. Není třeba se bát duchů. Vždyť ve Skotsku je hrad McDuck plný mých dříve žijících příbuzných."
+    },
+    {
+      "key": "Scrooge_008_f",
+      "en": "Dinnae be so skeptical! Back in Scotland, Castle McDuck's filled with spirits aplenty! Mostly my relatives who've passed on.",
+      "cz": "Nebuď tak skeptický! Ve Skotsku je hrad McDuck plný duchů! Většinou mých příbuzných, kteří už zemřeli.",
+      "source": "pre_existing",
+      "original_cz": "Nebuď tak skeptický! Ve Skotsku je hrad McDuck plný duchů! Většinou mých příbuzných, kteří už zemřeli."
+    }
+  ],
+  "DesignChallenges_Scrooge/Scrooge_SEC_Scro_010_SEC_Scro_010_Ongoing01.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Get yourself to the Dream Castle and look for the specter <Lore>just inside the entrance</Lore>.",
+      "cz": "Dostaň se k Hradu snů a hledej přízrak <Lore>hned za vchodem</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Dostaň se k Hradu snů a hledej přízrak <Lore>hned za vchodem</Lore>."
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "I need you to tell me if it's a bona fide ghost.",
+      "cz": "Potřebuji, abys mi řekl/a, jestli je to opravdový duch.",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji, abys mi řekl/a, jestli je to opravdový duch."
+    }
+  ],
+  "DesignChallenges_Scrooge/Scrooge_SEC_Scro_010_SEC_Scro_010_Ongoing02.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "You found a specter in the Dream Castle? Dinnae be frightened. Try and talk to it!",
+      "cz": "Našel jsi v Hradě snů přízrak? Neboj se. Zkus si s ním promluvit!",
+      "source": "pre_existing",
+      "original_cz": "Našel jsi v Hradě snů přízrak? Neboj se. Zkus si s ním promluvit!"
+    }
+  ]
+}

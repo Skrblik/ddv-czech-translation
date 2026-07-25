@@ -1,0 +1,383 @@
+{
+  "ExpansionMain_Ursula/Ursula_Dialogue_Eager001.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Care for a game of Scramblecoin, angelfish?",
+      "cz": "Dáš si zahrát Scramblecoin, anděle?",
+      "source": "pre_existing",
+      "original_cz": "Dáš si zahrát Scramblecoin, anděle?"
+    }
+  ],
+  "ExpansionMain_Ursula/Ursula_Dialogue_PostGame001.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "... Hm.",
+      "cz": "... Hm.",
+      "source": "pre_existing",
+      "original_cz": "... Hm."
+    },
+    {
+      "key": "Ursula_001_f",
+      "en": "Well, well, well... You're cleverer than I thought. Nicely played.",
+      "cz": "No, no, no... Jsi chytřejší, než jsem si myslela. Pěkně zahrané.",
+      "source": "pre_existing",
+      "original_cz": "No, no, no... Jsi chytřejší, než jsem si myslela. Pěkně zahrané."
+    },
+    {
+      "key": "Ursula_002_f",
+      "en": "Tough luck, angelfish. Come back for a rematch anytime.",
+      "cz": "Smůla, anděle. Vrať se kdykoli na odvetu.",
+      "source": "pre_existing",
+      "original_cz": "Smůla, anděle. Vrať se kdykoli na odvetu."
+    }
+  ],
+  "ExpansionMain_Ursula/Ursula_Dialogue_PreGame001.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "I hope you're ready.",
+      "cz": "Doufám, že jsi připravená.",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že jsi připravená."
+    }
+  ],
+  "ExpansionMain_Ursula/Ursula_SEC_E01_Mickey_010_SEC_E01_Mickey_010_BringItem03.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Now, what's this, {PlayerName}? Are you looking to trade me for something?",
+      "cz": "Co to má být, {PlayerName}? Chceš mě za něco vyměnit?",
+      "source": "pre_existing",
+      "original_cz": "Co to má být, {PlayerName}? Chceš mě za něco vyměnit?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Nope! They're flowers, just for being you!",
+      "cz": "Ne! Jsou to květiny, jen proto, že jsi ty!",
+      "source": "pre_existing",
+      "original_cz": "Ne! Jsou to květiny, jen proto, že jsi ty!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I thought you might be able to use them for your potions.",
+      "cz": "Myslel jsem, že bys je mohl použít do svých lektvarů.",
+      "source": "pre_existing",
+      "original_cz": "Myslel jsem, že bys je mohl použít do svých lektvarů."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I've done a favor for you... so someday, you can do a favor for me.",
+      "cz": "Prokázal jsem ti laskavost... takže jednou můžeš ty prokázat laskavost mně.",
+      "source": "pre_existing",
+      "original_cz": "Prokázal jsem ti laskavost... takže jednou můžeš ty prokázat laskavost mně."
+    },
+    {
+      "key": "Ursula_001_f",
+      "en": "Ha! I knew there was a reason you're my favorite.",
+      "cz": "Ha! Věděla jsem, že existuje důvod, proč jsi moje nejoblíbenější.",
+      "source": "pre_existing",
+      "original_cz": "Ha! Věděla jsem, že existuje důvod, proč jsi moje nejoblíbenější."
+    },
+    {
+      "key": "Ursula_004_f",
+      "en": "These will make very useful potions. They're practically oozing with potential.",
+      "cz": "Z těchto lektvarů budou velmi užitečné. Prakticky překypují potenciálem.",
+      "source": "pre_existing",
+      "original_cz": "Z těchto lektvarů budou velmi užitečné. Prakticky překypují potenciálem."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Just don't use them for evil, okay?",
+      "cz": "Jen je nepoužívej ke zlu, ano?",
+      "source": "pre_existing",
+      "original_cz": "Jen je nepoužívej ke zlu, ano?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Think you could make something useful for me?",
+      "cz": "Myslíš, že bys pro mě mohl/a vytvořit něco užitečného?",
+      "source": "pre_existing",
+      "original_cz": "Myslíš, že bys pro mě mohl/a vytvořit něco užitečného?"
+    },
+    {
+      "key": "Ursula_005_f",
+      "en": "Perish the thought.",
+      "cz": "Zatrať tu myšlenku.",
+      "source": "pre_existing",
+      "original_cz": "Zatrať tu myšlenku."
+    },
+    {
+      "key": "Ursula_008_f",
+      "en": "And just to show you how generous I am...",
+      "cz": "A jen abych vám ukázala, jak jsem štědrá...",
+      "source": "pre_existing",
+      "original_cz": "A jen abych vám ukázala, jak jsem štědrá..."
+    },
+    {
+      "key": "Ursula_009_f",
+      "en": "As a little thank-you... a potion that's sure to keep your crops thriving!",
+      "cz": "Jako malé poděkování... lektvar, který zaručeně zajistí, aby vaše úroda prosperovala!",
+      "source": "pre_existing",
+      "original_cz": "Jako malé poděkování... lektvar, který zaručeně zajistí, aby vaše úroda prosperovala!"
+    },
+    {
+      "key": "Ursula_006_f",
+      "en": "I imagine so, though it might take some time.",
+      "cz": "Předpokládám, že ano, i když to může chvíli trvat.",
+      "source": "pre_existing",
+      "original_cz": "Předpokládám, že ano, i když to může chvíli trvat."
+    },
+    {
+      "key": "Ursula_007_f",
+      "en": "But here... Have something to tide you over.",
+      "cz": "Ale tady... Mám něco, co tě uklidní.",
+      "source": "pre_existing",
+      "original_cz": "Ale tady... Mám něco, co tě uklidní."
+    },
+    {
+      "key": "Ursula_002_f",
+      "en": "How thoughtful!",
+      "cz": "Jak ohleduplné!",
+      "source": "pre_existing",
+      "original_cz": "Jak ohleduplné!"
+    },
+    {
+      "key": "Ursula_003_f",
+      "en": "Ha-ha-ha-ha! You're learning well, angelfish.",
+      "cz": "Ha-ha-ha-ha! Učíš se dobře, anděle.",
+      "source": "pre_existing",
+      "original_cz": "Ha-ha-ha-ha! Učíš se dobře, anděle."
+    }
+  ],
+  "ExpansionMain_Ursula/Ursula_VLG_Rapu_030_VLG_Rapu_030_TalkTo05.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Hey, Ursula. I found some Sundrop Petals. Can you create an <ActivityItem>Eternal Sundrop Charm</ActivityItem> for Mother Gothel?",
+      "cz": "Ahoj, Ursulo. Našla jsem okvětní lístky sluneční kapky. Můžeš pro Matku Gothel vytvořit <ActivityItem>Věčné kouzlo sluneční kapky</ActivityItem>?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, Ursulo. Našla jsem okvětní lístky sluneční kapky. Můžeš pro Matku Gothel vytvořit <ActivityItem>Věčné kouzlo sluneční kapky</ActivityItem>?"
+    },
+    {
+      "key": "Ursula_001_f",
+      "en": "Well well, {PlayerName}, I had no idea you were Gothel's little errand minion now.",
+      "cz": "No, {PlayerName}, netušila jsem, že jsi teď Gothelova malá poskočka.",
+      "source": "pre_existing",
+      "original_cz": "No, {PlayerName}, netušila jsem, že jsi teď Gothelova malá poskočka."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm helping Rapunzel.",
+      "cz": "Pomáhám Locice.",
+      "source": "pre_existing",
+      "original_cz": "Pomáhám Locice."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I help everyone who needs it.",
+      "cz": "Pomáhám každému, kdo to potřebuje.",
+      "source": "pre_existing",
+      "original_cz": "Pomáhám každému, kdo to potřebuje."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "This is a one-time thing.",
+      "cz": "Toto se dělá jen jednou.",
+      "source": "pre_existing",
+      "original_cz": "Toto se dělá jen jednou."
+    },
+    {
+      "key": "Ursula_002_f",
+      "en": "What does that blonde slip of seagrass have to do with this?",
+      "cz": "Co s tím má společného ten blond kousek mořské trávy?",
+      "source": "pre_existing",
+      "original_cz": "Co s tím má společného ten blond kousek mořské trávy?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "You're just suspicious. There's no secret.",
+      "cz": "Jsi jen podezřívavý. Žádné tajemství to není.",
+      "source": "pre_existing",
+      "original_cz": "Jsi jen podezřívavý. Žádné tajemství to není."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "That's not my secret to tell.",
+      "cz": "Tohle tajemství prozradit nebudu.",
+      "source": "pre_existing",
+      "original_cz": "Tohle tajemství prozradit nebudu."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Rapunzel is a marionette brought to life by magic.",
+      "cz": "Losička je loutka, která ožila pomocí magie.",
+      "source": "pre_existing",
+      "original_cz": "Losička je loutka, která ožila pomocí magie."
+    },
+    {
+      "key": "Ursula_003_f",
+      "en": "... Well... She wants to help Mother Gothel, so I'm helping her search. That's all.",
+      "cz": "... No... Chce pomoci Matce Gothel, takže jí pomáhám s hledáním. To je vše.",
+      "source": "pre_existing",
+      "original_cz": "... No... Chce pomoci Matce Gothel, takže jí pomáhám s hledáním. To je vše."
+    },
+    {
+      "key": "Ursula_004_f",
+      "en": "I see...",
+      "cz": "Rozumím...",
+      "source": "pre_existing",
+      "original_cz": "Rozumím..."
+    },
+    {
+      "key": "Ursula_005_f",
+      "en": "Just tell me what else we need to make the charm.",
+      "cz": "Jen mi řekni, co ještě potřebujeme k výrobě amuletu.",
+      "source": "pre_existing",
+      "original_cz": "Jen mi řekni, co ještě potřebujeme k výrobě amuletu."
+    },
+    {
+      "key": "Ursula_006_f",
+      "en": "Since you have the petals, it should be simple. <ActivityItem>Dream Shards</ActivityItem>... <ActivityItem>Evergems</ActivityItem> that capture the light of the past...",
+      "cz": "Jelikož máš okvětní lístky, mělo by to být jednoduché. <ActivityItem>Střepy snů</ActivityItem>... <ActivityItem>Evergemy</ActivityItem>, které zachycují světlo minulosti...",
+      "source": "pre_existing",
+      "original_cz": "Jelikož máš okvětní lístky, mělo by to být jednoduché. <ActivityItem>Střepy snů</ActivityItem>... <ActivityItem>Evergemy</ActivityItem>, které zachycují světlo minulosti..."
+    },
+    {
+      "key": "Ursula_007_f",
+      "en": "A few <ActivityItem>Skeleton Fish</ActivityItem>... and of course, my payment.",
+      "cz": "Pár <ActivityItem>Kosterních ryb</ActivityItem>... a samozřejmě moje platba.",
+      "source": "pre_existing",
+      "original_cz": "Pár <ActivityItem>Kosterních ryb</ActivityItem>... a samozřejmě moje platba."
+    },
+    {
+      "key": "Ursula_008_f",
+      "en": "... What do you want?",
+      "cz": "... Co chceš?",
+      "source": "pre_existing",
+      "original_cz": "... Co chceš?"
+    },
+    {
+      "key": "Ursula_009_f",
+      "en": "Rapunzel's secret.",
+      "cz": "Locikino tajemství.",
+      "source": "pre_existing",
+      "original_cz": "Locikino tajemství."
+    },
+    {
+      "key": "Ursula_010_f",
+      "en": "There's something special about that waifish little guppy, and Gothel won't tell me what it is.",
+      "cz": "Na té malé paví očko je něco zvláštního a Gothel mi to neřekne.",
+      "source": "pre_existing",
+      "original_cz": "Na té malé paví očko je něco zvláštního a Gothel mi to neřekne."
+    },
+    {
+      "key": "Ursula_011_f",
+      "en": "Oh, I don't buy that for a second, dearie. You think you can keep the truth from me?",
+      "cz": "Ach, tomu nevěřím ani na vteřinu, drahoušku. Myslíš, že přede mnou dokážeš utajit pravdu?",
+      "source": "pre_existing",
+      "original_cz": "Ach, tomu nevěřím ani na vteřinu, drahoušku. Myslíš, že přede mnou dokážeš utajit pravdu?"
+    },
+    {
+      "key": "Ursula_012_f",
+      "en": "No, but I had to try...",
+      "cz": "Ne, ale musela jsem to zkusit...",
+      "source": "pre_existing",
+      "original_cz": "Ne, ale musela jsem to zkusit..."
+    },
+    {
+      "key": "Ursula_013_f",
+      "en": "If you're NOT going to provide payment, then leave! No payment, no charm!",
+      "cz": "Pokud NEBUDETE platit, tak odejděte! Žádná platba, žádné kouzlo!",
+      "source": "pre_existing",
+      "original_cz": "Pokud NEBUDETE platit, tak odejděte! Žádná platba, žádné kouzlo!"
+    },
+    {
+      "key": "Ursula_014_f",
+      "en": "You know what? I've got the list of Ingredients now... I bet I can make this myself.",
+      "cz": "Víš co? Teď mám seznam ingrediencí... Vsadím se, že to zvládnu udělat sama.",
+      "source": "pre_existing",
+      "original_cz": "Víš co? Teď mám seznam ingrediencí... Vsadím se, že to zvládnu udělat sama."
+    },
+    {
+      "key": "Ursula_015_f",
+      "en": "Feeling like a big fish in a small pond, are we? Just remember Gothel will be furious if you make even one little mistake.",
+      "cz": "Připadáme si jako velká ryba v malém rybníku, že ne? Jen si pamatuj, že Gothel bude zuřit, když uděláš byť jen malou chybu.",
+      "source": "pre_existing",
+      "original_cz": "Připadáme si jako velká ryba v malém rybníku, že ne? Jen si pamatuj, že Gothel bude zuřit, když uděláš byť jen malou chybu."
+    },
+    {
+      "key": "Ursula_016_f",
+      "en": "Guess I better make sure to get it right. Thanks, Ursula!",
+      "cz": "Asi se raději ujistím, že to udělám správně. Díky, Ursulo!",
+      "source": "pre_existing",
+      "original_cz": "Asi se raději ujistím, že to udělám správně. Díky, Ursulo!"
+    },
+    {
+      "key": "Ursula_017_f",
+      "en": "You're not welcome.",
+      "cz": "Nejste vítáni.",
+      "source": "pre_existing",
+      "original_cz": "Nejste vítáni."
+    },
+    {
+      "key": "Ursula_018_f",
+      "en": "It's up to Rapunzel to decide whether she wants to share or not.",
+      "cz": "Je na Locice, aby se rozhodla, zda se chce podělit, nebo ne.",
+      "source": "pre_existing",
+      "original_cz": "Je na Locice, aby se rozhodla, zda se chce podělit, nebo ne."
+    },
+    {
+      "key": "Ursula_019_f",
+      "en": "How sweet. Well...",
+      "cz": "To je milé. No...",
+      "source": "pre_existing",
+      "original_cz": "To je milé. No..."
+    },
+    {
+      "key": "Ursula_020_f",
+      "en": "Oh come now; don't try pulling MY strings.",
+      "cz": "Ale no tak, nesnaž se tahat za MÉ nitky.",
+      "source": "pre_existing",
+      "original_cz": "Ale no tak, nesnaž se tahat za MÉ nitky."
+    },
+    {
+      "key": "Ursula_021_f",
+      "en": "Well, if you're being so generous with your time, you should ask me if I need anything...",
+      "cz": "No, když už jsi tak štědrá se svým časem, měla by ses mě zeptat, jestli něco nepotřebuji...",
+      "source": "pre_existing",
+      "original_cz": "No, když už jsi tak štědrá se svým časem, měla by ses mě zeptat, jestli něco nepotřebuji..."
+    },
+    {
+      "key": "Ursula_022_f",
+      "en": "I've helped you out plenty, Ursula... I got you out of your cave, remember?",
+      "cz": "Už jsem ti hodně pomohla, Ursulo... Dostala jsem tě z tvé jeskyně, pamatuješ?",
+      "source": "pre_existing",
+      "original_cz": "Už jsem ti hodně pomohla, Ursulo... Dostala jsem tě z tvé jeskyně, pamatuješ?"
+    },
+    {
+      "key": "Ursula_023_f",
+      "en": "That again? Angelfish, your credit for that ran out tides ago.",
+      "cz": "Zase? Angelfish, tvůj kredit za to už dávno vypršel.",
+      "source": "pre_existing",
+      "original_cz": "Zase? Angelfish, tvůj kredit za to už dávno vypršel."
+    },
+    {
+      "key": "Ursula_024_f",
+      "en": "I don't work for Mother Gothel.",
+      "cz": "Nepracuji pro Matku Gothel.",
+      "source": "pre_existing",
+      "original_cz": "Nepracuji pro Matku Gothel."
+    },
+    {
+      "key": "Ursula_025_f",
+      "en": "And yet you're here, and not the blonde slip of seagrass she calls \"daughter.\" Interesting...",
+      "cz": "A přesto jsi tady ty, a ne ten blonďatý kousek mořské trávy, kterému říká „dcero“. Zajímavé...",
+      "source": "pre_existing",
+      "original_cz": "A přesto jsi tady ty, a ne ten blonďatý kousek mořské trávy, kterému říká „dcero“. Zajímavé..."
+    },
+    {
+      "key": "Ursula_026_f",
+      "en": "Can we focus, please?",
+      "cz": "Můžeme se prosím soustředit?",
+      "source": "pre_existing",
+      "original_cz": "Můžeme se prosím soustředit?"
+    }
+  ]
+}

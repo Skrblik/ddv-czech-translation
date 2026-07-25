@@ -1,0 +1,342 @@
+{
+  "LadyTramp_Woody/Woody_VLG_Tram_010_VLG_Tram_010_TalkTo02.locbin": [
+    {
+      "key": "Woody_000_f",
+      "en": "Thanks for cleaning up around Buzz's place, partner! He and I had fun with Tramp, but when Vanellope riled him up, our canine friend got a little...",
+      "cz": "Díky, že jsi uklidil kolem Buzzova domu, kámo! S Trampem jsme si to užili, ale když ho Vanellope naštvala, náš psí kamarád se trochu...",
+      "source": "pre_existing",
+      "original_cz": "Díky, že jsi uklidil kolem Buzzova domu, kámo! S Trampem jsme si to užili, ale když ho Vanellope naštvala, náš psí kamarád se trochu..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Rowdy?",
+      "cz": "Hlučný?",
+      "source": "pre_existing",
+      "original_cz": "Hlučný?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Adventurous?",
+      "cz": "Dobrodružný?",
+      "source": "pre_existing",
+      "original_cz": "Dobrodružný?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Wild?",
+      "cz": "Divoký?",
+      "source": "pre_existing",
+      "original_cz": "Divoký?"
+    },
+    {
+      "key": "Woody_001_f",
+      "en": "Exactly! Things went off the rails fast. She tried to stage a race inside, and by the third lap we had a disaster on our hands.",
+      "cz": "Přesně tak! Všechno se rychle zvrtlo. Pokusila se uspořádat závod uvnitř a ve třetím kole jsme měli katastrofu.",
+      "source": "pre_existing",
+      "original_cz": "Přesně tak! Všechno se rychle zvrtlo. Pokusila se uspořádat závod uvnitř a ve třetím kole jsme měli katastrofu."
+    },
+    {
+      "key": "Woody_004_f",
+      "en": "Tramp's claws scratched up the floor of Buzz's RV. And I'd like to fix that up for him.",
+      "cz": "Trampovy drápy poškrábaly podlahu Buzzova karavanu. A já bych mu to rád opravil.",
+      "source": "pre_existing",
+      "original_cz": "Trampovy drápy poškrábaly podlahu Buzzova karavanu. A já bych mu to rád opravil."
+    },
+    {
+      "key": "Woody_002_f",
+      "en": "Don't get me wrong: A dog like Scud would've done way more damage, and Vanellope was egging him on, so I don't blame Tramp.",
+      "cz": "Nechápejte mě špatně: Pes jako Scud by napáchal mnohem větší škodu a Vanellope ho k tomu jen povzbuzovala, takže Trampovi nic nevyčítám.",
+      "source": "pre_existing",
+      "original_cz": "Nechápejte mě špatně: Pes jako Scud by napáchal mnohem větší škodu a Vanellope ho k tomu jen povzbuzovala, takže Trampovi nic nevyčítám."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "It was an accident. We can fix it!",
+      "cz": "Byla to nehoda. Můžeme to napravit!",
+      "source": "pre_existing",
+      "original_cz": "Byla to nehoda. Můžeme to napravit!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Are you positive you didn't scratch things up yourself?",
+      "cz": "Jsi si jistý/á, že sis to sám/sama nepoškrábal/a?",
+      "source": "pre_existing",
+      "original_cz": "Jsi si jistý/á, že sis to sám/sama nepoškrábal/a?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Yikes! We need to fix those up!",
+      "cz": "Fuj! Musíme to opravit!",
+      "source": "pre_existing",
+      "original_cz": "Fuj! Musíme to opravit!"
+    },
+    {
+      "key": "Woody_006_f",
+      "en": "If we had something to fill in the holes we could make his House look good as new.",
+      "cz": "Kdybychom měli čím zaplnit díry, mohli bychom jeho dům opravit a dát mu do pořádku.",
+      "source": "pre_existing",
+      "original_cz": "Kdybychom měli čím zaplnit díry, mohli bychom jeho dům opravit a dát mu do pořádku."
+    },
+    {
+      "key": "Woody_010_f",
+      "en": "I <i>do</i> have this recipe for <ActivityItem>Plastic Filler</ActivityItem>. Comes in real handy when you're a toy.",
+      "cz": "Mám <i>tento</i> recept na <ActivityItem>plastovou výplň</ActivityItem>. Hodí se to, když jsi hračka.",
+      "source": "pre_existing",
+      "original_cz": "Mám <i>tento</i> recept na <ActivityItem>plastovou výplň</ActivityItem>. Hodí se to, když jsi hračka."
+    },
+    {
+      "key": "Woody_013_f",
+      "en": "Thanks! I'll <Lore>gather the Ingredients</Lore> that you'll need to get Buzz's RV fixed up.",
+      "cz": "Díky! <Lore>Seženu ingredience</Lore>, které budeš potřebovat k opravě Buzzova karavanu.",
+      "source": "pre_existing",
+      "original_cz": "Díky! <Lore>Seženu ingredience</Lore>, které budeš potřebovat k opravě Buzzova karavanu."
+    },
+    {
+      "key": "Woody_007_f",
+      "en": "{PlayerName}, do I look like the kind of irresponsible toy that would ever do that?",
+      "cz": "{PlayerName}, vypadám snad jako nezodpovědná hračka, která by tohle kdy udělala?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, vypadám snad jako nezodpovědná hračka, která by tohle kdy udělala?"
+    },
+    {
+      "key": "Woody_009_f",
+      "en": "True... In any case, I'd love to help you.",
+      "cz": "Pravda... V každém případě bych ti rád pomohl.",
+      "source": "pre_existing",
+      "original_cz": "Pravda... V každém případě bych ti rád pomohl."
+    },
+    {
+      "key": "Woody_008_f",
+      "en": "If only we had something to fill in the scratches and holes...",
+      "cz": "Kéž bychom měli čím zaplnit ty škrábance a díry...",
+      "source": "pre_existing",
+      "original_cz": "Kéž bychom měli čím zaplnit ty škrábance a díry..."
+    }
+  ],
+  "LadyTramp_Woody/Woody_VLG_Tram_010_VLG_Tram_010_TalkTo03.locbin": [
+    {
+      "key": "Woody_000_f",
+      "en": "I've got the Ingredients for the <ActivityItem>Plastic Filler</ActivityItem> to fix Buzz's RV, Woody!",
+      "cz": "Mám ingredience na <ActivityItem>Plastový tmel</ActivityItem>, kterým opravím Buzzův karavan, Woody!",
+      "source": "pre_existing",
+      "original_cz": "Mám ingredience na <ActivityItem>Plastový tmel</ActivityItem>, kterým opravím Buzzův karavan, Woody!"
+    },
+    {
+      "key": "Woody_001_f",
+      "en": "Fantastic! This is exactly what we need!",
+      "cz": "Fantastické! Tohle je přesně to, co potřebujeme!",
+      "source": "pre_existing",
+      "original_cz": "Fantastické! Tohle je přesně to, co potřebujeme!"
+    },
+    {
+      "key": "Woody_002_f",
+      "en": "Now that {PlayerName} is back, perhaps we should discuss our new four-legged friend.",
+      "cz": "Teď, když je {PlayerName} zpět, bychom se možná měli pobavit o našem novém čtyřnohém příteli.",
+      "source": "pre_existing",
+      "original_cz": "Teď, když je {PlayerName} zpět, bychom se možná měli pobavit o našem novém čtyřnohém příteli."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "He's a good dog, Buzz.",
+      "cz": "Je to hodný pes, Buzzi.",
+      "source": "pre_existing",
+      "original_cz": "Je to hodný pes, Buzzi."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Do you not want him around anymore?",
+      "cz": "Už ho u sebe nechceš?",
+      "source": "pre_existing",
+      "original_cz": "Už ho u sebe nechceš?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "He's a loveable little scamp, isn't he?",
+      "cz": "Je to roztomilý malý rošťák, že?",
+      "source": "pre_existing",
+      "original_cz": "Je to roztomilý malý rošťák, že?"
+    },
+    {
+      "key": "Woody_003_f",
+      "en": "Yes, of course! He's a wonderful animal associate.",
+      "cz": "Ano, samozřejmě! Je to skvělý zvířecí společník.",
+      "source": "pre_existing",
+      "original_cz": "Ano, samozřejmě! Je to skvělý zvířecí společník."
+    },
+    {
+      "key": "Woody_006_f",
+      "en": "We love having him around.",
+      "cz": "Milujeme ho, když je u nás.",
+      "source": "pre_existing",
+      "original_cz": "Milujeme ho, když je u nás."
+    },
+    {
+      "key": "Woody_009_f",
+      "en": "It's just... Vanellope was a little too energetic with him. Perhaps Tramp could use a more down-to-earth friend.",
+      "cz": "Jenom... Vanellope na něj byla trochu moc energická. Možná by se Trampovi hodil nějaký realističtější kamarád.",
+      "source": "pre_existing",
+      "original_cz": "Jenom... Vanellope na něj byla trochu moc energická. Možná by se Trampovi hodil nějaký realističtější kamarád."
+    },
+    {
+      "key": "Player_001_f",
+      "en": "Someone like...",
+      "cz": "Někdo jako...",
+      "source": "pre_existing",
+      "original_cz": "Někdo jako..."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "...Merlin?",
+      "cz": "...Merline?",
+      "source": "pre_existing",
+      "original_cz": "...Merline?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "...Mother Gothel?",
+      "cz": "...Matka Gothel?",
+      "source": "pre_existing",
+      "original_cz": "...Matka Gothel?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "...Mirabel?",
+      "cz": "...Mirabel?",
+      "source": "pre_existing",
+      "original_cz": "...Mirabel?"
+    },
+    {
+      "key": "Woody_011_f",
+      "en": "He's always been a good friend to me!",
+      "cz": "Vždycky byl pro mě dobrý přítel!",
+      "source": "pre_existing",
+      "original_cz": "Vždycky byl pro mě dobrý přítel!"
+    },
+    {
+      "key": "Woody_015_f",
+      "en": "Although, he tends to have his hands full all the time. Maybe someone else would be better...",
+      "cz": "I když má tendenci mít pořád plné ruce práce. Možná by byl někdo jiný lepší...",
+      "source": "pre_existing",
+      "original_cz": "I když má tendenci mít pořád plné ruce práce. Možná by byl někdo jiný lepší..."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Mother Gothel?",
+      "cz": "Matka Gothel?",
+      "source": "pre_existing",
+      "original_cz": "Matka Gothel?"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Mirabel?",
+      "cz": "Mirabel?",
+      "source": "pre_existing",
+      "original_cz": "Mirabel?"
+    },
+    {
+      "key": "Woody_016_f",
+      "en": "I'm... not so sure about that. She doesn't seem like an animal lover to me.",
+      "cz": "Já... tím si nejsem tak jistý. Nepřipadá mi jako milovnice zvířat.",
+      "source": "pre_existing",
+      "original_cz": "Já... tím si nejsem tak jistý. Nepřipadá mi jako milovnice zvířat."
+    },
+    {
+      "key": "Woody_017_f",
+      "en": "Then who?",
+      "cz": "A kdo pak?",
+      "source": "pre_existing",
+      "original_cz": "A kdo pak?"
+    },
+    {
+      "key": "Woody_020_f",
+      "en": "What about Mirabel?",
+      "cz": "A co Mirabel?",
+      "source": "pre_existing",
+      "original_cz": "A co Mirabel?"
+    },
+    {
+      "key": "Woody_013_f",
+      "en": "I know her cousin Antonio has an affinity for animals. Perhaps she's a dog person herself?",
+      "cz": "Vím, že její bratranec Antonio má rád zvířata. Možná je sama psí milovnice?",
+      "source": "pre_existing",
+      "original_cz": "Vím, že její bratranec Antonio má rád zvířata. Možná je sama psí milovnice?"
+    },
+    {
+      "key": "Woody_021_f",
+      "en": "I'll <Lore>go talk to her</Lore> and see if she's interested in making a new friend!",
+      "cz": "<Lore>Půjdu si s ní promluvit</Lore> a uvidím, jestli má zájem o nového kamaráda!",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Půjdu si s ní promluvit</Lore> a uvidím, jestli má zájem o nového kamaráda!"
+    },
+    {
+      "key": "Woody_012_f",
+      "en": "I'm not so sure about that. I don't believe she likes dogs... or anyone.",
+      "cz": "Nejsem si tím tak jistý. Nemyslím si, že má ráda psy... nebo kohokoli jiného.",
+      "source": "pre_existing",
+      "original_cz": "Nejsem si tím tak jistý. Nemyslím si, že má ráda psy... nebo kohokoli jiného."
+    },
+    {
+      "key": "Woody_014_f",
+      "en": "Then who?",
+      "cz": "A kdo pak?",
+      "source": "pre_existing",
+      "original_cz": "A kdo pak?"
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "Merlin?",
+      "cz": "Merline?",
+      "source": "pre_existing",
+      "original_cz": "Merline?"
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "Mirabel?",
+      "cz": "Mirabel?",
+      "source": "pre_existing",
+      "original_cz": "Mirabel?"
+    },
+    {
+      "key": "Woody_018_f",
+      "en": "He's always been a good friend to me!",
+      "cz": "Vždycky byl pro mě dobrý přítel!",
+      "source": "pre_existing",
+      "original_cz": "Vždycky byl pro mě dobrý přítel!"
+    },
+    {
+      "key": "Woody_019_f",
+      "en": "Although, he tends to have his hands full all the time. Maybe someone else would be better...",
+      "cz": "I když má tendenci mít pořád plné ruce práce. Možná by byl někdo jiný lepší...",
+      "source": "pre_existing",
+      "original_cz": "I když má tendenci mít pořád plné ruce práce. Možná by byl někdo jiný lepší..."
+    },
+    {
+      "key": "Woody_004_f",
+      "en": "No, that's not what I mean!",
+      "cz": "Ne, to tak nemyslím!",
+      "source": "pre_existing",
+      "original_cz": "Ne, to tak nemyslím!"
+    },
+    {
+      "key": "Woody_007_f",
+      "en": "Yeah, we think Tramp's great.",
+      "cz": "Jo, myslíme si, že Tramp je skvělý.",
+      "source": "pre_existing",
+      "original_cz": "Jo, myslíme si, že Tramp je skvělý."
+    },
+    {
+      "key": "Woody_005_f",
+      "en": "Loveable, yes...",
+      "cz": "Milé, ano...",
+      "source": "pre_existing",
+      "original_cz": "Milé, ano..."
+    },
+    {
+      "key": "Woody_008_f",
+      "en": "Yeah, we love having him around!",
+      "cz": "Jo, milujeme ho, když je u nás!",
+      "source": "pre_existing",
+      "original_cz": "Jo, milujeme ho, když je u nás!"
+    }
+  ]
+}

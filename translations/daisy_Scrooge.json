@@ -1,0 +1,260 @@
+{
+  "daisy_Scrooge/Scrooge_UnlocksAndUpgrades_DaisyHouseUnlocked.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Looky here... A house as stylish as its owner... It'll be a grand addition to the Valley once it's built.",
+      "cz": "Podívejte se... Dům stejně stylový jako jeho majitel... Jakmile bude postaven, bude to velkolepý přírůstek do údolí.",
+      "source": "pre_existing",
+      "original_cz": "Podívejte se... Dům stejně stylový jako jeho majitel... Jakmile bude postaven, bude to velkolepý přírůstek do údolí."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's finish Daisy's House. (Use <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>",
+      "cz": "Dokončeme Daisyin dům. (Použijte <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>",
+      "source": "pre_existing",
+      "original_cz": "Dokončeme Daisyin dům. (Použijte <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Perhaps some other time.",
+      "cz": "Možná někdy jindy.",
+      "source": "pre_existing",
+      "original_cz": "Možná někdy jindy."
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "It's perfect! Daisy'll be pleased as punch.",
+      "cz": "Je to perfektní! Daisy z toho bude mít pořádnou radost.",
+      "source": "pre_existing",
+      "original_cz": "Je to perfektní! Daisy z toho bude mít pořádnou radost."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Och! You dinnae have enough Star Coins for this property! Come back when you have the funds, {PlayerName}.",
+      "cz": "Ach! Na tuhle nemovitost nemáš dost hvězdných mincí! Vrať se, až budeš mít peníze, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Ach! Na tuhle nemovitost nemáš dost hvězdných mincí! Vrať se, až budeš mít peníze, {PlayerName}."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "But {PlayerName}, this is a sound investment! *sigh* Well, come back here when you've come to your senses.",
+      "cz": "Ale {PlayerName}, tohle je rozumná investice! *povzdech* No, vrať se sem, až se vzpamatuješ.",
+      "source": "pre_existing",
+      "original_cz": "Ale {PlayerName}, tohle je rozumná investice! *povzdech* No, vrať se sem, až se vzpamatuješ."
+    }
+  ],
+  "daisy_Scrooge/Scrooge_VLG_Dais_020_VLG_Dais_020_TalkTo01.locbin": [
+    {
+      "key": "Scrooge_003_f",
+      "en": "Ah, {PlayerName}. What can I do for you?",
+      "cz": "Aha, {PlayerName}. Co pro vás mohu udělat?",
+      "source": "pre_existing",
+      "original_cz": "Aha, {PlayerName}. Co pro vás mohu udělat?"
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "I have a business proposal for you...",
+      "cz": "Mám pro vás obchodní návrh...",
+      "source": "pre_existing",
+      "original_cz": "Mám pro vás obchodní návrh..."
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "How exciting! \"Business proposal\" is one of my favorite two-word phrases, right up there with \"tax free\" and \"roasted haggis.\"",
+      "cz": "To je vzrušující! „Obchodní návrh“ je jedna z mých nejoblíbenějších dvouslovných frází, hned vedle „bez daně“ a „pečeného haggisu“.",
+      "source": "pre_existing",
+      "original_cz": "To je vzrušující! „Obchodní návrh“ je jedna z mých nejoblíbenějších dvouslovných frází, hned vedle „bez daně“ a „pečeného haggisu“."
+    },
+    {
+      "key": "Player_000_f",
+      "en": "Would you consider adding Minnie and Daisy's fashion line to your store?",
+      "cz": "Zvážili byste přidání módní řady Minnie a Daisy do vašeho obchodu?",
+      "source": "pre_existing",
+      "original_cz": "Zvážili byste přidání módní řady Minnie a Daisy do vašeho obchodu?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Pretty please?",
+      "cz": "Prosím hezky?",
+      "source": "pre_existing",
+      "original_cz": "Prosím hezky?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I think it could be a great addition.",
+      "cz": "Myslím, že by to mohl být skvělý doplněk.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že by to mohl být skvělý doplněk."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Or are you too afraid to take risks?",
+      "cz": "Nebo se příliš bojíte riskovat?",
+      "source": "pre_existing",
+      "original_cz": "Nebo se příliš bojíte riskovat?"
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "I appreciate ya askin' nicely, but this isn't how I conduct business.",
+      "cz": "Vážím si, že se hezky ptáš, ale takhle se u mě nejedná.",
+      "source": "pre_existing",
+      "original_cz": "Vážím si, že se hezky ptáš, ale takhle se u mě nejedná."
+    },
+    {
+      "key": "Scrooge_009_f",
+      "en": "I need to see something concrete before I even THINK about adding something to my wares!",
+      "cz": "Než vůbec PŘEmýšlím o tom, že bych něco přidala do svého zboží, musím vidět něco konkrétního!",
+      "source": "pre_existing",
+      "original_cz": "Než vůbec PŘEmýšlím o tom, že bych něco přidala do svého zboží, musím vidět něco konkrétního!"
+    },
+    {
+      "key": "Scrooge_007_f",
+      "en": "Hmm... And how do you figure that? Have you seen any of their wares?",
+      "cz": "Hmm... A jak na to přicházíš? Viděl jsi nějaké jejich zboží?",
+      "source": "pre_existing",
+      "original_cz": "Hmm... A jak na to přicházíš? Viděl jsi nějaké jejich zboží?"
+    },
+    {
+      "key": "Scrooge_010_f",
+      "en": "Not... yet?",
+      "cz": "Ještě... ne?",
+      "source": "pre_existing",
+      "original_cz": "Ještě... ne?"
+    },
+    {
+      "key": "Scrooge_011_f",
+      "en": "First rule of business, {PlayerName}: Never invest in something without thoroughly inspecting a sample or prototype.",
+      "cz": "První pravidlo podnikání: {PlayerName} Nikdy neinvestujte do ničeho bez důkladné prohlídky vzorku nebo prototypu.",
+      "source": "pre_existing",
+      "original_cz": "První pravidlo podnikání: {PlayerName} Nikdy neinvestujte do ničeho bez důkladné prohlídky vzorku nebo prototypu."
+    },
+    {
+      "key": "Scrooge_008_f",
+      "en": "Afraid to take risks? Me? Never!",
+      "cz": "Bojíš se riskovat? Já? Nikdy!",
+      "source": "pre_existing",
+      "original_cz": "Bojíš se riskovat? Já? Nikdy!"
+    },
+    {
+      "key": "Scrooge_012_f",
+      "en": "But I must see something concrete before I make any decisions. Come back with a proof of concept or a sample.",
+      "cz": "Ale než se nějak rozhodnu, musím vidět něco konkrétního. Vrať se s důkazem konceptu nebo vzorkem.",
+      "source": "pre_existing",
+      "original_cz": "Ale než se nějak rozhodnu, musím vidět něco konkrétního. Vrať se s důkazem konceptu nebo vzorkem."
+    }
+  ],
+  "daisy_Scrooge/Scrooge_VLG_Dais_060_VLG_Dais_060_TalkTo06.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Ah, {PlayerName}, I heard there was some sort of kerfuffle up at the Castle. How can I help you?",
+      "cz": "Aha, {PlayerName}, slyšel jsem, že na hradě byl nějaký poprask. Jak ti můžu pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Aha, {PlayerName}, slyšel jsem, že na hradě byl nějaký poprask. Jak ti můžu pomoct?"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "Daisy thinks you tried to sabotage her gala with a glitter bomb...",
+      "cz": "Daisy si myslí, že ses pokusil sabotovat její slavnostní večírek třpytivou bombou...",
+      "source": "pre_existing",
+      "original_cz": "Daisy si myslí, že ses pokusil sabotovat její slavnostní večírek třpytivou bombou..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "The glitter was in a box from YOUR store.",
+      "cz": "Třpytky byly v krabičce z VAŠEHO obchodu.",
+      "source": "pre_existing",
+      "original_cz": "Třpytky byly v krabičce z VAŠEHO obchodu."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'm just trying to find the culprit.",
+      "cz": "Jen se snažím najít viníka.",
+      "source": "pre_existing",
+      "original_cz": "Jen se snažím najít viníka."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I don't think it's you, but I have to ask.",
+      "cz": "Nemyslím si, že jsi to ty, ale musím se zeptat.",
+      "source": "pre_existing",
+      "original_cz": "Nemyslím si, že jsi to ty, ale musím se zeptat."
+    },
+    {
+      "key": "Scrooge_007_f",
+      "en": "Sparkle me spats! If I sent a box of glitter with the rest of what Daisy rented, she would've opened it while she was getting ready for her party.",
+      "cz": "Třpytivé gemy! Kdybych poslala krabičku třpytek se zbytkem toho, co si Daisy pronajala, otevřela by ji, když se bude chystat na večírek.",
+      "source": "pre_existing",
+      "original_cz": "Třpytivé gemy! Kdybych poslala krabičku třpytek se zbytkem toho, co si Daisy pronajala, otevřela by ji, když se bude chystat na večírek."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "That so-called glitter bomb would've gone off WELL before the end of the event.",
+      "cz": "Ta takzvaná třpytivá bomba by vybuchla DÁVNO před koncem akce.",
+      "source": "pre_existing",
+      "original_cz": "Ta takzvaná třpytivá bomba by vybuchla DÁVNO před koncem akce."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "The culprit hid the glitter in an empty box!",
+      "cz": "Pachatel schoval třpytky do prázdné krabičky!",
+      "source": "pre_existing",
+      "original_cz": "Pachatel schoval třpytky do prázdné krabičky!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "You're being framed!",
+      "cz": "Obviňují tě!",
+      "source": "pre_existing",
+      "original_cz": "Obviňují tě!"
+    },
+    {
+      "key": "Scrooge_010_f",
+      "en": "Precisely, detective. Someone's covering their tracks — but not very well.",
+      "cz": "Přesně tak, detektive. Někdo zahlazuje stopy – ale ne moc dobře.",
+      "source": "pre_existing",
+      "original_cz": "Přesně tak, detektive. Někdo zahlazuje stopy – ale ne moc dobře."
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Here's a REAL lead for you. If you want to find out who used glitter to ruin Daisy's gala, you should <Lore>follow the glitter on Dazzle Beach.</Lore>",
+      "cz": "Tady je pro vás SKUTEČNÁ stopa. Pokud chcete zjistit, kdo použil třpytky k zkažení Daisyiny slavnostní oslavy, měli byste <Lore>sledovat třpytky na Dazzle Beach.</Lore>",
+      "source": "pre_existing",
+      "original_cz": "Tady je pro vás SKUTEČNÁ stopa. Pokud chcete zjistit, kdo použil třpytky k zkažení Daisyiny slavnostní oslavy, měli byste <Lore>sledovat třpytky na Dazzle Beach.</Lore>"
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "I was taking my daily perambulation there, and someone's dropped an entire shipment of glitter! It's blended with the sand, but it forms a very clear trail.",
+      "cz": "Procházel jsem se tam denně a někdo tam vysypal celou zásilku třpytek! Smíchaly se s pískem, ale tvoří to velmi čistou stopu.",
+      "source": "pre_existing",
+      "original_cz": "Procházel jsem se tam denně a někdo tam vysypal celou zásilku třpytek! Smíchaly se s pískem, ale tvoří to velmi čistou stopu."
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "I'll bet my last Star Coin that if you follow it, you'll find the hideout of the real culprit.",
+      "cz": "Vsadím se o svou poslední Hvězdnou minci, že když ji budeš sledovat, najdeš úkryt skutečného viníka.",
+      "source": "pre_existing",
+      "original_cz": "Vsadím se o svou poslední Hvězdnou minci, že když ji budeš sledovat, najdeš úkryt skutečného viníka."
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "I need to see that for myself. I'll <Lore>investigate Dazzle Beach</Lore>.",
+      "cz": "To musím vidět na vlastní oči. <Lore>Prozkoumám Dazzle Beach</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "To musím vidět na vlastní oči. <Lore>Prozkoumám Dazzle Beach</Lore>."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "As though I'd waste my valuable time with such a childish prank. Glitter...",
+      "cz": "Jako bych si s takovým dětským žertíkem ztrácel drahocenný čas. Třpytky...",
+      "source": "pre_existing",
+      "original_cz": "Jako bych si s takovým dětským žertíkem ztrácel drahocenný čas. Třpytky..."
+    },
+    {
+      "key": "Scrooge_009_f",
+      "en": "I appreciate your confidence in me, {PlayerName}. I promise I hadnae any involvement in the mischief!",
+      "cz": "Vážím si tvé důvěry ve mě, {PlayerName}. Slibuji, že jsem se do té neplechy nijak nepodílel!",
+      "source": "pre_existing",
+      "original_cz": "Vážím si tvé důvěry ve mě, {PlayerName}. Slibuji, že jsem se do té neplechy nijak nepodílel!"
+    }
+  ]
+}

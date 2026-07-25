@@ -1,0 +1,577 @@
+{
+  "DarkMountainsUpdate_MotherGothel/MotherGothel_MRQS124_TheForgotten_MRQS124_TheForgotten_BringItem01.locbin": [
+    {
+      "key": "MotherGothel_005_f",
+      "en": "The Orb! Darling, you've done it! And not to worry; I'll dispose of it, safely. Mustn't let it fall into the wrong hands.",
+      "cz": "Koule! Zlatíčko, dokázala jsi to! A neboj se, bezpečně se jí zbavím. Nesmí se dostat do nesprávných rukou.",
+      "source": "pre_existing",
+      "original_cz": "Koule! Zlatíčko, dokázala jsi to! A neboj se, bezpečně se jí zbavím. Nesmí se dostat do nesprávných rukou."
+    },
+    {
+      "key": "MotherGothel_001_f",
+      "en": "Now see? Doesn't everything feel better without that pesky Pillar getting in the way?",
+      "cz": "Vidíte? Není všechno lepší bez toho otravného pilíře, co nám stojí v cestě?",
+      "source": "pre_existing",
+      "original_cz": "Vidíte? Není všechno lepší bez toho otravného pilíře, co nám stojí v cestě?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I guess you're right.",
+      "cz": "Asi máš pravdu.",
+      "source": "pre_existing",
+      "original_cz": "Asi máš pravdu."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Everything feels the same.",
+      "cz": "Všechno se zdá být stejné.",
+      "source": "pre_existing",
+      "original_cz": "Všechno se zdá být stejné."
+    },
+    {
+      "key": "Player_000_choice_003_f",
+      "en": "Something feels... wrong.",
+      "cz": "Něco se zdá... špatně.",
+      "source": "pre_existing",
+      "original_cz": "Něco se zdá... špatně."
+    },
+    {
+      "key": "MotherGothel_002_f",
+      "en": "Of course I am, dear.",
+      "cz": "Samozřejmě, že jsem, drahoušku.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě, že jsem, drahoušku."
+    },
+    {
+      "key": "MotherGothel_006_f",
+      "en": "I can't wait to show you how much grander life can be when you aren't forced to live under Merlin's rules.",
+      "cz": "Nemůžu se dočkat, až ti ukážu, o kolik velkolepější může být život, když nejsi nucen žít podle Merlinových pravidel.",
+      "source": "pre_existing",
+      "original_cz": "Nemůžu se dočkat, až ti ukážu, o kolik velkolepější může být život, když nejsi nucen žít podle Merlinových pravidel."
+    },
+    {
+      "key": "MotherGothel_007_f",
+      "en": "But first... you'll have to do me one itsy-bitsy favor.",
+      "cz": "Ale nejdřív... mi budeš muset prokázat jednu malinkou laskavost.",
+      "source": "pre_existing",
+      "original_cz": "Ale nejdřív... mi budeš muset prokázat jednu malinkou laskavost."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "What is it?",
+      "cz": "Co to je?",
+      "source": "pre_existing",
+      "original_cz": "Co to je?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Oh great. ANOTHER favor.",
+      "cz": "Skvělé. DALŠÍ laskavost.",
+      "source": "pre_existing",
+      "original_cz": "Skvělé. DALŠÍ laskavost."
+    },
+    {
+      "key": "MotherGothel_008_f",
+      "en": "Oh, I do love how obliging you are, {PlayerName}. You really should show this side of yourself more often.",
+      "cz": "Ach, {PlayerName}, tak moc se mi líbí, jak jsi ochotný/á. Tuhle stránku sebe bys měl/a ukazovat častěji.",
+      "source": "pre_existing",
+      "original_cz": "Ach, {PlayerName}, tak moc se mi líbí, jak jsi ochotný/á. Tuhle stránku sebe bys měl/a ukazovat častěji."
+    },
+    {
+      "key": "MotherGothel_010_f",
+      "en": "Now to the task at hand... I'm devastated that I've lost one of my most prized possessions. A <ActivityItem>Jewel-Encrusted Mirror</ActivityItem>.",
+      "cz": "A teď k úkolu... Jsem zdrcená, že jsem ztratila jeden ze svých nejcennějších majetků. <ActivityItem>Zrcadlo pokryté drahokamy</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "A teď k úkolu... Jsem zdrcená, že jsem ztratila jeden ze svých nejcennějších majetků. <ActivityItem>Zrcadlo pokryté drahokamy</ActivityItem>."
+    },
+    {
+      "key": "MotherGothel_011_f",
+      "en": "I was admiring myself when I simply... dropped it in the water somewhere around here. How clumsy of me!",
+      "cz": "Obdivovala jsem sama sebe, když jsem to prostě... upustila někde tady do vody. To jsem ale nešikovná!",
+      "source": "pre_existing",
+      "original_cz": "Obdivovala jsem sama sebe, když jsem to prostě... upustila někde tady do vody. To jsem ale nešikovná!"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "I'll get it. Don't worry.",
+      "cz": "Já to donesu. Neboj se.",
+      "source": "pre_existing",
+      "original_cz": "Já to donesu. Neboj se."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Something here isn't adding up...",
+      "cz": "Něco tu nesedí...",
+      "source": "pre_existing",
+      "original_cz": "Něco tu nesedí..."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Why don't you get a new mirror?",
+      "cz": "Proč si nepořídíš nové zrcadlo?",
+      "source": "pre_existing",
+      "original_cz": "Proč si nepořídíš nové zrcadlo?"
+    },
+    {
+      "key": "MotherGothel_012_f",
+      "en": "And that's why I love you, dear! You do things without asking bothersome questions!",
+      "cz": "A proto tě miluji, drahá! Děláš věci, aniž bys kladla otravné otázky!",
+      "source": "pre_existing",
+      "original_cz": "A proto tě miluji, drahá! Děláš věci, aniž bys kladla otravné otázky!"
+    },
+    {
+      "key": "MotherGothel_017_f",
+      "en": "Finding my <ActivityItem>Jewel-Encrusted Mirror</ActivityItem> will be no trouble for you. Simply <Lore>use that Fishing Rod of yours in the waters of this area</Lore>.",
+      "cz": "Najít mé <ActivityItem>Zrcadlo pokryté drahokamy</ActivityItem> pro tebe nebude žádný problém. Jednoduše <Lore>použij ten svůj rybářský prut ve vodách této oblasti</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Najít mé <ActivityItem>Zrcadlo pokryté drahokamy</ActivityItem> pro tebe nebude žádný problém. Jednoduše <Lore>použij ten svůj rybářský prut ve vodách této oblasti</Lore>."
+    },
+    {
+      "key": "MotherGothel_018_f",
+      "en": "I'll be waiting for you near the Giant Willow, not doing anything suspicious. Ha! I'm just teasing, darling! See you soon!",
+      "cz": "Budu na tebe čekat u Obří vrby a nebudu dělat nic podezřelého. Ha! Jen si dělám legraci, zlato! Brzy na viděnou!",
+      "source": "pre_existing",
+      "original_cz": "Budu na tebe čekat u Obří vrby a nebudu dělat nic podezřelého. Ha! Jen si dělám legraci, zlato! Brzy na viděnou!"
+    },
+    {
+      "key": "MotherGothel_013_f",
+      "en": "Don't you trust me, {PlayerName}? After all I've done for you?",
+      "cz": "Nevěříš mi, {PlayerName}? Po tom všem, co jsem pro tebe udělala?",
+      "source": "pre_existing",
+      "original_cz": "Nevěříš mi, {PlayerName}? Po tom všem, co jsem pro tebe udělala?"
+    },
+    {
+      "key": "MotherGothel_015_f",
+      "en": "Of course I do, it's just—",
+      "cz": "Samozřejmě, že ano, jen—",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě, že ano, jen—"
+    },
+    {
+      "key": "MotherGothel_016_f",
+      "en": "Perfect! Then you'll have no more questions or objections!",
+      "cz": "Perfektní! Pak už nebudete mít žádné další otázky ani námitky!",
+      "source": "pre_existing",
+      "original_cz": "Perfektní! Pak už nebudete mít žádné další otázky ani námitky!"
+    },
+    {
+      "key": "MotherGothel_014_f",
+      "en": "Oh, I have other mirrors, dear. But this one has sentimental value. I'd be devastated to lose it.",
+      "cz": "Ach, mám i jiná zrcadla, drahoušku. Ale tohle má sentimentální hodnotu. Byla bych zdrcená, kdybych o něj přišla.",
+      "source": "pre_existing",
+      "original_cz": "Ach, mám i jiná zrcadla, drahoušku. Ale tohle má sentimentální hodnotu. Byla bych zdrcená, kdybych o něj přišla."
+    },
+    {
+      "key": "MotherGothel_009_f",
+      "en": "Manners, {PlayerName}. Just because you're growing up doesn't mean you can leave THOSE behind.",
+      "cz": "Způsoby, {PlayerName}. Jen proto, že dospíváš, neznamená, že se jich můžeš zbavit.",
+      "source": "pre_existing",
+      "original_cz": "Způsoby, {PlayerName}. Jen proto, že dospíváš, neznamená, že se jich můžeš zbavit."
+    },
+    {
+      "key": "MotherGothel_003_f",
+      "en": "Don't be ridiculous. The air is just brimming with possibility!",
+      "cz": "Nebuď směšná. Vzduch prostě překypuje možnostmi!",
+      "source": "pre_existing",
+      "original_cz": "Nebuď směšná. Vzduch prostě překypuje možnostmi!"
+    },
+    {
+      "key": "MotherGothel_004_f",
+      "en": "Wrong? Oh, don't be a fool. You've gotten far too used to the way things were. You'll understand soon enough.",
+      "cz": "Špatně? Nebuď hlupák. Už sis moc zvykl na to, jak to bylo. Brzy to pochopíš.",
+      "source": "pre_existing",
+      "original_cz": "Špatně? Nebuď hlupák. Už sis moc zvykl na to, jak to bylo. Brzy to pochopíš."
+    }
+  ],
+  "DarkMountainsUpdate_MotherGothel/MotherGothel_MRQS124_TheForgotten_MRQS124_TheForgotten_TalkTo01.locbin": [
+    {
+      "key": "MotherGothel_008_f",
+      "en": "Just who I was hoping to see! Darling, tell me you've noticed all those ugly Night Thorns sprouting around the Valley. And how some of the Villagers are starting to lose their memories...?",
+      "cz": "Přesně koho jsem doufala vidět! Zlatíčko, řekni mi, že sis všimla všech těch ošklivých Nočních trnů, které raší po celém Údolí. A jak někteří vesničané začínají ztrácet paměť...?",
+      "source": "pre_existing",
+      "original_cz": "Přesně koho jsem doufala vidět! Zlatíčko, řekni mi, že sis všimla všech těch ošklivých Nočních trnů, které raší po celém Údolí. A jak někteří vesničané začínají ztrácet paměť...?"
+    },
+    {
+      "key": "MotherGothel_009_f",
+      "en": "Merlin hasn't the faintest clue what might be causing it.",
+      "cz": "Merlin nemá nejmenší tušení, co by to mohlo způsobovat.",
+      "source": "pre_existing",
+      "original_cz": "Merlin nemá nejmenší tušení, co by to mohlo způsobovat."
+    },
+    {
+      "key": "MotherGothel_010_f",
+      "en": "But don't worry. I won't tell him it's ALL your fault.",
+      "cz": "Ale neboj se. Neřeknu mu, že je to VŠECHNO tvoje chyba.",
+      "source": "pre_existing",
+      "original_cz": "Ale neboj se. Neřeknu mu, že je to VŠECHNO tvoje chyba."
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "MY fault?",
+      "cz": "Moje chyba?",
+      "source": "pre_existing",
+      "original_cz": "Moje chyba?"
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "I didn't do this!",
+      "cz": "Tohle jsem neudělal!",
+      "source": "pre_existing",
+      "original_cz": "Tohle jsem neudělal!"
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "I knew it...",
+      "cz": "Věděl jsem to...",
+      "source": "pre_existing",
+      "original_cz": "Věděl jsem to..."
+    },
+    {
+      "key": "MotherGothel_011_f",
+      "en": "Well, of course it is.",
+      "cz": "No, samozřejmě že je.",
+      "source": "pre_existing",
+      "original_cz": "No, samozřejmě že je."
+    },
+    {
+      "key": "MotherGothel_014_f",
+      "en": "This Village clearly reflects you. Your dreams. Your desires. Your fears.",
+      "cz": "Tato vesnice tě jasně odráží. Tvé sny. Tvé touhy. Tvé obavy.",
+      "source": "pre_existing",
+      "original_cz": "Tato vesnice tě jasně odráží. Tvé sny. Tvé touhy. Tvé obavy."
+    },
+    {
+      "key": "MotherGothel_015_f",
+      "en": "And we've all noticed that you haven't been yourself lately.",
+      "cz": "A všichni jsme si všimli, že jsi v poslední době nebyla sama sebou.",
+      "source": "pre_existing",
+      "original_cz": "A všichni jsme si všimli, že jsi v poslední době nebyla sama sebou."
+    },
+    {
+      "key": "Player_004_choice_000_f",
+      "en": "What? No. I'm... I'm fine.",
+      "cz": "Cože? Ne. Jsem... jsem v pořádku.",
+      "source": "pre_existing",
+      "original_cz": "Cože? Ne. Jsem... jsem v pořádku."
+    },
+    {
+      "key": "Player_004_choice_001_f",
+      "en": "I don't know what's happening to me...",
+      "cz": "Nevím, co se se mnou děje...",
+      "source": "pre_existing",
+      "original_cz": "Nevím, co se se mnou děje..."
+    },
+    {
+      "key": "Player_004_choice_002_f",
+      "en": "Ugh. I thought I was hiding it so well.",
+      "cz": "Uf. Myslel jsem, že to tak dobře schovávám.",
+      "source": "pre_existing",
+      "original_cz": "Uf. Myslel jsem, že to tak dobře schovávám."
+    },
+    {
+      "key": "MotherGothel_016_f",
+      "en": "Tsk, tsk, tsk... You mustn't lie to Mother Gothel. You know how I hate that.",
+      "cz": "Tsk, tsk, tsk... Nesmíš lhát Matce Gothel. Víš, jak to nesnáším.",
+      "source": "pre_existing",
+      "original_cz": "Tsk, tsk, tsk... Nesmíš lhát Matce Gothel. Víš, jak to nesnáším."
+    },
+    {
+      "key": "MotherGothel_019_f",
+      "en": "But don't worry. There's nothing wrong with you. You're simply growing up!",
+      "cz": "Ale neboj se. Nic s tebou není. Prostě jen dospíváš!",
+      "source": "pre_existing",
+      "original_cz": "Ale neboj se. Nic s tebou není. Prostě jen dospíváš!"
+    },
+    {
+      "key": "MotherGothel_020_f",
+      "en": "You're finally seeing the world for the cruel and dangerous place it is.",
+      "cz": "Konečně vidíš svět takový krutý a nebezpečný, jakým je.",
+      "source": "pre_existing",
+      "original_cz": "Konečně vidíš svět takový krutý a nebezpečný, jakým je."
+    },
+    {
+      "key": "Player_005_choice_000_f",
+      "en": "Maybe you're right.",
+      "cz": "Možná máš pravdu.",
+      "source": "pre_existing",
+      "original_cz": "Možná máš pravdu."
+    },
+    {
+      "key": "Player_005_choice_002_f",
+      "en": "But the world's NOT cruel and dangerous.",
+      "cz": "Ale svět NENÍ krutý a nebezpečný.",
+      "source": "pre_existing",
+      "original_cz": "Ale svět NENÍ krutý a nebezpečný."
+    },
+    {
+      "key": "MotherGothel_021_f",
+      "en": "I always am.",
+      "cz": "Vždycky jsem.",
+      "source": "pre_existing",
+      "original_cz": "Vždycky jsem."
+    },
+    {
+      "key": "MotherGothel_023_f",
+      "en": "Now, trust me. After all, we must look out for ourselves.",
+      "cz": "Věřte mi. Koneckonců, musíme se starat sami o sebe.",
+      "source": "pre_existing",
+      "original_cz": "Věřte mi. Koneckonců, musíme se starat sami o sebe."
+    },
+    {
+      "key": "MotherGothel_024_f",
+      "en": "In fact... <Lore>Follow me</Lore>. You have much to learn.",
+      "cz": "Ve skutečnosti... <Lore>Následuj mě</Lore>. Máš se toho hodně co učit.",
+      "source": "pre_existing",
+      "original_cz": "Ve skutečnosti... <Lore>Následuj mě</Lore>. Máš se toho hodně co učit."
+    },
+    {
+      "key": "MotherGothel_022_f",
+      "en": "Ugh. You're starting to sound like a certain long-haired blond person...",
+      "cz": "Uf. Začínáš znít jako nějaká dlouhovlasá blondýnka...",
+      "source": "pre_existing",
+      "original_cz": "Uf. Začínáš znít jako nějaká dlouhovlasá blondýnka..."
+    },
+    {
+      "key": "MotherGothel_017_f",
+      "en": "Isn't it obvious?",
+      "cz": "Není to snad jasné?",
+      "source": "pre_existing",
+      "original_cz": "Není to snad jasné?"
+    },
+    {
+      "key": "MotherGothel_018_f",
+      "en": "Oh, you aren't nearly as clever as you think you are. It really is annoying.",
+      "cz": "Ach, nejsi zdaleka tak chytrý/á, jak si myslíš. Je to vážně otravné.",
+      "source": "pre_existing",
+      "original_cz": "Ach, nejsi zdaleka tak chytrý/á, jak si myslíš. Je to vážně otravné."
+    },
+    {
+      "key": "MotherGothel_012_f",
+      "en": "Oh, please. Of course you did!",
+      "cz": "Prosím. Samozřejmě, že jsi to udělala!",
+      "source": "pre_existing",
+      "original_cz": "Prosím. Samozřejmě, že jsi to udělala!"
+    },
+    {
+      "key": "MotherGothel_013_f",
+      "en": "Finally! I don't know why it's taken you so long to admit it to yourself.",
+      "cz": "Konečně! Nevím, proč ti tak dlouho trvalo, než jsi si to sama přiznala.",
+      "source": "pre_existing",
+      "original_cz": "Konečně! Nevím, proč ti tak dlouho trvalo, než jsi si to sama přiznala."
+    }
+  ],
+  "DarkMountainsUpdate_MotherGothel/MotherGothel_MRQS124_TheForgotten_MRQS124_TheForgotten_TalkTo03.locbin": [
+    {
+      "key": "MotherGothel_001_f",
+      "en": "My mirror! You found it!",
+      "cz": "Moje zrcadlo! Našla jsi ho!",
+      "source": "pre_existing",
+      "original_cz": "Moje zrcadlo! Našla jsi ho!"
+    },
+    {
+      "key": "MotherGothel_002_f",
+      "en": "And so quickly. I knew I could count on you.",
+      "cz": "A tak rychle. Věděla jsem, že se na tebe můžu spolehnout.",
+      "source": "pre_existing",
+      "original_cz": "A tak rychle. Věděla jsem, že se na tebe můžu spolehnout."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "This mirror is a piece of junk.",
+      "cz": "Tohle zrcadlo je kus šrotu.",
+      "source": "pre_existing",
+      "original_cz": "Tohle zrcadlo je kus šrotu."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "What's your scheme, Gothel?",
+      "cz": "Jaký máš plán, Gothele?",
+      "source": "pre_existing",
+      "original_cz": "Jaký máš plán, Gothele?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "What's the big idea?",
+      "cz": "O co jde?",
+      "source": "pre_existing",
+      "original_cz": "O co jde?"
+    },
+    {
+      "key": "MotherGothel_003_f",
+      "en": "Of course it is, darling. Did you really think I would ever drop something of value?",
+      "cz": "Jasně že je, drahoušku. Opravdu sis myslela, že někdy upustím něco cenného?",
+      "source": "pre_existing",
+      "original_cz": "Jasně že je, drahoušku. Opravdu sis myslela, že někdy upustím něco cenného?"
+    },
+    {
+      "key": "MotherGothel_009_f",
+      "en": "Oh, don't look so UPSET. You must stop taking everything so seriously. Now, shall I tell you my plan?",
+      "cz": "Ach, netvář se tak NAŠIŠENĚ. Musíš přestat brát všechno tak vážně. A teď, mám ti říct svůj plán?",
+      "source": "pre_existing",
+      "original_cz": "Ach, netvář se tak NAŠIŠENĚ. Musíš přestat brát všechno tak vážně. A teď, mám ti říct svůj plán?"
+    },
+    {
+      "key": "MotherGothel_006_f",
+      "en": "You see, {PlayerName}, I've always wondered if that Dreamlight Magic of yours might work like Rapunzel's magical hair...",
+      "cz": "Víš, {PlayerName}, vždycky jsem přemýšlela, jestli ta tvoje Kouzla Světla Snů nefunguje jako Locičiny magické vlasy...",
+      "source": "pre_existing",
+      "original_cz": "Víš, {PlayerName}, vždycky jsem přemýšlela, jestli ta tvoje Kouzla Světla Snů nefunguje jako Locičiny magické vlasy..."
+    },
+    {
+      "key": "MotherGothel_004_f",
+      "en": "So I \"borrowed\" a little book from Merlin... Traded for a few potions and ingredients from Ursula...",
+      "cz": "Tak jsem si od Merlina „půjčila“ malou knížku... Vyměnila jsem ji za pár lektvarů a ingrediencí od Ursuly...",
+      "source": "pre_existing",
+      "original_cz": "Tak jsem si od Merlina „půjčila“ malou knížku... Vyměnila jsem ji za pár lektvarů a ingrediencí od Ursuly..."
+    },
+    {
+      "key": "MotherGothel_005_f",
+      "en": "And now that the magic of the Orb is gone, there's nothing to stop me from throwing it all together to keep you safe in the Giant Willow forever!",
+      "cz": "A teď, když je magie Orbu pryč, nic mi nebrání v tom, abych to všechno dala dohromady, abych tě navždy udržela v bezpečí v Obří Vrbě!",
+      "source": "pre_existing",
+      "original_cz": "A teď, když je magie Orbu pryč, nic mi nebrání v tom, abych to všechno dala dohromady, abych tě navždy udržela v bezpečí v Obří Vrbě!"
+    },
+    {
+      "key": "MotherGothel_010_f",
+      "en": "It's for your own good, dear. The world outside is far too dangerous. Trust me. It's better this way. You'll see, in time, that I can be a very loving mother.",
+      "cz": "Je to pro tvé dobro, drahoušku. Venkovní svět je příliš nebezpečný. Věř mi. Takhle je to lepší. Časem uvidíš, že dokážu být velmi milující matkou.",
+      "source": "pre_existing",
+      "original_cz": "Je to pro tvé dobro, drahoušku. Venkovní svět je příliš nebezpečný. Věř mi. Takhle je to lepší. Časem uvidíš, že dokážu být velmi milující matkou."
+    },
+    {
+      "key": "MotherGothel_007_f",
+      "en": "My scheme? That makes it sound so... common.",
+      "cz": "Můj plán? To zní tak... obyčejně.",
+      "source": "pre_existing",
+      "original_cz": "Můj plán? To zní tak... obyčejně."
+    },
+    {
+      "key": "MotherGothel_008_f",
+      "en": "The big idea? No, dear. It's a brilliant idea!",
+      "cz": "Ten velký nápad? Ne, drahoušku. Je to skvělý nápad!",
+      "source": "pre_existing",
+      "original_cz": "Ten velký nápad? Ne, drahoušku. Je to skvělý nápad!"
+    }
+  ],
+  "DarkMountainsUpdate_MotherGothel/MotherGothel_MRQS124_TheForgotten_MRQS124_TheForgotten_TalkTo04.locbin": [
+    {
+      "key": "MotherGothel_000_f",
+      "en": "Here we are. Now, pay attention, dear... These Pillars have been here for as long as anyone in the Village can remember.",
+      "cz": "Tady to máme. A teď pozor, drahá... Tyto Pilíře tu jsou už odjakživa.",
+      "source": "pre_existing",
+      "original_cz": "Tady to máme. A teď pozor, drahá... Tyto Pilíře tu jsou už odjakživa."
+    },
+    {
+      "key": "MotherGothel_001_f",
+      "en": "If you asked Merlin, he'd tell you they symbolize the virtues that hold this Village together and protect it blah, blah, blah, blah, blah, blah, blah.",
+      "cz": "Kdybyste se zeptali Merlina, řekl by vám, že symbolizují ctnosti, které drží tuto vesnici pohromadě a chrání ji bla, bla, bla, bla, bla, bla, bla.",
+      "source": "pre_existing",
+      "original_cz": "Kdybyste se zeptali Merlina, řekl by vám, že symbolizují ctnosti, které drží tuto vesnici pohromadě a chrání ji bla, bla, bla, bla, bla, bla, bla."
+    },
+    {
+      "key": "MotherGothel_002_f",
+      "en": "Oh, how that man loves to hear himself talk!",
+      "cz": "Ach, jak ten muž miluje poslouchat sám sebe mluvit!",
+      "source": "pre_existing",
+      "original_cz": "Ach, jak ten muž miluje poslouchat sám sebe mluvit!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Don't insult Merlin.",
+      "cz": "Neurážej Merlina.",
+      "source": "pre_existing",
+      "original_cz": "Neurážej Merlina."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I guess he can be a bit long-winded sometimes...",
+      "cz": "Asi umí být někdy trochu zdlouhavý...",
+      "source": "pre_existing",
+      "original_cz": "Asi umí být někdy trochu zdlouhavý..."
+    },
+    {
+      "key": "MotherGothel_003_f",
+      "en": "What a pity... You still insist on defending Merlin even though he's done nothing but lie to you.",
+      "cz": "To je škoda... Pořád trváš na Merlinově obhajobě, i když ti jen lhal.",
+      "source": "pre_existing",
+      "original_cz": "To je škoda... Pořád trváš na Merlinově obhajobě, i když ti jen lhal."
+    },
+    {
+      "key": "MotherGothel_005_f",
+      "en": "Huh? What do you mean?",
+      "cz": "Cože? Co tím myslíš?",
+      "source": "pre_existing",
+      "original_cz": "Cože? Co tím myslíš?"
+    },
+    {
+      "key": "MotherGothel_006_f",
+      "en": "Merlin told you that these Pillars protect the Village. But they don't.",
+      "cz": "Merlin ti říkal, že tyto Pilíře chrání vesnici. Ale to nedělají.",
+      "source": "pre_existing",
+      "original_cz": "Merlin ti říkal, že tyto Pilíře chrání vesnici. Ale to nedělají."
+    },
+    {
+      "key": "MotherGothel_007_f",
+      "en": "They only prevent brilliant people like us from reaching our full potential.",
+      "cz": "Oni jen brání geniálním lidem, jako jsme my, v dosažení našeho plného potenciálu.",
+      "source": "pre_existing",
+      "original_cz": "Oni jen brání geniálním lidem, jako jsme my, v dosažení našeho plného potenciálu."
+    },
+    {
+      "key": "MotherGothel_008_f",
+      "en": "Everything he's told you about light and Dark Magic... friendship, trust, and so on... nothing more than lies to keep you under his control.",
+      "cz": "Všechno, co ti řekl o světlé a temné magii... přátelství, důvěře a tak dále... nic víc než lži, aby tě udržel pod svou kontrolou.",
+      "source": "pre_existing",
+      "original_cz": "Všechno, co ti řekl o světlé a temné magii... přátelství, důvěře a tak dále... nic víc než lži, aby tě udržel pod svou kontrolou."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I don't believe you.",
+      "cz": "Nevěřím ti.",
+      "source": "pre_existing",
+      "original_cz": "Nevěřím ti."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I... I know that you must be right...",
+      "cz": "Já... vím, že musíš mít pravdu...",
+      "source": "pre_existing",
+      "original_cz": "Já... vím, že musíš mít pravdu..."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "What should I do now...?",
+      "cz": "Co mám teď dělat...?",
+      "source": "pre_existing",
+      "original_cz": "Co mám teď dělat...?"
+    },
+    {
+      "key": "MotherGothel_009_f",
+      "en": "Well, there's one way to find out for sure.",
+      "cz": "No, existuje jeden způsob, jak to zjistit s jistotou.",
+      "source": "pre_existing",
+      "original_cz": "No, existuje jeden způsob, jak to zjistit s jistotou."
+    },
+    {
+      "key": "MotherGothel_011_f",
+      "en": "<Lore>Rip the Orb out of the Pillar</Lore>. Then you'll see that what I'm saying is true.",
+      "cz": "<Lore>Vytrhni kouli ze sloupu</Lore>. Pak uvidíš, že to, co říkám, je pravda.",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Vytrhni kouli ze sloupu</Lore>. Pak uvidíš, že to, co říkám, je pravda."
+    },
+    {
+      "key": "MotherGothel_010_f",
+      "en": "It's time to find out what you're truly capable of.",
+      "cz": "Je čas zjistit, čeho skutečně dokážete.",
+      "source": "pre_existing",
+      "original_cz": "Je čas zjistit, čeho skutečně dokážete."
+    },
+    {
+      "key": "MotherGothel_004_f",
+      "en": "Worse than that. Merlin is a liar.",
+      "cz": "Ještě horší. Merlin je lhář.",
+      "source": "pre_existing",
+      "original_cz": "Ještě horší. Merlin je lhář."
+    }
+  ]
+}

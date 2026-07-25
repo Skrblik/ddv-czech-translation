@@ -1,0 +1,78 @@
+{
+  "MiniEvent21_Merlin/Merlin_RPT_Merl_Valentines_010_RPT_Merl_Valentines_010_BringItem01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Marvelous, {PlayerName}! These are just what I need for my magical research!",
+      "cz": "Úžasné, {PlayerName}! Tohle je přesně to, co potřebuji pro svůj magický výzkum!",
+      "source": "pre_existing",
+      "original_cz": "Úžasné, {PlayerName}! Tohle je přesně to, co potřebuji pro svůj magický výzkum!"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Now then, please take this as a token of my gratitude for your assistance.",
+      "cz": "A teď prosím vezměte toto jako projev mé vděčnosti za vaši pomoc.",
+      "source": "pre_existing",
+      "original_cz": "A teď prosím vezměte toto jako projev mé vděčnosti za vaši pomoc."
+    }
+  ],
+  "MiniEvent21_Merlin/Merlin_RPT_Merl_Valentines_010_RPT_Merl_Valentines_010_Intro.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Ah, {PlayerName}. I am in need of your particular expertise...",
+      "cz": "Aha, {PlayerName}. Potřebuji vaši konkrétní odbornost...",
+      "source": "pre_existing",
+      "original_cz": "Aha, {PlayerName}. Potřebuji vaši konkrétní odbornost..."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "You see, I'm conducting research into matters of the heart and require a few supplies.",
+      "cz": "Víte, provádím výzkum v oblasti srdce a potřebuji pár věcí.",
+      "source": "pre_existing",
+      "original_cz": "Víte, provádím výzkum v oblasti srdce a potřebuji pár věcí."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Would you be so kind as to bring me a quantity of <ActivityItem>Empty Vials</ActivityItem> and <ActivityItem>Dream Shards</ActivityItem>?",
+      "cz": "Byl byste tak laskav a přinesl mi určité množství <ActivityItem>Prázdných lahviček</ActivityItem> a <ActivityItem>Střepů snů</ActivityItem>?",
+      "source": "pre_existing",
+      "original_cz": "Byl byste tak laskav a přinesl mi určité množství <ActivityItem>Prázdných lahviček</ActivityItem> a <ActivityItem>Střepů snů</ActivityItem>?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Of course! Anything for love!",
+      "cz": "Samozřejmě! Pro lásku cokoli!",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě! Pro lásku cokoli!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Maybe later, Merlin!",
+      "cz": "Možná později, Merline!",
+      "source": "pre_existing",
+      "original_cz": "Možná později, Merline!"
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "Many thanks!",
+      "cz": "Mnohokrát děkuji!",
+      "source": "pre_existing",
+      "original_cz": "Mnohokrát děkuji!"
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Yes, yes, of course. You're just as busy as I am. Or... am I just as busy as YOU are? Hmm...",
+      "cz": "Ano, ano, samozřejmě. Jsi stejně zaneprázdněný/á jako já. Nebo... jsem já stejně zaneprázdněný/á jako TY? Hmm...",
+      "source": "pre_existing",
+      "original_cz": "Ano, ano, samozřejmě. Jsi stejně zaneprázdněný/á jako já. Nebo... jsem já stejně zaneprázdněný/á jako TY? Hmm..."
+    }
+  ],
+  "MiniEvent21_Merlin/Merlin_RPT_Merl_Valentines_010_RPT_Merl_Valentines_010_Ongoing01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Would you please bring me a supply of <ActivityItem>Empty Vials</ActivityItem> and <ActivityItem>Dream Shards</ActivityItem>?",
+      "cz": "Mohl byste mi prosím přinést zásobu <ActivityItem>Prázdných lahviček</ActivityItem> a <ActivityItem>Střepů snů</ActivityItem>?",
+      "source": "pre_existing",
+      "original_cz": "Mohl byste mi prosím přinést zásobu <ActivityItem>Prázdných lahviček</ActivityItem> a <ActivityItem>Střepů snů</ActivityItem>?"
+    }
+  ]
+}

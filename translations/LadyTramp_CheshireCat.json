@@ -1,0 +1,386 @@
+{
+  "LadyTramp_CheshireCat/CheshireCat_VLG_Lady_010_VLG_Lady_010_TalkTo03.locbin": [
+    {
+      "key": "CheshireCat_004_f",
+      "en": "Tell me, did you like my muchly improved donut recipe?",
+      "cz": "Řekni mi, líbil se ti můj mnohem vylepšený recept na koblihy?",
+      "source": "pre_existing",
+      "original_cz": "Řekni mi, líbil se ti můj mnohem vylepšený recept na koblihy?"
+    },
+    {
+      "key": "CheshireCat_005_f",
+      "en": "I didn't. Not at all! That wasn't very nice!",
+      "cz": "Neudělal. Vůbec ne! To nebylo moc hezké!",
+      "source": "pre_existing",
+      "original_cz": "Neudělal. Vůbec ne! To nebylo moc hezké!"
+    },
+    {
+      "key": "CheshireCat_006_f",
+      "en": "I'm on Lady's side here. Messing with a recipe is one of the most insulting things you can do to a chef!",
+      "cz": "Jsem na straně dámy. Hrnout si s receptem je jedna z nejurážlivějších věcí, které můžete kuchaři udělat!",
+      "source": "pre_existing",
+      "original_cz": "Jsem na straně dámy. Hrnout si s receptem je jedna z nejurážlivějších věcí, které můžete kuchaři udělat!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "You've got some explaining to do, Cheshire Cat.",
+      "cz": "Musíš mi něco vysvětlovat, Kočko Cheshire.",
+      "source": "pre_existing",
+      "original_cz": "Musíš mi něco vysvětlovat, Kočko Cheshire."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Why I thought you were being genuine is beyond me.",
+      "cz": "Proč jsem si myslel, že jsi upřímný/á, mi není jasné.",
+      "source": "pre_existing",
+      "original_cz": "Proč jsem si myslel, že jsi upřímný/á, mi není jasné."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Nice one CC — solid prank!",
+      "cz": "Pěkný CC — solidní vtípek!",
+      "source": "pre_existing",
+      "original_cz": "Pěkný CC — solidní vtípek!"
+    },
+    {
+      "key": "CheshireCat_007_f",
+      "en": "Oh, I love explanations! The best ones explain nothing at all!",
+      "cz": "Ach, miluju vysvětlování! Ta nejlepší nevysvětlují vůbec nic!",
+      "source": "pre_existing",
+      "original_cz": "Ach, miluju vysvětlování! Ta nejlepší nevysvětlují vůbec nic!"
+    },
+    {
+      "key": "CheshireCat_010_f",
+      "en": "I know you like to mess with people, but this is over the line.",
+      "cz": "Vím, že si rád/a s lidmi zahráváš, ale tohle je už za hranicí.",
+      "source": "pre_existing",
+      "original_cz": "Vím, že si rád/a s lidmi zahráváš, ale tohle je už za hranicí."
+    },
+    {
+      "key": "CheshireCat_011_f",
+      "en": "That Doggy Donut was supposed to help make peace between Remy and Lady.",
+      "cz": "Ten Psí Donut měl údajně pomoci usmířit Remyho a Lady.",
+      "source": "pre_existing",
+      "original_cz": "Ten Psí Donut měl údajně pomoci usmířit Remyho a Lady."
+    },
+    {
+      "key": "CheshireCat_012_f",
+      "en": "And myself? What if I wanted a piece too?",
+      "cz": "A já? Co kdybych taky chtěl kousek?",
+      "source": "pre_existing",
+      "original_cz": "A já? Co kdybych taky chtěl kousek?"
+    },
+    {
+      "key": "CheshireCat_013_f",
+      "en": "Oh... were you hungry?",
+      "cz": "Ach... měl jsi hlad?",
+      "source": "pre_existing",
+      "original_cz": "Ach... měl jsi hlad?"
+    },
+    {
+      "key": "CheshireCat_014_f",
+      "en": "Practically famished. When I disappear, that's my empty stomach swallowing me up.",
+      "cz": "Prakticky hladovím. Až zmizím, spolkne mě můj prázdný žaludek.",
+      "source": "pre_existing",
+      "original_cz": "Prakticky hladovím. Až zmizím, spolkne mě můj prázdný žaludek."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I doubt that very much.",
+      "cz": "O tom velmi pochybuji.",
+      "source": "pre_existing",
+      "original_cz": "O tom velmi pochybuji."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "With you, I never know.",
+      "cz": "S tebou nikdy nevím.",
+      "source": "pre_existing",
+      "original_cz": "S tebou nikdy nevím."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Awww, you poor famished kitty.",
+      "cz": "Ach, ty ubohá hladová kočičko.",
+      "source": "pre_existing",
+      "original_cz": "Ach, ty ubohá hladová kočičko."
+    },
+    {
+      "key": "CheshireCat_015_f",
+      "en": "{PlayerName}, perhaps we shouldn't be so angry at him.",
+      "cz": "{PlayerName}, možná bychom se na něj neměli tolik zlobit.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, možná bychom se na něj neměli tolik zlobit."
+    },
+    {
+      "key": "CheshireCat_000_f",
+      "en": "And take that! If you replace the purple fruit with some proper <ActivityItem>Dog Kibble</ActivityItem>, Lady and Tramp should like the donuts a lot more.",
+      "cz": "A tady to máš! Pokud nahradíš fialové ovoce pořádným <ActivityItem>psím žrádlem</ActivityItem>, Lady a Tramp by měli mít donuty mnohem raději.",
+      "source": "pre_existing",
+      "original_cz": "A tady to máš! Pokud nahradíš fialové ovoce pořádným <ActivityItem>psím žrádlem</ActivityItem>, Lady a Tramp by měli mít donuty mnohem raději."
+    },
+    {
+      "key": "CheshireCat_016_f",
+      "en": "After all, I was angry with Remy until you showed me that he meant well. What if the Cheshire Cat means well too?",
+      "cz": "Koneckonců, zlobil jsem se na Remyho, dokud jsi mi neukázal, že to myslí dobře. Co když to kocour Cheshire myslí taky dobře?",
+      "source": "pre_existing",
+      "original_cz": "Koneckonců, zlobil jsem se na Remyho, dokud jsi mi neukázal, že to myslí dobře. Co když to kocour Cheshire myslí taky dobře?"
+    },
+    {
+      "key": "CheshireCat_017_f",
+      "en": "I do! I do mean well! And aquifer! And puddle!",
+      "cz": "Ano! Myslím to dobře! A zvodnělou vrstvu! A loužičku!",
+      "source": "pre_existing",
+      "original_cz": "Ano! Myslím to dobře! A zvodnělou vrstvu! A loužičku!"
+    },
+    {
+      "key": "CheshireCat_018_f",
+      "en": "All right. Cheshire Cat, if you behave, maybe you can all have a tasty treat together.",
+      "cz": "Dobře, Kočko Cheshire, když se budeš chovat slušně, možná si všichni společně dáme něco dobrého.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, Kočko Cheshire, když se budeš chovat slušně, možná si všichni společně dáme něco dobrého."
+    },
+    {
+      "key": "CheshireCat_019_f",
+      "en": "Thank you, {PlayerName}. Now, Cheshire Cat, you should be more polite. Say thank you.",
+      "cz": "Děkuji, {PlayerName}. A teď, kočko Cheshire, bys měl být zdvořilejší. Řekni mi poděkování.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji, {PlayerName}. A teď, kočko Cheshire, bys měl být zdvořilejší. Řekni mi poděkování."
+    },
+    {
+      "key": "CheshireCat_020_f",
+      "en": "Oh, was I unintentionally rude? I do prefer my rudeness to be intended.",
+      "cz": "Byl jsem neúmyslně hrubý? Raději bych, aby moje hrubost byla úmyslná.",
+      "source": "pre_existing",
+      "original_cz": "Byl jsem neúmyslně hrubý? Raději bych, aby moje hrubost byla úmyslná."
+    },
+    {
+      "key": "CheshireCat_021_f",
+      "en": "Well, I guess that works for now. I'll get started on <Lore>cooking up the proper version of the dog treat</Lore>. And Remy?",
+      "cz": "No, asi to prozatím funguje. Začnu <Lore>vařit tu správnou verzi psí pamlsky</Lore>. A Remy?",
+      "source": "pre_existing",
+      "original_cz": "No, asi to prozatím funguje. Začnu <Lore>vařit tu správnou verzi psí pamlsky</Lore>. A Remy?"
+    },
+    {
+      "key": "CheshireCat_022_f",
+      "en": "Way ahead of you! I found some nice bowls in the stock room at Chez Remy. They'll be great dog dishes.",
+      "cz": "Mnohem před tebou! Našel jsem pár pěkných misek ve skladu v Chez Remy. Budou to skvělé misky pro psy.",
+      "source": "pre_existing",
+      "original_cz": "Mnohem před tebou! Našel jsem pár pěkných misek ve skladu v Chez Remy. Budou to skvělé misky pro psy."
+    },
+    {
+      "key": "CheshireCat_008_f",
+      "en": "Oh, but I'm always genuinely... myself.",
+      "cz": "Ale já jsem vždycky upřímně... sám sebou.",
+      "source": "pre_existing",
+      "original_cz": "Ale já jsem vždycky upřímně... sám sebou."
+    },
+    {
+      "key": "CheshireCat_009_f",
+      "en": "Oh, I'm rarely solid. I, myself, personally, prefer not-at-all solid as often as possible.",
+      "cz": "Ach, já jsem málokdy solidní. Já osobně dávám přednost tomu, abych byl co nejčastěji vůbec nesolidní.",
+      "source": "pre_existing",
+      "original_cz": "Ach, já jsem málokdy solidní. Já osobně dávám přednost tomu, abych byl co nejčastěji vůbec nesolidní."
+    },
+    {
+      "key": "CheshireCat_001_f",
+      "en": "Maybe you should do a nice deed now.",
+      "cz": "Možná bys teď měl/a udělat dobrý skutek.",
+      "source": "pre_existing",
+      "original_cz": "Možná bys teď měl/a udělat dobrý skutek."
+    }
+  ],
+  "LadyTramp_CheshireCat/CheshireCat_VLG_Lady_010_VLG_Lady_010_TalkTo04.locbin": [
+    {
+      "key": "CheshireCat_000_f",
+      "en": "{PlayerName}! Lose something?",
+      "cz": "{PlayerName}! Ztratil jsi něco?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}! Ztratil jsi něco?"
+    },
+    {
+      "key": "CheshireCat_001_f",
+      "en": "Uhh, well I'm looking for some ingredients to make a dog treat for Lady.",
+      "cz": "Ehm, no, sháním nějaké ingredience na psí pamlsek pro Lady.",
+      "source": "pre_existing",
+      "original_cz": "Ehm, no, sháním nějaké ingredience na psí pamlsek pro Lady."
+    },
+    {
+      "key": "CheshireCat_002_f",
+      "en": "Do you know anything about <ActivityItem>Purple Fruit</ActivityItem>?",
+      "cz": "Víš něco o <ActivityItem>fialovém ovoci</ActivityItem>?",
+      "source": "pre_existing",
+      "original_cz": "Víš něco o <ActivityItem>fialovém ovoci</ActivityItem>?"
+    },
+    {
+      "key": "CheshireCat_003_f",
+      "en": "You mean the delightful fruit from my tree? It's the very best ingredient for all tea-party related tastes.",
+      "cz": "Myslíš to lahodné ovoce z mého stromu? Je to ta nejlepší ingredience pro všechny chutě spojené s čajovým dýchánkem.",
+      "source": "pre_existing",
+      "original_cz": "Myslíš to lahodné ovoce z mého stromu? Je to ta nejlepší ingredience pro všechny chutě spojené s čajovým dýchánkem."
+    },
+    {
+      "key": "CheshireCat_009_f",
+      "en": "The fruit can be quite timid — <Lore>it rarely strays far from the base of my tree</Lore>.",
+      "cz": "Plody mohou být docela plaché – <Lore>zřídka se vzdálí od paty mého stromu</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Plody mohou být docela plaché – <Lore>zřídka se vzdálí od paty mého stromu</Lore>."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Cool, thanks!",
+      "cz": "Paráda, díky!",
+      "source": "pre_existing",
+      "original_cz": "Paráda, díky!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'm kinda surprised to see this as an ingredient in dog treats...",
+      "cz": "Docela mě překvapuje, že tohle vidím jako ingredienci v psích pamlscích...",
+      "source": "pre_existing",
+      "original_cz": "Docela mě překvapuje, že tohle vidím jako ingredienci v psích pamlscích..."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Have you spoken with Remy recently?",
+      "cz": "Mluvil jsi v poslední době s Remym?",
+      "source": "pre_existing",
+      "original_cz": "Mluvil jsi v poslední době s Remym?"
+    },
+    {
+      "key": "CheshireCat_004_f",
+      "en": "I know I'm welcome! But are you?",
+      "cz": "Vím, že jsem vítán! Ale jsi i ty?",
+      "source": "pre_existing",
+      "original_cz": "Vím, že jsem vítán! Ale jsi i ty?"
+    },
+    {
+      "key": "CheshireCat_007_f",
+      "en": "I honestly don't know why I bother speaking to you sometimes.",
+      "cz": "Upřímně nevím, proč se s tebou někdy vůbec obtěžuji mluvit.",
+      "source": "pre_existing",
+      "original_cz": "Upřímně nevím, proč se s tebou někdy vůbec obtěžuji mluvit."
+    },
+    {
+      "key": "CheshireCat_008_f",
+      "en": "I don't know why I bother speaking to myself either. I never learn anything new!",
+      "cz": "Taky nevím, proč se obtěžuji mluvit sám se sebou. Nikdy se nic nového nenaučím!",
+      "source": "pre_existing",
+      "original_cz": "Taky nevím, proč se obtěžuji mluvit sám se sebou. Nikdy se nic nového nenaučím!"
+    },
+    {
+      "key": "CheshireCat_005_f",
+      "en": "Me too! Isn't it fun when everything's surprising?",
+      "cz": "Já taky! Není to zábava, když je všechno překvapivé?",
+      "source": "pre_existing",
+      "original_cz": "Já taky! Není to zábava, když je všechno překvapivé?"
+    },
+    {
+      "key": "CheshireCat_006_f",
+      "en": "Was it recently? Or just this morning? Either way... No.",
+      "cz": "Bylo to nedávno? Nebo jen dnes ráno? Tak či onak... Ne.",
+      "source": "pre_existing",
+      "original_cz": "Bylo to nedávno? Nebo jen dnes ráno? Tak či onak... Ne."
+    }
+  ],
+  "LadyTramp_CheshireCat/CheshireCat_VLG_Lady_010_VLG_Lady_010_TalkToDialog02.locbin": [
+    {
+      "key": "CheshireCat_000_f",
+      "en": "How lovely!",
+      "cz": "Jak krásné!",
+      "source": "pre_existing",
+      "original_cz": "Jak krásné!"
+    },
+    {
+      "key": "CheshireCat_002_f",
+      "en": "Yeah, that's even fancier than the bowl you've got back home, Pidge.",
+      "cz": "Jo, to je ještě luxusnější než ta mísa, co máš doma, Pidge.",
+      "source": "pre_existing",
+      "original_cz": "Jo, to je ještě luxusnější než ta mísa, co máš doma, Pidge."
+    },
+    {
+      "key": "CheshireCat_001_f",
+      "en": "Hmm, that smells...",
+      "cz": "Hmm, to voní...",
+      "source": "pre_existing",
+      "original_cz": "Hmm, to voní..."
+    },
+    {
+      "key": "CheshireCat_006_f",
+      "en": "Delicious? Intriguing? I don't have much experience cooking dog food. Ya gotta help me out here! Dig in!",
+      "cz": "Lahodné? Zajímavé? Nemám moc zkušeností s vařením psího krmiva. Musíte mi s tím pomoct! Pusťte se do toho!",
+      "source": "pre_existing",
+      "original_cz": "Lahodné? Zajímavé? Nemám moc zkušeností s vařením psího krmiva. Musíte mi s tím pomoct! Pusťte se do toho!"
+    },
+    {
+      "key": "CheshireCat_003_f",
+      "en": "That's quite tasty! I like it very much, Mr. Remy the Rat.",
+      "cz": "To je docela chutné! Moc mi to chutná, pane kryso Remy.",
+      "source": "pre_existing",
+      "original_cz": "To je docela chutné! Moc mi to chutná, pane kryso Remy."
+    },
+    {
+      "key": "CheshireCat_004_f",
+      "en": "Ack! Blegh! Phtooey!",
+      "cz": "Fuj! Fuj! Fíha!",
+      "source": "pre_existing",
+      "original_cz": "Fuj! Fuj! Fíha!"
+    },
+    {
+      "key": "CheshireCat_005_f",
+      "en": "Oh, the cat doesn't like dog food.",
+      "cz": "Ach, ta kočka nemá ráda psí žrádlo.",
+      "source": "pre_existing",
+      "original_cz": "Ach, ta kočka nemá ráda psí žrádlo."
+    },
+    {
+      "key": "CheshireCat_007_f",
+      "en": "Buster, you gotta widen your palate. I've dipped into a yard or two and taken a nibble at a cat's kibble. Wasn't half bad.",
+      "cz": "Bustere, musíš si rozšířit chuťové pohárky. Zakousl jsem se do metru nebo dvou a ochutnal kočičí granule. Nebylo to ani zdaleka špatné.",
+      "source": "pre_existing",
+      "original_cz": "Bustere, musíš si rozšířit chuťové pohárky. Zakousl jsem se do metru nebo dvou a ochutnal kočičí granule. Nebylo to ani zdaleka špatné."
+    },
+    {
+      "key": "CheshireCat_008_f",
+      "en": "Yes, but I'm a cheshire cat, you see. I wouldn't feed that to the Queen of Hearts herself.",
+      "cz": "Ano, ale já jsem kocour z Cheshire, víš? To bych nedal ani samotné Srdcové královně.",
+      "source": "pre_existing",
+      "original_cz": "Ano, ale já jsem kocour z Cheshire, víš? To bych nedal ani samotné Srdcové královně."
+    },
+    {
+      "key": "CheshireCat_009_f",
+      "en": "Unless I was trying to make her angry, of course!",
+      "cz": "Pokud jsem ji samozřejmě nezkoušel rozzlobit!",
+      "source": "pre_existing",
+      "original_cz": "Pokud jsem ji samozřejmě nezkoušel rozzlobit!"
+    },
+    {
+      "key": "CheshireCat_010_f",
+      "en": "Well, then stay away from our food dish. We won't eat your food, and you don't eat ours.",
+      "cz": "Tak se od našeho jídla drž dál. My nebudeme jíst vaše jídlo a vy nebudete jíst to naše.",
+      "source": "pre_existing",
+      "original_cz": "Tak se od našeho jídla drž dál. My nebudeme jíst vaše jídlo a vy nebudete jíst to naše."
+    },
+    {
+      "key": "CheshireCat_011_f",
+      "en": "How sensible. But shall I make sense? Perhaps I'll ask myself later.",
+      "cz": "Jak rozumné. Ale budu mít smysl? Možná se zeptám sám sebe později.",
+      "source": "pre_existing",
+      "original_cz": "Jak rozumné. Ale budu mít smysl? Možná se zeptám sám sebe později."
+    },
+    {
+      "key": "CheshireCat_012_f",
+      "en": "I'm trying to like cats as well as rats, but he makes it SO difficult!",
+      "cz": "Snažím se mít ráda kočky i krysy, ale on mi to TAK moc dělá těžké!",
+      "source": "pre_existing",
+      "original_cz": "Snažím se mít ráda kočky i krysy, ale on mi to TAK moc dělá těžké!"
+    },
+    {
+      "key": "CheshireCat_013_f",
+      "en": "Thank you, {PlayerName}! And thank you, Remy!",
+      "cz": "Děkuji, {PlayerName}! A děkuji, Remy!",
+      "source": "pre_existing",
+      "original_cz": "Děkuji, {PlayerName}! A děkuji, Remy!"
+    }
+  ]
+}

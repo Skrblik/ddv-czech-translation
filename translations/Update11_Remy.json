@@ -1,0 +1,232 @@
+{
+  "Update11_Remy/Remy_VLG_Mush_040_VLG_Mush_040_TalkTo03.locbin": [
+    {
+      "key": "Remy_001_f",
+      "en": "{PlayerName}! Mushu told me about the meeting, and he said you'd be by. I have a GREAT idea for something to serve.",
+      "cz": "{PlayerName}! Mushu mi řekl o schůzce a říkal, že se tam přijdeš podívat. Mám SKVĚLÝ nápad, co bych mohl servírovat.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}! Mushu mi řekl o schůzce a říkal, že se tam přijdeš podívat. Mám SKVĚLÝ nápad, co bych mohl servírovat."
+    },
+    {
+      "key": "Remy_002_f",
+      "en": "A <ActivityItem>Miniature Leek Soup</ActivityItem>. Nourishing, delicious, and of course, a nice small portion size!",
+      "cz": "A <ActivityItem>Miniaturní pórková polévka</ActivityItem>. Výživná, lahodná a samozřejmě i malá porce!",
+      "source": "pre_existing",
+      "original_cz": "A <ActivityItem>Miniaturní pórková polévka</ActivityItem>. Výživná, lahodná a samozřejmě i malá porce!"
+    },
+    {
+      "key": "Remy_003_f",
+      "en": "First, we'll need to <Lore>grow some miniature leeks</Lore>. Because they're so small, these special leeks are BURSTING with flavor!",
+      "cz": "Nejdřív si budeme muset <Lore>vypěstovat miniaturní pórek</Lore>. Protože je tak malý, tento speciální pórek PŘEKRYJE chutí!",
+      "source": "pre_existing",
+      "original_cz": "Nejdřív si budeme muset <Lore>vypěstovat miniaturní pórek</Lore>. Protože je tak malý, tento speciální pórek PŘEKRYJE chutí!"
+    },
+    {
+      "key": "Remy_004_f",
+      "en": "We'll also need other Ingredients, but I know you've got that handled.",
+      "cz": "Budeme také potřebovat další ingredience, ale vím, že s tím máš postaráno.",
+      "source": "pre_existing",
+      "original_cz": "Budeme také potřebovat další ingredience, ale vím, že s tím máš postaráno."
+    }
+  ],
+  "Update11_Remy/Remy_VLG_Mush_040_VLG_Mush_040_TalkTo11.locbin": [
+    {
+      "key": "Remy_001_f",
+      "en": "{PlayerName}, am I glad to see you! We need to talk about Scar!",
+      "cz": "{PlayerName}, rád tě vidím! Musíme si promluvit o Scarovi!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, rád tě vidím! Musíme si promluvit o Scarovi!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I was just coming to talk about him!",
+      "cz": "Právě jsem si o něm chtěl promluvit!",
+      "source": "pre_existing",
+      "original_cz": "Právě jsem si o něm chtěl promluvit!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Oh no... What did he do?",
+      "cz": "Ach ne... Co to udělal?",
+      "source": "pre_existing",
+      "original_cz": "Ach ne... Co to udělal?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Did he try to eat you?!",
+      "cz": "Snažil se tě sníst?!",
+      "source": "pre_existing",
+      "original_cz": "Snažil se tě sníst?!"
+    },
+    {
+      "key": "Remy_003_f",
+      "en": "Then, you've got great timing.",
+      "cz": "Pak máš skvělé načasování.",
+      "source": "pre_existing",
+      "original_cz": "Pak máš skvělé načasování."
+    },
+    {
+      "key": "Remy_005_f",
+      "en": "Scar has been a TERRIBLE customer in the restaurant lately.",
+      "cz": "Scar byl v poslední době v restauraci HROZNÝ zákazník.",
+      "source": "pre_existing",
+      "original_cz": "Scar byl v poslední době v restauraci HROZNÝ zákazník."
+    },
+    {
+      "key": "Remy_006_f",
+      "en": "He keeps ordering a dish, eating most of it, and then sending the last bite back saying it was no good.",
+      "cz": "Pořád si objednává jídlo, sní většinu a pak poslední sousto posílá zpět s tím, že nebylo dobré.",
+      "source": "pre_existing",
+      "original_cz": "Pořád si objednává jídlo, sní většinu a pak poslední sousto posílá zpět s tím, že nebylo dobré."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Unacceptable behavior!",
+      "cz": "Nepřijatelné chování!",
+      "source": "pre_existing",
+      "original_cz": "Nepřijatelné chování!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Did you talk to him?",
+      "cz": "Mluvil jsi s ním?",
+      "source": "pre_existing",
+      "original_cz": "Mluvil jsi s ním?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Isn't it \"the customer is always right\"?",
+      "cz": "Není to náhodou „zákazník má vždycky pravdu“?",
+      "source": "pre_existing",
+      "original_cz": "Není to náhodou „zákazník má vždycky pravdu“?"
+    },
+    {
+      "key": "Remy_008_f",
+      "en": "That's not even the worst part!",
+      "cz": "To ještě není to nejhorší!",
+      "source": "pre_existing",
+      "original_cz": "To ještě není to nejhorší!"
+    },
+    {
+      "key": "Remy_011_f",
+      "en": "I tried to talk to him. I told him I don't mind cooking food for him — everyone needs to eat! But complaining just so you don't have to pay is pretty rude.",
+      "cz": "Snažila jsem se s ním mluvit. Řekla jsem mu, že mi nevadí, když mu uvařím – každý by měl jíst! Ale stěžovat si jen proto, abyste nemusel platit, je dost neslušné.",
+      "source": "pre_existing",
+      "original_cz": "Snažila jsem se s ním mluvit. Řekla jsem mu, že mi nevadí, když mu uvařím – každý by měl jíst! Ale stěžovat si jen proto, abyste nemusel platit, je dost neslušné."
+    },
+    {
+      "key": "Remy_012_f",
+      "en": "His exact words were, \"And what will a mere rodent like you do against a mighty king?\"",
+      "cz": "Jeho přesná slova byla: „A co pouhý hlodavec jako ty udělá proti mocnému králi?“",
+      "source": "pre_existing",
+      "original_cz": "Jeho přesná slova byla: „A co pouhý hlodavec jako ty udělá proti mocnému králi?“"
+    },
+    {
+      "key": "Remy_013_f",
+      "en": "Then he knocked his plate onto the floor. It shattered, and he left.",
+      "cz": "Pak srazil talíř na podlahu. Roztříštil se a on odešel.",
+      "source": "pre_existing",
+      "original_cz": "Pak srazil talíř na podlahu. Roztříštil se a on odešel."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "I'll report this back to Mushu.",
+      "cz": "Nahlásím to Mushuovi.",
+      "source": "pre_existing",
+      "original_cz": "Nahlásím to Mushuovi."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Scar knows how to make an exit!",
+      "cz": "Scar ví, jak se dostat pryč!",
+      "source": "pre_existing",
+      "original_cz": "Scar ví, jak se dostat pryč!"
+    },
+    {
+      "key": "Remy_015_f",
+      "en": "He was worried Scar was picking on smaller Villagers.",
+      "cz": "Měl obavy, že si Scar vybírá menší vesničany.",
+      "source": "pre_existing",
+      "original_cz": "Měl obavy, že si Scar vybírá menší vesničany."
+    },
+    {
+      "key": "Remy_016_f",
+      "en": "Don't worry, Remy. We'll find a way to get Scar to stop this.",
+      "cz": "Neboj se, Remy. Najdeme způsob, jak přimět Scara, aby to zastavil.",
+      "source": "pre_existing",
+      "original_cz": "Neboj se, Remy. Najdeme způsob, jak přimět Scara, aby to zastavil."
+    },
+    {
+      "key": "Remy_014_f",
+      "en": "*sigh* Tell that to my dishes.",
+      "cz": "*povzdech* Řekni to mému nádobí.",
+      "source": "pre_existing",
+      "original_cz": "*povzdech* Řekni to mému nádobí."
+    },
+    {
+      "key": "Remy_007_f",
+      "en": "The first couple of times I didn't do anything... but the fifth time it happened?",
+      "cz": "Prvních párkrát jsem nic neudělal... ale popáté se to stalo?",
+      "source": "pre_existing",
+      "original_cz": "Prvních párkrát jsem nic neudělal... ale popáté se to stalo?"
+    },
+    {
+      "key": "Remy_009_f",
+      "en": "Sure. But the full quote is: \"The customer is always right in matters of taste.\"",
+      "cz": "Jistě. Ale celý citát zní: „V otázkách vkusu má zákazník vždycky pravdu.“",
+      "source": "pre_existing",
+      "original_cz": "Jistě. Ale celý citát zní: „V otázkách vkusu má zákazník vždycky pravdu.“"
+    },
+    {
+      "key": "Remy_010_f",
+      "en": "And I'm pretty sure Scar liked the taste of the food plenty... He just didn't want to pay.",
+      "cz": "A jsem si docela jistý, že Scarovi jídlo moc chutnalo... Jen nechtěl platit.",
+      "source": "pre_existing",
+      "original_cz": "A jsem si docela jistý, že Scarovi jídlo moc chutnalo... Jen nechtěl platit."
+    },
+    {
+      "key": "Remy_002_f",
+      "en": "Nothing truly evil, but...",
+      "cz": "Nic skutečně zlého, ale...",
+      "source": "pre_existing",
+      "original_cz": "Nic skutečně zlého, ale..."
+    },
+    {
+      "key": "Remy_004_f",
+      "en": "What? No. No... You scared him off of that, I think.",
+      "cz": "Cože? Ne. Ne... Myslím, že jsi ho tím odstrašila.",
+      "source": "pre_existing",
+      "original_cz": "Cože? Ne. Ne... Myslím, že jsi ho tím odstrašila."
+    }
+  ],
+  "Update11_Remy/Remy_VLG_Mush_060_VLG_Mush_060_TalkTo01.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "Oh hey, {PlayerName}!",
+      "cz": "Ach jo, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Ach jo, {PlayerName}!"
+    },
+    {
+      "key": "Remy_001_f",
+      "en": "I'm having a GREAT time! Did you know Chinese cooking traditions go back more than 5,000 years? It's so rich!",
+      "cz": "Bavím se SKVĚLE! Věděli jste, že čínské kulinářské tradice sahají více než 5 000 let do minulosti? Je to tak bohaté!",
+      "source": "pre_existing",
+      "original_cz": "Bavím se SKVĚLE! Věděli jste, že čínské kulinářské tradice sahají více než 5 000 let do minulosti? Je to tak bohaté!"
+    },
+    {
+      "key": "Remy_002_f",
+      "en": "The Sichuan peppercorns, the five-spice, the vinegars! It's a flavor paradise!",
+      "cz": "Sečuánský pepř, pětidruhové koření, octy! Je to ráj chutí!",
+      "source": "pre_existing",
+      "original_cz": "Sečuánský pepř, pětidruhové koření, octy! Je to ráj chutí!"
+    },
+    {
+      "key": "Remy_003_f",
+      "en": "You gotta try some for yourself! Here — you can make some VERY tasty <ActivityItem>Sesame Balls</ActivityItem> with these.",
+      "cz": "Musíš si to sám vyzkoušet! Tady – z nich si můžeš udělat VELMI chutné <ActivityItem>sezamové kuličky</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Musíš si to sám vyzkoušet! Tady – z nich si můžeš udělat VELMI chutné <ActivityItem>sezamové kuličky</ActivityItem>."
+    }
+  ]
+}

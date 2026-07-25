@@ -1,0 +1,414 @@
+{
+  "MonstersInc_Scrooge/Scrooge_VLG_Mike_020_VLG_Mike_020_TalkTo01.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Why, {PlayerName}, what's this you're bringin' me?",
+      "cz": "Proč, {PlayerName}, co mi to neseš?",
+      "source": "pre_existing",
+      "original_cz": "Proč, {PlayerName}, co mi to neseš?"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "It's the Valley's hottest new cologne! Designed by Mike Wazowski and yours truly.",
+      "cz": "Je to nejžhavější nová kolínská v údolí! Navržena Mikem Wazowským a Vámi.",
+      "source": "pre_existing",
+      "original_cz": "Je to nejžhavější nová kolínská v údolí! Navržena Mikem Wazowským a Vámi."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Go on, give it a whiff!",
+      "cz": "No tak, přičichni si k tomu!",
+      "source": "pre_existing",
+      "original_cz": "No tak, přičichni si k tomu!"
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Why, certainly!",
+      "cz": "No jistě!",
+      "source": "pre_existing",
+      "original_cz": "No jistě!"
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "*sniff sniff* ...",
+      "cz": "*čich čich* ...",
+      "source": "pre_existing",
+      "original_cz": "*čich čich* ..."
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "What do you think?",
+      "cz": "Co si o tom myslíš?",
+      "source": "pre_existing",
+      "original_cz": "Co si o tom myslíš?"
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "{PlayerName}... I cannae find the words for how HORRID this smells!",
+      "cz": "{PlayerName}... Nemůžu najít slova, abych popsal, jak HRŮZNĚ to smrdí!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}... Nemůžu najít slova, abych popsal, jak HRŮZNĚ to smrdí!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Oh, that's a shame...",
+      "cz": "To je škoda...",
+      "source": "pre_existing",
+      "original_cz": "To je škoda..."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Try and find some. We want feedback!",
+      "cz": "Zkuste nějaké najít. Chceme zpětnou vazbu!",
+      "source": "pre_existing",
+      "original_cz": "Zkuste nějaké najít. Chceme zpětnou vazbu!"
+    },
+    {
+      "key": "Scrooge_008_f",
+      "en": "Wait just a moment, {PlayerName}; I think I do have the words...",
+      "cz": "Počkej chvilku, {PlayerName}; Myslím, že mám slova...",
+      "source": "pre_existing",
+      "original_cz": "Počkej chvilku, {PlayerName}; Myslím, že mám slova..."
+    },
+    {
+      "key": "Scrooge_018_f",
+      "en": "Try <Lore>Scar</Lore> and <Lore>Vanellope</Lore>. That seems like a disparate and representative sample to me!",
+      "cz": "Zkuste <Lore>Scar</Lore> a <Lore>Vanellope</Lore>. To mi přijde jako nesourodý a reprezentativní vzorek!",
+      "source": "pre_existing",
+      "original_cz": "Zkuste <Lore>Scar</Lore> a <Lore>Vanellope</Lore>. To mi přijde jako nesourodý a reprezentativní vzorek!"
+    },
+    {
+      "key": "Scrooge_009_f",
+      "en": "It smells worse than when my three great-nephews were all in nappies and got the stomach flu!",
+      "cz": "Smrdí to hůř, než když moji tři prasynovci nosili plenky a dostali žaludeční chřipku!",
+      "source": "pre_existing",
+      "original_cz": "Smrdí to hůř, než když moji tři prasynovci nosili plenky a dostali žaludeční chřipku!"
+    },
+    {
+      "key": "Scrooge_010_f",
+      "en": "Oh...",
+      "cz": "Ach...",
+      "source": "pre_existing",
+      "original_cz": "Ach..."
+    },
+    {
+      "key": "Scrooge_011_f",
+      "en": "AND it smells like Goofy left his catch in the sun for a week!",
+      "cz": "A smrdí to, jako by Goofy nechal svůj úlovek týden na slunci!",
+      "source": "pre_existing",
+      "original_cz": "A smrdí to, jako by Goofy nechal svůj úlovek týden na slunci!"
+    },
+    {
+      "key": "Scrooge_013_f",
+      "en": "Actually, funny you say that—",
+      "cz": "Vlastně je vtipné, že to říkáš—",
+      "source": "pre_existing",
+      "original_cz": "Vlastně je vtipné, že to říkáš—"
+    },
+    {
+      "key": "Scrooge_014_f",
+      "en": "Still... I am a businessman...",
+      "cz": "Přesto... Jsem obchodník...",
+      "source": "pre_existing",
+      "original_cz": "Přesto... Jsem obchodník..."
+    },
+    {
+      "key": "Scrooge_015_f",
+      "en": "If ya can point me to a Villager that likes wearing your cologne, I'll consider stocking it. IF you put a triple seal on the bottles!",
+      "cz": "Pokud mi můžete odkázat na nějakého vesničana, který rád nosí vaši kolínskou, zvážím její skladování. POKUD na lahvičky dáte trojité těsnění!",
+      "source": "pre_existing",
+      "original_cz": "Pokud mi můžete odkázat na nějakého vesničana, který rád nosí vaši kolínskou, zvážím její skladování. POKUD na lahvičky dáte trojité těsnění!"
+    },
+    {
+      "key": "Scrooge_016_f",
+      "en": "The customer is always right, after all!",
+      "cz": "Zákazník má koneckonců vždycky pravdu!",
+      "source": "pre_existing",
+      "original_cz": "Zákazník má koneckonců vždycky pravdu!"
+    },
+    {
+      "key": "Scrooge_017_f",
+      "en": "Okay, I can work with this.",
+      "cz": "Dobře, s tím můžu pracovat.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, s tím můžu pracovat."
+    }
+  ],
+  "MonstersInc_Scrooge/Scrooge_VLG_Mike_040_VLG_Mike_040_TalkTo02.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "So... I hear that you're Vanellope's manager now?",
+      "cz": "Takže... slyšel jsem, že jsi teď manažerem Vanellope?",
+      "source": "pre_existing",
+      "original_cz": "Takže... slyšel jsem, že jsi teď manažerem Vanellope?"
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Aye. The lass needed representation, and who am I to turn down a nice percentage?",
+      "cz": "Ano. Ta holka potřebovala zastoupení, a kdo jsem já, abych odmítl pěkné procento?",
+      "source": "pre_existing",
+      "original_cz": "Ano. Ta holka potřebovala zastoupení, a kdo jsem já, abych odmítl pěkné procento?"
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "Is this the same kind of percentage that Gaston is giving you?",
+      "cz": "Je to stejné procento, jaké ti dává Gaston?",
+      "source": "pre_existing",
+      "original_cz": "Je to stejné procento, jaké ti dává Gaston?"
+    },
+    {
+      "key": "Scrooge_007_f",
+      "en": "I... er... certainly hope not!",
+      "cz": "Já... ehm... rozhodně doufám, že ne!",
+      "source": "pre_existing",
+      "original_cz": "Já... ehm... rozhodně doufám, že ne!"
+    },
+    {
+      "key": "Scrooge_009_f",
+      "en": "Now, acting as Vanellope's manager, I must inform you that the star has a contract rider that must be followed.",
+      "cz": "Jako manažer Vanellope vás musím informovat, že hvězda má smluvní dodatek, který je nutné dodržovat.",
+      "source": "pre_existing",
+      "original_cz": "Jako manažer Vanellope vás musím informovat, že hvězda má smluvní dodatek, který je nutné dodržovat."
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Should her required items not be provided, she'll not perform.",
+      "cz": "Pokud jí nebudou poskytnuty požadované věci, nebude hrát.",
+      "source": "pre_existing",
+      "original_cz": "Pokud jí nebudou poskytnuty požadované věci, nebude hrát."
+    },
+    {
+      "key": "Scrooge_011_f",
+      "en": "How demanding!",
+      "cz": "Jak náročné!",
+      "source": "pre_existing",
+      "original_cz": "Jak náročné!"
+    },
+    {
+      "key": "Scrooge_012_f",
+      "en": "Between you and me, {PlayerName}, I quite agree.",
+      "cz": "Mezi námi, {PlayerName}, naprosto souhlasím.",
+      "source": "pre_existing",
+      "original_cz": "Mezi námi, {PlayerName}, naprosto souhlasím."
+    },
+    {
+      "key": "Scrooge_013_f",
+      "en": "But the talent makes the rules!",
+      "cz": "Ale talent určuje pravidla!",
+      "source": "pre_existing",
+      "original_cz": "Ale talent určuje pravidla!"
+    },
+    {
+      "key": "Player_001_f",
+      "en": "So what does she want?",
+      "cz": "Tak co chce?",
+      "source": "pre_existing",
+      "original_cz": "Tak co chce?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "A scale model of Dreamlight Valley in candy?",
+      "cz": "Model Údolí snů v bonbónech?",
+      "source": "pre_existing",
+      "original_cz": "Model Údolí snů v bonbónech?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "An arcade machine with every game in existence?",
+      "cz": "Arkádový automat se všemi existujícími hrami?",
+      "source": "pre_existing",
+      "original_cz": "Arkádový automat se všemi existujícími hrami?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "For everyone in the Valley to dress like Ralph?",
+      "cz": "Aby se všichni v údolí oblékali jako Ralph?",
+      "source": "pre_existing",
+      "original_cz": "Aby se všichni v údolí oblékali jako Ralph?"
+    },
+    {
+      "key": "Scrooge_016_f",
+      "en": "Och, no. Nothin' too extravagant.",
+      "cz": "Ach ne. Nic moc extravagantního.",
+      "source": "pre_existing",
+      "original_cz": "Ach ne. Nic moc extravagantního."
+    },
+    {
+      "key": "Scrooge_017_f",
+      "en": "She's grown rather fond of <ActivityItem>Cheesecake</ActivityItem>. So, be sure she has some on hand.",
+      "cz": "Docela si oblíbila <ActivityItem>Cheesecake</ActivityItem>. Takže se ujistěte, že ho má po ruce.",
+      "source": "pre_existing",
+      "original_cz": "Docela si oblíbila <ActivityItem>Cheesecake</ActivityItem>. Takže se ujistěte, že ho má po ruce."
+    },
+    {
+      "key": "Scrooge_018_f",
+      "en": "Okay, I guess I can swing that.",
+      "cz": "Dobře, asi to zvládnu.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, asi to zvládnu."
+    },
+    {
+      "key": "Scrooge_019_f",
+      "en": "Talk to you later!",
+      "cz": "Uvidíme se později!",
+      "source": "pre_existing",
+      "original_cz": "Uvidíme se později!"
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "Well, hope you make your money's worth.",
+      "cz": "Doufám, že se vám vaše peníze vyplatí.",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že se vám vaše peníze vyplatí."
+    },
+    {
+      "key": "Scrooge_008_f",
+      "en": "As do I!",
+      "cz": "Stejně jako já!",
+      "source": "pre_existing",
+      "original_cz": "Stejně jako já!"
+    }
+  ],
+  "MonstersInc_Scrooge/Scrooge_VLG_Sull_010_VLG_Sull_010_TalkTo01.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Ah, {PlayerName}, what can I do for you?",
+      "cz": "Aha, {PlayerName}, co pro tebe můžu udělat?",
+      "source": "pre_existing",
+      "original_cz": "Aha, {PlayerName}, co pro tebe můžu udělat?"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "I'm helping Sulley bring back something called Monster Movie Night.",
+      "cz": "Pomáhám Sulleymu vrátit se k něčemu, čemu se říká Monster Movie Night.",
+      "source": "pre_existing",
+      "original_cz": "Pomáhám Sulleymu vrátit se k něčemu, čemu se říká Monster Movie Night."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "He was wondering where your rental videotapes went.",
+      "cz": "Zajímalo ho, kam se poděly vaše půjčené videokazety.",
+      "source": "pre_existing",
+      "original_cz": "Zajímalo ho, kam se poděly vaše půjčené videokazety."
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "Hmm... I did see him lookin' around the shop earlier.",
+      "cz": "Hmm... Viděl jsem ho, jak se předtím rozhlížel po obchodě.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Viděl jsem ho, jak se předtím rozhlížel po obchodě."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Well, now you know what he was looking for!",
+      "cz": "No, teď už víte, co hledal!",
+      "source": "pre_existing",
+      "original_cz": "No, teď už víte, co hledal!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Why didn't you talk to him?",
+      "cz": "Proč jsi s ním nemluvil?",
+      "source": "pre_existing",
+      "original_cz": "Proč jsi s ním nemluvil?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I'm surprised you didn't urge him to buy something.",
+      "cz": "Překvapuje mě, že jsi ho nenabádal, aby si něco koupil.",
+      "source": "pre_existing",
+      "original_cz": "Překvapuje mě, že jsi ho nenabádal, aby si něco koupil."
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "Why didn't he just ask me?",
+      "cz": "Proč se mě prostě nezeptal?",
+      "source": "pre_existing",
+      "original_cz": "Proč se mě prostě nezeptal?"
+    },
+    {
+      "key": "Scrooge_016_f",
+      "en": "I guess I'll have to ask each of them until I find who has it... Thanks, Mr. McDuck!",
+      "cz": "Asi se budu muset zeptat každého z nich, dokud nezjistím, kdo to má... Díky, pane McDucku!",
+      "source": "pre_existing",
+      "original_cz": "Asi se budu muset zeptat každého z nich, dokud nezjistím, kdo to má... Díky, pane McDucku!"
+    },
+    {
+      "key": "Scrooge_009_f",
+      "en": "Sulley didn't want to bother you.",
+      "cz": "Sulley tě nechtěl obtěžovat.",
+      "source": "pre_existing",
+      "original_cz": "Sulley tě nechtěl obtěžovat."
+    },
+    {
+      "key": "Scrooge_010_f",
+      "en": "Nonsense. I'm always here for my customers. Especially the paying ones!",
+      "cz": "Nesmysl. Vždycky jsem tu pro své zákazníky. Obzvlášť pro ty platící!",
+      "source": "pre_existing",
+      "original_cz": "Nesmysl. Vždycky jsem tu pro své zákazníky. Obzvlášť pro ty platící!"
+    },
+    {
+      "key": "Scrooge_011_f",
+      "en": "As for the tapes, I'm afraid I cannae offer that service anymore.",
+      "cz": "Co se týče nahrávek, obávám se, že tuto službu už nemohu nabídnout.",
+      "source": "pre_existing",
+      "original_cz": "Co se týče nahrávek, obávám se, že tuto službu už nemohu nabídnout."
+    },
+    {
+      "key": "Scrooge_012_f",
+      "en": "How come?",
+      "cz": "Jak to?",
+      "source": "pre_existing",
+      "original_cz": "Jak to?"
+    },
+    {
+      "key": "Scrooge_013_f",
+      "en": "Because I was always havin' to chase the Villagers down to get 'em back! Eventually, I decided to cut my losses.",
+      "cz": "Protože jsem musel pořád honit vesničany, abych je dostal zpátky! Nakonec jsem se rozhodl snížit své ztráty.",
+      "source": "pre_existing",
+      "original_cz": "Protože jsem musel pořád honit vesničany, abych je dostal zpátky! Nakonec jsem se rozhodl snížit své ztráty."
+    },
+    {
+      "key": "Scrooge_014_f",
+      "en": "I suspect some Villagers still have tapes from before the Forgetting. And, if I remember correctly, one of 'em would be perfect for Monster Movie Night. \"20,000 Giant Arachnids Under the Bed.\"",
+      "cz": "Mám podezření, že někteří vesničané mají stále kazety z doby před Zapomněním. A pokud si dobře vzpomínám, jedna z nich by se perfektně hodila na Večer filmů o monstrech. „20 000 obřích pavoukovců pod postelí.“",
+      "source": "pre_existing",
+      "original_cz": "Mám podezření, že někteří vesničané mají stále kazety z doby před Zapomněním. A pokud si dobře vzpomínám, jedna z nich by se perfektně hodila na Večer filmů o monstrech. „20 000 obřích pavoukovců pod postelí.“"
+    },
+    {
+      "key": "Scrooge_015_f",
+      "en": "I don't remember exactly who has it, but it's either Ursula, Mickey, or Goofy.",
+      "cz": "Nepamatuji si přesně, kdo to má, ale je to buď Ursula, Mickey nebo Goofy.",
+      "source": "pre_existing",
+      "original_cz": "Nepamatuji si přesně, kdo to má, ale je to buď Ursula, Mickey nebo Goofy."
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Hmm... Though I do recall that whoever rented it did it for a special occasion with a special someone.",
+      "cz": "Hmm... I když si vzpomínám, že kdokoli si to pronajal, udělal to pro zvláštní příležitost s někým zvláštním.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... I když si vzpomínám, že kdokoli si to pronajal, udělal to pro zvláštní příležitost s někým zvláštním."
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "Well, I had another customer, and some Villagers don't like to be pestered while they browse.",
+      "cz": "No, měl jsem dalšího zákazníka a někteří vesničané nemají rádi, když je někdo otravuje při prohlížení zboží.",
+      "source": "pre_existing",
+      "original_cz": "No, měl jsem dalšího zákazníka a někteří vesničané nemají rádi, když je někdo otravuje při prohlížení zboží."
+    },
+    {
+      "key": "Scrooge_007_f",
+      "en": "Well, I had another customer. And they were contemplatin' a rather LARGE purchase, so I had to give 'em my undivided attention.",
+      "cz": "No, měl jsem dalšího zákazníka. A ten zvažoval docela VELKÝ nákup, takže jsem mu musel věnovat plnou pozornost.",
+      "source": "pre_existing",
+      "original_cz": "No, měl jsem dalšího zákazníka. A ten zvažoval docela VELKÝ nákup, takže jsem mu musel věnovat plnou pozornost."
+    },
+    {
+      "key": "Scrooge_008_f",
+      "en": "Why didn't Sulley ask me about the tapes?",
+      "cz": "Proč se mě Sulley nezeptal na ty pásky?",
+      "source": "pre_existing",
+      "original_cz": "Proč se mě Sulley nezeptal na ty pásky?"
+    }
+  ]
+}

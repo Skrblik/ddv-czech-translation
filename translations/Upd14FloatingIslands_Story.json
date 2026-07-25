@@ -1,0 +1,102 @@
+{
+  "Upd14FloatingIslands_Story/ORQS_Merl_030_FloatingIslands.locbin": [
+    {
+      "key": "Story!ORQS_Merl_030_FloatingIslands_Any_CompletedRequestDescription",
+      "en": "Return to Merlin.",
+      "cz": "Návrat k Merlinovi.",
+      "source": "pre_existing",
+      "original_cz": "Návrat k Merlinovi."
+    },
+    {
+      "key": "Story!ORQS_Merl_030_FloatingIslands_AvailableDescription",
+      "en": "Talk to Merlin.",
+      "cz": "Promluvte si s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Merlinem."
+    },
+    {
+      "key": "Story!ORQS_Merl_030_FloatingIslands_CompletedStoryDescription",
+      "en": "You decorate the Dreamlight Library and relocate it to the floating Plaza Island. Merlin encourages you to access and decorate every Floating Island, and to make them your own.",
+      "cz": "Vyzdobíte Knihovnu snů a přemístíte ji na plovoucí ostrov Plaza. Merlin vás povzbuzuje, abyste si každý plovoucí ostrov vyzdobili a přizpůsobili si ho.",
+      "source": "pre_existing",
+      "original_cz": "Vyzdobíte Knihovnu snů a přemístíte ji na plovoucí ostrov Plaza. Merlin vás povzbuzuje, abyste si každý plovoucí ostrov vyzdobili a přizpůsobili si ho."
+    },
+    {
+      "key": "Story!ORQS_Merl_030_FloatingIslands_DisplayName",
+      "en": "Islands in the Sky",
+      "cz": "Ostrovy na obloze",
+      "source": "pre_existing",
+      "original_cz": "Ostrovy na obloze"
+    },
+    {
+      "key": "Story!ORQS_Merl_030_FloatingIslands_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Talk to {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Talk to {TargetNPC}."
+    },
+    {
+      "key": "Story!ORQS_Merl_030_FloatingIslands_Group02_Step02_VisitArea01_StepDescription",
+      "en": "(You can also press {input_mainmenu} to access the Valley map and Fast Travel menu.)",
+      "cz": "(Můžete také stisknout {input_mainmenu} pro přístup k mapě údolí a nabídce Rychlé cestování.)",
+      "source": "pre_existing",
+      "original_cz": "(Můžete také stisknout {input_mainmenu} pro přístup k mapě údolí a nabídce Rychlé cestování.)"
+    },
+    {
+      "key": "Story!ORQS_Merl_030_FloatingIslands_Group02_StepDescription",
+      "en": "Use a Wishing Well to travel to the floating Plaza Island.",
+      "cz": "Použijte Studnu přání k cestě na plovoucí ostrov Plaza.",
+      "source": "pre_existing",
+      "original_cz": "Použijte Studnu přání k cestě na plovoucí ostrov Plaza."
+    },
+    {
+      "key": "Story!ORQS_Merl_030_FloatingIslands_Group02_StoryDescription",
+      "en": "Merlin tells you that he has discovered a way to travel to the islands that float about Dreamlight Valley using Wishing Wells. He asks you to use a Well to travel to the floating Plaza Island and meet him there.",
+      "cz": "Merlin vám řekne, že objevil způsob, jak se pomocí Studen přání dostat na ostrovy, které se vznášejí v Údolí snů. Požádá vás, abyste pomocí Studny cestovali na plovoucí ostrov Plaza a setkali se s ním tam.",
+      "source": "pre_existing",
+      "original_cz": "Merlin vám řekne, že objevil způsob, jak se pomocí Studen přání dostat na ostrovy, které se vznášejí v Údolí snů. Požádá vás, abyste pomocí Studny cestovali na plovoucí ostrov Plaza a setkali se s ním tam."
+    },
+    {
+      "key": "Story!ORQS_Merl_030_FloatingIslands_Group03_Step03_TalkToCharacter02_StepDescription",
+      "en": "Talk to {TargetNPC} on the floating Plaza Island.",
+      "cz": "Promluvte si s {TargetNPC} na plovoucím ostrově Plaza.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC} na plovoucím ostrově Plaza."
+    },
+    {
+      "key": "Story!ORQS_Merl_030_FloatingIslands_Group04_Step04_VisitArea02_StepDescription",
+      "en": "Return to the floating Plaza Island.",
+      "cz": "Vraťte se na plovoucí ostrov Plaza.",
+      "source": "pre_existing",
+      "original_cz": "Vraťte se na plovoucí ostrov Plaza."
+    },
+    {
+      "key": "Story!ORQS_Merl_030_FloatingIslands_Group05_Step05_Decorate01_StepDescription",
+      "en": "Use any furniture items.",
+      "cz": "Použijte libovolné kusy nábytku.",
+      "source": "pre_existing",
+      "original_cz": "Použijte libovolné kusy nábytku."
+    },
+    {
+      "key": "Story!ORQS_Merl_030_FloatingIslands_Group05_Step05_Decorate02_StepDescription",
+      "en": "Move the <Lore>Dreamlight Library</Lore> to the Plaza Island.",
+      "cz": "Přesuň <Lore>Knihovnu snů</Lore> na ostrov Plaza.",
+      "source": "pre_existing",
+      "original_cz": "Přesuň <Lore>Knihovnu snů</Lore> na ostrov Plaza."
+    },
+    {
+      "key": "Story!ORQS_Merl_030_FloatingIslands_Group05_StepDescription",
+      "en": "Decorate the floating Plaza Island:",
+      "cz": "Vyzdobte plovoucí ostrov Plaza:",
+      "source": "pre_existing",
+      "original_cz": "Vyzdobte plovoucí ostrov Plaza:"
+    },
+    {
+      "key": "Story!ORQS_Merl_030_FloatingIslands_Group05_StoryDescription",
+      "en": "Merlin invites you to decorate the first island to your heart's content, and asks you to include both landscaping and the Dreamlight Library in the decor.",
+      "cz": "Merlin vás zve, abyste si vyzdobili první ostrov dle libosti, a žádá vás, abyste do výzdoby zahrnuli jak krajinářské úpravy, tak i Knihovnu Dreamlight.",
+      "source": "pre_existing",
+      "original_cz": "Merlin vás zve, abyste si vyzdobili první ostrov dle libosti, a žádá vás, abyste do výzdoby zahrnuli jak krajinářské úpravy, tak i Knihovnu Dreamlight."
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "DarkMountainsUpdate_Goofy/Goofy_MRQS122_TheForgotten_MRQS122_TheForgotten_BringItem02.locbin": [
+    {
+      "key": "Goofy_001_f",
+      "en": "Gawrsh, you cooked the whole meal yourself?",
+      "cz": "Proboha, uvařil sis celé jídlo sám?",
+      "source": "pre_existing",
+      "original_cz": "Proboha, uvařil sis celé jídlo sám?"
+    },
+    {
+      "key": "Goofy_002_f",
+      "en": "Well, thanks, {PlayerName}. But I was hoping we could cook it together.",
+      "cz": "Díky, {PlayerName}. Ale doufal jsem, že bychom to mohli uvařit společně.",
+      "source": "pre_existing",
+      "original_cz": "Díky, {PlayerName}. Ale doufal jsem, že bychom to mohli uvařit společně."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Oh...",
+      "cz": "Ach...",
+      "source": "pre_existing",
+      "original_cz": "Ach..."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Well...",
+      "cz": "No...",
+      "source": "pre_existing",
+      "original_cz": "No..."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Sorry...",
+      "cz": "Promiňte...",
+      "source": "pre_existing",
+      "original_cz": "Promiňte..."
+    },
+    {
+      "key": "Goofy_003_f",
+      "en": "Aw, that's okay.",
+      "cz": "Ach, to je v pořádku.",
+      "source": "pre_existing",
+      "original_cz": "Ach, to je v pořádku."
+    },
+    {
+      "key": "Goofy_004_f",
+      "en": "At least we can share it together, right?",
+      "cz": "Aspoň se o to můžeme podělit, že?",
+      "source": "pre_existing",
+      "original_cz": "Aspoň se o to můžeme podělit, že?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I'm not hungry.",
+      "cz": "Nemám hlad.",
+      "source": "pre_existing",
+      "original_cz": "Nemám hlad."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I'm not hungry.",
+      "cz": "Nemám hlad.",
+      "source": "pre_existing",
+      "original_cz": "Nemám hlad."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I'm not hungry.",
+      "cz": "Nemám hlad.",
+      "source": "pre_existing",
+      "original_cz": "Nemám hlad."
+    },
+    {
+      "key": "Goofy_005_f",
+      "en": "You okay, pal?",
+      "cz": "Jsi v pořádku, kámo?",
+      "source": "pre_existing",
+      "original_cz": "Jsi v pořádku, kámo?"
+    },
+    {
+      "key": "Goofy_006_f",
+      "en": "<Forgotten>(Ugh. Like anybody would understand even if I COULD explain it to them...)</Forgotten>",
+      "cz": "<Zapomenuto>(Uf. Jako by to pochopil každý, i kdybych mu to MOHLA vysvětlit...)</Zapomenuto>",
+      "source": "pre_existing",
+      "original_cz": "<Zapomenuto>(Uf. Jako by to pochopil každý, i kdybych mu to MOHLA vysvětlit...)</Zapomenuto>"
+    },
+    {
+      "key": "Goofy_007_f",
+      "en": "I'm fine.",
+      "cz": "Jsem v pořádku.",
+      "source": "pre_existing",
+      "original_cz": "Jsem v pořádku."
+    },
+    {
+      "key": "Goofy_008_f",
+      "en": "Oh, uh... all right. But ya know I'm always here if ya need me.",
+      "cz": "Aha, ehm... dobře. Ale víš, že jsem tu vždycky, když mě budeš potřebovat.",
+      "source": "pre_existing",
+      "original_cz": "Aha, ehm... dobře. Ale víš, že jsem tu vždycky, když mě budeš potřebovat."
+    },
+    {
+      "key": "Goofy_009_f",
+      "en": "Now I'm gonna dig into this meal ya cooked for me! I can't wait to try it!",
+      "cz": "Teď se pustím do toho jídla, co jsi mi uvařil/a! Nemůžu se dočkat, až ho ochutnám!",
+      "source": "pre_existing",
+      "original_cz": "Teď se pustím do toho jídla, co jsi mi uvařil/a! Nemůžu se dočkat, až ho ochutnám!"
+    },
+    {
+      "key": "Goofy_010_f",
+      "en": "...",
+      "cz": "...",
+      "source": "pre_existing",
+      "original_cz": "..."
+    },
+    {
+      "key": "Goofy_011_f",
+      "en": "It smells kinda... interesting.",
+      "cz": "Voní to docela... zajímavě.",
+      "source": "pre_existing",
+      "original_cz": "Voní to docela... zajímavě."
+    },
+    {
+      "key": "Goofy_012_f",
+      "en": "Maybe I'll just... uh... save it for later. Must be one of those dishes that gets even better after it sits for a bit.",
+      "cz": "Možná si to prostě... ehm... nechám na později. Musí to být jedno z těch jídel, která jsou ještě lepší, když chvíli odpočinou.",
+      "source": "pre_existing",
+      "original_cz": "Možná si to prostě... ehm... nechám na později. Musí to být jedno z těch jídel, která jsou ještě lepší, když chvíli odpočinou."
+    },
+    {
+      "key": "Goofy_013_f",
+      "en": "Say, I think Minnie was lookin' for you. Ya might wanna <Lore>go see what she wants</Lore>.",
+      "cz": "Hele, myslím, že Minnie tě hledala. Možná bys chtěla <Lore>se jít podívat, co chce</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Hele, myslím, že Minnie tě hledala. Možná bys chtěla <Lore>se jít podívat, co chce</Lore>."
+    }
+  ],
+  "DarkMountainsUpdate_Goofy/Goofy_MRQS122_TheForgotten_MRQS122_TheForgotten_TalkTo03.locbin": [
+    {
+      "key": "Goofy_001_f",
+      "en": "Howdy, {PlayerName}!",
+      "cz": "Zdravím, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Zdravím, {PlayerName}!"
+    },
+    {
+      "key": "Goofy_002_f",
+      "en": "Ya know, I was just thinkin' — I can't remember the last time we shared a yummy meal together.",
+      "cz": "Víš, jen jsem si říkal – už si nepamatuju, kdy jsme naposledy spolu měli dobré jídlo.",
+      "source": "pre_existing",
+      "original_cz": "Víš, jen jsem si říkal – už si nepamatuju, kdy jsme naposledy spolu měli dobré jídlo."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm not really hungry...",
+      "cz": "Nemám moc hlad...",
+      "source": "pre_existing",
+      "original_cz": "Nemám moc hlad..."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "(I can't remember the last time something was nice...)",
+      "cz": "(Nepamatuji si, kdy naposledy bylo něco hezkého...)",
+      "source": "pre_existing",
+      "original_cz": "(Nepamatuji si, kdy naposledy bylo něco hezkého...)"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "(I just want to be ALONE.)",
+      "cz": "(Chci být jen SÁM.)",
+      "source": "pre_existing",
+      "original_cz": "(Chci být jen SÁM.)"
+    },
+    {
+      "key": "Goofy_003_f",
+      "en": "...",
+      "cz": "...",
+      "source": "pre_existing",
+      "original_cz": "..."
+    },
+    {
+      "key": "Goofy_004_f",
+      "en": "Yeah. I can't remember either.",
+      "cz": "Jo. Taky si nepamatuju.",
+      "source": "pre_existing",
+      "original_cz": "Jo. Taky si nepamatuju."
+    },
+    {
+      "key": "Goofy_005_f",
+      "en": "Well, I just fished up about the juiciest <ActivityItem>Shrimp</ActivityItem> I've ever seen.",
+      "cz": "No, právě jsem se dozvěděl něco o nejšťavnatějších <ActivityItem>krevetách</ActivityItem>, jaké jsem kdy viděl.",
+      "source": "pre_existing",
+      "original_cz": "No, právě jsem se dozvěděl něco o nejšťavnatějších <ActivityItem>krevetách</ActivityItem>, jaké jsem kdy viděl."
+    },
+    {
+      "key": "Goofy_006_f",
+      "en": "How 'bout if I gave you that, and maybe you could go round up the rest of the Ingredients and we'll make some <ActivityItem>Bouillabaisse</ActivityItem>!",
+      "cz": "Co kdybych ti to dal já a ty bys mohl jít sehnat zbytek ingrediencí a uděláme si <ActivityItem>Bouillabaisse</ActivityItem>!",
+      "source": "pre_existing",
+      "original_cz": "Co kdybych ti to dal já a ty bys mohl jít sehnat zbytek ingrediencí a uděláme si <ActivityItem>Bouillabaisse</ActivityItem>!"
+    },
+    {
+      "key": "Goofy_007_f",
+      "en": "*sigh* Okay...",
+      "cz": "*vzdech* Dobře...",
+      "source": "pre_existing",
+      "original_cz": "*vzdech* Dobře..."
+    }
+  ]
+}

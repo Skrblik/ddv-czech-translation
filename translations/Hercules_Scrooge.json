@@ -1,0 +1,792 @@
+{
+  "Hercules_Scrooge/Scrooge_RLM_HerculesIP_Herc_020_RLM_HerculesIP_Herc_020_TalkTo07.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "{PlayerName}! How can I help you today?",
+      "cz": "{PlayerName}! Jak vám dnes mohu pomoci?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}! Jak vám dnes mohu pomoci?"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "I was wondering if you knew any good jokes? The cheesier the better!",
+      "cz": "Zajímalo by mě, jestli znáš nějaké dobré vtipy? Čím kýčovější, tím lepší!",
+      "source": "pre_existing",
+      "original_cz": "Zajímalo by mě, jestli znáš nějaké dobré vtipy? Čím kýčovější, tím lepší!"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Aye, of course I do!",
+      "cz": "Jasně, že ano!",
+      "source": "pre_existing",
+      "original_cz": "Jasně, že ano!"
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Ahem... One day you see two cows in a field. Which one is on holiday?",
+      "cz": "Ehm... Jednoho dne vidíš na poli dvě krávy. Která z nich má dovolenou?",
+      "source": "pre_existing",
+      "original_cz": "Ehm... Jednoho dne vidíš na poli dvě krávy. Která z nich má dovolenou?"
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "The one with the \"wee calf\"!",
+      "cz": "Ten s tím \"malýma telátkem\"!",
+      "source": "pre_existing",
+      "original_cz": "Ten s tím \"malýma telátkem\"!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I don't get it!",
+      "cz": "Nerozumím tomu!",
+      "source": "pre_existing",
+      "original_cz": "Nerozumím tomu!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Hah, hilarious!",
+      "cz": "Ha, k popukání!",
+      "source": "pre_existing",
+      "original_cz": "Ha, k popukání!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Eh, I've heard funnier.",
+      "cz": "Hm, slyšel jsem i vtipnější věci.",
+      "source": "pre_existing",
+      "original_cz": "Hm, slyšel jsem i vtipnější věci."
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "A \"wee calf\" is a baby cow, but it also sounds like \"week off.\"",
+      "cz": "„Telátko“ je sice kravička, ale zní to také jako „týden volna“.",
+      "source": "pre_existing",
+      "original_cz": "„Telátko“ je sice kravička, ale zní to také jako „týden volna“."
+    },
+    {
+      "key": "Scrooge_008_f",
+      "en": "Oh, it's a pun! Now I get it!",
+      "cz": "To je ale slovní hříčka! Teď už tomu rozumím!",
+      "source": "pre_existing",
+      "original_cz": "To je ale slovní hříčka! Teď už tomu rozumím!"
+    },
+    {
+      "key": "Scrooge_010_f",
+      "en": "Well, I got what I needed. Thanks!",
+      "cz": "No, mám, co jsem potřeboval. Díky!",
+      "source": "pre_existing",
+      "original_cz": "No, mám, co jsem potřeboval. Díky!"
+    },
+    {
+      "key": "Scrooge_011_f",
+      "en": "You're very welcome!",
+      "cz": "Není zač!",
+      "source": "pre_existing",
+      "original_cz": "Není zač!"
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "\"Wee calf\" sounds just like \"week off\"! That's clever!",
+      "cz": "„Malé telátko“ zní přesně jako „týden volna“! To je chytré!",
+      "source": "pre_existing",
+      "original_cz": "„Malé telátko“ zní přesně jako „týden volna“! To je chytré!"
+    },
+    {
+      "key": "Scrooge_007_f",
+      "en": "Maybe you just didn't get my joke? \"Wee calf\" sounds like \"week off,\" doesn't it?",
+      "cz": "Možná jsi jen nepochopil můj vtip? „Malé telátko“ zní jako „týden volna“, že?",
+      "source": "pre_existing",
+      "original_cz": "Možná jsi jen nepochopil můj vtip? „Malé telátko“ zní jako „týden volna“, že?"
+    },
+    {
+      "key": "Scrooge_009_f",
+      "en": "Maybe I'm just not into puns.",
+      "cz": "Možná jen nejsem na slovní hříčky.",
+      "source": "pre_existing",
+      "original_cz": "Možná jen nejsem na slovní hříčky."
+    }
+  ],
+  "Hercules_Scrooge/Scrooge_VLG_Phil_010_VLG_Phil_010_TalkTo03.locbin": [
+    {
+      "key": "Scrooge_002_f",
+      "en": "Scrooge — my old chum! How are ya?",
+      "cz": "Scrooge – můj starý kamaráde! Jak se máš?",
+      "source": "pre_existing",
+      "original_cz": "Scrooge – můj starý kamaráde! Jak se máš?"
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Oh, business is going quite well, thank you! Why, I'm looking forward to—",
+      "cz": "Ach, obchody jdou docela dobře, děkuji! Už se těším na—",
+      "source": "pre_existing",
+      "original_cz": "Ach, obchody jdou docela dobře, děkuji! Už se těším na—"
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "That's great! Now let's talk about somethin' important.",
+      "cz": "To je skvělé! A teď si pojďme promluvit o něčem důležitém.",
+      "source": "pre_existing",
+      "original_cz": "To je skvělé! A teď si pojďme promluvit o něčem důležitém."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Phil, that's really rude!",
+      "cz": "Phile, to je fakt neslušné!",
+      "source": "pre_existing",
+      "original_cz": "Phile, to je fakt neslušné!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "More important than business?!",
+      "cz": "Důležitější než byznys?!",
+      "source": "pre_existing",
+      "original_cz": "Důležitější než byznys?!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Phil's right — this <i>is</i> very important!",
+      "cz": "Phil má pravdu – tohle <i>je</i> velmi důležité!",
+      "source": "pre_existing",
+      "original_cz": "Phil má pravdu – tohle <i>je</i> velmi důležité!"
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "Listen, when you're my age, you gotta get to the point.",
+      "cz": "Poslyš, až budeš v mém věku, musíš jít k věci.",
+      "source": "pre_existing",
+      "original_cz": "Poslyš, až budeš v mém věku, musíš jít k věci."
+    },
+    {
+      "key": "Scrooge_008_f",
+      "en": "I'm classin' up this joint with a little theater... and I want YOU for a prime role, Scrooge!",
+      "cz": "Vylepšuji tohle místo pro malé divadlo... a chci TEBE do hlavní role, Scrooge!",
+      "source": "pre_existing",
+      "original_cz": "Vylepšuji tohle místo pro malé divadlo... a chci TEBE do hlavní role, Scrooge!"
+    },
+    {
+      "key": "Scrooge_009_f",
+      "en": "You want me to... act?",
+      "cz": "Chceš, abych... hrál/a?",
+      "source": "pre_existing",
+      "original_cz": "Chceš, abych... hrál/a?"
+    },
+    {
+      "key": "Scrooge_010_f",
+      "en": "Yup! Listen, you and me — we've been around the block a few times, am I right?",
+      "cz": "Jo! Poslyš, ty a já – už jsme párkrát byli kolem bloku, že?",
+      "source": "pre_existing",
+      "original_cz": "Jo! Poslyš, ty a já – už jsme párkrát byli kolem bloku, že?"
+    },
+    {
+      "key": "Scrooge_011_f",
+      "en": "And someone as venerable as myself understands that with age and experience comes class and gravitas.",
+      "cz": "A někdo tak ctihodný jako já chápe, že s věkem a zkušenostmi přichází třída a vážnost.",
+      "source": "pre_existing",
+      "original_cz": "A někdo tak ctihodný jako já chápe, že s věkem a zkušenostmi přichází třída a vážnost."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Laying it on a little thick there, Phil.",
+      "cz": "Trochu přeháníš, Phile.",
+      "source": "pre_existing",
+      "original_cz": "Trochu přeháníš, Phile."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "It's true, Mr. McDuck; you have a reserved dignity to you.",
+      "cz": "Je to pravda, pane McDucku, máte v sobě poněkud rezervovanou důstojnost.",
+      "source": "pre_existing",
+      "original_cz": "Je to pravda, pane McDucku, máte v sobě poněkud rezervovanou důstojnost."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "That feels like a jab at me.",
+      "cz": "To mi připadá jako vtip.",
+      "source": "pre_existing",
+      "original_cz": "To mi připadá jako vtip."
+    },
+    {
+      "key": "Scrooge_013_f",
+      "en": "Shush, {PlayerName}! I'm listening.",
+      "cz": "Pst, {PlayerName}! Poslouchám.",
+      "source": "pre_existing",
+      "original_cz": "Pst, {PlayerName}! Poslouchám."
+    },
+    {
+      "key": "Scrooge_016_f",
+      "en": "I — the hero — will save you — my helpless little brother — from the dread plans of the play's villain.",
+      "cz": "Já – hrdina – tě zachráním – mého bezmocného malého bratra – před děsivými plány padoucha z hry.",
+      "source": "pre_existing",
+      "original_cz": "Já – hrdina – tě zachráním – mého bezmocného malého bratra – před děsivými plány padoucha z hry."
+    },
+    {
+      "key": "Scrooge_017_f",
+      "en": "Oh, I didn't expect that kind of role.",
+      "cz": "Ach jo, takovou roli jsem nečekal.",
+      "source": "pre_existing",
+      "original_cz": "Ach jo, takovou roli jsem nečekal."
+    },
+    {
+      "key": "Scrooge_018_f",
+      "en": "You'll be great! You've got the proper dignity to play a satyr. I'll drop off a script for ya later.",
+      "cz": "Budeš skvělý! Máš dostatečnou důstojnost na to, abys zahrál satyra. Později ti dodám scénář.",
+      "source": "pre_existing",
+      "original_cz": "Budeš skvělý! Máš dostatečnou důstojnost na to, abys zahrál satyra. Později ti dodám scénář."
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Who's going to play the villain? Hades?",
+      "cz": "Kdo bude hrát padoucha? Hádes?",
+      "source": "pre_existing",
+      "original_cz": "Kdo bude hrát padoucha? Hádes?"
+    },
+    {
+      "key": "Scrooge_022_f",
+      "en": "Nah, I can't trust that guy. He'd prob'ly sabotage the whole play just to get even with Herc and me!",
+      "cz": "Ne, tomu chlapovi nemůžu věřit. Pravděpodobně by sabotoval celou hru, jen aby se pomstil Hercovi a mně!",
+      "source": "pre_existing",
+      "original_cz": "Ne, tomu chlapovi nemůžu věřit. Pravděpodobně by sabotoval celou hru, jen aby se pomstil Hercovi a mně!"
+    },
+    {
+      "key": "Scrooge_023_f",
+      "en": "I'm still thinkin' about that casting, but it'll come to me!",
+      "cz": "Pořád přemýšlím o tom castingu, ale ono to jednou dojde!",
+      "source": "pre_existing",
+      "original_cz": "Pořád přemýšlím o tom castingu, ale ono to jednou dojde!"
+    },
+    {
+      "key": "Scrooge_024_f",
+      "en": "<i>Hmm...</i>",
+      "cz": "<i>Hmm...</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Hmm...</i>"
+    },
+    {
+      "key": "Scrooge_019_f",
+      "en": "Now, {PlayerName}, I've got an important task for you. We need some set decorations for the stage.",
+      "cz": "A teď, {PlayerName}, mám pro tebe důležitý úkol. Potřebujeme nějaké dekorace na jeviště.",
+      "source": "pre_existing",
+      "original_cz": "A teď, {PlayerName}, mám pro tebe důležitý úkol. Potřebujeme nějaké dekorace na jeviště."
+    },
+    {
+      "key": "Scrooge_020_f",
+      "en": "Would ya <Lore>head back to where Herc and I met ya</Lore> and find some <ActivityItem>Drama Masks</ActivityItem>?",
+      "cz": "Mohl by ses <Lore>vrátit tam, kde jsme se s Hercem setkali</Lore>, a najít si nějaké <ActivityItem>divadelní masky</ActivityItem>?",
+      "source": "pre_existing",
+      "original_cz": "Mohl by ses <Lore>vrátit tam, kde jsme se s Hercem setkali</Lore>, a najít si nějaké <ActivityItem>divadelní masky</ActivityItem>?"
+    },
+    {
+      "key": "Scrooge_000_f",
+      "en": "A trip <Lore>back to your Realm</Lore>? No problem!",
+      "cz": "Cesta <Lore>zpátky do tvé Říše</Lore>? Žádný problém!",
+      "source": "pre_existing",
+      "original_cz": "Cesta <Lore>zpátky do tvé Říše</Lore>? Žádný problém!"
+    },
+    {
+      "key": "Scrooge_021_f",
+      "en": "Oh and you remember my <ActivityItem>Training Mannequin</ActivityItem>? We're gonna <Lore>need one of those made</Lore> too!",
+      "cz": "A pamatuješ si na mou <ActivityItem>tréninkovou figurínu</ActivityItem>? Budeme <Lore>potřebovat taky jednu takovou vyrobit</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "A pamatuješ si na mou <ActivityItem>tréninkovou figurínu</ActivityItem>? Budeme <Lore>potřebovat taky jednu takovou vyrobit</Lore>!"
+    },
+    {
+      "key": "Scrooge_012_f",
+      "en": "Who do you have in mind for the villain's role?",
+      "cz": "Koho máte na mysli pro roli padoucha?",
+      "source": "pre_existing",
+      "original_cz": "Koho máte na mysli pro roli padoucha?"
+    },
+    {
+      "key": "Scrooge_014_f",
+      "en": "I do, don't I? And it's kind of you to say so.",
+      "cz": "Ano, že? A je od vás laskavé, že to říkáte.",
+      "source": "pre_existing",
+      "original_cz": "Ano, že? A je od vás laskavé, že to říkáte."
+    },
+    {
+      "key": "Scrooge_015_f",
+      "en": "Hey, {PlayerName}! Not everythin's about you!",
+      "cz": "Hej, {PlayerName}! Ne všechno se točí kolem tebe!",
+      "source": "pre_existing",
+      "original_cz": "Hej, {PlayerName}! Ne všechno se točí kolem tebe!"
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "Yeah!",
+      "cz": "Jo!",
+      "source": "pre_existing",
+      "original_cz": "Jo!"
+    },
+    {
+      "key": "Scrooge_007_f",
+      "en": "{PlayerName} knows what's up!",
+      "cz": "{PlayerName} ví, co se děje!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName} ví, co se děje!"
+    }
+  ],
+  "Hercules_Scrooge/Scrooge_VLG_Phil_010_VLG_Phil_010_TalkTo05.locbin": [
+    {
+      "key": "Scrooge_002_f",
+      "en": "Hey, I think we're all ready for the show! But... Phil, what are you doing in a cage?!",
+      "cz": "Hej, myslím, že už jsme všichni připraveni na show! Ale... Phile, co děláš v kleci?!",
+      "source": "pre_existing",
+      "original_cz": "Hej, myslím, že už jsme všichni připraveni na show! Ale... Phile, co děláš v kleci?!"
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "There have been a few... last-minute changes to the production.",
+      "cz": "Došlo k několika... změnám v produkci na poslední chvíli.",
+      "source": "pre_existing",
+      "original_cz": "Došlo k několika... změnám v produkci na poslední chvíli."
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "Aye! Phil and I have come to an understanding. He's taking over my role and I'll be handling the role of the villainous Hades!",
+      "cz": "Jasně! S Philem jsme se domluvili. On přebírá mou roli a já se zhostím role darebáka Háda!",
+      "source": "pre_existing",
+      "original_cz": "Jasně! S Philem jsme se domluvili. On přebírá mou roli a já se zhostím role darebáka Háda!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Congrats on the new role?",
+      "cz": "Gratuluji k nové roli?",
+      "source": "pre_existing",
+      "original_cz": "Gratuluji k nové roli?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Yeah, that's quite last minute.",
+      "cz": "Jo, to je na poslední chvíli.",
+      "source": "pre_existing",
+      "original_cz": "Jo, to je na poslední chvíli."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Well, that explains what I've been hearing around the Valley.",
+      "cz": "No, to vysvětluje, co jsem slyšel v údolí.",
+      "source": "pre_existing",
+      "original_cz": "No, to vysvětluje, co jsem slyšel v údolí."
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "Eh, we'll manage.",
+      "cz": "Eh, zvládneme to.",
+      "source": "pre_existing",
+      "original_cz": "Eh, zvládneme to."
+    },
+    {
+      "key": "Scrooge_007_f",
+      "en": "People talk — what are you gonna do?",
+      "cz": "Lidé si povídají – co s tím uděláte?",
+      "source": "pre_existing",
+      "original_cz": "Lidé si povídají – co s tím uděláte?"
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "Why thank you! I think this one is far more interesting.",
+      "cz": "Proč děkuji! Myslím, že tohle je mnohem zajímavější.",
+      "source": "pre_existing",
+      "original_cz": "Proč děkuji! Myslím, že tohle je mnohem zajímavější."
+    },
+    {
+      "key": "Scrooge_008_f",
+      "en": "What can I say? Scrooge offered me some <i>very</i> competitive prices in his shop for the next few months. It was a deal too good to pass up!",
+      "cz": "Co na to říct? Skrblík mi ve svém obchodě nabídl na příštích pár měsíců <i>opravdu</i> výhodné ceny. Byla to nabídka, kterou jsem si nemohl nechat ujít!",
+      "source": "pre_existing",
+      "original_cz": "Co na to říct? Skrblík mi ve svém obchodě nabídl na příštích pár měsíců <i>opravdu</i> výhodné ceny. Byla to nabídka, kterou jsem si nemohl nechat ujít!"
+    },
+    {
+      "key": "Scrooge_009_f",
+      "en": "But who's going to play the role of the hero now?",
+      "cz": "Ale kdo teď bude hrát roli hrdiny?",
+      "source": "pre_existing",
+      "original_cz": "Ale kdo teď bude hrát roli hrdiny?"
+    },
+    {
+      "key": "Scrooge_010_f",
+      "en": "You are!",
+      "cz": "Jsi!",
+      "source": "pre_existing",
+      "original_cz": "Jsi!"
+    },
+    {
+      "key": "Scrooge_011_f",
+      "en": "I am?!",
+      "cz": "Já?!",
+      "source": "pre_existing",
+      "original_cz": "Já?!"
+    },
+    {
+      "key": "Scrooge_012_f",
+      "en": "Yup, and we're about to start, so get ready! Just... go with the flow and improvise.",
+      "cz": "Ano, a už brzy začneme, takže se připravte! Prostě... nechte se unášet proudem a improvizujte.",
+      "source": "pre_existing",
+      "original_cz": "Ano, a už brzy začneme, takže se připravte! Prostě... nechte se unášet proudem a improvizujte."
+    },
+    {
+      "key": "Player_008_choice_000_f",
+      "en": "Okay, I've got this.",
+      "cz": "Dobře, mám to.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, mám to."
+    },
+    {
+      "key": "Player_008_choice_001_f",
+      "en": "I'll do my best, I guess...",
+      "cz": "Udělám, co bude v mých silách, asi...",
+      "source": "pre_existing",
+      "original_cz": "Udělám, co bude v mých silách, asi..."
+    },
+    {
+      "key": "Player_008_choice_002_f",
+      "en": "WAIT, I'M NOT READY!!!",
+      "cz": "POČKEJ, NEJSEM PŘIPRAVENÝ!!!",
+      "source": "pre_existing",
+      "original_cz": "POČKEJ, NEJSEM PŘIPRAVENÝ!!!"
+    },
+    {
+      "key": "Scrooge_000_f",
+      "en": "Behold, for the handsome, noble satyr Philoctetes approaches!",
+      "cz": "Hle, blíží se krásný, ušlechtilý satyr Filoktetés!",
+      "source": "pre_existing",
+      "original_cz": "Hle, blíží se krásný, ušlechtilý satyr Filoktetés!"
+    },
+    {
+      "key": "Player_001_f",
+      "en": "<i>Hmm, good thing I asked Phil about how the first act of the play goes...</i>",
+      "cz": "<i>Hmm, dobře, že jsem se Phila zeptal, jak probíhá první dějství hry...</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Hmm, dobře, že jsem se Phila zeptal, jak probíhá první dějství hry...</i>"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Alas, for the evil Hades has kidnapped my poor little brother!",
+      "cz": "Běda, neboť zlý Hádes unesl mého ubohého malého bratříčka!",
+      "source": "pre_existing",
+      "original_cz": "Běda, neboť zlý Hádes unesl mého ubohého malého bratříčka!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Hades, you're the worst — you umm... stole my favorite pair of Air-Hercs!",
+      "cz": "Hádesi, jsi nejhorší – ehm... ukradl jsi mi můj nejoblíbenější pár Air-Herců!",
+      "source": "pre_existing",
+      "original_cz": "Hádesi, jsi nejhorší – ehm... ukradl jsi mi můj nejoblíbenější pár Air-Herců!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Hades, you stood me up for our date — how could you?!",
+      "cz": "Háde, zklamal jsi mě na rande – jak jsi mohl?!",
+      "source": "pre_existing",
+      "original_cz": "Háde, zklamal jsi mě na rande – jak jsi mohl?!"
+    },
+    {
+      "key": "Scrooge_015_f",
+      "en": "HA-HA-HA! I have, and now I will savor your despair!",
+      "cz": "HA-HA-HA! Udělal jsem to a teď si vychutnám tvé zoufalství!",
+      "source": "pre_existing",
+      "original_cz": "HA-HA-HA! Udělal jsem to a teď si vychutnám tvé zoufalství!"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "The handsome and noble Philoctetes has found a poor and scrawny orphan! But... he senses the sparkle of divine strength within him — if only it could be awakened!",
+      "cz": "Krásný a ušlechtilý Filoktetés našel chudého a vyzáblého sirotka! Ale... cítí v něm jiskru božské síly – kdyby se jen mohla probudit!",
+      "source": "pre_existing",
+      "original_cz": "Krásný a ušlechtilý Filoktetés našel chudého a vyzáblého sirotka! Ale... cítí v něm jiskru božské síly – kdyby se jen mohla probudit!"
+    },
+    {
+      "key": "Player_003_f",
+      "en": "<i>Wait, I think I remember what Phil told me about Act 2...</i>",
+      "cz": "<i>Počkej, myslím, že si pamatuju, co mi Phil říkal o druhém dějství...</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Počkej, myslím, že si pamatuju, co mi Phil říkal o druhém dějství...</i>"
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "Scrawny orphan child, you need some food — have this pizza!",
+      "cz": "Hubený sirotek, potřebuješ něco k jídlu – dej si tuhle pizzu!",
+      "source": "pre_existing",
+      "original_cz": "Hubený sirotek, potřebuješ něco k jídlu – dej si tuhle pizzu!"
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "Little Hercules, if I feed you, can you make me new sandals?",
+      "cz": "Malý Herkule, když tě nakrmím, ušiješ mi nové sandály?",
+      "source": "pre_existing",
+      "original_cz": "Malý Herkule, když tě nakrmím, ušiješ mi nové sandály?"
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "Kid, I need revenge against Hades.",
+      "cz": "Chlapče, potřebuji pomstu Hádovi.",
+      "source": "pre_existing",
+      "original_cz": "Chlapče, potřebuji pomstu Hádovi."
+    },
+    {
+      "key": "Scrooge_023_f",
+      "en": "Now that you are big and strong, break down the barrier to the Underworld so that I may rescue my little brother!",
+      "cz": "Teď, když jsi velký a silný, prolom bariéru do Podsvětí, abych mohl zachránit svého malého bratra!",
+      "source": "pre_existing",
+      "original_cz": "Teď, když jsi velký a silný, prolom bariéru do Podsvětí, abych mohl zachránit svého malého bratra!"
+    },
+    {
+      "key": "Scrooge_024_f",
+      "en": "No! My fortress has been breached! I'm vulnerable!",
+      "cz": "Ne! Moje pevnost byla prolomena! Jsem zranitelný!",
+      "source": "pre_existing",
+      "original_cz": "Ne! Moje pevnost byla prolomena! Jsem zranitelný!"
+    },
+    {
+      "key": "Scrooge_014_f",
+      "en": "Philoctetes breaches the gates to the Underworld! But... can he face down the evil Hades?!",
+      "cz": "Filoktetés prolomí brány do podsvětí! Ale... dokáže se postavit zlému Hádovi?!",
+      "source": "pre_existing",
+      "original_cz": "Filoktetés prolomí brány do podsvětí! Ale... dokáže se postavit zlému Hádovi?!"
+    },
+    {
+      "key": "Player_005_f",
+      "en": "<i>Okay, I think I remember how the play is supposed to finish...</i>",
+      "cz": "<i>Dobře, myslím, že si vzpomínám, jak má ta hra skončit...</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Dobře, myslím, že si vzpomínám, jak má ta hra skončit...</i>"
+    },
+    {
+      "key": "Player_005_choice_000_f",
+      "en": "Now, you fire-haired menace, we do battle!",
+      "cz": "A teď, ty ohnivě vlasová postrachu, jdeme do boje!",
+      "source": "pre_existing",
+      "original_cz": "A teď, ty ohnivě vlasová postrachu, jdeme do boje!"
+    },
+    {
+      "key": "Player_005_choice_001_f",
+      "en": "Hades, I'm here to reclaim my Air-Hercs!",
+      "cz": "Hádesi, jsem tu, abych si získal zpět své Vzdušné Herky!",
+      "source": "pre_existing",
+      "original_cz": "Hádesi, jsem tu, abych si získal zpět své Vzdušné Herky!"
+    },
+    {
+      "key": "Player_005_choice_002_f",
+      "en": "Hades, I'm here to tell you that I found someone FAR more attractive than you!",
+      "cz": "Hádesi, chci ti říct, že jsem našel někoho MNOHEM přitažlivějšího než jsi ty!",
+      "source": "pre_existing",
+      "original_cz": "Hádesi, chci ti říct, že jsem našel někoho MNOHEM přitažlivějšího než jsi ty!"
+    },
+    {
+      "key": "Scrooge_031_f",
+      "en": "Hooray! My noble, handsome and incredibly smart older brother Philoctetes has come to rescue me!",
+      "cz": "Hurá! Můj ušlechtilý, pohledný a neuvěřitelně chytrý starší bratr Filoktetés mě přišel zachránit!",
+      "source": "pre_existing",
+      "original_cz": "Hurá! Můj ušlechtilý, pohledný a neuvěřitelně chytrý starší bratr Filoktetés mě přišel zachránit!"
+    },
+    {
+      "key": "Scrooge_029_f",
+      "en": "Take that! And that!",
+      "cz": "Vezmi si to! A tamto!",
+      "source": "pre_existing",
+      "original_cz": "Vezmi si to! A tamto!"
+    },
+    {
+      "key": "Scrooge_030_f",
+      "en": "Augh! I am defeated!",
+      "cz": "Au! Jsem poražen/a!",
+      "source": "pre_existing",
+      "original_cz": "Au! Jsem poražen/a!"
+    },
+    {
+      "key": "Scrooge_036_f",
+      "en": "With Hades defeated, the noble Philoctetes can finally <Lore>free his little brother</Lore>.",
+      "cz": "Po porážce Háda může ušlechtilý Filoktetés konečně <Lore>osvobodit svého malého bratra</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Po porážce Háda může ušlechtilý Filoktetés konečně <Lore>osvobodit svého malého bratra</Lore>."
+    },
+    {
+      "key": "Scrooge_032_f",
+      "en": "I uhh... will never return your terrible footwear!",
+      "cz": "Já, ehm... nikdy ti nevrátím tvoje hrozné boty!",
+      "source": "pre_existing",
+      "original_cz": "Já, ehm... nikdy ti nevrátím tvoje hrozné boty!"
+    },
+    {
+      "key": "Scrooge_033_f",
+      "en": "Then we fight! Take that! And that!",
+      "cz": "Pak se budeme prát! Vezměte si to! A tamto!",
+      "source": "pre_existing",
+      "original_cz": "Pak se budeme prát! Vezměte si to! A tamto!"
+    },
+    {
+      "key": "Scrooge_034_f",
+      "en": "I... uh... am incredibly jealous! This will not stand!",
+      "cz": "Já... ehm... neuvěřitelně žárlím! Tohle neobstojí!",
+      "source": "pre_existing",
+      "original_cz": "Já... ehm... neuvěřitelně žárlím! Tohle neobstojí!"
+    },
+    {
+      "key": "Scrooge_035_f",
+      "en": "I know your weakness: your vanity! You're really not as charming as you think you are!",
+      "cz": "Znám tvou slabinu: tvou ješitnost! Opravdu nejsi tak okouzlující, jak si myslíš!",
+      "source": "pre_existing",
+      "original_cz": "Znám tvou slabinu: tvou ješitnost! Opravdu nejsi tak okouzlující, jak si myslíš!"
+    },
+    {
+      "key": "Player_006_f",
+      "en": "<i>Uhh, how am I supposed to finish off the play?!</i>",
+      "cz": "<i>Ehm, jak mám asi dokončit tu hru?!</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Ehm, jak mám asi dokončit tu hru?!</i>"
+    },
+    {
+      "key": "Player_006_choice_000_f",
+      "en": "Hades, I'm here to reclaim my Air-Hercs!",
+      "cz": "Hádesi, jsem tu, abych si získal zpět své Vzdušné Herky!",
+      "source": "pre_existing",
+      "original_cz": "Hádesi, jsem tu, abych si získal zpět své Vzdušné Herky!"
+    },
+    {
+      "key": "Player_006_choice_001_f",
+      "en": "Now, you fire-haired menace, we do battle!",
+      "cz": "A teď, ty ohnivě vlasová postrachu, jdeme do boje!",
+      "source": "pre_existing",
+      "original_cz": "A teď, ty ohnivě vlasová postrachu, jdeme do boje!"
+    },
+    {
+      "key": "Player_006_choice_002_f",
+      "en": "Hades, I'm here to tell you that I found someone FAR more attractive than you!",
+      "cz": "Hádesi, chci ti říct, že jsem našel někoho MNOHEM přitažlivějšího než jsi ty!",
+      "source": "pre_existing",
+      "original_cz": "Hádesi, chci ti říct, že jsem našel někoho MNOHEM přitažlivějšího než jsi ty!"
+    },
+    {
+      "key": "Scrooge_025_f",
+      "en": "<i>This really isn't in the script!</i>",
+      "cz": "<i>Tohle opravdu není ve scénáři!</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Tohle opravdu není ve scénáři!</i>"
+    },
+    {
+      "key": "Scrooge_026_f",
+      "en": "Ah-ha! With my excellent new footwear, I can easily enter the Underworld!",
+      "cz": "Ááá! V mé skvělé nové obuvi se můžu snadno dostat do podsvětí!",
+      "source": "pre_existing",
+      "original_cz": "Ááá! V mé skvělé nové obuvi se můžu snadno dostat do podsvětí!"
+    },
+    {
+      "key": "Scrooge_027_f",
+      "en": "<i>I don't even know what to say here!</i>",
+      "cz": "<i>Ani nevím, co na to říct!</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Ani nevím, co na to říct!</i>"
+    },
+    {
+      "key": "Scrooge_028_f",
+      "en": "But I won't involve a poor scrawny orphan like you in a revenge plot. I'll handle this myself!",
+      "cz": "Ale nezatahuji chudáka vyhublého sirotka, jako jsi ty, do žádného plánu pomsty. Zvládnu to sám!",
+      "source": "pre_existing",
+      "original_cz": "Ale nezatahuji chudáka vyhublého sirotka, jako jsi ty, do žádného plánu pomsty. Zvládnu to sám!"
+    },
+    {
+      "key": "Player_004_f",
+      "en": "<i>Time to improvise...</i>",
+      "cz": "<i>Čas na improvizaci...</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Čas na improvizaci...</i>"
+    },
+    {
+      "key": "Player_004_choice_000_f",
+      "en": "Little Hercules, if I feed you, can you make me new sandals?",
+      "cz": "Malý Herkule, když tě nakrmím, ušiješ mi nové sandály?",
+      "source": "pre_existing",
+      "original_cz": "Malý Herkule, když tě nakrmím, ušiješ mi nové sandály?"
+    },
+    {
+      "key": "Player_004_choice_001_f",
+      "en": "Kid, I need revenge against Hades.",
+      "cz": "Chlapče, potřebuji pomstu Hádovi.",
+      "source": "pre_existing",
+      "original_cz": "Chlapče, potřebuji pomstu Hádovi."
+    },
+    {
+      "key": "Player_004_choice_002_f",
+      "en": "Scrawny orphan child, you need some food — have this pizza!",
+      "cz": "Hubený sirotek, potřebuješ něco k jídlu – dej si tuhle pizzu!",
+      "source": "pre_existing",
+      "original_cz": "Hubený sirotek, potřebuješ něco k jídlu – dej si tuhle pizzu!"
+    },
+    {
+      "key": "Scrooge_016_f",
+      "en": "<i>What? That's not the line!</i>",
+      "cz": "<i>Cože? To není ta pravá linie!</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Cože? To není ta pravá linie!</i>"
+    },
+    {
+      "key": "Scrooge_017_f",
+      "en": "<i>Just go with it!</i>",
+      "cz": "<i>Prostě do toho!</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Prostě do toho!</i>"
+    },
+    {
+      "key": "Scrooge_020_f",
+      "en": "My, uhh... evil knows no bounds! I despise divine footwear!",
+      "cz": "Moje, ehm... zlo nezná mezí! Nesnáším božskou obuv!",
+      "source": "pre_existing",
+      "original_cz": "Moje, ehm... zlo nezná mezí! Nesnáším božskou obuv!"
+    },
+    {
+      "key": "Scrooge_022_f",
+      "en": "No! It can't be!",
+      "cz": "Ne! To nemůže být!",
+      "source": "pre_existing",
+      "original_cz": "Ne! To nemůže být!"
+    },
+    {
+      "key": "Scrooge_018_f",
+      "en": "<i>What? That's not the line!</i>",
+      "cz": "<i>Cože? To není ta pravá linie!</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Cože? To není ta pravá linie!</i>"
+    },
+    {
+      "key": "Scrooge_019_f",
+      "en": "<i>Just go with it!</i>",
+      "cz": "<i>Prostě do toho!</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Prostě do toho!</i>"
+    },
+    {
+      "key": "Scrooge_021_f",
+      "en": "I... uh... will raise Philoctetes' brother as my son!",
+      "cz": "Já... ehm... vychovám Filoktétova bratra jako svého syna!",
+      "source": "pre_existing",
+      "original_cz": "Já... ehm... vychovám Filoktétova bratra jako svého syna!"
+    },
+    {
+      "key": "Player_002_f",
+      "en": "<i>I don't know what's going on! Better improvise...</i>",
+      "cz": "<i>Nevím, co se děje! Raději improvizuji...</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Nevím, co se děje! Raději improvizuji...</i>"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Hades, you're the worst — you umm... stole my Air-Hercs!",
+      "cz": "Hádesi, jsi nejhorší – ehm... ukradl jsi mi moje Air-Hercy!",
+      "source": "pre_existing",
+      "original_cz": "Hádesi, jsi nejhorší – ehm... ukradl jsi mi moje Air-Hercy!"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Alas, for the evil Hades has kidnapped my poor little brother!",
+      "cz": "Běda, neboť zlý Hádes unesl mého ubohého malého bratříčka!",
+      "source": "pre_existing",
+      "original_cz": "Běda, neboť zlý Hádes unesl mého ubohého malého bratříčka!"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Hades, you stood me up for our date — how could you?!",
+      "cz": "Háde, zklamal jsi mě na rande – jak jsi mohl?!",
+      "source": "pre_existing",
+      "original_cz": "Háde, zklamal jsi mě na rande – jak jsi mohl?!"
+    }
+  ]
+}

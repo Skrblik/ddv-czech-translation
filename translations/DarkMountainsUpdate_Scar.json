@@ -1,0 +1,879 @@
+{
+  "DarkMountainsUpdate_Scar/Scar_MRQS126_TheForgotten_MRQS126_TheForgotten_TalkTo02.locbin": [
+    {
+      "key": "Scar_001_f",
+      "en": "You've done it. Bravo!",
+      "cz": "Zvládli jste to. Bravo!",
+      "source": "pre_existing",
+      "original_cz": "Zvládli jste to. Bravo!"
+    },
+    {
+      "key": "Scar_002_f",
+      "en": "Now, just give that pesky thing to me.",
+      "cz": "A teď mi tu otravnou věc dej.",
+      "source": "pre_existing",
+      "original_cz": "A teď mi tu otravnou věc dej."
+    },
+    {
+      "key": "Scar_003_f",
+      "en": "The Orb of Nurturing...? What would you want with that?",
+      "cz": "Koule péče...? Co bys s ní chtěl/a?",
+      "source": "pre_existing",
+      "original_cz": "Koule péče...? Co bys s ní chtěl/a?"
+    },
+    {
+      "key": "Scar_004_f",
+      "en": "Oh, only for safekeeping, of course. I may not understand exactly what it is... but I know something powerful and dangerous when I see it.",
+      "cz": "Ach, samozřejmě jen pro bezpečné uložení. Možná přesně nechápu, co to je... ale když to uvidím, poznám něco mocného a nebezpečného.",
+      "source": "pre_existing",
+      "original_cz": "Ach, samozřejmě jen pro bezpečné uložení. Možná přesně nechápu, co to je... ale když to uvidím, poznám něco mocného a nebezpečného."
+    },
+    {
+      "key": "Scar_005_f",
+      "en": "<Forgotten>(He IS tricking me. He's tricking me just like Mother Gothel did.)</Forgotten>",
+      "cz": "<Zapomenuto>(On mě PODvádí. Podvádí mě stejně jako Matka Gothel.)</Zapomenuto>",
+      "source": "pre_existing",
+      "original_cz": "<Zapomenuto>(On mě PODvádí. Podvádí mě stejně jako Matka Gothel.)</Zapomenuto>"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "YOU...",
+      "cz": "VY...",
+      "source": "pre_existing",
+      "original_cz": "VY..."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "CAN'T...",
+      "cz": "NEMŮŽU...",
+      "source": "pre_existing",
+      "original_cz": "NEMŮŽU..."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "TRICK ME!",
+      "cz": "OKLÁDEJ MĚ!",
+      "source": "pre_existing",
+      "original_cz": "OKLÁDEJ MĚ!"
+    },
+    {
+      "key": "Scar_007_f",
+      "en": "I know exactly what you're trying to do! And I'm not gonna fall for it!",
+      "cz": "Vím přesně, co se snažíš udělat! A já na to nenaletím!",
+      "source": "pre_existing",
+      "original_cz": "Vím přesně, co se snažíš udělat! A já na to nenaletím!"
+    },
+    {
+      "key": "Scar_008_f",
+      "en": "Oh dear. Temper, {PlayerName}. Can't you see that you've already done exactly what I wanted?",
+      "cz": "Ach jo. Temper, {PlayerName}. Nevidíš, že jsi už udělal přesně to, co jsem chtěl?",
+      "source": "pre_existing",
+      "original_cz": "Ach jo. Temper, {PlayerName}. Nevidíš, že jsi už udělal přesně to, co jsem chtěl?"
+    },
+    {
+      "key": "Scar_009_f",
+      "en": "Look at everything you've broken.",
+      "cz": "Podívej se na všechno, co jsi rozbil.",
+      "source": "pre_existing",
+      "original_cz": "Podívej se na všechno, co jsi rozbil."
+    },
+    {
+      "key": "Scar_010_f",
+      "en": "The other Villagers will never forgive you for this.",
+      "cz": "Ostatní vesničané ti to nikdy neodpustí.",
+      "source": "pre_existing",
+      "original_cz": "Ostatní vesničané ti to nikdy neodpustí."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "What have I done...",
+      "cz": "Co jsem to udělal...",
+      "source": "pre_existing",
+      "original_cz": "Co jsem to udělal..."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "You're wrong.",
+      "cz": "Mýlíte se.",
+      "source": "pre_existing",
+      "original_cz": "Mýlíte se."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "AGGGHHHH!!!",
+      "cz": "AGGGHHHH!!!",
+      "source": "pre_existing",
+      "original_cz": "AGGGHHHH!!!"
+    },
+    {
+      "key": "Scar_011_f",
+      "en": "Oh, there's no point in worrying.",
+      "cz": "Ach, nemá smysl se znepokojovat.",
+      "source": "pre_existing",
+      "original_cz": "Ach, nemá smysl se znepokojovat."
+    },
+    {
+      "key": "Scar_014_f",
+      "en": "I can easily fix this for you. Simply let ME rule Dreamlight Valley. It will be an immense burden, but I'm prepared to make the sacrifice.",
+      "cz": "Tohle pro tebe snadno napravím. Prostě nech MĚ vládnout Údolí Světla Snů. Bude to pro mě obrovská zátěž, ale jsem připravený podstoupit oběť.",
+      "source": "pre_existing",
+      "original_cz": "Tohle pro tebe snadno napravím. Prostě nech MĚ vládnout Údolí Světla Snů. Bude to pro mě obrovská zátěž, ale jsem připravený podstoupit oběť."
+    },
+    {
+      "key": "Scar_015_f",
+      "en": "Besides, it's really your only choice. Make me king and stand at my side...",
+      "cz": "Kromě toho je to opravdu tvoje jediná volba. Udělej ze mě krále a stůj po mém boku...",
+      "source": "pre_existing",
+      "original_cz": "Kromě toho je to opravdu tvoje jediná volba. Udělej ze mě krále a stůj po mém boku..."
+    },
+    {
+      "key": "Scar_016_f",
+      "en": "...or run away and never return.",
+      "cz": "...nebo uteč a už se nikdy nevráti.",
+      "source": "pre_existing",
+      "original_cz": "...nebo uteč a už se nikdy nevráti."
+    },
+    {
+      "key": "Scar_017_f",
+      "en": "...",
+      "cz": "...",
+      "source": "pre_existing",
+      "original_cz": "..."
+    },
+    {
+      "key": "Scar_018_f",
+      "en": "You'll never be king, Scar. I'll make sure of that.",
+      "cz": "Nikdy nebudeš králem, Scare. Postarám se o to.",
+      "source": "pre_existing",
+      "original_cz": "Nikdy nebudeš králem, Scare. Postarám se o to."
+    },
+    {
+      "key": "Scar_000_f",
+      "en": "AHH! You ingrate! After all I've done for you.",
+      "cz": "ÁÁ! Ty nevděčníku! Po všem, co jsem pro tebe udělal.",
+      "source": "pre_existing",
+      "original_cz": "ÁÁ! Ty nevděčníku! Po všem, co jsem pro tebe udělal."
+    },
+    {
+      "key": "Scar_006_f",
+      "en": "If you come to your senses, I'll be in my cave!",
+      "cz": "Jestli se vzpamatuješ, budu ve své jeskyni!",
+      "source": "pre_existing",
+      "original_cz": "Jestli se vzpamatuješ, budu ve své jeskyni!"
+    },
+    {
+      "key": "Scar_012_f",
+      "en": "Am I? You can only fool yourself for so long. You must see how the Villagers are ignoring you more and more. How it seems like they're looking right through you?",
+      "cz": "Jsem? Můžeš se jen tak dlouho klamat. Musíš vidět, jak tě vesničané čím dál víc ignorují. Zdá se, že se dívají skrz tebe?",
+      "source": "pre_existing",
+      "original_cz": "Jsem? Můžeš se jen tak dlouho klamat. Musíš vidět, jak tě vesničané čím dál víc ignorují. Zdá se, že se dívají skrz tebe?"
+    },
+    {
+      "key": "Scar_013_f",
+      "en": "Oh, do try to keep your emotions in check, {PlayerName}. You've no need to fear.",
+      "cz": "Ach, {PlayerName}, zkus se ovládnout. Nemusíš se bát.",
+      "source": "pre_existing",
+      "original_cz": "Ach, {PlayerName}, zkus se ovládnout. Nemusíš se bát."
+    }
+  ],
+  "DarkMountainsUpdate_Scar/Scar_MRQS126_TheForgotten_MRQS126_TheForgotten_TalkTo04.locbin": [
+    {
+      "key": "Scar_001_f",
+      "en": "Ah, you can feel it, can't you?",
+      "cz": "Aha, cítíš to, že?",
+      "source": "pre_existing",
+      "original_cz": "Aha, cítíš to, že?"
+    },
+    {
+      "key": "Scar_002_f",
+      "en": "Whatever that monstrosity is... its power has begun to wane.",
+      "cz": "Ať už je ta zrůda cokoli... její moc začíná slábnout.",
+      "source": "pre_existing",
+      "original_cz": "Ať už je ta zrůda cokoli... její moc začíná slábnout."
+    },
+    {
+      "key": "Scar_003_f",
+      "en": "But there is still more work to do.",
+      "cz": "Ale je ještě hodně práce.",
+      "source": "pre_existing",
+      "original_cz": "Ale je ještě hodně práce."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "What should I do next?",
+      "cz": "Co mám dělat dál?",
+      "source": "pre_existing",
+      "original_cz": "Co mám dělat dál?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I don't know about this...",
+      "cz": "O tomhle nevím...",
+      "source": "pre_existing",
+      "original_cz": "O tomhle nevím..."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "This better be worth it...",
+      "cz": "Tohle by za to mělo stát...",
+      "source": "pre_existing",
+      "original_cz": "Tohle by za to mělo stát..."
+    },
+    {
+      "key": "Scar_004_f",
+      "en": "You know, I have an idea...",
+      "cz": "Víš, mám nápad...",
+      "source": "pre_existing",
+      "original_cz": "Víš, mám nápad..."
+    },
+    {
+      "key": "Scar_007_f",
+      "en": "I'm sure you've noticed all the strange weeds sprouting up?",
+      "cz": "Jsem si jistý, že sis všiml všech těch podivných plevelů, které raší?",
+      "source": "pre_existing",
+      "original_cz": "Jsem si jistý, že sis všiml všech těch podivných plevelů, které raší?"
+    },
+    {
+      "key": "Scar_008_f",
+      "en": "The Night Thorns, you mean?",
+      "cz": "Myslíš Noční trny?",
+      "source": "pre_existing",
+      "original_cz": "Myslíš Noční trny?"
+    },
+    {
+      "key": "Scar_009_f",
+      "en": "Ugh. Yes. If we must use that windbag's name for them.",
+      "cz": "Uf. Ano. Pokud pro ně musíme použít jméno toho blbce.",
+      "source": "pre_existing",
+      "original_cz": "Uf. Ano. Pokud pro ně musíme použít jméno toho blbce."
+    },
+    {
+      "key": "Scar_010_f",
+      "en": "Regardless of the moniker, I rather like them, don't you? Though they do seem to sap the life out of everything around them.",
+      "cz": "Bez ohledu na přezdívku je mám docela rád, nemyslíš? I když se zdá, že vysávají život ze všeho kolem sebe.",
+      "source": "pre_existing",
+      "original_cz": "Bez ohledu na přezdívku je mám docela rád, nemyslíš? I když se zdá, že vysávají život ze všeho kolem sebe."
+    },
+    {
+      "key": "Scar_011_f",
+      "en": "Wanting to know more, I dug where you would expect to see seeds, and instead I found these small bits of darkness. I suppose you could <Lore>plant them and see what happens</Lore>...",
+      "cz": "Chtěl jsem se dozvědět víc, a tak jsem kopal tam, kde by člověk očekával semínka, a místo toho jsem našel tyto malé kousky tmy. Předpokládám, že byste je mohli <Lore>zasadit a uvidíte, co se stane</Lore>...",
+      "source": "pre_existing",
+      "original_cz": "Chtěl jsem se dozvědět víc, a tak jsem kopal tam, kde by člověk očekával semínka, a místo toho jsem našel tyto malé kousky tmy. Předpokládám, že byste je mohli <Lore>zasadit a uvidíte, co se stane</Lore>..."
+    },
+    {
+      "key": "Scar_012_f",
+      "en": "Try near the Pillar itself... or the entrance to those caverns over there... or that Dreamlight Tree that Simba's so fond of. I'll be waiting near my den when you've finished the task.",
+      "cz": "Zkus to blízko samotného Pilíře... nebo u vchodu do těch jeskyní támhle... nebo u toho Stromu snů, který má Simba tak rád. Až splníš úkol, budu na tebe čekat blízko svého doupěte.",
+      "source": "pre_existing",
+      "original_cz": "Zkus to blízko samotného Pilíře... nebo u vchodu do těch jeskyní támhle... nebo u toho Stromu snů, který má Simba tak rád. Až splníš úkol, budu na tebe čekat blízko svého doupěte."
+    },
+    {
+      "key": "Scar_005_f",
+      "en": "Oh, but we've already come so far. There's only a small bit left to do.",
+      "cz": "Ale už jsme zašli tak daleko. Zbývá už jen kousek udělat.",
+      "source": "pre_existing",
+      "original_cz": "Ale už jsme zašli tak daleko. Zbývá už jen kousek udělat."
+    },
+    {
+      "key": "Scar_006_f",
+      "en": "Trust me. It will be. There's only one more thing you need to do...",
+      "cz": "Věř mi. Bude to tak. Ještě zbývá udělat jen jednu věc...",
+      "source": "pre_existing",
+      "original_cz": "Věř mi. Bude to tak. Ještě zbývá udělat jen jednu věc..."
+    }
+  ],
+  "DarkMountainsUpdate_Scar/Scar_MRQS126_TheForgotten_MRQS126_TheForgotten_TalkTo05.locbin": [
+    {
+      "key": "Scar_000_f",
+      "en": "Ahh... At last. You're the only one here who's not a complete fool.",
+      "cz": "Ááá... Konečně. Jsi tu jediný, kdo není úplný hlupák.",
+      "source": "pre_existing",
+      "original_cz": "Ááá... Konečně. Jsi tu jediný, kdo není úplný hlupák."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Aw! Thanks! You're not such a fool yourself.",
+      "cz": "Jé! Díky! Ani ty nejsi takový hlupák.",
+      "source": "pre_existing",
+      "original_cz": "Jé! Díky! Ani ty nejsi takový hlupák."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'm not falling for it, Scar.",
+      "cz": "Nenaletím na to, Scare.",
+      "source": "pre_existing",
+      "original_cz": "Nenaletím na to, Scare."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "What do you want?",
+      "cz": "Co si přeješ?",
+      "source": "pre_existing",
+      "original_cz": "Co si přeješ?"
+    },
+    {
+      "key": "Scar_001_f",
+      "en": "I'm humbled by your underwhelming compliment.",
+      "cz": "Jsem poctěn vaším neochotným komplimentem.",
+      "source": "pre_existing",
+      "original_cz": "Jsem poctěn vaším neochotným komplimentem."
+    },
+    {
+      "key": "Scar_005_f",
+      "en": "Now then, I've a small question to ask you...",
+      "cz": "A teď bych se vás chtěl zeptat na jednu malou otázku...",
+      "source": "pre_existing",
+      "original_cz": "A teď bych se vás chtěl zeptat na jednu malou otázku..."
+    },
+    {
+      "key": "Scar_006_f",
+      "en": "It seems to me that those of us who are wise, strong, and cunning should take up the mantle of leadership.",
+      "cz": "Zdá se mi, že ti z nás, kteří jsou moudří, silní a lstiví, by se měli ujmout role vůdce.",
+      "source": "pre_existing",
+      "original_cz": "Zdá se mi, že ti z nás, kteří jsou moudří, silní a lstiví, by se měli ujmout role vůdce."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Yes. I agree.",
+      "cz": "Ano. Souhlasím.",
+      "source": "pre_existing",
+      "original_cz": "Ano. Souhlasím."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "That sounds a bit... evil?",
+      "cz": "To zní trochu... zle, že?",
+      "source": "pre_existing",
+      "original_cz": "To zní trochu... zle, že?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I don't want to rule over anything...",
+      "cz": "Nechci vládnout ničemu...",
+      "source": "pre_existing",
+      "original_cz": "Nechci vládnout ničemu..."
+    },
+    {
+      "key": "Scar_007_f",
+      "en": "Oh, you are ever so wise...",
+      "cz": "Ach, jsi tak moudrý...",
+      "source": "pre_existing",
+      "original_cz": "Ach, jsi tak moudrý..."
+    },
+    {
+      "key": "Scar_018_f",
+      "en": "<Forgotten>(Is he trying to trick me...? Like Mother Gothel did?)</Forgotten>",
+      "cz": "<Zapomenuto>(Snaží se mě oklamat...? Jako to udělala Matka Gothel?)</Zapomenuto>",
+      "source": "pre_existing",
+      "original_cz": "<Zapomenuto>(Snaží se mě oklamat...? Jako to udělala Matka Gothel?)</Zapomenuto>"
+    },
+    {
+      "key": "Scar_019_f",
+      "en": "<Forgotten>(I can't trust him...)</Forgotten>",
+      "cz": "<Zapomenuto>(Nemůžu mu věřit...)</Zapomenuto>",
+      "source": "pre_existing",
+      "original_cz": "<Zapomenuto>(Nemůžu mu věřit...)</Zapomenuto>"
+    },
+    {
+      "key": "Scar_020_f",
+      "en": "<Forgotten>(But I can't trust MERLIN either...)</Forgotten>",
+      "cz": "<Zapomenuto>(Ale ani já nemůžu věřit MERLINOVI...)</Zapomenuto>",
+      "source": "pre_existing",
+      "original_cz": "<Zapomenuto>(Ale ani já nemůžu věřit MERLINOVI...)</Zapomenuto>"
+    },
+    {
+      "key": "Scar_021_f",
+      "en": "I'll do it. I'll get that Orb out of the Pillar.",
+      "cz": "Udělám to. Dostanu tu kouli z pilíře.",
+      "source": "pre_existing",
+      "original_cz": "Udělám to. Dostanu tu kouli z pilíře."
+    },
+    {
+      "key": "Scar_022_f",
+      "en": "I knew you'd see reason. If it were me, I'd start by <Lore>destroying the hideous flowers</Lore> scattered about. I never have cared for them...",
+      "cz": "Věděl jsem, že pochopíš rozum. Kdybych to byl já, začal bych tím, že <Lore>zničím ty ohavné květiny</Lore> rozházené kolem. Nikdy jsem se o ně nestaral...",
+      "source": "pre_existing",
+      "original_cz": "Věděl jsem, že pochopíš rozum. Kdybych to byl já, začal bych tím, že <Lore>zničím ty ohavné květiny</Lore> rozházené kolem. Nikdy jsem se o ně nestaral..."
+    },
+    {
+      "key": "Scar_010_f",
+      "en": "Unfortunately, there's one minor inconvenience stopping us from assuming power.",
+      "cz": "Bohužel nám v převzetí moci brání jedna drobná nepříjemnost.",
+      "source": "pre_existing",
+      "original_cz": "Bohužel nám v převzetí moci brání jedna drobná nepříjemnost."
+    },
+    {
+      "key": "Scar_011_f",
+      "en": "It's that... that monstrosity there, near the end of the river.",
+      "cz": "To je ta... ta obluda tam, blízko konce řeky.",
+      "source": "pre_existing",
+      "original_cz": "To je ta... ta obluda tam, blízko konce řeky."
+    },
+    {
+      "key": "Scar_012_f",
+      "en": "You mean... the Pillar and the Orb of Nurturing?",
+      "cz": "Myslíš... Pilíř a Kouli Péče?",
+      "source": "pre_existing",
+      "original_cz": "Myslíš... Pilíř a Kouli Péče?"
+    },
+    {
+      "key": "Scar_013_f",
+      "en": "Precisely. The windbag with the white mane spends hours examining it, playacting as if he's trying to understand its power.",
+      "cz": "Přesně tak. Ten mládenec s bílou hřívou tráví hodiny jeho zkoumáním a hraje si, jako by se snažil pochopit jeho moc.",
+      "source": "pre_existing",
+      "original_cz": "Přesně tak. Ten mládenec s bílou hřívou tráví hodiny jeho zkoumáním a hraje si, jako by se snažil pochopit jeho moc."
+    },
+    {
+      "key": "Scar_014_f",
+      "en": "But I'm certain it's there to watch over us. To keep us in our place, as it were.",
+      "cz": "Ale jsem si jistý, že je tam, aby na nás dohlíželo. Aby nás, dalo by se říci, udrželo na našem místě.",
+      "source": "pre_existing",
+      "original_cz": "Ale jsem si jistý, že je tam, aby na nás dohlíželo. Aby nás, dalo by se říci, udrželo na našem místě."
+    },
+    {
+      "key": "Scar_015_f",
+      "en": "I... I guess we could tear the Orb out... like I tore out the one in the Glade of Trust...",
+      "cz": "Já... asi bychom mohli vytrhnout Kouli... jako jsem vytrhl tu v Mýtině důvěry...",
+      "source": "pre_existing",
+      "original_cz": "Já... asi bychom mohli vytrhnout Kouli... jako jsem vytrhl tu v Mýtině důvěry..."
+    },
+    {
+      "key": "Scar_016_f",
+      "en": "Precisely. And that's just what I've tried.",
+      "cz": "Přesně tak. A to je přesně to, co jsem zkoušel.",
+      "source": "pre_existing",
+      "original_cz": "Přesně tak. A to je přesně to, co jsem zkoušel."
+    },
+    {
+      "key": "Scar_017_f",
+      "en": "But it seems to feed off the nature around it. If only someone could injure the flora and fauna — temporarily, of course — perhaps you'd be able to destroy it.",
+      "cz": "Ale zdá se, že se živí okolní přírodou. Kdyby jen někdo mohl poškodit flóru a faunu – samozřejmě dočasně – možná by se to dalo zničit.",
+      "source": "pre_existing",
+      "original_cz": "Ale zdá se, že se živí okolní přírodou. Kdyby jen někdo mohl poškodit flóru a faunu – samozřejmě dočasně – možná by se to dalo zničit."
+    },
+    {
+      "key": "Scar_008_f",
+      "en": "Ugh. Good, evil... ridiculous distinctions that pompous windbag with the shaggy white mane put in your head.",
+      "cz": "Fuj. Dobro, zlo... směšné rozdíly, které ti vštípil do hlavy ten nafoukaný buldoček s rozcuchanou bílou hřívou.",
+      "source": "pre_existing",
+      "original_cz": "Fuj. Dobro, zlo... směšné rozdíly, které ti vštípil do hlavy ten nafoukaný buldoček s rozcuchanou bílou hřívou."
+    },
+    {
+      "key": "Scar_009_f",
+      "en": "Only because you haven't seen the good I — er, you — could do.",
+      "cz": "Jen proto, že jsi neviděl to dobro, které já — ehm, ty — bych mohl udělat.",
+      "source": "pre_existing",
+      "original_cz": "Jen proto, že jsi neviděl to dobro, které já — ehm, ty — bych mohl udělat."
+    },
+    {
+      "key": "Scar_002_f",
+      "en": "Oh, {PlayerName}, you wound me. My intentions are honorable. I promise.",
+      "cz": "Ach, {PlayerName}, zranil jsi mě. Moje úmysly jsou čestné. Slibuji.",
+      "source": "pre_existing",
+      "original_cz": "Ach, {PlayerName}, zranil jsi mě. Moje úmysly jsou čestné. Slibuji."
+    },
+    {
+      "key": "Scar_003_f",
+      "en": "Manners, {PlayerName}. Churlishness is far from endearing.",
+      "cz": "Způsoby, {PlayerName}. Drzost má daleko k roztomilosti.",
+      "source": "pre_existing",
+      "original_cz": "Způsoby, {PlayerName}. Drzost má daleko k roztomilosti."
+    }
+  ],
+  "DarkMountainsUpdate_Scar/Scar_MRQS130C_LightInTheDark_MRQS130C_LightInTheDark_BringItem01.locbin": [
+    {
+      "key": "Scar_005_f",
+      "en": "Ah, {PlayerName}. Just who I was thinking of. By my estimations, you're doing a rather poor job ruling over this Valley.",
+      "cz": "Aha, {PlayerName}. Přesně na toho jsem myslel. Podle mého odhadu se ti v tomto údolí docela špatně vládne.",
+      "source": "pre_existing",
+      "original_cz": "Aha, {PlayerName}. Přesně na toho jsem myslel. Podle mého odhadu se ti v tomto údolí docela špatně vládne."
+    },
+    {
+      "key": "Scar_006_f",
+      "en": "Why, it looks to me like the sky is falling in.",
+      "cz": "Připadá mi, jako by se na mě řítila obloha.",
+      "source": "pre_existing",
+      "original_cz": "Připadá mi, jako by se na mě řítila obloha."
+    },
+    {
+      "key": "Scar_007_f",
+      "en": "Are you sure you wouldn't be happier with someone more cunning in charge?",
+      "cz": "Jsi si jistý/á, že bys nebyl/a šťastnější s někým mazanějším ve vedení?",
+      "source": "pre_existing",
+      "original_cz": "Jsi si jistý/á, že bys nebyl/a šťastnější s někým mazanějším ve vedení?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Nice try, Scar.",
+      "cz": "Pěkný pokus, Scare.",
+      "source": "pre_existing",
+      "original_cz": "Pěkný pokus, Scare."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I'll think about it. But you have to help me first.",
+      "cz": "Promyslím si to. Ale nejdřív mi musíš pomoct.",
+      "source": "pre_existing",
+      "original_cz": "Promyslím si to. Ale nejdřív mi musíš pomoct."
+    },
+    {
+      "key": "Player_000_choice_003_f",
+      "en": "Hm... someone like Mufasa, you mean?",
+      "cz": "Hm... myslíš někoho jako Mufasa?",
+      "source": "pre_existing",
+      "original_cz": "Hm... myslíš někoho jako Mufasa?"
+    },
+    {
+      "key": "Scar_008_f",
+      "en": "I've no idea what you mean.",
+      "cz": "Nemám tušení, co tím myslíš.",
+      "source": "pre_existing",
+      "original_cz": "Nemám tušení, co tím myslíš."
+    },
+    {
+      "key": "Scar_013_f",
+      "en": "But if you haven't come here to ask me to reign over the Valley... then what DO you want?",
+      "cz": "Ale pokud jsi sem nepřišel, abys mě požádal, abych vládl Údolí... tak co CHCEŠ?",
+      "source": "pre_existing",
+      "original_cz": "Ale pokud jsi sem nepřišel, abys mě požádal, abych vládl Údolí... tak co CHCEŠ?"
+    },
+    {
+      "key": "Scar_015_f",
+      "en": "I found something in your cave. I think it used to belong to the Forgotten.",
+      "cz": "Našel jsem něco ve tvé jeskyni. Myslím, že to patřilo Zapomenutým.",
+      "source": "pre_existing",
+      "original_cz": "Našel jsem něco ve tvé jeskyni. Myslím, že to patřilo Zapomenutým."
+    },
+    {
+      "key": "Scar_016_f",
+      "en": "It might be the key to stopping the Forgotten's plans. Do you know the story behind it?",
+      "cz": "Možná je to klíč k zastavení plánů Zapomenutých. Znáš příběh, který se za tím skrývá?",
+      "source": "pre_existing",
+      "original_cz": "Možná je to klíč k zastavení plánů Zapomenutých. Znáš příběh, který se za tím skrývá?"
+    },
+    {
+      "key": "Scar_017_f",
+      "en": "...",
+      "cz": "...",
+      "source": "pre_existing",
+      "original_cz": "..."
+    },
+    {
+      "key": "Scar_018_f",
+      "en": "No. I've never seen it before.",
+      "cz": "Ne. Nikdy jsem to předtím neviděl/a.",
+      "source": "pre_existing",
+      "original_cz": "Ne. Nikdy jsem to předtím neviděl/a."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Are you sure?",
+      "cz": "Jste si jistý/á?",
+      "source": "pre_existing",
+      "original_cz": "Jste si jistý/á?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Maybe the Forgetting's gotten to you.",
+      "cz": "Možná tě zasáhlo Zapomnění.",
+      "source": "pre_existing",
+      "original_cz": "Možná tě zasáhlo Zapomnění."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Why do I get the vibe that you're lying?",
+      "cz": "Proč mám pocit, že lžeš?",
+      "source": "pre_existing",
+      "original_cz": "Proč mám pocit, že lžeš?"
+    },
+    {
+      "key": "Scar_019_f",
+      "en": "Positively.",
+      "cz": "Rozhodně.",
+      "source": "pre_existing",
+      "original_cz": "Rozhodně."
+    },
+    {
+      "key": "Scar_022_f",
+      "en": "Besides, why would I want to remember such a... such a hideous, charmless image of me.",
+      "cz": "Kromě toho, proč bych si měl pamatovat tak... tak ohavný, bez šarmu obraz sebe sama.",
+      "source": "pre_existing",
+      "original_cz": "Kromě toho, proč bych si měl pamatovat tak... tak ohavný, bez šarmu obraz sebe sama."
+    },
+    {
+      "key": "Scar_023_f",
+      "en": "Aha! So you admit it's a drawing of YOU!",
+      "cz": "Aha! Takže přiznáváš, že je to TEBE kresba!",
+      "source": "pre_existing",
+      "original_cz": "Aha! Takže přiznáváš, že je to TEBE kresba!"
+    },
+    {
+      "key": "Scar_024_f",
+      "en": "...",
+      "cz": "...",
+      "source": "pre_existing",
+      "original_cz": "..."
+    },
+    {
+      "key": "Scar_025_f",
+      "en": "Please, Scar. This might be the only way to stop the Forgotten and save the Valley.",
+      "cz": "Prosím, Scare. Tohle by mohl být jediný způsob, jak zastavit Zapomenuté a zachránit Údolí.",
+      "source": "pre_existing",
+      "original_cz": "Prosím, Scare. Tohle by mohl být jediný způsob, jak zastavit Zapomenuté a zachránit Údolí."
+    },
+    {
+      "key": "Scar_001_f",
+      "en": "*sigh* ... Fine. If I must, to ensure I have a kingdom left to rule over, then... I'll tell you.",
+      "cz": "*povzdech* ... Dobře. Pokud musím, abych si zajistil, že mi zbude království, kterému budu vládnout, tak... vám to řeknu.",
+      "source": "pre_existing",
+      "original_cz": "*povzdech* ... Dobře. Pokud musím, abych si zajistil, že mi zbude království, kterému budu vládnout, tak... vám to řeknu."
+    },
+    {
+      "key": "Scar_002_f",
+      "en": "And... I suppose you are the closest thing I have to a... well, to someone I tolerate.",
+      "cz": "A... předpokládám, že jsi mi nejblíž k... no, k někomu, koho toleruji.",
+      "source": "pre_existing",
+      "original_cz": "A... předpokládám, že jsi mi nejblíž k... no, k někomu, koho toleruji."
+    },
+    {
+      "key": "Scar_028_f",
+      "en": "You made this for me, {PlayerName}. When you were just a cub.",
+      "cz": "Tohle jsi pro mě udělal, {PlayerName}. Když jsi byl ještě mládě.",
+      "source": "pre_existing",
+      "original_cz": "Tohle jsi pro mě udělal, {PlayerName}. Když jsi byl ještě mládě."
+    },
+    {
+      "key": "Scar_029_f",
+      "en": "It hardly captures my likeness. But, I admit I found it rather... nice... to receive a gift. Even such a pitiful one.",
+      "cz": "Stěží to vystihuje mou podobu. Ale přiznávám, že mi přišlo docela... milé... dostat dárek. I takový ubohý.",
+      "source": "pre_existing",
+      "original_cz": "Stěží to vystihuje mou podobu. Ale přiznávám, že mi přišlo docela... milé... dostat dárek. I takový ubohý."
+    },
+    {
+      "key": "Scar_030_f",
+      "en": "I've kept it ever since.",
+      "cz": "Od té doby si to schovávám.",
+      "source": "pre_existing",
+      "original_cz": "Od té doby si to schovávám."
+    },
+    {
+      "key": "Scar_031_f",
+      "en": "Thanks, Scar. Your story might help me stop the Forgotten.",
+      "cz": "Díky, Scare. Tvůj příběh by mi mohl pomoci zastavit Zapomenuté.",
+      "source": "pre_existing",
+      "original_cz": "Díky, Scare. Tvůj příběh by mi mohl pomoci zastavit Zapomenuté."
+    },
+    {
+      "key": "Scar_032_f",
+      "en": "Do have a bit of mercy for the Forgotten.",
+      "cz": "Mějte trochu slitování se Zapomenutými.",
+      "source": "pre_existing",
+      "original_cz": "Mějte trochu slitování se Zapomenutými."
+    },
+    {
+      "key": "Scar_033_f",
+      "en": "Imagine what they must think, watching you ruling over all that the light touches while they are consigned to the shadows.",
+      "cz": "Představ si, co si asi myslí, když tě sledují, jak vládneš vším, čeho se dotkne světlo, zatímco oni jsou odsouzeni ke stínu.",
+      "source": "pre_existing",
+      "original_cz": "Představ si, co si asi myslí, když tě sledují, jak vládneš vším, čeho se dotkne světlo, zatímco oni jsou odsouzeni ke stínu."
+    },
+    {
+      "key": "Scar_034_f",
+      "en": "I know all too well how that feels.",
+      "cz": "Vím až moc dobře, jaké to je.",
+      "source": "pre_existing",
+      "original_cz": "Vím až moc dobře, jaké to je."
+    },
+    {
+      "key": "Scar_003_f",
+      "en": "Whatever I know about that thing... I'd sooner take it to the grave than tell you.",
+      "cz": "Ať už o té věci vím cokoli... Raději si to vezmu do hrobu, než abych ti to řekl.",
+      "source": "pre_existing",
+      "original_cz": "Ať už o té věci vím cokoli... Raději si to vezmu do hrobu, než abych ti to řekl."
+    },
+    {
+      "key": "Scar_004_f",
+      "en": "Look... maybe you don't trust me enough to tell me yet.",
+      "cz": "Podívej... možná mi ještě nevěříš natolik, abys mi to řekl/a.",
+      "source": "pre_existing",
+      "original_cz": "Podívej... možná mi ještě nevěříš natolik, abys mi to řekl/a."
+    },
+    {
+      "key": "Scar_026_f",
+      "en": "But sooner or later, Scar... I'll show you that I'm your friend. You'll tell me.",
+      "cz": "Ale dříve nebo později, Scare... ti ukážu, že jsem tvůj přítel. Řekneš mi to.",
+      "source": "pre_existing",
+      "original_cz": "Ale dříve nebo později, Scare... ti ukážu, že jsem tvůj přítel. Řekneš mi to."
+    },
+    {
+      "key": "Scar_027_f",
+      "en": "I highly doubt it.",
+      "cz": "O tom silně pochybuji.",
+      "source": "pre_existing",
+      "original_cz": "O tom silně pochybuji."
+    },
+    {
+      "key": "Scar_020_f",
+      "en": "Hardly. I recall far too much for that to have happened.",
+      "cz": "Sotva. Pamatuji si toho až příliš mnoho na to, aby se to stalo.",
+      "source": "pre_existing",
+      "original_cz": "Sotva. Pamatuji si toho až příliš mnoho na to, aby se to stalo."
+    },
+    {
+      "key": "Scar_021_f",
+      "en": "I have absolutely no idea.",
+      "cz": "Vůbec nemám tušení.",
+      "source": "pre_existing",
+      "original_cz": "Vůbec nemám tušení."
+    },
+    {
+      "key": "Scar_009_f",
+      "en": "Ugh. Yet again, I'm expected to do all the work with none of the reward.",
+      "cz": "Uf. Zase se ode mě očekává, že odvedu všechnu práci bez jakékoli odměny.",
+      "source": "pre_existing",
+      "original_cz": "Uf. Zase se ode mě očekává, že odvedu všechnu práci bez jakékoli odměny."
+    },
+    {
+      "key": "Scar_014_f",
+      "en": "What do you want?",
+      "cz": "Co chceš?",
+      "source": "pre_existing",
+      "original_cz": "Co chceš?"
+    },
+    {
+      "key": "Scar_010_f",
+      "en": "NEVER speak that name in my presence!",
+      "cz": "NIKDY nevyslovuj to jméno v mé přítomnosti!",
+      "source": "pre_existing",
+      "original_cz": "NIKDY nevyslovuj to jméno v mé přítomnosti!"
+    },
+    {
+      "key": "Scar_011_f",
+      "en": "Er, right... sorry.",
+      "cz": "Ehm, jasně... promiň.",
+      "source": "pre_existing",
+      "original_cz": "Ehm, jasně... promiň."
+    },
+    {
+      "key": "Scar_012_f",
+      "en": "Well, if you haven't come all this way just to insult me... what do you want?",
+      "cz": "No, pokud jsi nepřišel celou tu cestu jen proto, abys mě urazil... co chceš?",
+      "source": "pre_existing",
+      "original_cz": "No, pokud jsi nepřišel celou tu cestu jen proto, abys mě urazil... co chceš?"
+    }
+  ],
+  "DarkMountainsUpdate_Scar/Scar_MRQS130C_LightInTheDark_MRQS130C_LightInTheDark_BringItem02.locbin": [
+    {
+      "key": "Scar_013_f",
+      "en": "Come on, Scar. Tell me the truth about the drawing. It might save the whole Valley!",
+      "cz": "No tak, Scare. Řekni mi pravdu o té kresbě. Možná to zachrání celé Údolí!",
+      "source": "pre_existing",
+      "original_cz": "No tak, Scare. Řekni mi pravdu o té kresbě. Možná to zachrání celé Údolí!"
+    },
+    {
+      "key": "Scar_010_f",
+      "en": "I know all too well how that feels.",
+      "cz": "Vím až moc dobře, jaké to je.",
+      "source": "pre_existing",
+      "original_cz": "Vím až moc dobře, jaké to je."
+    },
+    {
+      "key": "Scar_002_f",
+      "en": "*sigh* ... Fine. If I must, to ensure I have a kingdom left to rule over, then... I'll tell you.",
+      "cz": "*povzdech* ... Dobře. Pokud musím, abych si zajistil, že mi zbude království, kterému budu vládnout, tak... vám to řeknu.",
+      "source": "pre_existing",
+      "original_cz": "*povzdech* ... Dobře. Pokud musím, abych si zajistil, že mi zbude království, kterému budu vládnout, tak... vám to řeknu."
+    },
+    {
+      "key": "Scar_003_f",
+      "en": "And... I suppose you are the closest thing I have to a... well, to someone I tolerate.",
+      "cz": "A... předpokládám, že jsi mi nejblíž k... no, k někomu, koho toleruji.",
+      "source": "pre_existing",
+      "original_cz": "A... předpokládám, že jsi mi nejblíž k... no, k někomu, koho toleruji."
+    },
+    {
+      "key": "Scar_004_f",
+      "en": "You made this for me, {PlayerName}. When you were just a cub.",
+      "cz": "Tohle jsi pro mě udělal, {PlayerName}. Když jsi byl ještě mládě.",
+      "source": "pre_existing",
+      "original_cz": "Tohle jsi pro mě udělal, {PlayerName}. Když jsi byl ještě mládě."
+    },
+    {
+      "key": "Scar_005_f",
+      "en": "It hardly captures my likeness. But, I admit I found it rather... nice... to receive a gift. Even such a pitiful one.",
+      "cz": "Stěží to vystihuje mou podobu. Ale přiznávám, že mi přišlo docela... milé... dostat dárek. I takový ubohý.",
+      "source": "pre_existing",
+      "original_cz": "Stěží to vystihuje mou podobu. Ale přiznávám, že mi přišlo docela... milé... dostat dárek. I takový ubohý."
+    },
+    {
+      "key": "Scar_006_f",
+      "en": "I've kept it ever since.",
+      "cz": "Od té doby si to schovávám.",
+      "source": "pre_existing",
+      "original_cz": "Od té doby si to schovávám."
+    },
+    {
+      "key": "Scar_007_f",
+      "en": "Thanks, Scar. Your story might help me stop the Forgotten.",
+      "cz": "Díky, Scare. Tvůj příběh by mi mohl pomoci zastavit Zapomenuté.",
+      "source": "pre_existing",
+      "original_cz": "Díky, Scare. Tvůj příběh by mi mohl pomoci zastavit Zapomenuté."
+    },
+    {
+      "key": "Scar_008_f",
+      "en": "Do have a bit of mercy for the Forgotten.",
+      "cz": "Mějte trochu slitování se Zapomenutými.",
+      "source": "pre_existing",
+      "original_cz": "Mějte trochu slitování se Zapomenutými."
+    },
+    {
+      "key": "Scar_009_f",
+      "en": "Imagine what they must think, watching you ruling over all that the light touches while they are consigned to the shadows.",
+      "cz": "Představ si, co si asi myslí, když tě sledují, jak vládneš vším, čeho se dotkne světlo, zatímco oni jsou odsouzeni ke stínu.",
+      "source": "pre_existing",
+      "original_cz": "Představ si, co si asi myslí, když tě sledují, jak vládneš vším, čeho se dotkne světlo, zatímco oni jsou odsouzeni ke stínu."
+    }
+  ],
+  "DarkMountainsUpdate_Scar/Scar_MRQS130C_LightInTheDark_MRQS130C_LightInTheDark_Ongoing01.locbin": [
+    {
+      "key": "Scar_000_f",
+      "en": "I have absolutely no interest in whatever you found in my cave. Can't I ever just be left in peace?",
+      "cz": "Vůbec mě nezajímá, cokoli jsi našel v mé jeskyni. Nemůžu si už někdy dopřát klid?",
+      "source": "pre_existing",
+      "original_cz": "Vůbec mě nezajímá, cokoli jsi našel v mé jeskyni. Nemůžu si už někdy dopřát klid?"
+    }
+  ],
+  "DarkMountainsUpdate_Scar/Scar_MRQS130C_LightInTheDark_MRQS130C_LightInTheDark_Ongoing02.locbin": [
+    {
+      "key": "Scar_000_f",
+      "en": "Even if I did know where that hideous thing came from... I'd never tell you.",
+      "cz": "I kdybych věděl, odkud se ta ohavná věc vzala... nikdy bych ti to neřekl.",
+      "source": "pre_existing",
+      "original_cz": "I kdybych věděl, odkud se ta ohavná věc vzala... nikdy bych ti to neřekl."
+    },
+    {
+      "key": "Scar_001_f",
+      "en": "You'll tell me eventually, Scar. I just need to show that you can trust me.",
+      "cz": "Nakonec mi to řekneš, Scare. Jen ti musím ukázat, že mi můžeš věřit.",
+      "source": "pre_existing",
+      "original_cz": "Nakonec mi to řekneš, Scare. Jen ti musím ukázat, že mi můžeš věřit."
+    },
+    {
+      "key": "Scar_002_f",
+      "en": "I won't wait with bated breath.",
+      "cz": "Nebudu čekat se zatajeným dechem.",
+      "source": "pre_existing",
+      "original_cz": "Nebudu čekat se zatajeným dechem."
+    }
+  ],
+  "DarkMountainsUpdate_Scar/Scar_MRQS130C_LightInTheDark_MRQS130C_LightInTheDark_Ongoing03.locbin": [
+    {
+      "key": "Scar_000_f",
+      "en": "Fine. I suppose I could tell you the story behind that image... if you're ready to listen.",
+      "cz": "Dobře. Předpokládám, že bych ti mohl vyprávět příběh, který se skrývá za tím obrázkem... pokud jsi připravený poslouchat.",
+      "source": "pre_existing",
+      "original_cz": "Dobře. Předpokládám, že bych ti mohl vyprávět příběh, který se skrývá za tím obrázkem... pokud jsi připravený poslouchat."
+    }
+  ]
+}

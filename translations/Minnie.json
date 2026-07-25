@@ -1,0 +1,3850 @@
+{
+  "Minnie/Minnie_Barks_Bark001.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Yoo-hoo! {PlayerName}! Hello!",
+      "cz": "Jupí! {PlayerName}! Ahoj!",
+      "source": "pre_existing",
+      "original_cz": "Jupí! {PlayerName}! Ahoj!"
+    }
+  ],
+  "Minnie/Minnie_CrossNPCDialogues_Minnie_MickeyMouse_Discussion001.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Bye, Minnie! I'm goin' fishing!",
+      "cz": "Ahoj, Minnie! Jdu na ryby!",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, Minnie! Jdu na ryby!"
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "But Mickey, it's your turn to weed the garden, and you promised you'd do it today.",
+      "cz": "Ale Mickey, teď je řada na tobě, abys odplevelil zahradu, a slíbil jsi, že to uděláš dnes.",
+      "source": "pre_existing",
+      "original_cz": "Ale Mickey, teď je řada na tobě, abys odplevelil zahradu, a slíbil jsi, že to uděláš dnes."
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "Gosh, Minnie. I'm sorry. I forgot. I'll do that first!",
+      "cz": "Páni, Minnie. Promiň. Zapomněla jsem. Udělám to nejdřív!",
+      "source": "pre_existing",
+      "original_cz": "Páni, Minnie. Promiň. Zapomněla jsem. Udělám to nejdřív!"
+    }
+  ],
+  "Minnie/Minnie_CrossNPCDialogues_Minnie_Moana_Discussion001.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Excuse me, Moana? Do you know of a good place to gather seashells?",
+      "cz": "Promiň, Moano? Nevíš o nějakém dobrém místě, kde se dají sbírat mušle?",
+      "source": "pre_existing",
+      "original_cz": "Promiň, Moano? Nevíš o nějakém dobrém místě, kde se dají sbírat mušle?"
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "Sure! I can show you my favorite part of the Beach.",
+      "cz": "Jasně! Můžu ti ukázat svou oblíbenou část pláže.",
+      "source": "pre_existing",
+      "original_cz": "Jasně! Můžu ti ukázat svou oblíbenou část pláže."
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "Thank you! The shells here are so pretty. I'd love to make something with them.",
+      "cz": "Děkuji! Ty mušle jsou tak krásné. Ráda bych z nich něco vyrobila.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji! Ty mušle jsou tak krásné. Ráda bych z nich něco vyrobila."
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "I could show you how to make a shell necklace, if you'd like.",
+      "cz": "Mohla bych ti ukázat, jak si vyrobit náhrdelník z mušlí, pokud bys chtěla.",
+      "source": "pre_existing",
+      "original_cz": "Mohla bych ti ukázat, jak si vyrobit náhrdelník z mušlí, pokud bys chtěla."
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "That would be wonderful! Thank you!",
+      "cz": "To by bylo skvělé! Děkuji!",
+      "source": "pre_existing",
+      "original_cz": "To by bylo skvělé! Děkuji!"
+    }
+  ],
+  "Minnie/Minnie_CrossNPCDialogues_Minnie_MotherGothel_Discussion001.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Excuse me, Ms. Gothel?",
+      "cz": "Promiňte, paní Gothelová?",
+      "source": "pre_existing",
+      "original_cz": "Promiňte, paní Gothelová?"
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "Hm? Yes, dear?",
+      "cz": "Hm? Ano, drahoušku?",
+      "source": "pre_existing",
+      "original_cz": "Hm? Ano, drahoušku?"
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "I was making some new bows, and I had some lovely dark red fabric...",
+      "cz": "Vyráběla jsem nové mašle a měla jsem krásnou tmavě červenou látku...",
+      "source": "pre_existing",
+      "original_cz": "Vyráběla jsem nové mašle a měla jsem krásnou tmavě červenou látku..."
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "So I made this one, and I thought it would match your dress. Would you like it?",
+      "cz": "Tak jsem ušila tenhle a myslela jsem si, že by se ti hodil k šatům. Líbil by se ti?",
+      "source": "pre_existing",
+      "original_cz": "Tak jsem ušila tenhle a myslela jsem si, že by se ti hodil k šatům. Líbil by se ti?"
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "... Well, it is rather fashionable, and I see you've sewn it with a backstitch. I'll consider wearing your creation as a favor to you.",
+      "cz": "... Ne, je to docela módní a vidím, že jsi to ušila zadním stehem. Nošení tvého výtvoru považuji za laskavost.",
+      "source": "pre_existing",
+      "original_cz": "... Ne, je to docela módní a vidím, že jsi to ušila zadním stehem. Nošení tvého výtvoru považuji za laskavost."
+    },
+    {
+      "key": "Minnie_005_f",
+      "en": "Oh... well, here you go. (I suppose that's \"villain\" for \"thank you.\")",
+      "cz": "Aha... ne, tady to máte. (Předpokládám, že „děkuji“ znamená „padouch“)",
+      "source": "pre_existing",
+      "original_cz": "Aha... ne, tady to máte. (Předpokládám, že „děkuji“ znamená „padouch“)"
+    }
+  ],
+  "Minnie/Minnie_CrossNPCDialogues_Minnie_WallE_Discussion001.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Well, hello there, little one. Aren't you adorable?",
+      "cz": "Ahoj, maličká. Nejsi rozkošná?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, maličká. Nejsi rozkošná?"
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "WALL·E?",
+      "cz": "WALL·E?",
+      "source": "pre_existing",
+      "original_cz": "WALL·E?"
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "Yes, you! Would you like to help me do some gardening?",
+      "cz": "Ano, ty! Chtěla bys mi pomoct se zahradničením?",
+      "source": "pre_existing",
+      "original_cz": "Ano, ty! Chtěla bys mi pomoct se zahradničením?"
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "*whistles* Directive!",
+      "cz": "*píská* Rozkaz!",
+      "source": "pre_existing",
+      "original_cz": "*píská* Rozkaz!"
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "Oh, I think we're going to be very good friends.",
+      "cz": "Myslím, že budeme velmi dobré kamarádky.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že budeme velmi dobré kamarádky."
+    }
+  ],
+  "Minnie/Minnie_Discussions_Discussion001.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Isn't Mickey the sweetest? I'm so happy that we're together.",
+      "cz": "Není Mickey nejsladší? Jsem tak šťastná, že jsme spolu.",
+      "source": "pre_existing",
+      "original_cz": "Není Mickey nejsladší? Jsem tak šťastná, že jsme spolu."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Why do you like him?",
+      "cz": "Proč ho máš rád/a?",
+      "source": "pre_existing",
+      "original_cz": "Proč ho máš rád/a?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "You seem perfect for each other.",
+      "cz": "Zdá se, že se k sobě perfektně hodíte.",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že se k sobě perfektně hodíte."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "You look really similar.",
+      "cz": "Vypadáte opravdu podobně.",
+      "source": "pre_existing",
+      "original_cz": "Vypadáte opravdu podobně."
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "Well, he cares about everyone, and he's so optimistic. And he always makes me laugh.",
+      "cz": "Ne, záleží mu na všem a je tak optimistický. A vždycky se rozesměje.",
+      "source": "pre_existing",
+      "original_cz": "Ne, záleží mu na všem a je tak optimistický. A vždycky se rozesměje."
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "What do you look for in a partner?",
+      "cz": "Co hledáte u partnera?",
+      "source": "pre_existing",
+      "original_cz": "Co hledáte u partnera?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Humor.",
+      "cz": "Humor.",
+      "source": "pre_existing",
+      "original_cz": "Humor."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Intelligence.",
+      "cz": "Inteligence.",
+      "source": "pre_existing",
+      "original_cz": "Inteligence."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Money.",
+      "cz": "Peníze.",
+      "source": "pre_existing",
+      "original_cz": "Peníze."
+    },
+    {
+      "key": "Minnie_008_f",
+      "en": "Me too! Mickey's so funny. It's one of my favorite things about him.",
+      "cz": "Já taky! Mickey je tak vtipný. Je to jedna z věcí, které na něm mám nejraději.",
+      "source": "pre_existing",
+      "original_cz": "Já taky! Mickey je tak vtipný. Je to jedna z věcí, které na něm mám nejraději."
+    },
+    {
+      "key": "Minnie_009_f",
+      "en": "That's very important! I love how clever Mickey is. He can find a smart solution to the stickiest problem.",
+      "cz": "To je velmi důležité! Miluju, jak je Mickey chytrý. Dokáže najít chytré řešení i toho nejzáludnějšího problému.",
+      "source": "pre_existing",
+      "original_cz": "To je velmi důležité! Miluju, jak je Mickey chytrý. Dokáže najít chytré řešení i toho nejzáludnějšího problému."
+    },
+    {
+      "key": "Minnie_010_f",
+      "en": "Oh. That's never been very important to us, but I hope you find whatever makes you happy.",
+      "cz": "Aha. To pro nás nikdy nebylo moc důležité, ale doufám, že si najdeš cokoli, co tě udělá šťastným.",
+      "source": "pre_existing",
+      "original_cz": "Aha. To pro nás nikdy nebylo moc důležité, ale doufám, že si najdeš cokoli, co tě udělá šťastným."
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "I think we are! But every relationship takes work. Mickey can be rather impulsive.",
+      "cz": "Myslím, že ano! Ale každý vztah vyžaduje úsilí. Mickey dokáže být dost impulzivní.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že ano! Ale každý vztah vyžaduje úsilí. Mickey dokáže být dost impulzivní."
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "And sometimes I can be a little stubborn. So, we do have the occasional argument.",
+      "cz": "A někdy umím být trochu tvrdohlavá. Takže se občas pohádáme.",
+      "source": "pre_existing",
+      "original_cz": "A někdy umím být trochu tvrdohlavá. Takže se občas pohádáme."
+    },
+    {
+      "key": "Minnie_005_f",
+      "en": "What do you do when you argue with someone you love?",
+      "cz": "Co děláš, když se hádáš s někým, koho miluješ?",
+      "source": "pre_existing",
+      "original_cz": "Co děláš, když se hádáš s někým, koho miluješ?"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Try to win.",
+      "cz": "Zkuse vyhrát.",
+      "source": "pre_existing",
+      "original_cz": "Zkuse vyhrát."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Try to understand.",
+      "cz": "Snažte se to pochopit.",
+      "source": "pre_existing",
+      "original_cz": "Snažte se to pochopit."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Cry.",
+      "cz": "Pláč.",
+      "source": "pre_existing",
+      "original_cz": "Pláč."
+    },
+    {
+      "key": "Minnie_011_f",
+      "en": "I can understand the temptation to try and argue your point.",
+      "cz": "Chápu pokušení pokusit se argumentovat vaším názorem.",
+      "source": "pre_existing",
+      "original_cz": "Chápu pokušení pokusit se argumentovat vaším názorem."
+    },
+    {
+      "key": "Minnie_012_f",
+      "en": "But when Mickey and I disagree, we always try to look at it from the other's point of view.",
+      "cz": "Ale když se s Mickeym neshodneme, vždycky se na to pokusíme podívat z pohledu toho druhého.",
+      "source": "pre_existing",
+      "original_cz": "Ale když se s Mickeym neshodneme, vždycky se na to pokusíme podívat z pohledu toho druhého."
+    },
+    {
+      "key": "Minnie_013_f",
+      "en": "That's a very good idea. I know it can be difficult in the moment.",
+      "cz": "To je velmi dobrý nápad. Vím, že to v tuto chvíli může být těžké.",
+      "source": "pre_existing",
+      "original_cz": "To je velmi dobrý nápad. Vím, že to v tuto chvíli může být těžké."
+    },
+    {
+      "key": "Minnie_014_f",
+      "en": "But I think it's wonderful that you try!",
+      "cz": "Ale myslím, že je skvělé, že se snažíš!",
+      "source": "pre_existing",
+      "original_cz": "Ale myslím, že je skvělé, že se snažíš!"
+    },
+    {
+      "key": "Minnie_015_f",
+      "en": "Oh, I understand what you mean. Being upset with someone you love can hurt.",
+      "cz": "Aha, chápu, co myslíš. Být naštvaný na někoho, koho miluješ, může bolet.",
+      "source": "pre_existing",
+      "original_cz": "Aha, chápu, co myslíš. Být naštvaný na někoho, koho miluješ, může bolet."
+    },
+    {
+      "key": "Minnie_016_f",
+      "en": "I hope you always find a way through it.",
+      "cz": "Doufám, že si s tím vždycky cestu najdeš.",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že si s tím vždycky cestu najdeš."
+    },
+    {
+      "key": "Minnie_006_f",
+      "en": "Hee-hee! I suppose we do.",
+      "cz": "Ahoj! Tak jo.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj! Tak jo."
+    },
+    {
+      "key": "Minnie_007_f",
+      "en": "And it's such a coincidence that we have the same last name. Isn't that funny?",
+      "cz": "A je to taková náhoda, že máme stejné příjmení. Není to vtipné?",
+      "source": "pre_existing",
+      "original_cz": "A je to taková náhoda, že máme stejné příjmení. Není to vtipné?"
+    }
+  ],
+  "Minnie/Minnie_Discussions_Discussion002.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "You know, {PlayerName}, I'm actually glad we have some villains in the Village.",
+      "cz": "Víš, {PlayerName}, jsem vlastně ráda, že máme ve vesnici nějaké padouchy.",
+      "source": "pre_existing",
+      "original_cz": "Víš, {PlayerName}, jsem vlastně ráda, že máme ve vesnici nějaké padouchy."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Me too.",
+      "cz": "Já taky.",
+      "source": "pre_existing",
+      "original_cz": "Já taky."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "They're dangerous.",
+      "cz": "Jsou nebezpeční.",
+      "source": "pre_existing",
+      "original_cz": "Jsou nebezpeční."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Villains are cool.",
+      "cz": "Zločinci jsou skvělí.",
+      "source": "pre_existing",
+      "original_cz": "Zločinci jsou skvělí."
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "I think it means we have the chance to show them the value of kindness.",
+      "cz": "Myslím, že to znamená, že máme šanci ukázat hodnotu laskavosti.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že to znamená, že máme šanci ukázat hodnotu laskavosti."
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "If they see how much good comes from helping others, maybe they'll change their perspectives.",
+      "cz": "Pokud uvidím, kolik dobrého plynu z pomoci druhým, možná změní svůj pohled na věc.",
+      "source": "pre_existing",
+      "original_cz": "Pokud uvidím, kolik dobrého plynu z pomoci druhým, možná změní svůj pohled na věc."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "That would be great!",
+      "cz": "To by bylo skvělé!",
+      "source": "pre_existing",
+      "original_cz": "To by bylo skvělé!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Kindness? Sounds boring.",
+      "cz": "Laskavost? Zní to nudně.",
+      "source": "pre_existing",
+      "original_cz": "Laskavost? Zní to nudně."
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "Wouldn't it? Let's be sure to set good examples.",
+      "cz": "Není to tak? Určitě půjdeme dobrým příkladem.",
+      "source": "pre_existing",
+      "original_cz": "Není to tak? Určitě půjdeme dobrým příkladem."
+    },
+    {
+      "key": "Minnie_005_f",
+      "en": "Hmm... Well, I think if you tried it, you'd find it's very rewarding.",
+      "cz": "Hmm... Ne, myslím, že kdybyste to zkusili, zjistili byste, že je to velmi obohacující.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Ne, myslím, že kdybyste to zkusili, zjistili byste, že je to velmi obohacující."
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "Oh, I'm not sure I'd go that far. There's a reason they're called \"villains\"! Besides...",
+      "cz": "Ach, nejsem si jistá, jestli bych zašla tak daleko. Existuje důvod, proč se jim říká „padouši“! Kromě toho...",
+      "source": "pre_existing",
+      "original_cz": "Ach, nejsem si jistá, jestli bych zašla tak daleko. Existuje důvod, proč se jim říká „padouši“! Kromě toho..."
+    }
+  ],
+  "Minnie/Minnie_Discussions_Discussion003.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "I've been thinking of writing a song about the Valley.",
+      "cz": "Přemýšlím o napsání písně o údolí.",
+      "source": "pre_existing",
+      "original_cz": "Přemýšlím o napsání písně o údolí."
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "But I'm having trouble thinking of a good name for it.",
+      "cz": "Ale mám problém vymyslet pro to dobré jméno.",
+      "source": "pre_existing",
+      "original_cz": "Ale mám problém vymyslet pro to dobré jméno."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "\"Dreamlight Ditty.\"",
+      "cz": "\"Píseň o Světle snů.\"",
+      "source": "pre_existing",
+      "original_cz": "\"Píseň o Světle snů.\""
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "\"The Valley Twist.\"",
+      "cz": "\"Údolní zvrat.\"",
+      "source": "pre_existing",
+      "original_cz": "\"Údolní zvrat.\""
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "\"Let It Go.\"",
+      "cz": "\"Nech to být.\"",
+      "source": "pre_existing",
+      "original_cz": "\"Nech to být.\""
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "Oh, that's adorable! Thank you!",
+      "cz": "To je rozkošné! Děkuji!",
+      "source": "pre_existing",
+      "original_cz": "To je rozkošné! Děkuji!"
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "That would be a perfect name for a dance tune!",
+      "cz": "To by byl perfektní název pro taneční melodii!",
+      "source": "pre_existing",
+      "original_cz": "To by byl perfektní název pro taneční melodii!"
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "Hmm... Sounds familiar. Hee-hee!",
+      "cz": "Hmm... Zní to povědomě. Ahoj!",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Zní to povědomě. Ahoj!"
+    }
+  ],
+  "Minnie/Minnie_Discussions_Discussion004.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "I love polka dots. They're one of my favorite patterns.",
+      "cz": "Miluji puntiky. Je to jeden z mých nejoblíbenějších vzorů.",
+      "source": "pre_existing",
+      "original_cz": "Miluji puntiky. Je to jeden z mých nejoblíbenějších vzorů."
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "What patterns do you like?",
+      "cz": "Jaké vzorce se ti líbí?",
+      "source": "pre_existing",
+      "original_cz": "Jaké vzorce se ti líbí?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Solid colors.",
+      "cz": "Jednotné barvy.",
+      "source": "pre_existing",
+      "original_cz": "Jednotné barvy."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Polka dots, too.",
+      "cz": "Takové puntíky.",
+      "source": "pre_existing",
+      "original_cz": "Takové puntíky."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Plaid.",
+      "cz": "Plád.",
+      "source": "pre_existing",
+      "original_cz": "Plád."
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "Those are nice too. I quite like red and pink.",
+      "cz": "Ty jsou taky hezké. Docela se mi líbí červená a růžová.",
+      "source": "pre_existing",
+      "original_cz": "Ty jsou taky hezké. Docela se mi líbí červená a růžová."
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "How fun! We should wear matching outfits someday!",
+      "cz": "To je zábava! Jednou bychom si měli obléct stejné oblečení!",
+      "source": "pre_existing",
+      "original_cz": "To je zábava! Jednou bychom si měli obléct stejné oblečení!"
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "Ooh, I bet you make that work very well!",
+      "cz": "Jé, vsadím se, že tohle zvládneš skvěle!",
+      "source": "pre_existing",
+      "original_cz": "Jé, vsadím se, že tohle zvládneš skvěle!"
+    }
+  ],
+  "Minnie/Minnie_Discussions_Discussion005.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "I just love bows! They're my favorite accessory. And there are so many kinds... Butterfly bows. Button bows. Ribbon bows.",
+      "cz": "Miluju mašle! Jsou to můj nejoblíbenější doplněk. A existuje jich tolik druhů... Motýlí mašle. Mašle s knoflíky. Mašle ze stuhy.",
+      "source": "pre_existing",
+      "original_cz": "Miluju mašle! Jsou to můj nejoblíbenější doplněk. A existuje jich tolik druhů... Motýlí mašle. Mašle s knoflíky. Mašle ze stuhy."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I like big poofy bows.",
+      "cz": "Mám rád velké, nafoukané mašle.",
+      "source": "pre_existing",
+      "original_cz": "Mám rád velké, nafoukané mašle."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I like small elegant bows.",
+      "cz": "Mám rád malé elegantní mašle.",
+      "source": "pre_existing",
+      "original_cz": "Mám rád malé elegantní mašle."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I'm not a bow kind of person.",
+      "cz": "Nejsem typ na lukostřelbu.",
+      "source": "pre_existing",
+      "original_cz": "Nejsem typ na lukostřelbu."
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "Those are such fun! My favorite big bow is made out of loops of pretty red ribbon.",
+      "cz": "To je taková zábava! Moje nejoblíbenější velká mašle je vyrobena z oček krásné červené stuhy.",
+      "source": "pre_existing",
+      "original_cz": "To je taková zábava! Moje nejoblíbenější velká mašle je vyrobena z oček krásné červené stuhy."
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "Me too! My favorite small bows are a pair of little navy blue bows. I also have some gold ones I wear on my black shoes.",
+      "cz": "Já taky! Moje nejoblíbenější malé mašle jsou ty malé tmavě modré. Taky mám pár zlatých, které nosím na černých botách.",
+      "source": "pre_existing",
+      "original_cz": "Já taky! Moje nejoblíbenější malé mašle jsou ty malé tmavě modré. Taky mám pár zlatých, které nosím na černých botách."
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "Well, I'm sure you have your own particular style that's perfect for you!",
+      "cz": "Ne, jsem si jistá, že máš svůj vlastní styl, který je pro tebe perfektní!",
+      "source": "pre_existing",
+      "original_cz": "Ne, jsem si jistá, že máš svůj vlastní styl, který je pro tebe perfektní!"
+    }
+  ],
+  "Minnie/Minnie_Discussions_Discussion007.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Did you need something, {PlayerName}?",
+      "cz": "Potřeboval jsi něco, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Potřeboval jsi něco, {PlayerName}?"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "I was wondering...",
+      "cz": "Zajímalo mě...",
+      "source": "pre_existing",
+      "original_cz": "Zajímalo mě..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "What hobbies do you have?",
+      "cz": "Jaké máte koníčky?",
+      "source": "pre_existing",
+      "original_cz": "Jaké máte koníčky?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Do you like to travel?",
+      "cz": "Rádi cestujete?",
+      "source": "pre_existing",
+      "original_cz": "Rádi cestujete?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Is it hard to walk in heels all the time?",
+      "cz": "Je těžké pořád chodit v podpatcích?",
+      "source": "pre_existing",
+      "original_cz": "Je těžké pořád chodit v podpatcích?"
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "I love to do all sorts of things! Garden, play tennis, ice skate. Oh, and I especially love to curl up with a good book.",
+      "cz": "Ráda dělám všechno možné! Zahradničím, hraji tenis, bruslím. A zvláště ráda se schoulím s dobrou knihou.",
+      "source": "pre_existing",
+      "original_cz": "Ráda dělám všechno možné! Zahradničím, hraji tenis, bruslím. A zvláště ráda se schoulím s dobrou knihou."
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "I really do! I just love exploring new places, and learning about their history and customs.",
+      "cz": "Opravdu! Miluji objevování nových míst a poznávání jejich historie a zvyků.",
+      "source": "pre_existing",
+      "original_cz": "Opravdu! Miluji objevování nových míst a poznávání jejich historie a zvyků."
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "And I especially love getting to make new friends!",
+      "cz": "A hlavně ráda si můžu najít nové přátele!",
+      "source": "pre_existing",
+      "original_cz": "A hlavně ráda si můžu najít nové přátele!"
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "I guess I'm just used to it. And I always make sure to have a wide heel so it's very comfortable and safe.",
+      "cz": "Asi jsem si na to prostě zvyklá. A vždycky se ujistím, že mám široký podpatek, aby to bylo pohodlné a bezpečné.",
+      "source": "pre_existing",
+      "original_cz": "Asi jsem si na to prostě zvyklá. A vždycky se ujistím, že mám široký podpatek, aby to bylo pohodlné a bezpečné."
+    }
+  ],
+  "Minnie/Minnie_Discussions_Discussion009.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Oh, {PlayerName}, I just love how the Valley looks at night.",
+      "cz": "Ach, {PlayerName}, prostě miluju, jak údolí v noci vypadá.",
+      "source": "pre_existing",
+      "original_cz": "Ach, {PlayerName}, prostě miluju, jak údolí v noci vypadá."
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "When I'm standing on Dazzle Beach as all the stars come out over the Beach...",
+      "cz": "Když stojím na pláži Dazzle Beach a nad ní vyzařují všechny hvězdy...",
+      "source": "pre_existing",
+      "original_cz": "Když stojím na pláži Dazzle Beach a nad ní vyzařují všechny hvězdy..."
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "It's almost magical.",
+      "cz": "Je to skoro magické.",
+      "source": "pre_existing",
+      "original_cz": "Je to skoro magické."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I feel the same!",
+      "cz": "Cítím to samé!",
+      "source": "pre_existing",
+      "original_cz": "Cítím to samé!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I prefer the daytime.",
+      "cz": "Dávám přednost dennímu světlu.",
+      "source": "pre_existing",
+      "original_cz": "Dávám přednost dennímu světlu."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Right at sunset, that's the best.",
+      "cz": "Právě při západu slunce, to je nejlepší.",
+      "source": "pre_existing",
+      "original_cz": "Právě při západu slunce, to je nejlepší."
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "Somehow I thought you would. You'll have to join Mickey and me on one of our evening strolls.",
+      "cz": "Nějak jsem si myslela, že ano. Budeš se muset přidat ke mně a Mickeymu na jedné z našich večerních procházek.",
+      "source": "pre_existing",
+      "original_cz": "Nějak jsem si myslela, že ano. Budeš se muset přidat ke mně a Mickeymu na jedné z našich večerních procházek."
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "Well, I do love a nice sunny day in the Meadow.",
+      "cz": "Ne, miluju hezký slunečný den na louce.",
+      "source": "pre_existing",
+      "original_cz": "Ne, miluju hezký slunečný den na louce."
+    },
+    {
+      "key": "Minnie_005_f",
+      "en": "But there's something enchanting about the Valley at night.",
+      "cz": "Ale v noci je na údolí něco okouzlujícího.",
+      "source": "pre_existing",
+      "original_cz": "Ale v noci je na údolí něco okouzlujícího."
+    },
+    {
+      "key": "Minnie_006_f",
+      "en": "I agree! Mickey and I love to picnic in the Meadow and watch the sun set over Dream Castle.",
+      "cz": "Souhlasím! S Mickey si rádi piknikujeme na louce a sledujeme západ slunce nad Hradem snů.",
+      "source": "pre_existing",
+      "original_cz": "Souhlasím! S Mickey si rádi piknikujeme na louce a sledujeme západ slunce nad Hradem snů."
+    },
+    {
+      "key": "Minnie_007_f",
+      "en": "It's the prettiest sight in the whole Valley.",
+      "cz": "Je to nejkrásnější pohled v celém údolí.",
+      "source": "pre_existing",
+      "original_cz": "Je to nejkrásnější pohled v celém údolí."
+    }
+  ],
+  "Minnie/Minnie_Discussions_Discussion011.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "You know, {PlayerName}, I've been thinking about the weather.",
+      "cz": "Víš, {PlayerName}, přemýšlela jsem o počasí.",
+      "source": "pre_existing",
+      "original_cz": "Víš, {PlayerName}, přemýšlela jsem o počasí."
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "Really? What's there to think about?",
+      "cz": "Vážně? O čem přemýšlíš?",
+      "source": "pre_existing",
+      "original_cz": "Vážně? O čem přemýšlíš?"
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "Well, it's the one thing we all have in common.",
+      "cz": "Ne, to je jedna věc, kterou máme všichni společné.",
+      "source": "pre_existing",
+      "original_cz": "Ne, to je jedna věc, kterou máme všichni společné."
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "Even if you haven't got anything else to talk about, you can always talk about the weather.",
+      "cz": "I když nemáte o čem jiném mluvit, vždycky si můžete povídat o počasí.",
+      "source": "pre_existing",
+      "original_cz": "I když nemáte o čem jiném mluvit, vždycky si můžete povídat o počasí."
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "Huh. I guess that's true.",
+      "cz": "Hm. To je asi pravda.",
+      "source": "pre_existing",
+      "original_cz": "Hm. To je asi pravda."
+    },
+    {
+      "key": "Minnie_005_f",
+      "en": "Not that I don't have many things to talk to you about. But if we didn't, we could comment on the fact that it's raining today.",
+      "cz": "Ne, že bych s tebou neměla moc o čem mluvit. Ale kdybychom to neměli, mohli bychom se zmínit o tom, že dnes prší.",
+      "source": "pre_existing",
+      "original_cz": "Ne, že bych s tebou neměla moc o čem mluvit. Ale kdybychom to neměli, mohli bychom se zmínit o tom, že dnes prší."
+    },
+    {
+      "key": "Minnie_007_f",
+      "en": "What's your favorite kind of weather?",
+      "cz": "Jaké je tvé oblíbené počasí?",
+      "source": "pre_existing",
+      "original_cz": "Jaké je tvé oblíbené počasí?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Clear skies.",
+      "cz": "Jasná obloha.",
+      "source": "pre_existing",
+      "original_cz": "Jasná obloha."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Rain.",
+      "cz": "DÉŠŤ.",
+      "source": "pre_existing",
+      "original_cz": "DÉŠŤ."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Snow.",
+      "cz": "Sníh.",
+      "source": "pre_existing",
+      "original_cz": "Sníh."
+    },
+    {
+      "key": "Minnie_008_f",
+      "en": "That is nice. When the sky is clear, you can do so many things!",
+      "cz": "To je hezké. Když je jasno, dá se dělat tolik věcí!",
+      "source": "pre_existing",
+      "original_cz": "To je hezké. Když je jasno, dá se dělat tolik věcí!"
+    },
+    {
+      "key": "Minnie_011_f",
+      "en": "You can go bicycling, or play a game, or go on a picnic.",
+      "cz": "Můžeš si jít projet na kole, zahrát si hru nebo si udělat piknik.",
+      "source": "pre_existing",
+      "original_cz": "Můžeš si jít projet na kole, zahrát si hru nebo si udělat piknik."
+    },
+    {
+      "key": "Minnie_012_f",
+      "en": "Or just sit outside and read a wonderful book.",
+      "cz": "Nebo si jen tak sedněte venku a přečtěte si skvělou knihu.",
+      "source": "pre_existing",
+      "original_cz": "Nebo si jen tak sedněte venku a přečtěte si skvělou knihu."
+    },
+    {
+      "key": "Minnie_009_f",
+      "en": "Oh, I do like it when it rains sometimes.",
+      "cz": "Ach, občas se mi líbí, když prší.",
+      "source": "pre_existing",
+      "original_cz": "Ach, občas se mi líbí, když prší."
+    },
+    {
+      "key": "Minnie_013_f",
+      "en": "It's fun to go out with my umbrella and raincoat and smell the fresh air.",
+      "cz": "Je zábava jít ven s deštníkem a pláštěnkou a nasávat čerstvý vzduch.",
+      "source": "pre_existing",
+      "original_cz": "Je zábava jít ven s deštníkem a pláštěnkou a nasávat čerstvý vzduch."
+    },
+    {
+      "key": "Minnie_014_f",
+      "en": "But I also like listening to the rain from my window.",
+      "cz": "Ale taky ráda poslouchám déšť z okna.",
+      "source": "pre_existing",
+      "original_cz": "Ale taky ráda poslouchám déšť z okna."
+    },
+    {
+      "key": "Minnie_010_f",
+      "en": "Oh, snow is so much fun! You can do so many things with it...",
+      "cz": "S tím sněhem je taková zábava! Dá se s ním dělat tolik věcí...",
+      "source": "pre_existing",
+      "original_cz": "S tím sněhem je taková zábava! Dá se s ním dělat tolik věcí..."
+    },
+    {
+      "key": "Minnie_015_f",
+      "en": "Make snowmen, or snow angels, or throw snowballs.",
+      "cz": "Vyrobte sněhuláky, sněhové anděly nebo házejte sněhové koule.",
+      "source": "pre_existing",
+      "original_cz": "Vyrobte sněhuláky, sněhové anděly nebo házejte sněhové koule."
+    },
+    {
+      "key": "Minnie_016_f",
+      "en": "And it's so pretty when it's all new and fresh.",
+      "cz": "A je to tak krásné, když je to celé nové a svěží.",
+      "source": "pre_existing",
+      "original_cz": "A je to tak krásné, když je to celé nové a svěží."
+    },
+    {
+      "key": "Minnie_006_f",
+      "en": "The weather's been so nice in the Village lately.",
+      "cz": "V poslední době je ve vesnici tak krásné počasí.",
+      "source": "pre_existing",
+      "original_cz": "V poslední době je ve vesnici tak krásné počasí."
+    }
+  ],
+  "Minnie/Minnie_Discussions_Discussion012.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "{PlayerName}, there's someone in the Village I'd like to talk to...",
+      "cz": "{PlayerName}, ve vesnici je někdo, s kým bych si ráda promluvila...",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, ve vesnici je někdo, s kým bych si ráda promluvila..."
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "...but I have to admit that I'm a little nervous about it.",
+      "cz": "...ale musím přiznat, že z toho mám trochu nervy.",
+      "source": "pre_existing",
+      "original_cz": "...ale musím přiznat, že z toho mám trochu nervy."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "How can I help?",
+      "cz": "Jak můžu pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Jak můžu pomoct?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I get nervous about talking to people too.",
+      "cz": "Taky mám z rozhovorů s lidmi nervy.",
+      "source": "pre_existing",
+      "original_cz": "Taky mám z rozhovorů s lidmi nervy."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "No need to be nervous! Everyone here is so nice.",
+      "cz": "být nervózní! Všichni tady jsou tak milí.",
+      "source": "pre_existing",
+      "original_cz": "být nervózní! Všichni tady jsou tak milí."
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "Could you give me some advice?",
+      "cz": "Mohla byste mi dát nějakou radu?",
+      "source": "pre_existing",
+      "original_cz": "Mohla byste mi dát nějakou radu?"
+    },
+    {
+      "key": "Minnie_005_f",
+      "en": "You see, I'd like to talk to Ursula.",
+      "cz": "Víte, ráda bych si promluvila s Ursulou.",
+      "source": "pre_existing",
+      "original_cz": "Víte, ráda bych si promluvila s Ursulou."
+    },
+    {
+      "key": "Minnie_008_f",
+      "en": "Ursula? What do you want to talk to her about?",
+      "cz": "Ursulo? O čem s ní chceš mluvit?",
+      "source": "pre_existing",
+      "original_cz": "Ursulo? O čem s ní chceš mluvit?"
+    },
+    {
+      "key": "Minnie_009_f",
+      "en": "Well, I like to be friends with all my neighbors, so I was hoping we could find some things in common.",
+      "cz": "Ne, ráda se přátelím se všemi svými sousedy, takže jsem doufala, že najdeme něco společného.",
+      "source": "pre_existing",
+      "original_cz": "Ne, ráda se přátelím se všemi svými sousedy, takže jsem doufala, že najdeme něco společného."
+    },
+    {
+      "key": "Minnie_010_f",
+      "en": "But I'm not sure she'd be open to it.",
+      "cz": "Ale nejsem si jistá, jestli by tomu byla otevřená.",
+      "source": "pre_existing",
+      "original_cz": "Ale nejsem si jistá, jestli by tomu byla otevřená."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Talk to her like you would anyone else.",
+      "cz": "Mluv s ní jako s kýmkoli jiným.",
+      "source": "pre_existing",
+      "original_cz": "Mluv s ní jako s kýmkoli jiným."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "She's pretty friendly. Just don't sign any contracts.",
+      "cz": "Je docela přátelská. Jen nepodepisujte žádné smlouvy.",
+      "source": "pre_existing",
+      "original_cz": "Je docela přátelská. Jen nepodepisujte žádné smlouvy."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Better not to talk to her. She's a villain.",
+      "cz": "Raději s ní nemluv. Je to padouch.",
+      "source": "pre_existing",
+      "original_cz": "Raději s ní nemluv. Je to padouch."
+    },
+    {
+      "key": "Minnie_011_f",
+      "en": "Are you certain? Is it that easy?",
+      "cz": "Jsi si jistá? Je to tak snadné?",
+      "source": "pre_existing",
+      "original_cz": "Jsi si jistá? Je to tak snadné?"
+    },
+    {
+      "key": "Minnie_017_f",
+      "en": "Definitely. I'll bet if you give Ursula a compliment, you'll become her favorite Villager.",
+      "cz": "Určitě. Vsadím se, že když Ursule složíš kompliment, staneš se jejím nejoblíbenějším vesničanem.",
+      "source": "pre_existing",
+      "original_cz": "Určitě. Vsadím se, že když Ursule složíš kompliment, staneš se jejím nejoblíbenějším vesničanem."
+    },
+    {
+      "key": "Minnie_016_f",
+      "en": "Well, I'll give it a try. Thank you, {PlayerName}!",
+      "cz": "Ne, zkusím to. Děkuji, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Ne, zkusím to. Děkuji, {PlayerName}!"
+    },
+    {
+      "key": "Minnie_012_f",
+      "en": "Oh, I'd never do that! I know she's a villain.",
+      "cz": "To bych nikdy neudělala! Vím, že je to padouch.",
+      "source": "pre_existing",
+      "original_cz": "To bych nikdy neudělala! Vím, že je to padouch."
+    },
+    {
+      "key": "Minnie_014_f",
+      "en": "But everyone should have a few friends.",
+      "cz": "Ale každý by měl mít pár přátel.",
+      "source": "pre_existing",
+      "original_cz": "Ale každý by měl mít pár přátel."
+    },
+    {
+      "key": "Minnie_013_f",
+      "en": "Oh, I know that. But everyone should have a few friends.",
+      "cz": "Jo, to vím. Ale každý by měl mít pár přátel.",
+      "source": "pre_existing",
+      "original_cz": "Jo, to vím. Ale každý by měl mít pár přátel."
+    },
+    {
+      "key": "Minnie_015_f",
+      "en": "I'll think about it. Thank you for always looking out for us, {PlayerName}.",
+      "cz": "Myslím si to. Děkujeme, že se o nás vždycky staráš, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Myslím si to. Děkujeme, že se o nás vždycky staráš, {PlayerName}."
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "It can be scary to talk to someone new...",
+      "cz": "Mluvit s některým novým může být děsivé...",
+      "source": "pre_existing",
+      "original_cz": "Mluvit s některým novým může být děsivé..."
+    },
+    {
+      "key": "Minnie_006_f",
+      "en": "...especially when that someone is Ursula.",
+      "cz": "...zvlášť když je tím někým Ursula.",
+      "source": "pre_existing",
+      "original_cz": "...zvlášť když je tím někým Ursula."
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "That's true. Most everyone here is...",
+      "cz": "To je pravda. všichni oceněni tady jsou...",
+      "source": "pre_existing",
+      "original_cz": "To je pravda. všichni oceněni tady jsou..."
+    },
+    {
+      "key": "Minnie_007_f",
+      "en": "...but I was hoping to talk to Ursula.",
+      "cz": "...ale doufala jsem, že si promluvím s Ursulou.",
+      "source": "pre_existing",
+      "original_cz": "...ale doufala jsem, že si promluvím s Ursulou."
+    }
+  ],
+  "Minnie/Minnie_Discussions_Discussion013.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "I've been thinking, {PlayerName}... Isn't it interesting how all the parts of the Valley are so different?",
+      "cz": "Přemýšlela jsem, {PlayerName}... Není zajímavé, jak moc se všechny části Údolí liší?",
+      "source": "pre_existing",
+      "original_cz": "Přemýšlela jsem, {PlayerName}... Není zajímavé, jak moc se všechny části Údolí liší?"
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "Just walking through the Village, I can visit a forest, a meadow, or a beach!",
+      "cz": "Při procházce vesnicí můžu navštívit les, louku nebo pláž!",
+      "source": "pre_existing",
+      "original_cz": "Při procházce vesnicí můžu navštívit les, louku nebo pláž!"
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "Do you have a favorite?",
+      "cz": "Máš nějakou oblíbenou?",
+      "source": "pre_existing",
+      "original_cz": "Máš nějakou oblíbenou?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "The Forest of Valor.",
+      "cz": "Les státnosti.",
+      "source": "pre_existing",
+      "original_cz": "Les státnosti."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "The Peaceful Meadow.",
+      "cz": "Poklidná louka.",
+      "source": "pre_existing",
+      "original_cz": "Poklidná louka."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Dazzle Beach.",
+      "cz": "Oslňující pláž.",
+      "source": "pre_existing",
+      "original_cz": "Oslňující pláž."
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "Oh, I like the forest, too. The tall trees and their long cool shadows...",
+      "cz": "Ach, taky se mi líbí les. Vysoké stromy a jejich dlouhé chladné stíny...",
+      "source": "pre_existing",
+      "original_cz": "Ach, taky se mi líbí les. Vysoké stromy a jejich dlouhé chladné stíny..."
+    },
+    {
+      "key": "Minnie_006_f",
+      "en": "And all the adorable little forest creatures scurrying about.",
+      "cz": "A všechny ty rozkošné malé lesní stvoření, co pobíhají kolem.",
+      "source": "pre_existing",
+      "original_cz": "A všechny ty rozkošné malé lesní stvoření, co pobíhají kolem."
+    },
+    {
+      "key": "Minnie_007_f",
+      "en": "What do you like to do in the forest?",
+      "cz": "Co rád/a děláš v lese?",
+      "source": "pre_existing",
+      "original_cz": "Co rád/a děláš v lese?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Play hide-and-seek!",
+      "cz": "Hrajte si na schovávanou!",
+      "source": "pre_existing",
+      "original_cz": "Hrajte si na schovávanou!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Wander and explore!",
+      "cz": "Toulejte se a objevujte!",
+      "source": "pre_existing",
+      "original_cz": "Toulejte se a objevujte!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Usually just fetch things for people.",
+      "cz": "Obvykle jen přináším věci lidem.",
+      "source": "pre_existing",
+      "original_cz": "Obvykle jen přináším věci lidem."
+    },
+    {
+      "key": "Minnie_012_f",
+      "en": "That sounds like fun! Perhaps we can play sometime.",
+      "cz": "To zní jako zábava! Možná si někdy můžeme zahrát.",
+      "source": "pre_existing",
+      "original_cz": "To zní jako zábava! Možná si někdy můžeme zahrát."
+    },
+    {
+      "key": "Minnie_013_f",
+      "en": "Well, there's certainly a lot to explore.",
+      "cz": "Ne, je tu rozhodně hodně co prozkoumat.",
+      "source": "pre_existing",
+      "original_cz": "Ne, je tu rozhodně hodně co prozkoumat."
+    },
+    {
+      "key": "Minnie_014_f",
+      "en": "It's nice that we can help out, isn't it?",
+      "cz": "To je fajn, že můžeme pomoci, že?",
+      "source": "pre_existing",
+      "original_cz": "To je fajn, že můžeme pomoci, že?"
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "The Meadow is very lovely and so open.",
+      "cz": "Louka je velmi krásná a tak otevřená.",
+      "source": "pre_existing",
+      "original_cz": "Louka je velmi krásná a tak otevřená."
+    },
+    {
+      "key": "Minnie_008_f",
+      "en": "I like picking flowers and relaxing in the clover.",
+      "cz": "Ráda trhám květiny a relaxuji v jeteli.",
+      "source": "pre_existing",
+      "original_cz": "Ráda trhám květiny a relaxuji v jeteli."
+    },
+    {
+      "key": "Minnie_009_f",
+      "en": "What do you like to do in the Meadow?",
+      "cz": "Co rád/a děláš na louce?",
+      "source": "pre_existing",
+      "original_cz": "Co rád/a děláš na louce?"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Picnic!",
+      "cz": "Piknik!",
+      "source": "pre_existing",
+      "original_cz": "Piknik!"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Play catch!",
+      "cz": "Hrajte chytač!",
+      "source": "pre_existing",
+      "original_cz": "Hrajte chytač!"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Usually just fetch things for people.",
+      "cz": "Obvykle jen přináším věci lidem.",
+      "source": "pre_existing",
+      "original_cz": "Obvykle jen přináším věci lidem."
+    },
+    {
+      "key": "Minnie_015_f",
+      "en": "Me too! It's a perfect place to sit and enjoy the breeze.",
+      "cz": "Já taky! Je to perfektní místo k sezení a užívání si vánku.",
+      "source": "pre_existing",
+      "original_cz": "Já taky! Je to perfektní místo k sezení a užívání si vánku."
+    },
+    {
+      "key": "Minnie_016_f",
+      "en": "The Meadow is a wonderful place for that. There's so much space!",
+      "cz": "Louka je na to skvělé místo. Je tam tolik prostoru!",
+      "source": "pre_existing",
+      "original_cz": "Louka je na to skvělé místo. Je tam tolik prostoru!"
+    },
+    {
+      "key": "Minnie_005_f",
+      "en": "I do like sitting on the Beach and watching the waves.",
+      "cz": "Ráďa sedím na pláži a dívám se na vlny.",
+      "source": "pre_existing",
+      "original_cz": "Ráďa sedím na pláži a dívám se na vlny."
+    },
+    {
+      "key": "Minnie_010_f",
+      "en": "And sometimes I collect seashells, too.",
+      "cz": "A někdy taky sbírám mušle.",
+      "source": "pre_existing",
+      "original_cz": "A někdy taky sbírám mušle."
+    },
+    {
+      "key": "Minnie_011_f",
+      "en": "What do you like to do at the Beach?",
+      "cz": "Co ráda děláš na pláži?",
+      "source": "pre_existing",
+      "original_cz": "Co ráda děláš na pláži?"
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "Go swimming.",
+      "cz": "Jdi si zaplavat.",
+      "source": "pre_existing",
+      "original_cz": "Jdi si zaplavat."
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "Build sandcastles.",
+      "cz": "Postavte hrady z písku.",
+      "source": "pre_existing",
+      "original_cz": "Postavte hrady z písku."
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "Usually just fetch things for people.",
+      "cz": "Obvykle jen přináším věci lidem.",
+      "source": "pre_existing",
+      "original_cz": "Obvykle jen přináším věci lidem."
+    },
+    {
+      "key": "Minnie_017_f",
+      "en": "The water here is perfect for that. Especially on a hot day.",
+      "cz": "Voda je na to ideální. Zvlášť v horkém dni.",
+      "source": "pre_existing",
+      "original_cz": "Voda je na to ideální. Zvlášť v horkém dni."
+    },
+    {
+      "key": "Minnie_018_f",
+      "en": "You should talk to Mickey. He's very good at building sandcastles.",
+      "cz": "Měla by sis promluvit s Mickeym. Je moc dobrý ve stavění hradů z písku.",
+      "source": "pre_existing",
+      "original_cz": "Měla by sis promluvit s Mickeym. Je moc dobrý ve stavění hradů z písku."
+    },
+    {
+      "key": "Minnie_019_f",
+      "en": "Maybe he could give you some pointers.",
+      "cz": "Možná by ti mohl dát nějaké rady.",
+      "source": "pre_existing",
+      "original_cz": "Možná by ti mohl dát nějaké rady."
+    }
+  ],
+  "Minnie/Minnie_Discussions_Discussion_008.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "The Valley looks so beautiful, {PlayerName}!",
+      "cz": "Údolí vypadá tak krásně, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Údolí vypadá tak krásně, {PlayerName}!"
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "I can't decide between all the fun things there are to do.",
+      "cz": "Nemůžu se rozhodnout mezi všemi zábavnými věcmi, které se dají dělat.",
+      "source": "pre_existing",
+      "original_cz": "Nemůžu se rozhodnout mezi všemi zábavnými věcmi, které se dají dělat."
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "What's your favorite thing to do in the Village? Maybe hearing about that will help me decide.",
+      "cz": "Co děláš ve vesnici nejraději? Možná mi to pomůže rozhodnout, až se o tom dozvím.",
+      "source": "pre_existing",
+      "original_cz": "Co děláš ve vesnici nejraději? Možná mi to pomůže rozhodnout, až se o tom dozvím."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I like interior design.",
+      "cz": "Mám rád interiérový design.",
+      "source": "pre_existing",
+      "original_cz": "Mám rád interiérový design."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I like experimenting with fashion.",
+      "cz": "Rád experimentuje s módou.",
+      "source": "pre_existing",
+      "original_cz": "Rád experimentuje s módou."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I like going for walks.",
+      "cz": "Rád chodím na procházky.",
+      "source": "pre_existing",
+      "original_cz": "Rád chodím na procházky."
+    },
+    {
+      "key": "Player_000_choice_003_f",
+      "en": "I like unraveling the mysteries of the Valley.",
+      "cz": "Rád odhaluji záhady Údolí.",
+      "source": "pre_existing",
+      "original_cz": "Rád odhaluji záhady Údolí."
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "Oh, me too!",
+      "cz": "Já taky!",
+      "source": "pre_existing",
+      "original_cz": "Já taky!"
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "Maybe I'll go browse through Uncle Scrooge's Store. He always has wonderful furniture.",
+      "cz": "Možná se půjdu podívat do obchodu strýčka Scrooge. Vždycky má nádherný nábytek.",
+      "source": "pre_existing",
+      "original_cz": "Možná se půjdu podívat do obchodu strýčka Scrooge. Vždycky má nádherný nábytek."
+    },
+    {
+      "key": "Minnie_005_f",
+      "en": "So do I!",
+      "cz": "Já taky!",
+      "source": "pre_existing",
+      "original_cz": "Já taky!"
+    },
+    {
+      "key": "Minnie_006_f",
+      "en": "Maybe I'll go browse through Uncle Scrooge's Store. He always has the most interesting clothes.",
+      "cz": "Možná se půjdu podívat do obchodu strýčka Scrooge. Vždycky má to nejzajímavější oblečení.",
+      "source": "pre_existing",
+      "original_cz": "Možná se půjdu podívat do obchodu strýčka Scrooge. Vždycky má to nejzajímavější oblečení."
+    },
+    {
+      "key": "Minnie_009_f",
+      "en": "Oh, walks are wonderful!",
+      "cz": "Ach, procházky jsou úžasné!",
+      "source": "pre_existing",
+      "original_cz": "Ach, procházky jsou úžasné!"
+    },
+    {
+      "key": "Minnie_010_f",
+      "en": "I just love all the fresh air. And the beautiful flowers!",
+      "cz": "Miluju všechen ten čerstvý vzduch. A ty krásné květiny!",
+      "source": "pre_existing",
+      "original_cz": "Miluju všechen ten čerstvý vzduch. A ty krásné květiny!"
+    },
+    {
+      "key": "Minnie_007_f",
+      "en": "Well, there certainly are plenty of mysteries around here.",
+      "cz": "Ne, záhad je tu rozhodně spousta.",
+      "source": "pre_existing",
+      "original_cz": "Ne, záhad je tu rozhodně spousta."
+    },
+    {
+      "key": "Minnie_008_f",
+      "en": "Maybe I'll poke around to see if I uncover any.",
+      "cz": "Možná se porozhlédnu, jestli něco neobjevím.",
+      "source": "pre_existing",
+      "original_cz": "Možná se porozhlédnu, jestli něco neobjevím."
+    }
+  ],
+  "Minnie/Minnie_Discussions_Discussion_010.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "{PlayerName}, I was wondering... have you tried designing any of your clothes?",
+      "cz": "{PlayerName}, zajímalo by mě... zkoušela sis navrhnout nějaké oblečení?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, zajímalo by mě... zkoušela sis navrhnout nějaké oblečení?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Of course! I love to express myself.",
+      "cz": "Samozřejmě! Rád se vyjadřuji.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě! Rád se vyjadřuji."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Not yet. I'm not sure what to make.",
+      "cz": "Ještě ne. Nejsem si jistý/á, co mám udělat.",
+      "source": "pre_existing",
+      "original_cz": "Ještě ne. Nejsem si jistý/á, co mám udělat."
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "Oh, I can already tell that from how nice you've made the Valley look.",
+      "cz": "Aha, to už poznám podle toho, jak hezky jsi zařídila, že to údolí vypadá.",
+      "source": "pre_existing",
+      "original_cz": "Aha, to už poznám podle toho, jak hezky jsi zařídila, že to údolí vypadá."
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "You'll have to show me some of your patterns sometime.",
+      "cz": "Někdy mi budeš muset ukázat nějaké své vzory.",
+      "source": "pre_existing",
+      "original_cz": "Někdy mi budeš muset ukázat nějaké své vzory."
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "Well, I'm sure you'll think of something.",
+      "cz": "Ne, určitě něco vymyslíš.",
+      "source": "pre_existing",
+      "original_cz": "Ne, určitě něco vymyslíš."
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "The Valley is looking so lovely. I can't wait to see how you use your creativity in fashion.",
+      "cz": "Údolí vypadá tak krásně. Nemůžu se dočkat, až uvidím, jak využiješ svou kreativitu v módě.",
+      "source": "pre_existing",
+      "original_cz": "Údolí vypadá tak krásně. Nemůžu se dočkat, až uvidím, jak využiješ svou kreativitu v módě."
+    }
+  ],
+  "Minnie/Minnie_Gettings_Greeting001.locbin": [
+    {
+      "key": "Minnie_001_f",
+      "en": "Hello, {PlayerName}. I'm so glad to see you!",
+      "cz": "Ahoj, {PlayerName}. Jsem moc ráda, že tě vidím!",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}. Jsem moc ráda, že tě vidím!"
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Sorry, I can't talk right now.",
+      "cz": "Promiňte, teď nemůžu mluvit.",
+      "source": "pre_existing",
+      "original_cz": "Promiňte, teď nemůžu mluvit."
+    }
+  ],
+  "Minnie/Minnie_Gettings_RealmGreeting001.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Hello!",
+      "cz": "Ahoj!",
+      "source": "pre_existing",
+      "original_cz": "Ahoj!"
+    }
+  ],
+  "Minnie/Minnie_GiftThanks_HappyGiftThanks001.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "How sweet! Thank you!",
+      "cz": "To je milé! Děkuji!",
+      "source": "pre_existing",
+      "original_cz": "To je milé! Děkuji!"
+    }
+  ],
+  "Minnie/Minnie_Hangouts_EndHangout001.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "I always enjoy spending time with you. Goodbye, {PlayerName}!",
+      "cz": "Vždycky ráda s tebou trávím čas. Na shledanou, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Vždycky ráda s tebou trávím čas. Na shledanou, {PlayerName}!"
+    }
+  ],
+  "Minnie/Minnie_Hangouts_StartHangout001.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "How sweet of you to ask! I'd love to.",
+      "cz": "To je od vás milé, že se ptáte! Moc ráda.",
+      "source": "pre_existing",
+      "original_cz": "To je od vás milé, že se ptáte! Moc ráda."
+    }
+  ],
+  "Minnie/Minnie_VLG_Mick_030_VLG_Mick_030_TalkTo_Minnie.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Hello! Can you hear me?",
+      "cz": "Ahoj! Slyšíš mě?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj! Slyšíš mě?"
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "Oh dear. I can't see you very well.",
+      "cz": "Ach jo. Moc tě dobře nevidím.",
+      "source": "pre_existing",
+      "original_cz": "Ach jo. Moc tě dobře nevidím."
+    },
+    {
+      "key": "Player_000_f",
+      "en": "Minnie!",
+      "cz": "Minnie!",
+      "source": "pre_existing",
+      "original_cz": "Minnie!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Is that really you?",
+      "cz": "Jsi to oprávněně ty?",
+      "source": "pre_existing",
+      "original_cz": "Jsi to oprávněně ty?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Where are you?",
+      "cz": "Kde jsi?",
+      "source": "pre_existing",
+      "original_cz": "Kde jsi?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "You need to get back here!",
+      "cz": "Musíš se sem vrátit!",
+      "source": "pre_existing",
+      "original_cz": "Musíš se sem vrátit!"
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "It is! I'm here! Is Mickey there?",
+      "cz": "Je! Jsem tady! Je tam Mickey?",
+      "source": "pre_existing",
+      "original_cz": "Je! Jsem tady! Je tam Mickey?"
+    },
+    {
+      "key": "Minnie_005_f",
+      "en": "Yoo-hoo!",
+      "cz": "Džu-hu!",
+      "source": "pre_existing",
+      "original_cz": "Džu-hu!"
+    },
+    {
+      "key": "Minnie_008_f",
+      "en": "Mickey!",
+      "cz": "Mickey!",
+      "source": "pre_existing",
+      "original_cz": "Mickey!"
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "I'm in an odd place with no color. It feels familiar, but so strange.",
+      "cz": "Jsem na zvláštním místě bez barvy. Připadá mi to povědomé, ale zároveň tak zvláštní.",
+      "source": "pre_existing",
+      "original_cz": "Jsem na zvláštním místě bez barvy. Připadá mi to povědomé, ale zároveň tak zvláštní."
+    },
+    {
+      "key": "Minnie_006_f",
+      "en": "Please tell Mickey I'm safe. Is he there? I can't see.",
+      "cz": "Prosím, řekněte Mickeymu, že jsem v bezpečí. Je tam? Nevidím.",
+      "source": "pre_existing",
+      "original_cz": "Prosím, řekněte Mickeymu, že jsem v bezpečí. Je tam? Nevidím."
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "I'm trying! But I don't think I can do it on my own.",
+      "cz": "musím se! Ale si nemyslím, že to sama zvládnu.",
+      "source": "pre_existing",
+      "original_cz": "musím se! Ale si nemyslím, že to sama zvládnu."
+    },
+    {
+      "key": "Minnie_009_f",
+      "en": "Whatever you're doing is helping, though.",
+      "cz": "Ať už děláš cokoli, pomáháš.",
+      "source": "pre_existing",
+      "original_cz": "Ať už děláš cokoli, pomáháš."
+    },
+    {
+      "key": "Minnie_007_f",
+      "en": "Is Mickey there? I really want to talk to him.",
+      "cz": "Je tam Mickey? Opravdu si s ním chci promluvit.",
+      "source": "pre_existing",
+      "original_cz": "Je tam Mickey? Opravdu si s ním chci promluvit."
+    }
+  ],
+  "Minnie/Minnie_VLG_Mick_040_VLG_Mick_040_TalkToMinnieWithMagnifier.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Minnie! You've stopped disappearing! The Magnifier is working!",
+      "cz": "Minnie! Přestala jsi mizet! Lupa funguje!",
+      "source": "pre_existing",
+      "original_cz": "Minnie! Přestala jsi mizet! Lupa funguje!"
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "You're right! I'm here! I'm...",
+      "cz": "Máš pravdu! Jsem tady! jsem...",
+      "source": "pre_existing",
+      "original_cz": "Máš pravdu! Jsem tady! jsem..."
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "... Goodness, I'm sleepy. I don't feel quite like myself.",
+      "cz": "... Proboha, jsem ospalá. Necítím se úplně ve své kondici.",
+      "source": "pre_existing",
+      "original_cz": "... Proboha, jsem ospalá. Necítím se úplně ve své kondici."
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "It's almost like I'm missing an anchor... something to bring me back for good.",
+      "cz": "Je to skoro, jako bych ztratila kotvu... něco, co by mě navždy vrátilo zpět.",
+      "source": "pre_existing",
+      "original_cz": "Je to skoro, jako bych ztratila kotvu... něco, co by mě navždy vrátilo zpět."
+    },
+    {
+      "key": "Minnie_005_f",
+      "en": "Oh. I feel like I've been wandering for ages.",
+      "cz": "Ach. Mám pocit, jako bych se toulala už věky.",
+      "source": "pre_existing",
+      "original_cz": "Ach. Mám pocit, jako bych se toulala už věky."
+    },
+    {
+      "key": "Minnie_006_f",
+      "en": "*yawn* I've never been so tired. If only I could lie down.",
+      "cz": "*zívání* Nikdy jsem nebyla tak unavená. Kéž bych si mohla lehnout.",
+      "source": "pre_existing",
+      "original_cz": "*zívání* Nikdy jsem nebyla tak unavená. Kéž bych si mohla lehnout."
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "Where's my... I think I had... a House?",
+      "cz": "Kde je můj... myslím, že jsem měla... dům?",
+      "source": "pre_existing",
+      "original_cz": "Kde je můj... myslím, že jsem měla... dům?"
+    },
+    {
+      "key": "Minnie_008_f",
+      "en": "With a bed in it. A soft bed. Do you think you could bring back my House?",
+      "cz": "S postelí v ní. Měkkou postelí. Myslíš, že bys mi mohla přivést zpět můj dům?",
+      "source": "pre_existing",
+      "original_cz": "S postelí v ní. Měkkou postelí. Myslíš, že bys mi mohla přivést zpět můj dům?"
+    }
+  ],
+  "Minnie/Minnie_VLG_Mick_040_VLG_Mick_040_TalkTo_Minnie.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Thank you for bringing my House back! I feel much more awake now!",
+      "cz": "Děkuji, že jste mi vrátili můj dům! Teď se cítím mnohem bdělejší!",
+      "source": "pre_existing",
+      "original_cz": "Děkuji, že jste mi vrátili můj dům! Teď se cítím mnohem bdělejší!"
+    },
+    {
+      "key": "Minnie_010_f",
+      "en": "But my head is still a little bit muddled. Are you Mickey?",
+      "cz": "Ale mám pořád trochu zmatek v hlavě. Jsi Mickey?",
+      "source": "pre_existing",
+      "original_cz": "Ale mám pořád trochu zmatek v hlavě. Jsi Mickey?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "No, I'm {PlayerName}!",
+      "cz": "Ne, já jsem {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Ne, já jsem {PlayerName}!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "That's a really weird question, Minnie.",
+      "cz": "To je opravdu divná otázka, Minnie.",
+      "source": "pre_existing",
+      "original_cz": "To je opravdu divná otázka, Minnie."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "You don't remember Mickey?",
+      "cz": "Nepamatuješ si Mickeyho?",
+      "source": "pre_existing",
+      "original_cz": "Nepamatuješ si Mickeyho?"
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "Oh, it's lovely to meet you, {PlayerName}. But I really must find Mickey.",
+      "cz": "Ráda tě poznávám, {PlayerName}. Ale opravdu musím najít Mickeyho.",
+      "source": "pre_existing",
+      "original_cz": "Ráda tě poznávám, {PlayerName}. Ale opravdu musím najít Mickeyho."
+    },
+    {
+      "key": "Minnie_011_f",
+      "en": "I wandered for so long, and all I remember is that I was looking for Mickey.",
+      "cz": "Tak dlouho jsem se toulala a pamatuji si jen, že jsem hledala Mickeyho.",
+      "source": "pre_existing",
+      "original_cz": "Tak dlouho jsem se toulala a pamatuji si jen, že jsem hledala Mickeyho."
+    },
+    {
+      "key": "Minnie_012_f",
+      "en": "It was very important that I find him.",
+      "cz": "Bylo velmi důležité, abych ho našla.",
+      "source": "pre_existing",
+      "original_cz": "Bylo velmi důležité, abych ho našla."
+    },
+    {
+      "key": "Minnie_013_f",
+      "en": "Don't worry. He's here. And I've gotta go talk to him!",
+      "cz": "Neboj se. Je tady. A musím si s ním promluvit!",
+      "source": "pre_existing",
+      "original_cz": "Neboj se. Je tady. A musím si s ním promluvit!"
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "Minnie? Is that my name? Well, that's very good to know.",
+      "cz": "Minnie? Je to moje jméno? Ne, to je moc fajn vědět.",
+      "source": "pre_existing",
+      "original_cz": "Minnie? Je to moje jméno? Ne, to je moc fajn vědět."
+    },
+    {
+      "key": "Minnie_006_f",
+      "en": "I think I've forgotten a few things. Maybe... a lot of things.",
+      "cz": "Myslím, že jsem na pár věcí zapomněla. Možná... spousta věcí.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že jsem na pár věcí zapomněla. Možná... spousta věcí."
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "Well, I remember the name. But not much else.",
+      "cz": "Ne, jméno si pamatuji. Ale nic moc víc.",
+      "source": "pre_existing",
+      "original_cz": "Ne, jméno si pamatuji. Ale nic moc víc."
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_010_VLG_Intro.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Oh, {PlayerName}, I'm so glad to see you! Isn't this a charming Village? I'd love to pick some of the beautiful flowers.",
+      "cz": "Ach, {PlayerName}, jsem tak ráda, že tě vidím! Není to okouzlující vesnice? Ráda bych si natrhla pár krásných květin.",
+      "source": "pre_existing",
+      "original_cz": "Ach, {PlayerName}, jsem tak ráda, že tě vidím! Není to okouzlující vesnice? Ráda bych si natrhla pár krásných květin."
+    },
+    {
+      "key": "Minnie_005_f",
+      "en": "Would you like to do that with me?",
+      "cz": "Chtěla bych to udělat se mnou?",
+      "source": "pre_existing",
+      "original_cz": "Chtěla bych to udělat se mnou?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'd love to help!",
+      "cz": "Rád bych pomohl!",
+      "source": "pre_existing",
+      "original_cz": "Rád bych pomohl!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'll be by later to help!",
+      "cz": "Přijdu později a pomůžu!",
+      "source": "pre_existing",
+      "original_cz": "Přijdu později a pomůžu!"
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "Wonderful! I saw lovely blue flowers in the Forest. Let's go pick some together.",
+      "cz": "Úžasné! Viděla jsem v lese krásné modré květiny. Pojďme si je společně natrhat.",
+      "source": "pre_existing",
+      "original_cz": "Úžasné! Viděla jsem v lese krásné modré květiny. Pojďme si je společně natrhat."
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "I might even give them to that charming Mickey.",
+      "cz": "Možná je dokonce dám tomu okouzlujícímu Mickeymu.",
+      "source": "pre_existing",
+      "original_cz": "Možná je dokonce dám tomu okouzlujícímu Mickeymu."
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "Or maybe I shouldn't. Oh, I'm so embarrassed that I don't remember him.",
+      "cz": "Nebo možná bych neměla. Ach, tak se stydím, že si ho nepamatuji.",
+      "source": "pre_existing",
+      "original_cz": "Nebo možná bych neměla. Ach, tak se stydím, že si ho nepamatuji."
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "All right! In the meantime, I'll pick out a nice flower vase.",
+      "cz": "Dobře! Mezitím vyberu pěknou vázu na květiny.",
+      "source": "pre_existing",
+      "original_cz": "Dobře! Mezitím vyberu pěknou vázu na květiny."
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_010_VLG_Minn_010_TalkTo01.locbin": [
+    {
+      "key": "Minnie_003_f",
+      "en": "Oh, thank you, {PlayerName}! It's so nice to see flowers again.",
+      "cz": "Děkuji, {PlayerName}! Je tak hezké zase vidět květiny.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji, {PlayerName}! Je tak hezké zase vidět květiny."
+    },
+    {
+      "key": "Minnie_000_f",
+      "en": "When I was in that in-between place... I felt safe, but there was no color, so it was a little sad. These flowers are the perfect remedy!",
+      "cz": "Když jsem byla tom meziprostoru... vložil jsem se bezpečně, ale nebyla tam žádná barva, takže to bylo trochu smutné. Tyto květiny jsou perfektním lékem!",
+      "source": "pre_existing",
+      "original_cz": "Když jsem byla tom meziprostoru... vložil jsem se bezpečně, ale nebyla tam žádná barva, takže to bylo trochu smutné. Tyto květiny jsou perfektním lékem!"
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "You know, I think I'd like to give them to that kind fellow I met — Mickey.",
+      "cz": "Víš, myslím, že bych ráda dala tomu laskavému chlapíkovi, kterého jsem potkala – Mickeymu.",
+      "source": "pre_existing",
+      "original_cz": "Víš, myslím, že bych ráda dala tomu laskavému chlapíkovi, kterého jsem potkala – Mickeymu."
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "Could you help me make a nice arrangement for him?",
+      "cz": "Mohla byste mi pomoci s nějakým hezkým uspořádáním pro něj?",
+      "source": "pre_existing",
+      "original_cz": "Mohla byste mi pomoci s nějakým hezkým uspořádáním pro něj?"
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "I have the vase we need right here. All it needs is flowers.",
+      "cz": "Mám tu vázu, kterou potřebujeme. Stačí k ní jen květiny.",
+      "source": "pre_existing",
+      "original_cz": "Mám tu vázu, kterou potřebujeme. Stačí k ní jen květiny."
+    },
+    {
+      "key": "Minnie_005_f",
+      "en": "We can fill it with the <ActivityItem>Hydrangeas</ActivityItem>, <ActivityItem>Bell Flowers</ActivityItem>, and <ActivityItem>Star Lilies</ActivityItem> we picked!",
+      "cz": "Můžeme to naplnit <ActivityItem>Hortenziemi</ActivityItem>, <ActivityItem>Zvonky</ActivityItem> a <ActivityItem>Hvězdnými liliemi</ActivityItem>, které jsme si natrhli!",
+      "source": "pre_existing",
+      "original_cz": "Můžeme to naplnit <ActivityItem>Hortenziemi</ActivityItem>, <ActivityItem>Zvonky</ActivityItem> a <ActivityItem>Hvězdnými liliemi</ActivityItem>, které jsme si natrhli!"
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_010_VLG_Ongoing.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Oh, I saw some blue flowers in the Forest. Shall we go pick some?",
+      "cz": "Ach, viděla jsem v lese nějaké modré květiny. Půjdeme si nějaké natrhat?",
+      "source": "pre_existing",
+      "original_cz": "Ach, viděla jsem v lese nějaké modré květiny. Půjdeme si nějaké natrhat?"
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_010_VLG_OngoingGatherItems.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Let's use the Pot I gave you to make a flower arrangement.",
+      "cz": "Použijeme květináč, co jsem ti dala, k vytvoření květinové výzdoby.",
+      "source": "pre_existing",
+      "original_cz": "Použijeme květináč, co jsem ti dala, k vytvoření květinové výzdoby."
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "We can fill it with the <ActivityItem>Hydrangeas</ActivityItem>, <ActivityItem>Bell Flowers</ActivityItem>, and <ActivityItem>Star Lilies</ActivityItem> we picked!",
+      "cz": "Můžeme to naplnit <ActivityItem>Hortenziemi</ActivityItem>, <ActivityItem>Zvonky</ActivityItem> a <ActivityItem>Hvězdnými liliemi</ActivityItem>, které jsme si natrhli!",
+      "source": "pre_existing",
+      "original_cz": "Můžeme to naplnit <ActivityItem>Hortenziemi</ActivityItem>, <ActivityItem>Zvonky</ActivityItem> a <ActivityItem>Hvězdnými liliemi</ActivityItem>, které jsme si natrhli!"
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_010_VLG_Outro.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Did Mickey like the flowers?",
+      "cz": "Líbily se Mickeymu květiny?",
+      "source": "pre_existing",
+      "original_cz": "Líbily se Mickeymu květiny?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "He did!",
+      "cz": "Udělal to!",
+      "source": "pre_existing",
+      "original_cz": "Udělal to!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "He misses you.",
+      "cz": "Chybíš mu.",
+      "source": "pre_existing",
+      "original_cz": "Chybíš mu."
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "Oh, I'm so glad!",
+      "cz": "Ach, to jsem tak rád/a!",
+      "source": "pre_existing",
+      "original_cz": "Ach, to jsem tak rád/a!"
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "This situation certainly is strange. I feel like I should know him, but I don't.",
+      "cz": "Tahle situace je opravdu zvláštní. Mám pocit, že bych ho měla znát, ale nepoznávám ho.",
+      "source": "pre_existing",
+      "original_cz": "Tahle situace je opravdu zvláštní. Mám pocit, že bych ho měla znát, ale nepoznávám ho."
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "Maybe talking to him will help your memory?",
+      "cz": "Možná ti rozhovor s ním pomůže s pamětí?",
+      "source": "pre_existing",
+      "original_cz": "Možná ti rozhovor s ním pomůže s pamětí?"
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "Oh, that makes me a little nervous. But I can try!",
+      "cz": "To mě trochu znervózňuje. Ale můžu to zkusit!",
+      "source": "pre_existing",
+      "original_cz": "To mě trochu znervózňuje. Ale můžu to zkusit!"
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_010_VLG_TalkToMinnieAfterCrafting.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Oh, it looks perfect, {PlayerName}! I hope Mickey will like it.",
+      "cz": "Páni, vypadá to perfektně, {PlayerName}! Doufám, že se to bude Mickeymu líbit.",
+      "source": "pre_existing",
+      "original_cz": "Páni, vypadá to perfektně, {PlayerName}! Doufám, že se to bude Mickeymu líbit."
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "His name was the only memory I held on to in that other place.",
+      "cz": "Jeho jméno bylo jedinou vzpomínkou, kterou jsem si na tom druhém místě uchovala.",
+      "source": "pre_existing",
+      "original_cz": "Jeho jméno bylo jedinou vzpomínkou, kterou jsem si na tom druhém místě uchovala."
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "Could you deliver it for me, please? I'm still embarrassed that I don't remember him.",
+      "cz": "Mohla byste mi to prosím doručit? Pořád se stydím, že si ho nepamatuji.",
+      "source": "pre_existing",
+      "original_cz": "Mohla byste mi to prosím doručit? Pořád se stydím, že si ho nepamatuji."
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_020_VLG_Intro.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Oh, I'm so glad you're here, {PlayerName}. I've made an interesting discovery.",
+      "cz": "Jé, jsem tak ráda, že jsi tady, {PlayerName}. Udělala jsem zajímavý objev.",
+      "source": "pre_existing",
+      "original_cz": "Jé, jsem tak ráda, že jsi tady, {PlayerName}. Udělala jsem zajímavý objev."
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "Since I got here, I've been very drawn to the same part of the Village: the Peaceful Meadow.",
+      "cz": "Od té doby, co jsem sem přišla, mě velmi táhne stejná část vesnice: Klidná louka.",
+      "source": "pre_existing",
+      "original_cz": "Od té doby, co jsem sem přišla, mě velmi táhne stejná část vesnice: Klidná louka."
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "I feel like there's something calling me there. Could you help me figure it out?",
+      "cz": "Mám pocit, jako by mě tam něco volalo. Mohla bys mi pomoci to zjistit?",
+      "source": "pre_existing",
+      "original_cz": "Mám pocit, jako by mě tam něco volalo. Mohla bys mi pomoci to zjistit?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "That's great. Of course I'll help!",
+      "cz": "To je skvělé. Samozřejmě, že mohu!",
+      "source": "pre_existing",
+      "original_cz": "To je skvělé. Samozřejmě, že mohu!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'll help you in a bit.",
+      "cz": "Trochu ti pomůžu.",
+      "source": "pre_existing",
+      "original_cz": "Trochu ti pomůžu."
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "Thank you! The Meadow always makes me happy. And it feels familiar.",
+      "cz": "Děkuji! Louka mě vždycky potěší. A je mi povědomá.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji! Louka mě vždycky potěší. A je mi povědomá."
+    },
+    {
+      "key": "Minnie_005_f",
+      "en": "Especially near the pond. Come with me; I'll show you!",
+      "cz": "Zvlášť blízko rybníka. Pojď se mnou, ukaž ti ho!",
+      "source": "pre_existing",
+      "original_cz": "Zvlášť blízko rybníka. Pojď se mnou, ukaž ti ho!"
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "Thank you! Just let me know when you have time.",
+      "cz": "Děkuji! Dej mi vědět, až budeš mít čas.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji! Dej mi vědět, až budeš mít čas."
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_020_VLG_Minn_020_ListenMickeyMinnie.locbin": [
+    {
+      "key": "Minnie_002_f",
+      "en": "Mickey! Mickey!",
+      "cz": "Mickey! Mickey!",
+      "source": "pre_existing",
+      "original_cz": "Mickey! Mickey!"
+    },
+    {
+      "key": "Minnie_009_f",
+      "en": "You couldn't be more right. Oh, Mickey, I love you! And I want to make sure I remember that in my heart and in my head, always.",
+      "cz": "Nemohla jsi mít větší pravdu. Ach, Mickey, miluji tě! A chci se ujistit, že si to budu pamatovat ve svém srdci iv hlavě, vždycky.",
+      "source": "pre_existing",
+      "original_cz": "Nemohla jsi mít větší pravdu. Ach, Mickey, miluji tě! A chci se ujistit, že si to budu pamatovat ve svém srdci iv hlavě, vždycky."
+    },
+    {
+      "key": "Minnie_010_f",
+      "en": "We have to protect our Memories from the Forgetting. Where's that Dreamlight Magnifier?",
+      "cz": "Musíme chránit naše vzpomínky před Zapomenutím. Kde je ta lupa snového světla?",
+      "source": "pre_existing",
+      "original_cz": "Musíme chránit naše vzpomínky před Zapomenutím. Kde je ta lupa snového světla?"
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "Minnie? What's wrong? Are you okay?",
+      "cz": "Minnie? Co se děje? Jsi v pořádku?",
+      "source": "pre_existing",
+      "original_cz": "Minnie? Co se děje? Jsi v pořádku?"
+    },
+    {
+      "key": "Minnie_000_f",
+      "en": "I'm wonderful! I remember everything! I remember you!",
+      "cz": "Jsem úžasná! Pamatuji si všechno! Pamatuji si tě!",
+      "source": "pre_existing",
+      "original_cz": "Jsem úžasná! Pamatuji si všechno! Pamatuji si tě!"
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "You do? You do! Ha-ha! I knew you would!",
+      "cz": "Vážně? Vážně! Haha! Věděla jsem, že to uděláš!",
+      "source": "pre_existing",
+      "original_cz": "Vážně? Vážně! Haha! Věděla jsem, že to uděláš!"
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "But Minnie... why are you crying?",
+      "cz": "Ale Minnie... proč pláčeš?",
+      "source": "pre_existing",
+      "original_cz": "Ale Minnie... proč pláčeš?"
+    },
+    {
+      "key": "Minnie_005_f",
+      "en": "Oh, Mickey, I'm so sorry. I forgot I loved you.",
+      "cz": "Ach, Mickey, tak mě to mrzí. Zapomněla jsem, že tě miluji.",
+      "source": "pre_existing",
+      "original_cz": "Ach, Mickey, tak mě to mrzí. Zapomněla jsem, že tě miluji."
+    },
+    {
+      "key": "Minnie_006_f",
+      "en": "Gosh, Minnie, don't be sorry. It's not your fault.",
+      "cz": "Páni, Minnie, neomlouvej se. Není to tvoje chyba.",
+      "source": "pre_existing",
+      "original_cz": "Páni, Minnie, neomlouvej se. Není to tvoje chyba."
+    },
+    {
+      "key": "Minnie_007_f",
+      "en": "And you didn't forget. Not really. Not in your heart.",
+      "cz": "A nezapomněla jsi. Ne tak docela. Ne ve svém srdci.",
+      "source": "pre_existing",
+      "original_cz": "A nezapomněla jsi. Ne tak docela. Ne ve svém srdci."
+    },
+    {
+      "key": "Minnie_008_f",
+      "en": "We never really forget memories we keep in our hearts.",
+      "cz": "Vzpomínky, které si uchováváme v srdci, nikdy doopravdy nezapomeneme.",
+      "source": "pre_existing",
+      "original_cz": "Vzpomínky, které si uchováváme v srdci, nikdy doopravdy nezapomeneme."
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_020_VLG_Minn_020_TalkToMinnie01 1.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "I remember now. Donald was going to fight the Forgetting!",
+      "cz": "Teď si vzpomínám. Donald se chystal bojovat se Zapomnětlivcem!",
+      "source": "pre_existing",
+      "original_cz": "Teď si vzpomínám. Donald se chystal bojovat se Zapomnětlivcem!"
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_020_VLG_Minn_020_TalkToMinnie01.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "{PlayerName}! I remember something!",
+      "cz": "{PlayerName}! Na něco si vzpomínám!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}! Na něco si vzpomínám!"
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "I remember fishing here with Goofy... but it wasn't for fun.",
+      "cz": "Pamatuji si, jak jsem tu rybařila s Goofym... ale nebylo to pro zábavu.",
+      "source": "pre_existing",
+      "original_cz": "Pamatuji si, jak jsem tu rybařila s Goofym... ale nebylo to pro zábavu."
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "It was important. Then we went to the Beach and...",
+      "cz": "Bylo to důležité. Pak jsme šli na pláž a...",
+      "source": "pre_existing",
+      "original_cz": "Bylo to důležité. Pak jsme šli na pláž a..."
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "Oh, the rest is fuzzy. Maybe something at the Beach will help me remember?",
+      "cz": "Ach, zbytek je nejasný. Možná mi něco na pláži pomůže si to zapamatovat?",
+      "source": "pre_existing",
+      "original_cz": "Ach, zbytek je nejasný. Možná mi něco na pláži pomůže si to zapamatovat?"
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "Let's go see!",
+      "cz": "Pojďme se dívat!",
+      "source": "pre_existing",
+      "original_cz": "Pojďme se dívat!"
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_020_VLG_Minn_020_TalkToMinnie02.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "This is... Donald's hat? Yes... I remember Donald! Donald Duck!",
+      "cz": "Tohle je... Donaldův klobouk? Ano... Pamatuji si Donalda! Kačer Donald!",
+      "source": "pre_existing",
+      "original_cz": "Tohle je... Donaldův klobouk? Ano... Pamatuji si Donalda! Kačer Donald!"
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "I was catching fish for him. He was about to go on a dangerous mission...",
+      "cz": "Chytala jsem pro něj ryby. Chystal se na nebezpečnou misi...",
+      "source": "pre_existing",
+      "original_cz": "Chytala jsem pro něj ryby. Chystal se na nebezpečnou misi..."
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "So, I was packing food for him.",
+      "cz": "Také jsem mu balila jídlo.",
+      "source": "pre_existing",
+      "original_cz": "Také jsem mu balila jídlo."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I found Donald in the Forest!",
+      "cz": "Našel jsem Donalda v lese!",
+      "source": "pre_existing",
+      "original_cz": "Našel jsem Donalda v lese!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Did you manage to bring it to him?",
+      "cz": "Podařilo se ti to donést?",
+      "source": "pre_existing",
+      "original_cz": "Podařilo se ti to donést?"
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "The Forest? I... remember that! I followed Donald...",
+      "cz": "Les? Já... pamatuji si to! Sledovala jsem Donalda...",
+      "source": "pre_existing",
+      "original_cz": "Les? Já... pamatuji si to! Sledovala jsem Donalda..."
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "...to give him food for his journey. But while I was following him...",
+      "cz": "...abych mu dala jídlo na cestu. Ale přesto jsem ho sledovala...",
+      "source": "pre_existing",
+      "original_cz": "...abych mu dala jídlo na cestu. Ale přesto jsem ho sledovala..."
+    },
+    {
+      "key": "Minnie_006_f",
+      "en": "...something happened to me.",
+      "cz": "...něco se mi stalo.",
+      "source": "pre_existing",
+      "original_cz": "...něco se mi stalo."
+    },
+    {
+      "key": "Minnie_007_f",
+      "en": "Could we go to the Forest? It's the last thing I remember.",
+      "cz": "Mohli bychom jít do lesa? To je poslední věc, kterou si pamatuji.",
+      "source": "pre_existing",
+      "original_cz": "Mohli bychom jít do lesa? To je poslední věc, kterou si pamatuji."
+    },
+    {
+      "key": "Minnie_005_f",
+      "en": "I don't remember. I think... he left before I could.",
+      "cz": "Nepamatuji si. Myslím... že odešel dřív, než jsem to stihla.",
+      "source": "pre_existing",
+      "original_cz": "Nepamatuji si. Myslím... že odešel dřív, než jsem to stihla."
+    },
+    {
+      "key": "Minnie_008_f",
+      "en": "And I tried to follow him. I went towards the Forest...",
+      "cz": "A já se ho snažila sledovat. Šla jsem směrem k lesu...",
+      "source": "pre_existing",
+      "original_cz": "A já se ho snažila sledovat. Šla jsem směrem k lesu..."
+    },
+    {
+      "key": "Minnie_009_f",
+      "en": "But something happened to me. What happened...",
+      "cz": "Ale něco se mi stalo. Co se stalo...",
+      "source": "pre_existing",
+      "original_cz": "Ale něco se mi stalo. Co se stalo..."
+    },
+    {
+      "key": "Minnie_010_f",
+      "en": "Could we go to the Forest? It's the last thing I remember.",
+      "cz": "Mohli bychom jít do lesa? To je poslední věc, kterou si pamatuji.",
+      "source": "pre_existing",
+      "original_cz": "Mohli bychom jít do lesa? To je poslední věc, kterou si pamatuji."
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_020_VLG_Minn_020_TalkToMinnie03.locbin": [
+    {
+      "key": "Minnie_001_f",
+      "en": "I was running, trying to give him the supplies...",
+      "cz": "Běžela jsem a snažila se mu dát zásoby...",
+      "source": "pre_existing",
+      "original_cz": "Běžela jsem a snažila se mu dát zásoby..."
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "But then a gust of wind caught me and spun me all about.",
+      "cz": "Ale pak mě zachytil poryv větru a se mnou.",
+      "source": "pre_existing",
+      "original_cz": "Ale pak mě zachytil poryv větru a se mnou."
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "And then I wasn't in the Forest anymore. And there was no color...",
+      "cz": "A pak už jsem nebyla v lese. A nebyla tam žádná barva...",
+      "source": "pre_existing",
+      "original_cz": "A pak už jsem nebyla v lese. A nebyla tam žádná barva..."
+    },
+    {
+      "key": "Minnie_000_f",
+      "en": "I was alone. For a... long time. I was so lonely. I missed...",
+      "cz": "Byla jsem sama. Dlouho... byla jsem tak osamělá. Chybělo mi...",
+      "source": "pre_existing",
+      "original_cz": "Byla jsem sama. Dlouho... byla jsem tak osamělá. Chybělo mi..."
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "MICKEY!",
+      "cz": "MIKI!",
+      "source": "pre_existing",
+      "original_cz": "MIKI!"
+    },
+    {
+      "key": "Minnie_005_f",
+      "en": "*GASP* I remember Mickey! Oh, he's the one I love! How could I forget?",
+      "cz": "*ZALAPÁ* Pamatuji si Mickeyho! Ach, on je ten, koho miluji! Jak bych mohla zapomenout?",
+      "source": "pre_existing",
+      "original_cz": "*ZALAPÁ* Pamatuji si Mickeyho! Ach, on je ten, koho miluji! Jak bych mohla zapomenout?"
+    },
+    {
+      "key": "Minnie_006_f",
+      "en": "My poor, sweet Mickey! I have to find him!",
+      "cz": "Můj ubohý, sladký Mickey! Musím ho najít!",
+      "source": "pre_existing",
+      "original_cz": "Můj ubohý, sladký Mickey! Musím ho najít!"
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_020_VLG_Ongoing01.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Let's talk to Mickey about the <ActivityItem>Dreamlight Magnifier</ActivityItem>.",
+      "cz": "Pojďme si s Mickey promluvit o <ActivityItem>Lupě Dreamlight</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Pojďme si s Mickey promluvit o <ActivityItem>Lupě Dreamlight</ActivityItem>."
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_020_VLG_Ongoing02.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "We're taking the <ActivityItem>Dreamlight Magnifier</ActivityItem> back to that fishing pole.",
+      "cz": "Vezmeme <ActivityItem>Lupu Dreamlight</ActivityItem> zpátky k tomu rybářskému prutu.",
+      "source": "pre_existing",
+      "original_cz": "Vezmeme <ActivityItem>Lupu Dreamlight</ActivityItem> zpátky k tomu rybářskému prutu."
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_020_VLG_Ongoing03.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Try touching the <ActivityItem>Sparkling Fishing Pole</ActivityItem>, {PlayerName}!",
+      "cz": "Zkus se dotknout <ActivityItem>Jsvítícího rybářského prutu</ActivityItem>, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Zkus se dotknout <ActivityItem>Jsvítícího rybářského prutu</ActivityItem>, {PlayerName}!"
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_020_VLG_Ongoing06.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "That hat looks familiar! Let's go take a closer look.",
+      "cz": "Ten klobouk mi vypadá povědomě! Pojďme se na něj podívat blíž.",
+      "source": "pre_existing",
+      "original_cz": "Ten klobouk mi vypadá povědomě! Pojďme se na něj podívat blíž."
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_020_VLG_Ongoing08.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Let's go to the Forest. It's the last thing I remember.",
+      "cz": "Pojďme do lesa. Je to poslední, co si pamatuji.",
+      "source": "pre_existing",
+      "original_cz": "Pojďme do lesa. Je to poslední, co si pamatuji."
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_020_VLG_Ongoing10.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "We're going to the Beach!",
+      "cz": "Jedeme na pláž!",
+      "source": "pre_existing",
+      "original_cz": "Jedeme na pláž!"
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "Something important happened there...",
+      "cz": "Stalo se tam něco důležitého...",
+      "source": "pre_existing",
+      "original_cz": "Stalo se tam něco důležitého..."
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_020_VLG_Ongoing11.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "I have to tell Mickey I remember him!",
+      "cz": "Musím říct Mickeymu, že si ho pamatuji!",
+      "source": "pre_existing",
+      "original_cz": "Musím říct Mickeymu, že si ho pamatuji!"
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_020_VLG_OngoingFollow.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Follow me to the Meadow!",
+      "cz": "Pojď za mnou na louku!",
+      "source": "pre_existing",
+      "original_cz": "Pojď za mnou na louku!"
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_020_VLG_Onoing12.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "If you still have the <ActivityItem>Dreamlight Magnifier</ActivityItem>...",
+      "cz": "Pokud stále máte <ActivityItem>Lupu Dreamlight</ActivityItem>...",
+      "source": "pre_existing",
+      "original_cz": "Pokud stále máte <ActivityItem>Lupu Dreamlight</ActivityItem>..."
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "...please give it to Mickey for safekeeping.",
+      "cz": "...prosím, dejte Mickeymu do úschovy.",
+      "source": "pre_existing",
+      "original_cz": "...prosím, dejte Mickeymu do úschovy."
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_020_VLG_Outro.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "I can't believe I forgot my dear, sweet Mickey.",
+      "cz": "Nemůžu uvěřit, že jsem zapomněla na svého drahého, sladkého Mickeyho.",
+      "source": "pre_existing",
+      "original_cz": "Nemůžu uvěřit, že jsem zapomněla na svého drahého, sladkého Mickeyho."
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "He always tried to be cheerful, but I know it made him sad.",
+      "cz": "Vždycky se snažil být veselý, ale vím, že ho to zarmoutilo.",
+      "source": "pre_existing",
+      "original_cz": "Vždycky se snažil být veselý, ale vím, že ho to zarmoutilo."
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "I could see it in his face, even though he tried to hide it.",
+      "cz": "Viděla jsem mu to na tváři, i když se to snažilo skrýt.",
+      "source": "pre_existing",
+      "original_cz": "Viděla jsem mu to na tváři, i když se to snažilo skrýt."
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "Thank you for helping me remember.",
+      "cz": "Děkuji, že jste mi pomohli si zapamatovat.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji, že jste mi pomohli si zapamatovat."
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_020_VLG_TalkToMinnieAboutLimboMemory.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "This place feels so familiar to me...",
+      "cz": "Tohle místo mi připadá tak povědomé...",
+      "source": "pre_existing",
+      "original_cz": "Tohle místo mi připadá tak povědomé..."
+    },
+    {
+      "key": "Minnie_006_f",
+      "en": "{PlayerName}, do you see that strange thing?",
+      "cz": "{PlayerName}, vidím tu divnou věc?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, vidím tu divnou věc?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "It's flickering in and out of reality, just like you were!",
+      "cz": "Mihotavě se to objevuje a mizí z reality, stejně jako ty!",
+      "source": "pre_existing",
+      "original_cz": "Mihotavě se to objevuje a mizí z reality, stejně jako ty!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Is that a fishing pole?",
+      "cz": "Je to rybářský prut?",
+      "source": "pre_existing",
+      "original_cz": "Je to rybářský prut?"
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "Was that what I looked like? Oh goodness!",
+      "cz": "Takhle jsem vypadala? Proboha!",
+      "source": "pre_existing",
+      "original_cz": "Takhle jsem vypadala? Proboha!"
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "How did you bring me back?",
+      "cz": "Jak jsi mě přivedla zpět?",
+      "source": "pre_existing",
+      "original_cz": "Jak jsi mě přivedla zpět?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "A device called the <ActivityItem>Dreamlight Magnifier</ActivityItem>.",
+      "cz": "Zařízení zvané <ActivityItem>Zvětšovač snů</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Zařízení zvané <ActivityItem>Zvětšovač snů</ActivityItem>."
+    },
+    {
+      "key": "Player_000_choice_003_f",
+      "en": "A device. Mickey has it.",
+      "cz": "Zařízení. Mickey ho má.",
+      "source": "pre_existing",
+      "original_cz": "Zařízení. Mickey ho má."
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "How interesting! Let's go ask Mickey about it.",
+      "cz": "To je zajímavé! Pojďme se na to zeptat Mickeyho.",
+      "source": "pre_existing",
+      "original_cz": "To je zajímavé! Pojďme se na to zeptat Mickeyho."
+    },
+    {
+      "key": "Minnie_005_f",
+      "en": "Oh! Then we should go talk to Mickey!",
+      "cz": "Aha! Pak bychom si měli promluvit s Mickeym!",
+      "source": "pre_existing",
+      "original_cz": "Aha! Pak bychom si měli promluvit s Mickeym!"
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "I have no idea. It seems to be here... but not quite!",
+      "cz": "Nemám tušení. Zdá se, že to tady je... ale ne tak docela!",
+      "source": "pre_existing",
+      "original_cz": "Nemám tušení. Zdá se, že to tady je... ale ne tak docela!"
+    },
+    {
+      "key": "Minnie_007_f",
+      "en": "It looks just like you did — between Here and There.",
+      "cz": "Vypadá to přesně jako ty – mezi Tady a Tam.",
+      "source": "pre_existing",
+      "original_cz": "Vypadá to přesně jako ty – mezi Tady a Tam."
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_030_VLG_Intro.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "{PlayerName}, did you know there used to be a <ActivityItem>Rustic Clock Tower</ActivityItem> in the Plaza?",
+      "cz": "{PlayerName}, věděla jsi, že na náměstí bývala <ActivityItem>Rustikální hodinová věž</ActivityItem>?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, věděla jsi, že na náměstí bývala <ActivityItem>Rustikální hodinová věž</ActivityItem>?"
+    },
+    {
+      "key": "Minnie_005_f",
+      "en": "It was quite large and elegant, and it helped everyone keep time.",
+      "cz": "Byla docela velká a elegantní a všem pomohla sledovat čas.",
+      "source": "pre_existing",
+      "original_cz": "Byla docela velká a elegantní a všem pomohla sledovat čas."
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "It seems to have disappeared during the Forgetting.",
+      "cz": "Zdá se, že během Zapomnění zmizelo.",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že během Zapomnění zmizelo."
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "Would you help me bring it back to Dreamlight Valley?",
+      "cz": "Pomohla bys mi to přinést zpátky do Údolí snů?",
+      "source": "pre_existing",
+      "original_cz": "Pomohla bys mi to přinést zpátky do Údolí snů?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Of course I'll help!",
+      "cz": "Samozřejmě, že ti pomůžu!",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě, že ti pomůžu!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'll help later! I promise!",
+      "cz": "Později pomůžu! Slibuji!",
+      "source": "pre_existing",
+      "original_cz": "Později pomůžu! Slibuji!"
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "Wonderful! Now let me see...",
+      "cz": "Skvělé! Tak se dívám...",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Tak se dívám..."
+    },
+    {
+      "key": "Minnie_006_f",
+      "en": "It was very tall. Built of <ActivityItem>Stones</ActivityItem>, <ActivityItem>Hardwood</ActivityItem>, and <ActivityItem>Clay</ActivityItem>.",
+      "cz": "Byla velmi vysoká. Postavena z <ActivityItem>kamenů</ActivityItem>, <ActivityItem>tvrdého dřeva</ActivityItem> a <ActivityItem>hlíny</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Byla velmi vysoká. Postavena z <ActivityItem>kamenů</ActivityItem>, <ActivityItem>tvrdého dřeva</ActivityItem> a <ActivityItem>hlíny</ActivityItem>."
+    },
+    {
+      "key": "Minnie_007_f",
+      "en": "Oh, and the clock hands were made of Iron.",
+      "cz": "A ručičky hodin byly ze železa.",
+      "source": "pre_existing",
+      "original_cz": "A ručičky hodin byly ze železa."
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "I'll be looking forward to it. Come back when you're ready!",
+      "cz": "Těším se na to. Vrať se, až budeš připravená!",
+      "source": "pre_existing",
+      "original_cz": "Těším se na to. Vrať se, až budeš připravená!"
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_030_VLG_Ongoing.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Well, the <ActivityItem>Rustic Clock Tower</ActivityItem> was made of <ActivityItem>Stones</ActivityItem>, <ActivityItem>Hardwood</ActivityItem>, and <ActivityItem>Clay</ActivityItem>.",
+      "cz": "Ne, <ActivityItem>Rustikální hodinová věž</ActivityItem> byla vyrobena z <ActivityItem>kamenů</ActivityItem>, <ActivityItem>tvrdého dřeva</ActivityItem> a <ActivityItem>hlíny</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ne, <ActivityItem>Rustikální hodinová věž</ActivityItem> byla vyrobena z <ActivityItem>kamenů</ActivityItem>, <ActivityItem>tvrdého dřeva</ActivityItem> a <ActivityItem>hlíny</ActivityItem>."
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "And the clock hands were made of Iron.",
+      "cz": "A ručičky hodin byly ze železa.",
+      "source": "pre_existing",
+      "original_cz": "A ručičky hodin byly ze železa."
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_030_VLG_Ongoing02.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Well, you have all the materials we need to build the <ActivityItem>Rustic Clock Tower</ActivityItem>!",
+      "cz": "Ne, máte všechny materiály, které potřebujeme k postavení <ActivityItem>Rustikální hodinové věže</ActivityItem>!",
+      "source": "pre_existing",
+      "original_cz": "Ne, máte všechny materiály, které potřebujeme k postavení <ActivityItem>Rustikální hodinové věže</ActivityItem>!"
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_030_VLG_Ongoing03.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Let's rebuild the <ActivityItem>Rustic Clock Tower</ActivityItem>!",
+      "cz": "Pojďme znovu postavit <ActivityItem>rustikální hodinovou věž</ActivityItem>!",
+      "source": "pre_existing",
+      "original_cz": "Pojďme znovu postavit <ActivityItem>rustikální hodinovou věž</ActivityItem>!"
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_030_VLG_Outro.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "You've done a wonderful job, {PlayerName}! The <ActivityItem>Rustic Clock Tower</ActivityItem> looks as good as new — both elegant and useful!",
+      "cz": "Odvedl jsi skvělou práci, {PlayerName}! <ActivityItem>Rustikální hodinová věž</ActivityItem> vypadá jako nová – je elegantní a užitečná!",
+      "source": "pre_existing",
+      "original_cz": "Odvedl jsi skvělou práci, {PlayerName}! <ActivityItem>Rustikální hodinová věž</ActivityItem> vypadá jako nová – je elegantní a užitečná!"
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "You know, seeing you do so many useful things reminds me of the Cheerful Chums Club.",
+      "cz": "Víš, když tě vidím dělat tolik užitečných věcí, připomíná mi to Klub veselých kamarádů.",
+      "source": "pre_existing",
+      "original_cz": "Víš, když tě vidím dělat tolik užitečných věcí, připomíná mi to Klub veselých kamarádů."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "What's the Cheerful Chums Club?",
+      "cz": "Co je to Klub veselých kamarádů?",
+      "source": "pre_existing",
+      "original_cz": "Co je to Klub veselých kamarádů?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I like being useful!",
+      "cz": "Rád jsem užitný!",
+      "source": "pre_existing",
+      "original_cz": "Rád jsem užitný!"
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "Well, I don't recall exactly who was in the club.",
+      "cz": "Ne, přesně si nepamatuju, kdo byl v klubu.",
+      "source": "pre_existing",
+      "original_cz": "Ne, přesně si nepamatuju, kdo byl v klubu."
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "But I know we made sure everyone in the Village had what they needed.",
+      "cz": "Ale vím, že jsme se ujistili, že každý ve vesnici má, co potřebuje.",
+      "source": "pre_existing",
+      "original_cz": "Ale vím, že jsme se ujistili, že každý ve vesnici má, co potřebuje."
+    },
+    {
+      "key": "Minnie_005_f",
+      "en": "If the club were around today, I might just nominate you to be the president!",
+      "cz": "Kdyby klub existoval dnes, možná bych tě nominovala na prezidenta!",
+      "source": "pre_existing",
+      "original_cz": "Kdyby klub existoval dnes, možná bych tě nominovala na prezidenta!"
+    },
+    {
+      "key": "Minnie_006_f",
+      "en": "Oh, before I forget, I made these clothes as a thank-you present for all your wonderful work.",
+      "cz": "Ach, než zapomenu, tohle oblečení jsem si ušila jako poděkování za tvou skvělou práci.",
+      "source": "pre_existing",
+      "original_cz": "Ach, než zapomenu, tohle oblečení jsem si ušila jako poděkování za tvou skvělou práci."
+    },
+    {
+      "key": "Minnie_007_f",
+      "en": "I hope you like them!",
+      "cz": "Doufám, že se vám budou líbit!",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že se vám budou líbit!"
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "And we're all very grateful for your help!",
+      "cz": "A my všichni jsme vám velmi vděční za vaši pomoc!",
+      "source": "pre_existing",
+      "original_cz": "A my všichni jsme vám velmi vděční za vaši pomoc!"
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_030_VLG_TalkToAfterCrafting.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "You've gathered everything! Now all that's left to do is craft the <ActivityItem>Rustic Clock Tower</ActivityItem> and find a spot for it.",
+      "cz": "Všechno máte nashromážděno! Teď už jen zbývá vyrobit <ActivityItem>Rustikální hodinovou věž</ActivityItem> a najít pro ni místo.",
+      "source": "pre_existing",
+      "original_cz": "Všechno máte nashromážděno! Teď už jen zbývá vyrobit <ActivityItem>Rustikální hodinovou věž</ActivityItem> a najít pro ni místo."
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_040_VLG_Minn_040_Intro.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Yoo-hoo, {PlayerName}! I've been thinking about all the wonderful work you do.",
+      "cz": "Jééé, {PlayerName}! Přemýšlela jsem o veškeré té skvělé práci, kterou děláš.",
+      "source": "pre_existing",
+      "original_cz": "Jééé, {PlayerName}! Přemýšlela jsem o veškeré té skvělé práci, kterou děláš."
+    },
+    {
+      "key": "Minnie_007_f",
+      "en": "It's so kind of you, but I think you could use some help.",
+      "cz": "To je od vás moc laskavé, ale myslím, že by se vám hodila pomoc.",
+      "source": "pre_existing",
+      "original_cz": "To je od vás moc laskavé, ale myslím, že by se vám hodila pomoc."
+    },
+    {
+      "key": "Minnie_008_f",
+      "en": "So, I think it's time we put the Cheerful Chums Club back together!",
+      "cz": "Takže si myslím, že je načase, abychom dali zase dohromady Klub veselých kamarádů!",
+      "source": "pre_existing",
+      "original_cz": "Takže si myslím, že je načase, abychom dali zase dohromady Klub veselých kamarádů!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "What's the Cheerful Chums Club?",
+      "cz": "Co je to Klub veselých kamarádů?",
+      "source": "pre_existing",
+      "original_cz": "Co je to Klub veselých kamarádů?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I'll be back! I'm busy!",
+      "cz": "Vrátím se! Jsem zaneprázdněný!",
+      "source": "pre_existing",
+      "original_cz": "Vrátím se! Jsem zaneprázdněný!"
+    },
+    {
+      "key": "Minnie_009_f",
+      "en": "Oh, I thought I'd mentioned it to you. The club was a group of Villagers.",
+      "cz": "Aha, myslela jsem, že jsem se ti o tom už zmínila. Klub byla skupina vesničanů.",
+      "source": "pre_existing",
+      "original_cz": "Aha, myslela jsem, že jsem se ti o tom už zmínila. Klub byla skupina vesničanů."
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "We made sure everyone in the Village had what they needed.",
+      "cz": "Ujistili jsme se, že každý ve vesnici má, co potřebuje.",
+      "source": "pre_existing",
+      "original_cz": "Ujistili jsme se, že každý ve vesnici má, co potřebuje."
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "It was a lot like what you do.",
+      "cz": "Bylo to hodně podobné tomu, co děláš ty.",
+      "source": "pre_existing",
+      "original_cz": "Bylo to hodně podobné tomu, co děláš ty."
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "Before the Forgetting, we used to hold secret meetings in the swamp.",
+      "cz": "Před Zapomněním jsme pořádali tajné schůzky v bažině.",
+      "source": "pre_existing",
+      "original_cz": "Před Zapomněním jsme pořádali tajné schůzky v bažině."
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "(We usually held those secret meetings to plan surprise parties! *giggle*)",
+      "cz": "(Obvykle jsme pořádali ty tajné schůzky, abychom naplánovali překvapivé večírky! *chichotání*)",
+      "source": "pre_existing",
+      "original_cz": "(Obvykle jsme pořádali ty tajné schůzky, abychom naplánovali překvapivé večírky! *chichotání*)"
+    },
+    {
+      "key": "Minnie_005_f",
+      "en": "We even had our own banner! Hmm... I wonder if there's anything left of it...",
+      "cz": "Měli jsme dokonce i vlastní transparent! Hmm... Zajímalo by mě, jestli z něj něco zbylo...",
+      "source": "pre_existing",
+      "original_cz": "Měli jsme dokonce i vlastní transparent! Hmm... Zajímalo by mě, jestli z něj něco zbylo..."
+    },
+    {
+      "key": "Minnie_006_f",
+      "en": "Busy being helpful, if I were to guess. {PlayerName}, make sure to rest sometimes!",
+      "cz": "Mám-li hádat, jsem zaneprázdněná užitečností. {PlayerName}, nezapomeň si někdy odpočinout!",
+      "source": "pre_existing",
+      "original_cz": "Mám-li hádat, jsem zaneprázdněná užitečností. {PlayerName}, nezapomeň si někdy odpočinout!"
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_040_VLG_Minn_040_TalkToMinnie02.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Hello, {PlayerName}! Oh, what do you have there?",
+      "cz": "Ahoj, {PlayerName}! Co to máš?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}! Co to máš?"
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "The next thing to do is get some new members.",
+      "cz": "Další věcí, kterou je třeba udělat, získat nové členy.",
+      "source": "pre_existing",
+      "original_cz": "Další věcí, kterou je třeba udělat, získat nové členy."
+    },
+    {
+      "key": "Minnie_006_f",
+      "en": "Anna and Woody used to be in the club. I'll see if they're here.",
+      "cz": "Anna a Woody bývali v klubu. Podívám se, jestli tu jsou.",
+      "source": "pre_existing",
+      "original_cz": "Anna a Woody bývali v klubu. Podívám se, jestli tu jsou."
+    },
+    {
+      "key": "Minnie_010_f",
+      "en": "And of course, you should be an official member, {PlayerName}.",
+      "cz": "A samozřejmě by měl/a být oficiálním členem/členkou, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "A samozřejmě by měl/a být oficiálním členem/členkou, {PlayerName}."
+    },
+    {
+      "key": "Minnie_012_f",
+      "en": "Actually, you should be the president!",
+      "cz": "Vlastně by měla být prezidentkou!",
+      "source": "pre_existing",
+      "original_cz": "Vlastně by měla být prezidentkou!"
+    },
+    {
+      "key": "Minnie_013_f",
+      "en": "Would you mind if we had our first meeting in your House?",
+      "cz": "Nevadilo by vám, kdybychom měli první schůzku ve vaší sněmovně?",
+      "source": "pre_existing",
+      "original_cz": "Nevadilo by vám, kdybychom měli první schůzku ve vaší sněmovně?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "No problem at all!",
+      "cz": "Žádný problém!",
+      "source": "pre_existing",
+      "original_cz": "Žádný problém!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "It's a bit messy...",
+      "cz": "Je to trochu chaotické...",
+      "source": "pre_existing",
+      "original_cz": "Je to trochu chaotické..."
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "It's a bit of a mess... but it's a banner and it says... \"Cheerful Chums\"?! Oh, of course!",
+      "cz": "Je to trochu zmatek... ale je to transparent a je na něm napsáno... \"Veselí kámoši\"?! Jasně že!",
+      "source": "pre_existing",
+      "original_cz": "Je to trochu zmatek... ale je to transparent a je na něm napsáno... \"Veselí kámoši\"?! Jasně že!"
+    },
+    {
+      "key": "Minnie_007_f",
+      "en": "That's the banner from the club I told you about!",
+      "cz": "To je ten transparent z klubu, o kterém jsem ti říkala!",
+      "source": "pre_existing",
+      "original_cz": "To je ten transparent z klubu, o kterém jsem ti říkala!"
+    },
+    {
+      "key": "Minnie_008_f",
+      "en": "I asked, but I couldn't find any remaining members of the club...",
+      "cz": "Ptala jsem, ale nenašla jsem žádné další členy klubu...",
+      "source": "pre_existing",
+      "original_cz": "Ptala jsem, ale nenašla jsem žádné další členy klubu..."
+    },
+    {
+      "key": "Minnie_009_f",
+      "en": "So, we'll just have to start it up again!",
+      "cz": "Takže to budeme muset spustit znovu!",
+      "source": "pre_existing",
+      "original_cz": "Takže to budeme muset spustit znovu!"
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "Now, we had a saying at the club...",
+      "cz": "V klubu jsme měli rčení...",
+      "source": "pre_existing",
+      "original_cz": "V klubu jsme měli rčení..."
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "\"Always make sure Dreamlight Valley is a happy and beautiful place!\"",
+      "cz": "\"Vždy se daří, že Údolí snů je šťastné a krásné místo!\"",
+      "source": "pre_existing",
+      "original_cz": "\"Vždy se daří, že Údolí snů je šťastné a krásné místo!\""
+    },
+    {
+      "key": "Minnie_005_f",
+      "en": "I think Anna and Woody came up with that. We should repair the banner for them.",
+      "cz": "Myslím, že s tím přišli Anna a Woody. Měli bychom jim opravit ten transparent.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že s tím přišli Anna a Woody. Měli bychom jim opravit ten transparent."
+    },
+    {
+      "key": "Minnie_011_f",
+      "en": "Let's see... We'll need to make a new red dye, and gather some <ActivityItem>Fabric</ActivityItem> and <ActivityItem>Gold Nuggets</ActivityItem>.",
+      "cz": "Podívejme se... Budeme muset vyrobit nové červené barvivo a nashromáždit nějakou <ActivityItem>Látku</ActivityItem> a <ActivityItem>Zlaté nugetky</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Podívejme se... Budeme muset vyrobit nové červené barvivo a nashromáždit nějakou <ActivityItem>Látku</ActivityItem> a <ActivityItem>Zlaté nugetky</ActivityItem>."
+    },
+    {
+      "key": "Minnie_014_f",
+      "en": "Wonderful! I'll go get the other members, and we'll meet you at your House!",
+      "cz": "Skvělé! Zajdu pro ostatní členy a sejdeme se u vás doma!",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Zajdu pro ostatní členy a sejdeme se u vás doma!"
+    },
+    {
+      "key": "Minnie_015_f",
+      "en": "It may take me a while, so you should have time to repair the banner and hang it up to welcome everyone to the club.",
+      "cz": "Může mi to chvíli trvat, takže byste měli mít čas opravit průhledný a pověsit ho, abyste všichni v klubu přivítali.",
+      "source": "pre_existing",
+      "original_cz": "Může mi to chvíli trvat, takže byste měli mít čas opravit průhledný a pověsit ho, abyste všichni v klubu přivítali."
+    },
+    {
+      "key": "Minnie_016_f",
+      "en": "Hmm... Well, it will take me a while to gather the other members. That should give you enough time to do whatever you need to do.",
+      "cz": "Hmm... Ne, bude mi chvíli trvat, než shromáždím ostatní členy. To by ti mělo dát dost času na to, abys udělala, co potřebuješ.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Ne, bude mi chvíli trvat, než shromáždím ostatní členy. To by ti mělo dát dost času na to, abys udělala, co potřebuješ."
+    },
+    {
+      "key": "Minnie_017_f",
+      "en": "Oh, and don't forget to hang the banner to welcome everyone to the club!",
+      "cz": "A nezapomeňte pověsit transparent, abyste všechny v klubu přivítali!",
+      "source": "pre_existing",
+      "original_cz": "A nezapomeňte pověsit transparent, abyste všechny v klubu přivítali!"
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_040_VLG_Ongoing01.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Well, we're still missing some things to repair the banner.",
+      "cz": "Ne, stále nám chybí pár věcí k opravě průhlednosti.",
+      "source": "pre_existing",
+      "original_cz": "Ne, stále nám chybí pár věcí k opravě průhlednosti."
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_040_VLG_Ongoing03.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Could you put the banner up in your House for our first meeting?",
+      "cz": "Mohla byste vyvěsit ten transparent ve vaší sněmovně na naši první schůzi?",
+      "source": "pre_existing",
+      "original_cz": "Mohla byste vyvěsit ten transparent ve vaší sněmovně na naši první schůzi?"
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_040_VLG_Ongoing04.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Did you find anything from our Village club in the swamp?",
+      "cz": "Našla jsi v bažině něco z našeho vesnického klubu?",
+      "source": "pre_existing",
+      "original_cz": "Našla jsi v bažině něco z našeho vesnického klubu?"
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_040_VLG_Ongoing06.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Let's make the return of the Cheerful Chums Club official!",
+      "cz": "Pojďme oficiálně ohlásit návrat Klubu veselých kamarádů!",
+      "source": "pre_existing",
+      "original_cz": "Pojďme oficiálně ohlásit návrat Klubu veselých kamarádů!"
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_040_VLG_Ongoing07.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Let's go to your House!",
+      "cz": "Pojďme k tobě domů!",
+      "source": "pre_existing",
+      "original_cz": "Pojďme k tobě domů!"
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_040_VLG_OngoingCraft.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Oh, you have everything we need! Let's repair the banner!",
+      "cz": "Máš tu všechno, co potřebujeme! Pojďme opravit ten transparent!",
+      "source": "pre_existing",
+      "original_cz": "Máš tu všechno, co potřebujeme! Pojďme opravit ten transparent!"
+    }
+  ],
+  "Minnie/Minnie_VLG_Minn_040_VLG_Outro.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Oh, that was so much fun! It was wonderful to see everyone again.",
+      "cz": "To byla taková zábava! Bylo skvělé zase všechny vidět.",
+      "source": "pre_existing",
+      "original_cz": "To byla taková zábava! Bylo skvělé zase všechny vidět."
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "Thank you for finding the banner, and opening your House to us.",
+      "cz": "Děkujeme, že jste našli transparent a otevřeli nám svůj dům.",
+      "source": "pre_existing",
+      "original_cz": "Děkujeme, že jste našli transparent a otevřeli nám svůj dům."
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "And... well, thank you for everything!",
+      "cz": "A... ne, děkuji za všechno!",
+      "source": "pre_existing",
+      "original_cz": "A... ne, děkuji za všechno!"
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "You've been such a marvelous friend, {PlayerName}.",
+      "cz": "Byla jsi tak úžasná kamarádka, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Byla jsi tak úžasná kamarádka, {PlayerName}."
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "I want you to have this.",
+      "cz": "Chci, abys tohle měla.",
+      "source": "pre_existing",
+      "original_cz": "Chci, abys tohle měla."
+    },
+    {
+      "key": "Minnie_005_f",
+      "en": "And I want you to know that I'll never forget what you've done for me.",
+      "cz": "A chci, abys věděla, že nikdy nezapomenu, co jsi pro mě udělala.",
+      "source": "pre_existing",
+      "original_cz": "A chci, abys věděla, že nikdy nezapomenu, co jsi pro mě udělala."
+    },
+    {
+      "key": "Minnie_006_f",
+      "en": "I'll do everything I can NOT to forget something so important ever again.",
+      "cz": "Udělám vše, co bude v mých silách, abych na něco tak důležitého už nikdy nezapomněla.",
+      "source": "pre_existing",
+      "original_cz": "Udělám vše, co bude v mých silách, abych na něco tak důležitého už nikdy nezapomněla."
+    },
+    {
+      "key": "Minnie_007_f",
+      "en": "Please come visit me anytime you'd like.",
+      "cz": "Prosím, přijďte mě navštívit, kdykoli budete chtít.",
+      "source": "pre_existing",
+      "original_cz": "Prosím, přijďte mě navštívit, kdykoli budete chtít."
+    }
+  ],
+  "Minnie/Minnie_VLG_Nala_030_VLG_Nala_030_TalkTo04_Minnie.locbin": [
+    {
+      "key": "Minnie_001_f",
+      "en": "{PlayerName}, I'm so glad you're here. I'm worried about the strange things that have been happening in the Village.",
+      "cz": "{PlayerName}, jsem moc ráda, že jsi tady. Dělají mě ty divné věci ve vesnici.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, jsem moc ráda, že jsi tady. Dělají mě ty divné věci ve vesnici."
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "It's like what happened before. I hope I don't start disappearing again.",
+      "cz": "Je to jako to, co se stalo předtím. Doufám, že nezačnu zase mizet.",
+      "source": "pre_existing",
+      "original_cz": "Je to jako to, co se stalo předtím. Doufám, že nezačnu zase mizet."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "That's not going to happen.",
+      "cz": "To se nestane.",
+      "source": "pre_existing",
+      "original_cz": "To se nestane."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I need your help to fix this.",
+      "cz": "Potřebuji vaši pomoc s opravou.",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji vaši pomoc s opravou."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I'm scared we're ALL going to start disappearing soon.",
+      "cz": "Bojím se, že brzy začneme VŠICHNI mizet.",
+      "source": "pre_existing",
+      "original_cz": "Bojím se, že brzy začneme VŠICHNI mizet."
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "Oh, I know you'll do everything you can to fix things. And I'll help however I can.",
+      "cz": "Vím, že uděláš vše, co bude v tvých silách, abys to napravila. A já ti pomůžu, jak jen budu moct.",
+      "source": "pre_existing",
+      "original_cz": "Vím, že uděláš vše, co bude v tvých silách, abys to napravila. A já ti pomůžu, jak jen budu moct."
+    },
+    {
+      "key": "Minnie_000_f",
+      "en": "I hope you don't mind if I cut this up into a few pieces.",
+      "cz": "Doufám, že vám nebude vadit, když to rozstříhám na pár kousků.",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že vám nebude vadit, když to rozstříhám na pár kousků."
+    },
+    {
+      "key": "Minnie_014_f",
+      "en": "Oh please, do whatever you need to do.",
+      "cz": "Prosím, udělejte, co je potřeba.",
+      "source": "pre_existing",
+      "original_cz": "Prosím, udělejte, co je potřeba."
+    },
+    {
+      "key": "Minnie_015_f",
+      "en": "I can always replace a bow.",
+      "cz": "Smyčec můžu vždycky vyměnit.",
+      "source": "pre_existing",
+      "original_cz": "Smyčec můžu vždycky vyměnit."
+    },
+    {
+      "key": "Minnie_013_f",
+      "en": "But the Here and There... being stuck between worlds... it's so scary. I won't let that happen to anyone ever again.",
+      "cz": "Ale to Tady a Tam... být uvězněný mezi světy... je to tak děsivé. Nedovolím, aby se to někomu stalo.",
+      "source": "pre_existing",
+      "original_cz": "Ale to Tady a Tam... být uvězněný mezi světy... je to tak děsivé. Nedovolím, aby se to někomu stalo."
+    },
+    {
+      "key": "Minnie_005_f",
+      "en": "That's actually exactly why I'm here.",
+      "cz": "Přesně proto jsem tady.",
+      "source": "pre_existing",
+      "original_cz": "Přesně proto jsem tady."
+    },
+    {
+      "key": "Minnie_006_f",
+      "en": "Nala and I are trying to perform an enchantment to fix the rifts in the Valley. We need something from you.",
+      "cz": "Nala a já se snažíme provést kouzlo, abychom opravili trhliny v Údolí. Potřebujeme od tebe něco.",
+      "source": "pre_existing",
+      "original_cz": "Nala a já se snažíme provést kouzlo, abychom opravili trhliny v Údolí. Potřebujeme od tebe něco."
+    },
+    {
+      "key": "Minnie_008_f",
+      "en": "From me? But why?",
+      "cz": "Ode mě? Ale proč?",
+      "source": "pre_existing",
+      "original_cz": "Ode mě? Ale proč?"
+    },
+    {
+      "key": "Minnie_009_f",
+      "en": "The rifts lead to the Here and There. To stop them, we need something that's also been to the Here and There.",
+      "cz": "Trhliny vedou do Sem a Tam. Abychom je zastavili, potřebujeme něco, co už také bylo Sem a Tam.",
+      "source": "pre_existing",
+      "original_cz": "Trhliny vedou do Sem a Tam. Abychom je zastavili, potřebujeme něco, co už také bylo Sem a Tam."
+    },
+    {
+      "key": "Minnie_010_f",
+      "en": "Is there anything you can give us? Something you had on you when you disappeared?",
+      "cz": "Můžete nám něco dát? Něco, co jste měli u sebe, když jste zmizeli?",
+      "source": "pre_existing",
+      "original_cz": "Můžete nám něco dát? Něco, co jste měli u sebe, když jste zmizeli?"
+    },
+    {
+      "key": "Minnie_011_f",
+      "en": "Of course! Here. Take this.",
+      "cz": "Samozřejmě! Tady. Vezmi si tohle.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě! Tady. Vezmi si tohle."
+    },
+    {
+      "key": "Minnie_012_f",
+      "en": "I was wearing that bow when I first started to disappear.",
+      "cz": "Měla jsem na sobě tu mašli, když jsem začala mizet.",
+      "source": "pre_existing",
+      "original_cz": "Měla jsem na sobě tu mašli, když jsem začala mizet."
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "You do? What do you need? I'll do whatever I can to help.",
+      "cz": "ano? Co potřebuješ? Udělám, co budu moct, abych ti pomohla.",
+      "source": "pre_existing",
+      "original_cz": "ano? Co potřebuješ? Udělám, co budu moct, abych ti pomohla."
+    },
+    {
+      "key": "Minnie_007_f",
+      "en": "Well, I'll do whatever I can to help you stop that from happening.",
+      "cz": "Ne, udělám vše, co bude v mých silách, abych vám pomohla tomu zachovat.",
+      "source": "pre_existing",
+      "original_cz": "Ne, udělám vše, co bude v mých silách, abych vám pomohla tomu zachovat."
+    }
+  ],
+  "Minnie/Minnie_VLG_Simb_020_VLG_Simb_020_TalkTo05.locbin": [
+    {
+      "key": "Minnie_001_f",
+      "en": "Oh, {PlayerName}, hello! You look like you're on an important mission.",
+      "cz": "Ach, {PlayerName}, ahoj! Vypadáš, jako by byl na důležité misi.",
+      "source": "pre_existing",
+      "original_cz": "Ach, {PlayerName}, ahoj! Vypadáš, jako by byl na důležité misi."
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "Simba wants to invite you to a gathering. It's a celebration for all of us!",
+      "cz": "Simba tě chce pozvat na setkání. Je to oslava pro nás všechny!",
+      "source": "pre_existing",
+      "original_cz": "Simba tě chce pozvat na setkání. Je to oslava pro nás všechny!"
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "How sweet of him! What can I do to help?",
+      "cz": "To je od něj milé! Jak můžu pomoct?",
+      "source": "pre_existing",
+      "original_cz": "To je od něj milé! Jak můžu pomoct?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Just be yourself. It'll be perfect.",
+      "cz": "Prostě buď sám sebou. Bude to perfektní.",
+      "source": "pre_existing",
+      "original_cz": "Prostě buď sám sebou. Bude to perfektní."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "My guess: Just go and enjoy the party.",
+      "cz": "Můj odhad: Prostě jdi a užij si tu párty.",
+      "source": "pre_existing",
+      "original_cz": "Můj odhad: Prostě jdi a užij si tu párty."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Nothing. That's the best part!",
+      "cz": "Nic. To je na tom nejlepší!",
+      "source": "pre_existing",
+      "original_cz": "Nic. To je na tom nejlepší!"
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "You're very kind.",
+      "cz": "Jste moc laskavá.",
+      "source": "pre_existing",
+      "original_cz": "Jste moc laskavá."
+    },
+    {
+      "key": "Minnie_007_f",
+      "en": "Tell Simba I'll be there with bells on! Or, I guess I should say bows. Hee-hee!",
+      "cz": "Řekni Simbovi, že tam budu se zvonečky! Nebo bych asi měla říct s poklonami. Ahoj ahoj!",
+      "source": "pre_existing",
+      "original_cz": "Řekni Simbovi, že tam budu se zvonečky! Nebo bych asi měla říct s poklonami. Ahoj ahoj!"
+    },
+    {
+      "key": "Minnie_005_f",
+      "en": "I can do that.",
+      "cz": "To zvládnu.",
+      "source": "pre_existing",
+      "original_cz": "To zvládnu."
+    },
+    {
+      "key": "Minnie_006_f",
+      "en": "You're too funny, {PlayerName}.",
+      "cz": "Jsi moc vtipný/á, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Jsi moc vtipný/á, {PlayerName}."
+    }
+  ],
+  "Minnie/VLG_Minn_010.locbin": [
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_010_Any_CompletedRequestDescription",
+      "en": "Return to Minnie.",
+      "cz": "Vrať se k Minnie.",
+      "source": "pre_existing",
+      "original_cz": "Vrať se k Minnie."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_010_AvailableDescription",
+      "en": "Minnie wants to spend some time with you.",
+      "cz": "Minnie s tebou chce strávit nějaký čas.",
+      "source": "pre_existing",
+      "original_cz": "Minnie s tebou chce strávit nějaký čas."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_010_CompletedStoryDescription",
+      "en": "Mickey loves the gift and asks you to thank Minnie on his behalf. Time to carry the message.",
+      "cz": "Mickeymu se dárek líbí a žádá vás, abyste Minnie poděkovali jeho jménem. Je čas předat zprávu.",
+      "source": "pre_existing",
+      "original_cz": "Mickeymu se dárek líbí a žádá vás, abyste Minnie poděkovali jeho jménem. Je čas předat zprávu."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_010_DisplayName",
+      "en": "The Language of Flowers",
+      "cz": "Řeč květin",
+      "source": "pre_existing",
+      "original_cz": "Řeč květin"
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_010_Group01_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What are we doing?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co děláme?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co děláme?"
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_010_Group01_StepDescription",
+      "en": "Pick <ActivityItem>Blue Star Lilies</ActivityItem> in the Forest with Minnie.",
+      "cz": "Natrhej si v lese s Minnie <ActivityItem>Modré hvězdicové lilie</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Natrhej si v lese s Minnie <ActivityItem>Modré hvězdicové lilie</ActivityItem>."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_010_Group01_StoryDescription",
+      "en": "Fascinated by the flowers in the Village, she wants to gather some and give them to Mickey. You decide to help her.",
+      "cz": "Fascinována květinami ve vesnici, chce jich nějaké natrhat a dát je Mickeymu. Rozhodnete se jí pomoci.",
+      "source": "pre_existing",
+      "original_cz": "Fascinována květinami ve vesnici, chce jich nějaké natrhat a dát je Mickeymu. Rozhodnete se jí pomoci."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_010_Group02_Step02_Possess01_StepDescription",
+      "en": "<ActivityItem>Minnie's Special Flower Pot</ActivityItem>.",
+      "cz": "<ActivityItem>Minniein speciální květináč</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Minniein speciální květináč</ActivityItem>."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_010_Group02_Step02_Possess02_StepDescription",
+      "en": "<ActivityItem>White & Red Hydrangea</ActivityItem>.",
+      "cz": "<ActivityItem>Bílá a červená hortenzie</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Bílá a červená hortenzie</ActivityItem>."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_010_Group02_Step02_Possess03_StepDescription",
+      "en": "<ActivityItem>Red Bell Flowers</ActivityItem>.",
+      "cz": "<ActivityItem>Červené zvonkové květy</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Červené zvonkové květy</ActivityItem>."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_010_Group02_Step02_Possess04_StepDescription",
+      "en": "<ActivityItem>Blue Star Lilies</ActivityItem>.",
+      "cz": "<ActivityItem>Modré hvězdicové lilie</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Modré hvězdicové lilie</ActivityItem>."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_010_Group02_Step02_StepDescription",
+      "en": "Gather the following items to Craft <ActivityItem>Minnie's Flower Arrangement</ActivityItem>.",
+      "cz": "Shromážděte následující položky pro výrobu <ActivityItem>Minnieiny květinové aranžmá</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Shromážděte následující položky pro výrobu <ActivityItem>Minnieiny květinové aranžmá</ActivityItem>."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_010_Group02_StoryDescription",
+      "en": "Instead of just giving Mickey the flowers, Minnie first wants to fashion them into a floral arrangement. You help her make this project a reality.",
+      "cz": "Místo aby Mickeymu jen dala květiny, chce z nich nejprve vytvořit květinovou výzdobu. Můžete již tento projekt uskutečnit.",
+      "source": "pre_existing",
+      "original_cz": "Místo aby Mickeymu jen dala květiny, chce z nich nejprve vytvořit květinovou výzdobu. Můžete již tento projekt uskutečnit."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_010_Group03_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How can I help you?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Jak vám mohu pomoci?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Jak vám mohu pomoci?"
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_010_Group03_StepDescription",
+      "en": "Deliver <ActivityItem>Minnie's Flower Arrangement</ActivityItem> to Mickey on Minnie's behalf.",
+      "cz": "Doručte <ActivityItem>Minnieinu květinovou výzdobu</ActivityItem> Mickeymu jménem Minnie.",
+      "source": "pre_existing",
+      "original_cz": "Doručte <ActivityItem>Minnieinu květinovou výzdobu</ActivityItem> Mickeymu jménem Minnie."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_010_Group04_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What are we doing?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co děláme?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co děláme?"
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_010_Group04_Step04_ReadyDescription",
+      "en": "Bring the <ActivityItem>Blue Star Lilies</ActivityItem> to Minnie.",
+      "cz": "Přines Minnie <ActivityItem>Modré hvězdné lilie</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Přines Minnie <ActivityItem>Modré hvězdné lilie</ActivityItem>."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_010_Group04_Step04_StepDescription",
+      "en": "Make sure you have <ActivityItem>Blue Star Lilies</ActivityItem> in your Inventory.",
+      "cz": "Ujistěte se, že máte v inventáři <ActivityItem>Modré hvězdné lilie</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte v inventáři <ActivityItem>Modré hvězdné lilie</ActivityItem>."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_010_Group05_Step05_CraftItem01_StepDescription",
+      "en": "Craft <ActivityItem>Minnie's Flower Arrangement</ActivityItem>.",
+      "cz": "Ruční práce <ActivityItem>Květinová výzdoba Minnie</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ruční práce <ActivityItem>Květinová výzdoba Minnie</ActivityItem>."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_010_Group06_Step06_StepDescription",
+      "en": "Talk to Minnie.",
+      "cz": "Promluv si s Minnie.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Minnie."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_010_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol"
+    }
+  ],
+  "Minnie/VLG_Minn_020.locbin": [
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_Any_CompletedRequestDescription",
+      "en": "Talk to Minnie.",
+      "cz": "Promluv si s Minnie.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Minnie."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_AvailableDescription",
+      "en": "Minnie is looking for you.",
+      "cz": "Minnie tě hledá.",
+      "source": "pre_existing",
+      "original_cz": "Minnie tě hledá."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_CompletedStoryDescription",
+      "en": "See how Minnie feels after getting her memory back.",
+      "cz": "Podívejte se, jak se Minnie cítí poté, co se vrátila paměť.",
+      "source": "pre_existing",
+      "original_cz": "Podívejte se, jak se Minnie cítí poté, co se vrátila paměť."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_DisplayName",
+      "en": "On the Trail of Minnie's Memory",
+      "cz": "Po stopách Minnieiny paměti",
+      "source": "pre_existing",
+      "original_cz": "Po stopách Minnieiny paměti"
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_Group01_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What do we need to do?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co musíme udělat?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co musíme udělat?"
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "Talk to Mickey.",
+      "cz": "Promluv si s Mickeym.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Mickeym."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_Group02_StepDescription",
+      "en": "Bring the <ActivityItem>Dreamlight Magnifier</ActivityItem> to the <ActivityItem>Sparkling Fishing Pole</ActivityItem> in the Meadow.",
+      "cz": "Přines <ActivityItem>Lupu snového světla</ActivityItem> k <ActivityItem>Jsvítícímu rybářskému prutu</ActivityItem> na louce.",
+      "source": "pre_existing",
+      "original_cz": "Přines <ActivityItem>Lupu snového světla</ActivityItem> k <ActivityItem>Jsvítícímu rybářskému prutu</ActivityItem> na louce."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_Group03_StepDescription",
+      "en": "Interact with the <ActivityItem>Sparkling Fishing Pole</ActivityItem>.",
+      "cz": "Interagujte s <ActivityItem>Jsvítícím rybářským prutem</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Interagujte s <ActivityItem>Jsvítícím rybářským prutem</ActivityItem>."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_Group04_Step04_TalkToCharacter02_StepDescription",
+      "en": "Talk to Minnie.",
+      "cz": "Promluv si s Minnie.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Minnie."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_Group05_StepDescription",
+      "en": "Find another lost <ActivityItem>Memory</ActivityItem> on the Beach using the <ActivityItem>Dreamlight Magnifier</ActivityItem>.",
+      "cz": "Najděte další ztracenou <ActivityItem>Vzpomínku</ActivityItem> na pláži pomocí <ActivityItem>Lupy snového světla</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Najděte další ztracenou <ActivityItem>Vzpomínku</ActivityItem> na pláži pomocí <ActivityItem>Lupy snového světla</ActivityItem>."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_Group05_StoryDescription",
+      "en": "After getting the <ActivityItem>Dreamlight Magnifier</ActivityItem> from Mickey, you manage to retrieve the <ActivityItem>Sparkling Fishing Pole</ActivityItem>. You're on the trail of Minnie's missing Memories. Only one thing left to do... Follow it.",
+      "cz": ", co od Mickeyho získáte Poté <ActivityItem>Lupu snů</ActivityItem>, se vám podaří získat <ActivityItem>Jstříkající rybářský prut</ActivityItem>. Jste na stopě Minnieiných ztracených vzpomínek. Zbývá už jen jedna věc... Sleduj ji.",
+      "source": "pre_existing",
+      "original_cz": ", co od Mickeyho získáte Poté <ActivityItem>Lupu snů</ActivityItem>, se vám podaří získat <ActivityItem>Jstříkající rybářský prut</ActivityItem>. Jste na stopě Minnieiných ztracených vzpomínek. Zbývá už jen jedna věc... Sleduj ji."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_Group06_StepDescription",
+      "en": "Interact with the floating <ActivityItem>Sparkling Hat</ActivityItem>.",
+      "cz": "Interagujte s vznášejícím se <ActivityItem>Jsvítícím kloboukem</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Interagujte s vznášejícím se <ActivityItem>Jsvítícím kloboukem</ActivityItem>."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_Group07_StepDescription",
+      "en": "Talk to Minnie.",
+      "cz": "Promluv si s Minnie.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Minnie."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_Group08_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What are we doing now?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co teď děláme?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co teď děláme?"
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_Group08_StepDescription",
+      "en": "Listen as Minnie talks to Mickey.",
+      "cz": "Poslouchejte, jak Minnie mluví s Mickey.",
+      "source": "pre_existing",
+      "original_cz": "Poslouchejte, jak Minnie mluví s Mickey."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_Group09_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Where should we go?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Kam bychom měli jít?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Kam bychom měli jít?"
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_Group09_StepDescription",
+      "en": "Interact with the floating <ActivityItem>Sparkling Package</ActivityItem>.",
+      "cz": "Interagujte s plovoucím <ActivityItem>Jsvítícím balíčkem</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Interagujte s plovoucím <ActivityItem>Jsvítícím balíčkem</ActivityItem>."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_Group10_StepDescription",
+      "en": "Investigate the Forest of Valor to find another Lost <ActivityItem>Memory</ActivityItem> using the <ActivityItem>Dreamlight Magnifier</ActivityItem>.",
+      "cz": "Prozkoumejte Les statečnosti a najděte další ztracenou <ActivityItem>vzpomínku</ActivityItem> pomocí <ActivityItem>Lupy snového světla</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte Les statečnosti a najděte další ztracenou <ActivityItem>vzpomínku</ActivityItem> pomocí <ActivityItem>Lupy snového světla</ActivityItem>."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_Group11_Step11_TalkToCharacter04_StepDescription",
+      "en": "Talk to Minnie.",
+      "cz": "Promluv si s Minnie.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Minnie."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_Group12_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What are we doing now?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co teď děláme?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co teď děláme?"
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_Group12_StepDescription",
+      "en": "Go see Mickey with Minnie.",
+      "cz": "Jdi s Minnie za Mickeym.",
+      "source": "pre_existing",
+      "original_cz": "Jdi s Minnie za Mickeym."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_Group12_StoryDescription",
+      "en": "Minnie remembers Mickey and runs to him to tell him the good news.",
+      "cz": "Minnie si vzpomene na Mickeyho a běží k němu, aby mu sdělila dobrou zprávu.",
+      "source": "pre_existing",
+      "original_cz": "Minnie si vzpomene na Mickeyho a běží k němu, aby mu sdělila dobrou zprávu."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_Group13_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How can I help?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Jak mohu pomoci?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Jak mohu pomoci?"
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_Group13_Step13_BringItem02_StepDescription",
+      "en": "Make sure you have the {itemName} in your Inventory.",
+      "cz": "Ujistěte se, že máte {itemName} ve svém inventáři.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte {itemName} ve svém inventáři."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_Group13_Step13_ReadyDescription",
+      "en": "Talk to Mickey.",
+      "cz": "Promluv si s Mickeym.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Mickeym."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_Group13_StoryDescription",
+      "en": "After talking to Minnie, Mickey is eager to talk to you.",
+      "cz": "Po rozhovoru s Minnie se Mickey s vámi chce bavit.",
+      "source": "pre_existing",
+      "original_cz": "Po rozhovoru s Minnie se Mickey s vámi chce bavit."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_Group15_Step15_FollowCharacter01_StepDescription",
+      "en": "Follow Minnie to the location in the Meadow.",
+      "cz": "Následujte Minnie na místo na louce.",
+      "source": "pre_existing",
+      "original_cz": "Následujte Minnie na místo na louce."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_Group15_StoryDescription",
+      "en": "She tells you that she keeps being drawn to the same area in the Village for a mysterious reason. It's a mystery worth investigating.",
+      "cz": "Řekněme vám, že ji z nějakého záhadného důvodu stále přitahuje stejná oblast ve vesnici. Je to záhada, která stojí za to prozkoumat.",
+      "source": "pre_existing",
+      "original_cz": "Řekněme vám, že ji z nějakého záhadného důvodu stále přitahuje stejná oblast ve vesnici. Je to záhada, která stojí za to prozkoumat."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_Group16_Step16_TalkToCharacter05_StepDescription",
+      "en": "Talk to Minnie.",
+      "cz": "Promluv si s Minnie.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Minnie."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_Group16_StoryDescription",
+      "en": "Something weird is definitely happening in the area.",
+      "cz": "V oblasti se rozhodně děje něco divného.",
+      "source": "pre_existing",
+      "original_cz": "V oblasti se rozhodně děje něco divného."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_020_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol"
+    }
+  ],
+  "Minnie/VLG_Minn_030.locbin": [
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_030_Any_CompletedRequestDescription",
+      "en": "Return to Minnie.",
+      "cz": "Vrať se k Minnie.",
+      "source": "pre_existing",
+      "original_cz": "Vrať se k Minnie."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_030_AvailableDescription",
+      "en": "Minnie is looking for you to talk about her new project for Dreamlight Valley.",
+      "cz": "Minnie hledá, abyste si s námi popovídali o jejím novém projektu pro Dreamlight Valley.",
+      "source": "pre_existing",
+      "original_cz": "Minnie hledá, abyste si s námi popovídali o jejím novém projektu pro Dreamlight Valley."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_030_CompletedStoryDescription",
+      "en": "Now that the new <ActivityItem>Rustic Clock Tower</ActivityItem> is in its rightful place, it's time to discover what Minnie thinks of your work.",
+      "cz": "Nyní, když je nová <ActivityItem>Rustikální hodinová věž</ActivityItem> na svém správném místě, je čas zjistit, co si Minnie myslí o vaši práci.",
+      "source": "pre_existing",
+      "original_cz": "Nyní, když je nová <ActivityItem>Rustikální hodinová věž</ActivityItem> na svém správném místě, je čas zjistit, co si Minnie myslí o vaši práci."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_030_DisplayName",
+      "en": "Remembering Old Times",
+      "cz": "Vzpomínka na staré časy",
+      "source": "pre_existing",
+      "original_cz": "Vzpomínka na staré časy"
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_030_Group01_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What must I find?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co musím najít?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co musím najít?"
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_030_Group01_Step02_Possess01_StepDescription",
+      "en": "<ActivityItem>Stone</ActivityItem>.",
+      "cz": "<ActivityItem>Kámen</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Kámen</ActivityItem>."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_030_Group01_Step02_Possess02_StepDescription",
+      "en": "<ActivityItem>Hardwood</ActivityItem>.",
+      "cz": "<ActivityItem>Tvrdé dřevo</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Tvrdé dřevo</ActivityItem>."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_030_Group01_Step02_Possess03_StepDescription",
+      "en": "<ActivityItem>Iron Ingot</ActivityItem>.",
+      "cz": "<ActivityItem>Železný ingot</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Železný ingot</ActivityItem>."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_030_Group01_Step02_Possess04_StepDescription",
+      "en": "<ActivityItem>Clay</ActivityItem>.",
+      "cz": "<ActivityItem>Hlína</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Hlína</ActivityItem>."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_030_Group01_StepDescription",
+      "en": "Gather the following items to craft a <ActivityItem>Rustic Clock Tower</ActivityItem>.",
+      "cz": "Shromážděte následující položky k výrobě <ActivityItem>Rustikální hodinové věže</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Shromážděte následující položky k výrobě <ActivityItem>Rustikální hodinové věže</ActivityItem>."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_030_Group01_StoryDescription",
+      "en": "Before the Forgetting, the Village used to have a Rustic Clock Tower, and she wants to build a new one as a replacement. You agree to craft it and place it yourself.",
+      "cz": "Před Zapomněním mívala vesnice rustikální hodinovou věž a chce postavit novou jako náhradu. Souhlasíte s tím, že si ji sami vyrobíte a umístíte.",
+      "source": "pre_existing",
+      "original_cz": "Před Zapomněním mívala vesnice rustikální hodinovou věž a chce postavit novou jako náhradu. Souhlasíte s tím, že si ji sami vyrobíte a umístíte."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_030_Group02_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What must I do?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co musím udělat?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co musím udělat?"
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_030_Group02_Step01_CraftItem01_StepDescription",
+      "en": "Craft a <ActivityItem>Rustic Clock Tower</ActivityItem>.",
+      "cz": "Vyrobte si <ActivityItem>rustikální hodinovou věž</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Vyrobte si <ActivityItem>rustikální hodinovou věž</ActivityItem>."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_030_Group03_Step03_TalkToCharacter01_StepDescription",
+      "en": "Talk to Minnie.",
+      "cz": "Promluv si s Minnie.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Minnie."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_030_Group04_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co bude dál?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co bude dál?"
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_030_Group04_Step04_StepDescription",
+      "en": "Place the <ActivityItem>Rustic Clock Tower</ActivityItem> somewhere in the Village.",
+      "cz": "Umístěte <ActivityItem>Rustikální hodinovou věž</ActivityItem> někam do vesnice.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte <ActivityItem>Rustikální hodinovou věž</ActivityItem> někam do vesnice."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_030_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol"
+    }
+  ],
+  "Minnie/VLG_Minn_040.locbin": [
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_040_Any_CompletedRequestDescription",
+      "en": "Go talk to Minnie about the Club.",
+      "cz": "Jdi si promluvit s Minnie o klubu.",
+      "source": "pre_existing",
+      "original_cz": "Jdi si promluvit s Minnie o klubu."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_040_AvailableDescription",
+      "en": "Minnie has an exciting new idea and needs your help.",
+      "cz": "Minnie má nový vzrušující nápad a potřebuje vaši pomoc.",
+      "source": "pre_existing",
+      "original_cz": "Minnie má nový vzrušující nápad a potřebuje vaši pomoc."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_040_CompletedStoryDescription",
+      "en": "The first club meeting was a success but it's better to debrief with Minnie, just to be sure.",
+      "cz": "První schůzka klubu byla úspěšná, ale pro jistotu je lepší si o ní promluvit s Minnie.",
+      "source": "pre_existing",
+      "original_cz": "První schůzka klubu byla úspěšná, ale pro jistotu je lepší si o ní promluvit s Minnie."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_040_DisplayName",
+      "en": "The Club Renewal",
+      "cz": "Obnova klubu",
+      "source": "pre_existing",
+      "original_cz": "Obnova klubu"
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_040_Group01_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How can I help?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Jak mohu pomoci?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Jak mohu pomoci?"
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_040_Group01_Step01_Possess04_StepDescription",
+      "en": "<ActivityItem>Fabric</ActivityItem>.",
+      "cz": "<ActivityItem>Látka</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Látka</ActivityItem>."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_040_Group01_Step01_Possess05_StepDescription",
+      "en": "<ActivityItem>Gold Nugget</ActivityItem>.",
+      "cz": "<ActivityItem>Zlatý nuget</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Zlatý nuget</ActivityItem>."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_040_Group01_Step09_CraftItem03_StepDescription",
+      "en": "Craft a <ActivityItem>Red Dye</ActivityItem>.",
+      "cz": "Vyrobte <ActivityItem>červené barvivo</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Vyrobte <ActivityItem>červené barvivo</ActivityItem>."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_040_Group01_StepDescription",
+      "en": "Gather the following items to craft the <ActivityItem>Cheerful Chums Club Banner</ActivityItem>.",
+      "cz": "Shromážděte následující položky k výrobě <ActivityItem>Planetu klubu veselých kamarádů</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Shromážděte následující položky k výrobě <ActivityItem>Planetu klubu veselých kamarádů</ActivityItem>."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_040_Group01_StoryDescription",
+      "en": "The old banner is damaged beyond repair. Minnie decides the best option is to make a brand-new one.",
+      "cz": "Starý prapor je neopravitelně poškozený. Minnie se rozhodne, že nejlepší možnosti je vyrobit si úplně nový.",
+      "source": "pre_existing",
+      "original_cz": "Starý prapor je neopravitelně poškozený. Minnie se rozhodne, že nejlepší možnosti je vyrobit si úplně nový."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_040_Group02_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How can I help?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Jak mohu pomoci?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Jak mohu pomoci?"
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_040_Group02_Step02_CraftItem01_StepDescription",
+      "en": "Craft the <ActivityItem>Cheerful Chums Club Banner</ActivityItem>.",
+      "cz": "Vyrobte si <ActivityItem>prapor klubu veselých kamarádů</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Vyrobte si <ActivityItem>prapor klubu veselých kamarádů</ActivityItem>."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_040_Group04_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What should I do with the banner?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co mám dělat s bannerem?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co mám dělat s bannerem?"
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_040_Group04_Step04_Decorate01_StepDescription",
+      "en": "Place the <ActivityItem>Cheerful Chums Club Banner</ActivityItem> in a nice spot of your choosing in your House.",
+      "cz": "Umístěte <ActivityItem>Planner klubu veselých kamarádů</ActivityItem> na hezké místo dle vlastního výběru ve vaší koleji.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte <ActivityItem>Planner klubu veselých kamarádů</ActivityItem> na hezké místo dle vlastního výběru ve vaší koleji."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_040_Group05_Step05_TalkToCharacter03_StepDescription",
+      "en": "Go talk to Minnie about it.",
+      "cz": "Promluv si o tom s Minnie.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si o tom s Minnie."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_040_Group05_StoryDescription",
+      "en": "You find an old banner on which you can read \"Cheerful Chums.\" It's in a sorry state but Minnie would probably be happy to see it.",
+      "cz": "Najdete starý transparent s nápisem „Veselí kamarádi“. Je v žalostném stavu, ale Minnie by ho pravděpodobně ráda viděla.",
+      "source": "pre_existing",
+      "original_cz": "Najdete starý transparent s nápisem „Veselí kamarádi“. Je v žalostném stavu, ale Minnie by ho pravděpodobně ráda viděla."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_040_Group06_Step06_VisitArea01_StepDescription",
+      "en": "Go to your House.",
+      "cz": "Jdi do svého domu.",
+      "source": "pre_existing",
+      "original_cz": "Jdi do svého domu."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_040_Group06_StoryDescription",
+      "en": "Minnie loves the new banner and asks to have the first club meeting in your House.",
+      "cz": "Minnie se líbí nový prapor a žádá o uspořádání první klubové schůze ve vašem domě.",
+      "source": "pre_existing",
+      "original_cz": "Minnie se líbí nový prapor a žádá o uspořádání první klubové schůze ve vašem domě."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_040_Group07_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What's left to do?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co zbývá udělat?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co zbývá udělat?"
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_040_Group07_Step07_Party01_StepDescription",
+      "en": "Relaunch the Cheerful Chums Club.",
+      "cz": "Znovu spustit Klub veselých kamarádů.",
+      "source": "pre_existing",
+      "original_cz": "Znovu spustit Klub veselých kamarádů."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_040_Group08_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Where should I start looking?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Kde mám začít hledat?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Kde mám začít hledat?"
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_040_Group08_Step08_Possess01_StepDescription",
+      "en": "Investigate the Glade of Trust for a long-lost banner.",
+      "cz": "Prozkoumejte Mýtinu důvěry a hledejte dávno ztracený prapor.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte Mýtinu důvěry a hledejte dávno ztracený prapor."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_040_Group08_StoryDescription",
+      "en": "She wants to start the Cheerful Chums Club again and wonders if there's anything left of their old banner. You decide to look for it.",
+      "cz": "Chce znovu založit Klub veselých kamarádů a přemýšlím, jestli z jejich staré zástavy něco zbylo. Rozhodnete se ji hledat.",
+      "source": "pre_existing",
+      "original_cz": "Chce znovu založit Klub veselých kamarádů a přemýšlím, jestli z jejich staré zástavy něco zbylo. Rozhodnete se ji hledat."
+    },
+    {
+      "key": "Village!Mickey!Minnie!VLG_Minn_040_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol"
+    }
+  ]
+}

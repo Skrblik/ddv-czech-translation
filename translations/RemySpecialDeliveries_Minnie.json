@@ -1,0 +1,216 @@
+{
+  "RemySpecialDeliveries_Minnie/Minnie_RPT_Remy_050_RPT_Remy_050_BringItem04.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Oh! These look delicious, {PlayerName}. Are they for me?",
+      "cz": "Jé! Tyhle vypadají lahodně, {PlayerName}. Jsou pro mě?",
+      "source": "pre_existing",
+      "original_cz": "Jé! Tyhle vypadají lahodně, {PlayerName}. Jsou pro mě?"
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "Thank you!",
+      "cz": "Děkuji!",
+      "source": "pre_existing",
+      "original_cz": "Děkuji!"
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "These aren't from me. Somebody else asked me to deliver them.",
+      "cz": "Tohle není ode mě. Někdo jiný mě požádal, abych je doručila.",
+      "source": "pre_existing",
+      "original_cz": "Tohle není ode mě. Někdo jiný mě požádal, abych je doručila."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "But I can't say who.",
+      "cz": "Ale nemůžu říct kdo.",
+      "source": "pre_existing",
+      "original_cz": "Ale nemůžu říct kdo."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "It was a very nice lady. Guess who?",
+      "cz": "Byla to velmi milá dáma. Hádej kdo?",
+      "source": "pre_existing",
+      "original_cz": "Byla to velmi milá dáma. Hádej kdo?"
+    },
+    {
+      "key": "Player_000_choice_003_f",
+      "en": "It was the Fairy Godmother.",
+      "cz": "Byla to Víla kmotra.",
+      "source": "pre_existing",
+      "original_cz": "Byla to Víla kmotra."
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "Someone asked you to bring me these... What a mystery...",
+      "cz": "Někdo tě požádal, abys mi tohle přinesla... To je ale záhada...",
+      "source": "pre_existing",
+      "original_cz": "Někdo tě požádal, abys mi tohle přinesla... To je ale záhada..."
+    },
+    {
+      "key": "Minnie_005_f",
+      "en": "Now, who would be so thoughtful, knows I like mysteries... and works with dreams... Oh!",
+      "cz": "Kdo by byl tak ohleduplný, ví, že mám ráda záhady... a pracuji se sny... Ach!",
+      "source": "pre_existing",
+      "original_cz": "Kdo by byl tak ohleduplný, ví, že mám ráda záhady... a pracuji se sny... Ach!"
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "It must be the Fairy Godmother!",
+      "cz": "To musí být Víla kmotra!",
+      "source": "pre_existing",
+      "original_cz": "To musí být Víla kmotra!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "How did you guess?",
+      "cz": "Jak jste to uhodli?",
+      "source": "pre_existing",
+      "original_cz": "Jak jste to uhodli?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Uh... no.",
+      "cz": "Ehm... ne.",
+      "source": "pre_existing",
+      "original_cz": "Ehm... ne."
+    },
+    {
+      "key": "Minnie_007_f",
+      "en": "The Fairy Godmother is always so kind. She only thinks of everyone else.",
+      "cz": "Víla kmotra je vždycky tak laskavá. Myslí jen na všechny ostatní.",
+      "source": "pre_existing",
+      "original_cz": "Víla kmotra je vždycky tak laskavá. Myslí jen na všechny ostatní."
+    },
+    {
+      "key": "Minnie_008_f",
+      "en": "She must let someone do something nice for her for a change.",
+      "cz": "Pro změnu musí někomu dovolit, aby pro ni udělal něco hezkého.",
+      "source": "pre_existing",
+      "original_cz": "Pro změnu musí někomu dovolit, aby pro ni udělal něco hezkého."
+    },
+    {
+      "key": "Minnie_013_f",
+      "en": "Oh, I know! I just made a few batches of my <ActivityItem>Gingerbread Cookies</ActivityItem>. Here.",
+      "cz": "Já vím! Právě jsem upekla pár várek mých <ActivityItem>Perníčků</ActivityItem>. Tady.",
+      "source": "pre_existing",
+      "original_cz": "Já vím! Právě jsem upekla pár várek mých <ActivityItem>Perníčků</ActivityItem>. Tady."
+    },
+    {
+      "key": "Minnie_014_f",
+      "en": "Please give them to the Fairy Godmother. And be sure NOT to tell her that they came from me.",
+      "cz": "Prosím, dej je Víle kmotřičce. A určitě jí NEŘEKNI, že jsou ode mě.",
+      "source": "pre_existing",
+      "original_cz": "Prosím, dej je Víle kmotřičce. A určitě jí NEŘEKNI, že jsou ode mě."
+    },
+    {
+      "key": "Minnie_015_f",
+      "en": "Oh, and try not to eat them on the way! *giggle*",
+      "cz": "A zkuste je cestou nesníst! *chichotá se*",
+      "source": "pre_existing",
+      "original_cz": "A zkuste je cestou nesníst! *chichotá se*"
+    },
+    {
+      "key": "Minnie_009_f",
+      "en": "Oh, {PlayerName}. I hope I don't offend you by saying you're not very good at fibbing.",
+      "cz": "Ach, {PlayerName}. Doufám, že tě neurazím tím, že řeknu, že moc dobře neumíš lhát.",
+      "source": "pre_existing",
+      "original_cz": "Ach, {PlayerName}. Doufám, že tě neurazím tím, že řeknu, že moc dobře neumíš lhát."
+    },
+    {
+      "key": "Minnie_010_f",
+      "en": "The Fairy Godmother sent these?",
+      "cz": "Tohle poslala víla kmotra?",
+      "source": "pre_existing",
+      "original_cz": "Tohle poslala víla kmotra?"
+    },
+    {
+      "key": "Minnie_011_f",
+      "en": "Whoops. I wasn't supposed to tell you.",
+      "cz": "Jejda. Neměla jsem ti to říkat.",
+      "source": "pre_existing",
+      "original_cz": "Jejda. Neměla jsem ti to říkat."
+    },
+    {
+      "key": "Minnie_012_f",
+      "en": "*giggle* Don't worry; your secret is safe with me.",
+      "cz": "*chichotání* Neboj se, tvé tajemství je u mě v bezpečí.",
+      "source": "pre_existing",
+      "original_cz": "*chichotání* Neboj se, tvé tajemství je u mě v bezpečí."
+    }
+  ],
+  "RemySpecialDeliveries_Minnie/Minnie_RPT_Remy_050_RPT_Remy_050_TalkTo05.locbin": [
+    {
+      "key": "Minnie_000_f",
+      "en": "Minnie, I was wondering if you'd like to swing by the Fairy Godmother's House later? She's putting on a pumpkin party.",
+      "cz": "Minnie, zajímalo by mě, jestli by ses nechtěla později stavit u víly kmotry? Pořádá dýňovou párty.",
+      "source": "pre_existing",
+      "original_cz": "Minnie, zajímalo by mě, jestli by ses nechtěla později stavit u víly kmotry? Pořádá dýňovou párty."
+    },
+    {
+      "key": "Minnie_001_f",
+      "en": "A pumpkin party? How fun!",
+      "cz": "Dýňová párty? To je ale zábava!",
+      "source": "pre_existing",
+      "original_cz": "Dýňová párty? To je ale zábava!"
+    },
+    {
+      "key": "Minnie_002_f",
+      "en": "I just love parties with themes.",
+      "cz": "Miluju tematické večírky.",
+      "source": "pre_existing",
+      "original_cz": "Miluju tematické večírky."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm a party animal.",
+      "cz": "Jsem pařmen.",
+      "source": "pre_existing",
+      "original_cz": "Jsem pařmen."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Some parties can be fun.",
+      "cz": "Některé večírky můžou být zábavné.",
+      "source": "pre_existing",
+      "original_cz": "Některé večírky můžou být zábavné."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I prefer to stay home in my pajamas.",
+      "cz": "Raději zůstávám doma v pyžamu.",
+      "source": "pre_existing",
+      "original_cz": "Raději zůstávám doma v pyžamu."
+    },
+    {
+      "key": "Minnie_003_f",
+      "en": "Oh, really? Well, I can't wait to see you there.",
+      "cz": "Vážně? No, už se nemůžu dočkat, až tě tam uvidím.",
+      "source": "pre_existing",
+      "original_cz": "Vážně? No, už se nemůžu dočkat, až tě tam uvidím."
+    },
+    {
+      "key": "Minnie_004_f",
+      "en": "The Fairy Godmother always makes sure everyone has a lovely time.",
+      "cz": "Víla kmotra se vždycky postará o to, aby se všichni měli krásně.",
+      "source": "pre_existing",
+      "original_cz": "Víla kmotra se vždycky postará o to, aby se všichni měli krásně."
+    },
+    {
+      "key": "Minnie_006_f",
+      "en": "I'll see you there, {PlayerName}!",
+      "cz": "Uvidíme se tam, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Uvidíme se tam, {PlayerName}!"
+    },
+    {
+      "key": "Minnie_005_f",
+      "en": "Well, a cozy night in can be fun too, but parties are nice sometimes.",
+      "cz": "No, útulný večer doma může být taky zábavný, ale večírky jsou někdy fajn.",
+      "source": "pre_existing",
+      "original_cz": "No, útulný večer doma může být taky zábavný, ale večírky jsou někdy fajn."
+    }
+  ]
+}

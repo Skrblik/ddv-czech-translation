@@ -1,0 +1,25 @@
+{
+  "Expansion02Part2_Raven/Raven_Greetings_RavenGreeting001.locbin": [
+    {
+      "key": "Raven_000_f",
+      "en": "Caw! Caw!",
+      "cz": "Krá! Krá!",
+      "source": "pre_existing",
+      "original_cz": "Krá! Krá!"
+    },
+    {
+      "key": "Raven_001_f",
+      "en": "Hmm, you seem kinda hungry. I should bring you a <ActivityItem>Chimera Skewer</ActivityItem>!",
+      "cz": "Hmm, vypadáš trochu hladový. Měl bych ti přinést <ActivityItem>Chiméra špíz</ActivityItem>!",
+      "source": "pre_existing",
+      "original_cz": "Hmm, vypadáš trochu hladový. Měl bych ti přinést <ActivityItem>Chiméra špíz</ActivityItem>!"
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Gotta go.",
+      "cz": "Musím jít.",
+      "source": "pre_existing",
+      "original_cz": "Musím jít."
+    }
+  ]
+}

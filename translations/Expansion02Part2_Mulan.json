@@ -1,0 +1,342 @@
+{
+  "Expansion02Part2_Mulan/Mulan_VLG_Auro_030_VLG_Auro_030_TalkTo04.locbin": [
+    {
+      "key": "Mulan_000_f",
+      "en": "Aurora! What a surprise! What brings you by?",
+      "cz": "Auroro! To je ale překvapení! Co tě sem přivedlo?",
+      "source": "pre_existing",
+      "original_cz": "Auroro! To je ale překvapení! Co tě sem přivedlo?"
+    },
+    {
+      "key": "Mulan_002_f",
+      "en": "Princess {PlayerName} and I are on a tour, catching up with my dearest friends!",
+      "cz": "S princeznou {PlayerName} jsme na turné, setkáváme se s mými nejdražšími přáteli!",
+      "source": "pre_existing",
+      "original_cz": "S princeznou {PlayerName} jsme na turné, setkáváme se s mými nejdražšími přáteli!"
+    },
+    {
+      "key": "Mulan_003_f",
+      "en": "\"Princess\" {PlayerName}? Oh, I'm so sorry! I didn't know you were a princess. How come you never said anything?",
+      "cz": "„Princezno“ {PlayerName}? Ach, to mě tak mrzí! Nevěděla jsem, že jsi princezna. Jak to, že jsi nikdy nic neřekla?",
+      "source": "pre_existing",
+      "original_cz": "„Princezno“ {PlayerName}? Ach, to mě tak mrzí! Nevěděla jsem, že jsi princezna. Jak to, že jsi nikdy nic neřekla?"
+    },
+    {
+      "key": "Mulan_004_f",
+      "en": "I was just explaining to Merida how I keep my wrist aligned when wielding a sword.",
+      "cz": "Zrovna jsem Meridě vysvětloval, jak si držím zápěstí v jedné pozici, když mám s mečem v ruce.",
+      "source": "pre_existing",
+      "original_cz": "Zrovna jsem Meridě vysvětloval, jak si držím zápěstí v jedné pozici, když mám s mečem v ruce."
+    },
+    {
+      "key": "Mulan_005_f",
+      "en": "Battle's always dangerous. But if you're going to protect your friends and family from invaders, you have to be properly trained.",
+      "cz": "Bitva je vždycky nebezpečná. Ale pokud chcete chránit své přátele a rodinu před vetřelci, musíte být řádně vycvičeni.",
+      "source": "pre_existing",
+      "original_cz": "Bitva je vždycky nebezpečná. Ale pokud chcete chránit své přátele a rodinu před vetřelci, musíte být řádně vycvičeni."
+    },
+    {
+      "key": "Mulan_008_f",
+      "en": "I'm afraid I don't. There were no invaders where I grew up. And a sword wouldn't have been much help against Maleficent's magic.",
+      "cz": "Obávám se, že ne. Tam, kde jsem vyrůstal, žádní vetřelci nebyli. A meč by proti Zlobě moc nepomohl.",
+      "source": "pre_existing",
+      "original_cz": "Obávám se, že ne. Tam, kde jsem vyrůstal, žádní vetřelci nebyli. A meč by proti Zlobě moc nepomohl."
+    },
+    {
+      "key": "Mulan_010_f",
+      "en": "Oh, that sounds so exciting! I'd love to try!",
+      "cz": "To zní tak vzrušujícím způsobem! Ráda bych to zkusila!",
+      "source": "pre_existing",
+      "original_cz": "To zní tak vzrušujícím způsobem! Ráda bych to zkusila!"
+    },
+    {
+      "key": "Mulan_011_f",
+      "en": "Great! We'll get things set up in the <Lore>Knight's Trial in the Fallen Fortress</Lore>. Can you meet us there?",
+      "cz": "Skvělé! Všechno si připravíme v <Lore>Rytířské zkoušce v Padlé pevnosti</Lore>. Můžeš se tam s námi setkat?",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Všechno si připravíme v <Lore>Rytířské zkoušce v Padlé pevnosti</Lore>. Můžeš se tam s námi setkat?"
+    },
+    {
+      "key": "Mulan_012_f",
+      "en": "And then... it's training time!",
+      "cz": "A pak... je čas na trénink!",
+      "source": "pre_existing",
+      "original_cz": "A pak... je čas na trénink!"
+    },
+    {
+      "key": "Mulan_009_f",
+      "en": "Would you like to learn? We could teach you and {PlayerName} a few exercises and show you some of the basics.",
+      "cz": "Chtěli byste se to naučit? Mohli bychom vás a {PlayerName} naučit pár cvičení a ukázat vám některé základy.",
+      "source": "pre_existing",
+      "original_cz": "Chtěli byste se to naučit? Mohli bychom vás a {PlayerName} naučit pár cvičení a ukázat vám některé základy."
+    },
+    {
+      "key": "Mulan_006_f",
+      "en": "If you need to defend your home against invaders, proper training always is.",
+      "cz": "Pokud potřebujete bránit svůj domov před vetřelci, řádný výcvik je vždycky důležitý.",
+      "source": "pre_existing",
+      "original_cz": "Pokud potřebujete bránit svůj domov před vetřelci, řádný výcvik je vždycky důležitý."
+    },
+    {
+      "key": "Mulan_007_f",
+      "en": "It can be. But it's also important. If you're going to protect your friends and family from invaders, you have to be properly trained.",
+      "cz": "Může. Ale je to také důležité. Pokud chcete chránit své přátele a rodinu před vetřelci, musíte být řádně vyškoleni.",
+      "source": "pre_existing",
+      "original_cz": "Může. Ale je to také důležité. Pokud chcete chránit své přátele a rodinu před vetřelci, musíte být řádně vyškoleni."
+    },
+    {
+      "key": "Mulan_001_f",
+      "en": "{PlayerName} and I are on a tour, catching up with my dearest friends!",
+      "cz": "{PlayerName} a já jsme na turné, setkáváme se se svými nejdražšími přáteli!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName} a já jsme na turné, setkáváme se se svými nejdražšími přáteli!"
+    }
+  ],
+  "Expansion02Part2_Mulan/Mulan_VLG_Auro_030_VLG_Auro_030_TalkTo10.locbin": [
+    {
+      "key": "Mulan_009_f",
+      "en": "Great job, Princess {PlayerName}!",
+      "cz": "Skvělá práce, princezno {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Skvělá práce, princezno {PlayerName}!"
+    },
+    {
+      "key": "Mulan_002_f",
+      "en": "Aurora, are you ready to try?",
+      "cz": "Auroro, jsi připravená to zkusit?",
+      "source": "pre_existing",
+      "original_cz": "Auroro, jsi připravená to zkusit?"
+    },
+    {
+      "key": "Mulan_003_f",
+      "en": "I suppose so... but I've never used a pickaxe before.",
+      "cz": "Asi ano... ale nikdy předtím jsem krumpáč nepoužil.",
+      "source": "pre_existing",
+      "original_cz": "Asi ano... ale nikdy předtím jsem krumpáč nepoužil."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "You've got this, Aurora. You can do anything!",
+      "cz": "Zvládneš to, Auroro. Zvládneš cokoli!",
+      "source": "pre_existing",
+      "original_cz": "Zvládneš to, Auroro. Zvládneš cokoli!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Tap into your anger — your RAGE!",
+      "cz": "Probuďte svůj hněv – svůj ZLOB!",
+      "source": "pre_existing",
+      "original_cz": "Probuďte svůj hněv – svůj ZLOB!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "What if Prince Phillip needs to be saved?!",
+      "cz": "Co když bude potřeba zachránit prince Filipa?!",
+      "source": "pre_existing",
+      "original_cz": "Co když bude potřeba zachránit prince Filipa?!"
+    },
+    {
+      "key": "Mulan_005_f",
+      "en": "Goodness...",
+      "cz": "Dobrota...",
+      "source": "pre_existing",
+      "original_cz": "Dobrota..."
+    },
+    {
+      "key": "Mulan_011_f",
+      "en": "How do you feel, Aurora? Strong? Empowered?",
+      "cz": "Jak se cítíš, Auroro? Silná? Zmocněná?",
+      "source": "pre_existing",
+      "original_cz": "Jak se cítíš, Auroro? Silná? Zmocněná?"
+    },
+    {
+      "key": "Mulan_012_f",
+      "en": "Yes, all of that. But I'm not sure this is for me. Of course, I want to do all I can to protect the ones I love, but I don't think my skills are in fighting.",
+      "cz": "Ano, to všechno. Ale nejsem si jistý/á, jestli je tohle pro mě. Samozřejmě chci udělat vše, co je v mých silách, abych ochránil/a ty, které miluji, ale nemyslím si, že mé dovednosti spočívají v boji.",
+      "source": "pre_existing",
+      "original_cz": "Ano, to všechno. Ale nejsem si jistý/á, jestli je tohle pro mě. Samozřejmě chci udělat vše, co je v mých silách, abych ochránil/a ty, které miluji, ale nemyslím si, že mé dovednosti spočívají v boji."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Sure you don't want to try again?",
+      "cz": "Jistě to nechceš zkusit znovu?",
+      "source": "pre_existing",
+      "original_cz": "Jistě to nechceš zkusit znovu?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "It's not for everyone.",
+      "cz": "Není to pro každého.",
+      "source": "pre_existing",
+      "original_cz": "Není to pro každého."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Good thing Mulan and Merida are here to protect us!",
+      "cz": "Naštěstí jsou tu Mulan a Merida, aby nás ochránily!",
+      "source": "pre_existing",
+      "original_cz": "Naštěstí jsou tu Mulan a Merida, aby nás ochránily!"
+    },
+    {
+      "key": "Mulan_014_f",
+      "en": "No, thank you.",
+      "cz": "Ne, děkuji.",
+      "source": "pre_existing",
+      "original_cz": "Ne, děkuji."
+    },
+    {
+      "key": "Mulan_017_f",
+      "en": "Merida and Mulan, I'm very grateful that you arranged this just for us!",
+      "cz": "Merido a Mulan, jsem moc vděčná, že jste tohle zařídily jen pro nás!",
+      "source": "pre_existing",
+      "original_cz": "Merido a Mulan, jsem moc vděčná, že jste tohle zařídily jen pro nás!"
+    },
+    {
+      "key": "Mulan_018_f",
+      "en": "Och, we just like spending time with you! Even if this wasn't exactly your calling.",
+      "cz": "Ach, prostě rádi s tebou trávíme čas! I když tohle nebylo zrovna tvé poslání.",
+      "source": "pre_existing",
+      "original_cz": "Ach, prostě rádi s tebou trávíme čas! I když tohle nebylo zrovna tvé poslání."
+    },
+    {
+      "key": "Mulan_010_f",
+      "en": "How did you like our Training Camp, Princess {PlayerName}?",
+      "cz": "Jak se ti líbil náš výcvikový tábor, princezno {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Jak se ti líbil náš výcvikový tábor, princezno {PlayerName}?"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "I feel safer knowing what you and Merida can do!",
+      "cz": "Cítím se bezpečněji, když vím, co ty a Merida dokážete!",
+      "source": "pre_existing",
+      "original_cz": "Cítím se bezpečněji, když vím, co ty a Merida dokážete!"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "I have a new appreciation for the path of the warrior!",
+      "cz": "Znovu si cením cesty bojovníka!",
+      "source": "pre_existing",
+      "original_cz": "Znovu si cením cesty bojovníka!"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "I'm in awe of your strength!",
+      "cz": "Žasnu nad tvou silou!",
+      "source": "pre_existing",
+      "original_cz": "Žasnu nad tvou silou!"
+    },
+    {
+      "key": "Mulan_021_f",
+      "en": "Kind <i>and</i> strong? {PlayerName} sounds like a great princess to me!",
+      "cz": "Laskavá <i>a</i>silná? {PlayerName} mi zní jako skvělá princezna!",
+      "source": "pre_existing",
+      "original_cz": "Laskavá <i>a</i>silná? {PlayerName} mi zní jako skvělá princezna!"
+    },
+    {
+      "key": "Mulan_027_f",
+      "en": "Well, it's time for us to be on our way. Thank you, my friends.",
+      "cz": "Tak je čas vyrazit. Děkuji vám, přátelé.",
+      "source": "pre_existing",
+      "original_cz": "Tak je čas vyrazit. Děkuji vám, přátelé."
+    },
+    {
+      "key": "Mulan_019_f",
+      "en": "Let us know if you ever want to try again!",
+      "cz": "Dejte nám vědět, pokud to budete chtít někdy zkusit znovu!",
+      "source": "pre_existing",
+      "original_cz": "Dejte nám vědět, pokud to budete chtít někdy zkusit znovu!"
+    },
+    {
+      "key": "Mulan_020_f",
+      "en": "How did you like our Training Camp, {PlayerName}?",
+      "cz": "Jak se ti líbil náš výcvikový tábor, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Jak se ti líbil náš výcvikový tábor, {PlayerName}?"
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "I liked the challenge!",
+      "cz": "Výzva se mi líbila!",
+      "source": "pre_existing",
+      "original_cz": "Výzva se mi líbila!"
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "It was cool seeing your day-to-day.",
+      "cz": "Bylo skvělé vidět tě den za dnem.",
+      "source": "pre_existing",
+      "original_cz": "Bylo skvělé vidět tě den za dnem."
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "I might have to come up with my own training routine!",
+      "cz": "Asi si budu muset vymyslet vlastní tréninkový režim!",
+      "source": "pre_existing",
+      "original_cz": "Asi si budu muset vymyslet vlastní tréninkový režim!"
+    },
+    {
+      "key": "Mulan_023_f",
+      "en": "Aye, there's nothing like a good challenge to make you feel truly alive!",
+      "cz": "Ano, není nic lepšího než dobrá výzva, která vám dodá pocit, že jste skutečně naživu!",
+      "source": "pre_existing",
+      "original_cz": "Ano, není nic lepšího než dobrá výzva, která vám dodá pocit, že jste skutečně naživu!"
+    },
+    {
+      "key": "Mulan_024_f",
+      "en": "Oh, I wouldn't say we do this <i>every</i> day...",
+      "cz": "Oh, neřekl bych, že tohle děláme každý den...",
+      "source": "pre_existing",
+      "original_cz": "Oh, neřekl bych, že tohle děláme každý den..."
+    },
+    {
+      "key": "Mulan_025_f",
+      "en": "But certainly as often as we can.",
+      "cz": "Ale určitě tak často, jak jen to jde.",
+      "source": "pre_existing",
+      "original_cz": "Ale určitě tak často, jak jen to jde."
+    },
+    {
+      "key": "Mulan_026_f",
+      "en": "Let us know if you do. I'd love to try yours out!",
+      "cz": "Dejte nám vědět, pokud ano. Ráda bych ten váš vyzkoušela!",
+      "source": "pre_existing",
+      "original_cz": "Dejte nám vědět, pokud ano. Ráda bych ten váš vyzkoušela!"
+    },
+    {
+      "key": "Mulan_015_f",
+      "en": "Well, I'm very glad I tried!",
+      "cz": "No, jsem moc ráda, že jsem to zkusila!",
+      "source": "pre_existing",
+      "original_cz": "No, jsem moc ráda, že jsem to zkusila!"
+    },
+    {
+      "key": "Mulan_016_f",
+      "en": "Yes, being warriors certainly suits them.",
+      "cz": "Ano, být válečníky jim rozhodně sluší.",
+      "source": "pre_existing",
+      "original_cz": "Ano, být válečníky jim rozhodně sluší."
+    },
+    {
+      "key": "Mulan_006_f",
+      "en": "You must have me confused with someone else. But it does look quite fun...",
+      "cz": "Asi si mě s někým pletete. Ale vypadá to docela zábavně...",
+      "source": "pre_existing",
+      "original_cz": "Asi si mě s někým pletete. Ale vypadá to docela zábavně..."
+    },
+    {
+      "key": "Mulan_007_f",
+      "en": "Well, I'd certainly do anything possible to save my dear Phillip.",
+      "cz": "No, já bych určitě udělal cokoli, abych zachránil svého drahého Phillipa.",
+      "source": "pre_existing",
+      "original_cz": "No, já bych určitě udělal cokoli, abych zachránil svého drahého Phillipa."
+    },
+    {
+      "key": "Mulan_000_f",
+      "en": "Great job, {PlayerName}!",
+      "cz": "Skvělá práce, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Skvělá práce, {PlayerName}!"
+    }
+  ]
+}

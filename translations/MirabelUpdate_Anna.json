@@ -1,0 +1,202 @@
+{
+  "MirabelUpdate_Anna/Anna_VLG_Mira_040_VLG_Mira_040_BringItem01.locbin": [
+    {
+      "key": "Anna_000_f",
+      "en": "Okay... I'm a bit confused.",
+      "cz": "Dobře... Jsem trochu zmatená.",
+      "source": "pre_existing",
+      "original_cz": "Dobře... Jsem trochu zmatená."
+    },
+    {
+      "key": "Anna_001_f",
+      "en": "{PlayerName}, why are you giving me <ActivityItem>Broken Table Pieces</ActivityItem>?",
+      "cz": "{PlayerName}, proč mi dáváš <ActivityItem>Rozbité kusy stolu</ActivityItem>?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, proč mi dáváš <ActivityItem>Rozbité kusy stolu</ActivityItem>?"
+    },
+    {
+      "key": "Anna_002_f",
+      "en": "Oh, wait! Is that the <ActivityItem>Madrigal Table</ActivityItem>?",
+      "cz": "Počkejte! To je ten <ActivityItem>Madrigalův stůl</ActivityItem>?",
+      "source": "pre_existing",
+      "original_cz": "Počkejte! To je ten <ActivityItem>Madrigalův stůl</ActivityItem>?"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "Yes! But it's broken, and I want to fix it...",
+      "cz": "Ano! Ale je to rozbité a chci to opravit...",
+      "source": "pre_existing",
+      "original_cz": "Ano! Ale je to rozbité a chci to opravit..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "...to make Mirabel happy.",
+      "cz": "...aby Mirabel byla šťastná.",
+      "source": "pre_existing",
+      "original_cz": "...aby Mirabel byla šťastná."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "...to honor your friendship with Mirabel.",
+      "cz": "...na počest tvého přátelství s Mirabel.",
+      "source": "pre_existing",
+      "original_cz": "...na počest tvého přátelství s Mirabel."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "...to throw a fun party.",
+      "cz": "...uspořádat zábavnou párty.",
+      "source": "pre_existing",
+      "original_cz": "...uspořádat zábavnou párty."
+    },
+    {
+      "key": "Anna_003_f",
+      "en": "That's such a great idea! Mirabel is so nice. You're right; we need to do that for her.",
+      "cz": "To je skvělý nápad! Mirabel je tak milá. Máš pravdu; musíme to pro ni udělat.",
+      "source": "pre_existing",
+      "original_cz": "To je skvělý nápad! Mirabel je tak milá. Máš pravdu; musíme to pro ni udělat."
+    },
+    {
+      "key": "Anna_004_f",
+      "en": "Oh, I know! I'll ask Kristoff and Elsa to help us fix the <ActivityItem>Madrigal Table</ActivityItem> as a gift for Mirabel.",
+      "cz": "Já vím! Požádám Kristoffa a Elsu, aby nám pomohli opravit <ActivityItem>Madrigalův stůl</ActivityItem> jako dárek pro Mirabel.",
+      "source": "pre_existing",
+      "original_cz": "Já vím! Požádám Kristoffa a Elsu, aby nám pomohli opravit <ActivityItem>Madrigalův stůl</ActivityItem> jako dárek pro Mirabel."
+    },
+    {
+      "key": "Anna_005_f",
+      "en": "Kristoff can help repair it, and we can make some new chairs.",
+      "cz": "Kristoff nám může pomoct s opravou a můžeme vyrobit i nové židle.",
+      "source": "pre_existing",
+      "original_cz": "Kristoff nám může pomoct s opravou a můžeme vyrobit i nové židle."
+    },
+    {
+      "key": "Anna_006_f",
+      "en": "And maybe Elsa can use her powers to decorate the wood.",
+      "cz": "A možná Elsa může použít své schopnosti k ozdobení dřeva.",
+      "source": "pre_existing",
+      "original_cz": "A možná Elsa může použít své schopnosti k ozdobení dřeva."
+    },
+    {
+      "key": "Anna_007_f",
+      "en": "It'll be fun! And then we can throw a party to celebrate our friendship!",
+      "cz": "Bude to zábava! A pak můžeme uspořádat večírek na oslavu našeho přátelství!",
+      "source": "pre_existing",
+      "original_cz": "Bude to zábava! A pak můžeme uspořádat večírek na oslavu našeho přátelství!"
+    },
+    {
+      "key": "Anna_008_f",
+      "en": "Oh! But what about Moana? She always used to help us with these parties.",
+      "cz": "Ach! Ale co Moana? Vždycky nám s těmihle večírky pomáhala.",
+      "source": "pre_existing",
+      "original_cz": "Ach! Ale co Moana? Vždycky nám s těmihle večírky pomáhala."
+    },
+    {
+      "key": "Anna_009_f",
+      "en": "I talked to her. She's making a brand-new tablecloth using an old sail.",
+      "cz": "Mluvila jsem s ní. Vyrábí zbrusu nový ubrus ze staré plachty.",
+      "source": "pre_existing",
+      "original_cz": "Mluvila jsem s ní. Vyrábí zbrusu nový ubrus ze staré plachty."
+    },
+    {
+      "key": "Anna_010_f",
+      "en": "And I'll take care of the food. I'm thinking <ActivityItem>Buñuelos</ActivityItem> to celebrate Mirabel and a <ActivityItem>Large Seafood Plate</ActivityItem> for Moana.",
+      "cz": "A já se postarám o jídlo. Přemýšlím o <ActivityItem>Buñuelos</ActivityItem> na oslavu Mirabel a <ActivityItem>Velkém talíři s mořskými plody</ActivityItem> pro Moanu.",
+      "source": "pre_existing",
+      "original_cz": "A já se postarám o jídlo. Přemýšlím o <ActivityItem>Buñuelos</ActivityItem> na oslavu Mirabel a <ActivityItem>Velkém talíři s mořskými plody</ActivityItem> pro Moanu."
+    },
+    {
+      "key": "Anna_011_f",
+      "en": "Is there anything you and Elsa like to eat?",
+      "cz": "Je něco, co ty a Elsa rádi jíte?",
+      "source": "pre_existing",
+      "original_cz": "Je něco, co ty a Elsa rádi jíte?"
+    },
+    {
+      "key": "Anna_012_f",
+      "en": "Chocolate! Definitely chocolate. Maybe you could make some <ActivityItem>Chocolate Chip Cookies</ActivityItem>.",
+      "cz": "Čokoláda! Určitě čokoláda. Možná bys mohla upéct nějaké <ActivityItem>sušenky s čokoládovými lupínky</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Čokoláda! Určitě čokoláda. Možná bys mohla upéct nějaké <ActivityItem>sušenky s čokoládovými lupínky</ActivityItem>."
+    },
+    {
+      "key": "Anna_013_f",
+      "en": "Remy introduced us to them, and they're amazing! He gave me a <ActivityItem>Recipe Book</ActivityItem> in case I wanted to make them myself. Here, you can borrow it.",
+      "cz": "Remy nám je představil a jsou úžasné! Dal mi <ActivityItem>Knihu receptů</ActivityItem> pro případ, že bych si je chtěla udělat sama. Tady si ji můžete půjčit.",
+      "source": "pre_existing",
+      "original_cz": "Remy nám je představil a jsou úžasné! Dal mi <ActivityItem>Knihu receptů</ActivityItem> pro případ, že bych si je chtěla udělat sama. Tady si ji můžete půjčit."
+    },
+    {
+      "key": "Anna_014_f",
+      "en": "Now, I'll go work on the <ActivityItem>Madrigal Table</ActivityItem>. It'll probably take us a day to fix it.",
+      "cz": "Teď se pustím do práce na <ActivityItem>Madrigalovém stole</ActivityItem>. Jeho oprava nám pravděpodobně zabere den.",
+      "source": "pre_existing",
+      "original_cz": "Teď se pustím do práce na <ActivityItem>Madrigalovém stole</ActivityItem>. Jeho oprava nám pravděpodobně zabere den."
+    },
+    {
+      "key": "Anna_015_f",
+      "en": "I'll talk to Moana. Don't worry.",
+      "cz": "Promluvím si s Moanou. Neboj se.",
+      "source": "pre_existing",
+      "original_cz": "Promluvím si s Moanou. Neboj se."
+    },
+    {
+      "key": "Anna_016_f",
+      "en": "And I'll take care of the food. I'm thinking <ActivityItem>Buñuelos</ActivityItem> to celebrate Mirabel. Is there any food you'd like to eat?",
+      "cz": "A já se postarám o jídlo. Přemýšlím o <ActivityItem>Buñuelos</ActivityItem> na oslavu Mirabel. Je něco, co byste si dali?",
+      "source": "pre_existing",
+      "original_cz": "A já se postarám o jídlo. Přemýšlím o <ActivityItem>Buñuelos</ActivityItem> na oslavu Mirabel. Je něco, co byste si dali?"
+    },
+    {
+      "key": "Anna_017_f",
+      "en": "Oh, that's so nice of you! And I have to help.",
+      "cz": "To je od tebe tak milé! A musím ti pomoct.",
+      "source": "pre_existing",
+      "original_cz": "To je od tebe tak milé! A musím ti pomoct."
+    },
+    {
+      "key": "Anna_018_f",
+      "en": "Well, you came to the right place. Mirabel, Moana, Elsa and I used to have so much fun together. I'd love for it to be like that again.",
+      "cz": "No, přišla jsi na správné místo. Mirabel, Moana a Elsa jsme si to spolu tolik užily. Přála bych si, aby to takhle zase bylo.",
+      "source": "pre_existing",
+      "original_cz": "No, přišla jsi na správné místo. Mirabel, Moana a Elsa jsme si to spolu tolik užily. Přála bych si, aby to takhle zase bylo."
+    }
+  ],
+  "MirabelUpdate_Anna/Anna_VLG_Mira_040_VLG_Mira_040_BringItem03.locbin": [
+    {
+      "key": "Anna_000_f",
+      "en": "Wow, {PlayerName}, this food looks delicious!",
+      "cz": "Páni, {PlayerName}, tohle jídlo vypadá lahodně!",
+      "source": "pre_existing",
+      "original_cz": "Páni, {PlayerName}, tohle jídlo vypadá lahodně!"
+    },
+    {
+      "key": "Anna_001_f",
+      "en": "Moana brought me the new tablecloth and Kristoff, Elsa and I finished the table and chairs. Now, I just need to put everything together...",
+      "cz": "Vaiana mi přinesla nový ubrus a Kristoff, Elsa a já jsme dokončili stůl a židle. Teď už jen musím všechno dát dohromady...",
+      "source": "pre_existing",
+      "original_cz": "Vaiana mi přinesla nový ubrus a Kristoff, Elsa a já jsme dokončili stůl a židle. Teď už jen musím všechno dát dohromady..."
+    },
+    {
+      "key": "Anna_002_f",
+      "en": "... Ta-da! It's ready.",
+      "cz": "... Tadá! Je to hotové.",
+      "source": "pre_existing",
+      "original_cz": "... Tadá! Je to hotové."
+    },
+    {
+      "key": "Anna_003_f",
+      "en": "Here you go.",
+      "cz": "Tady to máte.",
+      "source": "pre_existing",
+      "original_cz": "Tady to máte."
+    },
+    {
+      "key": "Anna_004_f",
+      "en": "Now, if you can invite Mirabel, we can get this Festival of Friendship started!",
+      "cz": "A teď, když můžete pozvat Mirabel, můžeme začít s tímto Festivalem přátelství!",
+      "source": "pre_existing",
+      "original_cz": "A teď, když můžete pozvat Mirabel, můžeme začít s tímto Festivalem přátelství!"
+    }
+  ]
+}

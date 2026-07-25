@@ -1,0 +1,536 @@
+{
+  "MonstersInc_Donald/Donald_VLG_Sull_027_Donald_VLG_Sull_027_Donald_Ongoing02.locbin": [
+    {
+      "key": "Donald_000_f",
+      "en": "Take my picture on the Beach, so Sulley knows I'm the one who cleaned it up!",
+      "cz": "Vyfoť mě na pláži, ať Sulley ví, že jsem to já, kdo to uklidil!",
+      "source": "pre_existing",
+      "original_cz": "Vyfoť mě na pláži, ať Sulley ví, že jsem to já, kdo to uklidil!"
+    }
+  ],
+  "MonstersInc_Donald/Donald_VLG_Sull_027_Donald_VLG_Sull_027_Donald_Ongoing03.locbin": [
+    {
+      "key": "Donald_000_f",
+      "en": "As my assistant, your job is to assist me by picking up the <ActivityItem>Trash</ActivityItem> on Dazzle Beach.",
+      "cz": "Jako můj asistent mi budete pomáhat sbírat <ActivityItem>Odpadky</ActivityItem> na pláži Dazzle.",
+      "source": "pre_existing",
+      "original_cz": "Jako můj asistent mi budete pomáhat sbírat <ActivityItem>Odpadky</ActivityItem> na pláži Dazzle."
+    }
+  ],
+  "MonstersInc_Donald/Donald_VLG_Sull_027_Donald_VLG_Sull_027_Donald_Ongoing04.locbin": [
+    {
+      "key": "Donald_000_f",
+      "en": "Please bring the <ActivityItem>Photo</ActivityItem> of my project to Sulley so he can see I'm the clear winner for Villager of the Month!",
+      "cz": "Prosím, přineste Sulleymu <ActivityItem>Fotografii</ActivityItem> mého projektu, aby viděl, že jsem jasným vítězem soutěže Vesničán měsíce!",
+      "source": "pre_existing",
+      "original_cz": "Prosím, přineste Sulleymu <ActivityItem>Fotografii</ActivityItem> mého projektu, aby viděl, že jsem jasným vítězem soutěže Vesničán měsíce!"
+    }
+  ],
+  "MonstersInc_Donald/Donald_VLG_Sull_027_Donald_VLG_Sull_027_Donald_TalkTo01.locbin": [
+    {
+      "key": "Donald_000_f",
+      "en": "Aw phooey! This is harder than I thought...",
+      "cz": "Jé, péj! To je těžší, než jsem si myslel...",
+      "source": "pre_existing",
+      "original_cz": "Jé, péj! To je těžší, než jsem si myslel..."
+    },
+    {
+      "key": "Donald_002_f",
+      "en": "Sorry, {PlayerName}, I'm busy.",
+      "cz": "Promiň, {PlayerName}, jsem zaneprázdněný.",
+      "source": "pre_existing",
+      "original_cz": "Promiň, {PlayerName}, jsem zaneprázdněný."
+    },
+    {
+      "key": "Donald_003_f",
+      "en": "Is this about your project for Villager of the Month? I'm here to help.",
+      "cz": "Týká se to vašeho projektu pro Vesničana měsíce? Jsem tu, abych vám pomohl.",
+      "source": "pre_existing",
+      "original_cz": "Týká se to vašeho projektu pro Vesničana měsíce? Jsem tu, abych vám pomohl."
+    },
+    {
+      "key": "Donald_004_f",
+      "en": "Oh boy, oh boy, oh boy! That's great!",
+      "cz": "No teda, no teda, no teda! To je skvělé!",
+      "source": "pre_existing",
+      "original_cz": "No teda, no teda, no teda! To je skvělé!"
+    },
+    {
+      "key": "Donald_005_f",
+      "en": "Okay, here's my idea. There's been some <ActivityItem>Trash</ActivityItem> left on Dazzle Beach, and I want to clean it up.",
+      "cz": "Dobře, tady je můj nápad. Na Dazzle Beach zůstalo nějaké <ActivityItem>odpadky</ActivityItem> a já je chci uklidit.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, tady je můj nápad. Na Dazzle Beach zůstalo nějaké <ActivityItem>odpadky</ActivityItem> a já je chci uklidit."
+    },
+    {
+      "key": "Donald_006_f",
+      "en": "Could you take a few pictures of me working on the Beach?",
+      "cz": "Mohl bys mě vyfotit, jak pracuji na pláži?",
+      "source": "pre_existing",
+      "original_cz": "Mohl bys mě vyfotit, jak pracuji na pláži?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "That's a great idea!",
+      "cz": "To je skvělý nápad!",
+      "source": "pre_existing",
+      "original_cz": "To je skvělý nápad!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "A solid plan...",
+      "cz": "Solidní plán...",
+      "source": "pre_existing",
+      "original_cz": "Solidní plán..."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Where did the trash come from?",
+      "cz": "Odkud se vzal odpad?",
+      "source": "pre_existing",
+      "original_cz": "Odkud se vzal odpad?"
+    },
+    {
+      "key": "Donald_007_f",
+      "en": "Thanks!",
+      "cz": "Díky!",
+      "source": "pre_existing",
+      "original_cz": "Díky!"
+    },
+    {
+      "key": "Donald_009_f",
+      "en": "I don't know. Maybe it was a storm. Doesn't matter. Let's go!",
+      "cz": "Nevím. Možná to byla bouře. Na tom nezáleží. Pojďme!",
+      "source": "pre_existing",
+      "original_cz": "Nevím. Možná to byla bouře. Na tom nezáleží. Pojďme!"
+    }
+  ],
+  "MonstersInc_Donald/Donald_VLG_Sull_027_Donald_VLG_Sull_027_Donald_TalkTo03.locbin": [
+    {
+      "key": "Donald_000_f",
+      "en": "There you are! Great job on Dazzle Beach, {PlayerName}!",
+      "cz": "Tak to máš! Skvělá práce na Dazzle Beach, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Tak to máš! Skvělá práce na Dazzle Beach, {PlayerName}!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm happy to help.",
+      "cz": "Rád pomůžu.",
+      "source": "pre_existing",
+      "original_cz": "Rád pomůžu."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Do you need anything else?",
+      "cz": "Potřebujete ještě něco?",
+      "source": "pre_existing",
+      "original_cz": "Potřebujete ještě něco?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "You left me with the hardest part of the job!",
+      "cz": "Nechal jsi mě s tou nejtěžší částí práce!",
+      "source": "pre_existing",
+      "original_cz": "Nechal jsi mě s tou nejtěžší částí práce!"
+    },
+    {
+      "key": "Donald_001_f",
+      "en": "And that's why you're everyone's favorite friend.",
+      "cz": "A proto jsi nejoblíbenějším přítelem všech.",
+      "source": "pre_existing",
+      "original_cz": "A proto jsi nejoblíbenějším přítelem všech."
+    },
+    {
+      "key": "Donald_005_f",
+      "en": "Now, could you please bring this <ActivityItem>Photo</ActivityItem> to Sulley?",
+      "cz": "Mohl byste prosím donést tuto <ActivityItem>Fotografii</ActivityItem> Sulleymu?",
+      "source": "pre_existing",
+      "original_cz": "Mohl byste prosím donést tuto <ActivityItem>Fotografii</ActivityItem> Sulleymu?"
+    },
+    {
+      "key": "Donald_007_f",
+      "en": "...",
+      "cz": "...",
+      "source": "pre_existing",
+      "original_cz": "..."
+    },
+    {
+      "key": "Donald_008_f",
+      "en": "Donald... Did you modify this <ActivityItem>Photo</ActivityItem>? There was not that much trash on the Beach...",
+      "cz": "Donalde... Upravil jsi tuto <ActivityItem>Fotografii</ActivityItem>? Na pláži nebylo tolik odpadků...",
+      "source": "pre_existing",
+      "original_cz": "Donalde... Upravil jsi tuto <ActivityItem>Fotografii</ActivityItem>? Na pláži nebylo tolik odpadků..."
+    },
+    {
+      "key": "Donald_009_f",
+      "en": "Um... You noticed that, huh? But I had a good reason!",
+      "cz": "Ehm... Všiml sis toho, co? Ale měl jsem k tomu dobrý důvod!",
+      "source": "pre_existing",
+      "original_cz": "Ehm... Všiml sis toho, co? Ale měl jsem k tomu dobrý důvod!"
+    },
+    {
+      "key": "Donald_010_f",
+      "en": "I had to make the trash more noticeable for Sulley. Otherwise it might've looked like I was just hanging out on the Beach getting my photo taken.",
+      "cz": "Musel jsem odpadky pro Sulleyho udělat viditelnějšími. Jinak by to mohlo vypadat, jako bych se jen tak poflakoval na pláži a nechal se vyfotit.",
+      "source": "pre_existing",
+      "original_cz": "Musel jsem odpadky pro Sulleyho udělat viditelnějšími. Jinak by to mohlo vypadat, jako bych se jen tak poflakoval na pláži a nechal se vyfotit."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I guess you have a point...",
+      "cz": "Asi máš pravdu...",
+      "source": "pre_existing",
+      "original_cz": "Asi máš pravdu..."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "It's your decision.",
+      "cz": "Je to vaše rozhodnutí.",
+      "source": "pre_existing",
+      "original_cz": "Je to vaše rozhodnutí."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I need to see how this is going to go.",
+      "cz": "Musím vidět, jak tohle dopadne.",
+      "source": "pre_existing",
+      "original_cz": "Musím vidět, jak tohle dopadne."
+    },
+    {
+      "key": "Donald_011_f",
+      "en": "Phew!",
+      "cz": "Uf!",
+      "source": "pre_existing",
+      "original_cz": "Uf!"
+    },
+    {
+      "key": "Donald_014_f",
+      "en": "Now, please bring the <ActivityItem>Photo</ActivityItem> to Sulley, so he can see my project for himself.",
+      "cz": "A teď prosím doneste tu <ActivityItem>Fotografii</ActivityItem> Sulleymu, aby si můj projekt mohl prohlédnout na vlastní oči.",
+      "source": "pre_existing",
+      "original_cz": "A teď prosím doneste tu <ActivityItem>Fotografii</ActivityItem> Sulleymu, aby si můj projekt mohl prohlédnout na vlastní oči."
+    },
+    {
+      "key": "Donald_012_f",
+      "en": "It sure is!",
+      "cz": "To jistě!",
+      "source": "pre_existing",
+      "original_cz": "To jistě!"
+    },
+    {
+      "key": "Donald_013_f",
+      "en": "With me named Villager of the Month, that's how!",
+      "cz": "S tím, jak mě jmenovali Vesničánem měsíce!",
+      "source": "pre_existing",
+      "original_cz": "S tím, jak mě jmenovali Vesničánem měsíce!"
+    },
+    {
+      "key": "Donald_002_f",
+      "en": "Yeah, could you please bring this <ActivityItem>Photo</ActivityItem> to Sulley?",
+      "cz": "Jo, mohl bys prosím donést tuhle <ActivityItem>fotku</ActivityItem> Sulleymu?",
+      "source": "pre_existing",
+      "original_cz": "Jo, mohl bys prosím donést tuhle <ActivityItem>fotku</ActivityItem> Sulleymu?"
+    },
+    {
+      "key": "Donald_003_f",
+      "en": "That's not true!",
+      "cz": "To není pravda!",
+      "source": "pre_existing",
+      "original_cz": "To není pravda!"
+    },
+    {
+      "key": "Donald_004_f",
+      "en": "You just had to pick up some trash while I was getting this <ActivityItem>Photo</ActivityItem> ready.",
+      "cz": "Musel jsi zrovna posbírat nějaké odpadky, zatímco jsem připravoval tuhle <ActivityItem>Fotografii</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Musel jsi zrovna posbírat nějaké odpadky, zatímco jsem připravoval tuhle <ActivityItem>Fotografii</ActivityItem>."
+    }
+  ],
+  "MonstersInc_Donald/Donald_VLG_Sull_027_Donald_VLG_Sull_027_Donald_TalkTo04.locbin": [
+    {
+      "key": "Donald_000_f",
+      "en": "Let's see those photos...",
+      "cz": "Podívejme se na ty fotky...",
+      "source": "pre_existing",
+      "original_cz": "Podívejme se na ty fotky..."
+    },
+    {
+      "key": "Donald_009_f",
+      "en": "They're pretty good. But they could use a little work.",
+      "cz": "Jsou docela dobří. Ale potřebovali by trochu práce.",
+      "source": "pre_existing",
+      "original_cz": "Jsou docela dobří. Ale potřebovali by trochu práce."
+    },
+    {
+      "key": "Donald_010_f",
+      "en": "Do you want me to take some more?",
+      "cz": "Chceš, abych si dal/a ještě trochu?",
+      "source": "pre_existing",
+      "original_cz": "Chceš, abych si dal/a ještě trochu?"
+    },
+    {
+      "key": "Donald_004_f",
+      "en": "No, I'll do it myself. I have a much more important mission for you.",
+      "cz": "Ne, udělám to sám. Mám pro tebe mnohem důležitější úkol.",
+      "source": "pre_existing",
+      "original_cz": "Ne, udělám to sám. Mám pro tebe mnohem důležitější úkol."
+    },
+    {
+      "key": "Donald_011_f",
+      "en": "As my assistant, you're in charge of picking up the rest of the <ActivityItem>Trash</ActivityItem>!",
+      "cz": "Jako můj asistent máš na starosti uklízení zbývajícího <ActivityItem>odpadku</ActivityItem>!",
+      "source": "pre_existing",
+      "original_cz": "Jako můj asistent máš na starosti uklízení zbývajícího <ActivityItem>odpadku</ActivityItem>!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "OK. I AM your assistant, after all.",
+      "cz": "Dobře. Koneckonců, JSEM tvůj asistent.",
+      "source": "pre_existing",
+      "original_cz": "Dobře. Koneckonců, JSEM tvůj asistent."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I don't think that's what Sulley wants.",
+      "cz": "Nemyslím si, že tohle Sulley chce.",
+      "source": "pre_existing",
+      "original_cz": "Nemyslím si, že tohle Sulley chce."
+    },
+    {
+      "key": "Player_000_choice_003_f",
+      "en": "Hey, that's cheating!",
+      "cz": "Hej, to je podvádění!",
+      "source": "pre_existing",
+      "original_cz": "Hej, to je podvádění!"
+    },
+    {
+      "key": "Donald_005_f",
+      "en": "That's right!",
+      "cz": "Přesně tak!",
+      "source": "pre_existing",
+      "original_cz": "Přesně tak!"
+    },
+    {
+      "key": "Donald_006_f",
+      "en": "Sulley told us to do something for the Valley and bring proof. That's what I'm doing, and you're helping. Thanks, {PlayerName}!",
+      "cz": "Sulley nám řekl, abychom pro Údolí něco udělali a přinesli důkazy. To je přesně to, co dělám, a ty pomáháš. Díky, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Sulley nám řekl, abychom pro Údolí něco udělali a přinesli důkazy. To je přesně to, co dělám, a ty pomáháš. Díky, {PlayerName}!"
+    },
+    {
+      "key": "Donald_008_f",
+      "en": "Yes, it is!",
+      "cz": "Ano, je!",
+      "source": "pre_existing",
+      "original_cz": "Ano, je!"
+    },
+    {
+      "key": "Donald_007_f",
+      "en": "No, it's not!",
+      "cz": "Ne, to není ono!",
+      "source": "pre_existing",
+      "original_cz": "Ne, to není ono!"
+    }
+  ],
+  "MonstersInc_Donald/Donald_VLG_Sull_040_VLG_Sull_040_TalkTo07.locbin": [
+    {
+      "key": "Donald_001_f",
+      "en": "Oh brother, it's {PlayerName}. Our Villager of the Month.",
+      "cz": "Ach brácho, tady je {PlayerName}. Náš vesničan měsíce.",
+      "source": "pre_existing",
+      "original_cz": "Ach brácho, tady je {PlayerName}. Náš vesničan měsíce."
+    },
+    {
+      "key": "Donald_002_f",
+      "en": "Hi, Donald. Sulley wants to invite you to take part in a scavenger hunt he's organizing.",
+      "cz": "Ahoj, Donalde. Sulley tě chce pozvat k účasti na honbě za pokladem, kterou organizuje.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, Donalde. Sulley tě chce pozvat k účasti na honbě za pokladem, kterou organizuje."
+    },
+    {
+      "key": "Donald_003_f",
+      "en": "Trying to get back on my good side, huh? Hmm... Who're the other contestants?",
+      "cz": "Snažím se dostat zpátky do dobrého světla, co? Hmm... Kdo jsou ti ostatní soutěžící?",
+      "source": "pre_existing",
+      "original_cz": "Snažím se dostat zpátky do dobrého světla, co? Hmm... Kdo jsou ti ostatní soutěžící?"
+    },
+    {
+      "key": "Donald_004_f",
+      "en": "Well, it'll be Vanellope, Stitch, Olaf and... you.",
+      "cz": "No, bude to Vanellope, Stitch, Olaf a... ty.",
+      "source": "pre_existing",
+      "original_cz": "No, bude to Vanellope, Stitch, Olaf a... ty."
+    },
+    {
+      "key": "Donald_005_f",
+      "en": "What?! Does Sulley think I'm a kid?",
+      "cz": "Cože?! Myslí si Sulley, že jsem dítě?",
+      "source": "pre_existing",
+      "original_cz": "Cože?! Myslí si Sulley, že jsem dítě?"
+    },
+    {
+      "key": "Donald_006_f",
+      "en": "Does this mean you won't participate?",
+      "cz": "Znamená to, že se nezúčastníte?",
+      "source": "pre_existing",
+      "original_cz": "Znamená to, že se nezúčastníte?"
+    },
+    {
+      "key": "Donald_007_f",
+      "en": "No, I won't! It... uh... it wouldn't be fair to the others.",
+      "cz": "Ne, neudělám to! To... ehm... nebylo by to fér vůči ostatním.",
+      "source": "pre_existing",
+      "original_cz": "Ne, neudělám to! To... ehm... nebylo by to fér vůči ostatním."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "That's what I thought.",
+      "cz": "To jsem si myslel.",
+      "source": "pre_existing",
+      "original_cz": "To jsem si myslel."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Are you afraid that Vanellope might beat you?",
+      "cz": "Bojíš se, že by tě Vanellope mohla porazit?",
+      "source": "pre_existing",
+      "original_cz": "Bojíš se, že by tě Vanellope mohla porazit?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Your loss. It sounds like fun.",
+      "cz": "Vaše prohra. Zní to zábavně.",
+      "source": "pre_existing",
+      "original_cz": "Vaše prohra. Zní to zábavně."
+    },
+    {
+      "key": "Donald_008_f",
+      "en": "*grumble* WhodotheythinkIam? I'mnokid! *grumble*",
+      "cz": "*bručení* Kdo si o mně myslí? Nejsem žádný kluk! *bručení*",
+      "source": "pre_existing",
+      "original_cz": "*bručení* Kdo si o mně myslí? Nejsem žádný kluk! *bručení*"
+    },
+    {
+      "key": "Donald_009_f",
+      "en": "WAK?!",
+      "cz": "PROBOHA?!",
+      "source": "pre_existing",
+      "original_cz": "PROBOHA?!"
+    },
+    {
+      "key": "Donald_011_f",
+      "en": "Don't be ridiculous.",
+      "cz": "Nebuď směšný.",
+      "source": "pre_existing",
+      "original_cz": "Nebuď směšný."
+    },
+    {
+      "key": "Donald_012_f",
+      "en": "I just don't want her to get sad when *I* win.",
+      "cz": "Jen nechci, aby byla smutná, když *já* vyhraju.",
+      "source": "pre_existing",
+      "original_cz": "Jen nechci, aby byla smutná, když *já* vyhraju."
+    },
+    {
+      "key": "Donald_010_f",
+      "en": "Then you can have my spot.",
+      "cz": "Pak si můžeš vzít moje místo.",
+      "source": "pre_existing",
+      "original_cz": "Pak si můžeš vzít moje místo."
+    }
+  ],
+  "MonstersInc_Donald/VLG_Sull_027_Donald.locbin": [
+    {
+      "key": "Village!Mickey!Donald!VLG_Sull_027_Donald_AvailableDescription",
+      "en": "Go see Donald about his project.",
+      "cz": "Zajděte se podívat za Donaldem na jeho projekt.",
+      "source": "pre_existing",
+      "original_cz": "Zajděte se podívat za Donaldem na jeho projekt."
+    },
+    {
+      "key": "Village!Mickey!Donald!VLG_Sull_027_Donald_DisplayName",
+      "en": "Villager of the Month: Donald",
+      "cz": "Villager of the Month: Donald",
+      "source": "pre_existing",
+      "original_cz": "Villager of the Month: Donald"
+    },
+    {
+      "key": "Village!Mickey!Donald!VLG_Sull_027_Donald_Group01_Step01_TakePicture01_StepDescription",
+      "en": "Take {TargetAmount} pictures of Donald next to the <ActivityItem>Trash</ActivityItem> on Dazzle Beach.",
+      "cz": "Vyfoťte Donalda ({TargetAmount}) vedle <ActivityItem>Odpadku</ActivityItem> na pláži Dazzle.",
+      "source": "pre_existing",
+      "original_cz": "Vyfoťte Donalda ({TargetAmount}) vedle <ActivityItem>Odpadku</ActivityItem> na pláži Dazzle."
+    },
+    {
+      "key": "Village!Mickey!Donald!VLG_Sull_027_Donald_Group01_StoryDescription",
+      "en": "Trash mysteriously appeared on the Beach. Donald wants to clean it and needs you to document it with your Camera.",
+      "cz": "Na pláži se záhadně objevil odpad. Donald ho chce uklidit a potřebuje, abyste ho zdokumentovali fotoaparátem.",
+      "source": "pre_existing",
+      "original_cz": "Na pláži se záhadně objevil odpad. Donald ho chce uklidit a potřebuje, abyste ho zdokumentovali fotoaparátem."
+    },
+    {
+      "key": "Village!Mickey!Donald!VLG_Sull_027_Donald_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Talk to Donald.",
+      "cz": "Talk to Donald.",
+      "source": "pre_existing",
+      "original_cz": "Talk to Donald."
+    },
+    {
+      "key": "Village!Mickey!Donald!VLG_Sull_027_Donald_Group03_Step03_RemoveBlocker01_StepDescription",
+      "en": "Remove the <ActivityItem>Trash</ActivityItem> from Dazzle Beach.",
+      "cz": "Remove the <ActivityItem>Trash</ActivityItem> from Dazzle Beach.",
+      "source": "pre_existing",
+      "original_cz": "Remove the <ActivityItem>Trash</ActivityItem> from Dazzle Beach."
+    },
+    {
+      "key": "Village!Mickey!Donald!VLG_Sull_027_Donald_Group03_StoryDescription",
+      "en": "As soon as you show him the picture you've taken, Donald decides that it could be made better and delegates the rest of the Beach cleaning to you.",
+      "cz": "Jakmile mu ukážete fotku, kterou jste pořídili, Donald se rozhodne, že by se dala vylepšit, a zbytek úklidu pláže vám svěří.",
+      "source": "pre_existing",
+      "original_cz": "Jakmile mu ukážete fotku, kterou jste pořídili, Donald se rozhodne, že by se dala vylepšit, a zbytek úklidu pláže vám svěří."
+    },
+    {
+      "key": "Village!Mickey!Donald!VLG_Sull_027_Donald_Group04_Step04_TalkToCharacter02_StepDescription",
+      "en": "Talk to Donald.",
+      "cz": "Talk to Donald.",
+      "source": "pre_existing",
+      "original_cz": "Talk to Donald."
+    },
+    {
+      "key": "Village!Mickey!Donald!VLG_Sull_027_Donald_Group05_Step05_BringItem01_StepDescription",
+      "en": "Make sure the <ActivityItem>Photo of Donald</ActivityItem> is in your Inventory.",
+      "cz": "Make sure the <ActivityItem>Photo of Donald</ActivityItem> is in your Inventory.",
+      "source": "pre_existing",
+      "original_cz": "Make sure the <ActivityItem>Photo of Donald</ActivityItem> is in your Inventory."
+    },
+    {
+      "key": "Village!Mickey!Donald!VLG_Sull_027_Donald_Group05_Step05_ReadyDescription",
+      "en": "Bring the <ActivityItem>Photo of Donald</ActivityItem> to Sulley.",
+      "cz": "Bring the <ActivityItem>Photo of Donald</ActivityItem> to Sulley.",
+      "source": "pre_existing",
+      "original_cz": "Bring the <ActivityItem>Photo of Donald</ActivityItem> to Sulley."
+    },
+    {
+      "key": "Village!Mickey!Donald!VLG_Sull_027_Donald_Group05_StoryDescription",
+      "en": "When you go talk to him after finishing the trash removal, Donald gives you the obviously retouched photo you took to give to Sulley.",
+      "cz": "Když si s ním po odklízení odpadků promluvíte, Donald vám dá očividně retušovanou fotku, kterou jste pořídili pro Sulleyho.",
+      "source": "pre_existing",
+      "original_cz": "Když si s ním po odklízení odpadků promluvíte, Donald vám dá očividně retušovanou fotku, kterou jste pořídili pro Sulleyho."
+    },
+    {
+      "key": "Village!Mickey!Donald!VLG_Sull_027_Donald_Group01_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What do you need?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What do you need?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What do you need?"
+    },
+    {
+      "key": "Village!Mickey!Donald!VLG_Sull_027_Donald_Group05_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How can I help?",
+      "cz": "<smallcaps>{title}</smallcaps><br>How can I help?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>How can I help?"
+    }
+  ]
+}

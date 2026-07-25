@@ -1,0 +1,696 @@
+{
+  "StoryPack01Update_Goofy/Goofy_Discussions_Discussion015.locbin": [
+    {
+      "key": "Goofy_000_f",
+      "en": "Gawrsh, {PlayerName}, am I ever!",
+      "cz": "Páni, {PlayerName}, to jsem teda vůbec někdy byl!",
+      "source": "pre_existing",
+      "original_cz": "Páni, {PlayerName}, to jsem teda vůbec někdy byl!"
+    },
+    {
+      "key": "Goofy_001_f",
+      "en": "Seein' WALL·E rollin' around in that spiffy new outfit...",
+      "cz": "Vidím WALL·Eho, jak se válí v tomhle novém elegantním oblečení...",
+      "source": "pre_existing",
+      "original_cz": "Vidím WALL·Eho, jak se válí v tomhle novém elegantním oblečení..."
+    },
+    {
+      "key": "Goofy_002_f",
+      "en": "It sure is inspirational.",
+      "cz": "To je opravdu inspirativní.",
+      "source": "pre_existing",
+      "original_cz": "To je opravdu inspirativní."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "What do you feel inspired to do?",
+      "cz": "K čemu se cítíte inspirováni?",
+      "source": "pre_existing",
+      "original_cz": "K čemu se cítíte inspirováni?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I would have said more adorable than inspirational...",
+      "cz": "Řekl bych, že spíš rozkošné než inspirativní...",
+      "source": "pre_existing",
+      "original_cz": "Řekl bych, že spíš rozkošné než inspirativní..."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Something tells me that you're easily inspired.",
+      "cz": "Něco mi říká, že se snadno inspiruješ.",
+      "source": "pre_existing",
+      "original_cz": "Něco mi říká, že se snadno inspiruješ."
+    },
+    {
+      "key": "Goofy_003_f",
+      "en": "Actually, I'm not sure.",
+      "cz": "Vlastně si nejsem jistý.",
+      "source": "pre_existing",
+      "original_cz": "Vlastně si nejsem jistý."
+    },
+    {
+      "key": "Goofy_004_f",
+      "en": "I wanna do somethin' helpful. What do you think that should be?",
+      "cz": "Chci udělat něco užitečného. Co myslíš, že by to mělo být?",
+      "source": "pre_existing",
+      "original_cz": "Chci udělat něco užitečného. Co myslíš, že by to mělo být?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Whatever occurs to you!",
+      "cz": "Cokoli vás napadne!",
+      "source": "pre_existing",
+      "original_cz": "Cokoli vás napadne!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Just be yourself!",
+      "cz": "Prostě buď sám sebou!",
+      "source": "pre_existing",
+      "original_cz": "Prostě buď sám sebou!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "If you see someone, try asking them!",
+      "cz": "Pokud někoho uvidíte, zkuste se ho zeptat!",
+      "source": "pre_existing",
+      "original_cz": "Pokud někoho uvidíte, zkuste se ho zeptat!"
+    },
+    {
+      "key": "Goofy_005_f",
+      "en": "Well, I've had about 73 ideas in the last 10 minutes, so I guess I got some choosin' to do! See ya later, pal!",
+      "cz": "No, za posledních 10 minut jsem měl asi 73 nápadů, takže si asi budu muset z čeho vybírat! Uvidíme se později, kámo!",
+      "source": "pre_existing",
+      "original_cz": "No, za posledních 10 minut jsem měl asi 73 nápadů, takže si asi budu muset z čeho vybírat! Uvidíme se později, kámo!"
+    },
+    {
+      "key": "Goofy_006_f",
+      "en": "Well, that sounds pretty easy. I'll do ya one better. I'll be myself but twice as much! A-hyuck!",
+      "cz": "No, to zní docela jednoduše. Udělám ti to líp. Budu sám sebou, ale dvakrát tolik! A-hyuk!",
+      "source": "pre_existing",
+      "original_cz": "No, to zní docela jednoduše. Udělám ti to líp. Budu sám sebou, ale dvakrát tolik! A-hyuk!"
+    },
+    {
+      "key": "Goofy_007_f",
+      "en": "Great idea, {PlayerName}. See ya around!",
+      "cz": "Skvělý nápad, {PlayerName}. Uvidíme se!",
+      "source": "pre_existing",
+      "original_cz": "Skvělý nápad, {PlayerName}. Uvidíme se!"
+    },
+    {
+      "key": "Goofy_008_f",
+      "en": "You're right. He's awfully cute. And seein' him so happy has got me thinkin'...",
+      "cz": "Máš pravdu. Je strašně roztomilý. A když ho vidím tak šťastného, ​​tak si říkám...",
+      "source": "pre_existing",
+      "original_cz": "Máš pravdu. Je strašně roztomilý. A když ho vidím tak šťastného, ​​tak si říkám..."
+    },
+    {
+      "key": "Goofy_009_f",
+      "en": "Hmm... I guess you could say that I am.",
+      "cz": "Hmm... Dalo by se říct, že ano.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Dalo by se říct, že ano."
+    },
+    {
+      "key": "Goofy_010_f",
+      "en": "And it sure is easy in such an amazing Valley!",
+      "cz": "A v tak úžasném údolí je to opravdu snadné!",
+      "source": "pre_existing",
+      "original_cz": "A v tak úžasném údolí je to opravdu snadné!"
+    },
+    {
+      "key": "Goofy_011_f",
+      "en": "Aww, Goofy, you're too kind! Anything particular you're inspired about today?",
+      "cz": "Jé, Goofy, jsi tak laskavý! Je pro tebe dnes něco konkrétního, co tě inspirovalo?",
+      "source": "pre_existing",
+      "original_cz": "Jé, Goofy, jsi tak laskavý! Je pro tebe dnes něco konkrétního, co tě inspirovalo?"
+    }
+  ],
+  "StoryPack01Update_Goofy/Goofy_PRM_WallE_010_PRM_WallE_010_TalkTo07.locbin": [
+    {
+      "key": "Goofy_000_f",
+      "en": "Howdy, {PlayerName}! How ya doing today?",
+      "cz": "Zdravím, {PlayerName}! Jak se dnes máš?",
+      "source": "pre_existing",
+      "original_cz": "Zdravím, {PlayerName}! Jak se dnes máš?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Great!",
+      "cz": "Skvělé!",
+      "source": "pre_existing",
+      "original_cz": "Skvělé!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I need your help...",
+      "cz": "Potřebuji vaši pomoc...",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji vaši pomoc..."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Trying to help WALL·E, but it's not going great...",
+      "cz": "Snažím se pomoct WALL·Emu, ale moc se mi to nedaří...",
+      "source": "pre_existing",
+      "original_cz": "Snažím se pomoct WALL·Emu, ale moc se mi to nedaří..."
+    },
+    {
+      "key": "Goofy_001_f",
+      "en": "You're great? Gawrsh, me too!",
+      "cz": "Jsi skvělý? Bože, já taky!",
+      "source": "pre_existing",
+      "original_cz": "Jsi skvělý? Bože, já taky!"
+    },
+    {
+      "key": "Goofy_010_f",
+      "en": "In the Meadow? How'd it get there?!",
+      "cz": "Na louce? Jak se tam dostalo?!",
+      "source": "pre_existing",
+      "original_cz": "Na louce? Jak se tam dostalo?!"
+    },
+    {
+      "key": "Goofy_011_f",
+      "en": "No idea. It's a real head-scratcher.",
+      "cz": "Nemám tušení. Je to fakt blbost.",
+      "source": "pre_existing",
+      "original_cz": "Nemám tušení. Je to fakt blbost."
+    },
+    {
+      "key": "Goofy_012_f",
+      "en": "I picked up a piece on the Beach and was trying to bring it to Uncle Scrooge...",
+      "cz": "Na pláži jsem sebral kousek a snažil jsem se ho donést strýčkovi Scroogovi...",
+      "source": "pre_existing",
+      "original_cz": "Na pláži jsem sebral kousek a snažil jsem se ho donést strýčkovi Scroogovi..."
+    },
+    {
+      "key": "Goofy_013_f",
+      "en": "But I put it down for just a second to rest my arms...",
+      "cz": "Ale na chvilku jsem to odložil, abych si odpočinul ruce...",
+      "source": "pre_existing",
+      "original_cz": "Ale na chvilku jsem to odložil, abych si odpočinul ruce..."
+    },
+    {
+      "key": "Goofy_014_f",
+      "en": "And then I musta slipped on some mud and fell over!",
+      "cz": "A pak jsem asi uklouzl na blátě a spadl!",
+      "source": "pre_existing",
+      "original_cz": "A pak jsem asi uklouzl na blátě a spadl!"
+    },
+    {
+      "key": "Goofy_015_f",
+      "en": "Next thing I knew, the big metal chunk was gone!",
+      "cz": "A pak už ten velký kus kovu byl pryč!",
+      "source": "pre_existing",
+      "original_cz": "A pak už ten velký kus kovu byl pryč!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "... You pushed it into the pond by accident, didn't you?",
+      "cz": "... Omylem jsi to hodil do rybníka, že?",
+      "source": "pre_existing",
+      "original_cz": "... Omylem jsi to hodil do rybníka, že?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Could be someone played a prank on you!",
+      "cz": "Možná si z tebe někdo udělal legraci!",
+      "source": "pre_existing",
+      "original_cz": "Možná si z tebe někdo udělal legraci!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I honestly have no idea.",
+      "cz": "Upřímně, nemám tušení.",
+      "source": "pre_existing",
+      "original_cz": "Upřímně, nemám tušení."
+    },
+    {
+      "key": "Goofy_002_f",
+      "en": "Bet you had pancakes and pickles for breakfast like I did, huh?",
+      "cz": "Vsadím se, že jsi měl k snídani palačinky a okurky stejně jako já, co?",
+      "source": "pre_existing",
+      "original_cz": "Vsadím se, že jsi měl k snídani palačinky a okurky stejně jako já, co?"
+    },
+    {
+      "key": "Goofy_003_f",
+      "en": "Umm... something like that.",
+      "cz": "Ehm... něco takového.",
+      "source": "pre_existing",
+      "original_cz": "Ehm... něco takového."
+    },
+    {
+      "key": "Goofy_004_f",
+      "en": "Actually, I was hoping you could help me with something...",
+      "cz": "Vlastně jsem doufal, že mi s něčím pomůžete...",
+      "source": "pre_existing",
+      "original_cz": "Vlastně jsem doufal, že mi s něčím pomůžete..."
+    },
+    {
+      "key": "Goofy_005_f",
+      "en": "You betcha, pal! What's up?",
+      "cz": "To se vsadím, kámo! Co se děje?",
+      "source": "pre_existing",
+      "original_cz": "To se vsadím, kámo! Co se děje?"
+    },
+    {
+      "key": "Goofy_006_f",
+      "en": "Well, WALL·E really wants to find a trash can lid. I don't know exactly why, but he really wants it! I haven't seen any in the Valley, though.",
+      "cz": "No, WALL·E si opravdu přeje najít víko od odpadkového koše. Nevím přesně proč, ale opravdu ho chce! V Údolí jsem ale žádné neviděl.",
+      "source": "pre_existing",
+      "original_cz": "No, WALL·E si opravdu přeje najít víko od odpadkového koše. Nevím přesně proč, ale opravdu ho chce! V Údolí jsem ale žádné neviděl."
+    },
+    {
+      "key": "Goofy_007_f",
+      "en": "Hmm... I haven't seen any trash can lids around here. But maybe you could make one from scratch.",
+      "cz": "Hmm... Neviděl jsem tu žádná víka na odpadkové koše. Ale možná by sis jedno mohl vyrobit od základu.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Neviděl jsem tu žádná víka na odpadkové koše. Ale možná by sis jedno mohl vyrobit od základu."
+    },
+    {
+      "key": "Goofy_008_f",
+      "en": "Last time I was in the Meadow fishin', my line kept getting stuck.",
+      "cz": "Když jsem byl naposledy na rybách na Meadow, pořád se mi zasekával vlasec.",
+      "source": "pre_existing",
+      "original_cz": "Když jsem byl naposledy na rybách na Meadow, pořád se mi zasekával vlasec."
+    },
+    {
+      "key": "Goofy_009_f",
+      "en": "I betcha it's a buncha that <ActivityItem>Scrap Metal</ActivityItem> I keep findin' around here.",
+      "cz": "Vsadím se, že je to hromada <ActivityItem>Želového šrotu</ActivityItem>, kterou tady pořád nacházím.",
+      "source": "pre_existing",
+      "original_cz": "Vsadím se, že je to hromada <ActivityItem>Želového šrotu</ActivityItem>, kterou tady pořád nacházím."
+    },
+    {
+      "key": "Goofy_016_f",
+      "en": "I hadn't thought of that, but you're prob'ly right!",
+      "cz": "Na to jsem nepomyslel, ale asi máš pravdu!",
+      "source": "pre_existing",
+      "original_cz": "Na to jsem nepomyslel, ale asi máš pravdu!"
+    },
+    {
+      "key": "Goofy_017_f",
+      "en": "All right Goofy, I should be able to handle this — the Royal Fishing Rod will have a better chance of pulling the metal out than yours.",
+      "cz": "Dobře, Goofy, tohle bych měl zvládnout – Královský rybářský prut bude mít větší šanci vytáhnout kov než ten tvůj.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, Goofy, tohle bych měl zvládnout – Královský rybářský prut bude mít větší šanci vytáhnout kov než ten tvůj."
+    },
+    {
+      "key": "Goofy_018_f",
+      "en": "That's true. And I hope you can find the other pieces out there too — I saw a bunch on the Beach!",
+      "cz": "To je pravda. A doufám, že najdete i ty další kousky – viděl jsem jich na pláži spoustu!",
+      "source": "pre_existing",
+      "original_cz": "To je pravda. A doufám, že najdete i ty další kousky – viděl jsem jich na pláži spoustu!"
+    },
+    {
+      "key": "Goofy_019_f",
+      "en": "Some were just layin' around, some were buried in the sand, and some were in the water.",
+      "cz": "Některé se jen tak povalovaly, některé byly zahrabané v písku a některé ve vodě.",
+      "source": "pre_existing",
+      "original_cz": "Některé se jen tak povalovaly, některé byly zahrabané v písku a některé ve vodě."
+    },
+    {
+      "key": "Goofy_020_f",
+      "en": "Perfect — we'll look into those! Were those the only ones you saw?",
+      "cz": "Perfektní – na to se podíváme! Byly to jediné, které jste viděli?",
+      "source": "pre_existing",
+      "original_cz": "Perfektní – na to se podíváme! Byly to jediné, které jste viděli?"
+    },
+    {
+      "key": "Goofy_021_f",
+      "en": "Nope. I saw Ursula grab some. I offered to recycle 'em for her, but she said she had plans for 'em.",
+      "cz": "Ne. Viděl jsem, jak Ursula nějaké vzala. Nabídl jsem jí, že je zrecykluji, ale ona řekla, že s nimi má nějaké plány.",
+      "source": "pre_existing",
+      "original_cz": "Ne. Viděl jsem, jak Ursula nějaké vzala. Nabídl jsem jí, že je zrecykluji, ale ona řekla, že s nimi má nějaké plány."
+    },
+    {
+      "key": "Goofy_022_f",
+      "en": "And then she did one of those scary villain laughs.",
+      "cz": "A pak se zasmála jako jeden z těch děsivých padouchských smíchů.",
+      "source": "pre_existing",
+      "original_cz": "A pak se zasmála jako jeden z těch děsivých padouchských smíchů."
+    },
+    {
+      "key": "Goofy_023_f",
+      "en": "Oof, okay, I'll look into that — thanks, Goofy!",
+      "cz": "Uf, dobře, podívám se na to – díky, Goofy!",
+      "source": "pre_existing",
+      "original_cz": "Uf, dobře, podívám se na to – díky, Goofy!"
+    },
+    {
+      "key": "Goofy_024_f",
+      "en": "Not sure what kind of prank that'd be... but I suppose it could be funny.",
+      "cz": "Nejsem si jistý, co by to bylo za žert... ale předpokládám, že by to mohlo být vtipné.",
+      "source": "pre_existing",
+      "original_cz": "Nejsem si jistý, co by to bylo za žert... ale předpokládám, že by to mohlo být vtipné."
+    },
+    {
+      "key": "Goofy_025_f",
+      "en": "Wow, if YOU can't figure it out, it really is a mystery!",
+      "cz": "Páni, pokud to TY nedokážeš rozluštit, tak je to vážně záhada!",
+      "source": "pre_existing",
+      "original_cz": "Páni, pokud to TY nedokážeš rozluštit, tak je to vážně záhada!"
+    },
+    {
+      "key": "Goofy_026_f",
+      "en": "Uh-oh! Hope I can help!",
+      "cz": "Jejda! Doufám, že můžu pomoct!",
+      "source": "pre_existing",
+      "original_cz": "Jejda! Doufám, že můžu pomoct!"
+    },
+    {
+      "key": "Goofy_027_f",
+      "en": "Uh-oh! What's wrong, pal?",
+      "cz": "Jejda! Co se děje, kámo?",
+      "source": "pre_existing",
+      "original_cz": "Jejda! Co se děje, kámo?"
+    }
+  ],
+  "StoryPack01Update_Goofy/Goofy_PRM_WallE_030_PRM_WallE_030_TalkTo03.locbin": [
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "No way.",
+      "cz": "V žádném případě.",
+      "source": "pre_existing",
+      "original_cz": "V žádném případě."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'm sure the others will get your mood up.",
+      "cz": "Jsem si jistý, že ti ostatní zvednou náladu.",
+      "source": "pre_existing",
+      "original_cz": "Jsem si jistý, že ti ostatní zvednou náladu."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Hmm, I see your point.",
+      "cz": "Hmm, chápu, co tím myslíš.",
+      "source": "pre_existing",
+      "original_cz": "Hmm, chápu, co tím myslíš."
+    },
+    {
+      "key": "Goofy_001_f",
+      "en": "Goofy! How are you doing today?",
+      "cz": "Gofy! Jak se dnes máš?",
+      "source": "pre_existing",
+      "original_cz": "Gofy! Jak se dnes máš?"
+    },
+    {
+      "key": "Goofy_002_f",
+      "en": "Well, I was tryin' to work on my scrapbook, but I couldn't think of what I wanted to take pictures of.",
+      "cz": "No, snažil jsem se pracovat na svém albu, ale nemohl jsem si vzpomenout, co bych chtěl vyfotit.",
+      "source": "pre_existing",
+      "original_cz": "No, snažil jsem se pracovat na svém albu, ale nemohl jsem si vzpomenout, co bych chtěl vyfotit."
+    },
+    {
+      "key": "Goofy_003_f",
+      "en": "Oh no! Not feeling too inspired today?",
+      "cz": "Jé, ne! Necítíš se dnes moc inspirovaný/á?",
+      "source": "pre_existing",
+      "original_cz": "Jé, ne! Necítíš se dnes moc inspirovaný/á?"
+    },
+    {
+      "key": "Goofy_004_f",
+      "en": "Gawrsh, I guess not.",
+      "cz": "Proboha, asi ne.",
+      "source": "pre_existing",
+      "original_cz": "Proboha, asi ne."
+    },
+    {
+      "key": "Goofy_005_f",
+      "en": "I know just the thing!",
+      "cz": "Vím přesně tohle!",
+      "source": "pre_existing",
+      "original_cz": "Vím přesně tohle!"
+    },
+    {
+      "key": "Goofy_006_f",
+      "en": "WALL·E is planning a little shindig — you should come!",
+      "cz": "WALL·E plánuje malou slavnost – měli byste přijít!",
+      "source": "pre_existing",
+      "original_cz": "WALL·E plánuje malou slavnost – měli byste přijít!"
+    },
+    {
+      "key": "Goofy_007_f",
+      "en": "Gee, I don't know, {PlayerName}.",
+      "cz": "Páni, já nevím, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Páni, já nevím, {PlayerName}."
+    },
+    {
+      "key": "Goofy_008_f",
+      "en": "What if my lack of inspiration brings the party down?",
+      "cz": "Co když můj nedostatek inspirace zkazí večírek?",
+      "source": "pre_existing",
+      "original_cz": "Co když můj nedostatek inspirace zkazí večírek?"
+    },
+    {
+      "key": "Goofy_009_f",
+      "en": "Still, I understand why you're concerned.",
+      "cz": "Přesto chápu, proč máš obavy.",
+      "source": "pre_existing",
+      "original_cz": "Přesto chápu, proč máš obavy."
+    },
+    {
+      "key": "Goofy_019_f",
+      "en": "Just wait until I'm back with the pics!",
+      "cz": "Jen počkej, až se vrátím s fotkami!",
+      "source": "pre_existing",
+      "original_cz": "Jen počkej, až se vrátím s fotkami!"
+    },
+    {
+      "key": "Goofy_020_f",
+      "en": "Wahoo! I sure am lookin' forward to it!",
+      "cz": "Jéé! Už se na to těším!",
+      "source": "pre_existing",
+      "original_cz": "Jéé! Už se na to těším!"
+    },
+    {
+      "key": "Goofy_011_f",
+      "en": "What if I help you get your creativity back?",
+      "cz": "Co kdybych ti pomohl/a znovu získat tvou kreativitu?",
+      "source": "pre_existing",
+      "original_cz": "Co kdybych ti pomohl/a znovu získat tvou kreativitu?"
+    },
+    {
+      "key": "Goofy_012_f",
+      "en": "And then you can get back to spreading your fun Goofy vibes!",
+      "cz": "A pak se můžeš vrátit k šíření své zábavné Goofy vibrace!",
+      "source": "pre_existing",
+      "original_cz": "A pak se můžeš vrátit k šíření své zábavné Goofy vibrace!"
+    },
+    {
+      "key": "Goofy_013_f",
+      "en": "Oh boy, you'd do that for me?",
+      "cz": "Páni, to bys pro mě udělal/a?",
+      "source": "pre_existing",
+      "original_cz": "Páni, to bys pro mě udělal/a?"
+    },
+    {
+      "key": "Goofy_014_f",
+      "en": "Sure!",
+      "cz": "Jasně!",
+      "source": "pre_existing",
+      "original_cz": "Jasně!"
+    },
+    {
+      "key": "Goofy_015_f",
+      "en": "I'll take a bunch of pictures around the Village.",
+      "cz": "Udělám spoustu fotek po celé vesnici.",
+      "source": "pre_existing",
+      "original_cz": "Udělám spoustu fotek po celé vesnici."
+    },
+    {
+      "key": "Goofy_016_f",
+      "en": "Maybe some <Lore>Villagers</Lore>, <Lore>Houses</Lore>...",
+      "cz": "Možná nějací <Lore>Vesničané</Lore>, <Lore>Domy</Lore>...",
+      "source": "pre_existing",
+      "original_cz": "Možná nějací <Lore>Vesničané</Lore>, <Lore>Domy</Lore>..."
+    },
+    {
+      "key": "Goofy_017_f",
+      "en": "Oh, and <Lore>Animal Companions</Lore>! And <Lore>Fruit Trees</Lore>!",
+      "cz": "Ach, a <Lore>Zvířecí společníci</Lore>! A <Lore>Ovocné stromy</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Ach, a <Lore>Zvířecí společníci</Lore>! A <Lore>Ovocné stromy</Lore>!"
+    },
+    {
+      "key": "Goofy_018_f",
+      "en": "Wow, I'm feelin' inspired already!",
+      "cz": "Páni, už se cítím inspirovaný/á!",
+      "source": "pre_existing",
+      "original_cz": "Páni, už se cítím inspirovaný/á!"
+    },
+    {
+      "key": "Goofy_010_f",
+      "en": "But I get why you're hesitant.",
+      "cz": "Ale chápu, proč váháš.",
+      "source": "pre_existing",
+      "original_cz": "Ale chápu, proč váháš."
+    }
+  ],
+  "StoryPack01Update_Goofy/Goofy_PRM_WallE_030_PRM_WallE_030_TalkTo04.locbin": [
+    {
+      "key": "Goofy_000_f",
+      "en": "Hi Goofy! I'm back.",
+      "cz": "Ahoj Goofy! Jsem zpátky.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj Goofy! Jsem zpátky."
+    },
+    {
+      "key": "Goofy_001_f",
+      "en": "With some pictures, as requested.",
+      "cz": "S několika obrázky, dle požadavku.",
+      "source": "pre_existing",
+      "original_cz": "S několika obrázky, dle požadavku."
+    },
+    {
+      "key": "Goofy_002_f",
+      "en": "Gawrsh, those look great!",
+      "cz": "Páni, ty vypadají skvěle!",
+      "source": "pre_existing",
+      "original_cz": "Páni, ty vypadají skvěle!"
+    },
+    {
+      "key": "Goofy_003_f",
+      "en": "Thanks, {PlayerName}!",
+      "cz": "Díky, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Díky, {PlayerName}!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "It was a hard task, but worth it!",
+      "cz": "Byl to těžký úkol, ale stál za to!",
+      "source": "pre_existing",
+      "original_cz": "Byl to těžký úkol, ale stál za to!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Easy peasy!",
+      "cz": "Jednoduché!",
+      "source": "pre_existing",
+      "original_cz": "Jednoduché!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "They're not the best pictures I've ever taken...",
+      "cz": "Nejsou to nejlepší fotky, jaké jsem kdy pořídil...",
+      "source": "pre_existing",
+      "original_cz": "Nejsou to nejlepší fotky, jaké jsem kdy pořídil..."
+    },
+    {
+      "key": "Goofy_004_f",
+      "en": "I sure understand that.",
+      "cz": "Tomu naprosto rozumím.",
+      "source": "pre_existing",
+      "original_cz": "Tomu naprosto rozumím."
+    },
+    {
+      "key": "Goofy_005_f",
+      "en": "Sometimes I get kinda overwhelmed.",
+      "cz": "Někdy jsem z toho trochu zahlcený/á.",
+      "source": "pre_existing",
+      "original_cz": "Někdy jsem z toho trochu zahlcený/á."
+    },
+    {
+      "key": "Goofy_006_f",
+      "en": "The Valley's so amazing; it feels like if I can't take a picture of everything, then maybe I shouldn't take any pictures at all.",
+      "cz": "Údolí je tak úžasné; mám pocit, že když nemůžu vyfotit všechno, tak bych možná neměl fotit vůbec nic.",
+      "source": "pre_existing",
+      "original_cz": "Údolí je tak úžasné; mám pocit, že když nemůžu vyfotit všechno, tak bych možná neměl fotit vůbec nic."
+    },
+    {
+      "key": "Goofy_007_f",
+      "en": "Well, I hope you're feeling inspired now.",
+      "cz": "Doufám, že se teď cítíš inspirovaný/á.",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že se teď cítíš inspirovaný/á."
+    },
+    {
+      "key": "Goofy_015_f",
+      "en": "Yep! I can already imagine the next pictures I wanna take.",
+      "cz": "Jo! Už si dokážu představit, jaké další fotky chci pořídit.",
+      "source": "pre_existing",
+      "original_cz": "Jo! Už si dokážu představit, jaké další fotky chci pořídit."
+    },
+    {
+      "key": "Goofy_016_f",
+      "en": "Oh yeah?",
+      "cz": "Jo, jo?",
+      "source": "pre_existing",
+      "original_cz": "Jo, jo?"
+    },
+    {
+      "key": "Goofy_017_f",
+      "en": "Maybe I'll even take some at WALL·E's dance!",
+      "cz": "Možná si nějaké dám i na plese u WALL·Eho!",
+      "source": "pre_existing",
+      "original_cz": "Možná si nějaké dám i na plese u WALL·Eho!"
+    },
+    {
+      "key": "Goofy_018_f",
+      "en": "So you're coming?!",
+      "cz": "Takže jdeš?!",
+      "source": "pre_existing",
+      "original_cz": "Takže jdeš?!"
+    },
+    {
+      "key": "Goofy_019_f",
+      "en": "You bet I am! I wouldn't miss it!",
+      "cz": "To se vsaď, že jo! Nenechal bych si to ujít!",
+      "source": "pre_existing",
+      "original_cz": "To se vsaď, že jo! Nenechal bych si to ujít!"
+    },
+    {
+      "key": "Goofy_008_f",
+      "en": "Gawrsh, I wish I had your picture-takin' confidence.",
+      "cz": "Páni, kéž bych měl tvoje sebevědomí při focení.",
+      "source": "pre_existing",
+      "original_cz": "Páni, kéž bych měl tvoje sebevědomí při focení."
+    },
+    {
+      "key": "Goofy_009_f",
+      "en": "You've just got to act like you have it.",
+      "cz": "Musíš se prostě chovat, jako bys to měl/a.",
+      "source": "pre_existing",
+      "original_cz": "Musíš se prostě chovat, jako bys to měl/a."
+    },
+    {
+      "key": "Goofy_010_f",
+      "en": "And then the real confidence will come.",
+      "cz": "A pak přijde ta opravdová sebedůvěra.",
+      "source": "pre_existing",
+      "original_cz": "A pak přijde ta opravdová sebedůvěra."
+    },
+    {
+      "key": "Goofy_011_f",
+      "en": "But sometimes a bad picture can inspire as much as a good one.",
+      "cz": "Ale někdy může špatný obrázek inspirovat stejně jako ten dobrý.",
+      "source": "pre_existing",
+      "original_cz": "Ale někdy může špatný obrázek inspirovat stejně jako ten dobrý."
+    },
+    {
+      "key": "Goofy_012_f",
+      "en": "Oh, I dunno, {PlayerName}...",
+      "cz": "Ach, nevím, {PlayerName}...",
+      "source": "pre_existing",
+      "original_cz": "Ach, nevím, {PlayerName}..."
+    },
+    {
+      "key": "Goofy_013_f",
+      "en": "These look real swell to me!",
+      "cz": "Tyhle mi přijdou fakt super!",
+      "source": "pre_existing",
+      "original_cz": "Tyhle mi přijdou fakt super!"
+    },
+    {
+      "key": "Goofy_014_f",
+      "en": "Thanks, Goofy; you're too kind.",
+      "cz": "Díky, Goofy; jsi moc laskavý.",
+      "source": "pre_existing",
+      "original_cz": "Díky, Goofy; jsi moc laskavý."
+    }
+  ]
+}

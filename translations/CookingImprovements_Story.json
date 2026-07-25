@@ -1,0 +1,91 @@
+{
+  "CookingImprovements_Story/ORQS_Tian_010_SlowCooker.locbin": [
+    {
+      "key": "Story!ORQS_Tian_010_SlowCooker_Any_CompletedRequestDescription",
+      "en": "Talk to <Lore>Tiana</Lore> about your <ActivityItem>Slow Cooker</ActivityItem>.",
+      "cz": "Promluvte si s <Lore>Tianou</Lore> o vašem <ActivityItem>pomalém hrnci</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s <Lore>Tianou</Lore> o vašem <ActivityItem>pomalém hrnci</ActivityItem>."
+    },
+    {
+      "key": "Story!ORQS_Tian_010_SlowCooker_AvailableDescription",
+      "en": "Seems like Tiana's got something cooking...",
+      "cz": "Vypadá to, že Tiana něco vaří...",
+      "source": "pre_existing",
+      "original_cz": "Vypadá to, že Tiana něco vaří..."
+    },
+    {
+      "key": "Story!ORQS_Tian_010_SlowCooker_DisplayName",
+      "en": "Slow and Steady",
+      "cz": "Pomalu a stabilně",
+      "source": "pre_existing",
+      "original_cz": "Pomalu a stabilně"
+    },
+    {
+      "key": "Story!ORQS_Tian_010_SlowCooker_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Talk to {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Talk to {TargetNPC}."
+    },
+    {
+      "key": "Story!ORQS_Tian_010_SlowCooker_Group02_Step02_Possess01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!ORQS_Tian_010_SlowCooker_Group02_Step02_Possess02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!ORQS_Tian_010_SlowCooker_Group02_Step02_Possess03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!ORQS_Tian_010_SlowCooker_Group02_Step02_Possess04_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!ORQS_Tian_010_SlowCooker_Group02_Step02_StepDescription",
+      "en": "Gather the materials needed to craft a <ActivityItem>Slow Cooker</ActivityItem>.",
+      "cz": "Shromážděte materiály potřebné k výrobě <ActivityItem>Pomalého hrnce</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Shromážděte materiály potřebné k výrobě <ActivityItem>Pomalého hrnce</ActivityItem>."
+    },
+    {
+      "key": "Story!ORQS_Tian_010_SlowCooker_Group03_Step03_CraftItem01_StepDescription",
+      "en": "Craft a {ItemName}.",
+      "cz": "Craft a {ItemName}.",
+      "source": "pre_existing",
+      "original_cz": "Craft a {ItemName}."
+    },
+    {
+      "key": "Story!ORQS_Tian_010_SlowCooker_Group04_Step04_Decorate01_StepDescription",
+      "en": "Place your {ItemName} in the Valley.",
+      "cz": "Umístěte svůj {ItemName} do údolí.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte svůj {ItemName} do údolí."
+    },
+    {
+      "key": "Story!ORQS_Tian_010_SlowCooker_Group05_Step05_AncientMachineOperation01_StepDescription",
+      "en": "Cook {ItemName} with your {MachineName}.",
+      "cz": "Uvařte {ItemName} s vaším {MachineName}.",
+      "source": "pre_existing",
+      "original_cz": "Uvařte {ItemName} s vaším {MachineName}."
+    },
+    {
+      "key": "Story!ORQS_Tian_010_SlowCooker_Group06_Step06_AncientMachineOperation02_StepDescription",
+      "en": "Collect your meals from the {MachineName}.<br>(It will take some time for the {MachineName} to finish!)",
+      "cz": "Vyzvedněte si svá jídla z {MachineName}.<br>(Dokončení přípravy {MachineName} bude chvíli trvat!)",
+      "source": "pre_existing",
+      "original_cz": "Vyzvedněte si svá jídla z {MachineName}.<br>(Dokončení přípravy {MachineName} bude chvíli trvat!)"
+    }
+  ]
+}

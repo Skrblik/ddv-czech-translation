@@ -1,0 +1,209 @@
+{
+  "Alice_Aladdin/Aladdin_VLG_Ches_010_VLG_Ches_010_TalkTo12.locbin": [
+    {
+      "key": "Aladdin_000_f",
+      "en": "{PlayerName}! Am I ever glad to see you!",
+      "cz": "{PlayerName}! Jsem rád/a, že tě vidím!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}! Jsem rád/a, že tě vidím!"
+    },
+    {
+      "key": "Aladdin_001_f",
+      "en": "Something really strange is going on in my House...",
+      "cz": "V mém domě se děje něco opravdu zvláštního...",
+      "source": "pre_existing",
+      "original_cz": "V mém domě se děje něco opravdu zvláštního..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm not surprised.",
+      "cz": "Nepřekvapuje mě to.",
+      "source": "pre_existing",
+      "original_cz": "Nepřekvapuje mě to."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Yeah, it looks odd in here.",
+      "cz": "Jo, vypadá to tu divně.",
+      "source": "pre_existing",
+      "original_cz": "Jo, vypadá to tu divně."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Everything looks okay to me...",
+      "cz": "Všechno mi přijde v pořádku...",
+      "source": "pre_existing",
+      "original_cz": "Všechno mi přijde v pořádku..."
+    },
+    {
+      "key": "Aladdin_003_f",
+      "en": "The Cheshire Cat said something about the houses in the Valley making \"too much sense.\"",
+      "cz": "Kocour Cheshire řekl něco o domech v údolí, což dává „až příliš mnoho smyslu“.",
+      "source": "pre_existing",
+      "original_cz": "Kocour Cheshire řekl něco o domech v údolí, což dává „až příliš mnoho smyslu“."
+    },
+    {
+      "key": "Aladdin_006_f",
+      "en": "Not sure I like the sound of that...",
+      "cz": "Nejsem si jistý/á, jestli se mi ten zvuk líbí...",
+      "source": "pre_existing",
+      "original_cz": "Nejsem si jistý/á, jestli se mi ten zvuk líbí..."
+    },
+    {
+      "key": "Aladdin_007_f",
+      "en": "I try not to overthink it too much.",
+      "cz": "Snažím se o tom moc nepřemýšlet.",
+      "source": "pre_existing",
+      "original_cz": "Snažím se o tom moc nepřemýšlet."
+    },
+    {
+      "key": "Aladdin_008_f",
+      "en": "So what's going on in here?",
+      "cz": "Tak co se tady děje?",
+      "source": "pre_existing",
+      "original_cz": "Tak co se tady děje?"
+    },
+    {
+      "key": "Aladdin_004_f",
+      "en": "Some of our furniture's been replaced with all these strange new things.",
+      "cz": "Některý náš nábytek byl nahrazen všemi těmi podivnými novými věcmi.",
+      "source": "pre_existing",
+      "original_cz": "Některý náš nábytek byl nahrazen všemi těmi podivnými novými věcmi."
+    },
+    {
+      "key": "Aladdin_009_f",
+      "en": "Yeah, these items definitely don't look like they fit here. I wonder who they actually belong to?",
+      "cz": "Jo, tyhle věci se sem rozhodně nehodí. Zajímalo by mě, komu vlastně patří?",
+      "source": "pre_existing",
+      "original_cz": "Jo, tyhle věci se sem rozhodně nehodí. Zajímalo by mě, komu vlastně patří?"
+    },
+    {
+      "key": "Aladdin_010_f",
+      "en": "No idea. But if I think of anyone, I'll let you know.",
+      "cz": "Nemám tušení. Ale pokud si na někoho vzpomenu, dám ti vědět.",
+      "source": "pre_existing",
+      "original_cz": "Nemám tušení. Ale pokud si na někoho vzpomenu, dám ti vědět."
+    },
+    {
+      "key": "Aladdin_012_f",
+      "en": "Let me <Lore>remove all of this misplaced furniture</Lore> from your House.",
+      "cz": "Dovolte mi <Lore>odstranit všechen tento ztracený nábytek</Lore> z vašeho domu.",
+      "source": "pre_existing",
+      "original_cz": "Dovolte mi <Lore>odstranit všechen tento ztracený nábytek</Lore> z vašeho domu."
+    },
+    {
+      "key": "Aladdin_011_f",
+      "en": "Then I can go <Lore>ask the Cheshire Cat a few more questions</Lore>. Maybe I can get him to confess where this furniture came from.",
+      "cz": "Pak můžu jít <Lore>položit Cheshire Catovi ještě pár otázek</Lore>. Možná ho přiměju, aby se přiznal, odkud tenhle nábytek pochází.",
+      "source": "pre_existing",
+      "original_cz": "Pak můžu jít <Lore>položit Cheshire Catovi ještě pár otázek</Lore>. Možná ho přiměju, aby se přiznal, odkud tenhle nábytek pochází."
+    },
+    {
+      "key": "Aladdin_005_f",
+      "en": "Really?",
+      "cz": "Opravdu?",
+      "source": "pre_existing",
+      "original_cz": "Opravdu?"
+    }
+  ],
+  "Alice_Aladdin/Aladdin_VLG_Ches_010_VLG_Ches_010_TalkTo13.locbin": [
+    {
+      "key": "Aladdin_000_f",
+      "en": "Gotta say, I'm impressed. You found my missing furniture.",
+      "cz": "Musím říct, že jsem ohromen. Našli jste můj ztracený nábytek.",
+      "source": "pre_existing",
+      "original_cz": "Musím říct, že jsem ohromen. Našli jste můj ztracený nábytek."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "It was no trouble!",
+      "cz": "Nebyl to žádný problém!",
+      "source": "pre_existing",
+      "original_cz": "Nebyl to žádný problém!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "It was a bit of a headache.",
+      "cz": "Byla to trochu bolest hlavy.",
+      "source": "pre_existing",
+      "original_cz": "Byla to trochu bolest hlavy."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I sort of had to remake it all...",
+      "cz": "Musel jsem to celé nějak předělat...",
+      "source": "pre_existing",
+      "original_cz": "Musel jsem to celé nějak předělat..."
+    },
+    {
+      "key": "Aladdin_002_f",
+      "en": "Aw, don't be so modest. I heard you helped out Daisy and WALL·E, too.",
+      "cz": "Ale nebuď tak skromný. Slyšel jsem, že jsi pomohl i Daisy a WALL·Emu.",
+      "source": "pre_existing",
+      "original_cz": "Ale nebuď tak skromný. Slyšel jsem, že jsi pomohl i Daisy a WALL·Emu."
+    },
+    {
+      "key": "Aladdin_005_f",
+      "en": "Helping friends around the Valley is what I do!",
+      "cz": "Pomáhat přátelům v údolí je to, co dělám!",
+      "source": "pre_existing",
+      "original_cz": "Pomáhat přátelům v údolí je to, co dělám!"
+    },
+    {
+      "key": "Aladdin_010_f",
+      "en": "Something tells me this won't be the last of the Cheshire Cat's messes I have to clean up.",
+      "cz": "Něco mi říká, že tohle nebude poslední nepořádek po Kočičím vojáčkovi, který budu muset uklidit.",
+      "source": "pre_existing",
+      "original_cz": "Něco mi říká, že tohle nebude poslední nepořádek po Kočičím vojáčkovi, který budu muset uklidit."
+    },
+    {
+      "key": "Aladdin_001_f",
+      "en": "That cat does seem to create trouble...",
+      "cz": "Ta kočka zřejmě dělá problémy...",
+      "source": "pre_existing",
+      "original_cz": "Ta kočka zřejmě dělá problémy..."
+    },
+    {
+      "key": "Aladdin_009_f",
+      "en": "Who just goes into someone's house and moves their things?",
+      "cz": "Kdo jen tak vejde do něčího domu a přestěhuje mu věci?",
+      "source": "pre_existing",
+      "original_cz": "Kdo jen tak vejde do něčího domu a přestěhuje mu věci?"
+    },
+    {
+      "key": "Aladdin_007_f",
+      "en": "You're right, of course. Now, if you'll excuse me, I need to go <Lore>have a chat with the Cheshire Cat</Lore> about all of this.",
+      "cz": "Máte samozřejmě pravdu. A teď, pokud mě omluvíte, musím si o tom všem <Lore>promluvit s kočkou Cheshire</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Máte samozřejmě pravdu. A teď, pokud mě omluvíte, musím si o tom všem <Lore>promluvit s kočkou Cheshire</Lore>."
+    },
+    {
+      "key": "Aladdin_008_f",
+      "en": "Good luck!",
+      "cz": "Hodně štěstí!",
+      "source": "pre_existing",
+      "original_cz": "Hodně štěstí!"
+    },
+    {
+      "key": "Aladdin_003_f",
+      "en": "I had to move around furniture for Daisy AND WALL·E, as well!",
+      "cz": "Musela jsem přestěhovat nábytek kvůli Daisy A WALL·Emu!",
+      "source": "pre_existing",
+      "original_cz": "Musela jsem přestěhovat nábytek kvůli Daisy A WALL·Emu!"
+    },
+    {
+      "key": "Aladdin_004_f",
+      "en": "The Cheshire Cat lost all of your stuff, so I just crafted some new things for you.",
+      "cz": "Kočka Cheshire ztratila všechny tvé věci, tak jsem pro tebe vyrobila pár nových.",
+      "source": "pre_existing",
+      "original_cz": "Kočka Cheshire ztratila všechny tvé věci, tak jsem pro tebe vyrobila pár nových."
+    },
+    {
+      "key": "Aladdin_006_f",
+      "en": "Whoa! That's incredible. Thanks, {PlayerName}!",
+      "cz": "Páni! To je neuvěřitelné. Díky, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Páni! To je neuvěřitelné. Díky, {PlayerName}!"
+    }
+  ]
+}

@@ -1,0 +1,497 @@
+{
+  "RemySpecialDeliveries_Stitch/Stitch_CrossNPCDialogues_RemySpecialDeliveries_Stitch_Gothel.locbin": [
+    {
+      "key": "Stitch_000_f",
+      "en": "Aloha!",
+      "cz": "Aloha!",
+      "source": "pre_existing",
+      "original_cz": "Aloha!"
+    },
+    {
+      "key": "Stitch_008_f",
+      "en": "Get out of my sight before I... before I...",
+      "cz": "Zmiz mi z očí, než... než...",
+      "source": "pre_existing",
+      "original_cz": "Zmiz mi z očí, než... než..."
+    },
+    {
+      "key": "Stitch_009_f",
+      "en": "...put Stitch in big pot and eat me?! Naga bootifa!",
+      "cz": "...hoďte Stitche do velkého hrnce a snězte mě?! Naga bootifa!",
+      "source": "pre_existing",
+      "original_cz": "...hoďte Stitche do velkého hrnce a snězte mě?! Naga bootifa!"
+    },
+    {
+      "key": "Stitch_010_f",
+      "en": "UGH!",
+      "cz": "UF!",
+      "source": "pre_existing",
+      "original_cz": "UF!"
+    },
+    {
+      "key": "Stitch_001_f",
+      "en": "Hm? Oh. It's the little blue furball.",
+      "cz": "Hm? Aha. To je ta malá modrá chlupatá koule.",
+      "source": "pre_existing",
+      "original_cz": "Hm? Aha. To je ta malá modrá chlupatá koule."
+    },
+    {
+      "key": "Stitch_002_f",
+      "en": "Why are you bothering me?",
+      "cz": "Proč mě obtěžuješ?",
+      "source": "pre_existing",
+      "original_cz": "Proč mě obtěžuješ?"
+    },
+    {
+      "key": "Stitch_003_f",
+      "en": "Stitch bring gift.",
+      "cz": "Stitch přináší dárek.",
+      "source": "pre_existing",
+      "original_cz": "Stitch přináší dárek."
+    },
+    {
+      "key": "Stitch_004_f",
+      "en": "Oh, what a charmless little confection. What is this for?",
+      "cz": "Ach, to je ale nepůvabná sladkost. K čemu to je?",
+      "source": "pre_existing",
+      "original_cz": "Ach, to je ale nepůvabná sladkost. K čemu to je?"
+    },
+    {
+      "key": "Stitch_005_f",
+      "en": "Stitch read in storybook that mean old witches who live in trees like gingerbread houses.",
+      "cz": "Stitch četl v pohádkové knize, že znamenají staré čarodějnice, které žijí na stromech jako perníkové chaloupky.",
+      "source": "pre_existing",
+      "original_cz": "Stitch četl v pohádkové knize, že znamenají staré čarodějnice, které žijí na stromech jako perníkové chaloupky."
+    },
+    {
+      "key": "Stitch_006_f",
+      "en": "Why I— How dare you, you little troll!",
+      "cz": "Proč já— Jak se opovažuješ, ty malý trolle!",
+      "source": "pre_existing",
+      "original_cz": "Proč já— Jak se opovažuješ, ty malý trolle!"
+    },
+    {
+      "key": "Stitch_007_f",
+      "en": "You not like gift? Soka...",
+      "cz": "Nelíbí se ti dárek? Soko...",
+      "source": "pre_existing",
+      "original_cz": "Nelíbí se ti dárek? Soko..."
+    }
+  ],
+  "RemySpecialDeliveries_Stitch/Stitch_RPT_Remy_050_RPT_Remy_050_TalkTo02.locbin": [
+    {
+      "key": "Stitch_000_f",
+      "en": "{PlayerName}! Stitch hungry!",
+      "cz": "{PlayerName}! Stitch má hlad!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}! Stitch má hlad!"
+    },
+    {
+      "key": "Stitch_001_f",
+      "en": "Let's have lots of food with lots of friends.",
+      "cz": "Pojďme si dát hodně jídla s hodně přáteli.",
+      "source": "pre_existing",
+      "original_cz": "Pojďme si dát hodně jídla s hodně přáteli."
+    },
+    {
+      "key": "Player_000_f",
+      "en": "Why not come by for a party at the Fairy Godmother's House?",
+      "cz": "Proč se nepřijít podívat na večírek do domu kmotřičky víly?",
+      "source": "pre_existing",
+      "original_cz": "Proč se nepřijít podívat na večírek do domu kmotřičky víly?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "There will be lots of food.",
+      "cz": "Bude tam spousta jídla.",
+      "source": "pre_existing",
+      "original_cz": "Bude tam spousta jídla."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "There will be lots of friends.",
+      "cz": "Bude tam spousta přátel.",
+      "source": "pre_existing",
+      "original_cz": "Bude tam spousta přátel."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "There will be lots of food AND friends.",
+      "cz": "Bude tam spousta jídla A Přátel.",
+      "source": "pre_existing",
+      "original_cz": "Bude tam spousta jídla A Přátel."
+    },
+    {
+      "key": "Stitch_002_f",
+      "en": "Okitaka! Stitch see you at nice fairy lady's big pumpkin House.",
+      "cz": "Okitaka! Stitch, uvidíme se ve velkém dýňovém domě milé víly.",
+      "source": "pre_existing",
+      "original_cz": "Okitaka! Stitch, uvidíme se ve velkém dýňovém domě milé víly."
+    },
+    {
+      "key": "Stitch_003_f",
+      "en": "Stitch try not to bite House this time.",
+      "cz": "Stitch se tentokrát zkus House nekousnout.",
+      "source": "pre_existing",
+      "original_cz": "Stitch se tentokrát zkus House nekousnout."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "You... bit her House?",
+      "cz": "Ty... jsi ji kousl do domu?",
+      "source": "pre_existing",
+      "original_cz": "Ty... jsi ji kousl do domu?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Stitch! Watch your badness levels!",
+      "cz": "Stitch! Dávej si pozor na úroveň své špatnosti!",
+      "source": "pre_existing",
+      "original_cz": "Stitch! Dávej si pozor na úroveň své špatnosti!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "How did it taste?",
+      "cz": "Jak to chutnalo?",
+      "source": "pre_existing",
+      "original_cz": "Jak to chutnalo?"
+    },
+    {
+      "key": "Stitch_004_f",
+      "en": "Yeah. BLECH! It not taste good.",
+      "cz": "Jo. DO PRDELE! To nechutná dobře.",
+      "source": "pre_existing",
+      "original_cz": "Jo. DO PRDELE! To nechutná dobře."
+    },
+    {
+      "key": "Stitch_005_f",
+      "en": "Don't worry. Stitch not do that again.",
+      "cz": "Neboj se. Stitch to už nikdy neudělá.",
+      "source": "pre_existing",
+      "original_cz": "Neboj se. Stitch to už nikdy neudělá."
+    },
+    {
+      "key": "Stitch_006_f",
+      "en": "Her House taste icky. Blech!",
+      "cz": "Její kolej chutná hnusně. Blázen!",
+      "source": "pre_existing",
+      "original_cz": "Její kolej chutná hnusně. Blázen!"
+    },
+    {
+      "key": "Stitch_007_f",
+      "en": "Icky! Stitch not do that again. Blech!",
+      "cz": "Hnus! Stitch, ať to už neudělá. Bláh!",
+      "source": "pre_existing",
+      "original_cz": "Hnus! Stitch, ať to už neudělá. Bláh!"
+    }
+  ],
+  "RemySpecialDeliveries_Stitch/Stitch_RPT_Remy_060_RPT_Remy_060_BringItem01.locbin": [
+    {
+      "key": "Stitch_001_f",
+      "en": "Eegalagoo! This all for Stitch?",
+      "cz": "Eegalagoo! Tohle všechno kvůli Stitchovi?",
+      "source": "pre_existing",
+      "original_cz": "Eegalagoo! Tohle všechno kvůli Stitchovi?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Yep! Enjoy!",
+      "cz": "Jo! Užijte si to!",
+      "source": "pre_existing",
+      "original_cz": "Jo! Užijte si to!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Please don't eat this all at once.",
+      "cz": "Prosím, nejezte to všechno najednou.",
+      "source": "pre_existing",
+      "original_cz": "Prosím, nejezte to všechno najednou."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Stitch, do you realize how long this took me to cook?!",
+      "cz": "Stitchi, uvědomuješ si, jak dlouho mi to trvalo uvařit?!",
+      "source": "pre_existing",
+      "original_cz": "Stitchi, uvědomuješ si, jak dlouho mi to trvalo uvařit?!"
+    },
+    {
+      "key": "Stitch_002_f",
+      "en": "Doogaba!",
+      "cz": "Dugaba!",
+      "source": "pre_existing",
+      "original_cz": "Dugaba!"
+    },
+    {
+      "key": "Stitch_005_f",
+      "en": "Time to eat!",
+      "cz": "Čas jíst!",
+      "source": "pre_existing",
+      "original_cz": "Čas jíst!"
+    },
+    {
+      "key": "Stitch_000_f",
+      "en": "Oooohh. Hagga-blah-blah.",
+      "cz": "Oooohh. Hagga-bla-bla.",
+      "source": "pre_existing",
+      "original_cz": "Oooohh. Hagga-bla-bla."
+    },
+    {
+      "key": "Stitch_006_f",
+      "en": "Too much...",
+      "cz": "Příliš mnoho...",
+      "source": "pre_existing",
+      "original_cz": "Příliš mnoho..."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Maybe go lie down to digest.",
+      "cz": "Možná si jdi lehnout a strávit to.",
+      "source": "pre_existing",
+      "original_cz": "Možná si jdi lehnout a strávit to."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Please don't throw up everywhere.",
+      "cz": "Prosím, nezvracejte všude možně.",
+      "source": "pre_existing",
+      "original_cz": "Prosím, nezvracejte všude možně."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Did it taste good at least?",
+      "cz": "Chutnalo to alespoň dobře?",
+      "source": "pre_existing",
+      "original_cz": "Chutnalo to alespoň dobře?"
+    },
+    {
+      "key": "Stitch_008_f",
+      "en": "Yeah. Yeah, Stitch do that.",
+      "cz": "Jo. Jo, Stitch to udělá.",
+      "source": "pre_existing",
+      "original_cz": "Jo. Jo, Stitch to udělá."
+    },
+    {
+      "key": "Stitch_011_f",
+      "en": "Oh! For you. Takka. *groan*... *BURRRRRRRRRP* Ahh, that's better.",
+      "cz": "Ach! Pro tebe. Takka. *zasténání*... *BURRRRRRRRRP* Ááá, to je lepší.",
+      "source": "pre_existing",
+      "original_cz": "Ach! Pro tebe. Takka. *zasténání*... *BURRRRRRRRRP* Ááá, to je lepší."
+    },
+    {
+      "key": "Stitch_009_f",
+      "en": "Stitch... will try.",
+      "cz": "Stitch... zkusí to.",
+      "source": "pre_existing",
+      "original_cz": "Stitch... zkusí to."
+    },
+    {
+      "key": "Stitch_010_f",
+      "en": "SO good. But now Stitch feel SO bad.",
+      "cz": "TAK dobrý. Ale teď se Stitch cítí TAK špatně.",
+      "source": "pre_existing",
+      "original_cz": "TAK dobrý. Ale teď se Stitch cítí TAK špatně."
+    },
+    {
+      "key": "Stitch_003_f",
+      "en": "Don't worry. Stitch VERY hungry. It be okay.",
+      "cz": "Neboj se. Stitch má VELMI hlad. Bude to v pořádku.",
+      "source": "pre_existing",
+      "original_cz": "Neboj se. Stitch má VELMI hlad. Bude to v pořádku."
+    },
+    {
+      "key": "Stitch_004_f",
+      "en": "Soka. Stitch very, very hungry.",
+      "cz": "Soka. Stitch má velký, velký hlad.",
+      "source": "pre_existing",
+      "original_cz": "Soka. Stitch má velký, velký hlad."
+    }
+  ],
+  "RemySpecialDeliveries_Stitch/Stitch_RPT_Remy_060_RPT_Remy_060_BringItem02.locbin": [
+    {
+      "key": "Stitch_000_f",
+      "en": "Ooh. Takka, {PlayerName}.",
+      "cz": "Jé. Takka, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Jé. Takka, {PlayerName}."
+    },
+    {
+      "key": "Stitch_001_f",
+      "en": "Stinky fish is good to stink up Donald's House under his bed. Ah-ha-ha-ha-ha!",
+      "cz": "Smradlavá ryba je dobrá na to, aby zasmradila Donaldův dům pod jeho postelí. Ach-ha-ha-ha-ha!",
+      "source": "pre_existing",
+      "original_cz": "Smradlavá ryba je dobrá na to, aby zasmradila Donaldův dům pod jeho postelí. Ach-ha-ha-ha-ha!"
+    },
+    {
+      "key": "Stitch_002_f",
+      "en": "Oops! Um, Stitch just joking. Silly Stitch.",
+      "cz": "Jejda! Ehm, Stitch si jen dělá legraci. Hloupý Stitch.",
+      "source": "pre_existing",
+      "original_cz": "Jejda! Ehm, Stitch si jen dělá legraci. Hloupý Stitch."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Are you pranking Donald again?!",
+      "cz": "Zase si děláš z Donalda žert?!",
+      "source": "pre_existing",
+      "original_cz": "Zase si děláš z Donalda žert?!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Stitch. Watch those badness levels...",
+      "cz": "Stitch. Sleduj ty úrovně špatnosti...",
+      "source": "pre_existing",
+      "original_cz": "Stitch. Sleduj ty úrovně špatnosti..."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "What did Donald do to deserve this?",
+      "cz": "Čím si Donald tohle zasloužil?",
+      "source": "pre_existing",
+      "original_cz": "Čím si Donald tohle zasloužil?"
+    },
+    {
+      "key": "Stitch_003_f",
+      "en": "No... Um... Maybe?",
+      "cz": "Ne... Ehm... Možná?",
+      "source": "pre_existing",
+      "original_cz": "Ne... Ehm... Možná?"
+    },
+    {
+      "key": "Stitch_004_f",
+      "en": "Do not worry, {PlayerName}. Esa okitaka.",
+      "cz": "Neboj se, {PlayerName}. To je dobře.",
+      "source": "pre_existing",
+      "original_cz": "Neboj se, {PlayerName}. To je dobře."
+    },
+    {
+      "key": "Stitch_005_f",
+      "en": "Bye!",
+      "cz": "Ahoj!",
+      "source": "pre_existing",
+      "original_cz": "Ahoj!"
+    },
+    {
+      "key": "Stitch_006_f",
+      "en": "Oh, Stitch badness level good. Yeah.",
+      "cz": "Aha, úroveň špatnosti Stitche je dobrá. Jo.",
+      "source": "pre_existing",
+      "original_cz": "Aha, úroveň špatnosti Stitche je dobrá. Jo."
+    },
+    {
+      "key": "Stitch_007_f",
+      "en": "Donald say Stitch's fur stink when it rains. So Stitch show him something that REALLY stinks! Ha-ha-ha-ha!",
+      "cz": "Donald říkal, že Stitchova srst smrdí, když prší. Tak mu Stitch ukaž něco, co OPRAVDU smrdí! Ha-ha-ha-ha!",
+      "source": "pre_existing",
+      "original_cz": "Donald říkal, že Stitchova srst smrdí, když prší. Tak mu Stitch ukaž něco, co OPRAVDU smrdí! Ha-ha-ha-ha!"
+    }
+  ],
+  "RemySpecialDeliveries_Stitch/Stitch_RPT_Remy_060_RPT_Remy_060_BringItem03.locbin": [
+    {
+      "key": "Stitch_002_f",
+      "en": "Ooh! Takka, {PlayerName}. Gingerbread houses are very good.",
+      "cz": "Jé! Takka, {PlayerName}. Perníkové chaloupky jsou moc dobré.",
+      "source": "pre_existing",
+      "original_cz": "Jé! Takka, {PlayerName}. Perníkové chaloupky jsou moc dobré."
+    },
+    {
+      "key": "Stitch_000_f",
+      "en": "Stitch read story that say mean old witches who live in trees love gingerbread houses.",
+      "cz": "Stitch četl příběh, ve kterém se říká, že zlé staré čarodějnice, které žijí na stromech, milují perníkové chaloupky.",
+      "source": "pre_existing",
+      "original_cz": "Stitch četl příběh, ve kterém se říká, že zlé staré čarodějnice, které žijí na stromech, milují perníkové chaloupky."
+    },
+    {
+      "key": "Stitch_001_f",
+      "en": "So Stitch think... if Stitch get many gingerbread houses, Stitch make friend.",
+      "cz": "Takže si Stitch myslí... když Stitch nasbírá hodně perníkových chaloupek, Stitch si najde kamaráda.",
+      "source": "pre_existing",
+      "original_cz": "Takže si Stitch myslí... když Stitch nasbírá hodně perníkových chaloupek, Stitch si najde kamaráda."
+    },
+    {
+      "key": "Player_000_f",
+      "en": "Mean old lady who lives in a tree...",
+      "cz": "Zlá stará paní, která žije na stromě...",
+      "source": "pre_existing",
+      "original_cz": "Zlá stará paní, která žije na stromě..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Whoever could you mean?",
+      "cz": "Koho bys tím mohl myslet?",
+      "source": "pre_existing",
+      "original_cz": "Koho bys tím mohl myslet?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Oh no, Stitch. Do you mean Mother Gothel?",
+      "cz": "Ach ne, Stitchi. Myslíš Matku Gothel?",
+      "source": "pre_existing",
+      "original_cz": "Ach ne, Stitchi. Myslíš Matku Gothel?"
+    },
+    {
+      "key": "Stitch_004_f",
+      "en": "Follow me! See!",
+      "cz": "Pojď za mnou! Vidíš!",
+      "source": "pre_existing",
+      "original_cz": "Pojď za mnou! Vidíš!"
+    }
+  ],
+  "RemySpecialDeliveries_Stitch/Stitch_RPT_Remy_060_RPT_Remy_060_TalkTo02.locbin": [
+    {
+      "key": "Stitch_002_f",
+      "en": "Chuta. Mean lady so mean!",
+      "cz": "Chuta. Zlá ženská, tak zlá!",
+      "source": "pre_existing",
+      "original_cz": "Chuta. Zlá ženská, tak zlá!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "You okay, Stitch?",
+      "cz": "Jsi v pořádku, Stitchi?",
+      "source": "pre_existing",
+      "original_cz": "Jsi v pořádku, Stitchi?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "That was so rude of her.",
+      "cz": "To od ní bylo tak neslušné.",
+      "source": "pre_existing",
+      "original_cz": "To od ní bylo tak neslušné."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I guess you got the full \"mean old witch who lives in a tree\" experience.",
+      "cz": "Asi máš za sebou plnohodnotný zážitek ze hry „zlá stará čarodějnice, která žije na stromě“.",
+      "source": "pre_existing",
+      "original_cz": "Asi máš za sebou plnohodnotný zážitek ze hry „zlá stará čarodějnice, která žije na stromě“."
+    },
+    {
+      "key": "Stitch_003_f",
+      "en": "Esa okitaka. She little bit funny when she's mad.",
+      "cz": "Esa okitaka. Je trochu vtipná, když je naštvaná.",
+      "source": "pre_existing",
+      "original_cz": "Esa okitaka. Je trochu vtipná, když je naštvaná."
+    },
+    {
+      "key": "Stitch_001_f",
+      "en": "Now Stitch only give gifts to NICE old witches who live in trees.",
+      "cz": "Stitch teď dává dárky jen HODNÝM starým čarodějnicím, které žijí na stromech.",
+      "source": "pre_existing",
+      "original_cz": "Stitch teď dává dárky jen HODNÝM starým čarodějnicím, které žijí na stromech."
+    },
+    {
+      "key": "Stitch_000_f",
+      "en": "Emba-chua. Her badness level VERY high!",
+      "cz": "Emba-chua. Její úroveň zlosti je VELMI vysoká!",
+      "source": "pre_existing",
+      "original_cz": "Emba-chua. Její úroveň zlosti je VELMI vysoká!"
+    },
+    {
+      "key": "Stitch_004_f",
+      "en": "Yeah!",
+      "cz": "Jo!",
+      "source": "pre_existing",
+      "original_cz": "Jo!"
+    }
+  ]
+}

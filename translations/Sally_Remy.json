@@ -1,0 +1,123 @@
+{
+  "Sally_Remy/Remy_VLG_Sall_020_VLG_Sall_020_TalkTo01.locbin": [
+    {
+      "key": "Remy_001_f",
+      "en": "Hey Remy, got a bit of an unusual question for you.",
+      "cz": "Ahoj Remy, mám na tebe trochu neobvyklou otázku.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj Remy, mám na tebe trochu neobvyklou otázku."
+    },
+    {
+      "key": "Remy_002_f",
+      "en": "Sure, {PlayerName}. What's up?",
+      "cz": "Jasně, {PlayerName}. Co se děje?",
+      "source": "pre_existing",
+      "original_cz": "Jasně, {PlayerName}. Co se děje?"
+    },
+    {
+      "key": "Remy_003_f",
+      "en": "I'm helping Sally build a <ActivityItem>Compost Bin</ActivityItem>, and we need some <ActivityItem>Vegetable Trimmings</ActivityItem> to get things going.",
+      "cz": "Pomáhám Sally postavit <ActivityItem>kompost</ActivityItem> a potřebujeme nějaké <ActivityItem>zeleninové zbytky</ActivityItem>, abychom to rozjeli.",
+      "source": "pre_existing",
+      "original_cz": "Pomáhám Sally postavit <ActivityItem>kompost</ActivityItem> a potřebujeme nějaké <ActivityItem>zeleninové zbytky</ActivityItem>, abychom to rozjeli."
+    },
+    {
+      "key": "Remy_004_f",
+      "en": "Do you have any that we could take off of your hands?",
+      "cz": "Máte nějaké, které bychom vám mohli vzít k srdci?",
+      "source": "pre_existing",
+      "original_cz": "Máte nějaké, které bychom vám mohli vzít k srdci?"
+    },
+    {
+      "key": "Remy_005_f",
+      "en": "Absolutely!",
+      "cz": "Absolutně!",
+      "source": "pre_existing",
+      "original_cz": "Absolutně!"
+    },
+    {
+      "key": "Remy_006_f",
+      "en": "Don't get me wrong, {PlayerName} — I do my best to reduce food waste here.",
+      "cz": "Nechápejte mě špatně, {PlayerName} – dělám, co můžu, abych tady minimalizoval plýtvání potravinami.",
+      "source": "pre_existing",
+      "original_cz": "Nechápejte mě špatně, {PlayerName} – dělám, co můžu, abych tady minimalizoval plýtvání potravinami."
+    },
+    {
+      "key": "Remy_007_f",
+      "en": "But even at my most efficient, I still end up with piles of rinds, skins, and produce trimmings.",
+      "cz": "Ale i když jsem nejvýkonnější, pořád skončím s hromadami kůr, slupek a odřezků z ovoce a zeleniny.",
+      "source": "pre_existing",
+      "original_cz": "Ale i když jsem nejvýkonnější, pořád skončím s hromadami kůr, slupek a odřezků z ovoce a zeleniny."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I've never been so excited by potato peels!",
+      "cz": "Ještě nikdy jsem nebyl tak nadšený z bramborových slupek!",
+      "source": "pre_existing",
+      "original_cz": "Ještě nikdy jsem nebyl tak nadšený z bramborových slupek!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "They're... not already rotting, are they?",
+      "cz": "Oni... už nehnijí, že ne?",
+      "source": "pre_existing",
+      "original_cz": "Oni... už nehnijí, že ne?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Do I get paid as your new garbage-removal person?",
+      "cz": "Dostanu zaplaceno jako váš nový odvozce odpadu?",
+      "source": "pre_existing",
+      "original_cz": "Dostanu zaplaceno jako váš nový odvozce odpadu?"
+    },
+    {
+      "key": "Remy_010_f",
+      "en": "There are actually a lot of things you can do with potato skins in the kitchen.",
+      "cz": "V kuchyni se dá se s bramborovými slupkami dělat spousta věcí.",
+      "source": "pre_existing",
+      "original_cz": "V kuchyni se dá se s bramborovými slupkami dělat spousta věcí."
+    },
+    {
+      "key": "Remy_012_f",
+      "en": "But these carrot skins and other stuff are all yours.",
+      "cz": "Ale tyto mrkvové slupky a další věci jsou jen tvoje.",
+      "source": "pre_existing",
+      "original_cz": "Ale tyto mrkvové slupky a další věci jsou jen tvoje."
+    },
+    {
+      "key": "Remy_008_f",
+      "en": "Here you go. <ActivityItem>Vegetable Trimmings</ActivityItem> for you and Sally!",
+      "cz": "Tak tady to máš. <ActivityItem>Zeleninové ořezy</ActivityItem> pro tebe a Sally!",
+      "source": "pre_existing",
+      "original_cz": "Tak tady to máš. <ActivityItem>Zeleninové ořezy</ActivityItem> pro tebe a Sally!"
+    },
+    {
+      "key": "Remy_009_f",
+      "en": "Awesome, thanks Remy!",
+      "cz": "Paráda, díky, Remy!",
+      "source": "pre_existing",
+      "original_cz": "Paráda, díky, Remy!"
+    },
+    {
+      "key": "Remy_011_f",
+      "en": "No, no. These are just from the last day or so.",
+      "cz": "Ne, ne. Tohle je jen z posledního dne nebo tak nějak.",
+      "source": "pre_existing",
+      "original_cz": "Ne, ne. Tohle je jen z posledního dne nebo tak nějak."
+    },
+    {
+      "key": "Remy_013_f",
+      "en": "Sure! As long as you're happy getting paid in food.",
+      "cz": "Jasně! Hlavně, že ti chutná, když ti za to platí jídlo.",
+      "source": "pre_existing",
+      "original_cz": "Jasně! Hlavně, že ti chutná, když ti za to platí jídlo."
+    },
+    {
+      "key": "Remy_014_f",
+      "en": "Great!",
+      "cz": "Velký!",
+      "source": "pre_existing",
+      "original_cz": "Velký!"
+    }
+  ]
+}

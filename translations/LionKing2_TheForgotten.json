@@ -1,0 +1,405 @@
+{
+  "LionKing2_TheForgotten/TheForgotten_VLG_Timo_020_VLG_Timo_020_TalkTo05.locbin": [
+    {
+      "key": "TheForgotten_000_f",
+      "en": "Hello, {PlayerName}. What's wrong? You look worried.",
+      "cz": "Ahoj, {PlayerName}. Co se děje? Vypadáš ustaraně.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}. Co se děje? Vypadáš ustaraně."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Scar is plotting against you!",
+      "cz": "Scar proti tobě kuje pikle!",
+      "source": "pre_existing",
+      "original_cz": "Scar proti tobě kuje pikle!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Scar is manipulating you!",
+      "cz": "Scar s tebou manipuluje!",
+      "source": "pre_existing",
+      "original_cz": "Scar s tebou manipuluje!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I know you and Scar are working together!",
+      "cz": "Vím, že ty a Scar spolupracujete!",
+      "source": "pre_existing",
+      "original_cz": "Vím, že ty a Scar spolupracujete!"
+    },
+    {
+      "key": "TheForgotten_001_f",
+      "en": "Scar? Why would he be plotting against me?",
+      "cz": "Jizva? Proč by proti mně koval pikle?",
+      "source": "pre_existing",
+      "original_cz": "Jizva? Proč by proti mně koval pikle?"
+    },
+    {
+      "key": "TheForgotten_004_f",
+      "en": "Scar has been having secret meetings with Ursula and Mother Gothel, and I found these mysterious diary entries...",
+      "cz": "Scar se tajně scházel s Ursulou a Matkou Gothel a já jsem našel tyto záhadné deníkové záznamy...",
+      "source": "pre_existing",
+      "original_cz": "Scar se tajně scházel s Ursulou a Matkou Gothel a já jsem našel tyto záhadné deníkové záznamy..."
+    },
+    {
+      "key": "TheForgotten_005_f",
+      "en": "I even took some pictures!",
+      "cz": "Dokonce jsem udělal i pár fotek!",
+      "source": "pre_existing",
+      "original_cz": "Dokonce jsem udělal i pár fotek!"
+    },
+    {
+      "key": "TheForgotten_008_f",
+      "en": "Oh! No, {PlayerName}, you have it all wrong! No one is planning anything evil...",
+      "cz": "Ach ne! Ne, {PlayerName}, máš úplně špatně! Nikdo neplánuje nic zlého...",
+      "source": "pre_existing",
+      "original_cz": "Ach ne! Ne, {PlayerName}, máš úplně špatně! Nikdo neplánuje nic zlého..."
+    },
+    {
+      "key": "TheForgotten_009_f",
+      "en": "I introduced some of the Villagers to poetry recently!",
+      "cz": "Nedávno jsem seznámil některé vesničany s poezií!",
+      "source": "pre_existing",
+      "original_cz": "Nedávno jsem seznámil některé vesničany s poezií!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Seriously?!",
+      "cz": "Vážně?!",
+      "source": "pre_existing",
+      "original_cz": "Vážně?!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I should have known this was about poetry...",
+      "cz": "Měl jsem vědět, že je to o poezii...",
+      "source": "pre_existing",
+      "original_cz": "Měl jsem vědět, že je to o poezii..."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Are you SURE this isn't some grand evil scheme?",
+      "cz": "Jsi si JISTÝ, že tohle není nějaký velký zlý plán?",
+      "source": "pre_existing",
+      "original_cz": "Jsi si JISTÝ, že tohle není nějaký velký zlý plán?"
+    },
+    {
+      "key": "TheForgotten_011_f",
+      "en": "Yes, I thought it would help with some of the more difficult emotions around here.",
+      "cz": "Ano, myslel jsem, že by to mohlo pomoci s některými obtížnějšími emocemi tady.",
+      "source": "pre_existing",
+      "original_cz": "Ano, myslel jsem, že by to mohlo pomoci s některými obtížnějšími emocemi tady."
+    },
+    {
+      "key": "TheForgotten_010_f",
+      "en": "Scar really took to it, but he wanted to keep it quiet to \"protect his reputation.\" Maybe you noticed Scar's poem was handwritten? He dictated, and I wrote it out for him.",
+      "cz": "Scar si to opravdu oblíbil, ale chtěl to utajit, aby „ochránil svou pověst“. Možná jste si všimli, že Scarova báseň byla psaná ručně? Diktoval a já mu ji napsal.",
+      "source": "pre_existing",
+      "original_cz": "Scar si to opravdu oblíbil, ale chtěl to utajit, aby „ochránil svou pověst“. Možná jste si všimli, že Scarova báseň byla psaná ručně? Diktoval a já mu ji napsal."
+    },
+    {
+      "key": "TheForgotten_015_f",
+      "en": "Scar... writing poetry...",
+      "cz": "Jizva... psaní poezie...",
+      "source": "pre_existing",
+      "original_cz": "Jizva... psaní poezie..."
+    },
+    {
+      "key": "TheForgotten_016_f",
+      "en": "Timon is going to LOVE this!",
+      "cz": "Timonovi se to bude líbit!",
+      "source": "pre_existing",
+      "original_cz": "Timonovi se to bude líbit!"
+    },
+    {
+      "key": "TheForgotten_012_f",
+      "en": "Poetry has helped me deal with a lot of my difficult emotions.",
+      "cz": "Poezie mi pomohla vyrovnat se s mnoha mými těžkými emocemi.",
+      "source": "pre_existing",
+      "original_cz": "Poezie mi pomohla vyrovnat se s mnoha mými těžkými emocemi."
+    },
+    {
+      "key": "TheForgotten_013_f",
+      "en": "I'm sure.",
+      "cz": "Jsem si jistý/á.",
+      "source": "pre_existing",
+      "original_cz": "Jsem si jistý/á."
+    },
+    {
+      "key": "TheForgotten_014_f",
+      "en": "Poetry has helped me deal with a lot of my difficult emotions.",
+      "cz": "Poezie mi pomohla vyrovnat se s mnoha mými těžkými emocemi.",
+      "source": "pre_existing",
+      "original_cz": "Poezie mi pomohla vyrovnat se s mnoha mými těžkými emocemi."
+    },
+    {
+      "key": "TheForgotten_002_f",
+      "en": "What do you mean?",
+      "cz": "Co tím myslíš?",
+      "source": "pre_existing",
+      "original_cz": "Co tím myslíš?"
+    },
+    {
+      "key": "TheForgotten_003_f",
+      "en": "I wouldn't call it work...",
+      "cz": "Nenazval bych to prací...",
+      "source": "pre_existing",
+      "original_cz": "Nenazval bych to prací..."
+    },
+    {
+      "key": "TheForgotten_006_f",
+      "en": "But you admit it? So Scar doesn't want to overthrow you? You're actually plotting WITH him?",
+      "cz": "Ale přiznáváš to? Takže Scar tě nechce svrhnout? Opravdu s ním kuješ pikle?",
+      "source": "pre_existing",
+      "original_cz": "Ale přiznáváš to? Takže Scar tě nechce svrhnout? Opravdu s ním kuješ pikle?"
+    },
+    {
+      "key": "TheForgotten_007_f",
+      "en": "Wait, what are you talking about?",
+      "cz": "Počkej, o čem to mluvíš?",
+      "source": "pre_existing",
+      "original_cz": "Počkej, o čem to mluvíš?"
+    }
+  ],
+  "LionKing2_TheForgotten/TheForgotten_VLG_Timo_040_VLG_Timo_040_TalkTo03.locbin": [
+    {
+      "key": "TheForgotten_004_f",
+      "en": "Hey there... Timon and I need your help with something.",
+      "cz": "Ahoj... Timon a já potřebujeme s něčím tvou pomoc.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj... Timon a já potřebujeme s něčím tvou pomoc."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Have you noticed purple bugs everywhere?",
+      "cz": "Všimli jste si všude fialových brouků?",
+      "source": "pre_existing",
+      "original_cz": "Všimli jste si všude fialových brouků?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Are you busy?",
+      "cz": "Jste zaneprázdněn/a?",
+      "source": "pre_existing",
+      "original_cz": "Jste zaneprázdněn/a?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "By the way, should we keep calling you \"the Forgotten\"?",
+      "cz": "Mimochodem, měli bychom ti dál říkat „Zapomenutý“?",
+      "source": "pre_existing",
+      "original_cz": "Mimochodem, měli bychom ti dál říkat „Zapomenutý“?"
+    },
+    {
+      "key": "TheForgotten_006_f",
+      "en": "I did... But there's always something happening here. I wasn't sure if it was good strange or bad strange.",
+      "cz": "Udělal... Ale pořád se tu něco děje. Nebyl jsem si jistý, jestli je to dobré a divné, nebo špatné a divné.",
+      "source": "pre_existing",
+      "original_cz": "Udělal... Ale pořád se tu něco děje. Nebyl jsem si jistý, jestli je to dobré a divné, nebo špatné a divné."
+    },
+    {
+      "key": "TheForgotten_000_f",
+      "en": "The bugs are called Night Mites, and they're connected to the Night Thorns somehow.",
+      "cz": "Tyto brouci se nazývají Noční roztoči a nějakým způsobem souvisí s Nočními trny.",
+      "source": "pre_existing",
+      "original_cz": "Tyto brouci se nazývají Noční roztoči a nějakým způsobem souvisí s Nočními trny."
+    },
+    {
+      "key": "TheForgotten_014_f",
+      "en": "Timon and I found a nest, but my Dreamlight Magic can't remove it. Do you have any advice?",
+      "cz": "Timonovi a já jsme našli hnízdo, ale moje Kouzlo Světla Snů ho nedokáže odstranit. Máte nějakou radu?",
+      "source": "pre_existing",
+      "original_cz": "Timonovi a já jsme našli hnízdo, ale moje Kouzlo Světla Snů ho nedokáže odstranit. Máte nějakou radu?"
+    },
+    {
+      "key": "TheForgotten_015_f",
+      "en": "Sounds like you need something to boost your power.",
+      "cz": "Zní to, jako bys potřeboval něco na zvýšení své síly.",
+      "source": "pre_existing",
+      "original_cz": "Zní to, jako bys potřeboval něco na zvýšení své síly."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Sounds like you've got something in mind.",
+      "cz": "Zní to, jako byste měli něco na mysli.",
+      "source": "pre_existing",
+      "original_cz": "Zní to, jako byste měli něco na mysli."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Some sort of protein shake?",
+      "cz": "Nějaký proteinový koktejl?",
+      "source": "pre_existing",
+      "original_cz": "Nějaký proteinový koktejl?"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Can you give me a pep talk?",
+      "cz": "Můžeš mi dát povzbudivou řeč?",
+      "source": "pre_existing",
+      "original_cz": "Můžeš mi dát povzbudivou řeč?"
+    },
+    {
+      "key": "TheForgotten_017_f",
+      "en": "Heh. Did you read my mind...?",
+      "cz": "Heh. Četl jsi mi myšlenky...?",
+      "source": "pre_existing",
+      "original_cz": "Heh. Četl jsi mi myšlenky...?"
+    },
+    {
+      "key": "TheForgotten_019_f",
+      "en": "Before I tried to take over — well... you know. I was trying to improve my power. I made a tonic to try and amplify it.",
+      "cz": "Než jsem se pokusil převzít moc — no... víte. Snažil jsem se zlepšit svou moc. Vyrobil jsem si tonikum, abych ji zesílil.",
+      "source": "pre_existing",
+      "original_cz": "Než jsem se pokusil převzít moc — no... víte. Snažil jsem se zlepšit svou moc. Vyrobil jsem si tonikum, abych ji zesílil."
+    },
+    {
+      "key": "TheForgotten_020_f",
+      "en": "I think if you swap a few ingredients, it should give you what you need to remove the nests. I'll give you the formula.",
+      "cz": "Myslím, že když vyměníte pár ingrediencí, mělo by vám to dát to, co potřebujete k odstranění hnízd. Dám vám recept.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že když vyměníte pár ingrediencí, mělo by vám to dát to, co potřebujete k odstranění hnízd. Dám vám recept."
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "Anything else?",
+      "cz": "Ještě něco?",
+      "source": "pre_existing",
+      "original_cz": "Ještě něco?"
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "Thank you. You're the best!",
+      "cz": "Děkuji. Jste nejlepší!",
+      "source": "pre_existing",
+      "original_cz": "Děkuji. Jste nejlepší!"
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "You SURE you don't want a makeover sometime?",
+      "cz": "Jsi si jistá, že si někdy nechceš nechat udělat proměnu?",
+      "source": "pre_existing",
+      "original_cz": "Jsi si jistá, že si někdy nechceš nechat udělat proměnu?"
+    },
+    {
+      "key": "TheForgotten_024_f",
+      "en": "The bugs may have seen you coming and raised their defenses... So... You could dress like a giant bug.",
+      "cz": "Hmyz tě možná viděl přicházet a zvýšil svou obranu... Takže... Mohl by ses obléknout jako obří brouk.",
+      "source": "pre_existing",
+      "original_cz": "Hmyz tě možná viděl přicházet a zvýšil svou obranu... Takže... Mohl by ses obléknout jako obří brouk."
+    },
+    {
+      "key": "TheForgotten_026_f",
+      "en": "Um... Okay?!",
+      "cz": "Ehm... Dobře?!",
+      "source": "pre_existing",
+      "original_cz": "Ehm... Dobře?!"
+    },
+    {
+      "key": "TheForgotten_023_f",
+      "en": "Don't thank me yet. There's one last thing...",
+      "cz": "Ještě mi neděkuj. Ještě je tu jedna poslední věc...",
+      "source": "pre_existing",
+      "original_cz": "Ještě mi neděkuj. Ještě je tu jedna poslední věc..."
+    },
+    {
+      "key": "TheForgotten_025_f",
+      "en": "I feel like... This is who I am, for now. But speaking of makeovers...",
+      "cz": "Mám pocit, že... Prozatím jsem taková. Ale když už mluvíme o proměnách...",
+      "source": "pre_existing",
+      "original_cz": "Mám pocit, že... Prozatím jsem taková. Ale když už mluvíme o proměnách..."
+    },
+    {
+      "key": "TheForgotten_016_f",
+      "en": "Not exactly...",
+      "cz": "Ne tak docela...",
+      "source": "pre_existing",
+      "original_cz": "Ne tak docela..."
+    },
+    {
+      "key": "TheForgotten_018_f",
+      "en": "You, um... You'll do great. You always do.",
+      "cz": "Ty, ehm... Zvládneš to skvěle. Vždycky to zvládáš.",
+      "source": "pre_existing",
+      "original_cz": "Ty, ehm... Zvládneš to skvěle. Vždycky to zvládáš."
+    },
+    {
+      "key": "TheForgotten_005_f",
+      "en": "No. I finished revising my latest poem for my dark poetry circle.",
+      "cz": "Ne. Dokončil jsem revizi své poslední básně pro můj kroužek temné poezie.",
+      "source": "pre_existing",
+      "original_cz": "Ne. Dokončil jsem revizi své poslední básně pro můj kroužek temné poezie."
+    },
+    {
+      "key": "TheForgotten_012_f",
+      "en": "What do you need?",
+      "cz": "Co potřebujete?",
+      "source": "pre_existing",
+      "original_cz": "Co potřebujete?"
+    },
+    {
+      "key": "TheForgotten_013_f",
+      "en": "There are bugs called Night Mites all over the Valley, and they're connected to the Night Thorns somehow.",
+      "cz": "Po celém údolí se vyskytují brouci zvaní Noční roztoči, kteří nějakým způsobem souvisejí s Nočními trny.",
+      "source": "pre_existing",
+      "original_cz": "Po celém údolí se vyskytují brouci zvaní Noční roztoči, kteří nějakým způsobem souvisejí s Nočními trny."
+    },
+    {
+      "key": "TheForgotten_007_f",
+      "en": "Maybe we could call you something else?",
+      "cz": "Mohli bychom vám říkat jinak?",
+      "source": "pre_existing",
+      "original_cz": "Mohli bychom vám říkat jinak?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Something simple like \"Bob\" or \"Jill\"?",
+      "cz": "Něco jednoduchého jako „Bob“ nebo „Jill“?",
+      "source": "pre_existing",
+      "original_cz": "Něco jednoduchého jako „Bob“ nebo „Jill“?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Something dark like \"Raven\" or \"Shadow\"?",
+      "cz": "Něco temného jako „Havran“ nebo „Stín“?",
+      "source": "pre_existing",
+      "original_cz": "Něco temného jako „Havran“ nebo „Stín“?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "... ANYTHING else?",
+      "cz": "... NĚCO JEŠTĚ JEŠTĚ?",
+      "source": "pre_existing",
+      "original_cz": "... NĚCO JEŠTĚ JEŠTĚ?"
+    },
+    {
+      "key": "TheForgotten_009_f",
+      "en": "I don't think those really suit me.",
+      "cz": "Myslím, že mi tyhle moc nesluší.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že mi tyhle moc nesluší."
+    },
+    {
+      "key": "TheForgotten_011_f",
+      "en": "I'm okay with being the Forgotten for now.",
+      "cz": "Prozatím mi nevadí být Zapomenutý.",
+      "source": "pre_existing",
+      "original_cz": "Prozatím mi nevadí být Zapomenutý."
+    },
+    {
+      "key": "TheForgotten_008_f",
+      "en": "Those options actually are pretty cool...",
+      "cz": "Ty možnosti jsou vlastně docela fajn...",
+      "source": "pre_existing",
+      "original_cz": "Ty možnosti jsou vlastně docela fajn..."
+    },
+    {
+      "key": "TheForgotten_010_f",
+      "en": "Not really.",
+      "cz": "Ne tak docela.",
+      "source": "pre_existing",
+      "original_cz": "Ne tak docela."
+    }
+  ]
+}

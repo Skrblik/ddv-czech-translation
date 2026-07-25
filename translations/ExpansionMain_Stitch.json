@@ -1,0 +1,955 @@
+{
+  "ExpansionMain_Stitch/Stitch_Dialogues_Eager001.locbin": [
+    {
+      "key": "Stitch_000_f",
+      "en": "{PlayerName} play Scramblecoin with Stitch?",
+      "cz": "Hrá {PlayerName} Scramblecoin se Stitchem?",
+      "source": "pre_existing",
+      "original_cz": "Hrá {PlayerName} Scramblecoin se Stitchem?"
+    }
+  ],
+  "ExpansionMain_Stitch/Stitch_Dialogues_Postgame001.locbin": [
+    {
+      "key": "Stitch_000_f",
+      "en": "Aha!",
+      "cz": "Aha!",
+      "source": "pre_existing",
+      "original_cz": "Aha!"
+    },
+    {
+      "key": "Stitch_001_f",
+      "en": "{PlayerName} good. Stitch win next time!",
+      "cz": "{PlayerName} výborně. Příště vyhraje Stitch!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName} výborně. Příště vyhraje Stitch!"
+    },
+    {
+      "key": "Stitch_002_f",
+      "en": "Chi-ka! Stitch win! AH-HA-HA-HA!",
+      "cz": "Chi-ka! Stitch vyhrál! AH-HA-HA-HA!",
+      "source": "pre_existing",
+      "original_cz": "Chi-ka! Stitch vyhrál! AH-HA-HA-HA!"
+    }
+  ],
+  "ExpansionMain_Stitch/Stitch_Dialogues_Pregame001.locbin": [
+    {
+      "key": "Stitch_000_f",
+      "en": "Game time... Feeboogoo!",
+      "cz": "Čas hry... Fíbííí!",
+      "source": "pre_existing",
+      "original_cz": "Čas hry... Fíbííí!"
+    }
+  ],
+  "ExpansionMain_Stitch/Stitch_Discussions_Discussion014.locbin": [
+    {
+      "key": "Stitch_000_f",
+      "en": "{Placeholder}Is being Gaston's sidekick an okay experience?",
+      "cz": "{Placeholder}Je být Gastonovým pomocníkem v pořádku?",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Je být Gastonovým pomocníkem v pořádku?"
+    },
+    {
+      "key": "Stitch_001_f",
+      "en": "{Placeholder}Is fun!",
+      "cz": "{Placeholder}Je to zábava!",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Je to zábava!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "{Placeholder}That's good to hear!",
+      "cz": "{Placeholder}To rád slyším!",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}To rád slyším!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "{Placeholder}... Really?",
+      "cz": "{Zástupný symbol}... Vážně?",
+      "source": "pre_existing",
+      "original_cz": "{Zástupný symbol}... Vážně?"
+    },
+    {
+      "key": "Stitch_002_f",
+      "en": "{Placeholder}I certainly wasn't expecting that.",
+      "cz": "{Placeholder}Tohle jsem rozhodně nečekal.",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Tohle jsem rozhodně nečekal."
+    },
+    {
+      "key": "Stitch_003_f",
+      "en": "{Placeholder}Oh ya, Stitch understand something.",
+      "cz": "{Placeholder}Jo, Stitch něco chápe.",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Jo, Stitch něco chápe."
+    },
+    {
+      "key": "Stitch_004_f",
+      "en": "{Placeholder}Sidekicks not for running errands.",
+      "cz": "{Placeholder}Pomůžkáři ne pro vyřizování pochůzek.",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Pomůžkáři ne pro vyřizování pochůzek."
+    },
+    {
+      "key": "Stitch_005_f",
+      "en": "{Placeholder}Sidekicks for challenging heroes and make them better!",
+      "cz": "{Placeholder}Pomocníci pro náročné hrdiny a jejich vylepšení!",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Pomocníci pro náročné hrdiny a jejich vylepšení!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "{Placeholder}That's one way to look at it!",
+      "cz": "{Placeholder}To je jeden způsob, jak se na to dívat!",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}To je jeden způsob, jak se na to dívat!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "{Placeholder}How does Gaston feel about that?",
+      "cz": "{Placeholder}Co si o tom myslí Gaston?",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Co si o tom myslí Gaston?"
+    },
+    {
+      "key": "Stitch_006_f",
+      "en": "{Placeholder}Poodja cha-bagga!",
+      "cz": "{Zástupný symbol}Pudža ča baga!",
+      "source": "pre_existing",
+      "original_cz": "{Zástupný symbol}Pudža ča baga!"
+    },
+    {
+      "key": "Stitch_007_f",
+      "en": "{Placeholder}Gaston not understand yet how sidekick supposed to work.",
+      "cz": "{Placeholder}Gaston ještě nechápe, jak má pomocník fungovat.",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Gaston ještě nechápe, jak má pomocník fungovat."
+    },
+    {
+      "key": "Stitch_008_f",
+      "en": "{Placeholder}But I try to teach him; don't worry.",
+      "cz": "{Placeholder}Ale snažím se ho to naučit, neboj se.",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Ale snažím se ho to naučit, neboj se."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "{Placeholder}I bet he loves that...",
+      "cz": "{Placeholder}Vsadím se, že to miluje...",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Vsadím se, že to miluje..."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "{Placeholder}How is he reacting to that?",
+      "cz": "{Placeholder}Jak na to reaguje?",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Jak na to reaguje?"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "{Placeholder}Keep at it!",
+      "cz": "{Placeholder}Pokračujte v tom!",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Pokračujte v tom!"
+    },
+    {
+      "key": "Stitch_009_f",
+      "en": "{Placeholder}Stitch help with Gaston's badness levels; you see!",
+      "cz": "{Placeholder}Stitch pomáhá s Gastonovými úrovněmi zlosti; vidíš!",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Stitch pomáhá s Gastonovými úrovněmi zlosti; vidíš!"
+    },
+    {
+      "key": "Stitch_010_f",
+      "en": "{Placeholder}Ha!",
+      "cz": "{Zástupný symbol}Ha!",
+      "source": "pre_existing",
+      "original_cz": "{Zástupný symbol}Ha!"
+    },
+    {
+      "key": "Stitch_011_f",
+      "en": "{Placeholder}Are you okay with having lost?",
+      "cz": "{Placeholder}Jsi v pohodě s tím, že jsi prohrál/a?",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Jsi v pohodě s tím, že jsi prohrál/a?"
+    },
+    {
+      "key": "Stitch_012_f",
+      "en": "{Placeholder}Ya.",
+      "cz": "{Zástupný symbol}Ano.",
+      "source": "pre_existing",
+      "original_cz": "{Zástupný symbol}Ano."
+    },
+    {
+      "key": "Stitch_013_f",
+      "en": "{Placeholder}Stitch go say \"hello\" sometimes.",
+      "cz": "{Placeholder}Stitch, občas jdi pozdravit.",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Stitch, občas jdi pozdravit."
+    },
+    {
+      "key": "Stitch_014_f",
+      "en": "{Placeholder}And he lifting sticks with Olaf?",
+      "cz": "{Placeholder}A zvedá klacky s Olafem?",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}A zvedá klacky s Olafem?"
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "{Placeholder}They're working out together!",
+      "cz": "{Placeholder}Cvičí spolu!",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Cvičí spolu!"
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "{Placeholder}Oh, not surprised...",
+      "cz": "{Placeholder}To mě nepřekvapuje...",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}To mě nepřekvapuje..."
+    },
+    {
+      "key": "Stitch_015_f",
+      "en": "{Placeholder}Do you want to work out with them too?",
+      "cz": "{Placeholder}Chceš si s nimi taky zacvičit?",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Chceš si s nimi taky zacvičit?"
+    },
+    {
+      "key": "Stitch_016_f",
+      "en": "{Placeholder}I'm sure Gaston would be happy to have more people interested in joining!",
+      "cz": "{Placeholder}Jsem si jistý, že by Gaston byl rád, kdyby se o něj zajímalo více lidí!",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Jsem si jistý, že by Gaston byl rád, kdyby se o něj zajímalo více lidí!"
+    },
+    {
+      "key": "Stitch_017_f",
+      "en": "{Placeholder}Mmm nah, I already strong.",
+      "cz": "{Placeholder}Mmm ne, už jsem silný.",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Mmm ne, už jsem silný."
+    },
+    {
+      "key": "Stitch_018_f",
+      "en": "{Placeholder}Gaston seem like he need a sidekick like Olaf?",
+      "cz": "{Placeholder}Zdá se, že Gaston potřebuje pomocníka jako Olaf?",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Zdá se, že Gaston potřebuje pomocníka jako Olaf?"
+    },
+    {
+      "key": "Stitch_019_f",
+      "en": "{Placeholder}Stitch no sidekick; Stitch important!",
+      "cz": "{Placeholder}Steh není pomocník; Steh je důležitý!",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Steh není pomocník; Steh je důležitý!"
+    },
+    {
+      "key": "Player_004_choice_000_f",
+      "en": "{Placeholder}That's the spirit!",
+      "cz": "{Placeholder}To je ta správná duše!",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}To je ta správná duše!"
+    },
+    {
+      "key": "Player_004_choice_001_f",
+      "en": "{Placeholder}Yeah, Gaston wouldn't be happy with that.",
+      "cz": "{Placeholder}Jo, Gaston by s tím nebyl spokojený.",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Jo, Gaston by s tím nebyl spokojený."
+    },
+    {
+      "key": "Stitch_020_f",
+      "en": "{Placeholder}Maybe better role is... friend?",
+      "cz": "{Placeholder}Možná lepší role je... přítel?",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Možná lepší role je... přítel?"
+    },
+    {
+      "key": "Stitch_021_f",
+      "en": "{Placeholder}Say \"hello\" and \"noogy bay\"; help with badness levels.",
+      "cz": "{Placeholder}Řekněte „ahoj“ a „noogy bay“; pomozte s úrovněmi špatnosti.",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Řekněte „ahoj“ a „noogy bay“; pomozte s úrovněmi špatnosti."
+    },
+    {
+      "key": "Stitch_022_f",
+      "en": "{Placeholder}Then Stitch do his own thing.",
+      "cz": "{Placeholder}Pak si Stitch udělá, co chce.",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Pak si Stitch udělá, co chce."
+    },
+    {
+      "key": "Stitch_023_f",
+      "en": "{Placeholder}Very sensible!",
+      "cz": "{Placeholder}Velmi rozumné!",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Velmi rozumné!"
+    }
+  ],
+  "ExpansionMain_Stitch/Stitch_VLG_EVE_040_VLG_EVE_040_BringItem03.locbin": [
+    {
+      "key": "Stitch_000_f",
+      "en": "Stitch's sock collection! Takka, {PlayerName}!",
+      "cz": "Stitchova kolekce ponožek! Takka, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Stitchova kolekce ponožek! Takka, {PlayerName}!"
+    },
+    {
+      "key": "Stitch_001_f",
+      "en": "Old Beard Man say fireworks need <ActivityItem>Dream Shards</ActivityItem> and <ActivityItem>Red Pitcher Plants</ActivityItem>.",
+      "cz": "Starý vousáč říká, že ohňostroj potřebuje <ActivityItem>Střepy snů</ActivityItem> a <ActivityItem>Červené džbánky</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Starý vousáč říká, že ohňostroj potřebuje <ActivityItem>Střepy snů</ActivityItem> a <ActivityItem>Červené džbánky</ActivityItem>."
+    },
+    {
+      "key": "Stitch_004_f",
+      "en": "Smaller boom, but more safe.",
+      "cz": "Menší výložník, ale bezpečnější.",
+      "source": "pre_existing",
+      "original_cz": "Menší výložník, ale bezpečnější."
+    },
+    {
+      "key": "Stitch_002_f",
+      "en": "Thanks, Stitch. It'll help a lot.",
+      "cz": "Díky, Stitchi. Moc ti to pomůže.",
+      "source": "pre_existing",
+      "original_cz": "Díky, Stitchi. Moc ti to pomůže."
+    },
+    {
+      "key": "Stitch_003_f",
+      "en": "You're welcome.",
+      "cz": "Není zač.",
+      "source": "pre_existing",
+      "original_cz": "Není zač."
+    }
+  ],
+  "ExpansionMain_Stitch/Stitch_VLG_EVE_040_VLG_EVE_040_TalkTo01.locbin": [
+    {
+      "key": "Stitch_001_f",
+      "en": "Hi, achi-baba! What you want from Stitch?",
+      "cz": "Ahoj, Achi-baba! Co chceš od Stitche?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, Achi-baba! Co chceš od Stitche?"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "Fireworks...",
+      "cz": "Ohňostroj...",
+      "source": "pre_existing",
+      "original_cz": "Ohňostroj..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "That's a great idea!",
+      "cz": "To je skvělý nápad!",
+      "source": "pre_existing",
+      "original_cz": "To je skvělý nápad!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "The other Villagers would love that!",
+      "cz": "Ostatní vesničané by to milovali!",
+      "source": "pre_existing",
+      "original_cz": "Ostatní vesničané by to milovali!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Anything to avoid EVE setting fire to something else.",
+      "cz": "Cokoli, aby se zabránilo tomu, že EVE zapálí něco jiného.",
+      "source": "pre_existing",
+      "original_cz": "Cokoli, aby se zabránilo tomu, že EVE zapálí něco jiného."
+    },
+    {
+      "key": "Stitch_002_f",
+      "en": "Do you know who EVE is?",
+      "cz": "Víš, kdo je EVA?",
+      "source": "pre_existing",
+      "original_cz": "Víš, kdo je EVA?"
+    },
+    {
+      "key": "Stitch_003_f",
+      "en": "EVE! Yeah! Yeah!",
+      "cz": "EVA! Jo! Jo!",
+      "source": "pre_existing",
+      "original_cz": "EVA! Jo! Jo!"
+    },
+    {
+      "key": "Stitch_004_f",
+      "en": "EVE fly and make things go...",
+      "cz": "EVA létá a rozjíždí věci...",
+      "source": "pre_existing",
+      "original_cz": "EVA létá a rozjíždí věci..."
+    },
+    {
+      "key": "Stitch_005_f",
+      "en": "...BOOM!",
+      "cz": "...BUM!",
+      "source": "pre_existing",
+      "original_cz": "...BUM!"
+    },
+    {
+      "key": "Stitch_006_f",
+      "en": "That's her. Well, she's looking for something a little more exciting to do, and I was thinking that you two could—",
+      "cz": "To je ona. No, hledá něco trochu vzrušujícího, co by mohla dělat, a já si říkal, že byste vy dva mohli—",
+      "source": "pre_existing",
+      "original_cz": "To je ona. No, hledá něco trochu vzrušujícího, co by mohla dělat, a já si říkal, že byste vy dva mohli—"
+    },
+    {
+      "key": "Stitch_007_f",
+      "en": "Stitch has idea! Stitch talk to Old Beard Man.",
+      "cz": "Stitch má nápad! Stitch si promluv se Starým Vousáčem.",
+      "source": "pre_existing",
+      "original_cz": "Stitch má nápad! Stitch si promluv se Starým Vousáčem."
+    },
+    {
+      "key": "Stitch_008_f",
+      "en": "Old Beard Man? Do you mean... Merlin?",
+      "cz": "Starý vousatý muž? Myslíš... Merlina?",
+      "source": "pre_existing",
+      "original_cz": "Starý vousatý muž? Myslíš... Merlina?"
+    },
+    {
+      "key": "Stitch_009_f",
+      "en": "Yeah! Make fireworks. Pretty rockets that go boom!",
+      "cz": "Jo! Udělej ohňostroj. Krásné rakety, které bum!",
+      "source": "pre_existing",
+      "original_cz": "Jo! Udělej ohňostroj. Krásné rakety, které bum!"
+    },
+    {
+      "key": "Stitch_010_f",
+      "en": "Feeboogoo!",
+      "cz": "Fíbííí!",
+      "source": "pre_existing",
+      "original_cz": "Fíbííí!"
+    },
+    {
+      "key": "Stitch_013_f",
+      "en": "Old Beard Man gave Stitch <ActivityItem>Recipe</ActivityItem> and one Ingredient... <ActivityItem>Cactus Powder</ActivityItem>. Here.",
+      "cz": "Starý vousáč dal Stitchovi <ActivityItem>Recept</ActivityItem> a jednu ingredienci... <ActivityItem>Kaktusový prášek</ActivityItem>. Zde.",
+      "source": "pre_existing",
+      "original_cz": "Starý vousáč dal Stitchovi <ActivityItem>Recept</ActivityItem> a jednu ingredienci... <ActivityItem>Kaktusový prášek</ActivityItem>. Zde."
+    },
+    {
+      "key": "Stitch_000_f",
+      "en": "Wait, Merlin gave YOU a <ActivityItem>Fireworks Recipe</ActivityItem>? That's surprising...",
+      "cz": "Počkej, Merlin ti dal <ActivityItem>Recept na ohňostroj</ActivityItem>? To je překvapivé...",
+      "source": "pre_existing",
+      "original_cz": "Počkej, Merlin ti dal <ActivityItem>Recept na ohňostroj</ActivityItem>? To je překvapivé..."
+    },
+    {
+      "key": "Stitch_014_f",
+      "en": "Old Beard Man leave for Stitch on desk under books. Stitch borrow. No problem!",
+      "cz": "Starý vousatý muž nechal Stitche na stole pod knihami. Stitch si půjčí. Žádný problém!",
+      "source": "pre_existing",
+      "original_cz": "Starý vousatý muž nechal Stitche na stole pod knihami. Stitch si půjčí. Žádný problém!"
+    },
+    {
+      "key": "Stitch_015_f",
+      "en": "Uh... sounds more like you took it from him, but we'll deal with that later. For now, I'll go talk to EVE about this project.",
+      "cz": "Ehm... spíš to zní, jako bys mu to vzal, ale tím se budeme zabývat později. Prozatím si o tomhle projektu promluvím s EVE.",
+      "source": "pre_existing",
+      "original_cz": "Ehm... spíš to zní, jako bys mu to vzal, ale tím se budeme zabývat později. Prozatím si o tomhle projektu promluvím s EVE."
+    },
+    {
+      "key": "Stitch_011_f",
+      "en": "Yes. Stitch thinks so too.",
+      "cz": "Ano. Stitch si to taky myslí.",
+      "source": "pre_existing",
+      "original_cz": "Ano. Stitch si to taky myslí."
+    },
+    {
+      "key": "Stitch_012_f",
+      "en": "Pretty rockets explode in sky. No fires.",
+      "cz": "Krásné rakety explodují na obloze. Žádné ohně.",
+      "source": "pre_existing",
+      "original_cz": "Krásné rakety explodují na obloze. Žádné ohně."
+    }
+  ],
+  "ExpansionMain_Stitch/Stitch_VLG_EVE_040_VLG_EVE_040_TalkTo08.locbin": [
+    {
+      "key": "Stitch_001_f",
+      "en": "Big BOOM! Ha-ha-ha-ha-ha!",
+      "cz": "Velký BUM! Ha-ha-ha-ha-ha-ha!",
+      "source": "pre_existing",
+      "original_cz": "Velký BUM! Ha-ha-ha-ha-ha-ha!"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "Yes, the <ActivityItem>Experimental Fireworks</ActivityItem> made a big boom. But EVE was scared...",
+      "cz": "Ano, <ActivityItem>Experimentální ohňostroj</ActivityItem> způsobil velký rozruch. Ale EVE se bála...",
+      "source": "pre_existing",
+      "original_cz": "Ano, <ActivityItem>Experimentální ohňostroj</ActivityItem> způsobil velký rozruch. Ale EVE se bála..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "And frankly, so was I...",
+      "cz": "A upřímně řečeno, já taky...",
+      "source": "pre_existing",
+      "original_cz": "A upřímně řečeno, já taky..."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "It's not safe right now.",
+      "cz": "Teď to není bezpečné.",
+      "source": "pre_existing",
+      "original_cz": "Teď to není bezpečné."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "And even if I had fun, that's not what I want.",
+      "cz": "A i kdybych se bavil, není to to, co chci.",
+      "source": "pre_existing",
+      "original_cz": "A i kdybych se bavil, není to to, co chci."
+    },
+    {
+      "key": "Stitch_002_f",
+      "en": "Oh...",
+      "cz": "Ach...",
+      "source": "pre_existing",
+      "original_cz": "Ach..."
+    },
+    {
+      "key": "Stitch_006_f",
+      "en": "Stitch didn't want to scare {PlayerName}.",
+      "cz": "Stitch nechtěl vyděsit {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Stitch nechtěl vyděsit {PlayerName}."
+    },
+    {
+      "key": "Stitch_007_f",
+      "en": "It's okay, Stitch.",
+      "cz": "To je v pořádku, Stitchi.",
+      "source": "pre_existing",
+      "original_cz": "To je v pořádku, Stitchi."
+    },
+    {
+      "key": "Stitch_008_f",
+      "en": "Can you help me make the fireworks more safe?",
+      "cz": "Můžete mi pomoct zajistit bezpečnější ohňostroj?",
+      "source": "pre_existing",
+      "original_cz": "Můžete mi pomoct zajistit bezpečnější ohňostroj?"
+    },
+    {
+      "key": "Stitch_009_f",
+      "en": "Yes. Can you help Stitch too? Stitch is looking for <ActivityItem>Socks</ActivityItem>. Left them here before Forgetting.",
+      "cz": "Ano. Můžeš taky pomoct Stitchovi? Stitch hledá <ActivityItem>Ponožky</ActivityItem>. Nechal je tady, než Zapomněl.",
+      "source": "pre_existing",
+      "original_cz": "Ano. Můžeš taky pomoct Stitchovi? Stitch hledá <ActivityItem>Ponožky</ActivityItem>. Nechal je tady, než Zapomněl."
+    },
+    {
+      "key": "Stitch_010_f",
+      "en": "You look for <ActivityItem>Socks</ActivityItem>, and Stitch talk to Old Beard Man about fireworks?",
+      "cz": "Hledáš <ActivityItem>Ponožky</ActivityItem> a Stitch si s Dědkem s vousy promluví o ohňostrojích?",
+      "source": "pre_existing",
+      "original_cz": "Hledáš <ActivityItem>Ponožky</ActivityItem> a Stitch si s Dědkem s vousy promluví o ohňostrojích?"
+    },
+    {
+      "key": "Stitch_011_f",
+      "en": "Okitaka?",
+      "cz": "Okitaka?",
+      "source": "pre_existing",
+      "original_cz": "Okitaka?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Okitaka!",
+      "cz": "Okitaka!",
+      "source": "pre_existing",
+      "original_cz": "Okitaka!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Sure!",
+      "cz": "Jistě!",
+      "source": "pre_existing",
+      "original_cz": "Jistě!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Anything to avoid talking to Merlin.",
+      "cz": "Cokoli, jen abych se vyhnul rozhovoru s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Cokoli, jen abych se vyhnul rozhovoru s Merlinem."
+    },
+    {
+      "key": "Stitch_013_f",
+      "en": "Akatoo-keeee!",
+      "cz": "Akatoo-kééé!",
+      "source": "pre_existing",
+      "original_cz": "Akatoo-kééé!"
+    },
+    {
+      "key": "Stitch_016_f",
+      "en": "I'll get you your <ActivityItem>Socks</ActivityItem>. I'm guessing I'll need my Hourglass to find them...",
+      "cz": "Přinesu ti tvoje <ActivityItem>Ponožky</ActivityItem>. Hádám, že k jejich nalezení budu potřebovat přesýpací hodiny...",
+      "source": "pre_existing",
+      "original_cz": "Přinesu ti tvoje <ActivityItem>Ponožky</ActivityItem>. Hádám, že k jejich nalezení budu potřebovat přesýpací hodiny..."
+    },
+    {
+      "key": "Stitch_000_f",
+      "en": "Old Beard Man said <ActivityItem>Socks</ActivityItem> lost in time... Stitch bad to leave them all over Island...",
+      "cz": "Starý vousatý muž řekl, že <ActivityItem>Ponožky</ActivityItem> jsou ztracené v čase... Stitch je hrozný, že je nechává po celém ostrově...",
+      "source": "pre_existing",
+      "original_cz": "Starý vousatý muž řekl, že <ActivityItem>Ponožky</ActivityItem> jsou ztracené v čase... Stitch je hrozný, že je nechává po celém ostrově..."
+    },
+    {
+      "key": "Stitch_015_f",
+      "en": "Oojooba!",
+      "cz": "Oojooba!",
+      "source": "pre_existing",
+      "original_cz": "Oojooba!"
+    },
+    {
+      "key": "Stitch_003_f",
+      "en": "Oh. Stitch sorry.",
+      "cz": "Ach. Promiň, Stitchi.",
+      "source": "pre_existing",
+      "original_cz": "Ach. Promiň, Stitchi."
+    },
+    {
+      "key": "Stitch_005_f",
+      "en": "You don't need to apologize! It's not your fault. I was just wondering...",
+      "cz": "Nemusíš se omlouvat! Není to tvoje chyba. Jen jsem se chtěl zeptat...",
+      "source": "pre_existing",
+      "original_cz": "Nemusíš se omlouvat! Není to tvoje chyba. Jen jsem se chtěl zeptat..."
+    },
+    {
+      "key": "Stitch_004_f",
+      "en": "Ogata...",
+      "cz": "Ogata...",
+      "source": "pre_existing",
+      "original_cz": "Ogata..."
+    }
+  ],
+  "ExpansionMain_Stitch/Stitch_VLG_Gast_040_VLG_Gast_040_BringItem01.locbin": [
+    {
+      "key": "Stitch_001_f",
+      "en": "Here you go: one Gastonian breakfast, à la Stitch!",
+      "cz": "Tady to máte: jedna gastonská snídaně ve stylu Stitche!",
+      "source": "pre_existing",
+      "original_cz": "Tady to máte: jedna gastonská snídaně ve stylu Stitche!"
+    },
+    {
+      "key": "Stitch_002_f",
+      "en": "Takka! Smells good with coffee!",
+      "cz": "Takka! Kávově to voní dobře!",
+      "source": "pre_existing",
+      "original_cz": "Takka! Kávově to voní dobře!"
+    },
+    {
+      "key": "Stitch_003_f",
+      "en": "Stitch go bring to Gaston now.",
+      "cz": "Stitch, běž to hned přinést Gastonovi.",
+      "source": "pre_existing",
+      "original_cz": "Stitch, běž to hned přinést Gastonovi."
+    },
+    {
+      "key": "Stitch_004_f",
+      "en": "All right, good luck!",
+      "cz": "Dobře, hodně štěstí!",
+      "source": "pre_existing",
+      "original_cz": "Dobře, hodně štěstí!"
+    },
+    {
+      "key": "Stitch_005_f",
+      "en": "Don't need luck; have coffee!",
+      "cz": "Nepotřebuješ štěstí; dej si kávu!",
+      "source": "pre_existing",
+      "original_cz": "Nepotřebuješ štěstí; dej si kávu!"
+    }
+  ],
+  "ExpansionMain_Stitch/Stitch_VLG_Gast_040_VLG_Gast_040_TalkTo01.locbin": [
+    {
+      "key": "Stitch_001_f",
+      "en": "Stitch, do you have a moment?",
+      "cz": "Stitchi, máš chvilku?",
+      "source": "pre_existing",
+      "original_cz": "Stitchi, máš chvilku?"
+    },
+    {
+      "key": "Stitch_002_f",
+      "en": "Stitch have lots of moments!",
+      "cz": "Stitch má spoustu momentů!",
+      "source": "pre_existing",
+      "original_cz": "Stitch má spoustu momentů!"
+    },
+    {
+      "key": "Stitch_003_f",
+      "en": "Great! Gaston is looking to audition sidekicks — are you maybe interested?",
+      "cz": "Skvělé! Gaston hledá pomocníky na konkurz – máte snad zájem?",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Gaston hledá pomocníky na konkurz – máte snad zájem?"
+    },
+    {
+      "key": "Stitch_004_f",
+      "en": "Sidekick? What is a sidekick?",
+      "cz": "Partner? Co je to parťák?",
+      "source": "pre_existing",
+      "original_cz": "Partner? Co je to parťák?"
+    },
+    {
+      "key": "Stitch_005_f",
+      "en": "It's like a cross between a friend and an assistant.",
+      "cz": "Je to jako kříženec mezi přítelem a asistentem.",
+      "source": "pre_existing",
+      "original_cz": "Je to jako kříženec mezi přítelem a asistentem."
+    },
+    {
+      "key": "Stitch_006_f",
+      "en": "And you'll be competing with some others to win the spot.",
+      "cz": "A budeš soutěžit s dalšími o to místo.",
+      "source": "pre_existing",
+      "original_cz": "A budeš soutěžit s dalšími o to místo."
+    },
+    {
+      "key": "Stitch_007_f",
+      "en": "Ohhh, Stitch very good at competitions!",
+      "cz": "Jé, Stitch je v soutěžích skvělý!",
+      "source": "pre_existing",
+      "original_cz": "Jé, Stitch je v soutěžích skvělý!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "So that's a \"yes\"?",
+      "cz": "Takže to je „ano“?",
+      "source": "pre_existing",
+      "original_cz": "Takže to je „ano“?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "You're sure you're cool with Gaston?",
+      "cz": "Jsi si jistý, že ti Gaston nevadí?",
+      "source": "pre_existing",
+      "original_cz": "Jsi si jistý, že ti Gaston nevadí?"
+    },
+    {
+      "key": "Stitch_008_f",
+      "en": "Yeah! Hoogada!",
+      "cz": "Jo! Hoogada!",
+      "source": "pre_existing",
+      "original_cz": "Jo! Hoogada!"
+    },
+    {
+      "key": "Stitch_012_f",
+      "en": "All right, I'll tell Gaston that you're interested.",
+      "cz": "Dobře, řeknu Gastonovi, že máš zájem.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, řeknu Gastonovi, že máš zájem."
+    },
+    {
+      "key": "Stitch_009_f",
+      "en": "Gaston badness level high?",
+      "cz": "Gaston má vysokou úroveň zlosti?",
+      "source": "pre_existing",
+      "original_cz": "Gaston má vysokou úroveň zlosti?"
+    },
+    {
+      "key": "Stitch_010_f",
+      "en": "Sometimes, yeah. It's an ongoing struggle for him.",
+      "cz": "Někdy ano. Je to pro něj neustálý boj.",
+      "source": "pre_existing",
+      "original_cz": "Někdy ano. Je to pro něj neustálý boj."
+    },
+    {
+      "key": "Stitch_011_f",
+      "en": "Stitch help! Acha-kaba!",
+      "cz": "Pomoc se stehy! Acha-kaba!",
+      "source": "pre_existing",
+      "original_cz": "Pomoc se stehy! Acha-kaba!"
+    }
+  ],
+  "ExpansionMain_Stitch/Stitch_VLG_Gast_040_VLG_Gast_040_TalkTo03.locbin": [
+    {
+      "key": "Stitch_001_f",
+      "en": "Stitch, you're officially a candidate for Gaston's new sidekick!",
+      "cz": "Stitchi, jsi oficiálně kandidátem na Gastonova nového parťáka!",
+      "source": "pre_existing",
+      "original_cz": "Stitchi, jsi oficiálně kandidátem na Gastonova nového parťáka!"
+    },
+    {
+      "key": "Stitch_003_f",
+      "en": "Eegalagoo! Stitch will win!",
+      "cz": "Eegalagoo! Stitch vyhraje!",
+      "source": "pre_existing",
+      "original_cz": "Eegalagoo! Stitch vyhraje!"
+    },
+    {
+      "key": "Stitch_004_f",
+      "en": "Yeah, get motivated!",
+      "cz": "Jo, motivuj se!",
+      "source": "pre_existing",
+      "original_cz": "Jo, motivuj se!"
+    },
+    {
+      "key": "Stitch_005_f",
+      "en": "Gaston wants you to make him a classic Gastonian breakfast.",
+      "cz": "Gaston chce, abyste mu připravili klasickou gastonovskou snídani.",
+      "source": "pre_existing",
+      "original_cz": "Gaston chce, abyste mu připravili klasickou gastonovskou snídani."
+    },
+    {
+      "key": "Stitch_006_f",
+      "en": "Do you have any ideas off the bat?",
+      "cz": "Máte nějaké nápady hned na začátku?",
+      "source": "pre_existing",
+      "original_cz": "Máte nějaké nápady hned na začátku?"
+    },
+    {
+      "key": "Stitch_007_f",
+      "en": "Yes! Yes! Coffee!!!",
+      "cz": "Ano! Ano! Káva!!!",
+      "source": "pre_existing",
+      "original_cz": "Ano! Ano! Káva!!!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "You can't JUST have coffee for breakfast.",
+      "cz": "K snídani si nemůžete dát JEN kávu.",
+      "source": "pre_existing",
+      "original_cz": "K snídani si nemůžete dát JEN kávu."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Honestly, if it was my breakfast, I'd agree with you.",
+      "cz": "Upřímně, kdyby to byla moje snídaně, souhlasil bych s vámi.",
+      "source": "pre_existing",
+      "original_cz": "Upřímně, kdyby to byla moje snídaně, souhlasil bych s vámi."
+    },
+    {
+      "key": "Stitch_010_f",
+      "en": "... Why?",
+      "cz": "... Proč?",
+      "source": "pre_existing",
+      "original_cz": "... Proč?"
+    },
+    {
+      "key": "Stitch_011_f",
+      "en": "Gaston is into eggs. Like REALLY into eggs. And he's got a bit of a thing for coconuts as well.",
+      "cz": "Gaston má rád vejce. Opravdu do vajec. A taky má trochu slabost pro kokosové ořechy.",
+      "source": "pre_existing",
+      "original_cz": "Gaston má rád vejce. Opravdu do vajec. A taky má trochu slabost pro kokosové ořechy."
+    },
+    {
+      "key": "Stitch_012_f",
+      "en": "Gaston like coconut?! Yay! I make Gaston best coconut cake!",
+      "cz": "Gaston má rád kokos?! Paráda! Dělám Gastonovi nejlepší kokosový dort!",
+      "source": "pre_existing",
+      "original_cz": "Gaston má rád kokos?! Paráda! Dělám Gastonovi nejlepší kokosový dort!"
+    },
+    {
+      "key": "Stitch_013_f",
+      "en": "You help Stitch with cooking?",
+      "cz": "Pomáháš Stitchovi s vařením?",
+      "source": "pre_existing",
+      "original_cz": "Pomáháš Stitchovi s vařením?"
+    },
+    {
+      "key": "Stitch_014_f",
+      "en": "Sure, let's get to it!",
+      "cz": "Jasně, jdeme na to!",
+      "source": "pre_existing",
+      "original_cz": "Jasně, jdeme na to!"
+    },
+    {
+      "key": "Stitch_000_f",
+      "en": "Coffee, coconut cake, and egg... big breakfast order, but Stitch is ready! Here, you have recipe so you can make best cake too.",
+      "cz": "Káva, kokosový dort a vejce... velká objednávka snídaně, ale Stitch je připravený! Tady máš recept, takže si můžeš udělat i ten nejlepší dort.",
+      "source": "pre_existing",
+      "original_cz": "Káva, kokosový dort a vejce... velká objednávka snídaně, ale Stitch je připravený! Tady máš recept, takže si můžeš udělat i ten nejlepší dort."
+    },
+    {
+      "key": "Stitch_002_f",
+      "en": "You going to hang out and cook with Stitch now?",
+      "cz": "Budeš teď trávit čas se Stitchem a vařit?",
+      "source": "pre_existing",
+      "original_cz": "Budeš teď trávit čas se Stitchem a vařit?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Totally!",
+      "cz": "Rozhodně!",
+      "source": "pre_existing",
+      "original_cz": "Rozhodně!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I'll be back. Gotta take care of something first.",
+      "cz": "Vrátím se. Nejdřív se musím o něco postarat.",
+      "source": "pre_existing",
+      "original_cz": "Vrátím se. Nejdřív se musím o něco postarat."
+    },
+    {
+      "key": "Stitch_015_f",
+      "en": "*sigh* Whatever.",
+      "cz": "*povzdech* Ať je to jak chce.",
+      "source": "pre_existing",
+      "original_cz": "*povzdech* Ať je to jak chce."
+    }
+  ],
+  "ExpansionMain_Stitch/Stitch_VLG_Gast_040_VLG_Gast_040_TalkTo12.locbin": [
+    {
+      "key": "Stitch_003_f",
+      "en": "Congratulations, Stitch!",
+      "cz": "Gratuluji, Stitchi!",
+      "source": "pre_existing",
+      "original_cz": "Gratuluji, Stitchi!"
+    },
+    {
+      "key": "Stitch_004_f",
+      "en": "You ready to take on your new role in the Valley?",
+      "cz": "Jsi připraven/a převzít svou novou roli v Údolí?",
+      "source": "pre_existing",
+      "original_cz": "Jsi připraven/a převzít svou novou roli v Údolí?"
+    },
+    {
+      "key": "Stitch_005_f",
+      "en": "What new role?",
+      "cz": "Jaká nová role?",
+      "source": "pre_existing",
+      "original_cz": "Jaká nová role?"
+    },
+    {
+      "key": "Stitch_006_f",
+      "en": "As Gaston's sidekick? I'm sure he'll have tons of errands for you.",
+      "cz": "Jako Gastonův pomocník? Jsem si jistý, že pro tebe bude mít spoustu pochůzek.",
+      "source": "pre_existing",
+      "original_cz": "Jako Gastonův pomocník? Jsem si jistý, že pro tebe bude mít spoustu pochůzek."
+    },
+    {
+      "key": "Stitch_007_f",
+      "en": "Oh... yeah, not fun...",
+      "cz": "Jo... jo, žádná legrace...",
+      "source": "pre_existing",
+      "original_cz": "Jo... jo, žádná legrace..."
+    },
+    {
+      "key": "Stitch_008_f",
+      "en": "Stitch want to work on badness levels... not just listen to Gaston.",
+      "cz": "Stitch chce pracovat na úrovních špatnosti... ne jen poslouchat Gastona.",
+      "source": "pre_existing",
+      "original_cz": "Stitch chce pracovat na úrovních špatnosti... ne jen poslouchat Gastona."
+    },
+    {
+      "key": "Stitch_009_f",
+      "en": "Gaston not bad. He have problem with badness levels like Stitch.",
+      "cz": "Gaston není špatný. Má problém s úrovněmi špatnosti jako Stitch.",
+      "source": "pre_existing",
+      "original_cz": "Gaston není špatný. Má problém s úrovněmi špatnosti jako Stitch."
+    },
+    {
+      "key": "Stitch_010_f",
+      "en": "Huh, I guess you're on to something there.",
+      "cz": "Hm, asi jsi na něčem.",
+      "source": "pre_existing",
+      "original_cz": "Hm, asi jsi na něčem."
+    },
+    {
+      "key": "Stitch_011_f",
+      "en": "Stitch help Gaston with badness levels but not with errands!",
+      "cz": "Stitch, pomoz Gastonovi s úrovněmi špatnosti, ale ne s pochůzkami!",
+      "source": "pre_existing",
+      "original_cz": "Stitch, pomoz Gastonovi s úrovněmi špatnosti, ale ne s pochůzkami!"
+    }
+  ]
+}

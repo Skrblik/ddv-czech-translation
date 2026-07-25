@@ -1,0 +1,167 @@
+{
+  "JafarAct03_Raven/Raven_MRQS_E01_244_WestTower_MRQS_E01_244_WestTower_BringItem01.locbin": [
+    {
+      "key": "Raven_000_f",
+      "en": "BWAAAKK! BETTER THAN JAFAR'S FOOD!",
+      "cz": "BWAAAAK! LEPŠÍ NEŽ JAFAROVO JÍDLO!",
+      "source": "pre_existing",
+      "original_cz": "BWAAAAK! LEPŠÍ NEŽ JAFAROVO JÍDLO!"
+    },
+    {
+      "key": "Raven_001_f",
+      "en": "Shiny thing. Here! *squawk*",
+      "cz": "Lesknoucí věc. Tady! *kvák*",
+      "source": "pre_existing",
+      "original_cz": "Lesknoucí věc. Tady! *kvák*"
+    },
+    {
+      "key": "Raven_002_f",
+      "en": "Hey... this isn't the key!",
+      "cz": "Hej... tohle není klíč!",
+      "source": "pre_existing",
+      "original_cz": "Hej... tohle není klíč!"
+    },
+    {
+      "key": "Raven_003_f",
+      "en": "*squawk* Nope! Hee!",
+      "cz": "*křik* Ne! Hi!",
+      "source": "pre_existing",
+      "original_cz": "*křik* Ne! Hi!"
+    },
+    {
+      "key": "Raven_004_f",
+      "en": "Help you FIND the key! *squawk* See where shiny thing goes!",
+      "cz": "Pomozte mi NAJÍT klíč! *křik* Podívejte se, kam ta lesklá věc vede!",
+      "source": "pre_existing",
+      "original_cz": "Pomozte mi NAJÍT klíč! *křik* Podívejte se, kam ta lesklá věc vede!"
+    }
+  ],
+  "JafarAct03_Raven/Raven_MRQS_E01_244_WestTower_MRQS_E01_244_WestTower_TalkTo01.locbin": [
+    {
+      "key": "Raven_000_f",
+      "en": "*squawk* Who are you?",
+      "cz": "*křik* Kdo jsi?",
+      "source": "pre_existing",
+      "original_cz": "*křik* Kdo jsi?"
+    },
+    {
+      "key": "Raven_001_f",
+      "en": "*skee-waaaaak* JAFAR?!",
+      "cz": "*skee-waaaaak* JAFAR?!",
+      "source": "pre_existing",
+      "original_cz": "*skee-waaaaak* JAFAR?!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "No! I'm {PlayerName}.",
+      "cz": "Ne! Jsem {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Ne! Jsem {PlayerName}."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Uh... depends. Who are you?",
+      "cz": "Ehm... záleží na tom. Kdo jsi?",
+      "source": "pre_existing",
+      "original_cz": "Ehm... záleží na tom. Kdo jsi?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I'm the ruler of Dreamlight Valley AND Eternity Isle. So you better help me!",
+      "cz": "Jsem vládcem Údolí snů A Ostrova věčnosti. Takže mi raději pomozte!",
+      "source": "pre_existing",
+      "original_cz": "Jsem vládcem Údolí snů A Ostrova věčnosti. Takže mi raději pomozte!"
+    },
+    {
+      "key": "Raven_002_f",
+      "en": "*bwaaakkkk* {PlayerName}?",
+      "cz": "*bwaaakkkk* {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "*bwaaakkkk* {PlayerName}?"
+    },
+    {
+      "key": "Raven_011_f",
+      "en": "The key! I need it! How do I get it?!",
+      "cz": "Klíč! Potřebuji ho! Jak ho získám?!",
+      "source": "pre_existing",
+      "original_cz": "Klíč! Potřebuji ho! Jak ho získám?!"
+    },
+    {
+      "key": "Raven_014_f",
+      "en": "Easy. *squawk*",
+      "cz": "Snadné. *křik*",
+      "source": "pre_existing",
+      "original_cz": "Snadné. *křik*"
+    },
+    {
+      "key": "Raven_012_f",
+      "en": "Feed me. *squawk*",
+      "cz": "Nakrm mě. *kvákání*",
+      "source": "pre_existing",
+      "original_cz": "Nakrm mě. *kvákání*"
+    },
+    {
+      "key": "Raven_003_f",
+      "en": "Pleased to meet ya!",
+      "cz": "Rád tě poznávám!",
+      "source": "pre_existing",
+      "original_cz": "Rád tě poznávám!"
+    },
+    {
+      "key": "Raven_004_f",
+      "en": "*bwaaaak* I'm Annoying Nuisance!",
+      "cz": "*bwaaaak* Jsem otravná a nepříjemná!",
+      "source": "pre_existing",
+      "original_cz": "*bwaaaak* Jsem otravná a nepříjemná!"
+    },
+    {
+      "key": "Raven_005_f",
+      "en": "... Annoying Nuisance?",
+      "cz": "... Otravná obtíž?",
+      "source": "pre_existing",
+      "original_cz": "... Otravná obtíž?"
+    },
+    {
+      "key": "Raven_006_f",
+      "en": "*squawk* What Jafar calls me.",
+      "cz": "*křik* Jak mi říká Džafar.",
+      "source": "pre_existing",
+      "original_cz": "*křik* Jak mi říká Džafar."
+    },
+    {
+      "key": "Raven_007_f",
+      "en": "Tells me what to do.",
+      "cz": "Říká mi, co mám dělat.",
+      "source": "pre_existing",
+      "original_cz": "Říká mi, co mám dělat."
+    },
+    {
+      "key": "Raven_008_f",
+      "en": "What does he want you to do?",
+      "cz": "Co chce, abys udělal/a?",
+      "source": "pre_existing",
+      "original_cz": "Co chce, abys udělal/a?"
+    },
+    {
+      "key": "Raven_009_f",
+      "en": "*bwaaakk* Help with experiments.",
+      "cz": "*bwaaakk* Pomoc s experimenty.",
+      "source": "pre_existing",
+      "original_cz": "*bwaaakk* Pomoc s experimenty."
+    },
+    {
+      "key": "Raven_010_f",
+      "en": "Like the shiny <ActivityItem>key</ActivityItem>...",
+      "cz": "Jako lesklý <ActivityItem>klíč</ActivityItem>...",
+      "source": "pre_existing",
+      "original_cz": "Jako lesklý <ActivityItem>klíč</ActivityItem>..."
+    },
+    {
+      "key": "Raven_013_f",
+      "en": "*bwaaak* If you help me!",
+      "cz": "*bwaaak* Jestli mi pomůžeš!",
+      "source": "pre_existing",
+      "original_cz": "*bwaaak* Jestli mi pomůžeš!"
+    }
+  ]
+}

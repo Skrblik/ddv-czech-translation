@@ -1,0 +1,820 @@
+{
+  "Upd10MiniEvent_Scrooge/SEC_Scro_IntroPark.locbin": [
+    {
+      "key": "Secret!Mickey!Scrooge!SEC_Scro_IntroPark_DisplayName",
+      "en": "Dreamlight Parks Fest",
+      "cz": "Dreamlight Parks Fest",
+      "source": "pre_existing",
+      "original_cz": "Dreamlight Parks Fest"
+    }
+  ],
+  "Upd10MiniEvent_Scrooge/Scrooge_RPT_Scro_DailyPark_RPT_Scro_DailyPark_Intro.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Ah, {PlayerName}! A minute of your time?",
+      "cz": "Aha, {PlayerName}! Minutka tvého času?",
+      "source": "pre_existing",
+      "original_cz": "Aha, {PlayerName}! Minutka tvého času?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Okay, what's up?",
+      "cz": "Dobře, co se děje?",
+      "source": "pre_existing",
+      "original_cz": "Dobře, co se děje?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Sorry, I don't have time now.",
+      "cz": "Promiňte, teď nemám čas.",
+      "source": "pre_existing",
+      "original_cz": "Promiňte, teď nemám čas."
+    },
+    {
+      "key": "Scrooge_025_f",
+      "en": "{PlayerName}, I have another cupcake order for you!",
+      "cz": "{PlayerName}, mám pro tebe další objednávku na koláčky!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, mám pro tebe další objednávku na koláčky!"
+    },
+    {
+      "key": "Scrooge_026_f",
+      "en": "Could I trouble you for more <ActivityItem>Stitch Cupcakes</ActivityItem>? I want to share them with our grand community.",
+      "cz": "Mohl bych vás poprosit o další <ActivityItem>Stitch Cupcakes</ActivityItem>? Chci se o ně podělit s naší velkou komunitou.",
+      "source": "pre_existing",
+      "original_cz": "Mohl bych vás poprosit o další <ActivityItem>Stitch Cupcakes</ActivityItem>? Chci se o ně podělit s naší velkou komunitou."
+    },
+    {
+      "key": "Scrooge_027_f",
+      "en": "Please <ActivityItem>bake the cupcakes</ActivityItem> and distribute these out in the Village?",
+      "cz": "Prosím <ActivityItem>upečte ty koláčky</ActivityItem> a rozdejte je po vesnici?",
+      "source": "pre_existing",
+      "original_cz": "Prosím <ActivityItem>upečte ty koláčky</ActivityItem> a rozdejte je po vesnici?"
+    },
+    {
+      "key": "Scrooge_021_f",
+      "en": "{PlayerName}, I've a favor to ask.",
+      "cz": "{PlayerName}, mám pro tebe laskavost.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, mám pro tebe laskavost."
+    },
+    {
+      "key": "Scrooge_022_f",
+      "en": "I'd like a few more orders of <ActivityItem>Stitch Cupcakes</ActivityItem>, if you've the time.",
+      "cz": "Rád bych si dal ještě pár porcí <ActivityItem>Stitch Cupcakes</ActivityItem>, pokud máte čas.",
+      "source": "pre_existing",
+      "original_cz": "Rád bych si dal ještě pár porcí <ActivityItem>Stitch Cupcakes</ActivityItem>, pokud máte čas."
+    },
+    {
+      "key": "Scrooge_023_f",
+      "en": "Would ya mind distributing these to some Villagers?",
+      "cz": "Mohl byste to rozdat vesničanům?",
+      "source": "pre_existing",
+      "original_cz": "Mohl byste to rozdat vesničanům?"
+    },
+    {
+      "key": "Scrooge_024_f",
+      "en": "And dinnae dally! There's Dreamlight Parks Fest joy to be spread!",
+      "cz": "A neváhejte! Radost z festivalu Dreamlight Parks Fest se musí šířit!",
+      "source": "pre_existing",
+      "original_cz": "A neváhejte! Radost z festivalu Dreamlight Parks Fest se musí šířit!"
+    },
+    {
+      "key": "Scrooge_016_f",
+      "en": "Have ya got time for some Dreamlight Parks Fest baking today, {PlayerName}?",
+      "cz": "Máš dnes čas na pečení v rámci festivalu Dreamlight Parks Fest, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Máš dnes čas na pečení v rámci festivalu Dreamlight Parks Fest, {PlayerName}?"
+    },
+    {
+      "key": "Scrooge_017_f",
+      "en": "I'd like some of those scrumptious <ActivityItem>Stitch Cupcakes</ActivityItem> you're so good at makin'.",
+      "cz": "Dal bych si trochu těch lahodných <ActivityItem>Stitch Cupcakes</ActivityItem>, které tak dobře děláš.",
+      "source": "pre_existing",
+      "original_cz": "Dal bych si trochu těch lahodných <ActivityItem>Stitch Cupcakes</ActivityItem>, které tak dobře děláš."
+    },
+    {
+      "key": "Scrooge_018_f",
+      "en": "After all, everyone deserves a sweet treat — especially during the Dreamlight Parks Fest!",
+      "cz": "Koneckonců, každý si zaslouží sladkou pochoutku – obzvlášť během festivalu Dreamlight Parks!",
+      "source": "pre_existing",
+      "original_cz": "Koneckonců, každý si zaslouží sladkou pochoutku – obzvlášť během festivalu Dreamlight Parks!"
+    },
+    {
+      "key": "Scrooge_019_f",
+      "en": "Not to mention it'll ruffle my nephew Donald somethin' fierce. That wee Stitch really gets to him! Hee-hee!",
+      "cz": "Nemluvě o tom, že to mého synovce Donalda pěkně rozčílí. Ten malý Stitch ho fakt štve! Hi-hi!",
+      "source": "pre_existing",
+      "original_cz": "Nemluvě o tom, že to mého synovce Donalda pěkně rozčílí. Ten malý Stitch ho fakt štve! Hi-hi!"
+    },
+    {
+      "key": "Scrooge_011_f",
+      "en": "Do me a favor and hand 'em out to some Villagers.",
+      "cz": "Udělejte mi laskavost a rozdejte je nějakým vesničanům.",
+      "source": "pre_existing",
+      "original_cz": "Udělejte mi laskavost a rozdejte je nějakým vesničanům."
+    },
+    {
+      "key": "Scrooge_020_f",
+      "en": "It'll also ruffle my nephew Donald somethin' fierce. Back in the day, wee Stitch and Donald had a grand rivalry!",
+      "cz": "Taky to pořádně rozčílí mého synovce Donalda. Kdysi dávno mezi malým Stitchem a Donaldem panovala velká rivalita!",
+      "source": "pre_existing",
+      "original_cz": "Taky to pořádně rozčílí mého synovce Donalda. Kdysi dávno mezi malým Stitchem a Donaldem panovala velká rivalita!"
+    },
+    {
+      "key": "Scrooge_032_f",
+      "en": "{PlayerName}, just who I was hoping to see!",
+      "cz": "{PlayerName}, přesně koho jsem doufal vidět!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, přesně koho jsem doufal vidět!"
+    },
+    {
+      "key": "Scrooge_013_f",
+      "en": "I'd like to put in a special order with ya for more <ActivityItem>Stitch Cupcakes</ActivityItem>.",
+      "cz": "Rád bych si u vás speciálně objednal další <ActivityItem>Stitch Cupcakes</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Rád bych si u vás speciálně objednal další <ActivityItem>Stitch Cupcakes</ActivityItem>."
+    },
+    {
+      "key": "Scrooge_014_f",
+      "en": "It just isn't a proper festival day without 'em.",
+      "cz": "Bez nich to prostě není pořádný festival.",
+      "source": "pre_existing",
+      "original_cz": "Bez nich to prostě není pořádný festival."
+    },
+    {
+      "key": "Scrooge_015_f",
+      "en": "Bake 'em and bring 'em to some Villagers, quick as ya can.",
+      "cz": "Upeč je a co nejrychleji je dones vesničanům.",
+      "source": "pre_existing",
+      "original_cz": "Upeč je a co nejrychleji je dones vesničanům."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "It's about my nephew, Donald.",
+      "cz": "Je to o mém synovci, Donaldovi.",
+      "source": "pre_existing",
+      "original_cz": "Je to o mém synovci, Donaldovi."
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "I've heard that he's been in a bit of a prank war with Stitch all over the Village.",
+      "cz": "Slyšel jsem, že si po celé vesnici vymýšlí žertovnou válku se Stitchem.",
+      "source": "pre_existing",
+      "original_cz": "Slyšel jsem, že si po celé vesnici vymýšlí žertovnou válku se Stitchem."
+    },
+    {
+      "key": "Scrooge_030_f",
+      "en": "Well, I'd like to do my part to make things right with the Villagers — using cupcakes!",
+      "cz": "No, rád bych přispěl svým dílem k nápravě věcí s vesničany – pomocí koláčků!",
+      "source": "pre_existing",
+      "original_cz": "No, rád bych přispěl svým dílem k nápravě věcí s vesničany – pomocí koláčků!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Great idea. Everyone loves cupcakes!",
+      "cz": "Skvělý nápad. Každý miluje cupcakes!",
+      "source": "pre_existing",
+      "original_cz": "Skvělý nápad. Každý miluje cupcakes!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "... You've already lost me.",
+      "cz": "... Už jsi mě ztratil/a.",
+      "source": "pre_existing",
+      "original_cz": "... Už jsi mě ztratil/a."
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "Aye, and here's my grand idea...",
+      "cz": "Ano, a tady je můj skvělý nápad...",
+      "source": "pre_existing",
+      "original_cz": "Ano, a tady je můj skvělý nápad..."
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "... I'd like 'em to be <ActivityItem>Stitch Cupcakes</ActivityItem>!",
+      "cz": "... Chtěl bych, aby to byly <ActivityItem>Stitch Cupcakes</ActivityItem>!",
+      "source": "pre_existing",
+      "original_cz": "... Chtěl bych, aby to byly <ActivityItem>Stitch Cupcakes</ActivityItem>!"
+    },
+    {
+      "key": "Scrooge_007_f",
+      "en": "I've told Donald I'd help him by handing out cupcakes as peace offerin's for the trouble the pranks have caused. To protect our family's reputation, and all.",
+      "cz": "Řekl jsem Donaldovi, že mu pomůžu tím, že mu rozdám koláčky jako oběť míru za potíže, které ty žertíky způsobily. Abych ochránil pověst naší rodiny a tak dále.",
+      "source": "pre_existing",
+      "original_cz": "Řekl jsem Donaldovi, že mu pomůžu tím, že mu rozdám koláčky jako oběť míru za potíže, které ty žertíky způsobily. Abych ochránil pověst naší rodiny a tak dále."
+    },
+    {
+      "key": "Scrooge_008_f",
+      "en": "But when the Villagers see these, they'll think the cupcakes are from Stitch, NOT Donald!",
+      "cz": "Ale až je vesničané uvidí, budou si myslet, že ty cupcaky jsou od Stitche, NE od Donalda!",
+      "source": "pre_existing",
+      "original_cz": "Ale až je vesničané uvidí, budou si myslet, že ty cupcaky jsou od Stitche, NE od Donalda!"
+    },
+    {
+      "key": "Scrooge_033_f",
+      "en": "Oh, he's gonna boil like a red-hot kettle! And it serves my nephew right for not considering the consequences of his actions.",
+      "cz": "Ach, bude se vařit jako rozžhavený kotlík! A mému synovci to právem slouží, že nezvážil důsledky svých činů.",
+      "source": "pre_existing",
+      "original_cz": "Ach, bude se vařit jako rozžhavený kotlík! A mému synovci to právem slouží, že nezvážil důsledky svých činů."
+    },
+    {
+      "key": "Scrooge_009_f",
+      "en": "Could ya bake up some of those <ActivityItem>Stitch Cupcakes</ActivityItem> and hand 'em out to some Villagers? Let's have a little fun. Heh-heh.",
+      "cz": "Mohl bys upéct pár těch <ActivityItem>Stitch Cupcakes</ActivityItem> a rozdat je vesničanům? Pojďme se trochu pobavit. Heh-heh.",
+      "source": "pre_existing",
+      "original_cz": "Mohl bys upéct pár těch <ActivityItem>Stitch Cupcakes</ActivityItem> a rozdat je vesničanům? Pojďme se trochu pobavit. Heh-heh."
+    },
+    {
+      "key": "Scrooge_010_f",
+      "en": "I told Donald I'd send out some treats for the festival on behalf of our family.",
+      "cz": "Řekl jsem Donaldovi, že jménem naší rodiny pošlu nějaké dobroty na festival.",
+      "source": "pre_existing",
+      "original_cz": "Řekl jsem Donaldovi, že jménem naší rodiny pošlu nějaké dobroty na festival."
+    },
+    {
+      "key": "Scrooge_031_f",
+      "en": "But when he sees that they look like his old nemesis, he'll boil like a red-hot kettle! And it serves my nephew right for all the trouble he's caused.",
+      "cz": "Ale až uvidí, že vypadají jako jeho starý nepřítel, rozzlobí se jako rozžhavený kotlík! A mému synovci to zaslouží za všechny ty potíže, které způsobil.",
+      "source": "pre_existing",
+      "original_cz": "Ale až uvidí, že vypadají jako jeho starý nepřítel, rozzlobí se jako rozžhavený kotlík! A mému synovci to zaslouží za všechny ty potíže, které způsobil."
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "Dinnae worry; I'll explain.",
+      "cz": "Nedělej si starosti; vysvětlím ti to.",
+      "source": "pre_existing",
+      "original_cz": "Nedělej si starosti; vysvětlím ti to."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Back in the day, he used to get into some fine squabbles with a wee fluffy blue fella named Stitch.",
+      "cz": "Kdysi dávno se míval do pěkných hádek s malým nadýchaným modrým chlápkem jménem Stitch.",
+      "source": "pre_existing",
+      "original_cz": "Kdysi dávno se míval do pěkných hádek s malým nadýchaným modrým chlápkem jménem Stitch."
+    },
+    {
+      "key": "Scrooge_029_f",
+      "en": "I was hopin' that you could make some <Lore>cupcakes</Lore> that resemble Stitch.",
+      "cz": "Doufal jsem, že bys mohla upéct nějaké <Lore>cupcaky</Lore>, které budou připomínat Stitche.",
+      "source": "pre_existing",
+      "original_cz": "Doufal jsem, že bys mohla upéct nějaké <Lore>cupcaky</Lore>, které budou připomínat Stitche."
+    },
+    {
+      "key": "Scrooge_012_f",
+      "en": "Well, come back when you do!",
+      "cz": "No, vrať se, až to uděláš!",
+      "source": "pre_existing",
+      "original_cz": "No, vrať se, až to uděláš!"
+    }
+  ],
+  "Upd10MiniEvent_Scrooge/Scrooge_RPT_Scro_DailyPark_RPT_Scro_DailyPark_Ongoing01.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Please bake up some of those <ActivityItem>Stitch Cupcakes</ActivityItem> for me, quick as ya can.",
+      "cz": "Prosím, upeč mi co nejrychleji ty <ActivityItem>Stitch Cupcakes</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Prosím, upeč mi co nejrychleji ty <ActivityItem>Stitch Cupcakes</ActivityItem>."
+    }
+  ],
+  "Upd10MiniEvent_Scrooge/Scrooge_RPT_Scro_DailyPark_RPT_Scro_DailyPark_Ongoing02.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Have ya delivered those <ActivityItem>Stitch Cupcakes</ActivityItem> around the Village yet?",
+      "cz": "Už jsi rozvezl ty <ActivityItem>Stitch Cupcakes</ActivityItem> po vesnici?",
+      "source": "pre_existing",
+      "original_cz": "Už jsi rozvezl ty <ActivityItem>Stitch Cupcakes</ActivityItem> po vesnici?"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "I'm counting on ya!",
+      "cz": "Spoléhám na tebe!",
+      "source": "pre_existing",
+      "original_cz": "Spoléhám na tebe!"
+    }
+  ],
+  "Upd10MiniEvent_Scrooge/Scrooge_RPT_Scro_DailyPark_RPT_Scro_DailyPark_Outro.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Each cupcake has been delivered!",
+      "cz": "Každý košíček byl doručen!",
+      "source": "pre_existing",
+      "original_cz": "Každý košíček byl doručen!"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Ah, {PlayerName}! You just missed Donald. The lad was so out of sorts, he was as red as a tomato! Hee-hee-hee!",
+      "cz": "Ach, {PlayerName}! Právě jsi minul Donalda. Ten kluk byl tak mimo, že byl červený jako rajče! Hi-hi-hi!",
+      "source": "pre_existing",
+      "original_cz": "Ach, {PlayerName}! Právě jsi minul Donalda. Ten kluk byl tak mimo, že byl červený jako rajče! Hi-hi-hi!"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Och, I forgot how much I enjoy a good prank.",
+      "cz": "Ach, úplně jsem zapomněl, jak moc si užívám dobrý žert.",
+      "source": "pre_existing",
+      "original_cz": "Ach, úplně jsem zapomněl, jak moc si užívám dobrý žert."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Oh, and as promised, here's a reward for your troubles!",
+      "cz": "A jak jsem slíbil, tady je odměna za tvé trápení!",
+      "source": "pre_existing",
+      "original_cz": "A jak jsem slíbil, tady je odměna za tvé trápení!"
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "Well now, I hope everyone enjoyed their cupcakes. Thank ya kindly for helping me, {PlayerName}.",
+      "cz": "Doufám, že si všichni užili své cupcakes. Moc vám děkuji za pomoc, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že si všichni užili své cupcakes. Moc vám děkuji za pomoc, {PlayerName}."
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "Here, this is for you — a token of my appreciation!",
+      "cz": "Tady, tohle je pro tebe – projev mého uznání!",
+      "source": "pre_existing",
+      "original_cz": "Tady, tohle je pro tebe – projev mého uznání!"
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "Thank ya for your help, {PlayerName}.",
+      "cz": "Děkuji za vaši pomoc, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji za vaši pomoc, {PlayerName}."
+    },
+    {
+      "key": "Scrooge_007_f",
+      "en": "And please — take these for your trouble.",
+      "cz": "A prosím – vezměte si toto za vaši námahu.",
+      "source": "pre_existing",
+      "original_cz": "A prosím – vezměte si toto za vaši námahu."
+    },
+    {
+      "key": "Scrooge_008_f",
+      "en": "You delivered all the cupcakes? Perfect!",
+      "cz": "Doručil jsi všechny cupcakes? Perfektní!",
+      "source": "pre_existing",
+      "original_cz": "Doručil jsi všechny cupcakes? Perfektní!"
+    },
+    {
+      "key": "Scrooge_010_f",
+      "en": "Dinnae ya just love the festival?!",
+      "cz": "Nemiluješ snad ten festival?!",
+      "source": "pre_existing",
+      "original_cz": "Nemiluješ snad ten festival?!"
+    },
+    {
+      "key": "Scrooge_011_f",
+      "en": "A couple of customers have come to the shop already, truly grateful for the cupcakes you made!",
+      "cz": "Pár zákazníků už zašlo do obchodu a jsou opravdu vděční za koláčky, které jste upekli!",
+      "source": "pre_existing",
+      "original_cz": "Pár zákazníků už zašlo do obchodu a jsou opravdu vděční za koláčky, které jste upekli!"
+    },
+    {
+      "key": "Scrooge_012_f",
+      "en": "I cannae thank you enough, {PlayerName}.",
+      "cz": "Nemůžu ti dostatečně poděkovat, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Nemůžu ti dostatečně poděkovat, {PlayerName}."
+    },
+    {
+      "key": "Scrooge_013_f",
+      "en": "But hopefully these rewards will be a good start!",
+      "cz": "Ale doufejme, že tyto odměny budou dobrým začátkem!",
+      "source": "pre_existing",
+      "original_cz": "Ale doufejme, že tyto odměny budou dobrým začátkem!"
+    }
+  ],
+  "Upd10MiniEvent_Scrooge/Scrooge_RPT_Scro_WeeklyPark_010_RPT_Scro_WeeklyPark_010_Intro.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Ah, {PlayerName}, just the capable carpenter I was hoping to see.",
+      "cz": "Aha, {PlayerName}, přesně ten schopný tesař, kterého jsem doufal vidět.",
+      "source": "pre_existing",
+      "original_cz": "Aha, {PlayerName}, přesně ten schopný tesař, kterého jsem doufal vidět."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm listening.",
+      "cz": "Poslouchám.",
+      "source": "pre_existing",
+      "original_cz": "Poslouchám."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'm too busy right now; maybe later.",
+      "cz": "Teď mám moc práce; možná později.",
+      "source": "pre_existing",
+      "original_cz": "Teď mám moc práce; možná později."
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "The Dreamlight Parks Fest is a splendid opportunity to freshen up the Village. It'll help get everyone in the festive spirit!",
+      "cz": "Festival Dreamlight Parks je skvělou příležitostí k oživení vesnice. Pomůže všem naladit se na sváteční atmosféru!",
+      "source": "pre_existing",
+      "original_cz": "Festival Dreamlight Parks je skvělou příležitostí k oživení vesnice. Pomůže všem naladit se na sváteční atmosféru!"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "And I have some exclusive blueprints for new furniture, if you're interested.",
+      "cz": "A mám i nějaké exkluzivní plány na nový nábytek, pokud máte zájem.",
+      "source": "pre_existing",
+      "original_cz": "A mám i nějaké exkluzivní plány na nový nábytek, pokud máte zájem."
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "First you'll have to gather supplies. Here — I've got a list of what we'll need. Now, don't dally!",
+      "cz": "Nejdřív si budeš muset shromáždit zásoby. Tady – mám seznam toho, co budeme potřebovat. A teď už neváhej!",
+      "source": "pre_existing",
+      "original_cz": "Nejdřív si budeš muset shromáždit zásoby. Tady – mám seznam toho, co budeme potřebovat. A teď už neváhej!"
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Don't take too long; time is of the essence.",
+      "cz": "Netrvejte to příliš dlouho, čas je klíčový.",
+      "source": "pre_existing",
+      "original_cz": "Netrvejte to příliš dlouho, čas je klíčový."
+    }
+  ],
+  "Upd10MiniEvent_Scrooge/Scrooge_RPT_Scro_WeeklyPark_010_RPT_Scro_WeeklyPark_010_Ongoing01.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Did ya forget? You're collecting supplies so we can build some Dreamlight Parks Fest decor.",
+      "cz": "Zapomněl jsi? Sbíráš zásoby, abychom mohli postavit dekorace pro festival Dreamlight Parks.",
+      "source": "pre_existing",
+      "original_cz": "Zapomněl jsi? Sbíráš zásoby, abychom mohli postavit dekorace pro festival Dreamlight Parks."
+    }
+  ],
+  "Upd10MiniEvent_Scrooge/Scrooge_RPT_Scro_WeeklyPark_010_RPT_Scro_WeeklyPark_010_Ongoing02.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "How goes the building of that Dreamlight Parks Fest furniture I asked ya for?",
+      "cz": "Jak jde výroba toho nábytku z festivalu Dreamlight Parks, o který jsem se tě ptal?",
+      "source": "pre_existing",
+      "original_cz": "Jak jde výroba toho nábytku z festivalu Dreamlight Parks, o který jsem se tě ptal?"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Once you're finished, place it in the Valley and I'll give ya a grand reward!",
+      "cz": "Až budeš hotový, umísti to do Údolí a já ti dám velkou odměnu!",
+      "source": "pre_existing",
+      "original_cz": "Až budeš hotový, umísti to do Údolí a já ti dám velkou odměnu!"
+    }
+  ],
+  "Upd10MiniEvent_Scrooge/Scrooge_RPT_Scro_WeeklyPark_010_RPT_Scro_WeeklyPark_010_Outro.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Splendid! Simply splendid!",
+      "cz": "Skvělé! Prostě skvělé!",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Prostě skvělé!"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "The new decor looks marvelous. Why, I'm in the festival mood already!",
+      "cz": "Nová výzdoba vypadá úžasně. Vždyť už mám slavnostní náladu!",
+      "source": "pre_existing",
+      "original_cz": "Nová výzdoba vypadá úžasně. Vždyť už mám slavnostní náladu!"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "And here's a wee reward, as promised.",
+      "cz": "A tady je malá odměna, jak jsem slíbil.",
+      "source": "pre_existing",
+      "original_cz": "A tady je malá odměna, jak jsem slíbil."
+    }
+  ],
+  "Upd10MiniEvent_Scrooge/Scrooge_RPT_Scro_WeeklyPark_010_RPT_Scro_WeeklyPark_010_TalkTo01.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Knock me over with a twig — you got all the supplies!",
+      "cz": "Sraz mě větvičkou – máš všechny zásoby!",
+      "source": "pre_existing",
+      "original_cz": "Sraz mě větvičkou – máš všechny zásoby!"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Now, here's what I had in mind: <ActivityItem>Disney Park Balloons</ActivityItem> and new <ActivityItem>Colorful Benches</ActivityItem>!",
+      "cz": "A teď, tohle jsem měl na mysli: <ActivityItem>Balóny z Disney Parku</ActivityItem> a nové <ActivityItem>Barevné lavičky</ActivityItem>!",
+      "source": "pre_existing",
+      "original_cz": "A teď, tohle jsem měl na mysli: <ActivityItem>Balóny z Disney Parku</ActivityItem> a nové <ActivityItem>Barevné lavičky</ActivityItem>!"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Head straight on over to a Crafting Station and build 'em.",
+      "cz": "Vydejte se rovnou k řemeslné stanici a postavte je.",
+      "source": "pre_existing",
+      "original_cz": "Vydejte se rovnou k řemeslné stanici a postavte je."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "After that, you can use 'em to <Lore>decorate the Valley</Lore>.",
+      "cz": "Poté je můžete použít k <Lore>výzdobě údolí</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Poté je můžete použít k <Lore>výzdobě údolí</Lore>."
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "I've even got a special reward for ya when you're done!",
+      "cz": "Dokonce pro tebe mám i speciální odměnu, až skončíš!",
+      "source": "pre_existing",
+      "original_cz": "Dokonce pro tebe mám i speciální odměnu, až skončíš!"
+    }
+  ],
+  "Upd10MiniEvent_Scrooge/Scrooge_RPT_Scro_WeeklyPark_020_RPT_Scro_WeeklyPark_020_Intro.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "There ya are, {PlayerName}! I have more Dreamlight Parks Fest furniture plans ready to make the Valley even more festive!",
+      "cz": "Tady to máte, {PlayerName}! Mám připravené další plány na nábytek pro Dreamlight Parks Fest, díky nimž bude Údolí ještě slavnostnější!",
+      "source": "pre_existing",
+      "original_cz": "Tady to máte, {PlayerName}! Mám připravené další plány na nábytek pro Dreamlight Parks Fest, díky nimž bude Údolí ještě slavnostnější!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's do it.",
+      "cz": "Pojďme na to.",
+      "source": "pre_existing",
+      "original_cz": "Pojďme na to."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'll come back to you on that.",
+      "cz": "K tomu se vám vrátím.",
+      "source": "pre_existing",
+      "original_cz": "K tomu se vám vrátím."
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Bring me the materials, and we'll talk when ya return.",
+      "cz": "Přines mi materiály a promluvíme si, až se vrátíš.",
+      "source": "pre_existing",
+      "original_cz": "Přines mi materiály a promluvíme si, až se vrátíš."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Don't dally! The festival won't last forever.",
+      "cz": "Neotálej! Festival nebude trvat věčně.",
+      "source": "pre_existing",
+      "original_cz": "Neotálej! Festival nebude trvat věčně."
+    }
+  ],
+  "Upd10MiniEvent_Scrooge/Scrooge_RPT_Scro_WeeklyPark_020_RPT_Scro_WeeklyPark_020_Outro.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Nicely done, {PlayerName}!",
+      "cz": "Výborně, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Výborně, {PlayerName}!"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "The new decor is quite impressive, and the Village looks as festive as a Fair Isle fair.",
+      "cz": "Nová výzdoba je docela působivá a vesnice vypadá slavnostně jako jarmark na Fair Isle.",
+      "source": "pre_existing",
+      "original_cz": "Nová výzdoba je docela působivá a vesnice vypadá slavnostně jako jarmark na Fair Isle."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "And here ya are, for your troubles.",
+      "cz": "A tady máte, pro vaše starosti.",
+      "source": "pre_existing",
+      "original_cz": "A tady máte, pro vaše starosti."
+    }
+  ],
+  "Upd10MiniEvent_Scrooge/Scrooge_RPT_Scro_WeeklyPark_020_RPT_Scro_WeeklyPark_020_TalkTo01.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Leapin' Loch Ness! You got everything we need!",
+      "cz": "Skákající Loch Ness! Máš všechno, co potřebujeme!",
+      "source": "pre_existing",
+      "original_cz": "Skákající Loch Ness! Máš všechno, co potřebujeme!"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "These are just the ticket to build a beautiful new <ActivityItem>Main Street Path</ActivityItem> and a <ActivityItem>Park Banner Lamppost</ActivityItem>.",
+      "cz": "Toto je přesně to, co potřebujete k vybudování krásné nové <ActivityItem>cesty na hlavní ulici</ActivityItem> a <ActivityItem>sloupu parkového lampového osvětlení</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Toto je přesně to, co potřebujete k vybudování krásné nové <ActivityItem>cesty na hlavní ulici</ActivityItem> a <ActivityItem>sloupu parkového lampového osvětlení</ActivityItem>."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Aye, the Village'll look grand. Just craft 'em and put 'em on display for all to see.",
+      "cz": "Ano, vesnice bude vypadat skvěle. Prostě je vyrob a vystav je, aby je všichni viděli.",
+      "source": "pre_existing",
+      "original_cz": "Ano, vesnice bude vypadat skvěle. Prostě je vyrob a vystav je, aby je všichni viděli."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "When you're done, I'll have a wee reward waiting for ya!",
+      "cz": "Až budeš hotový/á, čeká na tebe malá odměna!",
+      "source": "pre_existing",
+      "original_cz": "Až budeš hotový/á, čeká na tebe malá odměna!"
+    }
+  ],
+  "Upd10MiniEvent_Scrooge/Scrooge_RPT_Scro_WeeklyPark_030_RPT_Scro_WeeklyPark_030_Intro.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "{PlayerName}, it's time to take our Dreamlight Parks Fest ambitions to even greater heights!",
+      "cz": "{PlayerName}, je čas posunout naše ambice na Dreamlight Parks Fest na ještě vyšší úroveň!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, je čas posunout naše ambice na Dreamlight Parks Fest na ještě vyšší úroveň!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm eager to finish this!",
+      "cz": "Nedočkavý, až to dokončím!",
+      "source": "pre_existing",
+      "original_cz": "Nedočkavý, až to dokončím!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'll come back to you on that.",
+      "cz": "K tomu se vám vrátím.",
+      "source": "pre_existing",
+      "original_cz": "K tomu se vám vrátím."
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "I have one final set of ideas to help make the Valley feel like a proper amusement park.",
+      "cz": "Mám ještě jednu poslední sadu nápadů, jak z údolí udělat pořádný zábavní park.",
+      "source": "pre_existing",
+      "original_cz": "Mám ještě jednu poslední sadu nápadů, jak z údolí udělat pořádný zábavní park."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "As before, <Lore>collect all the materials on my list</Lore>, then we'll get started.",
+      "cz": "Jako předtím, <Lore>sesbírej všechny materiály z mého seznamu</Lore> a pak začneme.",
+      "source": "pre_existing",
+      "original_cz": "Jako předtím, <Lore>sesbírej všechny materiály z mého seznamu</Lore> a pak začneme."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Don't take too long, {PlayerName}!",
+      "cz": "Nezdržuj se, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Nezdržuj se, {PlayerName}!"
+    }
+  ],
+  "Upd10MiniEvent_Scrooge/Scrooge_RPT_Scro_WeeklyPark_030_RPT_Scro_WeeklyPark_030_Outro.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Stupendous work, {PlayerName}!",
+      "cz": "Skvělá práce, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Skvělá práce, {PlayerName}!"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "You've put a grand effort into decoratin' for the festival.",
+      "cz": "Vynaložil jsi velké úsilí na výzdobu festivalu.",
+      "source": "pre_existing",
+      "original_cz": "Vynaložil jsi velké úsilí na výzdobu festivalu."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "And it's my pleasure to reward ya in kind!",
+      "cz": "A je mi potěšením vás odměnit laskavě!",
+      "source": "pre_existing",
+      "original_cz": "A je mi potěšením vás odměnit laskavě!"
+    }
+  ],
+  "Upd10MiniEvent_Scrooge/Scrooge_RPT_Scro_WeeklyPark_030_RPT_Scro_WeeklyPark_030_TalkTo01.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Perfect timing!",
+      "cz": "Perfektní načasování!",
+      "source": "pre_existing",
+      "original_cz": "Perfektní načasování!"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "The finishing touches for our Dreamlight Parks Fest transformation will be <ActivityItem>Mickey Mouse Park Balloons</ActivityItem> and a <ActivityItem>Park Recycling Bin</ActivityItem>.",
+      "cz": "Dokončovacími detaily pro naši proměnu v rámci festivalu Dreamlight Parks Fest budou <ActivityItem>balónky Mickey Mouse Park</ActivityItem> a <ActivityItem>koš na tříděný odpad v parku</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Dokončovacími detaily pro naši proměnu v rámci festivalu Dreamlight Parks Fest budou <ActivityItem>balónky Mickey Mouse Park</ActivityItem> a <ActivityItem>koš na tříděný odpad v parku</ActivityItem>."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Then the Valley'll be JUST like a real amusement park. I cannae wait!",
+      "cz": "Pak bude údolí ÚPLNĚ jako opravdový zábavní park. Už se nemůžu dočkat!",
+      "source": "pre_existing",
+      "original_cz": "Pak bude údolí ÚPLNĚ jako opravdový zábavní park. Už se nemůžu dočkat!"
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Go on and build the items then decorate the Valley. I'll be waiting with a grand prize for ya.",
+      "cz": "Jdi do toho a postav předměty a pak ozdob Údolí. Budu na tebe čekat s hlavní cenou.",
+      "source": "pre_existing",
+      "original_cz": "Jdi do toho a postav předměty a pak ozdob Údolí. Budu na tebe čekat s hlavní cenou."
+    }
+  ],
+  "Upd10MiniEvent_Scrooge/Scrooge_SEC_Scro_IntroPark_SEC_Scro_IntroPark_TalkTo01.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Ah, {PlayerName}, have I got exciting news for you!",
+      "cz": "Ach, {PlayerName}, mám pro tebe vzrušující novinku!",
+      "source": "pre_existing",
+      "original_cz": "Ach, {PlayerName}, mám pro tebe vzrušující novinku!"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "I spoke to some of the other Villagers, and we've decided it's high time to bring back the Dreamlight Parks Fest!",
+      "cz": "Mluvil jsem s některými dalšími vesničany a rozhodli jsme se, že je nejvyšší čas vrátit Festival parků snů!",
+      "source": "pre_existing",
+      "original_cz": "Mluvil jsem s některými dalšími vesničany a rozhodli jsme se, že je nejvyšší čas vrátit Festival parků snů!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Tell me more!",
+      "cz": "Řekni mi víc!",
+      "source": "pre_existing",
+      "original_cz": "Řekni mi víc!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Yay! ... What is that?",
+      "cz": "Jupí! ... Co to je?",
+      "source": "pre_existing",
+      "original_cz": "Jupí! ... Co to je?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Those sounds made no sense.",
+      "cz": "Ty zvuky nedávaly smysl.",
+      "source": "pre_existing",
+      "original_cz": "Ty zvuky nedávaly smysl."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Well, before the Forgetting, the Dreamlight Parks Fest was an annual festival here in the Valley.",
+      "cz": "No, před Zapomněním se zde v Údolí konal každoroční festival Dreamlight Parks Fest.",
+      "source": "pre_existing",
+      "original_cz": "No, před Zapomněním se zde v Údolí konal každoroční festival Dreamlight Parks Fest."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "For a few weeks, the entire place becomes one giant amusement park!",
+      "cz": "Na pár týdnů se celé místo promění v jeden obrovský zábavní park!",
+      "source": "pre_existing",
+      "original_cz": "Na pár týdnů se celé místo promění v jeden obrovský zábavní park!"
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "There are special treats to bake and share, collectible popcorn buckets, festival decorations to put up, and prizes a'plenty!",
+      "cz": "Čaká na vás pečení a sdílení speciálních pochoutek, sběratelské kbelíky s popcornem, festivalové dekorace k vyvěšení a spousta cen!",
+      "source": "pre_existing",
+      "original_cz": "Čaká na vás pečení a sdílení speciálních pochoutek, sběratelské kbelíky s popcornem, festivalové dekorace k vyvěšení a spousta cen!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "How do I participate?",
+      "cz": "Jak se mohu zúčastnit?",
+      "source": "pre_existing",
+      "original_cz": "Jak se mohu zúčastnit?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Sounds like a great time!",
+      "cz": "Zní to jako skvělá zábava!",
+      "source": "pre_existing",
+      "original_cz": "Zní to jako skvělá zábava!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Is this a part of your business plan?",
+      "cz": "Je toto součástí vašeho obchodního plánu?",
+      "source": "pre_existing",
+      "original_cz": "Je toto součástí vašeho obchodního plánu?"
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "Oh, I've a feelin' the Dreamlight Parks Fest will come to you. The Villagers are bustin' to bring it back! Just talk to those ya see with a party twinkle in their eye!",
+      "cz": "Mám pocit, že Festival parků snů k vám dorazí. Vesničané se ho snaží přivést zpět! Prostě si promluvte s těmi, které potkáte s jiskrou v oku!",
+      "source": "pre_existing",
+      "original_cz": "Mám pocit, že Festival parků snů k vám dorazí. Vesničané se ho snaží přivést zpět! Prostě si promluvte s těmi, které potkáte s jiskrou v oku!"
+    },
+    {
+      "key": "Scrooge_008_f",
+      "en": "Bless me bagpipes, the first Dreamlight Parks Fest in ages... It'll be a huge success, or my name's not Scrooge McDuck!",
+      "cz": "Žehnej mi dudy, první festival Dreamlight Parks Fest po věčnosti... Bude to obrovský úspěch, jinak se nejmenuji Scrooge McDuck!",
+      "source": "pre_existing",
+      "original_cz": "Žehnej mi dudy, první festival Dreamlight Parks Fest po věčnosti... Bude to obrovský úspěch, jinak se nejmenuji Scrooge McDuck!"
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "Ohh, it is! I cannae wait for you to experience it!",
+      "cz": "Ach jo, to je ono! Už se nemůžu dočkat, až to zažiješ!",
+      "source": "pre_existing",
+      "original_cz": "Ach jo, to je ono! Už se nemůžu dočkat, až to zažiješ!"
+    },
+    {
+      "key": "Scrooge_007_f",
+      "en": "Heh-heh... Not this time, {PlayerName}. Even a shrewd businessman such as myself knows ya cannae put a price tag on fun. This is just a celebration for all the Villagers.",
+      "cz": "Heh-heh... Tentokrát ne, {PlayerName}. I takový chytrý obchodník, jako jsem já, ví, že na zábavu se nedá dávat vysoká cena. Tohle je prostě oslava pro všechny vesničany.",
+      "source": "pre_existing",
+      "original_cz": "Heh-heh... Tentokrát ne, {PlayerName}. I takový chytrý obchodník, jako jsem já, ví, že na zábavu se nedá dávat vysoká cena. Tohle je prostě oslava pro všechny vesničany."
+    }
+  ]
+}

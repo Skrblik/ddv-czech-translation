@@ -1,0 +1,197 @@
+{
+  "Update11_Scrooge/Scrooge_UnlocksAndUpgrades_MulanHouseUnlock.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "{PlayerName}, this is the perfect House for the brave Mulan and her wee Guardian Mushu. Shall we build it?",
+      "cz": "{PlayerName}, tohle je perfektní dům pro statečnou Mulan a jejího malého strážce Mushua. Postavíme ho?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, tohle je perfektní dům pro statečnou Mulan a jejího malého strážce Mushua. Postavíme ho?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's build a place for Mulan and Mushu. (Use <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>",
+      "cz": "Postavme místo pro Mulan a Mushua. (Použijte <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>",
+      "source": "pre_existing",
+      "original_cz": "Postavme místo pro Mulan a Mushua. (Použijte <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Maybe another time.",
+      "cz": "Možná jindy.",
+      "source": "pre_existing",
+      "original_cz": "Možná jindy."
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "I cannae wait for them to see all that we've built!",
+      "cz": "Už se nemůžu dočkat, až uvidí všechno, co jsme postavili!",
+      "source": "pre_existing",
+      "original_cz": "Už se nemůžu dočkat, až uvidí všechno, co jsme postavili!"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Och! You dinnae have enough Star Coins yet! Come back when you have the funds, {PlayerName}.",
+      "cz": "Ach! Ještě nemáš dost hvězdných mincí! Vrať se, až budeš mít peníze, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Ach! Ještě nemáš dost hvězdných mincí! Vrať se, až budeš mít peníze, {PlayerName}."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "*sigh* Fine. I'll be here when you're ready.",
+      "cz": "*povzdech* Dobře. Budu tu, až budeš připravený/á.",
+      "source": "pre_existing",
+      "original_cz": "*povzdech* Dobře. Budu tu, až budeš připravený/á."
+    }
+  ],
+  "Update11_Scrooge/Scrooge_VLG_Mula_010_VLG_Mula_010_TalkTo02.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Ah, good day to ya, {PlayerName}. What's that twinkle in your eye I see?",
+      "cz": "Ah, přeji Vám hezký den, {PlayerName}. Co to vidím v Tvých očích za jiskru?",
+      "source": "pre_existing",
+      "original_cz": "Ah, přeji Vám hezký den, {PlayerName}. Co to vidím v Tvých očích za jiskru?"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "I'm here to invite you to tea at Mulan's home.",
+      "cz": "Jsem tu, abych tě pozval na čaj k Mulan domů.",
+      "source": "pre_existing",
+      "original_cz": "Jsem tu, abych tě pozval na čaj k Mulan domů."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "It will be like old times!",
+      "cz": "Bude to jako za starých časů!",
+      "source": "pre_existing",
+      "original_cz": "Bude to jako za starých časů!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "You work too hard; time to relax.",
+      "cz": "Pracuješ příliš tvrdě; je čas na odpočinek.",
+      "source": "pre_existing",
+      "original_cz": "Pracuješ příliš tvrdě; je čas na odpočinek."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "No business talk allowed.",
+      "cz": "Obchodní rozhovory nejsou povoleny.",
+      "source": "pre_existing",
+      "original_cz": "Obchodní rozhovory nejsou povoleny."
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "What a bonnie idea!",
+      "cz": "To je ale skvělý nápad!",
+      "source": "pre_existing",
+      "original_cz": "To je ale skvělý nápad!"
+    },
+    {
+      "key": "Scrooge_007_f",
+      "en": "Before the Forgetting, I'd go for tea at Mulan's almost every week. I'll be there happily!",
+      "cz": "Před Zapomněním jsem chodil na čaj k Mulan skoro každý týden. Budu tam rád!",
+      "source": "pre_existing",
+      "original_cz": "Před Zapomněním jsem chodil na čaj k Mulan skoro každý týden. Budu tam rád!"
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "I'll have you know I work as much as I like. But there's always time for a tea!",
+      "cz": "Abys věděl/a, pracuji, jak chci. Ale na čaj se čas vždycky najde!",
+      "source": "pre_existing",
+      "original_cz": "Abys věděl/a, pracuji, jak chci. Ale na čaj se čas vždycky najde!"
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "I'll be there.",
+      "cz": "Budu tam.",
+      "source": "pre_existing",
+      "original_cz": "Budu tam."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Och. You misjudge me, {PlayerName}. There's more to Scrooge McDuck than balances and earnings.",
+      "cz": "Ach. Špatně mě odhadujete, {PlayerName}. Scrooge McDuck je víc než jen zůstatky a výdělky.",
+      "source": "pre_existing",
+      "original_cz": "Ach. Špatně mě odhadujete, {PlayerName}. Scrooge McDuck je víc než jen zůstatky a výdělky."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "I'll be comin' to tea, and you'll see.",
+      "cz": "Přijdu na čaj a uvidíš.",
+      "source": "pre_existing",
+      "original_cz": "Přijdu na čaj a uvidíš."
+    }
+  ],
+  "Update11_Scrooge/Scrooge_VLG_Mula_010_VLG_Mula_010_TalkTo09.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Sparkle me spats! So many marvelous choices. Which tea should I have for my next cup, {PlayerName}?",
+      "cz": "Zářivé kamaše! Tolik skvělých možností. Jaký čaj si mám dát příště, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Zářivé kamaše! Tolik skvělých možností. Jaký čaj si mám dát příště, {PlayerName}?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Chrysanthemum tea.",
+      "cz": "Chrysanthemový čaj.",
+      "source": "pre_existing",
+      "original_cz": "Chrysanthemový čaj."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Oolong tea.",
+      "cz": "Oolong čaj.",
+      "source": "pre_existing",
+      "original_cz": "Oolong čaj."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Jasmine tea.",
+      "cz": "Jasmínový čaj.",
+      "source": "pre_existing",
+      "original_cz": "Jasmínový čaj."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Hmm... That may be a wee bit floral for me, but I'll try anything once!",
+      "cz": "Hmm... To je pro mě možná trochu květinové, ale jednou vyzkouším cokoli!",
+      "source": "pre_existing",
+      "original_cz": "Hmm... To je pro mě možná trochu květinové, ale jednou vyzkouším cokoli!"
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "What delicious <Lore>Jasmine Tea</Lore>. And I'm certain that's some of the finest available!",
+      "cz": "Jaký lahodný <Lore>jasmínový čaj</Lore>. A jsem si jistý, že je to jeden z nejlepších dostupných!",
+      "source": "pre_existing",
+      "original_cz": "Jaký lahodný <Lore>jasmínový čaj</Lore>. A jsem si jistý, že je to jeden z nejlepších dostupných!"
+    },
+    {
+      "key": "Scrooge_008_f",
+      "en": "This made many a trader their fortune, you know.",
+      "cz": "Víte, díky tomu se mnoha obchodníkům podařilo zbohatnout.",
+      "source": "pre_existing",
+      "original_cz": "Víte, díky tomu se mnoha obchodníkům podařilo zbohatnout."
+    },
+    {
+      "key": "Scrooge_007_f",
+      "en": "I dinnae think that will be a favorite of mine for future tea gatherings. But never say Scrooge McDuck isn't adventurous!",
+      "cz": "Nemyslím si, že to bude moje nejoblíbenější jídlo pro budoucí čajová setkání. Ale nikdy neříkejte, že Scrooge McDuck není dobrodružný!",
+      "source": "pre_existing",
+      "original_cz": "Nemyslím si, že to bude moje nejoblíbenější jídlo pro budoucí čajová setkání. Ale nikdy neříkejte, že Scrooge McDuck není dobrodružný!"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "It smells quite strong... Like it'll have a nice kick!",
+      "cz": "Voní to docela silně... Jako by to mělo pořádný šmrnc!",
+      "source": "pre_existing",
+      "original_cz": "Voní to docela silně... Jako by to mělo pořádný šmrnc!"
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Aye, that is my favorite.",
+      "cz": "Ano, to je moje nejoblíbenější.",
+      "source": "pre_existing",
+      "original_cz": "Ano, to je moje nejoblíbenější."
+    }
+  ]
+}

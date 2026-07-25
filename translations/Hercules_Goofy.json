@@ -1,0 +1,791 @@
+{
+  "Hercules_Goofy/Goofy_RLM_HerculesIP_Herc_020_RLM_HerculesIP_Herc_020_TalkTo09.locbin": [
+    {
+      "key": "Goofy_000_f",
+      "en": "Goofy, you seem like a guy who knows jokes! Could you tell me one?",
+      "cz": "Goofy, vypadáš jako chlap, co zná vtipy! Mohl bys mi jeden říct?",
+      "source": "pre_existing",
+      "original_cz": "Goofy, vypadáš jako chlap, co zná vtipy! Mohl bys mi jeden říct?"
+    },
+    {
+      "key": "Goofy_001_f",
+      "en": "Gawrsh, that's about the nicest compliment I've ever heard!",
+      "cz": "Bože, to je asi nejhezčí kompliment, jaký jsem kdy slyšel/a!",
+      "source": "pre_existing",
+      "original_cz": "Bože, to je asi nejhezčí kompliment, jaký jsem kdy slyšel/a!"
+    },
+    {
+      "key": "Goofy_002_f",
+      "en": "I love jokes! Hmm, now which one...",
+      "cz": "Miluju vtipy! Hmm, a teď který z nich...",
+      "source": "pre_existing",
+      "original_cz": "Miluju vtipy! Hmm, a teď který z nich..."
+    },
+    {
+      "key": "Goofy_003_f",
+      "en": "Oh! I know! Where do fish sleep?",
+      "cz": "Jé! Já vím! Kde ryby spí?",
+      "source": "pre_existing",
+      "original_cz": "Jé! Já vím! Kde ryby spí?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "In a fishbowl?",
+      "cz": "V akváriu?",
+      "source": "pre_existing",
+      "original_cz": "V akváriu?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "The riverbed!",
+      "cz": "Koryto řeky!",
+      "source": "pre_existing",
+      "original_cz": "Koryto řeky!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I have no idea. Where?",
+      "cz": "Nemám tušení. Kde?",
+      "source": "pre_existing",
+      "original_cz": "Nemám tušení. Kde?"
+    },
+    {
+      "key": "Goofy_004_f",
+      "en": "Nope! They sleep in the <i>riverBED</i>! A-hyuck!",
+      "cz": "Ne! Spí v <i>říčním KOSTĚ</i>! A-hyuck!",
+      "source": "pre_existing",
+      "original_cz": "Ne! Spí v <i>říčním KOSTĚ</i>! A-hyuck!"
+    },
+    {
+      "key": "Goofy_007_f",
+      "en": "That's a good one, Goofy! Thanks!",
+      "cz": "To je dobrý, Goofy! Díky!",
+      "source": "pre_existing",
+      "original_cz": "To je dobrý, Goofy! Díky!"
+    },
+    {
+      "key": "Goofy_008_f",
+      "en": "Anytime, pal!",
+      "cz": "Kdykoli, kámo!",
+      "source": "pre_existing",
+      "original_cz": "Kdykoli, kámo!"
+    },
+    {
+      "key": "Goofy_005_f",
+      "en": "That's right! Great guess!",
+      "cz": "Přesně tak! Skvělý tip!",
+      "source": "pre_existing",
+      "original_cz": "Přesně tak! Skvělý tip!"
+    },
+    {
+      "key": "Goofy_006_f",
+      "en": "The riverBED! A-hyuck!",
+      "cz": "Koryto řeky! A-hyuck!",
+      "source": "pre_existing",
+      "original_cz": "Koryto řeky! A-hyuck!"
+    }
+  ],
+  "Hercules_Goofy/Goofy_VLG_Phil_010_VLG_Phil_010_BringItem03.locbin": [
+    {
+      "key": "Goofy_001_f",
+      "en": "There you go, Goofy. All the resources to build that stage!",
+      "cz": "Tak vidíš, Goofy. Všechny zdroje na stavbu toho pódia!",
+      "source": "pre_existing",
+      "original_cz": "Tak vidíš, Goofy. Všechny zdroje na stavbu toho pódia!"
+    },
+    {
+      "key": "Goofy_002_f",
+      "en": "Thanks, {PlayerName}! With this stuff, I should be able to finish up soon!",
+      "cz": "Díky, {PlayerName}! S tímhle bych měl být brzy hotový!",
+      "source": "pre_existing",
+      "original_cz": "Díky, {PlayerName}! S tímhle bych měl být brzy hotový!"
+    },
+    {
+      "key": "Goofy_003_f",
+      "en": "Oh, and Phil came by. He wants to <Lore>talk to you and Remy</Lore>.",
+      "cz": "Jo, a zastavil se tu Phil. Chce si <Lore>promluvit s tebou a Remym</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Jo, a zastavil se tu Phil. Chce si <Lore>promluvit s tebou a Remym</Lore>."
+    },
+    {
+      "key": "Goofy_004_f",
+      "en": "He said something about edible props...?",
+      "cz": "Říkal něco o jedlých rekvizitách...?",
+      "source": "pre_existing",
+      "original_cz": "Říkal něco o jedlých rekvizitách...?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "He's part goat. Isn't everything edible to him?",
+      "cz": "Je zčásti koza. Není pro něj všechno k jídlu?",
+      "source": "pre_existing",
+      "original_cz": "Je zčásti koza. Není pro něj všechno k jídlu?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Hmm, how strange. Better go see him.",
+      "cz": "Hmm, to je zvláštní. Raději ho zajdi navštívit.",
+      "source": "pre_existing",
+      "original_cz": "Hmm, to je zvláštní. Raději ho zajdi navštívit."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I'm beginning to have concerns about this play.",
+      "cz": "Začínám mít z téhle hry obavy.",
+      "source": "pre_existing",
+      "original_cz": "Začínám mít z téhle hry obavy."
+    },
+    {
+      "key": "Goofy_005_f",
+      "en": "Gawrsh, you might be right! A-hyuck!",
+      "cz": "Gawrsh, možná máš pravdu! A-hyuck!",
+      "source": "pre_existing",
+      "original_cz": "Gawrsh, možná máš pravdu! A-hyuck!"
+    },
+    {
+      "key": "Goofy_006_f",
+      "en": "Oh, and he also said that I could play the... \"coarse\"? But I'm not sure what character that is.",
+      "cz": "A taky říkal, že bych si mohl zahrát tu... \"hrubou\"? Ale nejsem si jistý, o jakou postavu se jedná.",
+      "source": "pre_existing",
+      "original_cz": "A taky říkal, že bych si mohl zahrát tu... \"hrubou\"? Ale nejsem si jistý, o jakou postavu se jedná."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Huh, me neither.",
+      "cz": "Hm, já taky ne.",
+      "source": "pre_existing",
+      "original_cz": "Hm, já taky ne."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Maybe he meant \"chorus\"?",
+      "cz": "Možná myslel „sbor“?",
+      "source": "pre_existing",
+      "original_cz": "Možná myslel „sbor“?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "But you're so gentle! How can you be coarse?",
+      "cz": "Ale jsi tak jemný! Jak můžeš být hrubý?",
+      "source": "pre_existing",
+      "original_cz": "Ale jsi tak jemný! Jak můžeš být hrubý?"
+    },
+    {
+      "key": "Goofy_011_f",
+      "en": "Well, <Lore>off to talk to Remy now</Lore>!",
+      "cz": "Tak, <Lore>teď jdu mluvit s Remym</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Tak, <Lore>teď jdu mluvit s Remym</Lore>!"
+    },
+    {
+      "key": "Goofy_012_f",
+      "en": "Oh yeah, that's it!",
+      "cz": "Aha, to je ono!",
+      "source": "pre_existing",
+      "original_cz": "Aha, to je ono!"
+    },
+    {
+      "key": "Goofy_013_f",
+      "en": "Well, if I'm actin', I guess I can be all kinds of things, can't I?",
+      "cz": "No, když hraju, tak asi můžu být všechno možné, ne?",
+      "source": "pre_existing",
+      "original_cz": "No, když hraju, tak asi můžu být všechno možné, ne?"
+    },
+    {
+      "key": "Goofy_007_f",
+      "en": "You do? Gawrsh, I'm excited!",
+      "cz": "Vážně? Jé, jsem nadšený/á!",
+      "source": "pre_existing",
+      "original_cz": "Vážně? Jé, jsem nadšený/á!"
+    }
+  ],
+  "Hercules_Goofy/Goofy_VLG_Phil_020_VLG_Phil_020_GoofyPhilCroco.locbin": [
+    {
+      "key": "Goofy_003_f",
+      "en": "There it is, Goofy! The ferocious beast! Have at it!",
+      "cz": "Tady je, Goofy! Ta zuřivá bestie! Do toho!",
+      "source": "pre_existing",
+      "original_cz": "Tady je, Goofy! Ta zuřivá bestie! Do toho!"
+    }
+  ],
+  "Hercules_Goofy/Goofy_VLG_Phil_020_VLG_Phil_020_TalkTo01.locbin": [
+    {
+      "key": "Goofy_001_f",
+      "en": "Goofy, my friend, have I got a proposition for you!",
+      "cz": "Goofy, příteli, mám pro tebe návrh!",
+      "source": "pre_existing",
+      "original_cz": "Goofy, příteli, mám pro tebe návrh!"
+    },
+    {
+      "key": "Goofy_002_f",
+      "en": "Oh, howdy, Phil! What can I do for ya? Are you puttin' on another play?",
+      "cz": "Ahoj, Phile! Co pro tebe můžu udělat? Chystáš další divadelní hru?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, Phile! Co pro tebe můžu udělat? Chystáš další divadelní hru?"
+    },
+    {
+      "key": "Goofy_003_f",
+      "en": "Nah. This time, it's more what <i>I</i> can do for <i>you</i>!",
+      "cz": "Ne. Tentokrát jde spíš o to, co <i>já</i>můžu pro <i>tebe</i> udělat!",
+      "source": "pre_existing",
+      "original_cz": "Ne. Tentokrát jde spíš o to, co <i>já</i>můžu pro <i>tebe</i> udělat!"
+    },
+    {
+      "key": "Goofy_004_f",
+      "en": "I'm gonna turn you into a hero!",
+      "cz": "Udělám z tebe hrdinu!",
+      "source": "pre_existing",
+      "original_cz": "Udělám z tebe hrdinu!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "You can do it, Goofy!",
+      "cz": "Zvládneš to, Goofy!",
+      "source": "pre_existing",
+      "original_cz": "Zvládneš to, Goofy!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I know this is out of nowhere, but hear him out.",
+      "cz": "Vím, že tohle je z ničeho nic, ale vyslechněte si ho.",
+      "source": "pre_existing",
+      "original_cz": "Vím, že tohle je z ničeho nic, ale vyslechněte si ho."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "This could be fun!",
+      "cz": "To by mohla být zábava!",
+      "source": "pre_existing",
+      "original_cz": "To by mohla být zábava!"
+    },
+    {
+      "key": "Goofy_005_f",
+      "en": "Really? You think so?",
+      "cz": "Vážně? Myslíš?",
+      "source": "pre_existing",
+      "original_cz": "Vážně? Myslíš?"
+    },
+    {
+      "key": "Goofy_008_f",
+      "en": "Trust me Goof, when I'm through with you, you won't even recognize yourself!",
+      "cz": "Věř mi, Goofe, až s tebou skončím, ani se nepoznáš!",
+      "source": "pre_existing",
+      "original_cz": "Věř mi, Goofe, až s tebou skončím, ani se nepoznáš!"
+    },
+    {
+      "key": "Goofy_009_f",
+      "en": "Uhh, but I'm pretty happy with who I am...",
+      "cz": "Hmm, ale jsem docela spokojený s tím, kdo jsem...",
+      "source": "pre_existing",
+      "original_cz": "Hmm, ale jsem docela spokojený s tím, kdo jsem..."
+    },
+    {
+      "key": "Goofy_010_f",
+      "en": "Sure. But you could be so much more!",
+      "cz": "Jasně. Ale mohl bys být mnohem víc!",
+      "source": "pre_existing",
+      "original_cz": "Jasně. Ale mohl bys být mnohem víc!"
+    },
+    {
+      "key": "Goofy_011_f",
+      "en": "Well, you're the coach...",
+      "cz": "No, ty jsi trenér...",
+      "source": "pre_existing",
+      "original_cz": "No, ty jsi trenér..."
+    },
+    {
+      "key": "Goofy_012_f",
+      "en": "That's right! Now, first thing, we gotta get some muscle onto those noodles you call arms.",
+      "cz": "Přesně tak! A teď, nejdřív, musíme nabrat svaly na ty nudle, kterým říkáš paže.",
+      "source": "pre_existing",
+      "original_cz": "Přesně tak! A teď, nejdřív, musíme nabrat svaly na ty nudle, kterým říkáš paže."
+    },
+    {
+      "key": "Goofy_013_f",
+      "en": "{PlayerName}, can you <Lore>make us a Weight Training Set</Lore>?",
+      "cz": "{PlayerName}, mohl bys nám <Lore>vyrobit posilovací sestavu</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, mohl bys nám <Lore>vyrobit posilovací sestavu</Lore>?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Sure! Whip that Goofy into shape!",
+      "cz": "Jasně! Doladte toho Goofyho do formy!",
+      "source": "pre_existing",
+      "original_cz": "Jasně! Doladte toho Goofyho do formy!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Okay, but try to be nice to Goofy.",
+      "cz": "Dobře, ale zkus být na Goofyho milý.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, ale zkus být na Goofyho milý."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I feel like you're already getting a little aggressive.",
+      "cz": "Mám pocit, že už začínáš být trochu agresivní.",
+      "source": "pre_existing",
+      "original_cz": "Mám pocit, že už začínáš být trochu agresivní."
+    },
+    {
+      "key": "Goofy_014_f",
+      "en": "Oh yeah, I'm back, baby!",
+      "cz": "Jo, jsem zpátky, zlato!",
+      "source": "pre_existing",
+      "original_cz": "Jo, jsem zpátky, zlato!"
+    },
+    {
+      "key": "Goofy_015_f",
+      "en": "Nice? Nice doesn't make heroes!",
+      "cz": "Hodný? Hodný člověk hrdiny nedělá!",
+      "source": "pre_existing",
+      "original_cz": "Hodný? Hodný člověk hrdiny nedělá!"
+    },
+    {
+      "key": "Goofy_016_f",
+      "en": "You'd better believe I am! That's how heroes get made!",
+      "cz": "Raději mi věř, že jsem! Takhle se dělají hrdinové!",
+      "source": "pre_existing",
+      "original_cz": "Raději mi věř, že jsem! Takhle se dělají hrdinové!"
+    },
+    {
+      "key": "Goofy_006_f",
+      "en": "Okey dokey...",
+      "cz": "Dobře, doki...",
+      "source": "pre_existing",
+      "original_cz": "Dobře, doki..."
+    },
+    {
+      "key": "Goofy_007_f",
+      "en": "Hmm... if you say so...",
+      "cz": "Hmm... když to tak říkáš...",
+      "source": "pre_existing",
+      "original_cz": "Hmm... když to tak říkáš..."
+    }
+  ],
+  "Hercules_Goofy/Goofy_VLG_Phil_020_VLG_Phil_020_TalkTo03.locbin": [
+    {
+      "key": "Goofy_003_f",
+      "en": "Goofy! Prepare yourself, for I am...",
+      "cz": "Blbečku! Připrav se, protože já jsem...",
+      "source": "pre_existing",
+      "original_cz": "Blbečku! Připrav se, protože já jsem..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "...Vicious {PlayerName}!",
+      "cz": "...Zlomyslný {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "...Zlomyslný {PlayerName}!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "...the Dread {PlayerName}!",
+      "cz": "...Hrůza {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "...Hrůza {PlayerName}!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "...{PlayerName} the Foul!",
+      "cz": "...{PlayerName} faul!",
+      "source": "pre_existing",
+      "original_cz": "...{PlayerName} faul!"
+    },
+    {
+      "key": "Goofy_004_f",
+      "en": "Vicious is good!",
+      "cz": "Zlý je dobrý!",
+      "source": "pre_existing",
+      "original_cz": "Zlý je dobrý!"
+    },
+    {
+      "key": "Goofy_005_f",
+      "en": "Shush, you.",
+      "cz": "Pst, ty.",
+      "source": "pre_existing",
+      "original_cz": "Pst, ty."
+    },
+    {
+      "key": "Goofy_006_f",
+      "en": "Oh my, uhh... I mean... I will defeat you...?",
+      "cz": "Ach jo, ehm... chci říct... já tě porazím...?",
+      "source": "pre_existing",
+      "original_cz": "Ach jo, ehm... chci říct... já tě porazím...?"
+    },
+    {
+      "key": "Goofy_007_f",
+      "en": "But how come you're challengin' me? I didn't do anything to you!",
+      "cz": "Ale proč mě vyzýváš? Nic jsem ti neudělal!",
+      "source": "pre_existing",
+      "original_cz": "Ale proč mě vyzýváš? Nic jsem ti neudělal!"
+    },
+    {
+      "key": "Goofy_008_f",
+      "en": "Ahh, my nefarious plans stem from...",
+      "cz": "Ach, mé hanebné plány pramení z...",
+      "source": "pre_existing",
+      "original_cz": "Ach, mé hanebné plány pramení z..."
+    },
+    {
+      "key": "Goofy_009_f",
+      "en": "...my evil heart! I just want the world to burn!",
+      "cz": "...mé zlé srdce! Chci jen, aby svět hořel!",
+      "source": "pre_existing",
+      "original_cz": "...mé zlé srdce! Chci jen, aby svět hořel!"
+    },
+    {
+      "key": "Goofy_012_f",
+      "en": "Go on, Goofy — you've got this!",
+      "cz": "No tak, Goofy – zvládneš to!",
+      "source": "pre_existing",
+      "original_cz": "No tak, Goofy – zvládneš to!"
+    },
+    {
+      "key": "Goofy_013_f",
+      "en": "Oh, umm, prepare to do battle!",
+      "cz": "Ehm, připravte se k boji!",
+      "source": "pre_existing",
+      "original_cz": "Ehm, připravte se k boji!"
+    },
+    {
+      "key": "Goofy_014_f",
+      "en": "But do you like bein' evil? It doesn't seem like very much fun to me. Now, fishin' — that's fun! Do you wanna go fishin' with me?",
+      "cz": "Ale líbí se ti být zlý? Mně to nepřipadá jako moc zábavné. Rybaření – to je zábava! Chceš jít se mnou na ryby?",
+      "source": "pre_existing",
+      "original_cz": "Ale líbí se ti být zlý? Mně to nepřipadá jako moc zábavné. Rybaření – to je zábava! Chceš jít se mnou na ryby?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "No!",
+      "cz": "Žádný!",
+      "source": "pre_existing",
+      "original_cz": "Žádný!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I will... fill in every fishing hole in the world!",
+      "cz": "Zaplním... každou rybářskou díru na světě!",
+      "source": "pre_existing",
+      "original_cz": "Zaplním... každou rybářskou díru na světě!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I hate fish!",
+      "cz": "Nesnáším ryby!",
+      "source": "pre_existing",
+      "original_cz": "Nesnáším ryby!"
+    },
+    {
+      "key": "Goofy_016_f",
+      "en": "Gawrsh, that was pretty mean. Don't ya feel bad about that? Even a little?",
+      "cz": "Bože, to bylo pěkně zlé. Nemáš z toho pocit lítosti? Ani trochu?",
+      "source": "pre_existing",
+      "original_cz": "Bože, to bylo pěkně zlé. Nemáš z toho pocit lítosti? Ani trochu?"
+    },
+    {
+      "key": "Goofy_017_f",
+      "en": "Well, I do regret...",
+      "cz": "No, lituji...",
+      "source": "pre_existing",
+      "original_cz": "No, lituji..."
+    },
+    {
+      "key": "Goofy_018_f",
+      "en": "...that my path to infamy ruined my relationship with my favorite cousin.",
+      "cz": "...že moje cesta k hanbě zničila můj vztah s mým nejoblíbenějším bratrancem/sestřenicí.",
+      "source": "pre_existing",
+      "original_cz": "...že moje cesta k hanbě zničila můj vztah s mým nejoblíbenějším bratrancem/sestřenicí."
+    },
+    {
+      "key": "Goofy_021_f",
+      "en": "Aw, I'm sure it's not too late to mend things, pal.",
+      "cz": "No, určitě ještě není pozdě to napravit, kámo.",
+      "source": "pre_existing",
+      "original_cz": "No, určitě ještě není pozdě to napravit, kámo."
+    },
+    {
+      "key": "Goofy_024_f",
+      "en": "ARRGGH! I CAN'T TAKE THIS! FOCUS, GOOFY!",
+      "cz": "ARRRGH! TOHLE NEZVLÁDNU! SOUSTŘEĎ SE, HLUPÁKU!",
+      "source": "pre_existing",
+      "original_cz": "ARRRGH! TOHLE NEZVLÁDNU! SOUSTŘEĎ SE, HLUPÁKU!"
+    },
+    {
+      "key": "Goofy_025_f",
+      "en": "But I think we're gettin' somewhere, coach!",
+      "cz": "Ale myslím, že se někam posouváme, trenére!",
+      "source": "pre_existing",
+      "original_cz": "Ale myslím, že se někam posouváme, trenére!"
+    },
+    {
+      "key": "Goofy_026_f",
+      "en": "What are you talkin' about?! There's been no punching, no throwing, not even a little small shoving! Hooo, I think I'm gettin' dizzy...",
+      "cz": "O čem to mluvíš?! Žádné rány pěstí, žádné házení, ani malé strčení! Jéé, myslím, že se mi točí hlava...",
+      "source": "pre_existing",
+      "original_cz": "O čem to mluvíš?! Žádné rány pěstí, žádné házení, ani malé strčení! Jéé, myslím, že se mi točí hlava..."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Ha! My evil powers claim another victim!",
+      "cz": "Ha! Moje zlé síly si vyžádaly další oběť!",
+      "source": "pre_existing",
+      "original_cz": "Ha! Moje zlé síly si vyžádaly další oběť!"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Maybe you should sit down for a moment.",
+      "cz": "Možná by sis měl na chvíli sednout.",
+      "source": "pre_existing",
+      "original_cz": "Možná by sis měl na chvíli sednout."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Maybe Goofy's got the right angle here. I'm feeling less villainous.",
+      "cz": "Možná má Goofy ten správný úhel pohledu. Připadám si méně záporně.",
+      "source": "pre_existing",
+      "original_cz": "Možná má Goofy ten správný úhel pohledu. Připadám si méně záporně."
+    },
+    {
+      "key": "Goofy_000_f",
+      "en": "Gawrsh, {PlayerName}, I don't think Phil's pretendin'. Maybe we should take a break.",
+      "cz": "Gawrsh, {PlayerName}, nemyslím si, že Phil předstírá. Možná bychom si měli dát pauzu.",
+      "source": "pre_existing",
+      "original_cz": "Gawrsh, {PlayerName}, nemyslím si, že Phil předstírá. Možná bychom si měli dát pauzu."
+    },
+    {
+      "key": "Goofy_027_f",
+      "en": "No! This HAS to work! Goofy HAS to be a proper hero! I can't take this pressure!",
+      "cz": "Ne! Tohle MUSÍ fungovat! Goofy MUSÍ být pořádný hrdina! Tenhle tlak nezvládnu!",
+      "source": "pre_existing",
+      "original_cz": "Ne! Tohle MUSÍ fungovat! Goofy MUSÍ být pořádný hrdina! Tenhle tlak nezvládnu!"
+    },
+    {
+      "key": "Goofy_028_f",
+      "en": "... Why, Phil? Don't ya like me for who I am already?",
+      "cz": "... Proč, Phile? Nemáš mě rád takového, jaký už jsem?",
+      "source": "pre_existing",
+      "original_cz": "... Proč, Phile? Nemáš mě rád takového, jaký už jsem?"
+    },
+    {
+      "key": "Goofy_029_f",
+      "en": "Yeah, maybe you're putting too much pressure on yourself, Phil.",
+      "cz": "Jo, možná na sebe vyvíjíš příliš velký tlak, Phile.",
+      "source": "pre_existing",
+      "original_cz": "Jo, možná na sebe vyvíjíš příliš velký tlak, Phile."
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "Nobody is saying anything bad about your coaching skills.",
+      "cz": "Nikdo neříká nic špatného o vašich trenérských schopnostech.",
+      "source": "pre_existing",
+      "original_cz": "Nikdo neříká nic špatného o vašich trenérských schopnostech."
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "This is all a burden that you're putting on yourself.",
+      "cz": "Tohle všechno je břemeno, které si na sebe kladeš.",
+      "source": "pre_existing",
+      "original_cz": "Tohle všechno je břemeno, které si na sebe kladeš."
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "Don't you already have proof that you're an amazing coach?",
+      "cz": "Nemáš už důkaz, že jsi úžasný trenér?",
+      "source": "pre_existing",
+      "original_cz": "Nemáš už důkaz, že jsi úžasný trenér?"
+    },
+    {
+      "key": "Goofy_030_f",
+      "en": "I... I just... My life's work... Nobody in the Valley really knows what I did with Hercules. And if I'm not the best, what am I? Maybe if folks here know I'm the best coach around, I can finally relax.",
+      "cz": "Já... já jen... Moje životní dílo... Nikdo v údolí doopravdy neví, co jsem dělal s Herkulem. A když nejsem nejlepší, co jsem? Možná, že když lidé tady budou vědět, že jsem nejlepší trenér v okolí, můžu si konečně odpočinout.",
+      "source": "pre_existing",
+      "original_cz": "Já... já jen... Moje životní dílo... Nikdo v údolí doopravdy neví, co jsem dělal s Herkulem. A když nejsem nejlepší, co jsem? Možná, že když lidé tady budou vědět, že jsem nejlepší trenér v okolí, můžu si konečně odpočinout."
+    },
+    {
+      "key": "Goofy_031_f",
+      "en": "Okay, wild idea, but what if you just... relax?",
+      "cz": "Dobře, divoký nápad, ale co kdybyste se prostě... uvolnili?",
+      "source": "pre_existing",
+      "original_cz": "Dobře, divoký nápad, ale co kdybyste se prostě... uvolnili?"
+    },
+    {
+      "key": "Goofy_032_f",
+      "en": "Gawrsh Phil, everyone knows you're a great coach. You don't need to turn me into a hero like Hercules to prove that to anybody.",
+      "cz": "Gawrsh Phile, všichni vědí, že jsi skvělý trenér. Nemusíš ze mě dělat hrdinu jako Herkules, abys to někomu dokázal.",
+      "source": "pre_existing",
+      "original_cz": "Gawrsh Phile, všichni vědí, že jsi skvělý trenér. Nemusíš ze mě dělat hrdinu jako Herkules, abys to někomu dokázal."
+    },
+    {
+      "key": "Goofy_033_f",
+      "en": "What if you try to actually enjoy your retirement? You're in Dreamlight Valley — this place can make dreams come true!",
+      "cz": "Co kdybyste si zkusili skutečně užít svůj důchod? Jste v Dreamlight Valley – toto místo vám může splnit sny!",
+      "source": "pre_existing",
+      "original_cz": "Co kdybyste si zkusili skutečně užít svůj důchod? Jste v Dreamlight Valley – toto místo vám může splnit sny!"
+    },
+    {
+      "key": "Goofy_034_f",
+      "en": "You know what? You're right! One of my heroes literally has his own constellation. What am I working so hard for?!",
+      "cz": "Víš co? Máš pravdu! Jeden z mých hrdinů má doslova své vlastní souhvězdí. Pro co se tak snažím?!",
+      "source": "pre_existing",
+      "original_cz": "Víš co? Máš pravdu! Jeden z mých hrdinů má doslova své vlastní souhvězdí. Pro co se tak snažím?!"
+    },
+    {
+      "key": "Goofy_035_f",
+      "en": "I think Phil needs help relaxin' more than I need help bein' a hero.",
+      "cz": "Myslím, že Phil potřebuje víc pomoct s relaxací, než já s tím, abych se stal hrdinou.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že Phil potřebuje víc pomoct s relaxací, než já s tím, abych se stal hrdinou."
+    },
+    {
+      "key": "Goofy_036_f",
+      "en": "{PlayerName}, what if you <Lore>make Phil his own special chair to relax in</Lore>?",
+      "cz": "{PlayerName}, co kdybyste <Lore>Philovi vyrobili jeho vlastní speciální křeslo, ve kterém by si mohl odpočinout</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, co kdybyste <Lore>Philovi vyrobili jeho vlastní speciální křeslo, ve kterém by si mohl odpočinout</Lore>?"
+    },
+    {
+      "key": "Goofy_037_f",
+      "en": "Hmm, my own fancy relaxation chair? A chair so great it'd be good enough for Zeus. Wouldn't that be somethin'?",
+      "cz": "Hmm, moje vlastní luxusní relaxační křeslo? Křeslo tak skvělé, že by stačilo i Dia. Nebylo by to něco?",
+      "source": "pre_existing",
+      "original_cz": "Hmm, moje vlastní luxusní relaxační křeslo? Křeslo tak skvělé, že by stačilo i Dia. Nebylo by to něco?"
+    },
+    {
+      "key": "Goofy_038_f",
+      "en": "Well, now it's time for ME to put on the hero hat. I bet I can make a great lounge chair. And, maybe, <Lore>Hercules can help me out with that</Lore>.",
+      "cz": "Tak a teď je čas, abych si JÁ nasadil hrdinský klobouk. Vsadím se, že dokážu vyrobit skvělé lehátko. A možná mi s tím <Lore>Herkules pomůže</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Tak a teď je čas, abych si JÁ nasadil hrdinský klobouk. Vsadím se, že dokážu vyrobit skvělé lehátko. A možná mi s tím <Lore>Herkules pomůže</Lore>."
+    },
+    {
+      "key": "Goofy_019_f",
+      "en": "...that people won't understand that my glorious plan is the right path. The ends justify the means, Goofy.",
+      "cz": "...že lidé nepochopí, že můj skvělý plán je ta správná cesta. Cíl světí prostředky, Goofy.",
+      "source": "pre_existing",
+      "original_cz": "...že lidé nepochopí, že můj skvělý plán je ta správná cesta. Cíl světí prostředky, Goofy."
+    },
+    {
+      "key": "Goofy_022_f",
+      "en": "I don't know about that, but maybe we could put our heads together and come up with some better means!",
+      "cz": "To nevím, ale možná bychom mohli dát hlavy dohromady a vymyslet něco lepšího!",
+      "source": "pre_existing",
+      "original_cz": "To nevím, ale možná bychom mohli dát hlavy dohromady a vymyslet něco lepšího!"
+    },
+    {
+      "key": "Goofy_020_f",
+      "en": "Actually, no — I have no regrets whatsoever!",
+      "cz": "Vlastně ne – vůbec ničeho nelituji!",
+      "source": "pre_existing",
+      "original_cz": "Vlastně ne – vůbec ničeho nelituji!"
+    },
+    {
+      "key": "Goofy_023_f",
+      "en": "Are ya sure? Everyone's got some regrets. Ya know, it's okay to make mistakes. You just gotta own up to 'em, and try to make things better.",
+      "cz": "Jsi si jistý? Každý má nějaké výčitky. Víš, je v pořádku dělat chyby. Prostě si je musíš přiznat a snažit se věci zlepšit.",
+      "source": "pre_existing",
+      "original_cz": "Jsi si jistý? Každý má nějaké výčitky. Víš, je v pořádku dělat chyby. Prostě si je musíš přiznat a snažit se věci zlepšit."
+    },
+    {
+      "key": "Goofy_010_f",
+      "en": "...my desire to show up my older sibling! I'll finally be the smarter one!",
+      "cz": "...moje touha ukázat se staršímu sourozenci! Konečně budu ten chytřejší!",
+      "source": "pre_existing",
+      "original_cz": "...moje touha ukázat se staršímu sourozenci! Konečně budu ten chytřejší!"
+    },
+    {
+      "key": "Goofy_011_f",
+      "en": "...my goal of finally not being ignored! I'll make everyone see me!",
+      "cz": "...mým cílem je konečně nechat se ignorovat! Donutí mě všechny vidět!",
+      "source": "pre_existing",
+      "original_cz": "...mým cílem je konečně nechat se ignorovat! Donutí mě všechny vidět!"
+    }
+  ],
+  "Hercules_Goofy/Goofy_VLG_Phil_020_VLG_Phil_020_TalkTo05.locbin": [
+    {
+      "key": "Goofy_000_f",
+      "en": "Well... THAT WAS A DISASTER!",
+      "cz": "No... TO BYLA KATASTROFA!",
+      "source": "pre_existing",
+      "original_cz": "No... TO BYLA KATASTROFA!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "It wasn't great.",
+      "cz": "Nebylo to skvělé.",
+      "source": "pre_existing",
+      "original_cz": "Nebylo to skvělé."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Well, the croc wasn't exactly evil.",
+      "cz": "No, krokodýl nebyl zrovna zlý.",
+      "source": "pre_existing",
+      "original_cz": "No, krokodýl nebyl zrovna zlý."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Goofy is just a naturalist, okay?",
+      "cz": "Goofy je prostě přírodovědec, jasný?",
+      "source": "pre_existing",
+      "original_cz": "Goofy je prostě přírodovědec, jasný?"
+    },
+    {
+      "key": "Goofy_007_f",
+      "en": "Hmm, I need a new angle...",
+      "cz": "Hmm, potřebuji nový úhel pohledu...",
+      "source": "pre_existing",
+      "original_cz": "Hmm, potřebuji nový úhel pohledu..."
+    },
+    {
+      "key": "Goofy_001_f",
+      "en": "Gawrsh, I hope the little guy's gonna be okay.",
+      "cz": "Gawrsh, doufám, že ten malý bude v pořádku.",
+      "source": "pre_existing",
+      "original_cz": "Gawrsh, doufám, že ten malý bude v pořádku."
+    },
+    {
+      "key": "Goofy_002_f",
+      "en": "With you keeping an eye on him, I'm sure he will be, Goofy.",
+      "cz": "Když na něj budeš dávat pozor, jsem si jistý, že bude, Goofy.",
+      "source": "pre_existing",
+      "original_cz": "Když na něj budeš dávat pozor, jsem si jistý, že bude, Goofy."
+    },
+    {
+      "key": "Goofy_003_f",
+      "en": "Thanks, {PlayerName}; that means a lot coming from you! I'll make sure he gets home safe.",
+      "cz": "Díky, {PlayerName}; to od tebe pro mě hodně znamená! Postarám se, aby se v pořádku dostal domů.",
+      "source": "pre_existing",
+      "original_cz": "Díky, {PlayerName}; to od tebe pro mě hodně znamená! Postarám se, aby se v pořádku dostal domů."
+    },
+    {
+      "key": "Goofy_004_f",
+      "en": "Ah-ha! I've got it! {PlayerName}, let's go <Lore>talk to Joy</Lore>.",
+      "cz": "Aha! Mám to! {PlayerName}, pojďme si <Lore>promluvit s Joy</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Aha! Mám to! {PlayerName}, pojďme si <Lore>promluvit s Joy</Lore>."
+    },
+    {
+      "key": "Goofy_005_f",
+      "en": "If anyone can help inspire the joy of heroism, it's her!",
+      "cz": "Pokud někdo může inspirovat radost z hrdinství, je to ona!",
+      "source": "pre_existing",
+      "original_cz": "Pokud někdo může inspirovat radost z hrdinství, je to ona!"
+    },
+    {
+      "key": "Goofy_008_f",
+      "en": "True, maybe I need to adjust my strategy here...",
+      "cz": "Je pravda, že si tu možná budu muset upravit strategii...",
+      "source": "pre_existing",
+      "original_cz": "Je pravda, že si tu možná budu muset upravit strategii..."
+    },
+    {
+      "key": "Goofy_009_f",
+      "en": "Well, I need him to be a natural hero!",
+      "cz": "No, potřebuji, aby byl přirozeným hrdinou!",
+      "source": "pre_existing",
+      "original_cz": "No, potřebuji, aby byl přirozeným hrdinou!"
+    }
+  ]
+}

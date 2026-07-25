@@ -1,0 +1,199 @@
+{
+  "LadyTramp_Story/ORQS_Merl_050_TheMooseHunt.locbin": [
+    {
+      "key": "Story!ORQS_Merl_050_TheMooseHunt_AvailableDescription",
+      "en": "Merlin has an update for you on all the Mementos you've collected...",
+      "cz": "Merlin má pro tebe novinku ohledně všech suvenýrů, které jsi nasbíral...",
+      "source": "pre_existing",
+      "original_cz": "Merlin má pro tebe novinku ohledně všech suvenýrů, které jsi nasbíral..."
+    },
+    {
+      "key": "Story!ORQS_Merl_050_TheMooseHunt_CompletedStoryDescription",
+      "en": "Pluto was the one on the other side of the portal! You return him home with Mickey's help. Merlin believes all the Mementos have been collected.",
+      "cz": "Pluto byl ten na druhé straně portálu! S Mickeyho pomocí ho vrátíte domů. Merlin si myslí, že všechny upomínkové předměty byly shromážděny.",
+      "source": "pre_existing",
+      "original_cz": "Pluto byl ten na druhé straně portálu! S Mickeyho pomocí ho vrátíte domů. Merlin si myslí, že všechny upomínkové předměty byly shromážděny."
+    },
+    {
+      "key": "Story!ORQS_Merl_050_TheMooseHunt_DisplayName",
+      "en": "The Moose Hunt",
+      "cz": "Lov losů",
+      "source": "pre_existing",
+      "original_cz": "Lov losů"
+    },
+    {
+      "key": "Story!ORQS_Merl_050_TheMooseHunt_Group02_StoryDescription",
+      "en": "Merlin believes you have found all the Mementos. He says their gathered magic has begun resonating with something in the Vitalys Mines... But what? Or who?",
+      "cz": "Merlin věří, že jsi našel všechny Památky. Říká, že jejich nashromážděná magie začala rezonovat s něčím v dolech Vitalys... Ale s čím? Nebo s kým?",
+      "source": "pre_existing",
+      "original_cz": "Merlin věří, že jsi našel všechny Památky. Říká, že jejich nashromážděná magie začala rezonovat s něčím v dolech Vitalys... Ale s čím? Nebo s kým?"
+    },
+    {
+      "key": "Story!ORQS_Merl_050_TheMooseHunt_Group03_StoryDescription",
+      "en": "You meet Merlin and Mickey in the Vitalys Mines. Merlin opens a portal that appears in the Mines, and you and Mickey rush to find it to see what's on the other side.",
+      "cz": "V dolech Vitalys potkáte Merlina a Mickeyho. Merlin otevře portál, který se objeví v dolech, a vy s Mickeyem se ho vydáte najít, abyste zjistili, co je na druhé straně.",
+      "source": "pre_existing",
+      "original_cz": "V dolech Vitalys potkáte Merlina a Mickeyho. Merlin otevře portál, který se objeví v dolech, a vy s Mickeyem se ho vydáte najít, abyste zjistili, co je na druhé straně."
+    },
+    {
+      "key": "Story!ORQS_Merl_050_TheMooseHunt_Any_CompletedRequestDescription",
+      "en": "Talk to Merlin.",
+      "cz": "Promluv si s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Merlinem."
+    },
+    {
+      "key": "Story!ORQS_Merl_050_TheMooseHunt_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluvte si s {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC}."
+    },
+    {
+      "key": "Story!ORQS_Merl_050_TheMooseHunt_Group01_StepDescription",
+      "en": "Merlin has an update for you on all the Mementos you've collected...",
+      "cz": "Merlin má pro tebe novinku ohledně všech suvenýrů, které jsi nasbíral...",
+      "source": "pre_existing",
+      "original_cz": "Merlin má pro tebe novinku ohledně všech suvenýrů, které jsi nasbíral..."
+    },
+    {
+      "key": "Story!ORQS_Merl_050_TheMooseHunt_Group02_Step02_BringItem01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!ORQS_Merl_050_TheMooseHunt_Group02_Step02_BringItem02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!ORQS_Merl_050_TheMooseHunt_Group02_Step02_BringItem03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!ORQS_Merl_050_TheMooseHunt_Group02_Step02_BringItem04_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!ORQS_Merl_050_TheMooseHunt_Group02_Step02_BringItem05_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!ORQS_Merl_050_TheMooseHunt_Group02_Step02_BringItem06_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!ORQS_Merl_050_TheMooseHunt_Group02_Step02_BringItem07_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!ORQS_Merl_050_TheMooseHunt_Group02_Step02_BringItem08_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!ORQS_Merl_050_TheMooseHunt_Group02_Step02_ReadyDescription",
+      "en": "Bring the Memento spell supplies to {TargetNPC} in the Vitalys Mines.",
+      "cz": "Přineste zásoby kouzel Memento do dolů Vitalys na místo {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Přineste zásoby kouzel Memento do dolů Vitalys na místo {TargetNPC}."
+    },
+    {
+      "key": "Story!ORQS_Merl_050_TheMooseHunt_Group02_Step02_StepDescription",
+      "en": "Gather the following items for Merlin's Memento spell.<br><br>(Hint: Remember to check in storage for your Mementos!)",
+      "cz": "Sesbírejte následující předměty pro Merlinovo kouzlo Memento.<br><br>(Tip: Nezapomeňte si své Mementa nechat ve skladu!)",
+      "source": "pre_existing",
+      "original_cz": "Sesbírejte následující předměty pro Merlinovo kouzlo Memento.<br><br>(Tip: Nezapomeňte si své Mementa nechat ve skladu!)"
+    },
+    {
+      "key": "Story!ORQS_Merl_050_TheMooseHunt_Group02_Step02_WrongSceneDescription",
+      "en": "Meet Merlin in the Vitalys Mines.",
+      "cz": "Setkejte se s Merlinem v dolech Vitalys.",
+      "source": "pre_existing",
+      "original_cz": "Setkejte se s Merlinem v dolech Vitalys."
+    },
+    {
+      "key": "Story!ORQS_Merl_050_TheMooseHunt_Group03_Step03_FollowCharacter01_StepDescription",
+      "en": "Follow Mickey as he searches for the portal in the Vitalys Mines.",
+      "cz": "Sledujte Mickeyho, jak hledá portál v dolech Vitalys.",
+      "source": "pre_existing",
+      "original_cz": "Sledujte Mickeyho, jak hledá portál v dolech Vitalys."
+    },
+    {
+      "key": "Story!ORQS_Merl_050_TheMooseHunt_Group03_Step03_FollowCharacter01_WrongSceneDescription",
+      "en": "Return to the Vitalys Mines.",
+      "cz": "Vraťte se do dolů Vitalys.",
+      "source": "pre_existing",
+      "original_cz": "Vraťte se do dolů Vitalys."
+    },
+    {
+      "key": "Story!ORQS_Merl_050_TheMooseHunt_Group04_Step04_TalkToCharacter02_StepDescription",
+      "en": "Talk to {TargetNPC} near the portal.",
+      "cz": "Promluvte si s {TargetNPC} poblíž portálu.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC} poblíž portálu."
+    },
+    {
+      "key": "Story!ORQS_Merl_050_TheMooseHunt_Group04_Step04_TalkToCharacter02_WrongSceneDescription",
+      "en": "Return to Mickey in the Vitalys Mines.",
+      "cz": "Vraťte se za Mickey do dolů Vitalys.",
+      "source": "pre_existing",
+      "original_cz": "Vraťte se za Mickey do dolů Vitalys."
+    },
+    {
+      "key": "Story!ORQS_Merl_050_TheMooseHunt_Group05_Step05_Conditional01_StepDescription",
+      "en": "Equip Pluto as a companion.",
+      "cz": "Vybavte Pluta jako společníka.",
+      "source": "pre_existing",
+      "original_cz": "Vybavte Pluta jako společníka."
+    },
+    {
+      "key": "Story!ORQS_Merl_050_TheMooseHunt_Group05_StepDescription",
+      "en": "Pluto came through the Memento portal?!",
+      "cz": "Pluto prošel portálem Memento?!",
+      "source": "pre_existing",
+      "original_cz": "Pluto prošel portálem Memento?!"
+    },
+    {
+      "key": "Story!ORQS_Merl_050_TheMooseHunt_Group06_Step06_TalkToCharacter03_StepDescription",
+      "en": "Go back to {TargetNPC} to tell him of Pluto's return.",
+      "cz": "Vrať se za {TargetNPC} a řekni mu o Plutově návratu.",
+      "source": "pre_existing",
+      "original_cz": "Vrať se za {TargetNPC} a řekni mu o Plutově návratu."
+    },
+    {
+      "key": "Story!ORQS_Merl_050_TheMooseHunt_Group07_Step07_Conditional02_StepDescription",
+      "en": "Equip Pluto as a companion.<br><br>(Hint: Open your Wardrobe menu and find him in the Companions section!)",
+      "cz": "Vybavte Pluta jako společníka.<br><br>(Nápověda: Otevřete si nabídku Šatníku a najděte ho v sekci Společníci!)",
+      "source": "pre_existing",
+      "original_cz": "Vybavte Pluta jako společníka.<br><br>(Nápověda: Otevřete si nabídku Šatníku a najděte ho v sekci Společníci!)"
+    },
+    {
+      "key": "Story!ORQS_Merl_050_TheMooseHunt_Group08_Step08_Decorate01_StepDescription",
+      "en": "Place the <ActivityItem>Memento Display Shelf</ActivityItem> anywhere in the Valley.",
+      "cz": "Umístěte <ActivityItem>Poličku na upomínkové předměty</ActivityItem> kamkoli do údolí.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte <ActivityItem>Poličku na upomínkové předměty</ActivityItem> kamkoli do údolí."
+    },
+    {
+      "key": "Story!ORQS_Merl_050_TheMooseHunt_Group09_Step09_Party01_StepDescription",
+      "en": "Celebrate the end of the Memento saga.",
+      "cz": "Oslavte konec ságy Memento.",
+      "source": "pre_existing",
+      "original_cz": "Oslavte konec ságy Memento."
+    }
+  ]
+}

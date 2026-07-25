@@ -1,0 +1,673 @@
+{
+  "Hercules_Alice/Alice_VLG_Herc_030_VLG_Herc_030_BringItem01.locbin": [
+    {
+      "key": "Alice_002_f",
+      "en": "Hey Alice, Herc. I've got that crib!",
+      "cz": "Hej Alice, Hercu. Mám tu postýlku!",
+      "source": "pre_existing",
+      "original_cz": "Hej Alice, Hercu. Mám tu postýlku!"
+    },
+    {
+      "key": "Alice_003_f",
+      "en": "Oh wow, that looks just like mine! Only, maybe a little more colorful.",
+      "cz": "Páni, to vypadá přesně jako to moje! Jen možná trochu barevnější.",
+      "source": "pre_existing",
+      "original_cz": "Páni, to vypadá přesně jako to moje! Jen možná trochu barevnější."
+    },
+    {
+      "key": "Alice_004_f",
+      "en": "Thank you, {PlayerName}! I just know the fox will like it.",
+      "cz": "Děkuji, {PlayerName}! Vím, že se to lišce bude líbit.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji, {PlayerName}! Vím, že se to lišce bude líbit."
+    },
+    {
+      "key": "Alice_005_f",
+      "en": "I'll put him in the crib now.",
+      "cz": "Teď ho dám do postýlky.",
+      "source": "pre_existing",
+      "original_cz": "Teď ho dám do postýlky."
+    },
+    {
+      "key": "Alice_006_f",
+      "en": "There!",
+      "cz": "Tam!",
+      "source": "pre_existing",
+      "original_cz": "Tam!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I think he likes it!",
+      "cz": "Myslím, že se mu to líbí!",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že se mu to líbí!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "That is incredibly cute.",
+      "cz": "To je neuvěřitelně roztomilé.",
+      "source": "pre_existing",
+      "original_cz": "To je neuvěřitelně roztomilé."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I hope it helps him get better.",
+      "cz": "Doufám, že mu to pomůže se uzdravit.",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že mu to pomůže se uzdravit."
+    },
+    {
+      "key": "Alice_007_f",
+      "en": "I was thinking... this little fox needs a name.",
+      "cz": "Přemýšlel jsem... tahle malá liška potřebuje jméno.",
+      "source": "pre_existing",
+      "original_cz": "Přemýšlel jsem... tahle malá liška potřebuje jméno."
+    },
+    {
+      "key": "Alice_008_f",
+      "en": "What a great idea, Alice! How about Alopos? It's... close enough to the Greek word for fox.",
+      "cz": "To je skvělý nápad, Alice! Co třeba Alopos? Je to... dost podobné řeckému slovu pro lišku.",
+      "source": "pre_existing",
+      "original_cz": "To je skvělý nápad, Alice! Co třeba Alopos? Je to... dost podobné řeckému slovu pro lišku."
+    },
+    {
+      "key": "Alice_009_f",
+      "en": "No, we should name him Mr. Little Fox.",
+      "cz": "Ne, měli bychom ho pojmenovat pan Lišák.",
+      "source": "pre_existing",
+      "original_cz": "Ne, měli bychom ho pojmenovat pan Lišák."
+    },
+    {
+      "key": "Alice_010_f",
+      "en": "What about Tod?",
+      "cz": "A co Tod?",
+      "source": "pre_existing",
+      "original_cz": "A co Tod?"
+    },
+    {
+      "key": "Alice_011_f",
+      "en": "All of those are nice.",
+      "cz": "Všechny jsou hezké.",
+      "source": "pre_existing",
+      "original_cz": "Všechny jsou hezké."
+    },
+    {
+      "key": "Alice_012_f",
+      "en": "I think that {PlayerName} should pick.",
+      "cz": "Myslím, že by si měl vybrat {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že by si měl vybrat {PlayerName}."
+    },
+    {
+      "key": "Player_002_f",
+      "en": "Okay, the fox should be named...",
+      "cz": "Dobře, liška by se měla jmenovat...",
+      "source": "pre_existing",
+      "original_cz": "Dobře, liška by se měla jmenovat..."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "...Alopos!",
+      "cz": "...Alopos!",
+      "source": "pre_existing",
+      "original_cz": "...Alopos!"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "...Mr. Little Fox!",
+      "cz": "...Pane Lišáčku!",
+      "source": "pre_existing",
+      "original_cz": "...Pane Lišáčku!"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "...Tod!",
+      "cz": "...Tode!",
+      "source": "pre_existing",
+      "original_cz": "...Tode!"
+    },
+    {
+      "key": "Alice_013_f",
+      "en": "Hmm, Alopos still looks kinda sick...",
+      "cz": "Hmm, Alopos pořád vypadá trochu nemocně...",
+      "source": "pre_existing",
+      "original_cz": "Hmm, Alopos pořád vypadá trochu nemocně..."
+    },
+    {
+      "key": "Alice_016_f",
+      "en": "Yes, while you were out, I asked Hercules to go on an errand. Fortunately, he's not one of those grown-ups who refuses to listen to children.",
+      "cz": "Ano, když jsi byl pryč, požádal jsem Herkula, aby šel něco vyřídit. Naštěstí nepatří k těm dospělým, co odmítají poslouchat děti.",
+      "source": "pre_existing",
+      "original_cz": "Ano, když jsi byl pryč, požádal jsem Herkula, aby šel něco vyřídit. Naštěstí nepatří k těm dospělým, co odmítají poslouchat děti."
+    },
+    {
+      "key": "Alice_017_f",
+      "en": "I talked to Kristoff. He's been friends with Sven for basically his whole life, so we thought he'd have some ideas about animal medicine.",
+      "cz": "Mluvil jsem s Kristoffem. Se Svenem se kamarádí v podstatě celý život, takže jsme si mysleli, že by mohl mít nějaké nápady ohledně veterinární medicíny.",
+      "source": "pre_existing",
+      "original_cz": "Mluvil jsem s Kristoffem. Se Svenem se kamarádí v podstatě celý život, takže jsme si mysleli, že by mohl mít nějaké nápady ohledně veterinární medicíny."
+    },
+    {
+      "key": "Alice_018_f",
+      "en": "He told us his troll friends gave him a recipe for some medicine that helped Sven when he was sick. But...",
+      "cz": "Řekl nám, že mu jeho trollští přátelé dali recept na nějaký lék, který Svenovi pomohl, když byl nemocný. Ale...",
+      "source": "pre_existing",
+      "original_cz": "Řekl nám, že mu jeho trollští přátelé dali recept na nějaký lék, který Svenovi pomohl, když byl nemocný. Ale..."
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "There's always a but...",
+      "cz": "Vždycky je tu nějaké ale...",
+      "source": "pre_existing",
+      "original_cz": "Vždycky je tu nějaké ale..."
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "Am I heading back to another Realm now?",
+      "cz": "Vrátím se teď do jiné Říše?",
+      "source": "pre_existing",
+      "original_cz": "Vrátím se teď do jiné Říše?"
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "WHATEVER THE FOX NEEDS, I WILL DO.",
+      "cz": "COKOLIV LIŠKA POTŘEBUJE, UDĚLÁM.",
+      "source": "pre_existing",
+      "original_cz": "COKOLIV LIŠKA POTŘEBUJE, UDĚLÁM."
+    },
+    {
+      "key": "Alice_019_f",
+      "en": "We need a special kind of <Lore>Medicinal Moss that he thinks might grow in the Vitalys Mines</Lore>.",
+      "cz": "Potřebujeme speciální druh <Lore>léčivého mechu, o kterém si myslí, že by mohl růst v dolech Vitalys</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Potřebujeme speciální druh <Lore>léčivého mechu, o kterém si myslí, že by mohl růst v dolech Vitalys</Lore>."
+    },
+    {
+      "key": "Alice_000_f",
+      "en": "It's usually found <Lore>near water</Lore>, so we should <Lore>look around the river in the Mines</Lore>.",
+      "cz": "Obvykle se nachází <Lore>u vody</Lore>, takže bychom se měli <Lore>rozhlédnout kolem řeky v Dolech</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Obvykle se nachází <Lore>u vody</Lore>, takže bychom se měli <Lore>rozhlédnout kolem řeky v Dolech</Lore>."
+    },
+    {
+      "key": "Alice_021_f",
+      "en": "All right, I'll <Lore>head over now to gather some</Lore>.",
+      "cz": "Dobře, teď <Lore>půjdu pro nějaké</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, teď <Lore>půjdu pro nějaké</Lore>."
+    },
+    {
+      "key": "Alice_022_f",
+      "en": "I'm coming too! Never know when another pair of hands might help.",
+      "cz": "Jdu taky! Nikdy neví, kdy by se mohl hodit další pár rukou.",
+      "source": "pre_existing",
+      "original_cz": "Jdu taky! Nikdy neví, kdy by se mohl hodit další pár rukou."
+    },
+    {
+      "key": "Alice_020_f",
+      "en": "Oh, you won't have to do that.",
+      "cz": "Ach, to nebudeš muset dělat.",
+      "source": "pre_existing",
+      "original_cz": "Ach, to nebudeš muset dělat."
+    },
+    {
+      "key": "Alice_014_f",
+      "en": "Hmm, Mr. Little Fox still looks kinda sick...",
+      "cz": "Hmm, pan Lišák pořád vypadá trochu nemocně...",
+      "source": "pre_existing",
+      "original_cz": "Hmm, pan Lišák pořád vypadá trochu nemocně..."
+    },
+    {
+      "key": "Alice_015_f",
+      "en": "Hmm, Tod still looks kinda sick...",
+      "cz": "Hmm, Tod pořád vypadá trochu nemocně...",
+      "source": "pre_existing",
+      "original_cz": "Hmm, Tod pořád vypadá trochu nemocně..."
+    }
+  ],
+  "Hercules_Alice/Alice_VLG_Herc_030_VLG_Herc_030_BringItem03.locbin": [
+    {
+      "key": "Alice_003_f",
+      "en": "Alice! Herc! I've got the medicine for Alopos!",
+      "cz": "Alice! Hercu! Mám lék pro Alopose!",
+      "source": "pre_existing",
+      "original_cz": "Alice! Hercu! Mám lék pro Alopose!"
+    },
+    {
+      "key": "Alice_006_f",
+      "en": "Wonderful!",
+      "cz": "Úžasné!",
+      "source": "pre_existing",
+      "original_cz": "Úžasné!"
+    },
+    {
+      "key": "Alice_007_f",
+      "en": "Here you go. Better give him some right away!",
+      "cz": "Tak to máš. Radši mu to dej hned!",
+      "source": "pre_existing",
+      "original_cz": "Tak to máš. Radši mu to dej hned!"
+    },
+    {
+      "key": "Alice_008_f",
+      "en": "Oh! It's working!",
+      "cz": "Jé! Funguje to!",
+      "source": "pre_existing",
+      "original_cz": "Jé! Funguje to!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm so glad!",
+      "cz": "Jsem tak rád/a!",
+      "source": "pre_existing",
+      "original_cz": "Jsem tak rád/a!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "That's good, because we're all out of moss.",
+      "cz": "To je dobře, protože nám všem došel mech.",
+      "source": "pre_existing",
+      "original_cz": "To je dobře, protože nám všem došel mech."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "You can beat this, little guy!",
+      "cz": "Tohle zvládneš, chlapče!",
+      "source": "pre_existing",
+      "original_cz": "Tohle zvládneš, chlapče!"
+    },
+    {
+      "key": "Alice_011_f",
+      "en": "Thanks, {PlayerName}. Without you I'm not sure Alopos would've made it.",
+      "cz": "Díky, {PlayerName}. Bez tebe si nejsem jistý, jestli by to Alopos zvládl.",
+      "source": "pre_existing",
+      "original_cz": "Díky, {PlayerName}. Bez tebe si nejsem jistý, jestli by to Alopos zvládl."
+    },
+    {
+      "key": "Alice_014_f",
+      "en": "Yes, thank you kindly, {PlayerName}.",
+      "cz": "Ano, zdvořile děkuji, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Ano, zdvořile děkuji, {PlayerName}."
+    },
+    {
+      "key": "Alice_015_f",
+      "en": "Alice, don't you think that there's someone else that deserves a thank-you as well?",
+      "cz": "Alice, nemyslíš, že je tu ještě někdo, kdo si taky zaslouží poděkování?",
+      "source": "pre_existing",
+      "original_cz": "Alice, nemyslíš, že je tu ještě někdo, kdo si taky zaslouží poděkování?"
+    },
+    {
+      "key": "Alice_016_f",
+      "en": "Without Hercules getting his strength back, we wouldn't have been able to reach the moss.",
+      "cz": "Bez Herkulova obnovení sil bychom se k mechu nedostali.",
+      "source": "pre_existing",
+      "original_cz": "Bez Herkulova obnovení sil bychom se k mechu nedostali."
+    },
+    {
+      "key": "Alice_017_f",
+      "en": "Hmm... I suppose Hercules isn't as bad as the other grown-ups here.",
+      "cz": "Hmm... Předpokládám, že Herkules není tak špatný jako ostatní dospělí tady.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Předpokládám, že Herkules není tak špatný jako ostatní dospělí tady."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "That's still kinda rude, Alice.",
+      "cz": "To je pořád trochu neslušné, Alice.",
+      "source": "pre_existing",
+      "original_cz": "To je pořád trochu neslušné, Alice."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "From Alice, that's a glowing endorsement.",
+      "cz": "Od Alice, to je skvělé doporučení.",
+      "source": "pre_existing",
+      "original_cz": "Od Alice, to je skvělé doporučení."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Maybe Herc can be an honorary kid?",
+      "cz": "Možná by se Herc mohl stát čestným dítětem?",
+      "source": "pre_existing",
+      "original_cz": "Možná by se Herc mohl stát čestným dítětem?"
+    },
+    {
+      "key": "Alice_018_f",
+      "en": "Well, this is my House, and I shall behave as I wish!",
+      "cz": "Nuže, toto je můj dům a budu se chovat, jak si přeji!",
+      "source": "pre_existing",
+      "original_cz": "Nuže, toto je můj dům a budu se chovat, jak si přeji!"
+    },
+    {
+      "key": "Alice_021_f",
+      "en": "Makes sense to me. Alice, I don't care if you're rude to me sometimes. I wanted to help you. And saving the fox is enough reward for me.",
+      "cz": "Dává mi to smysl. Alice, je mi jedno, jestli se ke mně někdy chováš hrubě. Chtěl jsem ti pomoct. A záchrana lišky je pro mě dostatečná odměna.",
+      "source": "pre_existing",
+      "original_cz": "Dává mi to smysl. Alice, je mi jedno, jestli se ke mně někdy chováš hrubě. Chtěl jsem ti pomoct. A záchrana lišky je pro mě dostatečná odměna."
+    },
+    {
+      "key": "Alice_024_f",
+      "en": "{PlayerName} is right. I should thank you, too. Ahem... Thank you, Hercules. {PlayerName}, now that Alopos is better, he won't need the crib. I would like you to have it.",
+      "cz": "{PlayerName} má pravdu. Taky bych ti měl poděkovat. Ehm... Děkuji, Herkule. {PlayerName}, teď když je Aloposovi lépe, nebude potřebovat postýlku. Chtěl bych, abys ji měl.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName} má pravdu. Taky bych ti měl poděkovat. Ehm... Děkuji, Herkule. {PlayerName}, teď když je Aloposovi lépe, nebude potřebovat postýlku. Chtěl bych, abys ji měl."
+    },
+    {
+      "key": "Alice_027_f",
+      "en": "That's a great idea! Who knows what other animals might need it in the future.",
+      "cz": "To je skvělý nápad! Kdo ví, jaká další zvířata by to mohla v budoucnu potřebovat.",
+      "source": "pre_existing",
+      "original_cz": "To je skvělý nápad! Kdo ví, jaká další zvířata by to mohla v budoucnu potřebovat."
+    },
+    {
+      "key": "Alice_029_f",
+      "en": "Will do. Thanks, you two.",
+      "cz": "Udělám. Díky vám dvěma.",
+      "source": "pre_existing",
+      "original_cz": "Udělám. Díky vám dvěma."
+    },
+    {
+      "key": "Alice_025_f",
+      "en": "{PlayerName} is right. I should thank you, too. Ahem... Thank you, Hercules. {PlayerName}, now that Mr. Little Fox is better, he won't need the crib. I would like you to have it.",
+      "cz": "{PlayerName} má pravdu. Taky bych ti měl poděkovat. Ehm... Děkuji, Herkule. {PlayerName}, teď, když je panu Lišákovi lépe, nebude postýlku potřebovat. Chtěl bych, abys ji měl ty.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName} má pravdu. Taky bych ti měl poděkovat. Ehm... Děkuji, Herkule. {PlayerName}, teď, když je panu Lišákovi lépe, nebude postýlku potřebovat. Chtěl bych, abys ji měl ty."
+    },
+    {
+      "key": "Alice_026_f",
+      "en": "{PlayerName} is right. I should thank you, too. Ahem... Thank you, Hercules. {PlayerName}, now that Tod is better, he won't need the crib. I would like you to have it.",
+      "cz": "{PlayerName} má pravdu. Taky bych ti měl poděkovat. Ehm... Děkuji, Herkule. {PlayerName}, teď když je Todovi lépe, postýlku už potřebovat nebude. Chtěl bych, abys ji měl ty.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName} má pravdu. Taky bych ti měl poděkovat. Ehm... Děkuji, Herkule. {PlayerName}, teď když je Todovi lépe, postýlku už potřebovat nebude. Chtěl bych, abys ji měl ty."
+    },
+    {
+      "key": "Alice_019_f",
+      "en": "I'll take it!",
+      "cz": "Vezmu si to!",
+      "source": "pre_existing",
+      "original_cz": "Vezmu si to!"
+    },
+    {
+      "key": "Alice_020_f",
+      "en": "Perhaps... I'll have to discuss that with Vanellope.",
+      "cz": "Možná... to si budu muset probrat s Vanellope.",
+      "source": "pre_existing",
+      "original_cz": "Možná... to si budu muset probrat s Vanellope."
+    },
+    {
+      "key": "Alice_012_f",
+      "en": "Thanks, {PlayerName}. Without you I'm not sure Mr. Little Fox would have made it.",
+      "cz": "Díky, {PlayerName}. Bez tebe si nejsem jistý, jestli by to pan Lišák zvládl.",
+      "source": "pre_existing",
+      "original_cz": "Díky, {PlayerName}. Bez tebe si nejsem jistý, jestli by to pan Lišák zvládl."
+    },
+    {
+      "key": "Alice_013_f",
+      "en": "Thanks, {PlayerName}. Without you I'm not sure Tod would have made it.",
+      "cz": "Díky, {PlayerName}. Bez tebe si nejsem jistý, jestli by to Tod zvládl.",
+      "source": "pre_existing",
+      "original_cz": "Díky, {PlayerName}. Bez tebe si nejsem jistý, jestli by to Tod zvládl."
+    },
+    {
+      "key": "Alice_004_f",
+      "en": "Alice! Herc! I've got the medicine for Mr. Little Fox!",
+      "cz": "Alice! Herkules! Mám lék pro pana Lišáka!",
+      "source": "pre_existing",
+      "original_cz": "Alice! Herkules! Mám lék pro pana Lišáka!"
+    },
+    {
+      "key": "Alice_005_f",
+      "en": "Alice! Herc! I've got the medicine for Tod!",
+      "cz": "Alice! Hercu! Mám lék pro Toda!",
+      "source": "pre_existing",
+      "original_cz": "Alice! Hercu! Mám lék pro Toda!"
+    }
+  ],
+  "Hercules_Alice/Alice_VLG_Herc_030_VLG_Herc_030_TalkTo01.locbin": [
+    {
+      "key": "Alice_002_f",
+      "en": "Hey, Alice. Could we talk?",
+      "cz": "Ahoj, Alice. Mohly bychom si promluvit?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, Alice. Mohly bychom si promluvit?"
+    },
+    {
+      "key": "Alice_003_f",
+      "en": "Hercules?! What are you doing here? I asked you to leave us alone!",
+      "cz": "Herkule?! Co tady děláš? Žádal jsem tě, abys nás nechal na pokoji!",
+      "source": "pre_existing",
+      "original_cz": "Herkule?! Co tady děláš? Žádal jsem tě, abys nás nechal na pokoji!"
+    },
+    {
+      "key": "Alice_004_f",
+      "en": "Wait! Please hear us out!",
+      "cz": "Počkejte! Prosím, vyslechněte nás!",
+      "source": "pre_existing",
+      "original_cz": "Počkejte! Prosím, vyslechněte nás!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Hercules just wants to help.",
+      "cz": "Herkules chce jen pomoct.",
+      "source": "pre_existing",
+      "original_cz": "Herkules chce jen pomoct."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Herc made an... interesting choice.",
+      "cz": "Herc udělal... zajímavou volbu.",
+      "source": "pre_existing",
+      "original_cz": "Herc udělal... zajímavou volbu."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "For the sake of the fox, please listen!",
+      "cz": "Pro lišku, prosím, poslouchejte!",
+      "source": "pre_existing",
+      "original_cz": "Pro lišku, prosím, poslouchejte!"
+    },
+    {
+      "key": "Alice_005_f",
+      "en": "I know you're worried that my strength might accidentally hurt the fox.",
+      "cz": "Vím, že se bojíš, že by moje síla mohla lišce omylem ublížit.",
+      "source": "pre_existing",
+      "original_cz": "Vím, že se bojíš, že by moje síla mohla lišce omylem ublížit."
+    },
+    {
+      "key": "Alice_006_f",
+      "en": "That's right. Mister Philoctetes told me what happened to his urn!",
+      "cz": "Přesně tak. Pan Filoktetes mi řekl, co se stalo s jeho urnou!",
+      "source": "pre_existing",
+      "original_cz": "Přesně tak. Pan Filoktetes mi řekl, co se stalo s jeho urnou!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Okay, she's got you there.",
+      "cz": "Dobře, dostala tě.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, dostala tě."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Honestly, you don't need to worry about that.",
+      "cz": "Upřímně řečeno, s tím se nemusíš bát.",
+      "source": "pre_existing",
+      "original_cz": "Upřímně řečeno, s tím se nemusíš bát."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Alice, we're on your side here!",
+      "cz": "Alice, jsme tu na tvé straně!",
+      "source": "pre_existing",
+      "original_cz": "Alice, jsme tu na tvé straně!"
+    },
+    {
+      "key": "Alice_007_f",
+      "en": "I gave up my strength for the day. I want to help, really!",
+      "cz": "Na dnes jsem se vzdal všech sil. Opravdu chci pomoct!",
+      "source": "pre_existing",
+      "original_cz": "Na dnes jsem se vzdal všech sil. Opravdu chci pomoct!"
+    },
+    {
+      "key": "Alice_008_f",
+      "en": "See, Alice? And the fox needs our help. I don't think you're going to be able to make it better all by yourself.",
+      "cz": "Vidíš, Alice? A liška potřebuje naši pomoc. Nemyslím si, že to sama zvládneš vylepšit.",
+      "source": "pre_existing",
+      "original_cz": "Vidíš, Alice? A liška potřebuje naši pomoc. Nemyslím si, že to sama zvládneš vylepšit."
+    },
+    {
+      "key": "Alice_009_f",
+      "en": "You gave up your strength, Hercules?",
+      "cz": "Vzdal ses své síly, Herkule?",
+      "source": "pre_existing",
+      "original_cz": "Vzdal ses své síly, Herkule?"
+    },
+    {
+      "key": "Alice_010_f",
+      "en": "Oh, well in that case, perhaps you and {PlayerName} can help. But you must listen to me and do what I say!",
+      "cz": "No, v tom případě mi možná pomůžete vy a {PlayerName}. Ale musíte mě poslouchat a dělat, co říkám!",
+      "source": "pre_existing",
+      "original_cz": "No, v tom případě mi možná pomůžete vy a {PlayerName}. Ale musíte mě poslouchat a dělat, co říkám!"
+    },
+    {
+      "key": "Alice_011_f",
+      "en": "Sure. I can do that.",
+      "cz": "Jasně. To můžu udělat.",
+      "source": "pre_existing",
+      "original_cz": "Jasně. To můžu udělat."
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "You're the boss, Alice.",
+      "cz": "Ty jsi šéfka, Alice.",
+      "source": "pre_existing",
+      "original_cz": "Ty jsi šéfka, Alice."
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "Okay, but at least listen to us, okay?",
+      "cz": "Dobře, ale alespoň nás poslechni, ano?",
+      "source": "pre_existing",
+      "original_cz": "Dobře, ale alespoň nás poslechni, ano?"
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "Wow, you're turning bossy into an art form.",
+      "cz": "Páni, děláš z panovačnosti umění.",
+      "source": "pre_existing",
+      "original_cz": "Páni, děláš z panovačnosti umění."
+    },
+    {
+      "key": "Alice_012_f",
+      "en": "Yes. Yes, I am.",
+      "cz": "Ano. Ano, jsem.",
+      "source": "pre_existing",
+      "original_cz": "Ano. Ano, jsem."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "I have... suspicions.",
+      "cz": "Mám... podezření.",
+      "source": "pre_existing",
+      "original_cz": "Mám... podezření."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Okay, good luck!",
+      "cz": "Dobře, hodně štěstí!",
+      "source": "pre_existing",
+      "original_cz": "Dobře, hodně štěstí!"
+    },
+    {
+      "key": "Alice_015_f",
+      "en": "Alice, I think you need a proper bed for the fox. It does look rather sick, so it needs somewhere to sleep and recuperate.",
+      "cz": "Alice, myslím, že pro lišku potřebuješ pořádný pelíšek. Vypadá dost nemocně, takže potřebuje místo, kde se může vyspat a zotavit.",
+      "source": "pre_existing",
+      "original_cz": "Alice, myslím, že pro lišku potřebuješ pořádný pelíšek. Vypadá dost nemocně, takže potřebuje místo, kde se může vyspat a zotavit."
+    },
+    {
+      "key": "Alice_016_f",
+      "en": "Oh. I was going to put it in my bed.",
+      "cz": "Aha. Chtěl jsem si to dát do postele.",
+      "source": "pre_existing",
+      "original_cz": "Aha. Chtěl jsem si to dát do postele."
+    },
+    {
+      "key": "Alice_017_f",
+      "en": "You know what, I think I still have the design for my crib when I was a baby on Mount Olympus.",
+      "cz": "Víš co, myslím, že pořád mám návrh na svou postýlku z doby, kdy jsem byla miminko na Olympu.",
+      "source": "pre_existing",
+      "original_cz": "Víš co, myslím, že pořád mám návrh na svou postýlku z doby, kdy jsem byla miminko na Olympu."
+    },
+    {
+      "key": "Alice_018_f",
+      "en": "If we can make one like it, the fox will definitely sleep well!",
+      "cz": "Pokud se nám podaří jednu takovou udělat, liška bude určitě klidně spát!",
+      "source": "pre_existing",
+      "original_cz": "Pokud se nám podaří jednu takovou udělat, liška bude určitě klidně spát!"
+    },
+    {
+      "key": "Alice_019_f",
+      "en": "Sounds great! Why don't we split up the gathering of resources? That should speed things up.",
+      "cz": "Zní to skvěle! Proč si nerozdělíme shromažďování zdrojů? To by to mělo urychlit.",
+      "source": "pre_existing",
+      "original_cz": "Zní to skvěle! Proč si nerozdělíme shromažďování zdrojů? To by to mělo urychlit."
+    },
+    {
+      "key": "Alice_020_f",
+      "en": "I'll get the Topaz and the Cotton!",
+      "cz": "Seženu topaz a bavlnu!",
+      "source": "pre_existing",
+      "original_cz": "Seženu topaz a bavlnu!"
+    },
+    {
+      "key": "Alice_001_f",
+      "en": "Are you sure you can handle mining on your own?",
+      "cz": "Jsi si jistý/á, že zvládneš těžbu sám/sama?",
+      "source": "pre_existing",
+      "original_cz": "Jsi si jistý/á, že zvládneš těžbu sám/sama?"
+    },
+    {
+      "key": "Alice_024_f",
+      "en": "Sure! How hard could it be? People without god-like strength do it all the time, right?",
+      "cz": "Jasně! Jak těžké by to mohlo být? Lidé bez božské síly to dělají pořád, že?",
+      "source": "pre_existing",
+      "original_cz": "Jasně! Jak těžké by to mohlo být? Lidé bez božské síly to dělají pořád, že?"
+    },
+    {
+      "key": "Alice_025_f",
+      "en": "You worry too much. I'll be fine!",
+      "cz": "Moc se bojíš. Budu v pořádku!",
+      "source": "pre_existing",
+      "original_cz": "Moc se bojíš. Budu v pořádku!"
+    },
+    {
+      "key": "Alice_021_f",
+      "en": "All right, I'll gather <Lore>the Dry Wood, Red Bell Flowers, and Fabric</Lore>, and then we can meet back up.",
+      "cz": "Dobře, shromáždím <Lore>suché dřevo, červené zvonky a látku</Lore> a pak se můžeme znovu sejít.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, shromáždím <Lore>suché dřevo, červené zvonky a látku</Lore> a pak se můžeme znovu sejít."
+    },
+    {
+      "key": "Alice_026_f",
+      "en": "Thanks! This is gonna be fun!",
+      "cz": "Díky! To bude zábava!",
+      "source": "pre_existing",
+      "original_cz": "Díky! To bude zábava!"
+    },
+    {
+      "key": "Alice_013_f",
+      "en": "I suppose I can listen... as long as what you're saying makes sense.",
+      "cz": "Asi můžu poslouchat... pokud to, co říkáš, dává smysl.",
+      "source": "pre_existing",
+      "original_cz": "Asi můžu poslouchat... pokud to, co říkáš, dává smysl."
+    },
+    {
+      "key": "Alice_014_f",
+      "en": "I don't much care for art. Grown-ups think it's so important, but it's all boring pictures of old kings and dukes.",
+      "cz": "Umění mě moc nezajímá. Dospělí si myslí, že je tak důležité, ale je to samé nudné obrázky starých králů a vévodů.",
+      "source": "pre_existing",
+      "original_cz": "Umění mě moc nezajímá. Dospělí si myslí, že je tak důležité, ale je to samé nudné obrázky starých králů a vévodů."
+    }
+  ]
+}

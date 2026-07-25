@@ -1,0 +1,474 @@
+{
+  "RemySpecialDeliveries_Donald/Donald_CrossNPCDialogues_RemySpecialDeliveries_Donald_Goofy.locbin": [
+    {
+      "key": "Donald_000_f",
+      "en": "Hey, Goofy! Look at all the amazing stuff I caught while fishing!",
+      "cz": "Hej, Goofy! Podívej se na všechny ty úžasné věci, co jsem chytil při rybaření!",
+      "source": "pre_existing",
+      "original_cz": "Hej, Goofy! Podívej se na všechny ty úžasné věci, co jsem chytil při rybaření!"
+    },
+    {
+      "key": "Donald_001_f",
+      "en": "Wow! That sure is a lotta seafood!",
+      "cz": "Páni! To je ale spousta mořských plodů!",
+      "source": "pre_existing",
+      "original_cz": "Páni! To je ale spousta mořských plodů!"
+    },
+    {
+      "key": "Donald_002_f",
+      "en": "Hmm... Did ya really catch all that, Donald? 'Cause some of it looks like it's already cooked.",
+      "cz": "Hmm... Vážně jsi to všechno zachytil, Donalde? Protože část toho vypadá, jako by už byla uvařená.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Vážně jsi to všechno zachytil, Donalde? Protože část toho vypadá, jako by už byla uvařená."
+    },
+    {
+      "key": "Donald_003_f",
+      "en": "WAAAKKK! Of course I caught it! I caught it and I cooked it!",
+      "cz": "WAAAAKKK! Jasně, že jsem to chytil! Chytil jsem to a uvařil jsem to!",
+      "source": "pre_existing",
+      "original_cz": "WAAAAKKK! Jasně, že jsem to chytil! Chytil jsem to a uvařil jsem to!"
+    },
+    {
+      "key": "Donald_004_f",
+      "en": "I'm the best fisherperson in the whole Valley.",
+      "cz": "Jsem nejlepší rybář v celém údolí.",
+      "source": "pre_existing",
+      "original_cz": "Jsem nejlepší rybář v celém údolí."
+    },
+    {
+      "key": "Donald_005_f",
+      "en": "And now nobody can say otherwise!",
+      "cz": "A teď už nikdo nemůže říct opak!",
+      "source": "pre_existing",
+      "original_cz": "A teď už nikdo nemůže říct opak!"
+    },
+    {
+      "key": "Donald_006_f",
+      "en": "Aw, I dunno. It's pretty hard to be a better fisherperson than {PlayerName}...",
+      "cz": "Ach, nevím. Je docela těžké být lepším rybářem než {PlayerName}...",
+      "source": "pre_existing",
+      "original_cz": "Ach, nevím. Je docela těžké být lepším rybářem než {PlayerName}..."
+    },
+    {
+      "key": "Donald_007_f",
+      "en": "WHATAREYOUTALKING ABOUT?! THAT'SRIDICULOUS! NOBODY'SBETTERATFISHINGTHANME! WAKKKK!",
+      "cz": "O ČEMU MLUVÍŠ?! TO JE SMĚŠNÉ! NIKDO NERYBAŘÍ LEPŠÍ NEŽ JÁ! PROBOHA!",
+      "source": "pre_existing",
+      "original_cz": "O ČEMU MLUVÍŠ?! TO JE SMĚŠNÉ! NIKDO NERYBAŘÍ LEPŠÍ NEŽ JÁ! PROBOHA!"
+    }
+  ],
+  "RemySpecialDeliveries_Donald/Donald_RPT_Remy_020_RPT_Remy_020_BringItem01.locbin": [
+    {
+      "key": "Donald_000_f",
+      "en": "Oh boy, oh boy! What's all this great food for?!",
+      "cz": "Páni, paní! K čemu je tohle skvělé jídlo?!",
+      "source": "pre_existing",
+      "original_cz": "Páni, paní! K čemu je tohle skvělé jídlo?!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I don't know. You're the one who ordered it.",
+      "cz": "Nevím. To ty jsi si to objednal.",
+      "source": "pre_existing",
+      "original_cz": "Nevím. To ty jsi si to objednal."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I was hoping you could tell me that.",
+      "cz": "Doufal jsem, že mi to řeknete.",
+      "source": "pre_existing",
+      "original_cz": "Doufal jsem, že mi to řeknete."
+    },
+    {
+      "key": "Donald_002_f",
+      "en": "Oh, right! These are the celebration meals I ordered from Remy.",
+      "cz": "Aha, jasně! Tohle jsou slavnostní jídla, která jsem si objednal od Remyho.",
+      "source": "pre_existing",
+      "original_cz": "Aha, jasně! Tohle jsou slavnostní jídla, která jsem si objednal od Remyho."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "A celebration of what?",
+      "cz": "Oslava čeho?",
+      "source": "pre_existing",
+      "original_cz": "Oslava čeho?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Do I even want to know what these are for?",
+      "cz": "Chci vůbec vědět, k čemu tohle je?",
+      "source": "pre_existing",
+      "original_cz": "Chci vůbec vědět, k čemu tohle je?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Well, have fun celebrating... something.",
+      "cz": "No, užijte si oslavu... něčeho.",
+      "source": "pre_existing",
+      "original_cz": "No, užijte si oslavu... něčeho."
+    },
+    {
+      "key": "Donald_004_f",
+      "en": "It's a celebration of ME, of course!",
+      "cz": "Je to samozřejmě oslava MĚ!",
+      "source": "pre_existing",
+      "original_cz": "Je to samozřejmě oslava MĚ!"
+    },
+    {
+      "key": "Donald_005_f",
+      "en": "Because I'm so brave and helpful to everyone.",
+      "cz": "Protože jsem tak statečný a ochotný všem pomoci.",
+      "source": "pre_existing",
+      "original_cz": "Protože jsem tak statečný a ochotný všem pomoci."
+    },
+    {
+      "key": "Donald_006_f",
+      "en": "I figured since nobody else was doing it, I'd do it myself!",
+      "cz": "Říkal jsem si, že když to nikdo jiný nedělá, udělám to sám!",
+      "source": "pre_existing",
+      "original_cz": "Říkal jsem si, že když to nikdo jiný nedělá, udělám to sám!"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "You ARE worth celebrating, Donald.",
+      "cz": "Zasloužíš si oslavu, Donalde.",
+      "source": "pre_existing",
+      "original_cz": "Zasloužíš si oslavu, Donalde."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Well, have fun celebrating yourself.",
+      "cz": "Tak si užij oslavu.",
+      "source": "pre_existing",
+      "original_cz": "Tak si užij oslavu."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "That's kind of weird, Donald.",
+      "cz": "To je trochu divné, Donalde.",
+      "source": "pre_existing",
+      "original_cz": "To je trochu divné, Donalde."
+    },
+    {
+      "key": "Donald_007_f",
+      "en": "You bet I am!",
+      "cz": "To se vsadím, že ano!",
+      "source": "pre_existing",
+      "original_cz": "To se vsadím, že ano!"
+    },
+    {
+      "key": "Donald_010_f",
+      "en": "*grumble* I suppose I should give you a tip, huh? Since you brought me these?",
+      "cz": "*brub* Asi bych ti měl dát spropitné, co? Když už jsi mi tohle přinesl?",
+      "source": "pre_existing",
+      "original_cz": "*brub* Asi bych ti měl dát spropitné, co? Když už jsi mi tohle přinesl?"
+    },
+    {
+      "key": "Donald_011_f",
+      "en": "Well, here you go.",
+      "cz": "No, tady to máte.",
+      "source": "pre_existing",
+      "original_cz": "No, tady to máte."
+    },
+    {
+      "key": "Donald_008_f",
+      "en": "I will! These look delicious.",
+      "cz": "Udělám to! Vypadají lahodně.",
+      "source": "pre_existing",
+      "original_cz": "Udělám to! Vypadají lahodně."
+    },
+    {
+      "key": "Donald_009_f",
+      "en": "WAAAKK! No, it's not! I'm just treating myself the way everybody else SHOULD be treating me!",
+      "cz": "PALAČKA! Ne, to není pravda! Chovám se k sobě tak, jak by se ke mně měli chovat všichni ostatní!",
+      "source": "pre_existing",
+      "original_cz": "PALAČKA! Ne, to není pravda! Chovám se k sobě tak, jak by se ke mně měli chovat všichni ostatní!"
+    },
+    {
+      "key": "Donald_003_f",
+      "en": "Huh? ... Oh! Right. These are the celebration meals I ordered from Remy.",
+      "cz": "Cože? ... Aha! Jasně. Tohle jsou slavnostní jídla, která jsem si objednal od Remyho.",
+      "source": "pre_existing",
+      "original_cz": "Cože? ... Aha! Jasně. Tohle jsou slavnostní jídla, která jsem si objednal od Remyho."
+    }
+  ],
+  "RemySpecialDeliveries_Donald/Donald_RPT_Remy_020_RPT_Remy_020_BringItem02.locbin": [
+    {
+      "key": "Donald_000_f",
+      "en": "Oh boy! Those desserts look delicious, {PlayerName}!",
+      "cz": "Páni! Ty dezerty vypadají lahodně, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Páni! Ty dezerty vypadají lahodně, {PlayerName}!"
+    },
+    {
+      "key": "Donald_001_f",
+      "en": "I wish I could eat them myself...",
+      "cz": "Přál bych si, abych je mohl sníst sám...",
+      "source": "pre_existing",
+      "original_cz": "Přál bych si, abych je mohl sníst sám..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Why can't you?",
+      "cz": "Proč nemůžeš?",
+      "source": "pre_existing",
+      "original_cz": "Proč nemůžeš?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Are they a gift for someone?",
+      "cz": "Jsou to dárky pro někoho?",
+      "source": "pre_existing",
+      "original_cz": "Jsou to dárky pro někoho?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Are you using them as fishing bait?",
+      "cz": "Používáte je jako rybářskou návnadu?",
+      "source": "pre_existing",
+      "original_cz": "Používáte je jako rybářskou návnadu?"
+    },
+    {
+      "key": "Donald_002_f",
+      "en": "Because I need them for something...",
+      "cz": "Protože je k něčemu potřebuji...",
+      "source": "pre_existing",
+      "original_cz": "Protože je k něčemu potřebuji..."
+    },
+    {
+      "key": "Donald_005_f",
+      "en": "These are... um... they're apology desserts.",
+      "cz": "Tohle jsou... ehm... to jsou dezerty s omluvou.",
+      "source": "pre_existing",
+      "original_cz": "Tohle jsou... ehm... to jsou dezerty s omluvou."
+    },
+    {
+      "key": "Donald_006_f",
+      "en": "You might not have noticed, but sometimes I lose my temper.",
+      "cz": "Možná sis toho nevšimnul, ale někdy se rozčílím.",
+      "source": "pre_existing",
+      "original_cz": "Možná sis toho nevšimnul, ale někdy se rozčílím."
+    },
+    {
+      "key": "Donald_007_f",
+      "en": "And even though it's always for a very good reason, I OCCASIONALLY say something I shouldn't.",
+      "cz": "A i když je to vždycky z velmi dobrého důvodu, OBČAS řeknu něco, co bych neměl.",
+      "source": "pre_existing",
+      "original_cz": "A i když je to vždycky z velmi dobrého důvodu, OBČAS řeknu něco, co bych neměl."
+    },
+    {
+      "key": "Donald_008_f",
+      "en": "But now, when that happens, I'll have these desserts to give out as apologies.",
+      "cz": "Ale teď, až se to stane, budu mít tyto dezerty, které rozdám jako omluvu.",
+      "source": "pre_existing",
+      "original_cz": "Ale teď, až se to stane, budu mít tyto dezerty, které rozdám jako omluvu."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "What if these go bad before you need to apologize?",
+      "cz": "Co když se tohle pokazí dřív, než se budeš muset omluvit?",
+      "source": "pre_existing",
+      "original_cz": "Co když se tohle pokazí dřív, než se budeš muset omluvit?"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "What if you run out of desserts from having to apologize so much?",
+      "cz": "Co když vám dojdou dezerty z tolika omluv?",
+      "source": "pre_existing",
+      "original_cz": "Co když vám dojdou dezerty z tolika omluv?"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "What if you eat them before you can give them out?",
+      "cz": "Co když je sníte, než je budete moci rozdat?",
+      "source": "pre_existing",
+      "original_cz": "Co když je sníte, než je budete moci rozdat?"
+    },
+    {
+      "key": "Donald_009_f",
+      "en": "Uh... heh-heh... I wish I thought that was going to happen.",
+      "cz": "Ehm... heh-heh... Kéž bych si myslel, že se to stane.",
+      "source": "pre_existing",
+      "original_cz": "Ehm... heh-heh... Kéž bych si myslel, že se to stane."
+    },
+    {
+      "key": "Donald_012_f",
+      "en": "Oh, I almost forgot. Here's a tip for bringing these to me.",
+      "cz": "Jé, málem jsem zapomněl. Tady je tip, jak mi je přinést.",
+      "source": "pre_existing",
+      "original_cz": "Jé, málem jsem zapomněl. Tady je tip, jak mi je přinést."
+    },
+    {
+      "key": "Donald_010_f",
+      "en": "I guess I'll have to order more from Remy. Oh boy, this could get expensive.",
+      "cz": "Asi si budu muset od Remyho objednat další. No páni, tohle by se mohlo prodražit.",
+      "source": "pre_existing",
+      "original_cz": "Asi si budu muset od Remyho objednat další. No páni, tohle by se mohlo prodražit."
+    },
+    {
+      "key": "Donald_011_f",
+      "en": "Who do I look like? Goofy? Don't worry. I have excellent self-control!",
+      "cz": "Komu se podobám? Nějakému hlupákovi? Neboj se. Mám vynikající sebeovládání!",
+      "source": "pre_existing",
+      "original_cz": "Komu se podobám? Nějakému hlupákovi? Neboj se. Mám vynikající sebeovládání!"
+    },
+    {
+      "key": "Donald_003_f",
+      "en": "It's something like that...",
+      "cz": "Je to něco takového...",
+      "source": "pre_existing",
+      "original_cz": "Je to něco takového..."
+    },
+    {
+      "key": "Donald_004_f",
+      "en": "Fishing bait?! Why would I waste good desserts like that?! You've got it all wrong.",
+      "cz": "Rybářské návnady?! Proč bych takhle plýtval dobrými dezerty?! To máš úplně špatně.",
+      "source": "pre_existing",
+      "original_cz": "Rybářské návnady?! Proč bych takhle plýtval dobrými dezerty?! To máš úplně špatně."
+    }
+  ],
+  "RemySpecialDeliveries_Donald/Donald_RPT_Remy_020_RPT_Remy_020_BringItem03.locbin": [
+    {
+      "key": "Donald_000_f",
+      "en": "Oh boy! Look at all this seafood!",
+      "cz": "Páni! Podívejte se na všechny ty mořské plody!",
+      "source": "pre_existing",
+      "original_cz": "Páni! Podívejte se na všechny ty mořské plody!"
+    },
+    {
+      "key": "Donald_001_f",
+      "en": "Goofy's gonna be so impressed.",
+      "cz": "Goofy bude ohromený.",
+      "source": "pre_existing",
+      "original_cz": "Goofy bude ohromený."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Are you having Goofy over for dinner?",
+      "cz": "Pozveš Goofyho na večeři?",
+      "source": "pre_existing",
+      "original_cz": "Pozveš Goofyho na večeři?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Why would Goofy be impressed?",
+      "cz": "Proč by měl být Goofy ohromen?",
+      "source": "pre_existing",
+      "original_cz": "Proč by měl být Goofy ohromen?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Donald... are you planning something?",
+      "cz": "Donalde... plánuješ něco?",
+      "source": "pre_existing",
+      "original_cz": "Donalde... plánuješ něco?"
+    },
+    {
+      "key": "Donald_002_f",
+      "en": "Uhhh... yeah. That's right. Just a dinner... Heh-heh-heh...",
+      "cz": "Ehm... jo. Přesně tak. Jen večeře... Heh-heh-heh...",
+      "source": "pre_existing",
+      "original_cz": "Ehm... jo. Přesně tak. Jen večeře... Heh-heh-heh..."
+    },
+    {
+      "key": "Donald_003_f",
+      "en": "Here! Take this tip and don't worry about it. Bye!",
+      "cz": "Tady! Vezměte si tento tip a nedělejte si s ním starosti. Nashledanou!",
+      "source": "pre_existing",
+      "original_cz": "Tady! Vezměte si tento tip a nedělejte si s ním starosti. Nashledanou!"
+    },
+    {
+      "key": "Donald_004_f",
+      "en": "Uh... because he's gonna be my special guest for dinner. Heh-heh-heh...",
+      "cz": "Ehm... protože bude mým speciálním hostem na večeři. Heh-heh-heh...",
+      "source": "pre_existing",
+      "original_cz": "Ehm... protože bude mým speciálním hostem na večeři. Heh-heh-heh..."
+    },
+    {
+      "key": "Donald_005_f",
+      "en": "I have no idea what you're talking about, and I don't appreciate the implication!",
+      "cz": "Nemám tušení, o čem mluvíš, a nerozumím tomu, co tím naznačuješ!",
+      "source": "pre_existing",
+      "original_cz": "Nemám tušení, o čem mluvíš, a nerozumím tomu, co tím naznačuješ!"
+    }
+  ],
+  "RemySpecialDeliveries_Donald/Donald_RPT_Remy_060_RPT_Remy_060_TalkTo01.locbin": [
+    {
+      "key": "Donald_000_f",
+      "en": "Hey, {PlayerName}, have you seen Stitch?",
+      "cz": "Ahoj, {PlayerName}, viděl jsi Stitche?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}, viděl jsi Stitche?"
+    },
+    {
+      "key": "Donald_001_f",
+      "en": "That's exactly what I wanted to talk to you about...",
+      "cz": "Přesně o tom jsem s tebou chtěl mluvit...",
+      "source": "pre_existing",
+      "original_cz": "Přesně o tom jsem s tebou chtěl mluvit..."
+    },
+    {
+      "key": "Donald_002_f",
+      "en": "Well, if you see him, give him a towel. When his fur gets wet, he smells like Goofy's stinky shoe collection!",
+      "cz": "No, pokud ho uvidíte, dejte mu ručník. Když mu zmokne srst, smrdí jako Goofyho smradlavá sbírka bot!",
+      "source": "pre_existing",
+      "original_cz": "No, pokud ho uvidíte, dejte mu ručník. Když mu zmokne srst, smrdí jako Goofyho smradlavá sbírka bot!"
+    },
+    {
+      "key": "Donald_003_f",
+      "en": "Anyway... what did you wanna talk to me about?",
+      "cz": "Každopádně... o čem jsi se mnou chtěl mluvit?",
+      "source": "pre_existing",
+      "original_cz": "Každopádně... o čem jsi se mnou chtěl mluvit?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Just a heads-up — Stitch is trying to prank you.",
+      "cz": "Jen upozornění – Stitch se z tebe snaží udělat žert.",
+      "source": "pre_existing",
+      "original_cz": "Jen upozornění – Stitch se z tebe snaží udělat žert."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "You know what, Donald? Forget it.",
+      "cz": "Víš co, Donalde? Zapomeň na to.",
+      "source": "pre_existing",
+      "original_cz": "Víš co, Donalde? Zapomeň na to."
+    },
+    {
+      "key": "Donald_004_f",
+      "en": "PRANK me?! Again?! How?!",
+      "cz": "DĚLAJ SI ZE mého ŽART?! ZASE?! Jak?!",
+      "source": "pre_existing",
+      "original_cz": "DĚLAJ SI ZE mého ŽART?! ZASE?! Jak?!"
+    },
+    {
+      "key": "Donald_005_f",
+      "en": "He's trying to hide seafood all over your House.",
+      "cz": "Snaží se vám po celém domě schovat mořské plody.",
+      "source": "pre_existing",
+      "original_cz": "Snaží se vám po celém domě schovat mořské plody."
+    },
+    {
+      "key": "Donald_006_f",
+      "en": "WAAAKKKK! Why, I oughta...",
+      "cz": "WAAAAKKK! Vždyť bych měl...",
+      "source": "pre_existing",
+      "original_cz": "WAAAAKKK! Vždyť bych měl..."
+    },
+    {
+      "key": "Donald_007_f",
+      "en": "Thanks for lettin' me know, {PlayerName}. I'll go show him a thing or two about trying to prank Donald Duck!",
+      "cz": "Díky, že jsi mi to dal vědět, {PlayerName}. Půjdu mu ukázat pár věcí o tom, jak si z Kačera Donalda udělat legraci!",
+      "source": "pre_existing",
+      "original_cz": "Díky, že jsi mi to dal vědět, {PlayerName}. Půjdu mu ukázat pár věcí o tom, jak si z Kačera Donalda udělat legraci!"
+    },
+    {
+      "key": "Donald_008_f",
+      "en": "Aw. Well, then what are you wasting my time for? Can't you see I'm busy?!",
+      "cz": "Ach. Tak proč mi tu ztrácíš čas? Nevidíš, že mám moc práce?!",
+      "source": "pre_existing",
+      "original_cz": "Ach. Tak proč mi tu ztrácíš čas? Nevidíš, že mám moc práce?!"
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "LionKing2_Scar/Scar_CrossNPCDialogues_Scar_Forgotten_VLG_Timon_020_Listen01.locbin": [
+    {
+      "key": "Scar_000_f",
+      "en": "So the arrangements have been made?",
+      "cz": "Takže opatření byla učiněna?",
+      "source": "pre_existing",
+      "original_cz": "Takže opatření byla učiněna?"
+    },
+    {
+      "key": "Scar_001_f",
+      "en": "Most definitely. Even Mother Gothel has decided to join us.",
+      "cz": "Rozhodně. Dokonce i Matka Gothel se rozhodla, že se k nám přidá.",
+      "source": "pre_existing",
+      "original_cz": "Rozhodně. Dokonce i Matka Gothel se rozhodla, že se k nám přidá."
+    }
+  ],
+  "LionKing2_Scar/Scar_CrossNPCDialogues_Scar_MotherGothel_VLG_Timo_020_Listen02.locbin": [
+    {
+      "key": "Scar_000_f",
+      "en": "Are you certain now is a good time for this? You're looking a bit... peaked.",
+      "cz": "Jsi si jistý/á, že je teď na to vhodná doba? Vypadáš trochu... vyčerpaně.",
+      "source": "pre_existing",
+      "original_cz": "Jsi si jistý/á, že je teď na to vhodná doba? Vypadáš trochu... vyčerpaně."
+    },
+    {
+      "key": "Scar_001_f",
+      "en": "Peaked.",
+      "cz": "Dosáhl vrcholu.",
+      "source": "pre_existing",
+      "original_cz": "Dosáhl vrcholu."
+    },
+    {
+      "key": "Scar_002_f",
+      "en": "Oh relax; I'm just teasing. You really do take things far too seriously, you know.",
+      "cz": "Uklidni se, jen si dělám legraci. Víš, bereš věci vážně až moc vážně.",
+      "source": "pre_existing",
+      "original_cz": "Uklidni se, jen si dělám legraci. Víš, bereš věci vážně až moc vážně."
+    },
+    {
+      "key": "Scar_003_f",
+      "en": "If you're not interested...",
+      "cz": "Pokud nemáte zájem...",
+      "source": "pre_existing",
+      "original_cz": "Pokud nemáte zájem..."
+    },
+    {
+      "key": "Scar_004_f",
+      "en": "Wait... I admit you caught my interest. I even started a little something of my own.",
+      "cz": "Počkej... Přiznávám, že jsi mě zaujal. Dokonce jsem si založil i vlastní malou věc.",
+      "source": "pre_existing",
+      "original_cz": "Počkej... Přiznávám, že jsi mě zaujal. Dokonce jsem si založil i vlastní malou věc."
+    },
+    {
+      "key": "Scar_006_f",
+      "en": "AHEM. The wilted flower, the wilted life, as time moves forward, I'm filled with strife.",
+      "cz": "EHM. Zvadlý květ, zvadlý život, jak čas plyne, jsem plný sváru.",
+      "source": "pre_existing",
+      "original_cz": "EHM. Zvadlý květ, zvadlý život, jak čas plyne, jsem plný sváru."
+    },
+    {
+      "key": "Scar_007_f",
+      "en": "Terrible tempo. And rather derivative, no?",
+      "cz": "Hrozné tempo. A poněkud odvozené, ne?",
+      "source": "pre_existing",
+      "original_cz": "Hrozné tempo. A poněkud odvozené, ne?"
+    },
+    {
+      "key": "Scar_008_f",
+      "en": "Derivative?!",
+      "cz": "Derivát?!",
+      "source": "pre_existing",
+      "original_cz": "Derivát?!"
+    },
+    {
+      "key": "Scar_005_f",
+      "en": "Sorry, I'm feeling too \"peaked\" to be constructive in my critiques.",
+      "cz": "Promiňte, cítím se příliš „vyčerpaný“ na to, abych mohl ve své kritice psát konstruktivně.",
+      "source": "pre_existing",
+      "original_cz": "Promiňte, cítím se příliš „vyčerpaný“ na to, abych mohl ve své kritice psát konstruktivně."
+    }
+  ],
+  "LionKing2_Scar/Scar_CrossNPCDialogues_Scar_Ursula_VLG_Timon_020_Listen01.locbin": [
+    {
+      "key": "Scar_001_f",
+      "en": "And the Forgotten?",
+      "cz": "A Zapomenutí?",
+      "source": "pre_existing",
+      "original_cz": "A Zapomenutí?"
+    },
+    {
+      "key": "Scar_002_f",
+      "en": "It would seem your conversation with them was enough to convince them.",
+      "cz": "Zdá se, že váš rozhovor s nimi stačil k přesvědčení.",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že váš rozhovor s nimi stačil k přesvědčení."
+    },
+    {
+      "key": "Scar_003_f",
+      "en": "Excellent. And remember, Ursula...",
+      "cz": "Výborně. A pamatuj si, Ursulo...",
+      "source": "pre_existing",
+      "original_cz": "Výborně. A pamatuj si, Ursulo..."
+    },
+    {
+      "key": "Scar_004_f",
+      "en": "No one must know what we are up to!",
+      "cz": "Nikdo se nesmí dozvědět, co děláme!",
+      "source": "pre_existing",
+      "original_cz": "Nikdo se nesmí dozvědět, co děláme!"
+    },
+    {
+      "key": "Scar_000_f",
+      "en": "Then you better be a little more careful. Seems our friend {PlayerName} can hear us.",
+      "cz": "Pak bys měl být trochu opatrnější. Zdá se, že nás náš přítel {PlayerName} slyší.",
+      "source": "pre_existing",
+      "original_cz": "Pak bys měl být trochu opatrnější. Zdá se, že nás náš přítel {PlayerName} slyší."
+    },
+    {
+      "key": "Scar_005_f",
+      "en": "What!!! Get out of here, {PlayerName}!",
+      "cz": "Cože!!! Vypadni odsud, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Cože!!! Vypadni odsud, {PlayerName}!"
+    }
+  ],
+  "LionKing2_Scar/Scar_CrossNPCDialogues_Timon_Scar_DiscussionVLG001.locbin": [
+    {
+      "key": "Scar_000_f",
+      "en": "{Placeholder}Timon says he's got his eye on Scar.",
+      "cz": "{Placeholder}Timon říká, že si vyhlédl Scara.",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Timon říká, že si vyhlédl Scara."
+    },
+    {
+      "key": "Scar_002_f",
+      "en": "{Placeholder}He knows who Scar truly is. No way he just became \"friendly\" all of a sudden.",
+      "cz": "{Placeholder}Ví, kdo Scar doopravdy je. Není možné, že by se jen tak najednou stal „spřátelským“.",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Ví, kdo Scar doopravdy je. Není možné, že by se jen tak najednou stal „spřátelským“."
+    },
+    {
+      "key": "Scar_001_f",
+      "en": "{Placeholder}Scar blows him off as nothing more than an annoyance.",
+      "cz": "{Placeholder}Scar ho ignoruje a považuje ho za pouhou otravu.",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Scar ho ignoruje a považuje ho za pouhou otravu."
+    }
+  ],
+  "LionKing2_Scar/Scar_VLG_Timon_010_VLG_Timon_010_TalkTo07.locbin": [
+    {
+      "key": "Scar_000_f",
+      "en": "Hi, Scar. You look... agitated.",
+      "cz": "Ahoj, Scare. Vypadáš... rozrušeně.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, Scare. Vypadáš... rozrušeně."
+    },
+    {
+      "key": "Scar_018_f",
+      "en": "Oh I do, do I?",
+      "cz": "Ach jo, že jo?",
+      "source": "pre_existing",
+      "original_cz": "Ach jo, že jo?"
+    },
+    {
+      "key": "Scar_004_f",
+      "en": "I know what that insolent little Vanellope creature tried to leave in my den.",
+      "cz": "Vím, co se mi ta drzá malá Vanellopa snažila nechat v doupěti.",
+      "source": "pre_existing",
+      "original_cz": "Vím, co se mi ta drzá malá Vanellopa snažila nechat v doupěti."
+    },
+    {
+      "key": "Scar_010_f",
+      "en": "And... I know that you took care of it. I suppose a show of gratitude is in order.",
+      "cz": "A... vím, že ses o to postaral/a. Předpokládám, že projev vděčnosti je na místě.",
+      "source": "pre_existing",
+      "original_cz": "A... vím, že ses o to postaral/a. Předpokládám, že projev vděčnosti je na místě."
+    },
+    {
+      "key": "Scar_020_f",
+      "en": "Keeping the Villagers safe and happy is my number one priority... ALL of the Villagers.",
+      "cz": "Udržet vesničany v bezpečí a šťastné je mou prioritou číslo jedna... VŠECHNY vesničany.",
+      "source": "pre_existing",
+      "original_cz": "Udržet vesničany v bezpečí a šťastné je mou prioritou číslo jedna... VŠECHNY vesničany."
+    },
+    {
+      "key": "Scar_021_f",
+      "en": "I'll make sure nothing like this happens to you again.",
+      "cz": "Postarám se, aby se ti už nic podobného nestalo.",
+      "source": "pre_existing",
+      "original_cz": "Postarám se, aby se ti už nic podobného nestalo."
+    },
+    {
+      "key": "Scar_022_f",
+      "en": "And I do appreciate that.",
+      "cz": "A toho si vážím.",
+      "source": "pre_existing",
+      "original_cz": "A toho si vážím."
+    },
+    {
+      "key": "Scar_019_f",
+      "en": "What happened?",
+      "cz": "Co se stalo?",
+      "source": "pre_existing",
+      "original_cz": "Co se stalo?"
+    },
+    {
+      "key": "Scar_017_f",
+      "en": "I'm certain that insolent little Vanellope creature has been spying on me.",
+      "cz": "Jsem si jistý, že mě ta drzá malá Vanellopa špehuje.",
+      "source": "pre_existing",
+      "original_cz": "Jsem si jistý, že mě ta drzá malá Vanellopa špehuje."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Why do you think that?",
+      "cz": "Proč si to myslíš?",
+      "source": "pre_existing",
+      "original_cz": "Proč si to myslíš?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Vanellope would never do such a thing!",
+      "cz": "Vanellope by nikdy nic takového neudělala!",
+      "source": "pre_existing",
+      "original_cz": "Vanellope by nikdy nic takového neudělala!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "She does give off a mischievous vibe, doesn't she?",
+      "cz": "Opravdu z ní vyzařuje zlomyslná atmosféra, že?",
+      "source": "pre_existing",
+      "original_cz": "Opravdu z ní vyzařuje zlomyslná atmosféra, že?"
+    },
+    {
+      "key": "Scar_002_f",
+      "en": "I've seen her lurking about, like a predator stalking prey.",
+      "cz": "Viděl jsem ji číhat kolem, jako predátor sledující kořist.",
+      "source": "pre_existing",
+      "original_cz": "Viděl jsem ji číhat kolem, jako predátor sledující kořist."
+    },
+    {
+      "key": "Scar_005_f",
+      "en": "Must be strange for you to be on the other side of that, huh?",
+      "cz": "To musí být divné, že jsi na té druhé straně, co?",
+      "source": "pre_existing",
+      "original_cz": "To musí být divné, že jsi na té druhé straně, co?"
+    },
+    {
+      "key": "Scar_013_f",
+      "en": "Hardly. It's not as if the child could truly harm me. But she is exceedingly annoying.",
+      "cz": "Sotva. Není to tak, že by mi to dítě mohlo doopravdy ublížit. Ale je nesmírně otravné.",
+      "source": "pre_existing",
+      "original_cz": "Sotva. Není to tak, že by mi to dítě mohlo doopravdy ublížit. Ale je nesmírně otravné."
+    },
+    {
+      "key": "Scar_014_f",
+      "en": "Listen, I'll take care of whatever Vanellope is up to. Just... try not to get too worked up over this, okay?",
+      "cz": "Poslouchej, postarám se o to, co Vanellope chystá. Jen... zkus se kvůli tomu moc nerozčilovat, ano?",
+      "source": "pre_existing",
+      "original_cz": "Poslouchej, postarám se o to, co Vanellope chystá. Jen... zkus se kvůli tomu moc nerozčilovat, ano?"
+    },
+    {
+      "key": "Scar_015_f",
+      "en": "Not to worry, {PlayerName}. I am imperturbable.",
+      "cz": "Neboj se, {PlayerName}. Jsem klidný.",
+      "source": "pre_existing",
+      "original_cz": "Neboj se, {PlayerName}. Jsem klidný."
+    },
+    {
+      "key": "Scar_016_f",
+      "en": "Sure you are, Scar.",
+      "cz": "Jasně, že jsi, Scare.",
+      "source": "pre_existing",
+      "original_cz": "Jasně, že jsi, Scare."
+    },
+    {
+      "key": "Scar_003_f",
+      "en": "Please. She has \"bothersome brat\" written all over her.",
+      "cz": "Prosím. Má všude napsané „otravný spratek“.",
+      "source": "pre_existing",
+      "original_cz": "Prosím. Má všude napsané „otravný spratek“."
+    },
+    {
+      "key": "Scar_006_f",
+      "en": "Don't be mean. Vanellope is sweet!",
+      "cz": "Nebuď zlá. Vanellope je sladká!",
+      "source": "pre_existing",
+      "original_cz": "Nebuď zlá. Vanellope je sladká!"
+    },
+    {
+      "key": "Scar_007_f",
+      "en": "Ugh.",
+      "cz": "Uf.",
+      "source": "pre_existing",
+      "original_cz": "Uf."
+    },
+    {
+      "key": "Scar_008_f",
+      "en": "But you have a little mischief in you, too, don't you?",
+      "cz": "Ale máš v sobě taky trochu neplechy, že?",
+      "source": "pre_existing",
+      "original_cz": "Ale máš v sobě taky trochu neplechy, že?"
+    },
+    {
+      "key": "Scar_011_f",
+      "en": "{PlayerName}, I am wickedly clever, cunning, ruthless, determined, perhaps mildly vengeful... but mischievous?",
+      "cz": "{PlayerName}, jsem neskutečně chytrý, lstivý, bezohledný, odhodlaný, možná i mírně mstivý... ale zlomyslný?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, jsem neskutečně chytrý, lstivý, bezohledný, odhodlaný, možná i mírně mstivý... ale zlomyslný?"
+    },
+    {
+      "key": "Scar_012_f",
+      "en": "To boil royalty such as me down to one simplistic, juvenile word is disrespect of the highest order.",
+      "cz": "Zredukovat královskou rodinu, jako jsem já, na jedno zjednodušené, dětinské slovo je neúcta nejvyššího řádu.",
+      "source": "pre_existing",
+      "original_cz": "Zredukovat královskou rodinu, jako jsem já, na jedno zjednodušené, dětinské slovo je neúcta nejvyššího řádu."
+    }
+  ]
+}

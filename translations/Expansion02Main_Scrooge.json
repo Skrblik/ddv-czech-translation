@@ -1,0 +1,884 @@
+{
+  "Expansion02Main_Scrooge/Scrooge_CrossNPCDialogues_Scrooge_Merida_VLG_Hade_010_ScroogeMerida.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Mr. McDuck, I'd love to hear your opinion. What do you think of these new statues?",
+      "cz": "Pane McDucku, rád bych slyšel váš názor. Co si myslíte o těchto nových sochách?",
+      "source": "pre_existing",
+      "original_cz": "Pane McDucku, rád bych slyšel váš názor. Co si myslíte o těchto nových sochách?"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "They're pleasant enough. But if they'd had a more inspiring model, I'd be happy to stock 'em in my shop!",
+      "cz": "Jsou docela příjemní. Ale kdyby měli inspirativnější model, rád bych je měl ve svém obchodě!",
+      "source": "pre_existing",
+      "original_cz": "Jsou docela příjemní. Ale kdyby měli inspirativnější model, rád bych je měl ve svém obchodě!"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Wasn't there a god who threw lightning bolts? I think the Lorekeeper told me about him.",
+      "cz": "Neexistoval snad bůh, který házel blesky? Myslím, že mi o něm vyprávěl Věštec.",
+      "source": "pre_existing",
+      "original_cz": "Neexistoval snad bůh, který házel blesky? Myslím, že mi o něm vyprávěl Věštec."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Aye, lass. That'd be Zeus! He'd make a much more regal figure.",
+      "cz": "Ano, děvče. To by byl Zeus! Byl by z něj mnohem vznešenější postava.",
+      "source": "pre_existing",
+      "original_cz": "Ano, děvče. To by byl Zeus! Byl by z něj mnohem vznešenější postava."
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "Shame this one doesn't have real lightning. That'd make it heaps more exciting!",
+      "cz": "Škoda, že tohle nemá opravdové blesky. To by to udělalo mnohem napínavější!",
+      "source": "pre_existing",
+      "original_cz": "Škoda, že tohle nemá opravdové blesky. To by to udělalo mnohem napínavější!"
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "Hmm, wasn't there a lightning machine not too far from the Lorekeeper?",
+      "cz": "Hmm, nebyl nedaleko od Věštce nějaký bleskový stroj?",
+      "source": "pre_existing",
+      "original_cz": "Hmm, nebyl nedaleko od Věštce nějaký bleskový stroj?"
+    }
+  ],
+  "Expansion02Main_Scrooge/Scrooge_MRQS_E02_020_MRQS_E02_020_BringItem02.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Aye, this is just what I was hopin' to see, {PlayerName}!",
+      "cz": "Ano, přesně tohle jsem doufal, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Ano, přesně tohle jsem doufal, {PlayerName}!"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Even the gems around here feel like they've got a story behind 'em.",
+      "cz": "I ty drahokamy tady kolem vypadají, jako by za sebou měly nějaký příběh.",
+      "source": "pre_existing",
+      "original_cz": "I ty drahokamy tady kolem vypadají, jako by za sebou měly nějaký příběh."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "I'll get my shop opened for ya right away.",
+      "cz": "Hned vám otevřu obchod.",
+      "source": "pre_existing",
+      "original_cz": "Hned vám otevřu obchod."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "When ya have a chance, send that Merida my way, will ya? We've got a lot to catch up on. I always love trading stories of Clan DunBroch and Clan McDuck!",
+      "cz": "Až budeš mít čas, pošli mi tu Meridu, ano? Máme si toho hodně co vyprávět. Vždycky rád vyměňuji historky o klanu DunBroch a klanu McDuck!",
+      "source": "pre_existing",
+      "original_cz": "Až budeš mít čas, pošli mi tu Meridu, ano? Máme si toho hodně co vyprávět. Vždycky rád vyměňuji historky o klanu DunBroch a klanu McDuck!"
+    }
+  ],
+  "Expansion02Main_Scrooge/Scrooge_MRQS_E02_020_MRQS_E02_020_TalkTo06.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "{PlayerName}, I know an opportunity when I see one.",
+      "cz": "{PlayerName}, poznám příležitost, když ji vidím.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, poznám příležitost, když ji vidím."
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "And this place is a grand opportunity indeed, or my name's not Scrooge McDuck!",
+      "cz": "A tohle místo je vskutku skvělá příležitost, nebo se nejmenuji Scrooge McDuck!",
+      "source": "pre_existing",
+      "original_cz": "A tohle místo je vskutku skvělá příležitost, nebo se nejmenuji Scrooge McDuck!"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Now, it seems I tried to set up a shop here once before. Which doesn't surprise me. Why, look at all these books just growin' on trees. It's quite a merchandizing opportunity.",
+      "cz": "Zdá se, že jsem se tu už jednou pokusil otevřít obchod. Což mě nepřekvapuje. Podívejte se na všechny ty knihy, co jen rostou na stromech. Je to docela merchandisingová příležitost.",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že jsem se tu už jednou pokusil otevřít obchod. Což mě nepřekvapuje. Podívejte se na všechny ty knihy, co jen rostou na stromech. Je to docela merchandisingová příležitost."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Would you be willin' to make a wee investment in my shop in the Vale, {PlayerName}?",
+      "cz": "Byl bys ochoten investovat malou částku do mého obchodu v údolí, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Byl bys ochoten investovat malou částku do mého obchodu v údolí, {PlayerName}?"
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "Then I'll be able to sell some <Lore>exclusive items</Lore> available only at this location!",
+      "cz": "Pak budu moci prodávat některé <Lore>exkluzivní předměty</Lore> dostupné pouze na tomto místě!",
+      "source": "pre_existing",
+      "original_cz": "Pak budu moci prodávat některé <Lore>exkluzivní předměty</Lore> dostupné pouze na tomto místě!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "That would be a dream come true!",
+      "cz": "To by byl splněný sen!",
+      "source": "pre_existing",
+      "original_cz": "To by byl splněný sen!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "What sorts of things would you sell?",
+      "cz": "Jaké věci byste prodávali?",
+      "source": "pre_existing",
+      "original_cz": "Jaké věci byste prodávali?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Finally! Your regular merchandise really needs a restock.",
+      "cz": "Konečně! Vaše běžné zboží opravdu potřebuje doplnit zásoby.",
+      "source": "pre_existing",
+      "original_cz": "Konečně! Vaše běžné zboží opravdu potřebuje doplnit zásoby."
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "You'll soon learn, {PlayerName}, that ALL my dreams come true! Because I work hard to make 'em come true.",
+      "cz": "Brzy se dozvíš, {PlayerName}, že VŠECHNY mé sny se plní! Protože na jejich splnění tvrdě pracuji.",
+      "source": "pre_existing",
+      "original_cz": "Brzy se dozvíš, {PlayerName}, že VŠECHNY mé sny se plní! Protože na jejich splnění tvrdě pracuji."
+    },
+    {
+      "key": "Scrooge_008_f",
+      "en": "Let's see... a few <ActivityItem>Gems</ActivityItem> from around here ought to do nicely. Come talk to me once you've got 'em.",
+      "cz": "Podívejme se... pár <ActivityItem>drahokamů</ActivityItem> odsud by se mělo docela dobře hodit. Až je budeš mít, přijď si se mnou promluvit.",
+      "source": "pre_existing",
+      "original_cz": "Podívejme se... pár <ActivityItem>drahokamů</ActivityItem> odsud by se mělo docela dobře hodit. Až je budeš mít, přijď si se mnou promluvit."
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "I'm thinkin' a line of clothing and some furniture would be in order, inspired by the Bind itself.",
+      "cz": "Myslím, že by se hodila řada oblečení a nějaký nábytek, inspirované samotným Bindem.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že by se hodila řada oblečení a nějaký nábytek, inspirované samotným Bindem."
+    },
+    {
+      "key": "Scrooge_007_f",
+      "en": "Och, I know. I've been tryin' to find new suppliers for some time.",
+      "cz": "Ach, já vím. Už nějakou dobu se snažím najít nové dodavatele.",
+      "source": "pre_existing",
+      "original_cz": "Ach, já vím. Už nějakou dobu se snažím najít nové dodavatele."
+    }
+  ],
+  "Expansion02Main_Scrooge/Scrooge_UnlocksAndUpgrades_Exp02_GoofyStallGenericUpgrade.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Improvin' this Stall would be a sound investment. Goofy could buy and sell more products, so you could make more improvements to the Storybook Vale!",
+      "cz": "Vylepšení tohoto stánku by byla rozumná investice. Goofy by mohl nakupovat a prodávat více produktů, takže byste mohli v Pohádkovém údolí provádět další vylepšení!",
+      "source": "pre_existing",
+      "original_cz": "Vylepšení tohoto stánku by byla rozumná investice. Goofy by mohl nakupovat a prodávat více produktů, takže byste mohli v Pohádkovém údolí provádět další vylepšení!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's improve the Stall. (Use <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>",
+      "cz": "Vylepšeme stánek. (Použijte <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>",
+      "source": "pre_existing",
+      "original_cz": "Vylepšeme stánek. (Použijte <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Perhaps some other time.",
+      "cz": "Možná někdy jindy.",
+      "source": "pre_existing",
+      "original_cz": "Možná někdy jindy."
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Would ya look at that! What a selection of items to purchase!",
+      "cz": "Podívejte se na to! To je ale výběr věcí ke koupi!",
+      "source": "pre_existing",
+      "original_cz": "Podívejte se na to! To je ale výběr věcí ke koupi!"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Och! You don't have enough Star Coins to improve the Stall! Come back when you have the funds, {PlayerName}.",
+      "cz": "Ach! Nemáš dostatek hvězdných mincí na vylepšení stánku! Vrať se, až budeš mít peníze, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Ach! Nemáš dostatek hvězdných mincí na vylepšení stánku! Vrať se, až budeš mít peníze, {PlayerName}."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "But this is a sound investment! *sigh* Well, come back here when you come to your senses.",
+      "cz": "Ale tohle je rozumná investice! *povzdech* No, vrať se sem, až se vzpamatuješ.",
+      "source": "pre_existing",
+      "original_cz": "Ale tohle je rozumná investice! *povzdech* No, vrať se sem, až se vzpamatuješ."
+    }
+  ],
+  "Expansion02Main_Scrooge/Scrooge_UnlocksAndUpgrades_Exp02_GoofyStallUnlock.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "If ya help set up the Stall in this part of the Storybook Vale, it'll save you the hassle of travelin' so far. And you can make more deals with more products!",
+      "cz": "Pokud pomůžete postavit stánek v této části Pohádkového údolí, ušetří vám to starosti s cestováním tak daleko. A můžete uzavřít více obchodů s více produkty!",
+      "source": "pre_existing",
+      "original_cz": "Pokud pomůžete postavit stánek v této části Pohádkového údolí, ušetří vám to starosti s cestováním tak daleko. A můžete uzavřít více obchodů s více produkty!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's set up the Stall. (Use <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>",
+      "cz": "Postavme stánek. (Použijte <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>",
+      "source": "pre_existing",
+      "original_cz": "Postavme stánek. (Použijte <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Perhaps some other time.",
+      "cz": "Možná někdy jindy.",
+      "source": "pre_existing",
+      "original_cz": "Možná někdy jindy."
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Knock me over with a feather! Look at all there is to buy!",
+      "cz": "Srazte mě pírkem! Podívejte se, co všechno se dá koupit!",
+      "source": "pre_existing",
+      "original_cz": "Srazte mě pírkem! Podívejte se, co všechno se dá koupit!"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Och! You don't have enough Star Coins to set up the Stall! Come back when you have the funds, {PlayerName}.",
+      "cz": "Ach! Nemáš dostatek hvězdných mincí na postavení stánku! Vrať se, až budeš mít peníze, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Ach! Nemáš dostatek hvězdných mincí na postavení stánku! Vrať se, až budeš mít peníze, {PlayerName}."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Curse me kilts! This is a sound investment! Come back when you've come to your senses.",
+      "cz": "Zatracené kilty! Tohle je rozumná investice! Vrať se, až se vzpamatuješ.",
+      "source": "pre_existing",
+      "original_cz": "Zatracené kilty! Tohle je rozumná investice! Vrať se, až se vzpamatuješ."
+    }
+  ],
+  "Expansion02Main_Scrooge/Scrooge_UnlocksAndUpgrades_Exp02_GoofyStallUnlockBind.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Looks like you and Goofy have already put in some work fixin' up this Stall! Why don't I finish it off for ya?",
+      "cz": "Vypadá to, že ty a Goofy jste už dali do pořádku tuhle stánku! Co kdybych to pro vás dokončil já?",
+      "source": "pre_existing",
+      "original_cz": "Vypadá to, že ty a Goofy jste už dali do pořádku tuhle stánku! Co kdybych to pro vás dokončil já?"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "You'll be able to buy all sorts of new Ingredients now!",
+      "cz": "Nyní si budete moci koupit nejrůznější nové ingredience!",
+      "source": "pre_existing",
+      "original_cz": "Nyní si budete moci koupit nejrůznější nové ingredience!"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "But say, don't forget to set up Stalls everywhere in the Storybook Vale. That way, you'll be able to keep buying fresh new Ingredients!",
+      "cz": "Ale nezapomeňte postavit stánky všude v Pohádkovém údolí. Tak budete moci nakupovat čerstvé nové ingredience!",
+      "source": "pre_existing",
+      "original_cz": "Ale nezapomeňte postavit stánky všude v Pohádkovém údolí. Tak budete moci nakupovat čerstvé nové ingredience!"
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Time for the grand opening!",
+      "cz": "Čas na slavnostní otevření!",
+      "source": "pre_existing",
+      "original_cz": "Čas na slavnostní otevření!"
+    }
+  ],
+  "Expansion02Main_Scrooge/Scrooge_UnlocksAndUpgrades_FlynnHouseUnlock.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Seems Flynn's been through a lot since I laid eyes on him last. Let's help him out and set him up with a cozy, proper home.",
+      "cz": "Zdá se, že Flynn si od té doby, co jsem ho naposledy viděl, hodně prožil. Pojďme mu pomoct a zařídit mu útulný a pořádný domov.",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že Flynn si od té doby, co jsem ho naposledy viděl, hodně prožil. Pojďme mu pomoct a zařídit mu útulný a pořádný domov."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's build Flynn's House! (Use <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>",
+      "cz": "Postavme Flynnův dům! (Použijte <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>",
+      "source": "pre_existing",
+      "original_cz": "Postavme Flynnův dům! (Použijte <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'll do this later.",
+      "cz": "Udělám to později.",
+      "source": "pre_existing",
+      "original_cz": "Udělám to později."
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "One House for the dashing Mr. Rider coming right up!",
+      "cz": "Jeden dům pro elegantního pana Ridera hned teď!",
+      "source": "pre_existing",
+      "original_cz": "Jeden dům pro elegantního pana Ridera hned teď!"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Seems you don't have the Star Coins for this particular build. Poor Flynn'll just have to wait.",
+      "cz": "Zdá se, že pro tuto konkrétní sestavu nemáš Star Coins. Chudák Flynn si bude muset počkat.",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že pro tuto konkrétní sestavu nemáš Star Coins. Chudák Flynn si bude muset počkat."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "*sigh* Fine. I'll be here when you're ready. Let's not keep the poor, formerly feral lad waiting too long.",
+      "cz": "*povzdech* Dobře. Budu tu, až budeš připravený. Nenechme toho chudáka, dříve divokého kluka čekat příliš dlouho.",
+      "source": "pre_existing",
+      "original_cz": "*povzdech* Dobře. Budu tu, až budeš připravený. Nenechme toho chudáka, dříve divokého kluka čekat příliš dlouho."
+    }
+  ],
+  "Expansion02Main_Scrooge/Scrooge_UnlocksAndUpgrades_HadesHouseUnlock.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Well, well, seems even the most talkative Lord of the Underworld needs lodgings from the likes of us humble Villagers.",
+      "cz": "No, no, zdá se, že i ten nejmluvnější Pán podsvětí potřebuje ubytování u nás, obyčejných vesničanů.",
+      "source": "pre_existing",
+      "original_cz": "No, no, zdá se, že i ten nejmluvnější Pán podsvětí potřebuje ubytování u nás, obyčejných vesničanů."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's get Hades' House set up. (Use <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>",
+      "cz": "Pojďme si postavit Hádův dům. (Použijte <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>",
+      "source": "pre_existing",
+      "original_cz": "Pojďme si postavit Hádův dům. (Použijte <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'll do this later.",
+      "cz": "Udělám to později.",
+      "source": "pre_existing",
+      "original_cz": "Udělám to později."
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Remember: If he's got complaints... tell him I don't wanna hear 'em!",
+      "cz": "Pamatujte: Pokud má stížnosti... řekněte mu, že je nechci slyšet!",
+      "source": "pre_existing",
+      "original_cz": "Pamatujte: Pokud má stížnosti... řekněte mu, že je nechci slyšet!"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Seems you're a little short on your Star Coins for this House, {PlayerName}. Let's talk again when you have the funds, aye?",
+      "cz": "Zdá se, že ti pro tento rod trochu chybí hvězdné mince, {PlayerName}. Promluvíme si znovu, až budeš mít peníze, ano?",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že ti pro tento rod trochu chybí hvězdné mince, {PlayerName}. Promluvíme si znovu, až budeš mít peníze, ano?"
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Well, I'll be here when you're ready. Just know the Lord of the Underworld doesn't like waiting.",
+      "cz": "No, budu tady, až budeš připravený. Jen věz, že Pán podsvětí nerad čeká.",
+      "source": "pre_existing",
+      "original_cz": "No, budu tady, až budeš připravený. Jen věz, že Pán podsvětí nerad čeká."
+    }
+  ],
+  "Expansion02Main_Scrooge/Scrooge_UnlocksAndUpgrades_MeridaHouseUnlock.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Why {PlayerName}, are you lookin' to make a home for Merida? Don't worry. I'll build somethin' that'll have her thinkin' she's back in DunBroch.",
+      "cz": "Proč, {PlayerName}, chceš Meridě postavit domov? Neboj se. Postavím něco, co ji přesvědčí, že je zpátky v DunBrochu.",
+      "source": "pre_existing",
+      "original_cz": "Proč, {PlayerName}, chceš Meridě postavit domov? Neboj se. Postavím něco, co ji přesvědčí, že je zpátky v DunBrochu."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's build a home for Merida! (Use <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>",
+      "cz": "Postavme Meridě dům! (Použijte <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>",
+      "source": "pre_existing",
+      "original_cz": "Postavme Meridě dům! (Použijte <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Perhaps some other time.",
+      "cz": "Možná někdy jindy.",
+      "source": "pre_existing",
+      "original_cz": "Možná někdy jindy."
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "One home for Merida that'll make the lass feel like she's back on the Scottish moors — coming right up!",
+      "cz": "Jeden domov pro Meridu, ve kterém se bude cítit jako zpátky na skotských vřesovištích – hned na to!",
+      "source": "pre_existing",
+      "original_cz": "Jeden domov pro Meridu, ve kterém se bude cítit jako zpátky na skotských vřesovištích – hned na to!"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Och, you haven't got enough Star Coins to cover even the materials for Merida's home! Come back later when ya have more.",
+      "cz": "Ach, nemáš dost hvězdných mincí ani na materiál na Meridin dům! Vrať se později, až budeš mít další.",
+      "source": "pre_existing",
+      "original_cz": "Ach, nemáš dost hvězdných mincí ani na materiál na Meridin dům! Vrať se později, až budeš mít další."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Don't wait too long, {PlayerName}. Merida needs a home soon or she'll be stuck sleepin' out under the stars.",
+      "cz": "Nečekej příliš dlouho, {PlayerName}. Merida brzy potřebuje domov, jinak bude muset spát venku pod hvězdami.",
+      "source": "pre_existing",
+      "original_cz": "Nečekej příliš dlouho, {PlayerName}. Merida brzy potřebuje domov, jinak bude muset spát venku pod hvězdami."
+    }
+  ],
+  "Expansion02Main_Scrooge/Scrooge_VLG_Flyn_040_VLG_Flyn_040_TalkTo04.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Ah, {PlayerName}! I was hoping to see you.",
+      "cz": "Aha, {PlayerName}! Doufal jsem, že tě uvidím.",
+      "source": "pre_existing",
+      "original_cz": "Aha, {PlayerName}! Doufal jsem, že tě uvidím."
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Has Flynn Rider decided to take me up on my offer to publish his book?",
+      "cz": "Rozhodl se Flynn Rider přijmout mou nabídku na vydání jeho knihy?",
+      "source": "pre_existing",
+      "original_cz": "Rozhodl se Flynn Rider přijmout mou nabídku na vydání jeho knihy?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "We've decided to go in a different direction.",
+      "cz": "Rozhodli jsme se jít jiným směrem.",
+      "source": "pre_existing",
+      "original_cz": "Rozhodli jsme se jít jiným směrem."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Actually, we need you for something even BETTER!",
+      "cz": "Vlastně tě potřebujeme pro něco ještě LEPŠÍHO!",
+      "source": "pre_existing",
+      "original_cz": "Vlastně tě potřebujeme pro něco ještě LEPŠÍHO!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Um... uh... no comment?",
+      "cz": "Ehm... ehm... žádný komentář?",
+      "source": "pre_existing",
+      "original_cz": "Ehm... ehm... žádný komentář?"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Och, don't tell me you're goin' with Goofy?",
+      "cz": "Ach, neříkej mi, že jdeš s Goofym?",
+      "source": "pre_existing",
+      "original_cz": "Ach, neříkej mi, že jdeš s Goofym?"
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "Goofy would have done a great job! But... no, we've decided to self-publish instead.",
+      "cz": "Goofy by odvedl skvělou práci! Ale... ne, rozhodli jsme se raději vydat sami.",
+      "source": "pre_existing",
+      "original_cz": "Goofy by odvedl skvělou práci! Ale... ne, rozhodli jsme se raději vydat sami."
+    },
+    {
+      "key": "Scrooge_008_f",
+      "en": "Self-publish? What an interesting choice. I suppose I can see how that'd work.",
+      "cz": "Vydat vlastním rukama? To je zajímavá volba. Asi si dovedu představit, jak by to fungovalo.",
+      "source": "pre_existing",
+      "original_cz": "Vydat vlastním rukama? To je zajímavá volba. Asi si dovedu představit, jak by to fungovalo."
+    },
+    {
+      "key": "Scrooge_009_f",
+      "en": "To help market, we're organizing a book signing. I'll need to order an <ActivityItem>Ink and Feather Set</ActivityItem> to get things set up.",
+      "cz": "Abychom podpořili marketing, pořádáme autogramiádu. Budu si muset objednat <ActivityItem>sadu inkoustu a peří</ActivityItem>, abych to mohl připravit.",
+      "source": "pre_existing",
+      "original_cz": "Abychom podpořili marketing, pořádáme autogramiádu. Budu si muset objednat <ActivityItem>sadu inkoustu a peří</ActivityItem>, abych to mohl připravit."
+    },
+    {
+      "key": "Scrooge_012_f",
+      "en": "Well, at least you're here to do SOME business. Let's get you sorted!",
+      "cz": "No, alespoň jsi tady, abys vyřídil NĚJAKÉ záležitosti. Pojďme se s tebou vypořádat!",
+      "source": "pre_existing",
+      "original_cz": "No, alespoň jsi tady, abys vyřídil NĚJAKÉ záležitosti. Pojďme se s tebou vypořádat!"
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Better? What do you mean?",
+      "cz": "Lepší? Co tím myslíš?",
+      "source": "pre_existing",
+      "original_cz": "Lepší? Co tím myslíš?"
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "Well, we've decided to self-publish the book instead.",
+      "cz": "No, rozhodli jsme se knihu raději vydat sami.",
+      "source": "pre_existing",
+      "original_cz": "No, rozhodli jsme se knihu raději vydat sami."
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "That sounds suspiciously like you have NOT chosen me to publish the book.",
+      "cz": "To zní podezřele, jako byste si mě k vydání knihy NEVYBRALI.",
+      "source": "pre_existing",
+      "original_cz": "To zní podezřele, jako byste si mě k vydání knihy NEVYBRALI."
+    },
+    {
+      "key": "Scrooge_007_f",
+      "en": "Unfortunately no. We've decided to self-publish instead.",
+      "cz": "Bohužel ne. Rozhodli jsme se místo toho pro vlastní publikaci.",
+      "source": "pre_existing",
+      "original_cz": "Bohužel ne. Rozhodli jsme se místo toho pro vlastní publikaci."
+    }
+  ],
+  "Expansion02Main_Scrooge/Scrooge_VLG_Hade_020_VLG_Hade_020_TalkTo04.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Hey Mr. McDuck, have you ever wanted an employee at your shop?",
+      "cz": "Pane McDucku, chtěl jste někdy zaměstnance do svého obchodu?",
+      "source": "pre_existing",
+      "original_cz": "Pane McDucku, chtěl jste někdy zaměstnance do svého obchodu?"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Hmm, can't say I've had a need for one in the past. I like being hands-on in my shop. Especially at the cash register.",
+      "cz": "Hmm, nemůžu říct, že bych ho v minulosti potřeboval. Rád se ve svém obchodě aktivně zapojuji. Zvlášť u pokladny.",
+      "source": "pre_existing",
+      "original_cz": "Hmm, nemůžu říct, že bych ho v minulosti potřeboval. Rád se ve svém obchodě aktivně zapojuji. Zvlášť u pokladny."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Haven't you ever wanted a little vacation?",
+      "cz": "Netoužili jste někdy po malé dovolené?",
+      "source": "pre_existing",
+      "original_cz": "Netoužili jste někdy po malé dovolené?"
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Well... I might be interested. Do you have anyone in mind to fill in?",
+      "cz": "No... Možná bych měl zájem. Máte někoho na mysli, kdo by ho mohl zastoupit?",
+      "source": "pre_existing",
+      "original_cz": "No... Možná bych měl zájem. Máte někoho na mysli, kdo by ho mohl zastoupit?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Hades!",
+      "cz": "Hádes!",
+      "source": "pre_existing",
+      "original_cz": "Hádes!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Okay, so hear me out...",
+      "cz": "Dobře, tak si mě poslechněte...",
+      "source": "pre_existing",
+      "original_cz": "Dobře, tak si mě poslechněte..."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Absolutely!",
+      "cz": "Rozhodně!",
+      "source": "pre_existing",
+      "original_cz": "Rozhodně!"
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "Interesting...",
+      "cz": "Zajímavé...",
+      "source": "pre_existing",
+      "original_cz": "Zajímavé..."
+    },
+    {
+      "key": "Scrooge_007_f",
+      "en": "I heard his little foray into the restaurant business didn't go so well.",
+      "cz": "Slyšel jsem, že jeho malý vpád do restauračního byznysu nedopadl moc dobře.",
+      "source": "pre_existing",
+      "original_cz": "Slyšel jsem, že jeho malý vpád do restauračního byznysu nedopadl moc dobře."
+    },
+    {
+      "key": "Scrooge_008_f",
+      "en": "Oh, he's moved past that now. He needs a role with a little more cachet and your shop just oozes class!",
+      "cz": "Ach, to už má za sebou. Potřebuje roli s větší prestiží a z tvého obchodu prostě čiší noblesa!",
+      "source": "pre_existing",
+      "original_cz": "Ach, to už má za sebou. Potřebuje roli s větší prestiží a z tvého obchodu prostě čiší noblesa!"
+    },
+    {
+      "key": "Scrooge_009_f",
+      "en": "Well, when ya put it like that, I suppose I could take a short break. But YOU need to keep an eye on him in case there are fires that need puttin' out.",
+      "cz": "No, když to takhle řekneš, asi bych si mohl dát krátkou pauzu. Ale TY na něj musíš dávat pozor, pro případ, že by bylo potřeba uhasit požár.",
+      "source": "pre_existing",
+      "original_cz": "No, když to takhle řekneš, asi bych si mohl dát krátkou pauzu. Ale TY na něj musíš dávat pozor, pro případ, že by bylo potřeba uhasit požár."
+    },
+    {
+      "key": "Scrooge_010_f",
+      "en": "Deal!",
+      "cz": "Dohodnuto!",
+      "source": "pre_existing",
+      "original_cz": "Dohodnuto!"
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "Oh, I'm not gonna like this suggestion, am I?",
+      "cz": "Tenhle návrh se mi asi nebude líbit, že ne?",
+      "source": "pre_existing",
+      "original_cz": "Tenhle návrh se mi asi nebude líbit, že ne?"
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "It's Hades!",
+      "cz": "To je Hádes!",
+      "source": "pre_existing",
+      "original_cz": "To je Hádes!"
+    }
+  ],
+  "Expansion02Main_Scrooge/Scrooge_VLG_Hade_030_VLG_Hade_030_TalkTo06.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Hey, Mr. McDuck! How'd you like Hades' talk?",
+      "cz": "Hej, pane McDucku! Jak se vám líbil Hádův rozhovor?",
+      "source": "pre_existing",
+      "original_cz": "Hej, pane McDucku! Jak se vám líbil Hádův rozhovor?"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Ah, well I was already buying my produce from Goofy's Stall, so I dinnae think I was the intended audience.",
+      "cz": "No, už jsem si kupoval produkty z Goofyho stánku, takže si nemyslím, že jsem byl cílovou skupinou.",
+      "source": "pre_existing",
+      "original_cz": "No, už jsem si kupoval produkty z Goofyho stánku, takže si nemyslím, že jsem byl cílovou skupinou."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "But the merchandise there... well that certainly piqued my interest!",
+      "cz": "Ale to zboží tam... no, to rozhodně vzbudilo můj zájem!",
+      "source": "pre_existing",
+      "original_cz": "Ale to zboží tam... no, to rozhodně vzbudilo můj zájem!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Daisy did a great job, didn't she?",
+      "cz": "Daisy odvedla skvělou práci, že?",
+      "source": "pre_existing",
+      "original_cz": "Daisy odvedla skvělou práci, že?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "You're a Hades fan?!",
+      "cz": "Jsi fanoušek Háda?!",
+      "source": "pre_existing",
+      "original_cz": "Jsi fanoušek Háda?!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Oh? How so?",
+      "cz": "Aha? Jak to?",
+      "source": "pre_existing",
+      "original_cz": "Aha? Jak to?"
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Aye, she did!",
+      "cz": "Ano, udělala to!",
+      "source": "pre_existing",
+      "original_cz": "Ano, udělala to!"
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "But let's just say that I was more interested in the business opportunity I saw.",
+      "cz": "Ale řekněme, že mě víc zajímala obchodní příležitost, kterou jsem viděl.",
+      "source": "pre_existing",
+      "original_cz": "Ale řekněme, že mě víc zajímala obchodní příležitost, kterou jsem viděl."
+    },
+    {
+      "key": "Scrooge_007_f",
+      "en": "Limited-run merchandise can become very valuable in the right markets!",
+      "cz": "Limitovaná edice zboží se může na správných trzích stát velmi cennou!",
+      "source": "pre_existing",
+      "original_cz": "Limitovaná edice zboží se může na správných trzích stát velmi cennou!"
+    },
+    {
+      "key": "Scrooge_008_f",
+      "en": "So I bought out Hades' stock! I think I'll sit on it for a time, and then I'll bring it back to market and make myself a pretty penny.",
+      "cz": "Tak jsem koupil Hádovy akcie! Myslím, že si je ještě chvíli nechám a pak je vrátím na trh a vydělám si pěknou sumu.",
+      "source": "pre_existing",
+      "original_cz": "Tak jsem koupil Hádovy akcie! Myslím, že si je ještě chvíli nechám a pak je vrátím na trh a vydělám si pěknou sumu."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Smart!",
+      "cz": "Chytré!",
+      "source": "pre_existing",
+      "original_cz": "Chytré!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I don't think Hades will like that...",
+      "cz": "Myslím, že se to Hádovi nebude líbit...",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že se to Hádovi nebude líbit..."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "That's hilarious.",
+      "cz": "To je k popukání.",
+      "source": "pre_existing",
+      "original_cz": "To je k popukání."
+    },
+    {
+      "key": "Scrooge_009_f",
+      "en": "Why, thank you!",
+      "cz": "Ale děkuji!",
+      "source": "pre_existing",
+      "original_cz": "Ale děkuji!"
+    },
+    {
+      "key": "Scrooge_010_f",
+      "en": "Why not? He still gets paid for his merchandise.",
+      "cz": "Proč ne? Pořád dostává zaplaceno za své zboží.",
+      "source": "pre_existing",
+      "original_cz": "Proč ne? Pořád dostává zaplaceno za své zboží."
+    },
+    {
+      "key": "Scrooge_012_f",
+      "en": "I think he was more in it for the fans and acclaim than to make money.",
+      "cz": "Myslím, že mu šlo spíš o fanoušky a uznání než o peníze.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že mu šlo spíš o fanoušky a uznání než o peníze."
+    },
+    {
+      "key": "Scrooge_013_f",
+      "en": "Well, to each their own!",
+      "cz": "No, každému co chce!",
+      "source": "pre_existing",
+      "original_cz": "No, každému co chce!"
+    },
+    {
+      "key": "Scrooge_011_f",
+      "en": "There's nothin' funny about smart business practices!",
+      "cz": "Na chytrých obchodních praktikách není nic vtipného!",
+      "source": "pre_existing",
+      "original_cz": "Na chytrých obchodních praktikách není nic vtipného!"
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "Ha! Not in the least!",
+      "cz": "Ha! Ani v nejmenším!",
+      "source": "pre_existing",
+      "original_cz": "Ha! Ani v nejmenším!"
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "Let's just say I saw a business opportunity...",
+      "cz": "Řekněme, že jsem viděl obchodní příležitost...",
+      "source": "pre_existing",
+      "original_cz": "Řekněme, že jsem viděl obchodní příležitost..."
+    }
+  ],
+  "Expansion02Main_Scrooge/Scrooge_VLG_Meri_040_VLG_Meri_040_TalkTo03.locbin": [
+    {
+      "key": "Scrooge_001_f",
+      "en": "{PlayerName}, you've a curious spring in your step and a twinkle in your eye... What's going on?",
+      "cz": "{PlayerName}, máš zvláštní pružný krok a jiskru v oku... Co se děje?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, máš zvláštní pružný krok a jiskru v oku... Co se děje?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm helping Merida throw a party!",
+      "cz": "Pomáhám Meridě uspořádat večírek!",
+      "source": "pre_existing",
+      "original_cz": "Pomáhám Meridě uspořádat večírek!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I have some business for you!",
+      "cz": "Mám pro tebe nějakou práci!",
+      "source": "pre_existing",
+      "original_cz": "Mám pro tebe nějakou práci!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Hey... You're Scottish, right?",
+      "cz": "Hej... Jsi Skot, že?",
+      "source": "pre_existing",
+      "original_cz": "Hej... Jsi Skot, že?"
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "A party, you say? What kind of party?",
+      "cz": "Říkáte, večírek? Jaký druh večírku?",
+      "source": "pre_existing",
+      "original_cz": "Říkáte, večírek? Jaký druh večírku?"
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "Merida's throwing a proper Scottish Festival. I was hoping you'd have supplies and could have some <ActivityItem>Clan DunBroch Banners</ActivityItem> made that we can decorate with?",
+      "cz": "Merida pořádá pořádný skotský festival. Doufal jsem, že máte zásoby a že byste mohli nechat vyrobit nějaké <ActivityItem>prapory klanu DunBroch</ActivityItem>, kterými bychom si mohli ozdobit?",
+      "source": "pre_existing",
+      "original_cz": "Merida pořádá pořádný skotský festival. Doufal jsem, že máte zásoby a že byste mohli nechat vyrobit nějaké <ActivityItem>prapory klanu DunBroch</ActivityItem>, kterými bychom si mohli ozdobit?"
+    },
+    {
+      "key": "Scrooge_007_f",
+      "en": "A proper Scottish Festival? Hee-hee! Now that's the best news I've heard in quite a while! Tell ya what, {PlayerName}...",
+      "cz": "Pořádný skotský festival? Hííí! To je ta nejlepší zpráva, jakou jsem za dlouhou dobu slyšel! Víš co, {PlayerName}...",
+      "source": "pre_existing",
+      "original_cz": "Pořádný skotský festival? Hííí! To je ta nejlepší zpráva, jakou jsem za dlouhou dobu slyšel! Víš co, {PlayerName}..."
+    },
+    {
+      "key": "Scrooge_008_f",
+      "en": "...I'll donate the supplies IF you put up some <ActivityItem>Clan McDuck Banners</ActivityItem> as well.",
+      "cz": "...Daruju zásoby, POKUD také vyvěsíte nějaké <ActivityItem>transparenty klanu McDuck</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "...Daruju zásoby, POKUD také vyvěsíte nějaké <ActivityItem>transparenty klanu McDuck</ActivityItem>."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "The more the merrier!",
+      "cz": "Čím více, tím lépe!",
+      "source": "pre_existing",
+      "original_cz": "Čím více, tím lépe!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Not sure that's Merida's vision...",
+      "cz": "Nejsem si jistý/á, jestli je to Meridina vize...",
+      "source": "pre_existing",
+      "original_cz": "Nejsem si jistý/á, jestli je to Meridina vize..."
+    },
+    {
+      "key": "Scrooge_010_f",
+      "en": "That's the spirit! Take these and fair winds to ya!",
+      "cz": "To je ta správná nálada! Vezměte si je a přál vám příznivý vítr!",
+      "source": "pre_existing",
+      "original_cz": "To je ta správná nálada! Vezměte si je a přál vám příznivý vítr!"
+    },
+    {
+      "key": "Scrooge_009_f",
+      "en": "Not her VISION?",
+      "cz": "Není to její VIZIE?",
+      "source": "pre_existing",
+      "original_cz": "Není to její VIZIE?"
+    },
+    {
+      "key": "Scrooge_011_f",
+      "en": "The vision of any proper Scottish Festival is: Paint the town plaid!",
+      "cz": "Vizí každého pořádného skotského festivalu je: Namalovat město na kostky!",
+      "source": "pre_existing",
+      "original_cz": "Vizí každého pořádného skotského festivalu je: Namalovat město na kostky!"
+    },
+    {
+      "key": "Scrooge_012_f",
+      "en": "Just take these <Lore>supplies</Lore>... I'll talk to Merida.",
+      "cz": "Vezmi si jen tyto <Lore>zásoby</Lore>... Promluvím si s Meridou.",
+      "source": "pre_existing",
+      "original_cz": "Vezmi si jen tyto <Lore>zásoby</Lore>... Promluvím si s Meridou."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "You always know how to get my attention. And what business would that be?",
+      "cz": "Vždycky víš, jak upoutat mou pozornost. A co by to bylo za obchod?",
+      "source": "pre_existing",
+      "original_cz": "Vždycky víš, jak upoutat mou pozornost. A co by to bylo za obchod?"
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "Sparkle me spats!",
+      "cz": "Zářivé kamaše!",
+      "source": "pre_existing",
+      "original_cz": "Zářivé kamaše!"
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "Of COURSE I'm Scottish! I'm as Scottish as the Highlands! The waters of Loch Ness! ... Wait — why do ya ask?",
+      "cz": "SAMOZŘEJMĚ, že jsem Skot! Jsem Skot jako Vysočina! Vody jezera Loch Ness! ... Počkejte – proč se ptáte?",
+      "source": "pre_existing",
+      "original_cz": "SAMOZŘEJMĚ, že jsem Skot! Jsem Skot jako Vysočina! Vody jezera Loch Ness! ... Počkejte – proč se ptáte?"
+    }
+  ],
+  "Expansion02Main_Scrooge/Scrooge_VLG_Meri_040_VLG_Meri_040_TalkTo06.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "They're a part of my heritage AND history. It was a grand day indeed!",
+      "cz": "Jsou součástí mého dědictví A historie. Byl to opravdu skvělý den!",
+      "source": "pre_existing",
+      "original_cz": "Jsou součástí mého dědictví A historie. Byl to opravdu skvělý den!"
+    }
+  ]
+}

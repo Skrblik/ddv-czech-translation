@@ -1,0 +1,78 @@
+{
+  "MiniEvent21_Scrooge/Scrooge_RPT_Scro_Valentines_010_RPT_Scro_Valentines_010_BringItem01.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Bless me bagpipes! These are some beautiful gems, {PlayerName}!",
+      "cz": "Žehnej mi dudy! To jsou nádherné skvosty, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Žehnej mi dudy! To jsou nádherné skvosty, {PlayerName}!"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Please, take this as compensation for your efforts. I trust you'll find it more than fair.",
+      "cz": "Prosím, berte to jako odměnu za vaše úsilí. Věřím, že to shledáte více než spravedlivým.",
+      "source": "pre_existing",
+      "original_cz": "Prosím, berte to jako odměnu za vaše úsilí. Věřím, že to shledáte více než spravedlivým."
+    }
+  ],
+  "MiniEvent21_Scrooge/Scrooge_RPT_Scro_Valentines_010_RPT_Scro_Valentines_010_Intro.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "{PlayerName}, I have a special Valentine's Day request!",
+      "cz": "{PlayerName}, mám speciální valentýnskou prosbu!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, mám speciální valentýnskou prosbu!"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "I'm in need of a few gems to help update my jewelry stock.",
+      "cz": "Potřebuji pár drahokamů, abych si doplnil/a své šperky.",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji pár drahokamů, abych si doplnil/a své šperky."
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Would ya be so kind as to assist me? I'll compensate ya smartly!",
+      "cz": "Byl byste tak laskav a pomohl mi? Důstojně vám to odměním!",
+      "source": "pre_existing",
+      "original_cz": "Byl byste tak laskav a pomohl mi? Důstojně vám to odměním!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "You've got it, Mr. McDuck.",
+      "cz": "Máte pravdu, pane McDucku.",
+      "source": "pre_existing",
+      "original_cz": "Máte pravdu, pane McDucku."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'm a little busy.",
+      "cz": "Jsem trochu zaneprázdněný/á.",
+      "source": "pre_existing",
+      "original_cz": "Jsem trochu zaneprázdněný/á."
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "Thanks, {PlayerName}!",
+      "cz": "Děkuji, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Děkuji, {PlayerName}!"
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "All right. Well, it's a standing offer if ya change your mind!",
+      "cz": "Dobře. No, je to stálá nabídka, kdybyste si to rozmysleli!",
+      "source": "pre_existing",
+      "original_cz": "Dobře. No, je to stálá nabídka, kdybyste si to rozmysleli!"
+    }
+  ],
+  "MiniEvent21_Scrooge/Scrooge_RPT_Scro_Valentines_010_RPT_Scro_Valentines_010_Ongoing01.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Would ya bring me some <ActivityItem>Garnets,</ActivityItem><ActivityItem>Peridots</ActivityItem>, and <ActivityItem>Aquamarines</ActivityItem>?",
+      "cz": "Přinesl byste mi nějaké <ActivityItem>granáty,</ActivityItem><ActivityItem>olivíny</ActivityItem> a <ActivityItem>akvamaríny</ActivityItem>?",
+      "source": "pre_existing",
+      "original_cz": "Přinesl byste mi nějaké <ActivityItem>granáty,</ActivityItem><ActivityItem>olivíny</ActivityItem> a <ActivityItem>akvamaríny</ActivityItem>?"
+    }
+  ]
+}

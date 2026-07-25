@@ -1,0 +1,85 @@
+{
+  "MiniEvent21_Ariel/Ariel_CrossNPCDialogues_Ariel_Eric_RPT_Arie_Valentines_010.locbin": [
+    {
+      "key": "Ariel_000_f",
+      "en": "Eric? What are all these seashells for?",
+      "cz": "Eriku? K čemu jsou všechny ty mušle?",
+      "source": "pre_existing",
+      "original_cz": "Eriku? K čemu jsou všechny ty mušle?"
+    },
+    {
+      "key": "Ariel_001_f",
+      "en": "Well, you remember when we tried to build that giant sandcastle?",
+      "cz": "Pamatuješ si, jak jsme se snažili postavit ten obří hrad z písku?",
+      "source": "pre_existing",
+      "original_cz": "Pamatuješ si, jak jsme se snažili postavit ten obří hrad z písku?"
+    },
+    {
+      "key": "Ariel_002_f",
+      "en": "Of course! That was such a fun day!",
+      "cz": "Jasně! To byl tak zábavný den!",
+      "source": "pre_existing",
+      "original_cz": "Jasně! To byl tak zábavný den!"
+    },
+    {
+      "key": "Ariel_003_f",
+      "en": "... Even though it washed away before we finished.",
+      "cz": "... I když to spláchlo dřív, než jsme skončili.",
+      "source": "pre_existing",
+      "original_cz": "... I když to spláchlo dřív, než jsme skončili."
+    },
+    {
+      "key": "Ariel_004_f",
+      "en": "Well, I was hoping you'd want to build another one with me. We can use these shells for decorations.",
+      "cz": "No, doufal jsem, že si se mnou budeš chtít postavit další. Můžeme tyhle mušle použít jako dekorace.",
+      "source": "pre_existing",
+      "original_cz": "No, doufal jsem, že si se mnou budeš chtít postavit další. Můžeme tyhle mušle použít jako dekorace."
+    },
+    {
+      "key": "Ariel_005_f",
+      "en": "Oh, Eric. I'd love to.",
+      "cz": "Ach, Eriku. Moc ráda.",
+      "source": "pre_existing",
+      "original_cz": "Ach, Eriku. Moc ráda."
+    }
+  ],
+  "MiniEvent21_Ariel/Ariel_RPT_Arie_Valentines_010_RPT_Arie_Valentines_010_Intro.locbin": [
+    {
+      "key": "Ariel_000_f",
+      "en": "{PlayerName}, could you help me with something? It's for Ariel.",
+      "cz": "{PlayerName}, mohl bys mi s něčím pomoct? Je to pro Ariel.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, mohl bys mi s něčím pomoct? Je to pro Ariel."
+    },
+    {
+      "key": "Ariel_001_f",
+      "en": "I want to collect as many seashells as I can get my hands on.",
+      "cz": "Chci nasbírat co nejvíce mušlí.",
+      "source": "pre_existing",
+      "original_cz": "Chci nasbírat co nejvíce mušlí."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Okay, let's get some shells.",
+      "cz": "Dobře, pojďme si koupit nějaké skořápky.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, pojďme si koupit nějaké skořápky."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Maybe later.",
+      "cz": "Možná později.",
+      "source": "pre_existing",
+      "original_cz": "Možná později."
+    }
+  ],
+  "MiniEvent21_Ariel/Ariel_RPT_Arie_Valentines_010_RPT_Arie_Valentines_010_Outro.locbin": [
+    {
+      "key": "Ariel_000_f",
+      "en": "I can't wait to spend time building a new sandcastle with Ariel! Here, {PlayerName}. It's not much but... I hope it shows how much I appreciate you.",
+      "cz": "Nemůžu se dočkat, až strávím čas stavěním nového hradu z písku s Ariel! Tady máš, {PlayerName}. Není to moc, ale... Doufám, že to ukazuje, jak moc si tě vážím.",
+      "source": "pre_existing",
+      "original_cz": "Nemůžu se dočkat, až strávím čas stavěním nového hradu z písku s Ariel! Tady máš, {PlayerName}. Není to moc, ale... Doufám, že to ukazuje, jak moc si tě vážím."
+    }
+  ]
+}

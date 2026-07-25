@@ -1,0 +1,99 @@
+{
+  "Expansion03Main_Merlin/Merlin_Barks_SvenBark001.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "As a reindeer, Sven's fur is hollow. It helps him to stay warm during those cold northern winters!",
+      "cz": "Sven, sob, má dutou srst. Pomáhá mu to zůstat v teple během chladných severních zim!",
+      "source": "pre_existing",
+      "original_cz": "Sven, sob, má dutou srst. Pomáhá mu to zůstat v teple během chladných severních zim!"
+    }
+  ],
+  "Expansion03Main_Merlin/Merlin_VLG_Tink_010_VLG_Tink_010_TalkTo02.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Ah, {PlayerName}! You're here about a set of furniture for our pixie friend's new House, I presume.",
+      "cz": "Aha, {PlayerName}! Jste tu kvůli sadě nábytku do nového domu našeho kamaráda skřítka, předpokládám.",
+      "source": "pre_existing",
+      "original_cz": "Aha, {PlayerName}! Jste tu kvůli sadě nábytku do nového domu našeho kamaráda skřítka, předpokládám."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Yes, can you help me?",
+      "cz": "Ano, můžete mi pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Ano, můžete mi pomoct?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "How did you know that?!",
+      "cz": "Jak jsi to věděl/a?!",
+      "source": "pre_existing",
+      "original_cz": "Jak jsi to věděl/a?!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Yep, and I'm in a bit of a hurry.",
+      "cz": "Jo, a trochu spěchám.",
+      "source": "pre_existing",
+      "original_cz": "Jo, a trochu spěchám."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Of course!",
+      "cz": "Samozřejmě!",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě!"
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "Just build the furniture and place it outside Snow White's House. I'll meet you there and work a bit of magic!",
+      "cz": "Prostě postav nábytek a umísti ho před Sněhurčin dům. Sejdeme se tam a trochu s tebou kouzlím!",
+      "source": "pre_existing",
+      "original_cz": "Prostě postav nábytek a umísti ho před Sněhurčin dům. Sejdeme se tam a trochu s tebou kouzlím!"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "We wizards have our ways, you know. After all, I've been to the future. Or... perhaps I transformed into a squirrel and heard it from them!",
+      "cz": "My čarodějové máme své způsoby, víš? Koneckonců, byl jsem v budoucnosti. Nebo... možná jsem se proměnil ve veverku a slyšel to od nich!",
+      "source": "pre_existing",
+      "original_cz": "My čarodějové máme své způsoby, víš? Koneckonců, byl jsem v budoucnosti. Nebo... možná jsem se proměnil ve veverku a slyšel to od nich!"
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "Or Snow White told me about it in Chez Remy over some delicious apple pie. Heh-heh.",
+      "cz": "Nebo mi o tom vyprávěla Sněhurka v Chez Remy u výborného jablečného koláče. Heh-heh.",
+      "source": "pre_existing",
+      "original_cz": "Nebo mi o tom vyprávěla Sněhurka v Chez Remy u výborného jablečného koláče. Heh-heh."
+    }
+  ],
+  "Expansion03Main_Merlin/Merlin_VLG_Tink_010_VLG_Tink_010_TalkToDialog01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "You're quite talented at carpentry, {PlayerName}! What charming furniture.",
+      "cz": "Jsi docela talentovaný tesař, {PlayerName}! To je ale okouzlující nábytek.",
+      "source": "pre_existing",
+      "original_cz": "Jsi docela talentovaný tesař, {PlayerName}! To je ale okouzlující nábytek."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Lucky for us, I have a charm of my own. <i>Instrumentum Anima Magnificus Reversa!</i>",
+      "cz": "Naštěstí pro nás mám své vlastní kouzlo. <i>Instrumentum Anima Magnificus Reversa!</i>",
+      "source": "pre_existing",
+      "original_cz": "Naštěstí pro nás mám své vlastní kouzlo. <i>Instrumentum Anima Magnificus Reversa!</i>"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "There you are, {PlayerName}! One delightfully detailed and delicate <ActivityItem>Pixie-Sized Furniture Set</ActivityItem> for Tinker Bell's new home.",
+      "cz": "Tak tady to máte, {PlayerName}! Jedna nádherně detailní a jemná <ActivityItem>sada nábytku pro vílí </ActivityItem> pro nový domov Zvonilky.",
+      "source": "pre_existing",
+      "original_cz": "Tak tady to máte, {PlayerName}! Jedna nádherně detailní a jemná <ActivityItem>sada nábytku pro vílí </ActivityItem> pro nový domov Zvonilky."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "The good news is: My spell merely needed something to duplicate. The original is yours to keep!",
+      "cz": "Dobrá zpráva je: Mé kouzlo potřebovalo jen něco napodobit. Originál si můžete nechat!",
+      "source": "pre_existing",
+      "original_cz": "Dobrá zpráva je: Mé kouzlo potřebovalo jen něco napodobit. Originál si můžete nechat!"
+    }
+  ]
+}

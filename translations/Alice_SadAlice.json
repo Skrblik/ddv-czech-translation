@@ -1,0 +1,604 @@
+{
+  "Alice_SadAlice/SadAlice_Greetings_Greeting001Sad.locbin": [
+    {
+      "key": "SadAlice_000_f",
+      "en": "I feel very sad today...",
+      "cz": "Dnes se cítím velmi smutný/á...",
+      "source": "pre_existing",
+      "original_cz": "Dnes se cítím velmi smutný/á..."
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Let's do something about that!",
+      "cz": "Pojďme s tím něco udělat!",
+      "source": "pre_existing",
+      "original_cz": "Pojďme s tím něco udělat!"
+    }
+  ],
+  "Alice_SadAlice/SadAlice_VLG_Alic_030_VLG_Alic_030_BringItem01.locbin": [
+    {
+      "key": "SadAlice_001_f",
+      "en": "Alice, we have a little gift for you. I hope it cheers you up a bit.",
+      "cz": "Alice, máme pro tebe malý dárek. Doufám, že tě to trochu potěší.",
+      "source": "pre_existing",
+      "original_cz": "Alice, máme pro tebe malý dárek. Doufám, že tě to trochu potěší."
+    },
+    {
+      "key": "SadAlice_002_f",
+      "en": "Oh, flowers? I suppose they are lovely...",
+      "cz": "Ach, květiny? Asi jsou krásné...",
+      "source": "pre_existing",
+      "original_cz": "Ach, květiny? Asi jsou krásné..."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "We all feel sad sometimes, Alice.",
+      "cz": "Všichni jsme někdy smutní, Alice.",
+      "source": "pre_existing",
+      "original_cz": "Všichni jsme někdy smutní, Alice."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "You deserve to feel happy again!",
+      "cz": "Zasloužíš si znovu cítit štěstí!",
+      "source": "pre_existing",
+      "original_cz": "Zasloužíš si znovu cítit štěstí!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Adults can make mistakes sometimes.",
+      "cz": "Dospělí mohou někdy udělat chyby.",
+      "source": "pre_existing",
+      "original_cz": "Dospělí mohou někdy udělat chyby."
+    },
+    {
+      "key": "SadAlice_004_f",
+      "en": "We're your friends, so it's our job to listen to you and help you feel better.",
+      "cz": "Jsme vaši přátelé, takže je naší povinností vám naslouchat a pomáhat vám cítit se lépe.",
+      "source": "pre_existing",
+      "original_cz": "Jsme vaši přátelé, takže je naší povinností vám naslouchat a pomáhat vám cítit se lépe."
+    },
+    {
+      "key": "SadAlice_005_f",
+      "en": "But Mister McDuck said I was too silly...",
+      "cz": "Ale pan McDuck řekl, že jsem moc hloupý...",
+      "source": "pre_existing",
+      "original_cz": "Ale pan McDuck řekl, že jsem moc hloupý..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Mr. McDuck regrets what he said.",
+      "cz": "Pan McDuck lituje toho, co řekl.",
+      "source": "pre_existing",
+      "original_cz": "Pan McDuck lituje toho, co řekl."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "You're a kid — you're supposed to be silly!",
+      "cz": "Jsi dítě – máš být hloupý!",
+      "source": "pre_existing",
+      "original_cz": "Jsi dítě – máš být hloupý!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Honestly, I'm kinda silly at times too.",
+      "cz": "Upřímně, taky jsem občas trochu hloupý.",
+      "source": "pre_existing",
+      "original_cz": "Upřímně, taky jsem občas trochu hloupý."
+    },
+    {
+      "key": "SadAlice_006_f",
+      "en": "Yes, he said that. But sometimes adults don't say what they mean.",
+      "cz": "Ano, to řekl. Ale někdy dospělí neříkají, co myslí.",
+      "source": "pre_existing",
+      "original_cz": "Ano, to řekl. Ale někdy dospělí neříkají, co myslí."
+    },
+    {
+      "key": "SadAlice_009_f",
+      "en": "Sometimes, it feels like being an adult is just being a kid in a grownup body.",
+      "cz": "Někdy se zdá, že být dospělým je jen dítětem v dospělém těle.",
+      "source": "pre_existing",
+      "original_cz": "Někdy se zdá, že být dospělým je jen dítětem v dospělém těle."
+    },
+    {
+      "key": "SadAlice_010_f",
+      "en": "Being a good grownup means knowing when to be silly and when to be serious, but you're just a kid. You don't have to get that right quite yet.",
+      "cz": "Být dobrým dospělým znamená vědět, kdy být hloupý a kdy vážný, ale jsi jen dítě. To ještě nemusíš umět úplně správně.",
+      "source": "pre_existing",
+      "original_cz": "Být dobrým dospělým znamená vědět, kdy být hloupý a kdy vážný, ale jsi jen dítě. To ještě nemusíš umět úplně správně."
+    },
+    {
+      "key": "SadAlice_011_f",
+      "en": "We all just want the old Alice back. The sometimes silly, sometimes serious, and almost always compassionate Alice who we love.",
+      "cz": "Všichni chceme zpátky tu starou Alici. Někdy hloupou, někdy vážnou a téměř vždy soucitnou Alici, kterou milujeme.",
+      "source": "pre_existing",
+      "original_cz": "Všichni chceme zpátky tu starou Alici. Někdy hloupou, někdy vážnou a téměř vždy soucitnou Alici, kterou milujeme."
+    },
+    {
+      "key": "SadAlice_012_f",
+      "en": "Oh... I feel something happening...",
+      "cz": "Ach... cítím, že se něco děje...",
+      "source": "pre_existing",
+      "original_cz": "Ach... cítím, že se něco děje..."
+    },
+    {
+      "key": "SadAlice_013_f",
+      "en": "I'm my proper size again!",
+      "cz": "Zase mám svou správnou velikost!",
+      "source": "pre_existing",
+      "original_cz": "Zase mám svou správnou velikost!"
+    },
+    {
+      "key": "SadAlice_014_f",
+      "en": "Yes, you are! And now there's one last talk I think you should have...",
+      "cz": "Ano, jsi! A teď si myslím, že byste si měli promluvit ještě naposledy...",
+      "source": "pre_existing",
+      "original_cz": "Ano, jsi! A teď si myslím, že byste si měli promluvit ještě naposledy..."
+    },
+    {
+      "key": "SadAlice_007_f",
+      "en": "... I am?",
+      "cz": "... Jsem?",
+      "source": "pre_existing",
+      "original_cz": "... Jsem?"
+    },
+    {
+      "key": "SadAlice_008_f",
+      "en": "You? But you're an adult.",
+      "cz": "Ty? Ale jsi dospělý.",
+      "source": "pre_existing",
+      "original_cz": "Ty? Ale jsi dospělý."
+    },
+    {
+      "key": "SadAlice_000_f",
+      "en": "I know that's not always easy to understand.",
+      "cz": "Vím, že to není vždy snadné pochopit.",
+      "source": "pre_existing",
+      "original_cz": "Vím, že to není vždy snadné pochopit."
+    }
+  ],
+  "Alice_SadAlice/SadAlice_VLG_Alic_030_VLG_Alic_030_Listen01.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Lass, may we have a little chat?",
+      "cz": "Holky, můžeme si trochu popovídat?",
+      "source": "pre_existing",
+      "original_cz": "Holky, můžeme si trochu popovídat?"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Oh, hello Mister McDuck. I'm so sorry about ruining your shop. It was horrid of me to do. *sniff sniff*",
+      "cz": "Ahoj, pane McDucku. Moc se omlouvám, že jsem vám zničil obchod. Bylo to ode mě hrozné. *popotahuje*",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, pane McDucku. Moc se omlouvám, že jsem vám zničil obchod. Bylo to ode mě hrozné. *popotahuje*"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Oh no, my dear, the fault is all mine! I overreacted. Sometimes adults should think like children a wee bit more and appreciate that being silly is a joy.",
+      "cz": "Ale ne, drahoušku, chyba je jen moje! Přehnala jsem to. Někdy by dospělí měli myslet trochu víc jako děti a ocenit, že být hloupý je radost.",
+      "source": "pre_existing",
+      "original_cz": "Ale ne, drahoušku, chyba je jen moje! Přehnala jsem to. Někdy by dospělí měli myslet trochu víc jako děti a ocenit, že být hloupý je radost."
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Joy? I think I remember that.",
+      "cz": "Radost? Myslím, že si to pamatuji.",
+      "source": "pre_existing",
+      "original_cz": "Radost? Myslím, že si to pamatuji."
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "Now then, Alice, you're always welcome to play in my shop. Just ask first, and I'm sure we can find a space for you to have fun.",
+      "cz": "Tak tedy, Alice, můžeš si v mém obchodě vždycky hrát. Jen se nejdřív zeptej a jsem si jistá, že najdeme místo, kde se budeš moct bavit.",
+      "source": "pre_existing",
+      "original_cz": "Tak tedy, Alice, můžeš si v mém obchodě vždycky hrát. Jen se nejdřív zeptej a jsem si jistá, že najdeme místo, kde se budeš moct bavit."
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "Oh, all right...",
+      "cz": "Aha, dobře...",
+      "source": "pre_existing",
+      "original_cz": "Aha, dobře..."
+    }
+  ],
+  "Alice_SadAlice/SadAlice_VLG_Alic_030_VLG_Alic_030_Listen02.locbin": [
+    {
+      "key": "SadAlice_001_f",
+      "en": "Hello, Alice. I feel so sad. Do you only feel happy?",
+      "cz": "Ahoj, Alice. Je mi tak smutno. Cítíš se jen šťastná?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, Alice. Je mi tak smutno. Cítíš se jen šťastná?"
+    },
+    {
+      "key": "SadAlice_002_f",
+      "en": "Yes! It was fun at first, but no one wants to have adventures with me or be silly.",
+      "cz": "Ano! Ze začátku to byla zábava, ale nikdo se mnou nechce zažívat dobrodružství ani se mnou dělat hlouposti.",
+      "source": "pre_existing",
+      "original_cz": "Ano! Ze začátku to byla zábava, ale nikdo se mnou nechce zažívat dobrodružství ani se mnou dělat hlouposti."
+    },
+    {
+      "key": "SadAlice_003_f",
+      "en": "I thought being sad was the right thing to be. But everyone seems to want me to feel better.",
+      "cz": "Myslel jsem si, že být smutný je správná věc. Ale zdá se, že všichni chtějí, abych se cítil lépe.",
+      "source": "pre_existing",
+      "original_cz": "Myslel jsem si, že být smutný je správná věc. Ale zdá se, že všichni chtějí, abych se cítil lépe."
+    },
+    {
+      "key": "SadAlice_004_f",
+      "en": "I thought being happy all the time would be wonderful, but without friends, it's rather lonely.",
+      "cz": "Myslel jsem si, že být pořád šťastný bude úžasné, ale bez přátel je to docela osamělé.",
+      "source": "pre_existing",
+      "original_cz": "Myslel jsem si, že být pořád šťastný bude úžasné, ale bez přátel je to docela osamělé."
+    },
+    {
+      "key": "SadAlice_005_f",
+      "en": "Maybe it WOULD be better if we were back together. Perhaps being sad <i>sometimes</i> is all right...",
+      "cz": "Možná by bylo lepší, kdybychom se k sobě vrátili. Možná je v pořádku být <i>někdy</i> smutný...",
+      "source": "pre_existing",
+      "original_cz": "Možná by bylo lepší, kdybychom se k sobě vrátili. Možná je v pořádku být <i>někdy</i> smutný..."
+    },
+    {
+      "key": "SadAlice_006_f",
+      "en": "And what's the point in being happy if you can't be happy with your friends?",
+      "cz": "A jaký má smysl být šťastný, když nemůžete být šťastní se svými přáteli?",
+      "source": "pre_existing",
+      "original_cz": "A jaký má smysl být šťastný, když nemůžete být šťastní se svými přáteli?"
+    }
+  ],
+  "Alice_SadAlice/SadAlice_VLG_Alic_030_VLG_Alic_030_Listen05.locbin": [
+    {
+      "key": "SadAlice_000_f",
+      "en": "Alice, we all came to cheer you up!",
+      "cz": "Alice, všichni jsme tě přišli rozveselit!",
+      "source": "pre_existing",
+      "original_cz": "Alice, všichni jsme tě přišli rozveselit!"
+    },
+    {
+      "key": "SadAlice_001_f",
+      "en": "Oh, I thought you came to be sad with me about your trivia book.",
+      "cz": "Myslela jsem, že jsi se mnou přišla smutná kvůli té tvé kvízové ​​knize.",
+      "source": "pre_existing",
+      "original_cz": "Myslela jsem, že jsi se mnou přišla smutná kvůli té tvé kvízové ​​knize."
+    },
+    {
+      "key": "SadAlice_002_f",
+      "en": "Well, I was sad, but then I talked to my friends and they helped me. Merlin even fixed my book. Now, I'm happy again! Friends are very good for that.",
+      "cz": "No, byl jsem smutný, ale pak jsem si promluvil s přáteli a ti mi pomohli. Merlin mi dokonce opravil knihu. Teď jsem zase šťastný! Přátelé jsou na to skvělí.",
+      "source": "pre_existing",
+      "original_cz": "No, byl jsem smutný, ale pak jsem si promluvil s přáteli a ti mi pomohli. Merlin mi dokonce opravil knihu. Teď jsem zase šťastný! Přátelé jsou na to skvělí."
+    },
+    {
+      "key": "SadAlice_003_f",
+      "en": "The other Alice is the happy one, not me...",
+      "cz": "Ta druhá Alice je ta šťastná, ne já...",
+      "source": "pre_existing",
+      "original_cz": "Ta druhá Alice je ta šťastná, ne já..."
+    },
+    {
+      "key": "SadAlice_004_f",
+      "en": "Okay... But {PlayerName} said that if we can cheer you up a little, maybe the two Alices can become one again. So, I'm going to sit here and be your friend in a very cheery way.",
+      "cz": "Dobře... Ale {PlayerName} říkal/a, že když tě trochu rozveselíme, možná se ty dvě Alice zase spojí v jednu. Takže si tu sednu a budu s tebou velice vesele kamarád/ka.",
+      "source": "pre_existing",
+      "original_cz": "Dobře... Ale {PlayerName} říkal/a, že když tě trochu rozveselíme, možná se ty dvě Alice zase spojí v jednu. Takže si tu sednu a budu s tebou velice vesele kamarád/ka."
+    }
+  ],
+  "Alice_SadAlice/SadAlice_VLG_Alic_030_VLG_Alic_030_TalkTo02.locbin": [
+    {
+      "key": "SadAlice_003_f",
+      "en": "Oh my! Alice?! Is that you? You're so tiny! And there are two of you!",
+      "cz": "Ach jo! Alice?! To jsi ty? Jsi tak maličká! A jste tu dvě!",
+      "source": "pre_existing",
+      "original_cz": "Ach jo! Alice?! To jsi ty? Jsi tak maličká! A jste tu dvě!"
+    },
+    {
+      "key": "SadAlice_004_f",
+      "en": "*sigh* Yes... it is me.",
+      "cz": "*povzdech* Ano... to jsem já.",
+      "source": "pre_existing",
+      "original_cz": "*povzdech* Ano... to jsem já."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Are you all right?!",
+      "cz": "Jsi v pořádku?!",
+      "source": "pre_existing",
+      "original_cz": "Jsi v pořádku?!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Why are you in a teapot?",
+      "cz": "Proč jsi v konvici na čaj?",
+      "source": "pre_existing",
+      "original_cz": "Proč jsi v konvici na čaj?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Why are you so tiny?!",
+      "cz": "Proč jsi tak maličký?!",
+      "source": "pre_existing",
+      "original_cz": "Proč jsi tak maličký?!"
+    },
+    {
+      "key": "SadAlice_005_f",
+      "en": "*sniff* No, {PlayerName}. *sniff* I'm horribly sad.",
+      "cz": "*popotahuje si* Ne, {PlayerName}. *popotahuje si* Jsem hrozně smutný/á.",
+      "source": "pre_existing",
+      "original_cz": "*popotahuje si* Ne, {PlayerName}. *popotahuje si* Jsem hrozně smutný/á."
+    },
+    {
+      "key": "SadAlice_008_f",
+      "en": "I'm so sorry, Alice... I don't understand.",
+      "cz": "Moc se omlouvám, Alice... Nerozumím.",
+      "source": "pre_existing",
+      "original_cz": "Moc se omlouvám, Alice... Nerozumím."
+    },
+    {
+      "key": "SadAlice_009_f",
+      "en": "What happened? Why are you so sad? Why are there two of you?!",
+      "cz": "Co se stalo? Proč jsi tak smutný/á? Proč jste dva/á?!",
+      "source": "pre_existing",
+      "original_cz": "Co se stalo? Proč jsi tak smutný/á? Proč jste dva/á?!"
+    },
+    {
+      "key": "SadAlice_010_f",
+      "en": "*sniff* ... I'm sorry. I'm just not feeling up to answering your questions today.",
+      "cz": "*popotahuje* ... Promiň. Dnes se mi prostě nechce odpovídat na tvé otázky.",
+      "source": "pre_existing",
+      "original_cz": "*popotahuje* ... Promiň. Dnes se mi prostě nechce odpovídat na tvé otázky."
+    },
+    {
+      "key": "SadAlice_011_f",
+      "en": "I'd like to be alone in my teapot now.",
+      "cz": "Chtěl bych teď být sám ve své konvici na čaj.",
+      "source": "pre_existing",
+      "original_cz": "Chtěl bych teď být sám ve své konvici na čaj."
+    },
+    {
+      "key": "SadAlice_012_f",
+      "en": "Hold on, Alice. I'll figure out a way to cheer you up!",
+      "cz": "Počkej, Alice. Vymyslím, jak tě rozveselím!",
+      "source": "pre_existing",
+      "original_cz": "Počkej, Alice. Vymyslím, jak tě rozveselím!"
+    },
+    {
+      "key": "SadAlice_006_f",
+      "en": "Well, I suppose it seemed like the right place to be sad.",
+      "cz": "No, asi se mi to zdálo jako to správné místo pro smutek.",
+      "source": "pre_existing",
+      "original_cz": "No, asi se mi to zdálo jako to správné místo pro smutek."
+    },
+    {
+      "key": "SadAlice_007_f",
+      "en": "Doesn't this feel like the right size for someone so sad?",
+      "cz": "Nepřijde vám to jako správná velikost pro někoho tak smutného?",
+      "source": "pre_existing",
+      "original_cz": "Nepřijde vám to jako správná velikost pro někoho tak smutného?"
+    }
+  ],
+  "Alice_SadAlice/SadAlice_VLG_Alic_030_VLG_Alic_030_TalkTo03.locbin": [
+    {
+      "key": "SadAlice_004_f",
+      "en": "Alice, I have some ice cream for you! Would you like to try it?",
+      "cz": "Alice, mám pro tebe zmrzlinu! Chceš ji ochutnat?",
+      "source": "pre_existing",
+      "original_cz": "Alice, mám pro tebe zmrzlinu! Chceš ji ochutnat?"
+    },
+    {
+      "key": "SadAlice_005_f",
+      "en": "Oh, it's far too much. I'll never have room in my stomach for all that. *sniff sniff* And I do love ice cream so...",
+      "cz": "To je už moc. Na tohle se mi v žaludku nikdy nevejde místo. *popotahuje* A tak moc miluju zmrzlinu...",
+      "source": "pre_existing",
+      "original_cz": "To je už moc. Na tohle se mi v žaludku nikdy nevejde místo. *popotahuje* A tak moc miluju zmrzlinu..."
+    },
+    {
+      "key": "SadAlice_006_f",
+      "en": "Just try a bite; I promise you'll like it.",
+      "cz": "Jen zkus sousto; slibuji, že ti to bude chutnat.",
+      "source": "pre_existing",
+      "original_cz": "Jen zkus sousto; slibuji, že ti to bude chutnat."
+    },
+    {
+      "key": "SadAlice_008_f",
+      "en": "Alice, you got bigger!",
+      "cz": "Alice, ty jsi větší!",
+      "source": "pre_existing",
+      "original_cz": "Alice, ty jsi větší!"
+    },
+    {
+      "key": "SadAlice_009_f",
+      "en": "Oh, I suppose I did. *sniff* But I'm afraid that I'm...",
+      "cz": "Aha, asi jo. *popotahuje si* Ale bojím se, že...",
+      "source": "pre_existing",
+      "original_cz": "Aha, asi jo. *popotahuje si* Ale bojím se, že..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Still sad?",
+      "cz": "Pořád smutný/á?",
+      "source": "pre_existing",
+      "original_cz": "Pořád smutný/á?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Ready to talk about things?",
+      "cz": "Připraveni si o věcech povídat?",
+      "source": "pre_existing",
+      "original_cz": "Připraveni si o věcech povídat?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Still not full-sized...",
+      "cz": "Stále ne v plné velikosti...",
+      "source": "pre_existing",
+      "original_cz": "Stále ne v plné velikosti..."
+    },
+    {
+      "key": "SadAlice_011_f",
+      "en": "Yes, and *sniff* no amount of ice cream will ever change that, {PlayerName}.",
+      "cz": "Ano, a *čichá* žádné množství zmrzliny to nikdy nezmění, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Ano, a *čichá* žádné množství zmrzliny to nikdy nezmění, {PlayerName}."
+    },
+    {
+      "key": "SadAlice_023_f",
+      "en": "It appears so. The next thing I knew, I was facing an Alice who looked like the happiest girl in the world.",
+      "cz": "Vypadá to tak. Než jsem si uvědomil, stál jsem před Alicí, která vypadala jako nejšťastnější dívka na světě.",
+      "source": "pre_existing",
+      "original_cz": "Vypadá to tak. Než jsem si uvědomil, stál jsem před Alicí, která vypadala jako nejšťastnější dívka na světě."
+    },
+    {
+      "key": "SadAlice_024_f",
+      "en": "But I still felt sad, so I looked through the kaleidoscope again and began to turn it. With each turn I felt myself getting smaller and smaller. Eventually, I felt small enough for how sad I felt.",
+      "cz": "Ale pořád jsem byl smutný, tak jsem se znovu podíval do kaleidoskopu a začal s ním otáčet. S každým otočením jsem cítil, jak se zmenšuji a zmenšuji. Nakonec jsem se cítil dost malý na to, jak smutný jsem cítil.",
+      "source": "pre_existing",
+      "original_cz": "Ale pořád jsem byl smutný, tak jsem se znovu podíval do kaleidoskopu a začal s ním otáčet. S každým otočením jsem cítil, jak se zmenšuji a zmenšuji. Nakonec jsem se cítil dost malý na to, jak smutný jsem cítil."
+    },
+    {
+      "key": "SadAlice_014_f",
+      "en": "Can you tell me why you're sad now? And why you're small?",
+      "cz": "Můžeš mi říct, proč jsi teď smutný/á? A proč jsi malý/á?",
+      "source": "pre_existing",
+      "original_cz": "Můžeš mi říct, proč jsi teď smutný/á? A proč jsi malý/á?"
+    },
+    {
+      "key": "SadAlice_016_f",
+      "en": "Well... it started when I was in Mister McDuck's shop, trying on some of the clothing.",
+      "cz": "No... začalo to, když jsem byl v obchodě pana McDucka a zkoušel si nějaké oblečení.",
+      "source": "pre_existing",
+      "original_cz": "No... začalo to, když jsem byl v obchodě pana McDucka a zkoušel si nějaké oblečení."
+    },
+    {
+      "key": "SadAlice_017_f",
+      "en": "I was having... What's the word for it? When you do something and it makes you feel not-sad?",
+      "cz": "Měl jsem... Jak se to nazývá? Když něco uděláte a necítíte se kvůli tomu smutní?",
+      "source": "pre_existing",
+      "original_cz": "Měl jsem... Jak se to nazývá? Když něco uděláte a necítíte se kvůli tomu smutní?"
+    },
+    {
+      "key": "SadAlice_018_f",
+      "en": "Fun?",
+      "cz": "Zábava?",
+      "source": "pre_existing",
+      "original_cz": "Zábava?"
+    },
+    {
+      "key": "SadAlice_019_f",
+      "en": "Oh yes, that was it. I was playing and Mister McDuck became quite cross with me. He said that I'd wrinkled all the fabric by leaving it in a pile.",
+      "cz": "Ano, přesně tak. Hrála jsem si a pan McDuck se na mě pěkně naštval. Řekl, že jsem všechnu látku zmačkala, když jsem ji nechala na hromadě.",
+      "source": "pre_existing",
+      "original_cz": "Ano, přesně tak. Hrála jsem si a pan McDuck se na mě pěkně naštval. Řekl, že jsem všechnu látku zmačkala, když jsem ji nechala na hromadě."
+    },
+    {
+      "key": "SadAlice_020_f",
+      "en": "I tried to explain myself, but he told me that I had to stop being so silly if I were to continue to visit his shop.",
+      "cz": "Snažil jsem se mu to vysvětlit, ale on mi řekl, že musím přestat chovat hlouposti, pokud chci dál navštěvovat jeho obchod.",
+      "source": "pre_existing",
+      "original_cz": "Snažil jsem se mu to vysvětlit, ale on mi řekl, že musím přestat chovat hlouposti, pokud chci dál navštěvovat jeho obchod."
+    },
+    {
+      "key": "SadAlice_021_f",
+      "en": "Then, when I left, the magical <ActivityItem>Kaleidoscope</ActivityItem>, which you helped me find, began to glow. I looked through it and... *sigh*",
+      "cz": "Pak, když jsem odešel, začal zářit kouzelný <ActivityItem>Kaleidoskop</ActivityItem>, který jsi mi pomohl najít. Podíval jsem se do něj a... *vzdech*",
+      "source": "pre_existing",
+      "original_cz": "Pak, když jsem odešel, začal zářit kouzelný <ActivityItem>Kaleidoskop</ActivityItem>, který jsi mi pomohl najít. Podíval jsem se do něj a... *vzdech*"
+    },
+    {
+      "key": "SadAlice_022_f",
+      "en": "The kaleidoscope did this?!",
+      "cz": "Tohle udělal kaleidoskop?!",
+      "source": "pre_existing",
+      "original_cz": "Tohle udělal kaleidoskop?!"
+    },
+    {
+      "key": "SadAlice_000_f",
+      "en": "Hmm, I wonder if the kaleidoscope has anything to do with those Mementos that Merlin was talking about.",
+      "cz": "Hmm, zajímalo by mě, jestli ten kaleidoskop má něco společného s těmi památníky, o kterých Merlin mluvil.",
+      "source": "pre_existing",
+      "original_cz": "Hmm, zajímalo by mě, jestli ten kaleidoskop má něco společného s těmi památníky, o kterých Merlin mluvil."
+    },
+    {
+      "key": "SadAlice_025_f",
+      "en": "I was going to live in the teapot forever, but now I'm too big to go back inside. *sniff*",
+      "cz": "Chtěl jsem v té konvici žít navždy, ale teď jsem už moc velký na to, abych se dovnitř vrátil. *popotahuje*",
+      "source": "pre_existing",
+      "original_cz": "Chtěl jsem v té konvici žít navždy, ale teď jsem už moc velký na to, abych se dovnitř vrátil. *popotahuje*"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Well, now I'M sad!",
+      "cz": "No, teď jsem smutný/á!",
+      "source": "pre_existing",
+      "original_cz": "No, teď jsem smutný/á!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Don't worry. I'll figure this out.",
+      "cz": "Neboj se, já to vyřeším.",
+      "source": "pre_existing",
+      "original_cz": "Neboj se, já to vyřeším."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I'm going to help you feel happy again; just hold on.",
+      "cz": "Pomůžu ti, abys zase cítil/a štěstí, jen vydrž.",
+      "source": "pre_existing",
+      "original_cz": "Pomůžu ti, abys zase cítil/a štěstí, jen vydrž."
+    },
+    {
+      "key": "SadAlice_026_f",
+      "en": "Oh, I'm sorry.",
+      "cz": "Ach, promiň.",
+      "source": "pre_existing",
+      "original_cz": "Ach, promiň."
+    },
+    {
+      "key": "SadAlice_029_f",
+      "en": "This all started with Mr. McDuck, so I think he and I need to <Lore>have a little chat</Lore>.",
+      "cz": "Všechno to začalo s panem McDuckem, takže si myslím, že si s ním musíme <Lore>trochu popovídat</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Všechno to začalo s panem McDuckem, takže si myslím, že si s ním musíme <Lore>trochu popovídat</Lore>."
+    },
+    {
+      "key": "SadAlice_030_f",
+      "en": "I believe the other Alice might be there as well. She said I was boring. *sniff sniff*",
+      "cz": "Myslím, že by tam mohla být i ta druhá Alice. Řekla, že jsem nudná. *popotahuje*",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že by tam mohla být i ta druhá Alice. Řekla, že jsem nudná. *popotahuje*"
+    },
+    {
+      "key": "SadAlice_031_f",
+      "en": "Uh-oh...",
+      "cz": "Jééé...",
+      "source": "pre_existing",
+      "original_cz": "Jééé..."
+    },
+    {
+      "key": "SadAlice_027_f",
+      "en": "That's all right. I wouldn't want to make you sad as well.",
+      "cz": "To je v pořádku. Nechtěl bych tě taky zarmoutit.",
+      "source": "pre_existing",
+      "original_cz": "To je v pořádku. Nechtěl bych tě taky zarmoutit."
+    },
+    {
+      "key": "SadAlice_012_f",
+      "en": "I suppose I must. After all, I can't fit inside my teapot now.",
+      "cz": "Asi musím. Koneckonců, teď se nevejdu do konvice na čaj.",
+      "source": "pre_existing",
+      "original_cz": "Asi musím. Koneckonců, teď se nevejdu do konvice na čaj."
+    },
+    {
+      "key": "SadAlice_015_f",
+      "en": "Excellent!",
+      "cz": "Vynikající!",
+      "source": "pre_existing",
+      "original_cz": "Vynikající!"
+    },
+    {
+      "key": "SadAlice_013_f",
+      "en": "Yes. And that's so very sad.",
+      "cz": "Ano. A to je tak smutné.",
+      "source": "pre_existing",
+      "original_cz": "Ano. A to je tak smutné."
+    }
+  ]
+}

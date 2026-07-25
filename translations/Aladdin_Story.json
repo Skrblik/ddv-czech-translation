@@ -1,0 +1,25 @@
+{
+  "Aladdin_Story/ORQS_Merl_040_MementoFound.locbin": [
+    {
+      "key": "Story!ORQS_Merl_040_MementoFound_AvailableDescription",
+      "en": "You found a strange item with seemingly magical qualities... Better show it to Merlin.",
+      "cz": "Našel jsi podivný předmět se zdánlivě magickými vlastnostmi... Raději ho ukaž Merlinovi.",
+      "source": "pre_existing",
+      "original_cz": "Našel jsi podivný předmět se zdánlivě magickými vlastnostmi... Raději ho ukaž Merlinovi."
+    },
+    {
+      "key": "Story!ORQS_Merl_040_MementoFound_DisplayName",
+      "en": "The Memento",
+      "cz": "Památník",
+      "source": "pre_existing",
+      "original_cz": "Památník"
+    },
+    {
+      "key": "Story!ORQS_Merl_040_MementoFound_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "Talk to {TargetNPC} about the strange, magical object you found.",
+      "cz": "Promluv si s {TargetNPC} o podivném magickém předmětu, který jsi našel.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s {TargetNPC} o podivném magickém předmětu, který jsi našel."
+    }
+  ]
+}

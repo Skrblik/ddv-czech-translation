@@ -1,0 +1,246 @@
+{
+  "CliffUpdate_Anna/Anna_VLG_Olaf_030_VLG_Olaf_030_TalkTo05.locbin": [
+    {
+      "key": "Anna_000_f",
+      "en": "Olaf's putting on a play? That's so exciting!",
+      "cz": "Olaf hraje divadelní hru? To je tak vzrušující!",
+      "source": "pre_existing",
+      "original_cz": "Olaf hraje divadelní hru? To je tak vzrušující!"
+    },
+    {
+      "key": "Anna_001_f",
+      "en": "Would you be interested in auditioning for the role of Donald Duck?",
+      "cz": "Měli byste zájem o konkurz na roli Kačera Donalda?",
+      "source": "pre_existing",
+      "original_cz": "Měli byste zájem o konkurz na roli Kačera Donalda?"
+    },
+    {
+      "key": "Anna_002_f",
+      "en": "Uh, yes! Of course I would!",
+      "cz": "Ehm, ano! Samozřejmě, že bych to udělala!",
+      "source": "pre_existing",
+      "original_cz": "Ehm, ano! Samozřejmě, že bych to udělala!"
+    },
+    {
+      "key": "Anna_003_f",
+      "en": "That's such a complex role. Plus, I'd love to help Olaf.",
+      "cz": "To je tak složitá role. Navíc bych Olafovi ráda pomohla.",
+      "source": "pre_existing",
+      "original_cz": "To je tak složitá role. Navíc bych Olafovi ráda pomohla."
+    },
+    {
+      "key": "Player_000_f",
+      "en": "Great! Just make sure that you rehearse a lot so you can...",
+      "cz": "Skvělé! Jen se ujistěte, že hodně zkoušíte, abyste mohli...",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Jen se ujistěte, že hodně zkoušíte, abyste mohli..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "...capture Donald perfectly.",
+      "cz": "...zachyť Donalda perfektně.",
+      "source": "pre_existing",
+      "original_cz": "...zachyť Donalda perfektně."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "...bring your own spin to it.",
+      "cz": "...přineste tomu svůj vlastní nádech.",
+      "source": "pre_existing",
+      "original_cz": "...přineste tomu svůj vlastní nádech."
+    },
+    {
+      "key": "Anna_004_f",
+      "en": "Oh, I definitely will. (Ahem. \"Hey, what's the BIG idea?!\" or \"Hey, what's the big IDEA?!\" Hmm...)",
+      "cz": "Ach, určitě to udělám. (Ehm. „Hej, co je za VELKÝ nápad?!“ nebo „Hej, co je za VELKÝ NÁPAD?!“ Hmm...)",
+      "source": "pre_existing",
+      "original_cz": "Ach, určitě to udělám. (Ehm. „Hej, co je za VELKÝ nápad?!“ nebo „Hej, co je za VELKÝ NÁPAD?!“ Hmm...)"
+    }
+  ],
+  "CliffUpdate_Anna/Anna_VLG_Olaf_040_VLG_Olaf_040_BringItem01.locbin": [
+    {
+      "key": "Anna_000_f",
+      "en": "Ooh, looks like you've got everything we need to make the <ActivityItem>Donald Duck Mask</ActivityItem>.",
+      "cz": "Jé, vypadá to, že máš všechno, co potřebujeme k výrobě <ActivityItem>masky Kačera Donalda</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Jé, vypadá to, že máš všechno, co potřebujeme k výrobě <ActivityItem>masky Kačera Donalda</ActivityItem>."
+    },
+    {
+      "key": "Anna_008_f",
+      "en": "Could you break the bad news to him?",
+      "cz": "Mohla byste mu sdělit tu špatnou zprávu?",
+      "source": "pre_existing",
+      "original_cz": "Mohla byste mu sdělit tu špatnou zprávu?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "No worries, Anna. I'll let him know.",
+      "cz": "Žádný strach, Anno. Dám mu vědět.",
+      "source": "pre_existing",
+      "original_cz": "Žádný strach, Anno. Dám mu vědět."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Oh great. Make me the one to break the little snowman's heart.",
+      "cz": "Skvělé. Udělej ze mě toho, kdo zlomí srdce malému sněhulákovi.",
+      "source": "pre_existing",
+      "original_cz": "Skvělé. Udělej ze mě toho, kdo zlomí srdce malému sněhulákovi."
+    },
+    {
+      "key": "Anna_001_f",
+      "en": "I'll put it all together...",
+      "cz": "Dám to všechno dohromady...",
+      "source": "pre_existing",
+      "original_cz": "Dám to všechno dohromady..."
+    },
+    {
+      "key": "Anna_002_f",
+      "en": "Uh oh...",
+      "cz": "Jé, ach...",
+      "source": "pre_existing",
+      "original_cz": "Jé, ach..."
+    },
+    {
+      "key": "Anna_003_f",
+      "en": "What's wrong?",
+      "cz": "Co se děje?",
+      "source": "pre_existing",
+      "original_cz": "Co se děje?"
+    },
+    {
+      "key": "Anna_004_f",
+      "en": "The mask... I built it exactly to Olaf's specifications, but it doesn't fit me very well.",
+      "cz": "Maska... Vyrobila jsem ji přesně podle Olafových specifikací, ale moc mi nesedí.",
+      "source": "pre_existing",
+      "original_cz": "Maska... Vyrobila jsem ji přesně podle Olafových specifikací, ale moc mi nesedí."
+    },
+    {
+      "key": "Anna_005_f",
+      "en": "I can't see out of the eye holes... and the feathers keep poking me...",
+      "cz": "Nevidím těmi očními otvory... a to peří mě pořád píchá...",
+      "source": "pre_existing",
+      "original_cz": "Nevidím těmi očními otvory... a to peří mě pořád píchá..."
+    },
+    {
+      "key": "Anna_006_f",
+      "en": "I'm sorry, {PlayerName}. I don't think I'm going to be able to wear this.",
+      "cz": "Je mi líto, {PlayerName}. Myslím, že tohle nebudu moct nosit.",
+      "source": "pre_existing",
+      "original_cz": "Je mi líto, {PlayerName}. Myslím, že tohle nebudu moct nosit."
+    },
+    {
+      "key": "Anna_007_f",
+      "en": "Olaf will have to find someone else to play Donald Duck if he wants them to wear this costume...",
+      "cz": "Olaf bude muset najít někoho jiného, ​​kdo by hrál Kačera Donalda, pokud chce, aby si ho oblékli do tohoto kostýmu...",
+      "source": "pre_existing",
+      "original_cz": "Olaf bude muset najít někoho jiného, ​​kdo by hrál Kačera Donalda, pokud chce, aby si ho oblékli do tohoto kostýmu..."
+    },
+    {
+      "key": "Anna_009_f",
+      "en": "I'm really sorry...",
+      "cz": "Opravdu se omlouvám...",
+      "source": "pre_existing",
+      "original_cz": "Opravdu se omlouvám..."
+    },
+    {
+      "key": "Anna_010_f",
+      "en": "But I'm sure there's someone else here whom this mask would fit perfectly.",
+      "cz": "Ale jsem si jistá, že je tu někdo další, komu by tato maska ​​perfektně seděla.",
+      "source": "pre_existing",
+      "original_cz": "Ale jsem si jistá, že je tu někdo další, komu by tato maska ​​perfektně seděla."
+    },
+    {
+      "key": "Anna_011_f",
+      "en": "Here it is.",
+      "cz": "Tady to je.",
+      "source": "pre_existing",
+      "original_cz": "Tady to je."
+    }
+  ],
+  "CliffUpdate_Anna/Anna_VLG_Olaf_040_VLG_Olaf_040_TalkTo02.locbin": [
+    {
+      "key": "Anna_000_f",
+      "en": "Oh, you're here. Thank goodness!",
+      "cz": "Aha, jsi tady. Díky bohu!",
+      "source": "pre_existing",
+      "original_cz": "Aha, jsi tady. Díky bohu!"
+    },
+    {
+      "key": "Anna_001_f",
+      "en": "I've been so busy dealing with the rest of the costumes that I haven't had time to make the <ActivityItem>Donald Duck Mask</ActivityItem> yet.",
+      "cz": "Měla jsem tolik práce se zbytkem kostýmů, že jsem ještě neměla čas vyrobit <ActivityItem>masku Kačera Donalda</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Měla jsem tolik práce se zbytkem kostýmů, že jsem ještě neměla čas vyrobit <ActivityItem>masku Kačera Donalda</ActivityItem>."
+    },
+    {
+      "key": "Anna_002_f",
+      "en": "Olaf is really specific about what he wants it to look like...",
+      "cz": "Olaf je opravdu specifický v tom, jak chce, aby to vypadalo...",
+      "source": "pre_existing",
+      "original_cz": "Olaf je opravdu specifický v tom, jak chce, aby to vypadalo..."
+    },
+    {
+      "key": "Anna_003_f",
+      "en": "It sounds a little strange to me, but who am I to question his artistic vision?",
+      "cz": "Zní mi to trochu divně, ale kdo jsem já, abych zpochybňovala jeho uměleckou vizi?",
+      "source": "pre_existing",
+      "original_cz": "Zní mi to trochu divně, ale kdo jsem já, abych zpochybňovala jeho uměleckou vizi?"
+    },
+    {
+      "key": "Anna_004_f",
+      "en": "We'll need some <ActivityItem>Fiber</ActivityItem>, <ActivityItem>Softwood</ActivityItem>, <ActivityItem>Fabric</ActivityItem>...",
+      "cz": "Budeme potřebovat nějaké <ActivityItem>vlákno</ActivityItem>, <ActivityItem>měkké dřevo</ActivityItem>, <ActivityItem>látku</ActivityItem>...",
+      "source": "pre_existing",
+      "original_cz": "Budeme potřebovat nějaké <ActivityItem>vlákno</ActivityItem>, <ActivityItem>měkké dřevo</ActivityItem>, <ActivityItem>látku</ActivityItem>..."
+    },
+    {
+      "key": "Anna_005_f",
+      "en": "...oh, and some of <ActivityItem>Donald's Feathers</ActivityItem>.",
+      "cz": "...aha, a trochu <ActivityItem>Donaldova peří</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "...aha, a trochu <ActivityItem>Donaldova peří</ActivityItem>."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "He must have left some lying around...",
+      "cz": "Musel tam nějaké nechat ležet...",
+      "source": "pre_existing",
+      "original_cz": "Musel tam nějaké nechat ležet..."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I guess I could just pluck a few off of him.",
+      "cz": "Asi bych mu pár ukousl.",
+      "source": "pre_existing",
+      "original_cz": "Asi bych mu pár ukousl."
+    },
+    {
+      "key": "Anna_006_f",
+      "en": "Hopefully! I'm always finding feathers when I go for walks. I guess everybody sheds. You should see my hairbrush!",
+      "cz": "Doufám! Vždycky na procházkách nacházím peří. Asi se línají všichni. Měli byste vidět můj kartáč na vlasy!",
+      "source": "pre_existing",
+      "original_cz": "Doufám! Vždycky na procházkách nacházím peří. Asi se línají všichni. Měli byste vidět můj kartáč na vlasy!"
+    },
+    {
+      "key": "Anna_007_f",
+      "en": "Hey, maybe there are some feathers in his House.",
+      "cz": "Hej, možná má v domě nějaké peří.",
+      "source": "pre_existing",
+      "original_cz": "Hej, možná má v domě nějaké peří."
+    },
+    {
+      "key": "Anna_008_f",
+      "en": "Okay. I'll come talk to you once I've got everything.",
+      "cz": "Dobře. Promluvím si s tebou, až budu mít všechno.",
+      "source": "pre_existing",
+      "original_cz": "Dobře. Promluvím si s tebou, až budu mít všechno."
+    },
+    {
+      "key": "Anna_009_f",
+      "en": "Uh... please don't do that. Let me think... Well, if you were looking for strands of my hair, you'd check my hairbrush...",
+      "cz": "Ehm... prosím, nedělej to. Nech mě přemýšlet... No, kdybys hledala prameny mých vlasů, zkontrolovala bys můj kartáč...",
+      "source": "pre_existing",
+      "original_cz": "Ehm... prosím, nedělej to. Nech mě přemýšlet... No, kdybys hledala prameny mých vlasů, zkontrolovala bys můj kartáč..."
+    }
+  ]
+}

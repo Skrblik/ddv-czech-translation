@@ -1,0 +1,965 @@
+{
+  "MonstersInc_Vanellope/Vanellope_VLG_Mike_020_VLG_Mike_020_BringItem02.locbin": [
+    {
+      "key": "Vanellope_000_f",
+      "en": "Vanellope, you've been chosen to receive a special gift!",
+      "cz": "Vanellope, byla jsi vybrána, abys obdržela speciální dar!",
+      "source": "pre_existing",
+      "original_cz": "Vanellope, byla jsi vybrána, abys obdržela speciální dar!"
+    },
+    {
+      "key": "Vanellope_008_f",
+      "en": "WHOA!",
+      "cz": "Páni!",
+      "source": "pre_existing",
+      "original_cz": "Páni!"
+    },
+    {
+      "key": "Vanellope_009_f",
+      "en": "That smells bad. Like... Ralph's-old-house-in-the-garbage bad!",
+      "cz": "To smrdí. Jako... Ralphův starý dům v odpadcích!",
+      "source": "pre_existing",
+      "original_cz": "To smrdí. Jako... Ralphův starý dům v odpadcích!"
+    },
+    {
+      "key": "Vanellope_010_f",
+      "en": "Oh, you don't like it?",
+      "cz": "Aha, nelíbí se ti to?",
+      "source": "pre_existing",
+      "original_cz": "Aha, nelíbí se ti to?"
+    },
+    {
+      "key": "Vanellope_011_f",
+      "en": "Well... it's not an everyday scent. But it's still kinda cool!",
+      "cz": "No... není to vůně na každý den. Ale i tak je docela skvělá!",
+      "source": "pre_existing",
+      "original_cz": "No... není to vůně na každý den. Ale i tak je docela skvělá!"
+    },
+    {
+      "key": "Vanellope_012_f",
+      "en": "Smelling this bad... it's like a superpower!",
+      "cz": "Takhle hrozně smrdím... je to jako superschopnost!",
+      "source": "pre_existing",
+      "original_cz": "Takhle hrozně smrdím... je to jako superschopnost!"
+    },
+    {
+      "key": "Vanellope_013_f",
+      "en": "That's a way of looking at it.",
+      "cz": "To je způsob, jak se na to dívat.",
+      "source": "pre_existing",
+      "original_cz": "To je způsob, jak se na to dívat."
+    },
+    {
+      "key": "Vanellope_014_f",
+      "en": "Is this your villain origin story?",
+      "cz": "Je tohle tvůj příběh o původu padoucha?",
+      "source": "pre_existing",
+      "original_cz": "Je tohle tvůj příběh o původu padoucha?"
+    },
+    {
+      "key": "Vanellope_015_f",
+      "en": "Mmm, more like an unintended consequence to my power.",
+      "cz": "Hmm, spíš jako nezamýšlený důsledek pro mou moc.",
+      "source": "pre_existing",
+      "original_cz": "Hmm, spíš jako nezamýšlený důsledek pro mou moc."
+    },
+    {
+      "key": "Vanellope_016_f",
+      "en": "I don't know if I could handle wearing it on me a second time—",
+      "cz": "Nevím, jestli bych to zvládla nosit na sobě podruhé—",
+      "source": "pre_existing",
+      "original_cz": "Nevím, jestli bych to zvládla nosit na sobě podruhé—"
+    },
+    {
+      "key": "Vanellope_017_f",
+      "en": "But I'm totally gonna go find some places to really stink up!",
+      "cz": "Ale já si určitě najdu pár míst, kde se pořádně zasmradím!",
+      "source": "pre_existing",
+      "original_cz": "Ale já si určitě najdu pár míst, kde se pořádně zasmradím!"
+    },
+    {
+      "key": "Vanellope_001_f",
+      "en": "I have? Lucky me!",
+      "cz": "Ano? Mám štěstí!",
+      "source": "pre_existing",
+      "original_cz": "Ano? Mám štěstí!"
+    },
+    {
+      "key": "Vanellope_018_f",
+      "en": "All right, you do you, Vanellope. Have fun.",
+      "cz": "Dobře, Vanellope, tak si to užij.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, Vanellope, tak si to užij."
+    },
+    {
+      "key": "Vanellope_002_f",
+      "en": "It's something that Mike and I have been—",
+      "cz": "Je to něco, co jsme s Mikem—",
+      "source": "pre_existing",
+      "original_cz": "Je to něco, co jsme s Mikem—"
+    },
+    {
+      "key": "Vanellope_003_f",
+      "en": "Nah, I wanna receive this gift with no expectations — hit me with it!",
+      "cz": "Ne, chci dostat tenhle dárek bez očekávání – dejte mi s ním!",
+      "source": "pre_existing",
+      "original_cz": "Ne, chci dostat tenhle dárek bez očekávání – dejte mi s ním!"
+    },
+    {
+      "key": "Vanellope_004_f",
+      "en": "You sure?",
+      "cz": "Jsi si jistá?",
+      "source": "pre_existing",
+      "original_cz": "Jsi si jistá?"
+    },
+    {
+      "key": "Vanellope_005_f",
+      "en": "Yeah!",
+      "cz": "Jo!",
+      "source": "pre_existing",
+      "original_cz": "Jo!"
+    },
+    {
+      "key": "Vanellope_006_f",
+      "en": "All right, close your eyes for a moment...",
+      "cz": "Dobře, zavřete na chvíli oči...",
+      "source": "pre_existing",
+      "original_cz": "Dobře, zavřete na chvíli oči..."
+    },
+    {
+      "key": "Vanellope_007_f",
+      "en": "And there we go — what do you think?",
+      "cz": "A tady to máme – co si o tom myslíte?",
+      "source": "pre_existing",
+      "original_cz": "A tady to máme – co si o tom myslíte?"
+    }
+  ],
+  "MonstersInc_Vanellope/Vanellope_VLG_Mike_030_VLG_Mike_030_BringItem01.locbin": [
+    {
+      "key": "Vanellope_000_f",
+      "en": "Hey, chum!",
+      "cz": "Hej, kámo!",
+      "source": "pre_existing",
+      "original_cz": "Hej, kámo!"
+    },
+    {
+      "key": "Vanellope_001_f",
+      "en": "What's this you've brought me?",
+      "cz": "Co jsi mi to přinesla?",
+      "source": "pre_existing",
+      "original_cz": "Co jsi mi to přinesla?"
+    },
+    {
+      "key": "Vanellope_002_f",
+      "en": "It's a few gifts! From Mike and myself.",
+      "cz": "To je pár dárků! Od Mika a ode mě.",
+      "source": "pre_existing",
+      "original_cz": "To je pár dárků! Od Mika a ode mě."
+    },
+    {
+      "key": "Vanellope_003_f",
+      "en": "Presents! Thanks, pal!",
+      "cz": "Dárky! Díky, kámo!",
+      "source": "pre_existing",
+      "original_cz": "Dárky! Díky, kámo!"
+    },
+    {
+      "key": "Vanellope_004_f",
+      "en": "Which should I try out first?",
+      "cz": "Který mám vyzkoušet jako první?",
+      "source": "pre_existing",
+      "original_cz": "Který mám vyzkoušet jako první?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "The rubber chicken!",
+      "cz": "Gumové kuře!",
+      "source": "pre_existing",
+      "original_cz": "Gumové kuře!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Definitely the whoopee cushion.",
+      "cz": "Rozhodně ten žertovný polštář.",
+      "source": "pre_existing",
+      "original_cz": "Rozhodně ten žertovný polštář."
+    },
+    {
+      "key": "Vanellope_005_f",
+      "en": "Okay, here goes!",
+      "cz": "Dobře, jdeme na to!",
+      "source": "pre_existing",
+      "original_cz": "Dobře, jdeme na to!"
+    },
+    {
+      "key": "Vanellope_006_f",
+      "en": "KWWWEEEEEEHHHHHHHHRRGGGHHH! HELP ME!!!",
+      "cz": "KWWWEEEEEEHHHHHHHHRRGGGHHH! POMOZTE MI!!!",
+      "source": "pre_existing",
+      "original_cz": "KWWWEEEEEEHHHHHHHHRRGGGHHH! POMOZTE MI!!!"
+    },
+    {
+      "key": "Vanellope_007_f",
+      "en": "A-HA-HA-HA-HA-HA-HA-HA!",
+      "cz": "A-HA-HA-HA-HA-HA-HA-HA!",
+      "source": "pre_existing",
+      "original_cz": "A-HA-HA-HA-HA-HA-HA-HA!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "That sounds like the chicken is in pain.",
+      "cz": "To zní, jako by kuře něčeho bolelo.",
+      "source": "pre_existing",
+      "original_cz": "To zní, jako by kuře něčeho bolelo."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "That's so ridiculous!",
+      "cz": "To je tak směšné!",
+      "source": "pre_existing",
+      "original_cz": "To je tak směšné!"
+    },
+    {
+      "key": "Vanellope_008_f",
+      "en": "It's saying, \"Enough with the crossing-the-road jokes! Can't you see I'm flat as a fried egg already?!\"",
+      "cz": "Říká: „Dost už s těmi vtipy o přecházení silnice! Nevidíš, že už jsem placatá jako smažené vejce?!“",
+      "source": "pre_existing",
+      "original_cz": "Říká: „Dost už s těmi vtipy o přecházení silnice! Nevidíš, že už jsem placatá jako smažené vejce?!“"
+    },
+    {
+      "key": "Vanellope_015_f",
+      "en": "Oh, these are great! Thanks, {PlayerName} and Mike! Forget observational humor; I'm gonna be a prop comic!",
+      "cz": "Jé, tohle je skvělé! Díky, {PlayerName} a Miku! Zapomeňte na humorné postřehy; budu rekvizitní komiks!",
+      "source": "pre_existing",
+      "original_cz": "Jé, tohle je skvělé! Díky, {PlayerName} a Miku! Zapomeňte na humorné postřehy; budu rekvizitní komiks!"
+    },
+    {
+      "key": "Vanellope_016_f",
+      "en": "You like them?",
+      "cz": "Líbí se ti?",
+      "source": "pre_existing",
+      "original_cz": "Líbí se ti?"
+    },
+    {
+      "key": "Vanellope_017_f",
+      "en": "They're amazing!",
+      "cz": "Jsou úžasní!",
+      "source": "pre_existing",
+      "original_cz": "Jsou úžasní!"
+    },
+    {
+      "key": "Vanellope_018_f",
+      "en": "I'll almost feel bad about blowing Mike's set out of the water!",
+      "cz": "Skoro by mě bylo líto, kdybych zničila Mikeův set!",
+      "source": "pre_existing",
+      "original_cz": "Skoro by mě bylo líto, kdybych zničila Mikeův set!"
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "Bold words!",
+      "cz": "Odvážná slova!",
+      "source": "pre_existing",
+      "original_cz": "Odvážná slova!"
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "I'm sure he'll be happy to see you do your best.",
+      "cz": "Jsem si jistý, že bude rád, když uvidí, jak se snažíš.",
+      "source": "pre_existing",
+      "original_cz": "Jsem si jistý, že bude rád, když uvidí, jak se snažíš."
+    },
+    {
+      "key": "Vanellope_025_f",
+      "en": "No way this <ActivityItem>Whoopee Cushion</ActivityItem> is gonna generate all the wind I need!",
+      "cz": "Tento <ActivityItem>Žhavý polštářek</ActivityItem> mi v žádném případě nevygeneruje tolik větru, kolik potřebuji!",
+      "source": "pre_existing",
+      "original_cz": "Tento <ActivityItem>Žhavý polštářek</ActivityItem> mi v žádném případě nevygeneruje tolik větru, kolik potřebuji!"
+    },
+    {
+      "key": "Player_005_choice_000_f",
+      "en": "Stay classy, Vanellope.",
+      "cz": "Zůstaň elegantní, Vanellope.",
+      "source": "pre_existing",
+      "original_cz": "Zůstaň elegantní, Vanellope."
+    },
+    {
+      "key": "Player_005_choice_001_f",
+      "en": "You sure a Whoopee Cushion will stand up against an experienced comic?",
+      "cz": "Jsi si jistý, že Whoopee Cushion obstojí proti zkušenému komikovi?",
+      "source": "pre_existing",
+      "original_cz": "Jsi si jistý, že Whoopee Cushion obstojí proti zkušenému komikovi?"
+    },
+    {
+      "key": "Vanellope_026_f",
+      "en": "PPLLLLLRRRBBBBBBTTTTT!",
+      "cz": "PPLLLLLRRRBBBBBBTTTTT!",
+      "source": "pre_existing",
+      "original_cz": "PPLLLLLRRRBBBBBBTTTTT!"
+    },
+    {
+      "key": "Vanellope_029_f",
+      "en": "Wow, I walked right into that one, didn't I?",
+      "cz": "Páni, do toho jsem hned narazila, že?",
+      "source": "pre_existing",
+      "original_cz": "Páni, do toho jsem hned narazila, že?"
+    },
+    {
+      "key": "Vanellope_030_f",
+      "en": "Yup!",
+      "cz": "Jo!",
+      "source": "pre_existing",
+      "original_cz": "Jo!"
+    },
+    {
+      "key": "Vanellope_023_f",
+      "en": "Well, I'm heading back to Mike now. Want me to pass along a message?",
+      "cz": "No, teď se vracím k Mikovi. Mám mu předat zprávu?",
+      "source": "pre_existing",
+      "original_cz": "No, teď se vracím k Mikovi. Mám mu předat zprávu?"
+    },
+    {
+      "key": "Vanellope_024_f",
+      "en": "Yeah! Tell that over-sized sourball that he's going down!",
+      "cz": "Jo! Řekni tomu obrovskému kyselému kloboukovi, že jde dolů!",
+      "source": "pre_existing",
+      "original_cz": "Jo! Řekni tomu obrovskému kyselému kloboukovi, že jde dolů!"
+    },
+    {
+      "key": "Vanellope_027_f",
+      "en": "{PlayerName}... I know exactly how to play this.",
+      "cz": "{PlayerName}... Vím přesně, jak tohle hrát.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}... Vím přesně, jak tohle hrát."
+    },
+    {
+      "key": "Vanellope_028_f",
+      "en": "If I lose, I blame the judge.",
+      "cz": "Pokud prohraji, obviním soudce.",
+      "source": "pre_existing",
+      "original_cz": "Pokud prohraji, obviním soudce."
+    },
+    {
+      "key": "Vanellope_022_f",
+      "en": "That's because he doesn't know my best comes with a BIG competitive streak!",
+      "cz": "To proto, že neví, že moje nejlepší stránka přichází s VELKOU soutěživostí!",
+      "source": "pre_existing",
+      "original_cz": "To proto, že neví, že moje nejlepší stránka přichází s VELKOU soutěživostí!"
+    },
+    {
+      "key": "Vanellope_009_f",
+      "en": "I love it so much.",
+      "cz": "Moc se mi to líbí.",
+      "source": "pre_existing",
+      "original_cz": "Moc se mi to líbí."
+    },
+    {
+      "key": "Vanellope_010_f",
+      "en": "All right, let's hear how this one goes...",
+      "cz": "Dobře, pojďme si poslechnout, jak tohle dopadne...",
+      "source": "pre_existing",
+      "original_cz": "Dobře, pojďme si poslechnout, jak tohle dopadne..."
+    },
+    {
+      "key": "Vanellope_011_f",
+      "en": "PPLLLLLRRRBBBBBBTTTTT!",
+      "cz": "PPLLLLLRRRBBBBBBTTTTT!",
+      "source": "pre_existing",
+      "original_cz": "PPLLLLLRRRBBBBBBTTTTT!"
+    },
+    {
+      "key": "Vanellope_012_f",
+      "en": "A-HA-HA-HA-HA-HA-HA-HA!",
+      "cz": "A-HA-HA-HA-HA-HA-HA-HA!",
+      "source": "pre_existing",
+      "original_cz": "A-HA-HA-HA-HA-HA-HA-HA!"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Classic.",
+      "cz": "Klasika.",
+      "source": "pre_existing",
+      "original_cz": "Klasika."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "How rude!",
+      "cz": "Jak neslušné!",
+      "source": "pre_existing",
+      "original_cz": "Jak neslušné!"
+    },
+    {
+      "key": "Vanellope_013_f",
+      "en": "Can't beat the classics!",
+      "cz": "Klasiku nic nepřekoná!",
+      "source": "pre_existing",
+      "original_cz": "Klasiku nic nepřekoná!"
+    },
+    {
+      "key": "Vanellope_014_f",
+      "en": "Right? It's perfect!",
+      "cz": "Správně? Je to perfektní!",
+      "source": "pre_existing",
+      "original_cz": "Správně? Je to perfektní!"
+    }
+  ],
+  "MonstersInc_Vanellope/Vanellope_VLG_Mike_030_VLG_Mike_030_TalkTo01.locbin": [
+    {
+      "key": "Vanellope_000_f",
+      "en": "What's up, {PlayerName}?",
+      "cz": "Co se děje, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Co se děje, {PlayerName}?"
+    },
+    {
+      "key": "Vanellope_001_f",
+      "en": "Vanellope, have you ever thought of following the path of the comic?",
+      "cz": "Vanellope, přemýšlela jsi někdy o tom, že bys šla cestou komiksu?",
+      "source": "pre_existing",
+      "original_cz": "Vanellope, přemýšlela jsi někdy o tom, že bys šla cestou komiksu?"
+    },
+    {
+      "key": "Vanellope_002_f",
+      "en": "Well... I am extremely funny.",
+      "cz": "No... jsem extrémně vtipná.",
+      "source": "pre_existing",
+      "original_cz": "No... jsem extrémně vtipná."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Great!",
+      "cz": "Skvělé!",
+      "source": "pre_existing",
+      "original_cz": "Skvělé!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "HAHAHAHAHA!",
+      "cz": "HAHAHAHAHA!",
+      "source": "pre_existing",
+      "original_cz": "HAHAHAHAHA!"
+    },
+    {
+      "key": "Vanellope_003_f",
+      "en": "Mike Wazowski wants to open a comedy club and is looking for others to perform with him.",
+      "cz": "Mike Wazowski si chce otevřít komediální klub a hledá lidi, kteří by s ním vystupovali.",
+      "source": "pre_existing",
+      "original_cz": "Mike Wazowski si chce otevřít komediální klub a hledá lidi, kteří by s ním vystupovali."
+    },
+    {
+      "key": "Vanellope_005_f",
+      "en": "If you were going to craft a set, what would you focus on?",
+      "cz": "Kdybyste měli vytvořit sadu, na co byste se zaměřili?",
+      "source": "pre_existing",
+      "original_cz": "Kdybyste měli vytvořit sadu, na co byste se zaměřili?"
+    },
+    {
+      "key": "Vanellope_006_f",
+      "en": "Good question!",
+      "cz": "Dobrá otázka!",
+      "source": "pre_existing",
+      "original_cz": "Dobrá otázka!"
+    },
+    {
+      "key": "Vanellope_007_f",
+      "en": "I'd say I'm mostly observationally funny.",
+      "cz": "Řekla bych, že jsem vtipná hlavně z hlediska pozorování.",
+      "source": "pre_existing",
+      "original_cz": "Řekla bych, že jsem vtipná hlavně z hlediska pozorování."
+    },
+    {
+      "key": "Vanellope_008_f",
+      "en": "I see or hear things that might not be funny on the surface, but then I shine a light on 'em and... BAM! Comedy!",
+      "cz": "Vidím nebo slyším věci, které na první pohled nemusí být vtipné, ale pak na ně posvítím a... BAM! Komedie!",
+      "source": "pre_existing",
+      "original_cz": "Vidím nebo slyším věci, které na první pohled nemusí být vtipné, ale pak na ně posvítím a... BAM! Komedie!"
+    },
+    {
+      "key": "Vanellope_009_f",
+      "en": "Good answer! I'll let Mike know.",
+      "cz": "Dobrá odpověď! Dám vědět Mikovi.",
+      "source": "pre_existing",
+      "original_cz": "Dobrá odpověď! Dám vědět Mikovi."
+    },
+    {
+      "key": "Vanellope_004_f",
+      "en": "Wow, look at you being a Jokester too. Continue...",
+      "cz": "Páni, podívej se, ty jsi taky vtipálek. Pokračovat...",
+      "source": "pre_existing",
+      "original_cz": "Páni, podívej se, ty jsi taky vtipálek. Pokračovat..."
+    }
+  ],
+  "MonstersInc_Vanellope/Vanellope_VLG_Mike_040_VLG_Mike_040_TalkTo01.locbin": [
+    {
+      "key": "Vanellope_000_f",
+      "en": "Hey Vanellope, got a sec?",
+      "cz": "Ahoj Vanellope, máš chvilku?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj Vanellope, máš chvilku?"
+    },
+    {
+      "key": "Vanellope_009_f",
+      "en": "Uhh, not sure—",
+      "cz": "Ehm, nejsem si jistý—",
+      "source": "pre_existing",
+      "original_cz": "Ehm, nejsem si jistý—"
+    },
+    {
+      "key": "Vanellope_010_f",
+      "en": "I can't hear you! Talk to my manager. Scrooge McDuck is handling all von Schweetz-related inquiries now.",
+      "cz": "Neslyším vás! Promluvte si s mým manažerem. Scrooge McDuck nyní vyřizuje všechny dotazy týkající se von Schweetze.",
+      "source": "pre_existing",
+      "original_cz": "Neslyším vás! Promluvte si s mým manažerem. Scrooge McDuck nyní vyřizuje všechny dotazy týkající se von Schweetze."
+    },
+    {
+      "key": "Vanellope_001_f",
+      "en": "Nope.",
+      "cz": "Ne.",
+      "source": "pre_existing",
+      "original_cz": "Ne."
+    },
+    {
+      "key": "Vanellope_002_f",
+      "en": "Hey, it's okay to be worried about performing.",
+      "cz": "Hej, je v pořádku, že se obáváš svého vystoupení.",
+      "source": "pre_existing",
+      "original_cz": "Hej, je v pořádku, že se obáváš svého vystoupení."
+    },
+    {
+      "key": "Vanellope_003_f",
+      "en": "I know it can be intimidating to go up in front of people...",
+      "cz": "Vím, že může být zastrašující jít před lidi...",
+      "source": "pre_existing",
+      "original_cz": "Vím, že může být zastrašující jít před lidi..."
+    },
+    {
+      "key": "Vanellope_004_f",
+      "en": "...but I know you can do it!",
+      "cz": "...ale vím, že to dokážeš!",
+      "source": "pre_existing",
+      "original_cz": "...ale vím, že to dokážeš!"
+    },
+    {
+      "key": "Vanellope_005_f",
+      "en": "Wow, are you barking up the wrong candy cane.",
+      "cz": "Páni, štěkáš na špatnou cukrovou hůl?",
+      "source": "pre_existing",
+      "original_cz": "Páni, štěkáš na špatnou cukrovou hůl?"
+    },
+    {
+      "key": "Vanellope_006_f",
+      "en": "You sure? I just want to support—",
+      "cz": "Jsi si jistá? Jen chci podpořit—",
+      "source": "pre_existing",
+      "original_cz": "Jsi si jistá? Jen chci podpořit—"
+    },
+    {
+      "key": "Vanellope_007_f",
+      "en": "{PlayerName}, {PlayerName}, {PlayerName}, talk to my manager.",
+      "cz": "{PlayerName}, {PlayerName}, {PlayerName}, promluvte si s mým manažerem.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, {PlayerName}, {PlayerName}, promluvte si s mým manažerem."
+    },
+    {
+      "key": "Vanellope_008_f",
+      "en": "\"Leave the talent alone\" is like rule number 1 in showbiz!",
+      "cz": "\"Nechte talent na pokoji\" je jako pravidlo číslo jedna v showbyznysu!",
+      "source": "pre_existing",
+      "original_cz": "\"Nechte talent na pokoji\" je jako pravidlo číslo jedna v showbyznysu!"
+    }
+  ],
+  "MonstersInc_Vanellope/Vanellope_VLG_Mike_040_VLG_Mike_040_TalkTo08.locbin": [
+    {
+      "key": "Vanellope_008_f",
+      "en": "Would I joke about that?",
+      "cz": "Dělala bych si z toho legraci?",
+      "source": "pre_existing",
+      "original_cz": "Dělala bych si z toho legraci?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "No, you seem quite serious.",
+      "cz": "Ne, vypadáš docela vážně.",
+      "source": "pre_existing",
+      "original_cz": "Ne, vypadáš docela vážně."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Well, you are an aspiring comic...",
+      "cz": "No, jsi začínající komik...",
+      "source": "pre_existing",
+      "original_cz": "No, jsi začínající komik..."
+    },
+    {
+      "key": "Vanellope_000_f",
+      "en": "Looks cheesy, and cakey... This will do, my good friend!",
+      "cz": "Vypadá to kýčovitě a dortově... Tohle bude stačit, můj dobrý příteli!",
+      "source": "pre_existing",
+      "original_cz": "Vypadá to kýčovitě a dortově... Tohle bude stačit, můj dobrý příteli!"
+    },
+    {
+      "key": "Vanellope_001_f",
+      "en": "So you're back to being able to perform?",
+      "cz": "Takže už zase můžeš vystupovat?",
+      "source": "pre_existing",
+      "original_cz": "Takže už zase můžeš vystupovat?"
+    },
+    {
+      "key": "Vanellope_002_f",
+      "en": "Well... maybe.",
+      "cz": "No... možná.",
+      "source": "pre_existing",
+      "original_cz": "No... možná."
+    },
+    {
+      "key": "Vanellope_003_f",
+      "en": "I've been thinking, {PlayerName}. If I'm the future of comedy, how come I'm opening for Mike?",
+      "cz": "Přemýšlela jsem, {PlayerName}. Jestli jsem budoucnost komedie, proč zrovna předskakuji Mikovi?",
+      "source": "pre_existing",
+      "original_cz": "Přemýšlela jsem, {PlayerName}. Jestli jsem budoucnost komedie, proč zrovna předskakuji Mikovi?"
+    },
+    {
+      "key": "Vanellope_004_f",
+      "en": "Oh, I bet he'd say something about paying your dues...",
+      "cz": "Ach, vsadím se, že by řekl něco o placení dluhů...",
+      "source": "pre_existing",
+      "original_cz": "Ach, vsadím se, že by řekl něco o placení dluhů..."
+    },
+    {
+      "key": "Vanellope_005_f",
+      "en": "Yeah, what's up with that old-fashioned nonsense? If I've got the talent, who cares how long I've been performing?",
+      "cz": "Jo, co to je za staromódní nesmysl? Když mám talent, koho zajímá, jak dlouho už vystupuji?",
+      "source": "pre_existing",
+      "original_cz": "Jo, co to je za staromódní nesmysl? Když mám talent, koho zajímá, jak dlouho už vystupuji?"
+    },
+    {
+      "key": "Vanellope_006_f",
+      "en": "Tell Wazowski that either we go up as dual headliners, or I don't go up at all.",
+      "cz": "Řekni Wazowskému, že buď půjdeme jako dva hlavní hvězdy, nebo já nepůjdu vůbec.",
+      "source": "pre_existing",
+      "original_cz": "Řekni Wazowskému, že buď půjdeme jako dva hlavní hvězdy, nebo já nepůjdu vůbec."
+    },
+    {
+      "key": "Vanellope_007_f",
+      "en": "Seriously?",
+      "cz": "Vážně?",
+      "source": "pre_existing",
+      "original_cz": "Vážně?"
+    },
+    {
+      "key": "Vanellope_009_f",
+      "en": "I'll let Mike know!",
+      "cz": "Dám Mikovi vědět!",
+      "source": "pre_existing",
+      "original_cz": "Dám Mikovi vědět!"
+    },
+    {
+      "key": "Vanellope_010_f",
+      "en": "This is about business!",
+      "cz": "Tohle je o byznysu!",
+      "source": "pre_existing",
+      "original_cz": "Tohle je o byznysu!"
+    },
+    {
+      "key": "Vanellope_011_f",
+      "en": "And today, I'm very serious about business!",
+      "cz": "A dnes to s podnikáním myslím úplně vážně!",
+      "source": "pre_existing",
+      "original_cz": "A dnes to s podnikáním myslím úplně vážně!"
+    },
+    {
+      "key": "Vanellope_012_f",
+      "en": "Okay, I'll inform Mike.",
+      "cz": "Dobře, dám vědět Mikovi.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, dám vědět Mikovi."
+    }
+  ],
+  "MonstersInc_Vanellope/Vanellope_VLG_Sull_040_VLG_Sull_040_BringItem03.locbin": [
+    {
+      "key": "Vanellope_001_f",
+      "en": "Wow, {PlayerName}, you did it! I'm impressed!",
+      "cz": "Páni, {PlayerName}, dokázal jsi to! Jsem ohromen!",
+      "source": "pre_existing",
+      "original_cz": "Páni, {PlayerName}, dokázal jsi to! Jsem ohromen!"
+    },
+    {
+      "key": "Vanellope_002_f",
+      "en": "Yep! You just have to bring this <ActivityItem>Decoded Final Clue</ActivityItem> to Sulley and you'll win.",
+      "cz": "Jo! Stačí, když Sulleymu přineseš tuhle <ActivityItem>Rozluštěnou poslední stopu</ActivityItem> a vyhraješ.",
+      "source": "pre_existing",
+      "original_cz": "Jo! Stačí, když Sulleymu přineseš tuhle <ActivityItem>Rozluštěnou poslední stopu</ActivityItem> a vyhraješ."
+    },
+    {
+      "key": "Vanellope_003_f",
+      "en": "Are you kidding? You should be the one to do that!",
+      "cz": "Děláš si legraci? To bys měla udělat ty!",
+      "source": "pre_existing",
+      "original_cz": "Děláš si legraci? To bys měla udělat ty!"
+    },
+    {
+      "key": "Vanellope_004_f",
+      "en": "Let's face it, {PlayerName}. Without you, I couldn't have finished the scavenger hunt.",
+      "cz": "Přiznejme si to, {PlayerName}. Bez tebe bych honbu za pokladem nedokončila.",
+      "source": "pre_existing",
+      "original_cz": "Přiznejme si to, {PlayerName}. Bez tebe bych honbu za pokladem nedokončila."
+    },
+    {
+      "key": "Vanellope_005_f",
+      "en": "And I'm pretty sure it's the same for the others. So here. You win. Go see Sulley.",
+      "cz": "A jsem si docela jistá, že u ostatních je to stejné. Takže tady. Vyhrál jsi. Jdi za Sulleym.",
+      "source": "pre_existing",
+      "original_cz": "A jsem si docela jistá, že u ostatních je to stejné. Takže tady. Vyhrál jsi. Jdi za Sulleym."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "You're adorable.",
+      "cz": "Jsi rozkošný/á.",
+      "source": "pre_existing",
+      "original_cz": "Jsi rozkošný/á."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Are you sure you're okay with this?",
+      "cz": "Jste si jistý/á, že s tím souhlasíte?",
+      "source": "pre_existing",
+      "original_cz": "Jste si jistý/á, že s tím souhlasíte?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Yes! I win!",
+      "cz": "Ano! Vyhrál jsem!",
+      "source": "pre_existing",
+      "original_cz": "Ano! Vyhrál jsem!"
+    },
+    {
+      "key": "Vanellope_007_f",
+      "en": "I know! Now go!",
+      "cz": "Já vím! A teď jdi!",
+      "source": "pre_existing",
+      "original_cz": "Já vím! A teď jdi!"
+    },
+    {
+      "key": "Vanellope_008_f",
+      "en": "Yeah. Now go... before I change my mind.",
+      "cz": "Jo. A teď jdi... než si to rozmyslím.",
+      "source": "pre_existing",
+      "original_cz": "Jo. A teď jdi... než si to rozmyslím."
+    },
+    {
+      "key": "Vanellope_009_f",
+      "en": "Ha! I knew there was a true competitor in you.",
+      "cz": "Ha! Věděla jsem, že v tobě je opravdový soupeř.",
+      "source": "pre_existing",
+      "original_cz": "Ha! Věděla jsem, že v tobě je opravdový soupeř."
+    }
+  ],
+  "MonstersInc_Vanellope/Vanellope_VLG_Sull_040_VLG_Sull_040_TalkTo05.locbin": [
+    {
+      "key": "Vanellope_001_f",
+      "en": "Stalled at the finish line — I can't believe it!",
+      "cz": "Zastavila jsem se v cíli — nemůžu tomu uvěřit!",
+      "source": "pre_existing",
+      "original_cz": "Zastavila jsem se v cíli — nemůžu tomu uvěřit!"
+    },
+    {
+      "key": "Vanellope_002_f",
+      "en": "Is there anything I can do for you?",
+      "cz": "Mohu pro vás něco udělat?",
+      "source": "pre_existing",
+      "original_cz": "Mohu pro vás něco udělat?"
+    },
+    {
+      "key": "Vanellope_003_f",
+      "en": "I just know this is the last clue to the scavenger hunt.",
+      "cz": "Vím jen, že tohle je poslední stopa k honbě za pokladem.",
+      "source": "pre_existing",
+      "original_cz": "Vím jen, že tohle je poslední stopa k honbě za pokladem."
+    },
+    {
+      "key": "Vanellope_009_f",
+      "en": "It says: \"My secret can only be revealed as I simmer with a POWERful citrus fruit...\"",
+      "cz": "Píše se tam: „Mé tajemství může být odhaleno pouze tehdy, když se vařím s mocným citrusovým ovocem...“",
+      "source": "pre_existing",
+      "original_cz": "Píše se tam: „Mé tajemství může být odhaleno pouze tehdy, když se vařím s mocným citrusovým ovocem...“"
+    },
+    {
+      "key": "Vanellope_010_f",
+      "en": "So I guess you take this <ActivityItem>Final Clue</ActivityItem> and add some kinda fruit on top of it?",
+      "cz": "Takže si myslím, že vezmete tuto <ActivityItem>Závěrečnou nápovědu</ActivityItem> a přidáte na ni nějaké ovoce?",
+      "source": "pre_existing",
+      "original_cz": "Takže si myslím, že vezmete tuto <ActivityItem>Závěrečnou nápovědu</ActivityItem> a přidáte na ni nějaké ovoce?"
+    },
+    {
+      "key": "Vanellope_011_f",
+      "en": "But I'm not sure what the \"simmering\" is about... Here, give it a try. Maybe you'll figure it out.",
+      "cz": "Ale nejsem si jistá, o co jde s tím „vařením“... Tady, zkus to. Třeba na to přijdeš.",
+      "source": "pre_existing",
+      "original_cz": "Ale nejsem si jistá, o co jde s tím „vařením“... Tady, zkus to. Třeba na to přijdeš."
+    }
+  ],
+  "MonstersInc_Vanellope/Vanellope_VLG_Sull_040_VLG_Sull_040_TalkTo06.locbin": [
+    {
+      "key": "Vanellope_001_f",
+      "en": "Hey, {PlayerName}! Good thing it's you. I was worried Sulley would wanna help and spoil the surprise!",
+      "cz": "Ahoj, {PlayerName}! Ještě že jsi to ty. Bála jsem se, že Sulley bude chtít pomoct a zkazit překvapení!",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}! Ještě že jsi to ty. Bála jsem se, že Sulley bude chtít pomoct a zkazit překvapení!"
+    },
+    {
+      "key": "Vanellope_002_f",
+      "en": "We're making him a special gift to thank him for the scavenger hunt — a <ActivityItem>Sulley Statue</ActivityItem>!",
+      "cz": "Vyrábíme mu speciální dárek jako poděkování za honbu za pokladem – <ActivityItem>Sulleyho sochu</ActivityItem>!",
+      "source": "pre_existing",
+      "original_cz": "Vyrábíme mu speciální dárek jako poděkování za honbu za pokladem – <ActivityItem>Sulleyho sochu</ActivityItem>!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "That's such a nice idea.",
+      "cz": "To je tak skvělý nápad.",
+      "source": "pre_existing",
+      "original_cz": "To je tak skvělý nápad."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "You took the arts and craft idea and ran with it.",
+      "cz": "Vzal jsi nápad s uměním a řemesly a pustil se do něj.",
+      "source": "pre_existing",
+      "original_cz": "Vzal jsi nápad s uměním a řemesly a pustil se do něj."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "As long as I don't have to display that in the Valley.",
+      "cz": "Pokud to nebudu muset vystavovat v Údolí.",
+      "source": "pre_existing",
+      "original_cz": "Pokud to nebudu muset vystavovat v Údolí."
+    },
+    {
+      "key": "Vanellope_003_f",
+      "en": "I know, right?!",
+      "cz": "Já vím, že jo?!",
+      "source": "pre_existing",
+      "original_cz": "Já vím, že jo?!"
+    },
+    {
+      "key": "Vanellope_006_f",
+      "en": "We're still missing a few craft supplies. Could you get 'em and bring 'em to Stitch?",
+      "cz": "Stále nám chybí pár řemeslných potřeb. Mohla bys je sehnat a donést Stitchovi?",
+      "source": "pre_existing",
+      "original_cz": "Stále nám chybí pár řemeslných potřeb. Mohla bys je sehnat a donést Stitchovi?"
+    },
+    {
+      "key": "Vanellope_000_f",
+      "en": "He wants to put the finishing touches on the <ActivityItem>Sulley Statue</ActivityItem> himself. Something about his goodness level? Doesn't sound like a level I'd wanna play.",
+      "cz": "Chce sám doladit <ActivityItem>Sulleyho sochu</ActivityItem>. Je něco s jeho úrovní dobroty? Nezní to jako úroveň, na které bych chtěl hrát.",
+      "source": "pre_existing",
+      "original_cz": "Chce sám doladit <ActivityItem>Sulleyho sochu</ActivityItem>. Je něco s jeho úrovní dobroty? Nezní to jako úroveň, na které bych chtěl hrát."
+    },
+    {
+      "key": "Vanellope_007_f",
+      "en": "It's not a— You know what? Never mind. What do you need?",
+      "cz": "To není— Víš co? Nevadí. Co potřebuješ?",
+      "source": "pre_existing",
+      "original_cz": "To není— Víš co? Nevadí. Co potřebuješ?"
+    },
+    {
+      "key": "Vanellope_008_f",
+      "en": "We need <ActivityItem>Purple Flowers</ActivityItem>, <ActivityItem>Blueberries</ActivityItem> for the dye, and <ActivityItem>Boiled Eggs</ActivityItem> for the eyes. Thanks!",
+      "cz": "Potřebujeme <ActivityItem>Fialové květy</ActivityItem>, <ActivityItem>Borůvky</ActivityItem> na barvivo a <ActivityItem>Vařená vejce</ActivityItem> na oči. Díky!",
+      "source": "pre_existing",
+      "original_cz": "Potřebujeme <ActivityItem>Fialové květy</ActivityItem>, <ActivityItem>Borůvky</ActivityItem> na barvivo a <ActivityItem>Vařená vejce</ActivityItem> na oči. Díky!"
+    },
+    {
+      "key": "Vanellope_004_f",
+      "en": "That's what I do, {PlayerName}. Go FAST!",
+      "cz": "To je přesně to, co dělám, {PlayerName}. Jeď RYCHLE!",
+      "source": "pre_existing",
+      "original_cz": "To je přesně to, co dělám, {PlayerName}. Jeď RYCHLE!"
+    },
+    {
+      "key": "Vanellope_005_f",
+      "en": "Aw, c'mon! You're gonna eat those words when you see it!",
+      "cz": "No tak! Až ta slova uvidíš, tak se ti z nich sní!",
+      "source": "pre_existing",
+      "original_cz": "No tak! Až ta slova uvidíš, tak se ti z nich sní!"
+    }
+  ],
+  "MonstersInc_Vanellope/Vanellope_VLG_Sull_040_VLG_Sull_040_TalkTo09.locbin": [
+    {
+      "key": "Vanellope_001_f",
+      "en": "Whoa! What's the rush, {PlayerName}?",
+      "cz": "Páni! Co je to za spěch, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Páni! Co je to za spěch, {PlayerName}?"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "Sulley is organizing this scavenger hunt and wants you to participate. It could be...",
+      "cz": "Sulley organizuje tento hon za pokladem a chce, abyste se ho zúčastnili. Mohlo by to být...",
+      "source": "pre_existing",
+      "original_cz": "Sulley organizuje tento hon za pokladem a chce, abyste se ho zúčastnili. Mohlo by to být..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "...fun for you.",
+      "cz": "...zábava pro tebe.",
+      "source": "pre_existing",
+      "original_cz": "...zábava pro tebe."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "...a good way to make friends.",
+      "cz": "...dobrý způsob, jak si najít přátele.",
+      "source": "pre_existing",
+      "original_cz": "...dobrý způsob, jak si najít přátele."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "...the perfect opportunity to show off to everyone.",
+      "cz": "...perfektní příležitost se předvést všem.",
+      "source": "pre_existing",
+      "original_cz": "...perfektní příležitost se předvést všem."
+    },
+    {
+      "key": "Vanellope_002_f",
+      "en": "Hold on. Are you saying there's a race in the Village and I'm invited?",
+      "cz": "Počkej. Říkáš, že ve vesnici je závod a já jsem pozvaná?",
+      "source": "pre_existing",
+      "original_cz": "Počkej. Říkáš, že ve vesnici je závod a já jsem pozvaná?"
+    },
+    {
+      "key": "Vanellope_005_f",
+      "en": "Sign me up!",
+      "cz": "Přihlaste mě!",
+      "source": "pre_existing",
+      "original_cz": "Přihlaste mě!"
+    },
+    {
+      "key": "Vanellope_003_f",
+      "en": "As long as the other players aren't sore losers...",
+      "cz": "Pokud ostatní hráči nebudou neúspěšní poražení...",
+      "source": "pre_existing",
+      "original_cz": "Pokud ostatní hráči nebudou neúspěšní poražení..."
+    },
+    {
+      "key": "Vanellope_004_f",
+      "en": "Correction, chumbo...",
+      "cz": "Oprava, chumbo...",
+      "source": "pre_existing",
+      "original_cz": "Oprava, chumbo..."
+    },
+    {
+      "key": "Vanellope_006_f",
+      "en": "I NEVER show off.",
+      "cz": "NIKDY se nechlubím.",
+      "source": "pre_existing",
+      "original_cz": "NIKDY se nechlubím."
+    },
+    {
+      "key": "Vanellope_007_f",
+      "en": "I just win everything in the coolest way possible.",
+      "cz": "Všechno prostě vyhrávám tím nejvíc cool způsobem.",
+      "source": "pre_existing",
+      "original_cz": "Všechno prostě vyhrávám tím nejvíc cool způsobem."
+    }
+  ]
+}

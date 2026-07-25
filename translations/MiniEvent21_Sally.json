@@ -1,0 +1,105 @@
+{
+  "MiniEvent21_Sally/Sally_CrossNPCDialogues_Sally_JackSkellington_RPT_Sall_Valentines_010.locbin": [
+    {
+      "key": "Sally_000_f",
+      "en": "Why, Sally. A new hat for me?",
+      "cz": "Proč, Sally. Nový klobouk pro mě?",
+      "source": "pre_existing",
+      "original_cz": "Proč, Sally. Nový klobouk pro mě?"
+    },
+    {
+      "key": "Sally_001_f",
+      "en": "It's as red as blood and white as bone. It's perfect!",
+      "cz": "Je rudá jako krev a bílá jako kost. Je dokonalá!",
+      "source": "pre_existing",
+      "original_cz": "Je rudá jako krev a bílá jako kost. Je dokonalá!"
+    },
+    {
+      "key": "Sally_002_f",
+      "en": "I'm glad you like it, Jack. {PlayerName} found the best flowers in the Valley so I could dye the fabric.",
+      "cz": "Jsem ráda, že se ti to líbí, Jacku. {PlayerName} Našla jsem v údolí nejlepší květiny, abych mohla látku nabarvit.",
+      "source": "pre_existing",
+      "original_cz": "Jsem ráda, že se ti to líbí, Jacku. {PlayerName} Našla jsem v údolí nejlepší květiny, abych mohla látku nabarvit."
+    }
+  ],
+  "MiniEvent21_Sally/Sally_RPT_Sall_Valentines_010_RPT_Sall_Valentines_010_BringItem01.locbin": [
+    {
+      "key": "Sally_000_f",
+      "en": "These are just what I need. Thank you, {PlayerName}. I'll have Jack's new Sandy Claws hat ready in no time.",
+      "cz": "Tohle je přesně to, co potřebuji. Děkuji, {PlayerName}. Jackovu novou čepici Sandy Claws budu mít připravenou hned.",
+      "source": "pre_existing",
+      "original_cz": "Tohle je přesně to, co potřebuji. Děkuji, {PlayerName}. Jackovu novou čepici Sandy Claws budu mít připravenou hned."
+    }
+  ],
+  "MiniEvent21_Sally/Sally_RPT_Sall_Valentines_010_RPT_Sall_Valentines_010_Intro.locbin": [
+    {
+      "key": "Sally_000_f",
+      "en": "Oh, {PlayerName}. I'm so happy to see you. Would you have time to help me with a little gift for Jack?",
+      "cz": "Ach, {PlayerName}. Jsem tak ráda, že tě vidím. Měla bys čas mi pomoct s malým dárkem pro Jacka?",
+      "source": "pre_existing",
+      "original_cz": "Ach, {PlayerName}. Jsem tak ráda, že tě vidím. Měla bys čas mi pomoct s malým dárkem pro Jacka?"
+    },
+    {
+      "key": "Sally_001_f",
+      "en": "I want to sew him a new Sandy Claws hat, but I need some materials.",
+      "cz": "Chci mu ušít novou čepici Sandy Claws, ale potřebuji nějaké materiály.",
+      "source": "pre_existing",
+      "original_cz": "Chci mu ušít novou čepici Sandy Claws, ale potřebuji nějaké materiály."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm happy to help!",
+      "cz": "Rád/a pomůžu!",
+      "source": "pre_existing",
+      "original_cz": "Rád/a pomůžu!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'll help in a bit, okay?",
+      "cz": "Trochu pomůžu, ano?",
+      "source": "pre_existing",
+      "original_cz": "Trochu pomůžu, ano?"
+    },
+    {
+      "key": "Sally_004_f",
+      "en": "I appreciate it, {PlayerName}.",
+      "cz": "Vážím si toho, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Vážím si toho, {PlayerName}."
+    },
+    {
+      "key": "Sally_002_f",
+      "en": "Of course. In the meantime, I'm going to find some spiders and ask if I can harvest some silk.",
+      "cz": "Samozřejmě. Mezitím najdu nějaké pavouky a zeptám se jich, jestli můžu sklidit nějaké hedvábí.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě. Mezitím najdu nějaké pavouky a zeptám se jich, jestli můžu sklidit nějaké hedvábí."
+    }
+  ],
+  "MiniEvent21_Sally/Sally_RPT_Sall_Valentines_010_RPT_Sall_Valentines_010_Ongoing01.locbin": [
+    {
+      "key": "Sally_000_f",
+      "en": "Could you please bring me some <ActivityItem>Fabric</ActivityItem>, <ActivityItem>White Impatiens</ActivityItem>, and <ActivityItem>Red Nasturtiums</ActivityItem>?",
+      "cz": "Mohl byste mi prosím přinést nějakou <ActivityItem>látku</ActivityItem>, <ActivityItem>bílé netýkavky</ActivityItem> a <ActivityItem>červené lichořeřišnice</ActivityItem>?",
+      "source": "pre_existing",
+      "original_cz": "Mohl byste mi prosím přinést nějakou <ActivityItem>látku</ActivityItem>, <ActivityItem>bílé netýkavky</ActivityItem> a <ActivityItem>červené lichořeřišnice</ActivityItem>?"
+    }
+  ],
+  "MiniEvent21_Sally/Sally_RPT_Sall_Valentines_010_RPT_Sall_Valentines_010_Ongoing02.locbin": [
+    {
+      "key": "Sally_000_f",
+      "en": "Sally, are you going to bring that new hat you made to Jack?",
+      "cz": "Sally, doneseš Jackovi ten nový klobouk, co jsi ušila?",
+      "source": "pre_existing",
+      "original_cz": "Sally, doneseš Jackovi ten nový klobouk, co jsi ušila?"
+    }
+  ],
+  "MiniEvent21_Sally/Sally_RPT_Sall_Valentines_010_RPT_Sall_Valentines_010_Outro.locbin": [
+    {
+      "key": "Sally_000_f",
+      "en": "Thank you for your help with Jack's surprise, {PlayerName}. I want to give you something. It's heart-shaped, but don't worry. There's no heart inside.",
+      "cz": "Děkuji za pomoc s Jackovým překvapením, {PlayerName}. Chci ti něco dát. Je to ve tvaru srdce, ale neboj se. Uvnitř žádné srdce není.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji za pomoc s Jackovým překvapením, {PlayerName}. Chci ti něco dát. Je to ve tvaru srdce, ale neboj se. Uvnitř žádné srdce není."
+    }
+  ]
+}

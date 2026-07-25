@@ -1,0 +1,119 @@
+{
+  "MiniEvent21_Belle/Belle_CrossNPCDialogues_Belle_Beast_RPT_Bell_Valentines_010.locbin": [
+    {
+      "key": "Belle_000_f",
+      "en": "I'd like to give you something. It's for your books.",
+      "cz": "Rád bych ti něco dal. Je to pro tvé knihy.",
+      "source": "pre_existing",
+      "original_cz": "Rád bych ti něco dal. Je to pro tvé knihy."
+    },
+    {
+      "key": "Belle_001_f",
+      "en": "A surprise? For me? No one's ever— I—",
+      "cz": "Překvapení? Pro mě? Nikdo nikdy— Já—",
+      "source": "pre_existing",
+      "original_cz": "Překvapení? Pro mě? Nikdo nikdy— Já—"
+    },
+    {
+      "key": "Belle_002_f",
+      "en": "I love it. Thank you, Belle.",
+      "cz": "To se mi moc líbí. Děkuji, Belle.",
+      "source": "pre_existing",
+      "original_cz": "To se mi moc líbí. Děkuji, Belle."
+    }
+  ],
+  "MiniEvent21_Belle/Belle_RPT_Bell_Valentines_010_RPT_Bell_Valentines_010_BringItem01.locbin": [
+    {
+      "key": "Belle_000_f",
+      "en": "Oh, this is perfect! He's going to be so surprised.",
+      "cz": "To je perfektní! Bude tak překvapený.",
+      "source": "pre_existing",
+      "original_cz": "To je perfektní! Bude tak překvapený."
+    }
+  ],
+  "MiniEvent21_Belle/Belle_RPT_Bell_Valentines_010_RPT_Bell_Valentines_010_Intro.locbin": [
+    {
+      "key": "Belle_000_f",
+      "en": "{PlayerName}, do you have a moment? You see, I have a surprise planned for the Beast.",
+      "cz": "{PlayerName}, máš chvilku? Víš, mám pro Bestii naplánované překvapení.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, máš chvilku? Víš, mám pro Bestii naplánované překvapení."
+    },
+    {
+      "key": "Belle_001_f",
+      "en": "We've been spending quite a bit of time reading together, and that's become my favorite part of the day.",
+      "cz": "Trávíme spolu docela dost času čtením a to se stala mou nejoblíbenější částí dne.",
+      "source": "pre_existing",
+      "original_cz": "Trávíme spolu docela dost času čtením a to se stala mou nejoblíbenější částí dne."
+    },
+    {
+      "key": "Belle_002_f",
+      "en": "So, I'm going to make him a special shelf to store his favorite books. Would you help me and <Lore>bring supplies for the bookshelf</Lore>?",
+      "cz": "Takže mu udělám speciální poličku na ukládání jeho oblíbených knih. Mohl bys mi pomoct a <Lore>donést potřeby do knihovny</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "Takže mu udělám speciální poličku na ukládání jeho oblíbených knih. Mohl bys mi pomoct a <Lore>donést potřeby do knihovny</Lore>?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'd love to help!",
+      "cz": "Rád/a bych pomohl/a!",
+      "source": "pre_existing",
+      "original_cz": "Rád/a bych pomohl/a!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Maybe in a bit?",
+      "cz": "Možná za chvíli?",
+      "source": "pre_existing",
+      "original_cz": "Možná za chvíli?"
+    },
+    {
+      "key": "Belle_003_f",
+      "en": "Thank you so much!",
+      "cz": "Moc děkuji!",
+      "source": "pre_existing",
+      "original_cz": "Moc děkuji!"
+    },
+    {
+      "key": "Belle_004_f",
+      "en": "Of course. Whenever you have the time.",
+      "cz": "Samozřejmě. Kdykoli budete mít čas.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě. Kdykoli budete mít čas."
+    }
+  ],
+  "MiniEvent21_Belle/Belle_RPT_Bell_Valentines_010_RPT_Bell_Valentines_010_Ongoing01.locbin": [
+    {
+      "key": "Belle_000_f",
+      "en": "For our bookshelf, we'll need <ActivityItem>Fabric</ActivityItem>, <ActivityItem>Stone</ActivityItem>, and <ActivityItem>Glass</ActivityItem>.",
+      "cz": "Na naši knihovnu budeme potřebovat <ActivityItem>Látku</ActivityItem>, <ActivityItem>Kámen</ActivityItem> a <ActivityItem>Sklo</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Na naši knihovnu budeme potřebovat <ActivityItem>Látku</ActivityItem>, <ActivityItem>Kámen</ActivityItem> a <ActivityItem>Sklo</ActivityItem>."
+    }
+  ],
+  "MiniEvent21_Belle/Belle_RPT_Bell_Valentines_010_RPT_Bell_Valentines_010_Ongoing02.locbin": [
+    {
+      "key": "Belle_000_f",
+      "en": "It's time to give the Beast his bookshelf.",
+      "cz": "Je čas dát Bestii jeho knihovnu.",
+      "source": "pre_existing",
+      "original_cz": "Je čas dát Bestii jeho knihovnu."
+    }
+  ],
+  "MiniEvent21_Belle/Belle_RPT_Bell_Valentines_010_RPT_Bell_Valentines_010_Outro.locbin": [
+    {
+      "key": "Belle_000_f",
+      "en": "The Beast loves his bookshelf. He's already trying to decide whether to organize it by title, or author, or color.",
+      "cz": "Bestie miluje svou knihovnu. Už se snaží rozhodnout, jestli ji uspořádat podle názvu, autora nebo barvy.",
+      "source": "pre_existing",
+      "original_cz": "Bestie miluje svou knihovnu. Už se snaží rozhodnout, jestli ji uspořádat podle názvu, autora nebo barvy."
+    },
+    {
+      "key": "Belle_001_f",
+      "en": "Thank you for your help, {PlayerName}. I'd like you to have this to show my appreciation.",
+      "cz": "Děkuji za vaši pomoc, {PlayerName}. Rád bych vám to dal na projev mého uznání.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji za vaši pomoc, {PlayerName}. Rád bych vám to dal na projev mého uznání."
+    }
+  ]
+}

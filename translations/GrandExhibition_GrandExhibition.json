@@ -1,0 +1,458 @@
+{
+  "GrandExhibition_GrandExhibition/GEX_Meadow_010.locbin": [
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_010_Any_CompletedRequestDescription",
+      "en": "Talk to Olaf.",
+      "cz": "Promluv si s Olafem.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Olafem."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_010_AvailableDescription",
+      "en": "Olaf is very excited about a new project. What could he be up to?",
+      "cz": "Olaf se moc těší na nový projekt. Co asi chystá?",
+      "source": "pre_existing",
+      "original_cz": "Olaf se moc těší na nový projekt. Co asi chystá?"
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_010_CompletedStoryDescription",
+      "en": "You finish the Peaceful Meadow room in the Grand Exhibition! It's time to talk to Olaf and see what he thinks of all your hard work.",
+      "cz": "Dokončil jsi místnost Poklidná louka ve Velké výstavě! Je čas promluvit si s Olafem a zeptat se, co si o tvé tvrdé práci myslí.",
+      "source": "pre_existing",
+      "original_cz": "Dokončil jsi místnost Poklidná louka ve Velké výstavě! Je čas promluvit si s Olafem a zeptat se, co si o tvé tvrdé práci myslí."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_010_DisplayName",
+      "en": "Olaf's Grand Exhibition",
+      "cz": "Olafova velká výstava",
+      "source": "pre_existing",
+      "original_cz": "Olafova velká výstava"
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_010_Group01_Step01_PlaceBuilding01_StepDescription",
+      "en": "Place the Grand Exhibition building in your Valley.",
+      "cz": "Umístěte budovu Velké výstavy do svého údolí.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte budovu Velké výstavy do svého údolí."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_010_Group01_StoryDescription",
+      "en": "He tells you about his big idea: the Grand Exhibition. It's a special building in the Valley where each Biome and everything in it gets its own space to shine. He asks for your help to pick a space for the Exhibition with assistance from Scrooge McDuck.",
+      "cz": "Poví vám o svém velkém nápadu: Velké výstavě. Je to speciální budova v údolí, kde každý biom a všechno v něm dostane svůj vlastní prostor k vyniknutí. Požádá vás o pomoc s výběrem místa pro výstavu s pomocí Skrblík McDucka.",
+      "source": "pre_existing",
+      "original_cz": "Poví vám o svém velkém nápadu: Velké výstavě. Je to speciální budova v údolí, kde každý biom a všechno v něm dostane svůj vlastní prostor k vyniknutí. Požádá vás o pomoc s výběrem místa pro výstavu s pomocí Skrblík McDucka."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_010_Group02_Step02_Unlock01_StepDescription",
+      "en": "Unlock the Grand Exhibition using the Scrooge McDuck construction sign.",
+      "cz": "Odemkněte Velkou výstavu pomocí stavební cedule Skrblík McDuck.",
+      "source": "pre_existing",
+      "original_cz": "Odemkněte Velkou výstavu pomocí stavební cedule Skrblík McDuck."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_010_Group03_Step03_TalkToCharacter01_StepDescription",
+      "en": "Talk to {TargetNPC} inside the Grand Exhibition.",
+      "cz": "Promluvte si s {TargetNPC} uvnitř Velké výstavy.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC} uvnitř Velké výstavy."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_010_Group04_Step04_FollowCharacter01_StepDescription",
+      "en": "Follow Olaf to the Peaceful Meadow door.",
+      "cz": "Následujte Olafa ke dveřím do Poklidné louky.",
+      "source": "pre_existing",
+      "original_cz": "Následujte Olafa ke dveřím do Poklidné louky."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_010_Group04_Step04_FollowCharacter01_TalkToDescription",
+      "en": "Talk to Olaf.",
+      "cz": "Promluv si s Olafem.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Olafem."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_010_Group04_Step04_FollowCharacter01_WrongSceneDescription",
+      "en": "Enter the Grand Exhibition building.",
+      "cz": "Vstupte do budovy Velkého výstaviště.",
+      "source": "pre_existing",
+      "original_cz": "Vstupte do budovy Velkého výstaviště."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_010_Group05_Step05_VisitArea01_StepDescription",
+      "en": "Meet Olaf inside the Peaceful Meadow room in the Grand Exhibition.",
+      "cz": "Setkejte se s Olafem v místnosti Poklidná louka ve Velké výstavě.",
+      "source": "pre_existing",
+      "original_cz": "Setkejte se s Olafem v místnosti Poklidná louka ve Velké výstavě."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_010_Group06_Step06_TalkToCharacter02_StepDescription",
+      "en": "Talk to {TargetNPC} in the Peaceful Meadow room in the Grand Exhibition.",
+      "cz": "Promluvte si s {TargetNPC} v místnosti Poklidná louka ve Velké výstavě.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC} v místnosti Poklidná louka ve Velké výstavě."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_010_Group06_StoryDescription",
+      "en": "After building the Grand Exhibition, you step inside to take a look. A large glorious building with many doors greets you... And so does Olaf! You follow him to the first open room: the one dedicated to the Peaceful Meadow.",
+      "cz": "Po postavení Velké výstavy vstoupíte dovnitř, abyste se podívali. Vítá vás velká nádherná budova s ​​mnoha dveřmi... A také Olaf! Následujete ho do první otevřené místnosti: té věnované Poklidné louce.",
+      "source": "pre_existing",
+      "original_cz": "Po postavení Velké výstavy vstoupíte dovnitř, abyste se podívali. Vítá vás velká nádherná budova s ​​mnoha dveřmi... A také Olaf! Následujete ho do první otevřené místnosti: té věnované Poklidné louce."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_010_Group07_Step07_Conditional01_StepDescription",
+      "en": "Complete the Peaceful Meadow Aquarium, Diorama, and Habitat in Olaf's Grand Exhibition.",
+      "cz": "Dokonči akvárium, dioráma a biotop v Olafově velké výstavě.",
+      "source": "pre_existing",
+      "original_cz": "Dokonči akvárium, dioráma a biotop v Olafově velké výstavě."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_010_Group07_StoryDescription",
+      "en": "Olaf explains that each room in the Grand Exhibition has three parts: an Aquarium, a Diorama, and a Habitat for critters. He asks for your help in completing each of these displays for the Peaceful Meadow room. It's a fun new project for the two of you to share.",
+      "cz": "Olaf vysvětluje, že každá místnost ve Velké výstavě má ​​tři části: akvárium, dioráma a prostředí pro živočichy. Žádá vás o pomoc s dokončením každé z těchto expozic pro místnost Poklidná louka. Je to zábavný nový projekt, který můžete sdílet vy dva.",
+      "source": "pre_existing",
+      "original_cz": "Olaf vysvětluje, že každá místnost ve Velké výstavě má ​​tři části: akvárium, dioráma a prostředí pro živočichy. Žádá vás o pomoc s dokončením každé z těchto expozic pro místnost Poklidná louka. Je to zábavný nový projekt, který můžete sdílet vy dva."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_010_Group08_Step08_TalkToCharacter03_StepDescription",
+      "en": "Talk to Olaf.",
+      "cz": "Promluv si s Olafem.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Olafem."
+    }
+  ],
+  "GrandExhibition_GrandExhibition/GEX_Meadow_011.locbin": [
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_011_AvailableDescription",
+      "en": "Olaf has asked you to complete the Peaceful Meadow Diorama in the brand-new Grand Exhibition! It's time to begin this fun new project!",
+      "cz": "Olaf tě požádal o dokončení diorámatu Pokojná louka v zbrusu nové Velké výstavě! Je čas začít s tímto novým zábavným projektem!",
+      "source": "pre_existing",
+      "original_cz": "Olaf tě požádal o dokončení diorámatu Pokojná louka v zbrusu nové Velké výstavě! Je čas začít s tímto novým zábavným projektem!"
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_011_CompletedStoryDescription",
+      "en": "With hard work, you fix all the Blueprints for the Peaceful Meadow Diorama. A beautiful, moving display tells the story of the Peaceful Meadow and major events that happened there. It's perfect!",
+      "cz": "S tvrdou prací opravíte všechny plány pro dioráma Klidné louky. Krásná a dojemná expozice vypráví příběh Klidné louky a hlavních událostí, které se tam odehrály. Je perfektní!",
+      "source": "pre_existing",
+      "original_cz": "S tvrdou prací opravíte všechny plány pro dioráma Klidné louky. Krásná a dojemná expozice vypráví příběh Klidné louky a hlavních událostí, které se tam odehrály. Je perfektní!"
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_011_DisplayName",
+      "en": "Grand Exhibition: Diorama",
+      "cz": "Velká výstava: Dioráma",
+      "source": "pre_existing",
+      "original_cz": "Velká výstava: Dioráma"
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_011_Group01_Step01_Possess01_StepDescription",
+      "en": "Purple Rising Penstemon.",
+      "cz": "Fialový Vstávající Penízovka.",
+      "source": "pre_existing",
+      "original_cz": "Fialový Vstávající Penízovka."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_011_Group01_Step01_Possess02_StepDescription",
+      "en": "Green Rising Penstemon.",
+      "cz": "Zelený Vstávající Penízovka.",
+      "source": "pre_existing",
+      "original_cz": "Zelený Vstávající Penízovka."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_011_Group01_Step01_Possess03_StepDescription",
+      "en": "Yellow Daisy.",
+      "cz": "Žlutá sedmikráska.",
+      "source": "pre_existing",
+      "original_cz": "Žlutá sedmikráska."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_011_Group01_Step01_Possess04_StepDescription",
+      "en": "Red Daisy.",
+      "cz": "Červená sedmikráska.",
+      "source": "pre_existing",
+      "original_cz": "Červená sedmikráska."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_011_Group01_Step01_Possess05_StepDescription",
+      "en": "White Daisy.",
+      "cz": "Bílá sedmikráska.",
+      "source": "pre_existing",
+      "original_cz": "Bílá sedmikráska."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_011_Group01_Step01_StepDescription",
+      "en": "Gather flowers from the Peaceful Meadow.",
+      "cz": "Nasbírejte květiny z Poklidné louky.",
+      "source": "pre_existing",
+      "original_cz": "Nasbírejte květiny z Poklidné louky."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_011_Group02_Step02_FillKeyhole01_StepDescription",
+      "en": "Fill the Diorama display case with Peaceful Meadow flowers in the Grand Exhibition.",
+      "cz": "Naplňte diorámatovou vitrínu květinami Poklidné louky ve Velké výstavě.",
+      "source": "pre_existing",
+      "original_cz": "Naplňte diorámatovou vitrínu květinami Poklidné louky ve Velké výstavě."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_011_Group03_Step03_TalkToCharacter01_StepDescription",
+      "en": "Talk to {TargetNPC} inside the Peaceful Meadow room in the Grand Exhibition.",
+      "cz": "Promluvte si s {TargetNPC} v místnosti Poklidná louka ve Velké výstavě.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC} v místnosti Poklidná louka ve Velké výstavě."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_011_Group04_Step04_FillKeyhole02_StepDescription",
+      "en": "Left panel.",
+      "cz": "Levý panel.",
+      "source": "pre_existing",
+      "original_cz": "Levý panel."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_011_Group04_Step04_FillKeyhole03_StepDescription",
+      "en": "Left center panel.",
+      "cz": "Levý středový panel.",
+      "source": "pre_existing",
+      "original_cz": "Levý středový panel."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_011_Group04_Step04_FillKeyhole04_StepDescription",
+      "en": "Right center panel.",
+      "cz": "Pravý středový panel.",
+      "source": "pre_existing",
+      "original_cz": "Pravý středový panel."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_011_Group04_Step04_FillKeyhole05_StepDescription",
+      "en": "Right panel.",
+      "cz": "Pravý panel.",
+      "source": "pre_existing",
+      "original_cz": "Pravý panel."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_011_Group04_Step04_StepDescription",
+      "en": "Repair each Diorama Blueprint.",
+      "cz": "Opravte každý plán diorámy.",
+      "source": "pre_existing",
+      "original_cz": "Opravte každý plán diorámy."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_011_Group04_StoryDescription",
+      "en": "After you finish the flowers, it's time to move to the centerpiece of the Peaceful Meadow room: the Diorama itself!",
+      "cz": "Až doděláte květiny, je čas přesunout se k ústřednímu bodu místnosti Poklidná louka: samotnému diorámatu!",
+      "source": "pre_existing",
+      "original_cz": "Až doděláte květiny, je čas přesunout se k ústřednímu bodu místnosti Poklidná louka: samotnému diorámatu!"
+    }
+  ],
+  "GrandExhibition_GrandExhibition/GEX_Meadow_012.locbin": [
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_012_AvailableDescription",
+      "en": "Olaf has asked you to complete the Peaceful Meadow Aquarium in the brand-new Grand Exhibition. You decide it's time to go mining and get started on the gemstone display.",
+      "cz": "Olaf tě požádal, abys dokončil/a Akvárium na Poklidné louce v zbrusu nové Velké výstavě. Rozhodneš se, že je čas jít těžit a začít s vystavením drahokamů.",
+      "source": "pre_existing",
+      "original_cz": "Olaf tě požádal, abys dokončil/a Akvárium na Poklidné louce v zbrusu nové Velké výstavě. Rozhodneš se, že je čas jít těžit a začít s vystavením drahokamů."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_012_CompletedStoryDescription",
+      "en": "With some expert angling, you add all the fish that can be found in the Peaceful Meadow to complete it. It looks wonderful!",
+      "cz": "S trochou zkušeného rybaření přidáte všechny ryby, které se dají najít na Poklidné louce, abyste to dokončili. Vypadá to úžasně!",
+      "source": "pre_existing",
+      "original_cz": "S trochou zkušeného rybaření přidáte všechny ryby, které se dají najít na Poklidné louce, abyste to dokončili. Vypadá to úžasně!"
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_012_DisplayName",
+      "en": "Grand Exhibition: Aquarium",
+      "cz": "Velká výstava: Akvárium",
+      "source": "pre_existing",
+      "original_cz": "Velká výstava: Akvárium"
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_012_Group01_Step01_Possess01_StepDescription",
+      "en": "Garnet.",
+      "cz": "Granát.",
+      "source": "pre_existing",
+      "original_cz": "Granát."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_012_Group01_Step01_Possess02_StepDescription",
+      "en": "Shiny Garnet.",
+      "cz": "Lesklý granát.",
+      "source": "pre_existing",
+      "original_cz": "Lesklý granát."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_012_Group01_Step01_Possess03_StepDescription",
+      "en": "Peridot.",
+      "cz": "Peridot.",
+      "source": "pre_existing",
+      "original_cz": "Peridot."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_012_Group01_Step01_Possess04_StepDescription",
+      "en": "Shiny Peridot.",
+      "cz": "Lesklý peridot.",
+      "source": "pre_existing",
+      "original_cz": "Lesklý peridot."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_012_Group01_Step01_Possess05_StepDescription",
+      "en": "Onyx.",
+      "cz": "Onyx.",
+      "source": "pre_existing",
+      "original_cz": "Onyx."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_012_Group01_Step01_StepDescription",
+      "en": "Gather gemstones found in the Peaceful Meadow.",
+      "cz": "Sbírejte drahokamy nalezené v Poklidné louce.",
+      "source": "pre_existing",
+      "original_cz": "Sbírejte drahokamy nalezené v Poklidné louce."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_012_Group02_Step02_FillKeyhole01_StepDescription",
+      "en": "Add Peaceful Meadow gemstones to the display in front of the Aquarium in the Grand Exhibition.",
+      "cz": "Přidejte drahokamy z Poklidné louky do expozice před akváriem ve Velké výstavě.",
+      "source": "pre_existing",
+      "original_cz": "Přidejte drahokamy z Poklidné louky do expozice před akváriem ve Velké výstavě."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_012_Group03_Step03_Possess06_StepDescription",
+      "en": "Bass.",
+      "cz": "Bas.",
+      "source": "pre_existing",
+      "original_cz": "Bas."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_012_Group03_Step03_Possess07_StepDescription",
+      "en": "Bream.",
+      "cz": "Cejna.",
+      "source": "pre_existing",
+      "original_cz": "Cejna."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_012_Group03_Step03_Possess08_StepDescription",
+      "en": "Catfish.",
+      "cz": "Sumec.",
+      "source": "pre_existing",
+      "original_cz": "Sumec."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_012_Group03_Step03_Possess09_StepDescription",
+      "en": "Rainbow Trout.",
+      "cz": "Pstruh duhový.",
+      "source": "pre_existing",
+      "original_cz": "Pstruh duhový."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_012_Group03_Step03_StepDescription",
+      "en": "Catch fish from the Peaceful Meadow.",
+      "cz": "Chyťte ryby z Poklidné louky.",
+      "source": "pre_existing",
+      "original_cz": "Chyťte ryby z Poklidné louky."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_012_Group03_StoryDescription",
+      "en": "You collect a wide array of shiny gemstones and put them on display. With a little extra sparkle taken care of, it's time to fill the Aquarium with Peaceful Meadow fish.",
+      "cz": "Nasbíráte širokou škálu lesklých drahokamů a vystavíte je. S trochou třpytu navíc je čas naplnit akvárium rybkami z Poklidné louky.",
+      "source": "pre_existing",
+      "original_cz": "Nasbíráte širokou škálu lesklých drahokamů a vystavíte je. S trochou třpytu navíc je čas naplnit akvárium rybkami z Poklidné louky."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_012_Group04_Step04_FillKeyhole02_StepDescription",
+      "en": "Add fish from the Peaceful Meadow to the Grand Exhibition Aquarium.",
+      "cz": "Přidejte ryby z Poklidné louky do Velkého výstavního akvária.",
+      "source": "pre_existing",
+      "original_cz": "Přidejte ryby z Poklidné louky do Velkého výstavního akvária."
+    }
+  ],
+  "GrandExhibition_GrandExhibition/GEX_Meadow_013.locbin": [
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_013_AvailableDescription",
+      "en": "Olaf has asked you to complete the Peaceful Meadow Habitat in the brand-new Grand Exhibition. First, you need to gather critter food for the Habitat's future residents.",
+      "cz": "Olaf tě požádal, abys dokončil/a prostředí Pokojné louky v zbrusu nové Velké výstavě. Nejprve musíš nasbírat potravu pro budoucí obyvatele prostředí.",
+      "source": "pre_existing",
+      "original_cz": "Olaf tě požádal, abys dokončil/a prostředí Pokojné louky v zbrusu nové Velké výstavě. Nejprve musíš nasbírat potravu pro budoucí obyvatele prostředí."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_013_CompletedStoryDescription",
+      "en": "You introduce critters to the Habitat in the Peaceful Meadow room. They look extremely happy and cozy in their new home. It looks wonderful. Olaf will be so pleased!",
+      "cz": "V místnosti Klidná louka představíte zvířátka v prostředí Habitat. Ve svém novém domově vypadají nesmírně šťastně a útulně. Vypadá to nádherně. Olaf bude mít velkou radost!",
+      "source": "pre_existing",
+      "original_cz": "V místnosti Klidná louka představíte zvířátka v prostředí Habitat. Ve svém novém domově vypadají nesmírně šťastně a útulně. Vypadá to nádherně. Olaf bude mít velkou radost!"
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_013_DisplayName",
+      "en": "Grand Exhibition: Habitat",
+      "cz": "Velká výstava: Habitat",
+      "source": "pre_existing",
+      "original_cz": "Velká výstava: Habitat"
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_013_Group01_Step01_Possess01_StepDescription",
+      "en": "Apple.",
+      "cz": "Jablko.",
+      "source": "pre_existing",
+      "original_cz": "Jablko."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_013_Group01_Step01_Possess02_StepDescription",
+      "en": "Carrot.",
+      "cz": "Mrkev.",
+      "source": "pre_existing",
+      "original_cz": "Mrkev."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_013_Group01_Step01_Possess03_StepDescription",
+      "en": "Raspberry.",
+      "cz": "Malina.",
+      "source": "pre_existing",
+      "original_cz": "Malina."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_013_Group01_Step01_Possess04_StepDescription",
+      "en": "Wheat.",
+      "cz": "Pšenice.",
+      "source": "pre_existing",
+      "original_cz": "Pšenice."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_013_Group01_Step01_Possess05_StepDescription",
+      "en": "Lettuce.",
+      "cz": "Hlávkový salát.",
+      "source": "pre_existing",
+      "original_cz": "Hlávkový salát."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_013_Group01_Step01_Possess06_StepDescription",
+      "en": "Basil.",
+      "cz": "Bazalka.",
+      "source": "pre_existing",
+      "original_cz": "Bazalka."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_013_Group01_Step01_StepDescription",
+      "en": "Forage wild foods and grow crops found in the Peaceful Meadow.",
+      "cz": "Sbírejte divoce potravu a pěstujte plodiny, které najdete na Poklidné louce.",
+      "source": "pre_existing",
+      "original_cz": "Sbírejte divoce potravu a pěstujte plodiny, které najdete na Poklidné louce."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_013_Group02_Step02_FillKeyhole01_StepDescription",
+      "en": "Fill the Habitat display case with food from the Peaceful Meadow in the Grand Exhibition.",
+      "cz": "Naplňte vitrínu Habitat jídlem z Poklidné louky ve Velké výstavě.",
+      "source": "pre_existing",
+      "original_cz": "Naplňte vitrínu Habitat jídlem z Poklidné louky ve Velké výstavě."
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_013_Group03_Step03_FillKeyhole02_StepDescription",
+      "en": "Add critters from the Peaceful Meadow to the Habitat in the Grand Exhibition.<br><br>(Hint: Befriend critters by feeding them their favorite foods!)",
+      "cz": "Přidejte zvířátka z Poklidné louky do prostředí ve Velké výstavě.<br><br>(Nápověda: Spřátelte se s tvory tím, že jim dáte jejich oblíbené jídlo!)",
+      "source": "pre_existing",
+      "original_cz": "Přidejte zvířátka z Poklidné louky do prostředí ve Velké výstavě.<br><br>(Nápověda: Spřátelte se s tvory tím, že jim dáte jejich oblíbené jídlo!)"
+    },
+    {
+      "key": "Secret!GrandExhibition!GEX_Meadow_013_Group03_StoryDescription",
+      "en": "After you flex your green thumb foraging and growing food from the Peaceful Meadow, you turn your gaze to befriending its critters to add them to the Habitat.",
+      "cz": "Poté, co se naučíte shánět a pěstovat potravu na Poklidné louce, se zaměříte na spřátelení se s jejími tvory a přidáte je do svého prostředí.",
+      "source": "pre_existing",
+      "original_cz": "Poté, co se naučíte shánět a pěstovat potravu na Poklidné louce, se zaměříte na spřátelení se s jejími tvory a přidáte je do svého prostředí."
+    }
+  ]
+}

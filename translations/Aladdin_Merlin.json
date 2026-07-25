@@ -1,0 +1,836 @@
+{
+  "Aladdin_Merlin/Merlin_ORQS_Merl_040_ORQS_Merl_040_Ongoing01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Ah, {PlayerName}. Did you wish to speak with me about something?",
+      "cz": "Aha, {PlayerName}. Chtěl jste se mnou o něčem mluvit?",
+      "source": "pre_existing",
+      "original_cz": "Aha, {PlayerName}. Chtěl jste se mnou o něčem mluvit?"
+    }
+  ],
+  "Aladdin_Merlin/Merlin_ORQS_Merl_040_ORQS_Merl_040_TalkTo01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Hey Merlin? I found a strange object in the Valley and it made things go... wrong.",
+      "cz": "Hej Merline? Našel jsem v Údolí podivný předmět a ten všechno... zkazil.",
+      "source": "pre_existing",
+      "original_cz": "Hej Merline? Našel jsem v Údolí podivný předmět a ten všechno... zkazil."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "It was an old invitation to a kid's party, filled with magic.",
+      "cz": "Byla to stará pozvánka na dětskou oslavu plnou kouzel.",
+      "source": "pre_existing",
+      "original_cz": "Byla to stará pozvánka na dětskou oslavu plnou kouzel."
+    },
+    {
+      "key": "Player_004_f",
+      "en": "When I picked it up, it felt exactly like...",
+      "cz": "Když jsem to zvedl, cítil jsem se přesně jako...",
+      "source": "pre_existing",
+      "original_cz": "Když jsem to zvedl, cítil jsem se přesně jako..."
+    },
+    {
+      "key": "Player_004_choice_001_f",
+      "en": "...a birthday party I wasn't invited to.",
+      "cz": "...narozeninová oslava, na kterou jsem nebyl pozván.",
+      "source": "pre_existing",
+      "original_cz": "...narozeninová oslava, na kterou jsem nebyl pozván."
+    },
+    {
+      "key": "Player_004_choice_002_f",
+      "en": "...having to miss my best friend's birthday.",
+      "cz": "...musím zmeškat narozeniny svého nejlepšího kamaráda.",
+      "source": "pre_existing",
+      "original_cz": "...musím zmeškat narozeniny svého nejlepšího kamaráda."
+    },
+    {
+      "key": "Player_004_choice_003_f",
+      "en": "...being far away and missing out on a celebration.",
+      "cz": "...být daleko a zmeškat oslavu.",
+      "source": "pre_existing",
+      "original_cz": "...být daleko a zmeškat oslavu."
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "They were photos from a school dance I was too sick to attend.",
+      "cz": "Byly to fotky ze školního plesu, na který jsem se nemohla zúčastnit, protože jsem byla příliš nemocná.",
+      "source": "pre_existing",
+      "original_cz": "Byly to fotky ze školního plesu, na který jsem se nemohla zúčastnit, protože jsem byla příliš nemocná."
+    },
+    {
+      "key": "Player_006_f",
+      "en": "Looking at those photos brought this odd feeling back to me...",
+      "cz": "Když jsem se díval na ty fotky, vyvolal jsem ve mně zase ten zvláštní pocit...",
+      "source": "pre_existing",
+      "original_cz": "Když jsem se díval na ty fotky, vyvolal jsem ve mně zase ten zvláštní pocit..."
+    },
+    {
+      "key": "Player_006_choice_000_f",
+      "en": "...like I missed my moment to shine.",
+      "cz": "...jako bych promeškal/a svůj okamžik zářit.",
+      "source": "pre_existing",
+      "original_cz": "...jako bych promeškal/a svůj okamžik zářit."
+    },
+    {
+      "key": "Player_006_choice_001_f",
+      "en": "...like none of my friends REALLY cared about me.",
+      "cz": "...jako by se o mě nikomu z mých přátel VŮBEC nestaral.",
+      "source": "pre_existing",
+      "original_cz": "...jako by se o mě nikomu z mých přátel VŮBEC nestaral."
+    },
+    {
+      "key": "Player_006_choice_002_f",
+      "en": "...like my social life was OVER.",
+      "cz": "...jako by můj společenský život SKONČIL.",
+      "source": "pre_existing",
+      "original_cz": "...jako by můj společenský život SKONČIL."
+    },
+    {
+      "key": "Merlin_029_f",
+      "en": "It's an old collar from Mickey's dog, Pluto...",
+      "cz": "Je to starý obojek od Mickeyho psa Pluta...",
+      "source": "pre_existing",
+      "original_cz": "Je to starý obojek od Mickeyho psa Pluta..."
+    },
+    {
+      "key": "Player_007_f",
+      "en": "Just seeing it brought back some big, tough feelings from childhood.",
+      "cz": "Už jen pohled na to mi v dětství vyvolal silné a těžké pocity.",
+      "source": "pre_existing",
+      "original_cz": "Už jen pohled na to mi v dětství vyvolal silné a těžké pocity."
+    },
+    {
+      "key": "Player_007_choice_000_f",
+      "en": "I was upset and Pluto kept trying to make me feel better...",
+      "cz": "Byla jsem naštvaná a Pluto se mě pořád snažil utěšit...",
+      "source": "pre_existing",
+      "original_cz": "Byla jsem naštvaná a Pluto se mě pořád snažil utěšit..."
+    },
+    {
+      "key": "Player_007_choice_001_f",
+      "en": "I never had a pet growing up, but I wanted one so badly.",
+      "cz": "Nikdy jsem neměl/a domácího mazlíčka, ale tak moc jsem si ho přál/a.",
+      "source": "pre_existing",
+      "original_cz": "Nikdy jsem neměl/a domácího mazlíčka, ale tak moc jsem si ho přál/a."
+    },
+    {
+      "key": "Player_007_choice_002_f",
+      "en": "Losing my first pet. I was heartbroken.",
+      "cz": "Ztráta mého prvního mazlíčka. Zlomilo mi to srdce.",
+      "source": "pre_existing",
+      "original_cz": "Ztráta mého prvního mazlíčka. Zlomilo mi to srdce."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "It's a diary Jasmine and I found. I wrote it when I was younger but... I don't remember doing that at all.",
+      "cz": "Je to deník, který jsme s Jasmínou našly. Psala jsem ho, když jsem byla mladší, ale... vůbec si na to nepamatuji.",
+      "source": "pre_existing",
+      "original_cz": "Je to deník, který jsme s Jasmínou našly. Psala jsem ho, když jsem byla mladší, ale... vůbec si na to nepamatuji."
+    },
+    {
+      "key": "Player_000_f",
+      "en": "When I held it in my hands...",
+      "cz": "Když jsem to držel v rukou...",
+      "source": "pre_existing",
+      "original_cz": "Když jsem to držel v rukou..."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "...I just wanted to be FREE to live my life!",
+      "cz": "...Chtěl jsem jen být SVOBODNÝ a žít svůj život!",
+      "source": "pre_existing",
+      "original_cz": "...Chtěl jsem jen být SVOBODNÝ a žít svůj život!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "...I remembered feeling like no one understood me.",
+      "cz": "...Vzpomněl jsem si, že jsem měl pocit, že mi nikdo nerozumí.",
+      "source": "pre_existing",
+      "original_cz": "...Vzpomněl jsem si, že jsem měl pocit, že mi nikdo nerozumí."
+    },
+    {
+      "key": "Player_000_choice_003_f",
+      "en": "...I felt like a lonely teenager.",
+      "cz": "...Cítil jsem se jako osamělý teenager.",
+      "source": "pre_existing",
+      "original_cz": "...Cítil jsem se jako osamělý teenager."
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "I see... What a peculiar response... And you have NO memory of this object?",
+      "cz": "Rozumím... To je ale zvláštní reakce... A vy si na tento objekt NIC nepamatujete?",
+      "source": "pre_existing",
+      "original_cz": "Rozumím... To je ale zvláštní reakce... A vy si na tento objekt NIC nepamatujete?"
+    },
+    {
+      "key": "Player_005_choice_000_f",
+      "en": "No, but the feelings it brought up were STRONG.",
+      "cz": "Ne, ale pocity, které to ve mně vyvolalo, byly SILNÉ.",
+      "source": "pre_existing",
+      "original_cz": "Ne, ale pocity, které to ve mně vyvolalo, byly SILNÉ."
+    },
+    {
+      "key": "Player_005_choice_001_f",
+      "en": "I don't think so...",
+      "cz": "To si nemyslím...",
+      "source": "pre_existing",
+      "original_cz": "To si nemyslím..."
+    },
+    {
+      "key": "Player_005_choice_002_f",
+      "en": "Is this a bad practical joke?",
+      "cz": "Je tohle špatný vtip?",
+      "source": "pre_existing",
+      "original_cz": "Je tohle špatný vtip?"
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "Strong and perhaps a little turbulent by the sounds of it...",
+      "cz": "Silné a možná, jak se zdá, trochu bouřlivé...",
+      "source": "pre_existing",
+      "original_cz": "Silné a možná, jak se zdá, trochu bouřlivé..."
+    },
+    {
+      "key": "Merlin_013_f",
+      "en": "I believe what you've found is a magical <Lore>Memento</Lore>.",
+      "cz": "Věřím, že to, co jste našli, je kouzelná <Lore>suvenýr</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Věřím, že to, co jste našli, je kouzelná <Lore>suvenýr</Lore>."
+    },
+    {
+      "key": "Merlin_014_f",
+      "en": "They're created when someone takes an experience — perhaps a complicated or even unpleasant one — and seals it away, where it can no longer reach them.",
+      "cz": "Vznikají, když si někdo vezme zážitek – třeba složitý nebo dokonce nepříjemný – a uzavře ho tam, kde se k němu už nemůže dostat.",
+      "source": "pre_existing",
+      "original_cz": "Vznikají, když si někdo vezme zážitek – třeba složitý nebo dokonce nepříjemný – a uzavře ho tam, kde se k němu už nemůže dostat."
+    },
+    {
+      "key": "Merlin_015_f",
+      "en": "And I believe, in this instance, that someone was YOU.",
+      "cz": "A já věřím, že v tomto případě jste tím někým byli TY.",
+      "source": "pre_existing",
+      "original_cz": "A já věřím, že v tomto případě jste tím někým byli TY."
+    },
+    {
+      "key": "Player_008_f",
+      "en": "I made this \"Memento\" thing?",
+      "cz": "Vyrobil jsem tuhle \"připomínkovou\" věc?",
+      "source": "pre_existing",
+      "original_cz": "Vyrobil jsem tuhle \"připomínkovou\" věc?"
+    },
+    {
+      "key": "Player_008_choice_000_f",
+      "en": "What does that mean?",
+      "cz": "Co to znamená?",
+      "source": "pre_existing",
+      "original_cz": "Co to znamená?"
+    },
+    {
+      "key": "Player_008_choice_001_f",
+      "en": "Why don't I remember doing this?",
+      "cz": "Proč si nepamatuji, že bych to dělal/a?",
+      "source": "pre_existing",
+      "original_cz": "Proč si nepamatuji, že bych to dělal/a?"
+    },
+    {
+      "key": "Player_008_choice_002_f",
+      "en": "How dare it make me feel my FEELINGS!",
+      "cz": "Jak se opovažuje ve mně vyvolávat mé POCITY!",
+      "source": "pre_existing",
+      "original_cz": "Jak se opovažuje ve mně vyvolávat mé POCITY!"
+    },
+    {
+      "key": "Merlin_016_f",
+      "en": "It means that before the Forgetting, you used your magic to get rid of an emotional memory.",
+      "cz": "Znamená to, že před Zapomněním jsi použil svou magii, abys se zbavil emocionální vzpomínky.",
+      "source": "pre_existing",
+      "original_cz": "Znamená to, že před Zapomněním jsi použil svou magii, abys se zbavil emocionální vzpomínky."
+    },
+    {
+      "key": "Merlin_019_f",
+      "en": "The experience contained within the Memento is starting to push back and escape the object. Hence the, uh... odd magical chaos.",
+      "cz": "Zkušenost obsažená v Mementu se začíná bránit a unikat objektu. Proto ten, ehm... zvláštní magický chaos.",
+      "source": "pre_existing",
+      "original_cz": "Zkušenost obsažená v Mementu se začíná bránit a unikat objektu. Proto ten, ehm... zvláštní magický chaos."
+    },
+    {
+      "key": "Merlin_024_f",
+      "en": "Feelings, after all, do not like to be denied or pushed away. They always return, often stronger, until they are dealt with. These feelings must be embraced and understood.",
+      "cz": "Pocity koneckonců nerady jsou popírány nebo odháněny. Vždy se vracejí, často silnější, dokud se s nimi člověk nevypořádá. Tyto pocity je třeba přijmout a pochopit.",
+      "source": "pre_existing",
+      "original_cz": "Pocity koneckonců nerady jsou popírány nebo odháněny. Vždy se vracejí, často silnější, dokud se s nimi člověk nevypořádá. Tyto pocity je třeba přijmout a pochopit."
+    },
+    {
+      "key": "Player_009_choice_000_f",
+      "en": "OK... What's next?",
+      "cz": "Dobře... Co bude dál?",
+      "source": "pre_existing",
+      "original_cz": "Dobře... Co bude dál?"
+    },
+    {
+      "key": "Player_009_choice_001_f",
+      "en": "I don't like the sound of this...",
+      "cz": "Nelíbí se mi, jak to zní...",
+      "source": "pre_existing",
+      "original_cz": "Nelíbí se mi, jak to zní..."
+    },
+    {
+      "key": "Player_009_choice_002_f",
+      "en": "But it's over now, right?",
+      "cz": "Ale teď už je konec, ne?",
+      "source": "pre_existing",
+      "original_cz": "Ale teď už je konec, ne?"
+    },
+    {
+      "key": "Merlin_022_f",
+      "en": "Well, I would imagine the object you mentioned is <Lore>not the only one of its kind hidden in the Valley</Lore>.",
+      "cz": "No, dokážu si představit, že objekt, o kterém jste se zmínil, <Lore>není jediný svého druhu ukrytý v údolí</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "No, dokážu si představit, že objekt, o kterém jste se zmínil, <Lore>není jediný svého druhu ukrytý v údolí</Lore>."
+    },
+    {
+      "key": "Merlin_027_f",
+      "en": "We should keep our eyes and ears open for <Lore>more Mementos</Lore> and for the problems they will most certainly cause.",
+      "cz": "Měli bychom mít oči a uši otevřené pro <Lore>další Mementa</Lore> a pro problémy, které s největší pravděpodobností způsobí.",
+      "source": "pre_existing",
+      "original_cz": "Měli bychom mít oči a uši otevřené pro <Lore>další Mementa</Lore> a pro problémy, které s největší pravděpodobností způsobí."
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "<Lore>Only you can face the feeling stored inside</Lore> and set things right again.",
+      "cz": "<Lore>Jen ty můžeš čelit pocitu, který je uvnitř ukryt</Lore>, a dát věci zase do pořádku.",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Jen ty můžeš čelit pocitu, který je uvnitř ukryt</Lore>, a dát věci zase do pořádku."
+    },
+    {
+      "key": "Player_003_f",
+      "en": "Face emotions that pre-Forgetting me magically sealed away...",
+      "cz": "Čelit emocím, které předtím, než mě Zapomněl, magicky zapečetily...",
+      "source": "pre_existing",
+      "original_cz": "Čelit emocím, které předtím, než mě Zapomněl, magicky zapečetily..."
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "Just another day in the Valley, huh?",
+      "cz": "Jen další den v údolí, co?",
+      "source": "pre_existing",
+      "original_cz": "Jen další den v údolí, co?"
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "This sounds pretty daunting.",
+      "cz": "To zní dost skličujícím způsobem.",
+      "source": "pre_existing",
+      "original_cz": "To zní dost skličujícím způsobem."
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "I'm going to craft a box of tissues, ASAP.",
+      "cz": "Co nejdříve si vyrobím krabici kapesníků.",
+      "source": "pre_existing",
+      "original_cz": "Co nejdříve si vyrobím krabici kapesníků."
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "Yes, I suppose you're right. But don't forget: You've become quite capable of pushing back mayhem with your Dreamlight Magic. And, well...",
+      "cz": "Ano, asi máš pravdu. Ale nezapomeň: S pomocí své Magie snového světla jsi docela schopný zatlačit chaos. A, no...",
+      "source": "pre_existing",
+      "original_cz": "Ano, asi máš pravdu. Ale nezapomeň: S pomocí své Magie snového světla jsi docela schopný zatlačit chaos. A, no..."
+    },
+    {
+      "key": "Merlin_025_f",
+      "en": "I believe I can speak for the entire Village when I say we are here to help you weather these storms... whatever form they may take.",
+      "cz": "Věřím, že můžu mluvit za celou vesnici, když řeknu, že jsme tu, abychom vám pomohli přečkat tyto bouře... ať už naberou jakoukoli podobu.",
+      "source": "pre_existing",
+      "original_cz": "Věřím, že můžu mluvit za celou vesnici, když řeknu, že jsme tu, abychom vám pomohli přečkat tyto bouře... ať už naberou jakoukoli podobu."
+    },
+    {
+      "key": "Merlin_028_f",
+      "en": "Now then, be sure to <Lore>store the Mementos you find somewhere safe</Lore>. I'm certain they will lead back to something... or someone... who was quite important to you at the time you created them.",
+      "cz": "A teď si nezapomeňte <Lore>uložit nalezené suvenýry na bezpečné místo</Lore>. Jsem si jistý, že vás povedou k něčemu... nebo někomu... kdo pro vás byl v době, kdy jste je stvořil, docela důležitý.",
+      "source": "pre_existing",
+      "original_cz": "A teď si nezapomeňte <Lore>uložit nalezené suvenýry na bezpečné místo</Lore>. Jsem si jistý, že vás povedou k něčemu... nebo někomu... kdo pro vás byl v době, kdy jste je stvořil, docela důležitý."
+    },
+    {
+      "key": "Merlin_021_f",
+      "en": "Take heart, {PlayerName}. Whatever is ahead, know that you are dearly loved.",
+      "cz": "Nevzdávej se, {PlayerName}. Ať tě čeká cokoli, věz, že jsi vroucně milován/a.",
+      "source": "pre_existing",
+      "original_cz": "Nevzdávej se, {PlayerName}. Ať tě čeká cokoli, věz, že jsi vroucně milován/a."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "Ah...",
+      "cz": "Ach...",
+      "source": "pre_existing",
+      "original_cz": "Ach..."
+    },
+    {
+      "key": "Merlin_026_f",
+      "en": "I handled the problem... so we're good?",
+      "cz": "Vyřešil jsem problém... takže je to v pořádku?",
+      "source": "pre_existing",
+      "original_cz": "Vyřešil jsem problém... takže je to v pořádku?"
+    },
+    {
+      "key": "Merlin_023_f",
+      "en": "Ah...",
+      "cz": "Ach...",
+      "source": "pre_existing",
+      "original_cz": "Ach..."
+    },
+    {
+      "key": "Merlin_017_f",
+      "en": "We can assume that you did it before the Forgetting, and thus, long ago.",
+      "cz": "Můžeme předpokládat, že jste to udělali před Zapomněním, a tedy dávno.",
+      "source": "pre_existing",
+      "original_cz": "Můžeme předpokládat, že jste to udělali před Zapomněním, a tedy dávno."
+    },
+    {
+      "key": "Merlin_020_f",
+      "en": "You used your magic to rid yourself of something difficult. Something you wanted to push away.",
+      "cz": "Použil jsi svou magii, abys se zbavil něčeho obtížného. Něčeho, čeho ses chtěl zbavit.",
+      "source": "pre_existing",
+      "original_cz": "Použil jsi svou magii, abys se zbavil něčeho obtížného. Něčeho, čeho ses chtěl zbavit."
+    },
+    {
+      "key": "Merlin_018_f",
+      "en": "A beautiful, though occasionally challenging, necessity of the human condition, I'm afraid.",
+      "cz": "Obávám se, že je to krásná, i když občas náročná nutnost lidské existence.",
+      "source": "pre_existing",
+      "original_cz": "Obávám se, že je to krásná, i když občas náročná nutnost lidské existence."
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "Hmm... How curious.",
+      "cz": "Hmm... To je ale zvláštní.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... To je ale zvláštní."
+    },
+    {
+      "key": "Merlin_012_f",
+      "en": "I'm afraid not, {PlayerName}.",
+      "cz": "Obávám se, že ne, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Obávám se, že ne, {PlayerName}."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "It's some sort of magical kaleidoscope... I'm worried what else it might do to Alice or other Villagers.",
+      "cz": "Je to nějaký magický kaleidoskop... Bojím se, co by to mohlo udělat s Alicí nebo ostatními vesničany.",
+      "source": "pre_existing",
+      "original_cz": "Je to nějaký magický kaleidoskop... Bojím se, co by to mohlo udělat s Alicí nebo ostatními vesničany."
+    },
+    {
+      "key": "Player_001_f",
+      "en": "When I picked it up it felt like...",
+      "cz": "Když jsem to zvedl/a, cítil/a jsem se jako...",
+      "source": "pre_existing",
+      "original_cz": "Když jsem to zvedl/a, cítil/a jsem se jako..."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "...I was being told I was weird.",
+      "cz": "...Říkali mi, že jsem divný/á.",
+      "source": "pre_existing",
+      "original_cz": "...Říkali mi, že jsem divný/á."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "...I'd never find a place to fit in.",
+      "cz": "...Nikdy bych nenašel místo, kam bych zapadl.",
+      "source": "pre_existing",
+      "original_cz": "...Nikdy bych nenašel místo, kam bych zapadl."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "...Someone was laughing at my ideas.",
+      "cz": "...Někdo se mým nápadům smál.",
+      "source": "pre_existing",
+      "original_cz": "...Někdo se mým nápadům smál."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "It's something that was important to me when I was really young.",
+      "cz": "Je to něco, co pro mě bylo důležité, když jsem byl opravdu mladý.",
+      "source": "pre_existing",
+      "original_cz": "Je to něco, co pro mě bylo důležité, když jsem byl opravdu mladý."
+    },
+    {
+      "key": "Player_002_f",
+      "en": "When I picked it up, I remembered I gave it up too soon because...",
+      "cz": "Když jsem to zvedl, vzpomněl jsem si, že jsem to vzdal příliš brzy, protože...",
+      "source": "pre_existing",
+      "original_cz": "Když jsem to zvedl, vzpomněl jsem si, že jsem to vzdal příliš brzy, protože..."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "...I was embarrassed that no one else needed comfort.",
+      "cz": "...Styděla jsem se, že nikdo jiný útěchu nepotřeboval.",
+      "source": "pre_existing",
+      "original_cz": "...Styděla jsem se, že nikdo jiný útěchu nepotřeboval."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "...I wanted to prove how grown-up I was.",
+      "cz": "...Chtěl jsem dokázat, jak jsem dospělý.",
+      "source": "pre_existing",
+      "original_cz": "...Chtěl jsem dokázat, jak jsem dospělý."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "...Someone made fun of me for liking it.",
+      "cz": "...Někdo si ze mě udělal legraci, že se mi to líbí.",
+      "source": "pre_existing",
+      "original_cz": "...Někdo si ze mě udělal legraci, že se mi to líbí."
+    }
+  ],
+  "Aladdin_Merlin/Merlin_VLG_Alad_020_VLG_Alad_020_TalkTo03.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Merlin!",
+      "cz": "Merline!",
+      "source": "pre_existing",
+      "original_cz": "Merline!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Have you ever enchanted a carpet to fly?",
+      "cz": "Už jste někdy očarovali koberec, aby létal?",
+      "source": "pre_existing",
+      "original_cz": "Už jste někdy očarovali koberec, aby létal?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I need some magic help!",
+      "cz": "Potřebuji pomoc s trochou magie!",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji pomoc s trochou magie!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Are you busy?",
+      "cz": "Jste zaneprázdněni?",
+      "source": "pre_existing",
+      "original_cz": "Jste zaneprázdněni?"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Have I? No, now that you mention it, I haven't. Though I have enchanted the odd broomstick. However, I tend not to use such things when I travel. Why do you ask?",
+      "cz": "Opravdu? Ne, teď když ses o tom zmínil/a, tak ne. I když jsem občas očaroval/a koště. Nicméně, takové věci na cestách obvykle nepoužívám. Proč se ptáš?",
+      "source": "pre_existing",
+      "original_cz": "Opravdu? Ne, teď když ses o tom zmínil/a, tak ne. I když jsem občas očaroval/a koště. Nicméně, takové věci na cestách obvykle nepoužívám. Proč se ptáš?"
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "Aladdin and I want to make a <ActivityItem>Dreamlight Magic Carpet</ActivityItem> for me to glide around the Valley on.",
+      "cz": "S Aladdinem chceme vyrobit <ActivityItem>kouzelný koberec Dreamlight</ActivityItem>, na kterém bych se mohl klouzat po Údolí.",
+      "source": "pre_existing",
+      "original_cz": "S Aladdinem chceme vyrobit <ActivityItem>kouzelný koberec Dreamlight</ActivityItem>, na kterém bych se mohl klouzat po Údolí."
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "What a delightful prospect, albeit one I know very little about.",
+      "cz": "To je ale nádherná vyhlídka, i když o ní vím jen velmi málo.",
+      "source": "pre_existing",
+      "original_cz": "To je ale nádherná vyhlídka, i když o ní vím jen velmi málo."
+    },
+    {
+      "key": "Merlin_012_f",
+      "en": "Though I daresay the wizards of Agrabah have it all figured out; racing over dunes and through oases must be very comfortable on a carpet.",
+      "cz": "I když si troufám říct, že kouzelníci z Agraby to mají všechno vymyšlené; závodění přes duny a oázy musí být na koberci velmi pohodlné.",
+      "source": "pre_existing",
+      "original_cz": "I když si troufám říct, že kouzelníci z Agraby to mají všechno vymyšlené; závodění přes duny a oázy musí být na koberci velmi pohodlné."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "So you don't have any ideas?",
+      "cz": "Takže nemáte žádné nápady?",
+      "source": "pre_existing",
+      "original_cz": "Takže nemáte žádné nápady?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I can't believe I finally stumped you.",
+      "cz": "Nemůžu uvěřit, že jsem tě konečně nachytal/a.",
+      "source": "pre_existing",
+      "original_cz": "Nemůžu uvěřit, že jsem tě konečně nachytal/a."
+    },
+    {
+      "key": "Merlin_013_f",
+      "en": "Oh, I have 28 and a half ideas, but we can start with my favorite one: books.",
+      "cz": "Mám 28 a půl nápadu, ale můžeme začít s mým nejoblíbenějším: knihy.",
+      "source": "pre_existing",
+      "original_cz": "Mám 28 a půl nápadu, ale můžeme začít s mým nejoblíbenějším: knihy."
+    },
+    {
+      "key": "Merlin_015_f",
+      "en": "I believe there are several books in the <Lore>Dreamlight Library</Lore> that you will find useful in this endeavor.",
+      "cz": "Věřím, že v <Lore>knihovně Dreamlight</Lore> je několik knih, které by se vám v tomto úsilí mohly hodit.",
+      "source": "pre_existing",
+      "original_cz": "Věřím, že v <Lore>knihovně Dreamlight</Lore> je několik knih, které by se vám v tomto úsilí mohly hodit."
+    },
+    {
+      "key": "Merlin_016_f",
+      "en": "Specifically, I would search for books on <Lore>Fabric Enchantment, Carpet Weaving,</Lore> and <Lore>Flying Technique</Lore>.",
+      "cz": "Konkrétně bych hledal knihy o <Lore>kouzlení látek, tkaní koberců</Lore> a <Lore>technice létání</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Konkrétně bych hledal knihy o <Lore>kouzlení látek, tkaní koberců</Lore> a <Lore>technice létání</Lore>."
+    },
+    {
+      "key": "Merlin_014_f",
+      "en": "Stumped! Ha-ha-ha, we are not stumped yet, {PlayerName}! We've only just begun!",
+      "cz": "Zaskočeni! Hahahaha, ještě nejsme zaskočeni, {PlayerName}! Právě jsme začali!",
+      "source": "pre_existing",
+      "original_cz": "Zaskočeni! Hahahaha, ještě nejsme zaskočeni, {PlayerName}! Právě jsme začali!"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "As always, my friend, I am here to guide you to the best of my ability. What can I assist you with?",
+      "cz": "Jako vždy, příteli, jsem tu, abych tě co nejlépe provedl. S čím ti mohu pomoci?",
+      "source": "pre_existing",
+      "original_cz": "Jako vždy, příteli, jsem tu, abych tě co nejlépe provedl. S čím ti mohu pomoci?"
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Am I—",
+      "cz": "Jsem já—",
+      "source": "pre_existing",
+      "original_cz": "Jsem já—"
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "Am I busy?!",
+      "cz": "Jsem zaneprázdněný?!",
+      "source": "pre_existing",
+      "original_cz": "Jsem zaneprázdněný?!"
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "My friend, I am busy researching multiple subjects of the past, present, and the future at all times!",
+      "cz": "Příteli, neustále se zabývám výzkumem nejrůznějších témat z minulosti, přítomnosti a budoucnosti!",
+      "source": "pre_existing",
+      "original_cz": "Příteli, neustále se zabývám výzkumem nejrůznějších témat z minulosti, přítomnosti a budoucnosti!"
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "However... I am NEVER too busy for you. What can I assist you with?",
+      "cz": "Nicméně... NIKDY pro vás nemám příliš mnoho práce. S čím vám mohu pomoci?",
+      "source": "pre_existing",
+      "original_cz": "Nicméně... NIKDY pro vás nemám příliš mnoho práce. S čím vám mohu pomoci?"
+    }
+  ],
+  "Aladdin_Merlin/Merlin_VLG_Jasm_010_VLG_Jasm_010_TalkTo03.locbin": [
+    {
+      "key": "Merlin_002_f",
+      "en": "Hello, Merlin! Jasmine and I need some help. She found a note about how to make <ActivityItem>Enchanted Pots of Blooming</ActivityItem>, but we're not sure what they're for or what that means.",
+      "cz": "Ahoj Merline! S Jasmínou potřebujeme pomoct. Našla vzkaz o tom, jak vyrobit <ActivityItem>Začarované květináče s kvetoucími květináči</ActivityItem>, ale nejsme si jisti, k čemu jsou, ani co znamenají.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj Merline! S Jasmínou potřebujeme pomoct. Našla vzkaz o tom, jak vyrobit <ActivityItem>Začarované květináče s kvetoucími květináči</ActivityItem>, ale nejsme si jisti, k čemu jsou, ani co znamenají."
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "Hmm... <ActivityItem>Enchanted Pots of Blooming</ActivityItem>...? Ah, yes! I remember the very things!",
+      "cz": "Hmm... <ActivityItem>Začarované květináče plné kvetoucích květin</ActivityItem>...? Ach ano! Pamatuji si tyhle věci!",
+      "source": "pre_existing",
+      "original_cz": "Hmm... <ActivityItem>Začarované květináče plné kvetoucích květin</ActivityItem>...? Ach ano! Pamatuji si tyhle věci!"
+    },
+    {
+      "key": "Merlin_023_f",
+      "en": "You do? That's great!",
+      "cz": "Vážně? To je skvělé!",
+      "source": "pre_existing",
+      "original_cz": "Vážně? To je skvělé!"
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "It is! Heh-heh. Now, let's see... I was instructing Jasmine on arcane flower magic before the Forgetting.",
+      "cz": "Je! Heh-heh. Tak se podívejme... Před Zapomněním jsem učila Jasmínu tajemnou květinovou magii.",
+      "source": "pre_existing",
+      "original_cz": "Je! Heh-heh. Tak se podívejme... Před Zapomněním jsem učila Jasmínu tajemnou květinovou magii."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "We were using <ActivityItem>Enchanted Pots of Blooming</ActivityItem> in our work. She's a most excellent researcher, you know.",
+      "cz": "V naší práci jsme používali <ActivityItem>Okouzlující květináče s kvetoucími rostlinami</ActivityItem>. Je to vynikající badatelka, víte?",
+      "source": "pre_existing",
+      "original_cz": "V naší práci jsme používali <ActivityItem>Okouzlující květináče s kvetoucími rostlinami</ActivityItem>. Je to vynikající badatelka, víte?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "So they're magical?",
+      "cz": "Takže jsou kouzelné?",
+      "source": "pre_existing",
+      "original_cz": "Takže jsou kouzelné?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Could they be dangerous?",
+      "cz": "Mohou být nebezpeční?",
+      "source": "pre_existing",
+      "original_cz": "Mohou být nebezpeční?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "What do they DO?",
+      "cz": "Co DĚLAJÍ?",
+      "source": "pre_existing",
+      "original_cz": "Co DĚLAJÍ?"
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Well, yes. \"Enchanted\" in the name rather says it all, doesn't it? And as with many things in Dreamlight Valley, they're sprinkled with very special magic.",
+      "cz": "No ano. „Okouzlený“ v názvu mluví za vše, že? A stejně jako mnoho věcí v Údolí světla snů, i tyto jsou poseté velmi zvláštní magií.",
+      "source": "pre_existing",
+      "original_cz": "No ano. „Okouzlený“ v názvu mluví za vše, že? A stejně jako mnoho věcí v Údolí světla snů, i tyto jsou poseté velmi zvláštní magií."
+    },
+    {
+      "key": "Merlin_021_f",
+      "en": "Can you tell me anything else?",
+      "cz": "Můžete mi říct ještě něco?",
+      "source": "pre_existing",
+      "original_cz": "Můžete mi říct ještě něco?"
+    },
+    {
+      "key": "Merlin_019_f",
+      "en": "Of course. The <ActivityItem>Enchanted Pots of Blooming</ActivityItem> can be used to grow an <ActivityItem>Enchanted Flower</ActivityItem> that contains a secret.",
+      "cz": "Samozřejmě. <ActivityItem>Začarované květináče kvetení</ActivityItem> lze použít k vypěstování <ActivityItem>Začarované květiny</ActivityItem>, která obsahuje tajemství.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě. <ActivityItem>Začarované květináče kvetení</ActivityItem> lze použít k vypěstování <ActivityItem>Začarované květiny</ActivityItem>, která obsahuje tajemství."
+    },
+    {
+      "key": "Merlin_000_f",
+      "en": "You put seeds in one pot, plant flowers in the other pots and <Lore>carefully tend to them so they flourish</Lore>. That will inspire the <ActivityItem>Enchanted Flower</ActivityItem> to grow. Plants do like to work together, after all.",
+      "cz": "Do jednoho květináče dáte semínka, do ostatních květináčů zasadíte květiny a <Lore>pečlivě se o ně staráte, aby vzkvétaly</Lore>. To <ActivityItem>Okouzlenou květinu</ActivityItem> inspiruje k růstu. Rostliny koneckonců rády spolupracují.",
+      "source": "pre_existing",
+      "original_cz": "Do jednoho květináče dáte semínka, do ostatních květináčů zasadíte květiny a <Lore>pečlivě se o ně staráte, aby vzkvétaly</Lore>. To <ActivityItem>Okouzlenou květinu</ActivityItem> inspiruje k růstu. Rostliny koneckonců rády spolupracují."
+    },
+    {
+      "key": "Merlin_022_f",
+      "en": "Unfortunately, I... I can't remember anything else at the moment.",
+      "cz": "Bohužel si... momentálně na nic jiného nevzpomínám.",
+      "source": "pre_existing",
+      "original_cz": "Bohužel si... momentálně na nic jiného nevzpomínám."
+    },
+    {
+      "key": "Merlin_024_f",
+      "en": "An Enchanted Flower that contains a secret...",
+      "cz": "Kouzelná květina, která ukrývá tajemství...",
+      "source": "pre_existing",
+      "original_cz": "Kouzelná květina, která ukrývá tajemství..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "That's mysterious.",
+      "cz": "To je záhadné.",
+      "source": "pre_existing",
+      "original_cz": "To je záhadné."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "How exciting!",
+      "cz": "Jak vzrušující!",
+      "source": "pre_existing",
+      "original_cz": "Jak vzrušující!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Sounds suspicious...",
+      "cz": "Zní to podezřele...",
+      "source": "pre_existing",
+      "original_cz": "Zní to podezřele..."
+    },
+    {
+      "key": "Merlin_025_f",
+      "en": "How can a flower contain a secret?",
+      "cz": "Jak může květina ukrývat tajemství?",
+      "source": "pre_existing",
+      "original_cz": "Jak může květina ukrývat tajemství?"
+    },
+    {
+      "key": "Merlin_028_f",
+      "en": "Oh, I find secrets have a way of hiding in all sorts of interesting places.",
+      "cz": "Ach, zjišťuji, že tajemství se skrývají na nejrůznějších zajímavých místech.",
+      "source": "pre_existing",
+      "original_cz": "Ach, zjišťuji, že tajemství se skrývají na nejrůznějších zajímavých místech."
+    },
+    {
+      "key": "Merlin_031_f",
+      "en": "Do you remember ANYTHING else?",
+      "cz": "Pamatuješ si ještě NĚCO?",
+      "source": "pre_existing",
+      "original_cz": "Pamatuješ si ještě NĚCO?"
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "I do know Jasmine and I were working together to keep this secret safe, and— Oh! Yes! <Lore>There were seeds</Lore>!",
+      "cz": "Vím, že jsme s Jasmínou spolupracovaly na tom, abychom tohle tajemství udržely v bezpečí, a— Ach! Ano! <Lore>Byla tam semínka</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Vím, že jsme s Jasmínou spolupracovaly na tom, abychom tohle tajemství udržely v bezpečí, a— Ach! Ano! <Lore>Byla tam semínka</Lore>!"
+    },
+    {
+      "key": "Merlin_017_f",
+      "en": "I put them in an envelope for safekeeping and hid it inside the Dreamlight Library for Jasmine's return.",
+      "cz": "Dala jsem je do obálky pro bezpečné uložení a schovala ji v Knihovně snového světla pro Jasmínin návrat.",
+      "source": "pre_existing",
+      "original_cz": "Dala jsem je do obálky pro bezpečné uložení a schovala ji v Knihovně snového světla pro Jasmínin návrat."
+    },
+    {
+      "key": "Merlin_016_f",
+      "en": "You may <Lore>search the Library to find the Envelope of Seeds</Lore> if you like. The seeds are sure to help you uncover the Enchanted Flower's secret.",
+      "cz": "Pokud chcete, můžete <Lore>prohledat knihovnu a najít Obálku se semínky</Lore>. Semínka vám jistě pomohou odhalit tajemství Kouzelné květiny.",
+      "source": "pre_existing",
+      "original_cz": "Pokud chcete, můžete <Lore>prohledat knihovnu a najít Obálku se semínky</Lore>. Semínka vám jistě pomohou odhalit tajemství Kouzelné květiny."
+    },
+    {
+      "key": "Merlin_026_f",
+      "en": "I wonder what this secret could possibly be?",
+      "cz": "Zajímalo by mě, co by tohle tajemství mohlo být?",
+      "source": "pre_existing",
+      "original_cz": "Zajímalo by mě, co by tohle tajemství mohlo být?"
+    },
+    {
+      "key": "Merlin_029_f",
+      "en": "If you and Princess Jasmine are on the case, I suspect we'll find out soon enough!",
+      "cz": "Jestli na tom případu pracujete vy a princezna Jasmína, myslím, že se to brzy dozvíme!",
+      "source": "pre_existing",
+      "original_cz": "Jestli na tom případu pracujete vy a princezna Jasmína, myslím, že se to brzy dozvíme!"
+    },
+    {
+      "key": "Merlin_027_f",
+      "en": "Who is keeping such a well-hidden secret?",
+      "cz": "Kdo střeží tak dobře skryté tajemství?",
+      "source": "pre_existing",
+      "original_cz": "Kdo střeží tak dobře skryté tajemství?"
+    },
+    {
+      "key": "Merlin_030_f",
+      "en": "Now, now, not everyone who has secrets is hiding them with ill intent.",
+      "cz": "No, no, ne každý, kdo má tajemství, je skrývá se zlým úmyslem.",
+      "source": "pre_existing",
+      "original_cz": "No, no, ne každý, kdo má tajemství, je skrývá se zlým úmyslem."
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "Perhaps. But then, you've never shied away from danger, have you?",
+      "cz": "Možná. Ale vždyť ses nikdy nebezpečí nevyhýbal, že ne?",
+      "source": "pre_existing",
+      "original_cz": "Možná. Ale vždyť ses nikdy nebezpečí nevyhýbal, že ne?"
+    },
+    {
+      "key": "Merlin_020_f",
+      "en": "I suppose not... but I need to know more about this before I go on.",
+      "cz": "Asi ne... ale než budu pokračovat, musím se o tom dozvědět víc.",
+      "source": "pre_existing",
+      "original_cz": "Asi ne... ale než budu pokračovat, musím se o tom dozvědět víc."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "Besides grow flowers, anyway.",
+      "cz": "Kromě pěstování květin, každopádně.",
+      "source": "pre_existing",
+      "original_cz": "Kromě pěstování květin, každopádně."
+    }
+  ]
+}

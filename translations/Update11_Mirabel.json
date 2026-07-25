@@ -1,0 +1,206 @@
+{
+  "Update11_Mirabel/Mirabel_VLG_Mula_010_VLG_Mula_010_BringItem05.locbin": [
+    {
+      "key": "Mirabel_001_f",
+      "en": "Hola, {PlayerName}. These all smell so good! I just can't decide. Which tea do you think I should try next?",
+      "cz": "Ahoj, {PlayerName}. Všechny voní tak krásně! Prostě se nemůžu rozhodnout. Který čaj si myslíš, že bych měla zkusit příště?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}. Všechny voní tak krásně! Prostě se nemůžu rozhodnout. Který čaj si myslíš, že bych měla zkusit příště?"
+    }
+  ],
+  "Update11_Mirabel/Mirabel_VLG_Mula_010_VLG_Mula_010_TalkTo06.locbin": [
+    {
+      "key": "Mirabel_001_f",
+      "en": "{PlayerName}, is what I've heard true?",
+      "cz": "{PlayerName}, je to, co jsem slyšel/a, pravda?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, je to, co jsem slyšel/a, pravda?"
+    },
+    {
+      "key": "Mirabel_002_f",
+      "en": "Is Mulan back in the Village and having one of her teas?",
+      "cz": "Je Mulan zpátky ve vesnici a pije jeden ze svých čajů?",
+      "source": "pre_existing",
+      "original_cz": "Je Mulan zpátky ve vesnici a pije jeden ze svých čajů?"
+    },
+    {
+      "key": "Mirabel_003_f",
+      "en": "Yes, and you're invited.",
+      "cz": "Ano, a jsi pozván/a.",
+      "source": "pre_existing",
+      "original_cz": "Ano, a jsi pozván/a."
+    },
+    {
+      "key": "Mirabel_004_f",
+      "en": "Oh, I can't wait! I've missed those comfy afternoons sipping tea with my friends.",
+      "cz": "Ach, už se nemůžu dočkat! Chybí mi ta příjemná odpoledne s přáteli a popíjením čaje.",
+      "source": "pre_existing",
+      "original_cz": "Ach, už se nemůžu dočkat! Chybí mi ta příjemná odpoledne s přáteli a popíjením čaje."
+    },
+    {
+      "key": "Mirabel_005_f",
+      "en": "What should I bring? Maybe a cake? TWO cakes?",
+      "cz": "Co si mám přinést? Možná dort? DVA dorty?",
+      "source": "pre_existing",
+      "original_cz": "Co si mám přinést? Možná dort? DVA dorty?"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "You don't need to bring anything...",
+      "cz": "Nemusíte si s sebou nic brát...",
+      "source": "pre_existing",
+      "original_cz": "Nemusíte si s sebou nic brát..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "...your presence is enough.",
+      "cz": "...tvoje přítomnost stačí.",
+      "source": "pre_existing",
+      "original_cz": "...tvoje přítomnost stačí."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "There's no reason to stress.",
+      "cz": "Není důvod ke stresu.",
+      "source": "pre_existing",
+      "original_cz": "Není důvod ke stresu."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Mulan just wants to see you.",
+      "cz": "Mulan tě chce jen vidět.",
+      "source": "pre_existing",
+      "original_cz": "Mulan tě chce jen vidět."
+    },
+    {
+      "key": "Mirabel_006_f",
+      "en": "That's so sweet. Thank you.",
+      "cz": "To je tak milé. Děkuji.",
+      "source": "pre_existing",
+      "original_cz": "To je tak milé. Děkuji."
+    },
+    {
+      "key": "Mirabel_000_f",
+      "en": "I'll see you there!",
+      "cz": "Uvidíme se tam!",
+      "source": "pre_existing",
+      "original_cz": "Uvidíme se tam!"
+    },
+    {
+      "key": "Mirabel_007_f",
+      "en": "Right. Of course. That makes sense. I mean, why would I be stressing about a little party?",
+      "cz": "Jasně. Samozřejmě. To dává smysl. Proč bych se měla stresovat kvůli malé oslavě?",
+      "source": "pre_existing",
+      "original_cz": "Jasně. Samozřejmě. To dává smysl. Proč bych se měla stresovat kvůli malé oslavě?"
+    },
+    {
+      "key": "Mirabel_010_f",
+      "en": "*sigh* ... Maybe I do need a cup of tea.",
+      "cz": "*povzdech* ... Možná si opravdu potřebuju dát šálek čaje.",
+      "source": "pre_existing",
+      "original_cz": "*povzdech* ... Možná si opravdu potřebuju dát šálek čaje."
+    },
+    {
+      "key": "Mirabel_008_f",
+      "en": "Of course. And I can't wait to see her!",
+      "cz": "Samozřejmě. A už se nemůžu dočkat, až ji uvidím!",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě. A už se nemůžu dočkat, až ji uvidím!"
+    },
+    {
+      "key": "Mirabel_009_f",
+      "en": "It's been WAY too long!",
+      "cz": "Už je to PŘÍLIŠ dlouho!",
+      "source": "pre_existing",
+      "original_cz": "Už je to PŘÍLIŠ dlouho!"
+    }
+  ],
+  "Update11_Mirabel/Mirabel_VLG_Mula_010_VLG_Mula_010_TalkTo11.locbin": [
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Chrysanthemum tea.",
+      "cz": "Chrysanthemový čaj.",
+      "source": "pre_existing",
+      "original_cz": "Chrysanthemový čaj."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Oolong tea.",
+      "cz": "Oolong čaj.",
+      "source": "pre_existing",
+      "original_cz": "Oolong čaj."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Jasmine tea.",
+      "cz": "Jasmínový čaj.",
+      "source": "pre_existing",
+      "original_cz": "Jasmínový čaj."
+    },
+    {
+      "key": "Mirabel_003_f",
+      "en": "Wow, the flowers in this remind me of my sister Isabela...",
+      "cz": "Páni, ty květiny v tomhle mi připomínají mou sestru Isabelu...",
+      "source": "pre_existing",
+      "original_cz": "Páni, ty květiny v tomhle mi připomínají mou sestru Isabelu..."
+    },
+    {
+      "key": "Mirabel_001_f",
+      "en": "That is sooo delicious!",
+      "cz": "To je taaak lahodné!",
+      "source": "pre_existing",
+      "original_cz": "To je taaak lahodné!"
+    },
+    {
+      "key": "Mirabel_006_f",
+      "en": "And I feel SOOO energized!",
+      "cz": "A cítím se TAK plná energie!",
+      "source": "pre_existing",
+      "original_cz": "A cítím se TAK plná energie!"
+    },
+    {
+      "key": "Mirabel_007_f",
+      "en": "Gracias, {PlayerName}!",
+      "cz": "Gracias, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Gracias, {PlayerName}!"
+    },
+    {
+      "key": "Mirabel_005_f",
+      "en": "That was really good — and it was fun to try something new!",
+      "cz": "To bylo opravdu dobré – a byla to zábava vyzkoušet něco nového!",
+      "source": "pre_existing",
+      "original_cz": "To bylo opravdu dobré – a byla to zábava vyzkoušet něco nového!"
+    },
+    {
+      "key": "Mirabel_002_f",
+      "en": "I do love oolong! And one more cup can't hurt, right?",
+      "cz": "Miluji oolong! A ještě jeden šálek nemůže uškodit, že?",
+      "source": "pre_existing",
+      "original_cz": "Miluji oolong! A ještě jeden šálek nemůže uškodit, že?"
+    },
+    {
+      "key": "Mirabel_004_f",
+      "en": "Okay... Mulan says this is pretty subtle. That could be nice.",
+      "cz": "Dobře... Mulan říká, že je to docela nenápadné. To by mohlo být fajn.",
+      "source": "pre_existing",
+      "original_cz": "Dobře... Mulan říká, že je to docela nenápadné. To by mohlo být fajn."
+    }
+  ],
+  "Update11_Mirabel/Mirabel_VLG_Mush_030_VLG_Mush_030_BringItem04.locbin": [
+    {
+      "key": "Mirabel_000_f",
+      "en": "Oh, I love parties!",
+      "cz": "Ach, miluju večírky!",
+      "source": "pre_existing",
+      "original_cz": "Ach, miluju večírky!"
+    },
+    {
+      "key": "Mirabel_001_f",
+      "en": "Of COURSE I'll join the fun!",
+      "cz": "SAMOZŘEJMĚ, že se k zábavě připojím!",
+      "source": "pre_existing",
+      "original_cz": "SAMOZŘEJMĚ, že se k zábavě připojím!"
+    }
+  ]
+}

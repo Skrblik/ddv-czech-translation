@@ -1,0 +1,300 @@
+{
+  "FloatingIslandMiniEvent_EventQuizz/EventQuizz_Dialogues_EventQuizz_Greetings01.locbin": [
+    {
+      "key": "EventQuizz_000_f",
+      "en": "Halt! Thou must have wits of steel to duel me and gain thy <i>reward</i>.",
+      "cz": "Stůj! Musíš mít ocelovou hlavu, abys se mnou utkal a získal svou <i>odměnu</i>.",
+      "source": "pre_existing",
+      "original_cz": "Stůj! Musíš mít ocelovou hlavu, abys se mnou utkal a získal svou <i>odměnu</i>."
+    },
+    {
+      "key": "EventQuizz_001_f",
+      "en": "Only a <Lore>perfect score</Lore> gets the prize, but if thou <Lore>explorest this floating paradise with thine eyes</Lore>, thou shalt have everything thou needest.",
+      "cz": "Pouze <Lore>perfektní skóre</Lore> získá cenu, ale pokud <Lore>prozkoumáš tento plovoucí ráj svýma očima</Lore>, budeš mít vše, co potřebuješ.",
+      "source": "pre_existing",
+      "original_cz": "Pouze <Lore>perfektní skóre</Lore> získá cenu, ale pokud <Lore>prozkoumáš tento plovoucí ráj svýma očima</Lore>, budeš mít vše, co potřebuješ."
+    },
+    {
+      "key": "EventQuizz_002_f",
+      "en": "So! Wilt thou face me in a duel of the minds?",
+      "cz": "Takže! Chceš se se mnou utkat v duelu myslí?",
+      "source": "pre_existing",
+      "original_cz": "Takže! Chceš se se mnou utkat v duelu myslí?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'll take your challenge, Armor!",
+      "cz": "Přijímám tvou výzvu, Armore!",
+      "source": "pre_existing",
+      "original_cz": "Přijímám tvou výzvu, Armore!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I need to look around the Haunted Festival Island more.",
+      "cz": "Musím se víc porozhlédnout po Strašidelném festivalovém ostrově.",
+      "source": "pre_existing",
+      "original_cz": "Musím se víc porozhlédnout po Strašidelném festivalovém ostrově."
+    },
+    {
+      "key": "EventQuizz_003_f",
+      "en": "Very well!",
+      "cz": "Velmi dobře!",
+      "source": "pre_existing",
+      "original_cz": "Velmi dobře!"
+    },
+    {
+      "key": "EventQuizz_004_f",
+      "en": "Question the First: How many blue pumpkins are there on the island?",
+      "cz": "Otázka první: Kolik modrých dýní je na ostrově?",
+      "source": "pre_existing",
+      "original_cz": "Otázka první: Kolik modrých dýní je na ostrově?"
+    },
+    {
+      "key": "Player_001_f",
+      "en": "Hmm, how many blue pumpkins are there on the island?",
+      "cz": "Hmm, kolik modrých dýní je na ostrově?",
+      "source": "pre_existing",
+      "original_cz": "Hmm, kolik modrých dýní je na ostrově?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Sixteen.",
+      "cz": "Šestnáct.",
+      "source": "pre_existing",
+      "original_cz": "Šestnáct."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Six.",
+      "cz": "Šest.",
+      "source": "pre_existing",
+      "original_cz": "Šest."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "None!",
+      "cz": "Žádný!",
+      "source": "pre_existing",
+      "original_cz": "Žádný!"
+    },
+    {
+      "key": "Player_001_choice_003_f",
+      "en": "*back away*",
+      "cz": "*couvnout*",
+      "source": "pre_existing",
+      "original_cz": "*couvnout*"
+    },
+    {
+      "key": "EventQuizz_005_f",
+      "en": "Question the Second: Which animal is hiding inside the Scary Surprise Box in the Floating Festival?",
+      "cz": "Otázka druhá: Které zvíře se skrývá uvnitř strašidelné překvapivé krabice na plovoucím festivalu?",
+      "source": "pre_existing",
+      "original_cz": "Otázka druhá: Které zvíře se skrývá uvnitř strašidelné překvapivé krabice na plovoucím festivalu?"
+    },
+    {
+      "key": "Player_002_f",
+      "en": "Which animal is hiding inside the Scary Surprise Box in the Floating Festival?",
+      "cz": "Které zvíře se skrývá uvnitř strašidelné překvapivé krabice na plovoucím festivalu?",
+      "source": "pre_existing",
+      "original_cz": "Které zvíře se skrývá uvnitř strašidelné překvapivé krabice na plovoucím festivalu?"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "A cat.",
+      "cz": "Kočka.",
+      "source": "pre_existing",
+      "original_cz": "Kočka."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "A dog.",
+      "cz": "Pes.",
+      "source": "pre_existing",
+      "original_cz": "Pes."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "A capybara.",
+      "cz": "Kapybara.",
+      "source": "pre_existing",
+      "original_cz": "Kapybara."
+    },
+    {
+      "key": "Player_002_choice_003_f",
+      "en": "*back away*",
+      "cz": "*couvnout*",
+      "source": "pre_existing",
+      "original_cz": "*couvnout*"
+    },
+    {
+      "key": "EventQuizz_006_f",
+      "en": "Interesting...",
+      "cz": "Zajímavý...",
+      "source": "pre_existing",
+      "original_cz": "Zajímavý..."
+    },
+    {
+      "key": "EventQuizz_007_f",
+      "en": "Question the Third: How many graves are there in the Haunted Floating Festival?",
+      "cz": "Otázka třetí: Kolik hrobů je na Festivalu strašidelných vznášejících se objektů?",
+      "source": "pre_existing",
+      "original_cz": "Otázka třetí: Kolik hrobů je na Festivalu strašidelných vznášejících se objektů?"
+    },
+    {
+      "key": "Player_003_f",
+      "en": "How many graves are there in the Haunted Floating Festival?",
+      "cz": "Kolik hrobů je na festivalu Strašidelných plovoucích hrobů?",
+      "source": "pre_existing",
+      "original_cz": "Kolik hrobů je na festivalu Strašidelných plovoucích hrobů?"
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "One hundred and one?",
+      "cz": "Sto jedna?",
+      "source": "pre_existing",
+      "original_cz": "Sto jedna?"
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "Three.",
+      "cz": "Tři.",
+      "source": "pre_existing",
+      "original_cz": "Tři."
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "Seven.",
+      "cz": "Sedm.",
+      "source": "pre_existing",
+      "original_cz": "Sedm."
+    },
+    {
+      "key": "Player_003_choice_003_f",
+      "en": "*back away*",
+      "cz": "*couvnout*",
+      "source": "pre_existing",
+      "original_cz": "*couvnout*"
+    },
+    {
+      "key": "EventQuizz_008_f",
+      "en": "Question the Fourth, this ghostly knight's final query...",
+      "cz": "Otázka čtvrtá, poslední otázka tohoto přízračného rytíře...",
+      "source": "pre_existing",
+      "original_cz": "Otázka čtvrtá, poslední otázka tohoto přízračného rytíře..."
+    },
+    {
+      "key": "EventQuizz_009_f",
+      "en": "What is the favorite food of the Ghostly \"Zero\" Fox?",
+      "cz": "Jaké je oblíbené jídlo přízračné lišky „Nula“?",
+      "source": "pre_existing",
+      "original_cz": "Jaké je oblíbené jídlo přízračné lišky „Nula“?"
+    },
+    {
+      "key": "Player_004_f",
+      "en": "What's the favorite food of the Ghostly \"Zero\" Fox?",
+      "cz": "Jaké je oblíbené jídlo přízračné lišky „Nula“?",
+      "source": "pre_existing",
+      "original_cz": "Jaké je oblíbené jídlo přízračné lišky „Nula“?"
+    },
+    {
+      "key": "Player_004_choice_000_f",
+      "en": "Ghost Treats?",
+      "cz": "Pamlsky pro duchy?",
+      "source": "pre_existing",
+      "original_cz": "Pamlsky pro duchy?"
+    },
+    {
+      "key": "Player_004_choice_001_f",
+      "en": "Blue Skele-Fish.",
+      "cz": "Modrá kostlivá ryba.",
+      "source": "pre_existing",
+      "original_cz": "Modrá kostlivá ryba."
+    },
+    {
+      "key": "Player_004_choice_002_f",
+      "en": "Pumpkin Pie.",
+      "cz": "Dýňový koláč.",
+      "source": "pre_existing",
+      "original_cz": "Dýňový koláč."
+    },
+    {
+      "key": "Player_004_choice_003_f",
+      "en": "*back away*",
+      "cz": "*couvnout*",
+      "source": "pre_existing",
+      "original_cz": "*couvnout*"
+    },
+    {
+      "key": "EventQuizz_010_f",
+      "en": "Thou hast answered all my questions...",
+      "cz": "Odpověděl jsi na všechny mé otázky...",
+      "source": "pre_existing",
+      "original_cz": "Odpověděl jsi na všechny mé otázky..."
+    },
+    {
+      "key": "EventQuizz_011_f",
+      "en": "And each answer was correct! Thou hast a wit as sharp as a blade!",
+      "cz": "A každá odpověď byla správná! Máš důvtip ostrý jako čepel!",
+      "source": "pre_existing",
+      "original_cz": "A každá odpověď byla správná! Máš důvtip ostrý jako čepel!"
+    },
+    {
+      "key": "EventQuizz_012_f",
+      "en": "The reward is thine.",
+      "cz": "Odměna je tvá.",
+      "source": "pre_existing",
+      "original_cz": "Odměna je tvá."
+    },
+    {
+      "key": "EventQuizz_013_f",
+      "en": "But thou art a tad rusty.",
+      "cz": "Ale jsi trochu rezavý.",
+      "source": "pre_existing",
+      "original_cz": "Ale jsi trochu rezavý."
+    },
+    {
+      "key": "EventQuizz_014_f",
+      "en": "Look around the Haunted Floating Festival and search for clues to find the correct answers to my questions.",
+      "cz": "Rozhlédni se po Festivalu strašidelných vznášejících se lodí a hledej stopy, které by ti pomohly najít správné odpovědi na mé otázky.",
+      "source": "pre_existing",
+      "original_cz": "Rozhlédni se po Festivalu strašidelných vznášejících se lodí a hledej stopy, které by ti pomohly najít správné odpovědi na mé otázky."
+    },
+    {
+      "key": "EventQuizz_015_f",
+      "en": "I'm not going anywhere! ...—Eth.",
+      "cz": "Nikam nejdu! ...—Eth.",
+      "source": "pre_existing",
+      "original_cz": "Nikam nejdu! ...—Eth."
+    },
+    {
+      "key": "EventQuizz_016_f",
+      "en": "I shall see thee upon thy return... —eth.",
+      "cz": "Uvidíme se po tvém návratu... —eth.",
+      "source": "pre_existing",
+      "original_cz": "Uvidíme se po tvém návratu... —eth."
+    },
+    {
+      "key": "Player_005_exit_000_f",
+      "en": "A strange armor...",
+      "cz": "Zvláštní brnění...",
+      "source": "pre_existing",
+      "original_cz": "Zvláštní brnění..."
+    }
+  ],
+  "FloatingIslandMiniEvent_EventQuizz/EventQuizz_Greetings_KnightQuizzPost.locbin": [
+    {
+      "key": "EventQuizz_000_f",
+      "en": "A wonderfuleth day to you, my wise friend!",
+      "cz": "Krásný den, můj moudrý příteli!",
+      "source": "pre_existing",
+      "original_cz": "Krásný den, můj moudrý příteli!"
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Sorry, I can't talk now.",
+      "cz": "Promiňte, teď nemůžu mluvit.",
+      "source": "pre_existing",
+      "original_cz": "Promiňte, teď nemůžu mluvit."
+    }
+  ]
+}

@@ -1,0 +1,589 @@
+{
+  "CliffUpdate_Merlin/Merlin_MRQS110_MRQS110_LoveIsLove_Intro.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "{PlayerName}! Precisely who I was hoping to see.",
+      "cz": "{PlayerName}! Přesně koho jsem doufal vidět.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}! Přesně koho jsem doufal vidět."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "I'm certain you've noticed the rather snowy problem we have on our hands.",
+      "cz": "Jsem si jistý, že jste si všimli toho poněkud zasněženého problému, který máme na krku.",
+      "source": "pre_existing",
+      "original_cz": "Jsem si jistý, že jste si všimli toho poněkud zasněženého problému, který máme na krku."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "There's a blizzard in the Frosted Heights. But it isn't a mere meteorological happenstance. There's Dark Magic afoot.",
+      "cz": "V Mrázných výšinách je sněhová bouře. Ale není to jen meteorologická náhoda. Probíhá tam temná magie.",
+      "source": "pre_existing",
+      "original_cz": "V Mrázných výšinách je sněhová bouře. Ale není to jen meteorologická náhoda. Probíhá tam temná magie."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Magical blizzard? Sounds like a job for Elsa.",
+      "cz": "Magická vánice? Zní to jako práce pro Elsu.",
+      "source": "pre_existing",
+      "original_cz": "Magická vánice? Zní to jako práce pro Elsu."
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "Well, ordinarily, I'd say yes. And I do mean to consult her...",
+      "cz": "No, normálně bych řekl ano. A mám v úmyslu se s ní poradit...",
+      "source": "pre_existing",
+      "original_cz": "No, normálně bych řekl ano. A mám v úmyslu se s ní poradit..."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "...but there's something quite... unnatural about this storm. I fear even Elsa's magic won't be able to quell it.",
+      "cz": "...ale na téhle bouři je něco docela... nepřirozeného. Obávám se, že ani Elsina magie ji nedokáže utišit.",
+      "source": "pre_existing",
+      "original_cz": "...ale na téhle bouři je něco docela... nepřirozeného. Obávám se, že ani Elsina magie ji nedokáže utišit."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "What a magical mess. What should we do?",
+      "cz": "To je ale kouzelný chaos. Co bychom měli dělat?",
+      "source": "pre_existing",
+      "original_cz": "To je ale kouzelný chaos. Co bychom měli dělat?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Let me guess. I'm the only one who can fix this?",
+      "cz": "Nechte mě hádat. Jsem jediný, kdo to dokáže opravit?",
+      "source": "pre_existing",
+      "original_cz": "Nechte mě hádat. Jsem jediný, kdo to dokáže opravit?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Thanks. I'll find some mittens and stay away from the blizzard.",
+      "cz": "Díky. Najdu si nějaké rukavice a budu se držet dál od vánice.",
+      "source": "pre_existing",
+      "original_cz": "Díky. Najdu si nějaké rukavice a budu se držet dál od vánice."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "To set this right, we'll need to <Lore>restore the Pillar in the Frosted Heights</Lore>. That should keep all the vexing Dark Magic at bay.",
+      "cz": "Abychom to napravili, budeme muset <Lore>obnovit Sloup v Mrázných výšinách</Lore>. To by mělo udržet veškerou otravnou temnou magii na uzdě.",
+      "source": "pre_existing",
+      "original_cz": "Abychom to napravili, budeme muset <Lore>obnovit Sloup v Mrázných výšinách</Lore>. To by mělo udržet veškerou otravnou temnou magii na uzdě."
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "How do I restore the Pillar? I suppose I'll need to find the Orb, like with the others?",
+      "cz": "Jak obnovím Pilíř? Předpokládám, že budu muset najít Kouli, jako u ostatních?",
+      "source": "pre_existing",
+      "original_cz": "Jak obnovím Pilíř? Předpokládám, že budu muset najít Kouli, jako u ostatních?"
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "Precisely! But I'm afraid it's easier said than done. The Orb has been missing from the Frosted Heights since shortly after the Forgetting began.",
+      "cz": "Přesně tak! Ale obávám se, že se to snáze řekne, než udělá. Koule zmizela z Mrázných výšin krátce po začátku Zapomnění.",
+      "source": "pre_existing",
+      "original_cz": "Přesně tak! Ale obávám se, že se to snáze řekne, než udělá. Koule zmizela z Mrázných výšin krátce po začátku Zapomnění."
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "And it— Oh dear, it's been missing so long that I can't remember which virtue powered its magic. What could it have been...?",
+      "cz": "A ono— Ach jo, tak dlouho to chybí, že si nepamatuji, která ctnost poháněla jeho magii. Co to mohlo být...?",
+      "source": "pre_existing",
+      "original_cz": "A ono— Ach jo, tak dlouho to chybí, že si nepamatuji, která ctnost poháněla jeho magii. Co to mohlo být...?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Punctuality?",
+      "cz": "Dochvilnost?",
+      "source": "pre_existing",
+      "original_cz": "Dochvilnost?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Tidiness?",
+      "cz": "Úhlednost?",
+      "source": "pre_existing",
+      "original_cz": "Úhlednost?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Not chewing with your mouth open?",
+      "cz": "Nežvýkáte s otevřenými ústy?",
+      "source": "pre_existing",
+      "original_cz": "Nežvýkáte s otevřenými ústy?"
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "Hmm. Arriving precisely when one is needed, if not earlier, is a virtue indeed.",
+      "cz": "Hmm. Dorazit přesně ve chvíli, kdy je člověk potřeba, ne-li dříve, je vskutku ctnost.",
+      "source": "pre_existing",
+      "original_cz": "Hmm. Dorazit přesně ve chvíli, kdy je člověk potřeba, ne-li dříve, je vskutku ctnost."
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "But whatever powered this Pillar was something more... elemental.",
+      "cz": "Ale cokoli pohánělo tento Pilíř, bylo něco víc... elementárního.",
+      "source": "pre_existing",
+      "original_cz": "Ale cokoli pohánělo tento Pilíř, bylo něco víc... elementárního."
+    },
+    {
+      "key": "Merlin_012_f",
+      "en": "Whatever it was, I'm afraid you'll have trouble finding the Orb. That blizzard means you won't be able to see an inch beyond your nose.",
+      "cz": "Ať to bylo cokoli, obávám se, že budeš mít problém najít Kouli. Kvůli té vánici neuvidíš ani píď za svůj nos.",
+      "source": "pre_existing",
+      "original_cz": "Ať to bylo cokoli, obávám se, že budeš mít problém najít Kouli. Kvůli té vánici neuvidíš ani píď za svůj nos."
+    },
+    {
+      "key": "Merlin_013_f",
+      "en": "I suggest you start by investigating the center of the mystical activity. You must <Lore>search the blizzard for the source of the disturbance.</Lore>",
+      "cz": "Doporučuji začít prozkoumáním centra mystické aktivity. Musíte <Lore>prohledat sněhovou bouři a najít zdroj rušení.</Lore>",
+      "source": "pre_existing",
+      "original_cz": "Doporučuji začít prozkoumáním centra mystické aktivity. Musíte <Lore>prohledat sněhovou bouři a najít zdroj rušení.</Lore>"
+    },
+    {
+      "key": "Merlin_014_f",
+      "en": "And act quickly! The storm is growing larger. If we don't stop it soon, I fear it will swallow up the entire Valley.",
+      "cz": "A jednejte rychle! Bouře sílí. Pokud ji brzy nezastavíme, obávám se, že pohltí celé údolí.",
+      "source": "pre_existing",
+      "original_cz": "A jednejte rychle! Bouře sílí. Pokud ji brzy nezastavíme, obávám se, že pohltí celé údolí."
+    },
+    {
+      "key": "Merlin_015_f",
+      "en": "Oh, and {PlayerName}? I suggest you dress for the weather. It's going to be downright frigid!",
+      "cz": "A {PlayerName}? Doporučuji ti obléknout se podle počasí. Bude fakt zima!",
+      "source": "pre_existing",
+      "original_cz": "A {PlayerName}? Doporučuji ti obléknout se podle počasí. Bude fakt zima!"
+    },
+    {
+      "key": "Merlin_016_f",
+      "en": "Knowing precisely where everything ought to be and putting it there is a virtue indeed.",
+      "cz": "Vědět přesně, kde co má být, a umístit to tam, je skutečně ctnost.",
+      "source": "pre_existing",
+      "original_cz": "Vědět přesně, kde co má být, a umístit to tam, je skutečně ctnost."
+    },
+    {
+      "key": "Merlin_017_f",
+      "en": "One in short supply around this Valley, I'm afraid...",
+      "cz": "Obávám se, že v tomto údolí je jeden nedostatek...",
+      "source": "pre_existing",
+      "original_cz": "Obávám se, že v tomto údolí je jeden nedostatek..."
+    },
+    {
+      "key": "Merlin_018_f",
+      "en": "Why, that's just basic manners and decency, {PlayerName}! Unless you're a dog, of course. Not exactly within their nature. Oh...",
+      "cz": "To jsou ale jen základní mravy a slušnost, {PlayerName}! Pokud ovšem nejsi pes. To jim zrovna nepatří do přirozenosti. Ach...",
+      "source": "pre_existing",
+      "original_cz": "To jsou ale jen základní mravy a slušnost, {PlayerName}! Pokud ovšem nejsi pes. To jim zrovna nepatří do přirozenosti. Ach..."
+    },
+    {
+      "key": "Merlin_019_f",
+      "en": "Well, uh... heh-heh... Yes. That's precisely what I was about to say.",
+      "cz": "No, ehm... heh-heh... Ano. Přesně to jsem chtěl říct.",
+      "source": "pre_existing",
+      "original_cz": "No, ehm... heh-heh... Ano. Přesně to jsem chtěl říct."
+    },
+    {
+      "key": "Merlin_020_f",
+      "en": "Perhaps your magical skills extend to prognostication, after all. Now...",
+      "cz": "Možná se tvé magické schopnosti koneckonců rozšiřují i ​​na předpovídání. A teď...",
+      "source": "pre_existing",
+      "original_cz": "Možná se tvé magické schopnosti koneckonců rozšiřují i ​​na předpovídání. A teď..."
+    },
+    {
+      "key": "Merlin_021_f",
+      "en": "Oh no, no, no, that won't do at all! If we don't stop this soon, you won't be safe from it anywhere in the Village.",
+      "cz": "Ach ne, ne, ne, to vůbec nepůjde! Pokud to brzy nezastavíme, nebudete před tím v bezpečí nikde ve vesnici.",
+      "source": "pre_existing",
+      "original_cz": "Ach ne, ne, ne, to vůbec nepůjde! Pokud to brzy nezastavíme, nebudete před tím v bezpečí nikde ve vesnici."
+    },
+    {
+      "key": "Merlin_022_f",
+      "en": "The situation is starting to, well, er... snowball. It won't be long before we're all under ten feet of snow.",
+      "cz": "Situace se začíná, no, ehm... nabalovat. Nebude trvat dlouho a všichni budeme pod třemi metry sněhu.",
+      "source": "pre_existing",
+      "original_cz": "Situace se začíná, no, ehm... nabalovat. Nebude trvat dlouho a všichni budeme pod třemi metry sněhu."
+    },
+    {
+      "key": "Merlin_023_f",
+      "en": "So... what am I supposed to do to stop it?",
+      "cz": "Takže... co mám dělat, abych to zastavil?",
+      "source": "pre_existing",
+      "original_cz": "Takže... co mám dělat, abych to zastavil?"
+    }
+  ],
+  "CliffUpdate_Merlin/Merlin_MRQS110_MRQS110_LoveIsLove_TalkTo03.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Ah, {PlayerName}! Tell me: What did you find at the center of the blizzard?",
+      "cz": "Aha, {PlayerName}! Řekni mi: Co jsi našel uprostřed té vánice?",
+      "source": "pre_existing",
+      "original_cz": "Aha, {PlayerName}! Řekni mi: Co jsi našel uprostřed té vánice?"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "I found a secret chamber full of strange magical experiments. I think that I must have made it back before the Forgetting...",
+      "cz": "Našel jsem tajnou komnatu plnou podivných magických experimentů. Myslím, že jsem se tam musel dostat před Zapomněním...",
+      "source": "pre_existing",
+      "original_cz": "Našel jsem tajnou komnatu plnou podivných magických experimentů. Myslím, že jsem se tam musel dostat před Zapomněním..."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "How curious. I wonder what purpose it served.",
+      "cz": "To je zvláštní. Zajímalo by mě, k čemu to sloužilo.",
+      "source": "pre_existing",
+      "original_cz": "To je zvláštní. Zajímalo by mě, k čemu to sloužilo."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Oh, and that's not all. I found Olaf inside!",
+      "cz": "A to není všechno. Našel jsem uvnitř Olafa!",
+      "source": "pre_existing",
+      "original_cz": "A to není všechno. Našel jsem uvnitř Olafa!"
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "Olaf! Oh, wonderful! Was the loquacious little snowman helpful in sorting out our magical conundrum?",
+      "cz": "Olafe! To je skvělé! Pomohl nám ten upovídaný sněhulák vyřešit naši magickou záhadu?",
+      "source": "pre_existing",
+      "original_cz": "Olafe! To je skvělé! Pomohl nám ten upovídaný sněhulák vyřešit naši magickou záhadu?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Yes! He's helping me find the Orb.",
+      "cz": "Ano! Pomáhá mi najít Orb.",
+      "source": "pre_existing",
+      "original_cz": "Ano! Pomáhá mi najít Orb."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'm not sure yet. I need some more help with this mystery.",
+      "cz": "Ještě si nejsem jistý. Potřebuji s touto záhadou další pomoc.",
+      "source": "pre_existing",
+      "original_cz": "Ještě si nejsem jistý. Potřebuji s touto záhadou další pomoc."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Not really. He got me to chase some squirrels around.",
+      "cz": "Ani ne. Donutil mě honit veverky.",
+      "source": "pre_existing",
+      "original_cz": "Ani ne. Donutil mě honit veverky."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "Brilliant! I've always known that Olaf possesses unexpected wisdom. What did he tell you?",
+      "cz": "Skvělé! Vždycky jsem věděl, že Olaf má nečekanou moudrost. Co ti řekl?",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Vždycky jsem věděl, že Olaf má nečekanou moudrost. Co ti řekl?"
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "Olaf's arms are missing. He says that the last thing he remembers is that they were holding on to the Orb.",
+      "cz": "Olafovi chybí paže. Říká, že poslední věc, kterou si pamatuje, je, že držely Orb.",
+      "source": "pre_existing",
+      "original_cz": "Olafovi chybí paže. Říká, že poslední věc, kterou si pamatuje, je, že držely Orb."
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "But he doesn't know where to find them. He said something about... water having memory?",
+      "cz": "Ale neví, kde je najít. Říkal něco o... vodě, která má paměť?",
+      "source": "pre_existing",
+      "original_cz": "Ale neví, kde je najít. Říkal něco o... vodě, která má paměť?"
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "He's quite right, you know.",
+      "cz": "Má naprostou pravdu, víš.",
+      "source": "pre_existing",
+      "original_cz": "Má naprostou pravdu, víš."
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "That was one of the powers your Royal Watering Can used to have. It could <Lore>draw out the memories held by water</Lore>.",
+      "cz": "To byla jedna ze schopností, které dříve mívala tvá Královská konvice na zalévání. Dokázala <Lore>vytáhnout vzpomínky uchovávané vodou</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "To byla jedna ze schopností, které dříve mívala tvá Královská konvice na zalévání. Dokázala <Lore>vytáhnout vzpomínky uchovávané vodou</Lore>."
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "Do you think my Watering Can still has that power...? Maybe we could find out exactly what happened to the Orb. But I wouldn't know where to start.",
+      "cz": "Myslíš, že moje konvice na vodu má stále tu moc...? Možná bychom mohli zjistit, co se přesně stalo s Koulí. Ale nevím, kde začít.",
+      "source": "pre_existing",
+      "original_cz": "Myslíš, že moje konvice na vodu má stále tu moc...? Možná bychom mohli zjistit, co se přesně stalo s Koulí. Ale nevím, kde začít."
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "It's always best to start off where something has begun. <Lore>Investigate the Pillar in the Frosted Heights.</Lore>",
+      "cz": "Vždy je nejlepší začít tam, kde něco už začalo. <Lore>Prozkoumejte Sloup v Mrázných výšinách.</Lore>",
+      "source": "pre_existing",
+      "original_cz": "Vždy je nejlepší začít tam, kde něco už začalo. <Lore>Prozkoumejte Sloup v Mrázných výšinách.</Lore>"
+    },
+    {
+      "key": "Merlin_012_f",
+      "en": "Hold out your Watering Can and <Lore>focus your magic</Lore>. If there's anything to be found, that should help you find it.",
+      "cz": "Natáhni svou konvici na zalévání a <Lore>soustředíš svou magii</Lore>. Pokud se tam dá něco najít, mělo by ti to pomoct to najít.",
+      "source": "pre_existing",
+      "original_cz": "Natáhni svou konvici na zalévání a <Lore>soustředíš svou magii</Lore>. Pokud se tam dá něco najít, mělo by ti to pomoct to najít."
+    },
+    {
+      "key": "Merlin_013_f",
+      "en": "Well, I've always known that Olaf possesses unexpected wisdom. What did he tell you?",
+      "cz": "No, vždycky jsem věděl, že Olaf má nečekanou moudrost. Co ti řekl?",
+      "source": "pre_existing",
+      "original_cz": "No, vždycky jsem věděl, že Olaf má nečekanou moudrost. Co ti řekl?"
+    },
+    {
+      "key": "Merlin_014_f",
+      "en": "Oh dear. That's not the best use of time when a magical blizzard is threatening to destroy the Valley.",
+      "cz": "Ach jo. To není nejlepší využití času, když magická vánice hrozí zničením Údolí.",
+      "source": "pre_existing",
+      "original_cz": "Ach jo. To není nejlepší využití času, když magická vánice hrozí zničením Údolí."
+    },
+    {
+      "key": "Merlin_015_f",
+      "en": "Still, I've always known that Olaf possesses unexpected wisdom. Surely he said something that could be of help?",
+      "cz": "Přesto jsem vždycky věděl, že Olaf disponuje nečekanou moudrostí. Určitě řekl něco, co by mohlo být užitečné?",
+      "source": "pre_existing",
+      "original_cz": "Přesto jsem vždycky věděl, že Olaf disponuje nečekanou moudrostí. Určitě řekl něco, co by mohlo být užitečné?"
+    }
+  ],
+  "CliffUpdate_Merlin/Merlin_MRQS110_MRQS110_LoveIsLove_TalkTo05.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "{PlayerName}, you're back! Now tell me, did your Watering Can uncover anything useful?",
+      "cz": "{PlayerName}, jsi zpět! A teď mi řekni, objevila tvá konvice na zalévání něco užitečného?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, jsi zpět! A teď mi řekni, objevila tvá konvice na zalévání něco užitečného?"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "It looks like a long time ago the Forgotten took the Orb from the Pillar.",
+      "cz": "Vypadá to, že Zapomenutí už dávno vzali Kouli z Pilíře.",
+      "source": "pre_existing",
+      "original_cz": "Vypadá to, že Zapomenutí už dávno vzali Kouli z Pilíře."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "How curious. The Pillars keep Dark Magic at bay.",
+      "cz": "To je zvláštní. Pilíře drží temnou magii na uzdě.",
+      "source": "pre_existing",
+      "original_cz": "To je zvláštní. Pilíře drží temnou magii na uzdě."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "So, perhaps the Forgotten needed to remove it to meddle in more dangerous forms of magic.",
+      "cz": "Takže ho Zapomenutí možná potřebovali odstranit, aby se mohli vměšovat do nebezpečnějších forem magie.",
+      "source": "pre_existing",
+      "original_cz": "Takže ho Zapomenutí možná potřebovali odstranit, aby se mohli vměšovat do nebezpečnějších forem magie."
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "But Merlin, if the Forgotten was once a part of me... does that mean that I wanted to mess with Dark Magic?",
+      "cz": "Ale Merline, pokud Zapomenutí kdysi bylo mou součástí... znamená to, že jsem si chtěl zahrávat s temnou magií?",
+      "source": "pre_existing",
+      "original_cz": "Ale Merline, pokud Zapomenutí kdysi bylo mou součástí... znamená to, že jsem si chtěl zahrávat s temnou magií?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I would never mess with Dark Magic.",
+      "cz": "Nikdy bych si nezahrával s temnou magií.",
+      "source": "pre_existing",
+      "original_cz": "Nikdy bych si nezahrával s temnou magií."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "It's the only thing that makes sense.",
+      "cz": "To je jediná věc, která dává smysl.",
+      "source": "pre_existing",
+      "original_cz": "To je jediná věc, která dává smysl."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "It definitely sounds like something I would do.",
+      "cz": "Zní to jako něco, co bych udělal.",
+      "source": "pre_existing",
+      "original_cz": "Zní to jako něco, co bych udělal."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "Perhaps you wouldn't. But the Forgotten — that spark of you, without the wisdom you have now — well, the Forgotten just might.",
+      "cz": "Možná ne. Ale Zapomenutý – ta jiskra v tobě, bez moudrosti, kterou máš teď – no, Zapomenutý by mohl.",
+      "source": "pre_existing",
+      "original_cz": "Možná ne. Ale Zapomenutý – ta jiskra v tobě, bez moudrosti, kterou máš teď – no, Zapomenutý by mohl."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "But... that would mean that the blizzard, the Forgetting... Could all of this be my fault?",
+      "cz": "Ale... to by znamenalo, že ta vánice, Zapomnění... Mohla by to všechno být moje chyba?",
+      "source": "pre_existing",
+      "original_cz": "Ale... to by znamenalo, že ta vánice, Zapomnění... Mohla by to všechno být moje chyba?"
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "Now, now, the workings of cause and effect are much too complex to assign fault for such phenomena.",
+      "cz": "Nuže, fungování příčiny a následku je příliš složité na to, aby se za takové jevy dala připsat vina.",
+      "source": "pre_existing",
+      "original_cz": "Nuže, fungování příčiny a následku je příliš složité na to, aby se za takové jevy dala připsat vina."
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "What matters now is that you're here, trying to fix these problems.",
+      "cz": "Teď záleží na tom, že jsi tady a snažíš se tyto problémy vyřešit.",
+      "source": "pre_existing",
+      "original_cz": "Teď záleží na tom, že jsi tady a snažíš se tyto problémy vyřešit."
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "And I guess now we're one step closer to doing that.",
+      "cz": "A myslím, že teď jsme o krok blíž k dosažení tohoto cíle.",
+      "source": "pre_existing",
+      "original_cz": "A myslím, že teď jsme o krok blíž k dosažení tohoto cíle."
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "In the memory... it looked like Olaf saw the Forgotten running off with the Orb from the Pillar and followed them to the secret chamber.",
+      "cz": "Ve vzpomínce... to vypadalo, jako by Olaf viděl Zapomenuté utíkat s Koulí od Pilíře a následoval je do tajné komnaty.",
+      "source": "pre_existing",
+      "original_cz": "Ve vzpomínce... to vypadalo, jako by Olaf viděl Zapomenuté utíkat s Koulí od Pilíře a následoval je do tajné komnaty."
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "Then, I suspect the rest of the answers will lie inside that chamber.",
+      "cz": "Pak mám podezření, že zbytek odpovědí bude ležet uvnitř té komory.",
+      "source": "pre_existing",
+      "original_cz": "Pak mám podezření, že zbytek odpovědí bude ležet uvnitř té komory."
+    },
+    {
+      "key": "Merlin_012_f",
+      "en": "I'll go <Lore>see if there are any more memories inside the secret chamber</Lore>.",
+      "cz": "Půjdu se <Lore>podívat, jestli jsou v tajné komnatě ještě nějaké vzpomínky</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Půjdu se <Lore>podívat, jestli jsou v tajné komnatě ještě nějaké vzpomínky</Lore>."
+    },
+    {
+      "key": "Merlin_013_f",
+      "en": "Yes well, we all have many potentials in us, {PlayerName}. But it's what we do that matters. The future isn't set. Trust me. I've been there.",
+      "cz": "Ano, všichni v sobě máme mnoho potenciálu, {PlayerName}. Ale záleží na tom, co děláme. Budoucnost není daná. Věř mi. Už jsem si tím prošel.",
+      "source": "pre_existing",
+      "original_cz": "Ano, všichni v sobě máme mnoho potenciálu, {PlayerName}. Ale záleží na tom, co děláme. Budoucnost není daná. Věř mi. Už jsem si tím prošel."
+    },
+    {
+      "key": "Merlin_014_f",
+      "en": "You've always been quite curious about the potential of magic... for good or for ill. Perhaps the Forgotten shared that curiosity.",
+      "cz": "Vždycky tě docela zajímal potenciál magie... k dobrému i ke zlému. Možná, že Zapomenutí sdíleli tuto zvědavost.",
+      "source": "pre_existing",
+      "original_cz": "Vždycky tě docela zajímal potenciál magie... k dobrému i ke zlému. Možná, že Zapomenutí sdíleli tuto zvědavost."
+    },
+    {
+      "key": "Merlin_015_f",
+      "en": "But wait. That's not all.",
+      "cz": "Ale počkejte. To není všechno.",
+      "source": "pre_existing",
+      "original_cz": "Ale počkejte. To není všechno."
+    },
+    {
+      "key": "Merlin_016_f",
+      "en": "Merlin, the Forgotten looked just like... like...",
+      "cz": "Merline, Zapomenutý vypadal přesně jako... jako...",
+      "source": "pre_existing",
+      "original_cz": "Merline, Zapomenutý vypadal přesně jako... jako..."
+    },
+    {
+      "key": "Merlin_017_f",
+      "en": "...me.",
+      "cz": "...já.",
+      "source": "pre_existing",
+      "original_cz": "...já."
+    },
+    {
+      "key": "Merlin_018_f",
+      "en": "... Like you?",
+      "cz": "... Jako ty?",
+      "source": "pre_existing",
+      "original_cz": "... Jako ty?"
+    },
+    {
+      "key": "Merlin_019_f",
+      "en": "Oh dear. This is very perplexing, {PlayerName}. Let me consider this...",
+      "cz": "Ach jo. To je ale velmi matoucí, {PlayerName}. Dovolte mi, abych se nad tím zamyslel...",
+      "source": "pre_existing",
+      "original_cz": "Ach jo. To je ale velmi matoucí, {PlayerName}. Dovolte mi, abych se nad tím zamyslel..."
+    },
+    {
+      "key": "Merlin_020_f",
+      "en": "... Well, it's possible that the Forgotten is a splinter of yourself that stayed behind when you left the Valley long ago.",
+      "cz": "... No, je možné, že Zapomenutý je jen úlomek tebe samotného, ​​který zůstal, když jsi před dávnými časy opustil Údolí.",
+      "source": "pre_existing",
+      "original_cz": "... No, je možné, že Zapomenutý je jen úlomek tebe samotného, ​​který zůstal, když jsi před dávnými časy opustil Údolí."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "A splinter of myself...? How?",
+      "cz": "Tříska sebe sama...? Jak?",
+      "source": "pre_existing",
+      "original_cz": "Tříska sebe sama...? Jak?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Merlin... is this all my fault?",
+      "cz": "Merline... je to všechno moje chyba?",
+      "source": "pre_existing",
+      "original_cz": "Merline... je to všechno moje chyba?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "We have to fix this.",
+      "cz": "Musíme to opravit.",
+      "source": "pre_existing",
+      "original_cz": "Musíme to opravit."
+    },
+    {
+      "key": "Merlin_021_f",
+      "en": "As we grow up, there are always parts of ourselves that we leave behind, pieces of us that no longer... I suppose you could say... fit.",
+      "cz": "Jak dospíváme, vždycky za sebou necháváme části sebe, kousky, které už... dalo by se říct... nezapadají.",
+      "source": "pre_existing",
+      "original_cz": "Jak dospíváme, vždycky za sebou necháváme části sebe, kousky, které už... dalo by se říct... nezapadají."
+    },
+    {
+      "key": "Merlin_022_f",
+      "en": "But just because we're finished with a part of ourselves, it doesn't mean that part of ourselves is finished with us.",
+      "cz": "Ale jen proto, že jsme s částí sebe sama skončili, neznamená to, že ta část nás sama skončila s námi.",
+      "source": "pre_existing",
+      "original_cz": "Ale jen proto, že jsme s částí sebe sama skončili, neznamená to, že ta část nás sama skončila s námi."
+    },
+    {
+      "key": "Merlin_023_f",
+      "en": "In your case, this may all be manifesting itself a bit more... literally.",
+      "cz": "Ve vašem případě se tohle všechno může projevovat trochu více... doslova.",
+      "source": "pre_existing",
+      "original_cz": "Ve vašem případě se tohle všechno může projevovat trochu více... doslova."
+    },
+    {
+      "key": "Merlin_024_f",
+      "en": "No, no, {PlayerName}. I assure you, none of this is your fault.",
+      "cz": "Ne, ne, {PlayerName}. Ujišťuji tě, že nic z toho není tvoje chyba.",
+      "source": "pre_existing",
+      "original_cz": "Ne, ne, {PlayerName}. Ujišťuji tě, že nic z toho není tvoje chyba."
+    },
+    {
+      "key": "Merlin_025_f",
+      "en": "Cause and effect is... tricky. The simplest action can lead to unexpected reactions.",
+      "cz": "Příčina a následek jsou... ošemetné. I ta nejjednodušší akce může vést k neočekávaným reakcím.",
+      "source": "pre_existing",
+      "original_cz": "Příčina a následek jsou... ošemetné. I ta nejjednodušší akce může vést k neočekávaným reakcím."
+    },
+    {
+      "key": "Merlin_026_f",
+      "en": "And here in the Valley, things are especially complicated.",
+      "cz": "A tady v Údolí jsou věci obzvlášť složité.",
+      "source": "pre_existing",
+      "original_cz": "A tady v Údolí jsou věci obzvlášť složité."
+    },
+    {
+      "key": "Merlin_027_f",
+      "en": "Well, I've always known that the key to restoring our Valley lies with you, {PlayerName}.",
+      "cz": "Vždycky jsem věděl, že klíč k obnově našeho Údolí leží v tobě, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Vždycky jsem věděl, že klíč k obnově našeho Údolí leží v tobě, {PlayerName}."
+    }
+  ]
+}

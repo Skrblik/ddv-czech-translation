@@ -1,0 +1,151 @@
+{
+  "Update11_MotherGothel/MotherGothel_VLG_Mula_040_VLG_Mula_040_TalkTo01.locbin": [
+    {
+      "key": "MotherGothel_000_f",
+      "en": "Ah, {PlayerName}, what can I do for you?",
+      "cz": "Aha, {PlayerName}, co pro tebe můžu udělat?",
+      "source": "pre_existing",
+      "original_cz": "Aha, {PlayerName}, co pro tebe můžu udělat?"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "I've joined Mulan's team for your capture the flag competition.",
+      "cz": "Připojil jsem se k Mulaninu týmu ve vaší soutěži v získávání vlajky.",
+      "source": "pre_existing",
+      "original_cz": "Připojil jsem se k Mulaninu týmu ve vaší soutěži v získávání vlajky."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Teamwork rules!",
+      "cz": "Pravidla týmové práce!",
+      "source": "pre_existing",
+      "original_cz": "Pravidla týmové práce!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "We're all going to have fun!",
+      "cz": "Všichni se budeme bavit!",
+      "source": "pre_existing",
+      "original_cz": "Všichni se budeme bavit!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "But I'll be rooting for you.",
+      "cz": "Ale budu ti fandit.",
+      "source": "pre_existing",
+      "original_cz": "Ale budu ti fandit."
+    },
+    {
+      "key": "MotherGothel_002_f",
+      "en": "Oh, aren't you adorable?",
+      "cz": "Ach, nejsi rozkošná?",
+      "source": "pre_existing",
+      "original_cz": "Ach, nejsi rozkošná?"
+    },
+    {
+      "key": "MotherGothel_005_f",
+      "en": "But Mulan is a capable strategist, I'll give her that. Recruiting YOU, my only REAL competition here... Well.",
+      "cz": "Ale Mulan je schopná stratégka, to jí musím uznat. Naverbovat TEBE, mou jedinou SKUTEČNOU konkurenci tady... No.",
+      "source": "pre_existing",
+      "original_cz": "Ale Mulan je schopná stratégka, to jí musím uznat. Naverbovat TEBE, mou jedinou SKUTEČNOU konkurenci tady... No."
+    },
+    {
+      "key": "MotherGothel_006_f",
+      "en": "I didn't see that coming.",
+      "cz": "To jsem nečekala.",
+      "source": "pre_existing",
+      "original_cz": "To jsem nečekala."
+    },
+    {
+      "key": "MotherGothel_007_f",
+      "en": "No matter... I'll defeat her all the same. Other people only slow you down.",
+      "cz": "Nevadí... Stejně ji porazím. Ostatní lidé tě jen zpomalují.",
+      "source": "pre_existing",
+      "original_cz": "Nevadí... Stejně ji porazím. Ostatní lidé tě jen zpomalují."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "May the best team win.",
+      "cz": "Ať vyhraje nejlepší tým.",
+      "source": "pre_existing",
+      "original_cz": "Ať vyhraje nejlepší tým."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "That's not true.",
+      "cz": "To není pravda.",
+      "source": "pre_existing",
+      "original_cz": "To není pravda."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "What made you so cynical?",
+      "cz": "Co tě vedlo k takovému cynickému chování?",
+      "source": "pre_existing",
+      "original_cz": "Co tě vedlo k takovému cynickému chování?"
+    },
+    {
+      "key": "MotherGothel_012_f",
+      "en": "Oh, I will.",
+      "cz": "Ach, udělám to.",
+      "source": "pre_existing",
+      "original_cz": "Ach, udělám to."
+    },
+    {
+      "key": "MotherGothel_009_f",
+      "en": "Now then, I know that fool, the Fairy Godmother, is acting as arbiter for the contest.",
+      "cz": "Tak tedy vím, že ten blázen, Víla kmotra, v soutěži vystupuje jako arbitr.",
+      "source": "pre_existing",
+      "original_cz": "Tak tedy vím, že ten blázen, Víla kmotra, v soutěži vystupuje jako arbitr."
+    },
+    {
+      "key": "MotherGothel_010_f",
+      "en": "She's waiting for me to bring her <ActivityItem>Mini Flags</ActivityItem> for the competition. Since you're the last-minute entry, don't you think you ought to <Lore>make the flags and bring them to her</Lore>?",
+      "cz": "Čeká, až jí přinesu <ActivityItem>Mini vlaječky</ActivityItem> do soutěže. Jelikož se přihlašuješ na poslední chvíli, nemyslíš, že bys měla <Lore>ty vlaječky vyrobit a přinést jí je</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "Čeká, až jí přinesu <ActivityItem>Mini vlaječky</ActivityItem> do soutěže. Jelikož se přihlašuješ na poslední chvíli, nemyslíš, že bys měla <Lore>ty vlaječky vyrobit a přinést jí je</Lore>?"
+    },
+    {
+      "key": "MotherGothel_013_f",
+      "en": "Should be simple enough. Even for you...",
+      "cz": "Mělo by to být dost jednoduché. I pro tebe...",
+      "source": "pre_existing",
+      "original_cz": "Mělo by to být dost jednoduché. I pro tebe..."
+    },
+    {
+      "key": "MotherGothel_014_f",
+      "en": "Just kidding, dear. Ta-ta!",
+      "cz": "Jen žertuji, drahoušku. Ta-ta!",
+      "source": "pre_existing",
+      "original_cz": "Jen žertuji, drahoušku. Ta-ta!"
+    },
+    {
+      "key": "MotherGothel_015_f",
+      "en": "We'll see, won't we?",
+      "cz": "Uvidíme, že?",
+      "source": "pre_existing",
+      "original_cz": "Uvidíme, že?"
+    },
+    {
+      "key": "MotherGothel_016_f",
+      "en": "You say \"cynical,\" I say \"realistic.\" What matters is, I will be victorious.",
+      "cz": "Říkáš „cynické“, já říkám „realistické“. Důležité je, že zvítězím.",
+      "source": "pre_existing",
+      "original_cz": "Říkáš „cynické“, já říkám „realistické“. Důležité je, že zvítězím."
+    },
+    {
+      "key": "MotherGothel_003_f",
+      "en": "Fun... As if I was a child needing to be entertained... No, I intend to win.",
+      "cz": "Zábava... Jako bych byla dítě, které potřebuje zábavu... Ne, mám v úmyslu vyhrát.",
+      "source": "pre_existing",
+      "original_cz": "Zábava... Jako bych byla dítě, které potřebuje zábavu... Ne, mám v úmyslu vyhrát."
+    },
+    {
+      "key": "MotherGothel_004_f",
+      "en": "Of course you will, dear. You know who's the most talented in the Valley.",
+      "cz": "Samozřejmě, že ano, drahoušku. Víš, kdo je v Údolí nejtalentovanější.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě, že ano, drahoušku. Víš, kdo je v Údolí nejtalentovanější."
+    }
+  ]
+}

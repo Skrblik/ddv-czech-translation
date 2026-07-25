@@ -1,0 +1,300 @@
+{
+  "Aladdin_Elsa/Elsa_VLG_Jasm_030_VLG_Jasm_030_TalkTo01.locbin": [
+    {
+      "key": "Elsa_000_f",
+      "en": "Hi, Elsa! Jasmine and I are on a mission to find a missing key to open an old journal of mine. We think it's somewhere in the Frosted Heights.",
+      "cz": "Ahoj Elso! S Jasmínou se snažíme najít ztracený klíč k otevření mého starého deníku. Myslíme si, že je někde v Mrázných výšinách.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj Elso! S Jasmínou se snažíme najít ztracený klíč k otevření mého starého deníku. Myslíme si, že je někde v Mrázných výšinách."
+    },
+    {
+      "key": "Elsa_001_f",
+      "en": "Well, {PlayerName}, I was just about to come find you. Some odd, unbreakable ice surrounding a chest suddenly appeared in my Ice Cavern.",
+      "cz": "No, {PlayerName}, zrovna jsem se tě chystal najít. V mé Ledové jeskyni se najednou objevil nějaký zvláštní, nerozbitný led obklopující truhlu.",
+      "source": "pre_existing",
+      "original_cz": "No, {PlayerName}, zrovna jsem se tě chystal najít. V mé Ledové jeskyni se najednou objevil nějaký zvláštní, nerozbitný led obklopující truhlu."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "That's too much of a coincidence to not mean anything.",
+      "cz": "To je až příliš velká náhoda na to, aby to nic neznamenalo.",
+      "source": "pre_existing",
+      "original_cz": "To je až příliš velká náhoda na to, aby to nic neznamenalo."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Hmm... I wonder if that has to do with my journal?",
+      "cz": "Hmm... Zajímalo by mě, jestli to má něco společného s mým deníkem?",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Zajímalo by mě, jestli to má něco společného s mým deníkem?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "That's... random.",
+      "cz": "To je... náhodné.",
+      "source": "pre_existing",
+      "original_cz": "To je... náhodné."
+    },
+    {
+      "key": "Elsa_003_f",
+      "en": "You think the unbreakable ice is connected to the missing key?",
+      "cz": "Myslíš, že ten nerozbitný led má něco společného s chybějícím klíčem?",
+      "source": "pre_existing",
+      "original_cz": "Myslíš, že ten nerozbitný led má něco společného s chybějícím klíčem?"
+    },
+    {
+      "key": "Elsa_002_f",
+      "en": "Well... the first key for the journal was difficult to retrieve. I think I wanted to keep whatever is in my <ActivityItem>Secret Journal</ActivityItem> very safe.",
+      "cz": "No... první klíč k deníku se těžko získával. Myslím, že jsem chtěl cokoli v mém <ActivityItem>Tajném deníku</ActivityItem> uchovat v bezpečí.",
+      "source": "pre_existing",
+      "original_cz": "No... první klíč k deníku se těžko získával. Myslím, že jsem chtěl cokoli v mém <ActivityItem>Tajném deníku</ActivityItem> uchovat v bezpečí."
+    },
+    {
+      "key": "Elsa_011_f",
+      "en": "Before the Forgetting, someone must have asked for your help to keep this other key safe, too.",
+      "cz": "Před Zapomněním tě musel někdo požádat o pomoc, abys uchoval i tento druhý klíč.",
+      "source": "pre_existing",
+      "original_cz": "Před Zapomněním tě musel někdo požádat o pomoc, abys uchoval i tento druhý klíč."
+    },
+    {
+      "key": "Elsa_008_f",
+      "en": "And you think the missing key is in the chest. I understand.",
+      "cz": "A myslíš si, že chybějící klíč je v truhle. Chápu to.",
+      "source": "pre_existing",
+      "original_cz": "A myslíš si, že chybějící klíč je v truhle. Chápu to."
+    },
+    {
+      "key": "Elsa_009_f",
+      "en": "Exactly! <Lore>Let's go to your Ice Cavern and see if we can find a way to break the unbreakable ice</Lore>.",
+      "cz": "Přesně tak! <Lore>Pojďme do tvé Ledové jeskyně a zkusíme najít způsob, jak prolomit ten nerozbitný led</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Přesně tak! <Lore>Pojďme do tvé Ledové jeskyně a zkusíme najít způsob, jak prolomit ten nerozbitný led</Lore>."
+    },
+    {
+      "key": "Elsa_013_f",
+      "en": "It's the only way we'll know for sure.",
+      "cz": "Jen tak to budeme vědět jistě.",
+      "source": "pre_existing",
+      "original_cz": "Jen tak to budeme vědět jistě."
+    },
+    {
+      "key": "Elsa_004_f",
+      "en": "Why do you think that?",
+      "cz": "Proč si to myslíš?",
+      "source": "pre_existing",
+      "original_cz": "Proč si to myslíš?"
+    },
+    {
+      "key": "Elsa_005_f",
+      "en": "It certainly surprised me.",
+      "cz": "To mě rozhodně překvapilo.",
+      "source": "pre_existing",
+      "original_cz": "To mě rozhodně překvapilo."
+    },
+    {
+      "key": "Elsa_012_f",
+      "en": "I wonder if it has anything to do with the key I'm looking for?",
+      "cz": "Zajímalo by mě, jestli to má něco společného s klíčem, který hledám?",
+      "source": "pre_existing",
+      "original_cz": "Zajímalo by mě, jestli to má něco společného s klíčem, který hledám?"
+    }
+  ],
+  "Aladdin_Elsa/Elsa_VLG_Jasm_030_VLG_Jasm_030_TalkToDialog01.locbin": [
+    {
+      "key": "Elsa_000_f",
+      "en": "Here's the chest that appeared. The more I look at it, the more I remember...",
+      "cz": "Tady je truhla, která se objevila. Čím víc se na ni dívám, tím víc si na ni vzpomínám...",
+      "source": "pre_existing",
+      "original_cz": "Tady je truhla, která se objevila. Čím víc se na ni dívám, tím víc si na ni vzpomínám..."
+    },
+    {
+      "key": "Elsa_001_f",
+      "en": "Merlin and I used our magic to keep something safe for you at Jasmine's request.",
+      "cz": "S Merlinem jsme na Jasmíninu žádost použili naši magii, abychom pro tebe něco uchovali.",
+      "source": "pre_existing",
+      "original_cz": "S Merlinem jsme na Jasmíninu žádost použili naši magii, abychom pro tebe něco uchovali."
+    },
+    {
+      "key": "Elsa_012_f",
+      "en": "The <ActivityItem>Ice Key</ActivityItem>! I'm sure that's it!",
+      "cz": "<ActivityItem>Ledový klíč</ActivityItem>! Jsem si jistý, že to je on!",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Ledový klíč</ActivityItem>! Jsem si jistý, že to je on!"
+    },
+    {
+      "key": "Elsa_013_f",
+      "en": "I think you may be right, {PlayerName}. Unfortunately, the ice surrounding the chest seems to be unbreakable.",
+      "cz": "Myslím, že máš pravdu, {PlayerName}. Bohužel se zdá, že led obklopující hrudník je nerozbitný.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že máš pravdu, {PlayerName}. Bohužel se zdá, že led obklopující hrudník je nerozbitný."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "How do we break UNBREAKABLE ice?",
+      "cz": "Jak prolomíme NEPROLOMNÉ ledy?",
+      "source": "pre_existing",
+      "original_cz": "Jak prolomíme NEPROLOMNÉ ledy?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'm sure there's something we can do...",
+      "cz": "Jsem si jistý/á, že s tím můžeme něco udělat...",
+      "source": "pre_existing",
+      "original_cz": "Jsem si jistý/á, že s tím můžeme něco udělat..."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Well. We're doomed.",
+      "cz": "No, jsme odsouzeni k zániku.",
+      "source": "pre_existing",
+      "original_cz": "No, jsme odsouzeni k zániku."
+    },
+    {
+      "key": "Elsa_017_f",
+      "en": "With a little magic, perhaps?",
+      "cz": "S trochou magie, možná?",
+      "source": "pre_existing",
+      "original_cz": "S trochou magie, možná?"
+    },
+    {
+      "key": "Elsa_014_f",
+      "en": "I suspect the solution will be found in those two pedestals by the chest.",
+      "cz": "Mám podezření, že řešení se najde v těch dvou podstavcích u truhly.",
+      "source": "pre_existing",
+      "original_cz": "Mám podezření, že řešení se najde v těch dvou podstavcích u truhly."
+    },
+    {
+      "key": "Elsa_008_f",
+      "en": "There are symbols engraved on them: a sun and a snowflake. That has to mean something.",
+      "cz": "Jsou na nich vyryté symboly: slunce a sněhová vločka. To musí něco znamenat.",
+      "source": "pre_existing",
+      "original_cz": "Jsou na nich vyryté symboly: slunce a sněhová vločka. To musí něco znamenat."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Have you seen this sort of magic before?",
+      "cz": "Už jste někdy viděli takovou magii?",
+      "source": "pre_existing",
+      "original_cz": "Už jste někdy viděli takovou magii?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Those symbols may be pointing us towards somewhere sunny and somewhere snowy.",
+      "cz": "Tyto symboly nám mohou ukazovat na místo, kde je slunce, a na místo, kde je zasněženo.",
+      "source": "pre_existing",
+      "original_cz": "Tyto symboly nám mohou ukazovat na místo, kde je slunce, a na místo, kde je zasněženo."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Do you remember ANYTHING else?",
+      "cz": "Pamatuješ si ještě NĚCO?",
+      "source": "pre_existing",
+      "original_cz": "Pamatuješ si ještě NĚCO?"
+    },
+    {
+      "key": "Elsa_018_f",
+      "en": "I think so. It feels... familiar to me.",
+      "cz": "Myslím, že ano. Připadá mi to... povědomé.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že ano. Připadá mi to... povědomé."
+    },
+    {
+      "key": "Elsa_023_f",
+      "en": "I... I think the symbols are telling us where to go.",
+      "cz": "Myslím... myslím, že symboly nám říkají, kam máme jít.",
+      "source": "pre_existing",
+      "original_cz": "Myslím... myslím, že symboly nám říkají, kam máme jít."
+    },
+    {
+      "key": "Elsa_024_f",
+      "en": "Maybe the Sunlit Plateau and the Frosted Heights?",
+      "cz": "Možná Slunná plošina a Mrázné výšiny?",
+      "source": "pre_existing",
+      "original_cz": "Možná Slunná plošina a Mrázné výšiny?"
+    },
+    {
+      "key": "Elsa_021_f",
+      "en": "Wait... Something's coming back to me!",
+      "cz": "Počkej... Něco se mi vrací!",
+      "source": "pre_existing",
+      "original_cz": "Počkej... Něco se mi vrací!"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "I knew you'd remember something!",
+      "cz": "Věděl jsem, že si na něco vzpomeneš!",
+      "source": "pre_existing",
+      "original_cz": "Věděl jsem, že si na něco vzpomeneš!"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "So you know EXACTLY what to do now, right?",
+      "cz": "Takže teď přesně víš, co máš dělat, že?",
+      "source": "pre_existing",
+      "original_cz": "Takže teď přesně víš, co máš dělat, že?"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "YES!",
+      "cz": "ANO!",
+      "source": "pre_existing",
+      "original_cz": "ANO!"
+    },
+    {
+      "key": "Elsa_025_f",
+      "en": "Those symbols ARE <Lore>hidden around the Sunlit Plateau and the Frosted Heights</Lore>. They're connected to the pedestals with Merlin's magic.",
+      "cz": "Tyto symboly JSOU <Lore>skryté kolem Sluncem zalité plošiny a Mrázných výšin</Lore>. Jsou spojeny s podstavci Merlinovou magií.",
+      "source": "pre_existing",
+      "original_cz": "Tyto symboly JSOU <Lore>skryté kolem Sluncem zalité plošiny a Mrázných výšin</Lore>. Jsou spojeny s podstavci Merlinovou magií."
+    },
+    {
+      "key": "Elsa_026_f",
+      "en": "If you find all the symbols, the ice surrounding the chest should melt away, freeing whatever's inside.",
+      "cz": "Pokud najdete všechny symboly, led obklopující truhlu by se měl roztavit a uvolnit tak vše, co je uvnitř.",
+      "source": "pre_existing",
+      "original_cz": "Pokud najdete všechny symboly, led obklopující truhlu by se měl roztavit a uvolnit tak vše, co je uvnitř."
+    },
+    {
+      "key": "Elsa_010_f",
+      "en": "Brilliant! Thank you, Elsa! First things first, I'll <Lore>take a picture of the pedestals here</Lore> to use as a reference.",
+      "cz": "Skvělé! Děkuji, Elso! Nejdřív <Lore>vyfotím ty podstavce</Lore>, abych je použila jako referenci.",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Děkuji, Elso! Nejdřív <Lore>vyfotím ty podstavce</Lore>, abych je použila jako referenci."
+    },
+    {
+      "key": "Elsa_030_f",
+      "en": "Then I can <Lore>take pictures of the Pedestal Symbols around the Frosted Heights and the Sunlit Plateau</Lore>. I'll come back here when I'm done to see if the magic worked.",
+      "cz": "Pak můžu <Lore>vyfotit symboly podstavce kolem Mrázných výšin a Sluncem zalité plošiny</Lore>. Až budu hotový, vrátím se sem, abych se podíval, jestli kouzlo zabralo.",
+      "source": "pre_existing",
+      "original_cz": "Pak můžu <Lore>vyfotit symboly podstavce kolem Mrázných výšin a Sluncem zalité plošiny</Lore>. Až budu hotový, vrátím se sem, abych se podíval, jestli kouzlo zabralo."
+    },
+    {
+      "key": "Elsa_019_f",
+      "en": "That actually sounds familiar...",
+      "cz": "To vlastně zní povědomě...",
+      "source": "pre_existing",
+      "original_cz": "To vlastně zní povědomě..."
+    },
+    {
+      "key": "Elsa_020_f",
+      "en": "I... I think the symbols are telling us where to go.",
+      "cz": "Myslím... myslím, že symboly nám říkají, kam máme jít.",
+      "source": "pre_existing",
+      "original_cz": "Myslím... myslím, že symboly nám říkají, kam máme jít."
+    },
+    {
+      "key": "Elsa_003_f",
+      "en": "You're right, {PlayerName}.",
+      "cz": "Máte pravdu, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Máte pravdu, {PlayerName}."
+    },
+    {
+      "key": "Elsa_004_f",
+      "en": "Oh, I'm not so sure about that.",
+      "cz": "Ach, tím si nejsem tak jistý.",
+      "source": "pre_existing",
+      "original_cz": "Ach, tím si nejsem tak jistý."
+    }
+  ]
+}

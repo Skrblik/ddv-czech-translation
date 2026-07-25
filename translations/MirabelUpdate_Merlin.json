@@ -1,0 +1,559 @@
+{
+  "MirabelUpdate_Merlin/Merlin_SEC_Merl_020_SEC_Merl_020_BringItem01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "How marvelous! A <ActivityItem>Golden Doorknob</ActivityItem> with an M engraved in it!",
+      "cz": "To je úžasné! <ActivityItem>Zlatá klika</ActivityItem> s vyrytým M!",
+      "source": "pre_existing",
+      "original_cz": "To je úžasné! <ActivityItem>Zlatá klika</ActivityItem> s vyrytým M!"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Now, this may not look like much, {PlayerName}, but it's proof your efforts against the Forgetting are bearing fruit.",
+      "cz": "Možná to nevypadá moc dobře, {PlayerName}, ale je to důkaz, že tvé úsilí proti Zapomnění přináší ovoce.",
+      "source": "pre_existing",
+      "original_cz": "Možná to nevypadá moc dobře, {PlayerName}, ale je to důkaz, že tvé úsilí proti Zapomnění přináší ovoce."
+    },
+    {
+      "key": "Player_000_f",
+      "en": "I found this lying around the Village...",
+      "cz": "Tohle jsem našel ležet někde ve vesnici...",
+      "source": "pre_existing",
+      "original_cz": "Tohle jsem našel ležet někde ve vesnici..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Someone must be locked outside their home.",
+      "cz": "Někdo musí být zamčený před domem.",
+      "source": "pre_existing",
+      "original_cz": "Někdo musí být zamčený před domem."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Who does it belong to?",
+      "cz": "Komu to patří?",
+      "source": "pre_existing",
+      "original_cz": "Komu to patří?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I thought the local expert on weirdness might know what it is...",
+      "cz": "Myslel jsem, že místní expert na podivnosti by mohl vědět, co to je...",
+      "source": "pre_existing",
+      "original_cz": "Myslel jsem, že místní expert na podivnosti by mohl vědět, co to je..."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Oh, no, no. Not to worry, {PlayerName}. This <ActivityItem>Golden Doorknob</ActivityItem> belongs to a charming lass named Mirabel Madrigal.",
+      "cz": "Ach ne, ne. Neboj se, {PlayerName}. Tato <ActivityItem>Zlatá klika</ActivityItem> patří okouzlující dívce jménem Mirabel Madrigal.",
+      "source": "pre_existing",
+      "original_cz": "Ach ne, ne. Neboj se, {PlayerName}. Tato <ActivityItem>Zlatá klika</ActivityItem> patří okouzlující dívce jménem Mirabel Madrigal."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "You wanted her to feel at home. So, with my help, you enchanted her House to remind her of where she's from.",
+      "cz": "Chtěl jsi, aby se cítila jako doma. Tak jsi s mou pomocí očaroval její dům, aby jí připomněl, odkud pochází.",
+      "source": "pre_existing",
+      "original_cz": "Chtěl jsi, aby se cítila jako doma. Tak jsi s mou pomocí očaroval její dům, aby jí připomněl, odkud pochází."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I'm ready to do whatever it takes.",
+      "cz": "Jsem připraven udělat cokoli, co bude potřeba.",
+      "source": "pre_existing",
+      "original_cz": "Jsem připraven udělat cokoli, co bude potřeba."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "How do you prove that to a House?",
+      "cz": "Jak to dokážete koleji?",
+      "source": "pre_existing",
+      "original_cz": "Jak to dokážete koleji?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "So even the buildings are judging me now...",
+      "cz": "Takže mě teď soudí i ty budovy...",
+      "source": "pre_existing",
+      "original_cz": "Takže mě teď soudí i ty budovy..."
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "The enchantment gave the building the power to reflect Mirabel's kindness and energy. But even so...",
+      "cz": "Kouzlo dalo budově sílu odrážet Mirabelinu laskavost a energii. Ale i tak...",
+      "source": "pre_existing",
+      "original_cz": "Kouzlo dalo budově sílu odrážet Mirabelinu laskavost a energii. Ale i tak..."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "We never expected Mini-Casita to become quite so magical and so protective of its inhabitant.",
+      "cz": "Nikdy jsme nečekali, že se Mini-Casita stane tak magickou a tak ochranitelskou vůči svým obyvatelům.",
+      "source": "pre_existing",
+      "original_cz": "Nikdy jsme nečekali, že se Mini-Casita stane tak magickou a tak ochranitelskou vůči svým obyvatelům."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "What do you mean?",
+      "cz": "Co tím myslíš?",
+      "source": "pre_existing",
+      "original_cz": "Co tím myslíš?"
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "When the Forgetting struck, Mirabel, like many of us, started to lose her memories. Then, one morning, her House wasn't there anymore...",
+      "cz": "Když udeřilo Zapomnění, Mirabel, stejně jako mnoho z nás, začala ztrácet paměť. Pak, jednoho rána, její kolej už neexistovala...",
+      "source": "pre_existing",
+      "original_cz": "Když udeřilo Zapomnění, Mirabel, stejně jako mnoho z nás, začala ztrácet paměť. Pak, jednoho rána, její kolej už neexistovala..."
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "I quickly went to investigate, and what I discovered astonished me.",
+      "cz": "Rychle jsem se to vydal prozkoumat a to, co jsem objevil, mě ohromilo.",
+      "source": "pre_existing",
+      "original_cz": "Rychle jsem se to vydal prozkoumat a to, co jsem objevil, mě ohromilo."
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "To protect Mirabel, her home disappeared into a small universe of its own.",
+      "cz": "Aby ochránila Mirabel, její domov zmizel ve vlastním malém vesmíru.",
+      "source": "pre_existing",
+      "original_cz": "Aby ochránila Mirabel, její domov zmizel ve vlastním malém vesmíru."
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "Finding this <ActivityItem>Golden Doorknob</ActivityItem> can only mean one thing. Mini-Casita is considering coming back.",
+      "cz": "Nalezení této <ActivityItem>Zlaté kliky</ActivityItem> může znamenat jen jedno. Mini-Casita zvažuje návrat.",
+      "source": "pre_existing",
+      "original_cz": "Nalezení této <ActivityItem>Zlaté kliky</ActivityItem> může znamenat jen jedno. Mini-Casita zvažuje návrat."
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "But first, you'll need to prove to it that the Valley is safe once again.",
+      "cz": "Ale nejdřív mu budeš muset dokázat, že Údolí je opět bezpečné.",
+      "source": "pre_existing",
+      "original_cz": "Ale nejdřív mu budeš muset dokázat, že Údolí je opět bezpečné."
+    },
+    {
+      "key": "Merlin_012_f",
+      "en": "Marvelous!",
+      "cz": "Úžasné!",
+      "source": "pre_existing",
+      "original_cz": "Úžasné!"
+    },
+    {
+      "key": "Merlin_035_f",
+      "en": "After all, everyone appreciates being thought of.",
+      "cz": "Koneckonců, každý si váží toho, když na něj myslíte.",
+      "source": "pre_existing",
+      "original_cz": "Koneckonců, každý si váží toho, když na něj myslíte."
+    },
+    {
+      "key": "Merlin_022_f",
+      "en": "The more acts of kindness you perform, the more magic the <ActivityItem>Golden Doorknob</ActivityItem> will gain. Once it has enough, Mini-Casita will return.",
+      "cz": "Čím více laskavých skutků vykonáte, tím více magie <ActivityItem>Zlatá klika</ActivityItem> získá. Jakmile jich bude mít dostatek, Mini-Casita se vrátí.",
+      "source": "pre_existing",
+      "original_cz": "Čím více laskavých skutků vykonáte, tím více magie <ActivityItem>Zlatá klika</ActivityItem> získá. Jakmile jich bude mít dostatek, Mini-Casita se vrátí."
+    },
+    {
+      "key": "Merlin_023_f",
+      "en": "I'll give this a trial run. I'll talk to you once I'm done.",
+      "cz": "Zkusím to. Ozvu se ti, až budu hotový.",
+      "source": "pre_existing",
+      "original_cz": "Zkusím to. Ozvu se ti, až budu hotový."
+    },
+    {
+      "key": "Merlin_013_f",
+      "en": "Now, houses believe in deeds, not words. And houses often come to resemble their inhabitants.",
+      "cz": "Domy nyní věří činům, ne slovům. A domy se často stávají podobajícími se svým obyvatelům.",
+      "source": "pre_existing",
+      "original_cz": "Domy nyní věří činům, ne slovům. A domy se často stávají podobajícími se svým obyvatelům."
+    },
+    {
+      "key": "Merlin_014_f",
+      "en": "To prove the Valley's safe for Mirabel, you'll have to embody the Madrigals' values.",
+      "cz": "Abys dokázal/a, že Údolí je pro Mirabel bezpečné, budeš muset ztělesňovat hodnoty Madrigalů.",
+      "source": "pre_existing",
+      "original_cz": "Abys dokázal/a, že Údolí je pro Mirabel bezpečné, budeš muset ztělesňovat hodnoty Madrigalů."
+    },
+    {
+      "key": "Merlin_015_f",
+      "en": "What are the Madrigals' values?",
+      "cz": "Jaké jsou hodnoty Madrigalů?",
+      "source": "pre_existing",
+      "original_cz": "Jaké jsou hodnoty Madrigalů?"
+    },
+    {
+      "key": "Merlin_016_f",
+      "en": "Well, I'm told they always believe in bringing their village together to help the community.",
+      "cz": "No, prý vždycky věří v to, že je důležité spojit vesnici, aby pomohli komunitě.",
+      "source": "pre_existing",
+      "original_cz": "No, prý vždycky věří v to, že je důležité spojit vesnici, aby pomohli komunitě."
+    },
+    {
+      "key": "Merlin_017_f",
+      "en": "And I remember Mirabel checking in on everyone here to ensure their needs were fulfilled. Oh, and she also became quite fond of photographs, if that helps.",
+      "cz": "A pamatuji si, jak se Mirabel tady u všech ujišťovala, že jsou splněny jejich potřeby. A mimochodem, taky si docela oblíbila fotografie, jestli to pomůže.",
+      "source": "pre_existing",
+      "original_cz": "A pamatuji si, jak se Mirabel tady u všech ujišťovala, že jsou splněny jejich potřeby. A mimochodem, taky si docela oblíbila fotografie, jestli to pomůže."
+    },
+    {
+      "key": "Merlin_018_f",
+      "en": "Hmmm... I could take some pictures of Villagers.",
+      "cz": "Hmmm... Mohl bych vyfotit pár vesničanů.",
+      "source": "pre_existing",
+      "original_cz": "Hmmm... Mohl bych vyfotit pár vesničanů."
+    },
+    {
+      "key": "Merlin_019_f",
+      "en": "As for making sure everyone's needs are fulfilled... I could check what the Villagers need and give them some gifts.",
+      "cz": "Co se týče zajištění toho, aby byly splněny potřeby všech... mohl bych se podívat, co vesničané potřebují, a dát jim nějaké dárky.",
+      "source": "pre_existing",
+      "original_cz": "Co se týče zajištění toho, aby byly splněny potřeby všech... mohl bych se podívat, co vesničané potřebují, a dát jim nějaké dárky."
+    },
+    {
+      "key": "Merlin_020_f",
+      "en": "Fine ideas indeed, {PlayerName}. Why, simply engaging some of the Villagers in conversation might be enough.",
+      "cz": "Vskutku skvělé nápady, {PlayerName}. Možná by stačilo zapojit do konverzace některé vesničany.",
+      "source": "pre_existing",
+      "original_cz": "Vskutku skvělé nápady, {PlayerName}. Možná by stačilo zapojit do konverzace některé vesničany."
+    },
+    {
+      "key": "Merlin_024_f",
+      "en": "Not to worry. You'll find it's rather simple.",
+      "cz": "Nebojte se. Zjistíte, že je to docela jednoduché.",
+      "source": "pre_existing",
+      "original_cz": "Nebojte se. Zjistíte, že je to docela jednoduché."
+    },
+    {
+      "key": "Merlin_025_f",
+      "en": "Oh. Heh-heh-heh, uh, well. Most magical things have opinions...",
+      "cz": "Aha. Heh-heh-heh, ehm, no. Většina magických věcí má své názory...",
+      "source": "pre_existing",
+      "original_cz": "Aha. Heh-heh-heh, ehm, no. Většina magických věcí má své názory..."
+    },
+    {
+      "key": "Merlin_026_f",
+      "en": "Houses.",
+      "cz": "Domy.",
+      "source": "pre_existing",
+      "original_cz": "Domy."
+    },
+    {
+      "key": "Merlin_027_f",
+      "en": "Swords.",
+      "cz": "Meče.",
+      "source": "pre_existing",
+      "original_cz": "Meče."
+    },
+    {
+      "key": "Merlin_028_f",
+      "en": "Sugar bowls...",
+      "cz": "Cukřenky...",
+      "source": "pre_existing",
+      "original_cz": "Cukřenky..."
+    },
+    {
+      "key": "Merlin_029_f",
+      "en": "Sounds like there's a story there.",
+      "cz": "Zní to, jako by za tím byl nějaký příběh.",
+      "source": "pre_existing",
+      "original_cz": "Zní to, jako by za tím byl nějaký příběh."
+    },
+    {
+      "key": "Merlin_030_f",
+      "en": "Some other time, perhaps. We must focus on bringing Mirabel back to the Valley.",
+      "cz": "Možná někdy jindy. Musíme se soustředit na to, abychom přivedli Mirabel zpět do Údolí.",
+      "source": "pre_existing",
+      "original_cz": "Možná někdy jindy. Musíme se soustředit na to, abychom přivedli Mirabel zpět do Údolí."
+    },
+    {
+      "key": "Merlin_031_f",
+      "en": "The Old Ruler wanted her to feel at home. So, with my help, they enchanted her House to remind her of where she's from.",
+      "cz": "Starý vládce chtěl, aby se cítila jako doma. Takže s mou pomocí očarovali její rod, aby jí připomínal, odkud pochází.",
+      "source": "pre_existing",
+      "original_cz": "Starý vládce chtěl, aby se cítila jako doma. Takže s mou pomocí očarovali její rod, aby jí připomínal, odkud pochází."
+    },
+    {
+      "key": "Merlin_032_f",
+      "en": "Why, this belongs to a charming young lass named Mirabel Madrigal.",
+      "cz": "Vždyť tohle patří okouzlující mladé dívce jménem Mirabel Madrigal.",
+      "source": "pre_existing",
+      "original_cz": "Vždyť tohle patří okouzlující mladé dívce jménem Mirabel Madrigal."
+    },
+    {
+      "key": "Merlin_033_f",
+      "en": "Heh. \"Expert on weirdness.\" That's not a title I've ever heard before, but it does have a sort of ring to it, doesn't it?",
+      "cz": "Heh. „Expert na podivnosti.“ To není titul, který jsem ještě nikdy neslyšel, ale má to v sobě něco společného, ​​že?",
+      "source": "pre_existing",
+      "original_cz": "Heh. „Expert na podivnosti.“ To není titul, který jsem ještě nikdy neslyšel, ale má to v sobě něco společného, ​​že?"
+    },
+    {
+      "key": "Merlin_034_f",
+      "en": "Now then, this <ActivityItem>Golden Doorknob</ActivityItem> belongs to a charming young lass named Mirabel Madrigal.",
+      "cz": "Takže, tato <ActivityItem>Zlatá klika</ActivityItem> patří okouzlující mladé dívce jménem Mirabel Madrigal.",
+      "source": "pre_existing",
+      "original_cz": "Takže, tato <ActivityItem>Zlatá klika</ActivityItem> patří okouzlující mladé dívce jménem Mirabel Madrigal."
+    }
+  ],
+  "MirabelUpdate_Merlin/Merlin_SEC_Merl_020_SEC_Merl_020_Ongoing01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "{PlayerName}, were you hoping I would look at something? Well, you'll have to bring it to me first.",
+      "cz": "{PlayerName}, doufal jsi, že se na něco podívám? No, nejdřív mi to budeš muset přinést.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, doufal jsi, že se na něco podívám? No, nejdřív mi to budeš muset přinést."
+    }
+  ],
+  "MirabelUpdate_Merlin/Merlin_SEC_Merl_020_SEC_Merl_020_Ongoing02.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "You must charge the <ActivityItem>Golden Doorknob</ActivityItem> with Dreamlight Magic.",
+      "cz": "Musíte nabít <ActivityItem>Zlatou kliku</ActivityItem> pomocí Magie snového světla.",
+      "source": "pre_existing",
+      "original_cz": "Musíte nabít <ActivityItem>Zlatou kliku</ActivityItem> pomocí Magie snového světla."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "To do so, embody the Madrigals' values. Give gifts around the Village, talk to your neighbors, and take some photographs, too. Mirabel became quite fond of them when she first arrived here.",
+      "cz": "Abyste toho dosáhli, ztělesněte hodnoty Madrigalů. Rozdávejte dárky po vesnici, promluvte si se sousedy a také si pořiďte pár fotografií. Mirabel si je docela oblíbila, když sem poprvé přijela.",
+      "source": "pre_existing",
+      "original_cz": "Abyste toho dosáhli, ztělesněte hodnoty Madrigalů. Rozdávejte dárky po vesnici, promluvte si se sousedy a také si pořiďte pár fotografií. Mirabel si je docela oblíbila, když sem poprvé přijela."
+    }
+  ],
+  "MirabelUpdate_Merlin/Merlin_SEC_Merl_020_SEC_Merl_020_Ongoing03.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "If we want to bring Mirabel back, you'll need to create more Dreamlight.",
+      "cz": "Pokud chceme přivést zpět Mirabel, budeš muset vytvořit více Dreamlightu.",
+      "source": "pre_existing",
+      "original_cz": "Pokud chceme přivést zpět Mirabel, budeš muset vytvořit více Dreamlightu."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "And the best way to do that is to take care of the Village.",
+      "cz": "A nejlepší způsob, jak toho dosáhnout, je starat se o vesnici.",
+      "source": "pre_existing",
+      "original_cz": "A nejlepší způsob, jak toho dosáhnout, je starat se o vesnici."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "If you need a reminder of what you can do, don't forget to gaze in the waters of the Plaza Well.",
+      "cz": "Pokud si potřebujete připomenout, co můžete dělat, nezapomeňte se zadívat do vod Studny na náměstí.",
+      "source": "pre_existing",
+      "original_cz": "Pokud si potřebujete připomenout, co můžete dělat, nezapomeňte se zadívat do vod Studny na náměstí."
+    }
+  ],
+  "MirabelUpdate_Merlin/Merlin_SEC_Merl_020_SEC_Merl_020_Ongoing05.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Mini-Casita is back. It's up to you, {PlayerName}, to decide where it ought to go in the Valley.",
+      "cz": "Mini-Casita je zpět. Je na tobě, {PlayerName}, abys rozhodl, kam ji v údolí umístíš.",
+      "source": "pre_existing",
+      "original_cz": "Mini-Casita je zpět. Je na tobě, {PlayerName}, abys rozhodl, kam ji v údolí umístíš."
+    }
+  ],
+  "MirabelUpdate_Merlin/Merlin_SEC_Merl_020_SEC_Merl_020_Ongoing06.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Mirabel has returned to the Valley! That's a wonderful thing, you know.",
+      "cz": "Mirabel se vrátila do Údolí! To je úžasná věc, víš?",
+      "source": "pre_existing",
+      "original_cz": "Mirabel se vrátila do Údolí! To je úžasná věc, víš?"
+    }
+  ],
+  "MirabelUpdate_Merlin/Merlin_SEC_Merl_020_SEC_Merl_020_Ongoing07.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Well, you must welcome Mirabel, of course. Hurry! On your way! Go introduce yourself.",
+      "cz": "No, samozřejmě musíte přivítat Mirabel. Pospěšte si! Jděte! Představte se.",
+      "source": "pre_existing",
+      "original_cz": "No, samozřejmě musíte přivítat Mirabel. Pospěšte si! Jděte! Představte se."
+    }
+  ],
+  "MirabelUpdate_Merlin/Merlin_SEC_Merl_020_SEC_Merl_020_TalkTo01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Let's see how the <ActivityItem>Golden Doorknob</ActivityItem> reacted to your acts of kindness.",
+      "cz": "Podívejme se, jak <ActivityItem>Zlatá klika</ActivityItem> zareagovala na vaše laskavé projevy.",
+      "source": "pre_existing",
+      "original_cz": "Podívejme se, jak <ActivityItem>Zlatá klika</ActivityItem> zareagovala na vaše laskavé projevy."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "...",
+      "cz": "...",
+      "source": "pre_existing",
+      "original_cz": "..."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Ah-ha! Excellent work, {PlayerName}! We're getting closer, but we still need more Dreamlight.",
+      "cz": "Aha! Výborná práce, {PlayerName}! Blížíme se, ale pořád potřebujeme víc Dreamlightu.",
+      "source": "pre_existing",
+      "original_cz": "Aha! Výborná práce, {PlayerName}! Blížíme se, ale pořád potřebujeme víc Dreamlightu."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "What can I do?",
+      "cz": "Co můžu dělat?",
+      "source": "pre_existing",
+      "original_cz": "Co můžu dělat?"
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "The best way to create more is simply to take care of the Village.",
+      "cz": "Nejlepší způsob, jak vytvořit více, je jednoduše se starat o vesnici.",
+      "source": "pre_existing",
+      "original_cz": "Nejlepší způsob, jak vytvořit více, je jednoduše se starat o vesnici."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "If you need a reminder of what you can do, don't forget to gaze in the waters of the Plaza Well.",
+      "cz": "Pokud si potřebujete připomenout, co můžete dělat, nezapomeňte se zadívat do vod Studny na náměstí.",
+      "source": "pre_existing",
+      "original_cz": "Pokud si potřebujete připomenout, co můžete dělat, nezapomeňte se zadívat do vod Studny na náměstí."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "I'll go do that and check with you later.",
+      "cz": "Udělám to a později se s tebou ozvem.",
+      "source": "pre_existing",
+      "original_cz": "Udělám to a později se s tebou ozvem."
+    }
+  ],
+  "MirabelUpdate_Merlin/SEC_Merl_020.locbin": [
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_020_AvailableDescription",
+      "en": "You found a <ActivityItem>Golden Doorknob</ActivityItem>. You should bring it to Merlin; maybe he can tell you more about it...",
+      "cz": "Našel jsi <ActivityItem>Zlatou kliku</ActivityItem>. Měl bys ji přinést Merlinovi; možná ti o ní řekne víc...",
+      "source": "pre_existing",
+      "original_cz": "Našel jsi <ActivityItem>Zlatou kliku</ActivityItem>. Měl bys ji přinést Merlinovi; možná ti o ní řekne víc..."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_020_DisplayName",
+      "en": "The Golden Doorknob",
+      "cz": "Zlatá klika",
+      "source": "pre_existing",
+      "original_cz": "Zlatá klika"
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_020_Group01_Step01_BringItem01_StepDescription",
+      "en": "You need to know more about the <ActivityItem>Golden Doorknob</ActivityItem>.",
+      "cz": "Potřebujete se dozvědět více o <ActivityItem>Zlaté klice</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Potřebujete se dozvědět více o <ActivityItem>Zlaté klice</ActivityItem>."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_020_Group01_Step01_ReadyDescription",
+      "en": "Bring the <ActivityItem>Golden Doorknob</ActivityItem> to Merlin.",
+      "cz": "Přineste Merlinovi <ActivityItem>Zlatou kliku</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Přineste Merlinovi <ActivityItem>Zlatou kliku</ActivityItem>."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_020_Group01_StepDescription",
+      "en": "You found a strange artifact glowing with magical energy...",
+      "cz": "Nalezl jsi podivný artefakt zářící magickou energií...",
+      "source": "pre_existing",
+      "original_cz": "Nalezl jsi podivný artefakt zářící magickou energií..."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_020_Group02_Step02_TakePicture01_StepDescription",
+      "en": "Take pictures with different Villagers.",
+      "cz": "Vyfoťte se s různými vesničany.",
+      "source": "pre_existing",
+      "original_cz": "Vyfoťte se s různými vesničany."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_020_Group02_Step03_GiftToCharacter01_StepDescription",
+      "en": "Give different Villagers their favorite gifts.",
+      "cz": "Dejte různým vesničanům jejich oblíbené dárky.",
+      "source": "pre_existing",
+      "original_cz": "Dejte různým vesničanům jejich oblíbené dárky."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_020_Group02_Step04_StartDiscussion01_StepDescription",
+      "en": "Have daily discussions with different Villagers.",
+      "cz": "Veďte denní diskuse s různými vesničany.",
+      "source": "pre_existing",
+      "original_cz": "Veďte denní diskuse s různými vesničany."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_020_Group02_StoryDescription",
+      "en": "To welcome Mini-Casita back to the Village, you decided to embody the Madrigals' values by taking pictures, giving gifts around the Village, and talking to your neighbors.",
+      "cz": "Abyste přivítali Mini-Casitu zpět ve vesnici, rozhodli jste se ztělesnit hodnoty Madrigalů focením, rozdáváním dárků po vesnici a rozhovorem se sousedy.",
+      "source": "pre_existing",
+      "original_cz": "Abyste přivítali Mini-Casitu zpět ve vesnici, rozhodli jste se ztělesnit hodnoty Madrigalů focením, rozdáváním dárků po vesnici a rozhovorem se sousedy."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_020_Group03_Step05_TalkToCharacter01_StepDescription",
+      "en": "Return to Merlin.",
+      "cz": "Return to Merlin.",
+      "source": "pre_existing",
+      "original_cz": "Return to Merlin."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_020_Group04_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What's next?"
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_020_Group04_Step06_ReadyDescription",
+      "en": "Bring the Dreamlight to Merlin.",
+      "cz": "Přineste Merlinovi Světlo snů.",
+      "source": "pre_existing",
+      "original_cz": "Přineste Merlinovi Světlo snů."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_020_Group04_Step06_StepDescription",
+      "en": "Gather Dreamlight.",
+      "cz": "Gather Dreamlight.",
+      "source": "pre_existing",
+      "original_cz": "Gather Dreamlight."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_020_Group05_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How can I help?",
+      "cz": "<smallcaps>{title}</smallcaps><br>How can I help?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>How can I help?"
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_020_Group05_StepDescription",
+      "en": "Place Mini-Casita in the Village.",
+      "cz": "Umístěte Mini-Casitu do vesnice.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte Mini-Casitu do vesnice."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_020_Group05_StoryDescription",
+      "en": "You have accumulated enough Dreamlight to bring Mini-Casita back to Dreamlight Valley.",
+      "cz": "Nashromáždil jsi dostatek Světla snů, abys přivedl Mini-Casitu zpět do Údolí Snů.",
+      "source": "pre_existing",
+      "original_cz": "Nashromáždil jsi dostatek Světla snů, abys přivedl Mini-Casitu zpět do Údolí Snů."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_020_Group06_Step08_UnlockCharacter01_StepDescription",
+      "en": "Welcome Mirabel to the Valley.",
+      "cz": "Welcome Mirabel to the Valley.",
+      "source": "pre_existing",
+      "original_cz": "Welcome Mirabel to the Valley."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_020_Group07_Step09_TalkToCharacter02_StepDescription",
+      "en": "Talk to Mirabel.",
+      "cz": "Talk to Mirabel.",
+      "source": "pre_existing",
+      "original_cz": "Talk to Mirabel."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_020_Group07_StoryDescription",
+      "en": "Mirabel is back, and it's time to meet her.",
+      "cz": "Mirabel je zpět a je čas se s ní setkat.",
+      "source": "pre_existing",
+      "original_cz": "Mirabel je zpět a je čas se s ní setkat."
+    }
+  ]
+}

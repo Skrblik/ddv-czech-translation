@@ -1,0 +1,112 @@
+{
+  "MiniEvent21_Mickey/Mickey_CrossNPCDialogues_Mickey_Minnie_RPT_Mick_Valentines_010.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "Oh, Mickey! What a beautiful bouquet!",
+      "cz": "Mickey! To je ale krásná kytice!",
+      "source": "pre_existing",
+      "original_cz": "Mickey! To je ale krásná kytice!"
+    },
+    {
+      "key": "Mickey_001_f",
+      "en": "I had some help from {PlayerName}. Happy Valentine's Day, Minnie!",
+      "cz": "Pomohl/a mi {PlayerName}. Šťastného Valentýna, Minnie!",
+      "source": "pre_existing",
+      "original_cz": "Pomohl/a mi {PlayerName}. Šťastného Valentýna, Minnie!"
+    },
+    {
+      "key": "Mickey_002_f",
+      "en": "You even remembered to add dandelions! Thank you both so much!",
+      "cz": "Dokonce jste si vzpomněli přidat pampelišky! Moc vám oběma děkuji!",
+      "source": "pre_existing",
+      "original_cz": "Dokonce jste si vzpomněli přidat pampelišky! Moc vám oběma děkuji!"
+    }
+  ],
+  "MiniEvent21_Mickey/Mickey_RPT_Mick_Valentines_010_RPT_Mick_Valentines_010_BringItem01.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "Hot dog! These are perfect! Minnie's especially gonna love the dandelions. She feels bad for 'em 'cause some folks think of 'em as weeds. That's Minnie for ya; sweet as can be!",
+      "cz": "Párek v rohlíku! Ty jsou perfektní! Minnie si obzvlášť zamiluje pampelišky. Je jí jich líto, protože někteří lidé je považují za plevel. To je pro tebe Minnie; sladké, jak jen to jde!",
+      "source": "pre_existing",
+      "original_cz": "Párek v rohlíku! Ty jsou perfektní! Minnie si obzvlášť zamiluje pampelišky. Je jí jich líto, protože někteří lidé je považují za plevel. To je pro tebe Minnie; sladké, jak jen to jde!"
+    }
+  ],
+  "MiniEvent21_Mickey/Mickey_RPT_Mick_Valentines_010_RPT_Mick_Valentines_010_Intro.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "Hiya, {PlayerName}! I was just gathering some flowers for a bouquet for Minnie.",
+      "cz": "Ahoj, {PlayerName}! Zrovna jsem sbírala květiny na kytici pro Minnie.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}! Zrovna jsem sbírala květiny na kytici pro Minnie."
+    },
+    {
+      "key": "Mickey_001_f",
+      "en": "Wanna join me?",
+      "cz": "Chceš se ke mně přidat?",
+      "source": "pre_existing",
+      "original_cz": "Chceš se ke mně přidat?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'm in!",
+      "cz": "Jsem uvnitř!",
+      "source": "pre_existing",
+      "original_cz": "Jsem uvnitř!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Maybe later.",
+      "cz": "Možná později.",
+      "source": "pre_existing",
+      "original_cz": "Možná později."
+    },
+    {
+      "key": "Mickey_003_f",
+      "en": "Thanks, pal!",
+      "cz": "Díky, kámo!",
+      "source": "pre_existing",
+      "original_cz": "Díky, kámo!"
+    },
+    {
+      "key": "Mickey_002_f",
+      "en": "Sure thing, see ya real soon!",
+      "cz": "Jasně, brzy se uvidíme!",
+      "source": "pre_existing",
+      "original_cz": "Jasně, brzy se uvidíme!"
+    }
+  ],
+  "MiniEvent21_Mickey/Mickey_RPT_Mick_Valentines_010_RPT_Mick_Valentines_010_Ongoing01.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "For Minnie's bouquet, I'll need <ActivityItem>Red Bell Flowers</ActivityItem>, <ActivityItem>White & Red Hydrangeas</ActivityItem>, <ActivityItem>Red Daisies</ActivityItem>, and <ActivityItem>Dandelions</ActivityItem>.",
+      "cz": "Na kytici pro Minnie budu potřebovat <ActivityItem>červené zvonky</ActivityItem>, <ActivityItem>bílé a červené hortenzie</ActivityItem>, <ActivityItem>červené sedmikrásky</ActivityItem> ​​a <ActivityItem>pampelišky</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Na kytici pro Minnie budu potřebovat <ActivityItem>červené zvonky</ActivityItem>, <ActivityItem>bílé a červené hortenzie</ActivityItem>, <ActivityItem>červené sedmikrásky</ActivityItem> ​​a <ActivityItem>pampelišky</ActivityItem>."
+    }
+  ],
+  "MiniEvent21_Mickey/Mickey_RPT_Mick_Valentines_010_RPT_Mick_Valentines_010_Ongoing02.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "Is it time to bring those flowers we gathered to Minnie?",
+      "cz": "Je čas přinést Minnie ty květiny, které jsme nasbírali?",
+      "source": "pre_existing",
+      "original_cz": "Je čas přinést Minnie ty květiny, které jsme nasbírali?"
+    }
+  ],
+  "MiniEvent21_Mickey/Mickey_RPT_Mick_Valentines_010_RPT_Mick_Valentines_010_Outro.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "Minnie sure LOVED her bouquet. Thanks for picking flowers with me, pal!",
+      "cz": "Minnie si svou kytici opravdu zamilovala. Díky, že jsi se mnou natrhal květiny, kámo!",
+      "source": "pre_existing",
+      "original_cz": "Minnie si svou kytici opravdu zamilovala. Díky, že jsi se mnou natrhal květiny, kámo!"
+    },
+    {
+      "key": "Mickey_001_f",
+      "en": "And this is for you... I think it's just as important to celebrate your friends on Valentine's Day. Hope ya like it!",
+      "cz": "A tohle je pro tebe... Myslím, že je stejně důležité oslavit Valentýna i s přáteli. Doufám, že se ti to líbí!",
+      "source": "pre_existing",
+      "original_cz": "A tohle je pro tebe... Myslím, že je stejně důležité oslavit Valentýna i s přáteli. Doufám, že se ti to líbí!"
+    }
+  ]
+}

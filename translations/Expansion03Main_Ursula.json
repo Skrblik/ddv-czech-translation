@@ -1,0 +1,624 @@
+{
+  "Expansion03Main_Ursula/Ursula_VLG_Crue_020_VLG_Crue_020_BringItem01.locbin": [
+    {
+      "key": "Ursula_003_f",
+      "en": "Now, what is that delectable scent?",
+      "cz": "A co je to za lahodnou vůni?",
+      "source": "pre_existing",
+      "original_cz": "A co je to za lahodnou vůni?"
+    },
+    {
+      "key": "Ursula_004_f",
+      "en": "A taste of home, darling! I had {PlayerName} prepare us <ActivityItem>Jellied Salad</ActivityItem>. You simply must try it!",
+      "cz": "Chuť domova, drahoušku! Nechala jsem {PlayerName} nám připravit <ActivityItem>želé salát</ActivityItem>. Prostě ho musíš ochutnat!",
+      "source": "pre_existing",
+      "original_cz": "Chuť domova, drahoušku! Nechala jsem {PlayerName} nám připravit <ActivityItem>želé salát</ActivityItem>. Prostě ho musíš ochutnat!"
+    },
+    {
+      "key": "Ursula_005_f",
+      "en": "So what are the two of you up to today?",
+      "cz": "Tak co vy dva dnes děláte?",
+      "source": "pre_existing",
+      "original_cz": "Tak co vy dva dnes děláte?"
+    },
+    {
+      "key": "Ursula_006_f",
+      "en": "Very important business, dearie — gossip!",
+      "cz": "Velmi důležitá záležitost, drahoušku – drby!",
+      "source": "pre_existing",
+      "original_cz": "Velmi důležitá záležitost, drahoušku – drby!"
+    },
+    {
+      "key": "Ursula_008_f",
+      "en": "We were just discussing that fool Merlin's horrible lack of taste.",
+      "cz": "Zrovna jsme probírali ten blázen Merlinův hrozný nedostatek vkusu.",
+      "source": "pre_existing",
+      "original_cz": "Zrovna jsme probírali ten blázen Merlinův hrozný nedostatek vkusu."
+    },
+    {
+      "key": "Ursula_009_f",
+      "en": "Truly. If you're going to stick to one color palette, then it must be something classic! Black! White! But solid blocks of blue? He looks like he's trying to blend in with the sky!",
+      "cz": "Vážně. Pokud se chcete držet jedné barevné palety, pak to musí být něco klasického! Černá! Bílá! Ale jednolité bloky modré? Vypadá, jako by se snažil splynout s oblohou!",
+      "source": "pre_existing",
+      "original_cz": "Vážně. Pokud se chcete držet jedné barevné palety, pak to musí být něco klasického! Černá! Bílá! Ale jednolité bloky modré? Vypadá, jako by se snažil splynout s oblohou!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I agree. Black clothing never goes out of style.",
+      "cz": "Souhlasím. Černé oblečení nikdy nevyjde z módy.",
+      "source": "pre_existing",
+      "original_cz": "Souhlasím. Černé oblečení nikdy nevyjde z módy."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I like Merlin's clothing!",
+      "cz": "Líbí se mi Merlinovo oblečení!",
+      "source": "pre_existing",
+      "original_cz": "Líbí se mi Merlinovo oblečení!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I don't really have an eye for fashion.",
+      "cz": "Nemám moc cit pro módu.",
+      "source": "pre_existing",
+      "original_cz": "Nemám moc cit pro módu."
+    },
+    {
+      "key": "Ursula_010_f",
+      "en": "Well, look who's turned over a new stylish leaf!",
+      "cz": "No, podívejte se, kdo obrátil list stylově!",
+      "source": "pre_existing",
+      "original_cz": "No, podívejte se, kdo obrátil list stylově!"
+    },
+    {
+      "key": "Ursula_014_f",
+      "en": "Cruella, it's really a shame that you don't have authority over what everyone here wears.",
+      "cz": "Cruello, je to vážně škoda, že nemáš pravomoc rozhodovat o tom, co tady kdo nosí.",
+      "source": "pre_existing",
+      "original_cz": "Cruello, je to vážně škoda, že nemáš pravomoc rozhodovat o tom, co tady kdo nosí."
+    },
+    {
+      "key": "Ursula_015_f",
+      "en": "Oh, like some kind of fashion police?",
+      "cz": "Jako nějaká módní policie?",
+      "source": "pre_existing",
+      "original_cz": "Jako nějaká módní policie?"
+    },
+    {
+      "key": "Ursula_016_f",
+      "en": "Fashion... police? I've never heard of such a thing.",
+      "cz": "Móda... policie? O něčem takovém jsem nikdy neslyšel/a.",
+      "source": "pre_existing",
+      "original_cz": "Móda... policie? O něčem takovém jsem nikdy neslyšel/a."
+    },
+    {
+      "key": "Ursula_017_f",
+      "en": "But I adore the idea! The fashion crimes I've witnessed are absolutely tragic!",
+      "cz": "Ale ten nápad zbožňuju! Módní zločiny, kterých jsem byla svědkem, jsou naprosto tragické!",
+      "source": "pre_existing",
+      "original_cz": "Ale ten nápad zbožňuju! Módní zločiny, kterých jsem byla svědkem, jsou naprosto tragické!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Well, I don't think it's supposed to be understood literally.",
+      "cz": "No, myslím, že se to nemá chápat doslova.",
+      "source": "pre_existing",
+      "original_cz": "No, myslím, že se to nemá chápat doslova."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Oh no, what have I done...",
+      "cz": "Ach ne, co jsem to udělal/a...",
+      "source": "pre_existing",
+      "original_cz": "Ach ne, co jsem to udělal/a..."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Cruella, you'd be perfect!",
+      "cz": "Cruello, byla bys perfektní!",
+      "source": "pre_existing",
+      "original_cz": "Cruello, byla bys perfektní!"
+    },
+    {
+      "key": "Ursula_018_f",
+      "en": "Shush, {PlayerName}. What do you think, Cruella?",
+      "cz": "Pst, {PlayerName}. Co si o tom myslíš, Cruello?",
+      "source": "pre_existing",
+      "original_cz": "Pst, {PlayerName}. Co si o tom myslíš, Cruello?"
+    },
+    {
+      "key": "Ursula_019_f",
+      "en": "I think we could make quite an impact on the fashion landscape here...",
+      "cz": "Myslím, že bychom mohli docela ovlivnit módní scénu tady...",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že bychom mohli docela ovlivnit módní scénu tady..."
+    },
+    {
+      "key": "Ursula_022_f",
+      "en": "I've made a decision! Under my newly minted Fashion Police authority, I formally request that you...",
+      "cz": "Rozhodl jsem se! V rámci mé nově ustanovené pravomoci Módní policie vás formálně žádám, abyste...",
+      "source": "pre_existing",
+      "original_cz": "Rozhodl jsem se! V rámci mé nově ustanovené pravomoci Módní policie vás formálně žádám, abyste..."
+    },
+    {
+      "key": "Ursula_023_f",
+      "en": "...patrol the area and <Lore>take pictures of the Villagers</Lore>. I want to see what the fashions are in the Valley today... Purely for research, of course.",
+      "cz": "...hlídat oblast a <Lore>fotit vesničany</Lore>. Chci vidět, jaká je dnes v údolí móda... Čistě pro výzkum, samozřejmě.",
+      "source": "pre_existing",
+      "original_cz": "...hlídat oblast a <Lore>fotit vesničany</Lore>. Chci vidět, jaká je dnes v údolí móda... Čistě pro výzkum, samozřejmě."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Yes, ma'am!",
+      "cz": "Ano, paní!",
+      "source": "pre_existing",
+      "original_cz": "Ano, paní!"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "You won't judge anyone about it, will you?",
+      "cz": "Nikoho za to nebudeš soudit, že ne?",
+      "source": "pre_existing",
+      "original_cz": "Nikoho za to nebudeš soudit, že ne?"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Okay, but if you hurt anyone's feelings, I won't be happy.",
+      "cz": "Dobře, ale když někomu ublížíš, nebudu z toho šťastný.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, ale když někomu ublížíš, nebudu z toho šťastný."
+    },
+    {
+      "key": "Ursula_024_f",
+      "en": "How charming. Now, off with you!",
+      "cz": "Jak okouzlující. A teď pryč!",
+      "source": "pre_existing",
+      "original_cz": "Jak okouzlující. A teď pryč!"
+    },
+    {
+      "key": "Ursula_025_f",
+      "en": "Me? JUDGE? Why, {PlayerName}, I'd never dream of it.",
+      "cz": "Já? SOUDCE? No, {PlayerName}, to by mě ani ve snu nenapadlo.",
+      "source": "pre_existing",
+      "original_cz": "Já? SOUDCE? No, {PlayerName}, to by mě ani ve snu nenapadlo."
+    },
+    {
+      "key": "Ursula_026_f",
+      "en": "Look, Cruella. {PlayerName} thinks they've scared us.",
+      "cz": "Podívej, Cruello. {PlayerName} si myslí, že nás vyděsili.",
+      "source": "pre_existing",
+      "original_cz": "Podívej, Cruello. {PlayerName} si myslí, že nás vyděsili."
+    },
+    {
+      "key": "Ursula_020_f",
+      "en": "You've inspired us, {PlayerName}!",
+      "cz": "Inspiroval jsi nás, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Inspiroval jsi nás, {PlayerName}!"
+    },
+    {
+      "key": "Ursula_021_f",
+      "en": "Of course I would, darling. I always am.",
+      "cz": "Samozřejmě, že bych to udělal, zlato. Vždycky to udělám.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě, že bych to udělal, zlato. Vždycky to udělám."
+    },
+    {
+      "key": "Ursula_011_f",
+      "en": "How sad.",
+      "cz": "Jak smutné.",
+      "source": "pre_existing",
+      "original_cz": "Jak smutné."
+    },
+    {
+      "key": "Ursula_012_f",
+      "en": "Isn't it?",
+      "cz": "Není to tak?",
+      "source": "pre_existing",
+      "original_cz": "Není to tak?"
+    },
+    {
+      "key": "Ursula_013_f",
+      "en": "We know, darling. And aren't you lucky that I'm here to tell you how to dress?!",
+      "cz": "My víme, zlato. A nemáš štěstí, že jsem tu já, abych ti říkala, jak se máš oblékat?!",
+      "source": "pre_existing",
+      "original_cz": "My víme, zlato. A nemáš štěstí, že jsem tu já, abych ti říkala, jak se máš oblékat?!"
+    }
+  ],
+  "Expansion03Main_Ursula/Ursula_VLG_Crue_020_VLG_Crue_020_TalkTo01.locbin": [
+    {
+      "key": "Ursula_010_f",
+      "en": "All right, got those pictures for you!",
+      "cz": "Dobře, mám pro tebe ty fotky!",
+      "source": "pre_existing",
+      "original_cz": "Dobře, mám pro tebe ty fotky!"
+    },
+    {
+      "key": "Ursula_005_f",
+      "en": "Excellent! Now, which Villager's outfit should we... catalogue first?",
+      "cz": "Výborně! A teď, které oblečení vesničana bychom měli... katalogizovat jako první?",
+      "source": "pre_existing",
+      "original_cz": "Výborně! A teď, které oblečení vesničana bychom měli... katalogizovat jako první?"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "Let's look at the picture of...",
+      "cz": "Podívejme se na obrázek...",
+      "source": "pre_existing",
+      "original_cz": "Podívejme se na obrázek..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "...Snow White.",
+      "cz": "...Sněhurka.",
+      "source": "pre_existing",
+      "original_cz": "...Sněhurka."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "...Alice.",
+      "cz": "...Alice.",
+      "source": "pre_existing",
+      "original_cz": "...Alice."
+    },
+    {
+      "key": "Player_000_choice_003_f",
+      "en": "...Daisy.",
+      "cz": "...Sedmikráska.",
+      "source": "pre_existing",
+      "original_cz": "...Sedmikráska."
+    },
+    {
+      "key": "Ursula_006_f",
+      "en": "UGH! What are those color choices?!",
+      "cz": "Ugh! Co je to za výběr barev?!",
+      "source": "pre_existing",
+      "original_cz": "Ugh! Co je to za výběr barev?!"
+    },
+    {
+      "key": "Ursula_011_f",
+      "en": "I know! Those primaries are like she was dressed by a child's nursery!",
+      "cz": "Já vím! Ty primárky vypadají, jako by ji oblékla dětská školka!",
+      "source": "pre_existing",
+      "original_cz": "Já vím! Ty primárky vypadají, jako by ji oblékla dětská školka!"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "You're both being mean. There's nothing wrong with those outfits.",
+      "cz": "Oba jste zlí. Na těch outfitech není nic špatného.",
+      "source": "pre_existing",
+      "original_cz": "Oba jste zlí. Na těch outfitech není nic špatného."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "I'm not big on fashion. I'll take your word on things.",
+      "cz": "Nejsem moc módní nadšenec. Budu ti věřit na slovo.",
+      "source": "pre_existing",
+      "original_cz": "Nejsem moc módní nadšenec. Budu ti věřit na slovo."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "The Ranch is lucky it has perceptive fashionistas like you two!",
+      "cz": "Ranč má štěstí, že má vnímavé milovníky módy, jako jste vy dva!",
+      "source": "pre_existing",
+      "original_cz": "Ranč má štěstí, že má vnímavé milovníky módy, jako jste vy dva!"
+    },
+    {
+      "key": "Ursula_000_f",
+      "en": "Nothing wrong? HA!",
+      "cz": "Nic se nestalo? HA!",
+      "source": "pre_existing",
+      "original_cz": "Nic se nestalo? HA!"
+    },
+    {
+      "key": "Ursula_001_f",
+      "en": "Really, {PlayerName}, I thought you'd learned something about fashion during our time together.",
+      "cz": "Vážně, {PlayerName}, myslel jsem, že ses během naší společné doby něco o módě naučila.",
+      "source": "pre_existing",
+      "original_cz": "Vážně, {PlayerName}, myslel jsem, že ses během naší společné doby něco o módě naučila."
+    },
+    {
+      "key": "Ursula_009_f",
+      "en": "Looking at these pictures, I'm not surprised the Villagers have lived down to my horribly low expectations.",
+      "cz": "Když se dívám na tyto fotky, nepřekvapuje mě, že vesničané splnili má strašně nízká očekávání.",
+      "source": "pre_existing",
+      "original_cz": "Když se dívám na tyto fotky, nepřekvapuje mě, že vesničané splnili má strašně nízká očekávání."
+    },
+    {
+      "key": "Ursula_014_f",
+      "en": "It's almost as if the images <i>highlight</i> their pathetic choices.",
+      "cz": "Je to skoro, jako by ty obrázky <i>zdůrazňovaly</i> jejich ubohé volby.",
+      "source": "pre_existing",
+      "original_cz": "Je to skoro, jako by ty obrázky <i>zdůrazňovaly</i> jejich ubohé volby."
+    },
+    {
+      "key": "Ursula_015_f",
+      "en": "As the Fashion Police, we must do something about it! And I'll start with you, {PlayerName}. You should be setting a better example!",
+      "cz": "Jako módní policie s tím musíme něco udělat! A začnu s tebou, {PlayerName}. Měl bys jít lepším příkladem!",
+      "source": "pre_existing",
+      "original_cz": "Jako módní policie s tím musíme něco udělat! A začnu s tebou, {PlayerName}. Měl bys jít lepším příkladem!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Hey, I like my outfit!",
+      "cz": "Hej, líbí se mi můj outfit!",
+      "source": "pre_existing",
+      "original_cz": "Hej, líbí se mi můj outfit!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Oh no, you're so right!",
+      "cz": "Ale ne, máš naprostou pravdu!",
+      "source": "pre_existing",
+      "original_cz": "Ale ne, máš naprostou pravdu!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I can change into something else, I guess.",
+      "cz": "Asi se můžu převléknout do něčeho jiného.",
+      "source": "pre_existing",
+      "original_cz": "Asi se můžu převléknout do něčeho jiného."
+    },
+    {
+      "key": "Ursula_016_f",
+      "en": "Well, you shouldn't.",
+      "cz": "No, neměl bys.",
+      "source": "pre_existing",
+      "original_cz": "No, neměl bys."
+    },
+    {
+      "key": "Ursula_019_f",
+      "en": "Go change into something <Lore>Professional and Modern</Lore>, and then <Lore>meet me back at my House</Lore> so I can see if your new outfit is what this dreary place needs.",
+      "cz": "Jdi se převléknout do něčeho <Lore>profesionálního a moderního</Lore> a pak <Lore>se se mnou sejdeme zpátky u mě doma</Lore>, ať se podívám, jestli tvůj nový outfit je to, co tohle ponuré místo potřebuje.",
+      "source": "pre_existing",
+      "original_cz": "Jdi se převléknout do něčeho <Lore>profesionálního a moderního</Lore> a pak <Lore>se se mnou sejdeme zpátky u mě doma</Lore>, ať se podívám, jestli tvůj nový outfit je to, co tohle ponuré místo potřebuje."
+    },
+    {
+      "key": "Ursula_017_f",
+      "en": "Of course I am!",
+      "cz": "Samozřejmě, že jsem!",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě, že jsem!"
+    },
+    {
+      "key": "Ursula_018_f",
+      "en": "No dilly-dallying now!",
+      "cz": "Teď žádné otálení!",
+      "source": "pre_existing",
+      "original_cz": "Teď žádné otálení!"
+    },
+    {
+      "key": "Ursula_020_f",
+      "en": "How clever of you to defer to my opinion!",
+      "cz": "To je od tebe chytré, že se řídíš mým názorem!",
+      "source": "pre_existing",
+      "original_cz": "To je od tebe chytré, že se řídíš mým názorem!"
+    },
+    {
+      "key": "Ursula_008_f",
+      "en": "That poor child. She shouldn't have to bear the consequences of her parents' lack of taste.",
+      "cz": "To ubohé dítě. Neměla by nést následky nevkusu svých rodičů.",
+      "source": "pre_existing",
+      "original_cz": "To ubohé dítě. Neměla by nést následky nevkusu svých rodičů."
+    },
+    {
+      "key": "Ursula_013_f",
+      "en": "You're absolutely right. Perhaps I should take her under my wing and bring her clothing into the proper century!",
+      "cz": "Máte naprostou pravdu. Možná bych si ji měl vzít pod svá ochranná křídla a uvést její oblečení do správného století!",
+      "source": "pre_existing",
+      "original_cz": "Máte naprostou pravdu. Možná bych si ji měl vzít pod svá ochranná křídla a uvést její oblečení do správného století!"
+    },
+    {
+      "key": "Ursula_002_f",
+      "en": "Circus clothing? I wish she'd run away and join it!",
+      "cz": "Cirkusové oblečení? Kéž by utekla a přidala se k nim!",
+      "source": "pre_existing",
+      "original_cz": "Cirkusové oblečení? Kéž by utekla a přidala se k nim!"
+    },
+    {
+      "key": "Ursula_003_f",
+      "en": "HA! Someone really needs to tell her that dressing for a garden party never means wearing actual flowers on your head!",
+      "cz": "HA! Někdo jí vážně musí říct, že obléknout se na zahradní slavnost nikdy neznamená mít na hlavě skutečné květiny!",
+      "source": "pre_existing",
+      "original_cz": "HA! Někdo jí vážně musí říct, že obléknout se na zahradní slavnost nikdy neznamená mít na hlavě skutečné květiny!"
+    },
+    {
+      "key": "Ursula_004_f",
+      "en": "Dreadful! For someone who calls herself a designer, I see no design at all!",
+      "cz": "Hrozné! Na někoho, kdo si říká designér, v tom nevidím vůbec žádný design!",
+      "source": "pre_existing",
+      "original_cz": "Hrozné! Na někoho, kdo si říká designér, v tom nevidím vůbec žádný design!"
+    }
+  ],
+  "Expansion03Main_Ursula/Ursula_VLG_Crue_030_VLG_Crue_030_TalkTo02.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Ursula? Can we talk about Cruella?",
+      "cz": "Ursulo? Můžeme si promluvit o Cruelle?",
+      "source": "pre_existing",
+      "original_cz": "Ursulo? Můžeme si promluvit o Cruelle?"
+    },
+    {
+      "key": "Ursula_001_f",
+      "en": "Of course, angelfish! Let me guess: She's out of sorts over something she lost?",
+      "cz": "Jasně, andělská rybka! Nech mě hádat: Je z toho, že něco ztratila, naštvaná?",
+      "source": "pre_existing",
+      "original_cz": "Jasně, andělská rybka! Nech mě hádat: Je z toho, že něco ztratila, naštvaná?"
+    },
+    {
+      "key": "Ursula_002_f",
+      "en": "Uhhh, yeah. Do you know anything about that?",
+      "cz": "Ehm, jo. Víš o tom něco?",
+      "source": "pre_existing",
+      "original_cz": "Ehm, jo. Víš o tom něco?"
+    },
+    {
+      "key": "Ursula_003_f",
+      "en": "Absolutely, dearie! I took it. It was just TOO easy! HA-HA-HA!",
+      "cz": "Rozhodně, drahoušku! Vzala jsem si to. Bylo to prostě PŘÍLIŠ snadné! HA-HA-HA!",
+      "source": "pre_existing",
+      "original_cz": "Rozhodně, drahoušku! Vzala jsem si to. Bylo to prostě PŘÍLIŠ snadné! HA-HA-HA!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Huh, I thought you'd deny it.",
+      "cz": "Hmm, myslel jsem, že to budeš popírat.",
+      "source": "pre_existing",
+      "original_cz": "Hmm, myslel jsem, že to budeš popírat."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Was Cruella really being THAT annoying?",
+      "cz": "Byla Cruella vážně TAK otravná?",
+      "source": "pre_existing",
+      "original_cz": "Byla Cruella vážně TAK otravná?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Honestly, I get it.",
+      "cz": "Upřímně, chápu to.",
+      "source": "pre_existing",
+      "original_cz": "Upřímně, chápu to."
+    },
+    {
+      "key": "Ursula_004_f",
+      "en": "Certainly not!",
+      "cz": "Rozhodně ne!",
+      "source": "pre_existing",
+      "original_cz": "Rozhodně ne!"
+    },
+    {
+      "key": "Ursula_007_f",
+      "en": "Cruella was being so superior, insulting my gorgeous line of beach wear. She claimed that a sense of fashion was ingrained — that I was doomed to never fully understand where I went wrong in my design!",
+      "cz": "Cruella se chovala tak povýšeně, urážela mou nádhernou řadu plážového oblečení. Tvrdila, že smysl pro módu mám vrozeně – že jsem odsouzena k tomu, že nikdy plně nepochopím, kde jsem ve svém návrhu udělala chybu!",
+      "source": "pre_existing",
+      "original_cz": "Cruella se chovala tak povýšeně, urážela mou nádhernou řadu plážového oblečení. Tvrdila, že smysl pro módu mám vrozeně – že jsem odsouzena k tomu, že nikdy plně nepochopím, kde jsem ve svém návrhu udělala chybu!"
+    },
+    {
+      "key": "Ursula_008_f",
+      "en": "Tell me I'm wrong about something — fine! But to say that it's completely outside my grasp? Well, I had to show her that SHE was wrong.",
+      "cz": "Řekni mi, že se v něčem mýlím – fajn! Ale říct, že je to úplně mimo mé chápání? No, musel jsem jí ukázat, že se mýlí ONA.",
+      "source": "pre_existing",
+      "original_cz": "Řekni mi, že se v něčem mýlím – fajn! Ale říct, že je to úplně mimo mé chápání? No, musel jsem jí ukázat, že se mýlí ONA."
+    },
+    {
+      "key": "Ursula_009_f",
+      "en": "So, I brewed up one of my potions and told her only to drink it if she was confident her fashion sense was truly a part of her...",
+      "cz": "Takže jsem uvařila jeden ze svých lektvarů a řekla jí, aby ho pila, jen pokud si je jistá, že její módní smysl je skutečně součástí její...",
+      "source": "pre_existing",
+      "original_cz": "Takže jsem uvařila jeden ze svých lektvarů a řekla jí, aby ho pila, jen pokud si je jistá, že její módní smysl je skutečně součástí její..."
+    },
+    {
+      "key": "Ursula_010_f",
+      "en": "...and now her fashion sense is locked away in my potion vial!",
+      "cz": "...a teď je její smysl pro módu zamčený v mé lahvičce s lektvary!",
+      "source": "pre_existing",
+      "original_cz": "...a teď je její smysl pro módu zamčený v mé lahvičce s lektvary!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Honestly, that's kinda funny.",
+      "cz": "Upřímně, je to docela vtipné.",
+      "source": "pre_existing",
+      "original_cz": "Upřímně, je to docela vtipné."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Oh boy...",
+      "cz": "Ach jo...",
+      "source": "pre_existing",
+      "original_cz": "Ach jo..."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Can you... give it back to her now?",
+      "cz": "Můžeš jí to... teď vrátit?",
+      "source": "pre_existing",
+      "original_cz": "Můžeš jí to... teď vrátit?"
+    },
+    {
+      "key": "Ursula_011_f",
+      "en": "It is, isn't it?",
+      "cz": "Je to tak, že?",
+      "source": "pre_existing",
+      "original_cz": "Je to tak, že?"
+    },
+    {
+      "key": "Ursula_014_f",
+      "en": "So what, you're going to use her fashion sense now? Vanessa rides again to the fashion show?",
+      "cz": "Tak co, teď použiješ její módní smysl? Vanessa zase pojede na módní přehlídku?",
+      "source": "pre_existing",
+      "original_cz": "Tak co, teď použiješ její módní smysl? Vanessa zase pojede na módní přehlídku?"
+    },
+    {
+      "key": "Ursula_015_f",
+      "en": "Oh, I'm not interested in her trite little hobbies. I gave the fashion sense to Tigger.",
+      "cz": "Její otřepané koníčky mě nezajímají. Vkus pro módu jsem dala Tygrovci.",
+      "source": "pre_existing",
+      "original_cz": "Její otřepané koníčky mě nezajímají. Vkus pro módu jsem dala Tygrovci."
+    },
+    {
+      "key": "Ursula_016_f",
+      "en": "What?! Why?",
+      "cz": "Cože?! Proč?",
+      "source": "pre_existing",
+      "original_cz": "Cože?! Proč?"
+    },
+    {
+      "key": "Ursula_017_f",
+      "en": "To amuse me! That bouncing buffoon is the least fashionable resident of the Ranch. And now I hear he calls himself the \"Tiggerific King of Fashion.\"",
+      "cz": "Aby mě to pobavilo! Ten poskakující šašek je nejméně módním obyvatelem Ranče. A teď slyším, že si říká „Tyggerific King of Móda“.",
+      "source": "pre_existing",
+      "original_cz": "Aby mě to pobavilo! Ten poskakující šašek je nejméně módním obyvatelem Ranče. A teď slyším, že si říká „Tyggerific King of Móda“."
+    },
+    {
+      "key": "Ursula_018_f",
+      "en": "Since he still isn't wearing clothes, I'm not sure he understands the concept of fashion, but it infuriates Cruella, so I'm thrilled!",
+      "cz": "Protože stále nenosí oblečení, nejsem si jistá, jestli chápe koncept módy, ale Cruellu to rozzuřuje, takže jsem nadšená!",
+      "source": "pre_existing",
+      "original_cz": "Protože stále nenosí oblečení, nejsem si jistá, jestli chápe koncept módy, ale Cruellu to rozzuřuje, takže jsem nadšená!"
+    },
+    {
+      "key": "Ursula_019_f",
+      "en": "*sigh* ... Guess I'm going <Lore>to talk to Tigger</Lore>.",
+      "cz": "*povzdech* ... Asi si jdu <Lore>promluvit s Tygrem</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "*povzdech* ... Asi si jdu <Lore>promluvit s Tygrem</Lore>."
+    },
+    {
+      "key": "Ursula_020_f",
+      "en": "Good luck, angelfish! I'll tell Cruella to find you and Tigger. I'm sure she'll just LOVE that conversation.",
+      "cz": "Hodně štěstí, andělko! Řeknu Cruelle, ať najde tebe a Tygra. Jsem si jistá, že si ten rozhovor prostě užije.",
+      "source": "pre_existing",
+      "original_cz": "Hodně štěstí, andělko! Řeknu Cruelle, ať najde tebe a Tygra. Jsem si jistá, že si ten rozhovor prostě užije."
+    },
+    {
+      "key": "Ursula_012_f",
+      "en": "Well, if you ask me, she had it coming.",
+      "cz": "No, podle mě si to zasloužila.",
+      "source": "pre_existing",
+      "original_cz": "No, podle mě si to zasloužila."
+    },
+    {
+      "key": "Ursula_013_f",
+      "en": "Sorry, dearie.",
+      "cz": "Promiň, drahoušku.",
+      "source": "pre_existing",
+      "original_cz": "Promiň, drahoušku."
+    },
+    {
+      "key": "Ursula_005_f",
+      "en": "Oh, you have no idea.",
+      "cz": "Ach, to nemáš tušení.",
+      "source": "pre_existing",
+      "original_cz": "Ach, to nemáš tušení."
+    },
+    {
+      "key": "Ursula_006_f",
+      "en": "And that's why you're one of the only do-gooders I can tolerate!",
+      "cz": "A proto jsi jeden z mála dobrodinců, které dokážu tolerovat!",
+      "source": "pre_existing",
+      "original_cz": "A proto jsi jeden z mála dobrodinců, které dokážu tolerovat!"
+    }
+  ]
+}

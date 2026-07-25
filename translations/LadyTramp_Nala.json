@@ -1,0 +1,237 @@
+{
+  "LadyTramp_Nala/Nala_VLG_Lady_030_VLG_Lady_030_BringItem01.locbin": [
+    {
+      "key": "Nala_002_f",
+      "en": "We found all the balls! How did we do, Nala?",
+      "cz": "Našli jsme všechny koule! Jak se nám dařilo, Nalo?",
+      "source": "pre_existing",
+      "original_cz": "Našli jsme všechny koule! Jak se nám dařilo, Nalo?"
+    },
+    {
+      "key": "Nala_003_f",
+      "en": "Not bad! I've got a few pointers that we can go over next time we meet.",
+      "cz": "To není špatné! Mám pár tipů, které si můžeme probrat, až se příště setkáme.",
+      "source": "pre_existing",
+      "original_cz": "To není špatné! Mám pár tipů, které si můžeme probrat, až se příště setkáme."
+    },
+    {
+      "key": "Nala_000_f",
+      "en": "But I think you've learned a lot for today. We can talk again tomorrow about the next stage of your training.",
+      "cz": "Ale myslím, že ses toho za dnešek hodně naučil. O další fázi tvého výcviku si můžeme promluvit znovu zítra.",
+      "source": "pre_existing",
+      "original_cz": "Ale myslím, že ses toho za dnešek hodně naučil. O další fázi tvého výcviku si můžeme promluvit znovu zítra."
+    },
+    {
+      "key": "Nala_001_f",
+      "en": "Thank you, Nala! Isn't this exciting, {PlayerName}? Let's go <Lore>tell Tramp</Lore> about our training. I'm sure he'll be very proud!",
+      "cz": "Děkuji, Nalo! Není to vzrušující, {PlayerName}? Pojďme <Lore>řeknout Trampovi</Lore> o našem tréninku. Jsem si jistá, že na nás bude moc pyšný!",
+      "source": "pre_existing",
+      "original_cz": "Děkuji, Nalo! Není to vzrušující, {PlayerName}? Pojďme <Lore>řeknout Trampovi</Lore> o našem tréninku. Jsem si jistá, že na nás bude moc pyšný!"
+    },
+    {
+      "key": "Nala_025_f",
+      "en": "Sure, let's head out and find him!",
+      "cz": "Jasně, pojďme ven a najdeme ho!",
+      "source": "pre_existing",
+      "original_cz": "Jasně, pojďme ven a najdeme ho!"
+    }
+  ],
+  "LadyTramp_Nala/Nala_VLG_Lady_030_VLG_Lady_030_TalkTo01.locbin": [
+    {
+      "key": "Nala_001_f",
+      "en": "YOU'VE BEEN POUNCED!",
+      "cz": "BYL JSI NAPADEN!",
+      "source": "pre_existing",
+      "original_cz": "BYL JSI NAPADEN!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "OH NO!",
+      "cz": "ACH NE!",
+      "source": "pre_existing",
+      "original_cz": "ACH NE!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Wow, you really came out of nowhere!",
+      "cz": "Páni, ty ses vážně objevil/a z ničeho nic!",
+      "source": "pre_existing",
+      "original_cz": "Páni, ty ses vážně objevil/a z ničeho nic!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Did you smell her coming, Lady?",
+      "cz": "Cítila jsi, jak se blíží, paní?",
+      "source": "pre_existing",
+      "original_cz": "Cítila jsi, jak se blíží, paní?"
+    },
+    {
+      "key": "Nala_002_f",
+      "en": "It's all right if you didn't see or smell me coming.",
+      "cz": "To je v pořádku, pokud jsi mě neviděl nebo necítil přicházet.",
+      "source": "pre_existing",
+      "original_cz": "To je v pořádku, pokud jsi mě neviděl nebo necítil přicházet."
+    },
+    {
+      "key": "Nala_006_f",
+      "en": "But keep up your training, and I'm sure you'll be fairly good at stealth and pouncing in no time.",
+      "cz": "Ale pokračuj v tréninku a jsem si jistý, že brzy budeš docela dobrý v nenápadnosti a skokech.",
+      "source": "pre_existing",
+      "original_cz": "Ale pokračuj v tréninku a jsem si jistý, že brzy budeš docela dobrý v nenápadnosti a skokech."
+    },
+    {
+      "key": "Nala_000_f",
+      "en": "What's the next stage of the training? More pouncing?",
+      "cz": "Jaká je další fáze tréninku? Další skoky?",
+      "source": "pre_existing",
+      "original_cz": "Jaká je další fáze tréninku? Další skoky?"
+    },
+    {
+      "key": "Nala_015_f",
+      "en": "Yes. But it'll get a little trickier now. The balls Merlin made will move around, so you'll have to time your pounces carefully.",
+      "cz": "Ano. Ale teď to bude trochu složitější. Koule, které Merlin vyrobil, se budou pohybovat, takže si budete muset pečlivě načasovat skoky.",
+      "source": "pre_existing",
+      "original_cz": "Ano. Ale teď to bude trochu složitější. Koule, které Merlin vyrobil, se budou pohybovat, takže si budete muset pečlivě načasovat skoky."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I guess Merlin was a big help with setting this up!",
+      "cz": "Myslím, že Merlin s tímhle hodně pomohl!",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že Merlin s tímhle hodně pomohl!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Are you going to be pouncing on us again during the next stage?",
+      "cz": "Budeš se na nás v další fázi znovu vrhat?",
+      "source": "pre_existing",
+      "original_cz": "Budeš se na nás v další fázi znovu vrhat?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Lady, you've got this!",
+      "cz": "Paní, na to máš!",
+      "source": "pre_existing",
+      "original_cz": "Paní, na to máš!"
+    },
+    {
+      "key": "Nala_005_f",
+      "en": "He said \"enchanting spheres was nothing compared to dishware,\" but I have no idea what that meant.",
+      "cz": "Řekl, že „začarování koulí není nic ve srovnání s nádobím“, ale nemám tušení, co tím myslel.",
+      "source": "pre_existing",
+      "original_cz": "Řekl, že „začarování koulí není nic ve srovnání s nádobím“, ale nemám tušení, co tím myslel."
+    },
+    {
+      "key": "Nala_008_f",
+      "en": "Now Lady, listen carefully...",
+      "cz": "A teď, dámo, pozorně poslouchejte...",
+      "source": "pre_existing",
+      "original_cz": "A teď, dámo, pozorně poslouchejte..."
+    },
+    {
+      "key": "Nala_016_f",
+      "en": "A good lion will always be aware of others who might be tracking, too. Stealthy predators could be nearby and try to get your prey before you do.",
+      "cz": "Dobrý lev si bude vždy všímat ostatních, kteří by ho mohli sledovat. Nenápadní predátoři by se mohli nacházet poblíž a snažit se chytit vaši kořist dříve než vy.",
+      "source": "pre_existing",
+      "original_cz": "Dobrý lev si bude vždy všímat ostatních, kteří by ho mohli sledovat. Nenápadní predátoři by se mohli nacházet poblíž a snažit se chytit vaši kořist dříve než vy."
+    },
+    {
+      "key": "Nala_017_f",
+      "en": "So, don't let Scar fool you. He may pretend to be lazy all day, but when he wants to, he can sneak and pounce very well!",
+      "cz": "Takže se nenechte Scarem zmást. Možná celý den předstírá, že je líný, ale když chce, umí se plížit a skvěle se vrhat!",
+      "source": "pre_existing",
+      "original_cz": "Takže se nenechte Scarem zmást. Možná celý den předstírá, že je líný, ale když chce, umí se plížit a skvěle se vrhat!"
+    },
+    {
+      "key": "Nala_018_f",
+      "en": "I want to be as good of a pouncer as you and Scar. But I don't want to hurt anything or anyone...",
+      "cz": "Chci být stejně dobrý střelec jako ty a Scar. Ale nechci nikomu ani ničemu ublížit...",
+      "source": "pre_existing",
+      "original_cz": "Chci být stejně dobrý střelec jako ty a Scar. Ale nechci nikomu ani ničemu ublížit..."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Me too!",
+      "cz": "Já taky!",
+      "source": "pre_existing",
+      "original_cz": "Já taky!"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "I'm just here to support Lady.",
+      "cz": "Jsem tu jen proto, abych podpořil Lady.",
+      "source": "pre_existing",
+      "original_cz": "Jsem tu jen proto, abych podpořil Lady."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "What's the next step?",
+      "cz": "Jaký je další krok?",
+      "source": "pre_existing",
+      "original_cz": "Jaký je další krok?"
+    },
+    {
+      "key": "Nala_019_f",
+      "en": "Don't worry; that's exactly what those glowing balls are for. Now...",
+      "cz": "Nebojte se, přesně k tomu ty svítící koule slouží. A teď...",
+      "source": "pre_existing",
+      "original_cz": "Nebojte se, přesně k tomu ty svítící koule slouží. A teď..."
+    },
+    {
+      "key": "Nala_021_f",
+      "en": "It's time to learn how to pounce!",
+      "cz": "Je čas naučit se skákat!",
+      "source": "pre_existing",
+      "original_cz": "Je čas naučit se skákat!"
+    },
+    {
+      "key": "Nala_022_f",
+      "en": "Use what you just learned about being stealthy by <Lore>staying in the darkness</Lore>...",
+      "cz": "Využijte to, co jste se právě naučili o nenápadnosti, tím, že <Lore>zůstanete ve tmě</Lore>...",
+      "source": "pre_existing",
+      "original_cz": "Využijte to, co jste se právě naučili o nenápadnosti, tím, že <Lore>zůstanete ve tmě</Lore>..."
+    },
+    {
+      "key": "Nala_023_f",
+      "en": "...and then explode into motion and <Lore>POUNCE on the glowing ball</Lore>!",
+      "cz": "...a pak se rozjeďte a <Lore>VRCHNĚTE se na zářící kouli</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "...a pak se rozjeďte a <Lore>VRCHNĚTE se na zářící kouli</Lore>!"
+    },
+    {
+      "key": "Nala_024_f",
+      "en": "I understand. Shall we begin?",
+      "cz": "Rozumím. Začneme?",
+      "source": "pre_existing",
+      "original_cz": "Rozumím. Začneme?"
+    },
+    {
+      "key": "Nala_020_f",
+      "en": "That's very kind of you, but feel free to join in too.",
+      "cz": "To je od vás moc laskavé, ale klidně se také přidejte.",
+      "source": "pre_existing",
+      "original_cz": "To je od vás moc laskavé, ale klidně se také přidejte."
+    },
+    {
+      "key": "Nala_007_f",
+      "en": "You'll have to find out. So remember: Stay alert at all times.",
+      "cz": "Budete to muset zjistit. Takže si pamatujte: Buďte neustále ve střehu.",
+      "source": "pre_existing",
+      "original_cz": "Budete to muset zjistit. Takže si pamatujte: Buďte neustále ve střehu."
+    },
+    {
+      "key": "Nala_003_f",
+      "en": "I should hope so. I've been doing this for a while now.",
+      "cz": "Doufám, že ano. Dělám to už nějakou dobu.",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že ano. Dělám to už nějakou dobu."
+    },
+    {
+      "key": "Nala_004_f",
+      "en": "Oh no, not at all!",
+      "cz": "Ale ne, vůbec ne!",
+      "source": "pre_existing",
+      "original_cz": "Ale ne, vůbec ne!"
+    }
+  ]
+}

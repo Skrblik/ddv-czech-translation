@@ -1,0 +1,358 @@
+{
+  "forgottenMiniQuests_Olaf/Olaf_SEC_Forg_030_SEC_Forg_030_OlafDecoy.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Hey, Olaf... you're nervous about getting older, right?",
+      "cz": "Hej, Olafe... jsi nervózní z toho, že stárneš, že?",
+      "source": "pre_existing",
+      "original_cz": "Hej, Olafe... jsi nervózní z toho, že stárneš, že?"
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "Nervous? No! I can't wait to be older!",
+      "cz": "Nervózní? Ne! Už se nemůžu dočkat, až budu starší!",
+      "source": "pre_existing",
+      "original_cz": "Nervózní? Ne! Už se nemůžu dočkat, až budu starší!"
+    },
+    {
+      "key": "Olaf_002_f",
+      "en": "When you're ancient, so much more makes sense.",
+      "cz": "Když jsi starý, dává smysl mnohem víc.",
+      "source": "pre_existing",
+      "original_cz": "Když jsi starý, dává smysl mnohem víc."
+    },
+    {
+      "key": "Olaf_003_f",
+      "en": "I'm hoping that someday everyone will think of me as... (ahem)... Olaf the Wise!",
+      "cz": "Doufám, že si mě jednou všichni budou myslet jako... (ehm)... Olafa Moudrého!",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že si mě jednou všichni budou myslet jako... (ehm)... Olafa Moudrého!"
+    },
+    {
+      "key": "Olaf_004_f",
+      "en": "Well, I'm trying to find someone nervous about growing older who can help the Forgotten with a poem.",
+      "cz": "No, hledám někoho, kdo je nervózní z přibývajícího věku a kdo by mohl Zapomenutým pomoci básní.",
+      "source": "pre_existing",
+      "original_cz": "No, hledám někoho, kdo je nervózní z přibývajícího věku a kdo by mohl Zapomenutým pomoci básní."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Did you want to try to help anyway?",
+      "cz": "Chtěl jsi se i tak pokusit pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Chtěl jsi se i tak pokusit pomoct?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Sounds like you're not the Villager I need. See you around!",
+      "cz": "Zní to, jako byste nebyl ten vesničan, kterého potřebuji. Uvidíme se!",
+      "source": "pre_existing",
+      "original_cz": "Zní to, jako byste nebyl ten vesničan, kterého potřebuji. Uvidíme se!"
+    },
+    {
+      "key": "Olaf_005_f",
+      "en": "Sure! Tell me the poem! I'd love to help.",
+      "cz": "Jasně! Řekni mi tu báseň! Rád ti pomůžu.",
+      "source": "pre_existing",
+      "original_cz": "Jasně! Řekni mi tu báseň! Rád ti pomůžu."
+    },
+    {
+      "key": "Olaf_006_f",
+      "en": "<Lore>As I watch the clock tick and the sun rise and set...</Lore>",
+      "cz": "<Lore>Sleduju tikající hodiny a východ a západ slunce...</Lore>",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Sleduju tikající hodiny a východ a západ slunce...</Lore>"
+    },
+    {
+      "key": "Olaf_007_f",
+      "en": "<Lore>I fear what I love, I am doomed to forget.</Lore>",
+      "cz": "<Lore>Bojím se toho, co miluji, jsem odsouzen zapomenout.</Lore>",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Bojím se toho, co miluji, jsem odsouzen zapomenout.</Lore>"
+    },
+    {
+      "key": "Olaf_008_f",
+      "en": "<Lore>But I've never been one to do what I'm told...</Lore>",
+      "cz": "<Lore>Ale já jsem nikdy nebyl ten, co dělá, co se mi říká...</Lore>",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Ale já jsem nikdy nebyl ten, co dělá, co se mi říká...</Lore>"
+    },
+    {
+      "key": "Olaf_009_f",
+      "en": "<Lore>...a warm hug can melt a heart that's gone cold!</Lore>",
+      "cz": "<Lore>...vřelé objetí dokáže rozpustit srdce, které vychladlo!</Lore>",
+      "source": "pre_existing",
+      "original_cz": "<Lore>...vřelé objetí dokáže rozpustit srdce, které vychladlo!</Lore>"
+    },
+    {
+      "key": "Olaf_010_f",
+      "en": "What do you think?",
+      "cz": "Co si o tom myslíš?",
+      "source": "pre_existing",
+      "original_cz": "Co si o tom myslíš?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Brilliant!",
+      "cz": "Skvělé!",
+      "source": "pre_existing",
+      "original_cz": "Skvělé!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Aw, Olaf!",
+      "cz": "Jé, Olafe!",
+      "source": "pre_existing",
+      "original_cz": "Jé, Olafe!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Bit cheesy, isn't it?",
+      "cz": "Trochu kýčovité, že?",
+      "source": "pre_existing",
+      "original_cz": "Trochu kýčovité, že?"
+    },
+    {
+      "key": "Olaf_011_f",
+      "en": "I'm glad you like it.",
+      "cz": "Jsem rád, že se ti to líbí.",
+      "source": "pre_existing",
+      "original_cz": "Jsem rád, že se ti to líbí."
+    },
+    {
+      "key": "Olaf_012_f",
+      "en": "You warmed my heart, but... it's not really the Forgotten's style.",
+      "cz": "Zahřál jsi mě u srdce, ale... tohle zrovna není styl Zapomenutých.",
+      "source": "pre_existing",
+      "original_cz": "Zahřál jsi mě u srdce, ale... tohle zrovna není styl Zapomenutých."
+    },
+    {
+      "key": "Olaf_013_f",
+      "en": "I guess I'll just have to keep looking for <Lore>someone worried about growing older</Lore>...",
+      "cz": "Asi budu muset dál hledat <Lore>někoho, kdo se bojí stárnutí</Lore>...",
+      "source": "pre_existing",
+      "original_cz": "Asi budu muset dál hledat <Lore>někoho, kdo se bojí stárnutí</Lore>..."
+    },
+    {
+      "key": "Olaf_014_f",
+      "en": "I prefer to think of it as sincere!",
+      "cz": "Raději bych to považoval za upřímné!",
+      "source": "pre_existing",
+      "original_cz": "Raději bych to považoval za upřímné!"
+    },
+    {
+      "key": "Olaf_015_f",
+      "en": "It definitely is... coming from you. But it's just not really the Forgotten's style.",
+      "cz": "To rozhodně... když to říkáš ty. Ale to prostě není styl Zapomenutých.",
+      "source": "pre_existing",
+      "original_cz": "To rozhodně... když to říkáš ty. Ale to prostě není styl Zapomenutých."
+    },
+    {
+      "key": "Olaf_016_f",
+      "en": "Bye, {PlayerName}! If the Forgotten needs any help with fun facts... I could definitely help with that!",
+      "cz": "Ahoj, {PlayerName}! Pokud Zapomenutý potřebuje pomoct se zábavnými fakty... s tím bych určitě mohl pomoct!",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}! Pokud Zapomenutý potřebuje pomoct se zábavnými fakty... s tím bych určitě mohl pomoct!"
+    }
+  ],
+  "forgottenMiniQuests_Olaf/Olaf_SEC_OLAF_010_SEC_OLAF_010_TalkTo01.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Oh, hello, {PlayerName}!",
+      "cz": "Ach, ahoj, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Ach, ahoj, {PlayerName}!"
+    },
+    {
+      "key": "Olaf_005_f",
+      "en": "Do you remember when you and the Fairy Godmother helped me find <Lore>100 sticks</Lore>?",
+      "cz": "Pamatuješ si, jak jste mi s dobrou vílou pomohli najít <Lore>100 klacíků</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "Pamatuješ si, jak jste mi s dobrou vílou pomohli najít <Lore>100 klacíků</Lore>?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Yes! What was that about?",
+      "cz": "Ano! O co šlo?",
+      "source": "pre_existing",
+      "original_cz": "Ano! O co šlo?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I've been trying to forget...",
+      "cz": "Snažím se zapomenout...",
+      "source": "pre_existing",
+      "original_cz": "Snažím se zapomenout..."
+    },
+    {
+      "key": "Olaf_006_f",
+      "en": "Well, you're about to find out!",
+      "cz": "No, to se brzy dozvíte!",
+      "source": "pre_existing",
+      "original_cz": "No, to se brzy dozvíte!"
+    },
+    {
+      "key": "Olaf_009_f",
+      "en": "I needed them for an extremely top-secret project that no one knows about.",
+      "cz": "Potřeboval jsem je pro extrémně tajný projekt, o kterém nikdo neví.",
+      "source": "pre_existing",
+      "original_cz": "Potřeboval jsem je pro extrémně tajný projekt, o kterém nikdo neví."
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "Wait... Do you know about my extremely top-secret project that no one knows about?",
+      "cz": "Počkej... Víš o mém extrémně tajném projektu, o kterém nikdo neví?",
+      "source": "pre_existing",
+      "original_cz": "Počkej... Víš o mém extrémně tajném projektu, o kterém nikdo neví?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Does it involve a lot of sticks...?",
+      "cz": "Zahrnuje to hodně paliček...?",
+      "source": "pre_existing",
+      "original_cz": "Zahrnuje to hodně paliček...?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "No, but I'm very scared to find out!",
+      "cz": "Ne, ale mám velký strach to zjistit!",
+      "source": "pre_existing",
+      "original_cz": "Ne, ale mám velký strach to zjistit!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "If it's so secret, why would I know about it?",
+      "cz": "Jestli je to tak tajné, proč bych o tom měl vědět?",
+      "source": "pre_existing",
+      "original_cz": "Jestli je to tak tajné, proč bych o tom měl vědět?"
+    },
+    {
+      "key": "Olaf_002_f",
+      "en": "As a matter of fact... yes!",
+      "cz": "Vlastně... ano!",
+      "source": "pre_existing",
+      "original_cz": "Vlastně... ano!"
+    },
+    {
+      "key": "Olaf_010_f",
+      "en": "I can finally reveal that I spent the last week turning those <Lore>100 sticks</Lore>...",
+      "cz": "Konečně můžu prozradit, že jsem minulý týden strávil otáčením těch <Lore>100 tyčinek</Lore>...",
+      "source": "pre_existing",
+      "original_cz": "Konečně můžu prozradit, že jsem minulý týden strávil otáčením těch <Lore>100 tyčinek</Lore>..."
+    },
+    {
+      "key": "Olaf_011_f",
+      "en": "...",
+      "cz": "...",
+      "source": "pre_existing",
+      "original_cz": "..."
+    },
+    {
+      "key": "Olaf_012_f",
+      "en": "...into...",
+      "cz": "...do...",
+      "source": "pre_existing",
+      "original_cz": "...do..."
+    },
+    {
+      "key": "Olaf_013_f",
+      "en": "...ten <ActivityItem>Sturdy Chairs</ActivityItem>!",
+      "cz": "...deset <ActivityItem>odolných židlí</ActivityItem>!",
+      "source": "pre_existing",
+      "original_cz": "...deset <ActivityItem>odolných židlí</ActivityItem>!"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Oh, nice! Those will be useful!",
+      "cz": "Pěkné! Ty se budou hodit!",
+      "source": "pre_existing",
+      "original_cz": "Pěkné! Ty se budou hodit!"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "... What? That's it? Chairs?",
+      "cz": "... Cože? To je vše? Židle?",
+      "source": "pre_existing",
+      "original_cz": "... Cože? To je vše? Židle?"
+    },
+    {
+      "key": "Olaf_014_f",
+      "en": "I think so too. Chairs can be used for so many things!",
+      "cz": "Myslím si to taky. Židle se dají použít k tolika věcem!",
+      "source": "pre_existing",
+      "original_cz": "Myslím si to taky. Židle se dají použít k tolika věcem!"
+    },
+    {
+      "key": "Olaf_016_f",
+      "en": "You can sit on them, stand on them to reach high shelves, use them to make a blanket fort, attach them to a reindeer as a makeshift sleigh...",
+      "cz": "Můžete na nich sedět, stát na nich, abyste dosáhli na vysoké police, použít je k vytvoření pevnosti z dek, připevnit je k sobi jako provizorní saně...",
+      "source": "pre_existing",
+      "original_cz": "Můžete na nich sedět, stát na nich, abyste dosáhli na vysoké police, použít je k vytvoření pevnosti z dek, připevnit je k sobi jako provizorní saně..."
+    },
+    {
+      "key": "Olaf_017_f",
+      "en": "So many possibilities! Actually, I find it a bit overwhelming. Here. Why don't you decide what to do with them?",
+      "cz": "Tolik možností! Vlastně mi to přijde trochu ohromující. Tady. Proč se nerozhodneš, co s nimi uděláš ty?",
+      "source": "pre_existing",
+      "original_cz": "Tolik možností! Vlastně mi to přijde trochu ohromující. Tady. Proč se nerozhodneš, co s nimi uděláš ty?"
+    },
+    {
+      "key": "Olaf_015_f",
+      "en": "{PlayerName}, never underestimate the value of a sturdy chair.",
+      "cz": "{PlayerName}, nikdy nepodceňuj hodnotu pevné židle.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, nikdy nepodceňuj hodnotu pevné židle."
+    },
+    {
+      "key": "Olaf_003_f",
+      "en": "Oh, {PlayerName}, the only thing to be afraid of is the ever-increasing uncertainty of life and the universe. But never mind that.",
+      "cz": "Ach, {PlayerName}, jediné, čeho se máš bát, je stále rostoucí nejistota života a vesmíru. Ale na to nezáleží.",
+      "source": "pre_existing",
+      "original_cz": "Ach, {PlayerName}, jediné, čeho se máš bát, je stále rostoucí nejistota života a vesmíru. Ale na to nezáleží."
+    },
+    {
+      "key": "Olaf_004_f",
+      "en": "Just making sure it was as top secret as I planned. Well...",
+      "cz": "Jen se ujišťuji, že je to tak přísně tajné, jak jsem plánoval. No...",
+      "source": "pre_existing",
+      "original_cz": "Jen se ujišťuji, že je to tak přísně tajné, jak jsem plánoval. No..."
+    },
+    {
+      "key": "Olaf_008_f",
+      "en": "Oh, don't do that! You're about to find out why.",
+      "cz": "Ale nedělej to! Brzy zjistíš proč.",
+      "source": "pre_existing",
+      "original_cz": "Ale nedělej to! Brzy zjistíš proč."
+    }
+  ],
+  "forgottenMiniQuests_Olaf/SEC_OLAF_010.locbin": [
+    {
+      "key": "Secret!Frozen!Olaf!SEC_OLAF_010_AvailableDescription",
+      "en": "Olaf's been busy for the past week, working away on something with all those sticks you gave him. What exactly has he been up to...?",
+      "cz": "Olaf byl minulý týden zaneprázdněný, na něčem pracoval se všemi těmi klacíky, co jsi mu dal. Co přesně dělal...?",
+      "source": "pre_existing",
+      "original_cz": "Olaf byl minulý týden zaneprázdněný, na něčem pracoval se všemi těmi klacíky, co jsi mu dal. Co přesně dělal...?"
+    },
+    {
+      "key": "Secret!Frozen!Olaf!SEC_OLAF_010_DisplayName",
+      "en": "A Sticky Situation",
+      "cz": "Zapeklitá situace",
+      "source": "pre_existing",
+      "original_cz": "Zapeklitá situace"
+    },
+    {
+      "key": "Secret!Frozen!Olaf!SEC_OLAF_010_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "Check in on Olaf.",
+      "cz": "Check in on Olaf.",
+      "source": "pre_existing",
+      "original_cz": "Check in on Olaf."
+    },
+    {
+      "key": "Secret!Frozen!Olaf!SEC_OLAF_010_Group01_StepDescription",
+      "en": "Uh-oh. Olaf's been learning how to use Crafting Stations...",
+      "cz": "Uh-oh. Olaf's been learning how to use Crafting Stations...",
+      "source": "pre_existing",
+      "original_cz": "Uh-oh. Olaf's been learning how to use Crafting Stations..."
+    }
+  ]
+}

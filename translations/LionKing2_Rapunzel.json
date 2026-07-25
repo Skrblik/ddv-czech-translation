@@ -1,0 +1,88 @@
+{
+  "LionKing2_Rapunzel/Rapunzel_VLG_Pumb_020_VLG_Pumb_020_TalkTo08.locbin": [
+    {
+      "key": "Rapunzel_000_f",
+      "en": "Oh, {PlayerName}! Pumbaa was just telling me you're helping him put on a pottery class?",
+      "cz": "Ach, {PlayerName}! Pumbaa mi právě říkal, že mu pomáháš s pořádáním kurzu keramiky?",
+      "source": "pre_existing",
+      "original_cz": "Ach, {PlayerName}! Pumbaa mi právě říkal, že mu pomáháš s pořádáním kurzu keramiky?"
+    },
+    {
+      "key": "Rapunzel_001_f",
+      "en": "That's so exciting!",
+      "cz": "To je tak vzrušující!",
+      "source": "pre_existing",
+      "original_cz": "To je tak vzrušující!"
+    },
+    {
+      "key": "Rapunzel_002_f",
+      "en": "Yeah! I was hoping you could tell me what we might need to get started...",
+      "cz": "Jo! Doufala jsem, že mi můžete říct, co bychom mohli potřebovat k začátku...",
+      "source": "pre_existing",
+      "original_cz": "Jo! Doufala jsem, že mi můžete říct, co bychom mohli potřebovat k začátku..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I've never hosted a pottery class before!",
+      "cz": "Nikdy předtím jsem nevedl(a) kurz keramiky!",
+      "source": "pre_existing",
+      "original_cz": "Nikdy předtím jsem nevedl(a) kurz keramiky!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I don't know what supplies we need.",
+      "cz": "Nevím, jaké zásoby potřebujeme.",
+      "source": "pre_existing",
+      "original_cz": "Nevím, jaké zásoby potřebujeme."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "You're VERY artsy. HELP ME!",
+      "cz": "Jsi VELMI umělecký. POMOZ MI!",
+      "source": "pre_existing",
+      "original_cz": "Jsi VELMI umělecký. POMOZ MI!"
+    },
+    {
+      "key": "Rapunzel_004_f",
+      "en": "Neither have I... unless you count when I tried to teach Pascal to make itty-bitty teacups. But I have an idea...",
+      "cz": "Já taky ne... pokud nepočítáte, když jsem se snažila naučit Pascala dělat miniaturní hrníčky. Ale mám nápad...",
+      "source": "pre_existing",
+      "original_cz": "Já taky ne... pokud nepočítáte, když jsem se snažila naučit Pascala dělat miniaturní hrníčky. Ale mám nápad..."
+    },
+    {
+      "key": "Rapunzel_006_f",
+      "en": "You'll definitely need some <ActivityItem>Pottery Wheels</ActivityItem>, clay, and some flowers to make beautiful glazes.",
+      "cz": "Na výrobu krásných glazur budete určitě potřebovat <ActivityItem>hrnčířské kruhy</ActivityItem>, hlínu a pár květin.",
+      "source": "pre_existing",
+      "original_cz": "Na výrobu krásných glazur budete určitě potřebovat <ActivityItem>hrnčířské kruhy</ActivityItem>, hlínu a pár květin."
+    },
+    {
+      "key": "Rapunzel_007_f",
+      "en": "Sounds simple enough! I'll <Lore>craft some Pottery Wheels</Lore> and <Lore>collect the supplies we need</Lore>!",
+      "cz": "Zní to docela jednoduše! <Lore>Vyrobím si hrnčířské kruhy</Lore> a <Lore>sesbírám potřebné věci</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Zní to docela jednoduše! <Lore>Vyrobím si hrnčířské kruhy</Lore> a <Lore>sesbírám potřebné věci</Lore>!"
+    },
+    {
+      "key": "Rapunzel_008_f",
+      "en": "And I'll go find Pumbaa. We can talk about throwing on the wheel versus handbuilding.",
+      "cz": "A já půjdu najít Pumbu. Můžeme si promluvit o házení na kolečko versus stavění rukou.",
+      "source": "pre_existing",
+      "original_cz": "A já půjdu najít Pumbu. Můžeme si promluvit o házení na kolečko versus stavění rukou."
+    },
+    {
+      "key": "Rapunzel_003_f",
+      "en": "Oh, I can help with that!",
+      "cz": "Ach, s tím můžu pomoct!",
+      "source": "pre_existing",
+      "original_cz": "Ach, s tím můžu pomoct!"
+    },
+    {
+      "key": "Rapunzel_005_f",
+      "en": "I'm sure you're artistic too, {PlayerName}, in your way. Everyone is. But don't worry; I know exactly what you'll need.",
+      "cz": "Jsem si jistá, že i ty jsi umělecký talent, {PlayerName}, svým způsobem. Každý je. Ale neboj se; vím přesně, co budeš potřebovat.",
+      "source": "pre_existing",
+      "original_cz": "Jsem si jistá, že i ty jsi umělecký talent, {PlayerName}, svým způsobem. Každý je. Ale neboj se; vím přesně, co budeš potřebovat."
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "FloatingFestival20_EventQuizz/EventQuizz_Dialogues_EventQuizz_Greetings01_Winter2025.locbin": [
+    {
+      "key": "EventQuizz_000_f",
+      "en": "Well, hi there, bud!",
+      "cz": "Tak ahoj, kámo!",
+      "source": "pre_existing",
+      "original_cz": "Tak ahoj, kámo!"
+    },
+    {
+      "key": "EventQuizz_001_f",
+      "en": "Did ya have a nice <Lore>look around the Winter Floating Festival</Lore>?",
+      "cz": "Líbilo se vám <Lore>na Zimním plovoucím festivalu</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "Líbilo se vám <Lore>na Zimním plovoucím festivalu</Lore>?"
+    },
+    {
+      "key": "EventQuizz_002_f",
+      "en": "If ya think you're up to the challenge, you can take my <Lore>special quiz</Lore>!",
+      "cz": "Pokud si myslíte, že na tuto výzvu máte dostatek zkušeností, můžete si zkusit můj <Lore>speciální kvíz</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Pokud si myslíte, že na tuto výzvu máte dostatek zkušeností, můžete si zkusit můj <Lore>speciální kvíz</Lore>!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'll take your quiz, snowman!",
+      "cz": "Udělám ti kvíz, sněhuláku!",
+      "source": "pre_existing",
+      "original_cz": "Udělám ti kvíz, sněhuláku!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I need more time to explore the Festival.",
+      "cz": "Potřebuji více času na prozkoumání festivalu.",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji více času na prozkoumání festivalu."
+    },
+    {
+      "key": "EventQuizz_003_f",
+      "en": "Oh gee, that's just great! Let's get started.",
+      "cz": "Jé, to je prostě skvělé! Pojďme na to.",
+      "source": "pre_existing",
+      "original_cz": "Jé, to je prostě skvělé! Pojďme na to."
+    },
+    {
+      "key": "EventQuizz_004_f",
+      "en": "How many <Lore>Snowmen</Lore> are on the island? (NOT counting me, of course, haha!)",
+      "cz": "Kolik <Lore>sněhuláků</Lore> je na ostrově? (Mě samozřejmě nepočítám, haha!)",
+      "source": "pre_existing",
+      "original_cz": "Kolik <Lore>sněhuláků</Lore> je na ostrově? (Mě samozřejmě nepočítám, haha!)"
+    },
+    {
+      "key": "Player_001_f",
+      "en": "How many Snowmen are on the island? (NOT counting me, of course, haha!)",
+      "cz": "Kolik je na ostrově sněhuláků? (Mě samozřejmě nepočítám, haha!)",
+      "source": "pre_existing",
+      "original_cz": "Kolik je na ostrově sněhuláků? (Mě samozřejmě nepočítám, haha!)"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "11.",
+      "cz": "11.",
+      "source": "pre_existing",
+      "original_cz": "11."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "10.",
+      "cz": "10.",
+      "source": "pre_existing",
+      "original_cz": "10."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "12.",
+      "cz": "12.",
+      "source": "pre_existing",
+      "original_cz": "12."
+    },
+    {
+      "key": "Player_001_choice_003_f",
+      "en": "*back away*",
+      "cz": "*couvnout*",
+      "source": "pre_existing",
+      "original_cz": "*couvnout*"
+    },
+    {
+      "key": "EventQuizz_005_f",
+      "en": "What day of the week does our good buddy, the island rabbit, want <Lore>Festive Cherry Hot Cocoa</Lore>?",
+      "cz": "Který den v týdnu si náš dobrý kamarád, ostrovní králík, přeje <Lore>Sváteční třešňové horké kakao</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "Který den v týdnu si náš dobrý kamarád, ostrovní králík, přeje <Lore>Sváteční třešňové horké kakao</Lore>?"
+    },
+    {
+      "key": "Player_002_f",
+      "en": "What day of the week does our good buddy, the island rabbit, want Festive Cherry Hot Cocoa?",
+      "cz": "Který den v týdnu si náš dobrý kamarád, ostrovní králík, přeje sváteční horké kakao s třešněmi?",
+      "source": "pre_existing",
+      "original_cz": "Který den v týdnu si náš dobrý kamarád, ostrovní králík, přeje sváteční horké kakao s třešněmi?"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Sunday.",
+      "cz": "Neděle.",
+      "source": "pre_existing",
+      "original_cz": "Neděle."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Saturday.",
+      "cz": "Sobota.",
+      "source": "pre_existing",
+      "original_cz": "Sobota."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Friday.",
+      "cz": "Pátek.",
+      "source": "pre_existing",
+      "original_cz": "Pátek."
+    },
+    {
+      "key": "Player_002_choice_003_f",
+      "en": "*back away*",
+      "cz": "*couvnout*",
+      "source": "pre_existing",
+      "original_cz": "*couvnout*"
+    },
+    {
+      "key": "EventQuizz_006_f",
+      "en": "I bet you've seen the <Lore>carousel</Lore> here on the island. Which animal is NOT on it?",
+      "cz": "Vsadím se, že jste viděli ten <Lore>kolotoč</Lore> tady na ostrově. Které zvíře na něm NENÍ?",
+      "source": "pre_existing",
+      "original_cz": "Vsadím se, že jste viděli ten <Lore>kolotoč</Lore> tady na ostrově. Které zvíře na něm NENÍ?"
+    },
+    {
+      "key": "Player_003_f",
+      "en": "I bet you've seen the carousel here on the island. Which animal is NOT on it?",
+      "cz": "Vsadím se, že jste ten kolotoč tady na ostrově viděli. Které zvíře na něm NENÍ?",
+      "source": "pre_existing",
+      "original_cz": "Vsadím se, že jste ten kolotoč tady na ostrově viděli. Které zvíře na něm NENÍ?"
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "A bear.",
+      "cz": "Medvěd.",
+      "source": "pre_existing",
+      "original_cz": "Medvěd."
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "A walrus.",
+      "cz": "Mrož.",
+      "source": "pre_existing",
+      "original_cz": "Mrož."
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "A reindeer.",
+      "cz": "Sob.",
+      "source": "pre_existing",
+      "original_cz": "Sob."
+    },
+    {
+      "key": "Player_003_choice_003_f",
+      "en": "*back away*",
+      "cz": "*couvnout*",
+      "source": "pre_existing",
+      "original_cz": "*couvnout*"
+    },
+    {
+      "key": "EventQuizz_007_f",
+      "en": "Ooh, this is a TOUGHIE! Who owns the ice skates on the <Lore>top left of the skate rack</Lore>?",
+      "cz": "Jé, to je ale TVRDÝ! Komu patří brusle v <Lore>levém horním rohu stojanu na brusle</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "Jé, to je ale TVRDÝ! Komu patří brusle v <Lore>levém horním rohu stojanu na brusle</Lore>?"
+    },
+    {
+      "key": "Player_004_f",
+      "en": "Ooh, this is a TOUGHIE! Who owns the ice skates on the top left of the skate rack?",
+      "cz": "Jé, to je ale TVRDÝ! Komu patří brusle vlevo nahoře na stojanu na brusle?",
+      "source": "pre_existing",
+      "original_cz": "Jé, to je ale TVRDÝ! Komu patří brusle vlevo nahoře na stojanu na brusle?"
+    },
+    {
+      "key": "Player_004_choice_000_f",
+      "en": "Cinderella.",
+      "cz": "Popelka.",
+      "source": "pre_existing",
+      "original_cz": "Popelka."
+    },
+    {
+      "key": "Player_004_choice_001_f",
+      "en": "Snow White.",
+      "cz": "Sněhurka.",
+      "source": "pre_existing",
+      "original_cz": "Sněhurka."
+    },
+    {
+      "key": "Player_004_choice_002_f",
+      "en": "Belle.",
+      "cz": "Kráska.",
+      "source": "pre_existing",
+      "original_cz": "Kráska."
+    },
+    {
+      "key": "Player_004_choice_003_f",
+      "en": "*back away*",
+      "cz": "*couvnout*",
+      "source": "pre_existing",
+      "original_cz": "*couvnout*"
+    },
+    {
+      "key": "EventQuizz_008_f",
+      "en": "All right, bud, one final question for ya: How many <Lore>Yule Goats</Lore> are there on the island? (I'll give ya a hint. There are TWO right here in this room!)",
+      "cz": "Dobře, kámo, ještě jedna poslední otázka: Kolik <Lore>vánočních koz</Lore> je na ostrově? (Dám ti nápovědu. Tady v této místnosti jsou dvě!)",
+      "source": "pre_existing",
+      "original_cz": "Dobře, kámo, ještě jedna poslední otázka: Kolik <Lore>vánočních koz</Lore> je na ostrově? (Dám ti nápovědu. Tady v této místnosti jsou dvě!)"
+    },
+    {
+      "key": "Player_005_f",
+      "en": "All right, bud! One final question for ya: How many Yule Goats are there on the island? (I'll give ya a hint. There are TWO right here in this room!)",
+      "cz": "Dobře, kámo! Ještě jedna poslední otázka pro tebe: Kolik vánočních koz je na ostrově? (Dám ti nápovědu. Jsou tady v téhle místnosti DVĚ!)",
+      "source": "pre_existing",
+      "original_cz": "Dobře, kámo! Ještě jedna poslední otázka pro tebe: Kolik vánočních koz je na ostrově? (Dám ti nápovědu. Jsou tady v téhle místnosti DVĚ!)"
+    },
+    {
+      "key": "Player_005_choice_000_f",
+      "en": "6.",
+      "cz": "6.",
+      "source": "pre_existing",
+      "original_cz": "6."
+    },
+    {
+      "key": "Player_005_choice_001_f",
+      "en": "8.",
+      "cz": "8.",
+      "source": "pre_existing",
+      "original_cz": "8."
+    },
+    {
+      "key": "Player_005_choice_002_f",
+      "en": "10.",
+      "cz": "10.",
+      "source": "pre_existing",
+      "original_cz": "10."
+    },
+    {
+      "key": "Player_005_choice_003_f",
+      "en": "*back away*",
+      "cz": "*couvnout*",
+      "source": "pre_existing",
+      "original_cz": "*couvnout*"
+    },
+    {
+      "key": "EventQuizz_009_f",
+      "en": "Whew! What a toughie that was, eh?",
+      "cz": "Páni! To byl ale drsňák, co?",
+      "source": "pre_existing",
+      "original_cz": "Páni! To byl ale drsňák, co?"
+    },
+    {
+      "key": "EventQuizz_010_f",
+      "en": "But you finished like a CHAMP! Ya got every single question right. How about that?",
+      "cz": "Ale skončil jsi jako ŠAMPION! Odpověděl jsi správně na každou otázku. Co říkáš?",
+      "source": "pre_existing",
+      "original_cz": "Ale skončil jsi jako ŠAMPION! Odpověděl jsi správně na každou otázku. Co říkáš?"
+    },
+    {
+      "key": "EventQuizz_011_f",
+      "en": "Enjoy your prize!",
+      "cz": "Užijte si svou výhru!",
+      "source": "pre_existing",
+      "original_cz": "Užijte si svou výhru!"
+    },
+    {
+      "key": "EventQuizz_012_f",
+      "en": "Seems like ya need a little more time exploring the Winter Floating Festival!",
+      "cz": "Zdá se, že potřebuješ trochu víc času na prozkoumání Zimního plovoucího festivalu!",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že potřebuješ trochu víc času na prozkoumání Zimního plovoucího festivalu!"
+    },
+    {
+      "key": "EventQuizz_013_f",
+      "en": "Come back later when you think you're ready to get a perfect score, bud!",
+      "cz": "Vrať se později, až si budeš myslet, že jsi připravený na perfektní skóre, kámo!",
+      "source": "pre_existing",
+      "original_cz": "Vrať se později, až si budeš myslet, že jsi připravený na perfektní skóre, kámo!"
+    },
+    {
+      "key": "EventQuizz_014_f",
+      "en": "You betcha! Come back anytime!",
+      "cz": "To se vsadím! Vrať se kdykoli!",
+      "source": "pre_existing",
+      "original_cz": "To se vsadím! Vrať se kdykoli!"
+    },
+    {
+      "key": "Player_006_exit_000_f",
+      "en": "A strange snowman...",
+      "cz": "Podivný sněhulák...",
+      "source": "pre_existing",
+      "original_cz": "Podivný sněhulák..."
+    }
+  ],
+  "FloatingFestival20_EventQuizz/EventQuizz_Greetings_SnowmanQuizzPost.locbin": [
+    {
+      "key": "EventQuizz_000_f",
+      "en": "Well hey there, it's my favorite quiz master! Hope you're doin' well, bud!",
+      "cz": "Tak ahoj, tady je můj nejoblíbenější kvízový mistr! Doufám, že se ti daří, kámo!",
+      "source": "pre_existing",
+      "original_cz": "Tak ahoj, tady je můj nejoblíbenější kvízový mistr! Doufám, že se ti daří, kámo!"
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Sorry, I can't talk now.",
+      "cz": "Promiňte, teď nemůžu mluvit.",
+      "source": "pre_existing",
+      "original_cz": "Promiňte, teď nemůžu mluvit."
+    }
+  ]
+}

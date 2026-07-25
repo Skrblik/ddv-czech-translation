@@ -1,0 +1,272 @@
+{
+  "BeautyBeast2_Remy/Remy_VLG_Lumi_010_VLG_Lumi_010_TalkTo01.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "Hi, Remy! Have you ever considered hiring a maître d' for your restaurant?",
+      "cz": "Ahoj, Remy! Už jsi někdy uvažoval o tom, že si najmeš vrchního obsluhujícího do své restaurace?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, Remy! Už jsi někdy uvažoval o tom, že si najmeš vrchního obsluhujícího do své restaurace?"
+    },
+    {
+      "key": "Remy_002_f",
+      "en": "Actually, I have. All the best restaurants in France have amazing maître d's running the dining rooms. Why do you ask?",
+      "cz": "Vlastně ano. Všechny nejlepší restaurace ve Francii mají úžasné vrchní číšníky, kteří vedou jídelny. Proč se ptáte?",
+      "source": "pre_existing",
+      "original_cz": "Vlastně ano. Všechny nejlepší restaurace ve Francii mají úžasné vrchní číšníky, kteří vedou jídelny. Proč se ptáte?"
+    },
+    {
+      "key": "Remy_001_f",
+      "en": "Because Lumiere here is the best maître d' around!",
+      "cz": "Protože Lumiere je tady nejlepší vrchní číšník v okolí!",
+      "source": "pre_existing",
+      "original_cz": "Protože Lumiere je tady nejlepší vrchní číšník v okolí!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "He can welcome guests with style!",
+      "cz": "Umí stylově přivítat hosty!",
+      "source": "pre_existing",
+      "original_cz": "Umí stylově přivítat hosty!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "He knows everything about hospitality!",
+      "cz": "Ví o pohostinnosti všechno!",
+      "source": "pre_existing",
+      "original_cz": "Ví o pohostinnosti všechno!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "He's the most charming candelabrum you'll ever meet!",
+      "cz": "Je to ten nejkouzelnější svícen, jaký kdy potkáte!",
+      "source": "pre_existing",
+      "original_cz": "Je to ten nejkouzelnější svícen, jaký kdy potkáte!"
+    },
+    {
+      "key": "Remy_003_f",
+      "en": "Really? Wow, that would be great! I'd love to have the help.",
+      "cz": "Vážně? Páni, to by bylo skvělé! Moc rád bych si od vás vysloužil pomoc.",
+      "source": "pre_existing",
+      "original_cz": "Vážně? Páni, to by bylo skvělé! Moc rád bych si od vás vysloužil pomoc."
+    },
+    {
+      "key": "Remy_004_f",
+      "en": "Oh merci! You won't regret this!",
+      "cz": "Díky! Toho nebudeš litovat!",
+      "source": "pre_existing",
+      "original_cz": "Díky! Toho nebudeš litovat!"
+    },
+    {
+      "key": "Remy_005_f",
+      "en": "In fact, our chef has the most delicious French spices, and breads, and recipes back home that you might like to consider for your menu.",
+      "cz": "Náš šéfkuchař má ve skutečnosti to nejchutnější francouzské koření, chleby a recepty z domova, které byste mohli zvážit ve svém menu.",
+      "source": "pre_existing",
+      "original_cz": "Náš šéfkuchař má ve skutečnosti to nejchutnější francouzské koření, chleby a recepty z domova, které byste mohli zvážit ve svém menu."
+    },
+    {
+      "key": "Remy_006_f",
+      "en": "You settle in here Lumiere, and I'll <Lore>return to your Realm to find the French Spices, French Bread and Recipe Pages</Lore> for you.",
+      "cz": "Usaď se tady, Lumiere, a já se <Lore>vrátím do tvé říše, abych pro tebe našel francouzské koření, francouzský chléb a stránky s recepty</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Usaď se tady, Lumiere, a já se <Lore>vrátím do tvé říše, abych pro tebe našel francouzské koření, francouzský chléb a stránky s recepty</Lore>."
+    }
+  ],
+  "BeautyBeast2_Remy/Remy_VLG_Lumi_010_VLG_Lumi_010_TalkToDialog01.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "Oh {PlayerName}, am I glad to see you! I'm not so sure Lumiere's the right fit for Chez Remy...",
+      "cz": "Ach {PlayerName}, to jsem ráda, že tě vidím! Nejsem si jistá, jestli je Lumiere ta pravá pro Chez Remyho...",
+      "source": "pre_existing",
+      "original_cz": "Ach {PlayerName}, to jsem ráda, že tě vidím! Nejsem si jistá, jestli je Lumiere ta pravá pro Chez Remyho..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Oh no! Why not?",
+      "cz": "Ale ne! Proč ne?",
+      "source": "pre_existing",
+      "original_cz": "Ale ne! Proč ne?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "It hasn't even been that long!",
+      "cz": "Ani to nebylo tak dlouho!",
+      "source": "pre_existing",
+      "original_cz": "Ani to nebylo tak dlouho!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "But he's so likeable!",
+      "cz": "Ale je tak sympatický!",
+      "source": "pre_existing",
+      "original_cz": "Ale je tak sympatický!"
+    },
+    {
+      "key": "Remy_003_f",
+      "en": "Turns out he's really into entertainment with dinner...",
+      "cz": "Ukazuje se, že ho k večeři opravdu baví zábava...",
+      "source": "pre_existing",
+      "original_cz": "Ukazuje se, že ho k večeři opravdu baví zábava..."
+    },
+    {
+      "key": "Remy_007_f",
+      "en": "...but my restaurant's not exactly the right place for that. It's a quiet little bistro. He broke dishes and splattered food everywhere doing some sort of welcome number for the guests.",
+      "cz": "...ale moje restaurace na to není zrovna to pravé místo. Je to tiché malé bistro. Rozbíjel nádobí a všude rozstříkal jídlo, když předváděl nějaké uvítací číslo pro hosty.",
+      "source": "pre_existing",
+      "original_cz": "...ale moje restaurace na to není zrovna to pravé místo. Je to tiché malé bistro. Rozbíjel nádobí a všude rozstříkal jídlo, když předváděl nějaké uvítací číslo pro hosty."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I'm sorry he made a mess, Remy.",
+      "cz": "Je mi líto, že nadělal nepořádek, Remy.",
+      "source": "pre_existing",
+      "original_cz": "Je mi líto, že nadělal nepořádek, Remy."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "But that sounds FUN!",
+      "cz": "Ale to zní ZÁBAVNĚ!",
+      "source": "pre_existing",
+      "original_cz": "Ale to zní ZÁBAVNĚ!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Honestly, I'm not totally surprised...",
+      "cz": "Upřímně řečeno, nejsem úplně překvapený...",
+      "source": "pre_existing",
+      "original_cz": "Upřímně řečeno, nejsem úplně překvapený..."
+    },
+    {
+      "key": "Remy_008_f",
+      "en": "I can help clean it all up.",
+      "cz": "Můžu s tím vším pomoct.",
+      "source": "pre_existing",
+      "original_cz": "Můžu s tím vším pomoct."
+    },
+    {
+      "key": "Remy_011_f",
+      "en": "Poor Lumiere... He loves being a maître d'. It's too bad dinner and a show doesn't work here.",
+      "cz": "Chudák Lumiere... Miluje práci vrchního kuchaře. Škoda, že večeře a představení tu nefungují.",
+      "source": "pre_existing",
+      "original_cz": "Chudák Lumiere... Miluje práci vrchního kuchaře. Škoda, že večeře a představení tu nefungují."
+    },
+    {
+      "key": "Remy_002_f",
+      "en": "Beg pardon, but did y'all say something about dinner and a show?",
+      "cz": "Promiňte, ale říkali jste něco o večeři a představení?",
+      "source": "pre_existing",
+      "original_cz": "Promiňte, ale říkali jste něco o večeři a představení?"
+    },
+    {
+      "key": "Remy_001_f",
+      "en": "I did! Lumiere has been helping Remy here as his maître d', but it's a bit of a mismatch.",
+      "cz": "Udělal jsem to! Lumiere tady Remymu pomáhal jako jeho vrchní kuchař, ale trochu to k sobě nepatří.",
+      "source": "pre_existing",
+      "original_cz": "Udělal jsem to! Lumiere tady Remymu pomáhal jako jeho vrchní kuchař, ale trochu to k sobě nepatří."
+    },
+    {
+      "key": "Remy_012_f",
+      "en": "Maybe I can help then. My restaurant could use a maître d' as well, and we just LOVE live entertainment!",
+      "cz": "Možná bych pak mohl pomoct. Naše restaurace by taky potřebovala vrchního obsluhujícího a my prostě MILUJEME živou zábavu!",
+      "source": "pre_existing",
+      "original_cz": "Možná bych pak mohl pomoct. Naše restaurace by taky potřebovala vrchního obsluhujícího a my prostě MILUJEME živou zábavu!"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "That's perfect!",
+      "cz": "To je perfektní!",
+      "source": "pre_existing",
+      "original_cz": "To je perfektní!"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Are you sure?",
+      "cz": "Jsi si jistý/á?",
+      "source": "pre_existing",
+      "original_cz": "Jsi si jistý/á?"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "I didn't even think about Tiana's Palace...",
+      "cz": "Na Tianin palác jsem ani nepomyslel...",
+      "source": "pre_existing",
+      "original_cz": "Na Tianin palác jsem ani nepomyslel..."
+    },
+    {
+      "key": "Remy_013_f",
+      "en": "I think so, too!",
+      "cz": "Taky si to myslím!",
+      "source": "pre_existing",
+      "original_cz": "Taky si to myslím!"
+    },
+    {
+      "key": "Remy_017_f",
+      "en": "I think you and Lumiere would work great together.",
+      "cz": "Myslím, že byste s Lumierem skvěle spolupracovali.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že byste s Lumierem skvěle spolupracovali."
+    },
+    {
+      "key": "Remy_018_f",
+      "en": "Phew. That's a relief. I really didn't want to hurt his feelings.",
+      "cz": "Uf. To je úleva. Opravdu jsem ho nechtěla ranit.",
+      "source": "pre_existing",
+      "original_cz": "Uf. To je úleva. Opravdu jsem ho nechtěla ranit."
+    },
+    {
+      "key": "Remy_019_f",
+      "en": "Now that we have a plan, <Lore>I'll clean up Chez Remy</Lore> so Lumiere can get started at his new job right away.",
+      "cz": "Teď, když máme plán, <Lore>uklidím Chez Remy</Lore>, aby se Lumiere mohl hned pustit do své nové práce.",
+      "source": "pre_existing",
+      "original_cz": "Teď, když máme plán, <Lore>uklidím Chez Remy</Lore>, aby se Lumiere mohl hned pustit do své nové práce."
+    },
+    {
+      "key": "Remy_014_f",
+      "en": "As sure as the sun rises!",
+      "cz": "Jistota, jako že vychází slunce!",
+      "source": "pre_existing",
+      "original_cz": "Jistota, jako že vychází slunce!"
+    },
+    {
+      "key": "Remy_015_f",
+      "en": "You didn't? Well, then I'm glad I came by when I did.",
+      "cz": "Neudělal? No, pak jsem rád, že jsem se zastavil, když jsem se zastavil.",
+      "source": "pre_existing",
+      "original_cz": "Neudělal? No, pak jsem rád, že jsem se zastavil, když jsem se zastavil."
+    },
+    {
+      "key": "Remy_016_f",
+      "en": "Sorry! But I do think you and Lumiere would work great together!",
+      "cz": "Promiň! Ale myslím, že byste s Lumierem skvěle fungovali!",
+      "source": "pre_existing",
+      "original_cz": "Promiň! Ale myslím, že byste s Lumierem skvěle fungovali!"
+    },
+    {
+      "key": "Remy_009_f",
+      "en": "Oh, it does, just... maybe not for <i>my</i> restaurant.",
+      "cz": "Aha, to jo, jen... možná ne pro <i>mou</i> restauraci.",
+      "source": "pre_existing",
+      "original_cz": "Aha, to jo, jen... možná ne pro <i>mou</i> restauraci."
+    },
+    {
+      "key": "Remy_010_f",
+      "en": "Maybe you two just aren't the best match.",
+      "cz": "Možná vy dva prostě nejste zrovna ideální pár.",
+      "source": "pre_existing",
+      "original_cz": "Možná vy dva prostě nejste zrovna ideální pár."
+    },
+    {
+      "key": "Remy_005_f",
+      "en": "Unfortunately, it didn't take long for things to go... well, not according to plan.",
+      "cz": "Bohužel to netrvalo dlouho a věci šly... no, ne podle plánu.",
+      "source": "pre_existing",
+      "original_cz": "Bohužel to netrvalo dlouho a věci šly... no, ne podle plánu."
+    },
+    {
+      "key": "Remy_006_f",
+      "en": "He totally is! That's not the problem...",
+      "cz": "Rozhodně jo! To není ten problém...",
+      "source": "pre_existing",
+      "original_cz": "Rozhodně jo! To není ten problém..."
+    }
+  ]
+}

@@ -1,0 +1,484 @@
+{
+  "LadyTramp_Joy/Joy_VLG_Lady_040_VLG_Lady_040_TalkTo04.locbin": [
+    {
+      "key": "Joy_000_f",
+      "en": "Hey, you two! I was hoping you could give me a hand with something.",
+      "cz": "Hej, vy dva! Doufal jsem, že byste mi mohli s něčím pomoct.",
+      "source": "pre_existing",
+      "original_cz": "Hej, vy dva! Doufal jsem, že byste mi mohli s něčím pomoct."
+    },
+    {
+      "key": "Joy_001_f",
+      "en": "Sure, {PlayerName}!",
+      "cz": "Jistě, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Jistě, {PlayerName}!"
+    },
+    {
+      "key": "Joy_002_f",
+      "en": "How can we help?",
+      "cz": "Jak můžeme pomoci?",
+      "source": "pre_existing",
+      "original_cz": "Jak můžeme pomoci?"
+    },
+    {
+      "key": "Joy_003_f",
+      "en": "I'm trying to help Lady and Tramp get a nice family portrait taken. Any chance either of you have any good photography gear I could borrow?",
+      "cz": "Snažím se pomoct Paní a Trampovi s pořízením pěkného rodinného portrétu. Nemáte někdo z vás nějakou dobrou fotografickou výbavu, kterou bych si mohl půjčit?",
+      "source": "pre_existing",
+      "original_cz": "Snažím se pomoct Paní a Trampovi s pořízením pěkného rodinného portrétu. Nemáte někdo z vás nějakou dobrou fotografickou výbavu, kterou bych si mohl půjčit?"
+    },
+    {
+      "key": "Joy_004_f",
+      "en": "We certainly do!",
+      "cz": "To rozhodně ano!",
+      "source": "pre_existing",
+      "original_cz": "To rozhodně ano!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Really? That's incredible!",
+      "cz": "Vážně? To je neuvěřitelné!",
+      "source": "pre_existing",
+      "original_cz": "Vážně? To je neuvěřitelné!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Joy, you're always a help.",
+      "cz": "Joy, vždycky mi pomůžeš.",
+      "source": "pre_existing",
+      "original_cz": "Joy, vždycky mi pomůžeš."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "What kind of photography were you doing?",
+      "cz": "Jaký druh fotografování jsi dělal/a?",
+      "source": "pre_existing",
+      "original_cz": "Jaký druh fotografování jsi dělal/a?"
+    },
+    {
+      "key": "Joy_005_f",
+      "en": "Yeah, Joy's been teaching me all about this stuff.",
+      "cz": "Jo, Joy mě o tomhle všechno učila.",
+      "source": "pre_existing",
+      "original_cz": "Jo, Joy mě o tomhle všechno učila."
+    },
+    {
+      "key": "Joy_008_f",
+      "en": "Aladdin was helping me with an experiment for a Dream Production! We were location scouting for an adventure dream for Riley in that really nifty mine set. You know, the \"Vitalys Mines\"?",
+      "cz": "Aladdin mi pomáhal s experimentem pro Dream Production! Hledali jsme lokace pro dobrodružný sen pro Rileyho v té fakt šikovné dolové kulise. Víš, ty \"Vitalysovy doly\"?",
+      "source": "pre_existing",
+      "original_cz": "Aladdin mi pomáhal s experimentem pro Dream Production! Hledali jsme lokace pro dobrodružný sen pro Rileyho v té fakt šikovné dolové kulise. Víš, ty \"Vitalysovy doly\"?"
+    },
+    {
+      "key": "Joy_009_f",
+      "en": "Cool, how'd it go?",
+      "cz": "Paráda, jak to šlo?",
+      "source": "pre_existing",
+      "original_cz": "Paráda, jak to šlo?"
+    },
+    {
+      "key": "Joy_010_f",
+      "en": "There uh... were a few problems.",
+      "cz": "Bylo tam... pár problémů.",
+      "source": "pre_existing",
+      "original_cz": "Bylo tam... pár problémů."
+    },
+    {
+      "key": "Joy_011_f",
+      "en": "We were ready to take a picture, and I got so excited, I, uh... well, I did the Foghorns cheer.",
+      "cz": "Byli jsme připraveni se vyfotit a já se tak nadchla, že jsem, ehm... no, zazpívala jsem Foghornům fandění.",
+      "source": "pre_existing",
+      "original_cz": "Byli jsme připraveni se vyfotit a já se tak nadchla, že jsem, ehm... no, zazpívala jsem Foghornům fandění."
+    },
+    {
+      "key": "Joy_012_f",
+      "en": "And the mine must've been unstable. 'Cause the cheer started a minor collapse. Now Joy's lights are stuck behind a bunch of rocks...",
+      "cz": "A důl musel být nestabilní. Protože jásot spustil menší kolaps. Teď jsou Joyina světla zaseknutá za hromadou kamenů...",
+      "source": "pre_existing",
+      "original_cz": "A důl musel být nestabilní. Protože jásot spustil menší kolaps. Teď jsou Joyina světla zaseknutá za hromadou kamenů..."
+    },
+    {
+      "key": "Joy_013_f",
+      "en": "But I bet you'll have no problems <Lore>getting them out with your fancy Pickaxe</Lore>! And then they're all yours!",
+      "cz": "Ale vsadím se, že nebudeš mít problém je <Lore>dostat ven svým elegantním krumpáčem</Lore>! A pak budou všichni tvoji!",
+      "source": "pre_existing",
+      "original_cz": "Ale vsadím se, že nebudeš mít problém je <Lore>dostat ven svým elegantním krumpáčem</Lore>! A pak budou všichni tvoji!"
+    },
+    {
+      "key": "Joy_014_f",
+      "en": "Good luck, {PlayerName}!",
+      "cz": "Hodně štěstí, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Hodně štěstí, {PlayerName}!"
+    },
+    {
+      "key": "Joy_006_f",
+      "en": "That's 'cause helping is fun, and happy, and the right thing to do!",
+      "cz": "Protože pomáhat je zábava, radost a je to správná věc!",
+      "source": "pre_existing",
+      "original_cz": "Protože pomáhat je zábava, radost a je to správná věc!"
+    },
+    {
+      "key": "Joy_007_f",
+      "en": "Joy had this interesting experiment she wanted to try in a really dark setting.",
+      "cz": "Joy měla zajímavý experiment, který chtěla vyzkoušet v opravdu tmavém prostředí.",
+      "source": "pre_existing",
+      "original_cz": "Joy měla zajímavý experiment, který chtěla vyzkoušet v opravdu tmavém prostředí."
+    }
+  ],
+  "LadyTramp_Joy/Joy_VLG_Tram_030_VLG_Tram_030_BringItem01.locbin": [
+    {
+      "key": "Joy_003_f",
+      "en": "Hey, you two! I'm back with the blanket! Although, it's a rather wet blanket at the moment.",
+      "cz": "Hej, vy dva! Jsem zpátky s tou dekou! I když je momentálně docela mokrá.",
+      "source": "pre_existing",
+      "original_cz": "Hej, vy dva! Jsem zpátky s tou dekou! I když je momentálně docela mokrá."
+    },
+    {
+      "key": "Joy_004_f",
+      "en": "That's okay. Anger says I'm a wet blanket sometimes, too. But I don't think that's the same thing.",
+      "cz": "To je v pořádku. Vztek říká, že jsem někdy taky mokrá deka. Ale nemyslím si, že je to totéž.",
+      "source": "pre_existing",
+      "original_cz": "To je v pořádku. Vztek říká, že jsem někdy taky mokrá deka. Ale nemyslím si, že je to totéž."
+    },
+    {
+      "key": "Joy_005_f",
+      "en": "Don't worry. I'll have that blanket dried in no time!",
+      "cz": "Neboj se. Tu deku usuším hned!",
+      "source": "pre_existing",
+      "original_cz": "Neboj se. Tu deku usuším hned!"
+    },
+    {
+      "key": "Joy_006_f",
+      "en": "Yeah, don't give it to me. When I cry, it'll just get all wet again.",
+      "cz": "Jo, nedávej mi to. Až budu brečet, tak to zase celé zmokne.",
+      "source": "pre_existing",
+      "original_cz": "Jo, nedávej mi to. Až budu brečet, tak to zase celé zmokne."
+    },
+    {
+      "key": "Joy_007_f",
+      "en": "Hey, Sadness has something for you, too!",
+      "cz": "Hej, Smutek má taky něco pro tebe!",
+      "source": "pre_existing",
+      "original_cz": "Hej, Smutek má taky něco pro tebe!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "That's very kind of you, Sadness!",
+      "cz": "To je od tebe moc laskavé, Smutku!",
+      "source": "pre_existing",
+      "original_cz": "To je od tebe moc laskavé, Smutku!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Awww, you didn't have to.",
+      "cz": "Jéé, nemusel jsi.",
+      "source": "pre_existing",
+      "original_cz": "Jéé, nemusel jsi."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I'll take all the help I can get with Timon and Tramp.",
+      "cz": "Využiji veškerou pomoc, kterou se mi podaří získat s Timonem a Trampem.",
+      "source": "pre_existing",
+      "original_cz": "Využiji veškerou pomoc, kterou se mi podaří získat s Timonem a Trampem."
+    },
+    {
+      "key": "Joy_008_f",
+      "en": "It's a <ActivityItem>Box of Tissues</ActivityItem>.",
+      "cz": "Je to <ActivityItem>krabice kapesníků</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Je to <ActivityItem>krabice kapesníků</ActivityItem>."
+    },
+    {
+      "key": "Joy_009_f",
+      "en": "I know that when Riley talks about her feelings, she can start crying easily. Now, if Timon, or Tramp, or Pumbaa start crying, they'll have a nice tissue ready.",
+      "cz": "Vím, že když Riley mluví o svých pocitech, snadno se rozplače. A teď, když se rozpláče Timon, Tramp nebo Pumbaa, budou mít připravený pěkný kapesník.",
+      "source": "pre_existing",
+      "original_cz": "Vím, že když Riley mluví o svých pocitech, snadno se rozplače. A teď, když se rozpláče Timon, Tramp nebo Pumbaa, budou mít připravený pěkný kapesník."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "You are too cute.",
+      "cz": "Jsi moc roztomilý/á.",
+      "source": "pre_existing",
+      "original_cz": "Jsi moc roztomilý/á."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Everything's coming together!",
+      "cz": "Všechno se dává dohromady!",
+      "source": "pre_existing",
+      "original_cz": "Všechno se dává dohromady!"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Honestly, now I'm going to cry.",
+      "cz": "Upřímně, teď budu brečet.",
+      "source": "pre_existing",
+      "original_cz": "Upřímně, teď budu brečet."
+    },
+    {
+      "key": "Joy_011_f",
+      "en": "Really? Thanks.",
+      "cz": "Vážně? Díky.",
+      "source": "pre_existing",
+      "original_cz": "Vážně? Díky."
+    },
+    {
+      "key": "Joy_016_f",
+      "en": "If you want to <Lore>set things up in the Remote Headquarters</Lore>, Joy and I can go find Timon, Pumbaa, and Tramp and ask them to come over.",
+      "cz": "Jestli chceš <Lore>zařídit věci ve Vzdáleném ústředí</Lore>, můžeme s Joy jít najít Timona, Pumbu a Trampa a požádat je, aby přišli.",
+      "source": "pre_existing",
+      "original_cz": "Jestli chceš <Lore>zařídit věci ve Vzdáleném ústředí</Lore>, můžeme s Joy jít najít Timona, Pumbu a Trampa a požádat je, aby přišli."
+    },
+    {
+      "key": "Joy_017_f",
+      "en": "Sounds great. I'll head over now.",
+      "cz": "Zní to skvěle. Hned tam půjdu.",
+      "source": "pre_existing",
+      "original_cz": "Zní to skvěle. Hned tam půjdu."
+    },
+    {
+      "key": "Joy_012_f",
+      "en": "Hooray!",
+      "cz": "Hurá!",
+      "source": "pre_existing",
+      "original_cz": "Hurá!"
+    },
+    {
+      "key": "Joy_013_f",
+      "en": "Tears of joy?!",
+      "cz": "Slzy radosti?!",
+      "source": "pre_existing",
+      "original_cz": "Slzy radosti?!"
+    },
+    {
+      "key": "Joy_014_f",
+      "en": "Or sadness?",
+      "cz": "Nebo smutek?",
+      "source": "pre_existing",
+      "original_cz": "Nebo smutek?"
+    },
+    {
+      "key": "Joy_015_f",
+      "en": "Either way, we've got you covered!",
+      "cz": "Ať tak či onak, postaráme se o vás!",
+      "source": "pre_existing",
+      "original_cz": "Ať tak či onak, postaráme se o vás!"
+    }
+  ],
+  "LadyTramp_Joy/Joy_VLG_Tram_030_VLG_Tram_030_TalkTo02.locbin": [
+    {
+      "key": "Joy_002_f",
+      "en": "{PlayerName}! How are you? It's so great to see you again!",
+      "cz": "{PlayerName}! Jak se máš? To je skvělé tě zase vidět!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}! Jak se máš? To je skvělé tě zase vidět!"
+    },
+    {
+      "key": "Joy_003_f",
+      "en": "Hello. I'm sorry we haven't spoken recently. Riley got second place in the talent show, which is good, but she stayed up late a lot to practice, so we've been working long hours.",
+      "cz": "Ahoj. Omlouvám se, že jsme se v poslední době nebavily. Riley získala druhé místo v talentové soutěži, což je dobré, ale kvůli tréninku zůstávala vzhůru dlouho do noci, takže jsme pracovaly dlouhé hodiny.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj. Omlouvám se, že jsme se v poslední době nebavily. Riley získala druhé místo v talentové soutěži, což je dobré, ale kvůli tréninku zůstávala vzhůru dlouho do noci, takže jsme pracovaly dlouhé hodiny."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "No, I'm sorry we haven't spoken more!",
+      "cz": "Ne, omlouvám se, že jsme si nemluvili víc!",
+      "source": "pre_existing",
+      "original_cz": "Ne, omlouvám se, že jsme si nemluvili víc!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I always like talking to you, Sadness.",
+      "cz": "Vždycky si s tebou rád povídám, Smutku.",
+      "source": "pre_existing",
+      "original_cz": "Vždycky si s tebou rád povídám, Smutku."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "You know how it is — sometimes work keeps you occupied.",
+      "cz": "Víš, jak to chodí – někdy tě práce zaměstnává.",
+      "source": "pre_existing",
+      "original_cz": "Víš, jak to chodí – někdy tě práce zaměstnává."
+    },
+    {
+      "key": "Joy_004_f",
+      "en": "Hey, it's all good! You're here now!",
+      "cz": "Hej, všechno je v pořádku! Už jsi tady!",
+      "source": "pre_existing",
+      "original_cz": "Hej, všechno je v pořádku! Už jsi tady!"
+    },
+    {
+      "key": "Joy_007_f",
+      "en": "What brings you by, friend?",
+      "cz": "Co tě sem přivádí, příteli?",
+      "source": "pre_existing",
+      "original_cz": "Co tě sem přivádí, příteli?"
+    },
+    {
+      "key": "Joy_008_f",
+      "en": "I could use some help with handling some big emotions.",
+      "cz": "Hodilo by se mi trochu pomoci se zvládáním silných emocí.",
+      "source": "pre_existing",
+      "original_cz": "Hodilo by se mi trochu pomoci se zvládáním silných emocí."
+    },
+    {
+      "key": "Joy_009_f",
+      "en": "Ooohhhh, tell us all about it!",
+      "cz": "Jééé, pověz nám o tom všechno!",
+      "source": "pre_existing",
+      "original_cz": "Jééé, pověz nám o tom všechno!"
+    },
+    {
+      "key": "Joy_010_f",
+      "en": "Well, it's Timon and Tramp. They were great friends at first, but they've had something of a falling out.",
+      "cz": "No, je to Timon a Tramp. Zpočátku to byli dobří přátelé, ale pak se trochu pohádali.",
+      "source": "pre_existing",
+      "original_cz": "No, je to Timon a Tramp. Zpočátku to byli dobří přátelé, ale pak se trochu pohádali."
+    },
+    {
+      "key": "Joy_011_f",
+      "en": "I tried to get them to talk about it, but they're both still too mad at each other to sit down together.",
+      "cz": "Snažil jsem se je přimět, aby si o tom promluvili, ale oba jsou na sebe pořád příliš naštvaní, než aby si spolu sedli.",
+      "source": "pre_existing",
+      "original_cz": "Snažil jsem se je přimět, aby si o tom promluvili, ale oba jsou na sebe pořád příliš naštvaní, než aby si spolu sedli."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I'm at my wit's end!",
+      "cz": "Jsem na pokraji svých sil!",
+      "source": "pre_existing",
+      "original_cz": "Jsem na pokraji svých sil!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Poor Pumbaa is stuck in the middle.",
+      "cz": "Chudák Pumbaa uvízl uprostřed.",
+      "source": "pre_existing",
+      "original_cz": "Chudák Pumbaa uvízl uprostřed."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "What if they stay angry FOREVER?!",
+      "cz": "Co když budou naštvaní NAVŽDY?!",
+      "source": "pre_existing",
+      "original_cz": "Co když budou naštvaní NAVŽDY?!"
+    },
+    {
+      "key": "Joy_012_f",
+      "en": "Don't you worry. We'll help you out!",
+      "cz": "Neboj se. Pomůžeme ti!",
+      "source": "pre_existing",
+      "original_cz": "Neboj se. Pomůžeme ti!"
+    },
+    {
+      "key": "Joy_021_f",
+      "en": "Oh, right. I guess I did...",
+      "cz": "Jasně. Asi ano...",
+      "source": "pre_existing",
+      "original_cz": "Jasně. Asi ano..."
+    },
+    {
+      "key": "Joy_022_f",
+      "en": "Don't you worry. I'll handle it from here. Which pond?",
+      "cz": "Neboj se. Odtud se o to postarám já. Který rybník?",
+      "source": "pre_existing",
+      "original_cz": "Neboj se. Odtud se o to postarám já. Který rybník?"
+    },
+    {
+      "key": "Joy_023_f",
+      "en": "Umm... I think it was <Lore>in the Peaceful Meadow</Lore>. Maybe.",
+      "cz": "Ehm... Myslím, že to bylo <Lore>na Mírové louce</Lore>. Možná.",
+      "source": "pre_existing",
+      "original_cz": "Ehm... Myslím, že to bylo <Lore>na Mírové louce</Lore>. Možná."
+    },
+    {
+      "key": "Joy_024_f",
+      "en": "Got it. I'll look around!",
+      "cz": "Rozumím. Rozhlédnu se!",
+      "source": "pre_existing",
+      "original_cz": "Rozumím. Rozhlédnu se!"
+    },
+    {
+      "key": "Joy_000_f",
+      "en": "We've seen this happen before. This one time, Riley got into a fight with her friends Grace and Bree. But everyone felt better after a big heart-to-heart.",
+      "cz": "Už jsme tohle viděli. Jednou se Riley pohádala se svými kamarádkami Grace a Bree. Ale po odvážném rozhovoru se všem ulevilo.",
+      "source": "pre_existing",
+      "original_cz": "Už jsme tohle viděli. Jednou se Riley pohádala se svými kamarádkami Grace a Bree. Ale po odvážném rozhovoru se všem ulevilo."
+    },
+    {
+      "key": "Joy_014_f",
+      "en": "Yeah, and maybe they need to go someplace that will help them be calm and talk about their feelings.",
+      "cz": "Jo, a možná by měli jít někam, kde se uklidní a promluví si o svých pocitech.",
+      "source": "pre_existing",
+      "original_cz": "Jo, a možná by měli jít někam, kde se uklidní a promluví si o svých pocitech."
+    },
+    {
+      "key": "Joy_015_f",
+      "en": "Great idea, Sadness!",
+      "cz": "Skvělý nápad, Smutku!",
+      "source": "pre_existing",
+      "original_cz": "Skvělý nápad, Smutku!"
+    },
+    {
+      "key": "Joy_016_f",
+      "en": "A place that's cozy, warm, and full of understanding.",
+      "cz": "Místo, které je útulné, teplé a plné porozumění.",
+      "source": "pre_existing",
+      "original_cz": "Místo, které je útulné, teplé a plné porozumění."
+    },
+    {
+      "key": "Joy_017_f",
+      "en": "What if {PlayerName} uses the Remote Headquarters here in the Valley?",
+      "cz": "Co když {PlayerName} používá vzdálené ústředí tady v údolí?",
+      "source": "pre_existing",
+      "original_cz": "Co když {PlayerName} používá vzdálené ústředí tady v údolí?"
+    },
+    {
+      "key": "Joy_018_f",
+      "en": "I like the sound of that!",
+      "cz": "Líbí se mi, jak to zní!",
+      "source": "pre_existing",
+      "original_cz": "Líbí se mi, jak to zní!"
+    },
+    {
+      "key": "Joy_019_f",
+      "en": "Well, if it's gonna be as extra cozy as possible, we'll need my <ActivityItem>Blanket</ActivityItem>!",
+      "cz": "No, pokud to má být co nejútulnější, budeme potřebovat mou <ActivityItem>deku</ActivityItem>!",
+      "source": "pre_existing",
+      "original_cz": "No, pokud to má být co nejútulnější, budeme potřebovat mou <ActivityItem>deku</ActivityItem>!"
+    },
+    {
+      "key": "Joy_020_f",
+      "en": "Didn't you drop that in a pond?",
+      "cz": "Nehodil jsi to náhodou do rybníka?",
+      "source": "pre_existing",
+      "original_cz": "Nehodil jsi to náhodou do rybníka?"
+    },
+    {
+      "key": "Joy_013_f",
+      "en": "That sounds really hard.",
+      "cz": "To zní opravdu těžko.",
+      "source": "pre_existing",
+      "original_cz": "To zní opravdu těžko."
+    },
+    {
+      "key": "Joy_005_f",
+      "en": "I like talking to you too.",
+      "cz": "Taky si s tebou rád povídám.",
+      "source": "pre_existing",
+      "original_cz": "Taky si s tebou rád povídám."
+    },
+    {
+      "key": "Joy_006_f",
+      "en": "Yeah, I think that makes a lot of people sad...",
+      "cz": "Ano, myslím, že to hodně lidí mrzí...",
+      "source": "pre_existing",
+      "original_cz": "Ano, myslím, že to hodně lidí mrzí..."
+    }
+  ]
+}

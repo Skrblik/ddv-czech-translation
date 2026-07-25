@@ -1,0 +1,1942 @@
+{
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS126_TheForgotten_MRQS126_TheForgotten_TalkTo03.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "{PlayerName}? Well, I was looking for Scar, but never mind that. You and I are long past due for a chat.",
+      "cz": "{PlayerName}? No, hledal jsem Scara, ale to nevadí. My dva si už dávno musíme popovídat.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}? No, hledal jsem Scara, ale to nevadí. My dva si už dávno musíme popovídat."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Go ahead. Yell at me.",
+      "cz": "Jen do toho. Zařvi na mě.",
+      "source": "pre_existing",
+      "original_cz": "Jen do toho. Zařvi na mě."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I've got nothing to talk to you about.",
+      "cz": "Nemám s tebou o čem mluvit.",
+      "source": "pre_existing",
+      "original_cz": "Nemám s tebou o čem mluvit."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "You're just going to tell me what to do like everyone else.",
+      "cz": "Budeš mi jen říkat, co mám dělat, stejně jako všem ostatním.",
+      "source": "pre_existing",
+      "original_cz": "Budeš mi jen říkat, co mám dělat, stejně jako všem ostatním."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Yell at you...? Why would I...? Oh, no, no, no! I'm not angry.",
+      "cz": "Křičet na tebe...? Proč bych...? Ale ne, ne, ne! Nejsem naštvaný.",
+      "source": "pre_existing",
+      "original_cz": "Křičet na tebe...? Proč bych...? Ale ne, ne, ne! Nejsem naštvaný."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "They don't feel very powerful.",
+      "cz": "Nepřipadají mi moc silní.",
+      "source": "pre_existing",
+      "original_cz": "Nepřipadají mi moc silní."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "You don't know what you're talking about.",
+      "cz": "Nevíš, o čem mluvíš.",
+      "source": "pre_existing",
+      "original_cz": "Nevíš, o čem mluvíš."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Leave me alone.",
+      "cz": "Nech mě být.",
+      "source": "pre_existing",
+      "original_cz": "Nech mě být."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "I'm... well, I'm rather worried. Of course I'm concerned about all that's going on in the Village... but it's you I'm most worried about.",
+      "cz": "Já... no, docela se bojím. Samozřejmě se obávám všeho, co se děje ve vesnici... ale nejvíc se bojím o tebe.",
+      "source": "pre_existing",
+      "original_cz": "Já... no, docela se bojím. Samozřejmě se obávám všeho, co se děje ve vesnici... ale nejvíc se bojím o tebe."
+    },
+    {
+      "key": "Merlin_012_f",
+      "en": "Well... you don't have to worry.",
+      "cz": "No... nemusíš se bát.",
+      "source": "pre_existing",
+      "original_cz": "No... nemusíš se bát."
+    },
+    {
+      "key": "Merlin_013_f",
+      "en": "<Forgotten>(Because I'll run away. I'll run away and never return...)</Forgotten>",
+      "cz": "<Zapomenuto>(Protože uteču. Uteču a už se nikdy nevrátím...)</Zapomenuto>",
+      "source": "pre_existing",
+      "original_cz": "<Zapomenuto>(Protože uteču. Uteču a už se nikdy nevrátím...)</Zapomenuto>"
+    },
+    {
+      "key": "Merlin_014_f",
+      "en": "Please, {PlayerName}... let me explain... You, well, er, you don't even have to listen if you don't care to.",
+      "cz": "Prosím, {PlayerName}... dovolte mi to vysvětlit... Vy, no, ehm, ani nemusíte poslouchat, pokud se vám nechce.",
+      "source": "pre_existing",
+      "original_cz": "Prosím, {PlayerName}... dovolte mi to vysvětlit... Vy, no, ehm, ani nemusíte poslouchat, pokud se vám nechce."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "Now then... it's only natural that as you mature, there will be parts of yourself you question — things you wish to leave behind.",
+      "cz": "A teď... je jen přirozené, že jak dospíváš, budou se objevovat části tvého já, které budeš zpochybňovat – věci, které si budeš přát nechat za sebou.",
+      "source": "pre_existing",
+      "original_cz": "A teď... je jen přirozené, že jak dospíváš, budou se objevovat části tvého já, které budeš zpochybňovat – věci, které si budeš přát nechat za sebou."
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "But there are some things you must never lose faith in.",
+      "cz": "Ale jsou věci, v které nikdy nesmíte ztratit víru.",
+      "source": "pre_existing",
+      "original_cz": "Ale jsou věci, v které nikdy nesmíte ztratit víru."
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "Friendship, love, acts of care for one another... they're the most powerful magic of all.",
+      "cz": "Přátelství, láska, projevy vzájemné péče... to je ta nejmocnější magie ze všech.",
+      "source": "pre_existing",
+      "original_cz": "Přátelství, láska, projevy vzájemné péče... to je ta nejmocnější magie ze všech."
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "And they're the greatest forces in Dreamlight Valley, or... well... anywhere!",
+      "cz": "A jsou to největší síly v Údolí snů, nebo... no... kdekoli!",
+      "source": "pre_existing",
+      "original_cz": "A jsou to největší síly v Údolí snů, nebo... no... kdekoli!"
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "Ah... I see. Sometimes, when we feel cut off from love, from friendship, it might appear that way. But impressions can be misleading.",
+      "cz": "Aha... Rozumím. Někdy, když se cítíme odříznuti od lásky, od přátelství, se to tak může zdát. Ale dojmy mohou být zavádějící.",
+      "source": "pre_existing",
+      "original_cz": "Aha... Rozumím. Někdy, když se cítíme odříznuti od lásky, od přátelství, se to tak může zdát. Ale dojmy mohou být zavádějící."
+    },
+    {
+      "key": "Merlin_016_f",
+      "en": "We all care deeply about you. I promise: Love and friendship are always here for you when you're in need of them.",
+      "cz": "Všem nám na tobě hluboce záleží. Slibuji: Láska a přátelství tu pro tebe vždycky budou, když je budeš potřebovat.",
+      "source": "pre_existing",
+      "original_cz": "Všem nám na tobě hluboce záleží. Slibuji: Láska a přátelství tu pro tebe vždycky budou, když je budeš potřebovat."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "You're lying.",
+      "cz": "Lžeš.",
+      "source": "pre_existing",
+      "original_cz": "Lžeš."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "You'll never understand.",
+      "cz": "Nikdy to nepochopíš.",
+      "source": "pre_existing",
+      "original_cz": "Nikdy to nepochopíš."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Love and friendship... What a joke.",
+      "cz": "Láska a přátelství... To je ale vtip.",
+      "source": "pre_existing",
+      "original_cz": "Láska a přátelství... To je ale vtip."
+    },
+    {
+      "key": "Merlin_018_f",
+      "en": "Every word I've said is the truth.",
+      "cz": "Každé slovo, které jsem řekl, je pravda.",
+      "source": "pre_existing",
+      "original_cz": "Každé slovo, které jsem řekl, je pravda."
+    },
+    {
+      "key": "Merlin_020_f",
+      "en": "Be careful of the path you're walking down, {PlayerName}... I implore you.",
+      "cz": "Dávej si pozor na cestu, po které kráčíš, {PlayerName}... Úpěnlivě tě prosím.",
+      "source": "pre_existing",
+      "original_cz": "Dávej si pozor na cestu, po které kráčíš, {PlayerName}... Úpěnlivě tě prosím."
+    },
+    {
+      "key": "Merlin_000_f",
+      "en": "Some things must never be forgotten.",
+      "cz": "Na některé věci se nikdy nesmí zapomenout.",
+      "source": "pre_existing",
+      "original_cz": "Na některé věci se nikdy nesmí zapomenout."
+    },
+    {
+      "key": "Merlin_022_f",
+      "en": "<Forgotten>(Some things... must be... Forgotten...)</Forgotten>",
+      "cz": "<Zapomenuto>(Některé věci... musí být... ​​Zapomenuty...)</Zapomenuto>",
+      "source": "pre_existing",
+      "original_cz": "<Zapomenuto>(Některé věci... musí být... ​​Zapomenuty...)</Zapomenuto>"
+    },
+    {
+      "key": "Merlin_019_f",
+      "en": "Perhaps not. But I'll never stop my pursuit of knowledge, or trying to aid you.",
+      "cz": "Možná ne. Ale nikdy nepřestanu s hledáním znalostí ani se snahou ti pomoci.",
+      "source": "pre_existing",
+      "original_cz": "Možná ne. Ale nikdy nepřestanu s hledáním znalostí ani se snahou ti pomoci."
+    },
+    {
+      "key": "Merlin_021_f",
+      "en": "You must not let yourself believe that!",
+      "cz": "Nesmíš si dovolit tomu uvěřit!",
+      "source": "pre_existing",
+      "original_cz": "Nesmíš si dovolit tomu uvěřit!"
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "I may not know half as much as I wish to. But what I've just told you is one thing I am quite certain about.",
+      "cz": "Možná nevím ani z poloviny tolik, kolik bych si přál. Ale jednou věcí, kterou jsem vám právě řekl, jsem si naprosto jistý.",
+      "source": "pre_existing",
+      "original_cz": "Možná nevím ani z poloviny tolik, kolik bych si přál. Ale jednou věcí, kterou jsem vám právě řekl, jsem si naprosto jistý."
+    },
+    {
+      "key": "Merlin_015_f",
+      "en": "I shall, in just a moment. I have one last thing to say...",
+      "cz": "Udělám to za chvilku. Ještě musím říct poslední věc...",
+      "source": "pre_existing",
+      "original_cz": "Udělám to za chvilku. Ještě musím říct poslední věc..."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Please. Just lend your ear for a moment.",
+      "cz": "Prosím. Jen na chvilku naslouchejte.",
+      "source": "pre_existing",
+      "original_cz": "Prosím. Jen na chvilku naslouchejte."
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "No, no, no, I've no desire to tell you what to do. I only wish to try and help.",
+      "cz": "Ne, ne, ne, nemám chuť ti říkat, co máš dělat. Jen se ti chci pokusit pomoct.",
+      "source": "pre_existing",
+      "original_cz": "Ne, ne, ne, nemám chuť ti říkat, co máš dělat. Jen se ti chci pokusit pomoct."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS130_LightInTheDark_MRQS130_LightInTheDark_BringItem01.locbin": [
+    {
+      "key": "Merlin_004_f",
+      "en": "Now, let's see... Ah, a book of fairy tales...",
+      "cz": "Tak se podívejme... Aha, kniha pohádek...",
+      "source": "pre_existing",
+      "original_cz": "Tak se podívejme... Aha, kniha pohádek..."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "Oh dear, it's positively saturated with Dark Magic. It must have been the Forgotten's once. There's no other explanation.",
+      "cz": "Ach jo, je to doslova prosáklé temnou magií. Kdysi to muselo patřit Zapomenutým. Jiné vysvětlení neexistuje.",
+      "source": "pre_existing",
+      "original_cz": "Ach jo, je to doslova prosáklé temnou magií. Kdysi to muselo patřit Zapomenutým. Jiné vysvětlení neexistuje."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "We've got something that belonged to the Forgotten. What's next?",
+      "cz": "Máme něco, co patřilo Zapomenutým. Co bude dál?",
+      "source": "pre_existing",
+      "original_cz": "Máme něco, co patřilo Zapomenutým. Co bude dál?"
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "I'm afraid for this enchantment; we'll need at least <Lore>three more Forgotten Relics</Lore> just like this.",
+      "cz": "Bojím se o tohle kouzlo; budeme potřebovat alespoň <Lore>tři další Zapomenuté relikvie</Lore>, jako je tato.",
+      "source": "pre_existing",
+      "original_cz": "Bojím se o tohle kouzlo; budeme potřebovat alespoň <Lore>tři další Zapomenuté relikvie</Lore>, jako je tato."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Will they look just like this one?",
+      "cz": "Budou vypadat stejně jako tyto?",
+      "source": "pre_existing",
+      "original_cz": "Budou vypadat stejně jako tyto?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Where do I find them?",
+      "cz": "Kde je najdu?",
+      "source": "pre_existing",
+      "original_cz": "Kde je najdu?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Sounds like a wild goose chase to me...",
+      "cz": "Zní mi to jako honička za divokými husami...",
+      "source": "pre_existing",
+      "original_cz": "Zní mi to jako honička za divokými husami..."
+    },
+    {
+      "key": "Merlin_015_f",
+      "en": "Well, some might be quite special, but others could be more mundane. However, they'll all have Dark Magic emanating from them, just like this one does.",
+      "cz": "No, některé mohou být docela speciální, ale jiné by mohly být obyčejnější. Nicméně ze všech bude vyzařovat temná magie, stejně jako z tohoto.",
+      "source": "pre_existing",
+      "original_cz": "No, některé mohou být docela speciální, ale jiné by mohly být obyčejnější. Nicméně ze všech bude vyzařovat temná magie, stejně jako z tohoto."
+    },
+    {
+      "key": "Merlin_018_f",
+      "en": "To find them, you must keep an eye out for more places where Dark Magic is bleeding through into our world. They could be anywhere in the Village.",
+      "cz": "Abyste je našli, musíte dávat pozor na další místa, kudy do našeho světa proniká temná magie. Mohou být kdekoli ve vesnici.",
+      "source": "pre_existing",
+      "original_cz": "Abyste je našli, musíte dávat pozor na další místa, kudy do našeho světa proniká temná magie. Mohou být kdekoli ve vesnici."
+    },
+    {
+      "key": "Merlin_025_f",
+      "en": "Got it. Find the <ActivityItem>Relics</ActivityItem>, save the Village.",
+      "cz": "Rozumím. Najdi <ActivityItem>Relikvie</ActivityItem> a zachraň vesnici.",
+      "source": "pre_existing",
+      "original_cz": "Rozumím. Najdi <ActivityItem>Relikvie</ActivityItem> a zachraň vesnici."
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "Ah! Ah! That's not all. We also must obtain the story behind each <ActivityItem>Relic</ActivityItem>.",
+      "cz": "Ach! Ach! To není všechno. Musíme také zjistit příběh, který se skrývá za každou <ActivityItem>Relikvií</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ach! Ach! To není všechno. Musíme také zjistit příběh, který se skrývá za každou <ActivityItem>Relikvií</ActivityItem>."
+    },
+    {
+      "key": "Merlin_014_f",
+      "en": "Stories hold a magic all their own, {PlayerName}. Uncover the stories... and you'll be able to harness the magic.",
+      "cz": "Příběhy v sobě skrývají vlastní kouzlo, {PlayerName}. Odhalte příběhy... a budete moci magii využít.",
+      "source": "pre_existing",
+      "original_cz": "Příběhy v sobě skrývají vlastní kouzlo, {PlayerName}. Odhalte příběhy... a budete moci magii využít."
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "You must discover why these things were of such importance to the Forgotten. You found the first one in Mickey's House. Perhaps Mickey knows the story behind it...",
+      "cz": "Musíš zjistit, proč byly tyto věci pro Zapomenuté tak důležité. První jsi našel v Mickeyho domě. Možná Mickey zná příběh, který se za ní skrývá...",
+      "source": "pre_existing",
+      "original_cz": "Musíš zjistit, proč byly tyto věci pro Zapomenuté tak důležité. První jsi našel v Mickeyho domě. Možná Mickey zná příběh, který se za ní skrývá..."
+    },
+    {
+      "key": "Merlin_027_f",
+      "en": "I'll <Lore>look around the Village... and go talk to Mickey</Lore>. Thanks, Merlin.",
+      "cz": "<Lore>Rozhlédnu se po vesnici... a promluvím si s Mickeyem</Lore>. Díky, Merline.",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Rozhlédnu se po vesnici... a promluvím si s Mickeyem</Lore>. Díky, Merline."
+    },
+    {
+      "key": "Merlin_017_f",
+      "en": "You must keep an eye out for more places where Dark Magic is seeping through into our world. They could be anywhere in the Village.",
+      "cz": "Musíš si dávat pozor na další místa, kudy do našeho světa proniká temná magie. Mohou být kdekoli ve vesnici.",
+      "source": "pre_existing",
+      "original_cz": "Musíš si dávat pozor na další místa, kudy do našeho světa proniká temná magie. Mohou být kdekoli ve vesnici."
+    },
+    {
+      "key": "Merlin_019_f",
+      "en": "Some of the <ActivityItem>Relics</ActivityItem> might be quite special. Others more mundane. But they'll all have Dark Magic emanating from them, just like this one does.",
+      "cz": "Některé z <ActivityItem>Relikvií</ActivityItem> mohou být docela zvláštní. Jiné zas obyčejnější. Ale ze všech bude vyzařovat temná magie, stejně jako z této.",
+      "source": "pre_existing",
+      "original_cz": "Některé z <ActivityItem>Relikvií</ActivityItem> mohou být docela zvláštní. Jiné zas obyčejnější. Ale ze všech bude vyzařovat temná magie, stejně jako z této."
+    },
+    {
+      "key": "Merlin_021_f",
+      "en": "How am I supposed to even know what I'm looking for?",
+      "cz": "Jak mám vůbec vědět, co hledám?",
+      "source": "pre_existing",
+      "original_cz": "Jak mám vůbec vědět, co hledám?"
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS130_LightInTheDark_MRQS130_LightInTheDark_Intro.locbin": [
+    {
+      "key": "Merlin_003_f",
+      "en": "Ah, {PlayerName}. The Fairy Godmother has informed me of all you went through in the Dreamscape.",
+      "cz": "Aha, {PlayerName}. Víla kmotra mě informovala o všem, čím jsi prošel v Krajině snů.",
+      "source": "pre_existing",
+      "original_cz": "Aha, {PlayerName}. Víla kmotra mě informovala o všem, čím jsi prošel v Krajině snů."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "I hope having to live out someone else's Memories wasn't too... er, terribly discombobulating for you.",
+      "cz": "Doufám, že pro tebe nebylo prožívat Vzpomínky někoho jiného příliš... ehm, strašně znepokojivé.",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že pro tebe nebylo prožívat Vzpomínky někoho jiného příliš... ehm, strašně znepokojivé."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I wanted to talk about what I learned from the Forgotten's Memories...",
+      "cz": "Chtěl jsem mluvit o tom, co jsem se dozvěděl ze vzpomínek Zapomenutých...",
+      "source": "pre_existing",
+      "original_cz": "Chtěl jsem mluvit o tom, co jsem se dozvěděl ze vzpomínek Zapomenutých..."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "No time for chit-chat. We have a Valley to save.",
+      "cz": "Není čas na povídání. Musíme zachránit Údolí.",
+      "source": "pre_existing",
+      "original_cz": "Není čas na povídání. Musíme zachránit Údolí."
+    },
+    {
+      "key": "Merlin_000_f",
+      "en": "Of course. Tell me, what have you surmised?",
+      "cz": "Samozřejmě. Řekněte mi, co jste si o tom domyslel/a?",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě. Řekněte mi, co jste si o tom domyslel/a?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "The Forgotten must be stopped.",
+      "cz": "Zapomenutí musí být zastaveni.",
+      "source": "pre_existing",
+      "original_cz": "Zapomenutí musí být zastaveni."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "The Forgotten can be saved.",
+      "cz": "Zapomenutý může být zachráněn.",
+      "source": "pre_existing",
+      "original_cz": "Zapomenutý může být zachráněn."
+    },
+    {
+      "key": "Player_000_choice_003_f",
+      "en": "I learned that you give pretty good advice.",
+      "cz": "Dozvěděl jsem se, že dáváte docela dobré rady.",
+      "source": "pre_existing",
+      "original_cz": "Dozvěděl jsem se, že dáváte docela dobré rady."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "Whatever I saw in the Forgotten's past... it doesn't change the present. The Forgotten's dangerous.",
+      "cz": "Ať už jsem v minulosti Zapomenutých viděl cokoli... přítomnost to nezmění. Zapomenutí jsou nebezpeční.",
+      "source": "pre_existing",
+      "original_cz": "Ať už jsem v minulosti Zapomenutých viděl cokoli... přítomnost to nezmění. Zapomenutí jsou nebezpeční."
+    },
+    {
+      "key": "Merlin_015_f",
+      "en": "You have noticed the <Lore>rips in the sky</Lore>, haven't you? Why, the very fabric of reality is coming undone around us!",
+      "cz": "Všiml sis těch <Lore>trhlin na obloze</Lore>, že? Vždyť se kolem nás rozpadá samotná struktura reality!",
+      "source": "pre_existing",
+      "original_cz": "Všiml sis těch <Lore>trhlin na obloze</Lore>, že? Vždyť se kolem nás rozpadá samotná struktura reality!"
+    },
+    {
+      "key": "Merlin_021_f",
+      "en": "To find the Forgotten and stop this, we'll need something connected to the Forgotten... Something left behind.",
+      "cz": "Abychom našli Zapomenuté a zastavili to, budeme potřebovat něco spojeného se Zapomenutým... Něco, co tu zůstalo.",
+      "source": "pre_existing",
+      "original_cz": "Abychom našli Zapomenuté a zastavili to, budeme potřebovat něco spojeného se Zapomenutým... Něco, co tu zůstalo."
+    },
+    {
+      "key": "Merlin_024_f",
+      "en": "Like what...? The Forgotten hasn't left anything behind that I've noticed.",
+      "cz": "Jako co...? Zapomenutí po sobě nezanechali nic, čeho bych si všiml.",
+      "source": "pre_existing",
+      "original_cz": "Jako co...? Zapomenutí po sobě nezanechali nic, čeho bych si všiml."
+    },
+    {
+      "key": "Merlin_025_f",
+      "en": "Oh, but that's where you're wrong! Follow me. I've <Lore>uncovered something at Mickey's House</Lore> that's sure to help us. It'll be easier to understand once you've seen it.",
+      "cz": "Ale v tom se mýlíš! Pojď za mnou. <Lore>Objevil jsem něco v Mickeyho domě</Lore>, co nám jistě pomůže. Až to uvidíš, bude to pro tebe snazší pochopit.",
+      "source": "pre_existing",
+      "original_cz": "Ale v tom se mýlíš! Pojď za mnou. <Lore>Objevil jsem něco v Mickeyho domě</Lore>, co nám jistě pomůže. Až to uvidíš, bude to pro tebe snazší pochopit."
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "Perhaps you're right. I fear I wasted far too much time trying to reach the Forgotten with words.",
+      "cz": "Možná máš pravdu. Obávám se, že jsem promrhal příliš mnoho času snahou dosáhnout Zapomenutých slovy.",
+      "source": "pre_existing",
+      "original_cz": "Možná máš pravdu. Obávám se, že jsem promrhal příliš mnoho času snahou dosáhnout Zapomenutých slovy."
+    },
+    {
+      "key": "Merlin_016_f",
+      "en": "I saw you trying to talk to the Forgotten in one of the Memories.",
+      "cz": "Viděl jsem tě, jak se v jedné ze vzpomínek snažíš mluvit se Zapomenutými.",
+      "source": "pre_existing",
+      "original_cz": "Viděl jsem tě, jak se v jedné ze vzpomínek snažíš mluvit se Zapomenutými."
+    },
+    {
+      "key": "Merlin_012_f",
+      "en": "You gave the Forgotten some great advice. It's too bad they weren't ready to hear it yet.",
+      "cz": "Dal jsi Zapomenutým skvělou radu. Škoda, že si ji ještě nebyli připraveni poslechnout.",
+      "source": "pre_existing",
+      "original_cz": "Dal jsi Zapomenutým skvělou radu. Škoda, že si ji ještě nebyli připraveni poslechnout."
+    },
+    {
+      "key": "Merlin_013_f",
+      "en": "Really? Which Memory was it? What did I say?",
+      "cz": "Vážně? Která vzpomínka to byla? Co jsem říkal?",
+      "source": "pre_existing",
+      "original_cz": "Vážně? Která vzpomínka to byla? Co jsem říkal?"
+    },
+    {
+      "key": "Merlin_017_f",
+      "en": "You said that no matter what we leave behind, there are some things that must never be forgotten.",
+      "cz": "Řekl jsi, že ať po sobě zanecháme cokoli, existují věci, na které se nikdy nesmí zapomenout.",
+      "source": "pre_existing",
+      "original_cz": "Řekl jsi, že ať po sobě zanecháme cokoli, existují věci, na které se nikdy nesmí zapomenout."
+    },
+    {
+      "key": "Merlin_018_f",
+      "en": "Things like...",
+      "cz": "Věci jako...",
+      "source": "pre_existing",
+      "original_cz": "Věci jako..."
+    },
+    {
+      "key": "Merlin_019_f",
+      "en": "...friendship, love and care. Of course! That was rather wise of me, wasn't it?",
+      "cz": "...přátelství, láska a péče. Samozřejmě! To bylo ode mě docela moudré, že?",
+      "source": "pre_existing",
+      "original_cz": "...přátelství, láska a péče. Samozřejmě! To bylo ode mě docela moudré, že?"
+    },
+    {
+      "key": "Merlin_020_f",
+      "en": "You need only look skyward anywhere in the Valley to see what happens when we DO forget.",
+      "cz": "Stačí se podívat kamkoli v údolí k nebi a uvidíte, co se stane, když zapomeneme.",
+      "source": "pre_existing",
+      "original_cz": "Stačí se podívat kamkoli v údolí k nebi a uvidíte, co se stane, když zapomeneme."
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "The Forgotten's just a mixed-up kid. I know we can fix all this. I just have to find the right words to say...",
+      "cz": "Zapomenutý je jen popletený kluk. Vím, že tohle všechno dokážeme napravit. Jen musím najít ta správná slova...",
+      "source": "pre_existing",
+      "original_cz": "Zapomenutý je jen popletený kluk. Vím, že tohle všechno dokážeme napravit. Jen musím najít ta správná slova..."
+    },
+    {
+      "key": "Merlin_014_f",
+      "en": "I'm afraid there might not be words that will stop the Forgotten. At least not words I've found, for I've certainly tried.",
+      "cz": "Obávám se, že neexistují slova, která by zastavila Zapomenuté. Alespoň ne slova, která jsem našel, protože jsem se o ně rozhodně pokusil.",
+      "source": "pre_existing",
+      "original_cz": "Obávám se, že neexistují slova, která by zastavila Zapomenuté. Alespoň ne slova, která jsem našel, protože jsem se o ně rozhodně pokusil."
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "That's very true. But... uh, what specifically are you referring to?",
+      "cz": "To je pravda. Ale... ehm, na co konkrétně narážíte?",
+      "source": "pre_existing",
+      "original_cz": "To je pravda. Ale... ehm, na co konkrétně narážíte?"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Yes, of course. You're right! The time for idle chatter is long past.",
+      "cz": "Ano, samozřejmě. Máte pravdu! Čas planého povídání je dávno pryč.",
+      "source": "pre_existing",
+      "original_cz": "Ano, samozřejmě. Máte pravdu! Čas planého povídání je dávno pryč."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS130_LightInTheDark_MRQS130_LightInTheDark_Ongoing01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Follow me! I've located one of the rips in reality near Mickey's House.",
+      "cz": "Pojď za mnou! Našel jsem jednu z trhlin ve skutečnosti poblíž Mickeyho domu.",
+      "source": "pre_existing",
+      "original_cz": "Pojď za mnou! Našel jsem jednu z trhlin ve skutečnosti poblíž Mickeyho domu."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS130_LightInTheDark_MRQS130_LightInTheDark_Ongoing02.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Have you searched Mickey's House? There must be a <ActivityItem>Forgotten Relic</ActivityItem> within!",
+      "cz": "Prohledal jsi Mickeyho dům? Musí tam být <ActivityItem>Zapomenutá relikvie</ActivityItem>!",
+      "source": "pre_existing",
+      "original_cz": "Prohledal jsi Mickeyho dům? Musí tam být <ActivityItem>Zapomenutá relikvie</ActivityItem>!"
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS130_LightInTheDark_MRQS130_LightInTheDark_Ongoing03.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Have you searched Mickey's House? There must be something within imbued with the Forgotten's Dark Magic.",
+      "cz": "Prohledal jsi Mickeyho dům? Musí tam být něco, co je prodchnuto temnou magií Zapomenutých.",
+      "source": "pre_existing",
+      "original_cz": "Prohledal jsi Mickeyho dům? Musí tam být něco, co je prodchnuto temnou magií Zapomenutých."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS130_LightInTheDark_MRQS130_LightInTheDark_Ongoing04.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "You've found a book of some sort? Well, bring it to me, as quickly as you can!",
+      "cz": "Našel jsi nějakou knihu? Tak mi ji co nejrychleji přines!",
+      "source": "pre_existing",
+      "original_cz": "Našel jsi nějakou knihu? Tak mi ji co nejrychleji přines!"
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS130_LightInTheDark_MRQS130_LightInTheDark_Ongoing05.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "You must find the <ActivityItem>Forgotten Relics</ActivityItem> scattered around the Valley.",
+      "cz": "Musíš najít <ActivityItem>Zapomenuté relikvie</ActivityItem> roztroušené po údolí.",
+      "source": "pre_existing",
+      "original_cz": "Musíš najít <ActivityItem>Zapomenuté relikvie</ActivityItem> roztroušené po údolí."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Keep an eye out for Dark Magic seeping through into the Village.",
+      "cz": "Dávejte pozor na temnou magii, která proniká do vesnice.",
+      "source": "pre_existing",
+      "original_cz": "Dávejte pozor na temnou magii, která proniká do vesnice."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "And of course... you'll have to uncover the stories behind each Relic. Find the Villagers who might have once shared them with the Forgotten.",
+      "cz": "A samozřejmě... budete muset odhalit příběhy, které se skrývají za každou relikvií. Najděte vesničany, kteří se o ně kdysi mohli podělit se Zapomenutými.",
+      "source": "pre_existing",
+      "original_cz": "A samozřejmě... budete muset odhalit příběhy, které se skrývají za každou relikvií. Najděte vesničany, kteří se o ně kdysi mohli podělit se Zapomenutými."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS130_LightInTheDark_MRQS130_LightInTheDark_TalkTo01.locbin": [
+    {
+      "key": "Merlin_002_f",
+      "en": "Observe! There, on the roof of Mickey's House... It's not just the rips in the sky. There's Dark Magic bleeding through the very fabric of reality.",
+      "cz": "Pozor! Tam, na střeše Mickeyho domu... Nejsou to jen trhliny na obloze. Tam temná magie prosakuje skrz samotnou strukturu reality.",
+      "source": "pre_existing",
+      "original_cz": "Pozor! Tam, na střeše Mickeyho domu... Nejsou to jen trhliny na obloze. Tam temná magie prosakuje skrz samotnou strukturu reality."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Fortunately, the phenomenon is quite localized. Only certain places seem to be affected...",
+      "cz": "Naštěstí je tento jev poměrně lokální. Zdá se, že jsou postižena pouze určitá místa...",
+      "source": "pre_existing",
+      "original_cz": "Naštěstí je tento jev poměrně lokální. Zdá se, že jsou postižena pouze určitá místa..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Maybe these places were important to the Forgotten?",
+      "cz": "Možná byla tato místa pro Zapomenuté důležitá?",
+      "source": "pre_existing",
+      "original_cz": "Možná byla tato místa pro Zapomenuté důležitá?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Probably just a coincidence?",
+      "cz": "Pravděpodobně jen náhoda?",
+      "source": "pre_existing",
+      "original_cz": "Pravděpodobně jen náhoda?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Can you spell it out for me? No time for riddles.",
+      "cz": "Můžeš mi to vyhláskovat? Na hádanky není čas.",
+      "source": "pre_existing",
+      "original_cz": "Můžeš mi to vyhláskovat? Na hádanky není čas."
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "Yes, though I hypothesize that it's not the places themselves... but something inside of them.",
+      "cz": "Ano, i když předpokládám, že to nejsou samotná místa... ale něco uvnitř nich.",
+      "source": "pre_existing",
+      "original_cz": "Ano, i když předpokládám, že to nejsou samotná místa... ale něco uvnitř nich."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "Coincidence?! This is Dreamlight Valley, {PlayerName}! Nothing here is mere coincidence.",
+      "cz": "Náhoda?! Tohle je Údolí snů, {PlayerName}! Nic tady není pouhá náhoda.",
+      "source": "pre_existing",
+      "original_cz": "Náhoda?! Tohle je Údolí snů, {PlayerName}! Nic tady není pouhá náhoda."
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "I hypothesize that each spot must hold something important to the Forgotten. Something left behind.",
+      "cz": "Předpokládám, že každé místo musí ukrývat něco důležitého pro Zapomenuté. Něco, co tam zůstalo.",
+      "source": "pre_existing",
+      "original_cz": "Předpokládám, že každé místo musí ukrývat něco důležitého pro Zapomenuté. Něco, co tam zůstalo."
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "And it appears they're still imbued with the Forgotten's magic.",
+      "cz": "A zdá se, že jsou stále naplněni magií Zapomenutých.",
+      "source": "pre_existing",
+      "original_cz": "A zdá se, že jsou stále naplněni magií Zapomenutých."
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "You'll have to <Lore>search Mickey's House</Lore> for anything like that. It could be something quite mundane...",
+      "cz": "Budeš muset <Lore>prohledat Mickeyho dům</Lore>, abys našel něco takového. Mohlo by to být něco docela všedního...",
+      "source": "pre_existing",
+      "original_cz": "Budeš muset <Lore>prohledat Mickeyho dům</Lore>, abys našel něco takového. Mohlo by to být něco docela všedního..."
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "Yes well, I'm conversing as swiftly as comprehension allows!",
+      "cz": "Ano, mluvím tak rychle, jak mi to porozumění dovolí!",
+      "source": "pre_existing",
+      "original_cz": "Ano, mluvím tak rychle, jak mi to porozumění dovolí!"
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS133_TheDarkCastle_MRQS133_TheDarkCastle_BringItem01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Bravo! You've found enough <ActivityItem>Forgotten Relics</ActivityItem> for us to proceed with the enchantment!",
+      "cz": "Bravo! Našli jste dostatek <ActivityItem>Zapomenutých relikvií</ActivityItem>, abychom mohli pokračovat s očarováním!",
+      "source": "pre_existing",
+      "original_cz": "Bravo! Našli jste dostatek <ActivityItem>Zapomenutých relikvií</ActivityItem>, abychom mohli pokračovat s očarováním!"
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "The magic coming off of them is stronger than anything the Forgotten left behind. And it's story magic; of that I'm certain.",
+      "cz": "Magie, která z nich vychází, je silnější než cokoli, co po sobě Zapomenutí zanechali. A je to magie příběhu, tím jsem si jistý.",
+      "source": "pre_existing",
+      "original_cz": "Magie, která z nich vychází, je silnější než cokoli, co po sobě Zapomenutí zanechali. A je to magie příběhu, tím jsem si jistý."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "We mustn't tarry a moment longer. Are you ready to <Lore>pass through and explore the Dark Castle</Lore>?",
+      "cz": "Nesmíme se zdržovat ani chvilku. Jste připraveni <Lore>projít a prozkoumat Temný hrad</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "Nesmíme se zdržovat ani chvilku. Jste připraveni <Lore>projít a prozkoumat Temný hrad</Lore>?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I've never been more ready.",
+      "cz": "Nikdy jsem nebyl připravenější.",
+      "source": "pre_existing",
+      "original_cz": "Nikdy jsem nebyl připravenější."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'm scared... but I'll fight through it.",
+      "cz": "Bojím se... ale zvládnu to.",
+      "source": "pre_existing",
+      "original_cz": "Bojím se... ale zvládnu to."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Maybe we could get Donald to do this instead?",
+      "cz": "Možná bychom mohli požádat Donalda, aby to udělal místo něj?",
+      "source": "pre_existing",
+      "original_cz": "Možná bychom mohli požádat Donalda, aby to udělal místo něj?"
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "Confidence! That's exactly what you'll need, {PlayerName}. With confidence, I know you can face any challenge.",
+      "cz": "Sebevědomí! To je přesně to, co budeš potřebovat, {PlayerName}. Vím, že se sebevědomím zvládneš jakoukoli výzvu.",
+      "source": "pre_existing",
+      "original_cz": "Sebevědomí! To je přesně to, co budeš potřebovat, {PlayerName}. Vím, že se sebevědomím zvládneš jakoukoli výzvu."
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "You've learned a great deal since that first day you returned to the Valley.",
+      "cz": "Od toho prvního dne, kdy ses vrátil do Údolí, ses toho hodně naučil.",
+      "source": "pre_existing",
+      "original_cz": "Od toho prvního dne, kdy ses vrátil do Údolí, ses toho hodně naučil."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "It feels like yesterday.",
+      "cz": "Připadá mi to jako včera.",
+      "source": "pre_existing",
+      "original_cz": "Připadá mi to jako včera."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "That seems so long ago...",
+      "cz": "Zdá se to být tak dávno...",
+      "source": "pre_existing",
+      "original_cz": "Zdá se to být tak dávno..."
+    },
+    {
+      "key": "Merlin_013_f",
+      "en": "To you. To me, it seems as though I've barely blinked my eyes, and yet so much time has passed.",
+      "cz": "Tobě. Mně se zdá, jako bych sotva mrkl okem, a přitom už uběhlo tolik času.",
+      "source": "pre_existing",
+      "original_cz": "Tobě. Mně se zdá, jako bych sotva mrkl okem, a přitom už uběhlo tolik času."
+    },
+    {
+      "key": "Merlin_014_f",
+      "en": "You've become the ruler that Dreamlight Valley needs. Look around at all you've done, all the friends you've brought back. {PlayerName}... I'm proud of you.",
+      "cz": "Stal ses vládcem, kterého Dreamlight Valley potřebuje. Rozhlédni se kolem sebe na všechno, co jsi dokázal, na všechny přátele, které jsi přivedl zpět. {PlayerName}... Jsem na tebe hrdý.",
+      "source": "pre_existing",
+      "original_cz": "Stal ses vládcem, kterého Dreamlight Valley potřebuje. Rozhlédni se kolem sebe na všechno, co jsi dokázal, na všechny přátele, které jsi přivedl zpět. {PlayerName}... Jsem na tebe hrdý."
+    },
+    {
+      "key": "Merlin_015_f",
+      "en": "Now, <Lore>follow me</Lore>, and let's set the world right before I devolve into unbearable sentiment.",
+      "cz": "A teď, <Lore>pojď za mnou</Lore>, a pojďme dát svět do pořádku, než se propadnu do nesnesitelného sentimentu.",
+      "source": "pre_existing",
+      "original_cz": "A teď, <Lore>pojď za mnou</Lore>, a pojďme dát svět do pořádku, než se propadnu do nesnesitelného sentimentu."
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "Yes, I believe you will. And that's true courage, isn't it? Recognizing our fears and facing them.",
+      "cz": "Ano, věřím, že to uděláte. A to je ta pravá odvaha, že? Uznat své strachy a postavit se jim čelem.",
+      "source": "pre_existing",
+      "original_cz": "Ano, věřím, že to uděláte. A to je ta pravá odvaha, že? Uznat své strachy a postavit se jim čelem."
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "Donald may be very brave, but the last time he found himself on the other side of a Dark Portal, he spent far too long wandering around a foggy forest.",
+      "cz": "Donald je možná velmi statečný, ale když se naposledy ocitl na druhé straně Temného portálu, strávil příliš dlouho blouděním mlhavým lesem.",
+      "source": "pre_existing",
+      "original_cz": "Donald je možná velmi statečný, ale když se naposledy ocitl na druhé straně Temného portálu, strávil příliš dlouho blouděním mlhavým lesem."
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "You can do this, {PlayerName}. In fact... ONLY you can do this.",
+      "cz": "Tohle zvládneš, {PlayerName}. Vlastně... to zvládneš JEN TY.",
+      "source": "pre_existing",
+      "original_cz": "Tohle zvládneš, {PlayerName}. Vlastně... to zvládneš JEN TY."
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "Your final lesson is to know when to trust in yourself. You've learned a great deal since that first day you returned to the Valley.",
+      "cz": "Tvojí poslední lekcí je vědět, kdy si máš důvěřovat. Od toho prvního dne, kdy ses vrátil do Údolí, ses toho hodně naučil.",
+      "source": "pre_existing",
+      "original_cz": "Tvojí poslední lekcí je vědět, kdy si máš důvěřovat. Od toho prvního dne, kdy ses vrátil do Údolí, ses toho hodně naučil."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS133_TheDarkCastle_MRQS133_TheDarkCastle_Ongoing01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "You've found four Forgotten Relics, and uncovered the stories behind them?",
+      "cz": "Našli jste čtyři Zapomenuté relikvie a odhalili jste příběhy, které se za nimi skrývají?",
+      "source": "pre_existing",
+      "original_cz": "Našli jste čtyři Zapomenuté relikvie a odhalili jste příběhy, které se za nimi skrývají?"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Then there's no time to tarry! We must examine them at once.",
+      "cz": "Pak není čas otálet! Musíme je okamžitě prozkoumat.",
+      "source": "pre_existing",
+      "original_cz": "Pak není čas otálet! Musíme je okamžitě prozkoumat."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS133_TheDarkCastle_MRQS133_TheDarkCastle_Ongoing02.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Come along now! <Lore>Meet me at the Well in the Plaza</Lore>!",
+      "cz": "Pojď teď! <Lore>Sejdeme se u Studny na náměstí</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Pojď teď! <Lore>Sejdeme se u Studny na náměstí</Lore>!"
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS133_TheDarkCastle_MRQS133_TheDarkCastle_Ongoing06.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Why, pass through the portal, of course.",
+      "cz": "Proč, samozřejmě projít portálem.",
+      "source": "pre_existing",
+      "original_cz": "Proč, samozřejmě projít portálem."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS133_TheDarkCastle_MRQS133_TheDarkCastle_Ongoing07.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "You found yourself in a dark shadow of our Plaza?",
+      "cz": "Ocitl ses v temném stínu našeho náměstí?",
+      "source": "pre_existing",
+      "original_cz": "Ocitl ses v temném stínu našeho náměstí?"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Then, I suppose you'll have to enter the Castle if we've any hope of stopping the Forgotten.",
+      "cz": "Pak předpokládám, že budete muset vstoupit do Hradu, pokud máme nějakou naději, že zastavíme Zapomenuté.",
+      "source": "pre_existing",
+      "original_cz": "Pak předpokládám, že budete muset vstoupit do Hradu, pokud máme nějakou naději, že zastavíme Zapomenuté."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS133_TheDarkCastle_MRQS133_TheDarkCastle_Ongoing08.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "There's something strange about the door in the Dark Castle?",
+      "cz": "Je něco divného s těmi dveřmi v Temném hradě?",
+      "source": "pre_existing",
+      "original_cz": "Je něco divného s těmi dveřmi v Temném hradě?"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Hmm... Well, if it doesn't open by turning a knob... or by pushing it... or knocking...",
+      "cz": "Hmm... No, pokud se to neotevře otočením knoflíku... nebo zatlačením... nebo klepáním...",
+      "source": "pre_existing",
+      "original_cz": "Hmm... No, pokud se to neotevře otočením knoflíku... nebo zatlačením... nebo klepáním..."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "...then I suppose you'll just have to try speaking to it. It's worked before with enchanted doors.",
+      "cz": "...pak si s tím asi budeš muset zkusit promluvit. Už to fungovalo s očarovanými dveřmi.",
+      "source": "pre_existing",
+      "original_cz": "...pak si s tím asi budeš muset zkusit promluvit. Už to fungovalo s očarovanými dveřmi."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS133_TheDarkCastle_MRQS133_TheDarkCastle_Ongoing10.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "The door won't let you pass? How rude.",
+      "cz": "Dveře tě nepustí? To je ale neslušné.",
+      "source": "pre_existing",
+      "original_cz": "Dveře tě nepustí? To je ale neslušné."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Perhaps there's something in the entrance to the Dark Castle that could be used to... er... well, trick the door.",
+      "cz": "Možná je ve vchodu do Temného hradu něco, co by se dalo použít k... ehm... no, k oklamání dveří.",
+      "source": "pre_existing",
+      "original_cz": "Možná je ve vchodu do Temného hradu něco, co by se dalo použít k... ehm... no, k oklamání dveří."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Something that might make you look a bit more like the Forgotten...",
+      "cz": "Něco, co by tě mohlo trochu víc připomínat Zapomenutého...",
+      "source": "pre_existing",
+      "original_cz": "Něco, co by tě mohlo trochu víc připomínat Zapomenutého..."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS133_TheDarkCastle_MRQS133_TheDarkCastle_Ongoing11.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "You must find some way to trick the door into letting you pass. There has to be something in the Dark Castle you can use...",
+      "cz": "Musíš najít nějaký způsob, jak obelstít dveře a pustit tě projít. V Temném hradě musí být něco, co můžeš použít...",
+      "source": "pre_existing",
+      "original_cz": "Musíš najít nějaký způsob, jak obelstít dveře a pustit tě projít. V Temném hradě musí být něco, co můžeš použít..."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS133_TheDarkCastle_MRQS133_TheDarkCastle_Ongoing12.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "The door is letting you pass? Well, stop talking to it and march through!",
+      "cz": "Dveře tě pouštějí dovnitř? Tak přestaň na ně mluvit a pojď dál!",
+      "source": "pre_existing",
+      "original_cz": "Dveře tě pouštějí dovnitř? Tak přestaň na ně mluvit a pojď dál!"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Hopefully, the next door you encounter has a lot less to say.",
+      "cz": "Doufejme, že další dveře, na které narazíte, toho mají mnohem méně co říct.",
+      "source": "pre_existing",
+      "original_cz": "Doufejme, že další dveře, na které narazíte, toho mají mnohem méně co říct."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS133_TheDarkCastle_MRQS133_TheDarkCastle_Ongoing13.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "I fear your journey into the Dark Castle has only just begun.",
+      "cz": "Obávám se, že tvá cesta do Temného hradu teprve začala.",
+      "source": "pre_existing",
+      "original_cz": "Obávám se, že tvá cesta do Temného hradu teprve začala."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "You must journey deeper inside and discover what the Forgotten has left to block your way.",
+      "cz": "Musíš se ponořit hlouběji do svého nitra a objevit, co ti Zapomenutí zablokovalo cestu.",
+      "source": "pre_existing",
+      "original_cz": "Musíš se ponořit hlouběji do svého nitra a objevit, co ti Zapomenutí zablokovalo cestu."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS133_TheDarkCastle_MRQS133_TheDarkCastle_Ongoing19.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Well? Have you made a meal that's to the door's liking yet?",
+      "cz": "No a co? Už jsi uvařil jídlo, které chutná těm dveřím?",
+      "source": "pre_existing",
+      "original_cz": "No a co? Už jsi uvařil jídlo, které chutná těm dveřím?"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "How picky could it possibly be?",
+      "cz": "Jak vybíravé to asi může být?",
+      "source": "pre_existing",
+      "original_cz": "Jak vybíravé to asi může být?"
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS133_TheDarkCastle_MRQS133_TheDarkCastle_Ongoing20.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "So, the door enjoyed the meal you made for it, eh? Your culinary skills never cease to astound.",
+      "cz": "Takže, dveře si pochutnaly na jídle, které jsi pro ně připravil/a, co? Tvoje kulinářské dovednosti nepřestávají udivovat.",
+      "source": "pre_existing",
+      "original_cz": "Takže, dveře si pochutnaly na jídle, které jsi pro ně připravil/a, co? Tvoje kulinářské dovednosti nepřestávají udivovat."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Now you'll have to pass through it and keep exploring the Dark Castle. That is, unless the door's demanding dessert too...",
+      "cz": "Teď jím budete muset projít a dál prozkoumávat Temný hrad. Tedy, pokud si dveře také nevyžadují dezert...",
+      "source": "pre_existing",
+      "original_cz": "Teď jím budete muset projít a dál prozkoumávat Temný hrad. Tedy, pokud si dveře také nevyžadují dezert..."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS133_TheDarkCastle_MRQS133_TheDarkCastle_Ongoing21.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "You're drawing closer to the Forgotten, but I fear there's still a long way to go and possibly further obstacles. Keep pushing forward!",
+      "cz": "Blížíš se k Zapomenutému, ale obávám se, že je před tebou ještě dlouhá cesta a možná i další překážky. Jen tak dál!",
+      "source": "pre_existing",
+      "original_cz": "Blížíš se k Zapomenutému, ale obávám se, že je před tebou ještě dlouhá cesta a možná i další překážky. Jen tak dál!"
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS133_TheDarkCastle_MRQS133_TheDarkCastle_Ongoing22.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "You've found the place where a door ought to be, but there's no door there? How intriguing...",
+      "cz": "Našli jste místo, kde by měly být dveře, ale žádné tam nejsou? Jak zajímavé...",
+      "source": "pre_existing",
+      "original_cz": "Našli jste místo, kde by měly být dveře, ale žádné tam nejsou? Jak zajímavé..."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "I suggest you try looking at it from a different perspective...",
+      "cz": "Doporučuji vám, abyste se na to zkusili podívat z jiného úhlu pohledu...",
+      "source": "pre_existing",
+      "original_cz": "Doporučuji vám, abyste se na to zkusili podívat z jiného úhlu pohledu..."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS133_TheDarkCastle_MRQS133_TheDarkCastle_Ongoing23.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Simply taking a photograph revealed the door? Splendid!",
+      "cz": "Pouhé vyfocení odhalilo dveře? Skvělé!",
+      "source": "pre_existing",
+      "original_cz": "Pouhé vyfocení odhalilo dveře? Skvělé!"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Pass through it and keep pushing deeper into the Dark Castle.",
+      "cz": "Projděte jím a pokračujte hlouběji do Temného hradu.",
+      "source": "pre_existing",
+      "original_cz": "Projděte jím a pokračujte hlouběji do Temného hradu."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS133_TheDarkCastle_MRQS133_TheDarkCastle_Ongoing26.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "We've learned that, near each door, the Forgotten has left a way to pass through that door.",
+      "cz": "Dozvěděli jsme se, že poblíž každých dveří Zapomenutí zanechali cestu, jak jimi projít.",
+      "source": "pre_existing",
+      "original_cz": "Dozvěděli jsme se, že poblíž každých dveří Zapomenutí zanechali cestu, jak jimi projít."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "There must be a way to obtain the key somewhere in that very room.",
+      "cz": "Někde v té místnosti musí existovat způsob, jak získat klíč.",
+      "source": "pre_existing",
+      "original_cz": "Někde v té místnosti musí existovat způsob, jak získat klíč."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS133_TheDarkCastle_MRQS133_TheDarkCastle_Ongoing28.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "The key was hidden inside ice?",
+      "cz": "Klíč byl ukrytý v ledu?",
+      "source": "pre_existing",
+      "original_cz": "Klíč byl ukrytý v ledu?"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Fascinating. The Forgotten is quite resourceful. You must find a way to get that key now that the ice has melted.",
+      "cz": "Fascinující. Zapomenutý je docela vynalézavý. Musíš najít způsob, jak ten klíč získat, teď když led roztál.",
+      "source": "pre_existing",
+      "original_cz": "Fascinující. Zapomenutý je docela vynalézavý. Musíš najít způsob, jak ten klíč získat, teď když led roztál."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS133_TheDarkCastle_MRQS133_TheDarkCastle_Ongoing29.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "You've found the key?",
+      "cz": "Našel jsi klíč?",
+      "source": "pre_existing",
+      "original_cz": "Našel jsi klíč?"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Well, don't just stand there. Use it!",
+      "cz": "No, nestůj jen tak. Použij to!",
+      "source": "pre_existing",
+      "original_cz": "No, nestůj jen tak. Použij to!"
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS133_TheDarkCastle_MRQS133_TheDarkCastle_Ongoing30.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "The time has come to journey deeper into the Castle and face the Forgotten.",
+      "cz": "Nastal čas vydat se hlouběji do hradu a čelit Zapomenutým.",
+      "source": "pre_existing",
+      "original_cz": "Nastal čas vydat se hlouběji do hradu a čelit Zapomenutým."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS133_TheDarkCastle_MRQS133_TheDarkCastle_Ongoing31.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "There's nothing left to do, {PlayerName}, but face the Forgotten in the Dark Castle.",
+      "cz": "Nezbývá ti nic jiného, ​​{PlayerName}, než se postavit Zapomenutým v Temném hradě.",
+      "source": "pre_existing",
+      "original_cz": "Nezbývá ti nic jiného, ​​{PlayerName}, než se postavit Zapomenutým v Temném hradě."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS133_TheDarkCastle_MRQS133_TheDarkCastle_Ongoing33.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "Your way is blocked by a door?",
+      "cz": "Cestu ti blokují dveře?",
+      "source": "pre_existing",
+      "original_cz": "Cestu ti blokují dveře?"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Have you tried turning the knob?",
+      "cz": "Zkoušel jsi otočit knoflíkem?",
+      "source": "pre_existing",
+      "original_cz": "Zkoušel jsi otočit knoflíkem?"
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Or perhaps knocking?",
+      "cz": "Nebo snad klepání?",
+      "source": "pre_existing",
+      "original_cz": "Nebo snad klepání?"
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS133_TheDarkCastle_MRQS133_TheDarkCastle_Ongoing34.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "You've found a room full of rubble? Try to cross through it quickly and reach the next door.",
+      "cz": "Našli jste místnost plnou sutin? Zkuste ji rychle projít a dostat se k dalším dveřím.",
+      "source": "pre_existing",
+      "original_cz": "Našli jste místnost plnou sutin? Zkuste ji rychle projít a dostat se k dalším dveřím."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS133_TheDarkCastle_MRQS133_TheDarkCastle_TalkTo02.locbin": [
+    {
+      "key": "Merlin_002_f",
+      "en": "Focus your magic on the Relics, {PlayerName}.",
+      "cz": "Zaměřte svou magii na relikvie, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Zaměřte svou magii na relikvie, {PlayerName}."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "By harnessing the story magic within them and the tie they have to the Forgotten... we should be able to create a doorway to the other dimension!",
+      "cz": "Využitím příběhové magie v nich a pouta, které mají k Zapomenutým... bychom měli být schopni vytvořit dveře do jiné dimenze!",
+      "source": "pre_existing",
+      "original_cz": "Využitím příběhové magie v nich a pouta, které mají k Zapomenutým... bychom měli být schopni vytvořit dveře do jiné dimenze!"
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "The portal is open! All that remains is for you to walk through.",
+      "cz": "Portál je otevřený! Už jen zbývá, abyste jím prošli.",
+      "source": "pre_existing",
+      "original_cz": "Portál je otevřený! Už jen zbývá, abyste jím prošli."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "And hurry! I fear Dreamlight Valley is becoming more unstable as we speak.",
+      "cz": "A pospěšte si! Obávám se, že Údolí snů se v tuto chvíli stává nestabilnějším.",
+      "source": "pre_existing",
+      "original_cz": "A pospěšte si! Obávám se, že Údolí snů se v tuto chvíli stává nestabilnějším."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Piece of cake!",
+      "cz": "Hračka!",
+      "source": "pre_existing",
+      "original_cz": "Hračka!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'll do my best.",
+      "cz": "Udělám, co bude v mých silách.",
+      "source": "pre_existing",
+      "original_cz": "Udělám, co bude v mých silách."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Gulp. Here goes nothing.",
+      "cz": "Doušek. Tady nic.",
+      "source": "pre_existing",
+      "original_cz": "Doušek. Tady nic."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "I admire your bravado. But remember... if you face any troublesome challenges, we'll always be here to aid you.",
+      "cz": "Obdivuji tvou statečnost. Ale pamatuj... pokud se setkáš s nějakými obtížnými problémy, vždycky tu budeme, abychom ti pomohli.",
+      "source": "pre_existing",
+      "original_cz": "Obdivuji tvou statečnost. Ale pamatuj... pokud se setkáš s nějakými obtížnými problémy, vždycky tu budeme, abychom ti pomohli."
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "While you're gone... perhaps the Fairy Godmother and I can consult on what to do about all this Dark Magic in the sky.",
+      "cz": "Zatímco budeš pryč... možná se s Vílou kmotrou můžeme poradit, co dělat s tou vší temnou magií na obloze.",
+      "source": "pre_existing",
+      "original_cz": "Zatímco budeš pryč... možná se s Vílou kmotrou můžeme poradit, co dělat s tou vší temnou magií na obloze."
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "Well, what are you waiting for?! Go on! Work your magic, {PlayerName}, while we stay behind and work ours.",
+      "cz": "Tak na co ještě čekáš?! Jen do toho! Předveď svá kouzla, {PlayerName}, zatímco my zůstaneme a budeme dělat ta naše.",
+      "source": "pre_existing",
+      "original_cz": "Tak na co ještě čekáš?! Jen do toho! Předveď svá kouzla, {PlayerName}, zatímco my zůstaneme a budeme dělat ta naše."
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "We've all seen that your best is more than enough. But if you face any troublesome challenges, remember: We'll always be here to aid you.",
+      "cz": "Všichni jsme viděli, že vaše nejlepší úsilí je více než dost. Ale pokud se setkáte s jakýmikoli obtížnými problémy, pamatujte: Vždy tu budeme, abychom vám pomohli.",
+      "source": "pre_existing",
+      "original_cz": "Všichni jsme viděli, že vaše nejlepší úsilí je více než dost. Ale pokud se setkáte s jakýmikoli obtížnými problémy, pamatujte: Vždy tu budeme, abychom vám pomohli."
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "You mustn't doubt yourself. You have all the knowledge you need to do this. And if you face any troublesome challenges, remember: We'll always be here to aid you.",
+      "cz": "Nesmíš o sobě pochybovat. Máš k tomu všechny znalosti, které potřebuješ. A pokud narazíš na nějaké obtížné problémy, pamatuj: Vždycky tu budeme, abychom ti pomohli.",
+      "source": "pre_existing",
+      "original_cz": "Nesmíš o sobě pochybovat. Máš k tomu všechny znalosti, které potřebuješ. A pokud narazíš na nějaké obtížné problémy, pamatuj: Vždycky tu budeme, abychom ti pomohli."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS137_ReachTheLight_MRQS137_ReachTheLight_Ongoing02.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "If I understand correctly, you found yourself somewhere strange after your encounter with the Forgotten?",
+      "cz": "Pokud tomu správně rozumím, ocitl ses po setkání se Zapomenutými na nějakém zvláštním místě?",
+      "source": "pre_existing",
+      "original_cz": "Pokud tomu správně rozumím, ocitl ses po setkání se Zapomenutými na nějakém zvláštním místě?"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "There must be a way to return to that place. You'll have to venture back into the depths of the Dark Castle.",
+      "cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu.",
+      "source": "pre_existing",
+      "original_cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS137_ReachTheLight_MRQS137_ReachTheLight_Ongoing03.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "Hmm... You found yourself somewhere strange after your encounter with the Forgotten?",
+      "cz": "Hmm... Po setkání se Zapomenutými ses ocitl na divném místě?",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Po setkání se Zapomenutými ses ocitl na divném místě?"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "There must be a way to return to that place. You'll have to venture back into the depths of the Dark Castle.",
+      "cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu.",
+      "source": "pre_existing",
+      "original_cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Perhaps the Forgotten will be more willing to talk to you there.",
+      "cz": "Možná tam s tebou Zapomenutí budou ochotnější mluvit.",
+      "source": "pre_existing",
+      "original_cz": "Možná tam s tebou Zapomenutí budou ochotnější mluvit."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS137_ReachTheLight_MRQS137_ReachTheLight_Ongoing04.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "Hmm... You found yourself somewhere strange after your encounter with the Forgotten?",
+      "cz": "Hmm... Po setkání se Zapomenutými ses ocitl na divném místě?",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Po setkání se Zapomenutými ses ocitl na divném místě?"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "There must be a way to return to that place. You'll have to venture back into the depths of the Dark Castle.",
+      "cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu.",
+      "source": "pre_existing",
+      "original_cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Now, this sandbox you found there... It might just be a lingering Memory that you share with the Forgotten.",
+      "cz": "Tady, tohle pískoviště, co jsi tam našel... Možná je to jen přetrvávající vzpomínka, kterou sdílíš se Zapomenutými.",
+      "source": "pre_existing",
+      "original_cz": "Tady, tohle pískoviště, co jsi tam našel... Možná je to jen přetrvávající vzpomínka, kterou sdílíš se Zapomenutými."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS137_ReachTheLight_MRQS137_ReachTheLight_Ongoing05.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "Hmm... You found yourself somewhere strange after your encounter with the Forgotten?",
+      "cz": "Hmm... Po setkání se Zapomenutými ses ocitl na divném místě?",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Po setkání se Zapomenutými ses ocitl na divném místě?"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "There must be a way to return to that place. You'll have to venture back into the depths of the Dark Castle.",
+      "cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu.",
+      "source": "pre_existing",
+      "original_cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Perhaps more of the Memories you share with the Forgotten are there to be uncovered.",
+      "cz": "Možná je tu k odhalení více vzpomínek, které sdílíš se Zapomenutými.",
+      "source": "pre_existing",
+      "original_cz": "Možná je tu k odhalení více vzpomínek, které sdílíš se Zapomenutými."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS137_ReachTheLight_MRQS137_ReachTheLight_Ongoing06.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "Hmm... You found yourself somewhere strange after your encounter with the Forgotten?",
+      "cz": "Hmm... Po setkání se Zapomenutými ses ocitl na divném místě?",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Po setkání se Zapomenutými ses ocitl na divném místě?"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "There must be a way to return to that place. You'll have to venture back into the depths of the Dark Castle.",
+      "cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu.",
+      "source": "pre_existing",
+      "original_cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "It's time to delve into the new Memory you found. I wonder... What significance does that childhood bed hold?",
+      "cz": "Je čas ponořit se do nové vzpomínky, kterou jsi našel. Zajímalo by mě... Jaký význam má ta postel z dětství?",
+      "source": "pre_existing",
+      "original_cz": "Je čas ponořit se do nové vzpomínky, kterou jsi našel. Zajímalo by mě... Jaký význam má ta postel z dětství?"
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS137_ReachTheLight_MRQS137_ReachTheLight_Ongoing07.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "Hmm... You found yourself somewhere strange after your encounter with the Forgotten?",
+      "cz": "Hmm... Po setkání se Zapomenutými ses ocitl na divném místě?",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Po setkání se Zapomenutými ses ocitl na divném místě?"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "There must be a way to return to that place. You'll have to venture back into the depths of the Dark Castle.",
+      "cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu.",
+      "source": "pre_existing",
+      "original_cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Surely there's more to uncover inside.",
+      "cz": "Uvnitř se jistě skrývá ještě něco k odhalení.",
+      "source": "pre_existing",
+      "original_cz": "Uvnitř se jistě skrývá ještě něco k odhalení."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS137_ReachTheLight_MRQS137_ReachTheLight_Ongoing08.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "Hmm... You found yourself somewhere strange after your encounter with the Forgotten?",
+      "cz": "Hmm... Po setkání se Zapomenutými ses ocitl na divném místě?",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Po setkání se Zapomenutými ses ocitl na divném místě?"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "There must be a way to return to that place. You'll have to venture back into the depths of the Dark Castle.",
+      "cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu.",
+      "source": "pre_existing",
+      "original_cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Focus your magic on the desk to reveal the Memories hidden there.",
+      "cz": "Soustřeď svou magii na stůl a odhal tam ukryté vzpomínky.",
+      "source": "pre_existing",
+      "original_cz": "Soustřeď svou magii na stůl a odhal tam ukryté vzpomínky."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS137_ReachTheLight_MRQS137_ReachTheLight_Ongoing09.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "Hmm... You found yourself somewhere strange after your encounter with the Forgotten?",
+      "cz": "Hmm... Po setkání se Zapomenutými ses ocitl na divném místě?",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Po setkání se Zapomenutými ses ocitl na divném místě?"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "There must be a way to return to that place. You'll have to venture back into the depths of the Dark Castle.",
+      "cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu.",
+      "source": "pre_existing",
+      "original_cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "I'm certain there's more to uncover.",
+      "cz": "Jsem si jistý, že je toho ještě hodně k odhalení.",
+      "source": "pre_existing",
+      "original_cz": "Jsem si jistý, že je toho ještě hodně k odhalení."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS137_ReachTheLight_MRQS137_ReachTheLight_Ongoing10.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "Hmm... You found yourself somewhere strange after your encounter with the Forgotten?",
+      "cz": "Hmm... Po setkání se Zapomenutými ses ocitl na divném místě?",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Po setkání se Zapomenutými ses ocitl na divném místě?"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "There must be a way to return to that place. You'll have to venture back into the depths of the Dark Castle.",
+      "cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu.",
+      "source": "pre_existing",
+      "original_cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "That bookshelf must hold secrets all its own.",
+      "cz": "Ta knihovna musí skrývat svá vlastní tajemství.",
+      "source": "pre_existing",
+      "original_cz": "Ta knihovna musí skrývat svá vlastní tajemství."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS137_ReachTheLight_MRQS137_ReachTheLight_Ongoing11.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "Hmm... You found yourself somewhere strange after your encounter with the Forgotten?",
+      "cz": "Hmm... Po setkání se Zapomenutými ses ocitl na divném místě?",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Po setkání se Zapomenutými ses ocitl na divném místě?"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "There must be a way to return to that place. You'll have to venture back into the depths of the Dark Castle.",
+      "cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu.",
+      "source": "pre_existing",
+      "original_cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Speak to the Forgotten to discover your next steps.",
+      "cz": "Promluvte si se Zapomenutými a zjistěte, jaké jsou vaše další kroky.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Zapomenutými a zjistěte, jaké jsou vaše další kroky."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS137_ReachTheLight_MRQS137_ReachTheLight_Ongoing14.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "Hmm... You found yourself somewhere strange after your encounter with the Forgotten?",
+      "cz": "Hmm... Po setkání se Zapomenutými ses ocitl na divném místě?",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Po setkání se Zapomenutými ses ocitl na divném místě?"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "There must be a way to return to that place. You'll have to venture back into the depths of the Dark Castle.",
+      "cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu.",
+      "source": "pre_existing",
+      "original_cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Speak to the Forgotten to discover your next steps.",
+      "cz": "Promluvte si se Zapomenutými a zjistěte, jaké jsou vaše další kroky.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Zapomenutými a zjistěte, jaké jsou vaše další kroky."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS137_ReachTheLight_MRQS137_ReachTheLight_Ongoing15.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "Hmm... You found yourself somewhere strange after your encounter with the Forgotten?",
+      "cz": "Hmm... Po setkání se Zapomenutými ses ocitl na divném místě?",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Po setkání se Zapomenutými ses ocitl na divném místě?"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "There must be a way to return to that place. You'll have to venture back into the depths of the Dark Castle.",
+      "cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu.",
+      "source": "pre_existing",
+      "original_cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Perhaps speaking to the Forgotten about what you've found there will help unravel more of your shared memories.",
+      "cz": "Možná vám rozhovor se Zapomenutými o tom, co jste tam našli, pomůže rozplést více vašich společných vzpomínek.",
+      "source": "pre_existing",
+      "original_cz": "Možná vám rozhovor se Zapomenutými o tom, co jste tam našli, pomůže rozplést více vašich společných vzpomínek."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS137_ReachTheLight_MRQS137_ReachTheLight_Ongoing16.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "Hmm... You found yourself somewhere strange after your encounter with the Forgotten?",
+      "cz": "Hmm... Po setkání se Zapomenutými ses ocitl na divném místě?",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Po setkání se Zapomenutými ses ocitl na divném místě?"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "There must be a way to return to that place. You'll have to venture back into the depths of the Dark Castle.",
+      "cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu.",
+      "source": "pre_existing",
+      "original_cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Speak to the Forgotten to discover your next steps.",
+      "cz": "Promluvte si se Zapomenutými a zjistěte, jaké jsou vaše další kroky.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Zapomenutými a zjistěte, jaké jsou vaše další kroky."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS137_ReachTheLight_MRQS137_ReachTheLight_Ongoing17.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "Hmm... You found yourself somewhere strange after your encounter with the Forgotten?",
+      "cz": "Hmm... Po setkání se Zapomenutými ses ocitl na divném místě?",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Po setkání se Zapomenutými ses ocitl na divném místě?"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "There must be a way to return to that place. You'll have to venture back into the depths of the Dark Castle.",
+      "cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu.",
+      "source": "pre_existing",
+      "original_cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "As for the sandbox you found there... It appears you've restored it to the way it was in your memories.",
+      "cz": "Co se týče pískoviště, které jsi tam našel... Zdá se, že jsi ho obnovil do stavu, v jakém byl ve tvých vzpomínkách.",
+      "source": "pre_existing",
+      "original_cz": "Co se týče pískoviště, které jsi tam našel... Zdá se, že jsi ho obnovil do stavu, v jakém byl ve tvých vzpomínkách."
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "You must speak to the Forgotten again!",
+      "cz": "Musíš znovu promluvit se Zapomenutými!",
+      "source": "pre_existing",
+      "original_cz": "Musíš znovu promluvit se Zapomenutými!"
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS137_ReachTheLight_MRQS137_ReachTheLight_Ongoing18.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "Hmm... You found yourself somewhere strange after your encounter with the Forgotten?",
+      "cz": "Hmm... Po setkání se Zapomenutými ses ocitl na divném místě?",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Po setkání se Zapomenutými ses ocitl na divném místě?"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "There must be a way to return to that place. You'll have to venture back into the depths of the Dark Castle.",
+      "cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu.",
+      "source": "pre_existing",
+      "original_cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "It's time to delve into the new Memory you found. I wonder... What significance does that childhood bed hold?",
+      "cz": "Je čas ponořit se do nové vzpomínky, kterou jsi našel. Zajímalo by mě... Jaký význam má ta postel z dětství?",
+      "source": "pre_existing",
+      "original_cz": "Je čas ponořit se do nové vzpomínky, kterou jsi našel. Zajímalo by mě... Jaký význam má ta postel z dětství?"
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS137_ReachTheLight_MRQS137_ReachTheLight_Ongoing19.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "Hmm... You found yourself somewhere strange after your encounter with the Forgotten?",
+      "cz": "Hmm... Po setkání se Zapomenutými ses ocitl na divném místě?",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Po setkání se Zapomenutými ses ocitl na divném místě?"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "There must be a way to return to that place. You'll have to venture back into the depths of the Dark Castle.",
+      "cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu.",
+      "source": "pre_existing",
+      "original_cz": "Musí existovat způsob, jak se tam vrátit. Budeš se muset vydat zpět do hlubin Temného hradu."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Speak to the Forgotten to discover your next steps.",
+      "cz": "Promluvte si se Zapomenutými a zjistěte, jaké jsou vaše další kroky.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Zapomenutými a zjistěte, jaké jsou vaše další kroky."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS139_PostCredit_MRQS139_PostCredit_Ongoing01.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "You should go see how the Forgotten is faring after that grand reunion.",
+      "cz": "Měl by ses jít podívat, jak se Zapomenutým daří po tom velkém setkání.",
+      "source": "pre_existing",
+      "original_cz": "Měl by ses jít podívat, jak se Zapomenutým daří po tom velkém setkání."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Oh! And perhaps you can retrieve the <ActivityItem>Orb of Remembrance</ActivityItem> they took.",
+      "cz": "Ach! A možná bys mohl získat zpět <ActivityItem>Kouli vzpomínky</ActivityItem>, kterou vzali.",
+      "source": "pre_existing",
+      "original_cz": "Ach! A možná bys mohl získat zpět <ActivityItem>Kouli vzpomínky</ActivityItem>, kterou vzali."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS139_PostCredit_MRQS139_PostCredit_Ongoing02.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "The Forgotten gave you the <ActivityItem>Orb of Remembrance</ActivityItem>? Marvelous!",
+      "cz": "Zapomenutý vám dal <ActivityItem>Kouli vzpomínky</ActivityItem>? Úžasné!",
+      "source": "pre_existing",
+      "original_cz": "Zapomenutý vám dal <ActivityItem>Kouli vzpomínky</ActivityItem>? Úžasné!"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "You must place it in the Pillar in the Forgotten Lands.",
+      "cz": "Musíš ho umístit do Pilíře v Zapomenutých zemích.",
+      "source": "pre_existing",
+      "original_cz": "Musíš ho umístit do Pilíře v Zapomenutých zemích."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_MRQS139_PostCredit_MRQS139_PostCredit_Outro01.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "{PlayerName}! Just who I wanted to see... You've done so much for the Village. But there's still more to do.",
+      "cz": "{PlayerName}! Přesně koho jsem chtěl vidět... Udělal jsi pro vesnici tolik. Ale stále je co dělat.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}! Přesně koho jsem chtěl vidět... Udělal jsi pro vesnici tolik. Ale stále je co dělat."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "All in a day's work!",
+      "cz": "Všechno za jeden den!",
+      "source": "pre_existing",
+      "original_cz": "Všechno za jeden den!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Can I take a nap first?",
+      "cz": "Můžu si nejdřív zdřímnout?",
+      "source": "pre_existing",
+      "original_cz": "Můžu si nejdřív zdřímnout?"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Ha-ha! That's the attitude we need!",
+      "cz": "Ha-ha! To je přístup, který potřebujeme!",
+      "source": "pre_existing",
+      "original_cz": "Ha-ha! To je přístup, který potřebujeme!"
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Now, first off... even though the Forgotten has been pulled back from the brink...",
+      "cz": "A teď, za prvé... i když byli Zapomenutí staženi z propasti...",
+      "source": "pre_existing",
+      "original_cz": "A teď, za prvé... i když byli Zapomenutí staženi z propasti..."
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "...we'll still be dealing with the side effects of the Forgetting for quite some time. Why, already I've seen new Night Thorns sprouting!",
+      "cz": "...s vedlejšími účinky Zapomnění se budeme ještě nějakou dobu potýkat. Vždyť už jsem viděl rašit nové Noční trny!",
+      "source": "pre_existing",
+      "original_cz": "...s vedlejšími účinky Zapomnění se budeme ještě nějakou dobu potýkat. Vždyť už jsem viděl rašit nové Noční trny!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I guess caring for the Village is a job that's never done.",
+      "cz": "Myslím, že péče o vesnici je práce, která se nikdy nedělá.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že péče o vesnici je práce, která se nikdy nedělá."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I don't mind the Night Thorns so much anymore.",
+      "cz": "Noční trny mi už tolik nevadí.",
+      "source": "pre_existing",
+      "original_cz": "Noční trny mi už tolik nevadí."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "Too true. I'm glad you see it that way.",
+      "cz": "To je pravda. Jsem rád, že to tak vidíš.",
+      "source": "pre_existing",
+      "original_cz": "To je pravda. Jsem rád, že to tak vidíš."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "There are still countless Villagers in their Realms, waiting for you to bring them back to the Valley. And perhaps, in time, more doors will open for you...",
+      "cz": "V jejich říších je stále bezpočet vesničanů, kteří čekají, až je přivedete zpět do Údolí. A možná se vám časem otevřou další dveře...",
+      "source": "pre_existing",
+      "original_cz": "V jejich říších je stále bezpočet vesničanů, kteří čekají, až je přivedete zpět do Údolí. A možná se vám časem otevřou další dveře..."
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "Oh, and that's not all! Dreamlight Valley isn't the only place to discover in this world. There are many islands out there, each with their own secrets.",
+      "cz": "A to není všechno! Údolí snů není jediné místo na tomto světě, které můžete objevovat. Existuje mnoho ostrovů, každý s vlastním tajemstvím.",
+      "source": "pre_existing",
+      "original_cz": "A to není všechno! Údolí snů není jediné místo na tomto světě, které můžete objevovat. Existuje mnoho ostrovů, každý s vlastním tajemstvím."
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "One day, we may visit them all. Who knows what we might uncover?",
+      "cz": "Jednoho dne je možná všechny navštívíme. Kdo ví, co všechno objevíme?",
+      "source": "pre_existing",
+      "original_cz": "Jednoho dne je možná všechny navštívíme. Kdo ví, co všechno objevíme?"
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "In any case, there's no shortage of secrets left to find right here in the Village. And I'm sure you'll keep making this a splendid place for all of us to call our home.",
+      "cz": "Každopádně, tady ve vesnici není nouze o tajemství, která lze odhalit. A jsem si jistý, že z tohoto místa budete i nadále dělat skvělé místo, kterému všichni můžeme říkat náš domov.",
+      "source": "pre_existing",
+      "original_cz": "Každopádně, tady ve vesnici není nouze o tajemství, která lze odhalit. A jsem si jistý, že z tohoto místa budete i nadále dělat skvělé místo, kterému všichni můžeme říkat náš domov."
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "The possibilities are quite limitless, aren't they?",
+      "cz": "Možnosti jsou docela neomezené, že?",
+      "source": "pre_existing",
+      "original_cz": "Možnosti jsou docela neomezené, že?"
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "No, I suppose now they're more a reminder of our triumph than of tragedy.",
+      "cz": "Ne, předpokládám, že teď jsou spíše připomínkou našeho triumfu než tragédie.",
+      "source": "pre_existing",
+      "original_cz": "Ne, předpokládám, že teď jsou spíše připomínkou našeho triumfu než tragédie."
+    },
+    {
+      "key": "Merlin_012_f",
+      "en": "Though... it's not quite time to celebrate just yet.",
+      "cz": "Ale... ještě není úplně čas na oslavu.",
+      "source": "pre_existing",
+      "original_cz": "Ale... ještě není úplně čas na oslavu."
+    },
+    {
+      "key": "Merlin_013_f",
+      "en": "Of course! You've more than earned one. Things aren't nearly so pressing anymore. You may take your time.",
+      "cz": "Samozřejmě! Zasloužil sis víc než jen jeden. Věci už zdaleka nejsou tak naléhavé. Můžeš si dát na čas.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě! Zasloužil sis víc než jen jeden. Věci už zdaleka nejsou tak naléhavé. Můžeš si dát na čas."
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_VLG_Fair_040_VLG_Fair_040_BringItem01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Oh dear, {PlayerName}, you look worried. Is there something I can help you with?",
+      "cz": "Ach jo, {PlayerName}, vypadáš ustaraně. Mohu ti s něčím pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Ach jo, {PlayerName}, vypadáš ustaraně. Mohu ti s něčím pomoct?"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "Yes. The Fairy Godmother is pretty tired. I think she could use some help.",
+      "cz": "Ano. Víla kmotra je docela unavená. Myslím, že by se jí hodila pomoc.",
+      "source": "pre_existing",
+      "original_cz": "Ano. Víla kmotra je docela unavená. Myslím, že by se jí hodila pomoc."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm very worried.",
+      "cz": "Mám velké obavy.",
+      "source": "pre_existing",
+      "original_cz": "Mám velké obavy."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Do you have a potion to help her?",
+      "cz": "Máš lektvar, který jí pomůže?",
+      "source": "pre_existing",
+      "original_cz": "Máš lektvar, který jí pomůže?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Should I expect some kind of hilarious magic catastrophe?",
+      "cz": "Mám očekávat nějakou veselou magickou katastrofu?",
+      "source": "pre_existing",
+      "original_cz": "Mám očekávat nějakou veselou magickou katastrofu?"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Yes well, I suppose I have noticed that she's been working rather hard.",
+      "cz": "Ano, no, asi jsem si všiml, že docela tvrdě pracuje.",
+      "source": "pre_existing",
+      "original_cz": "Ano, no, asi jsem si všiml, že docela tvrdě pracuje."
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "Ha-ha! You didn't think I noticed, did you?",
+      "cz": "Ha-ha! Myslel sis, že jsem si toho nevšiml, že ne?",
+      "source": "pre_existing",
+      "original_cz": "Ha-ha! Myslel sis, že jsem si toho nevšiml, že ne?"
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "Well, the Fairy Godmother kept it for so long, it's practically hers already.",
+      "cz": "No, Víla kmotra si ji nechala tak dlouho, že je už prakticky její.",
+      "source": "pre_existing",
+      "original_cz": "No, Víla kmotra si ji nechala tak dlouho, že je už prakticky její."
+    },
+    {
+      "key": "Merlin_012_f",
+      "en": "Great. I'm thinking we could add some <ActivityItem>Mint Chocolate</ActivityItem> and <ActivityItem>White Impatiens</ActivityItem> in a <ActivityItem>Basket</ActivityItem>.",
+      "cz": "Skvělé. Myslím, že bychom mohli přidat trochu <ActivityItem>Mátově čokoládové</ActivityItem> a <ActivityItem>Bílé netýkavky</ActivityItem> do <ActivityItem>košíku</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Skvělé. Myslím, že bychom mohli přidat trochu <ActivityItem>Mátově čokoládové</ActivityItem> a <ActivityItem>Bílé netýkavky</ActivityItem> do <ActivityItem>košíku</ActivityItem>."
+    },
+    {
+      "key": "Merlin_013_f",
+      "en": "And I'll ask for some advice from someone who knows how to pamper herself: Ursula...",
+      "cz": "A požádám o radu někoho, kdo ví, jak se hýčkat: Ursulu...",
+      "source": "pre_existing",
+      "original_cz": "A požádám o radu někoho, kdo ví, jak se hýčkat: Ursulu..."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "And she does so much for the Village... You're quite right! It's only fair that we take care of her, too.",
+      "cz": "A dělá tolik pro vesnici... Máš naprostou pravdu! Je jen spravedlivé, abychom se o ni také starali.",
+      "source": "pre_existing",
+      "original_cz": "A dělá tolik pro vesnici... Máš naprostou pravdu! Je jen spravedlivé, abychom se o ni také starali."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Let's put together a <ActivityItem>Care Package</ActivityItem>!",
+      "cz": "Pojďme si sestavit <ActivityItem>Balíček péče</ActivityItem>!",
+      "source": "pre_existing",
+      "original_cz": "Pojďme si sestavit <ActivityItem>Balíček péče</ActivityItem>!"
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "Marvelous idea!",
+      "cz": "Skvělý nápad!",
+      "source": "pre_existing",
+      "original_cz": "Skvělý nápad!"
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "But we could go even further. Shall we organize something to make sure the Fairy Godmother knows how much she's appreciated?",
+      "cz": "Ale mohli bychom jít ještě dál. Zorganizujeme něco, aby víla kmotra věděla, jak moc si jí vážíme?",
+      "source": "pre_existing",
+      "original_cz": "Ale mohli bychom jít ještě dál. Zorganizujeme něco, aby víla kmotra věděla, jak moc si jí vážíme?"
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "Like a party?",
+      "cz": "Máš rád/a večírek?",
+      "source": "pre_existing",
+      "original_cz": "Máš rád/a večírek?"
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "Precisely! I'll organize a get-together to show her we care.",
+      "cz": "Přesně tak! Zorganizuji setkání, abych jí ukázal/a, že nám na ní záleží.",
+      "source": "pre_existing",
+      "original_cz": "Přesně tak! Zorganizuji setkání, abych jí ukázal/a, že nám na ní záleží."
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "Yes, yes... I'll invite some Villagers, and you... you craft this <ActivityItem>Care Package</ActivityItem> of yours.",
+      "cz": "Ano, ano... Pozvu pár vesničanů a ty... ty si vyrobíš tenhle svůj <ActivityItem>Balíček péče</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ano, ano... Pozvu pár vesničanů a ty... ty si vyrobíš tenhle svůj <ActivityItem>Balíček péče</ActivityItem>."
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "And I know just what you can add to it. This <ActivityItem>Book</ActivityItem> you snuck back on my bookshelf.",
+      "cz": "A já přesně vím, co k tomu můžeš přidat. Tahle <ActivityItem>Kniha</ActivityItem>, kterou jsi mi vkradl zpátky do knihovny.",
+      "source": "pre_existing",
+      "original_cz": "A já přesně vím, co k tomu můžeš přidat. Tahle <ActivityItem>Kniha</ActivityItem>, kterou jsi mi vkradl zpátky do knihovny."
+    },
+    {
+      "key": "Merlin_014_f",
+      "en": "A potion? No, no, that will never do! In cases like this, the best way to take care of someone doesn't involve magic.",
+      "cz": "Lektvar? Ne, ne, to nikdy nepůjde! V takových případech nejlepší způsob, jak se o někoho postarat, nezahrnuje magii.",
+      "source": "pre_existing",
+      "original_cz": "Lektvar? Ne, ne, to nikdy nepůjde! V takových případech nejlepší způsob, jak se o někoho postarat, nezahrnuje magii."
+    },
+    {
+      "key": "Merlin_015_f",
+      "en": "No, we must think of something else...",
+      "cz": "Ne, musíme vymyslet něco jiného...",
+      "source": "pre_existing",
+      "original_cz": "Ne, musíme vymyslet něco jiného..."
+    },
+    {
+      "key": "Merlin_016_f",
+      "en": "You mustn't laugh about these things, {PlayerName}. Imagine if it was you who got turned into a pumpkin. Now, what should we do...",
+      "cz": "Nesmíš se těmhle věcem smát, {PlayerName}. Představ si, že bys to byl ty, kdo se proměnil v dýni. Co bychom teď měli dělat...",
+      "source": "pre_existing",
+      "original_cz": "Nesmíš se těmhle věcem smát, {PlayerName}. Představ si, že bys to byl ty, kdo se proměnil v dýni. Co bychom teď měli dělat..."
+    },
+    {
+      "key": "Merlin_017_f",
+      "en": "Now, what should we do...?",
+      "cz": "Co bychom teď měli dělat...?",
+      "source": "pre_existing",
+      "original_cz": "Co bychom teď měli dělat...?"
+    }
+  ],
+  "DarkMountainsUpdate_Merlin/Merlin_VLG_Fair_040_VLG_Fair_040_TalkTo01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "{PlayerName}, all is coming along splendidly!",
+      "cz": "{PlayerName}, všechno se skvěle vyvíjí!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, všechno se skvěle vyvíjí!"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "I invited all the guests and arranged for catering. But our little celebration is missing something...",
+      "cz": "Pozval jsem všechny hosty a zařídil catering. Ale naší malé oslavě něco chybí...",
+      "source": "pre_existing",
+      "original_cz": "Pozval jsem všechny hosty a zařídil catering. Ale naší malé oslavě něco chybí..."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Something elegant... Something that wouldn't look out of place during a royal ball... or in a fairy tale.",
+      "cz": "Něco elegantního... Něco, co by nevypadalo nepatřičně na královském plese... nebo v pohádce.",
+      "source": "pre_existing",
+      "original_cz": "Něco elegantního... Něco, co by nevypadalo nepatřičně na královském plese... nebo v pohádce."
+    },
+    {
+      "key": "Player_000_f",
+      "en": "Maybe I could build a gazebo right out of a fairy tale...",
+      "cz": "Možná bych si mohl postavit altán jako z pohádky...",
+      "source": "pre_existing",
+      "original_cz": "Možná bych si mohl postavit altán jako z pohádky..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "It'll be lovely.",
+      "cz": "Bude to krásné.",
+      "source": "pre_existing",
+      "original_cz": "Bude to krásné."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "It checks all the boxes.",
+      "cz": "Splňuje všechna kritéria.",
+      "source": "pre_existing",
+      "original_cz": "Splňuje všechna kritéria."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "It'll be a bit cheesy, but that's okay.",
+      "cz": "Bude to trochu kýčovité, ale to je v pořádku.",
+      "source": "pre_existing",
+      "original_cz": "Bude to trochu kýčovité, ale to je v pořádku."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Yes! Yes! A fine idea! Our dear friend is sure to love it.",
+      "cz": "Ano! Ano! Skvělý nápad! Náš drahý přítel to jistě zamiluje.",
+      "source": "pre_existing",
+      "original_cz": "Ano! Ano! Skvělý nápad! Náš drahý přítel to jistě zamiluje."
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "I'll probably need some <ActivityItem>Dry Wood</ActivityItem>, <ActivityItem>Glass</ActivityItem>, <ActivityItem>Fabric</ActivityItem> and for the flowers, some <ActivityItem>Yellow Daisies</ActivityItem>.",
+      "cz": "Asi budu potřebovat trochu <ActivityItem>suchého dřeva</ActivityItem>, <ActivityItem>skla</ActivityItem>, <ActivityItem>látky</ActivityItem> a na květiny trochu <ActivityItem>žlutých sedmikrásek</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Asi budu potřebovat trochu <ActivityItem>suchého dřeva</ActivityItem>, <ActivityItem>skla</ActivityItem>, <ActivityItem>látky</ActivityItem> a na květiny trochu <ActivityItem>žlutých sedmikrásek</ActivityItem>."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "Brilliant! And when you're done, place it on Dazzle Beach. It's the perfect place for a party to help the Fairy Godmother feel refreshed.",
+      "cz": "Skvělé! A až budeš hotová, umísti ji na Oslnivou pláž. Je to ideální místo na večírek, kde se Víla kmotra bude cítit osvěžená.",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! A až budeš hotová, umísti ji na Oslnivou pláž. Je to ideální místo na večírek, kde se Víla kmotra bude cítit osvěžená."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "Yes! Yes! A fine idea! And marvelous use of the scientific approach, {PlayerName}.",
+      "cz": "Ano! Ano! Skvělý nápad! A úžasné využití vědeckého přístupu, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Ano! Ano! Skvělý nápad! A úžasné využití vědeckého přístupu, {PlayerName}."
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "Yes! Yes! A fine idea!",
+      "cz": "Ano! Ano! Skvělý nápad!",
+      "source": "pre_existing",
+      "original_cz": "Ano! Ano! Skvělý nápad!"
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "There's nothing wrong with a bit of sentimentality every now and then, {PlayerName}. Love and friendship are the greatest forces in the universe, after all.",
+      "cz": "Na troše sentimentality není nic špatného, ​​{PlayerName}. Láska a přátelství jsou koneckonců největší síly ve vesmíru.",
+      "source": "pre_existing",
+      "original_cz": "Na troše sentimentality není nic špatného, ​​{PlayerName}. Láska a přátelství jsou koneckonců největší síly ve vesmíru."
+    }
+  ]
+}

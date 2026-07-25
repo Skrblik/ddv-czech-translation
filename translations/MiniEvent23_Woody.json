@@ -1,0 +1,177 @@
+{
+  "MiniEvent23_Woody/Woody_Wood_ParkFest_010_Wood_ParkFest_010_BringItem01.locbin": [
+    {
+      "key": "Woody_000_f",
+      "en": "This is great, {PlayerName}!",
+      "cz": "To je skvělé, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "To je skvělé, {PlayerName}!"
+    },
+    {
+      "key": "Woody_001_f",
+      "en": "I'm gonna use this to make a checkerboard I can use with Buzz.",
+      "cz": "Z toho si vyrobím šachovnici, kterou můžu použít s Buzzem.",
+      "source": "pre_existing",
+      "original_cz": "Z toho si vyrobím šachovnici, kterou můžu použít s Buzzem."
+    },
+    {
+      "key": "Woody_002_f",
+      "en": "Oh, and here's a little something as a thank-you for all your help.",
+      "cz": "A tady je malá poděkování za všechnu vaši pomoc.",
+      "source": "pre_existing",
+      "original_cz": "A tady je malá poděkování za všechnu vaši pomoc."
+    }
+  ],
+  "MiniEvent23_Woody/Woody_Wood_ParkFest_010_Wood_ParkFest_010_Intro.locbin": [
+    {
+      "key": "Woody_000_f",
+      "en": "Say, {PlayerName}, I've been missin' my old pal Slinky Dog lately. He and I've been known to play some pretty epic games of checkers.",
+      "cz": "Poslyšte, {PlayerName}, v poslední době se mi stýská po mém starém kamarádovi Slinky Dogovi. Je známo, že hrajeme docela epické partie dámy.",
+      "source": "pre_existing",
+      "original_cz": "Poslyšte, {PlayerName}, v poslední době se mi stýská po mém starém kamarádovi Slinky Dogovi. Je známo, že hrajeme docela epické partie dámy."
+    },
+    {
+      "key": "Woody_001_f",
+      "en": "Since the Parks Fest is all about havin' fun, I thought I'd teach Buzz to play.",
+      "cz": "Protože Parks Fest je hlavně o zábavě, napadlo mě, že naučím Buzze hrát.",
+      "source": "pre_existing",
+      "original_cz": "Protože Parks Fest je hlavně o zábavě, napadlo mě, že naučím Buzze hrát."
+    },
+    {
+      "key": "Woody_002_f",
+      "en": "But we're gonna need a checkerboard. Think you could help me out?",
+      "cz": "Ale budeme potřebovat šachovnici. Myslíš, že bys mi mohl pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Ale budeme potřebovat šachovnici. Myslíš, že bys mi mohl pomoct?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Of course, Woody! What do you need?",
+      "cz": "Jasně, Woody! Co potřebuješ?",
+      "source": "pre_existing",
+      "original_cz": "Jasně, Woody! Co potřebuješ?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Maybe later.",
+      "cz": "Možná později.",
+      "source": "pre_existing",
+      "original_cz": "Možná později."
+    },
+    {
+      "key": "Woody_003_f",
+      "en": "Thanks, partner! I'll give ya a list of everything you'll need. In the meantime, I gotta rustle up a friend to help me make the pieces.",
+      "cz": "Díky, kámo! Dám ti seznam všeho, co budeš potřebovat. Mezitím musím sehnat kamaráda, aby mi pomohl s výrobou dílků.",
+      "source": "pre_existing",
+      "original_cz": "Díky, kámo! Dám ti seznam všeho, co budeš potřebovat. Mezitím musím sehnat kamaráda, aby mi pomohl s výrobou dílků."
+    }
+  ],
+  "MiniEvent23_Woody/Woody_Wood_ParkFest_010_Wood_ParkFest_010_Ongoing01.locbin": [
+    {
+      "key": "Woody_000_f",
+      "en": "Let me see here... For the <ActivityItem>Checkerboard</ActivityItem>, we'll need <ActivityItem>Tinkering Parts</ActivityItem>,<ActivityItem>Glass</ActivityItem>, and <ActivityItem>Fabric</ActivityItem>.",
+      "cz": "Podívejme se... Na <ActivityItem>šachovnici</ActivityItem> budeme potřebovat <ActivityItem>díly pro kutily</ActivityItem>,<ActivityItem>sklo</ActivityItem> a <ActivityItem>látku</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Podívejme se... Na <ActivityItem>šachovnici</ActivityItem> budeme potřebovat <ActivityItem>díly pro kutily</ActivityItem>,<ActivityItem>sklo</ActivityItem> a <ActivityItem>látku</ActivityItem>."
+    }
+  ],
+  "MiniEvent23_Woody/Woody_Wood_ParkFest_010_Wood_ParkFest_010_Ongoing02.locbin": [
+    {
+      "key": "Woody_000_f",
+      "en": "Let me see here... For the <ActivityItem>Checkerboard</ActivityItem>, we'll need <ActivityItem>Tinkering Parts</ActivityItem>,<ActivityItem>Glass</ActivityItem>, and <ActivityItem>Fabric</ActivityItem>.",
+      "cz": "Podívejme se... Na <ActivityItem>šachovnici</ActivityItem> budeme potřebovat <ActivityItem>díly pro kutily</ActivityItem>,<ActivityItem>sklo</ActivityItem> a <ActivityItem>látku</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Podívejme se... Na <ActivityItem>šachovnici</ActivityItem> budeme potřebovat <ActivityItem>díly pro kutily</ActivityItem>,<ActivityItem>sklo</ActivityItem> a <ActivityItem>látku</ActivityItem>."
+    }
+  ],
+  "MiniEvent23_Woody/Woody_Wood_ParkFest_030_Wood_ParkFest_030_Intro.locbin": [
+    {
+      "key": "Woody_000_f",
+      "en": "Say {PlayerName}, since it's Parks Fest time, Buzz and I thought we could add even more fun to the Valley.",
+      "cz": "Řekněme {PlayerName}, protože je čas Festivalu parků, Buzz a já jsme si mysleli, že bychom mohli do údolí přidat ještě více zábavy.",
+      "source": "pre_existing",
+      "original_cz": "Řekněme {PlayerName}, protože je čas Festivalu parků, Buzz a já jsme si mysleli, že bychom mohli do údolí přidat ještě více zábavy."
+    },
+    {
+      "key": "Woody_001_f",
+      "en": "We want to share the best parts of playtime with our fellow Villagers! Especially in the <Lore>Plaza, Meadow, and Beach</Lore>.",
+      "cz": "Chceme se o ty nejlepší chvíle hraní podělit s našimi vesničany! Obzvláště na <Lore>náměstí, louce a pláži</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Chceme se o ty nejlepší chvíle hraní podělit s našimi vesničany! Obzvláště na <Lore>náměstí, louce a pláži</Lore>."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Sure, I'll decorate the Valley for ya!",
+      "cz": "Jasně, vyzdobím ti údolí!",
+      "source": "pre_existing",
+      "original_cz": "Jasně, vyzdobím ti údolí!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Maybe later!",
+      "cz": "Možná později!",
+      "source": "pre_existing",
+      "original_cz": "Možná později!"
+    },
+    {
+      "key": "Woody_002_f",
+      "en": "Terrific! Come find us when you're done.",
+      "cz": "Skvělé! Až skončíte, přijďte za námi.",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Až skončíte, přijďte za námi."
+    },
+    {
+      "key": "Woody_003_f",
+      "en": "Good luck, my friend!",
+      "cz": "Hodně štěstí, příteli!",
+      "source": "pre_existing",
+      "original_cz": "Hodně štěstí, příteli!"
+    }
+  ],
+  "MiniEvent23_Woody/Woody_Wood_ParkFest_030_Wood_ParkFest_030_Ongoing01.locbin": [
+    {
+      "key": "Woody_000_f",
+      "en": "I'm still working on decorating the Plaza, the Peaceful Meadow, and Dazzle Beach.",
+      "cz": "Stále pracuji na výzdobě náměstí, Pokojné louky a Oslnivé pláže.",
+      "source": "pre_existing",
+      "original_cz": "Stále pracuji na výzdobě náměstí, Pokojné louky a Oslnivé pláže."
+    },
+    {
+      "key": "Woody_001_f",
+      "en": "I was thinking <Lore>Playful</Lore> and <Lore>Toy Story</Lore> decor.",
+      "cz": "Přemýšlela jsem o dekoraci <Lore>Playful</Lore> a <Lore>Toy Story</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Přemýšlela jsem o dekoraci <Lore>Playful</Lore> a <Lore>Toy Story</Lore>."
+    },
+    {
+      "key": "Woody_002_f",
+      "en": "Anything toy-inspired sounds great to me!",
+      "cz": "Cokoliv inspirovaného hračkami mi zní skvěle!",
+      "source": "pre_existing",
+      "original_cz": "Cokoliv inspirovaného hračkami mi zní skvěle!"
+    }
+  ],
+  "MiniEvent23_Woody/Woody_Wood_ParkFest_030_Wood_ParkFest_030_Outro.locbin": [
+    {
+      "key": "Woody_000_f",
+      "en": "Well, would ya look at that... {PlayerName}, your decorations look great!",
+      "cz": "No, podívejte se na to... {PlayerName}, vaše dekorace vypadají skvěle!",
+      "source": "pre_existing",
+      "original_cz": "No, podívejte se na to... {PlayerName}, vaše dekorace vypadají skvěle!"
+    },
+    {
+      "key": "Woody_001_f",
+      "en": "We have some extras, in case you want to add more to what you've already done.",
+      "cz": "Máme pro vás i něco navíc, pokud byste chtěli k tomu, co už máte, přidat další.",
+      "source": "pre_existing",
+      "original_cz": "Máme pro vás i něco navíc, pokud byste chtěli k tomu, co už máte, přidat další."
+    },
+    {
+      "key": "Woody_002_f",
+      "en": "Here ya go! Enjoy the festival!",
+      "cz": "Tak do toho! Užijte si festival!",
+      "source": "pre_existing",
+      "original_cz": "Tak do toho! Užijte si festival!"
+    }
+  ]
+}

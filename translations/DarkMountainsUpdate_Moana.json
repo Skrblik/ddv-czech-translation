@@ -1,0 +1,356 @@
+{
+  "DarkMountainsUpdate_Moana/Moana_MRQS130D_LightInTheDark_MRQS130D_LightInTheDark_BringItem01.locbin": [
+    {
+      "key": "Moana_001_f",
+      "en": "Hey, Moana. I've got something I need you to look at.",
+      "cz": "Ahoj, Moano. Mám něco, na co se musíš podívat.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, Moano. Mám něco, na co se musíš podívat."
+    },
+    {
+      "key": "Moana_000_f",
+      "en": "Sure, {PlayerName}! ... Oh, what are these...? Toys? Are you sure you want to play in the sand? Shouldn't you be saving the Valley?",
+      "cz": "Jasně, {PlayerName}! ... Co to je...? Hračky? Jsi si jistý/á, že si chceš hrát v písku? Neměl/a bys zachraňovat Údolí?",
+      "source": "pre_existing",
+      "original_cz": "Jasně, {PlayerName}! ... Co to je...? Hračky? Jsi si jistý/á, že si chceš hrát v písku? Neměl/a bys zachraňovat Údolí?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Why not both?",
+      "cz": "Proč ne obojí?",
+      "source": "pre_existing",
+      "original_cz": "Proč ne obojí?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I hope I never stop wanting to play. Even if things are bad.",
+      "cz": "Doufám, že nikdy nepřestanu chtít hrát. I když se mi bude dařit špatně.",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že nikdy nepřestanu chtít hrát. I když se mi bude dařit špatně."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "These toys ARE the key to saving the Valley.",
+      "cz": "Tyto hračky JSOU klíčem k záchraně Údolí.",
+      "source": "pre_existing",
+      "original_cz": "Tyto hračky JSOU klíčem k záchraně Údolí."
+    },
+    {
+      "key": "Moana_002_f",
+      "en": "Okay...",
+      "cz": "Dobře...",
+      "source": "pre_existing",
+      "original_cz": "Dobře..."
+    },
+    {
+      "key": "Moana_005_f",
+      "en": "Really though... I'm here to ask you about these. I think they used to belong to the Forgotten...",
+      "cz": "Ale vážně... Jsem tu, abych se tě na tohle zeptala. Myslím, že patřily Zapomenutým...",
+      "source": "pre_existing",
+      "original_cz": "Ale vážně... Jsem tu, abych se tě na tohle zeptala. Myslím, že patřily Zapomenutým..."
+    },
+    {
+      "key": "Moana_007_f",
+      "en": "I was hoping you might remember them.",
+      "cz": "Doufala jsem, že si je možná pamatuješ.",
+      "source": "pre_existing",
+      "original_cz": "Doufala jsem, že si je možná pamatuješ."
+    },
+    {
+      "key": "Moana_008_f",
+      "en": "They do look familiar...",
+      "cz": "Vypadají mi povědomě...",
+      "source": "pre_existing",
+      "original_cz": "Vypadají mi povědomě..."
+    },
+    {
+      "key": "Moana_009_f",
+      "en": "But it's like the fog's rolled in over my memories of them...",
+      "cz": "Ale je to, jako by se na mé vzpomínky na ně přikryla mlha...",
+      "source": "pre_existing",
+      "original_cz": "Ale je to, jako by se na mé vzpomínky na ně přikryla mlha..."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Focus on your memories of me.",
+      "cz": "Soustřeď se na své vzpomínky na mě.",
+      "source": "pre_existing",
+      "original_cz": "Soustřeď se na své vzpomínky na mě."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Pretend you're in a canoe, sailing through the fog...",
+      "cz": "Představte si, že jste v kánoi a plujete mlhou...",
+      "source": "pre_existing",
+      "original_cz": "Představte si, že jste v kánoi a plujete mlhou..."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Don't worry. The memories will come back.",
+      "cz": "Neboj se. Vzpomínky se vrátí.",
+      "source": "pre_existing",
+      "original_cz": "Neboj se. Vzpomínky se vrátí."
+    },
+    {
+      "key": "Moana_011_f",
+      "en": "Just think of all the memories we've made together since you've come back to the Village.",
+      "cz": "Jen si vzpomeň na všechny ty vzpomínky, které jsme si spolu vytvořili od tvého návratu do vesnice.",
+      "source": "pre_existing",
+      "original_cz": "Jen si vzpomeň na všechny ty vzpomínky, které jsme si spolu vytvořili od tvého návratu do vesnice."
+    },
+    {
+      "key": "Moana_023_f",
+      "en": "Well, you were an amazing kid. If that's the part of you that became the Forgotten... I hope there's still some way to save them.",
+      "cz": "No, byl jsi úžasný kluk. Pokud je to ta část tebe, která se stala Zapomenutou... Doufám, že je ještě nějaký způsob, jak je zachránit.",
+      "source": "pre_existing",
+      "original_cz": "No, byl jsi úžasný kluk. Pokud je to ta část tebe, která se stala Zapomenutou... Doufám, že je ještě nějaký způsob, jak je zachránit."
+    },
+    {
+      "key": "Moana_015_f",
+      "en": "Whoa... That is so strange! The moment you said that, it's like the fog lifted.",
+      "cz": "Páni... To je tak zvláštní! V okamžiku, kdy jsi to řekla, jako by se mlha rozplynula.",
+      "source": "pre_existing",
+      "original_cz": "Páni... To je tak zvláštní! V okamžiku, kdy jsi to řekla, jako by se mlha rozplynula."
+    },
+    {
+      "key": "Moana_016_f",
+      "en": "I do remember these! You and I used to play with them when you were just a little kid.",
+      "cz": "Na tyhle si pamatuju! Hrávali jsme si s nimi, když jsi byla ještě malá.",
+      "source": "pre_existing",
+      "original_cz": "Na tyhle si pamatuju! Hrávali jsme si s nimi, když jsi byla ještě malá."
+    },
+    {
+      "key": "Moana_017_f",
+      "en": "It reminded me of when I was small and played in the sand with my Gramma Tala.",
+      "cz": "Připomnělo mi to, jak jsem si jako malá hrála v písku s babičkou Talou.",
+      "source": "pre_existing",
+      "original_cz": "Připomnělo mi to, jak jsem si jako malá hrála v písku s babičkou Talou."
+    },
+    {
+      "key": "Moana_018_f",
+      "en": "How did they wind up in that cave?",
+      "cz": "Jak se dostali do té jeskyně?",
+      "source": "pre_existing",
+      "original_cz": "Jak se dostali do té jeskyně?"
+    },
+    {
+      "key": "Moana_019_f",
+      "en": "Well... one day, I asked you if you wanted to play, and it was like you couldn't hear me. As if you were really far away.",
+      "cz": "No... jednoho dne jsem se tě zeptala, jestli si chceš hrát, a bylo to, jako bys mě neslyšel. Jako bys byl opravdu daleko.",
+      "source": "pre_existing",
+      "original_cz": "No... jednoho dne jsem se tě zeptala, jestli si chceš hrát, a bylo to, jako bys mě neslyšel. Jako bys byl opravdu daleko."
+    },
+    {
+      "key": "Moana_020_f",
+      "en": "... That wasn't you anymore, was it? It was the Forgotten...",
+      "cz": "... To už jsi nebyla ty, že ne? Byla to Zapomenutá...",
+      "source": "pre_existing",
+      "original_cz": "... To už jsi nebyla ty, že ne? Byla to Zapomenutá..."
+    },
+    {
+      "key": "Moana_021_f",
+      "en": "They threw these toys away in the cave and ran off. I was... confused, and pretty sad. It wasn't like you to do something like that.",
+      "cz": "V jeskyni odhodili tyhle hračky a utekli. Byla jsem... zmatená a dost smutná. Nebylo to pro tebe typické, že jsi něco takového udělala.",
+      "source": "pre_existing",
+      "original_cz": "V jeskyni odhodili tyhle hračky a utekli. Byla jsem... zmatená a dost smutná. Nebylo to pro tebe typické, že jsi něco takového udělala."
+    },
+    {
+      "key": "Moana_022_f",
+      "en": "Maybe not. But the Forgotten is a part of me. That kid who played on the Beach with you... that part of me is in there somewhere.",
+      "cz": "Možná ne. Ale Zapomenutý je součástí mě. To dítě, co si s tebou hrálo na pláži... ta část mě je někde tam uvnitř.",
+      "source": "pre_existing",
+      "original_cz": "Možná ne. Ale Zapomenutý je součástí mě. To dítě, co si s tebou hrálo na pláži... ta část mě je někde tam uvnitř."
+    },
+    {
+      "key": "Moana_012_f",
+      "en": "Imagine you're wayfinding through that fog... and there's a light on the other side.",
+      "cz": "Představte si, že se procházíte tou mlhou... a na druhé straně je světlo.",
+      "source": "pre_existing",
+      "original_cz": "Představte si, že se procházíte tou mlhou... a na druhé straně je světlo."
+    },
+    {
+      "key": "Moana_013_f",
+      "en": "It's your memory of all the adventures we've gone on since you've been back in the Village.",
+      "cz": "Je to tvá vzpomínka na všechna dobrodružství, která jsme zažili od tvého návratu do vesnice.",
+      "source": "pre_existing",
+      "original_cz": "Je to tvá vzpomínka na všechna dobrodružství, která jsme zažili od tvého návratu do vesnice."
+    },
+    {
+      "key": "Moana_014_f",
+      "en": "Just think about everything we've gone through together and all the memories you've recovered so far.",
+      "cz": "Jen si vzpomeň na všechno, čím jsme si spolu prošli, a na všechny vzpomínky, které sis dosud vybavila.",
+      "source": "pre_existing",
+      "original_cz": "Jen si vzpomeň na všechno, čím jsme si spolu prošli, a na všechny vzpomínky, které sis dosud vybavila."
+    },
+    {
+      "key": "Moana_024_f",
+      "en": "There has to be something in there...",
+      "cz": "Něco tam musí být...",
+      "source": "pre_existing",
+      "original_cz": "Něco tam musí být..."
+    },
+    {
+      "key": "Moana_025_f",
+      "en": "Just spending time with you, {PlayerName}... I can feel the fog starting to lift.",
+      "cz": "Jen s tebou trávím čas, {PlayerName}... Cítím, jak se mlha začíná zvedat.",
+      "source": "pre_existing",
+      "original_cz": "Jen s tebou trávím čas, {PlayerName}... Cítím, jak se mlha začíná zvedat."
+    },
+    {
+      "key": "Moana_026_f",
+      "en": "Maybe if we spend some more time together... if we bring back some of your memories of the past... and make some NEW memories...",
+      "cz": "Možná kdybychom spolu strávili trochu víc času... kdybychom si připomněli některé z tvých vzpomínek z minulosti... a vytvořili si nějaké NOVÉ vzpomínky...",
+      "source": "pre_existing",
+      "original_cz": "Možná kdybychom spolu strávili trochu víc času... kdybychom si připomněli některé z tvých vzpomínek z minulosti... a vytvořili si nějaké NOVÉ vzpomínky..."
+    },
+    {
+      "key": "Moana_027_f",
+      "en": "...that could work. I'm sure I still have the memory somehow.",
+      "cz": "...to by mohlo fungovat. Jsem si jistá, že si to nějak pořád pamatuji.",
+      "source": "pre_existing",
+      "original_cz": "...to by mohlo fungovat. Jsem si jistá, že si to nějak pořád pamatuji."
+    },
+    {
+      "key": "Moana_003_f",
+      "en": "You're right. I never want you to lose your joy for adventure.",
+      "cz": "Máš pravdu. Nikdy nechci, abys ztratila radost z dobrodružství.",
+      "source": "pre_existing",
+      "original_cz": "Máš pravdu. Nikdy nechci, abys ztratila radost z dobrodružství."
+    },
+    {
+      "key": "Moana_004_f",
+      "en": "What do you mean?",
+      "cz": "Co tím myslíš?",
+      "source": "pre_existing",
+      "original_cz": "Co tím myslíš?"
+    },
+    {
+      "key": "Moana_006_f",
+      "en": "I think these toys used to belong to the Forgotten.",
+      "cz": "Myslím, že tyto hračky dříve patřily Zapomenutým.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že tyto hračky dříve patřily Zapomenutým."
+    }
+  ],
+  "DarkMountainsUpdate_Moana/Moana_MRQS130D_LightInTheDark_MRQS130D_LightInTheDark_BringItem02.locbin": [
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Focus on your memories of me.",
+      "cz": "Soustřeď se na své vzpomínky na mě.",
+      "source": "pre_existing",
+      "original_cz": "Soustřeď se na své vzpomínky na mě."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Pretend you're in a canoe, sailing through the fog...",
+      "cz": "Představte si, že jste v kánoi a plujete mlhou...",
+      "source": "pre_existing",
+      "original_cz": "Představte si, že jste v kánoi a plujete mlhou..."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Don't worry. The memories will come back.",
+      "cz": "Neboj se. Vzpomínky se vrátí.",
+      "source": "pre_existing",
+      "original_cz": "Neboj se. Vzpomínky se vrátí."
+    },
+    {
+      "key": "Moana_001_f",
+      "en": "Just think of all the memories we've made together since you've come back to the Village.",
+      "cz": "Jen si vzpomeň na všechny ty vzpomínky, které jsme si spolu vytvořili od tvého návratu do vesnice.",
+      "source": "pre_existing",
+      "original_cz": "Jen si vzpomeň na všechny ty vzpomínky, které jsme si spolu vytvořili od tvého návratu do vesnice."
+    },
+    {
+      "key": "Moana_010_f",
+      "en": "Well, you were an amazing kid. If that's the part of you that became the Forgotten... I hope there's still some way to save them.",
+      "cz": "No, byl jsi úžasný kluk. Pokud je to ta část tebe, která se stala Zapomenutou... Doufám, že je ještě nějaký způsob, jak je zachránit.",
+      "source": "pre_existing",
+      "original_cz": "No, byl jsi úžasný kluk. Pokud je to ta část tebe, která se stala Zapomenutou... Doufám, že je ještě nějaký způsob, jak je zachránit."
+    },
+    {
+      "key": "Moana_002_f",
+      "en": "Whoa... That is so strange! The moment you said that, it's like the fog lifted.",
+      "cz": "Páni... To je tak zvláštní! V okamžiku, kdy jsi to řekla, jako by se mlha rozplynula.",
+      "source": "pre_existing",
+      "original_cz": "Páni... To je tak zvláštní! V okamžiku, kdy jsi to řekla, jako by se mlha rozplynula."
+    },
+    {
+      "key": "Moana_003_f",
+      "en": "I do remember these. You and I used to play with them when you were just a little kid.",
+      "cz": "Pamatuji si je. Hrávali jsme si s nimi, když jsi byla ještě malá.",
+      "source": "pre_existing",
+      "original_cz": "Pamatuji si je. Hrávali jsme si s nimi, když jsi byla ještě malá."
+    },
+    {
+      "key": "Moana_004_f",
+      "en": "It reminded me of when I was small and played in the sand with my Gramma Tala.",
+      "cz": "Připomnělo mi to, jak jsem si jako malá hrála v písku s babičkou Talou.",
+      "source": "pre_existing",
+      "original_cz": "Připomnělo mi to, jak jsem si jako malá hrála v písku s babičkou Talou."
+    },
+    {
+      "key": "Moana_005_f",
+      "en": "How did they wind up in that cave?",
+      "cz": "Jak se dostali do té jeskyně?",
+      "source": "pre_existing",
+      "original_cz": "Jak se dostali do té jeskyně?"
+    },
+    {
+      "key": "Moana_006_f",
+      "en": "Well... one day, I asked you if you wanted to play, and it was like you couldn't hear me. As if you were very far away.",
+      "cz": "No... jednoho dne jsem se tě zeptala, jestli si chceš hrát, a bylo to, jako bys mě neslyšel. Jako bys byl hodně daleko.",
+      "source": "pre_existing",
+      "original_cz": "No... jednoho dne jsem se tě zeptala, jestli si chceš hrát, a bylo to, jako bys mě neslyšel. Jako bys byl hodně daleko."
+    },
+    {
+      "key": "Moana_007_f",
+      "en": "... That wasn't you anymore, was it? It was the Forgotten...",
+      "cz": "... To už jsi nebyla ty, že ne? Byla to Zapomenutá...",
+      "source": "pre_existing",
+      "original_cz": "... To už jsi nebyla ty, že ne? Byla to Zapomenutá..."
+    },
+    {
+      "key": "Moana_008_f",
+      "en": "They threw these toys away in the cave and ran off. I was... confused, and pretty sad. It wasn't like you to do something like that.",
+      "cz": "V jeskyni odhodili tyhle hračky a utekli. Byla jsem... zmatená a dost smutná. Nebylo to pro tebe typické, že jsi něco takového udělala.",
+      "source": "pre_existing",
+      "original_cz": "V jeskyni odhodili tyhle hračky a utekli. Byla jsem... zmatená a dost smutná. Nebylo to pro tebe typické, že jsi něco takového udělala."
+    },
+    {
+      "key": "Moana_009_f",
+      "en": "Maybe not. But the Forgotten is a part of me. That kid who played on the Beach with you... that part of me is in there somewhere.",
+      "cz": "Možná ne. Ale Zapomenutý je součástí mě. To dítě, co si s tebou hrálo na pláži... ta část mě je někde tam uvnitř.",
+      "source": "pre_existing",
+      "original_cz": "Možná ne. Ale Zapomenutý je součástí mě. To dítě, co si s tebou hrálo na pláži... ta část mě je někde tam uvnitř."
+    },
+    {
+      "key": "Moana_011_f",
+      "en": "Imagine you're wayfinding through that fog... and there's a light on the other side.",
+      "cz": "Představte si, že se procházíte tou mlhou... a na druhé straně je světlo.",
+      "source": "pre_existing",
+      "original_cz": "Představte si, že se procházíte tou mlhou... a na druhé straně je světlo."
+    },
+    {
+      "key": "Moana_012_f",
+      "en": "It's your memory of all the adventures we've gone on since you've been back in the Village.",
+      "cz": "Je to tvá vzpomínka na všechna dobrodružství, která jsme zažili od tvého návratu do vesnice.",
+      "source": "pre_existing",
+      "original_cz": "Je to tvá vzpomínka na všechna dobrodružství, která jsme zažili od tvého návratu do vesnice."
+    },
+    {
+      "key": "Moana_013_f",
+      "en": "Just think about everything we've gone through together and all the memories you've recovered so far.",
+      "cz": "Jen si vzpomeň na všechno, čím jsme si spolu prošli, a na všechny vzpomínky, které sis dosud vybavila.",
+      "source": "pre_existing",
+      "original_cz": "Jen si vzpomeň na všechno, čím jsme si spolu prošli, a na všechny vzpomínky, které sis dosud vybavila."
+    },
+    {
+      "key": "Moana_014_f",
+      "en": "My memories are starting to return... but there's still some fog over them.",
+      "cz": "Vzpomínky se mi začínají vracet... ale stále je nad nimi mlha.",
+      "source": "pre_existing",
+      "original_cz": "Vzpomínky se mi začínají vracet... ale stále je nad nimi mlha."
+    }
+  ]
+}

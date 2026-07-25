@@ -1,0 +1,314 @@
+{
+  "ParksMiniEvent_Mirabel/Mirabel_Mira_ParksCritter_010_Mira_ParksCritter_010_Intro.locbin": [
+    {
+      "key": "Mirabel_001_f",
+      "en": "Hola, {PlayerName}! Happy Dreamlight Parks Fest!",
+      "cz": "Ahoj, {PlayerName}! Šťastný festival parků Dreamlight!",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}! Šťastný festival parků Dreamlight!"
+    },
+    {
+      "key": "Mirabel_004_f",
+      "en": "I just had an idea. Why don't we celebrate with some of the animals in the Valley?",
+      "cz": "Právě mě napadlo. Co kdybychom to oslavili s některými zvířaty v údolí?",
+      "source": "pre_existing",
+      "original_cz": "Právě mě napadlo. Co kdybychom to oslavili s některými zvířaty v údolí?"
+    },
+    {
+      "key": "Mirabel_007_f",
+      "en": "Mr. McDuck promised to give us a special reward for doing things that help others. What do you say?",
+      "cz": "Pan McDuck nám slíbil zvláštní odměnu za to, že budeme dělat věci, které pomáhají druhým. Co říkáte?",
+      "source": "pre_existing",
+      "original_cz": "Pan McDuck nám slíbil zvláštní odměnu za to, že budeme dělat věci, které pomáhají druhým. Co říkáte?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's celebrate with the critters!",
+      "cz": "Pojďme oslavit s těmi tvory!",
+      "source": "pre_existing",
+      "original_cz": "Pojďme oslavit s těmi tvory!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'm busy; let's talk later.",
+      "cz": "Jsem zaneprázdněný; promluvíme si později.",
+      "source": "pre_existing",
+      "original_cz": "Jsem zaneprázdněný; promluvíme si později."
+    },
+    {
+      "key": "Mirabel_002_f",
+      "en": "Fabulous! My cousin Antonio would definitely approve!",
+      "cz": "Skvělé! Můj bratranec Antonio by to rozhodně schválil!",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Můj bratranec Antonio by to rozhodně schválil!"
+    },
+    {
+      "key": "Mirabel_005_f",
+      "en": "I think the festival should be for everyone who lives in the Valley — even our animal friends.",
+      "cz": "Myslím, že festival by měl být pro všechny, kdo žijí v údolí – dokonce i pro naše zvířecí přátele.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že festival by měl být pro všechny, kdo žijí v údolí – dokonce i pro naše zvířecí přátele."
+    },
+    {
+      "key": "Mirabel_006_f",
+      "en": "Let's start by visiting the squirrels in the Plaza and <Lore>taking some photos</Lore>.",
+      "cz": "Začněme návštěvou veverek na náměstí a <Lore>pořízením pár fotek</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Začněme návštěvou veverek na náměstí a <Lore>pořízením pár fotek</Lore>."
+    },
+    {
+      "key": "Mirabel_003_f",
+      "en": "No problem. See you around!",
+      "cz": "Žádný problém. Uvidíme se!",
+      "source": "pre_existing",
+      "original_cz": "Žádný problém. Uvidíme se!"
+    }
+  ],
+  "ParksMiniEvent_Mirabel/Mirabel_Mira_ParksCritter_010_Mira_ParksCritter_010_Ongoing01.locbin": [
+    {
+      "key": "Mirabel_001_f",
+      "en": "Let's get photos with <Lore>every kind of squirrel in the Plaza</Lore>!",
+      "cz": "Pojďme se vyfotit s <Lore>všemi druhy veverek na náměstí</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Pojďme se vyfotit s <Lore>všemi druhy veverek na náměstí</Lore>!"
+    },
+    {
+      "key": "Mirabel_002_f",
+      "en": "Right! I'll use my Royal Phone.",
+      "cz": "Dobře! Použiji svůj královský telefon.",
+      "source": "pre_existing",
+      "original_cz": "Dobře! Použiji svůj královský telefon."
+    }
+  ],
+  "ParksMiniEvent_Mirabel/Mirabel_Mira_ParksCritter_010_Mira_ParksCritter_010_Outro.locbin": [
+    {
+      "key": "Mirabel_001_f",
+      "en": "These are amazing! You really have an eye for photography.",
+      "cz": "To je úžasné! Opravdu máš oko pro fotografování.",
+      "source": "pre_existing",
+      "original_cz": "To je úžasné! Opravdu máš oko pro fotografování."
+    },
+    {
+      "key": "Mirabel_002_f",
+      "en": "AND the squirrels definitely liked spending time with us.",
+      "cz": "A veverkám se s námi rozhodně líbilo.",
+      "source": "pre_existing",
+      "original_cz": "A veverkám se s námi rozhodně líbilo."
+    },
+    {
+      "key": "Mirabel_003_f",
+      "en": "I'm going to keep thinking of other ways to include the animals in the festival. I'll let you know what I come up with. Oh! Before I forget, Mr. McDuck gave us this mini-prize to start out.",
+      "cz": "Budu dál přemýšlet o dalších způsobech, jak zapojit zvířata do festivalu. Dám vám vědět, co mě napadne. Ach! Než zapomenu, pan McDuck nám dal na začátek tuto malou cenu.",
+      "source": "pre_existing",
+      "original_cz": "Budu dál přemýšlet o dalších způsobech, jak zapojit zvířata do festivalu. Dám vám vědět, co mě napadne. Ach! Než zapomenu, pan McDuck nám dal na začátek tuto malou cenu."
+    }
+  ],
+  "ParksMiniEvent_Mirabel/Mirabel_Mira_ParksCritter_020_Mira_ParksCritter_020_Intro.locbin": [
+    {
+      "key": "Mirabel_001_f",
+      "en": "{PlayerName}, I thought of another way we can celebrate the Valley's animals for the Dreamlight Parks Fest!",
+      "cz": "{PlayerName}, napadlo mě, jak bychom mohli oslavit zvířata z Údolí na festivalu Dreamlight Parks!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, napadlo mě, jak bychom mohli oslavit zvířata z Údolí na festivalu Dreamlight Parks!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "What are we going to do?",
+      "cz": "Co budeme dělat?",
+      "source": "pre_existing",
+      "original_cz": "Co budeme dělat?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Let's talk about this later.",
+      "cz": "O tom si promluvíme později.",
+      "source": "pre_existing",
+      "original_cz": "O tom si promluvíme později."
+    },
+    {
+      "key": "Mirabel_002_f",
+      "en": "Well, food is a big part of the festivals we have at home.",
+      "cz": "No, jídlo je velkou součástí festivalů, které máme doma.",
+      "source": "pre_existing",
+      "original_cz": "No, jídlo je velkou součástí festivalů, které máme doma."
+    },
+    {
+      "key": "Mirabel_004_f",
+      "en": "It's not a REAL Madrigal celebration until Mamá brings out the buñuelos.",
+      "cz": "Není to SKUTEČNÁ oslava Madrigalu, dokud Mamá nepřinese buñuelos.",
+      "source": "pre_existing",
+      "original_cz": "Není to SKUTEČNÁ oslava Madrigalu, dokud Mamá nepřinese buñuelos."
+    },
+    {
+      "key": "Mirabel_005_f",
+      "en": "So, I was thinking the <Lore>Rabbits in the Peaceful Meadow</Lore> would love their <Lore>favorite food</Lore> as a festival treat!",
+      "cz": "Tak jsem si říkala, že by si <Lore>Králíci na poklidné louce</Lore> zamilovali své <Lore>oblíbené jídlo</Lore> jako slavnostní pochoutku!",
+      "source": "pre_existing",
+      "original_cz": "Tak jsem si říkala, že by si <Lore>Králíci na poklidné louce</Lore> zamilovali své <Lore>oblíbené jídlo</Lore> jako slavnostní pochoutku!"
+    },
+    {
+      "key": "Mirabel_003_f",
+      "en": "I understand. Come find me when you have some time. Adiós!",
+      "cz": "Rozumím. Přijď si pro mě najít, až budeš mít trochu času. Sbohem!",
+      "source": "pre_existing",
+      "original_cz": "Rozumím. Přijď si pro mě najít, až budeš mít trochu času. Sbohem!"
+    }
+  ],
+  "ParksMiniEvent_Mirabel/Mirabel_Mira_ParksCritter_020_Mira_ParksCritter_020_Ongoing01.locbin": [
+    {
+      "key": "Mirabel_001_f",
+      "en": "Let's feed the rabbits in the Peaceful Meadow their <Lore>favorite food</Lore>.",
+      "cz": "Nakrmme králíky na Klidné louce jejich <Lore>oblíbeným jídlem</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Nakrmme králíky na Klidné louce jejich <Lore>oblíbeným jídlem</Lore>."
+    },
+    {
+      "key": "Mirabel_002_f",
+      "en": "Which I remember Antonio saying is carrots. Come on; let's go give them some <ActivityItem>Carrots</ActivityItem>.",
+      "cz": "Pamatuji si, že Antonio říkal, že je to mrkev. Pojďme, dáme jim trochu <ActivityItem>mrkve</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Pamatuji si, že Antonio říkal, že je to mrkev. Pojďme, dáme jim trochu <ActivityItem>mrkve</ActivityItem>."
+    }
+  ],
+  "ParksMiniEvent_Mirabel/Mirabel_Mira_ParksCritter_020_Mira_ParksCritter_020_Outro.locbin": [
+    {
+      "key": "Mirabel_001_f",
+      "en": "Those rabbits were so cute! I just love their little twitchy noses.",
+      "cz": "Ti králíci byli tak roztomilí! Prostě miluju jejich malé cukavé nosíky.",
+      "source": "pre_existing",
+      "original_cz": "Ti králíci byli tak roztomilí! Prostě miluju jejich malé cukavé nosíky."
+    },
+    {
+      "key": "Mirabel_002_f",
+      "en": "And they seemed pretty happy with their carrots, too.",
+      "cz": "A zdálo se, že i se svou mrkví jsou docela spokojení.",
+      "source": "pre_existing",
+      "original_cz": "A zdálo se, že i se svou mrkví jsou docela spokojení."
+    },
+    {
+      "key": "Mirabel_003_f",
+      "en": "Mr. McDuck says we only have to complete ONE more celebration with the animals to get his special reward.",
+      "cz": "Pan McDuck říká, že musíme dokončit už jen JEDNU oslavu se zvířaty, abychom získali jeho speciální odměnu.",
+      "source": "pre_existing",
+      "original_cz": "Pan McDuck říká, že musíme dokončit už jen JEDNU oslavu se zvířaty, abychom získali jeho speciální odměnu."
+    },
+    {
+      "key": "Mirabel_004_f",
+      "en": "Let's meet again tomorrow, okay? And, in the meantime, here's another mini-prize from Mr. McDuck.",
+      "cz": "Sejdeme se znovu zítra, ano? A mezitím tu máme další malou cenu od pana McDucka.",
+      "source": "pre_existing",
+      "original_cz": "Sejdeme se znovu zítra, ano? A mezitím tu máme další malou cenu od pana McDucka."
+    }
+  ],
+  "ParksMiniEvent_Mirabel/Mirabel_Mira_ParksCritter_030_Mira_ParksCritter_030_Intro.locbin": [
+    {
+      "key": "Mirabel_001_f",
+      "en": "{PlayerName}, I've got our final animal appreciation task for the festival!",
+      "cz": "{PlayerName}, mám pro vás poslední úkol na festival, kde si užijeme zvířata!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, mám pro vás poslední úkol na festival, kde si užijeme zvířata!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm ready for the last task!",
+      "cz": "Jsem připraven na poslední úkol!",
+      "source": "pre_existing",
+      "original_cz": "Jsem připraven na poslední úkol!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Let's celebrate the critters later.",
+      "cz": "Oslavme ty tvory později.",
+      "source": "pre_existing",
+      "original_cz": "Oslavme ty tvory později."
+    },
+    {
+      "key": "Mirabel_003_f",
+      "en": "Fabuloso!",
+      "cz": "Skvělé!",
+      "source": "pre_existing",
+      "original_cz": "Skvělé!"
+    },
+    {
+      "key": "Mirabel_004_f",
+      "en": "So, I was thinking... we had so much fun when we took photos with the squirrels — why not take MORE animal photos?",
+      "cz": "Tak jsem si říkala... moc jsme si užili focení s veverkami – proč neudělat VÍC fotek zvířat?",
+      "source": "pre_existing",
+      "original_cz": "Tak jsem si říkala... moc jsme si užili focení s veverkami – proč neudělat VÍC fotek zvířat?"
+    },
+    {
+      "key": "Mirabel_005_f",
+      "en": "But this time, let's try to help those shy little <Lore>Sea Turtles on Dazzle Beach</Lore> come out of their shells. Metaphorically, of course.",
+      "cz": "Ale tentokrát se pokusme pomoci těm plachým malým <Lore>mořským želvám na Dazzle Beach</Lore> vylézt z krunýřů. Samozřejmě metaforicky.",
+      "source": "pre_existing",
+      "original_cz": "Ale tentokrát se pokusme pomoci těm plachým malým <Lore>mořským želvám na Dazzle Beach</Lore> vylézt z krunýřů. Samozřejmě metaforicky."
+    },
+    {
+      "key": "Mirabel_002_f",
+      "en": "Oh? All right, but don't forget Mr. McDuck has a reward for us when we're finished.",
+      "cz": "Aha? Dobře, ale nezapomeňte, že pan McDuck má pro nás odměnu, až skončíme.",
+      "source": "pre_existing",
+      "original_cz": "Aha? Dobře, ale nezapomeňte, že pan McDuck má pro nás odměnu, až skončíme."
+    }
+  ],
+  "ParksMiniEvent_Mirabel/Mirabel_Mira_ParksCritter_030_Mira_ParksCritter_030_Ongoing01.locbin": [
+    {
+      "key": "Mirabel_001_f",
+      "en": "Let's go to Dazzle Beach and <Lore>take photos with the Sea Turtles</Lore>.",
+      "cz": "Pojďme na pláž Dazzle Beach a <Lore>vyfoťme se s mořskými želvami</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Pojďme na pláž Dazzle Beach a <Lore>vyfoťme se s mořskými želvami</Lore>."
+    }
+  ],
+  "ParksMiniEvent_Mirabel/Mirabel_Mira_ParksCritter_030_Mira_ParksCritter_030_Outro.locbin": [
+    {
+      "key": "Mirabel_001_f",
+      "en": "These photos are amazing, {PlayerName}!",
+      "cz": "Tyto fotky jsou úžasné, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Tyto fotky jsou úžasné, {PlayerName}!"
+    },
+    {
+      "key": "Mirabel_002_f",
+      "en": "Maybe I'll send another letter to Antonio.",
+      "cz": "Možná pošlu Antoniovi další dopis.",
+      "source": "pre_existing",
+      "original_cz": "Možná pošlu Antoniovi další dopis."
+    },
+    {
+      "key": "Mirabel_005_f",
+      "en": "He will LOVE to see squirrels and sea turtles just as much as he loved our photos of the capybaras.",
+      "cz": "Stejně jako se mu líbily naše fotky kapybar, bude MILOVAT vidět veverky a mořské želvy.",
+      "source": "pre_existing",
+      "original_cz": "Stejně jako se mu líbily naše fotky kapybar, bude MILOVAT vidět veverky a mořské želvy."
+    },
+    {
+      "key": "Mirabel_004_f",
+      "en": "Thank you so much for helping me. I think everyone deserves to be included in a celebration, and now the animals feel appreciated too.",
+      "cz": "Moc vám děkuji za pomoc. Myslím, že si každý zaslouží být součástí oslavy a teď se i zvířata cítí oceněna.",
+      "source": "pre_existing",
+      "original_cz": "Moc vám děkuji za pomoc. Myslím, že si každý zaslouží být součástí oslavy a teď se i zvířata cítí oceněna."
+    },
+    {
+      "key": "Mirabel_006_f",
+      "en": "Oh, I almost forgot! I've got our prize from Mr. McDuck! I think the festival's one of his favorite celebrations in the Valley.",
+      "cz": "Jé, málem jsem zapomněla! Mám naši cenu od pana McDucka! Myslím, že festival je jednou z jeho nejoblíbenějších oslav v údolí.",
+      "source": "pre_existing",
+      "original_cz": "Jé, málem jsem zapomněla! Mám naši cenu od pana McDucka! Myslím, že festival je jednou z jeho nejoblíbenějších oslav v údolí."
+    },
+    {
+      "key": "Mirabel_007_f",
+      "en": "Well, Happy Dreamlight Parks Fest! Adiós!",
+      "cz": "Šťastný festival parků Dreamlight! Na shledanou!",
+      "source": "pre_existing",
+      "original_cz": "Šťastný festival parků Dreamlight! Na shledanou!"
+    },
+    {
+      "key": "Mirabel_003_f",
+      "en": "It was really fun spending time together during the festival.",
+      "cz": "Bylo opravdu zábavné trávit čas společně během festivalu.",
+      "source": "pre_existing",
+      "original_cz": "Bylo opravdu zábavné trávit čas společně během festivalu."
+    }
+  ]
+}

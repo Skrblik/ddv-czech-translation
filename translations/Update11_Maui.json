@@ -1,0 +1,168 @@
+{
+  "Update11_Maui/Maui_VLG_Mula_060_VLG_Mula_060_BringItem01.locbin": [
+    {
+      "key": "Maui_001_f",
+      "en": "Hey, you melted the ice! We are so gonna win this thing!",
+      "cz": "Hej, rozpustil jsi ledy! Tohle určitě vyhrajeme!",
+      "source": "pre_existing",
+      "original_cz": "Hej, rozpustil jsi ledy! Tohle určitě vyhrajeme!"
+    },
+    {
+      "key": "Maui_003_f",
+      "en": "Go team us!",
+      "cz": "Pojďte s námi do týmu!",
+      "source": "pre_existing",
+      "original_cz": "Pojďte s námi do týmu!"
+    }
+  ],
+  "Update11_Maui/Maui_VLG_Mula_060_VLG_Mula_060_Ongoing01.locbin": [
+    {
+      "key": "Maui_000_f",
+      "en": "I need your help getting our Mini Flag <Lore>out of this ice</Lore>. Are you with me, {PlayerName}?",
+      "cz": "Potřebuji vaši pomoc, abychom dostali naši mini vlajku <Lore>z tohoto ledu</Lore>. Jste se mnou, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji vaši pomoc, abychom dostali naši mini vlajku <Lore>z tohoto ledu</Lore>. Jste se mnou, {PlayerName}?"
+    }
+  ],
+  "Update11_Maui/Maui_VLG_Mula_060_VLG_Mula_060_Ongoing02.locbin": [
+    {
+      "key": "Maui_000_f",
+      "en": "You need to collect all the items from our clue. Maybe that'll help us figure out what to do to get rid of the enchanted ice.",
+      "cz": "Musíš sesbírat všechny předměty z naší indicie. Možná nám to pomůže zjistit, co dělat, abychom se zbavili začarovaného ledu.",
+      "source": "pre_existing",
+      "original_cz": "Musíš sesbírat všechny předměty z naší indicie. Možná nám to pomůže zjistit, co dělat, abychom se zbavili začarovaného ledu."
+    }
+  ],
+  "Update11_Maui/Maui_VLG_Mula_060_VLG_Mula_060_Ongoing03.locbin": [
+    {
+      "key": "Maui_000_f",
+      "en": "Okay... Looking at this again... What you gathered looks like a bunch of...",
+      "cz": "Dobře... Když se na to podívám znovu... To, co jsi shromáždil, vypadá jako hromada...",
+      "source": "pre_existing",
+      "original_cz": "Dobře... Když se na to podívám znovu... To, co jsi shromáždil, vypadá jako hromada..."
+    },
+    {
+      "key": "Maui_001_f",
+      "en": "...Ingredients?",
+      "cz": "...Ingredience?",
+      "source": "pre_existing",
+      "original_cz": "...Ingredience?"
+    },
+    {
+      "key": "Maui_002_f",
+      "en": "My thoughts exactly! So, go ahead — cook that flag up!",
+      "cz": "Přesně to si myslím! Tak do toho – upevněte tu vlajku!",
+      "source": "pre_existing",
+      "original_cz": "Přesně to si myslím! Tak do toho – upevněte tu vlajku!"
+    }
+  ],
+  "Update11_Maui/Maui_VLG_Mula_060_VLG_Mula_060_Ongoing04.locbin": [
+    {
+      "key": "Maui_000_f",
+      "en": "Maui! I got the flag out of the ice! Cooking it worked!",
+      "cz": "Maui! Vytáhl jsem vlajku z ledu! Uvaření zabralo!",
+      "source": "pre_existing",
+      "original_cz": "Maui! Vytáhl jsem vlajku z ledu! Uvaření zabralo!"
+    },
+    {
+      "key": "Maui_001_f",
+      "en": "I KNEW you could do it! We make a great team! Now <Lore>bring me the flag</Lore>. I want to see it!",
+      "cz": "VĚDĚL jsem, že to dokážeš! Jsme skvělý tým! A teď <Lore>mi přines vlajku</Lore>. Chci ji vidět!",
+      "source": "pre_existing",
+      "original_cz": "VĚDĚL jsem, že to dokážeš! Jsme skvělý tým! A teď <Lore>mi přines vlajku</Lore>. Chci ji vidět!"
+    }
+  ],
+  "Update11_Maui/Maui_VLG_Mula_060_VLG_Mula_060_TalkTo01.locbin": [
+    {
+      "key": "Maui_000_f",
+      "en": "{PlayerName}! Am I glad to see you!",
+      "cz": "{PlayerName}! Jsem rád/a, že tě vidím!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}! Jsem rád/a, že tě vidím!"
+    },
+    {
+      "key": "Maui_001_f",
+      "en": "I found a Mini Flag hidden under a huge boulder. How did the Fairy Godmother LIFT that thing?",
+      "cz": "Našla jsem Mini Vlaječku schovanou pod obrovským balvanem. Jak ji Víla Kmotra ZVEDLA?",
+      "source": "pre_existing",
+      "original_cz": "Našla jsem Mini Vlaječku schovanou pod obrovským balvanem. Jak ji Víla Kmotra ZVEDLA?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "You have the flag — what's the problem?",
+      "cz": "Máš vlajku – v čem je problém?",
+      "source": "pre_existing",
+      "original_cz": "Máš vlajku – v čem je problém?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "She bibbidi-bobbidi-moved it with magic.",
+      "cz": "Pohnula s tím bibbidi-bobbidi – magií.",
+      "source": "pre_existing",
+      "original_cz": "Pohnula s tím bibbidi-bobbidi – magií."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Maybe she's SUPER muscular under that robe.",
+      "cz": "Možná je pod tím županem PŘESNĚ svalnatá.",
+      "source": "pre_existing",
+      "original_cz": "Možná je pod tím županem PŘESNĚ svalnatá."
+    },
+    {
+      "key": "Maui_003_f",
+      "en": "The problem is... it's encased in some sort of magical ice.",
+      "cz": "Problém je... že je to obalené v jakémsi magickém ledu.",
+      "source": "pre_existing",
+      "original_cz": "Problém je... že je to obalené v jakémsi magickém ledu."
+    },
+    {
+      "key": "Maui_007_f",
+      "en": "I tried holding it over a fire and nothing happened.",
+      "cz": "Zkoušel jsem to držet nad ohněm a nic se nestalo.",
+      "source": "pre_existing",
+      "original_cz": "Zkoušel jsem to držet nad ohněm a nic se nestalo."
+    },
+    {
+      "key": "Maui_008_f",
+      "en": "Our clue also has some drawings on it, so maybe we need to collect the items in the pictures. I don't know how that'll help us melt the ice, though.",
+      "cz": "Naše indicie má také nějaké kresby, takže možná budeme muset posbírat předměty na obrázcích. Nevím ale, jak nám to pomůže rozpustit ledy.",
+      "source": "pre_existing",
+      "original_cz": "Naše indicie má také nějaké kresby, takže možná budeme muset posbírat předměty na obrázcích. Nevím ale, jak nám to pomůže rozpustit ledy."
+    },
+    {
+      "key": "Maui_009_f",
+      "en": "Give me the clue. I'll gather the items from the drawing and try and piece them together!",
+      "cz": "Dej mi nápovědu. Sesbírám ty předměty z kresby a zkusím je poskládat dohromady!",
+      "source": "pre_existing",
+      "original_cz": "Dej mi nápovědu. Sesbírám ty předměty z kresby a zkusím je poskládat dohromady!"
+    },
+    {
+      "key": "Maui_002_f",
+      "en": "HA! Good one! I gotta tell you, though, this Mini Flag thing is really making me think.",
+      "cz": "HA! Dobrý! Ale musím ti říct, že ta věc s Mini Flag mě vážně nutí k zamyšlení.",
+      "source": "pre_existing",
+      "original_cz": "HA! Dobrý! Ale musím ti říct, že ta věc s Mini Flag mě vážně nutí k zamyšlení."
+    },
+    {
+      "key": "Maui_006_f",
+      "en": "You have the flag... What's the problem?",
+      "cz": "Máš vlajku... V čem je problém?",
+      "source": "pre_existing",
+      "original_cz": "Máš vlajku... V čem je problém?"
+    },
+    {
+      "key": "Maui_004_f",
+      "en": "I know you're joking but I would LOVE to work out with the Fairy Godmother. She's great.",
+      "cz": "Vím, že si děláš legraci, ale MOC bych si ráda zacvičila s vílou kmotrou. Je skvělá.",
+      "source": "pre_existing",
+      "original_cz": "Vím, že si děláš legraci, ale MOC bych si ráda zacvičila s vílou kmotrou. Je skvělá."
+    },
+    {
+      "key": "Maui_005_f",
+      "en": "She is! But that's beside the point. Maui... if you HAVE the flag, what's the problem?",
+      "cz": "Je! Ale to je vedlejší. Maui... když máš vlajku, v čem je problém?",
+      "source": "pre_existing",
+      "original_cz": "Je! Ale to je vedlejší. Maui... když máš vlajku, v čem je problém?"
+    }
+  ]
+}

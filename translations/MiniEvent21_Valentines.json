@@ -1,0 +1,937 @@
+{
+  "MiniEvent21_Valentines/RPT_Anna_Valentines_010.locbin": [
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Anna_Valentines_010_Any_CompletedRequestDescription",
+      "en": "Talk to Anna.",
+      "cz": "Promluv si s Annou.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Annou."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Anna_Valentines_010_AvailableDescription",
+      "en": "Anna needs some help with a special Valentine's Day request!",
+      "cz": "Anna potřebuje pomoc se speciálním přáním na Valentýna!",
+      "source": "pre_existing",
+      "original_cz": "Anna potřebuje pomoc se speciálním přáním na Valentýna!"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Anna_Valentines_010_DisplayName",
+      "en": "Valley Valentines: Anna",
+      "cz": "Valentýnky z údolí: Anna",
+      "source": "pre_existing",
+      "original_cz": "Valentýnky z údolí: Anna"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Anna_Valentines_010_Group01_Step01_BringItem01_StepDescription",
+      "en": "Hardwood.",
+      "cz": "Tvrdé dřevo.",
+      "source": "pre_existing",
+      "original_cz": "Tvrdé dřevo."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Anna_Valentines_010_Group01_Step01_BringItem02_StepDescription",
+      "en": "Softwood.",
+      "cz": "Měkké dřevo.",
+      "source": "pre_existing",
+      "original_cz": "Měkké dřevo."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Anna_Valentines_010_Group01_Step01_BringItem03_StepDescription",
+      "en": "Dry Wood.",
+      "cz": "Suché dřevo.",
+      "source": "pre_existing",
+      "original_cz": "Suché dřevo."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Anna_Valentines_010_Group01_Step01_ReadyDescription",
+      "en": "Bring the items you collected to {TargetNPC}.",
+      "cz": "Přineste sesbírané předměty do {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Přineste sesbírané předměty do {TargetNPC}."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Anna_Valentines_010_Group01_Step01_StepDescription",
+      "en": "Bring the following to {TargetNPC}:",
+      "cz": "Přineste následující do {TargetNPC}:",
+      "source": "pre_existing",
+      "original_cz": "Přineste následující do {TargetNPC}:"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Anna_Valentines_010_Group02_Step02_Listen01_StepDescription",
+      "en": "Listen to Anna give her Valentine's Day gift to Kristoff.",
+      "cz": "Poslechněte si, jak Anna dává Kristoffovi svůj valentýnský dárek.",
+      "source": "pre_existing",
+      "original_cz": "Poslechněte si, jak Anna dává Kristoffovi svůj valentýnský dárek."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Anna_Valentines_010_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol"
+    }
+  ],
+  "MiniEvent21_Valentines/RPT_Arie_Valentines_010.locbin": [
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Arie_Valentines_010_Any_CompletedRequestDescription",
+      "en": "Talk to Eric.",
+      "cz": "Promluv si s Erikem.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Erikem."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Arie_Valentines_010_AvailableDescription",
+      "en": "Eric needs some help with a special Valentine's Day request!",
+      "cz": "Eric potřebuje pomoc se speciálním přáním na Valentýna!",
+      "source": "pre_existing",
+      "original_cz": "Eric potřebuje pomoc se speciálním přáním na Valentýna!"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Arie_Valentines_010_Group01_Step01_BringItem01_StepDescription",
+      "en": "Clams.",
+      "cz": "Škeble.",
+      "source": "pre_existing",
+      "original_cz": "Škeble."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Arie_Valentines_010_Group01_Step01_BringItem02_StepDescription",
+      "en": "Scallops.",
+      "cz": "Mušle.",
+      "source": "pre_existing",
+      "original_cz": "Mušle."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Arie_Valentines_010_Group01_Step01_BringItem03_StepDescription",
+      "en": "Oysters.",
+      "cz": "Ústřice.",
+      "source": "pre_existing",
+      "original_cz": "Ústřice."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Arie_Valentines_010_Group01_Step01_ReadyDescription",
+      "en": "Bring the shells you collected to {TargetNPC}.",
+      "cz": "Přineste nasbírané skořápky do {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Přineste nasbírané skořápky do {TargetNPC}."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Arie_Valentines_010_Group02_Step02_Listen01_StepDescription",
+      "en": "Listen as Eric gives a surprise to Ariel.",
+      "cz": "Poslechněte si, jak Eric chystá Ariel překvapení.",
+      "source": "pre_existing",
+      "original_cz": "Poslechněte si, jak Eric chystá Ariel překvapení."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Arie_Valentines_010_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol"
+    }
+  ],
+  "MiniEvent21_Valentines/RPT_Bell_Valentines_010.locbin": [
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Bell_Valentines_010_Any_CompletedRequestDescription",
+      "en": "Talk to Belle.",
+      "cz": "Promluv si s Belle.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Belle."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Bell_Valentines_010_AvailableDescription",
+      "en": "Belle needs some help with a special Valentine's Day request!",
+      "cz": "Belle potřebuje pomoc se speciálním přáním na Valentýna!",
+      "source": "pre_existing",
+      "original_cz": "Belle potřebuje pomoc se speciálním přáním na Valentýna!"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Bell_Valentines_010_DisplayName",
+      "en": "Valley Valentines: Belle",
+      "cz": "Valentýn do údolí: Belle",
+      "source": "pre_existing",
+      "original_cz": "Valentýn do údolí: Belle"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Bell_Valentines_010_Group01_Step01_BringItem01_StepDescription",
+      "en": "Stone.",
+      "cz": "Kámen.",
+      "source": "pre_existing",
+      "original_cz": "Kámen."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Bell_Valentines_010_Group01_Step01_BringItem02_StepDescription",
+      "en": "Fabric.",
+      "cz": "Tkanina.",
+      "source": "pre_existing",
+      "original_cz": "Tkanina."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Bell_Valentines_010_Group01_Step01_BringItem03_StepDescription",
+      "en": "Glass.",
+      "cz": "Sklo.",
+      "source": "pre_existing",
+      "original_cz": "Sklo."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Bell_Valentines_010_Group01_Step01_ReadyDescription",
+      "en": "Bring the bookshelf supplies to {TargetNPC}.",
+      "cz": "Doneste zásoby do knihovny do {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Doneste zásoby do knihovny do {TargetNPC}."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Bell_Valentines_010_Group01_Step01_StepDescription",
+      "en": "Bring the following to {TargetNPC}:",
+      "cz": "Přineste následující do {TargetNPC}:",
+      "source": "pre_existing",
+      "original_cz": "Přineste následující do {TargetNPC}:"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Bell_Valentines_010_Group02_Step02_Listen01_StepDescription",
+      "en": "Listen to Belle and the Beast.",
+      "cz": "Poslechněte si Belle a zvíře.",
+      "source": "pre_existing",
+      "original_cz": "Poslechněte si Belle a zvíře."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Bell_Valentines_010_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol"
+    }
+  ],
+  "MiniEvent21_Valentines/RPT_Dona_Valentines_010.locbin": [
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Dona_Valentines_010_Any_CompletedRequestDescription",
+      "en": "Talk to Donald.",
+      "cz": "Promluv si s Donaldem.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Donaldem."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Dona_Valentines_010_AvailableDescription",
+      "en": "Donald needs some help with a special Valentine's Day request!",
+      "cz": "Donald potřebuje pomoc se speciálním přáním na Valentýna!",
+      "source": "pre_existing",
+      "original_cz": "Donald potřebuje pomoc se speciálním přáním na Valentýna!"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Dona_Valentines_010_DisplayName",
+      "en": "Valley Valentines: Donald",
+      "cz": "Valentýn z údolí: Donald",
+      "source": "pre_existing",
+      "original_cz": "Valentýn z údolí: Donald"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Dona_Valentines_010_Group01_Step01_BringItem01_StepDescription",
+      "en": "Any 4-star meal.",
+      "cz": "Jakékoli 4hvězdičkové jídlo.",
+      "source": "pre_existing",
+      "original_cz": "Jakékoli 4hvězdičkové jídlo."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Dona_Valentines_010_Group01_Step01_ReadyDescription",
+      "en": "Bring the 4-star meals you cooked to {TargetNPC}.",
+      "cz": "Přineste si svá čtyřhvězdičková jídla, která jste uvařili, do {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Přineste si svá čtyřhvězdičková jídla, která jste uvařili, do {TargetNPC}."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Dona_Valentines_010_Group01_Step01_StepDescription",
+      "en": "Bring the following to {TargetNPC}:",
+      "cz": "Přineste následující do {TargetNPC}:",
+      "source": "pre_existing",
+      "original_cz": "Přineste následující do {TargetNPC}:"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Dona_Valentines_010_Group02_Step02_Listen01_StepDescription",
+      "en": "Listen to Donald present his Valentine's surprise to Daisy.",
+      "cz": "Poslechněte si, jak Donald dává Daisy své valentýnské překvapení.",
+      "source": "pre_existing",
+      "original_cz": "Poslechněte si, jak Donald dává Daisy své valentýnské překvapení."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Dona_Valentines_010_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol"
+    }
+  ],
+  "MiniEvent21_Valentines/RPT_Eric_Valentines_010.locbin": [
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Eric_Valentines_010_DisplayName",
+      "en": "Valley Valentines: Eric",
+      "cz": "Valentýn z údolí: Eric",
+      "source": "pre_existing",
+      "original_cz": "Valentýn z údolí: Eric"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Eric_Valentines_010_Group01_Step01_StepDescription",
+      "en": "Bring the following to {TargetNPC}:",
+      "cz": "Přineste následující do {TargetNPC}:",
+      "source": "pre_existing",
+      "original_cz": "Přineste následující do {TargetNPC}:"
+    }
+  ],
+  "MiniEvent21_Valentines/RPT_Eve_Valentines_010.locbin": [
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Eve_Valentines_010_Any_CompletedRequestDescription",
+      "en": "Talk to EVE.",
+      "cz": "Promluv si s EVE.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s EVE."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Eve_Valentines_010_AvailableDescription",
+      "en": "EVE needs some help with a special Valentine's Day request!",
+      "cz": "EVA potřebuje pomoc se speciálním valentýnským požadavkem!",
+      "source": "pre_existing",
+      "original_cz": "EVA potřebuje pomoc se speciálním valentýnským požadavkem!"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Eve_Valentines_010_DisplayName",
+      "en": "Valley Valentines: EVE",
+      "cz": "Valentýn v údolí: EVA",
+      "source": "pre_existing",
+      "original_cz": "Valentýn v údolí: EVA"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Eve_Valentines_010_Group01_Step01_BringItem01_StepDescription",
+      "en": "Yellow Bird of Paradise.",
+      "cz": "Žlutý pták z ráje.",
+      "source": "pre_existing",
+      "original_cz": "Žlutý pták z ráje."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Eve_Valentines_010_Group01_Step01_BringItem02_StepDescription",
+      "en": "Purple Fly Trap.",
+      "cz": "Fialová past na mouchy.",
+      "source": "pre_existing",
+      "original_cz": "Fialová past na mouchy."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Eve_Valentines_010_Group01_Step01_BringItem03_StepDescription",
+      "en": "Orange Glass-Like Flower.",
+      "cz": "Oranžový skleněný květ.",
+      "source": "pre_existing",
+      "original_cz": "Oranžový skleněný květ."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Eve_Valentines_010_Group01_Step01_ReadyDescription",
+      "en": "Bring the flowers you collected to {TargetNPC}.",
+      "cz": "Přineste květiny, které jste nasbírali, do {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Přineste květiny, které jste nasbírali, do {TargetNPC}."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Eve_Valentines_010_Group01_Step01_StepDescription",
+      "en": "Bring the following to {TargetNPC}:",
+      "cz": "Přineste následující do {TargetNPC}:",
+      "source": "pre_existing",
+      "original_cz": "Přineste následující do {TargetNPC}:"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Eve_Valentines_010_Group02_Step02_Listen01_StepDescription",
+      "en": "Listen to EVE bring the flowers to WALL·E.",
+      "cz": "Poslechněte si, jak EVA přináší květiny WALL·E.",
+      "source": "pre_existing",
+      "original_cz": "Poslechněte si, jak EVA přináší květiny WALL·E."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Eve_Valentines_010_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol"
+    }
+  ],
+  "MiniEvent21_Valentines/RPT_Flyn_Valentines_010.locbin": [
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Flyn_Valentines_010_Any_CompletedRequestDescription",
+      "en": "Talk to Flynn.",
+      "cz": "Promluv si s Flynnem.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Flynnem."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Flyn_Valentines_010_AvailableDescription",
+      "en": "Flynn needs some help with a special Valentine's Day request!",
+      "cz": "Flynn potřebuje pomoc se speciálním přáním na Valentýna!",
+      "source": "pre_existing",
+      "original_cz": "Flynn potřebuje pomoc se speciálním přáním na Valentýna!"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Flyn_Valentines_010_DisplayName",
+      "en": "Valley Valentines: Flynn",
+      "cz": "Valentýn z údolí: Flynn",
+      "source": "pre_existing",
+      "original_cz": "Valentýn z údolí: Flynn"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Flyn_Valentines_010_Group01_Step01_BringItem01_StepDescription",
+      "en": "Hardwood.",
+      "cz": "Tvrdé dřevo.",
+      "source": "pre_existing",
+      "original_cz": "Tvrdé dřevo."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Flyn_Valentines_010_Group01_Step01_BringItem02_StepDescription",
+      "en": "Empty Vials.",
+      "cz": "Prázdné lahvičky.",
+      "source": "pre_existing",
+      "original_cz": "Prázdné lahvičky."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Flyn_Valentines_010_Group01_Step01_BringItem03_StepDescription",
+      "en": "Green Luminescent Flower.",
+      "cz": "Zelený luminiscenční květ.",
+      "source": "pre_existing",
+      "original_cz": "Zelený luminiscenční květ."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Flyn_Valentines_010_Group01_Step01_BringItem04_StepDescription",
+      "en": "Purple Cactus Flower.",
+      "cz": "Fialový kaktusový květ.",
+      "source": "pre_existing",
+      "original_cz": "Fialový kaktusový květ."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Flyn_Valentines_010_Group01_Step01_ReadyDescription",
+      "en": "Bring the building supplies you've collected to {TargetNPC}.",
+      "cz": "Stavební materiál, který jste nasbírali, přineste do {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Stavební materiál, který jste nasbírali, přineste do {TargetNPC}."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Flyn_Valentines_010_Group01_Step01_StepDescription",
+      "en": "Bring the following to {TargetNPC}:",
+      "cz": "Přineste následující do {TargetNPC}:",
+      "source": "pre_existing",
+      "original_cz": "Přineste následující do {TargetNPC}:"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Flyn_Valentines_010_Group02_Step02_Listen01_StepDescription",
+      "en": "Listen to Flynn give his surprise to Rapunzel.",
+      "cz": "Poslechněte si, jak Flynn překvapí Lociku.",
+      "source": "pre_existing",
+      "original_cz": "Poslechněte si, jak Flynn překvapí Lociku."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Flyn_Valentines_010_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol"
+    }
+  ],
+  "MiniEvent21_Valentines/RPT_Jasm_Valentines_010.locbin": [
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Jasm_Valentines_010_Any_CompletedRequestDescription",
+      "en": "Talk to Jasmine.",
+      "cz": "Promluv si s Jasmínou.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Jasmínou."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Jasm_Valentines_010_AvailableDescription",
+      "en": "Jasmine needs some help with a special Valentine's Day request!",
+      "cz": "Jasmína potřebuje pomoc se speciálním přáním na Valentýna!",
+      "source": "pre_existing",
+      "original_cz": "Jasmína potřebuje pomoc se speciálním přáním na Valentýna!"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Jasm_Valentines_010_DisplayName",
+      "en": "Valley Valentines: Jasmine",
+      "cz": "Valentýn do údolí: Jasmín",
+      "source": "pre_existing",
+      "original_cz": "Valentýn do údolí: Jasmín"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Jasm_Valentines_010_Group01_Step01_BringItem01_StepDescription",
+      "en": "Apples.",
+      "cz": "Jablka.",
+      "source": "pre_existing",
+      "original_cz": "Jablka."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Jasm_Valentines_010_Group01_Step01_BringItem02_StepDescription",
+      "en": "Bananas.",
+      "cz": "Banány.",
+      "source": "pre_existing",
+      "original_cz": "Banány."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Jasm_Valentines_010_Group01_Step01_ReadyDescription",
+      "en": "Bring the fruit you collected to {TargetNPC}.",
+      "cz": "Přineste ovoce, které jste nasbírali, do {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Přineste ovoce, které jste nasbírali, do {TargetNPC}."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Jasm_Valentines_010_Group01_Step01_StepDescription",
+      "en": "Bring the following to {TargetNPC}:",
+      "cz": "Přineste následující do {TargetNPC}:",
+      "source": "pre_existing",
+      "original_cz": "Přineste následující do {TargetNPC}:"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Jasm_Valentines_010_Group02_Step02_Listen01_StepDescription",
+      "en": "Listen to Jasmine give her gift to Aladdin.",
+      "cz": "Poslechněte si, jak Jasmína dává svůj dárek Aladinovi.",
+      "source": "pre_existing",
+      "original_cz": "Poslechněte si, jak Jasmína dává svůj dárek Aladinovi."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Jasm_Valentines_010_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol"
+    }
+  ],
+  "MiniEvent21_Valentines/RPT_Lady_Valentines_010.locbin": [
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Lady_Valentines_010_Any_CompletedRequestDescription",
+      "en": "Talk to Lady.",
+      "cz": "Promluv si s Lady.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Lady."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Lady_Valentines_010_AvailableDescription",
+      "en": "Lady needs some help with a special Valentine's Day request!",
+      "cz": "Dáma potřebuje pomoc se speciálním přáním na Valentýna!",
+      "source": "pre_existing",
+      "original_cz": "Dáma potřebuje pomoc se speciálním přáním na Valentýna!"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Lady_Valentines_010_DisplayName",
+      "en": "Valley Valentines: Lady",
+      "cz": "Valentýnky z údolí: Dáma",
+      "source": "pre_existing",
+      "original_cz": "Valentýnky z údolí: Dáma"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Lady_Valentines_010_Group01_Step01_BringItem01_StepDescription",
+      "en": "Pasta.",
+      "cz": "Těstoviny.",
+      "source": "pre_existing",
+      "original_cz": "Těstoviny."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Lady_Valentines_010_Group01_Step01_ReadyDescription",
+      "en": "Bring the Pasta to {TargetNPC}.",
+      "cz": "Přineste těstoviny do {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Přineste těstoviny do {TargetNPC}."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Lady_Valentines_010_Group01_Step01_StepDescription",
+      "en": "Bring the following to {TargetNPC}:",
+      "cz": "Přineste následující do {TargetNPC}:",
+      "source": "pre_existing",
+      "original_cz": "Přineste následující do {TargetNPC}:"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Lady_Valentines_010_Group02_Step02_Listen01_StepDescription",
+      "en": "Listen to Lady give her gift to Tramp.",
+      "cz": "Poslechněte si, jak Lady dává svůj dárek Trampovi.",
+      "source": "pre_existing",
+      "original_cz": "Poslechněte si, jak Lady dává svůj dárek Trampovi."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Lady_Valentines_010_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol"
+    }
+  ],
+  "MiniEvent21_Valentines/RPT_Merl_Valentines_010.locbin": [
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Merl_Valentines_010_AvailableDescription",
+      "en": "Merlin needs some help with a special Valentine's Day request!",
+      "cz": "Merlin potřebuje pomoc se speciálním přáním na Valentýna!",
+      "source": "pre_existing",
+      "original_cz": "Merlin potřebuje pomoc se speciálním přáním na Valentýna!"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Merl_Valentines_010_DisplayName",
+      "en": "Valley Valentines: Merlin",
+      "cz": "Valentýn z údolí: Merlin",
+      "source": "pre_existing",
+      "original_cz": "Valentýn z údolí: Merlin"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Merl_Valentines_010_Group01_Step01_BringItem01_StepDescription",
+      "en": "Dream Shards.",
+      "cz": "Střepy snů.",
+      "source": "pre_existing",
+      "original_cz": "Střepy snů."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Merl_Valentines_010_Group01_Step01_BringItem02_StepDescription",
+      "en": "Empty Vials.",
+      "cz": "Prázdné lahvičky.",
+      "source": "pre_existing",
+      "original_cz": "Prázdné lahvičky."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Merl_Valentines_010_Group01_Step01_ReadyDescription",
+      "en": "Bring the research supplies to {TargetNPC}.",
+      "cz": "Doneste výzkumné potřeby do {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Doneste výzkumné potřeby do {TargetNPC}."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Merl_Valentines_010_Group01_Step01_StepDescription",
+      "en": "Bring the following to {TargetNPC}:",
+      "cz": "Přineste následující do {TargetNPC}:",
+      "source": "pre_existing",
+      "original_cz": "Přineste následující do {TargetNPC}:"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Merl_Valentines_010_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol"
+    }
+  ],
+  "MiniEvent21_Valentines/RPT_Mick_Valentines_010.locbin": [
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Mick_Valentines_010_Any_CompletedRequestDescription",
+      "en": "Talk to Mickey.",
+      "cz": "Promluv si s Mickeym.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Mickeym."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Mick_Valentines_010_AvailableDescription",
+      "en": "Mickey needs some help with a special Valentine's Day request!",
+      "cz": "Mickey potřebuje pomoc se speciálním přáním na Valentýna!",
+      "source": "pre_existing",
+      "original_cz": "Mickey potřebuje pomoc se speciálním přáním na Valentýna!"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Mick_Valentines_010_DisplayName",
+      "en": "Valley Valentines: Mickey",
+      "cz": "Valentýn do údolí: Mickey",
+      "source": "pre_existing",
+      "original_cz": "Valentýn do údolí: Mickey"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Mick_Valentines_010_Group01_Step01_BringItem01_StepDescription",
+      "en": "Red Bell Flowers.",
+      "cz": "Květiny červeného zvonku.",
+      "source": "pre_existing",
+      "original_cz": "Květiny červeného zvonku."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Mick_Valentines_010_Group01_Step01_BringItem02_StepDescription",
+      "en": "White & Red Hydrangeas.",
+      "cz": "Bílé a červené hortenzie.",
+      "source": "pre_existing",
+      "original_cz": "Bílé a červené hortenzie."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Mick_Valentines_010_Group01_Step01_BringItem03_StepDescription",
+      "en": "Red Daisies.",
+      "cz": "Červené sedmikrásky.",
+      "source": "pre_existing",
+      "original_cz": "Červené sedmikrásky."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Mick_Valentines_010_Group01_Step01_BringItem04_StepDescription",
+      "en": "Dandelions.",
+      "cz": "Pampelišky.",
+      "source": "pre_existing",
+      "original_cz": "Pampelišky."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Mick_Valentines_010_Group01_Step01_ReadyDescription",
+      "en": "Bring the flowers you've gathered to {TargetNPC}.",
+      "cz": "Přineste květiny, které jste nasbírali, do {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Přineste květiny, které jste nasbírali, do {TargetNPC}."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Mick_Valentines_010_Group01_Step01_StepDescription",
+      "en": "Bring the following to {TargetNPC}:",
+      "cz": "Přineste následující do {TargetNPC}:",
+      "source": "pre_existing",
+      "original_cz": "Přineste následující do {TargetNPC}:"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Mick_Valentines_010_Group02_Step02_Listen01_StepDescription",
+      "en": "Listen to Mickey give Minnie her flowers.",
+      "cz": "Poslechněte si, jak Mickey dává Minnie květiny.",
+      "source": "pre_existing",
+      "original_cz": "Poslechněte si, jak Mickey dává Minnie květiny."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Mick_Valentines_010_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol"
+    }
+  ],
+  "MiniEvent21_Valentines/RPT_Nala_Valentines_010.locbin": [
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Nala_Valentines_010_Any_CompletedRequestDescription",
+      "en": "Talk to Simba.",
+      "cz": "Promluv si se Simbou.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si se Simbou."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Nala_Valentines_010_AvailableDescription",
+      "en": "Simba needs some help with a special Valentine's Day request!",
+      "cz": "Simba potřebuje pomoc se speciálním přáním na Valentýna!",
+      "source": "pre_existing",
+      "original_cz": "Simba potřebuje pomoc se speciálním přáním na Valentýna!"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Nala_Valentines_010_Group01_Step01_BringItem01_StepDescription",
+      "en": "Catfish.",
+      "cz": "Sumec.",
+      "source": "pre_existing",
+      "original_cz": "Sumec."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Nala_Valentines_010_Group01_Step01_BringItem02_StepDescription",
+      "en": "Pike.",
+      "cz": "Štika.",
+      "source": "pre_existing",
+      "original_cz": "Štika."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Nala_Valentines_010_Group01_Step01_BringItem03_StepDescription",
+      "en": "Bream.",
+      "cz": "Cejna.",
+      "source": "pre_existing",
+      "original_cz": "Cejna."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Nala_Valentines_010_Group01_Step01_BringItem04_StepDescription",
+      "en": "Carp.",
+      "cz": "Kapr.",
+      "source": "pre_existing",
+      "original_cz": "Kapr."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Nala_Valentines_010_Group01_Step01_ReadyDescription",
+      "en": "Bring the fish you caught to {TargetNPC}.",
+      "cz": "Přineste ryby, které jste chytili, do {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Přineste ryby, které jste chytili, do {TargetNPC}."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Nala_Valentines_010_Group02_Step02_Listen01_StepDescription",
+      "en": "Listen to Simba bring Nala the fish you caught.",
+      "cz": "Poslechni si Simbu, jak přináší Nale rybu, kterou jsi chytil/a.",
+      "source": "pre_existing",
+      "original_cz": "Poslechni si Simbu, jak přináší Nale rybu, kterou jsi chytil/a."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Nala_Valentines_010_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol"
+    }
+  ],
+  "MiniEvent21_Valentines/RPT_Remy_Valentines_010.locbin": [
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Remy_Valentines_010_AvailableDescription",
+      "en": "Remy needs some help with a special Valentine's Day request!",
+      "cz": "Remy potřebuje pomoc se speciálním přáním na Valentýna!",
+      "source": "pre_existing",
+      "original_cz": "Remy potřebuje pomoc se speciálním přáním na Valentýna!"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Remy_Valentines_010_DisplayName",
+      "en": "Valley Valentines: Remy",
+      "cz": "Valentýn z údolí: Remy",
+      "source": "pre_existing",
+      "original_cz": "Valentýn z údolí: Remy"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Remy_Valentines_010_Group01_Step01_BringItem01_StepDescription",
+      "en": "Five-star meals.",
+      "cz": "Pětihvězdičková jídla.",
+      "source": "pre_existing",
+      "original_cz": "Pětihvězdičková jídla."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Remy_Valentines_010_Group01_Step01_ReadyDescription",
+      "en": "Bring three five-star meals to {TargetNPC}.",
+      "cz": "Přineste tři pětihvězdičková jídla do {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Přineste tři pětihvězdičková jídla do {TargetNPC}."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Remy_Valentines_010_Group01_Step01_StepDescription",
+      "en": "Bring the following to {TargetNPC}:",
+      "cz": "Přineste následující do {TargetNPC}:",
+      "source": "pre_existing",
+      "original_cz": "Přineste následující do {TargetNPC}:"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Remy_Valentines_010_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol"
+    }
+  ],
+  "MiniEvent21_Valentines/RPT_Sall_Valentines_010.locbin": [
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Sall_Valentines_010_Any_CompletedRequestDescription",
+      "en": "Talk to Sally.",
+      "cz": "Promluv si se Sally.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si se Sally."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Sall_Valentines_010_AvailableDescription",
+      "en": "Sally needs some help with a special Valentine's Day request!",
+      "cz": "Sally potřebuje pomoc se speciálním přáním na Valentýna!",
+      "source": "pre_existing",
+      "original_cz": "Sally potřebuje pomoc se speciálním přáním na Valentýna!"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Sall_Valentines_010_DisplayName",
+      "en": "Valley Valentines: Sally",
+      "cz": "Valentýnky do údolí: Sally",
+      "source": "pre_existing",
+      "original_cz": "Valentýnky do údolí: Sally"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Sall_Valentines_010_Group01_Step01_BringItem01_StepDescription",
+      "en": "Fabric.",
+      "cz": "Tkanina.",
+      "source": "pre_existing",
+      "original_cz": "Tkanina."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Sall_Valentines_010_Group01_Step01_BringItem02_StepDescription",
+      "en": "White Impatiens.",
+      "cz": "Bílé netýkavky.",
+      "source": "pre_existing",
+      "original_cz": "Bílé netýkavky."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Sall_Valentines_010_Group01_Step01_BringItem03_StepDescription",
+      "en": "Red Nasturtium.",
+      "cz": "Červená lichořeřišnice.",
+      "source": "pre_existing",
+      "original_cz": "Červená lichořeřišnice."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Sall_Valentines_010_Group01_Step01_ReadyDescription",
+      "en": "Bring the supplies for Jack's gift to {TargetNPC}.",
+      "cz": "Přineste zásoby na Jackův dárek pro {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Přineste zásoby na Jackův dárek pro {TargetNPC}."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Sall_Valentines_010_Group01_Step01_StepDescription",
+      "en": "Bring the following to {TargetNPC}:",
+      "cz": "Přineste následující do {TargetNPC}:",
+      "source": "pre_existing",
+      "original_cz": "Přineste následující do {TargetNPC}:"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Sall_Valentines_010_Group02_Step02_Listen01_StepDescription",
+      "en": "Listen to Sally present her gift to Jack.",
+      "cz": "Poslechněte si, jak Sally dává Jackovi svůj dárek.",
+      "source": "pre_existing",
+      "original_cz": "Poslechněte si, jak Sally dává Jackovi svůj dárek."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Sall_Valentines_010_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol"
+    }
+  ],
+  "MiniEvent21_Valentines/RPT_Scro_Valentines_010.locbin": [
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Scro_Valentines_010_AvailableDescription",
+      "en": "Scrooge McDuck needs some help with a special Valentine's Day request!",
+      "cz": "Scrooge McDuck potřebuje pomoc se speciálním valentýnským přáním!",
+      "source": "pre_existing",
+      "original_cz": "Scrooge McDuck potřebuje pomoc se speciálním valentýnským přáním!"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Scro_Valentines_010_DisplayName",
+      "en": "Valley Valentines: Scrooge McDuck",
+      "cz": "Valentýnky v údolí: Scrooge McDuck",
+      "source": "pre_existing",
+      "original_cz": "Valentýnky v údolí: Scrooge McDuck"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Scro_Valentines_010_Group01_Step01_BringItem01_StepDescription",
+      "en": "Garnet.",
+      "cz": "Granát.",
+      "source": "pre_existing",
+      "original_cz": "Granát."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Scro_Valentines_010_Group01_Step01_BringItem02_StepDescription",
+      "en": "Peridot.",
+      "cz": "Peridot.",
+      "source": "pre_existing",
+      "original_cz": "Peridot."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Scro_Valentines_010_Group01_Step01_BringItem03_StepDescription",
+      "en": "Aquamarine.",
+      "cz": "Akvamarín.",
+      "source": "pre_existing",
+      "original_cz": "Akvamarín."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Scro_Valentines_010_Group01_Step01_ReadyDescription",
+      "en": "Bring the gems you gathered to {TargetNPC}.",
+      "cz": "Přines nasbírané drahokamy do {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Přines nasbírané drahokamy do {TargetNPC}."
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Scro_Valentines_010_Group01_Step01_StepDescription",
+      "en": "Bring the following to {TargetNPC}:",
+      "cz": "Přineste následující do {TargetNPC}:",
+      "source": "pre_existing",
+      "original_cz": "Přineste následující do {TargetNPC}:"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Scro_Valentines_010_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol"
+    }
+  ],
+  "MiniEvent21_Valentines/RPT_Simba_Valentines_010.locbin": [
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Simba_Valentines_010_DisplayName",
+      "en": "Valley Valentines: Simba",
+      "cz": "Valentýn do údolí: Simba",
+      "source": "pre_existing",
+      "original_cz": "Valentýn do údolí: Simba"
+    },
+    {
+      "key": "Repeatable!Event!Valentines!RPT_Simba_Valentines_010_Group01_Step01_StepDescription",
+      "en": "Bring the following to {TargetNPC}:",
+      "cz": "Přineste následující do {TargetNPC}:",
+      "source": "pre_existing",
+      "original_cz": "Přineste následující do {TargetNPC}:"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "MiniEvent21_Lady/Lady_CrossNPCDialogues_Lady_Tramp_RPT_Lady_Valentines_010.locbin": [
+    {
+      "key": "Lady_000_f",
+      "en": "Pasta? Oh, Pidge! You know me too well.",
+      "cz": "Těstoviny? Ach, Pidge! Znáš mě až moc dobře.",
+      "source": "pre_existing",
+      "original_cz": "Těstoviny? Ach, Pidge! Znáš mě až moc dobře."
+    },
+    {
+      "key": "Lady_001_f",
+      "en": "There's only one problem: There's WAY too much of it.",
+      "cz": "Je tu jen jeden problém: je toho až příliš mnoho.",
+      "source": "pre_existing",
+      "original_cz": "Je tu jen jeden problém: je toho až příliš mnoho."
+    },
+    {
+      "key": "Lady_002_f",
+      "en": "Too much? Oh dear—",
+      "cz": "Příliš mnoho? Ach jo—",
+      "source": "pre_existing",
+      "original_cz": "Příliš mnoho? Ach jo—"
+    },
+    {
+      "key": "Lady_003_f",
+      "en": "You're going to have to share it with me.",
+      "cz": "Budeš se o to muset se mnou podělit.",
+      "source": "pre_existing",
+      "original_cz": "Budeš se o to muset se mnou podělit."
+    }
+  ],
+  "MiniEvent21_Lady/Lady_RPT_Lady_Valentines_010_RPT_Lady_Valentines_010_BringItem01.locbin": [
+    {
+      "key": "Lady_000_f",
+      "en": "These smell wonderful. Have you ever thought about opening a restaurant?",
+      "cz": "Ty voní nádherně. Přemýšleli jste někdy o otevření restaurace?",
+      "source": "pre_existing",
+      "original_cz": "Ty voní nádherně. Přemýšleli jste někdy o otevření restaurace?"
+    }
+  ],
+  "MiniEvent21_Lady/Lady_RPT_Lady_Valentines_010_RPT_Lady_Valentines_010_Intro.locbin": [
+    {
+      "key": "Lady_000_f",
+      "en": "{PlayerName}, I want to surprise Tramp with his favorite food.",
+      "cz": "{PlayerName}, chci Trampa překvapit jeho oblíbeným jídlem.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, chci Trampa překvapit jeho oblíbeným jídlem."
+    },
+    {
+      "key": "Lady_003_f",
+      "en": "Oh, would you like some <Lore>Spaghetti Especialle</Lore>?",
+      "cz": "Ach, dáš si trochu <Lore>Špaget Especialle</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "Ach, dáš si trochu <Lore>Špaget Especialle</Lore>?"
+    },
+    {
+      "key": "Lady_001_f",
+      "en": "That is tasty, but I'm in a bit of a hurry... Maybe you could just cook up some <ActivityItem>Pasta</ActivityItem> instead? It would mean so much to me.",
+      "cz": "To je chutné, ale trochu spěchám... Možná bys místo toho mohla uvařit nějaké <ActivityItem>těstoviny</ActivityItem>? Moc by to pro mě znamenalo.",
+      "source": "pre_existing",
+      "original_cz": "To je chutné, ale trochu spěchám... Možná bys místo toho mohla uvařit nějaké <ActivityItem>těstoviny</ActivityItem>? Moc by to pro mě znamenalo."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's cook some pasta!",
+      "cz": "Pojďme si uvařit těstoviny!",
+      "source": "pre_existing",
+      "original_cz": "Pojďme si uvařit těstoviny!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'll help out soon!",
+      "cz": "Brzy pomůžu!",
+      "source": "pre_existing",
+      "original_cz": "Brzy pomůžu!"
+    },
+    {
+      "key": "Lady_005_f",
+      "en": "Thank you very much!",
+      "cz": "Moc děkuji!",
+      "source": "pre_existing",
+      "original_cz": "Moc děkuji!"
+    },
+    {
+      "key": "Lady_002_f",
+      "en": "That would be wonderful, thank you.",
+      "cz": "To by bylo úžasné, děkuji.",
+      "source": "pre_existing",
+      "original_cz": "To by bylo úžasné, děkuji."
+    }
+  ],
+  "MiniEvent21_Lady/Lady_RPT_Lady_Valentines_010_RPT_Lady_Valentines_010_Ongoing01.locbin": [
+    {
+      "key": "Lady_000_f",
+      "en": "Could you cook five plates of <ActivityItem>Pasta</ActivityItem> for Tramp? Please?",
+      "cz": "Mohl byste uvařit pět talířů <ActivityItem>těstovin</ActivityItem> pro Trampa? Prosím?",
+      "source": "pre_existing",
+      "original_cz": "Mohl byste uvařit pět talířů <ActivityItem>těstovin</ActivityItem> pro Trampa? Prosím?"
+    }
+  ],
+  "MiniEvent21_Lady/Lady_RPT_Lady_Valentines_010_RPT_Lady_Valentines_010_Ongoing02.locbin": [
+    {
+      "key": "Lady_000_f",
+      "en": "Thank you so much for cooking this. I'll bring it to Tramp right away!",
+      "cz": "Moc děkuji za uvaření. Hned to Trampovi přinesu!",
+      "source": "pre_existing",
+      "original_cz": "Moc děkuji za uvaření. Hned to Trampovi přinesu!"
+    }
+  ],
+  "MiniEvent21_Lady/Lady_RPT_Lady_Valentines_010_RPT_Lady_Valentines_010_Outro.locbin": [
+    {
+      "key": "Lady_000_f",
+      "en": "Thank you for cooking, {PlayerName}. It's impossible to do such a thing with paws. Please, take this. It looks just like something Jim Dear brings to Darling... It means I care about you very much!",
+      "cz": "Děkuji za uvaření, {PlayerName}. Něco takového se s tlapkami dělat nedá. Prosím, vezmi si to. Vypadá to přesně jako něco, co Jim Dear přináší Darlingovi... Znamená to, že mi na tobě moc záleží!",
+      "source": "pre_existing",
+      "original_cz": "Děkuji za uvaření, {PlayerName}. Něco takového se s tlapkami dělat nedá. Prosím, vezmi si to. Vypadá to přesně jako něco, co Jim Dear přináší Darlingovi... Znamená to, že mi na tobě moc záleží!"
+    }
+  ]
+}

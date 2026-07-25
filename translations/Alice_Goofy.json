@@ -1,0 +1,216 @@
+{
+  "Alice_Goofy/Goofy_VLG_Alic_010_VLG_Alic_010_TalkTo06.locbin": [
+    {
+      "key": "Goofy_001_f",
+      "en": "Hey, Goofy! Got a little question for you.",
+      "cz": "Hej, Goofy! Mám na tebe malou otázku.",
+      "source": "pre_existing",
+      "original_cz": "Hej, Goofy! Mám na tebe malou otázku."
+    },
+    {
+      "key": "Goofy_002_f",
+      "en": "Howdy, {PlayerName}! What's your question?",
+      "cz": "Zdravím, {PlayerName}! Jaká je tvá otázka?",
+      "source": "pre_existing",
+      "original_cz": "Zdravím, {PlayerName}! Jaká je tvá otázka?"
+    },
+    {
+      "key": "Goofy_003_f",
+      "en": "So Alice and Vanellope were messing around with one of Merlin's books and now all the words from it have fled.",
+      "cz": "Takže si Alice a Vanellope pohrávaly s jednou z Merlinových knih a teď z ní všechna slova uprchla.",
+      "source": "pre_existing",
+      "original_cz": "Takže si Alice a Vanellope pohrávaly s jednou z Merlinových knih a teď z ní všechna slova uprchla."
+    },
+    {
+      "key": "Goofy_004_f",
+      "en": "I heard that you caught a particularly strange fish? Any chance that it's one of the lost words?",
+      "cz": "Slyšel jsem, že jsi chytil obzvlášť zvláštní rybu? Je nějaká šance, že je to jedno ze ztracených slov?",
+      "source": "pre_existing",
+      "original_cz": "Slyšel jsem, že jsi chytil obzvlášť zvláštní rybu? Je nějaká šance, že je to jedno ze ztracených slov?"
+    },
+    {
+      "key": "Goofy_007_f",
+      "en": "A word? Now that ya mention it, I guess it did look like a word!",
+      "cz": "Slovo? Když už to zmiňuješ, tak to asi jako slovo vypadalo!",
+      "source": "pre_existing",
+      "original_cz": "Slovo? Když už to zmiňuješ, tak to asi jako slovo vypadalo!"
+    },
+    {
+      "key": "Goofy_008_f",
+      "en": "Mind if I take a look?",
+      "cz": "Nevadí ti, když se podívám?",
+      "source": "pre_existing",
+      "original_cz": "Nevadí ti, když se podívám?"
+    },
+    {
+      "key": "Goofy_009_f",
+      "en": "Not at all! Here—",
+      "cz": "Vůbec ne! Tady—",
+      "source": "pre_existing",
+      "original_cz": "Vůbec ne! Tady—"
+    },
+    {
+      "key": "Goofy_010_f",
+      "en": "That's it! That's one of the missing nouns! Where did you fish that one out?",
+      "cz": "To je ono! To je jedno z chybějících podstatných jmen! Kde jsi to vylovil?",
+      "source": "pre_existing",
+      "original_cz": "To je ono! To je jedno z chybějících podstatných jmen! Kde jsi to vylovil?"
+    },
+    {
+      "key": "Goofy_011_f",
+      "en": "Hmm, let me think... Oh, yeah! I was <Lore>fishing in the Peaceful Meadow</Lore>.",
+      "cz": "Hmm, nech mě přemýšlet... Ach ano! Byl jsem <Lore>rybařit na Poklidné louce</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Hmm, nech mě přemýšlet... Ach ano! Byl jsem <Lore>rybařit na Poklidné louce</Lore>."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I owe you one, Goofy!",
+      "cz": "Dlužím ti jeden, Goofy!",
+      "source": "pre_existing",
+      "original_cz": "Dlužím ti jeden, Goofy!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Did it put up a fight?",
+      "cz": "Bránilo se to?",
+      "source": "pre_existing",
+      "original_cz": "Bránilo se to?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Guess it's time for some fishing!",
+      "cz": "Asi je čas na rybaření!",
+      "source": "pre_existing",
+      "original_cz": "Asi je čas na rybaření!"
+    },
+    {
+      "key": "Goofy_012_f",
+      "en": "Gawrsh, you don't owe me nothin'. Just come fishing with me sometime!",
+      "cz": "Gawrsh, nic mi nedlužíš. Jen pojď někdy se mnou na ryby!",
+      "source": "pre_existing",
+      "original_cz": "Gawrsh, nic mi nedlužíš. Jen pojď někdy se mnou na ryby!"
+    },
+    {
+      "key": "Goofy_013_f",
+      "en": "Well, it was a little challenging but fun, too!",
+      "cz": "No, bylo to trochu náročné, ale taky zábavné!",
+      "source": "pre_existing",
+      "original_cz": "No, bylo to trochu náročné, ale taky zábavné!"
+    },
+    {
+      "key": "Goofy_014_f",
+      "en": "Gawrsh, it's always time for fishin'! A-hyuck!",
+      "cz": "Jejda, na rybaření je vždycky čas! A-hyuk!",
+      "source": "pre_existing",
+      "original_cz": "Jejda, na rybaření je vždycky čas! A-hyuk!"
+    },
+    {
+      "key": "Goofy_005_f",
+      "en": "Any chance you saw some strange words running about?",
+      "cz": "Neviděl jsi náhodou pobíhat nějaká divná slova?",
+      "source": "pre_existing",
+      "original_cz": "Neviděl jsi náhodou pobíhat nějaká divná slova?"
+    },
+    {
+      "key": "Goofy_006_f",
+      "en": "Well, I was fishin', and I did catch the strangest-lookin' fish I ever saw.",
+      "cz": "No, rybařil jsem a chytil jsem tu nejpodivněji vypadající rybu, jakou jsem kdy viděl.",
+      "source": "pre_existing",
+      "original_cz": "No, rybařil jsem a chytil jsem tu nejpodivněji vypadající rybu, jakou jsem kdy viděl."
+    }
+  ],
+  "Alice_Goofy/Goofy_VLG_Alic_040_VLG_Alic_040_TalkTo08.locbin": [
+    {
+      "key": "Goofy_001_f",
+      "en": "Hi, Goofy! Could I ask a favor of you?",
+      "cz": "Ahoj Goofy! Mohl bych tě požádat o laskavost?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj Goofy! Mohl bych tě požádat o laskavost?"
+    },
+    {
+      "key": "Goofy_002_f",
+      "en": "Sure, {PlayerName}!",
+      "cz": "Jistě, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Jistě, {PlayerName}!"
+    },
+    {
+      "key": "Goofy_003_f",
+      "en": "What do ya need?",
+      "cz": "Co potřebuješ?",
+      "source": "pre_existing",
+      "original_cz": "Co potřebuješ?"
+    },
+    {
+      "key": "Goofy_004_f",
+      "en": "Well, Alice and I are trying to get an unbirthday party going. We've got a great cake, but we need some silly toppers for it.",
+      "cz": "No, s Alicí se snažíme uspořádat ne-narozeninovou oslavu. Máme skvělý dort, ale potřebujeme na něj nějaké směšné ozdoby.",
+      "source": "pre_existing",
+      "original_cz": "No, s Alicí se snažíme uspořádat ne-narozeninovou oslavu. Máme skvělý dort, ale potřebujeme na něj nějaké směšné ozdoby."
+    },
+    {
+      "key": "Goofy_006_f",
+      "en": "Say, I think I've got something that'll be perfect for ya!",
+      "cz": "Řekni, myslím, že mám něco, co pro tebe bude perfektní!",
+      "source": "pre_existing",
+      "original_cz": "Řekni, myslím, že mám něco, co pro tebe bude perfektní!"
+    },
+    {
+      "key": "Goofy_007_f",
+      "en": "It's a fishing lure. It's never caught any fish, but judging from the bubbles that come up, it sure gives the fish a laugh! A-hyuck!",
+      "cz": "Je to rybářská návnada. Nikdy na ni nebyla chycena žádná ryba, ale soudě podle bublinek, které se z ní loudají, ryby se s ní opravdu baví! Jupíííí!",
+      "source": "pre_existing",
+      "original_cz": "Je to rybářská návnada. Nikdy na ni nebyla chycena žádná ryba, ale soudě podle bublinek, které se z ní loudají, ryby se s ní opravdu baví! Jupíííí!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "That's perfect!",
+      "cz": "To je perfektní!",
+      "source": "pre_existing",
+      "original_cz": "To je perfektní!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Maybe you needed to be catching the rare comedian-fish.",
+      "cz": "Možná jsi potřeboval chytit tu vzácnou komikovou rybu.",
+      "source": "pre_existing",
+      "original_cz": "Možná jsi potřeboval chytit tu vzácnou komikovou rybu."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "How do you know they're laughing?",
+      "cz": "Jak víš, že se smějí?",
+      "source": "pre_existing",
+      "original_cz": "Jak víš, že se smějí?"
+    },
+    {
+      "key": "Goofy_008_f",
+      "en": "Great!",
+      "cz": "Velký!",
+      "source": "pre_existing",
+      "original_cz": "Velký!"
+    },
+    {
+      "key": "Goofy_011_f",
+      "en": "Thanks, Goofy! (I gotta remember to take the hook out, just in case.)",
+      "cz": "Díky, Goofy! (Musím si pamatovat, že musím vyndat háček, jen pro jistotu.)",
+      "source": "pre_existing",
+      "original_cz": "Díky, Goofy! (Musím si pamatovat, že musím vyndat háček, jen pro jistotu.)"
+    },
+    {
+      "key": "Goofy_009_f",
+      "en": "Gawrsh, I didn't know that was a fish here! I'll be sure to keep an eye out for it.",
+      "cz": "Bože, nevěděl jsem, že je to tady ryba! Určitě si na ni dám pozor.",
+      "source": "pre_existing",
+      "original_cz": "Bože, nevěděl jsem, že je to tady ryba! Určitě si na ni dám pozor."
+    },
+    {
+      "key": "Goofy_010_f",
+      "en": "Suppose I've just got a fish-sense about things like that.",
+      "cz": "Předpokládejme, že na takové věci mám prostě rybí smysl.",
+      "source": "pre_existing",
+      "original_cz": "Předpokládejme, že na takové věci mám prostě rybí smysl."
+    }
+  ]
+}

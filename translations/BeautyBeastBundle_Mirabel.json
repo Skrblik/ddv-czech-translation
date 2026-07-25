@@ -1,0 +1,419 @@
+{
+  "BeautyBeastBundle_Mirabel/Mirabel_PRM_Beas_040_PRM_Beas_040_BringItem01.locbin": [
+    {
+      "key": "Mirabel_000_f",
+      "en": "Thank you so much for gathering everything, {PlayerName}!",
+      "cz": "Moc děkuji za shromáždění všeho, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Moc děkuji za shromáždění všeho, {PlayerName}!"
+    },
+    {
+      "key": "Mirabel_001_f",
+      "en": "Now it's time to finish the <Lore>Mosaic of Friendship</Lore>!",
+      "cz": "Teď je čas dokončit <Lore>Mozaiku přátelství</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Teď je čas dokončit <Lore>Mozaiku přátelství</Lore>!"
+    },
+    {
+      "key": "Mirabel_002_f",
+      "en": "Personally, I think it looks <i>FRIEND-TASTIC</i>! Don't you? I was inspired by Moana's connection to home with her seashell, Woody's nostalgia for the past with Andy's Marker, and WALL·E's hope for the future with that beautiful plant!",
+      "cz": "Osobně si myslím, že to vypadá <i>SKVĚLÝ KAMARÁD</i>! Nevíte vy? Inspirovalo mě Moanino pouto k domovu s její mušlí, Woodyho nostalgie po minulosti s Andyho fixou a WALL·Eho naděje do budoucnosti s tou krásnou rostlinou!",
+      "source": "pre_existing",
+      "original_cz": "Osobně si myslím, že to vypadá <i>SKVĚLÝ KAMARÁD</i>! Nevíte vy? Inspirovalo mě Moanino pouto k domovu s její mušlí, Woodyho nostalgie po minulosti s Andyho fixou a WALL·Eho naděje do budoucnosti s tou krásnou rostlinou!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Absolutely!",
+      "cz": "Absolutně!",
+      "source": "pre_existing",
+      "original_cz": "Absolutně!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "This is what I call friendship magic!",
+      "cz": "Tomuhle říkám kouzlo přátelství!",
+      "source": "pre_existing",
+      "original_cz": "Tomuhle říkám kouzlo přátelství!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I can't wait to see it in place!",
+      "cz": "Už se nemůžu dočkat, až to uvidím na místě!",
+      "source": "pre_existing",
+      "original_cz": "Už se nemůžu dočkat, až to uvidím na místě!"
+    },
+    {
+      "key": "Mirabel_003_f",
+      "en": "Okay, the next step is to <Lore>place it</Lore> right in the heart of the Valley!",
+      "cz": "Dobře, dalším krokem je <Lore>umístit</Lore> to přímo do srdce Údolí!",
+      "source": "pre_existing",
+      "original_cz": "Dobře, dalším krokem je <Lore>umístit</Lore> to přímo do srdce Údolí!"
+    }
+  ],
+  "BeautyBeastBundle_Mirabel/Mirabel_PRM_Beas_040_PRM_Beas_040_Intro.locbin": [
+    {
+      "key": "Mirabel_000_f",
+      "en": "¡Hola! I'm so glad you're here, {PlayerName}!",
+      "cz": "Ahoj! Jsem tak rád/a, že jsi tady, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Ahoj! Jsem tak rád/a, že jsi tady, {PlayerName}!"
+    },
+    {
+      "key": "Mirabel_001_f",
+      "en": "I've been dying to tell someone about my AMAZING new idea!",
+      "cz": "Už dlouho toužím někomu říct o svém ÚŽASNÉM novém nápadu!",
+      "source": "pre_existing",
+      "original_cz": "Už dlouho toužím někomu říct o svém ÚŽASNÉM novém nápadu!"
+    },
+    {
+      "key": "Mirabel_002_f",
+      "en": "I can't stop thinking about that magical moment when Belle and the Beast danced together.",
+      "cz": "Nemůžu přestat myslet na ten kouzelný okamžik, kdy spolu tančili Belle a Bestie.",
+      "source": "pre_existing",
+      "original_cz": "Nemůžu přestat myslet na ten kouzelný okamžik, kdy spolu tančili Belle a Bestie."
+    },
+    {
+      "key": "Mirabel_003_f",
+      "en": "It was like something out of a storybook!",
+      "cz": "Bylo to jako vystřižené z pohádkové knížky!",
+      "source": "pre_existing",
+      "original_cz": "Bylo to jako vystřižené z pohádkové knížky!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I helped organize it, you know!",
+      "cz": "Pomáhal jsem s organizací, víš?",
+      "source": "pre_existing",
+      "original_cz": "Pomáhal jsem s organizací, víš?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "It really was like a fairy tale.",
+      "cz": "Bylo to opravdu jako v pohádce.",
+      "source": "pre_existing",
+      "original_cz": "Bylo to opravdu jako v pohádce."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "It was absolutely <i>AMAZING</i>!!!",
+      "cz": "Bylo to naprosto <i>ÚŽASNÉ</i>!!!",
+      "source": "pre_existing",
+      "original_cz": "Bylo to naprosto <i>ÚŽASNÉ</i>!!!"
+    },
+    {
+      "key": "Mirabel_004_f",
+      "en": "You did such a fantastic job. I bet my sister Isabela would've <i>LOVED</i> all those gorgeous roses everywhere... And it gave me a GREAT idea.",
+      "cz": "Odvedla jsi fantastickou práci. Vsadím se, že moje sestra Isabela by <i>MILOVALA</i> všechny ty nádherné růže všude kolem... A dalo mi to SKVĚLÝ nápad.",
+      "source": "pre_existing",
+      "original_cz": "Odvedla jsi fantastickou práci. Vsadím se, že moje sestra Isabela by <i>MILOVALA</i> všechny ty nádherné růže všude kolem... A dalo mi to SKVĚLÝ nápad."
+    },
+    {
+      "key": "Mirabel_005_f",
+      "en": "What did you come up with?",
+      "cz": "Na co jsi přišel/a?",
+      "source": "pre_existing",
+      "original_cz": "Na co jsi přišel/a?"
+    },
+    {
+      "key": "Mirabel_006_f",
+      "en": "Well, it actually wasn't just one idea. Seeing everyone come together for Belle and the Beast gave me an entire WAVE of creative ideas!",
+      "cz": "No, vlastně to nebyl jen jeden nápad. Když jsem viděla, jak se všichni sešli kvůli filmu Belle a zvíře, dala mi to celou VLNU kreativních nápadů!",
+      "source": "pre_existing",
+      "original_cz": "No, vlastně to nebyl jen jeden nápad. Když jsem viděla, jak se všichni sešli kvůli filmu Belle a zvíře, dala mi to celou VLNU kreativních nápadů!"
+    },
+    {
+      "key": "Mirabel_007_f",
+      "en": "So I was thinking... We need something that captures that kind of energy here. An art piece that symbolizes friendship and unity! Wanna help me?",
+      "cz": "Tak jsem si říkal... Potřebujeme něco, co zachytí tuhle energii. Umělecké dílo, které symbolizuje přátelství a jednotu! Chceš mi pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Tak jsem si říkal... Potřebujeme něco, co zachytí tuhle energii. Umělecké dílo, které symbolizuje přátelství a jednotu! Chceš mi pomoct?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Of course!",
+      "cz": "Samozřejmě!",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I'd love to, but maybe a bit later?",
+      "cz": "Rád bych, ale možná o trochu později?",
+      "source": "pre_existing",
+      "original_cz": "Rád bych, ale možná o trochu později?"
+    },
+    {
+      "key": "Mirabel_008_f",
+      "en": "I was hoping you'd say that. This is gonna be so much fun!",
+      "cz": "Doufal jsem, že to řekneš. To bude taková zábava!",
+      "source": "pre_existing",
+      "original_cz": "Doufal jsem, že to řekneš. To bude taková zábava!"
+    },
+    {
+      "key": "Mirabel_009_f",
+      "en": "Okay, so here's the idea... When you have good friends, you build lots of special memories, right?",
+      "cz": "Dobře, takže tady je nápad... Když máte dobré přátele, vytvoříte si spoustu zvláštních vzpomínek, že?",
+      "source": "pre_existing",
+      "original_cz": "Dobře, takže tady je nápad... Když máte dobré přátele, vytvoříte si spoustu zvláštních vzpomínek, že?"
+    },
+    {
+      "key": "Mirabel_010_f",
+      "en": "Totally! I love collecting little moments with my friends. Most of the time it's...",
+      "cz": "Naprosto! Miluji sbírání malých momentek s přáteli. Většinou je to...",
+      "source": "pre_existing",
+      "original_cz": "Naprosto! Miluji sbírání malých momentek s přáteli. Většinou je to..."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "...photos we take together.",
+      "cz": "...fotky, které fotíme společně.",
+      "source": "pre_existing",
+      "original_cz": "...fotky, které fotíme společně."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "...handmade gifts we give each other.",
+      "cz": "...ručně vyrobené dárky, které si navzájem dáváme.",
+      "source": "pre_existing",
+      "original_cz": "...ručně vyrobené dárky, které si navzájem dáváme."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "...notes in my journal.",
+      "cz": "...poznámky do mého deníku.",
+      "source": "pre_existing",
+      "original_cz": "...poznámky do mého deníku."
+    },
+    {
+      "key": "Mirabel_011_f",
+      "en": "Aww, that's so sweet! It's great that you have those memories.",
+      "cz": "Jé, to je tak milé! Je skvělé, že máš takové vzpomínky.",
+      "source": "pre_existing",
+      "original_cz": "Jé, to je tak milé! Je skvělé, že máš takové vzpomínky."
+    },
+    {
+      "key": "Mirabel_012_f",
+      "en": "I'm hoping we can find one special thing that says \"friendship, unity, and love\" all at once.",
+      "cz": "Doufám, že najdeme jednu speciální věc, která zároveň vyjadřuje „přátelství, jednotu a lásku“.",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že najdeme jednu speciální věc, která zároveň vyjadřuje „přátelství, jednotu a lásku“."
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "A Book Club?",
+      "cz": "Knižní klub?",
+      "source": "pre_existing",
+      "original_cz": "Knižní klub?"
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "A Villagers' Photo Collage?",
+      "cz": "Fotografická koláž vesničanů?",
+      "source": "pre_existing",
+      "original_cz": "Fotografická koláž vesničanů?"
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "A Friendship Play?",
+      "cz": "Hra na přátelství?",
+      "source": "pre_existing",
+      "original_cz": "Hra na přátelství?"
+    },
+    {
+      "key": "Mirabel_013_f",
+      "en": "Not quite! Add a little creativity, a bunch of crafts, and a whole lot of heart, and you get...",
+      "cz": "Ne tak docela! Přidejte trochu kreativity, spoustu řemesel a spoustu srdce a máte...",
+      "source": "pre_existing",
+      "original_cz": "Ne tak docela! Přidejte trochu kreativity, spoustu řemesel a spoustu srdce a máte..."
+    },
+    {
+      "key": "Mirabel_014_f",
+      "en": "...a <Lore>Mosaic of Friendship</Lore>! That's what we'll call our AMAZING idea!",
+      "cz": "...<Lore>Mozaika přátelství</Lore>! Takhle nazveme náš ÚŽASNÝ nápad!",
+      "source": "pre_existing",
+      "original_cz": "...<Lore>Mozaika přátelství</Lore>! Takhle nazveme náš ÚŽASNÝ nápad!"
+    },
+    {
+      "key": "Mirabel_015_f",
+      "en": "I want it to be all about memories. Little tokens that show how much we care about each other.",
+      "cz": "Chci, aby to bylo jen o vzpomínkách. Malých ukázkách, které ukazují, jak moc nám na sobě záleží.",
+      "source": "pre_existing",
+      "original_cz": "Chci, aby to bylo jen o vzpomínkách. Malých ukázkách, které ukazují, jak moc nám na sobě záleží."
+    },
+    {
+      "key": "Mirabel_016_f",
+      "en": "Could you <Lore>ask a few Villagers</Lore> if they have something special to share for the mosaic? Something that reminds them of a happy moment? In the meantime, I'm gonna start figuring out a design and collecting all the materials we'll need.",
+      "cz": "Mohl byste se <Lore>zeptat několika vesničanů</Lore>, jestli by se s námi chtěli podělit o něco speciálního k mozaice? Něco, co by jim připomínalo šťastný okamžik? Mezitím začnu vymýšlet návrh a shromažďovat všechny potřebné materiály.",
+      "source": "pre_existing",
+      "original_cz": "Mohl byste se <Lore>zeptat několika vesničanů</Lore>, jestli by se s námi chtěli podělit o něco speciálního k mozaice? Něco, co by jim připomínalo šťastný okamžik? Mezitím začnu vymýšlet návrh a shromažďovat všechny potřebné materiály."
+    },
+    {
+      "key": "Mirabel_017_f",
+      "en": "Sounds like a plan. I'll start asking around right away!",
+      "cz": "Zní to jako dobrý plán. Hned se začnu ptát!",
+      "source": "pre_existing",
+      "original_cz": "Zní to jako dobrý plán. Hned se začnu ptát!"
+    },
+    {
+      "key": "Mirabel_018_f",
+      "en": "We're on the same wavelength, {PlayerName}. I was thinking...",
+      "cz": "Jsme na stejné vlně, {PlayerName}. Přemýšlel jsem...",
+      "source": "pre_existing",
+      "original_cz": "Jsme na stejné vlně, {PlayerName}. Přemýšlel jsem..."
+    },
+    {
+      "key": "Mirabel_019_f",
+      "en": "That would be incredible. But I was thinking something a little more... handmade...",
+      "cz": "To by bylo neuvěřitelné. Ale napadlo mě něco trochu víc... ručně vyrobeného...",
+      "source": "pre_existing",
+      "original_cz": "To by bylo neuvěřitelné. Ale napadlo mě něco trochu víc... ručně vyrobeného..."
+    },
+    {
+      "key": "Mirabel_020_f",
+      "en": "Whoa! That's actually super close to what I was thinking!",
+      "cz": "Páni! To je vlastně hodně blízko tomu, co jsem si myslel!",
+      "source": "pre_existing",
+      "original_cz": "Páni! To je vlastně hodně blízko tomu, co jsem si myslel!"
+    },
+    {
+      "key": "Mirabel_021_f",
+      "en": "I really admire that. I've tried keeping one, but I always forget after about a week.",
+      "cz": "To opravdu obdivuji. Zkoušel jsem si jeden nechat, ale vždycky na to asi po týdnu zapomenu.",
+      "source": "pre_existing",
+      "original_cz": "To opravdu obdivuji. Zkoušel jsem si jeden nechat, ale vždycky na to asi po týdnu zapomenu."
+    },
+    {
+      "key": "Mirabel_022_f",
+      "en": "Oh, I totally understand. I'll be ready when you are. This idea isn't going anywhere!",
+      "cz": "Aha, naprosto chápu. Budu připravený, až ty. Tenhle nápad nikam nevede!",
+      "source": "pre_existing",
+      "original_cz": "Aha, naprosto chápu. Budu připravený, až ty. Tenhle nápad nikam nevede!"
+    }
+  ],
+  "BeautyBeastBundle_Mirabel/Mirabel_PRM_Beas_040_PRM_Beas_040_Ongoing01.locbin": [
+    {
+      "key": "Mirabel_000_f",
+      "en": "Did you find anyone with a special memory to share for our <Lore>Mosaic of Friendship</Lore>?",
+      "cz": "Našli jste někoho, kdo má pro naši <Lore>Mozaiku přátelství</Lore> zvláštní vzpomínku?",
+      "source": "pre_existing",
+      "original_cz": "Našli jste někoho, kdo má pro naši <Lore>Mozaiku přátelství</Lore> zvláštní vzpomínku?"
+    },
+    {
+      "key": "Mirabel_001_f",
+      "en": "I can't wait to see what it's like once we bring all the pieces together.",
+      "cz": "Nemůžu se dočkat, jaké to bude, až dáme všechny kousky dohromady.",
+      "source": "pre_existing",
+      "original_cz": "Nemůžu se dočkat, jaké to bude, až dáme všechny kousky dohromady."
+    },
+    {
+      "key": "Mirabel_002_f",
+      "en": "I got <Lore>Moana's</Lore>, but we still need a few more.",
+      "cz": "Mám <Lore>Vaianiny</Lore>, ale ještě jich pár potřebujeme.",
+      "source": "pre_existing",
+      "original_cz": "Mám <Lore>Vaianiny</Lore>, ale ještě jich pár potřebujeme."
+    }
+  ],
+  "BeautyBeastBundle_Mirabel/Mirabel_PRM_Beas_040_PRM_Beas_040_Ongoing02.locbin": [
+    {
+      "key": "Mirabel_000_f",
+      "en": "Remember, we're collecting <Lore>little tokens of friendship</Lore>. Anything that holds a special memory!",
+      "cz": "Nezapomeňte, že sbíráme <Lore>malé ukázky přátelství</Lore>. Cokoli, co s sebou nese zvláštní vzpomínku!",
+      "source": "pre_existing",
+      "original_cz": "Nezapomeňte, že sbíráme <Lore>malé ukázky přátelství</Lore>. Cokoli, co s sebou nese zvláštní vzpomínku!"
+    },
+    {
+      "key": "Mirabel_001_f",
+      "en": "I've collected <Lore>Moana's and Woody's tokens</Lore>. Feels like we're missing one more!",
+      "cz": "Nasbíral jsem <Lore>žetony od Moany a Woodyho</Lore>. Mám pocit, že nám ještě jeden chybí!",
+      "source": "pre_existing",
+      "original_cz": "Nasbíral jsem <Lore>žetony od Moany a Woodyho</Lore>. Mám pocit, že nám ještě jeden chybí!"
+    }
+  ],
+  "BeautyBeastBundle_Mirabel/Mirabel_PRM_Beas_040_PRM_Beas_040_Ongoing03.locbin": [
+    {
+      "key": "Mirabel_000_f",
+      "en": "Any luck with those friendship items for the mosaic?",
+      "cz": "Máš štěstí s těmi předměty přátelství pro mozaiku?",
+      "source": "pre_existing",
+      "original_cz": "Máš štěstí s těmi předměty přátelství pro mozaiku?"
+    }
+  ],
+  "BeautyBeastBundle_Mirabel/Mirabel_PRM_Beas_040_PRM_Beas_040_Ongoing04.locbin": [
+    {
+      "key": "Mirabel_000_f",
+      "en": "{PlayerName}, do you have all the friendship items you collected? Could you bring them to me?",
+      "cz": "{PlayerName}, máš všechny předměty přátelství, které jsi nasbíral/a? Mohl/a bys mi je přinést?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, máš všechny předměty přátelství, které jsi nasbíral/a? Mohl/a bys mi je přinést?"
+    }
+  ],
+  "BeautyBeastBundle_Mirabel/Mirabel_PRM_Beas_040_PRM_Beas_040_Ongoing05.locbin": [
+    {
+      "key": "Mirabel_000_f",
+      "en": "Got all the items? If you do, let's finish the magic together!",
+      "cz": "Máš všechny předměty? Pokud ano, pojďme společně dokončit kouzlo!",
+      "source": "pre_existing",
+      "original_cz": "Máš všechny předměty? Pokud ano, pojďme společně dokončit kouzlo!"
+    }
+  ],
+  "BeautyBeastBundle_Mirabel/Mirabel_PRM_Beas_040_PRM_Beas_040_Ongoing06.locbin": [
+    {
+      "key": "Mirabel_000_f",
+      "en": "Looks like we've got everything! Now we just need to <Lore>place the mosaic somewhere</Lore> it can really shine!",
+      "cz": "Vypadá to, že máme všechno! Teď už jen musíme <Lore>umístit mozaiku někam,</Lore> kde se bude opravdu lesknout!",
+      "source": "pre_existing",
+      "original_cz": "Vypadá to, že máme všechno! Teď už jen musíme <Lore>umístit mozaiku někam,</Lore> kde se bude opravdu lesknout!"
+    }
+  ],
+  "BeautyBeastBundle_Mirabel/Mirabel_PRM_Beas_040_PRM_Beas_040_Outro.locbin": [
+    {
+      "key": "Mirabel_000_f",
+      "en": "¡Gracias, {PlayerName}! This mosaic is so beautiful, and it wouldn't be half as good if we hadn't worked together.",
+      "cz": "¡Gracias, {PlayerName}! Tahle mozaika je tak krásná a bez spolupráce by nebyla ani z poloviny tak dobrá.",
+      "source": "pre_existing",
+      "original_cz": "¡Gracias, {PlayerName}! Tahle mozaika je tak krásná a bez spolupráce by nebyla ani z poloviny tak dobrá."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "You're gonna make me blush!",
+      "cz": "Donutíš mě červenat se!",
+      "source": "pre_existing",
+      "original_cz": "Donutíš mě červenat se!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Anytime, Mirabel.",
+      "cz": "Kdykoli, Mirabel.",
+      "source": "pre_existing",
+      "original_cz": "Kdykoli, Mirabel."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "It was a team effort!",
+      "cz": "Byla to týmová práce!",
+      "source": "pre_existing",
+      "original_cz": "Byla to týmová práce!"
+    },
+    {
+      "key": "Mirabel_001_f",
+      "en": "And you clearly have a creative gift!",
+      "cz": "A evidentně máš kreativní dar!",
+      "source": "pre_existing",
+      "original_cz": "A evidentně máš kreativní dar!"
+    },
+    {
+      "key": "Mirabel_002_f",
+      "en": "We all have <i>gifts</i>. Sometimes, we just need a little spark to bring them out.",
+      "cz": "Všichni máme <i>dary</i>. Někdy potřebujeme jen malou jiskru, abychom je projevili.",
+      "source": "pre_existing",
+      "original_cz": "Všichni máme <i>dary</i>. Někdy potřebujeme jen malou jiskru, abychom je projevili."
+    },
+    {
+      "key": "Mirabel_003_f",
+      "en": "That's the way it works at home in the Encanto, and it seems like it's the same here.",
+      "cz": "Tak to funguje doma v Encantu a zdá se, že je to stejné i tady.",
+      "source": "pre_existing",
+      "original_cz": "Tak to funguje doma v Encantu a zdá se, že je to stejné i tady."
+    }
+  ]
+}

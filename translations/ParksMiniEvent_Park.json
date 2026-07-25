@@ -1,0 +1,443 @@
+{
+  "ParksMiniEvent_Park/Mira_ParksCritter_010.locbin": [
+    {
+      "key": "Repeatable!Event!Park!Mira_ParksCritter_010_Any_CompletedRequestDescription",
+      "en": "Show the squirrel photos to Mirabel.",
+      "cz": "Ukaž fotky veverek Mirabel.",
+      "source": "pre_existing",
+      "original_cz": "Ukaž fotky veverek Mirabel."
+    },
+    {
+      "key": "Repeatable!Event!Park!Mira_ParksCritter_010_AvailableDescription",
+      "en": "Mirabel wants to celebrate Dreamlight Parks Fest with you!",
+      "cz": "Mirabel s vámi chce oslavit festival Dreamlight Parks!",
+      "source": "pre_existing",
+      "original_cz": "Mirabel s vámi chce oslavit festival Dreamlight Parks!"
+    },
+    {
+      "key": "Repeatable!Event!Park!Mira_ParksCritter_010_CompletedStoryDescription",
+      "en": "You spend time with Mirabel in the Plaza, taking photos with the squirrels. The two of you take a break to review the photos you took.",
+      "cz": "Trávíte čas s Mirabel na náměstí a fotíte se s veverkami. Vy dva si dáte pauzu, abyste si prohlédli pořízené fotografie.",
+      "source": "pre_existing",
+      "original_cz": "Trávíte čas s Mirabel na náměstí a fotíte se s veverkami. Vy dva si dáte pauzu, abyste si prohlédli pořízené fotografie."
+    },
+    {
+      "key": "Repeatable!Event!Park!Mira_ParksCritter_010_DisplayName",
+      "en": "Dreamlight Parks Fest: Critter Snaps",
+      "cz": "Festival parků Dreamlight: Fotografie tvorů",
+      "source": "pre_existing",
+      "original_cz": "Festival parků Dreamlight: Fotografie tvorů"
+    },
+    {
+      "key": "Repeatable!Event!Park!Mira_ParksCritter_010_Group01_Step01_TakePicture01_StepDescription",
+      "en": "<ActivityItem>Classic Squirrel</ActivityItem>.",
+      "cz": "<ActivityItem>Klasická veverka</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Klasická veverka</ActivityItem>."
+    },
+    {
+      "key": "Repeatable!Event!Park!Mira_ParksCritter_010_Group01_Step01_TakePicture02_StepDescription",
+      "en": "<ActivityItem>Red Squirrel</ActivityItem>.",
+      "cz": "<ActivityItem>Veverka obecná</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Veverka obecná</ActivityItem>."
+    },
+    {
+      "key": "Repeatable!Event!Park!Mira_ParksCritter_010_Group01_Step01_TakePicture03_StepDescription",
+      "en": "<ActivityItem>Gray Squirrel</ActivityItem>.",
+      "cz": "<ActivityItem>Veverka šedá</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Veverka šedá</ActivityItem>."
+    },
+    {
+      "key": "Repeatable!Event!Park!Mira_ParksCritter_010_Group01_Step01_TakePicture04_StepDescription",
+      "en": "<ActivityItem>Black Squirrel</ActivityItem>.",
+      "cz": "<ActivityItem>Veverka černá</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Veverka černá</ActivityItem>."
+    },
+    {
+      "key": "Repeatable!Event!Park!Mira_ParksCritter_010_Group01_StepDescription",
+      "en": "Take a photo of Mirabel with the following critters:",
+      "cz": "Vyfoťte Mirabel s následujícími tvory:",
+      "source": "pre_existing",
+      "original_cz": "Vyfoťte Mirabel s následujícími tvory:"
+    },
+    {
+      "key": "Repeatable!Event!Park!Mira_ParksCritter_010_Group01_StoryDescription",
+      "en": "Mirabel wants to include the critters in the Valley in the Dreamlight Parks Fest celebrations. She asks you to join her to visit the squirrels in the Plaza and take photos with them.",
+      "cz": "Mirabel chce do oslav Dreamlight Parks Fest zapojit i zvířátka z Údolí. Žádá vás, abyste se k ní připojili k návštěvě veverek na náměstí a vyfotili se s nimi.",
+      "source": "pre_existing",
+      "original_cz": "Mirabel chce do oslav Dreamlight Parks Fest zapojit i zvířátka z Údolí. Žádá vás, abyste se k ní připojili k návštěvě veverek na náměstí a vyfotili se s nimi."
+    },
+    {
+      "key": "Repeatable!Event!Park!Mira_ParksCritter_010_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol"
+    }
+  ],
+  "ParksMiniEvent_Park/Mira_ParksCritter_020.locbin": [
+    {
+      "key": "Repeatable!Event!Park!Mira_ParksCritter_020_Any_CompletedRequestDescription",
+      "en": "Talk to Mirabel.",
+      "cz": "Talk to Mirabel.",
+      "source": "pre_existing",
+      "original_cz": "Talk to Mirabel."
+    },
+    {
+      "key": "Repeatable!Event!Park!Mira_ParksCritter_020_AvailableDescription",
+      "en": "Mirabel has another way to appreciate the Valley critters as a part of the Dreamlight Parks Fest celebration!",
+      "cz": "Mirabel má další způsob, jak ocenit údolní tvory, a to v rámci oslav Dreamlight Parks Fest!",
+      "source": "pre_existing",
+      "original_cz": "Mirabel má další způsob, jak ocenit údolní tvory, a to v rámci oslav Dreamlight Parks Fest!"
+    },
+    {
+      "key": "Repeatable!Event!Park!Mira_ParksCritter_020_CompletedStoryDescription",
+      "en": "After feeding the rabbits their favorite food, you meet with Mirabel again.",
+      "cz": "Poté, co nakrmíte králíky jejich oblíbeným jídlem, se znovu setkáte s Mirabel.",
+      "source": "pre_existing",
+      "original_cz": "Poté, co nakrmíte králíky jejich oblíbeným jídlem, se znovu setkáte s Mirabel."
+    },
+    {
+      "key": "Repeatable!Event!Park!Mira_ParksCritter_020_DisplayName",
+      "en": "Dreamlight Parks Fest: Critter Snacks",
+      "cz": "Dreamlight Parks Fest: Critter Snacks",
+      "source": "pre_existing",
+      "original_cz": "Dreamlight Parks Fest: Critter Snacks"
+    },
+    {
+      "key": "Repeatable!Event!Park!Mira_ParksCritter_020_Group01_StepDescription",
+      "en": "Feed some rabbits in the Peaceful Meadow their favorite food.",
+      "cz": "Feed some rabbits in the Peaceful Meadow their favorite food.",
+      "source": "pre_existing",
+      "original_cz": "Feed some rabbits in the Peaceful Meadow their favorite food."
+    },
+    {
+      "key": "Repeatable!Event!Park!Mira_ParksCritter_020_Group01_StoryDescription",
+      "en": "Mirabel wants to continue to include the critters in the Valley in Festival celebrations. She asks you to help her give the rabbits in the Peaceful Meadow their favorite foods.",
+      "cz": "Mirabel wants to continue to include the critters in the Valley in Festival celebrations. She asks you to help her give the rabbits in the Peaceful Meadow their favorite foods.",
+      "source": "pre_existing",
+      "original_cz": "Mirabel wants to continue to include the critters in the Valley in Festival celebrations. She asks you to help her give the rabbits in the Peaceful Meadow their favorite foods."
+    },
+    {
+      "key": "Repeatable!Event!Park!Mira_ParksCritter_020_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Start Quest"
+    }
+  ],
+  "ParksMiniEvent_Park/Mira_ParksCritter_030.locbin": [
+    {
+      "key": "Repeatable!Event!Park!Mira_ParksCritter_030_Any_CompletedRequestDescription",
+      "en": "Talk to Mirabel to claim your Dreamlight Parks Fest prize.",
+      "cz": "Promluvte si s Mirabel a vyzvedněte si svou cenu z festivalu Dreamlight Parks.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Mirabel a vyzvedněte si svou cenu z festivalu Dreamlight Parks."
+    },
+    {
+      "key": "Repeatable!Event!Park!Mira_ParksCritter_030_AvailableDescription",
+      "en": "Mirabel has one final critter appreciation task for Dreamlight Parks Fest.",
+      "cz": "Mirabel má pro festival Dreamlight Parks ještě jeden úkol – ocenit tvorečky.",
+      "source": "pre_existing",
+      "original_cz": "Mirabel má pro festival Dreamlight Parks ještě jeden úkol – ocenit tvorečky."
+    },
+    {
+      "key": "Repeatable!Event!Park!Mira_ParksCritter_030_CompletedStoryDescription",
+      "en": "When you finish taking photos, you return to Mirabel. She is finally ready to give you your prize for celebrating critters with her.",
+      "cz": "Až dofotíte, vrátíte se k Mirabel. Konečně je připravená vám předat odměnu za to, že jste s ní oslavili tvorečky.",
+      "source": "pre_existing",
+      "original_cz": "Až dofotíte, vrátíte se k Mirabel. Konečně je připravená vám předat odměnu za to, že jste s ní oslavili tvorečky."
+    },
+    {
+      "key": "Repeatable!Event!Park!Mira_ParksCritter_030_DisplayName",
+      "en": "Dreamlight Parks Fest: Take Your Pic",
+      "cz": "Festival parků Dreamlight: Vyfoťte se",
+      "source": "pre_existing",
+      "original_cz": "Festival parků Dreamlight: Vyfoťte se"
+    },
+    {
+      "key": "Repeatable!Event!Park!Mira_ParksCritter_030_Group01_Step01_TakePicture01_StepDescription",
+      "en": "<ActivityItem>Classic Sea Turtle</ActivityItem>.",
+      "cz": "<ActivityItem>Klasická mořská želva</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Klasická mořská želva</ActivityItem>."
+    },
+    {
+      "key": "Repeatable!Event!Park!Mira_ParksCritter_030_Group01_Step01_TakePicture02_StepDescription",
+      "en": "<ActivityItem>Brown Sea Turtle</ActivityItem>.",
+      "cz": "<ActivityItem>Hnědá mořská želva</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Hnědá mořská želva</ActivityItem>."
+    },
+    {
+      "key": "Repeatable!Event!Park!Mira_ParksCritter_030_Group01_Step01_TakePicture03_StepDescription",
+      "en": "<ActivityItem>White Sea Turtle</ActivityItem>.",
+      "cz": "<ActivityItem>Želva bílá</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Želva bílá</ActivityItem>."
+    },
+    {
+      "key": "Repeatable!Event!Park!Mira_ParksCritter_030_Group01_Step01_TakePicture04_StepDescription",
+      "en": "<ActivityItem>Purple Sea Turtle</ActivityItem>.",
+      "cz": "<ActivityItem>Fialová mořská želva</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Fialová mořská želva</ActivityItem>."
+    },
+    {
+      "key": "Repeatable!Event!Park!Mira_ParksCritter_030_Group01_StepDescription",
+      "en": "Take photos of Mirabel with critters on Dazzle Beach:",
+      "cz": "Vyfoťte Mirabel s dalšími tvory na pláži Dazzle:",
+      "source": "pre_existing",
+      "original_cz": "Vyfoťte Mirabel s dalšími tvory na pláži Dazzle:"
+    },
+    {
+      "key": "Repeatable!Event!Park!Mira_ParksCritter_030_Group01_StoryDescription",
+      "en": "Excited by the first day of taking photos, Mirabel calls for an encore. She asks you to accompany her to Dazzle Beach, visiting the sea turtles and taking photos with them.",
+      "cz": "Mirabel, nadšená z prvního dne focení, si volá po přídavku. Požádá vás, abyste ji doprovodili na pláž Dazzle Beach, kde navštívíte mořské želvy a vyfotíte se s nimi.",
+      "source": "pre_existing",
+      "original_cz": "Mirabel, nadšená z prvního dne focení, si volá po přídavku. Požádá vás, abyste ji doprovodili na pláž Dazzle Beach, kde navštívíte mořské želvy a vyfotíte se s nimi."
+    },
+    {
+      "key": "Repeatable!Event!Park!Mira_ParksCritter_030_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol"
+    }
+  ],
+  "ParksMiniEvent_Park/Scro_ParkMining_010.locbin": [
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_010_Any_CompletedRequestDescription",
+      "en": "Show the minerals you collected to Scrooge McDuck.",
+      "cz": "Ukažte Scroogeovi McDuckovi nasbírané minerály.",
+      "source": "pre_existing",
+      "original_cz": "Ukažte Scroogeovi McDuckovi nasbírané minerály."
+    },
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_010_AvailableDescription",
+      "en": "It seems as though Scrooge McDuck has more ideas for celebrating Dreamlight Parks Fest. What's he got in mind?",
+      "cz": "Zdá se, že Scrooge McDuck má další nápady na oslavu Festivalu parků Dreamlight. Co má na mysli?",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že Scrooge McDuck má další nápady na oslavu Festivalu parků Dreamlight. Co má na mysli?"
+    },
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_010_CompletedStoryDescription",
+      "en": "With the first phase of the scavenger hunt complete, you return to Scrooge McDuck with your findings.",
+      "cz": "Po dokončení první fáze honby za pokladem se vracíte ke Scrooge McDuckovi se svými nálezy.",
+      "source": "pre_existing",
+      "original_cz": "Po dokončení první fáze honby za pokladem se vracíte ke Scrooge McDuckovi se svými nálezy."
+    },
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_010_DisplayName",
+      "en": "Dreamlight Parks Fest: Dig It",
+      "cz": "Dreamlight Parks Fest: Dig It",
+      "source": "pre_existing",
+      "original_cz": "Dreamlight Parks Fest: Dig It"
+    },
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_010_Group01_Step01_Conditional01_StepDescription",
+      "en": "Hang out with Scrooge McDuck to mine minerals.",
+      "cz": "Hang out with Scrooge McDuck to mine minerals.",
+      "source": "pre_existing",
+      "original_cz": "Hang out with Scrooge McDuck to mine minerals."
+    },
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_010_Group01_StoryDescription",
+      "en": "Scrooge McDuck proposes an unofficial mining scavenger hunt to celebrate Dreamlight Parks Fest with you. He asks you to hang out and proposes that you start by mining any gems you can get your hands on.",
+      "cz": "Scrooge McDuck vám nabídne neoficiální honbu za pokladem v hornictví, aby s vámi oslavil Festival parků snů. Pozve vás, abyste se s ním setkali, a navrhne vám, abyste začali těžbou jakýchkoli drahokamů, které se vám podaří sehnat.",
+      "source": "pre_existing",
+      "original_cz": "Scrooge McDuck vám nabídne neoficiální honbu za pokladem v hornictví, aby s vámi oslavil Festival parků snů. Pozve vás, abyste se s ním setkali, a navrhne vám, abyste začali těžbou jakýchkoli drahokamů, které se vám podaří sehnat."
+    },
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_010_Group02_Step02_MineMineral01_StepDescription",
+      "en": "Mine for any minerals while hanging out with Scrooge McDuck.",
+      "cz": "Mine for any minerals while hanging out with Scrooge McDuck.",
+      "source": "pre_existing",
+      "original_cz": "Mine for any minerals while hanging out with Scrooge McDuck."
+    },
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_010_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Start Quest"
+    }
+  ],
+  "ParksMiniEvent_Park/Scro_ParkMining_020.locbin": [
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_020_Any_CompletedRequestDescription",
+      "en": "Talk to Scrooge McDuck about the oval gems you found.",
+      "cz": "Promluvte si se Scroogem McDuckem o oválných drahokamech, které jste našli.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Scroogem McDuckem o oválných drahokamech, které jste našli."
+    },
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_020_AvailableDescription",
+      "en": "There's more Dreamlight Parks Fest mining to do with Scrooge McDuck.",
+      "cz": "S Scroogem McDuckem se na festivalu Dreamlight Parks Festu dají dohánět další těžby.",
+      "source": "pre_existing",
+      "original_cz": "S Scroogem McDuckem se na festivalu Dreamlight Parks Festu dají dohánět další těžby."
+    },
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_020_CompletedStoryDescription",
+      "en": "You regroup with Scrooge McDuck to show him the oval gems you collected.",
+      "cz": "Sejdete se znovu se Scroogem McDuckem, abyste mu ukázali oválné drahokamy, které jste nasbírali.",
+      "source": "pre_existing",
+      "original_cz": "Sejdete se znovu se Scroogem McDuckem, abyste mu ukázali oválné drahokamy, které jste nasbírali."
+    },
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_020_DisplayName",
+      "en": "Dreamlight Parks Fest: Ovals",
+      "cz": "Dreamlight Parks Fest: Ovals",
+      "source": "pre_existing",
+      "original_cz": "Dreamlight Parks Fest: Ovals"
+    },
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_020_Group01_Step01_Conditional01_StepDescription",
+      "en": "Hang out with Scrooge McDuck.",
+      "cz": "Hang out with Scrooge McDuck.",
+      "source": "pre_existing",
+      "original_cz": "Hang out with Scrooge McDuck."
+    },
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_020_Group01_StoryDescription",
+      "en": "For the second phase of the celebratory scavenger hunt, Scrooge McDuck asks to hang out with you as you search for oval gems.",
+      "cz": "For the second phase of the celebratory scavenger hunt, Scrooge McDuck asks to hang out with you as you search for oval gems.",
+      "source": "pre_existing",
+      "original_cz": "For the second phase of the celebratory scavenger hunt, Scrooge McDuck asks to hang out with you as you search for oval gems."
+    },
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_020_Group02_Step02_MineMineral01_StepDescription",
+      "en": "Mine for any oval-shaped minerals while hanging out with Scrooge McDuck.<br><br>(Hint: Look for gems such as Aquamarines!)",
+      "cz": "Mine for any oval-shaped minerals while hanging out with Scrooge McDuck.<br><br>(Hint: Look for gems such as Aquamarines!)",
+      "source": "pre_existing",
+      "original_cz": "Mine for any oval-shaped minerals while hanging out with Scrooge McDuck.<br><br>(Hint: Look for gems such as Aquamarines!)"
+    },
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_020_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Start Quest"
+    }
+  ],
+  "ParksMiniEvent_Park/Scro_ParkMining_030.locbin": [
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_030_Any_CompletedRequestDescription",
+      "en": "Show Scrooge McDuck all the rectangular gems you collected.",
+      "cz": "Ukažte Scrooge McDuckovi všechny obdélníkové drahokamy, které jste nasbírali.",
+      "source": "pre_existing",
+      "original_cz": "Ukažte Scrooge McDuckovi všechny obdélníkové drahokamy, které jste nasbírali."
+    },
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_030_AvailableDescription",
+      "en": "Another day, another Dreamlight Parks Fest mining scavenger hunt with Scrooge McDuck. What's on his mind?",
+      "cz": "Další den, další honba za pokladem v rámci Dreamlight Parks Fest se Scroogem McDuckem. Na co myslí?",
+      "source": "pre_existing",
+      "original_cz": "Další den, další honba za pokladem v rámci Dreamlight Parks Fest se Scroogem McDuckem. Na co myslí?"
+    },
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_030_CompletedStoryDescription",
+      "en": "You regroup with Scrooge McDuck to show him all of the rectangular gems you've collected.",
+      "cz": "Sejdete se se Scroogem McDuckem, abyste mu ukázali všechny obdélníkové drahokamy, které jste nasbírali.",
+      "source": "pre_existing",
+      "original_cz": "Sejdete se se Scroogem McDuckem, abyste mu ukázali všechny obdélníkové drahokamy, které jste nasbírali."
+    },
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_030_DisplayName",
+      "en": "Dreamlight Parks Fest: Rectangles",
+      "cz": "Dreamlight Parks Fest: Rectangles",
+      "source": "pre_existing",
+      "original_cz": "Dreamlight Parks Fest: Rectangles"
+    },
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_030_Group01_Step01_Conditional01_StepDescription",
+      "en": "Hang out with Scrooge McDuck.",
+      "cz": "Hang out with Scrooge McDuck.",
+      "source": "pre_existing",
+      "original_cz": "Hang out with Scrooge McDuck."
+    },
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_030_Group01_StoryDescription",
+      "en": "Scrooge McDuck has another idea for the mining scavenger hunt. He asks to hang out with you and mine for rectangular gems.",
+      "cz": "Scrooge McDuck má další nápad na honbu za pokladem v těžbě. Chce si s vámi posedět a těžit obdélníkové drahokamy.",
+      "source": "pre_existing",
+      "original_cz": "Scrooge McDuck má další nápad na honbu za pokladem v těžbě. Chce si s vámi posedět a těžit obdélníkové drahokamy."
+    },
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_030_Group02_Step02_MineMineral01_StepDescription",
+      "en": "Mine for rectangular minerals while hanging out with Scrooge McDuck.<br><br>(Hint: Look for stones such as Emeralds or Amethysts!)",
+      "cz": "Mine for rectangular minerals while hanging out with Scrooge McDuck.<br><br>(Hint: Look for stones such as Emeralds or Amethysts!)",
+      "source": "pre_existing",
+      "original_cz": "Mine for rectangular minerals while hanging out with Scrooge McDuck.<br><br>(Hint: Look for stones such as Emeralds or Amethysts!)"
+    },
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_030_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Start Quest"
+    }
+  ],
+  "ParksMiniEvent_Park/Scro_ParkMining_040.locbin": [
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_040_Any_CompletedRequestDescription",
+      "en": "Return to Scrooge McDuck for your Dreamlight Parks Fest prize!",
+      "cz": "Vraťte se za Scrooge McDuckem pro svou cenu Dreamlight Parks Fest!",
+      "source": "pre_existing",
+      "original_cz": "Vraťte se za Scrooge McDuckem pro svou cenu Dreamlight Parks Fest!"
+    },
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_040_AvailableDescription",
+      "en": "Scrooge McDuck says he's got ONE more mining game up his sleeve before the special prize.",
+      "cz": "Scrooge McDuck říká, že má v rukávu ještě JEDNU těžební hru, než získá speciální cenu.",
+      "source": "pre_existing",
+      "original_cz": "Scrooge McDuck říká, že má v rukávu ještě JEDNU těžební hru, než získá speciální cenu."
+    },
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_040_CompletedStoryDescription",
+      "en": "You finish your scavenger hunt with Scrooge McDuck — and have to regroup with him to claim your final reward!",
+      "cz": "Dokončíte svůj hon za pokladem se Scroogem McDuckem – a musíte se s ním znovu seskupit, abyste získali svou poslední odměnu!",
+      "source": "pre_existing",
+      "original_cz": "Dokončíte svůj hon za pokladem se Scroogem McDuckem – a musíte se s ním znovu seskupit, abyste získali svou poslední odměnu!"
+    },
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_040_DisplayName",
+      "en": "Dreamlight Parks Fest: Shinies!",
+      "cz": "Dreamlight Parks Fest: Shinies!",
+      "source": "pre_existing",
+      "original_cz": "Dreamlight Parks Fest: Shinies!"
+    },
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_040_Group01_Step01_Conditional01_StepDescription",
+      "en": "Hang out with Scrooge McDuck.",
+      "cz": "Hang out with Scrooge McDuck.",
+      "source": "pre_existing",
+      "original_cz": "Hang out with Scrooge McDuck."
+    },
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_040_Group01_StoryDescription",
+      "en": "He asks you to hang out with him and to complete one final mining scavenger search: a search for any shiny gems you can find.",
+      "cz": "Požádá vás, abyste s ním strávili čas a dokončili poslední pátrání po pokladu v těžebním průmyslu: hledání všech lesklých drahokamů, které najdete.",
+      "source": "pre_existing",
+      "original_cz": "Požádá vás, abyste s ním strávili čas a dokončili poslední pátrání po pokladu v těžebním průmyslu: hledání všech lesklých drahokamů, které najdete."
+    },
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_040_Group02_Step02_MineMineral01_StepDescription",
+      "en": "Mine for any shiny minerals while hanging out with Scrooge McDuck.",
+      "cz": "Mine for any shiny minerals while hanging out with Scrooge McDuck.",
+      "source": "pre_existing",
+      "original_cz": "Mine for any shiny minerals while hanging out with Scrooge McDuck."
+    },
+    {
+      "key": "Repeatable!Event!Park!Scro_ParkMining_040_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Start Quest"
+    }
+  ]
+}

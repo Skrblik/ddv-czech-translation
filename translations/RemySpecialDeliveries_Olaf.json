@@ -1,0 +1,281 @@
+{
+  "RemySpecialDeliveries_Olaf/Olaf_CrossNPCDialogues_RemySpecialDeliveries_Olaf_Mirabel.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Hi, Mirabel!",
+      "cz": "Ahoj, Mirabel!",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, Mirabel!"
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "I wanted to thank you for accompanying me to the Frosted Heights.",
+      "cz": "Chtěl jsem ti poděkovat za doprovod do Mrázných výšin.",
+      "source": "pre_existing",
+      "original_cz": "Chtěl jsem ti poděkovat za doprovod do Mrázných výšin."
+    },
+    {
+      "key": "Olaf_002_f",
+      "en": "I loved getting to teach you about something near and dear to my heart...",
+      "cz": "Rád jsem tě učil o něčem, co je mému srdci blízké...",
+      "source": "pre_existing",
+      "original_cz": "Rád jsem tě učil o něčem, co je mému srdci blízké..."
+    },
+    {
+      "key": "Olaf_003_f",
+      "en": "Snow!",
+      "cz": "Sníh!",
+      "source": "pre_existing",
+      "original_cz": "Sníh!"
+    },
+    {
+      "key": "Olaf_004_f",
+      "en": "Thank you, Olaf! I had a great time!",
+      "cz": "Děkuji, Olafe! Skvěle jsem se bavil!",
+      "source": "pre_existing",
+      "original_cz": "Děkuji, Olafe! Skvěle jsem se bavil!"
+    },
+    {
+      "key": "Olaf_005_f",
+      "en": "Who knew there were so many fun facts about snow?",
+      "cz": "Kdo by věděl, že o sněhu existuje tolik zajímavých faktů?",
+      "source": "pre_existing",
+      "original_cz": "Kdo by věděl, že o sněhu existuje tolik zajímavých faktů?"
+    },
+    {
+      "key": "Olaf_006_f",
+      "en": "Oh, I'm so glad you had fun! And I have a gift for you to warm you up after our snowy adventure. Some hot cocoa!",
+      "cz": "Jé, jsem tak rád, že sis to užil! A mám pro tebe dárek, který tě zahřeje po našem zasněženém dobrodružství. Trochu horkého kakaa!",
+      "source": "pre_existing",
+      "original_cz": "Jé, jsem tak rád, že sis to užil! A mám pro tebe dárek, který tě zahřeje po našem zasněženém dobrodružství. Trochu horkého kakaa!"
+    },
+    {
+      "key": "Olaf_008_f",
+      "en": "Did you know that in some ancient civilizations, cocoa was used as a form of currency?!",
+      "cz": "Věděli jste, že v některých starověkých civilizacích se kakao používalo jako platidlo?!",
+      "source": "pre_existing",
+      "original_cz": "Věděli jste, že v některých starověkých civilizacích se kakao používalo jako platidlo?!"
+    },
+    {
+      "key": "Olaf_007_f",
+      "en": "Never stop being you, Olaf.",
+      "cz": "Nikdy nepřestávej být sám sebou, Olafe.",
+      "source": "pre_existing",
+      "original_cz": "Nikdy nepřestávej být sám sebou, Olafe."
+    }
+  ],
+  "RemySpecialDeliveries_Olaf/Olaf_RPT_Remy_030_RPT_Remy_030_BringItem01.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Mmm... {PlayerName}, this <ActivityItem>Hot Cocoa</ActivityItem> is like a warm hug in a mug.",
+      "cz": "Mmm... {PlayerName}, tohle <ActivityItem>Horké kakao</ActivityItem> je jako vřelé objetí v hrnku.",
+      "source": "pre_existing",
+      "original_cz": "Mmm... {PlayerName}, tohle <ActivityItem>Horké kakao</ActivityItem> je jako vřelé objetí v hrnku."
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "There's one for me to hold... one for Mirabel to drink... and one for you, too!",
+      "cz": "Jeden je pro mě... jeden pro Mirabel k pití... a jeden taky pro tebe!",
+      "source": "pre_existing",
+      "original_cz": "Jeden je pro mě... jeden pro Mirabel k pití... a jeden taky pro tebe!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "That's so sweet of you!",
+      "cz": "To je od tebe tak milé!",
+      "source": "pre_existing",
+      "original_cz": "To je od tebe tak milé!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "This is sure to warm Mirabel up!",
+      "cz": "Tohle Mirabel určitě zahřeje!",
+      "source": "pre_existing",
+      "original_cz": "Tohle Mirabel určitě zahřeje!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "So you made me get a hot cocoa... for myself?",
+      "cz": "Takže jsi mě donutil/a dát si horké kakao... pro sebe?",
+      "source": "pre_existing",
+      "original_cz": "Takže jsi mě donutil/a dát si horké kakao... pro sebe?"
+    },
+    {
+      "key": "Olaf_002_f",
+      "en": "Well, you know me and warm hugs — the more the merrier!",
+      "cz": "No, znáš mě a vřelá objetí – čím víc, tím lépe!",
+      "source": "pre_existing",
+      "original_cz": "No, znáš mě a vřelá objetí – čím víc, tím lépe!"
+    },
+    {
+      "key": "Olaf_005_f",
+      "en": "Now, Anna tells me it's customary in such situations to also offer a remuneration. So, this is for you. Now let's go deliver <ActivityItem>Hot Cocoa</ActivityItem> to Mirabel!",
+      "cz": "Anna mi říkala, že v takových situacích je zvykem nabídnout i odměnu. Tak tohle je pro tebe. A teď pojďme doručit <ActivityItem>Horké kakao</ActivityItem> Mirabel!",
+      "source": "pre_existing",
+      "original_cz": "Anna mi říkala, že v takových situacích je zvykem nabídnout i odměnu. Tak tohle je pro tebe. A teď pojďme doručit <ActivityItem>Horké kakao</ActivityItem> Mirabel!"
+    },
+    {
+      "key": "Olaf_003_f",
+      "en": "I hope so.",
+      "cz": "Doufám.",
+      "source": "pre_existing",
+      "original_cz": "Doufám."
+    },
+    {
+      "key": "Olaf_004_f",
+      "en": "Exactly! You got all the fun of making it... and all the fun of being surprised by a gift!",
+      "cz": "Přesně tak! Užil sis všechnu zábavu s jeho výrobou... a také veškerou zábavu s překvapením dárkem!",
+      "source": "pre_existing",
+      "original_cz": "Přesně tak! Užil sis všechnu zábavu s jeho výrobou... a také veškerou zábavu s překvapením dárkem!"
+    }
+  ],
+  "RemySpecialDeliveries_Olaf/Olaf_RPT_Remy_050_RPT_Remy_050_TalkTo03.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Olaf, what do you know about pumpkins?",
+      "cz": "Olafe, co víš o dýních?",
+      "source": "pre_existing",
+      "original_cz": "Olafe, co víš o dýních?"
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "Oh! Oh! This is your lucky day, {PlayerName}. I know SO much.",
+      "cz": "Ach! Ach! Tohle je tvůj šťastný den, {PlayerName}. Vím toho TOLIK.",
+      "source": "pre_existing",
+      "original_cz": "Ach! Ach! Tohle je tvůj šťastný den, {PlayerName}. Vím toho TOLIK."
+    },
+    {
+      "key": "Olaf_002_f",
+      "en": "Did you know that pumpkins are technically a fruit?",
+      "cz": "Věděli jste, že dýně jsou technicky vzato ovoce?",
+      "source": "pre_existing",
+      "original_cz": "Věděli jste, že dýně jsou technicky vzato ovoce?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Fascinating. Tell me another one.",
+      "cz": "Fascinující. Řekni mi další.",
+      "source": "pre_existing",
+      "original_cz": "Fascinující. Řekni mi další."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Well, I came here to invite you to a pumpkin party!",
+      "cz": "Tak, přišel jsem tě sem pozvat na dýňovou párty!",
+      "source": "pre_existing",
+      "original_cz": "Tak, přišel jsem tě sem pozvat na dýňovou párty!"
+    },
+    {
+      "key": "Olaf_003_f",
+      "en": "Pumpkins are composed of 90% water. Huh. I wonder if pumpkins have memory too...",
+      "cz": "Dýně se skládají z 90 % vody. Hmm. Zajímalo by mě, jestli mají dýně taky paměť...",
+      "source": "pre_existing",
+      "original_cz": "Dýně se skládají z 90 % vody. Hmm. Zajímalo by mě, jestli mají dýně taky paměť..."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Fascinating. Tell me another one.",
+      "cz": "Fascinující. Řekni mi další.",
+      "source": "pre_existing",
+      "original_cz": "Fascinující. Řekni mi další."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Well, I came here to invite you to a pumpkin party!",
+      "cz": "Tak, přišel jsem tě sem pozvat na dýňovou párty!",
+      "source": "pre_existing",
+      "original_cz": "Tak, přišel jsem tě sem pozvat na dýňovou párty!"
+    },
+    {
+      "key": "Olaf_004_f",
+      "en": "The average pumpkin weighs thirteen pounds.",
+      "cz": "Průměrná dýně váží třináct liber.",
+      "source": "pre_existing",
+      "original_cz": "Průměrná dýně váží třináct liber."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Fascinating. Tell me another one.",
+      "cz": "Fascinující. Řekni mi další.",
+      "source": "pre_existing",
+      "original_cz": "Fascinující. Řekni mi další."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Well, I came here to invite you to a pumpkin party!",
+      "cz": "Tak, přišel jsem tě sem pozvat na dýňovou párty!",
+      "source": "pre_existing",
+      "original_cz": "Tak, přišel jsem tě sem pozvat na dýňovou párty!"
+    },
+    {
+      "key": "Olaf_005_f",
+      "en": "Did you know the first jack-o'—lanterns weren't made with pumpkins at all but with turnips and potatoes?",
+      "cz": "Věděli jste, že první dýňové lucerny se vůbec nevyráběly z dýní, ale z tuřínu a brambor?",
+      "source": "pre_existing",
+      "original_cz": "Věděli jste, že první dýňové lucerny se vůbec nevyráběly z dýní, ale z tuřínu a brambor?"
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "Fascinating. Tell me another one.",
+      "cz": "Fascinující. Řekni mi další.",
+      "source": "pre_existing",
+      "original_cz": "Fascinující. Řekni mi další."
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "Well, I came here to invite you to a pumpkin party!",
+      "cz": "Tak, přišel jsem tě sem pozvat na dýňovou párty!",
+      "source": "pre_existing",
+      "original_cz": "Tak, přišel jsem tě sem pozvat na dýňovou párty!"
+    },
+    {
+      "key": "Olaf_006_f",
+      "en": "Each pumpkin has about five hundred seeds.",
+      "cz": "Každá dýně má asi pět set semínek.",
+      "source": "pre_existing",
+      "original_cz": "Každá dýně má asi pět set semínek."
+    },
+    {
+      "key": "Olaf_008_f",
+      "en": "Oh... I think we've reached the end of my pumpkin fun fact knowledge. Is there a reason you asked me about them?",
+      "cz": "Ach... Myslím, že jsem se dostala na konec mých znalostí o dýních. Existuje nějaký důvod, proč se mě na ně ptáš?",
+      "source": "pre_existing",
+      "original_cz": "Ach... Myslím, že jsem se dostala na konec mých znalostí o dýních. Existuje nějaký důvod, proč se mě na ně ptáš?"
+    },
+    {
+      "key": "Olaf_009_f",
+      "en": "Yes. I came here to invite you to a pumpkin party.",
+      "cz": "Ano. Přišel jsem tě sem pozvat na dýňovou párty.",
+      "source": "pre_existing",
+      "original_cz": "Ano. Přišel jsem tě sem pozvat na dýňovou párty."
+    },
+    {
+      "key": "Olaf_007_f",
+      "en": "*gasp* That sounds like a wonderful opportunity to learn even more fun pumpkin facts!",
+      "cz": "*lapám po dechu* To zní jako skvělá příležitost dozvědět se ještě více zábavných faktů o dýních!",
+      "source": "pre_existing",
+      "original_cz": "*lapám po dechu* To zní jako skvělá příležitost dozvědět se ještě více zábavných faktů o dýních!"
+    },
+    {
+      "key": "Olaf_010_f",
+      "en": "Just tell me where to go, and I'll RSVP.",
+      "cz": "Jen mi řekněte, kam mám jít, a já se ozvu.",
+      "source": "pre_existing",
+      "original_cz": "Jen mi řekněte, kam mám jít, a já se ozvu."
+    },
+    {
+      "key": "Olaf_011_f",
+      "en": "Just swing by the Fairy Godmother's House later.",
+      "cz": "Zastavte se později u Domku kmotřičky.",
+      "source": "pre_existing",
+      "original_cz": "Zastavte se později u Domku kmotřičky."
+    },
+    {
+      "key": "Olaf_012_f",
+      "en": "Oh. The one that's shaped like a pumpkin! I'm sensing a theme here.",
+      "cz": "Aha. Ta, co má tvar dýně! Cítím v tom nějaké téma.",
+      "source": "pre_existing",
+      "original_cz": "Aha. Ta, co má tvar dýně! Cítím v tom nějaké téma."
+    }
+  ]
+}

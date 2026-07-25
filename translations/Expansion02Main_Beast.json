@@ -1,0 +1,831 @@
+{
+  "Expansion02Main_Beast/Beast_CrossNPCDialogues_Beast_Belle_SEC_E01_Beas_010_BeastBelle.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Belle... I have a gift for you.",
+      "cz": "Belle... Mám pro tebe dárek.",
+      "source": "pre_existing",
+      "original_cz": "Belle... Mám pro tebe dárek."
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "Oh! My book! I wondered where this went.",
+      "cz": "Ach! Moje kniha! Říkal jsem si, kam se to podělo.",
+      "source": "pre_existing",
+      "original_cz": "Ach! Moje kniha! Říkal jsem si, kam se to podělo."
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "I was reading it before the Forgetting, but I couldn't find it anywhere.",
+      "cz": "Četl jsem to před Zapomněním, ale nikde jsem to nemohl najít.",
+      "source": "pre_existing",
+      "original_cz": "Četl jsem to před Zapomněním, ale nikde jsem to nemohl najít."
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "It was in pieces, I'm afraid. I did my best to mend it.",
+      "cz": "Obávám se, že to bylo na kusy. Snažil jsem se to ze všech sil spravit.",
+      "source": "pre_existing",
+      "original_cz": "Obávám se, že to bylo na kusy. Snažil jsem se to ze všech sil spravit."
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "Oh, you did a wonderful job!",
+      "cz": "Odvedl jsi skvělou práci!",
+      "source": "pre_existing",
+      "original_cz": "Odvedl jsi skvělou práci!"
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "Everything is in the right spot!",
+      "cz": "Všechno je na správném místě!",
+      "source": "pre_existing",
+      "original_cz": "Všechno je na správném místě!"
+    },
+    {
+      "key": "Beast_012_f",
+      "en": "I wanted it to be the perfect gift for a perfect day.",
+      "cz": "Chtěla jsem, aby to byl perfektní dárek pro perfektní den.",
+      "source": "pre_existing",
+      "original_cz": "Chtěla jsem, aby to byl perfektní dárek pro perfektní den."
+    },
+    {
+      "key": "Beast_006_f",
+      "en": "Hmm... There's just one thing...",
+      "cz": "Hmm... Je tu jen jedna věc...",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Je tu jen jedna věc..."
+    },
+    {
+      "key": "Beast_007_f",
+      "en": "The part where the prince is revealed — it seems to be in the wrong spot.",
+      "cz": "Část, kde je odhalen princ – zdá se, že je na špatném místě.",
+      "source": "pre_existing",
+      "original_cz": "Část, kde je odhalen princ – zdá se, že je na špatném místě."
+    },
+    {
+      "key": "Beast_008_f",
+      "en": "UGH! I knew I'd make a foolish mistake. I wanted it to be perfect!",
+      "cz": "UF! Věděl jsem, že udělám hloupou chybu. Chtěl jsem, aby to bylo perfektní!",
+      "source": "pre_existing",
+      "original_cz": "UF! Věděl jsem, že udělám hloupou chybu. Chtěl jsem, aby to bylo perfektní!"
+    },
+    {
+      "key": "Beast_009_f",
+      "en": "Oh, but it is!",
+      "cz": "Ale je!",
+      "source": "pre_existing",
+      "original_cz": "Ale je!"
+    },
+    {
+      "key": "Beast_010_f",
+      "en": "That only makes it more perfect.",
+      "cz": "To to jen dělá dokonalejším.",
+      "source": "pre_existing",
+      "original_cz": "To to jen dělá dokonalejším."
+    }
+  ],
+  "Expansion02Main_Beast/Beast_SEC_E02_Beas_010_SEC_E02_Beas_010_BringItem01.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Hey Beast... I found these pages lying around. It's a chapter from a book. It seems like something Belle might like.",
+      "cz": "Hej Bestie... Našla jsem někde povalované stránky. Je to kapitola z knihy. Vypadá to, že by se to Belle mohlo líbit.",
+      "source": "pre_existing",
+      "original_cz": "Hej Bestie... Našla jsem někde povalované stránky. Je to kapitola z knihy. Vypadá to, že by se to Belle mohlo líbit."
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "Hrm... let me see...",
+      "cz": "Hrm... podívejme se...",
+      "source": "pre_existing",
+      "original_cz": "Hrm... podívejme se..."
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "Oh. I remember Belle telling me about this story.",
+      "cz": "Aha. Pamatuji si, jak mi Belle vyprávěla o tomhle příběhu.",
+      "source": "pre_existing",
+      "original_cz": "Aha. Pamatuji si, jak mi Belle vyprávěla o tomhle příběhu."
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "She said that she started reading it before the Forgetting but never got to finish it.",
+      "cz": "Řekla, že ji začala číst před Zapomněním, ale nikdy ji nedokončila.",
+      "source": "pre_existing",
+      "original_cz": "Řekla, že ji začala číst před Zapomněním, ale nikdy ji nedokončila."
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "Where did you find this?",
+      "cz": "Kde jsi tohle našel/našla?",
+      "source": "pre_existing",
+      "original_cz": "Kde jsi tohle našel/našla?"
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "I found it while exploring the Bind.",
+      "cz": "Našel jsem to při prozkoumávání Bindu.",
+      "source": "pre_existing",
+      "original_cz": "Našel jsem to při prozkoumávání Bindu."
+    },
+    {
+      "key": "Beast_006_f",
+      "en": "The Bind... I remember. There are many books in the Bind that Belle might enjoy. She loves to read.",
+      "cz": "Vazba... Vzpomínám si. V Vazbě je mnoho knih, které by se Belle mohly líbit. Miluje čtení.",
+      "source": "pre_existing",
+      "original_cz": "Vazba... Vzpomínám si. V Vazbě je mnoho knih, které by se Belle mohly líbit. Miluje čtení."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Me too! I'm a total bookworm.",
+      "cz": "Já taky! Jsem úplný knihomol.",
+      "source": "pre_existing",
+      "original_cz": "Já taky! Jsem úplný knihomol."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I wish I had more time to read.",
+      "cz": "Přál bych si mít více času na čtení.",
+      "source": "pre_existing",
+      "original_cz": "Přál bych si mít více času na čtení."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Books put me to sleep. I'd rather scroll my phone.",
+      "cz": "Knihy mě uspávají. Raději si prohlížím stránky v telefonu.",
+      "source": "pre_existing",
+      "original_cz": "Knihy mě uspávají. Raději si prohlížím stránky v telefonu."
+    },
+    {
+      "key": "Beast_007_f",
+      "en": "The books in the Valley have worms in them...?",
+      "cz": "V knihách v údolí jsou červi...?",
+      "source": "pre_existing",
+      "original_cz": "V knihách v údolí jsou červi...?"
+    },
+    {
+      "key": "Beast_008_f",
+      "en": "Uh... figure of speech. Don't worry about it.",
+      "cz": "Ehm... obrazná řeč. Nedělej si s tím starosti.",
+      "source": "pre_existing",
+      "original_cz": "Ehm... obrazná řeč. Nedělej si s tím starosti."
+    },
+    {
+      "key": "Beast_009_f",
+      "en": "Er... All right... {PlayerName}, I have a favor to ask of you.",
+      "cz": "Ehm... Dobře... {PlayerName}, mám pro tebe laskavost.",
+      "source": "pre_existing",
+      "original_cz": "Ehm... Dobře... {PlayerName}, mám pro tebe laskavost."
+    },
+    {
+      "key": "Beast_010_f",
+      "en": "I want... *sigh* It's hard for me to put it into words...",
+      "cz": "Chci... *povzdech* Je pro mě těžké to vyjádřit slovy...",
+      "source": "pre_existing",
+      "original_cz": "Chci... *povzdech* Je pro mě těžké to vyjádřit slovy..."
+    },
+    {
+      "key": "Beast_011_f",
+      "en": "... I want to create a magical day for Belle. Something worthy of her kindness.",
+      "cz": "... Chci pro Belle vytvořit kouzelný den. Něco hodnou její laskavosti.",
+      "source": "pre_existing",
+      "original_cz": "... Chci pro Belle vytvořit kouzelný den. Něco hodnou její laskavosti."
+    },
+    {
+      "key": "Beast_012_f",
+      "en": "The Bind seems like the perfect place for it.",
+      "cz": "The Bind se zdá být pro to ideálním místem.",
+      "source": "pre_existing",
+      "original_cz": "The Bind se zdá být pro to ideálním místem."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Ooh! This is so romantic. I'd love to help.",
+      "cz": "Jé! To je tak romantické. Rád bych pomohl.",
+      "source": "pre_existing",
+      "original_cz": "Jé! To je tak romantické. Rád bych pomohl."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "You're a big ol' softie underneath that fur and those claws.",
+      "cz": "Pod tou srstí a drápy se skrývá pořádný měkkýš.",
+      "source": "pre_existing",
+      "original_cz": "Pod tou srstí a drápy se skrývá pořádný měkkýš."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "What's stopping you from doing it yourself?",
+      "cz": "Co ti brání v tom, abys to udělal sám?",
+      "source": "pre_existing",
+      "original_cz": "Co ti brání v tom, abys to udělal sám?"
+    },
+    {
+      "key": "Beast_013_f",
+      "en": "Thank you, {PlayerName}.",
+      "cz": "Děkuji, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji, {PlayerName}."
+    },
+    {
+      "key": "Beast_014_f",
+      "en": "All right, so, a perfect day for Belle... How would it start?",
+      "cz": "Dobře, takže perfektní den pro Belle... Jak by asi začal?",
+      "source": "pre_existing",
+      "original_cz": "Dobře, takže perfektní den pro Belle... Jak by asi začal?"
+    },
+    {
+      "key": "Beast_015_f",
+      "en": "Well... a perfect day should begin with a perfect gift.",
+      "cz": "No... perfektní den by měl začít perfektním dárkem.",
+      "source": "pre_existing",
+      "original_cz": "No... perfektní den by měl začít perfektním dárkem."
+    },
+    {
+      "key": "Beast_016_f",
+      "en": "I don't suppose you've found the rest of this book?",
+      "cz": "Nepředpokládám, že jste našel zbytek této knihy?",
+      "source": "pre_existing",
+      "original_cz": "Nepředpokládám, že jste našel zbytek této knihy?"
+    },
+    {
+      "key": "Beast_017_f",
+      "en": "If we found it, I could bind it back together.",
+      "cz": "Kdybychom to našli, mohl bych to svázat dohromady.",
+      "source": "pre_existing",
+      "original_cz": "Kdybychom to našli, mohl bych to svázat dohromady."
+    },
+    {
+      "key": "Beast_018_f",
+      "en": "Good idea. I'll <Lore>try to find the rest of the book</Lore>.",
+      "cz": "Dobrý nápad. <Lore>Zkusím najít zbytek knihy</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Dobrý nápad. <Lore>Zkusím najít zbytek knihy</Lore>."
+    },
+    {
+      "key": "Beast_019_f",
+      "en": "Perhaps you should start by <Lore>checking the shelves in the Library of Lore</Lore>. Now that you've reminded me of the Bind, I recall that it has a library.",
+      "cz": "Možná bys měl začít <Lore>kontrolou polic v Knihovně Lore</Lore>. Teď, když jsi mi připomněl Bind, si vzpomínám, že tam je knihovna.",
+      "source": "pre_existing",
+      "original_cz": "Možná bys měl začít <Lore>kontrolou polic v Knihovně Lore</Lore>. Teď, když jsi mi připomněl Bind, si vzpomínám, že tam je knihovna."
+    },
+    {
+      "key": "Beast_020_f",
+      "en": "In the meantime, I'll look around the Bind and try to think of other ways to make Belle's day special.",
+      "cz": "Mezitím se porozhlédnu po Bindu a zkusím vymyslet jiné způsoby, jak udělat Belle den výjimečným.",
+      "source": "pre_existing",
+      "original_cz": "Mezitím se porozhlédnu po Bindu a zkusím vymyslet jiné způsoby, jak udělat Belle den výjimečným."
+    },
+    {
+      "key": "Beast_021_f",
+      "en": "Hrm... Well, my fur has been much softer lately since Mr. McDuck sold me some—",
+      "cz": "Hrm... No, moje srst je v poslední době mnohem měkčí, od té doby, co mi pan McDuck nějakou prodal—",
+      "source": "pre_existing",
+      "original_cz": "Hrm... No, moje srst je v poslední době mnohem měkčí, od té doby, co mi pan McDuck nějakou prodal—"
+    },
+    {
+      "key": "Beast_022_f",
+      "en": "Oh. You didn't mean that literally.",
+      "cz": "Aha. To jsi nemyslel doslova.",
+      "source": "pre_existing",
+      "original_cz": "Aha. To jsi nemyslel doslova."
+    },
+    {
+      "key": "Beast_023_f",
+      "en": "Well... I suppose I haven't known what to do.",
+      "cz": "No... asi jsem nevěděl, co mám dělat.",
+      "source": "pre_existing",
+      "original_cz": "No... asi jsem nevěděl, co mám dělat."
+    },
+    {
+      "key": "Beast_024_f",
+      "en": "Perhaps we could discuss it.",
+      "cz": "Možná bychom si o tom mohli promluvit.",
+      "source": "pre_existing",
+      "original_cz": "Možná bychom si o tom mohli promluvit."
+    },
+    {
+      "key": "Beast_025_f",
+      "en": "So does Belle. That's why... well, I have a favor to ask of you.",
+      "cz": "Belle taky. Proto... no, mám pro tebe laskavost.",
+      "source": "pre_existing",
+      "original_cz": "Belle taky. Proto... no, mám pro tebe laskavost."
+    },
+    {
+      "key": "Beast_026_f",
+      "en": "I'm not sure I understand. You prefer scrolls to books?",
+      "cz": "Nejsem si jistý/á, jestli tomu rozumím. Dáváš přednost svitkům před knihami?",
+      "source": "pre_existing",
+      "original_cz": "Nejsem si jistý/á, jestli tomu rozumím. Dáváš přednost svitkům před knihami?"
+    },
+    {
+      "key": "Beast_027_f",
+      "en": "No, not scrolls, my pho— Uh, never mind. It would take too long to explain social media to you.",
+      "cz": "Ne, ne svitky, můj ph— Eh, nevadí. Vysvětlovat ti sociální média by trvalo příliš dlouho.",
+      "source": "pre_existing",
+      "original_cz": "Ne, ne svitky, můj ph— Eh, nevadí. Vysvětlovat ti sociální média by trvalo příliš dlouho."
+    },
+    {
+      "key": "Beast_028_f",
+      "en": "Very well... I won't pry and waste our time because, you see... I have a favor to ask of you.",
+      "cz": "Dobře... Nebudu vás tu trápit a plýtvat vám časem, protože, víte... mám pro vás laskavost.",
+      "source": "pre_existing",
+      "original_cz": "Dobře... Nebudu vás tu trápit a plýtvat vám časem, protože, víte... mám pro vás laskavost."
+    }
+  ],
+  "Expansion02Main_Beast/Beast_SEC_E02_Beas_010_SEC_E02_Beas_010_BringItem02.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "You found the other pages of Belle's book! Thank you, {PlayerName}.",
+      "cz": "Našli jste další stránky Belliny knihy! Děkujeme, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Našli jste další stránky Belliny knihy! Děkujeme, {PlayerName}."
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "She'll be so happy she can finally finish the story.",
+      "cz": "Bude tak šťastná, že konečně může dokončit příběh.",
+      "source": "pre_existing",
+      "original_cz": "Bude tak šťastná, že konečně může dokončit příběh."
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "But I can't give it to her in pieces.",
+      "cz": "Ale nemůžu jí to dát po kouscích.",
+      "source": "pre_existing",
+      "original_cz": "Ale nemůžu jí to dát po kouscích."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Might be fun to read one chapter at a time!",
+      "cz": "Možná by bylo zábavné číst jednu kapitolu po druhé!",
+      "source": "pre_existing",
+      "original_cz": "Možná by bylo zábavné číst jednu kapitolu po druhé!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "It'll be pretty confusing if she reads it in the wrong order.",
+      "cz": "Bude to dost matoucí, když si to přečte ve špatném pořadí.",
+      "source": "pre_existing",
+      "original_cz": "Bude to dost matoucí, když si to přečte ve špatném pořadí."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I guess we could put it back together for her.",
+      "cz": "Asi bychom to pro ni mohli dát dohromady.",
+      "source": "pre_existing",
+      "original_cz": "Asi bychom to pro ni mohli dát dohromady."
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "No, no. She's waited long enough to read the end.",
+      "cz": "Ne, ne. Čekala už dost dlouho na to, aby si přečetla konec.",
+      "source": "pre_existing",
+      "original_cz": "Ne, ne. Čekala už dost dlouho na to, aby si přečetla konec."
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "I'll find a way to bind this back together for Belle.",
+      "cz": "Najdu způsob, jak to pro Belle spojit dohromady.",
+      "source": "pre_existing",
+      "original_cz": "Najdu způsob, jak to pro Belle spojit dohromady."
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "It might take me some time to get the order just right...",
+      "cz": "Možná mi bude chvíli trvat, než se objednávka nastaví správně...",
+      "source": "pre_existing",
+      "original_cz": "Možná mi bude chvíli trvat, než se objednávka nastaví správně..."
+    },
+    {
+      "key": "Beast_006_f",
+      "en": "Did you think about what else Belle would need for her perfect day?",
+      "cz": "Přemýšlela jsi, co dalšího by Belle potřebovala pro svůj dokonalý den?",
+      "source": "pre_existing",
+      "original_cz": "Přemýšlela jsi, co dalšího by Belle potřebovala pro svůj dokonalý den?"
+    },
+    {
+      "key": "Beast_007_f",
+      "en": "I did. I would like the Bind to look bright and inviting for her... Maybe <Lore>paths</Lore>, <Lore>lights</Lore>, and something for us to gather around.",
+      "cz": "Udělala. Chtěla bych, aby Pouto vypadalo pro ni zářivě a lákavě... Možná <Lore>stezky</Lore>, <Lore>světla</Lore> a něco, kolem čeho bychom se mohli shromáždit.",
+      "source": "pre_existing",
+      "original_cz": "Udělala. Chtěla bych, aby Pouto vypadalo pro ni zářivě a lákavě... Možná <Lore>stezky</Lore>, <Lore>světla</Lore> a něco, kolem čeho bychom se mohli shromáždit."
+    },
+    {
+      "key": "Beast_008_f",
+      "en": "I don't suppose you could see to that while I work on the book? I'm not much of a decorator...",
+      "cz": "Nemohl byste se o to postarat, zatímco budu pracovat na knize? Nejsem moc dobrý v dekoraci...",
+      "source": "pre_existing",
+      "original_cz": "Nemohl byste se o to postarat, zatímco budu pracovat na knize? Nejsem moc dobrý v dekoraci..."
+    },
+    {
+      "key": "Player_001_f",
+      "en": "Don't worry, Beast. I'll make the Bind...",
+      "cz": "Neboj se, Bestie. Já způsobím, že Pouto...",
+      "source": "pre_existing",
+      "original_cz": "Neboj se, Bestie. Já způsobím, že Pouto..."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "...cozy and inviting!",
+      "cz": "...útulné a příjemné!",
+      "source": "pre_existing",
+      "original_cz": "...útulné a příjemné!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "...enchanting and magical!",
+      "cz": "...okouzlující a magické!",
+      "source": "pre_existing",
+      "original_cz": "...okouzlující a magické!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "...perfectly adequate. I'm not much of a decorator either...",
+      "cz": "...naprosto dostačující. Ani já nejsem moc dobrý dekoratér...",
+      "source": "pre_existing",
+      "original_cz": "...naprosto dostačující. Ani já nejsem moc dobrý dekoratér..."
+    },
+    {
+      "key": "Beast_009_f",
+      "en": "I know Belle will like that. You're very good at making things... welcoming.",
+      "cz": "Vím, že se to Belle bude líbit. Jsi moc dobrá v tom, jak věci udělat... příjemnými.",
+      "source": "pre_existing",
+      "original_cz": "Vím, že se to Belle bude líbit. Jsi moc dobrá v tom, jak věci udělat... příjemnými."
+    },
+    {
+      "key": "Beast_010_f",
+      "en": "I'll go start rearranging these pages and binding the book back together.",
+      "cz": "Začnu s přeskupováním těchto stránek a svazováním knihy.",
+      "source": "pre_existing",
+      "original_cz": "Začnu s přeskupováním těchto stránek a svazováním knihy."
+    },
+    {
+      "key": "Beast_011_f",
+      "en": "Hmm... which of these would go first...? Well, surely \"THE END\" goes at the back... *sigh*",
+      "cz": "Hmm... který z nich by šel první...? No, \"KONEC\" určitě jde dozadu... *povzdech*",
+      "source": "pre_existing",
+      "original_cz": "Hmm... který z nich by šel první...? No, \"KONEC\" určitě jde dozadu... *povzdech*"
+    },
+    {
+      "key": "Beast_012_f",
+      "en": "That's not true. You're very good at this sort of thing. Belle will like whatever you do.",
+      "cz": "To není pravda. V tomhle jsi velmi dobrá. Belle se bude líbit cokoli, co uděláš.",
+      "source": "pre_existing",
+      "original_cz": "To není pravda. V tomhle jsi velmi dobrá. Belle se bude líbit cokoli, co uděláš."
+    },
+    {
+      "key": "Beast_013_f",
+      "en": "Yes, I'd rather not have the beginnings and endings mixed up.",
+      "cz": "Ano, raději bych nepletl začátky a konce.",
+      "source": "pre_existing",
+      "original_cz": "Ano, raději bych nepletl začátky a konce."
+    },
+    {
+      "key": "Beast_014_f",
+      "en": "You've done so much by finding the pages.",
+      "cz": "Udělal jsi toho tolik, že jsi ty stránky našel.",
+      "source": "pre_existing",
+      "original_cz": "Udělal jsi toho tolik, že jsi ty stránky našel."
+    }
+  ],
+  "Expansion02Main_Beast/Beast_SEC_E02_Beas_010_SEC_E02_Beas_010_Ongoing01.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "You found something that Belle might like? May I see it?",
+      "cz": "Našla jsi něco, co by se Belle mohlo líbit? Můžu se na to podívat?",
+      "source": "pre_existing",
+      "original_cz": "Našla jsi něco, co by se Belle mohlo líbit? Můžu se na to podívat?"
+    }
+  ],
+  "Expansion02Main_Beast/Beast_SEC_E02_Beas_010_SEC_E02_Beas_010_Ongoing02.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Have you found the other pages from that book?",
+      "cz": "Našel jsi ty další stránky z té knihy?",
+      "source": "pre_existing",
+      "original_cz": "Našel jsi ty další stránky z té knihy?"
+    }
+  ],
+  "Expansion02Main_Beast/Beast_SEC_E02_Beas_010_SEC_E02_Beas_010_Ongoing03.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Have you made the Bind look welcoming for Belle yet? I'm still working at binding this book. It's a bit tricky with my claws...",
+      "cz": "Už jsi připravila vazbu, aby vypadala pro Belle vítaně? Pořád pracuji na vazbě téhle knihy. Je to trochu složité s mými drápy...",
+      "source": "pre_existing",
+      "original_cz": "Už jsi připravila vazbu, aby vypadala pro Belle vítaně? Pořád pracuji na vazbě téhle knihy. Je to trochu složité s mými drápy..."
+    }
+  ],
+  "Expansion02Main_Beast/Beast_SEC_E02_Beas_010_SEC_E02_Beas_010_Ongoing04.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "You've finished decorating the Bind? We should speak.",
+      "cz": "Dokončil jsi zdobení Bindu? Měli bychom si promluvit.",
+      "source": "pre_existing",
+      "original_cz": "Dokončil jsi zdobení Bindu? Měli bychom si promluvit."
+    }
+  ],
+  "Expansion02Main_Beast/Beast_SEC_E02_Beas_010_SEC_E02_Beas_010_Ongoing05.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "I have to deliver this book to Belle.",
+      "cz": "Musím doručit tuto knihu Belle.",
+      "source": "pre_existing",
+      "original_cz": "Musím doručit tuto knihu Belle."
+    }
+  ],
+  "Expansion02Main_Beast/Beast_SEC_E02_Beas_010_SEC_E02_Beas_010_Ongoing06.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Do you think Belle liked her gift...? Perhaps you could ask her, just to be sure.",
+      "cz": "Myslíš, že se Belle líbil její dárek...? Možná by ses jí mohla pro jistotu zeptat.",
+      "source": "pre_existing",
+      "original_cz": "Myslíš, že se Belle líbil její dárek...? Možná by ses jí mohla pro jistotu zeptat."
+    }
+  ],
+  "Expansion02Main_Beast/Beast_SEC_E02_Beas_010_SEC_E02_Beas_010_Outro.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Belle was so pleased with her gift and the way you decorated the Bind.",
+      "cz": "Belle byla moc spokojená se svým dárkem a se způsobem, jakým jsi ozdobila Pouto.",
+      "source": "pre_existing",
+      "original_cz": "Belle byla moc spokojená se svým dárkem a se způsobem, jakým jsi ozdobila Pouto."
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "I'm not sure she'll ever want to leave.",
+      "cz": "Nejsem si jistý/á, jestli někdy bude chtít odejít.",
+      "source": "pre_existing",
+      "original_cz": "Nejsem si jistý/á, jestli někdy bude chtít odejít."
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "I don't know how to thank you adequately.",
+      "cz": "Nevím, jak vám mám dostatečně poděkovat.",
+      "source": "pre_existing",
+      "original_cz": "Nevím, jak vám mám dostatečně poděkovat."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "No thanks is needed.",
+      "cz": "Ne, děkuji.",
+      "source": "pre_existing",
+      "original_cz": "Ne, děkuji."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "\"Thank you\" is enough for me!",
+      "cz": "\"Děkuji\" mi stačí!",
+      "source": "pre_existing",
+      "original_cz": "\"Děkuji\" mi stačí!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Hmmm... a big, shiny reward might be nice.",
+      "cz": "Hmmm... velká, lesklá odměna by se mohla hodit.",
+      "source": "pre_existing",
+      "original_cz": "Hmmm... velká, lesklá odměna by se mohla hodit."
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "Yes, it is. After all you've done, I—",
+      "cz": "Ano, je. Po všem, co jsi udělal/a, já—",
+      "source": "pre_existing",
+      "original_cz": "Ano, je. Po všem, co jsi udělal/a, já—"
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "Oh, I almost forgot...",
+      "cz": "Jé, málem jsem zapomněl...",
+      "source": "pre_existing",
+      "original_cz": "Jé, málem jsem zapomněl..."
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "While I was putting together Belle's book, I came across a cache of materials hidden in the Bind.",
+      "cz": "Když jsem dával dohromady Bellinu knihu, narazil jsem na skrýš s materiály ukrytou ve Svazku.",
+      "source": "pre_existing",
+      "original_cz": "Když jsem dával dohromady Bellinu knihu, narazil jsem na skrýš s materiály ukrytou ve Svazku."
+    },
+    {
+      "key": "Beast_006_f",
+      "en": "Perhaps this could help you make the Bind even... er, well, \"cozier,\" as you said.",
+      "cz": "Možná by ti to mohlo pomoct udělat Bind ještě... ehm, no, „útulnějším“, jak jsi řekl/a.",
+      "source": "pre_existing",
+      "original_cz": "Možná by ti to mohlo pomoct udělat Bind ještě... ehm, no, „útulnějším“, jak jsi řekl/a."
+    },
+    {
+      "key": "Beast_007_f",
+      "en": "Perhaps this could help you make the Bind even... er, well, \"more enchanting,\" as you said.",
+      "cz": "Možná by ti to mohlo pomoct udělat Pouto ještě... ehm, no, „okouzlujícím“, jak jsi řekl.",
+      "source": "pre_existing",
+      "original_cz": "Možná by ti to mohlo pomoct udělat Pouto ještě... ehm, no, „okouzlujícím“, jak jsi řekl."
+    },
+    {
+      "key": "Beast_008_f",
+      "en": "Perhaps this could help you make the Bind even... er, well, \"more adequate,\" as you said.",
+      "cz": "Možná by ti to mohlo pomoci udělat Bind ještě... ehm, no, „adekvátnějším“, jak jsi řekl.",
+      "source": "pre_existing",
+      "original_cz": "Možná by ti to mohlo pomoci udělat Bind ještě... ehm, no, „adekvátnějším“, jak jsi řekl."
+    },
+    {
+      "key": "Beast_009_f",
+      "en": "It doesn't FEEL like enough after all you've done.",
+      "cz": "Po všem, co jsi udělal/a, se ti to NEPŘIJÍTÍ jako dost.",
+      "source": "pre_existing",
+      "original_cz": "Po všem, co jsi udělal/a, se ti to NEPŘIJÍTÍ jako dost."
+    },
+    {
+      "key": "Beast_010_f",
+      "en": "I wish I had something worthy.",
+      "cz": "Přál bych si mít něco hodnotného.",
+      "source": "pre_existing",
+      "original_cz": "Přál bych si mít něco hodnotného."
+    }
+  ],
+  "Expansion02Main_Beast/Beast_SEC_E02_Beas_010_SEC_E02_Beas_010_TalkTo01.locbin": [
+    {
+      "key": "Beast_000_f",
+      "en": "Okay, Beast, the Bind is looking cozy and inviting for your day with Belle!",
+      "cz": "Dobře, Bestie, Bind vypadá útulně a lákavě na tvůj den s Belle!",
+      "source": "pre_existing",
+      "original_cz": "Dobře, Bestie, Bind vypadá útulně a lákavě na tvůj den s Belle!"
+    },
+    {
+      "key": "Beast_001_f",
+      "en": "Oh! You've finished?",
+      "cz": "Aha! Už jsi skončil/a?",
+      "source": "pre_existing",
+      "original_cz": "Aha! Už jsi skončil/a?"
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "I'm still struggling with one part of the book...",
+      "cz": "S jednou částí knihy se stále potýkám...",
+      "source": "pre_existing",
+      "original_cz": "S jednou částí knihy se stále potýkám..."
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "The very first pages you brought me. I don't know where they go. In which chapter does the heroine discover the true identity of the prince?",
+      "cz": "Úplně první stránky, které jsi mi přinesl/a. Nevím, kam patří. Ve které kapitole hrdinka objeví pravou identitu prince?",
+      "source": "pre_existing",
+      "original_cz": "Úplně první stránky, které jsi mi přinesl/a. Nevím, kam patří. Ve které kapitole hrdinka objeví pravou identitu prince?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Well, I guess the beginning makes the most sense.",
+      "cz": "No, myslím, že začátek dává největší smysl.",
+      "source": "pre_existing",
+      "original_cz": "No, myslím, že začátek dává největší smysl."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Chapter three, obviously.",
+      "cz": "Třetí kapitola, samozřejmě.",
+      "source": "pre_existing",
+      "original_cz": "Třetí kapitola, samozřejmě."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Not until the end, for maximum suspense!",
+      "cz": "Pro maximální napětí až na konci!",
+      "source": "pre_existing",
+      "original_cz": "Pro maximální napětí až na konci!"
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "Oh. Yes, I suppose that does seem right.",
+      "cz": "Aha. Ano, to se mi zdá správné.",
+      "source": "pre_existing",
+      "original_cz": "Aha. Ano, to se mi zdá správné."
+    },
+    {
+      "key": "Beast_005_f",
+      "en": "There! It's finished.",
+      "cz": "Tady! Je to hotové.",
+      "source": "pre_existing",
+      "original_cz": "Tady! Je to hotové."
+    },
+    {
+      "key": "Beast_006_f",
+      "en": "Let's go give it to Belle!",
+      "cz": "Pojďme to dát Belle!",
+      "source": "pre_existing",
+      "original_cz": "Pojďme to dát Belle!"
+    },
+    {
+      "key": "Beast_007_f",
+      "en": "Yes. That's right. That's what Belle told me.",
+      "cz": "Ano. Přesně tak. To mi Belle řekla.",
+      "source": "pre_existing",
+      "original_cz": "Ano. Přesně tak. To mi Belle řekla."
+    },
+    {
+      "key": "Beast_008_f",
+      "en": "Hmm... I suppose that does make sense.",
+      "cz": "Hmm... To asi dává smysl.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... To asi dává smysl."
+    },
+    {
+      "key": "Beast_009_f",
+      "en": "Okay, Beast, the Bind is looking enchanting and magical for your day with Belle!",
+      "cz": "Dobře, Bestie, Bind vypadá okouzlující a magicky na tvůj den s Belle!",
+      "source": "pre_existing",
+      "original_cz": "Dobře, Bestie, Bind vypadá okouzlující a magicky na tvůj den s Belle!"
+    },
+    {
+      "key": "Beast_010_f",
+      "en": "Okay, Beast, the Bind is looking... well... perfectly adequate for your day with Belle!",
+      "cz": "Dobře, Bestie, Bind vypadá... no... naprosto dostačující pro tvůj den s Belle!",
+      "source": "pre_existing",
+      "original_cz": "Dobře, Bestie, Bind vypadá... no... naprosto dostačující pro tvůj den s Belle!"
+    }
+  ],
+  "Expansion02Main_Beast/SEC_E02_Beas_010.locbin": [
+    {
+      "key": "Secret!Expansion02!BeautyBeast!Beast!SEC_E02_Beas_010_Group02_Step02_StepDescription",
+      "en": "Find the rest of the pages from the book for the Beast by searching the Library of Lore.",
+      "cz": "Zbývající stránky z knihy o Bestii najdete v Knihovně tradic.",
+      "source": "pre_existing",
+      "original_cz": "Zbývající stránky z knihy o Bestii najdete v Knihovně tradic."
+    },
+    {
+      "key": "Secret!Expansion02!BeautyBeast!Beast!SEC_E02_Beas_010_Any_CompletedRequestDescription",
+      "en": "Return to the Beast.",
+      "cz": "Návrat k Bestii.",
+      "source": "pre_existing",
+      "original_cz": "Návrat k Bestii."
+    },
+    {
+      "key": "Secret!Expansion02!BeautyBeast!Beast!SEC_E02_Beas_010_AvailableDescription",
+      "en": "You discovered some loose pages scattered about the Bind. They seemed to be from the sort of book that Belle might like.",
+      "cz": "Objevili jste několik volných stránek rozházených po vazbě. Zdá se, že jsou z knihy, která by se Belle mohla líbit.",
+      "source": "pre_existing",
+      "original_cz": "Objevili jste několik volných stránek rozházených po vazbě. Zdá se, že jsou z knihy, která by se Belle mohla líbit."
+    },
+    {
+      "key": "Secret!Expansion02!BeautyBeast!Beast!SEC_E02_Beas_010_DisplayName",
+      "en": "Belle's Enchanted Day",
+      "cz": "Bellein kouzelný den",
+      "source": "pre_existing",
+      "original_cz": "Bellein kouzelný den"
+    },
+    {
+      "key": "Secret!Expansion02!BeautyBeast!Beast!SEC_E02_Beas_010_Group01_Step01_ReadyDescription",
+      "en": "Bring the <ActivityItem>Mysterious Pages</ActivityItem> to the Beast.",
+      "cz": "Přineste Bestii <ActivityItem>Tajemné stránky</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Přineste Bestii <ActivityItem>Tajemné stránky</ActivityItem>."
+    },
+    {
+      "key": "Secret!Expansion02!BeautyBeast!Beast!SEC_E02_Beas_010_Group01_Step01_StepDescription",
+      "en": "Get the <ActivityItem>Mysterious Pages</ActivityItem> for the Beast.",
+      "cz": "Získejte <ActivityItem>Tajemné stránky</ActivityItem> pro Bestii.",
+      "source": "pre_existing",
+      "original_cz": "Získejte <ActivityItem>Tajemné stránky</ActivityItem> pro Bestii."
+    },
+    {
+      "key": "Secret!Expansion02!BeautyBeast!Beast!SEC_E02_Beas_010_Group01_StepDescription",
+      "en": "You found some pages lying strewn about the Bind. The book reminds you of Belle.",
+      "cz": "Našli jste několik stránek rozházených po Bindu. Kniha vám připomíná Belle.",
+      "source": "pre_existing",
+      "original_cz": "Našli jste několik stránek rozházených po Bindu. Kniha vám připomíná Belle."
+    },
+    {
+      "key": "Secret!Expansion02!BeautyBeast!Beast!SEC_E02_Beas_010_Group02_Step02_ReadyDescription",
+      "en": "Bring the <ActivityItem>Book Pages</ActivityItem> to the Beast.",
+      "cz": "Přineste <ActivityItem>Stránky knihy</ActivityItem> Bestii.",
+      "source": "pre_existing",
+      "original_cz": "Přineste <ActivityItem>Stránky knihy</ActivityItem> Bestii."
+    },
+    {
+      "key": "Secret!Expansion02!BeautyBeast!Beast!SEC_E02_Beas_010_Group03_Step03_Decorate01_StepDescription",
+      "en": "Decorate the Bind with any furniture you like to create a magic moment for Belle.",
+      "cz": "Ozdobte si Bind libovolným nábytkem a vytvořte tak pro Belle kouzelný okamžik.",
+      "source": "pre_existing",
+      "original_cz": "Ozdobte si Bind libovolným nábytkem a vytvořte tak pro Belle kouzelný okamžik."
+    },
+    {
+      "key": "Secret!Expansion02!BeautyBeast!Beast!SEC_E02_Beas_010_Group04_Step04_TalkToCharacter01_StepDescription",
+      "en": "Return to the Beast.",
+      "cz": "Návrat k Bestii.",
+      "source": "pre_existing",
+      "original_cz": "Návrat k Bestii."
+    },
+    {
+      "key": "Secret!Expansion02!BeautyBeast!Beast!SEC_E02_Beas_010_Group05_Step05_Listen01_StepDescription",
+      "en": "Watch as the Beast gives the gift to Belle in the Storybook Vale.",
+      "cz": "Sledujte, jak Bestie dává dárek Belle v Pohádkovém údolí.",
+      "source": "pre_existing",
+      "original_cz": "Sledujte, jak Bestie dává dárek Belle v Pohádkovém údolí."
+    },
+    {
+      "key": "Secret!Expansion02!BeautyBeast!Beast!SEC_E02_Beas_010_Group06_Step06_TalkToCharacter02_StepDescription",
+      "en": "Talk to Belle.",
+      "cz": "Promluv si s Belle.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Belle."
+    }
+  ]
+}

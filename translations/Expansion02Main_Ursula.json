@@ -1,0 +1,279 @@
+{
+  "Expansion02Main_Ursula/Ursula_VLG_Flyn_020_VLG_Flyn_020_BringItem01.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Here are all the Ingredients for the potion.",
+      "cz": "Zde jsou všechny ingredience na lektvar.",
+      "source": "pre_existing",
+      "original_cz": "Zde jsou všechny ingredience na lektvar."
+    },
+    {
+      "key": "Ursula_001_f",
+      "en": "Thank you, dearie. Ah, let's see... Yes, this will do the trick. Now I just need to put everything together...",
+      "cz": "Děkuji, drahoušku. No, uvidíme... Ano, tohle bude stačit. Teď už jen musím dát všechno dohromady...",
+      "source": "pre_existing",
+      "original_cz": "Děkuji, drahoušku. No, uvidíme... Ano, tohle bude stačit. Teď už jen musím dát všechno dohromady..."
+    },
+    {
+      "key": "Ursula_002_f",
+      "en": "Thanks, Ursula. And on the topic of payment...?",
+      "cz": "Díky, Ursulo. A co se týče plateb...?",
+      "source": "pre_existing",
+      "original_cz": "Díky, Ursulo. A co se týče plateb...?"
+    },
+    {
+      "key": "Ursula_003_f",
+      "en": "Oh, no need. Let's call this one a donation.",
+      "cz": "Ach, není třeba. Říkejme tomu dar.",
+      "source": "pre_existing",
+      "original_cz": "Ach, není třeba. Říkejme tomu dar."
+    },
+    {
+      "key": "Ursula_004_f",
+      "en": "I can't wait to see what happens... And perhaps you'll trust me a little more next time.",
+      "cz": "Nemůžu se dočkat, co se stane... A možná mi příště budeš trochu víc věřit.",
+      "source": "pre_existing",
+      "original_cz": "Nemůžu se dočkat, co se stane... A možná mi příště budeš trochu víc věřit."
+    }
+  ],
+  "Expansion02Main_Ursula/Ursula_VLG_Flyn_020_VLG_Flyn_020_TalkTo02.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Well, hello there, angelfish. What can I do for you today?",
+      "cz": "Ahoj, anděle rybko. Co pro tebe můžu dnes udělat?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, anděle rybko. Co pro tebe můžu dnes udělat?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Flynn needs help with his memories.",
+      "cz": "Flynn potřebuje pomoct se svými vzpomínkami.",
+      "source": "pre_existing",
+      "original_cz": "Flynn potřebuje pomoct se svými vzpomínkami."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "We need your expertise with potions.",
+      "cz": "Potřebujeme vaši odbornost s lektvary.",
+      "source": "pre_existing",
+      "original_cz": "Potřebujeme vaši odbornost s lektvary."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Before I answer that, promise I can trust you.",
+      "cz": "Než na to odpovím, slibuji, že ti můžu věřit.",
+      "source": "pre_existing",
+      "original_cz": "Než na to odpovím, slibuji, že ti můžu věřit."
+    },
+    {
+      "key": "Ursula_002_f",
+      "en": "Ah, so that thief needs my help, does he?",
+      "cz": "Aha, takže ten zloděj potřebuje mou pomoc, že?",
+      "source": "pre_existing",
+      "original_cz": "Aha, takže ten zloděj potřebuje mou pomoc, že?"
+    },
+    {
+      "key": "Ursula_005_f",
+      "en": "He is NOT a thief! He left that life behind.",
+      "cz": "On NENÍ zloděj! Ten život nechal za sebou.",
+      "source": "pre_existing",
+      "original_cz": "On NENÍ zloděj! Ten život nechal za sebou."
+    },
+    {
+      "key": "Ursula_006_f",
+      "en": "I wasn't judging. It's not such a bad way to make a living, really.",
+      "cz": "Nesoudila jsem. Není to tak špatný způsob, jak si vydělat na živobytí, ve skutečnosti.",
+      "source": "pre_existing",
+      "original_cz": "Nesoudila jsem. Není to tak špatný způsob, jak si vydělat na živobytí, ve skutečnosti."
+    },
+    {
+      "key": "Ursula_007_f",
+      "en": "Look, if you're not interested in making a deal...",
+      "cz": "Podívej, pokud nemáš zájem o uzavření dohody...",
+      "source": "pre_existing",
+      "original_cz": "Podívej, pokud nemáš zájem o uzavření dohody..."
+    },
+    {
+      "key": "Ursula_008_f",
+      "en": "Oh, I am. Very interested, in fact.",
+      "cz": "Ach, to ano. Vlastně mě to velmi zajímá.",
+      "source": "pre_existing",
+      "original_cz": "Ach, to ano. Vlastně mě to velmi zajímá."
+    },
+    {
+      "key": "Ursula_012_f",
+      "en": "But I'll need a little more information if I'm going to be of help.",
+      "cz": "Ale pokud chci být nápomocná, budu potřebovat trochu více informací.",
+      "source": "pre_existing",
+      "original_cz": "Ale pokud chci být nápomocná, budu potřebovat trochu více informací."
+    },
+    {
+      "key": "Ursula_013_f",
+      "en": "Flynn has been having strange dreams. We think they're linked to his past, but he's only been able to remember bits and pieces.",
+      "cz": "Flynn má divné sny. Myslíme si, že souvisí s jeho minulostí, ale on si pamatuje jen útržky.",
+      "source": "pre_existing",
+      "original_cz": "Flynn má divné sny. Myslíme si, že souvisí s jeho minulostí, ale on si pamatuje jen útržky."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "We need to help him remember more.",
+      "cz": "Musíme mu pomoct si víc pamatovat.",
+      "source": "pre_existing",
+      "original_cz": "Musíme mu pomoct si víc pamatovat."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "You must have some kind of memory potion?",
+      "cz": "Musíš mít nějaký lektvar paměti?",
+      "source": "pre_existing",
+      "original_cz": "Musíš mít nějaký lektvar paměti?"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Help us, pretty please?",
+      "cz": "Pomozte nám, prosím hezky?",
+      "source": "pre_existing",
+      "original_cz": "Pomozte nám, prosím hezky?"
+    },
+    {
+      "key": "Ursula_015_f",
+      "en": "I can assist you with that...",
+      "cz": "S tím vám můžu pomoct...",
+      "source": "pre_existing",
+      "original_cz": "S tím vám můžu pomoct..."
+    },
+    {
+      "key": "Ursula_017_f",
+      "en": "BUT! I'm warning you: Playing with memories is a dangerous game.",
+      "cz": "ALE! Varuji tě: Hraní si se vzpomínkami je nebezpečná hra.",
+      "source": "pre_existing",
+      "original_cz": "ALE! Varuji tě: Hraní si se vzpomínkami je nebezpečná hra."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I can handle it.",
+      "cz": "Zvládnu to.",
+      "source": "pre_existing",
+      "original_cz": "Zvládnu to."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "It's worth the risk.",
+      "cz": "Stojí to za to riziko.",
+      "source": "pre_existing",
+      "original_cz": "Stojí to za to riziko."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "So is working with YOU, yet here I am.",
+      "cz": "Stejně tak i spolupráce s TEBOU, a přesto jsem tady.",
+      "source": "pre_existing",
+      "original_cz": "Stejně tak i spolupráce s TEBOU, a přesto jsem tady."
+    },
+    {
+      "key": "Ursula_018_f",
+      "en": "Confident, aren't we? Well, we'll see about that...",
+      "cz": "Jsme si jistí, že? No, to uvidíme...",
+      "source": "pre_existing",
+      "original_cz": "Jsme si jistí, že? No, to uvidíme..."
+    },
+    {
+      "key": "Ursula_021_f",
+      "en": "There's a potion that can help bring buried memories to the forefront of the mind.",
+      "cz": "Existuje lektvar, který může pomoci vynést do popředí mysli pohřbené vzpomínky.",
+      "source": "pre_existing",
+      "original_cz": "Existuje lektvar, který může pomoci vynést do popředí mysli pohřbené vzpomínky."
+    },
+    {
+      "key": "Ursula_022_f",
+      "en": "It's a complicated one. Take this recipe and <Lore>bring me everything listed</Lore>. I'll do the rest. And, angelfish...?",
+      "cz": "Je to složité. Vezmi si tento recept a <Lore>přines mi všechno, co je uvedeno</Lore>. Já se postarám o zbytek. A andělská rybka...?",
+      "source": "pre_existing",
+      "original_cz": "Je to složité. Vezmi si tento recept a <Lore>přines mi všechno, co je uvedeno</Lore>. Já se postarám o zbytek. A andělská rybka...?"
+    },
+    {
+      "key": "Ursula_025_f",
+      "en": "Remember my warning!",
+      "cz": "Pamatujte na mé varování!",
+      "source": "pre_existing",
+      "original_cz": "Pamatujte na mé varování!"
+    },
+    {
+      "key": "Ursula_019_f",
+      "en": "How noble of you.",
+      "cz": "Jak ušlechtilé od vás.",
+      "source": "pre_existing",
+      "original_cz": "Jak ušlechtilé od vás."
+    },
+    {
+      "key": "Ursula_020_f",
+      "en": "Why dearie, I'd never double-cross YOU! ... Unless the price was right.",
+      "cz": "Draháčku, nikdy bych TĚ nepodvedla! ... Ledaže by cena byla správná.",
+      "source": "pre_existing",
+      "original_cz": "Draháčku, nikdy bych TĚ nepodvedla! ... Ledaže by cena byla správná."
+    },
+    {
+      "key": "Ursula_001_f",
+      "en": "Oh, I have what you need.",
+      "cz": "Aha, mám, co potřebujete.",
+      "source": "pre_existing",
+      "original_cz": "Aha, mám, co potřebujete."
+    },
+    {
+      "key": "Ursula_029_f",
+      "en": "It's so rare someone asks me nicely. I SUPPOSE I can help you...",
+      "cz": "Je tak vzácné, že mě někdo mile požádá. DOufám, že vám můžu pomoct...",
+      "source": "pre_existing",
+      "original_cz": "Je tak vzácné, že mě někdo mile požádá. DOufám, že vám můžu pomoct..."
+    },
+    {
+      "key": "Ursula_003_f",
+      "en": "Well, you'll have to be more specific than that if you want my help.",
+      "cz": "No, pokud chcete mou pomoc, budete muset být konkrétnější.",
+      "source": "pre_existing",
+      "original_cz": "No, pokud chcete mou pomoc, budete muset být konkrétnější."
+    },
+    {
+      "key": "Ursula_009_f",
+      "en": "I need to know if I can trust you first.",
+      "cz": "Nejdřív potřebuji vědět, jestli ti můžu věřit.",
+      "source": "pre_existing",
+      "original_cz": "Nejdřív potřebuji vědět, jestli ti můžu věřit."
+    },
+    {
+      "key": "Ursula_010_f",
+      "en": "{PlayerName}, I'm wounded! Haven't I proven myself to you already?",
+      "cz": "{PlayerName}, jsem zraněná! Neprokázala jsem ti už, co vím?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, jsem zraněná! Neprokázala jsem ti už, co vím?"
+    },
+    {
+      "key": "Ursula_026_f",
+      "en": "Just barely.",
+      "cz": "Jen sotva.",
+      "source": "pre_existing",
+      "original_cz": "Jen sotva."
+    },
+    {
+      "key": "Ursula_027_f",
+      "en": "Well, you're not really in a position to be picky now, are you?",
+      "cz": "No, teď už asi nejsi v pozici, kdy bys mohla být vybíravá, že ne?",
+      "source": "pre_existing",
+      "original_cz": "No, teď už asi nejsi v pozici, kdy bys mohla být vybíravá, že ne?"
+    },
+    {
+      "key": "Ursula_004_f",
+      "en": "No tricks, no games.",
+      "cz": "Žádné triky, žádné hry.",
+      "source": "pre_existing",
+      "original_cz": "Žádné triky, žádné hry."
+    },
+    {
+      "key": "Ursula_011_f",
+      "en": "Haven't I proven myself to you already?",
+      "cz": "Neprokázala jsem ti už, co jsem?",
+      "source": "pre_existing",
+      "original_cz": "Neprokázala jsem ti už, co jsem?"
+    }
+  ]
+}

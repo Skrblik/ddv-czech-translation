@@ -1,0 +1,774 @@
+{
+  "PeterPan_Story/MRQS140_Shadow.locbin": [
+    {
+      "key": "Story!MRQS140_Shadow_AvailableDescription",
+      "en": "Skull Rock has opened! You should go check it out with <Lore>{character:DreamlightValley!TheForgotten}</Lore>.",
+      "cz": "Skála Lebky se otevřel! Měli byste se tam jít podívat s <Lore>{character:DreamlightValley!TheForgotten}</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Skála Lebky se otevřel! Měli byste se tam jít podívat s <Lore>{character:DreamlightValley!TheForgotten}</Lore>."
+    },
+    {
+      "key": "Story!MRQS140_Shadow_DisplayName",
+      "en": "Shadows on the Wall",
+      "cz": "Stíny na zdi",
+      "source": "pre_existing",
+      "original_cz": "Stíny na zdi"
+    },
+    {
+      "key": "Story!MRQS140_Shadow_Group01_Step01_VisitArea01_StepDescription",
+      "en": "Make your way into Skull Rock with <Lore>{character:DreamlightValley!TheForgotten}</Lore>.",
+      "cz": "Probojujte se do Skála Lebky pomocí <Lore>{character:DreamlightValley!TheForgotten}</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Probojujte se do Skála Lebky pomocí <Lore>{character:DreamlightValley!TheForgotten}</Lore>."
+    },
+    {
+      "key": "Story!MRQS140_Shadow_Group01_StoryDescription",
+      "en": "What mysteries lie inside the mysterious Skull Rock?",
+      "cz": "Jaká tajemství se skrývají uvnitř tajemné Skalní lebky?",
+      "source": "pre_existing",
+      "original_cz": "Jaká tajemství se skrývají uvnitř tajemné Skalní lebky?"
+    },
+    {
+      "key": "Story!MRQS140_Shadow_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Talk to <Lore>{TargetNPC}</Lore>.",
+      "cz": "Promluvte si s <Lore>{TargetNPC}</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s <Lore>{TargetNPC}</Lore>."
+    },
+    {
+      "key": "Story!MRQS140_Shadow_Group03_Step03_FollowCharacter01_StepDescription",
+      "en": "Meet with <Lore>{character:DreamlightValley!TheForgotten}</Lore> when ready.",
+      "cz": "Sejděte se s <Lore>{character:DreamlightValley!TheForgotten}</Lore>, až budete připraveni.",
+      "source": "pre_existing",
+      "original_cz": "Sejděte se s <Lore>{character:DreamlightValley!TheForgotten}</Lore>, až budete připraveni."
+    },
+    {
+      "key": "Story!MRQS140_Shadow_Group03_Step03_FollowCharacter01_TalkToDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluvte si s {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC}."
+    },
+    {
+      "key": "Story!MRQS140_Shadow_Group03_Step03_FollowCharacter01_WrongSceneDescription",
+      "en": "Return to Skull Rock.",
+      "cz": "Vraťte se na Skalní skálu.",
+      "source": "pre_existing",
+      "original_cz": "Vraťte se na Skalní skálu."
+    },
+    {
+      "key": "Story!MRQS140_Shadow_Group03_StepDescription",
+      "en": "Explore Skull Rock.",
+      "cz": "Prozkoumejte Skalní lebku.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte Skalní lebku."
+    },
+    {
+      "key": "Story!MRQS140_Shadow_Group04_Step05_Possess01_StepDescription",
+      "en": "Investigate Skull Rock for more clues.",
+      "cz": "Prozkoumejte Skalní lebku a najděte další stopy.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte Skalní lebku a najděte další stopy."
+    },
+    {
+      "key": "Story!MRQS140_Shadow_Group05_Step06_TalkToCharacter02_StepDescription",
+      "en": "Talk to <Lore>{TargetNPC}</Lore>.",
+      "cz": "Promluvte si s <Lore>{TargetNPC}</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s <Lore>{TargetNPC}</Lore>."
+    },
+    {
+      "key": "Story!MRQS140_Shadow_Group06_Step07_Possess02_StepDescription",
+      "en": "<ActivityItem>Broken Lanterns</ActivityItem> in Skull Rock.",
+      "cz": "<ActivityItem>Rozbité lucerny</ActivityItem> v Lebkové skále.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Rozbité lucerny</ActivityItem> v Lebkové skále."
+    },
+    {
+      "key": "Story!MRQS140_Shadow_Group06_Step07_Possess03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!MRQS140_Shadow_Group06_Step07_Possess04_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!MRQS140_Shadow_Group06_Step07_Possess05_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!MRQS140_Shadow_Group06_Step07_StepDescription",
+      "en": "Gather resources to repair the <ActivityItem>Broken Lanterns</ActivityItem>.",
+      "cz": "Shromážděte zdroje k opravě <ActivityItem>Rozbitých luceren</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Shromážděte zdroje k opravě <ActivityItem>Rozbitých luceren</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS140_Shadow_Group06_Step08_StepDescription",
+      "en": "Catch the <ActivityItem>Pixie Dust Orbs</ActivityItem> in the Village.",
+      "cz": "Chyť <ActivityItem>Praštinové koule víl</ActivityItem> ve vesnici.",
+      "source": "pre_existing",
+      "original_cz": "Chyť <ActivityItem>Praštinové koule víl</ActivityItem> ve vesnici."
+    },
+    {
+      "key": "Story!MRQS140_Shadow_Group06_StoryDescription",
+      "en": "After exploring the entrance of Skull Rock, it becomes clear the path forward won't be simple. You'll need to gather and repair three broken Pixie Dust Lanterns and place them on the Rope Winches if you want to explore further.",
+      "cz": "Po prozkoumání vchodu do Skalní skály je jasné, že cesta vpřed nebude jednoduchá. Pokud chcete prozkoumat dále, budete muset sesbírat a opravit tři rozbité lucerny Vílí prášek a umístit je na lanové navijáky.",
+      "source": "pre_existing",
+      "original_cz": "Po prozkoumání vchodu do Skalní skály je jasné, že cesta vpřed nebude jednoduchá. Pokud chcete prozkoumat dále, budete muset sesbírat a opravit tři rozbité lucerny Vílí prášek a umístit je na lanové navijáky."
+    },
+    {
+      "key": "Story!MRQS140_Shadow_Group07_Step09_CraftItem01_StepDescription",
+      "en": "Repair the <ActivityItem>Broken Lanterns</ActivityItem> at a Crafting Station.",
+      "cz": "Opravte <ActivityItem>rozbité lucerny</ActivityItem> v řemeslné stanici.",
+      "source": "pre_existing",
+      "original_cz": "Opravte <ActivityItem>rozbité lucerny</ActivityItem> v řemeslné stanici."
+    },
+    {
+      "key": "Story!MRQS140_Shadow_Group08_StepDescription",
+      "en": "Place the <ActivityItem>Pixie Dust Lanterns</ActivityItem> on all three <Lore>Rope Winches</Lore> in Skull Rock.",
+      "cz": "Umístěte <ActivityItem>Lucerny z vílího prachu</ActivityItem> na všechny tři <Lore>lanové navijáky</Lore> v Lebkové skále.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte <ActivityItem>Lucerny z vílího prachu</ActivityItem> na všechny tři <Lore>lanové navijáky</Lore> v Lebkové skále."
+    },
+    {
+      "key": "Story!MRQS140_Shadow_Group09_Step11_Conditional01_StepDescription",
+      "en": "Look for the strange shadow using the <ActivityItem>Pixie Dust Lanterns</ActivityItem>.",
+      "cz": "Hledejte podivný stín pomocí <ActivityItem>Luceren z vílího prachu</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Hledejte podivný stín pomocí <ActivityItem>Luceren z vílího prachu</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS140_Shadow_Group09_StoryDescription",
+      "en": "The lanterns are shining bright! These will be perfect to use to try and catch that mysterious shadow!",
+      "cz": "Lucerny jasně září! Budou perfektní k pokusu chytit ten tajemný stín!",
+      "source": "pre_existing",
+      "original_cz": "Lucerny jasně září! Budou perfektní k pokusu chytit ten tajemný stín!"
+    },
+    {
+      "key": "Story!MRQS140_Shadow_Group10_Step12_Conditional02_StepDescription",
+      "en": "Trap the Shadow in one place using all three <ActivityItem>Pixie Dust Lanterns</ActivityItem> together.",
+      "cz": "Uvězněte Stín na jednom místě pomocí všech tří <ActivityItem>Lampionů vílího prachu</ActivityItem> dohromady.",
+      "source": "pre_existing",
+      "original_cz": "Uvězněte Stín na jednom místě pomocí všech tří <ActivityItem>Lampionů vílího prachu</ActivityItem> dohromady."
+    },
+    {
+      "key": "Story!MRQS140_Shadow_Group10_StepDescription",
+      "en": "The Shadow appeared for a second!",
+      "cz": "Stín se na vteřinu objevil!",
+      "source": "pre_existing",
+      "original_cz": "Stín se na vteřinu objevil!"
+    },
+    {
+      "key": "Story!MRQS140_Shadow_Group11_Step13_TalkToCharacter03_StepDescription",
+      "en": "Try communicating with the Shadow.",
+      "cz": "Zkuste komunikovat se Stínem.",
+      "source": "pre_existing",
+      "original_cz": "Zkuste komunikovat se Stínem."
+    },
+    {
+      "key": "Story!MRQS140_Shadow_Group11_StoryDescription",
+      "en": "The Shadow! There it is! But... can it communicate?",
+      "cz": "Stín! Tady je! Ale... dokáže komunikovat?",
+      "source": "pre_existing",
+      "original_cz": "Stín! Tady je! Ale... dokáže komunikovat?"
+    },
+    {
+      "key": "Story!MRQS140_Shadow_Group12_Step14_Conditional03_StepDescription",
+      "en": "Shine a lantern on the gate to let the Shadow lead the way.",
+      "cz": "Posviťte lucernou na bránu, aby vás Stín vedl.",
+      "source": "pre_existing",
+      "original_cz": "Posviťte lucernou na bránu, aby vás Stín vedl."
+    },
+    {
+      "key": "Story!MRQS140_Shadow_Group13_Step15_TalkToCharacter04_StepDescription",
+      "en": "Talk to the Jade Skulls.",
+      "cz": "Promluvte si s Nefritovými lebkami.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Nefritovými lebkami."
+    },
+    {
+      "key": "Story!MRQS140_Shadow_Group14_Step16_Conditional04_StepDescription",
+      "en": "Complete the Jade Skull riddles.",
+      "cz": "Vyřešte hádanky s Nefritovou lebkou.",
+      "source": "pre_existing",
+      "original_cz": "Vyřešte hádanky s Nefritovou lebkou."
+    },
+    {
+      "key": "Story!MRQS140_Shadow_Group15_Step17_Conditional05_StepDescription",
+      "en": "Turn the wheel to open the wooden gate.",
+      "cz": "Otočte kolečkem, abyste otevřeli dřevěnou bránu.",
+      "source": "pre_existing",
+      "original_cz": "Otočte kolečkem, abyste otevřeli dřevěnou bránu."
+    },
+    {
+      "key": "Story!MRQS140_Shadow_Group15_StepDescription",
+      "en": "A wheel near the gate appeared!",
+      "cz": "Objevilo se kolo poblíž brány!",
+      "source": "pre_existing",
+      "original_cz": "Objevilo se kolo poblíž brány!"
+    },
+    {
+      "key": "Story!MRQS140_Shadow_Group15_StoryDescription",
+      "en": "After answering the three riddles from the Jade Skulls, a wheel has become available to open the gate and continue on the path through Skull Rock.",
+      "cz": "Po zodpovězení tří hádanek od Nefritových lebek se zpřístupní kolo pro otevření brány a pokračování po cestě skrz Skalku lebek.",
+      "source": "pre_existing",
+      "original_cz": "Po zodpovězení tří hádanek od Nefritových lebek se zpřístupní kolo pro otevření brány a pokračování po cestě skrz Skalku lebek."
+    }
+  ],
+  "PeterPan_Story/MRQS142_Symbols.locbin": [
+    {
+      "key": "Story!MRQS142_Symbols_AvailableDescription",
+      "en": "What mysteries await you deeper in Skull Rock? Follow the Shadow and <Lore>{character:DreamlightValley!TheForgotten}</Lore> to find out.",
+      "cz": "Jaká tajemství na vás čekají hlouběji ve Skalní skále? Sledujte Stín a <Lore>{character:DreamlightValley!TheForgotten}</Lore>, abyste je zjistili.",
+      "source": "pre_existing",
+      "original_cz": "Jaká tajemství na vás čekají hlouběji ve Skalní skále? Sledujte Stín a <Lore>{character:DreamlightValley!TheForgotten}</Lore>, abyste je zjistili."
+    },
+    {
+      "key": "Story!MRQS142_Symbols_DisplayName",
+      "en": "A Ship of Gold",
+      "cz": "Loď ze zlata",
+      "source": "pre_existing",
+      "original_cz": "Loď ze zlata"
+    },
+    {
+      "key": "Story!MRQS142_Symbols_Group01_Step01_FollowCharacter01_StepDescription",
+      "en": "Follow the Shadow and {TargetNPC} further into Skull Rock.",
+      "cz": "Následujte Stín a {TargetNPC} dále do Skalní skály.",
+      "source": "pre_existing",
+      "original_cz": "Následujte Stín a {TargetNPC} dále do Skalní skály."
+    },
+    {
+      "key": "Story!MRQS142_Symbols_Group01_Step01_FollowCharacter01_TalkToDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluvte si s {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC}."
+    },
+    {
+      "key": "Story!MRQS142_Symbols_Group01_Step01_FollowCharacter01_WrongSceneDescription",
+      "en": "Return to Skull Rock.",
+      "cz": "Vraťte se na Skalní skálu.",
+      "source": "pre_existing",
+      "original_cz": "Vraťte se na Skalní skálu."
+    },
+    {
+      "key": "Story!MRQS142_Symbols_Group02_StepDescription",
+      "en": "Search the area for a way to continue through Skull Rock.",
+      "cz": "Prohledejte oblast a hledejte způsob, jak pokračovat přes Skálu Lebky.",
+      "source": "pre_existing",
+      "original_cz": "Prohledejte oblast a hledejte způsob, jak pokračovat přes Skálu Lebky."
+    },
+    {
+      "key": "Story!MRQS142_Symbols_Group03_Step05_TalkToCharacter01_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluvte si s {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC}."
+    },
+    {
+      "key": "Story!MRQS142_Symbols_Group04_Step06_StepDescription",
+      "en": "Follow the <ActivityItem>Pixie Dust Orb</ActivityItem> in Skull Rock.",
+      "cz": "Sledujte <ActivityItem>Koule Vílího prachu</ActivityItem> ve Skála Lebky.",
+      "source": "pre_existing",
+      "original_cz": "Sledujte <ActivityItem>Koule Vílího prachu</ActivityItem> ve Skála Lebky."
+    },
+    {
+      "key": "Story!MRQS142_Symbols_Group04_Step07_Possess02_StepDescription",
+      "en": "Gather the <ActivityItem>Skull Rock Pixie Dust</ActivityItem>.",
+      "cz": "Sesbírejte <ActivityItem>Praštin skřítků z Lebčího kamene</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Sesbírejte <ActivityItem>Praštin skřítků z Lebčího kamene</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS142_Symbols_Group04_StepDescription",
+      "en": "Another <ActivityItem>Pixie Dust Orb</ActivityItem> was released!",
+      "cz": "Další <ActivityItem>Koule Vílího prachu</ActivityItem> byla vydána!",
+      "source": "pre_existing",
+      "original_cz": "Další <ActivityItem>Koule Vílího prachu</ActivityItem> byla vydána!"
+    },
+    {
+      "key": "Story!MRQS142_Symbols_Group05_Step08_StepDescription",
+      "en": "Catch the <ActivityItem>Pixie Dust Orb</ActivityItem>.",
+      "cz": "Chyť <ActivityItem>Koule Vílího prachu</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Chyť <ActivityItem>Koule Vílího prachu</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS142_Symbols_Group05_Step09_Possess03_StepDescription",
+      "en": "Gather the <ActivityItem>Skull Rock Pixie Dust</ActivityItem>.",
+      "cz": "Sesbírejte <ActivityItem>Praštin skřítků z Lebčího kamene</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Sesbírejte <ActivityItem>Praštin skřítků z Lebčího kamene</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS142_Symbols_Group05_StepDescription",
+      "en": "Follow the <ActivityItem>Pixie Dust Orb</ActivityItem> around Skull Rock.",
+      "cz": "Sledujte <ActivityItem>Koule Vílího prachu</ActivityItem> kolem Skalní skály.",
+      "source": "pre_existing",
+      "original_cz": "Sledujte <ActivityItem>Koule Vílího prachu</ActivityItem> kolem Skalní skály."
+    },
+    {
+      "key": "Story!MRQS142_Symbols_Group06_Step11_StepDescription",
+      "en": "Use the <ActivityItem>Skull Rock Pixie Dust</ActivityItem> to make something fly in Skull Rock.",
+      "cz": "Použijte <ActivityItem>Praštinný prach ze Skály Lebky</ActivityItem>, abyste v Skále Lebky něco nechali létat.",
+      "source": "pre_existing",
+      "original_cz": "Použijte <ActivityItem>Praštinný prach ze Skály Lebky</ActivityItem>, abyste v Skále Lebky něco nechali létat."
+    },
+    {
+      "key": "Story!MRQS142_Symbols_Group07_Step12_VisitArea10_StepDescription",
+      "en": "Cross to the other side of Skull Rock.",
+      "cz": "Přejděte na druhou stranu Skály Lebky.",
+      "source": "pre_existing",
+      "original_cz": "Přejděte na druhou stranu Skály Lebky."
+    },
+    {
+      "key": "Story!MRQS142_Symbols_Group07_StepDescription",
+      "en": "The ship is flying!",
+      "cz": "Loď letí!",
+      "source": "pre_existing",
+      "original_cz": "Loď letí!"
+    },
+    {
+      "key": "Story!MRQS142_Symbols_Group08_Step13_TalkToCharacter02_StepDescription",
+      "en": "Talk to {TargetNPC} across the ship in Skull Rock.",
+      "cz": "Promluvte si s {TargetNPC} na druhé straně lodi v Skále Lebky.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC} na druhé straně lodi v Skále Lebky."
+    },
+    {
+      "key": "Story!MRQS142_Symbols_Group09_Step14_Conditional01_StepDescription",
+      "en": "Match the first pair of symbols.",
+      "cz": "Přiřaďte první dvojici symbolů.",
+      "source": "pre_existing",
+      "original_cz": "Přiřaďte první dvojici symbolů."
+    },
+    {
+      "key": "Story!MRQS142_Symbols_Group09_Step14_Conditional02_StepDescription",
+      "en": "Match the second pair of symbols.",
+      "cz": "Přiřaďte druhou dvojici symbolů.",
+      "source": "pre_existing",
+      "original_cz": "Přiřaďte druhou dvojici symbolů."
+    },
+    {
+      "key": "Story!MRQS142_Symbols_Group09_Step14_Conditional03_StepDescription",
+      "en": "Match the third pair of symbols.",
+      "cz": "Přiřaďte třetí dvojici symbolů.",
+      "source": "pre_existing",
+      "original_cz": "Přiřaďte třetí dvojici symbolů."
+    },
+    {
+      "key": "Story!MRQS142_Symbols_Group09_Step14_StepDescription",
+      "en": "Solve the Skull Rock barrel puzzle:",
+      "cz": "Vyřešte hádanku s sudem Skály Lebky:",
+      "source": "pre_existing",
+      "original_cz": "Vyřešte hádanku s sudem Skály Lebky:"
+    },
+    {
+      "key": "Story!MRQS142_Symbols_Group09_Step15_StepDescription",
+      "en": "(optional) Ask the Jade Skulls for clues.",
+      "cz": "(volitelné) Požádejte Nefritové lebky o vodítka.",
+      "source": "pre_existing",
+      "original_cz": "(volitelné) Požádejte Nefritové lebky o vodítka."
+    },
+    {
+      "key": "Story!MRQS142_Symbols_Group10_Step17_Possess04_StepDescription",
+      "en": "Investigate the Captain's Cabin for another {ItemName}.",
+      "cz": "Prozkoumejte kapitánskou kajutu a hledejte další {ItemName}.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte kapitánskou kajutu a hledejte další {ItemName}."
+    },
+    {
+      "key": "Story!MRQS142_Symbols_Group10_StepDescription",
+      "en": "Open the second gate in Skull Rock.",
+      "cz": "Otevřete druhou bránu v Skále Lebky.",
+      "source": "pre_existing",
+      "original_cz": "Otevřete druhou bránu v Skále Lebky."
+    },
+    {
+      "key": "Story!MRQS142_Symbols_Group11_Step18_Possess05_StepDescription",
+      "en": "Find the key to the Captain's Cabin.",
+      "cz": "Najděte klíč od kapitánské kajuty.",
+      "source": "pre_existing",
+      "original_cz": "Najděte klíč od kapitánské kajuty."
+    }
+  ],
+  "PeterPan_Story/MRQS144_MusicWalls.locbin": [
+    {
+      "key": "Story!MRQS144_MusicWalls_Any_CompletedRequestDescription",
+      "en": "Return to <Lore>{character:DreamlightValley!TheForgotten}</Lore>.",
+      "cz": "Zpět na <Lore>{character:DreamlightValley!TheForgotten}</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Zpět na <Lore>{character:DreamlightValley!TheForgotten}</Lore>."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_AvailableDescription",
+      "en": "It's time to move deeper into Skull Rock than ever before! You should explore some more with <Lore>{character:DreamlightValley!TheForgotten}</Lore>.",
+      "cz": "Je čas ponořit se hlouběji do Skály Lebky než kdy dříve! Měli byste s <Lore>{character:DreamlightValley!TheForgotten}</Lore> prozkoumat více.",
+      "source": "pre_existing",
+      "original_cz": "Je čas ponořit se hlouběji do Skály Lebky než kdy dříve! Měli byste s <Lore>{character:DreamlightValley!TheForgotten}</Lore> prozkoumat více."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_DisplayName",
+      "en": "The Music's on the Walls",
+      "cz": "Hudba zní na zdech",
+      "source": "pre_existing",
+      "original_cz": "Hudba zní na zdech"
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group01_Step01_FollowCharacter01_StepDescription",
+      "en": "Follow {TargetNPC} and the Shadow in Skull Rock.",
+      "cz": "Sledujte {TargetNPC} a Stín v Skále Lebky.",
+      "source": "pre_existing",
+      "original_cz": "Sledujte {TargetNPC} a Stín v Skále Lebky."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group01_Step01_FollowCharacter01_TalkToDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluvte si s {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC}."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group02_Step02_Chase01_StepDescription",
+      "en": "Follow the <ActivityItem>Glowing Musical Note</ActivityItem> in Skull Rock.",
+      "cz": "Sledujte <ActivityItem>zářící hudební notu</ActivityItem> v Skále Lebky.",
+      "source": "pre_existing",
+      "original_cz": "Sledujte <ActivityItem>zářící hudební notu</ActivityItem> v Skále Lebky."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group02_StoryDescription",
+      "en": "You see a strange glow in the distance... could it be a <ActivityItem>Glowing Musical Note</ActivityItem>?",
+      "cz": "V dálce vidíte podivnou záři... mohla by to být <ActivityItem>zářící hudební nota</ActivityItem>?",
+      "source": "pre_existing",
+      "original_cz": "V dálce vidíte podivnou záři... mohla by to být <ActivityItem>zářící hudební nota</ActivityItem>?"
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group03_Step03_ConsumeItem01_StepDescription",
+      "en": "Pick up the <ActivityItem>Memory</ActivityItem> found in Skull Rock.",
+      "cz": "Seberte <ActivityItem>Vzpomínku</ActivityItem>, kterou najdete v Skále Lebky.",
+      "source": "pre_existing",
+      "original_cz": "Seberte <ActivityItem>Vzpomínku</ActivityItem>, kterou najdete v Skále Lebky."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group03_Step03_ConsumeItem02_StepDescription",
+      "en": "Unlock and search the <ActivityItem>Captain's Chest</ActivityItem>.",
+      "cz": "Odemkněte a prohledejte <ActivityItem>Kapitánovu truhlu</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Odemkněte a prohledejte <ActivityItem>Kapitánovu truhlu</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group03_StepDescription",
+      "en": "Investigate inside Skull Rock for clues to find more <ActivityItem>Glowing Musical Notes</ActivityItem>.",
+      "cz": "Prozkoumejte uvnitř Skalní skály a hledejte vodítka, která vám pomohou najít další <ActivityItem>zářící hudební noty</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte uvnitř Skalní skály a hledejte vodítka, která vám pomohou najít další <ActivityItem>zářící hudební noty</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group04_Step04_TalkToCharacter01_StepDescription",
+      "en": "Return to {TargetNPC} to discuss the <ActivityItem>Pirate Map</ActivityItem> and the new <ActivityItem>Memory</ActivityItem>.",
+      "cz": "Vraťte se na {TargetNPC} a proberte <ActivityItem>Pirátskou mapu</ActivityItem> a novou <ActivityItem>Paměť</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Vraťte se na {TargetNPC} a proberte <ActivityItem>Pirátskou mapu</ActivityItem> a novou <ActivityItem>Paměť</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group05_Step05_Possess01_StepDescription",
+      "en": "<Lore>Buried pirate treasure</Lore>.",
+      "cz": "<Lore>Zakopaný pirátský poklad</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Zakopaný pirátský poklad</Lore>."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group05_Step05_Possess02_StepDescription",
+      "en": "<ActivityItem>Glowing Musical Note</ActivityItem>.",
+      "cz": "<ActivityItem>Zářící hudební nota</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Zářící hudební nota</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group05_StepDescription",
+      "en": "Use the <ActivityItem>Pirate Map</ActivityItem> and the <ActivityItem>Memory</ActivityItem> from your Collection Menu to find:",
+      "cz": "Použijte <ActivityItem>Pirátskou mapu</ActivityItem> a <ActivityItem>Paměť</ActivityItem> z nabídky Sbírky k nalezení:",
+      "source": "pre_existing",
+      "original_cz": "Použijte <ActivityItem>Pirátskou mapu</ActivityItem> a <ActivityItem>Paměť</ActivityItem> z nabídky Sbírky k nalezení:"
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group05_StoryDescription",
+      "en": "After finding some clues in Skull Rock, it's time to find the rest of the <ActivityItem>Glowing Musical Notes</ActivityItem> that have flown away around the Valley.",
+      "cz": "Poté, co najdete nějaké stopy v Skále Lebky, je čas najít zbytek <ActivityItem>Zářících hudebních not</ActivityItem>, které se rozletěly po údolí.",
+      "source": "pre_existing",
+      "original_cz": "Poté, co najdete nějaké stopy v Skále Lebky, je čas najít zbytek <ActivityItem>Zářících hudebních not</ActivityItem>, které se rozletěly po údolí."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group06_Step09_VisitArea01_StepDescription",
+      "en": "Return to Skull Rock with the <ActivityItem>Glowing Musical Notes</ActivityItem> and the <ActivityItem>Pan Flute</ActivityItem>.",
+      "cz": "Vrať se na Skála Lebky s <ActivityItem>zářícími hudebními notami</ActivityItem> a <ActivityItem>Panovou flétnou</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Vrať se na Skála Lebky s <ActivityItem>zářícími hudebními notami</ActivityItem> a <ActivityItem>Panovou flétnou</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group07_Step10_BringItem01_StepDescription",
+      "en": "<ActivityItem>Glowing Musical Notes</ActivityItem>.",
+      "cz": "<ActivityItem>Zářící hudební noty</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Zářící hudební noty</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group07_Step10_BringItem02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group07_Step10_ReadyDescription",
+      "en": "Return to {TargetNPC} with the <ActivityItem>Glowing Musical Notes</ActivityItem> and <ActivityItem>Pan Flute</ActivityItem>.",
+      "cz": "Vraťte se na {TargetNPC} se <ActivityItem>zářícími hudebními notami</ActivityItem> a <ActivityItem>Panovou flétnou</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Vraťte se na {TargetNPC} se <ActivityItem>zářícími hudebními notami</ActivityItem> a <ActivityItem>Panovou flétnou</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group07_Step10_StepDescription",
+      "en": "Make sure you have in your Inventory:",
+      "cz": "Ujistěte se, že máte ve svém inventáři:",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte ve svém inventáři:"
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group07_StoryDescription",
+      "en": "With all of the <ActivityItem>Glowing Musical Notes</ActivityItem> retrieved, along with an interesting <ActivityItem>Pan Flute</ActivityItem>, you must once again brave Skull Rock in order to fix the music wall.",
+      "cz": "Se všemi <ActivityItem>Zářícími hudebními notami</ActivityItem> a zajímavou <ActivityItem>Panovou flétnou</ActivityItem> se musíte znovu postavit Skále Lebky, abyste opravili hudební stěnu.",
+      "source": "pre_existing",
+      "original_cz": "Se všemi <ActivityItem>Zářícími hudebními notami</ActivityItem> a zajímavou <ActivityItem>Panovou flétnou</ActivityItem> se musíte znovu postavit Skále Lebky, abyste opravili hudební stěnu."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group08_Step11_FillKeyhole01_StepDescription",
+      "en": "Place the <ActivityItem>Pan Flute</ActivityItem> and <ActivityItem>Glowing Musical Notes</ActivityItem> on top of the music stand in Skull Rock.",
+      "cz": "Umístěte <ActivityItem>Panovu flétnu</ActivityItem> a <ActivityItem>Zářící hudební noty</ActivityItem> na notový stojan v Skále Lebky.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte <ActivityItem>Panovu flétnu</ActivityItem> a <ActivityItem>Zářící hudební noty</ActivityItem> na notový stojan v Skále Lebky."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group09_Step12_Conditional02_StepDescription",
+      "en": "The left side of the music wall.",
+      "cz": "Levá strana hudební stěny.",
+      "source": "pre_existing",
+      "original_cz": "Levá strana hudební stěny."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group09_Step12_Conditional03_StepDescription",
+      "en": "The right side of the music wall.",
+      "cz": "Pravá strana hudební stěny.",
+      "source": "pre_existing",
+      "original_cz": "Pravá strana hudební stěny."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group09_StepDescription",
+      "en": "Play the complete score by using the notes on:",
+      "cz": "Zahrajte si celou partituru s použitím not na:",
+      "source": "pre_existing",
+      "original_cz": "Zahrajte si celou partituru s použitím not na:"
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group10_Step13_Conditional04_StepDescription",
+      "en": "Activate the <ActivityItem>Pan Flute</ActivityItem>.",
+      "cz": "Aktivujte <ActivityItem>Panův flétnu</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Aktivujte <ActivityItem>Panův flétnu</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group11_Step14_TalkToCharacter03_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluvte si s {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC}."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group11_StepDescription",
+      "en": "Oh no! The Shadow is playing games with us!",
+      "cz": "Ale ne! Stín si s námi hraje!",
+      "source": "pre_existing",
+      "original_cz": "Ale ne! Stín si s námi hraje!"
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group12_Step15_Conditional05_StepDescription",
+      "en": "Find a way to trap the Shadow in one place.",
+      "cz": "Najděte způsob, jak uvěznit Stín na jednom místě.",
+      "source": "pre_existing",
+      "original_cz": "Najděte způsob, jak uvěznit Stín na jednom místě."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group12_Step15_Conditional06_StepDescription",
+      "en": "Redo the left side of the music wall.",
+      "cz": "Znovu upravte levou stranu hudební stěny.",
+      "source": "pre_existing",
+      "original_cz": "Znovu upravte levou stranu hudební stěny."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group12_Step15_Conditional07_StepDescription",
+      "en": "Redo the right side of the music wall.",
+      "cz": "Znovu upravte pravou stranu hudební stěny.",
+      "source": "pre_existing",
+      "original_cz": "Znovu upravte pravou stranu hudební stěny."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group12_StepDescription",
+      "en": "The Shadow moved the musical notes around on the wall!",
+      "cz": "Stín posouval noty po zdi!",
+      "source": "pre_existing",
+      "original_cz": "Stín posouval noty po zdi!"
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group12_StoryDescription",
+      "en": "That mischievous Shadow undid all of your hard work! Time to redo the music walls... after you trap the Shadow in place!",
+      "cz": "Ten zlomyslný Stín zničil všechnu tvou tvrdou práci! Je čas předělat hudební stěny... poté, co Stín uvězníš!",
+      "source": "pre_existing",
+      "original_cz": "Ten zlomyslný Stín zničil všechnu tvou tvrdou práci! Je čas předělat hudební stěny... poté, co Stín uvězníš!"
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group13_Step17_Conditional08_StepDescription",
+      "en": "Activate the <ActivityItem>Pan Flute</ActivityItem> again.",
+      "cz": "Znovu aktivujte <ActivityItem>Panův flétnu</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Znovu aktivujte <ActivityItem>Panův flétnu</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group14_Step18_TalkToCharacter04_StepDescription",
+      "en": "It's Peter Pan! Talk to him.",
+      "cz": "To je Petr Pan! Promluv si s ním.",
+      "source": "pre_existing",
+      "original_cz": "To je Petr Pan! Promluv si s ním."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group15_Step19_TalkToCharacter05_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluvte si s {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC}."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group15_StepDescription",
+      "en": "Play hide-and-seek with Peter Pan.",
+      "cz": "Hrajte si na schovávanou s Petrem Panem.",
+      "source": "pre_existing",
+      "original_cz": "Hrajte si na schovávanou s Petrem Panem."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group16_Step21_StepDescription",
+      "en": "(optional) Ask any good hide-and-seekers for clues.",
+      "cz": "(volitelné) Zeptejte se na indicie jakýchkoli dobrých schovávaných.",
+      "source": "pre_existing",
+      "original_cz": "(volitelné) Zeptejte se na indicie jakýchkoli dobrých schovávaných."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group16_Step22_StepDescription",
+      "en": "(Optional) Follow Peter Pan's <ActivityItem>Skull Rock Pixie Dust</ActivityItem> trail.",
+      "cz": "(Volitelné) Sledujte Petrovu Panovu stezku <ActivityItem>Skála Lebky Vílí prášek</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "(Volitelné) Sledujte Petrovu Panovu stezku <ActivityItem>Skála Lebky Vílí prášek</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group16_StepDescription",
+      "en": "Find Peter Pan's hiding spot somewhere in the Valley.",
+      "cz": "Najdi úkryt Petra Pana někde v údolí.",
+      "source": "pre_existing",
+      "original_cz": "Najdi úkryt Petra Pana někde v údolí."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group16_StoryDescription",
+      "en": "Peter Pan has been hiding in Skull Rock this whole time! Of course, he's only interested in joining the Valley if you can prove to him you are still a child at heart...",
+      "cz": "Petr Pan se celou tu dobu schovával v Skále Lebky! Samozřejmě se chce připojit k Údolí, jen pokud mu dokážete, že jste v srdci stále dítě...",
+      "source": "pre_existing",
+      "original_cz": "Petr Pan se celou tu dobu schovával v Skále Lebky! Samozřejmě se chce připojit k Údolí, jen pokud mu dokážete, že jste v srdci stále dítě..."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group17_Step23_VisitArea03_StepDescription",
+      "en": "Enter the Dark Castle to search for Peter Pan.",
+      "cz": "Vstupte do Temného hradu a hledejte Petra Pana.",
+      "source": "pre_existing",
+      "original_cz": "Vstupte do Temného hradu a hledejte Petra Pana."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group17_StoryDescription",
+      "en": "After a lot of seeking, you realize Peter Pan must be hiding deep inside the Dark Castle.",
+      "cz": "Po dlouhém hledání zjistíte, že se Petr Pan musí skrývat hluboko v Temném hradě.",
+      "source": "pre_existing",
+      "original_cz": "Po dlouhém hledání zjistíte, že se Petr Pan musí skrývat hluboko v Temném hradě."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group18_Step24_VisitArea04_StepDescription",
+      "en": "Follow it to find Peter Pan.",
+      "cz": "Sledujte ho a najdete Petra Pana.",
+      "source": "pre_existing",
+      "original_cz": "Sledujte ho a najdete Petra Pana."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group18_StepDescription",
+      "en": "That looks like a <ActivityItem>Skull Rock Pixie Dust</ActivityItem> trail.",
+      "cz": "To vypadá jako stezka <ActivityItem>Skála Lebky Vílí prášek</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "To vypadá jako stezka <ActivityItem>Skála Lebky Vílí prášek</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group19_Step25_VisitArea05_StepDescription",
+      "en": "Return to Peter Pan's hiding spot in the Dark Castle.",
+      "cz": "Vrať se do úkrytu Petra Pana v Temném hradě.",
+      "source": "pre_existing",
+      "original_cz": "Vrať se do úkrytu Petra Pana v Temném hradě."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group20_Step26_TalkToCharacter12_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluvte si s {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC}."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group20_StepDescription",
+      "en": "You've found him!",
+      "cz": "Našli jste ho!",
+      "source": "pre_existing",
+      "original_cz": "Našli jste ho!"
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group21_Step27_PlaceBuilding01_StepDescription",
+      "en": "Place Peter Pan's House in the Valley.",
+      "cz": "Umístěte dům Petra Pana do údolí.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte dům Petra Pana do údolí."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group22_Step28_Unlock01_StepDescription",
+      "en": "Unlock Peter Pan's House using the Scrooge McDuck Sign.",
+      "cz": "Odemkněte dům Petra Pana pomocí cedule Skrblíka McDucka.",
+      "source": "pre_existing",
+      "original_cz": "Odemkněte dům Petra Pana pomocí cedule Skrblíka McDucka."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group23_Step29_UnlockCharacter01_StepDescription",
+      "en": "Welcome Peter Pan.",
+      "cz": "Vítej, Petre Pane.",
+      "source": "pre_existing",
+      "original_cz": "Vítej, Petre Pane."
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group23_StoryDescription",
+      "en": "Peter Pan has been found! He's now ready to join you in the Valley!",
+      "cz": "Petr Pan byl nalezen! Nyní je připraven se k vám připojit v údolí!",
+      "source": "pre_existing",
+      "original_cz": "Petr Pan byl nalezen! Nyní je připraven se k vám připojit v údolí!"
+    },
+    {
+      "key": "Story!MRQS144_MusicWalls_Group24_Step30_TalkToCharacter13_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluvte si s {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC}."
+    }
+  ]
+}

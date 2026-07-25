@@ -1,0 +1,886 @@
+{
+  "DesignChallenges_Scar/Scar_VLG_Vane_030_VLG_Vane_030_TalkTo06.locbin": [
+    {
+      "key": "Scar_036_f",
+      "en": "Which is...?",
+      "cz": "Který je...?",
+      "source": "pre_existing",
+      "original_cz": "Který je...?"
+    },
+    {
+      "key": "Player_013_choice_000_f",
+      "en": "Pixel Sword!",
+      "cz": "Pixelový meč!",
+      "source": "pre_existing",
+      "original_cz": "Pixelový meč!"
+    },
+    {
+      "key": "Player_013_choice_001_f",
+      "en": "Friendship!",
+      "cz": "Přátelství!",
+      "source": "pre_existing",
+      "original_cz": "Přátelství!"
+    },
+    {
+      "key": "Scar_000_f",
+      "en": "Ah, {PlayerName}... So it's you I have to thank for leaving that mess outside my den...",
+      "cz": "Aha, {PlayerName}... Takže tobě musím poděkovat za ten nepořádek před mým doupětem...",
+      "source": "pre_existing",
+      "original_cz": "Aha, {PlayerName}... Takže tobě musím poděkovat za ten nepořádek před mým doupětem..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "This is GREAT pre-boss battle banter.",
+      "cz": "Tohle je SKVĚLÁ předsoubojová vtipkování.",
+      "source": "pre_existing",
+      "original_cz": "Tohle je SKVĚLÁ předsoubojová vtipkování."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Ehh... yeah, sorry about that.",
+      "cz": "Ehm... jo, za to se omlouvám.",
+      "source": "pre_existing",
+      "original_cz": "Ehm... jo, za to se omlouvám."
+    },
+    {
+      "key": "Scar_037_f",
+      "en": "That is a child's plaything. Did that sticky little cub give it to you?",
+      "cz": "To je dětská hračka. Dalo ti ji to malé lepkavé medvídě?",
+      "source": "pre_existing",
+      "original_cz": "To je dětská hračka. Dalo ti ji to malé lepkavé medvídě?"
+    },
+    {
+      "key": "Scar_038_f",
+      "en": "Please don't let it touch me. It'll mat my fur.",
+      "cz": "Prosím, nedovolte, aby se mě to dotklo. Zcuchne mi to srst.",
+      "source": "pre_existing",
+      "original_cz": "Prosím, nedovolte, aby se mě to dotklo. Zcuchne mi to srst."
+    },
+    {
+      "key": "Scar_039_f",
+      "en": "Ha, see! Even you cower before the might of the Pixel Sword!",
+      "cz": "Ha, vidíš! I ty se třeseš před mocí Pixelového meče!",
+      "source": "pre_existing",
+      "original_cz": "Ha, vidíš! I ty se třeseš před mocí Pixelového meče!"
+    },
+    {
+      "key": "Scar_040_f",
+      "en": "Vanellope and I will defeat you together!",
+      "cz": "Vanellope a já tě společně porazíme!",
+      "source": "pre_existing",
+      "original_cz": "Vanellope a já tě společně porazíme!"
+    },
+    {
+      "key": "Scar_041_f",
+      "en": "How quaint. Now, please leave. Your earnestness is making me nauseous.",
+      "cz": "To je zvláštní. A teď prosím odejděte. Z vaší upřímnosti se mi dělá nevolno.",
+      "source": "pre_existing",
+      "original_cz": "To je zvláštní. A teď prosím odejděte. Z vaší upřímnosti se mi dělá nevolno."
+    },
+    {
+      "key": "Scar_042_f",
+      "en": "And what way is that exactly?",
+      "cz": "A jakým způsobem to přesně je?",
+      "source": "pre_existing",
+      "original_cz": "A jakým způsobem to přesně je?"
+    },
+    {
+      "key": "Player_014_choice_000_f",
+      "en": "The way where you surrender!",
+      "cz": "Způsob, jakým se vzdáváš!",
+      "source": "pre_existing",
+      "original_cz": "Způsob, jakým se vzdáváš!"
+    },
+    {
+      "key": "Player_014_choice_001_f",
+      "en": "The way my sidekick and I will defeat you!",
+      "cz": "Způsob, jakým tě můj pomocník a já porazíme!",
+      "source": "pre_existing",
+      "original_cz": "Způsob, jakým tě můj pomocník a já porazíme!"
+    },
+    {
+      "key": "Scar_043_f",
+      "en": "Is there a reason you're speaking like this? It's even more inane than usual...",
+      "cz": "Existuje důvod, proč takhle mluvíš? Je to ještě hloupější než obvykle...",
+      "source": "pre_existing",
+      "original_cz": "Existuje důvod, proč takhle mluvíš? Je to ještě hloupější než obvykle..."
+    },
+    {
+      "key": "Scar_044_f",
+      "en": "Sidekick?",
+      "cz": "Partner?",
+      "source": "pre_existing",
+      "original_cz": "Partner?"
+    },
+    {
+      "key": "Scar_045_f",
+      "en": "The fish were a fitting tribute. I'll savor them later.",
+      "cz": "Ryby byly vhodnou poctou. Vychutnám si je později.",
+      "source": "pre_existing",
+      "original_cz": "Ryby byly vhodnou poctou. Vychutnám si je později."
+    },
+    {
+      "key": "Scar_046_f",
+      "en": "Now, why are you here?",
+      "cz": "Proč jsi tady?",
+      "source": "pre_existing",
+      "original_cz": "Proč jsi tady?"
+    },
+    {
+      "key": "Player_015_choice_000_f",
+      "en": "For the final boss battle!",
+      "cz": "Pro finální bitvu s bossem!",
+      "source": "pre_existing",
+      "original_cz": "Pro finální bitvu s bossem!"
+    },
+    {
+      "key": "Player_015_choice_001_f",
+      "en": "I'm humoring Vanellope.",
+      "cz": "Dělám si legraci z Vanellope.",
+      "source": "pre_existing",
+      "original_cz": "Dělám si legraci z Vanellope."
+    },
+    {
+      "key": "Scar_047_f",
+      "en": "She wants me to \"battle\" you as a game.",
+      "cz": "Chce, abych s tebou \"bojoval\" ve hře.",
+      "source": "pre_existing",
+      "original_cz": "Chce, abych s tebou \"bojoval\" ve hře."
+    },
+    {
+      "key": "Scar_048_f",
+      "en": "I mostly came along to make sure you don't decide she'll make a good snack.",
+      "cz": "Přišel jsem hlavně proto, abys se ujistil, že si z ní neděláš dobrou svačinku.",
+      "source": "pre_existing",
+      "original_cz": "Přišel jsem hlavně proto, abys se ujistil, že si z ní neděláš dobrou svačinku."
+    },
+    {
+      "key": "Scar_049_f",
+      "en": "No need to worry. She smells far too sweet for me to even consider it.",
+      "cz": "Nemusíš se bát. Voní příliš sladce, než abych o tom vůbec uvažoval.",
+      "source": "pre_existing",
+      "original_cz": "Nemusíš se bát. Voní příliš sladce, než abych o tom vůbec uvažoval."
+    },
+    {
+      "key": "Scar_050_f",
+      "en": "Still, you let this precocious little cub talk you into provoking me? For a game?",
+      "cz": "Přesto ses nechal tímhle předčasně vyspělým vlčatem přemluvit, abys mě vyprovokoval? Kvůli hře?",
+      "source": "pre_existing",
+      "original_cz": "Přesto ses nechal tímhle předčasně vyspělým vlčatem přemluvit, abys mě vyprovokoval? Kvůli hře?"
+    },
+    {
+      "key": "Player_016_choice_000_f",
+      "en": "Everyone needs to have fun sometimes.",
+      "cz": "Každý se občas potřebuje bavit.",
+      "source": "pre_existing",
+      "original_cz": "Každý se občas potřebuje bavit."
+    },
+    {
+      "key": "Player_016_choice_001_f",
+      "en": "Why do you hate joy?",
+      "cz": "Proč nenávidíš radost?",
+      "source": "pre_existing",
+      "original_cz": "Proč nenávidíš radost?"
+    },
+    {
+      "key": "Scar_051_f",
+      "en": "I find your definition of \"fun\" rather pathetic.",
+      "cz": "Vaše definice „zábavy“ mi přijde poněkud ubohá.",
+      "source": "pre_existing",
+      "original_cz": "Vaše definice „zábavy“ mi přijde poněkud ubohá."
+    },
+    {
+      "key": "Scar_052_f",
+      "en": "But you did say you came here for a fight? May I entice you with a battle of wits?",
+      "cz": "Ale říkal jsi, že jsi sem přišel kvůli boji? Mohu tě nalákat na souboj důvtipu?",
+      "source": "pre_existing",
+      "original_cz": "Ale říkal jsi, že jsi sem přišel kvůli boji? Mohu tě nalákat na souboj důvtipu?"
+    },
+    {
+      "key": "Scar_053_f",
+      "en": "That's much more my idea of \"fun.\"",
+      "cz": "To je mnohem víc moje představa „zábavy“.",
+      "source": "pre_existing",
+      "original_cz": "To je mnohem víc moje představa „zábavy“."
+    },
+    {
+      "key": "Player_017_choice_000_f",
+      "en": "I'll show you. Play the game!",
+      "cz": "Ukážu ti to. Zahraj si hru!",
+      "source": "pre_existing",
+      "original_cz": "Ukážu ti to. Zahraj si hru!"
+    },
+    {
+      "key": "Player_017_choice_001_f",
+      "en": "Our fun helps you blow off steam.",
+      "cz": "Naše zábava vám pomůže vyfouknout si páru.",
+      "source": "pre_existing",
+      "original_cz": "Naše zábava vám pomůže vyfouknout si páru."
+    },
+    {
+      "key": "Scar_054_f",
+      "en": "Ugh, very well.",
+      "cz": "Uf, výborně.",
+      "source": "pre_existing",
+      "original_cz": "Uf, výborně."
+    },
+    {
+      "key": "Scar_055_f",
+      "en": "Then you have an odd way of releasing tension...",
+      "cz": "Pak máš zvláštní způsob, jak uvolnit napětí...",
+      "source": "pre_existing",
+      "original_cz": "Pak máš zvláštní způsob, jak uvolnit napětí..."
+    },
+    {
+      "key": "Scar_056_f",
+      "en": "Running into danger seems far from relaxing.",
+      "cz": "Běh do nebezpečí se zdá být daleko od relaxace.",
+      "source": "pre_existing",
+      "original_cz": "Běh do nebezpečí se zdá být daleko od relaxace."
+    },
+    {
+      "key": "Player_018_choice_000_f",
+      "en": "Okay, so your fun is different.",
+      "cz": "Dobře, takže tvoje zábava je jiná.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, takže tvoje zábava je jiná."
+    },
+    {
+      "key": "Player_018_choice_001_f",
+      "en": "We wanted to include you!",
+      "cz": "Chtěli jsme vás tam zahrnout!",
+      "source": "pre_existing",
+      "original_cz": "Chtěli jsme vás tam zahrnout!"
+    },
+    {
+      "key": "Scar_057_f",
+      "en": "There are tons of ways to have fun!",
+      "cz": "Existuje spousta způsobů, jak se pobavit!",
+      "source": "pre_existing",
+      "original_cz": "Existuje spousta způsobů, jak se pobavit!"
+    },
+    {
+      "key": "Scar_058_f",
+      "en": "Loud, tiresome, ridiculous ways, clearly.",
+      "cz": "Hlasité, únavné, absurdní způsoby, to je jasné.",
+      "source": "pre_existing",
+      "original_cz": "Hlasité, únavné, absurdní způsoby, to je jasné."
+    },
+    {
+      "key": "Player_019_choice_000_f",
+      "en": "Maybe you like quiet fun?",
+      "cz": "Možná máte rádi klidnou zábavu?",
+      "source": "pre_existing",
+      "original_cz": "Možná máte rádi klidnou zábavu?"
+    },
+    {
+      "key": "Player_019_choice_001_f",
+      "en": "Nothing wrong with that!",
+      "cz": "Na tom není nic špatného!",
+      "source": "pre_existing",
+      "original_cz": "Na tom není nic špatného!"
+    },
+    {
+      "key": "Scar_059_f",
+      "en": "I certainly enjoy lounging by the pond in the shade on hot days.",
+      "cz": "V horkých dnech si rád lehám u rybníka ve stínu.",
+      "source": "pre_existing",
+      "original_cz": "V horkých dnech si rád lehám u rybníka ve stínu."
+    },
+    {
+      "key": "Scar_060_f",
+      "en": "The warm breeze in my mane.",
+      "cz": "Teplý vánek v mé hřívě.",
+      "source": "pre_existing",
+      "original_cz": "Teplý vánek v mé hřívě."
+    },
+    {
+      "key": "Scar_061_f",
+      "en": "Catching fresh fish with my bare claws.",
+      "cz": "Chytám čerstvé ryby holými drápy.",
+      "source": "pre_existing",
+      "original_cz": "Chytám čerstvé ryby holými drápy."
+    },
+    {
+      "key": "Player_020_choice_000_f",
+      "en": "Those sound really fun!",
+      "cz": "To zní fakt zábavně!",
+      "source": "pre_existing",
+      "original_cz": "To zní fakt zábavně!"
+    },
+    {
+      "key": "Player_020_choice_001_f",
+      "en": "You look happy, Scar.",
+      "cz": "Vypadáš šťastně, Scare.",
+      "source": "pre_existing",
+      "original_cz": "Vypadáš šťastně, Scare."
+    },
+    {
+      "key": "Scar_062_f",
+      "en": "Even though it's not loud and boisterous?",
+      "cz": "I když to není hlučné a bujaré?",
+      "source": "pre_existing",
+      "original_cz": "I když to není hlučné a bujaré?"
+    },
+    {
+      "key": "Scar_063_f",
+      "en": "Well, we seem to have reached some sort of... détente. But since I doubt you'll leave it at that...",
+      "cz": "No, zdá se, že jsme dosáhli jakéhosi... uvolnění. Ale protože pochybuji, že to necháte jen tak...",
+      "source": "pre_existing",
+      "original_cz": "No, zdá se, že jsme dosáhli jakéhosi... uvolnění. Ale protože pochybuji, že to necháte jen tak..."
+    },
+    {
+      "key": "Scar_064_f",
+      "en": "I'll concede victory to you... just this once.",
+      "cz": "Přiznávám ti vítězství... jen tentokrát.",
+      "source": "pre_existing",
+      "original_cz": "Přiznávám ti vítězství... jen tentokrát."
+    },
+    {
+      "key": "Scar_065_f",
+      "en": "\"Happy\"? Don't be absurd. At most... content.",
+      "cz": "\"Šťastný\"? Nebuď absurdní. Nanejvýš... spokojený.",
+      "source": "pre_existing",
+      "original_cz": "\"Šťastný\"? Nebuď absurdní. Nanejvýš... spokojený."
+    },
+    {
+      "key": "Scar_066_f",
+      "en": "Unless you're having a bad time...",
+      "cz": "Pokud se zrovna netrápíte...",
+      "source": "pre_existing",
+      "original_cz": "Pokud se zrovna netrápíte..."
+    },
+    {
+      "key": "Scar_067_f",
+      "en": "What was that?",
+      "cz": "Co to bylo?",
+      "source": "pre_existing",
+      "original_cz": "Co to bylo?"
+    },
+    {
+      "key": "Scar_068_f",
+      "en": "We wanted to include you in our game?",
+      "cz": "Chtěli jsme tě zařadit do naší hry?",
+      "source": "pre_existing",
+      "original_cz": "Chtěli jsme tě zařadit do naší hry?"
+    },
+    {
+      "key": "Player_021_choice_000_f",
+      "en": "Teeth, claws and all!",
+      "cz": "Zuby, drápy a všechno ostatní!",
+      "source": "pre_existing",
+      "original_cz": "Zuby, drápy a všechno ostatní!"
+    },
+    {
+      "key": "Player_021_choice_001_f",
+      "en": "There's a fuzzy softie somewhere in there!",
+      "cz": "Někde tam je chlupatý měkkýš!",
+      "source": "pre_existing",
+      "original_cz": "Někde tam je chlupatý měkkýš!"
+    },
+    {
+      "key": "Scar_069_f",
+      "en": "You want me in your game, knowing all you know about me?",
+      "cz": "Chceš, abych byl ve tvé hře a abych věděl všechno, co o mně víš?",
+      "source": "pre_existing",
+      "original_cz": "Chceš, abych byl ve tvé hře a abych věděl všechno, co o mně víš?"
+    },
+    {
+      "key": "Scar_070_f",
+      "en": "Fascinating. I'm rarely included by choice.",
+      "cz": "Fascinující. Zřídkakdy jsem tam zahrnut z vlastní vůle.",
+      "source": "pre_existing",
+      "original_cz": "Fascinující. Zřídkakdy jsem tam zahrnut z vlastní vůle."
+    },
+    {
+      "key": "Player_022_choice_000_f",
+      "en": "Are you upset?",
+      "cz": "Jsi naštvaný/á?",
+      "source": "pre_existing",
+      "original_cz": "Jsi naštvaný/á?"
+    },
+    {
+      "key": "Player_022_choice_001_f",
+      "en": "First time for everything!",
+      "cz": "Všechno poprvé!",
+      "source": "pre_existing",
+      "original_cz": "Všechno poprvé!"
+    },
+    {
+      "key": "Scar_071_f",
+      "en": "No...",
+      "cz": "Ne...",
+      "source": "pre_existing",
+      "original_cz": "Ne..."
+    },
+    {
+      "key": "Scar_072_f",
+      "en": "Surprisingly, I'm not.",
+      "cz": "Překvapivě nejsem.",
+      "source": "pre_existing",
+      "original_cz": "Překvapivě nejsem."
+    },
+    {
+      "key": "Scar_073_f",
+      "en": "Oh, enough of this! Would you please leave?",
+      "cz": "Ach, dost už! Mohl byste prosím odejít?",
+      "source": "pre_existing",
+      "original_cz": "Ach, dost už! Mohl byste prosím odejít?"
+    },
+    {
+      "key": "Scar_074_f",
+      "en": "...",
+      "cz": "...",
+      "source": "pre_existing",
+      "original_cz": "..."
+    },
+    {
+      "key": "Scar_075_f",
+      "en": "Indeed.",
+      "cz": "Vskutku.",
+      "source": "pre_existing",
+      "original_cz": "Vskutku."
+    },
+    {
+      "key": "Scar_076_f",
+      "en": "You couldn't be more wrong. And yet...",
+      "cz": "Nemohl jsi se víc mýlit. A přesto...",
+      "source": "pre_existing",
+      "original_cz": "Nemohl jsi se víc mýlit. A přesto..."
+    },
+    {
+      "key": "Scar_077_f",
+      "en": "Oh, I don't.",
+      "cz": "Ach, já ne.",
+      "source": "pre_existing",
+      "original_cz": "Ach, já ne."
+    },
+    {
+      "key": "Scar_001_f",
+      "en": "Battle? My my, I must say I have been waiting for you to show your claws.",
+      "cz": "Bitva? No páni, musím říct, že jsem čekal, až mi ukážeš drápy.",
+      "source": "pre_existing",
+      "original_cz": "Bitva? No páni, musím říct, že jsem čekal, až mi ukážeš drápy."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "This is the final battle!",
+      "cz": "Toto je poslední bitva!",
+      "source": "pre_existing",
+      "original_cz": "Toto je poslední bitva!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I'm sorry it had to be this way, Scar...",
+      "cz": "Je mi líto, že to tak muselo být, Scare...",
+      "source": "pre_existing",
+      "original_cz": "Je mi líto, že to tak muselo být, Scare..."
+    },
+    {
+      "key": "Scar_002_f",
+      "en": "Oh, I see. You brought the sticky little cub with you.",
+      "cz": "Aha, rozumím. Přivedl sis s sebou to malé lepkavé medvídě.",
+      "source": "pre_existing",
+      "original_cz": "Aha, rozumím. Přivedl sis s sebou to malé lepkavé medvídě."
+    },
+    {
+      "key": "Scar_003_f",
+      "en": "This is some sort of game?",
+      "cz": "Tohle je nějaká hra?",
+      "source": "pre_existing",
+      "original_cz": "Tohle je nějaká hra?"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Prepare for swift defeat!",
+      "cz": "Připravte se na rychlou porážku!",
+      "source": "pre_existing",
+      "original_cz": "Připravte se na rychlou porážku!"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Yeah, so play along!",
+      "cz": "Jo, tak si zahrajte!",
+      "source": "pre_existing",
+      "original_cz": "Jo, tak si zahrajte!"
+    },
+    {
+      "key": "Scar_004_f",
+      "en": "And how exactly will you \"defeat\" me?",
+      "cz": "A jak přesně mě chceš „porazit“?",
+      "source": "pre_existing",
+      "original_cz": "A jak přesně mě chceš „porazit“?"
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "I'll watch your attack patterns!",
+      "cz": "Budu sledovat tvé útočné vzorce!",
+      "source": "pre_existing",
+      "original_cz": "Budu sledovat tvé útočné vzorce!"
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "I'll wield my Pixel Sword!",
+      "cz": "Vytáhnu svůj pixelový meč!",
+      "source": "pre_existing",
+      "original_cz": "Vytáhnu svůj pixelový meč!"
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "My sidekick will help me!",
+      "cz": "Můj pomocník mi pomůže!",
+      "source": "pre_existing",
+      "original_cz": "Můj pomocník mi pomůže!"
+    },
+    {
+      "key": "Scar_005_f",
+      "en": "My what? Ugh, this is getting tiresome...",
+      "cz": "Cože? Fuj, tohle už začíná být otravné...",
+      "source": "pre_existing",
+      "original_cz": "Cože? Fuj, tohle už začíná být otravné..."
+    },
+    {
+      "key": "Player_004_choice_000_f",
+      "en": "Tired? Your health is low!",
+      "cz": "Unavený? Máš málo zdraví!",
+      "source": "pre_existing",
+      "original_cz": "Unavený? Máš málo zdraví!"
+    },
+    {
+      "key": "Player_004_choice_001_f",
+      "en": "Victory is almost mine!",
+      "cz": "Vítězství je téměř moje!",
+      "source": "pre_existing",
+      "original_cz": "Vítězství je téměř moje!"
+    },
+    {
+      "key": "Scar_006_f",
+      "en": "Yes, yes. You've worn me down, I couldn't possibly lift a paw against you.",
+      "cz": "Ano, ano. Vyčerpal jsi mě, nedokázal bych proti tobě ani tlapku zvednout.",
+      "source": "pre_existing",
+      "original_cz": "Ano, ano. Vyčerpal jsi mě, nedokázal bych proti tobě ani tlapku zvednout."
+    },
+    {
+      "key": "Player_005_choice_000_f",
+      "en": "Sweet triumph!",
+      "cz": "Sladký triumf!",
+      "source": "pre_existing",
+      "original_cz": "Sladký triumf!"
+    },
+    {
+      "key": "Player_005_choice_001_f",
+      "en": "Now drop some loot!",
+      "cz": "Teď odhoďte trochu kořisti!",
+      "source": "pre_existing",
+      "original_cz": "Teď odhoďte trochu kořisti!"
+    },
+    {
+      "key": "Scar_007_f",
+      "en": "Bravo. You win this inane charade. Now kindly... get out.",
+      "cz": "Bravo. Vyhrál jsi tuhle hloupou šarádu. A teď laskavě... vypadni.",
+      "source": "pre_existing",
+      "original_cz": "Bravo. Vyhrál jsi tuhle hloupou šarádu. A teď laskavě... vypadni."
+    },
+    {
+      "key": "Scar_008_f",
+      "en": "I've no idea what you're talking about. Now please, leave. My patience is growing dangerously thin.",
+      "cz": "Nemám tušení, o čem mluvíš. A teď prosím odejdi. Moje trpělivost nebezpečně dochází.",
+      "source": "pre_existing",
+      "original_cz": "Nemám tušení, o čem mluvíš. A teď prosím odejdi. Moje trpělivost nebezpečně dochází."
+    },
+    {
+      "key": "Scar_009_f",
+      "en": "If I admit \"defeat\" in this ridiculous tableau, will you leave?",
+      "cz": "Když v této absurdní situaci přiznám „porážku“, odejdete?",
+      "source": "pre_existing",
+      "original_cz": "Když v této absurdní situaci přiznám „porážku“, odejdete?"
+    },
+    {
+      "key": "Player_006_choice_000_f",
+      "en": "I accept your surrender!",
+      "cz": "Přijímám vaši kapitulaci!",
+      "source": "pre_existing",
+      "original_cz": "Přijímám vaši kapitulaci!"
+    },
+    {
+      "key": "Player_006_choice_001_f",
+      "en": "Well fought, Final Boss.",
+      "cz": "Dobře zabojováno, finální bosse.",
+      "source": "pre_existing",
+      "original_cz": "Dobře zabojováno, finální bosse."
+    },
+    {
+      "key": "Scar_010_f",
+      "en": "Surrender? I... Oh, fine. Yes. I surrender. Now leave.",
+      "cz": "Vzdát se? Já... Aha, dobře. Ano. Vzdávám se. A teď odejděte.",
+      "source": "pre_existing",
+      "original_cz": "Vzdát se? Já... Aha, dobře. Ano. Vzdávám se. A teď odejděte."
+    },
+    {
+      "key": "Scar_011_f",
+      "en": "Don't feel too bad. Vanellope and I make an unstoppable team.",
+      "cz": "Nezlob se. S Vanellope tvoříme nezastavitelný tým.",
+      "source": "pre_existing",
+      "original_cz": "Nezlob se. S Vanellope tvoříme nezastavitelný tým."
+    },
+    {
+      "key": "Scar_012_f",
+      "en": "An insufferable team, more like. I suggest you leave before I lose my temper.",
+      "cz": "Spíš nesnesitelný tým. Navrhuji, abyste odešli, než se rozčílím.",
+      "source": "pre_existing",
+      "original_cz": "Spíš nesnesitelný tým. Navrhuji, abyste odešli, než se rozčílím."
+    },
+    {
+      "key": "Scar_013_f",
+      "en": "That? It looks as though a child made it... *sigh* This is becoming exhausting.",
+      "cz": "To? Vypadá to, jako by to udělalo dítě... *povzdech* Tohle už začíná být vyčerpávající.",
+      "source": "pre_existing",
+      "original_cz": "To? Vypadá to, jako by to udělalo dítě... *povzdech* Tohle už začíná být vyčerpávající."
+    },
+    {
+      "key": "Scar_014_f",
+      "en": "The sticky one? Ugh, she's utterly exhausting.",
+      "cz": "Ta lepkavá? Fuj, ta je naprosto vyčerpávající.",
+      "source": "pre_existing",
+      "original_cz": "Ta lepkavá? Fuj, ta je naprosto vyčerpávající."
+    },
+    {
+      "key": "Scar_015_f",
+      "en": "I rarely \"play.\"",
+      "cz": "Zřídka si „hraji“.",
+      "source": "pre_existing",
+      "original_cz": "Zřídka si „hraji“."
+    },
+    {
+      "key": "Player_007_choice_000_f",
+      "en": "Today, you do! En garde!",
+      "cz": "Dnes ano! V gardě!",
+      "source": "pre_existing",
+      "original_cz": "Dnes ano! V gardě!"
+    },
+    {
+      "key": "Player_007_choice_001_f",
+      "en": "This is no game...",
+      "cz": "Tohle není hra...",
+      "source": "pre_existing",
+      "original_cz": "Tohle není hra..."
+    },
+    {
+      "key": "Scar_016_f",
+      "en": "*sigh* Your preoccupation with games is rather childish, you know?",
+      "cz": "*povzdech* Tvoje posedlost hrami je dost dětinská, víš?",
+      "source": "pre_existing",
+      "original_cz": "*povzdech* Tvoje posedlost hrami je dost dětinská, víš?"
+    },
+    {
+      "key": "Player_008_choice_000_f",
+      "en": "You won't break me, Villain!",
+      "cz": "Nezlomíš mě, padouchu!",
+      "source": "pre_existing",
+      "original_cz": "Nezlomíš mě, padouchu!"
+    },
+    {
+      "key": "Player_008_choice_001_f",
+      "en": "Not as pathetic as this messy lair!",
+      "cz": "Není to tak ubohé jako tohle špinavé doupě!",
+      "source": "pre_existing",
+      "original_cz": "Není to tak ubohé jako tohle špinavé doupě!"
+    },
+    {
+      "key": "Scar_017_f",
+      "en": "No? How are you planning on turning this in your favor?",
+      "cz": "Ne? Jak to plánuješ obrátit ve svůj prospěch?",
+      "source": "pre_existing",
+      "original_cz": "Ne? Jak to plánuješ obrátit ve svůj prospěch?"
+    },
+    {
+      "key": "Player_009_choice_000_f",
+      "en": "With my Pixel Sword!",
+      "cz": "S mým pixelovým mečem!",
+      "source": "pre_existing",
+      "original_cz": "S mým pixelovým mečem!"
+    },
+    {
+      "key": "Player_009_choice_001_f",
+      "en": "I've been watching your attack patterns!",
+      "cz": "Sledoval jsem tvé útočné vzorce!",
+      "source": "pre_existing",
+      "original_cz": "Sledoval jsem tvé útočné vzorce!"
+    },
+    {
+      "key": "Player_009_choice_002_f",
+      "en": "I have a battle sidekick!",
+      "cz": "Mám bojového parťáka!",
+      "source": "pre_existing",
+      "original_cz": "Mám bojového parťáka!"
+    },
+    {
+      "key": "Scar_018_f",
+      "en": "A plaything for a child. Are you finished?",
+      "cz": "Hračka pro dítě. Už jsi skončil/a?",
+      "source": "pre_existing",
+      "original_cz": "Hračka pro dítě. Už jsi skončil/a?"
+    },
+    {
+      "key": "Scar_019_f",
+      "en": "No, but YOU are!",
+      "cz": "Ne, ale TY ano!",
+      "source": "pre_existing",
+      "original_cz": "Ne, ale TY ano!"
+    },
+    {
+      "key": "Scar_020_f",
+      "en": "Fine, yes. You \"defeated\" me. Now leave.",
+      "cz": "Dobře, ano. „Porazil“ jsi mě. A teď odejdi.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, ano. „Porazil“ jsi mě. A teď odejdi."
+    },
+    {
+      "key": "Scar_021_f",
+      "en": "Goody for you. I really don't care.",
+      "cz": "To je skvělé. Je mi to jedno.",
+      "source": "pre_existing",
+      "original_cz": "To je skvělé. Je mi to jedno."
+    },
+    {
+      "key": "Scar_022_f",
+      "en": "I'll accept apathy as surrender!",
+      "cz": "Apatii přijmu jako kapitulaci!",
+      "source": "pre_existing",
+      "original_cz": "Apatii přijmu jako kapitulaci!"
+    },
+    {
+      "key": "Scar_023_f",
+      "en": "The sticky little cub? Ugh, what a nuisance.",
+      "cz": "To malé lepkavé medvídě? Fuj, to je ale otrava.",
+      "source": "pre_existing",
+      "original_cz": "To malé lepkavé medvídě? Fuj, to je ale otrava."
+    },
+    {
+      "key": "Scar_024_f",
+      "en": "Get her out of here, and I'll declare you the victor.",
+      "cz": "Dostaňte ji odsud a já vás prohlásím za vítěze.",
+      "source": "pre_existing",
+      "original_cz": "Dostaňte ji odsud a já vás prohlásím za vítěze."
+    },
+    {
+      "key": "Scar_025_f",
+      "en": "Oh? You don't like my decor? I'm wounded.",
+      "cz": "Aha? Nelíbí se ti moje výzdoba? Jsem zraněný/á.",
+      "source": "pre_existing",
+      "original_cz": "Aha? Nelíbí se ti moje výzdoba? Jsem zraněný/á."
+    },
+    {
+      "key": "Player_010_choice_000_f",
+      "en": "You're low on health!",
+      "cz": "Máte málo zdraví!",
+      "source": "pre_existing",
+      "original_cz": "Máte málo zdraví!"
+    },
+    {
+      "key": "Player_010_choice_001_f",
+      "en": "Living in a skull is cliché!",
+      "cz": "Žít v lebce je klišé!",
+      "source": "pre_existing",
+      "original_cz": "Žít v lebce je klišé!"
+    },
+    {
+      "key": "Scar_026_f",
+      "en": "If you mean I'm bored with this interaction, then most definitely.",
+      "cz": "Pokud myslíš, že mě tahle interakce nudí, tak rozhodně.",
+      "source": "pre_existing",
+      "original_cz": "Pokud myslíš, že mě tahle interakce nudí, tak rozhodně."
+    },
+    {
+      "key": "Scar_027_f",
+      "en": "If you don't like my home, I invite you to leave. Now. Oh, and don't forget the cub.",
+      "cz": "Pokud se ti můj domov nelíbí, zvu tě k odchodu. Hned. A nezapomeň na mládě.",
+      "source": "pre_existing",
+      "original_cz": "Pokud se ti můj domov nelíbí, zvu tě k odchodu. Hned. A nezapomeň na mládě."
+    },
+    {
+      "key": "Scar_028_f",
+      "en": "This is for real, serious Final Boss battle time!",
+      "cz": "Tohle je čas na opravdovou bitvu s finálním bossem!",
+      "source": "pre_existing",
+      "original_cz": "Tohle je čas na opravdovou bitvu s finálním bossem!"
+    },
+    {
+      "key": "Scar_029_f",
+      "en": "Yes, this sounds INCREDIBLY high stakes.",
+      "cz": "Ano, tohle zní jako NEUVĚŘITELNĚ vysoké riziko.",
+      "source": "pre_existing",
+      "original_cz": "Ano, tohle zní jako NEUVĚŘITELNĚ vysoké riziko."
+    },
+    {
+      "key": "Player_011_choice_000_f",
+      "en": "I'm immune to sarcasm!",
+      "cz": "Jsem imunní vůči sarkasmu!",
+      "source": "pre_existing",
+      "original_cz": "Jsem imunní vůči sarkasmu!"
+    },
+    {
+      "key": "Player_011_choice_001_f",
+      "en": "Time to use my secret weapon!",
+      "cz": "Čas použít mou tajnou zbraň!",
+      "source": "pre_existing",
+      "original_cz": "Čas použít mou tajnou zbraň!"
+    },
+    {
+      "key": "Scar_030_f",
+      "en": "Oh woe is me, whatever will I do?",
+      "cz": "Běda mi, co mám dělat?",
+      "source": "pre_existing",
+      "original_cz": "Běda mi, co mám dělat?"
+    },
+    {
+      "key": "Scar_031_f",
+      "en": "I just told you that wouldn't work! I'm more powerful than ever!",
+      "cz": "Právě jsem ti říkal, že to nebude fungovat! Jsem silnější než kdy dřív!",
+      "source": "pre_existing",
+      "original_cz": "Právě jsem ti říkal, že to nebude fungovat! Jsem silnější než kdy dřív!"
+    },
+    {
+      "key": "Scar_032_f",
+      "en": "Oh dear, I'm trembling. Will you accept my surrender for your mercy?",
+      "cz": "Ach jo, třesu se. Přijmeš mou kapitulaci za své milosrdenství?",
+      "source": "pre_existing",
+      "original_cz": "Ach jo, třesu se. Přijmeš mou kapitulaci za své milosrdenství?"
+    },
+    {
+      "key": "Player_012_choice_000_f",
+      "en": "I accept your surrender!",
+      "cz": "Přijímám vaši kapitulaci!",
+      "source": "pre_existing",
+      "original_cz": "Přijímám vaši kapitulaci!"
+    },
+    {
+      "key": "Player_012_choice_001_f",
+      "en": "Better luck next time, Scar!",
+      "cz": "Příště víc štěstí, Scare!",
+      "source": "pre_existing",
+      "original_cz": "Příště víc štěstí, Scare!"
+    },
+    {
+      "key": "Scar_033_f",
+      "en": "*sigh* Yes, I'm defeated. Now, leave.",
+      "cz": "*povzdech* Ano, jsem poražen. A teď odejděte.",
+      "source": "pre_existing",
+      "original_cz": "*povzdech* Ano, jsem poražen. A teď odejděte."
+    },
+    {
+      "key": "Scar_034_f",
+      "en": "Maybe you should think about leveling up!",
+      "cz": "Možná bys měl zvážit postup na vyšší úroveň!",
+      "source": "pre_existing",
+      "original_cz": "Možná bys měl zvážit postup na vyšší úroveň!"
+    },
+    {
+      "key": "Scar_035_f",
+      "en": "I've no idea what that means. But I do know this is over. You win. We're finished. Now, go.",
+      "cz": "Nemám tušení, co to znamená. Ale vím, že je konec. Vyhrál jsi. Jsme hotovi. A teď jdi.",
+      "source": "pre_existing",
+      "original_cz": "Nemám tušení, co to znamená. Ale vím, že je konec. Vyhrál jsi. Jsme hotovi. A teď jdi."
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "InsideOut_Vanellope/Vanellope_VLG_Joy_010_VLG_Joy_010_TalkTo10.locbin": [
+    {
+      "key": "Vanellope_000_f",
+      "en": "Hey, {PlayerName}! Word around here is you're planning a game.",
+      "cz": "Hej, {PlayerName}! Říká se tu, že plánuješ hru.",
+      "source": "pre_existing",
+      "original_cz": "Hej, {PlayerName}! Říká se tu, že plánuješ hru."
+    },
+    {
+      "key": "Vanellope_005_f",
+      "en": "I am! Do you want to play?",
+      "cz": "Jsem! Chceš si hrát?",
+      "source": "pre_existing",
+      "original_cz": "Jsem! Chceš si hrát?"
+    },
+    {
+      "key": "Vanellope_002_f",
+      "en": "Of course I do! As long as you're not too scared I'll crush you, of course.",
+      "cz": "Jasně že ano! Pokud se moc nebojíš, tak tě samozřejmě rozdrtím.",
+      "source": "pre_existing",
+      "original_cz": "Jasně že ano! Pokud se moc nebojíš, tak tě samozřejmě rozdrtím."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'll take the risk.",
+      "cz": "Risknu to.",
+      "source": "pre_existing",
+      "original_cz": "Risknu to."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "We'll see about that!",
+      "cz": "To se ještě uvidí!",
+      "source": "pre_existing",
+      "original_cz": "To se ještě uvidí!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I don't mind losing now and then.",
+      "cz": "Nevadí mi, když občas prohraji.",
+      "source": "pre_existing",
+      "original_cz": "Nevadí mi, když občas prohraji."
+    },
+    {
+      "key": "Vanellope_004_f",
+      "en": "Then I'll be there! And hey — winning stuff like this is in my code, so you can just go ahead and put my name on the trophy now.",
+      "cz": "Pak tam budu! A hele – takovéhle výhry mám v kódu, takže teď můžete klidně napsat moje jméno na trofej.",
+      "source": "pre_existing",
+      "original_cz": "Pak tam budu! A hele – takovéhle výhry mám v kódu, takže teď můžete klidně napsat moje jméno na trofej."
+    },
+    {
+      "key": "Vanellope_006_f",
+      "en": "I'm pretty good at games myself.",
+      "cz": "Sám jsem ve hrách docela dobrý.",
+      "source": "pre_existing",
+      "original_cz": "Sám jsem ve hrách docela dobrý."
+    },
+    {
+      "key": "Vanellope_007_f",
+      "en": "Is that a challenge?",
+      "cz": "Je to výzva?",
+      "source": "pre_existing",
+      "original_cz": "Je to výzva?"
+    },
+    {
+      "key": "Vanellope_008_f",
+      "en": "Yup.",
+      "cz": "Jo.",
+      "source": "pre_existing",
+      "original_cz": "Jo."
+    }
+  ],
+  "InsideOut_Vanellope/Vanellope_VLG_Joy_020_VLG_Joy_020_BringItem06.locbin": [
+    {
+      "key": "Vanellope_000_f",
+      "en": "Okay, Vanellope. We cooked this very special <ActivityItem>Joyful Meal</ActivityItem> just for you.",
+      "cz": "Dobře, Vanellope. Uvařili jsme pro tebe tohle velmi speciální <ActivityItem>Radostné jídlo</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, Vanellope. Uvařili jsme pro tebe tohle velmi speciální <ActivityItem>Radostné jídlo</ActivityItem>."
+    },
+    {
+      "key": "Vanellope_001_f",
+      "en": "Hmm...",
+      "cz": "Hmm...",
+      "source": "pre_existing",
+      "original_cz": "Hmm..."
+    },
+    {
+      "key": "Vanellope_002_f",
+      "en": "So what do you think? Do you feel better?",
+      "cz": "Tak co si o tom myslíš? Cítíš se lépe?",
+      "source": "pre_existing",
+      "original_cz": "Tak co si o tom myslíš? Cítíš se lépe?"
+    },
+    {
+      "key": "Vanellope_003_f",
+      "en": "Sorry chums, but this just isn't doing it for me. Don't get me wrong; it's delicious. But I still feel... How do I put it?",
+      "cz": "Promiňte, kamarádi, ale tohle mi prostě nejde. Nechápejte mě špatně, je to vynikající. Ale pořád mám pocit... Jak to jen říct?",
+      "source": "pre_existing",
+      "original_cz": "Promiňte, kamarádi, ale tohle mi prostě nejde. Nechápejte mě špatně, je to vynikající. Ale pořád mám pocit... Jak to jen říct?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Sad?",
+      "cz": "Smutný?",
+      "source": "pre_existing",
+      "original_cz": "Smutný?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Angry?",
+      "cz": "Rozzlobený?",
+      "source": "pre_existing",
+      "original_cz": "Rozzlobený?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Bored?",
+      "cz": "Znuděný?",
+      "source": "pre_existing",
+      "original_cz": "Znuděný?"
+    },
+    {
+      "key": "Vanellope_004_f",
+      "en": "Exactly! And a buncha other bad feelings, too.",
+      "cz": "Přesně taky! A taky spousta dalších špatných pocitů.",
+      "source": "pre_existing",
+      "original_cz": "Přesně taky! A taky spousta dalších špatných pocitů."
+    },
+    {
+      "key": "Vanellope_005_f",
+      "en": "Okay, we... we are not out of ideas! You hang in there, Vanellope. {PlayerName} and I have one more person to check in on. Once we <Lore>talk to Goofy</Lore> and try to help him, I know we'll have a better idea of what's going on.",
+      "cz": "Dobře, my... my ještě nemáme nápady! Drž se, Vanellope. {PlayerName} a musím se podívat ještě na jednoho člověka. Jakmile si <Lore>promluvíme s Goofym</Lore> a pokusíme se mu pomoct, vím, že budeme mít lepší představu o tom, co se děje.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, my... my ještě nemáme nápady! Drž se, Vanellope. {PlayerName} a musím se podívat ještě na jednoho člověka. Jakmile si <Lore>promluvíme s Goofym</Lore> a pokusíme se mu pomoct, vím, že budeme mít lepší představu o tom, co se děje."
+    }
+  ],
+  "InsideOut_Vanellope/Vanellope_VLG_Joy_020_VLG_Joy_020_TalkTo05.locbin": [
+    {
+      "key": "Vanellope_001_f",
+      "en": "Hey, Vanellope. So, um... {PlayerName} and I noticed you've been feeling a little down lately.",
+      "cz": "Ahoj, Vanellope. Takže, ehm... {PlayerName} a všimla jsem si, že se v poslední době cítíš trochu sklesle.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, Vanellope. Takže, ehm... {PlayerName} a všimla jsem si, že se v poslední době cítíš trochu sklesle."
+    },
+    {
+      "key": "Vanellope_002_f",
+      "en": "A LITTLE down?",
+      "cz": "TROCHU dole?",
+      "source": "pre_existing",
+      "original_cz": "TROCHU dole?"
+    },
+    {
+      "key": "Vanellope_003_f",
+      "en": "I feel horrible! I'm bored and sad and totally alone. Oh, and {PlayerName}...?",
+      "cz": "Cítím se hrozně! Nudím se, jsem smutný a úplně sám. A mimochodem, {PlayerName}...?",
+      "source": "pre_existing",
+      "original_cz": "Cítím se hrozně! Nudím se, jsem smutný a úplně sám. A mimochodem, {PlayerName}...?"
+    },
+    {
+      "key": "Vanellope_004_f",
+      "en": "Yes?",
+      "cz": "Ano?",
+      "source": "pre_existing",
+      "original_cz": "Ano?"
+    },
+    {
+      "key": "Vanellope_005_f",
+      "en": "I think I've lost my sweet tooth!",
+      "cz": "Myslím, že jsem ztratil chuť na sladké!",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že jsem ztratil chuť na sladké!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "That's terrible!",
+      "cz": "To je hrozné!",
+      "source": "pre_existing",
+      "original_cz": "To je hrozné!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Is that really a big deal?",
+      "cz": "Je to opravdu velká věc?",
+      "source": "pre_existing",
+      "original_cz": "Je to opravdu velká věc?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Could that be why you're so sad?",
+      "cz": "Může to být důvod, proč jsi tak smutný/á?",
+      "source": "pre_existing",
+      "original_cz": "Může to být důvod, proč jsi tak smutný/á?"
+    },
+    {
+      "key": "Vanellope_006_f",
+      "en": "I KNOW! This is NOT NORMAL for me.",
+      "cz": "VÍM! Tohle pro mě NENÍ NORMÁLNÍ.",
+      "source": "pre_existing",
+      "original_cz": "VÍM! Tohle pro mě NENÍ NORMÁLNÍ."
+    },
+    {
+      "key": "Vanellope_009_f",
+      "en": "What can we do to help?",
+      "cz": "Co můžeme udělat pro pomoc?",
+      "source": "pre_existing",
+      "original_cz": "Co můžeme udělat pro pomoc?"
+    },
+    {
+      "key": "Vanellope_010_f",
+      "en": "I don't know. I've never felt like this before. Not even when I was living all by myself in Diet Cola Mountain.",
+      "cz": "Nevím. Nikdy předtím jsem se takhle necítil. Ani když jsem bydlel úplně sám v Diet Cola Mountain.",
+      "source": "pre_existing",
+      "original_cz": "Nevím. Nikdy předtím jsem se takhle necítil. Ani když jsem bydlel úplně sám v Diet Cola Mountain."
+    },
+    {
+      "key": "Vanellope_012_f",
+      "en": "PLEASE help me get my sweet tooth back! This morning I wanted to eat... BROCCOLI!",
+      "cz": "PROSÍM, pomozte mi dostat zpátky chuť na sladké! Dnes ráno jsem chtěla jíst... BROKOLICI!",
+      "source": "pre_existing",
+      "original_cz": "PROSÍM, pomozte mi dostat zpátky chuť na sladké! Dnes ráno jsem chtěla jíst... BROKOLICI!"
+    },
+    {
+      "key": "Vanellope_011_f",
+      "en": "I'll come up with something; I promise.",
+      "cz": "Něco vymyslím, slibuji.",
+      "source": "pre_existing",
+      "original_cz": "Něco vymyslím, slibuji."
+    },
+    {
+      "key": "Vanellope_007_f",
+      "en": "Of course it is!",
+      "cz": "Samozřejmě že je!",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě že je!"
+    },
+    {
+      "key": "Vanellope_008_f",
+      "en": "No, that happened AFTER the sad feelings started.",
+      "cz": "Ne, to se stalo AŽ POTÉ, co začaly ty smutné pocity.",
+      "source": "pre_existing",
+      "original_cz": "Ne, to se stalo AŽ POTÉ, co začaly ty smutné pocity."
+    }
+  ],
+  "InsideOut_Vanellope/Vanellope_VLG_Joy_020_VLG_Joy_020_TalkTo12.locbin": [
+    {
+      "key": "Vanellope_000_f",
+      "en": "What do you want now?",
+      "cz": "Co teď chceš?",
+      "source": "pre_existing",
+      "original_cz": "Co teď chceš?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "We're here to help you.",
+      "cz": "Jsme tu, abychom vám pomohli.",
+      "source": "pre_existing",
+      "original_cz": "Jsme tu, abychom vám pomohli."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'll try to ignore the angry tone.",
+      "cz": "Zkusím ignorovat ten naštvaný tón.",
+      "source": "pre_existing",
+      "original_cz": "Zkusím ignorovat ten naštvaný tón."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "No need to be rude.",
+      "cz": "Není třeba být hrubý.",
+      "source": "pre_existing",
+      "original_cz": "Není třeba být hrubý."
+    },
+    {
+      "key": "Vanellope_002_f",
+      "en": "I'm sorry, {PlayerName}. I just feel so BLAH. You know? Like I'm in last place in LIFE.",
+      "cz": "Promiň, {PlayerName}. Cítím se tak hrozně. Víš? Jako bych byl na posledním místě v ŽIVOTĚ.",
+      "source": "pre_existing",
+      "original_cz": "Promiň, {PlayerName}. Cítím se tak hrozně. Víš? Jako bych byl na posledním místě v ŽIVOTĚ."
+    },
+    {
+      "key": "Vanellope_004_f",
+      "en": "That's why we're here.",
+      "cz": "Proto jsme tady.",
+      "source": "pre_existing",
+      "original_cz": "Proto jsme tady."
+    },
+    {
+      "key": "Vanellope_005_f",
+      "en": "We wanna help! And I have a pretty brilliant idea, if I do say so myself.",
+      "cz": "Chceme pomoct! A mám docela skvělý nápad, když to tak musím říct.",
+      "source": "pre_existing",
+      "original_cz": "Chceme pomoct! A mám docela skvělý nápad, když to tak musím říct."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Wait, you do?",
+      "cz": "Počkej, opravdu?",
+      "source": "pre_existing",
+      "original_cz": "Počkej, opravdu?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "You're always full of great ideas!",
+      "cz": "Vždycky jsi plná skvělých nápadů!",
+      "source": "pre_existing",
+      "original_cz": "Vždycky jsi plná skvělých nápadů!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I think we're thinking the same thing.",
+      "cz": "Myslím, že myslíme na totéž.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že myslíme na totéž."
+    },
+    {
+      "key": "Vanellope_006_f",
+      "en": "You bet!",
+      "cz": "To se vsadím!",
+      "source": "pre_existing",
+      "original_cz": "To se vsadím!"
+    },
+    {
+      "key": "Vanellope_009_f",
+      "en": "Vanellope, you said that you lost your sweet tooth, right? Well, what if we help you get it back?! One time when Riley was feeling upset, Mom and Dad took us out for ice cream. It was GREAT!",
+      "cz": "Vanellope, říkala jsi, že jsi ztratila chuť na sladké, že? Co kdybychom ti pomohli ji získat zpátky?! Jednou, když byl Riley naštvaný, nás máma s tátou vzali na zmrzlinu. Bylo to SKVĚLÉ!",
+      "source": "pre_existing",
+      "original_cz": "Vanellope, říkala jsi, že jsi ztratila chuť na sladké, že? Co kdybychom ti pomohli ji získat zpátky?! Jednou, když byl Riley naštvaný, nás máma s tátou vzali na zmrzlinu. Bylo to SKVĚLÉ!"
+    },
+    {
+      "key": "Vanellope_010_f",
+      "en": "I'm not feeling too optimistic, but I'll try ANYTHING to feel better right now.",
+      "cz": "Nejsem moc optimistický, ale zkusím COKOLIV, abych se teď cítil lépe.",
+      "source": "pre_existing",
+      "original_cz": "Nejsem moc optimistický, ale zkusím COKOLIV, abych se teď cítil lépe."
+    },
+    {
+      "key": "Vanellope_001_f",
+      "en": "Remy gave me this old recipe that sounds pretty delicious. Maybe that'll work?",
+      "cz": "Remy mi dal tenhle starý recept, který zní docela lahodně. Možná to bude fungovat?",
+      "source": "pre_existing",
+      "original_cz": "Remy mi dal tenhle starý recept, který zní docela lahodně. Možná to bude fungovat?"
+    },
+    {
+      "key": "Vanellope_011_f",
+      "en": "Sounds like a challenge! <Lore>I'll cook a Joyful Meal to help you feel better.</Lore>",
+      "cz": "Zní to jako výzva! <Lore>Uvařím vám radostné jídlo, abyste se cítili lépe.</Lore>",
+      "source": "pre_existing",
+      "original_cz": "Zní to jako výzva! <Lore>Uvařím vám radostné jídlo, abyste se cítili lépe.</Lore>"
+    },
+    {
+      "key": "Vanellope_007_f",
+      "en": "Aw, thanks {PlayerName}!",
+      "cz": "Jo, díky {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Jo, díky {PlayerName}!"
+    },
+    {
+      "key": "Vanellope_008_f",
+      "en": "We are SO on the same wavelength.",
+      "cz": "Jsme TAK na stejné vlnové délce.",
+      "source": "pre_existing",
+      "original_cz": "Jsme TAK na stejné vlnové délce."
+    }
+  ]
+}

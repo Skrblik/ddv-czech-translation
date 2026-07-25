@@ -1,0 +1,901 @@
+{
+  "JafarAct03_EVE/EVE_MRQS_E01_230_MRQS_E01_230_TalkTo09.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "*frantic digital beeps*",
+      "cz": "*zběsilé digitální pípání*",
+      "source": "pre_existing",
+      "original_cz": "*zběsilé digitální pípání*"
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "Directive! WALL·E!",
+      "cz": "Směrnice! WALL·E!",
+      "source": "pre_existing",
+      "original_cz": "Směrnice! WALL·E!"
+    },
+    {
+      "key": "EVE_002_f",
+      "en": "Are you okay, EVE?",
+      "cz": "Jsi v pořádku, EVE?",
+      "source": "pre_existing",
+      "original_cz": "Jsi v pořádku, EVE?"
+    },
+    {
+      "key": "EVE_003_f",
+      "en": "I kind of need your help with something but... if something's wrong, why don't we fix that first?",
+      "cz": "Potřebuji s něčím tvou pomoc, ale... pokud je něco špatně, proč to nejdřív neopravíme?",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji s něčím tvou pomoc, ale... pokud je něco špatně, proč to nejdřív neopravíme?"
+    },
+    {
+      "key": "EVE_004_f",
+      "en": "Directive!",
+      "cz": "Směrnice!",
+      "source": "pre_existing",
+      "original_cz": "Směrnice!"
+    },
+    {
+      "key": "EVE_005_f",
+      "en": "You're pointing towards the <ActivityItem>Ancient Ruins</ActivityItem> at the Docks. Do you want me to <Lore>meet you there</Lore>, EVE? Is that what you're trying to tell me?",
+      "cz": "Ukazuješ směrem k <ActivityItem>Starověkým ruinám</ActivityItem> v docích. Chceš, abych se s tebou <Lore>tam</Lore> setkal, !!CHYBA!!EVE!!CHYBA!!? To se mi snažíš říct?",
+      "source": "pre_existing",
+      "original_cz": "Ukazuješ směrem k <ActivityItem>Starověkým ruinám</ActivityItem> v docích. Chceš, abych se s tebou <Lore>tam</Lore> setkal, !!CHYBA!!EVE!!CHYBA!!? To se mi snažíš říct?"
+    },
+    {
+      "key": "EVE_007_f",
+      "en": "*affirmative digital beeps*",
+      "cz": "*potvrzení digitálního pípání*",
+      "source": "pre_existing",
+      "original_cz": "*potvrzení digitálního pípání*"
+    },
+    {
+      "key": "EVE_006_f",
+      "en": "Well, okay, EVE. I'll meet you there!",
+      "cz": "Dobře, EVE. Sejdeme se tam!",
+      "source": "pre_existing",
+      "original_cz": "Dobře, EVE. Sejdeme se tam!"
+    }
+  ],
+  "JafarAct03_EVE/EVE_MRQS_E01_234_RiftRapunzel_MRQS_E01_234_RiftRapunzel_TalkTo08.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "Oh!",
+      "cz": "Ó!",
+      "source": "pre_existing",
+      "original_cz": "Ó!"
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "EVE, I've got a funny question for you...",
+      "cz": "EVE, mám na tebe takovou vtipnou otázku...",
+      "source": "pre_existing",
+      "original_cz": "EVE, mám na tebe takovou vtipnou otázku..."
+    },
+    {
+      "key": "EVE_002_f",
+      "en": "What's your heart's deepest wish?",
+      "cz": "Jaké je tvé nejhlubší přání?",
+      "source": "pre_existing",
+      "original_cz": "Jaké je tvé nejhlubší přání?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I just KNOW you have one!",
+      "cz": "Prostě VÍM, že jeden máš!",
+      "source": "pre_existing",
+      "original_cz": "Prostě VÍM, že jeden máš!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Can a robot even make a wish?",
+      "cz": "Umí si robot vůbec něco přát?",
+      "source": "pre_existing",
+      "original_cz": "Umí si robot vůbec něco přát?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Does it involve plants or WALL·E?",
+      "cz": "Týká se to rostlin nebo WALL·E?",
+      "source": "pre_existing",
+      "original_cz": "Týká se to rostlin nebo WALL·E?"
+    },
+    {
+      "key": "EVE_003_f",
+      "en": "Hmm... Oh!",
+      "cz": "Hmm... Ach!",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Ach!"
+    },
+    {
+      "key": "EVE_004_f",
+      "en": "WALL·E. Plant. Earth.",
+      "cz": "WALL·E. Rostlina. Země.",
+      "source": "pre_existing",
+      "original_cz": "WALL·E. Rostlina. Země."
+    },
+    {
+      "key": "EVE_005_f",
+      "en": "Oh. Right. I guess sometimes it really is that simple.",
+      "cz": "Jasně. Myslím, že je to někdy opravdu tak jednoduché.",
+      "source": "pre_existing",
+      "original_cz": "Jasně. Myslím, že je to někdy opravdu tak jednoduché."
+    },
+    {
+      "key": "EVE_006_f",
+      "en": "Directive!",
+      "cz": "Směrnice!",
+      "source": "pre_existing",
+      "original_cz": "Směrnice!"
+    },
+    {
+      "key": "EVE_007_f",
+      "en": "I guess it's true. A wish is just a directive your heart gives you, isn't it?",
+      "cz": "Asi je to pravda. Přání je jen pokyn, který ti dává tvé srdce, že?",
+      "source": "pre_existing",
+      "original_cz": "Asi je to pravda. Přání je jen pokyn, který ti dává tvé srdce, že?"
+    },
+    {
+      "key": "EVE_008_f",
+      "en": "So what's yours?",
+      "cz": "Tak jaký je ten tvůj?",
+      "source": "pre_existing",
+      "original_cz": "Tak jaký je ten tvůj?"
+    }
+  ],
+  "JafarAct03_EVE/EVE_MRQS_E01_238_RiftEVE_MRQS_E01_238_RiftEVE_BringItem01.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "See this, EVE?",
+      "cz": "Vidíš to, EVE?",
+      "source": "pre_existing",
+      "original_cz": "Vidíš to, EVE?"
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "Oooh...",
+      "cz": "Jééé...",
+      "source": "pre_existing",
+      "original_cz": "Jééé..."
+    },
+    {
+      "key": "EVE_002_f",
+      "en": "WALL·E had a great idea — we can make a movie.",
+      "cz": "WALL·E měl skvělý nápad – můžeme natočit film.",
+      "source": "pre_existing",
+      "original_cz": "WALL·E měl skvělý nápad – můžeme natočit film."
+    },
+    {
+      "key": "EVE_006_f",
+      "en": "I can <Lore>take some pictures of you and WALL·E around the Isle</Lore> to <Lore>make a film reel</Lore> to project with this!",
+      "cz": "Můžu <Lore>vyfotit tebe a WALL·Eho po ostrově</Lore> a <Lore>nafotit film</Lore>, který se na to bude promítat!",
+      "source": "pre_existing",
+      "original_cz": "Můžu <Lore>vyfotit tebe a WALL·Eho po ostrově</Lore> a <Lore>nafotit film</Lore>, který se na to bude promítat!"
+    },
+    {
+      "key": "EVE_003_f",
+      "en": "Then we can watch it together!",
+      "cz": "Pak se na to můžeme podívat společně!",
+      "source": "pre_existing",
+      "original_cz": "Pak se na to můžeme podívat společně!"
+    },
+    {
+      "key": "EVE_004_f",
+      "en": "Whoo! *happy digital beeps*",
+      "cz": "Paráda! *veselé digitální pípání*",
+      "source": "pre_existing",
+      "original_cz": "Paráda! *veselé digitální pípání*"
+    },
+    {
+      "key": "EVE_005_f",
+      "en": "Heh. Who says robots can't use their imaginations?",
+      "cz": "Heh. Kdo říká, že roboti neumí používat svou fantazii?",
+      "source": "pre_existing",
+      "original_cz": "Heh. Kdo říká, že roboti neumí používat svou fantazii?"
+    }
+  ],
+  "JafarAct03_EVE/EVE_MRQS_E01_238_RiftEVE_MRQS_E01_238_RiftEVE_BringItem02.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "Okay, EVE, all that's left is for you to toss the projector and the film reel into the rift.",
+      "cz": "Dobře, EVE, už jen zbývá hodit projektor a film do trhliny.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, EVE, už jen zbývá hodit projektor a film do trhliny."
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "Directive!",
+      "cz": "Směrnice!",
+      "source": "pre_existing",
+      "original_cz": "Směrnice!"
+    },
+    {
+      "key": "EVE_005_f",
+      "en": "Let's go!",
+      "cz": "Jdeme na to!",
+      "source": "pre_existing",
+      "original_cz": "Jdeme na to!"
+    }
+  ],
+  "JafarAct03_EVE/EVE_MRQS_E01_238_RiftEVE_MRQS_E01_238_RiftEVE_Ongoing01.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "Directive!",
+      "cz": "Směrnice!",
+      "source": "pre_existing",
+      "original_cz": "Směrnice!"
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "Oh, right. I should meet you inside the Ancient Ruins.",
+      "cz": "Jasně. Měl bych se s tebou setkat uvnitř Starověkých ruin.",
+      "source": "pre_existing",
+      "original_cz": "Jasně. Měl bych se s tebou setkat uvnitř Starověkých ruin."
+    }
+  ],
+  "JafarAct03_EVE/EVE_MRQS_E01_238_RiftEVE_MRQS_E01_238_RiftEVE_Ongoing02.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "Directive!",
+      "cz": "Směrnice!",
+      "source": "pre_existing",
+      "original_cz": "Směrnice!"
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "Okay, okay! I'll meet you in the Ruins!",
+      "cz": "Dobře, dobře! Sejdeme se v Ruinách!",
+      "source": "pre_existing",
+      "original_cz": "Dobře, dobře! Sejdeme se v Ruinách!"
+    }
+  ],
+  "JafarAct03_EVE/EVE_MRQS_E01_238_RiftEVE_MRQS_E01_238_RiftEVE_Ongoing03.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "WALL·E?",
+      "cz": "WALL·E?",
+      "source": "pre_existing",
+      "original_cz": "WALL·E?"
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "That's right! I'm going to go ask WALL·E for some help with using our imaginations.",
+      "cz": "Přesně tak! Půjdu se zeptat WALL·Eho, jestli nám nepomůže s používáním fantazie.",
+      "source": "pre_existing",
+      "original_cz": "Přesně tak! Půjdu se zeptat WALL·Eho, jestli nám nepomůže s používáním fantazie."
+    }
+  ],
+  "JafarAct03_EVE/EVE_MRQS_E01_238_RiftEVE_MRQS_E01_238_RiftEVE_Ongoing04.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "Directive?",
+      "cz": "Směrnice?",
+      "source": "pre_existing",
+      "original_cz": "Směrnice?"
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "I've got something to show you, EVE! I've just got to figure out which storage I put it in...",
+      "cz": "Musím ti něco ukázat, EVE! Jen musím přijít na to, do kterého skladu to mám dát...",
+      "source": "pre_existing",
+      "original_cz": "Musím ti něco ukázat, EVE! Jen musím přijít na to, do kterého skladu to mám dát..."
+    }
+  ],
+  "JafarAct03_EVE/EVE_MRQS_E01_238_RiftEVE_MRQS_E01_238_RiftEVE_Ongoing05.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "EVE! WALL·E!",
+      "cz": "PŘEDVEČER! WALL·E!",
+      "source": "pre_existing",
+      "original_cz": "PŘEDVEČER! WALL·E!"
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "Right! Got it! I've got to take some pictures of you and WALL·E!",
+      "cz": "Jasně! Rozumím! Musím vyfotit tebe a WALL·Eho!",
+      "source": "pre_existing",
+      "original_cz": "Jasně! Rozumím! Musím vyfotit tebe a WALL·Eho!"
+    }
+  ],
+  "JafarAct03_EVE/EVE_MRQS_E01_238_RiftEVE_MRQS_E01_238_RiftEVE_Ongoing07.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "EVE? WALL·E?",
+      "cz": "EVA? WALL·E?",
+      "source": "pre_existing",
+      "original_cz": "EVA? WALL·E?"
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "I've got all the pictures I need of you and WALL·E!",
+      "cz": "Mám všechny fotky tebe a WALL·Eho, co potřebuji!",
+      "source": "pre_existing",
+      "original_cz": "Mám všechny fotky tebe a WALL·Eho, co potřebuji!"
+    },
+    {
+      "key": "EVE_002_f",
+      "en": "But now I need to make a film reel to run them on...",
+      "cz": "Ale teď musím udělat filmovou cívku, abych je na ní mohl pustit...",
+      "source": "pre_existing",
+      "original_cz": "Ale teď musím udělat filmovou cívku, abych je na ní mohl pustit..."
+    }
+  ],
+  "JafarAct03_EVE/EVE_MRQS_E01_238_RiftEVE_MRQS_E01_238_RiftEVE_Ongoing08.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "Directive?",
+      "cz": "Směrnice?",
+      "source": "pre_existing",
+      "original_cz": "Směrnice?"
+    }
+  ],
+  "JafarAct03_EVE/EVE_MRQS_E01_238_RiftEVE_MRQS_E01_238_RiftEVE_Ongoing09.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "Directive?",
+      "cz": "Směrnice?",
+      "source": "pre_existing",
+      "original_cz": "Směrnice?"
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "Everything's ready, EVE! We just need to meet back at the rift.",
+      "cz": "Všechno je připravené, EVE! Jen se musíme sejít zpátky u trhliny.",
+      "source": "pre_existing",
+      "original_cz": "Všechno je připravené, EVE! Jen se musíme sejít zpátky u trhliny."
+    }
+  ],
+  "JafarAct03_EVE/EVE_MRQS_E01_238_RiftEVE_MRQS_E01_238_RiftEVE_Ongoing10.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "Directive?",
+      "cz": "Směrnice?",
+      "source": "pre_existing",
+      "original_cz": "Směrnice?"
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "Whoops! Just gotta get the film reel out of storage for you.",
+      "cz": "Jejda! Jen ti musím vyndat ten film ze skladu.",
+      "source": "pre_existing",
+      "original_cz": "Jejda! Jen ti musím vyndat ten film ze skladu."
+    }
+  ],
+  "JafarAct03_EVE/EVE_MRQS_E01_238_RiftEVE_MRQS_E01_238_RiftEVE_TalkTo03.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "Directive?",
+      "cz": "Směrnice?",
+      "source": "pre_existing",
+      "original_cz": "Směrnice?"
+    },
+    {
+      "key": "EVE_004_f",
+      "en": "Toss the projector into the Time Rift!",
+      "cz": "Hoď projektor do Časové trhliny!",
+      "source": "pre_existing",
+      "original_cz": "Hoď projektor do Časové trhliny!"
+    },
+    {
+      "key": "EVE_005_f",
+      "en": "HA!",
+      "cz": "HA!",
+      "source": "pre_existing",
+      "original_cz": "HA!"
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "Did you see that, EVE? It worked! The Time Rift closed.",
+      "cz": "Viděla jsi to, EVE? Fungovalo to! Časová trhlina se zavřela.",
+      "source": "pre_existing",
+      "original_cz": "Viděla jsi to, EVE? Fungovalo to! Časová trhlina se zavřela."
+    },
+    {
+      "key": "EVE_002_f",
+      "en": "You really do have a great imagination!",
+      "cz": "Máš vážně skvělou fantazii!",
+      "source": "pre_existing",
+      "original_cz": "Máš vážně skvělou fantazii!"
+    },
+    {
+      "key": "EVE_003_f",
+      "en": "Whoo-hoo!",
+      "cz": "Júúú!",
+      "source": "pre_existing",
+      "original_cz": "Júúú!"
+    }
+  ],
+  "JafarAct03_EVE/EVE_MRQS_E01_238_RiftEVE_MRQS_E01_238_RiftEVE_TalkToDialog01.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "Oh! So this is what you wanted to show me? Yep, that sure is a Time Rift...",
+      "cz": "Aha! Takže tohle jsi mi chtěl ukázat? Jo, to je určitě Časová trhlina...",
+      "source": "pre_existing",
+      "original_cz": "Aha! Takže tohle jsi mi chtěl ukázat? Jo, to je určitě Časová trhlina..."
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "I need your help closing it, EVE. Think you can use your imagination?",
+      "cz": "Potřebuji tvou pomoc s jeho uzavřením, EVE. Myslíš, že umíš použít svou fantazii?",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji tvou pomoc s jeho uzavřením, EVE. Myslíš, že umíš použít svou fantazii?"
+    },
+    {
+      "key": "EVE_002_f",
+      "en": "Huh? Uh... *sigh*",
+      "cz": "Cože? Ehm... *povzdech*",
+      "source": "pre_existing",
+      "original_cz": "Cože? Ehm... *povzdech*"
+    },
+    {
+      "key": "EVE_003_f",
+      "en": "Not feeling too imaginative, huh? Well, what if we <Lore>asked for some help</Lore>?",
+      "cz": "Nezdá se mi to moc nápadité, co? Co kdybychom <Lore>požádali o pomoc</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "Nezdá se mi to moc nápadité, co? Co kdybychom <Lore>požádali o pomoc</Lore>?"
+    },
+    {
+      "key": "EVE_004_f",
+      "en": "WALL·E seems to have quite the imagination!",
+      "cz": "WALL·E má zřejmě docela bujnou fantazii!",
+      "source": "pre_existing",
+      "original_cz": "WALL·E má zřejmě docela bujnou fantazii!"
+    },
+    {
+      "key": "EVE_005_f",
+      "en": "WALL·E!",
+      "cz": "WALL·E!",
+      "source": "pre_existing",
+      "original_cz": "WALL·E!"
+    }
+  ],
+  "JafarAct03_EVE/EVE_SEC_Jafa_010_SEC_Jafa_010_TalkTo05.locbin": [
+    {
+      "key": "EVE_001_f",
+      "en": "Hey EVE! Can we talk about Jafar for a moment?",
+      "cz": "Ahoj EVE! Můžeme si na chvilku promluvit o Džafarovi?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj EVE! Můžeme si na chvilku promluvit o Džafarovi?"
+    },
+    {
+      "key": "EVE_008_f",
+      "en": "Directive!",
+      "cz": "Směrnice!",
+      "source": "pre_existing",
+      "original_cz": "Směrnice!"
+    },
+    {
+      "key": "EVE_010_f",
+      "en": "You know, after hearing what everyone has told me... I think that maybe we should do something for Jafar.",
+      "cz": "Víš, po tom, co mi všichni říkali... si myslím, že bychom pro Jafara možná měli něco udělat.",
+      "source": "pre_existing",
+      "original_cz": "Víš, po tom, co mi všichni říkali... si myslím, že bychom pro Jafara možná měli něco udělat."
+    },
+    {
+      "key": "EVE_011_f",
+      "en": "Oh?",
+      "cz": "Ó?",
+      "source": "pre_existing",
+      "original_cz": "Ó?"
+    },
+    {
+      "key": "EVE_012_f",
+      "en": "Yeah, well it's clear that Jafar is trying to ingratiate himself to everyone now.",
+      "cz": "Jo, je jasné, že se Džafar teď snaží vlídnout všem.",
+      "source": "pre_existing",
+      "original_cz": "Jo, je jasné, že se Džafar teď snaží vlídnout všem."
+    },
+    {
+      "key": "EVE_013_f",
+      "en": "We should do something to show that we appreciate the effort.",
+      "cz": "Měli bychom udělat něco, abychom ukázali, že si vážíme úsilí.",
+      "source": "pre_existing",
+      "original_cz": "Měli bychom udělat něco, abychom ukázali, že si vážíme úsilí."
+    },
+    {
+      "key": "EVE_014_f",
+      "en": "Hmm...",
+      "cz": "Hmm...",
+      "source": "pre_existing",
+      "original_cz": "Hmm..."
+    },
+    {
+      "key": "EVE_015_f",
+      "en": "Let's see, he did kinda show his own interests with his gift choices — we should use that to start!",
+      "cz": "Podívejme se, svým výběrem dárků tak trochu ukázal své vlastní zájmy – toho bychom měli využít pro začátek!",
+      "source": "pre_existing",
+      "original_cz": "Podívejme se, svým výběrem dárků tak trochu ukázal své vlastní zájmy – toho bychom měli využít pro začátek!"
+    },
+    {
+      "key": "EVE_016_f",
+      "en": "I've got it! We'll decorate around the Palace with furniture that's <Lore>Red</Lore>, <Lore>Black</Lore>, <Lore>Elegant</Lore>, <Lore>Bold</Lore>, and <Lore>Traditional</Lore>!",
+      "cz": "Mám to! Vyzdobíme palác nábytkem, který bude <Lore>červený</Lore>, <Lore>černý</Lore>, <Lore>elegantní</Lore>, <Lore>výrazný</Lore> a <Lore>tradiční</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Mám to! Vyzdobíme palác nábytkem, který bude <Lore>červený</Lore>, <Lore>černý</Lore>, <Lore>elegantní</Lore>, <Lore>výrazný</Lore> a <Lore>tradiční</Lore>!"
+    },
+    {
+      "key": "EVE_002_f",
+      "en": "Oh! Whoo!",
+      "cz": "Jé! Jé!",
+      "source": "pre_existing",
+      "original_cz": "Jé! Jé!"
+    },
+    {
+      "key": "EVE_017_f",
+      "en": "Maybe I should talk to Merlin to get a little something extra special too...",
+      "cz": "Možná bych si měl promluvit s Merlinem, abych taky pořídil něco extra speciálního...",
+      "source": "pre_existing",
+      "original_cz": "Možná bych si měl promluvit s Merlinem, abych taky pořídil něco extra speciálního..."
+    },
+    {
+      "key": "EVE_003_f",
+      "en": "You're... happy about Jafar? That's a big surprise!",
+      "cz": "Máš... radost z Džafara? To je velké překvapení!",
+      "source": "pre_existing",
+      "original_cz": "Máš... radost z Džafara? To je velké překvapení!"
+    },
+    {
+      "key": "EVE_004_f",
+      "en": "EVE! Ta-da!",
+      "cz": "EVA! Tadá!",
+      "source": "pre_existing",
+      "original_cz": "EVA! Tadá!"
+    },
+    {
+      "key": "EVE_005_f",
+      "en": "A glass flower? That's so <Lore>elegant</Lore>, EVE. Did Jafar give that to you?",
+      "cz": "Skleněná květina? To je tak <Lore>elegantní</Lore>, EVE. Dal ti to Džafar?",
+      "source": "pre_existing",
+      "original_cz": "Skleněná květina? To je tak <Lore>elegantní</Lore>, EVE. Dal ti to Džafar?"
+    },
+    {
+      "key": "EVE_006_f",
+      "en": "*affirmative digital beeps*",
+      "cz": "*potvrzení digitálního pípání*",
+      "source": "pre_existing",
+      "original_cz": "*potvrzení digitálního pípání*"
+    },
+    {
+      "key": "EVE_007_f",
+      "en": "Well, that's very nice of him — an elegant flower for an elegant machine!",
+      "cz": "To je od něj moc hezké – elegantní květina pro elegantní stroj!",
+      "source": "pre_existing",
+      "original_cz": "To je od něj moc hezké – elegantní květina pro elegantní stroj!"
+    }
+  ],
+  "JafarAct03_EVE/EVE_VLG_Jafa_020_VLG_Jafa_020_BringItem02.locbin": [
+    {
+      "key": "EVE_001_f",
+      "en": "Hey EVE, could you help me with something?",
+      "cz": "Ahoj EVE, mohla bys mi s něčím pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj EVE, mohla bys mi s něčím pomoct?"
+    },
+    {
+      "key": "EVE_002_f",
+      "en": "Directive?",
+      "cz": "Směrnice?",
+      "source": "pre_existing",
+      "original_cz": "Směrnice?"
+    },
+    {
+      "key": "EVE_003_f",
+      "en": "Jafar and I are exploring the alchemical sciences—",
+      "cz": "S Džafarem zkoumáme alchymistické vědy—",
+      "source": "pre_existing",
+      "original_cz": "S Džafarem zkoumáme alchymistické vědy—"
+    },
+    {
+      "key": "EVE_004_f",
+      "en": "*gasp*",
+      "cz": "*zalapání po dechu*",
+      "source": "pre_existing",
+      "original_cz": "*zalapání po dechu*"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "He's being nice!",
+      "cz": "Je milý!",
+      "source": "pre_existing",
+      "original_cz": "Je milý!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I know, I know.",
+      "cz": "Já vím, já vím.",
+      "source": "pre_existing",
+      "original_cz": "Já vím, já vím."
+    },
+    {
+      "key": "EVE_005_f",
+      "en": "No.",
+      "cz": "Žádný.",
+      "source": "pre_existing",
+      "original_cz": "Žádný."
+    },
+    {
+      "key": "EVE_013_f",
+      "en": "Wow, great job — thanks, EVE!",
+      "cz": "Páni, skvělá práce – díky, EVE!",
+      "source": "pre_existing",
+      "original_cz": "Páni, skvělá práce – díky, EVE!"
+    },
+    {
+      "key": "EVE_014_f",
+      "en": "Directive!",
+      "cz": "Směrnice!",
+      "source": "pre_existing",
+      "original_cz": "Směrnice!"
+    },
+    {
+      "key": "EVE_006_f",
+      "en": "I'm keeping a close eye on him; don't worry.",
+      "cz": "Dám si na něj pozor, neboj se.",
+      "source": "pre_existing",
+      "original_cz": "Dám si na něj pozor, neboj se."
+    },
+    {
+      "key": "EVE_007_f",
+      "en": "Hmm...",
+      "cz": "Hmm...",
+      "source": "pre_existing",
+      "original_cz": "Hmm..."
+    },
+    {
+      "key": "EVE_008_f",
+      "en": "So, I was wondering — could we make use of your laser real quick?",
+      "cz": "Tak jsem se chtěl zeptat – mohli bychom váš laser rychle využít?",
+      "source": "pre_existing",
+      "original_cz": "Tak jsem se chtěl zeptat – mohli bychom váš laser rychle využít?"
+    },
+    {
+      "key": "EVE_009_f",
+      "en": "I've got some <ActivityItem>Iron Ore</ActivityItem> that I'm trying to reduce to dust. It's to make gold that can help the Valley!",
+      "cz": "Mám nějakou <ActivityItem>železnou rudu</ActivityItem>, kterou se snažím rozemlít na prach. Snažím se z ní vyrobit zlato, které pomůže Údolí!",
+      "source": "pre_existing",
+      "original_cz": "Mám nějakou <ActivityItem>železnou rudu</ActivityItem>, kterou se snažím rozemlít na prach. Snažím se z ní vyrobit zlato, které pomůže Údolí!"
+    },
+    {
+      "key": "EVE_010_f",
+      "en": "Oh!",
+      "cz": "Ó!",
+      "source": "pre_existing",
+      "original_cz": "Ó!"
+    },
+    {
+      "key": "EVE_011_f",
+      "en": "*satisfied digital beeps*",
+      "cz": "*spokojené digitální pípání*",
+      "source": "pre_existing",
+      "original_cz": "*spokojené digitální pípání*"
+    }
+  ],
+  "JafarAct03_EVE/EVE_VLG_Jafa_030_VLG_Jafa_030_TalkTo03.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "Hey EVE, you feeling okay today?",
+      "cz": "Ahoj EVE, cítíš se dnes dobře?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj EVE, cítíš se dnes dobře?"
+    },
+    {
+      "key": "EVE_009_f",
+      "en": "Ahh!",
+      "cz": "Ááá!",
+      "source": "pre_existing",
+      "original_cz": "Ááá!"
+    },
+    {
+      "key": "EVE_010_f",
+      "en": "Oh — you're drawing something with your laser? A letter J?",
+      "cz": "Oh — kreslíš něco laserem? Písmeno J?",
+      "source": "pre_existing",
+      "original_cz": "Oh — kreslíš něco laserem? Písmeno J?"
+    },
+    {
+      "key": "EVE_011_f",
+      "en": "Whoo! Name! Plant! Home!",
+      "cz": "Paráda! Jméno! Rostlina! Domov!",
+      "source": "pre_existing",
+      "original_cz": "Paráda! Jméno! Rostlina! Domov!"
+    },
+    {
+      "key": "EVE_012_f",
+      "en": "Whoa, slow down there, EVE.",
+      "cz": "Hej, zpomal, EVE.",
+      "source": "pre_existing",
+      "original_cz": "Hej, zpomal, EVE."
+    },
+    {
+      "key": "EVE_013_f",
+      "en": "Name! Plant! Home!",
+      "cz": "Jméno! Rostlina! Domov!",
+      "source": "pre_existing",
+      "original_cz": "Jméno! Rostlina! Domov!"
+    },
+    {
+      "key": "EVE_014_f",
+      "en": "Name... J... Are you talking about Jafar? Plant... or planting? Jafar planting something in your home?",
+      "cz": "Jméno... J... Mluvíš o Džafarovi? Zasadit... nebo sázet? Džafar něco zasadí u tebe doma?",
+      "source": "pre_existing",
+      "original_cz": "Jméno... J... Mluvíš o Džafarovi? Zasadit... nebo sázet? Džafar něco zasadí u tebe doma?"
+    },
+    {
+      "key": "EVE_015_f",
+      "en": "No.",
+      "cz": "Žádný.",
+      "source": "pre_existing",
+      "original_cz": "Žádný."
+    },
+    {
+      "key": "EVE_016_f",
+      "en": "Jafar planted something in OTHER Villagers' homes?",
+      "cz": "Zasadil Džafar něco do domů JINÝCH vesničanů?",
+      "source": "pre_existing",
+      "original_cz": "Zasadil Džafar něco do domů JINÝCH vesničanů?"
+    },
+    {
+      "key": "EVE_017_f",
+      "en": "*affirmative digital beeps*",
+      "cz": "*potvrzení digitálního pípání*",
+      "source": "pre_existing",
+      "original_cz": "*potvrzení digitálního pípání*"
+    },
+    {
+      "key": "EVE_018_f",
+      "en": "But what does that have to do with them acting strangely?",
+      "cz": "Ale co to má společného s tím, že se chovají divně?",
+      "source": "pre_existing",
+      "original_cz": "Ale co to má společného s tím, že se chovají divně?"
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "No!",
+      "cz": "Žádný!",
+      "source": "pre_existing",
+      "original_cz": "Žádný!"
+    },
+    {
+      "key": "EVE_019_f",
+      "en": "Hmm? Directive?",
+      "cz": "Hmm? Směrnice?",
+      "source": "pre_existing",
+      "original_cz": "Hmm? Směrnice?"
+    },
+    {
+      "key": "EVE_020_f",
+      "en": "All right, I'm gonna look into this further, maybe <Lore>check out the Houses of those three</Lore>.",
+      "cz": "Dobře, podívám se na to blíž, možná <Lore>podívám se na domy těch tří</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, podívám se na to blíž, možná <Lore>podívám se na domy těch tří</Lore>."
+    },
+    {
+      "key": "EVE_021_f",
+      "en": "Thanks, EVE!",
+      "cz": "Díky, EVKO!",
+      "source": "pre_existing",
+      "original_cz": "Díky, EVKO!"
+    },
+    {
+      "key": "EVE_002_f",
+      "en": "Oh no! Are you sick?",
+      "cz": "Ale ne! Jsi nemocný/á?",
+      "source": "pre_existing",
+      "original_cz": "Ale ne! Jsi nemocný/á?"
+    },
+    {
+      "key": "EVE_003_f",
+      "en": "No! Directive.",
+      "cz": "Ne! Směrnice.",
+      "source": "pre_existing",
+      "original_cz": "Ne! Směrnice."
+    },
+    {
+      "key": "EVE_004_f",
+      "en": "Well, this is strange. I spoke with Rapunzel, Gaston, and Mr. McDuck, and they all... seem super weird today.",
+      "cz": "No, to je divné. Mluvil jsem s Locikou, Gastonem a panem McDuckem a všichni... dnes vypadají hrozně divně.",
+      "source": "pre_existing",
+      "original_cz": "No, to je divné. Mluvil jsem s Locikou, Gastonem a panem McDuckem a všichni... dnes vypadají hrozně divně."
+    },
+    {
+      "key": "EVE_005_f",
+      "en": "Oh... Oh! *digital beeps*",
+      "cz": "Ach... Ach! *digitální pípání*",
+      "source": "pre_existing",
+      "original_cz": "Ach... Ach! *digitální pípání*"
+    },
+    {
+      "key": "EVE_006_f",
+      "en": "They were all saying some mean things... about you. It's just not like them.",
+      "cz": "Všichni o tobě říkali nějaké zlé věci. To se jim prostě nepodobá.",
+      "source": "pre_existing",
+      "original_cz": "Všichni o tobě říkali nějaké zlé věci. To se jim prostě nepodobá."
+    },
+    {
+      "key": "EVE_007_f",
+      "en": "Oh... *sigh*",
+      "cz": "Ach... *vzdech*",
+      "source": "pre_existing",
+      "original_cz": "Ach... *vzdech*"
+    },
+    {
+      "key": "EVE_008_f",
+      "en": "But I don't think they meant it! Do you have any idea what's going on?",
+      "cz": "Ale myslím, že to tak nemysleli! Máš vůbec ponětí, co se děje?",
+      "source": "pre_existing",
+      "original_cz": "Ale myslím, že to tak nemysleli! Máš vůbec ponětí, co se děje?"
+    }
+  ],
+  "JafarAct03_EVE/EVE_VLG_Jafa_040_VLG_Jafa_040_TalkTo09.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "Hey EVE, how you holding up?",
+      "cz": "Ahoj EVE, jak se máš?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj EVE, jak se máš?"
+    },
+    {
+      "key": "EVE_009_f",
+      "en": "Cool! The trial will be happening in the <Lore>Ancient Ruins</Lore>. I'll make sure you get informed when we're ready to start.",
+      "cz": "Paráda! Soud se bude konat ve <Lore>Starověkých ruinách</Lore>. Dám vám vědět, až budeme připraveni začít.",
+      "source": "pre_existing",
+      "original_cz": "Paráda! Soud se bude konat ve <Lore>Starověkých ruinách</Lore>. Dám vám vědět, až budeme připraveni začít."
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "Uh... Directive?",
+      "cz": "Ehm... Směrnice?",
+      "source": "pre_existing",
+      "original_cz": "Ehm... Směrnice?"
+    },
+    {
+      "key": "EVE_002_f",
+      "en": "Oh, I'm in the middle of putting a trial together for Jafar...",
+      "cz": "Právě připravuji soudní proces pro Jafara...",
+      "source": "pre_existing",
+      "original_cz": "Právě připravuji soudní proces pro Jafara..."
+    },
+    {
+      "key": "EVE_003_f",
+      "en": "Whoo!",
+      "cz": "Jéé!",
+      "source": "pre_existing",
+      "original_cz": "Jéé!"
+    },
+    {
+      "key": "EVE_004_f",
+      "en": "Ha! Thought you might be happy with that.",
+      "cz": "Ha! Myslel jsem, že s tím budeš spokojený.",
+      "source": "pre_existing",
+      "original_cz": "Ha! Myslel jsem, že s tím budeš spokojený."
+    },
+    {
+      "key": "EVE_005_f",
+      "en": "I was hoping you could help me with something else.",
+      "cz": "Doufal jsem, že mi s něčím dalším pomůžete.",
+      "source": "pre_existing",
+      "original_cz": "Doufal jsem, že mi s něčím dalším pomůžete."
+    },
+    {
+      "key": "EVE_006_f",
+      "en": "I need someone to keep an eye on Jafar until the trial starts.",
+      "cz": "Potřebuji někoho, kdo by dohlížel na Jafara, dokud nezačne soud.",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji někoho, kdo by dohlížel na Jafara, dokud nezačne soud."
+    },
+    {
+      "key": "EVE_007_f",
+      "en": "If he starts building some suspicious-looking machine, you have my permission to use your laser on it.",
+      "cz": "Pokud začne stavět nějaký podezřele vypadající stroj, máš mé svolení použít na něj laser.",
+      "source": "pre_existing",
+      "original_cz": "Pokud začne stavět nějaký podezřele vypadající stroj, máš mé svolení použít na něj laser."
+    },
+    {
+      "key": "EVE_008_f",
+      "en": "Directive! Whoo!",
+      "cz": "Směrnice! Paráda!",
+      "source": "pre_existing",
+      "original_cz": "Směrnice! Paráda!"
+    }
+  ]
+}

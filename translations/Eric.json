@@ -1,0 +1,814 @@
+{
+  "Eric/VLG_Eric_010.locbin": [
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_Any_CompletedRequestDescription",
+      "en": "Talk to Eric.",
+      "cz": "Promluv si s Erikem.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Erikem."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_AvailableDescription",
+      "en": "You managed to get Eric back... but not in the way you hoped. You need to break the news to Ariel.",
+      "cz": "Podařilo se ti získat Erica zpět... ale ne tak, jak jsi doufal. Musíš tu novinku sdělit Ariel.",
+      "source": "pre_existing",
+      "original_cz": "Podařilo se ti získat Erica zpět... ale ne tak, jak jsi doufal. Musíš tu novinku sdělit Ariel."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_CompletedStoryDescription",
+      "en": "After cooking Eric some meals to return his strength, he shares an emotional reunion with Ariel. Eric tells you that Ursula taunted him with an intriguing secret while she held him captive... but that's a mystery for another day.",
+      "cz": "Poté, co Ericovi uvaří jídlo, aby mu vrátil síly, se s Ariel dojme. Eric vám řekne, že se mu Ursula posmívala zajímavým tajemstvím, když ho držela v zajetí... ale to je záhada na jindy.",
+      "source": "pre_existing",
+      "original_cz": "Poté, co Ericovi uvaří jídlo, aby mu vrátil síly, se s Ariel dojme. Eric vám řekne, že se mu Ursula posmívala zajímavým tajemstvím, když ho držela v zajetí... ale to je záhada na jindy."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_DisplayName",
+      "en": "Poor Unfortunate Prince",
+      "cz": "Chudák nešťastný princ",
+      "source": "pre_existing",
+      "original_cz": "Chudák nešťastný princ"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_Group01_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How can I help?",
+      "cz": "<smallcaps>{title}</smallcaps><br>How can I help?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>How can I help?"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_Group01_Step01_BringItem01_StepDescription",
+      "en": "Find Prince Eric.",
+      "cz": "Najděte prince Erica.",
+      "source": "pre_existing",
+      "original_cz": "Najděte prince Erica."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_Group01_Step01_ReadyDescription",
+      "en": "Bring <ActivityItem>Poor Unfortunate Eric</ActivityItem> to Ariel.",
+      "cz": "Přiveďte <ActivityItem>Chudáka nešťastného Erica</ActivityItem> k Ariel.",
+      "source": "pre_existing",
+      "original_cz": "Přiveďte <ActivityItem>Chudáka nešťastného Erica</ActivityItem> k Ariel."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_Group02_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How can I help?",
+      "cz": "<smallcaps>{title}</smallcaps><br>How can I help?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>How can I help?"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Go ask Merlin for help.",
+      "cz": "Jdi požádat Merlina o pomoc.",
+      "source": "pre_existing",
+      "original_cz": "Jdi požádat Merlina o pomoc."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_Group02_StoryDescription",
+      "en": "After talking with Ariel, you decide to ask Merlin for some magical help to turn Eric human again.",
+      "cz": "Po rozhovoru s Ariel se rozhodnete požádat Merlina o magickou pomoc, aby se Eric mohl znovu proměnit v člověka.",
+      "source": "pre_existing",
+      "original_cz": "Po rozhovoru s Ariel se rozhodnete požádat Merlina o magickou pomoc, aby se Eric mohl znovu proměnit v člověka."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_Group03_Step03_PlaceBuilding01_StepDescription",
+      "en": "Place Eric's Castle in the Village.",
+      "cz": "Umístěte Erikův hrad do vesnice.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte Erikův hrad do vesnice."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_Group03_StoryDescription",
+      "en": "Merlin gave you a spell for restoring a handsome prince. You'll need to build him a house in the Village, find an object that's dear to his heart, and have Ariel call out his name before sealing the spell with true love's kiss.",
+      "cz": "Merlin ti dal kouzlo pro navrácení pohledného prince. Budeš mu muset postavit dům ve vesnici, najít předmět, který je mu drahý, a nechat Ariel zavolat jeho jméno, než kouzlo zpečetíš polibkem pravé lásky.",
+      "source": "pre_existing",
+      "original_cz": "Merlin ti dal kouzlo pro navrácení pohledného prince. Budeš mu muset postavit dům ve vesnici, najít předmět, který je mu drahý, a nechat Ariel zavolat jeho jméno, než kouzlo zpečetíš polibkem pravé lásky."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_Group04_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What do I do now?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What do I do now?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What do I do now?"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_Group04_StepDescription",
+      "en": "Use the Scrooge sign to pay for the construction of Prince Eric's House.",
+      "cz": "Použijte Scroogův znak k zaplacení za stavbu domu prince Erica.",
+      "source": "pre_existing",
+      "original_cz": "Použijte Scroogův znak k zaplacení za stavbu domu prince Erica."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_Group06_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What do I do now?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What do I do now?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What do I do now?"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_Group06_Step06_BringItem02_StepDescription",
+      "en": "Search Eric's Castle for an object that's dear to his heart.",
+      "cz": "Vyhledejte v Ericově hradu předmět, který je mu drahý.",
+      "source": "pre_existing",
+      "original_cz": "Vyhledejte v Ericově hradu předmět, který je mu drahý."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_Group06_Step06_ReadyDescription",
+      "en": "Bring {ItemName} to Ariel.",
+      "cz": "Přineste {ItemName} Ariel.",
+      "source": "pre_existing",
+      "original_cz": "Přineste {ItemName} Ariel."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_Group07_Step07_UnlockCharacter01_StepDescription",
+      "en": "Welcome Eric to Dreamlight Valley.",
+      "cz": "Vítej Eriku v Údolí Světla Snů.",
+      "source": "pre_existing",
+      "original_cz": "Vítej Eriku v Údolí Světla Snů."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_Group10_Step10_Listen01_StepDescription",
+      "en": "Witness Ariel's and Eric's reunion.",
+      "cz": "Buďte svědky shledání Ariel a Erica.",
+      "source": "pre_existing",
+      "original_cz": "Buďte svědky shledání Ariel a Erica."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_Group11_Step11_TalkToCharacter03_StepDescription",
+      "en": "Talk to Eric.",
+      "cz": "Promluv si s Erikem.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Erikem."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_Group11_StoryDescription",
+      "en": "It worked! Eric is human again.",
+      "cz": "Fungovalo to! Eric je zase člověk.",
+      "source": "pre_existing",
+      "original_cz": "Fungovalo to! Eric je zase člověk."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_Group12_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What do you need?",
+      "cz": "<smallcaps>{title}<smallcaps><br>Co potřebujete?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}<smallcaps><br>Co potřebujete?"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_Group12_Step12_CookMeal01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_Group12_Step12_CookMeal02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_Group12_Step12_CookMeal03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_Group12_Step12_StepDescription",
+      "en": "Cook Eric some meals. He wants:",
+      "cz": "Uvařte Ericovi nějaká jídla. Chce:",
+      "source": "pre_existing",
+      "original_cz": "Uvařte Ericovi nějaká jídla. Chce:"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_Group13_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What can I do for you?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What can I do for you?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What can I do for you?"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_Group13_Step13_BringItem03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_Group13_Step13_BringItem04_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_Group13_Step13_BringItem05_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_Group13_Step13_ReadyDescription",
+      "en": "Bring the meals to Eric.",
+      "cz": "Dones jídlo Ericovi.",
+      "source": "pre_existing",
+      "original_cz": "Dones jídlo Ericovi."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_010_Group13_Step13_StepDescription",
+      "en": "Make sure you have these meals in your Inventory:",
+      "cz": "Ujistěte se, že máte v inventáři tato jídla:",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte v inventáři tato jídla:"
+    }
+  ],
+  "Eric/VLG_Eric_020.locbin": [
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_Any_CompletedRequestDescription",
+      "en": "Talk to Eric.",
+      "cz": "Promluv si s Erikem.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Erikem."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_AvailableDescription",
+      "en": "Eric wants to start investigating something Ursula said while he was her captive.",
+      "cz": "Eric chce začít vyšetřovat něco, co Ursula řekla, když byl jejím zajatcem.",
+      "source": "pre_existing",
+      "original_cz": "Eric chce začít vyšetřovat něco, co Ursula řekla, když byl jejím zajatcem."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_CompletedStoryDescription",
+      "en": "With a little help from Remy and Maui, you were able to create an enchanted pendant that allows Ariel to shapeshift so she can walk on land at will.",
+      "cz": "S trochou pomoci od Remyho a Maui se ti podařilo vytvořit očarovaný přívěsek, který Ariel umožňuje měnit se, aby mohla chodit po souši dle libosti.",
+      "source": "pre_existing",
+      "original_cz": "S trochou pomoci od Remyho a Maui se ti podařilo vytvořit očarovaný přívěsek, který Ariel umožňuje měnit se, aby mohla chodit po souši dle libosti."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_DisplayName",
+      "en": "Part of His World",
+      "cz": "Součást Jeho světa",
+      "source": "pre_existing",
+      "original_cz": "Součást Jeho světa"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "Talk to Maui.",
+      "cz": "Promluvte si s Maui.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Maui."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_Group02_Step02_TalkToCharacter02_StepDescription",
+      "en": "Return to Eric.",
+      "cz": "Vrať se k Ericovi.",
+      "source": "pre_existing",
+      "original_cz": "Vrať se k Ericovi."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_Group03_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Who should I talk to?",
+      "cz": "<smallcaps>{title}, {smallcaps><br>S kým si mám promluvit?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}, {smallcaps><br>S kým si mám promluvit?"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_Group03_Step03_ReadyDescription",
+      "en": "Bring Remy the {ItemName}.",
+      "cz": "Přineste Remymu {ItemName}.",
+      "source": "pre_existing",
+      "original_cz": "Přineste Remymu {ItemName}."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_Group03_Step03_StepDescription",
+      "en": "Get {ItemName} from Eric.",
+      "cz": "Získejte {ItemName} od Erica.",
+      "source": "pre_existing",
+      "original_cz": "Získejte {ItemName} od Erica."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_Group04_Step04_BringItem02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_Group04_Step04_BringItem03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_Group04_Step04_BringItem04_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_Group04_Step04_BringItem05_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_Group04_Step04_ReadyDescription",
+      "en": "Bring Remy the Ingredients for the bait.",
+      "cz": "Přines Remymu ingredience na návnadu.",
+      "source": "pre_existing",
+      "original_cz": "Přines Remymu ingredience na návnadu."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_Group04_Step04_StepDescription",
+      "en": "Gather the Ingredients for the bait:",
+      "cz": "Sežeňte ingredience na návnadu:",
+      "source": "pre_existing",
+      "original_cz": "Sežeňte ingredience na návnadu:"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_Group07_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What's next?"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_Group07_Step07_ConsumeItem01_StepDescription",
+      "en": "Use the <ActivityItem>Nautilus Bait</ActivityItem> in your Inventory to apply it to your Fishing Rod.",
+      "cz": "Použijte <ActivityItem>Návnadu Nautilus</ActivityItem> z inventáře k jejímu použití na rybářský prut.",
+      "source": "pre_existing",
+      "original_cz": "Použijte <ActivityItem>Návnadu Nautilus</ActivityItem> z inventáře k jejímu použití na rybářský prut."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_Group08_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How can I help?",
+      "cz": "<smallcaps>{title}</smallcaps><br>How can I help?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>How can I help?"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_Group08_Step08_CatchFish01_StepDescription",
+      "en": "Fish a <ActivityItem>Nautilus</ActivityItem> on Dazzle Beach where the river meets the sea.",
+      "cz": "Ulov rybu <ActivityItem>Nautilus</ActivityItem> na pláži Dazzle Beach, kde se řeka setkává s mořem.",
+      "source": "pre_existing",
+      "original_cz": "Ulov rybu <ActivityItem>Nautilus</ActivityItem> na pláži Dazzle Beach, kde se řeka setkává s mořem."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_Group09_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What can I do?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What can I do?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What can I do?"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_Group09_Step09_Possess01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_Group09_Step09_Possess04_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_Group09_Step09_Possess09_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_Group09_Step09_StepDescription",
+      "en": "Gather the Ingredients for the <ActivityItem>Shapeshifting Enchantment</ActivityItem>:",
+      "cz": "Sežeňte ingredience pro <ActivityItem>Kouzlo měnící podobu</ActivityItem>:",
+      "source": "pre_existing",
+      "original_cz": "Sežeňte ingredience pro <ActivityItem>Kouzlo měnící podobu</ActivityItem>:"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_Group09_StoryDescription",
+      "en": "To help Eric and Ariel be together on land, you learn that you'll need to put together an enchanted item that will allow her to shapeshift.",
+      "cz": "Abyste pomohli Ericovi a Ariel být spolu na souši, dozvíte se, že budete muset sestavit očarovaný předmět, který jí umožní měnit se.",
+      "source": "pre_existing",
+      "original_cz": "Abyste pomohli Ericovi a Ariel být spolu na souši, dozvíte se, že budete muset sestavit očarovaný předmět, který jí umožní měnit se."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_Group10_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What's next?"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_Group10_Step10_CraftItem02_StepDescription",
+      "en": "Craft the {ItemName} at a Crafting Station.",
+      "cz": "Vyrobte {ItemName} na řemeslné stanici.",
+      "source": "pre_existing",
+      "original_cz": "Vyrobte {ItemName} na řemeslné stanici."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_Group11_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How can I help?",
+      "cz": "<smallcaps>{title}</smallcaps><br>How can I help?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>How can I help?"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_Group11_StepDescription",
+      "en": "Bring the <ActivityItem>Shapeshifting Enchantment</ActivityItem> and the <ActivityItem>Nautilus</ActivityItem> to Eric.",
+      "cz": "Přineste Ericovi <ActivityItem>Kouzlo měňavců</ActivityItem> a <ActivityItem>Nautilus</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Přineste Ericovi <ActivityItem>Kouzlo měňavců</ActivityItem> a <ActivityItem>Nautilus</ActivityItem>."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_Group12_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How can I help?",
+      "cz": "<smallcaps>{title}</smallcaps><br>How can I help?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>How can I help?"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_Group12_Step12_BringItem01_StepDescription",
+      "en": "Make sure you have the {ItemName} in your Inventory.",
+      "cz": "Ujistěte se, že máte {ItemName} ve svém inventáři.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte {ItemName} ve svém inventáři."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_Group12_Step12_ReadyDescription",
+      "en": "Bring the {ItemName} to Ariel.",
+      "cz": "Přineste {ItemName} Ariel.",
+      "source": "pre_existing",
+      "original_cz": "Přineste {ItemName} Ariel."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_020_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Start Quest"
+    }
+  ],
+  "Eric/VLG_Eric_030.locbin": [
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_030_Any_CompletedRequestDescription",
+      "en": "Talk to Eric.",
+      "cz": "Promluv si s Erikem.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Erikem."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_030_AvailableDescription",
+      "en": "Now that Eric has his life back, he has new plans and wants to talk to you about them.",
+      "cz": "Teď, když se Eric vrátil do svého života, má nové plány a chce si s vámi o nich promluvit.",
+      "source": "pre_existing",
+      "original_cz": "Teď, když se Eric vrátil do svého života, má nové plány a chce si s vámi o nich promluvit."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_030_CompletedStoryDescription",
+      "en": "With the Compass fixed, Eric has everything he needs but wants to show you something in his House.",
+      "cz": "S opraveným kompasem má Eric vše, co potřebuje, ale chce vám něco ukázat ve svém domě.",
+      "source": "pre_existing",
+      "original_cz": "S opraveným kompasem má Eric vše, co potřebuje, ale chce vám něco ukázat ve svém domě."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_030_DisplayName",
+      "en": "Back on the Waves",
+      "cz": "Zpátky na vlnách",
+      "source": "pre_existing",
+      "original_cz": "Zpátky na vlnách"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_030_Group01_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Who should I talk to?",
+      "cz": "<smallcaps>{title}, {smallcaps><br>S kým si mám promluvit?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}, {smallcaps><br>S kým si mám promluvit?"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_030_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "Talk to Scrooge McDuck.",
+      "cz": "Promluvte si se Scroogem McDuckem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Scroogem McDuckem."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_030_Group01_StoryDescription",
+      "en": "Eric wants to take to the waves again, but first he needs updated maps. You decide to go ask Scrooge McDuck, his former business partner.",
+      "cz": "Eric se chce znovu vydat na vlny, ale nejdřív potřebuje aktualizované mapy. Rozhodnete se zeptat Scrooge McDucka, jeho bývalého obchodního partnera.",
+      "source": "pre_existing",
+      "original_cz": "Eric se chce znovu vydat na vlny, ale nejdřív potřebuje aktualizované mapy. Rozhodnete se zeptat Scrooge McDucka, jeho bývalého obchodního partnera."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_030_Group02_Step02_ReadyDescription",
+      "en": "Bring WALL·E the {ItemName}.",
+      "cz": "Přineste WALL·Emu {ItemName}.",
+      "source": "pre_existing",
+      "original_cz": "Přineste WALL·Emu {ItemName}."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_030_Group02_Step02_StepDescription",
+      "en": "Make sure you have the {ItemName} in your Inventory.",
+      "cz": "Ujistěte se, že máte {ItemName} ve svém inventáři.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte {ItemName} ve svém inventáři."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_030_Group04_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How can I help?",
+      "cz": "<smallcaps>{title}</smallcaps><br>How can I help?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>How can I help?"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_030_Group04_Step04_ReadyDescription",
+      "en": "Bring the {ItemName} to Eric.",
+      "cz": "Přineste {ItemName} Ericovi.",
+      "source": "pre_existing",
+      "original_cz": "Přineste {ItemName} Ericovi."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_030_Group04_Step04_StepDescription",
+      "en": "Get the {ItemName} from Scrooge McDuck.",
+      "cz": "Získejte {ItemName} od Scrooge McDucka.",
+      "source": "pre_existing",
+      "original_cz": "Získejte {ItemName} od Scrooge McDucka."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_030_Group05_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Where should I go?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Where should I go?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Where should I go?"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_030_Group05_Step05_BringItem04_StepDescription",
+      "en": "Make sure you have the {ItemName} in your Inventory.",
+      "cz": "Ujistěte se, že máte {ItemName} ve svém inventáři.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte {ItemName} ve svém inventáři."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_030_Group05_Step05_ReadyDescription",
+      "en": "Bring the {ItemName} to WALL·E.",
+      "cz": "Přineste {ItemName} k WALL·E.",
+      "source": "pre_existing",
+      "original_cz": "Přineste {ItemName} k WALL·E."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_030_Group05_StoryDescription",
+      "en": "You've brought Eric a new map from Scrooge McDuck, but Eric's Compass is broken. You decide to ask WALL·E for help.",
+      "cz": "Přinesl jsi Ericovi novou mapu od Scrooge McDucka, ale Ericův kompas je rozbitý. Rozhodneš se požádat WALL·Eho o pomoc.",
+      "source": "pre_existing",
+      "original_cz": "Přinesl jsi Ericovi novou mapu od Scrooge McDucka, ale Ericův kompas je rozbitý. Rozhodneš se požádat WALL·Eho o pomoc."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_030_Group06_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What's next?"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_030_Group06_Step06_Possess02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_030_Group06_Step06_Possess03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_030_Group06_Step06_Possess04_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_030_Group06_Step06_StepDescription",
+      "en": "Gather the materials to craft a new <ActivityItem>Dreamlight Magnet</ActivityItem>.",
+      "cz": "Shromážděte materiály k výrobě nového <ActivityItem>Magnetu snového světla</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Shromážděte materiály k výrobě nového <ActivityItem>Magnetu snového světla</ActivityItem>."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_030_Group06_StoryDescription",
+      "en": "After consulting with WALL·E, you learn that Eric's Compass needs a new Dreamlight Magnet. It's up to you to craft one.",
+      "cz": "Po konzultaci s WALL·E se dozvíte, že Ericův kompas potřebuje nový magnet na snové světlo. Je na vás, abyste si jeden vyrobili.",
+      "source": "pre_existing",
+      "original_cz": "Po konzultaci s WALL·E se dozvíte, že Ericův kompas potřebuje nový magnet na snové světlo. Je na vás, abyste si jeden vyrobili."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_030_Group07_Step07_CraftItem02_StepDescription",
+      "en": "Craft the <ActivityItem>Dreamlight Magnet</ActivityItem> at a Crafting Station.",
+      "cz": "Vyrobte <ActivityItem>Magnet světla snů</ActivityItem> na řemeslné stanici.",
+      "source": "pre_existing",
+      "original_cz": "Vyrobte <ActivityItem>Magnet světla snů</ActivityItem> na řemeslné stanici."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_030_Group09_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How can I help?",
+      "cz": "<smallcaps>{title}</smallcaps><br>How can I help?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>How can I help?"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_030_Group09_Step09_BringItem03_StepDescription",
+      "en": "Make sure you have the {ItemName} in your Inventory.",
+      "cz": "Ujistěte se, že máte {ItemName} ve svém inventáři.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte {ItemName} ve svém inventáři."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_030_Group09_Step09_ReadyDescription",
+      "en": "Bring the <ActivityItem>Compass</ActivityItem> back to Eric.",
+      "cz": "Vrať Ericovi <ActivityItem>Kompas</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Vrať Ericovi <ActivityItem>Kompas</ActivityItem>."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_030_Group10_Step10_VisitArea01_StepDescription",
+      "en": "Meet Eric inside his House.",
+      "cz": "Setkejte se s Erikem v jeho domě.",
+      "source": "pre_existing",
+      "original_cz": "Setkejte se s Erikem v jeho domě."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_030_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Start Quest"
+    }
+  ],
+  "Eric/VLG_Eric_040.locbin": [
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_040_Any_CompletedRequestDescription",
+      "en": "Talk to Eric.",
+      "cz": "Promluv si s Erikem.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Erikem."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_040_AvailableDescription",
+      "en": "Eric wants to talk to you about something that happened during his expedition.",
+      "cz": "Eric si s vámi chce promluvit o něčem, co se stalo během jeho expedice.",
+      "source": "pre_existing",
+      "original_cz": "Eric si s vámi chce promluvit o něčem, co se stalo během jeho expedice."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_040_CompletedStoryDescription",
+      "en": "You have everything you need for Eric to keep scouring the bottom of the ocean for Dreamlight Valley relics.",
+      "cz": "Máš vše, co Eric potřebuje k tomu, aby mohl dál prohledávat dno oceánu a hledat relikvie z Údolí snů.",
+      "source": "pre_existing",
+      "original_cz": "Máš vše, co Eric potřebuje k tomu, aby mohl dál prohledávat dno oceánu a hledat relikvie z Údolí snů."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_040_DisplayName",
+      "en": "The Mystical Crystal",
+      "cz": "Mystický krystal",
+      "source": "pre_existing",
+      "original_cz": "Mystický krystal"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_040_Group04_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Who should I talk to?",
+      "cz": "<smallcaps>{title}, {smallcaps><br>S kým si mám promluvit?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}, {smallcaps><br>S kým si mám promluvit?"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_040_Group04_Step04_BringItem04_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_040_Group04_Step04_BringItem08_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_040_Group04_Step04_ReadyDescription",
+      "en": "Talk to Merlin.",
+      "cz": "Promluv si s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Merlinem."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_040_Group04_Step04_StepDescription",
+      "en": "Make sure you have these items in your Inventory:",
+      "cz": "Ujistěte se, že máte v inventáři tyto předměty:",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte v inventáři tyto předměty:"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_040_Group06_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What's next?"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_040_Group06_Step06_BringItem01_StepDescription",
+      "en": "<ActivityItem>Purified Night Shards</ActivityItem>.",
+      "cz": "<ActivityItem>Purified Night Shards</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Purified Night Shards</ActivityItem>."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_040_Group06_Step06_BringItem05_StepDescription",
+      "en": "<ActivityItem>Crystals</ActivityItem>.",
+      "cz": "<ActivityItem>Crystals</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Crystals</ActivityItem>."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_040_Group06_Step06_ReadyDescription",
+      "en": "Bring the Ingredients for the enchantment to Merlin.",
+      "cz": "Přineste Merlinovi ingredience pro kouzlo.",
+      "source": "pre_existing",
+      "original_cz": "Přineste Merlinovi ingredience pro kouzlo."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_040_Group06_Step06_StepDescription",
+      "en": "Gather the Ingredients for the crystal extract:",
+      "cz": "Sestavte ingredience pro extrakt z krystalu:",
+      "source": "pre_existing",
+      "original_cz": "Sestavte ingredience pro extrakt z krystalu:"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_040_Group08_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What do you need?",
+      "cz": "<smallcaps>{title} {smallcaps} <br>Co potřebujete?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title} {smallcaps} <br>Co potřebujete?"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_040_Group08_Step08_BringItem02_StepDescription",
+      "en": "Make sure you have the {ItemName} in your Inventory.",
+      "cz": "Ujistěte se, že máte {ItemName} ve svém inventáři.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte {ItemName} ve svém inventáři."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_040_Group08_Step08_ReadyDescription",
+      "en": "Bring the {ItemName} to Eric.",
+      "cz": "Přineste Ericovi {ItemName}.",
+      "source": "pre_existing",
+      "original_cz": "Přineste Ericovi {ItemName}."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_040_Group11_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What's next?"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_040_Group11_Step11_BringItem03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_040_Group11_Step11_BringItem06_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_040_Group11_Step11_BringItem07_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_040_Group11_Step11_BringItem09_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_040_Group11_Step11_ReadyDescription",
+      "en": "Bring the materials to Eric.",
+      "cz": "Doneste materiály Ericovi.",
+      "source": "pre_existing",
+      "original_cz": "Doneste materiály Ericovi."
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_040_Group11_Step11_StepDescription",
+      "en": "Gather the materials for the <ActivityItem>Diving Suit</ActivityItem>:",
+      "cz": "Shromážděte materiály pro <ActivityItem>Potápěčský oblek</ActivityItem>:",
+      "source": "pre_existing",
+      "original_cz": "Shromážděte materiály pro <ActivityItem>Potápěčský oblek</ActivityItem>:"
+    },
+    {
+      "key": "Village!LilMermaid!Eric!VLG_Eric_040_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Start Quest"
+    }
+  ]
+}

@@ -1,0 +1,1015 @@
+{
+  "LadyTramp_Merlin/Merlin_Dreamlight_RealmUnlockLadyAndTramp.locbin": [
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's open the door. (Use {UpgradePrice} <sprite=\"iconCurrencyDreamlight\" index=0>)",
+      "cz": "Otevřeme dveře. (Použijte {UpgradePrice} <sprite=\"iconCurrencyDreamlight\" index=0>)",
+      "source": "pre_existing",
+      "original_cz": "Otevřeme dveře. (Použijte {UpgradePrice} <sprite=\"iconCurrencyDreamlight\" index=0>)"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Perhaps some other time.",
+      "cz": "Možná někdy jindy.",
+      "source": "pre_existing",
+      "original_cz": "Možná někdy jindy."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Marvelous! You are now free to explore the Lady and the Tramp Realm!",
+      "cz": "Úžasné! Nyní můžete prozkoumat Říši dámy a tuláka!",
+      "source": "pre_existing",
+      "original_cz": "Úžasné! Nyní můžete prozkoumat Říši dámy a tuláka!"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Oh dear, I'm afraid you'll have to gather more Dreamlight to open this door.",
+      "cz": "Ach jo, obávám se, že budeš muset nashromáždit více Světla snů, abys otevřel/a tyhle dveře.",
+      "source": "pre_existing",
+      "original_cz": "Ach jo, obávám se, že budeš muset nashromáždit více Světla snů, abys otevřel/a tyhle dveře."
+    },
+    {
+      "key": "Merlin_000_f",
+      "en": "Now then, {PlayerName}, behind this door is a Realm of back alleys and romantic dinners. It's just the spot for puppy love to bloom! There, you can let loose and indulge your inner canine self.",
+      "cz": "Takže, {PlayerName}, za těmito dveřmi se nachází Říše uliček a romantických večeří. Je to přesně to pravé místo pro rozkvět štěněčí lásky! Můžete se tam uvolnit a nechat se hýčkat svým vnitřním psím já.",
+      "source": "pre_existing",
+      "original_cz": "Takže, {PlayerName}, za těmito dveřmi se nachází Říše uliček a romantických večeří. Je to přesně to pravé místo pro rozkvět štěněčí lásky! Můžete se tam uvolnit a nechat se hýčkat svým vnitřním psím já."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Remember: Only YOU have the power to open these doors and bring our friends back to the Valley.",
+      "cz": "Pamatuj: Jen TY máš moc otevřít tyto dveře a přivést naše přátele zpět do Údolí.",
+      "source": "pre_existing",
+      "original_cz": "Pamatuj: Jen TY máš moc otevřít tyto dveře a přivést naše přátele zpět do Údolí."
+    }
+  ],
+  "LadyTramp_Merlin/Merlin_ORQS_Merl_050_ORQS_Merl_050_BringItem01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Fascinating... Simply by holding these items, I can feel the growing pains of your younger self sealed away inside them.",
+      "cz": "Fascinující... Už jen tím, že držím tyto věci v náručí, cítím v nich uzavřené bolesti růstu tvého mladšího já.",
+      "source": "pre_existing",
+      "original_cz": "Fascinující... Už jen tím, že držím tyto věci v náručí, cítím v nich uzavřené bolesti růstu tvého mladšího já."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Gosh, {PlayerName}, I'm glad Merlin asked me to come along. I wouldn't want you goin' through this without at least a couple friends by your side.",
+      "cz": "Bože, {PlayerName}, jsem rád, že mě Merlin požádal, abych šel s tebou. Nechtěl bych, abys tímhle procházel bez alespoň pár přátel po svém boku.",
+      "source": "pre_existing",
+      "original_cz": "Bože, {PlayerName}, jsem rád, že mě Merlin požádal, abych šel s tebou. Nechtěl bych, abys tímhle procházel bez alespoň pár přátel po svém boku."
+    },
+    {
+      "key": "Merlin_014_f",
+      "en": "I quite agree. Now, to begin, let us review your Mementos and their significance.",
+      "cz": "Naprosto souhlasím. Nyní si pro začátek zopakujeme vaše upomínkové předměty a jejich význam.",
+      "source": "pre_existing",
+      "original_cz": "Naprosto souhlasím. Nyní si pro začátek zopakujeme vaše upomínkové předměty a jejich význam."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "The Secret Journal... Your craving for independence in a world that couldn't understand you.",
+      "cz": "Tajný deník... Tvá touha po nezávislosti ve světě, který ti nedokázal porozumět.",
+      "source": "pre_existing",
+      "original_cz": "Tajný deník... Tvá touha po nezávislosti ve světě, který ti nedokázal porozumět."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "The Kaleidoscope... The first time someone scolded you for being silly, thus dulling your spark.",
+      "cz": "Kaleidoskop... Poprvé, co vám někdo vynadal za hloupost, a tím otupil vaši jiskru.",
+      "source": "pre_existing",
+      "original_cz": "Kaleidoskop... Poprvé, co vám někdo vynadal za hloupost, a tím otupil vaši jiskru."
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "The Comfort Bear... Your peers, cruelly mocking you for clinging to that which brought you comfort in youth.",
+      "cz": "Medvěd Útěchy... Vaši vrstevníci, kteří se vám krutě posmívají, že lpíte na tom, co vám v mládí přinášelo útěchu.",
+      "source": "pre_existing",
+      "original_cz": "Medvěd Útěchy... Vaši vrstevníci, kteří se vám krutě posmívají, že lpíte na tom, co vám v mládí přinášelo útěchu."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "It's no wonder I hid these feelings away...",
+      "cz": "Není divu, že jsem tyhle pocity schovával...",
+      "source": "pre_existing",
+      "original_cz": "Není divu, že jsem tyhle pocity schovával..."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Oof. I think my angst is about to return!",
+      "cz": "Uf. Myslím, že se mi vrátí úzkost!",
+      "source": "pre_existing",
+      "original_cz": "Uf. Myslím, že se mi vrátí úzkost!"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Keep going; get this part over with please!",
+      "cz": "Pokračuj; prosím, už tuhle část ukonči!",
+      "source": "pre_existing",
+      "original_cz": "Pokračuj; prosím, už tuhle část ukonči!"
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "The Birthday Party Invitation for the celebration you felt left out of, and the sorrow that caused.",
+      "cz": "Pozvánka na narozeninovou oslavu, na kterou jste se cítili odstrčeni, a smutek, který vám způsobila.",
+      "source": "pre_existing",
+      "original_cz": "Pozvánka na narozeninovou oslavu, na kterou jste se cítili odstrčeni, a smutek, který vám způsobila."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "The Nostalgic Instant Photos from the evening of fun you were too sick to attend. Oh, this one is filled with youthful loneliness.",
+      "cz": "Nostalgické instantní fotografie z večera plné zábavy, kterého jste se kvůli nemoci nemohli zúčastnit. Ach, tahle je plná mladické osamělosti.",
+      "source": "pre_existing",
+      "original_cz": "Nostalgické instantní fotografie z večera plné zábavy, kterého jste se kvůli nemoci nemohli zúčastnit. Ach, tahle je plná mladické osamělosti."
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "And finally, Pluto's Collar. This holds the love and anguish that comes with loving your first animal.",
+      "cz": "A nakonec Plutův obojek. Ten v sobě ukrývá lásku a úzkost, které přicházejí s láskou k vašemu prvnímu zvířeti.",
+      "source": "pre_existing",
+      "original_cz": "A nakonec Plutův obojek. Ten v sobě ukrývá lásku a úzkost, které přicházejí s láskou k vašemu prvnímu zvířeti."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Ow... So many feelings...",
+      "cz": "Au... Tolik pocitů...",
+      "source": "pre_existing",
+      "original_cz": "Au... Tolik pocitů..."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Growing up is really hard, isn't it?",
+      "cz": "Dospívání je fakt těžké, že?",
+      "source": "pre_existing",
+      "original_cz": "Dospívání je fakt těžké, že?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Blah, blah, blah, feelings! Can we get a move on?",
+      "cz": "Bla, bla, bla, pocity! Můžeme se pohnout dál?",
+      "source": "pre_existing",
+      "original_cz": "Bla, bla, bla, pocity! Můžeme se pohnout dál?"
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "Courage, {PlayerName}. You are here, and you are loved. These feelings must be dealt with.",
+      "cz": "Odvahu, {PlayerName}. Jsi tady a jsi milován/a. S těmito pocity se musíš vypořádat.",
+      "source": "pre_existing",
+      "original_cz": "Odvahu, {PlayerName}. Jsi tady a jsi milován/a. S těmito pocity se musíš vypořádat."
+    },
+    {
+      "key": "Merlin_013_f",
+      "en": "Now {PlayerName} and Mickey, close your eyes. I'm going to <Lore>open a portal somewhere in these Mines</Lore>. The magic is unpredictable, so you'll have to search for it. Then, we'll see who or what is on the other side.",
+      "cz": "A teď {PlayerName} a Mickey, zavřete oči. Otevřu <Lore>portál někde v těchto Dolech</Lore>. Magie je nepředvídatelná, takže ji budete muset hledat. Pak uvidíme, kdo nebo co je na druhé straně.",
+      "source": "pre_existing",
+      "original_cz": "A teď {PlayerName} a Mickey, zavřete oči. Otevřu <Lore>portál někde v těchto Dolech</Lore>. Magie je nepředvídatelná, takže ji budete muset hledat. Pak uvidíme, kdo nebo co je na druhé straně."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "What if it's someone like the Forgotten?",
+      "cz": "Co když je to někdo jako Zapomenutý?",
+      "source": "pre_existing",
+      "original_cz": "Co když je to někdo jako Zapomenutý?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "What if they're mad at us for not rescuing them sooner?",
+      "cz": "Co když se na nás zlobí, že jsme je nezachránili dřív?",
+      "source": "pre_existing",
+      "original_cz": "Co když se na nás zlobí, že jsme je nezachránili dřív?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Let's goooooooo!",
+      "cz": "Jdeme na to! (or) Pojďme na to!",
+      "source": "pre_existing",
+      "original_cz": "Jdeme na to! (or) Pojďme na to!"
+    },
+    {
+      "key": "Merlin_016_f",
+      "en": "There's no point in worrying about what might be. We need to know what IS.",
+      "cz": "Nemá smysl se trápit tím, co by mohlo být. Potřebujeme vědět, co JE.",
+      "source": "pre_existing",
+      "original_cz": "Nemá smysl se trápit tím, co by mohlo být. Potřebujeme vědět, co JE."
+    },
+    {
+      "key": "Merlin_018_f",
+      "en": "Now you two, take a deep breath while I get to work.",
+      "cz": "A teď se vy dva zhluboka nadechněte, než se pustím do práce.",
+      "source": "pre_existing",
+      "original_cz": "A teď se vy dva zhluboka nadechněte, než se pustím do práce."
+    },
+    {
+      "key": "Merlin_019_f",
+      "en": "<i>Higitus, Figitus, Memento Magnifitus!</i>",
+      "cz": "<i>Higitus, Figitus, Memento Magnititus!</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Higitus, Figitus, Memento Magnititus!</i>"
+    },
+    {
+      "key": "Merlin_017_f",
+      "en": "I agree. I'm ready!",
+      "cz": "Souhlasím. Jsem připraven/a!",
+      "source": "pre_existing",
+      "original_cz": "Souhlasím. Jsem připraven/a!"
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "More than most ever realize. It's important to give yourself love and grace.",
+      "cz": "Víc, než si většina lidí uvědomuje. Je důležité si dávat lásku a milost.",
+      "source": "pre_existing",
+      "original_cz": "Víc, než si většina lidí uvědomuje. Je důležité si dávat lásku a milost."
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "Dash it all, {PlayerName}! These feelings have been stifled long enough. We must give them air!",
+      "cz": "Sakra, {PlayerName}! Tyhle pocity byly potlačovány dost dlouho. Musíme jim dát průchod!",
+      "source": "pre_existing",
+      "original_cz": "Sakra, {PlayerName}! Tyhle pocity byly potlačovány dost dlouho. Musíme jim dát průchod!"
+    }
+  ],
+  "LadyTramp_Merlin/Merlin_ORQS_Merl_050_ORQS_Merl_050_Intro.locbin": [
+    {
+      "key": "Merlin_005_f",
+      "en": "Ah, {PlayerName}! You're just the person I wanted to see. I have a rather intriguing update on those <Lore>Mementos</Lore> you've been collecting.",
+      "cz": "Aha, {PlayerName}! Jsi přesně ten člověk, kterého jsem chtěl vidět. Mám docela zajímavou zprávu o těch <Lore>suvenýrech</Lore>, které jsi sbíral.",
+      "source": "pre_existing",
+      "original_cz": "Aha, {PlayerName}! Jsi přesně ten člověk, kterého jsem chtěl vidět. Mám docela zajímavou zprávu o těch <Lore>suvenýrech</Lore>, které jsi sbíral."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "When you found the last one, a strange magical resonance began to pulsate in the Valley's atmosphere. I believe <Lore>you've collected the entire set</Lore>!",
+      "cz": "Když jsi našel tu poslední, v atmosféře Údolí začala pulzovat podivná magická rezonance. Věřím, že <Lore>sis sesbíral celou sadu</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Když jsi našel tu poslední, v atmosféře Údolí začala pulzovat podivná magická rezonance. Věřím, že <Lore>sis sesbíral celou sadu</Lore>!"
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "There are bursts of power coming from the combined Mementos and from <Lore>another location in the Valley</Lore>. It's a magical call and response, if you will!",
+      "cz": "Z kombinovaných Mementos a z <Lore>dalšího místa v Údolí</Lore> vycházejí záblesky energie. Je to magické volání a odpověď, chcete-li!",
+      "source": "pre_existing",
+      "original_cz": "Z kombinovaných Mementos a z <Lore>dalšího místa v Údolí</Lore> vycházejí záblesky energie. Je to magické volání a odpověď, chcete-li!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Where is the magical \"response\" coming from?",
+      "cz": "Odkud pochází ta magická „reakce“?",
+      "source": "pre_existing",
+      "original_cz": "Odkud pochází ta magická „reakce“?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Great! What do we do now?",
+      "cz": "Skvělé! Co teď budeme dělat?",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Co teď budeme dělat?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Can you just explain what it means?!",
+      "cz": "Můžeš mi jen vysvětlit, co to znamená?!",
+      "source": "pre_existing",
+      "original_cz": "Můžeš mi jen vysvětlit, co to znamená?!"
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "The Vitalys Mines!",
+      "cz": "Doly Vitalys!",
+      "source": "pre_existing",
+      "original_cz": "Doly Vitalys!"
+    },
+    {
+      "key": "Merlin_013_f",
+      "en": "Whoever or whatever is answering that magical call is trapped there! I surmise in the Here and There.",
+      "cz": "Kdokoli nebo cokoli odpovídá na to magické volání, je tam uvězněno! Předpokládám, že v Tady a Tam.",
+      "source": "pre_existing",
+      "original_cz": "Kdokoli nebo cokoli odpovídá na to magické volání, je tam uvězněno! Předpokládám, že v Tady a Tam."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "I'm going there RIGHT AWAY!",
+      "cz": "Jdu tam OKAMŽITĚ!",
+      "source": "pre_existing",
+      "original_cz": "Jdu tam OKAMŽITĚ!"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "What are we waiting for? Someone needs our help!",
+      "cz": "Na co ještě čekáme? Někdo potřebuje naši pomoc!",
+      "source": "pre_existing",
+      "original_cz": "Na co ještě čekáme? Někdo potřebuje naši pomoc!"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "You're just guessing, aren't you?",
+      "cz": "Jen hádáš, že?",
+      "source": "pre_existing",
+      "original_cz": "Jen hádáš, že?"
+    },
+    {
+      "key": "Merlin_016_f",
+      "en": "Wait! Just a moment! Mustn't rush these things, you know.",
+      "cz": "Počkej! Jenom chvilku! Víš, že se s tím nesmí spěchat.",
+      "source": "pre_existing",
+      "original_cz": "Počkej! Jenom chvilku! Víš, že se s tím nesmí spěchat."
+    },
+    {
+      "key": "Merlin_015_f",
+      "en": "There are items to collect to complete our enchantment.",
+      "cz": "Jsou tu předměty, které je třeba nasbírat k dokončení našeho kouzla.",
+      "source": "pre_existing",
+      "original_cz": "Jsou tu předměty, které je třeba nasbírat k dokončení našeho kouzla."
+    },
+    {
+      "key": "Merlin_018_f",
+      "en": "And you must be carrying <Lore>all the Mementos with you</Lore>.",
+      "cz": "A musíš si s sebou nést <Lore>všechny suvenýry</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "A musíš si s sebou nést <Lore>všechny suvenýry</Lore>."
+    },
+    {
+      "key": "Merlin_019_f",
+      "en": "That would be your Secret Journal, Kaleidoscope, Birthday Party Invitation, Nostalgic Instant Photos, and Pluto's Collar.",
+      "cz": "To by byl váš Tajný deník, Kaleidoskop, Pozvánka na narozeninovou oslavu, Nostalgické instantní fotky a Plutův obojek.",
+      "source": "pre_existing",
+      "original_cz": "To by byl váš Tajný deník, Kaleidoskop, Pozvánka na narozeninovou oslavu, Nostalgické instantní fotky a Plutův obojek."
+    },
+    {
+      "key": "Player_003_f",
+      "en": "All right, I'll gather all the Mementos and meet you in the Vitalys Mines!",
+      "cz": "Dobře, shromáždím všechny suvenýry a setkám se s tebou ve Vitalysových dolech!",
+      "source": "pre_existing",
+      "original_cz": "Dobře, shromáždím všechny suvenýry a setkám se s tebou ve Vitalysových dolech!"
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "I've been WAITING for this moment.",
+      "cz": "Na tuhle chvíli jsem ČEKAL/A.",
+      "source": "pre_existing",
+      "original_cz": "Na tuhle chvíli jsem ČEKAL/A."
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "I'm glad I kept them all in one place!",
+      "cz": "Jsem rád/a, že jsem je všechny uchoval/a na jednom místě!",
+      "source": "pre_existing",
+      "original_cz": "Jsem rád/a, že jsem je všechny uchoval/a na jednom místě!"
+    },
+    {
+      "key": "Player_003_choice_003_f",
+      "en": "I'm going to have to dig them out of storage.",
+      "cz": "Budu je muset vyhrabat ze skladu.",
+      "source": "pre_existing",
+      "original_cz": "Budu je muset vyhrabat ze skladu."
+    },
+    {
+      "key": "Merlin_022_f",
+      "en": "As have I!",
+      "cz": "Stejně jako já!",
+      "source": "pre_existing",
+      "original_cz": "Stejně jako já!"
+    },
+    {
+      "key": "Merlin_025_f",
+      "en": "One last thing... It would be a shame to risk ruining your <ActivityItem>New Comfort Bear</ActivityItem> Memento with an enchantment.",
+      "cz": "Ještě jedna věc... Byla by škoda riskovat a zničit si nějakým očarováním pamětníka <ActivityItem>Nového medvěda útěchy</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ještě jedna věc... Byla by škoda riskovat a zničit si nějakým očarováním pamětníka <ActivityItem>Nového medvěda útěchy</ActivityItem>."
+    },
+    {
+      "key": "Merlin_026_f",
+      "en": "I took the liberty of transferring its magic to the sewing machine you used to make it.",
+      "cz": "Dovolila jsem si přenést jeho kouzlo na šicí stroj, který jsi k jeho výrobě použila.",
+      "source": "pre_existing",
+      "original_cz": "Dovolila jsem si přenést jeho kouzlo na šicí stroj, který jsi k jeho výrobě použila."
+    },
+    {
+      "key": "Merlin_021_f",
+      "en": "Splendid! An organized life is a sign of an organized mind!",
+      "cz": "Skvělé! Organizovaný život je známkou organizované mysli!",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Organizovaný život je známkou organizované mysli!"
+    },
+    {
+      "key": "Merlin_023_f",
+      "en": "Ah, well, I'll refrain from commenting on the value of organization, as we have more pressing matters at hand.",
+      "cz": "No, zdržím se komentářů k hodnotě organizace, protože máme naléhavější záležitosti.",
+      "source": "pre_existing",
+      "original_cz": "No, zdržím se komentářů k hodnotě organizace, protože máme naléhavější záležitosti."
+    },
+    {
+      "key": "Merlin_017_f",
+      "en": "Well, if I am, it's a very educated guess. Even my Archimedes, the owl, would have no quarter to critique it! Now then...",
+      "cz": "No, pokud ano, je to velmi kvalifikovaný odhad. Ani můj Archimédes, sova, by neměl právo ho kritizovat! A teď...",
+      "source": "pre_existing",
+      "original_cz": "No, pokud ano, je to velmi kvalifikovaný odhad. Ani můj Archimédes, sova, by neměl právo ho kritizovat! A teď..."
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "We must go to where the magic response originates: the Vitalys Mines!",
+      "cz": "Musíme jít tam, odkud magická reakce pochází: do dolů Vitalys!",
+      "source": "pre_existing",
+      "original_cz": "Musíme jít tam, odkud magická reakce pochází: do dolů Vitalys!"
+    },
+    {
+      "key": "Merlin_012_f",
+      "en": "It means we're close to solving this mystery. We need only do one thing more.",
+      "cz": "Znamená to, že jsme blízko k vyřešení této záhady. Musíme udělat už jen jednu věc.",
+      "source": "pre_existing",
+      "original_cz": "Znamená to, že jsme blízko k vyřešení této záhady. Musíme udělat už jen jednu věc."
+    }
+  ],
+  "LadyTramp_Merlin/Merlin_ORQS_Merl_050_ORQS_Merl_050_Ongoing02.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "I'm collecting all the Mementos and the enchantment supplies.",
+      "cz": "Sbírám všechny suvenýry a kouzelnické potřeby.",
+      "source": "pre_existing",
+      "original_cz": "Sbírám všechny suvenýry a kouzelnické potřeby."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Marvelous! When you're finished, I shall meet you in the Vitalys Mines!",
+      "cz": "Úžasné! Až skončíš, setkáme se v dolech Vitalys!",
+      "source": "pre_existing",
+      "original_cz": "Úžasné! Až skončíš, setkáme se v dolech Vitalys!"
+    }
+  ],
+  "LadyTramp_Merlin/Merlin_ORQS_Merl_050_ORQS_Merl_050_Ongoing03.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "You must go with Mickey and search the Vitalys Mines. A portal has opened somewhere inside, and the answer to our big Memento mystery is about to come through!",
+      "cz": "Musíš jít s Mickey a prohledat doly Vitalys. Někde uvnitř se otevřel portál a odpověď na naši velkou záhadu Mementa se brzy objeví!",
+      "source": "pre_existing",
+      "original_cz": "Musíš jít s Mickey a prohledat doly Vitalys. Někde uvnitř se otevřel portál a odpověď na naši velkou záhadu Mementa se brzy objeví!"
+    }
+  ],
+  "LadyTramp_Merlin/Merlin_ORQS_Merl_050_ORQS_Merl_050_Ongoing04.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Whatever did you find in the Mines with Mickey, {PlayerName}?",
+      "cz": "Co jsi našel v dolech s Mickeym, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Co jsi našel v dolech s Mickeym, {PlayerName}?"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Oh, let me show you!",
+      "cz": "Ach, dovolte mi, abych vám to ukázal!",
+      "source": "pre_existing",
+      "original_cz": "Ach, dovolte mi, abych vám to ukázal!"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "If Pluto has returned, invite him to join you for a walk.",
+      "cz": "Pokud se Pluto vrátil, pozvěte ho na procházku.",
+      "source": "pre_existing",
+      "original_cz": "Pokud se Pluto vrátil, pozvěte ho na procházku."
+    }
+  ],
+  "LadyTramp_Merlin/Merlin_ORQS_Merl_050_ORQS_Merl_050_Ongoing05.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Place the <Lore>Memento Display Shelf</Lore> somewhere in the Valley.",
+      "cz": "Umístěte <Lore>Poličku na upomínkové předměty</Lore> někam do údolí.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte <Lore>Poličku na upomínkové předměty</Lore> někam do údolí."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "The Villagers have been worried about you. I'm sure they'll find comfort in seeing it.",
+      "cz": "Vesničané si o tebe dělali starosti. Jsem si jistý, že je to potěší.",
+      "source": "pre_existing",
+      "original_cz": "Vesničané si o tebe dělali starosti. Jsem si jistý, že je to potěší."
+    }
+  ],
+  "LadyTramp_Merlin/Merlin_ORQS_Merl_050_ORQS_Merl_050_Ongoing06.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "The Memento mystery is solved! This calls for a celebration!",
+      "cz": "Záhada Mementa je vyřešena! To si žádá oslavu!",
+      "source": "pre_existing",
+      "original_cz": "Záhada Mementa je vyřešena! To si žádá oslavu!"
+    }
+  ],
+  "LadyTramp_Merlin/Merlin_ORQS_Merl_050_ORQS_Merl_050_Ongoing07.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "If Pluto has returned, invite him to join you for a walk.",
+      "cz": "Pokud se Pluto vrátil, pozvěte ho na procházku.",
+      "source": "pre_existing",
+      "original_cz": "Pokud se Pluto vrátil, pozvěte ho na procházku."
+    }
+  ],
+  "LadyTramp_Merlin/Merlin_ORQS_Merl_050_ORQS_Merl_050_Outro.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Well done, {PlayerName}! You continue to be a marvel.",
+      "cz": "Výborně, {PlayerName}! Jsi i nadále úžasný/á.",
+      "source": "pre_existing",
+      "original_cz": "Výborně, {PlayerName}! Jsi i nadále úžasný/á."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Gosh, I can't thank you enough for bringin' Pluto home.",
+      "cz": "Bože, nemůžu ti dostatečně poděkovat, že jsi přivedl Pluta domů.",
+      "source": "pre_existing",
+      "original_cz": "Bože, nemůžu ti dostatečně poděkovat, že jsi přivedl Pluta domů."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Whenever you wanna spend time with him, just let me know. He's always happy to see ya.",
+      "cz": "Kdykoli s ním budeš chtít trávit čas, dej mi vědět. Vždycky tě rád uvidí.",
+      "source": "pre_existing",
+      "original_cz": "Kdykoli s ním budeš chtít trávit čas, dej mi vědět. Vždycky tě rád uvidí."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "And I hope we ALL remember that shoving down feelings with magic is an eventual recipe for disaster.",
+      "cz": "A doufám, že si VŠICHNI pamatujeme, že potlačování citů magií je nakonec receptem na katastrofu.",
+      "source": "pre_existing",
+      "original_cz": "A doufám, že si VŠICHNI pamatujeme, že potlačování citů magií je nakonec receptem na katastrofu."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "You're SURE there are no more Mementos?",
+      "cz": "Jsi si jistý/á, že už nejsou žádné další upomínkové předměty?",
+      "source": "pre_existing",
+      "original_cz": "Jsi si jistý/á, že už nejsou žádné další upomínkové předměty?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "You can say that again!",
+      "cz": "Můžeš to říct znovu!",
+      "source": "pre_existing",
+      "original_cz": "Můžeš to říct znovu!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I'm going to hang out with Pluto, byeeee!",
+      "cz": "Jdu si vyrazit s Plutem, ahoj!",
+      "source": "pre_existing",
+      "original_cz": "Jdu si vyrazit s Plutem, ahoj!"
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "Not of this sort, certainly.",
+      "cz": "Takového druhu rozhodně ne.",
+      "source": "pre_existing",
+      "original_cz": "Takového druhu rozhodně ne."
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "But stay alert.",
+      "cz": "Ale buďte ostražití.",
+      "source": "pre_existing",
+      "original_cz": "Ale buďte ostražití."
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "This is the end of one puzzle, but who knows what other magical manner of mysteries the Valley holds?",
+      "cz": "Tohle je konec jedné hádanky, ale kdo ví, jaké další magické záhady údolí skrývá?",
+      "source": "pre_existing",
+      "original_cz": "Tohle je konec jedné hádanky, ale kdo ví, jaké další magické záhady údolí skrývá?"
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "And I will, as many times as you need a reminder. Now then, stay alert.",
+      "cz": "A udělám to, kolikrátkoli budeš potřebovat připomenutí. A teď buď bdělý/á.",
+      "source": "pre_existing",
+      "original_cz": "A udělám to, kolikrátkoli budeš potřebovat připomenutí. A teď buď bdělý/á."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "Great! Have fun!",
+      "cz": "Skvělé! Bavte se!",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Bavte se!"
+    }
+  ],
+  "LadyTramp_Merlin/Merlin_ORQS_Merl_050_ORQS_Merl_050_TalkTo01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Merlin! Merlin! Pluto's back! He's really here!",
+      "cz": "Merline! Merline! Pluto je zpátky! Vážně je tady!",
+      "source": "pre_existing",
+      "original_cz": "Merline! Merline! Pluto je zpátky! Vážně je tady!"
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "{PlayerName} brought him home to me. I'm... *sniff* Gosh, excuse me. I didn't even know how much I missed him.",
+      "cz": "{PlayerName} mi ho přivedl domů. Já... *popotahuje* Bože, promiňte. Ani jsem nevěděl, jak moc mi chybí.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName} mi ho přivedl domů. Já... *popotahuje* Bože, promiňte. Ani jsem nevěděl, jak moc mi chybí."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "It's okay to cry, Mickey.",
+      "cz": "Je v pořádku plakat, Mickey.",
+      "source": "pre_existing",
+      "original_cz": "Je v pořádku plakat, Mickey."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I'm crying too, but it's a good cry!",
+      "cz": "Taky brečím, ale je to dobrý pláč!",
+      "source": "pre_existing",
+      "original_cz": "Taky brečím, ale je to dobrý pláč!"
+    },
+    {
+      "key": "Player_000_choice_003_f",
+      "en": "I did some WILD Dreamlight Magic; you missed out!",
+      "cz": "Udělala jsem DIVOKOU magii snového světla; propásl jsi to!",
+      "source": "pre_existing",
+      "original_cz": "Udělala jsem DIVOKOU magii snového světla; propásl jsi to!"
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "Yep, these are happy tears. *sniff* 'Cause I'm so happy!",
+      "cz": "Jo, to jsou slzy štěstí. *popotahuje* Protože jsem tak šťastná!",
+      "source": "pre_existing",
+      "original_cz": "Jo, to jsou slzy štěstí. *popotahuje* Protože jsem tak šťastná!"
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "I think only you and Mickey could have returned Pluto from the Here and There.",
+      "cz": "Myslím, že jen ty a Mickey jste mohli vrátit Pluta z Tady a Tam.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že jen ty a Mickey jste mohli vrátit Pluta z Tady a Tam."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "How did Pluto get stuck there?",
+      "cz": "Jak se tam Pluto dostalo?",
+      "source": "pre_existing",
+      "original_cz": "Jak se tam Pluto dostalo?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Have we seen the last of the Mementos?",
+      "cz": "Viděli jsme už poslední Mementos?",
+      "source": "pre_existing",
+      "original_cz": "Viděli jsme už poslední Mementos?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "What do we do now?",
+      "cz": "Co teď budeme dělat?",
+      "source": "pre_existing",
+      "original_cz": "Co teď budeme dělat?"
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "Mickey, if I remember correctly, Pluto and {PlayerName} used to be quite close, were they not?",
+      "cz": "Mickey, pokud si dobře pamatuji, Pluto a {PlayerName} si bývali docela blízcí, že?",
+      "source": "pre_existing",
+      "original_cz": "Mickey, pokud si dobře pamatuji, Pluto a {PlayerName} si bývali docela blízcí, že?"
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "They sure were! Pluto loved takin' walks and playin' with {PlayerName}.",
+      "cz": "To jistě byli! Pluto miloval procházky a hraní si s {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "To jistě byli! Pluto miloval procházky a hraní si s {PlayerName}."
+    },
+    {
+      "key": "Merlin_012_f",
+      "en": "Well, {PlayerName}, I suspect Pluto witnessed you forming the magical Mementos and giving them away.",
+      "cz": "No, {PlayerName}, mám podezření, že Pluto byl svědkem toho, jak jsi vytvářel magické pamětní předměty a rozdával je.",
+      "source": "pre_existing",
+      "original_cz": "No, {PlayerName}, mám podezření, že Pluto byl svědkem toho, jak jsi vytvářel magické pamětní předměty a rozdával je."
+    },
+    {
+      "key": "Merlin_013_f",
+      "en": "Although he didn't know what they were, he sensed they were of vital importance to you. So, he set out to get them back. Trying to \"fetch\" them, if you will.",
+      "cz": "I když nevěděl, co to je, cítil, že pro tebe mají zásadní význam. A tak se je vydal získat zpět. Snažil se je „přinést“, chcete-li.",
+      "source": "pre_existing",
+      "original_cz": "I když nevěděl, co to je, cítil, že pro tebe mají zásadní význam. A tak se je vydal získat zpět. Snažil se je „přinést“, chcete-li."
+    },
+    {
+      "key": "Merlin_014_f",
+      "en": "And he got stuck in the Here and There while he was searching? Gosh!",
+      "cz": "A on se při hledání zasekl v tomhle „Tady a Tam“? Proboha!",
+      "source": "pre_existing",
+      "original_cz": "A on se při hledání zasekl v tomhle „Tady a Tam“? Proboha!"
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "Almost certainly. The resonance has vanished. I worried that they'd be destroyed during the enchantment, but they're merely empty now.",
+      "cz": "Téměř jistě. Rezonance zmizela. Bál jsem se, že budou zničeny během očarování, ale teď jsou jen prázdné.",
+      "source": "pre_existing",
+      "original_cz": "Téměř jistě. Rezonance zmizela. Bál jsem se, že budou zničeny během očarování, ale teď jsou jen prázdné."
+    },
+    {
+      "key": "Merlin_015_f",
+      "en": "With Pluto returned, I believe we've seen the end of this complicated time.",
+      "cz": "S návratem Pluta věřím, že jsme byli svědky konce tohoto složitého období.",
+      "source": "pre_existing",
+      "original_cz": "S návratem Pluta věřím, že jsme byli svědky konce tohoto složitého období."
+    },
+    {
+      "key": "Merlin_016_f",
+      "en": "How do you feel, my friend?",
+      "cz": "Jak se cítíš, příteli?",
+      "source": "pre_existing",
+      "original_cz": "Jak se cítíš, příteli?"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "I'm so happy Pluto is back!",
+      "cz": "Jsem tak rád/a, že je Pluto zpět!",
+      "source": "pre_existing",
+      "original_cz": "Jsem tak rád/a, že je Pluto zpět!"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "I'm a little emotional, but I'm okay...",
+      "cz": "Jsem trochu emotivní, ale jsem v pohodě...",
+      "source": "pre_existing",
+      "original_cz": "Jsem trochu emotivní, ale jsem v pohodě..."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "I'm TIRED. I'm glad this is over!",
+      "cz": "Jsem UNAVENÁ. Jsem ráda, že je to za mnou!",
+      "source": "pre_existing",
+      "original_cz": "Jsem UNAVENÁ. Jsem ráda, že je to za mnou!"
+    },
+    {
+      "key": "Merlin_018_f",
+      "en": "Gosh, that makes two of us!",
+      "cz": "Bože, to z nás dělá dva!",
+      "source": "pre_existing",
+      "original_cz": "Bože, to z nás dělá dva!"
+    },
+    {
+      "key": "Merlin_019_f",
+      "en": "Yes, facing one's feelings can be... exhausting.",
+      "cz": "Ano, čelit vlastním pocitům může být... ​​vyčerpávající.",
+      "source": "pre_existing",
+      "original_cz": "Ano, čelit vlastním pocitům může být... ​​vyčerpávající."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Well, {PlayerName}, I have something for you. Although the Mementos have been cleared of their magic and their adolescent angst, the lessons we've learned must be remembered.",
+      "cz": "Tak jo, {PlayerName}, něco pro tebe mám. Přestože Mementa byla zbavena své magie a pubertální úzkosti, musíme si pamatovat lekce, které jsme se z nich naučili.",
+      "source": "pre_existing",
+      "original_cz": "Tak jo, {PlayerName}, něco pro tebe mám. Přestože Mementa byla zbavena své magie a pubertální úzkosti, musíme si pamatovat lekce, které jsme se z nich naučili."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "All that makes you unique and brings you joy is quite powerful. And we owe our younger selves all the empathy and forgiveness in the world.",
+      "cz": "Všechno, co vás dělá jedinečnými a přináší vám radost, je velmi silné. A svému mladšímu já dlužíme veškerou empatii a odpuštění na světě.",
+      "source": "pre_existing",
+      "original_cz": "Všechno, co vás dělá jedinečnými a přináší vám radost, je velmi silné. A svému mladšímu já dlužíme veškerou empatii a odpuštění na světě."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Take this, and put it somewhere in the Valley for all to see as a reminder of what you've overcome.",
+      "cz": "Vezmi tohle a dej to někam do údolí, aby to všichni viděli, jako připomínku toho, co jsi překonal/a.",
+      "source": "pre_existing",
+      "original_cz": "Vezmi tohle a dej to někam do údolí, aby to všichni viděli, jako připomínku toho, co jsi překonal/a."
+    },
+    {
+      "key": "Merlin_017_f",
+      "en": "I'm very proud of you, you know. And I think Pluto is too.",
+      "cz": "Jsem na tebe moc hrdý, víš? A myslím, že Pluto taky.",
+      "source": "pre_existing",
+      "original_cz": "Jsem na tebe moc hrdý, víš? A myslím, že Pluto taky."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "Nothin' like some happy tears, right?",
+      "cz": "Není nad pár slz štěstí, že?",
+      "source": "pre_existing",
+      "original_cz": "Není nad pár slz štěstí, že?"
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "I'm sure it was quite impressive! I had to struggle to keep that portal open as long as possible.",
+      "cz": "Jsem si jistý, že to bylo docela působivé! Musel jsem se dřít, abych ten portál udržel otevřený co nejdéle.",
+      "source": "pre_existing",
+      "original_cz": "Jsem si jistý, že to bylo docela působivé! Musel jsem se dřít, abych ten portál udržel otevřený co nejdéle."
+    }
+  ],
+  "LadyTramp_Merlin/Merlin_RLM_LadyAndTheTrampIP_Lady_010_RLM_LadyAndTheTrampIP_Lady_010_TalkTo05.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Merlin, strange things are happening in the Lady and the Tramp Realm. There's giant spaghetti and meatballs flying around in the streets!",
+      "cz": "Merline, v Říši dámy a tuláka se dějí divné věci. Po ulicích létají obří špagety a masové kuličky!",
+      "source": "pre_existing",
+      "original_cz": "Merline, v Říši dámy a tuláka se dějí divné věci. Po ulicích létají obří špagety a masové kuličky!"
+    },
+    {
+      "key": "Merlin_018_f",
+      "en": "How fascinating! In all my years, I've never observed that particular occurrence before. Although I have read of a Great Molasses Flood, not too long ago... Now then, are our two canine friends safe?",
+      "cz": "To je fascinující! Za celou tu dobu jsem nic takového ještě neviděl. I když jsem četl o Velké melasové potopě, která se nestala tak dávno... Tak co, jsou naši dva psí přátelé v bezpečí?",
+      "source": "pre_existing",
+      "original_cz": "To je fascinující! Za celou tu dobu jsem nic takového ještě neviděl. I když jsem četl o Velké melasové potopě, která se nestala tak dávno... Tak co, jsou naši dva psí přátelé v bezpečí?"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Maybe? Lady is trying to track down Tramp, but she can't smell anything because of all the giant food.",
+      "cz": "Možná? Paní se snaží Trampa vystopovat, ale kvůli všemu tomu obřímu jídlu nic necítí.",
+      "source": "pre_existing",
+      "original_cz": "Možná? Paní se snaží Trampa vystopovat, ale kvůli všemu tomu obřímu jídlu nic necítí."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "A natural consequence of a completely un-natural phenomenon! It would seem that the Realm is going through a magical upheaval.",
+      "cz": "Přirozený důsledek zcela nepřirozeného jevu! Zdá se, že Říše prochází magickým otřesem.",
+      "source": "pre_existing",
+      "original_cz": "Přirozený důsledek zcela nepřirozeného jevu! Zdá se, že Říše prochází magickým otřesem."
+    },
+    {
+      "key": "Merlin_020_f",
+      "en": "Do you have a hypothesis as to what might have caused it? There's often a strange object at the center of such phenomena.",
+      "cz": "Máte hypotézu o tom, co to mohlo způsobit? V centru takových jevů je často nějaký zvláštní objekt.",
+      "source": "pre_existing",
+      "original_cz": "Máte hypotézu o tom, co to mohlo způsobit? V centru takových jevů je často nějaký zvláštní objekt."
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "True, weird things happen when Mementos get involved. But I don't think I've seen one in this Realm, yet.",
+      "cz": "Je pravda, že když se do toho zapojí Mementos, dějí se divné věci. Ale myslím, že jsem v téhle Říši ještě žádný neviděl.",
+      "source": "pre_existing",
+      "original_cz": "Je pravda, že když se do toho zapojí Mementos, dějí se divné věci. Ale myslím, že jsem v téhle Říši ještě žádný neviděl."
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "\"Yet,\" you say. That doesn't mean there isn't one there.",
+      "cz": "„Zatím,“ říkáte. To neznamená, že tam žádný není.",
+      "source": "pre_existing",
+      "original_cz": "„Zatím,“ říkáte. To neznamená, že tam žádný není."
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "But how can I find it when the streets are running with spaghetti sauce? Besides, we can't even find Tramp right now.",
+      "cz": "Ale jak ho najdu, když se ulice hemží omáčkou na špagety? Navíc teď nemůžeme najít ani Trampa.",
+      "source": "pre_existing",
+      "original_cz": "Ale jak ho najdu, když se ulice hemží omáčkou na špagety? Navíc teď nemůžeme najít ani Trampa."
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "You must find the object to stop the chaos, but the chaos must be stopped to find the object. This dog is indeed chasing its tail, as it were.",
+      "cz": "Abyste zastavili chaos, musíte najít předmět, ale abyste našli předmět, musíte zastavit chaos. Tento pes se skutečně honí za svým ocasem, jak se říká.",
+      "source": "pre_existing",
+      "original_cz": "Abyste zastavili chaos, musíte najít předmět, ale abyste našli předmět, musíte zastavit chaos. Tento pes se skutečně honí za svým ocasem, jak se říká."
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "Though that does give me an idea! Why don't YOU sniff out Tramp and your mystery object?",
+      "cz": "I když to mi dává nápad! Proč TY nevyčenicháš Trampa a tvůj záhadný objekt?",
+      "source": "pre_existing",
+      "original_cz": "I když to mi dává nápad! Proč TY nevyčenicháš Trampa a tvůj záhadný objekt?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I can't smell that well.",
+      "cz": "Moc dobře necítím.",
+      "source": "pre_existing",
+      "original_cz": "Moc dobře necítím."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I don't think I can SMELL a chaos-causing magical object.",
+      "cz": "Myslím, že nedokážu VŮNIT magický předmět způsobující chaos.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že nedokážu VŮNIT magický předmět způsobující chaos."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "All I'm smelling in that Realm is spaghetti sauce and stinky cheese.",
+      "cz": "V té Říši cítím jen špagetovou omáčku a smradlavý sýr.",
+      "source": "pre_existing",
+      "original_cz": "V té Říši cítím jen špagetovou omáčku a smradlavý sýr."
+    },
+    {
+      "key": "Merlin_013_f",
+      "en": "Ah, but with a little crafting knowledge, you can make yourself a <ActivityItem>Substitute Snout</ActivityItem>!",
+      "cz": "Ale s trochou řemeslných znalostí si můžete vyrobit <ActivityItem>Náhradní čenich</ActivityItem>!",
+      "source": "pre_existing",
+      "original_cz": "Ale s trochou řemeslných znalostí si můžete vyrobit <ActivityItem>Náhradní čenich</ActivityItem>!"
+    },
+    {
+      "key": "Merlin_014_f",
+      "en": "Because if you don't have a sniffer like a schnauzer, with magic, you can simply make one!",
+      "cz": "Protože pokud nemáte čichače jako knírače, s trochou kouzel si ho jednoduše vyrobíte!",
+      "source": "pre_existing",
+      "original_cz": "Protože pokud nemáte čichače jako knírače, s trochou kouzel si ho jednoduše vyrobíte!"
+    },
+    {
+      "key": "Merlin_015_f",
+      "en": "What do I need to do?",
+      "cz": "Co musím udělat?",
+      "source": "pre_existing",
+      "original_cz": "Co musím udělat?"
+    },
+    {
+      "key": "Merlin_016_f",
+      "en": "Most of the materials you'll need are here. But then you must add a sample of magical matter from this spaghetti storm to make it work. Perhaps some <ActivityItem>Saucery Extract</ActivityItem>?",
+      "cz": "Většina materiálů, které budete potřebovat, je tady. Pak ale musíte přidat vzorek magické hmoty z této špagetové bouře, aby to fungovalo. Možná nějaký <ActivityItem>extrakt z omáčky</ActivityItem>?",
+      "source": "pre_existing",
+      "original_cz": "Většina materiálů, které budete potřebovat, je tady. Pak ale musíte přidat vzorek magické hmoty z této špagetové bouře, aby to fungovalo. Možná nějaký <ActivityItem>extrakt z omáčky</ActivityItem>?"
+    },
+    {
+      "key": "Merlin_019_f",
+      "en": "Isn't that just spaghetti sauce?",
+      "cz": "Není to jen omáčka na špagety?",
+      "source": "pre_existing",
+      "original_cz": "Není to jen omáčka na špagety?"
+    },
+    {
+      "key": "Merlin_017_f",
+      "en": "MAGICAL spaghetti sauce. So gather what you can here, then return to the Realm to complete your <Lore>snout</Lore>!",
+      "cz": "MAGICKÁ omáčka na špagety. Seberte tedy, co můžete, a vraťte se do Říše, abyste dokončili svůj <Lore>čumák</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "MAGICKÁ omáčka na špagety. Seberte tedy, co můžete, a vraťte se do Říše, abyste dokončili svůj <Lore>čumák</Lore>!"
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "I don't know. But there must be something new in this Realm causing these problems because everything was normal up until just a little while ago.",
+      "cz": "Nevím. Ale v této Říši musí být něco nového, co způsobuje tyto problémy, protože ještě před nedávnou dobou bylo všechno normální.",
+      "source": "pre_existing",
+      "original_cz": "Nevím. Ale v této Říši musí být něco nového, co způsobuje tyto problémy, protože ještě před nedávnou dobou bylo všechno normální."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "Well then, you'll have to find whatever it is that's recently been introduced to the Realm.",
+      "cz": "No, pak budeš muset najít to, co bylo nedávno představeno v Říši.",
+      "source": "pre_existing",
+      "original_cz": "No, pak budeš muset najít to, co bylo nedávno představeno v Říši."
+    }
+  ],
+  "LadyTramp_Merlin/Merlin_SEC_Lady_030_SEC_Lady_030_TalkTo03.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Ah, {PlayerName}. I presume you've come about the tomatoes in the waters of the Valley.",
+      "cz": "Aha, {PlayerName}. Předpokládám, že jste přišel kvůli rajčatům ve vodách údolí.",
+      "source": "pre_existing",
+      "original_cz": "Aha, {PlayerName}. Předpokládám, že jste přišel kvůli rajčatům ve vodách údolí."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "How do you always know?",
+      "cz": "Jak to vždycky víš?",
+      "source": "pre_existing",
+      "original_cz": "Jak to vždycky víš?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Yes! What does this mean?",
+      "cz": "Ano! Co to znamená?",
+      "source": "pre_existing",
+      "original_cz": "Ano! Co to znamená?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I've got the tomatoes thing figured out. Just coming by to say hi, buddy!",
+      "cz": "S tou rajčaty už mám vyřešenou věc. Jen se stavím ahoj, kámo!",
+      "source": "pre_existing",
+      "original_cz": "S tou rajčaty už mám vyřešenou věc. Jen se stavím ahoj, kámo!"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "A wizard never tells... Unless they're speaking with an apprentice, of course! Heh-heh!",
+      "cz": "Čaroděj to nikdy neřekne... Ledaže by mluvil s učedníkem, samozřejmě! Heh-heh!",
+      "source": "pre_existing",
+      "original_cz": "Čaroděj to nikdy neřekne... Ledaže by mluvil s učedníkem, samozřejmě! Heh-heh!"
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "I've been watching your searches with Lady, and the entire Village is a-sauce with Italian fare appearing in the oddest places!",
+      "cz": "Sleduji tvoje vyhledávání s Lady a celá vesnice je v háji, italská jídla se objevují na těch nejpodivnějších místech!",
+      "source": "pre_existing",
+      "original_cz": "Sleduji tvoje vyhledávání s Lady a celá vesnice je v háji, italská jídla se objevují na těch nejpodivnějších místech!"
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "Now then, when one has all the ingredients for something, the most logical thing to do is make that something! You two should <Lore>cook the spaghetti, meatballs, and tomatoes that you've collected into a hearty dish</Lore>.",
+      "cz": "Takže, když už máte všechny ingredience na něco, nejlogičtější je to něco vyrobit! Vy dva byste měli <Lore>uvařit špagety, masové kuličky a rajčata, které jste si nasbírali, do vydatného pokrmu</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Takže, když už máte všechny ingredience na něco, nejlogičtější je to něco vyrobit! Vy dva byste měli <Lore>uvařit špagety, masové kuličky a rajčata, které jste si nasbírali, do vydatného pokrmu</Lore>."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "An exciting question!",
+      "cz": "Vzrušující otázka!",
+      "source": "pre_existing",
+      "original_cz": "Vzrušující otázka!"
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "O-oh? You do?",
+      "cz": "Óóó? Vážně?",
+      "source": "pre_existing",
+      "original_cz": "Óóó? Vážně?"
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "So... You know that you and Lady ought to <Lore>use all the Magical Ingredients you've found to cook something</Lore> exciting? Well then, I'll just be on my way...",
+      "cz": "Takže... Víš, že ty a Paní byste měly <Lore>použít všechny ty magické ingredience, co jste našly, k uvaření něčeho</Lore> vzrušujícího? Tak já už půjdu...",
+      "source": "pre_existing",
+      "original_cz": "Takže... Víš, že ty a Paní byste měly <Lore>použít všechny ty magické ingredience, co jste našly, k uvaření něčeho</Lore> vzrušujícího? Tak já už půjdu..."
+    }
+  ]
+}

@@ -1,0 +1,520 @@
+{
+  "LionKing2_Merlin/Merlin_SEC_Merl_040_SEC_Merl_040_BringItem01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "What a peculiar specimen... The same coloration and magical vibration as the Night Thorns, and yet...",
+      "cz": "To je ale zvláštní exemplář... Stejné zbarvení a magické vibrace jako Noční trny, a přesto...",
+      "source": "pre_existing",
+      "original_cz": "To je ale zvláštní exemplář... Stejné zbarvení a magické vibrace jako Noční trny, a přesto..."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "And yet I... I... What was I saying?",
+      "cz": "A přesto já... já... Co jsem to říkal?",
+      "source": "pre_existing",
+      "original_cz": "A přesto já... já... Co jsem to říkal?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "The bugs look like Night Thorns!",
+      "cz": "Hmyz vypadá jako Noční trny!",
+      "source": "pre_existing",
+      "original_cz": "Hmyz vypadá jako Noční trny!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Oh no, did that thing just affect your memory?!",
+      "cz": "Ach ne, ta věc ti právě ovlivnila paměť?!",
+      "source": "pre_existing",
+      "original_cz": "Ach ne, ta věc ti právě ovlivnila paměť?!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I do NOT like this one bit!",
+      "cz": "Tohle se mi ani trochu nelíbí!",
+      "source": "pre_existing",
+      "original_cz": "Tohle se mi ani trochu nelíbí!"
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "Indeed? I, well... Oh dear...",
+      "cz": "Vážně? Já, no... Ach jo...",
+      "source": "pre_existing",
+      "original_cz": "Vážně? Já, no... Ach jo..."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "I theorize that these particular insects either come FROM Night Thorns, or are drawn TO them.",
+      "cz": "Domnívám se, že tento konkrétní hmyz buď pochází Z Nočních trnů, nebo je k nim přitahován.",
+      "source": "pre_existing",
+      "original_cz": "Domnívám se, že tento konkrétní hmyz buď pochází Z Nočních trnů, nebo je k nim přitahován."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Either way, these... ahem... \"Night Mites\" seem to be miniature vectors of the Forgetting!",
+      "cz": "Ať tak či onak, tito... ehm... „Noční roztoči“ se zdají být miniaturními vektory Zapomnění!",
+      "source": "pre_existing",
+      "original_cz": "Ať tak či onak, tito... ehm... „Noční roztoči“ se zdají být miniaturními vektory Zapomnění!"
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "I must put this one in a magic-proof jar straight away! And you must <Lore>speak to our best insect catchers</Lore>.",
+      "cz": "Musím tohle hned dát do kouzelné nádoby! A ty musíš <Lore>promluvit si s našimi nejlepšími chytači hmyzu</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Musím tohle hned dát do kouzelné nádoby! A ty musíš <Lore>promluvit si s našimi nejlepšími chytači hmyzu</Lore>."
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "We have no time to lose! Where there is one insect, there are ALWAYS more!",
+      "cz": "Nemáme čas nazbyt! Kde je jeden hmyz, tam jich je VŽDYCKY víc!",
+      "source": "pre_existing",
+      "original_cz": "Nemáme čas nazbyt! Kde je jeden hmyz, tam jich je VŽDYCKY víc!"
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Did it? It seems it did... Oh dear...",
+      "cz": "Opravdu? Zdá se, že ano... Ach jo...",
+      "source": "pre_existing",
+      "original_cz": "Opravdu? Zdá se, že ano... Ach jo..."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "Nor do I... I... Oof! I forgot what I was saying in the middle of a thought!",
+      "cz": "Já taky ne... Já... Uf! Uprostřed myšlenky jsem zapomněl, co jsem říkal!",
+      "source": "pre_existing",
+      "original_cz": "Já taky ne... Já... Uf! Uprostřed myšlenky jsem zapomněl, co jsem říkal!"
+    }
+  ],
+  "LionKing2_Merlin/Merlin_SEC_Merl_040_SEC_Merl_040_Ongoing01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "I have this strange bug I need to show you!",
+      "cz": "Mám tuhle divnou chybu, kterou ti musím ukázat!",
+      "source": "pre_existing",
+      "original_cz": "Mám tuhle divnou chybu, kterou ti musím ukázat!"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Well, don't dawdle about! Bring it to me!",
+      "cz": "Tak se tu neváhej! Přines mi to!",
+      "source": "pre_existing",
+      "original_cz": "Tak se tu neváhej! Přines mi to!"
+    }
+  ],
+  "LionKing2_Merlin/Merlin_SEC_Merl_040_SEC_Merl_040_Ongoing02.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "You need to speak to the Valley's top insect catchers, <Lore>Timon and Pumbaa</Lore>!",
+      "cz": "Musíš si promluvit s nejlepšími chytači hmyzu v údolí, <Lore>Timonem a Pumbou</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Musíš si promluvit s nejlepšími chytači hmyzu v údolí, <Lore>Timonem a Pumbou</Lore>!"
+    }
+  ],
+  "LionKing2_Merlin/Merlin_SEC_Merl_040_SEC_Merl_040_Ongoing03.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Meet me inside the <Lore>Library</Lore>. We have much to discuss about our new insect invaders!",
+      "cz": "Sejdeme se v <Lore>Knihovně</Lore>. Máme toho hodně k probrání ohledně našich nových hmyzích vetřelců!",
+      "source": "pre_existing",
+      "original_cz": "Sejdeme se v <Lore>Knihovně</Lore>. Máme toho hodně k probrání ohledně našich nových hmyzích vetřelců!"
+    }
+  ],
+  "LionKing2_Merlin/Merlin_SEC_Merl_040_SEC_Merl_040_Ongoing10.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Oh, Merlin! I found a strange bug I wanted to show you...",
+      "cz": "Ach, Merline! Našel jsem divného brouka, kterého jsem ti chtěl ukázat...",
+      "source": "pre_existing",
+      "original_cz": "Ach, Merline! Našel jsem divného brouka, kterého jsem ti chtěl ukázat..."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Strange bug? I'm fascinated! Bring it to me as soon as you can!",
+      "cz": "Zvláštní brouk? Jsem fascinován! Přines mi ho co nejdříve!",
+      "source": "pre_existing",
+      "original_cz": "Zvláštní brouk? Jsem fascinován! Přines mi ho co nejdříve!"
+    }
+  ],
+  "LionKing2_Merlin/Merlin_SEC_Merl_040_SEC_Merl_040_Ongoing12.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Please <Lore>speak to Timon and Pumbaa</Lore>. We must move quickly.",
+      "cz": "Prosím, <Lore>promluv si s Timonem a Pumbou</Lore>. Musíme jednat rychle.",
+      "source": "pre_existing",
+      "original_cz": "Prosím, <Lore>promluv si s Timonem a Pumbou</Lore>. Musíme jednat rychle."
+    }
+  ],
+  "LionKing2_Merlin/Merlin_SEC_Merl_040_SEC_Merl_040_TalkTo02.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Ahem... Now that we're all here, we have quite a bit of work to do.",
+      "cz": "Ehm... Teď, když jsme tady všichni, máme před sebou docela dost práce.",
+      "source": "pre_existing",
+      "original_cz": "Ehm... Teď, když jsme tady všichni, máme před sebou docela dost práce."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "There must be a way to cleanse the Night Mites, the same way you would a Night Shard. Such a cleansing would render them safe to eat for our... snackish friends.",
+      "cz": "Musí existovat způsob, jak očistit Noční roztoče, stejně jako byste očistili Noční střep. Takové očištění by je učinilo bezpečnými k jídlu pro naše... mlsné přátele.",
+      "source": "pre_existing",
+      "original_cz": "Musí existovat způsob, jak očistit Noční roztoče, stejně jako byste očistili Noční střep. Takové očištění by je učinilo bezpečnými k jídlu pro naše... mlsné přátele."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "However, while I research this, {PlayerName}, you must work with Timon and Pumbaa to capture every mite in the Valley.",
+      "cz": "Nicméně, {PlayerName}, zatímco já tohle zkoumám, musíš spolupracovat s Timonem a Pumbou, abys chytil každého roztoče v Údolí.",
+      "source": "pre_existing",
+      "original_cz": "Nicméně, {PlayerName}, zatímco já tohle zkoumám, musíš spolupracovat s Timonem a Pumbou, abys chytil každého roztoče v Údolí."
+    },
+    {
+      "key": "Player_001_f",
+      "en": "What if the Night Mites make us forget what we're doing?",
+      "cz": "Co když nám Noční roztoči způsobí, že zapomeneme, co děláme?",
+      "source": "pre_existing",
+      "original_cz": "Co když nám Noční roztoči způsobí, že zapomeneme, co děláme?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Isn't this dangerous?",
+      "cz": "Není to nebezpečné?",
+      "source": "pre_existing",
+      "original_cz": "Není to nebezpečné?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Do we have any defenses?",
+      "cz": "Máme nějakou obranu?",
+      "source": "pre_existing",
+      "original_cz": "Máme nějakou obranu?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I'm REALLY worried about the Forgetting.",
+      "cz": "Opravdu se bojím toho Zapomínání.",
+      "source": "pre_existing",
+      "original_cz": "Opravdu se bojím toho Zapomínání."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "There is some risk, but I have a plan.",
+      "cz": "Je tu určité riziko, ale mám plán.",
+      "source": "pre_existing",
+      "original_cz": "Je tu určité riziko, ale mám plán."
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "Your Dreamlight Magic protects you — we know that. As for Timon and Pumbaa, they will only TRACK the mites. As long as you're the only one to handle the insects, it should be perfectly safe.",
+      "cz": "Vaše Magie Světla Snů vás chrání – to víme. Co se týče Timona a Pumby, ti budou roztoče pouze STOUPOVAT. Pokud budete jediný, kdo se s hmyzem potýká, mělo by to být naprosto bezpečné.",
+      "source": "pre_existing",
+      "original_cz": "Vaše Magie Světla Snů vás chrání – to víme. Co se týče Timona a Pumby, ti budou roztoče pouze STOUPOVAT. Pokud budete jediný, kdo se s hmyzem potýká, mělo by to být naprosto bezpečné."
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "Now, go. Go! The mites are on the move as we speak, and I need quiet to work.",
+      "cz": "A teď do toho. Do toho! Roztoči se právě teď hýbou a já potřebuji k práci ticho.",
+      "source": "pre_existing",
+      "original_cz": "A teď do toho. Do toho! Roztoči se právě teď hýbou a já potřebuji k práci ticho."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "A terrifying prospect for us all, but {PlayerName}, we are catching this early, before others start to forget.",
+      "cz": "Děsivá vyhlídka pro nás všechny, ale {PlayerName}, vnímáme to brzy, než ostatní začnou zapomínat.",
+      "source": "pre_existing",
+      "original_cz": "Děsivá vyhlídka pro nás všechny, ale {PlayerName}, vnímáme to brzy, než ostatní začnou zapomínat."
+    }
+  ],
+  "LionKing2_Merlin/Merlin_SEC_Merl_050_SEC_Merl_050_BringItem01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Ah, yes! There you are, {PlayerName}! Thank you for this collection of insectorum.",
+      "cz": "Aha, ano! Tak to máš, {PlayerName}! Děkuji za tuto sbírku insektora.",
+      "source": "pre_existing",
+      "original_cz": "Aha, ano! Tak to máš, {PlayerName}! Děkuji za tuto sbírku insektora."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "How was battling the infestation with Timon and Pumbaa?",
+      "cz": "Jaký byl boj s napadením Timonem a Pumbou?",
+      "source": "pre_existing",
+      "original_cz": "Jaký byl boj s napadením Timonem a Pumbou?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "We make a great team!",
+      "cz": "Jsme skvělý tým!",
+      "source": "pre_existing",
+      "original_cz": "Jsme skvělý tým!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Bug hunting is intense.",
+      "cz": "Hledání chyb je intenzivní.",
+      "source": "pre_existing",
+      "original_cz": "Hledání chyb je intenzivní."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I never want to see a bug again. EVER.",
+      "cz": "Už nikdy nechci vidět žádnou chybu. NIKDY.",
+      "source": "pre_existing",
+      "original_cz": "Už nikdy nechci vidět žádnou chybu. NIKDY."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "Given the multitude of mites you've delivered to me, I should say so. Your teamwork has saved the Valley.",
+      "cz": "Vzhledem k množství roztočů, které jste mi doručili, bych to měl říct. Vaše týmová práce zachránila Údolí.",
+      "source": "pre_existing",
+      "original_cz": "Vzhledem k množství roztočů, které jste mi doručili, bych to měl říct. Vaše týmová práce zachránila Údolí."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "While you were catching the Night Mites, I was working on a cleansing enchantment to ensure they are safe enough to eat. And I've succeeded!",
+      "cz": "Zatímco jsi chytal noční roztoče, já jsem pracoval na očistném kouzlu, abych se ujistil, že jsou dostatečně bezpeční k jídlu. A podařilo se mi to!",
+      "source": "pre_existing",
+      "original_cz": "Zatímco jsi chytal noční roztoče, já jsem pracoval na očistném kouzlu, abych se ujistil, že jsou dostatečně bezpeční k jídlu. A podařilo se mi to!"
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "Which means I have a banquet for our heroes! Please <Lore>place this feast somewhere in the Valley</Lore>. And thank you for saving our Valley, once again.",
+      "cz": "Což znamená, že mám pro naše hrdiny hostinu! Prosím, <Lore>umístěte tuto hostinu někam do Údolí</Lore>. A děkuji vám, že jste ještě jednou zachránili naše Údolí.",
+      "source": "pre_existing",
+      "original_cz": "Což znamená, že mám pro naše hrdiny hostinu! Prosím, <Lore>umístěte tuto hostinu někam do Údolí</Lore>. A děkuji vám, že jste ještě jednou zachránili naše Údolí."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Intense but worthwhile. And it seems to be one of your many talents, judging by the multitude of mites you just gave me.",
+      "cz": "Intenzivní, ale hodnotné. A zdá se, že je to jeden z tvých mnoha talentů, soudě podle množství drobných, které jsi mi právě dal.",
+      "source": "pre_existing",
+      "original_cz": "Intenzivní, ale hodnotné. A zdá se, že je to jeden z tvých mnoha talentů, soudě podle množství drobných, které jsi mi právě dal."
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "Yes, they can be a bit disturbing to some. Well, while I cannot guarantee you've seen the last of ANY insect here, this delivery will be the last you see of the mites... More or less.",
+      "cz": "Ano, pro některé mohou být trochu znepokojiví. No, i když nemůžu zaručit, že jste tu už naposledy viděli JAKÝKOLI hmyz, tato zásilka bude naposledy, co uvidíte roztoče... Víceméně.",
+      "source": "pre_existing",
+      "original_cz": "Ano, pro některé mohou být trochu znepokojiví. No, i když nemůžu zaručit, že jste tu už naposledy viděli JAKÝKOLI hmyz, tato zásilka bude naposledy, co uvidíte roztoče... Víceméně."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "More or less?",
+      "cz": "Více nebo méně?",
+      "source": "pre_existing",
+      "original_cz": "Více nebo méně?"
+    }
+  ],
+  "LionKing2_Merlin/Merlin_SEC_Merl_050_SEC_Merl_050_Ongoing01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "You've been VERY busy working with Timon and Pumbaa to stop the Night Mites. I'm near a solution... Meet me in the Library!",
+      "cz": "Měl jsi VELMI plné ruce práce s Timonem a Pumbou na zastavení Nočních roztočů. Jsem blízko řešení... Sejdeme se v knihovně!",
+      "source": "pre_existing",
+      "original_cz": "Měl jsi VELMI plné ruce práce s Timonem a Pumbou na zastavení Nočních roztočů. Jsem blízko řešení... Sejdeme se v knihovně!"
+    }
+  ],
+  "LionKing2_Merlin/Merlin_SEC_Merl_050_SEC_Merl_050_Ongoing02.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Come to the <Lore>Library</Lore> at once! We have much to discuss about the Night Mites!",
+      "cz": "Pojďte ihned do <Lore>Knihovny</Lore>! Máme toho hodně k projednání o Nočních roztočích!",
+      "source": "pre_existing",
+      "original_cz": "Pojďte ihned do <Lore>Knihovny</Lore>! Máme toho hodně k projednání o Nočních roztočích!"
+    }
+  ],
+  "LionKing2_Merlin/Merlin_SEC_Merl_050_SEC_Merl_050_Ongoing03.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "{PlayerName}, would you place the <ActivityItem>Night Mite Buffet</ActivityItem> somewhere for Timon, Pumbaa, and Simba?",
+      "cz": "{PlayerName}, mohl bys někam pro Timona, Pumbu a Simbu umístit <ActivityItem>Noční bufet s roztoči</ActivityItem>?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, mohl bys někam pro Timona, Pumbu a Simbu umístit <ActivityItem>Noční bufet s roztoči</ActivityItem>?"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "You, of course, are invited to the feast... No bug-eating required. Heh-heh.",
+      "cz": "Samozřejmě jsi zván na hostinu... Pojídání hmyzu není nutné. Heh-heh.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě jsi zván na hostinu... Pojídání hmyzu není nutné. Heh-heh."
+    }
+  ],
+  "LionKing2_Merlin/Merlin_SEC_Merl_050_SEC_Merl_050_Ongoing04.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "It's time to celebrate our triumph over the Night Mites. Please enjoy the buffet with Timon, Pumbaa, and Simba.",
+      "cz": "Je čas oslavit naše vítězství nad Nočními roztoči. Užijte si prosím bufet s Timonem, Pumbou a Simbou.",
+      "source": "pre_existing",
+      "original_cz": "Je čas oslavit naše vítězství nad Nočními roztoči. Užijte si prosím bufet s Timonem, Pumbou a Simbou."
+    }
+  ],
+  "LionKing2_Merlin/SEC_Merl_040.locbin": [
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_040_AvailableDescription",
+      "en": "There's something creepy and crawly loose in the Valley... You should keep an eye out for it.",
+      "cz": "V údolí se volně potuluje něco strašidelného a lezoucího... Měli byste si na to dávat pozor.",
+      "source": "pre_existing",
+      "original_cz": "V údolí se volně potuluje něco strašidelného a lezoucího... Měli byste si na to dávat pozor."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_040_DisplayName",
+      "en": "A Creepy Crawly Mystery",
+      "cz": "Strašidelná a lezoucí záhada",
+      "source": "pre_existing",
+      "original_cz": "Strašidelná a lezoucí záhada"
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_040_Group02_Step03_BringItem01_StepDescription",
+      "en": "Make sure you have the {itemName} in your Inventory.",
+      "cz": "Ujistěte se, že máte {itemName} ve svém inventáři.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte {itemName} ve svém inventáři."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_040_Group02_Step03_ReadyDescription",
+      "en": "Bring the {itemName} to {TargetNPC}.",
+      "cz": "Přineste předmět {itemName} k {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Přineste předmět {itemName} k {TargetNPC}."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_040_Group03_Step04_StepDescription",
+      "en": "Recruit bug catchers to stop the Night Mites:",
+      "cz": "Naverbujte chytače hmyzu, abyste zastavili noční roztoče:",
+      "source": "pre_existing",
+      "original_cz": "Naverbujte chytače hmyzu, abyste zastavili noční roztoče:"
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_040_Group03_Step04_TalkToCharacter01_StepDescription",
+      "en": "{TargetNPC}.",
+      "cz": "{TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "{TargetNPC}."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_040_Group03_Step04_TalkToCharacter02_StepDescription",
+      "en": "{TargetNPC}.",
+      "cz": "{TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "{TargetNPC}."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_040_Group04_Step05_VisitArea01_StepDescription",
+      "en": "Go inside Merlin's library to meet about the Night Mites.",
+      "cz": "Jděte do Merlinovy ​​knihovny a setkejte se s ním ohledně Nočních roztočů.",
+      "source": "pre_existing",
+      "original_cz": "Jděte do Merlinovy ​​knihovny a setkejte se s ním ohledně Nočních roztočů."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_040_Group05_Step06_TalkToCharacter03_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Talk to {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Talk to {TargetNPC}."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_040_Group06_Step07_StepDescription",
+      "en": "Make a plan to catch the Night Mites with:",
+      "cz": "Vymyslete plán, jak chytit Noční roztoče pomocí:",
+      "source": "pre_existing",
+      "original_cz": "Vymyslete plán, jak chytit Noční roztoče pomocí:"
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_040_Group06_Step07_TalkToCharacter04_StepDescription",
+      "en": "{TargetNPC}.",
+      "cz": "{TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "{TargetNPC}."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_040_Group06_Step07_TalkToCharacter05_StepDescription",
+      "en": "{TargetNPC}.",
+      "cz": "{TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "{TargetNPC}."
+    }
+  ],
+  "LionKing2_Merlin/SEC_Merl_050.locbin": [
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_050_AvailableDescription",
+      "en": "Check in with Merlin about his progress researching the Night Mites.",
+      "cz": "Zeptejte se Merlina na jeho pokrok ve výzkumu Nočních roztočů.",
+      "source": "pre_existing",
+      "original_cz": "Zeptejte se Merlina na jeho pokrok ve výzkumu Nočních roztočů."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_050_CompletedStoryDescription",
+      "en": "You celebrate the end of the infestation with Pumbaa, Timon, and Simba!",
+      "cz": "Oslavujete konec zamoření s Pumbou, Timonem a Simbou!",
+      "source": "pre_existing",
+      "original_cz": "Oslavujete konec zamoření s Pumbou, Timonem a Simbou!"
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_050_DisplayName",
+      "en": "The Infestation Finale",
+      "cz": "Finále Zamoření",
+      "source": "pre_existing",
+      "original_cz": "Finále Zamoření"
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_050_Group01_Step01_VisitArea01_StepDescription",
+      "en": "Meet Merlin in his library.",
+      "cz": "Setkejte se s Merlinem v jeho knihovně.",
+      "source": "pre_existing",
+      "original_cz": "Setkejte se s Merlinem v jeho knihovně."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_050_Group01_StoryDescription",
+      "en": "You eradicated the Night Mites from the Valley AND the Dark Castle. Time to head to Merlin's to see if he's found a way to neutralize the Mites for Timon and Pumbaa to eat.",
+      "cz": "Vyhubili jste Noční roztoče z Údolí I z Temného hradu. Je čas vyrazit k Merlinovi a zjistit, jestli našel způsob, jak roztoče neutralizovat, aby je Timon a Pumbaa mohli sníst.",
+      "source": "pre_existing",
+      "original_cz": "Vyhubili jste Noční roztoče z Údolí I z Temného hradu. Je čas vyrazit k Merlinovi a zjistit, jestli našel způsob, jak roztoče neutralizovat, aby je Timon a Pumbaa mohli sníst."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_050_Group02_Step02_BringItem01_StepDescription",
+      "en": "Make sure you have the {itemName} in your Inventory.",
+      "cz": "Ujistěte se, že máte {itemName} ve svém inventáři.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte {itemName} ve svém inventáři."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_050_Group02_Step02_BringItem02_StepDescription",
+      "en": "Make sure you have the {itemName} in your Inventory.",
+      "cz": "Ujistěte se, že máte {itemName} ve svém inventáři.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte {itemName} ve svém inventáři."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_050_Group02_Step02_BringItem03_StepDescription",
+      "en": "Make sure you have the {itemName} in your Inventory.",
+      "cz": "Ujistěte se, že máte {itemName} ve svém inventáři.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte {itemName} ve svém inventáři."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_050_Group02_Step02_ReadyDescription",
+      "en": "Bring the {itemName} to {TargetNPC}.",
+      "cz": "Přineste předmět {itemName} k {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Přineste předmět {itemName} k {TargetNPC}."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_050_Group03_StepDescription",
+      "en": "Place the {itemName} anywhere in the Valley. Enjoy the feast?",
+      "cz": "Umístěte {itemName} kamkoli do Údolí. Chutná vám hostina?",
+      "source": "pre_existing",
+      "original_cz": "Umístěte {itemName} kamkoli do Údolí. Chutná vám hostina?"
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_050_Group03_StoryDescription",
+      "en": "Merlin presents you with a buffet of safe, neutralized Night Mites. You can place it anywhere in the Valley to share with Timon, Pumbaa, and Simba.",
+      "cz": "Merlin vám představuje bufet s bezpečnými, neutralizovanými nočními roztoči. Můžete ho umístit kamkoli v Údolí a sdílet ho s Timonem, Pumbou a Simbou.",
+      "source": "pre_existing",
+      "original_cz": "Merlin vám představuje bufet s bezpečnými, neutralizovanými nočními roztoči. Můžete ho umístit kamkoli v Údolí a sdílet ho s Timonem, Pumbou a Simbou."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_050_Group04_Step04_Party01_StepDescription",
+      "en": "Celebrate stopping the infestation of Night Mites.",
+      "cz": "Oslavte zastavení zamoření nočními roztoči.",
+      "source": "pre_existing",
+      "original_cz": "Oslavte zastavení zamoření nočními roztoči."
+    }
+  ]
+}

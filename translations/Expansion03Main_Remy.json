@@ -1,0 +1,747 @@
+{
+  "Expansion03Main_Remy/Remy_MRQS_E03_030_TheTown_MRQS_E03_030_TheTown_TalkTo02.locbin": [
+    {
+      "key": "Remy_001_f",
+      "en": "Cancel that order for a big ol' anvil and a seesaw. A-hyuck!",
+      "cz": "Zrušte tu objednávku na velkou kovadlinu a houpačku. Hyp!",
+      "source": "pre_existing",
+      "original_cz": "Zrušte tu objednávku na velkou kovadlinu a houpačku. Hyp!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I need it to save the Wishblossom Mountains.",
+      "cz": "Potřebuji to k záchraně Květinových hor.",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji to k záchraně Květinových hor."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I could really use your help.",
+      "cz": "Opravdu bych potřeboval tvou pomoc.",
+      "source": "pre_existing",
+      "original_cz": "Opravdu bych potřeboval tvou pomoc."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Without it, everything is DOOMED.",
+      "cz": "Bez něj je všechno ODSOUZENO K ZÁNIKU.",
+      "source": "pre_existing",
+      "original_cz": "Bez něj je všechno ODSOUZENO K ZÁNIKU."
+    },
+    {
+      "key": "Remy_006_f",
+      "en": "Ya know, now that you mention it, I did see a funny lookin' <Lore>glow coming from a cave</Lore> nearby...",
+      "cz": "Víš, když už to zmiňuješ, viděl jsem divně vypadající <Lore>záři vycházející z nedaleké jeskyně</Lore>...",
+      "source": "pre_existing",
+      "original_cz": "Víš, když už to zmiňuješ, viděl jsem divně vypadající <Lore>záři vycházející z nedaleké jeskyně</Lore>..."
+    },
+    {
+      "key": "Remy_015_f",
+      "en": "Only thing is... there's a problem. It's better if I show it to ya. <Lore>Follow me.</Lore>",
+      "cz": "Jenže... je tu problém. Bude lepší, když ti ho ukážu. <Lore>Pojď za mnou.</Lore>",
+      "source": "pre_existing",
+      "original_cz": "Jenže... je tu problém. Bude lepší, když ti ho ukážu. <Lore>Pojď za mnou.</Lore>"
+    }
+  ],
+  "Expansion03Main_Remy/Remy_MRQS_E03_032_TheRestaurant_MRQS_E03_032_TheRestaurant_BringItem01.locbin": [
+    {
+      "key": "Remy_001_f",
+      "en": "My seeds from Goofy? How come you're delivering them, {PlayerName}?",
+      "cz": "Moje semínka od Goofyho? Jak to, že je doručuješ ty, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Moje semínka od Goofyho? Jak to, že je doručuješ ty, {PlayerName}?"
+    },
+    {
+      "key": "Player_002_f",
+      "en": "Goofy's Caravan lost its wheels...",
+      "cz": "Goofyho karavan ztratil kola...",
+      "source": "pre_existing",
+      "original_cz": "Goofyho karavan ztratil kola..."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "...so I'm helping with deliveries and wheel-hunting.",
+      "cz": "...takže pomáhám s rozvozem a sháněním kol.",
+      "source": "pre_existing",
+      "original_cz": "...takže pomáhám s rozvozem a sháněním kol."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "You don't have a replacement, do you?",
+      "cz": "Nemáš náhradu, že ne?",
+      "source": "pre_existing",
+      "original_cz": "Nemáš náhradu, že ne?"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "I'm not {PlayerName}, I'm Goofy! A-hyuck!",
+      "cz": "Nejsem {PlayerName}, jsem Goofy! A-hyuck!",
+      "source": "pre_existing",
+      "original_cz": "Nejsem {PlayerName}, jsem Goofy! A-hyuck!"
+    },
+    {
+      "key": "Remy_012_f",
+      "en": "Wow. Wish I could help, but I can't really open the restaurant until I have ingredients and a menu.",
+      "cz": "Páni. Kéž bych mohl pomoct, ale restauraci nemůžu otevřít, dokud nebudu mít ingredience a jídelní lístek.",
+      "source": "pre_existing",
+      "original_cz": "Páni. Kéž bych mohl pomoct, ale restauraci nemůžu otevřít, dokud nebudu mít ingredience a jídelní lístek."
+    },
+    {
+      "key": "Remy_002_f",
+      "en": "With these seeds, we've got a great start. I can't wait to grow some fresh produce, develop my new menu and—",
+      "cz": "S těmito semínky máme skvělý začátek. Nemůžu se dočkat, až si vypěstuji nějaké čerstvé produkty, vytvořím si nový jídelníček a—",
+      "source": "pre_existing",
+      "original_cz": "S těmito semínky máme skvělý začátek. Nemůžu se dočkat, až si vypěstuji nějaké čerstvé produkty, vytvořím si nový jídelníček a—"
+    },
+    {
+      "key": "Remy_003_f",
+      "en": "Seriously!",
+      "cz": "Vážně!",
+      "source": "pre_existing",
+      "original_cz": "Vážně!"
+    },
+    {
+      "key": "Remy_004_f",
+      "en": "All the seeds in this bag are just thrown together! It's impossible to tell what's what.",
+      "cz": "Všechna semínka v tomhle sáčku jsou prostě naházená dohromady! Je nemožné poznat, co je co.",
+      "source": "pre_existing",
+      "original_cz": "Všechna semínka v tomhle sáčku jsou prostě naházená dohromady! Je nemožné poznat, co je co."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I guess the seeds got mixed up...",
+      "cz": "Asi se semínka pomíchala...",
+      "source": "pre_existing",
+      "original_cz": "Asi se semínka pomíchala..."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "No labels? It's a big bag of mystery seeds?!",
+      "cz": "Žádné štítky? Je to velký pytel záhadných semínek?!",
+      "source": "pre_existing",
+      "original_cz": "Žádné štítky? Je to velký pytel záhadných semínek?!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Let's not act like this is a surprise.",
+      "cz": "Nedělejme si, že je to překvapení.",
+      "source": "pre_existing",
+      "original_cz": "Nedělejme si, že je to překvapení."
+    },
+    {
+      "key": "Remy_005_f",
+      "en": "Yeah. And that's gonna be a problem.",
+      "cz": "Jo. A to bude problém.",
+      "source": "pre_existing",
+      "original_cz": "Jo. A to bude problém."
+    },
+    {
+      "key": "Remy_008_f",
+      "en": "I was counting on the package labels to teach me how to grow these things. I'm a chef, not a gardener. Without instructions, I'm lost.",
+      "cz": "Spoléhal jsem na to, že se naučím, jak tyhle věci pěstovat, na etiketách na obalech. Jsem kuchař, ne zahradník. Bez návodu jsem ztracený.",
+      "source": "pre_existing",
+      "original_cz": "Spoléhal jsem na to, že se naučím, jak tyhle věci pěstovat, na etiketách na obalech. Jsem kuchař, ne zahradník. Bez návodu jsem ztracený."
+    },
+    {
+      "key": "Remy_009_f",
+      "en": "Think you could grow them for me, {PlayerName}?",
+      "cz": "Myslíš, že bys mi je mohl vypěstovat, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Myslíš, že bys mi je mohl vypěstovat, {PlayerName}?"
+    },
+    {
+      "key": "Remy_010_f",
+      "en": "I need fresh fruits and vegetables to open my restaurant.",
+      "cz": "Potřebuji čerstvé ovoce a zeleninu k otevření restaurace.",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji čerstvé ovoce a zeleninu k otevření restaurace."
+    },
+    {
+      "key": "Remy_016_f",
+      "en": "If we do that, I think I know how we can get a wheel for Goofy too.",
+      "cz": "Pokud to uděláme, myslím, že vím, jak seženeme kolo i pro Goofyho.",
+      "source": "pre_existing",
+      "original_cz": "Pokud to uděláme, myslím, že vím, jak seženeme kolo i pro Goofyho."
+    },
+    {
+      "key": "Player_001_f",
+      "en": "I'll help...",
+      "cz": "Pomůžu...",
+      "source": "pre_existing",
+      "original_cz": "Pomůžu..."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I want to know what the mystery seeds are!",
+      "cz": "Chci vědět, co jsou ta záhadná semínka!",
+      "source": "pre_existing",
+      "original_cz": "Chci vědět, co jsou ta záhadná semínka!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I need to move that Caravan, ASAP!",
+      "cz": "Musím ten karavan co nejdříve přestěhovat!",
+      "source": "pre_existing",
+      "original_cz": "Musím ten karavan co nejdříve přestěhovat!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I don't think they make gardening gloves in your size.",
+      "cz": "Myslím, že zahradnické rukavice ve tvé velikosti nevyrábějí.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že zahradnické rukavice ve tvé velikosti nevyrábějí."
+    },
+    {
+      "key": "Remy_018_f",
+      "en": "Ahh, a fellow lover of culinary intrigue!",
+      "cz": "Ááá, taky milovník kulinářských záludností!",
+      "source": "pre_existing",
+      "original_cz": "Ááá, taky milovník kulinářských záludností!"
+    },
+    {
+      "key": "Remy_020_f",
+      "en": "Good luck with the mystery seeds, {PlayerName}.",
+      "cz": "Hodně štěstí s tajemnými semínky, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Hodně štěstí s tajemnými semínky, {PlayerName}."
+    },
+    {
+      "key": "Remy_017_f",
+      "en": "I promise as soon as we get Chez Remy open here, I'll have a replacement wheel ready for you... Or at least something to help you out!",
+      "cz": "Slibuji, že jakmile tu otevřeme Chez Remy, budu mít pro tebe připravené náhradní kolo... Nebo alespoň něco, co ti pomůže!",
+      "source": "pre_existing",
+      "original_cz": "Slibuji, že jakmile tu otevřeme Chez Remy, budu mít pro tebe připravené náhradní kolo... Nebo alespoň něco, co ti pomůže!"
+    },
+    {
+      "key": "Remy_019_f",
+      "en": "Probably not.",
+      "cz": "Pravděpodobně ne.",
+      "source": "pre_existing",
+      "original_cz": "Pravděpodobně ne."
+    },
+    {
+      "key": "Remy_007_f",
+      "en": "You know, Goofy reminds me of my friend Linguini sometimes. Good heart, good at roller skating... Not the most organized.",
+      "cz": "Víš, Goofy mi někdy připomíná mého kamaráda Linguiniho. Dobré srdce, dobrý na kolečkových bruslích... Není zrovna nejorganizovanější.",
+      "source": "pre_existing",
+      "original_cz": "Víš, Goofy mi někdy připomíná mého kamaráda Linguiniho. Dobré srdce, dobrý na kolečkových bruslích... Není zrovna nejorganizovanější."
+    },
+    {
+      "key": "Remy_011_f",
+      "en": "The only wheels I have are made of Parmesan, but if I opened my restaurant I might be able to find something to help repair a broken wheel.",
+      "cz": "Jediná kolečka, která mám, jsou z parmazánu, ale kdybych si otevřel restauraci, možná bych našel něco, co by mi pomohlo opravit rozbité kolo.",
+      "source": "pre_existing",
+      "original_cz": "Jediná kolečka, která mám, jsou z parmazánu, ale kdybych si otevřel restauraci, možná bych našel něco, co by mi pomohlo opravit rozbité kolo."
+    },
+    {
+      "key": "Remy_013_f",
+      "en": "Ha! It's like he's right here, bringing me a big beautiful bag of seeds.",
+      "cz": "Ha! Je to, jako by tu byl a nesl mi velký krásný pytel semínek.",
+      "source": "pre_existing",
+      "original_cz": "Ha! Je to, jako by tu byl a nesl mi velký krásný pytel semínek."
+    },
+    {
+      "key": "Remy_014_f",
+      "en": "Let me tell you, \"Goofy\": Once I open my restaurant, I might have something to fix a wheel for you.",
+      "cz": "Dovol mi říct ti, „Blbečku“: Až otevřu restauraci, možná budu mít něco, čím ti opravím kolo.",
+      "source": "pre_existing",
+      "original_cz": "Dovol mi říct ti, „Blbečku“: Až otevřu restauraci, možná budu mít něco, čím ti opravím kolo."
+    },
+    {
+      "key": "Remy_015_f",
+      "en": "But before I open for business, I need to grow these seeds so I can plan a new menu and—",
+      "cz": "Ale než otevřu, musím si vypěstovat tahle semínka, abych si mohl naplánovat nový jídelníček a—",
+      "source": "pre_existing",
+      "original_cz": "Ale než otevřu, musím si vypěstovat tahle semínka, abych si mohl naplánovat nový jídelníček a—"
+    }
+  ],
+  "Expansion03Main_Remy/Remy_MRQS_E03_032_TheRestaurant_MRQS_E03_032_TheRestaurant_Ongoing01.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "Do you have some sort of delivery for me from Goofy? I'm waiting on a <ActivityItem>Bag of Seeds</ActivityItem>.",
+      "cz": "Máte pro mě nějakou zásilku od Goofyho? Čekám na <ActivityItem>pytel semínek</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Máte pro mě nějakou zásilku od Goofyho? Čekám na <ActivityItem>pytel semínek</ActivityItem>."
+    }
+  ],
+  "Expansion03Main_Remy/Remy_MRQS_E03_032_TheRestaurant_MRQS_E03_032_TheRestaurant_Ongoing02.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "Could you plant all those mystery seeds from Goofy? We have to find out what they are!",
+      "cz": "Dokázal bys zasít všechna ta záhadná semínka z Goofyho? Musíme zjistit, co to je!",
+      "source": "pre_existing",
+      "original_cz": "Dokázal bys zasít všechna ta záhadná semínka z Goofyho? Musíme zjistit, co to je!"
+    }
+  ],
+  "Expansion03Main_Remy/Remy_MRQS_E03_032_TheRestaurant_MRQS_E03_032_TheRestaurant_Ongoing05.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "I'd love some feedback on my first horse-friendly dish. Could you feed it to {companion:DreamlightValley!GenericHorse}?",
+      "cz": "Rád bych slyšel vaši zpětnou vazbu k mému prvnímu jídlu vhodnému pro koně. Mohl byste ho nakrmit pro {companion:DreamlightValley!GenericHorse}?",
+      "source": "pre_existing",
+      "original_cz": "Rád bych slyšel vaši zpětnou vazbu k mému prvnímu jídlu vhodnému pro koně. Mohl byste ho nakrmit pro {companion:DreamlightValley!GenericHorse}?"
+    },
+    {
+      "key": "Remy_001_f",
+      "en": "Please?",
+      "cz": "Prosím?",
+      "source": "pre_existing",
+      "original_cz": "Prosím?"
+    }
+  ],
+  "Expansion03Main_Remy/Remy_MRQS_E03_032_TheRestaurant_MRQS_E03_032_TheRestaurant_Ongoing06.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "Could you open Chez Remy? I don't have giant scissors and a ribbon for you to use, but I'll be cheering like you do.",
+      "cz": "Mohl bys otevřít Chez Remy? Nemám sice obří nůžky a stuhu, které bys mohl použít, ale budu fandit jako ty.",
+      "source": "pre_existing",
+      "original_cz": "Mohl bys otevřít Chez Remy? Nemám sice obří nůžky a stuhu, které bys mohl použít, ale budu fandit jako ty."
+    }
+  ],
+  "Expansion03Main_Remy/Remy_MRQS_E03_032_TheRestaurant_MRQS_E03_032_TheRestaurant_Ongoing08.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "It might not look like much, but that <Lore>Stainless Steel Pot Lid</Lore> will make a great wheel for Goofy's Caravan. All you have to do is fix it up at one of your Crafting Stations.",
+      "cz": "Možná to nevypadá moc, ale ta <Lore>nerezová poklice</Lore> bude skvělým kolečkem pro Goofyho karavan. Stačí ji jen opravit v jedné ze svých řemeslných stanic.",
+      "source": "pre_existing",
+      "original_cz": "Možná to nevypadá moc, ale ta <Lore>nerezová poklice</Lore> bude skvělým kolečkem pro Goofyho karavan. Stačí ji jen opravit v jedné ze svých řemeslných stanic."
+    }
+  ],
+  "Expansion03Main_Remy/Remy_MRQS_E03_032_TheRestaurant_MRQS_E03_032_TheRestaurant_TalkTo01.locbin": [
+    {
+      "key": "Remy_001_f",
+      "en": "Beetroot? Scarlet kale? These are gorgeous. Great gardening, {PlayerName}!",
+      "cz": "Řepa? Červená kapusta? Ty jsou nádherné. Skvělé zahradničení, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Řepa? Červená kapusta? Ty jsou nádherné. Skvělé zahradničení, {PlayerName}!"
+    },
+    {
+      "key": "Remy_000_f",
+      "en": "*sniff sniff* Such a fresh, earthy smell! It's giving me so many ideas already and I—",
+      "cz": "*popotahuje* Tak svěží, zemitá vůně! Už teď mi to dává tolik nápadů a já—",
+      "source": "pre_existing",
+      "original_cz": "*popotahuje* Tak svěží, zemitá vůně! Už teď mi to dává tolik nápadů a já—"
+    },
+    {
+      "key": "Remy_012_f",
+      "en": "Oh...",
+      "cz": "Ó...",
+      "source": "pre_existing",
+      "original_cz": "Ó..."
+    },
+    {
+      "key": "Remy_013_f",
+      "en": "OH! I just got a GREAT idea for a recipe with these ingredients! Lightning bolts of inspiration are FLYING!",
+      "cz": "JÉÉÉ! Právě jsem dostala SKVĚLÝ nápad na recept s těmito ingrediencemi! Blesky inspirace LETAJÍ!",
+      "source": "pre_existing",
+      "original_cz": "JÉÉÉ! Právě jsem dostala SKVĚLÝ nápad na recept s těmito ingrediencemi! Blesky inspirace LETAJÍ!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Tell me everything, chef!",
+      "cz": "Řekni mi všechno, šéfkuchaři!",
+      "source": "pre_existing",
+      "original_cz": "Řekni mi všechno, šéfkuchaři!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "That sounds a little dangerous.",
+      "cz": "To zní trochu nebezpečně.",
+      "source": "pre_existing",
+      "original_cz": "To zní trochu nebezpečně."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Is it food cooked with lightning?",
+      "cz": "Je to jídlo vařené bleskem?",
+      "source": "pre_existing",
+      "original_cz": "Je to jídlo vařené bleskem?"
+    },
+    {
+      "key": "Remy_006_f",
+      "en": "This new recipe... is for your <Lore>horse</Lore>!",
+      "cz": "Tento nový recept... je pro vašeho <Lore>koně</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Tento nový recept... je pro vašeho <Lore>koně</Lore>!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "What a cool idea!",
+      "cz": "To je ale skvělý nápad!",
+      "source": "pre_existing",
+      "original_cz": "To je ale skvělý nápad!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Have you ever cooked for horses before?",
+      "cz": "Už jste někdy vařili pro koně?",
+      "source": "pre_existing",
+      "original_cz": "Už jste někdy vařili pro koně?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "... Can I still try it?",
+      "cz": "... Můžu to ještě zkusit?",
+      "source": "pre_existing",
+      "original_cz": "... Můžu to ještě zkusit?"
+    },
+    {
+      "key": "Remy_008_f",
+      "en": "Glad you're on board, because I need a favor...",
+      "cz": "Jsem rád, že jsi na palubě, protože potřebuji laskavost...",
+      "source": "pre_existing",
+      "original_cz": "Jsem rád, že jsi na palubě, protože potřebuji laskavost..."
+    },
+    {
+      "key": "Remy_014_f",
+      "en": "I think I'm on to something, but I could use a taste tester.",
+      "cz": "Myslím, že jsem na správné stopě, ale hodil by se mi ochutnávač.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že jsem na správné stopě, ale hodil by se mi ochutnávač."
+    },
+    {
+      "key": "Remy_003_f",
+      "en": "Let me whip something up quickly...",
+      "cz": "Dovolte mi rychle něco uvařit...",
+      "source": "pre_existing",
+      "original_cz": "Dovolte mi rychle něco uvařit..."
+    },
+    {
+      "key": "Remy_011_f",
+      "en": "Ta-da! My latest culinary innovation!",
+      "cz": "Ta-dá! Moje nejnovější kulinářská inovace!",
+      "source": "pre_existing",
+      "original_cz": "Ta-dá! Moje nejnovější kulinářská inovace!"
+    },
+    {
+      "key": "Remy_010_f",
+      "en": "Would you mind <Lore>feeding my new dish to your horse and telling me if they like it</Lore>?",
+      "cz": "Mohl byste <Lore>nakrmit svého koně mým novým jídlem a říct mi, jestli mu chutná</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "Mohl byste <Lore>nakrmit svého koně mým novým jídlem a říct mi, jestli mu chutná</Lore>?"
+    },
+    {
+      "key": "Remy_007_f",
+      "en": "No, my culinary milieu has been pretty limited to humans and rats so far.",
+      "cz": "Ne, mé kulinářské prostředí bylo zatím dost omezené na lidi a krysy.",
+      "source": "pre_existing",
+      "original_cz": "Ne, mé kulinářské prostředí bylo zatím dost omezené na lidi a krysy."
+    },
+    {
+      "key": "Remy_009_f",
+      "en": "Of course! Everything I'll make here will be horse-safe AND human-safe, with only the finest quality ingredients.",
+      "cz": "Samozřejmě! Všechno, co tu budu připravovat, bude bezpečné pro koně I pro lidi, pouze s těmi nejkvalitnějšími surovinami.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě! Všechno, co tu budu připravovat, bude bezpečné pro koně I pro lidi, pouze s těmi nejkvalitnějšími surovinami."
+    },
+    {
+      "key": "Remy_002_f",
+      "en": "Don't worry; they're metaphorical lightning bolts of incredible flavor!",
+      "cz": "Nebojte se, jsou to metaforické blesky neuvěřitelné chuti!",
+      "source": "pre_existing",
+      "original_cz": "Nebojte se, jsou to metaforické blesky neuvěřitelné chuti!"
+    },
+    {
+      "key": "Remy_004_f",
+      "en": "Not to brag, but I was kind of at the forefront of infusing food with lightning-y flavor. This is different.",
+      "cz": "Nechci se chlubit, ale byl jsem tak trochu v popředí v oblasti vdechování jídlu bleskové chuti. Tohle je jiné.",
+      "source": "pre_existing",
+      "original_cz": "Nechci se chlubit, ale byl jsem tak trochu v popředí v oblasti vdechování jídlu bleskové chuti. Tohle je jiné."
+    }
+  ],
+  "Expansion03Main_Remy/Remy_MRQS_E03_032_TheRestaurant_MRQS_E03_032_TheRestaurant_TalkTo04.locbin": [
+    {
+      "key": "Remy_001_f",
+      "en": "You're back! I can't wait to hear— How did the taste test go?",
+      "cz": "Jsi zpátky! Nemůžu se dočkat, až uslyším— Jak dopadla ochutnávka?",
+      "source": "pre_existing",
+      "original_cz": "Jsi zpátky! Nemůžu se dočkat, až uslyším— Jak dopadla ochutnávka?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "It was a big hit!",
+      "cz": "Byl to velký hit!",
+      "source": "pre_existing",
+      "original_cz": "Byl to velký hit!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I don't speak horse but I think {companion:DreamlightValley!GenericHorse} enjoyed it.",
+      "cz": "Neumím koňsky, ale myslím, že si to {companion:DreamlightValley!GenericHorse} užil/a.",
+      "source": "pre_existing",
+      "original_cz": "Neumím koňsky, ale myslím, že si to {companion:DreamlightValley!GenericHorse} užil/a."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Actually, I ate it instead.",
+      "cz": "Vlastně jsem to místo toho snědl.",
+      "source": "pre_existing",
+      "original_cz": "Vlastně jsem to místo toho snědl."
+    },
+    {
+      "key": "Remy_003_f",
+      "en": "Excellent! Thank you, {PlayerName}!",
+      "cz": "Výborně! Děkuji, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Výborně! Děkuji, {PlayerName}!"
+    },
+    {
+      "key": "Remy_008_f",
+      "en": "I think I'm ready to open Chez Remy here in the Wishblossom Mountains, now.",
+      "cz": "Myslím, že jsem teď připravený otevřít Chez Remy tady v pohoří Wishblossom.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že jsem teď připravený otevřít Chez Remy tady v pohoří Wishblossom."
+    },
+    {
+      "key": "Remy_000_f",
+      "en": "I've got a feel for the local ingredients, a new menu, and I can't wait to start cooking.",
+      "cz": "Mám cit pro místní suroviny, nové menu a už se nemůžu dočkat, až začnu vařit.",
+      "source": "pre_existing",
+      "original_cz": "Mám cit pro místní suroviny, nové menu a už se nemůžu dočkat, až začnu vařit."
+    },
+    {
+      "key": "Remy_009_f",
+      "en": "{PlayerName}, would you do the honors of the grand opening?",
+      "cz": "{PlayerName}, provedl/a byste tu čest slavnostního otevření?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, provedl/a byste tu čest slavnostního otevření?"
+    },
+    {
+      "key": "Remy_010_f",
+      "en": "Then we can talk about the wheel for Goofy's Caravan.",
+      "cz": "Pak si můžeme promluvit o kole pro Goofyho karavan.",
+      "source": "pre_existing",
+      "original_cz": "Pak si můžeme promluvit o kole pro Goofyho karavan."
+    },
+    {
+      "key": "Remy_002_f",
+      "en": "Phew! That's a relief.",
+      "cz": "Uf! To je úleva.",
+      "source": "pre_existing",
+      "original_cz": "Uf! To je úleva."
+    },
+    {
+      "key": "Remy_004_f",
+      "en": "Really?!",
+      "cz": "Opravdu?!",
+      "source": "pre_existing",
+      "original_cz": "Opravdu?!"
+    },
+    {
+      "key": "Player_001_f",
+      "en": "Okay, no... Not really.",
+      "cz": "Dobře, ne... Ne tak docela.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, ne... Ne tak docela."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "{companion:DreamlightValley!GenericHorse} seemed to like it.",
+      "cz": "{companion:DreamlightValley!GenericHorse} se to zřejmě líbilo.",
+      "source": "pre_existing",
+      "original_cz": "{companion:DreamlightValley!GenericHorse} se to zřejmě líbilo."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "But it looked good enough to eat!",
+      "cz": "Ale vypadalo to dost dobře na to, aby se to dalo sníst!",
+      "source": "pre_existing",
+      "original_cz": "Ale vypadalo to dost dobře na to, aby se to dalo sníst!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Got ya, Remy!",
+      "cz": "Rozumím, Remy!",
+      "source": "pre_existing",
+      "original_cz": "Rozumím, Remy!"
+    },
+    {
+      "key": "Remy_005_f",
+      "en": "I'll take that and the fact that you don't HAVE the dish anymore as a good sign.",
+      "cz": "To a fakt, že už ten pokrm NEMÁŠ, beru jako dobré znamení.",
+      "source": "pre_existing",
+      "original_cz": "To a fakt, že už ten pokrm NEMÁŠ, beru jako dobré znamení."
+    },
+    {
+      "key": "Remy_006_f",
+      "en": "HA! You certainly did!",
+      "cz": "HA! To jsi určitě udělal/a!",
+      "source": "pre_existing",
+      "original_cz": "HA! To jsi určitě udělal/a!"
+    },
+    {
+      "key": "Remy_007_f",
+      "en": "I'll guess from the fact you don't have the dish anymore that it was gobbled up by a happy horse.",
+      "cz": "Z toho, že už ten pokrm nemáš, usuzuji, že ho sežral šťastný kůň.",
+      "source": "pre_existing",
+      "original_cz": "Z toho, že už ten pokrm nemáš, usuzuji, že ho sežral šťastný kůň."
+    }
+  ],
+  "Expansion03Main_Remy/Remy_MRQS_E03_032_TheRestaurant_MRQS_E03_032_TheRestaurant_TalkTo05.locbin": [
+    {
+      "key": "Remy_001_f",
+      "en": "We're in business! Thanks for all your help, {PlayerName}.",
+      "cz": "Jsme v provozu! Děkujeme za veškerou vaši pomoc, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Jsme v provozu! Děkujeme za veškerou vaši pomoc, {PlayerName}."
+    },
+    {
+      "key": "Remy_002_f",
+      "en": "Now about the replacement wheel for Goofy's Caravan? Are you ready?",
+      "cz": "A teď k náhradnímu kolu pro Goofyho karavan? Jste připraveni?",
+      "source": "pre_existing",
+      "original_cz": "A teď k náhradnímu kolu pro Goofyho karavan? Jste připraveni?"
+    },
+    {
+      "key": "Remy_003_f",
+      "en": "I've got a <Lore>Stainless Steel Pot Lid</Lore> that's gonna solve all your problems!",
+      "cz": "Mám <Lore>nerezovou poklici na hrnec</Lore>, která vyřeší všechny vaše problémy!",
+      "source": "pre_existing",
+      "original_cz": "Mám <Lore>nerezovou poklici na hrnec</Lore>, která vyřeší všechny vaše problémy!"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "A stainless steel pot lid?",
+      "cz": "Poklička z nerezové oceli na hrnec?",
+      "source": "pre_existing",
+      "original_cz": "Poklička z nerezové oceli na hrnec?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'll find a way to make that work.",
+      "cz": "Najdu způsob, jak to zařídit.",
+      "source": "pre_existing",
+      "original_cz": "Najdu způsob, jak to zařídit."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I don't think that's going to be enough of a wheel.",
+      "cz": "Myslím, že to kolo nebude stačit.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že to kolo nebude stačit."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "... Is this a prank?",
+      "cz": "... Je to žert?",
+      "source": "pre_existing",
+      "original_cz": "... Je to žert?"
+    },
+    {
+      "key": "Remy_004_f",
+      "en": "Don't be fooled. This lid has endured the fire and fury of a thousand dinner services. Gas flame, scalding water, boiling oil, seafood chowder... EVERYTHING!",
+      "cz": "Nenechte se zmást. Tato poklice vydržela oheň a zuřivost tisíce servírovaných jídel. Plynový plamen, vařící vodu, vroucí olej, mořskou polévku... VŠECHNO!",
+      "source": "pre_existing",
+      "original_cz": "Nenechte se zmást. Tato poklice vydržela oheň a zuřivost tisíce servírovaných jídel. Plynový plamen, vařící vodu, vroucí olej, mořskou polévku... VŠECHNO!"
+    },
+    {
+      "key": "Remy_005_f",
+      "en": "It's gonna make a GREAT hubcap with your magic touch. I've seen what you can do at those Crafting Stations. Here ya go.",
+      "cz": "S tvým kouzelným dotekem z toho bude SKVĚLÝ poklice. Viděl jsem, co se dá dělat v těch řemeslných dílnách. Tady máš.",
+      "source": "pre_existing",
+      "original_cz": "S tvým kouzelným dotekem z toho bude SKVĚLÝ poklice. Viděl jsem, co se dá dělat v těch řemeslných dílnách. Tady máš."
+    }
+  ],
+  "Expansion03Main_Remy/Remy_VLG_Tink_020_VLG_Tink_020_TalkTo04.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "Remy, do you know anything about cooking with honey?",
+      "cz": "Remy, víš něco o vaření s medem?",
+      "source": "pre_existing",
+      "original_cz": "Remy, víš něco o vaření s medem?"
+    },
+    {
+      "key": "Remy_001_f",
+      "en": "Not a lot, but I've been meaning to experiment with it more ever since Pixie Acres opened up.",
+      "cz": "Moc ne, ale už od otevření Pixie Acres mám v úmyslu s tím experimentovat víc.",
+      "source": "pre_existing",
+      "original_cz": "Moc ne, ale už od otevření Pixie Acres mám v úmyslu s tím experimentovat víc."
+    },
+    {
+      "key": "Remy_002_f",
+      "en": "I've been collecting some recipes to try: <Lore>Honey Pancakes</Lore>, <Lore>Honey-Glazed Carrots</Lore>, and a REALLY curious local delicacy — <Lore>a cake shaped like a fairy's boot</Lore>.",
+      "cz": "Sbírám pár receptů, které bych chtěla vyzkoušet: <Lore>Medové palačinky</Lore>, <Lore>Mrkev s medovou glazurou</Lore> a OPRAVDU zvláštní místní pochoutku – <Lore>dort ve tvaru vílí boty</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Sbírám pár receptů, které bych chtěla vyzkoušet: <Lore>Medové palačinky</Lore>, <Lore>Mrkev s medovou glazurou</Lore> a OPRAVDU zvláštní místní pochoutku – <Lore>dort ve tvaru vílí boty</Lore>."
+    },
+    {
+      "key": "Remy_003_f",
+      "en": "Here, I've got extra copies. They're yours if you want them!",
+      "cz": "Tady mám další kopie. Jsou tvoje, jestli je chceš!",
+      "source": "pre_existing",
+      "original_cz": "Tady mám další kopie. Jsou tvoje, jestli je chceš!"
+    }
+  ],
+  "Expansion03Main_Remy/Remy_VLG_Tink_030_VLG_Tink_030_BringItem04.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "Hey there, {PlayerName}. What's this? A <ActivityItem>Carrot Peeler</ActivityItem>?",
+      "cz": "Ahoj, {PlayerName}. Co je tohle? <ActivityItem>Škrabka na mrkev</ActivityItem>?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}. Co je tohle? <ActivityItem>Škrabka na mrkev</ActivityItem>?"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "It's for you.",
+      "cz": "Je to pro tebe.",
+      "source": "pre_existing",
+      "original_cz": "Je to pro tebe."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I think it belongs to you!",
+      "cz": "Myslím, že to patří tobě!",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že to patří tobě!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Sounds like you don't recognize it though...",
+      "cz": "Zdá se, že to ale nepoznáváš...",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že to ale nepoznáváš..."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I think you could technically peel all sorts of veggies with it.",
+      "cz": "Myslím, že by se s ním dala technicky vzato oloupat všechna druhů zeleniny.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že by se s ním dala technicky vzato oloupat všechna druhů zeleniny."
+    },
+    {
+      "key": "Remy_004_f",
+      "en": "It used to, but...",
+      "cz": "Dříve to platilo, ale...",
+      "source": "pre_existing",
+      "original_cz": "Dříve to platilo, ale..."
+    },
+    {
+      "key": "Remy_005_f",
+      "en": "I remember giving this away to someone in the Valley a long time ago. It's too big for my tiny hands.",
+      "cz": "Pamatuji si, jak jsem tohle kdysi dávno někomu v údolí daroval. Je to pro mé malé ručičky moc velké.",
+      "source": "pre_existing",
+      "original_cz": "Pamatuji si, jak jsem tohle kdysi dávno někomu v údolí daroval. Je to pro mé malé ručičky moc velké."
+    },
+    {
+      "key": "Remy_006_f",
+      "en": "Huh? I can't remember who, though. I think they said something about <Lore>nose trimming</Lore>? But that can't be right.",
+      "cz": "Cože? Nepamatuji si ale kdo to byl. Myslím, že říkali něco o <Lore>zastřihování nosu</Lore>? Ale to nemůže být pravda.",
+      "source": "pre_existing",
+      "original_cz": "Cože? Nepamatuji si ale kdo to byl. Myslím, že říkali něco o <Lore>zastřihování nosu</Lore>? Ale to nemůže být pravda."
+    },
+    {
+      "key": "Remy_002_f",
+      "en": "Actually, I do.",
+      "cz": "Vlastně ano.",
+      "source": "pre_existing",
+      "original_cz": "Vlastně ano."
+    },
+    {
+      "key": "Remy_003_f",
+      "en": "You're right. It's versatile... Maybe not as versatile as your average paring knife, but still...",
+      "cz": "Máte pravdu. Je všestranný... Možná ne tak všestranný jako průměrný loupací nůž, ale přesto...",
+      "source": "pre_existing",
+      "original_cz": "Máte pravdu. Je všestranný... Možná ne tak všestranný jako průměrný loupací nůž, ale přesto..."
+    }
+  ]
+}

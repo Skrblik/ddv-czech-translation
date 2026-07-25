@@ -1,0 +1,258 @@
+{
+  "SpringMiniEvent_Spring/RPT_WallE_DailyBundles.locbin": [
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_DailyBundles_Any_CompletedRequestDescription",
+      "en": "Talk to WALL·E.",
+      "cz": "Talk to WALL·E.",
+      "source": "pre_existing",
+      "original_cz": "Talk to WALL·E."
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_DailyBundles_AvailableDescription",
+      "en": "The Village is blooming! WALL·E wants you to gather some flowers and bring them back to him.",
+      "cz": "The Village is blooming! WALL·E wants you to gather some flowers and bring them back to him.",
+      "source": "pre_existing",
+      "original_cz": "The Village is blooming! WALL·E wants you to gather some flowers and bring them back to him."
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_DailyBundles_DisplayName",
+      "en": "Blooming and Blossoming",
+      "cz": "Blooming and Blossoming",
+      "source": "pre_existing",
+      "original_cz": "Blooming and Blossoming"
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group01_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What should I do today?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What should I do today?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What should I do today?"
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group01_Step01_CraftItem01_StepDescription",
+      "en": "Craft a {ItemName} for WALL·E.",
+      "cz": "Craft a {ItemName} for WALL·E.",
+      "source": "pre_existing",
+      "original_cz": "Craft a {ItemName} for WALL·E."
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group02_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What should I do today?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What should I do today?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What should I do today?"
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group02_StepDescription",
+      "en": "Bring the {ItemName} to WALL·E.",
+      "cz": "Bring the {ItemName} to WALL·E.",
+      "source": "pre_existing",
+      "original_cz": "Bring the {ItemName} to WALL·E."
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group03_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What should I do today?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What should I do today?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What should I do today?"
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group03_Step03_CraftItem02_StepDescription",
+      "en": "Craft a {ItemName} for WALL·E.",
+      "cz": "Craft a {ItemName} for WALL·E.",
+      "source": "pre_existing",
+      "original_cz": "Craft a {ItemName} for WALL·E."
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group04_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What should I do today?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What should I do today?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What should I do today?"
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group04_StepDescription",
+      "en": "Bring the {ItemName} to WALL·E.",
+      "cz": "Bring the {ItemName} to WALL·E.",
+      "source": "pre_existing",
+      "original_cz": "Bring the {ItemName} to WALL·E."
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group05_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What should I do today?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What should I do today?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What should I do today?"
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group05_Step05_CraftItem03_StepDescription",
+      "en": "Craft a {ItemName} for WALL·E.",
+      "cz": "Craft a {ItemName} for WALL·E.",
+      "source": "pre_existing",
+      "original_cz": "Craft a {ItemName} for WALL·E."
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group06_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What should I do today?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What should I do today?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What should I do today?"
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group06_StepDescription",
+      "en": "Bring the {ItemName} to WALL·E.",
+      "cz": "Bring the {ItemName} to WALL·E.",
+      "source": "pre_existing",
+      "original_cz": "Bring the {ItemName} to WALL·E."
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group07_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What should I do today?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What should I do today?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What should I do today?"
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group07_Step07_CraftItem04_StepDescription",
+      "en": "Craft a {ItemName} for WALL·E.",
+      "cz": "Craft a {ItemName} for WALL·E.",
+      "source": "pre_existing",
+      "original_cz": "Craft a {ItemName} for WALL·E."
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group08_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What should I do today?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What should I do today?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What should I do today?"
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group08_StepDescription",
+      "en": "Bring the {ItemName} to WALL·E.",
+      "cz": "Bring the {ItemName} to WALL·E.",
+      "source": "pre_existing",
+      "original_cz": "Bring the {ItemName} to WALL·E."
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group09_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What should I do today?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What should I do today?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What should I do today?"
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group09_Step10_CraftItem05_StepDescription",
+      "en": "Craft a {ItemName} for WALL·E.",
+      "cz": "Craft a {ItemName} for WALL·E.",
+      "source": "pre_existing",
+      "original_cz": "Craft a {ItemName} for WALL·E."
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group10_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What should I do today?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What should I do today?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What should I do today?"
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group10_StepDescription",
+      "en": "Bring the {ItemName} to WALL·E.",
+      "cz": "Bring the {ItemName} to WALL·E.",
+      "source": "pre_existing",
+      "original_cz": "Bring the {ItemName} to WALL·E."
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group11_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What should I do today?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What should I do today?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What should I do today?"
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group11_Step11_CraftItem06_StepDescription",
+      "en": "Craft a {ItemName} for WALL·E.",
+      "cz": "Craft a {ItemName} for WALL·E.",
+      "source": "pre_existing",
+      "original_cz": "Craft a {ItemName} for WALL·E."
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group12_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What should I do today?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What should I do today?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What should I do today?"
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group12_StepDescription",
+      "en": "Bring the {ItemName} to WALL·E.",
+      "cz": "Bring the {ItemName} to WALL·E.",
+      "source": "pre_existing",
+      "original_cz": "Bring the {ItemName} to WALL·E."
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_DailyBundles_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Daily Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Start Daily Quest",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Start Daily Quest"
+    }
+  ],
+  "SpringMiniEvent_Spring/RPT_WallE_WeeklyBunnies.locbin": [
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_WeeklyBunnies_Any_CompletedRequestDescription",
+      "en": "Talk to WALL·E.",
+      "cz": "Talk to WALL·E.",
+      "source": "pre_existing",
+      "original_cz": "Talk to WALL·E."
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_WeeklyBunnies_AvailableDescription",
+      "en": "Bunnies are on the run! Catch them and bring them back to WALL·E.",
+      "cz": "Bunnies are on the run! Catch them and bring them back to WALL·E.",
+      "source": "pre_existing",
+      "original_cz": "Bunnies are on the run! Catch them and bring them back to WALL·E."
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_WeeklyBunnies_DisplayName",
+      "en": "Bunnies on the Run",
+      "cz": "Bunnies on the Run",
+      "source": "pre_existing",
+      "original_cz": "Bunnies on the Run"
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_WeeklyBunnies_Group01_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What should I do today?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What should I do today?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What should I do today?"
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_WeeklyBunnies_Group01_StepDescription",
+      "en": "Catch the Bunnies running around in the Plaza.",
+      "cz": "Catch the Bunnies running around in the Plaza.",
+      "source": "pre_existing",
+      "original_cz": "Catch the Bunnies running around in the Plaza."
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_WeeklyBunnies_Group02_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What should I do today?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What should I do today?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What should I do today?"
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_WeeklyBunnies_Group02_StepDescription",
+      "en": "Bring the Runaway Bunnies to WALL·E.",
+      "cz": "Bring the Runaway Bunnies to WALL·E.",
+      "source": "pre_existing",
+      "original_cz": "Bring the Runaway Bunnies to WALL·E."
+    },
+    {
+      "key": "Repeatable!Event!Spring!RPT_WallE_WeeklyBunnies_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Weekly Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Start Weekly Quest",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Start Weekly Quest"
+    }
+  ]
+}

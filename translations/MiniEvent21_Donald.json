@@ -1,0 +1,119 @@
+{
+  "MiniEvent21_Donald/Donald_CrossNPCDialogues_Donald_Daisy_RPT_Dona_Valentines_010.locbin": [
+    {
+      "key": "Donald_000_f",
+      "en": "Oh, Donald! I love the crystal earrings you gave me earlier, but I think this is the most thoughtful gift you've ever given me!",
+      "cz": "Donalde! Moc se mi líbí ty křišťálové náušnice, co jsi mi předtím dal, ale myslím, že tohle je ten nejpromyšlenější dárek, jaký jsi mi kdy dal!",
+      "source": "pre_existing",
+      "original_cz": "Donalde! Moc se mi líbí ty křišťálové náušnice, co jsi mi předtím dal, ale myslím, že tohle je ten nejpromyšlenější dárek, jaký jsi mi kdy dal!"
+    },
+    {
+      "key": "Donald_001_f",
+      "en": "Well... I had... some... uhhhh... help... from {PlayerName}.",
+      "cz": "No... měl jsem... trochu... ehm... pomoci... od {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "No... měl jsem... trochu... ehm... pomoci... od {PlayerName}."
+    },
+    {
+      "key": "Donald_002_f",
+      "en": "Oh, that's even MORE thoughtful. You knew NOT to cook for me yourself!",
+      "cz": "To je ještě JEŠTĚ PROFILOVANĚJŠÍ. Věděl jsi, že pro mě NEMÁŠ vařit sám!",
+      "source": "pre_existing",
+      "original_cz": "To je ještě JEŠTĚ PROFILOVANĚJŠÍ. Věděl jsi, že pro mě NEMÁŠ vařit sám!"
+    },
+    {
+      "key": "Donald_003_f",
+      "en": "HUH?! Oh... Aw, phooey.",
+      "cz": "CO?! Ach... Jé, pééé.",
+      "source": "pre_existing",
+      "original_cz": "CO?! Ach... Jé, pééé."
+    }
+  ],
+  "MiniEvent21_Donald/Donald_RPT_Dona_Valentines_010_RPT_Dona_Valentines_010_BringItem01.locbin": [
+    {
+      "key": "Donald_001_f",
+      "en": "Oh boy, oh boy, oh boy, am I lucky to have a friend like you! This looks stupendous!",
+      "cz": "Páni, páni, páni, páni, to mám štěstí, že mám takového kamaráda/kamarádku jako jsi ty! To vypadá úžasně!",
+      "source": "pre_existing",
+      "original_cz": "Páni, páni, páni, páni, to mám štěstí, že mám takového kamaráda/kamarádku jako jsi ty! To vypadá úžasně!"
+    }
+  ],
+  "MiniEvent21_Donald/Donald_RPT_Dona_Valentines_010_RPT_Dona_Valentines_010_Intro01.locbin": [
+    {
+      "key": "Donald_000_f",
+      "en": "{PlayerName}, I need your help! I've gotta cook something special for Daisy for Valentine's Day.",
+      "cz": "{PlayerName}, potřebuji tvou pomoc! Musím uvařit něco speciálního pro Daisy na Valentýna.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, potřebuji tvou pomoc! Musím uvařit něco speciálního pro Daisy na Valentýna."
+    },
+    {
+      "key": "Donald_001_f",
+      "en": "And I lost track of time! I still have to get her a gift at Uncle Scrooge's!",
+      "cz": "A ztratil jsem pojem o čase! Ještě jí musím koupit dárek u strýčka Scrooge!",
+      "source": "pre_existing",
+      "original_cz": "A ztratil jsem pojem o čase! Ještě jí musím koupit dárek u strýčka Scrooge!"
+    },
+    {
+      "key": "Donald_002_f",
+      "en": "Could ya help me out and cook something nice? Five delicious <Lore>four-star meals</Lore>?",
+      "cz": "Mohl bys mi pomoct a uvařit něco dobrého? Pět lahodných <Lore>čtyřhvězdičkových jídel</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "Mohl bys mi pomoct a uvařit něco dobrého? Pět lahodných <Lore>čtyřhvězdičkových jídel</Lore>?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'll get cooking.",
+      "cz": "Pustím se do vaření.",
+      "source": "pre_existing",
+      "original_cz": "Pustím se do vaření."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Let's talk soon, Donald.",
+      "cz": "Brzy si promluvíme, Donalde.",
+      "source": "pre_existing",
+      "original_cz": "Brzy si promluvíme, Donalde."
+    },
+    {
+      "key": "Donald_003_f",
+      "en": "Thanks!",
+      "cz": "Díky!",
+      "source": "pre_existing",
+      "original_cz": "Díky!"
+    },
+    {
+      "key": "Donald_004_f",
+      "en": "Oh. Okay. Um... I'll figure something out. Maybe Mickey can help!",
+      "cz": "Dobře. Ehm... Něco vymyslím. Možná by Mickey mohl pomoct!",
+      "source": "pre_existing",
+      "original_cz": "Dobře. Ehm... Něco vymyslím. Možná by Mickey mohl pomoct!"
+    }
+  ],
+  "MiniEvent21_Donald/Donald_RPT_Dona_Valentines_010_RPT_Dona_Valentines_010_Ongoing01.locbin": [
+    {
+      "key": "Donald_000_f",
+      "en": "Please, I need <Lore>five four-star meals</Lore> for Daisy!",
+      "cz": "Prosím, potřebuji <Lore>pět čtyřhvězdičkových jídel</Lore> pro Daisy!",
+      "source": "pre_existing",
+      "original_cz": "Prosím, potřebuji <Lore>pět čtyřhvězdičkových jídel</Lore> pro Daisy!"
+    }
+  ],
+  "MiniEvent21_Donald/Donald_RPT_Dona_Valentines_010_RPT_Dona_Valentines_010_Ongoing02.locbin": [
+    {
+      "key": "Donald_000_f",
+      "en": "It's time to go talk to Daisy!",
+      "cz": "Je čas jít si promluvit s Daisy!",
+      "source": "pre_existing",
+      "original_cz": "Je čas jít si promluvit s Daisy!"
+    }
+  ],
+  "MiniEvent21_Donald/Donald_RPT_Dona_Valentines_010_RPT_Dona_Valentines_010_Outro.locbin": [
+    {
+      "key": "Donald_000_f",
+      "en": "Even though Daisy thinks you're a better cook than me, you should still have this. Here. Thanks, friend.",
+      "cz": "I když si Daisy myslí, že kuchařka umíš lépe než já, tak by sis tohle stejně měla nechat. Tady. Díky, kamarádko.",
+      "source": "pre_existing",
+      "original_cz": "I když si Daisy myslí, že kuchařka umíš lépe než já, tak by sis tohle stejně měla nechat. Tady. Díky, kamarádko."
+    }
+  ]
+}

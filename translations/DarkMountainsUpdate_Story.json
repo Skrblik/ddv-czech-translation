@@ -1,0 +1,1598 @@
+{
+  "DarkMountainsUpdate_Story/MRQS120_TheForgotten.locbin": [
+    {
+      "key": "Story!MRQS120_TheForgotten_Any_CompletedRequestDescription",
+      "en": "Talk to the Fairy Godmother in the Dreamscape.",
+      "cz": "Promluvte si s Vílou kmotrou v Krajině snů.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Vílou kmotrou v Krajině snů."
+    },
+    {
+      "key": "Story!MRQS120_TheForgotten_AvailableDescription",
+      "en": "A magical commotion has shaken the Forgotten Lands. It seems to have come from that mysterious Pumpkin House in the Forgotten Lands...",
+      "cz": "Zapomenutými zeměmi otřásl magický rozruch. Zdá se, že pochází z onoho tajemného Dýňového domu v Zapomenutých zemích...",
+      "source": "pre_existing",
+      "original_cz": "Zapomenutými zeměmi otřásl magický rozruch. Zdá se, že pochází z onoho tajemného Dýňového domu v Zapomenutých zemích..."
+    },
+    {
+      "key": "Story!MRQS120_TheForgotten_CompletedStoryDescription",
+      "en": "The Fairy Godmother helps you channel your magic to dispel the Forgotten's enchantment and reveal the entrance to the Dreamscape. Now all that remains is to meet the Fairy Godmother inside.",
+      "cz": "Víla kmotra vám pomůže nasměrovat vaši magii k rozptýlení kouzla Zapomenutých a odhalení vstupu do Světa snů. Teď už jen zbývá setkat se s Vílou kmotrou uvnitř.",
+      "source": "pre_existing",
+      "original_cz": "Víla kmotra vám pomůže nasměrovat vaši magii k rozptýlení kouzla Zapomenutých a odhalení vstupu do Světa snů. Teď už jen zbývá setkat se s Vílou kmotrou uvnitř."
+    },
+    {
+      "key": "Story!MRQS120_TheForgotten_DisplayName",
+      "en": "Miracles Take Time",
+      "cz": "Zázraky potřebují čas",
+      "source": "pre_existing",
+      "original_cz": "Zázraky potřebují čas"
+    },
+    {
+      "key": "Story!MRQS120_TheForgotten_Group01_Step01_StepDescription",
+      "en": "What was that strange noise?!",
+      "cz": "Co to bylo za divný zvuk?!",
+      "source": "pre_existing",
+      "original_cz": "Co to bylo za divný zvuk?!"
+    },
+    {
+      "key": "Story!MRQS120_TheForgotten_Group01_Step01_VisitArea01_StepDescription",
+      "en": "Investigate the mysterious Pumpkin House in the Forgotten Lands.",
+      "cz": "Prozkoumejte tajemný Dýňový dům v Zapomenutých zemích.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte tajemný Dýňový dům v Zapomenutých zemích."
+    },
+    {
+      "key": "Story!MRQS120_TheForgotten_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Talk to the Fairy Godmother.",
+      "cz": "Promluvte si s vílou kmotrou.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s vílou kmotrou."
+    },
+    {
+      "key": "Story!MRQS120_TheForgotten_Group03_Step03_VisitArea03_StepDescription",
+      "en": "Enter the Dreamscape through the Tree House in the Forgotten Lands.",
+      "cz": "Vstupte do Snové krajiny skrz Domek na stromě v Zapomenutých zemích.",
+      "source": "pre_existing",
+      "original_cz": "Vstupte do Snové krajiny skrz Domek na stromě v Zapomenutých zemích."
+    },
+    {
+      "key": "Story!MRQS120_TheForgotten_Group04_Step04_ReadyDescription",
+      "en": "Bring the Fairy Godmother the <ActivityItem>Purified Night Shards</ActivityItem>.",
+      "cz": "Přineste víle kmotře <ActivityItem>Střepy očištěné noci</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Přineste víle kmotře <ActivityItem>Střepy očištěné noci</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS120_TheForgotten_Group04_Step04_StepDescription",
+      "en": "Gather <ActivityItem>Purified Night Shards</ActivityItem> for the Fairy Godmother's enchantment.",
+      "cz": "Seberte <ActivityItem>Očištěné noční střepy</ActivityItem> pro kouzlo Víly kmotry.",
+      "source": "pre_existing",
+      "original_cz": "Seberte <ActivityItem>Očištěné noční střepy</ActivityItem> pro kouzlo Víly kmotry."
+    },
+    {
+      "key": "Story!MRQS120_TheForgotten_Group04_StoryDescription",
+      "en": "Within the Pumpkin House in the Forgotten Lands, you find the Fairy Godmother. She tells you about the Dreamscape — a secret world between dreams and waking — where the Forgotten has hidden the Orb of Remembrance. You'll need to help her get it back.",
+      "cz": "V Dýňovém domě v Zapomenutých zemích najdete Vílu kmotru. Vypráví vám o Světě snů – tajném světě mezi sny a bděním – kde Zapomenutá ukryla Kouli vzpomínek. Budete jí muset pomoci ji získat zpět.",
+      "source": "pre_existing",
+      "original_cz": "V Dýňovém domě v Zapomenutých zemích najdete Vílu kmotru. Vypráví vám o Světě snů – tajném světě mezi sny a bděním – kde Zapomenutá ukryla Kouli vzpomínek. Budete jí muset pomoci ji získat zpět."
+    },
+    {
+      "key": "Story!MRQS120_TheForgotten_Group07_Step07_TalkToCharacter03_StepDescription",
+      "en": "Talk to the Fairy Godmother in the Dreamscape.",
+      "cz": "Promluvte si s Vílou kmotrou v Krajině snů.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Vílou kmotrou v Krajině snů."
+    },
+    {
+      "key": "Story!MRQS120_TheForgotten_Group08_Step08_StepDescription",
+      "en": "Collect the <ActivityItem>Forgotten's Memories</ActivityItem> from the pedestals:",
+      "cz": "Seberte <ActivityItem>Vzpomínky Zapomenutého</ActivityItem> z podstavců:",
+      "source": "pre_existing",
+      "original_cz": "Seberte <ActivityItem>Vzpomínky Zapomenutého</ActivityItem> z podstavců:"
+    },
+    {
+      "key": "Story!MRQS120_TheForgotten_Group08_Step08_Unlock01_StepDescription",
+      "en": "<ActivityItem>Memory of Power</ActivityItem>.",
+      "cz": "<ActivityItem>Memory of Power</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Memory of Power</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS120_TheForgotten_Group08_Step08_Unlock02_StepDescription",
+      "en": "<ActivityItem>Memory of Courage</ActivityItem>.",
+      "cz": "<ActivityItem>Memory of Courage</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Memory of Courage</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS120_TheForgotten_Group08_Step08_Unlock03_StepDescription",
+      "en": "<ActivityItem>Memory of Love</ActivityItem>.",
+      "cz": "<ActivityItem>Memory of Love</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Memory of Love</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS120_TheForgotten_Group09_Step09_FollowCharacter01_StepDescription",
+      "en": "Follow the Fairy Godmother to the Dreamscape's entrance.",
+      "cz": "Následujte vílu kmotru ke vchodu do Sněhové krajiny.",
+      "source": "pre_existing",
+      "original_cz": "Následujte vílu kmotru ke vchodu do Sněhové krajiny."
+    },
+    {
+      "key": "Story!MRQS120_TheForgotten_Group09_Step09_FollowCharacter01_TalkToDescription",
+      "en": "Talk to the Fairy Godmother.",
+      "cz": "Promluvte si s vílou kmotrou.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s vílou kmotrou."
+    }
+  ],
+  "DarkMountainsUpdate_Story/MRQS122_TheForgotten.locbin": [
+    {
+      "key": "Story!MRQS122_TheForgotten_Any_CompletedRequestDescription",
+      "en": "Talk to the Fairy Godmother about what you learned.",
+      "cz": "Promluvte si s Vílou kmotrou o tom, co jste se dozvěděli.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Vílou kmotrou o tom, co jste se dozvěděli."
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_AvailableDescription",
+      "en": "The Fairy Godmother has led you to a strange gateway in the Dreamscape. Within it, you'll find one of the Forgotten's buried Memories. You hope you're prepared for whatever you're about to find inside...",
+      "cz": "Víla kmotra tě zavedla k podivné bráně v Krajině snů. Uvnitř najdeš jednu z pohřbených vzpomínek Zapomenutých. Doufáš, že jsi připraven na cokoli, co tě uvnitř čeká...",
+      "source": "pre_existing",
+      "original_cz": "Víla kmotra tě zavedla k podivné bráně v Krajině snů. Uvnitř najdeš jednu z pohřbených vzpomínek Zapomenutých. Doufáš, že jsi připraven na cokoli, co tě uvnitř čeká..."
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_CompletedStoryDescription",
+      "en": "You uncovered the Forgotten's first Memory, which showed a day where everything about the Valley that once brought the Forgotten joy turned into a boring chore. You'll need to speak to the Fairy Godmother.",
+      "cz": "Odhalili jste první vzpomínku Zapomenutých, která ukazovala den, kdy se vše v Údolí, co kdysi přinášelo Zapomenutým radost, proměnilo v nudnou povinnost. Budete si muset promluvit s Vílou kmotrou.",
+      "source": "pre_existing",
+      "original_cz": "Odhalili jste první vzpomínku Zapomenutých, která ukazovala den, kdy se vše v Údolí, co kdysi přinášelo Zapomenutým radost, proměnilo v nudnou povinnost. Budete si muset promluvit s Vílou kmotrou."
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_DisplayName",
+      "en": "Forgotten Memories: Friendship",
+      "cz": "Zapomenuté vzpomínky: Přátelství",
+      "source": "pre_existing",
+      "original_cz": "Zapomenuté vzpomínky: Přátelství"
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_Group01_Step01_VisitArea01_StepDescription",
+      "en": "Step through the first gate in the Dreamscape to uncover the Forgotten's lost Memory.",
+      "cz": "Projděte první branou v Krajině snů a odhalte ztracenou paměť Zapomenutých.",
+      "source": "pre_existing",
+      "original_cz": "Projděte první branou v Krajině snů a odhalte ztracenou paměť Zapomenutých."
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "See what Mickey wants THIS time...",
+      "cz": "Podívejte se, co Mickey chce TENTOkrát...",
+      "source": "pre_existing",
+      "original_cz": "Podívejte se, co Mickey chce TENTOkrát..."
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_Group02_StepDescription",
+      "en": "Uncover the Forgotten's first lost Memory in the Dreamscape:",
+      "cz": "Objevte první ztracenou vzpomínku Zapomenutého v Krajině snů:",
+      "source": "pre_existing",
+      "original_cz": "Objevte první ztracenou vzpomínku Zapomenutého v Krajině snů:"
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_Group02_StoryDescription",
+      "en": "You stepped inside the first Memory of the Forgotten and found yourself thrust into a vision of the past. You know that your actions can't change what happened... but perhaps they can help you understand.",
+      "cz": "Vstoupil jsi do první Vzpomínky na Zapomenuté a ocitl ses vržen do vize minulosti. Víš, že tvé činy nemohou změnit to, co se stalo... ale možná ti pomohou to pochopit.",
+      "source": "pre_existing",
+      "original_cz": "Vstoupil jsi do první Vzpomínky na Zapomenuté a ocitl ses vržen do vize minulosti. Víš, že tvé činy nemohou změnit to, co se stalo... ale možná ti pomohou to pochopit."
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_Group03_Step03_Possess01_StepDescription",
+      "en": "Pick some <ActivityItem>Ugly Flowers</ActivityItem> to make some kinda bouquet? Ugh. Whatever.",
+      "cz": "Natrhat si nějaké <ActivityItem>Ošklivé květiny</ActivityItem> a udělat z nich nějakou kytici? Fuj. Cokoliv.",
+      "source": "pre_existing",
+      "original_cz": "Natrhat si nějaké <ActivityItem>Ošklivé květiny</ActivityItem> a udělat z nich nějakou kytici? Fuj. Cokoliv."
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_Group03_StepDescription",
+      "en": "Uncover the Forgotten's first lost Memory in the Dreamscape:",
+      "cz": "Objevte první ztracenou vzpomínku Zapomenutého v Krajině snů:",
+      "source": "pre_existing",
+      "original_cz": "Objevte první ztracenou vzpomínku Zapomenutého v Krajině snů:"
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_Group04_Step04_CraftItem01_StepDescription",
+      "en": "Craft a <ActivityItem>Hideous Bouquet</ActivityItem> at the Crafting Station near Goofy's House. (What's the point in making a nice bouquet anyway...?)",
+      "cz": "Vyrobte si <ActivityItem>Hroznou kytici</ActivityItem> v dílně poblíž Goofyho domu. (Jaký má vůbec smysl dělat hezkou kytici...?)",
+      "source": "pre_existing",
+      "original_cz": "Vyrobte si <ActivityItem>Hroznou kytici</ActivityItem> v dílně poblíž Goofyho domu. (Jaký má vůbec smysl dělat hezkou kytici...?)"
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_Group04_StepDescription",
+      "en": "Uncover the Forgotten's first lost Memory in the Dreamscape:",
+      "cz": "Objevte první ztracenou vzpomínku Zapomenutého v Krajině snů:",
+      "source": "pre_existing",
+      "original_cz": "Objevte první ztracenou vzpomínku Zapomenutého v Krajině snů:"
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_Group05_Step05_ReadyDescription",
+      "en": "Find Minnie by the Pillar and give her the <ActivityItem>Hideous Bouquet</ActivityItem>. (Because you have to do EVERYTHING around here...)",
+      "cz": "Najděte Minnie u sloupu a dejte jí <ActivityItem>Hroznou kytici</ActivityItem>. (Protože tady musíte dělat VŠECHNO...)",
+      "source": "pre_existing",
+      "original_cz": "Najděte Minnie u sloupu a dejte jí <ActivityItem>Hroznou kytici</ActivityItem>. (Protože tady musíte dělat VŠECHNO...)"
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_Group05_Step05_StepDescription",
+      "en": "Make sure you have the <ActivityItem>Hideous Bouquet</ActivityItem> in your Inventory.",
+      "cz": "Ujistěte se, že máte v inventáři <ActivityItem>Hroznou kytici</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte v inventáři <ActivityItem>Hroznou kytici</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_Group05_StepDescription",
+      "en": "Uncover the Forgotten's first lost Memory in the Dreamscape:",
+      "cz": "Objevte první ztracenou vzpomínku Zapomenutého v Krajině snů:",
+      "source": "pre_existing",
+      "original_cz": "Objevte první ztracenou vzpomínku Zapomenutého v Krajině snů:"
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_Group06_Step06_TalkToCharacter02_StepDescription",
+      "en": "Return to Mickey.",
+      "cz": "Zpět k Mickeymu.",
+      "source": "pre_existing",
+      "original_cz": "Zpět k Mickeymu."
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_Group06_StepDescription",
+      "en": "Uncover the Forgotten's first lost Memory in the Dreamscape:",
+      "cz": "Objevte první ztracenou vzpomínku Zapomenutého v Krajině snů:",
+      "source": "pre_existing",
+      "original_cz": "Objevte první ztracenou vzpomínku Zapomenutého v Krajině snů:"
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_Group07_Step07_TalkToCharacter03_StepDescription",
+      "en": "Now Goofy wants something? Sigh. Better speak to him too...",
+      "cz": "Teď Goofy něco chce? Ach jo. Raději si s ním taky promluv...",
+      "source": "pre_existing",
+      "original_cz": "Teď Goofy něco chce? Ach jo. Raději si s ním taky promluv..."
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_Group07_StepDescription",
+      "en": "Uncover the Forgotten's first lost Memory in the Dreamscape:",
+      "cz": "Objevte první ztracenou vzpomínku Zapomenutého v Krajině snů:",
+      "source": "pre_existing",
+      "original_cz": "Objevte první ztracenou vzpomínku Zapomenutého v Krajině snů:"
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_Group08_Step08_Possess02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_Group08_Step08_Possess03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_Group08_Step08_Possess04_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_Group08_StepDescription",
+      "en": "Uncover the Forgotten's first lost Memory in the Dreamscape by finding:",
+      "cz": "Odhalte první ztracenou vzpomínku Zapomenutého v Krajině snů nalezením:",
+      "source": "pre_existing",
+      "original_cz": "Odhalte první ztracenou vzpomínku Zapomenutého v Krajině snů nalezením:"
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_Group09_Step09_CookMeal01_StepDescription",
+      "en": "Cook a <ActivityItem>Nasty Bouillabaisse</ActivityItem>.",
+      "cz": "Uvařte <ActivityItem>hnusnou bouillabaisse</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Uvařte <ActivityItem>hnusnou bouillabaisse</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_Group09_StepDescription",
+      "en": "Uncover the Forgotten's first lost Memory in the Dreamscape:",
+      "cz": "Odhalte první ztracenou vzpomínku Zapomenutého v Krajině snů:",
+      "source": "pre_existing",
+      "original_cz": "Odhalte první ztracenou vzpomínku Zapomenutého v Krajině snů:"
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_Group10_Step10_ReadyDescription",
+      "en": "Bring the <ActivityItem>Nasty Bouillabaisse</ActivityItem> to Goofy.",
+      "cz": "Přineste Goofymu <ActivityItem>Hnusnou bouillabaisse</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Přineste Goofymu <ActivityItem>Hnusnou bouillabaisse</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_Group10_Step10_StepDescription",
+      "en": "Make sure you have the <ActivityItem>Nasty Bouillabaisse</ActivityItem> in your Inventory.",
+      "cz": "Ujistěte se, že máte v inventáři <ActivityItem>Hnusnou bujónovou omáčku</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte v inventáři <ActivityItem>Hnusnou bujónovou omáčku</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_Group10_StepDescription",
+      "en": "Uncover the Forgotten's first lost Memory in the Dreamscape:",
+      "cz": "Odhalte první ztracenou vzpomínku Zapomenutého v Krajině snů:",
+      "source": "pre_existing",
+      "original_cz": "Odhalte první ztracenou vzpomínku Zapomenutého v Krajině snů:"
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_Group11_Step11_TalkToCharacter04_StepDescription",
+      "en": "Minnie wants to talk to you... again.",
+      "cz": "Minnie si s tebou chce znovu promluvit...",
+      "source": "pre_existing",
+      "original_cz": "Minnie si s tebou chce znovu promluvit..."
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_Group11_StepDescription",
+      "en": "Uncover the Forgotten's first lost Memory in the Dreamscape:",
+      "cz": "Odhalte první ztracenou vzpomínku Zapomenutého v Krajině snů:",
+      "source": "pre_existing",
+      "original_cz": "Odhalte první ztracenou vzpomínku Zapomenutého v Krajině snů:"
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_Group12_Step12_VisitArea02_StepDescription",
+      "en": "Return to the Fairy Godmother in the Dreamscape.",
+      "cz": "Vraťte se k Víle Kmotře v Krajině snů.",
+      "source": "pre_existing",
+      "original_cz": "Vraťte se k Víle Kmotře v Krajině snů."
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_Group13_Step13_TalkToCharacter05_StepDescription",
+      "en": "Talk to the Fairy Godmother at the gateway.",
+      "cz": "Promluvte si s Vílou kmotrou u brány.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Vílou kmotrou u brány."
+    },
+    {
+      "key": "Story!MRQS122_TheForgotten_Group14_Step14_StepDescription",
+      "en": "Collect the <ActivityItem>Memory of Friendship</ActivityItem> from the pedestal.",
+      "cz": "Seberte z podstavce <ActivityItem>Vzpomínku na přátelství</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Seberte z podstavce <ActivityItem>Vzpomínku na přátelství</ActivityItem>."
+    }
+  ],
+  "DarkMountainsUpdate_Story/MRQS124_TheForgotten.locbin": [
+    {
+      "key": "Story!MRQS124_TheForgotten_Any_CompletedRequestDescription",
+      "en": "Speak to the Fairy Godmother about what you've learned.",
+      "cz": "Promluvte si s Vílou kmotrou o tom, co jste se dozvěděli.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Vílou kmotrou o tom, co jste se dozvěděli."
+    },
+    {
+      "key": "Story!MRQS124_TheForgotten_AvailableDescription",
+      "en": "The Fairy Godmother leads you to another gate where you can live out another Memory as the Forgotten. You wonder what you will uncover this time.",
+      "cz": "Víla kmotra tě zavede k další bráně, kde můžeš prožít další vzpomínku jako Zapomenutý. Zajímá tě, co tentokrát odhalíš.",
+      "source": "pre_existing",
+      "original_cz": "Víla kmotra tě zavede k další bráně, kde můžeš prožít další vzpomínku jako Zapomenutý. Zajímá tě, co tentokrát odhalíš."
+    },
+    {
+      "key": "Story!MRQS124_TheForgotten_DisplayName",
+      "en": "Forgotten Memories: Trust",
+      "cz": "Zapomenuté vzpomínky: Důvěra",
+      "source": "pre_existing",
+      "original_cz": "Zapomenuté vzpomínky: Důvěra"
+    },
+    {
+      "key": "Story!MRQS124_TheForgotten_Group01_Step01_VisitArea01_StepDescription",
+      "en": "Step through the second gate in the Dreamscape to uncover the Forgotten's lost Memory.",
+      "cz": "Projděte druhou branou v Krajině snů a odhalte ztracenou paměť Zapomenutých.",
+      "source": "pre_existing",
+      "original_cz": "Projděte druhou branou v Krajině snů a odhalte ztracenou paměť Zapomenutých."
+    },
+    {
+      "key": "Story!MRQS124_TheForgotten_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Mother Gothel wants something. Guess you should talk to her...",
+      "cz": "Matka Gothel něco chce. Asi by sis s ní měl promluvit...",
+      "source": "pre_existing",
+      "original_cz": "Matka Gothel něco chce. Asi by sis s ní měl promluvit..."
+    },
+    {
+      "key": "Story!MRQS124_TheForgotten_Group02_StepDescription",
+      "en": "Uncover the Forgotten's second lost Memory in the Dreamscape:",
+      "cz": "Odhalte druhou ztracenou vzpomínku Zapomenutého v Krajině snů:",
+      "source": "pre_existing",
+      "original_cz": "Odhalte druhou ztracenou vzpomínku Zapomenutého v Krajině snů:"
+    },
+    {
+      "key": "Story!MRQS124_TheForgotten_Group02_StoryDescription",
+      "en": "Once you step through the gate, you find yourself transformed into the Forgotten standing in the Glade of Trust.",
+      "cz": "Jakmile projdete branou, ocitnete se proměněni v Zapomenutého, stojícího na Mýtině důvěry.",
+      "source": "pre_existing",
+      "original_cz": "Jakmile projdete branou, ocitnete se proměněni v Zapomenutého, stojícího na Mýtině důvěry."
+    },
+    {
+      "key": "Story!MRQS124_TheForgotten_Group03_Step03_VisitArea04_StepDescription",
+      "en": "Follow Mother Gothel to the Pillar of Trust. This better be important...",
+      "cz": "Následujte Matku Gothel k Pilíři důvěry. Tohle by mělo být důležité...",
+      "source": "pre_existing",
+      "original_cz": "Následujte Matku Gothel k Pilíři důvěry. Tohle by mělo být důležité..."
+    },
+    {
+      "key": "Story!MRQS124_TheForgotten_Group03_StepDescription",
+      "en": "Uncover the Forgotten's second lost Memory in the Dreamscape:",
+      "cz": "Odhalte druhou ztracenou vzpomínku Zapomenutého v Krajině snů:",
+      "source": "pre_existing",
+      "original_cz": "Odhalte druhou ztracenou vzpomínku Zapomenutého v Krajině snů:"
+    },
+    {
+      "key": "Story!MRQS124_TheForgotten_Group04_Step04_TalkToCharacter02_StepDescription",
+      "en": "Talk to Mother Gothel.",
+      "cz": "Promluvte si s matkou Gothel.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s matkou Gothel."
+    },
+    {
+      "key": "Story!MRQS124_TheForgotten_Group04_StepDescription",
+      "en": "Uncover the Forgotten's second lost Memory in the Dreamscape:",
+      "cz": "Odhalte druhou ztracenou vzpomínku Zapomenutého v Krajině snů:",
+      "source": "pre_existing",
+      "original_cz": "Odhalte druhou ztracenou vzpomínku Zapomenutého v Krajině snů:"
+    },
+    {
+      "key": "Story!MRQS124_TheForgotten_Group05_Step05_Interaction01_StepDescription",
+      "en": "Rip that ugly Orb right out of that annoying {ItemName}.",
+      "cz": "Vytrhněte tu ošklivou kouli z toho otravného {ItemName}.",
+      "source": "pre_existing",
+      "original_cz": "Vytrhněte tu ošklivou kouli z toho otravného {ItemName}."
+    },
+    {
+      "key": "Story!MRQS124_TheForgotten_Group05_StepDescription",
+      "en": "Uncover the Forgotten's second lost Memory in the Dreamscape:",
+      "cz": "Odhalte druhou ztracenou vzpomínku Zapomenutého v Krajině snů:",
+      "source": "pre_existing",
+      "original_cz": "Odhalte druhou ztracenou vzpomínku Zapomenutého v Krajině snů:"
+    },
+    {
+      "key": "Story!MRQS124_TheForgotten_Group05_StoryDescription",
+      "en": "That day in the Glade, just as the Forgetting was starting, Mother Gothel tricked the Forgotten into removing the Orb from the Pillar.",
+      "cz": "Ten den na Mýtině, právě když začínalo Zapomnění, Matka Gothel obelhala Zapomenuté, aby odstranili Kouli ze Sloupu.",
+      "source": "pre_existing",
+      "original_cz": "Ten den na Mýtině, právě když začínalo Zapomnění, Matka Gothel obelhala Zapomenuté, aby odstranili Kouli ze Sloupu."
+    },
+    {
+      "key": "Story!MRQS124_TheForgotten_Group06_Step06_TalkToCharacter05_StepDescription",
+      "en": "Show the Orb to {TargetNPC}.",
+      "cz": "Ukažte kouli {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Ukažte kouli {TargetNPC}."
+    },
+    {
+      "key": "Story!MRQS124_TheForgotten_Group06_StepDescription",
+      "en": "Uncover the Forgotten's second lost Memory in the Dreamscape:",
+      "cz": "Odhalte druhou ztracenou vzpomínku Zapomenutého v Krajině snů:",
+      "source": "pre_existing",
+      "original_cz": "Odhalte druhou ztracenou vzpomínku Zapomenutého v Krajině snů:"
+    },
+    {
+      "key": "Story!MRQS124_TheForgotten_Group07_Step07_Possess01_StepDescription",
+      "en": "Fish the <ActivityItem>Jewel-Encrusted Mirror</ActivityItem> out of the water in the Glade of Trust.",
+      "cz": "Vylov z vody v Mýtině důvěry <ActivityItem>Zrcadlo pokryté drahokamy</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Vylov z vody v Mýtině důvěry <ActivityItem>Zrcadlo pokryté drahokamy</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS124_TheForgotten_Group07_StepDescription",
+      "en": "Uncover the Forgotten's second lost Memory in the Dreamscape:",
+      "cz": "Odhalte druhou ztracenou vzpomínku Zapomenutého v Krajině snů:",
+      "source": "pre_existing",
+      "original_cz": "Odhalte druhou ztracenou vzpomínku Zapomenutého v Krajině snů:"
+    },
+    {
+      "key": "Story!MRQS124_TheForgotten_Group08_Step08_VisitArea02_StepDescription",
+      "en": "This mirror is nothing but junk! Return to Mother Gothel near the Giant Willow and give her a piece of your mind...",
+      "cz": "Tohle zrcadlo je jen šmejd! Vrať se k Matce Gothel poblíž Obří vrby a sděl jí, co si o ní myslíš...",
+      "source": "pre_existing",
+      "original_cz": "Tohle zrcadlo je jen šmejd! Vrať se k Matce Gothel poblíž Obří vrby a sděl jí, co si o ní myslíš..."
+    },
+    {
+      "key": "Story!MRQS124_TheForgotten_Group08_StepDescription",
+      "en": "Uncover the Forgotten's second lost Memory in the Dreamscape:",
+      "cz": "Odhalte druhou ztracenou vzpomínku Zapomenutého v Krajině snů:",
+      "source": "pre_existing",
+      "original_cz": "Odhalte druhou ztracenou vzpomínku Zapomenutého v Krajině snů:"
+    },
+    {
+      "key": "Story!MRQS124_TheForgotten_Group09_Step09_TalkToCharacter03_StepDescription",
+      "en": "Confront Mother Gothel.",
+      "cz": "Konfrontujte Matku Gothel.",
+      "source": "pre_existing",
+      "original_cz": "Konfrontujte Matku Gothel."
+    },
+    {
+      "key": "Story!MRQS124_TheForgotten_Group09_StepDescription",
+      "en": "Uncover the Forgotten's second lost Memory in the Dreamscape:",
+      "cz": "Odhalte druhou ztracenou vzpomínku Zapomenutého v Krajině snů:",
+      "source": "pre_existing",
+      "original_cz": "Odhalte druhou ztracenou vzpomínku Zapomenutého v Krajině snů:"
+    },
+    {
+      "key": "Story!MRQS124_TheForgotten_Group10_Step10_VisitArea03_StepDescription",
+      "en": "Return to the Fairy Godmother in the Dreamscape.",
+      "cz": "Vraťte se k Víle Kmotře v Krajině snů.",
+      "source": "pre_existing",
+      "original_cz": "Vraťte se k Víle Kmotře v Krajině snů."
+    },
+    {
+      "key": "Story!MRQS124_TheForgotten_Group10_StoryDescription",
+      "en": "After unraveling the whole Memory, you discover that Mother Gothel was scheming to lock the Forgotten away and use their magic to keep her youth. The Forgotten flipped the enchantment around and locked Mother Gothel away instead.",
+      "cz": "Po rozluštění celé Vzpomínky zjistíte, že Matka Gothel plánovala uzamknout Zapomenuté a použít jejich magii k udržení svého mládí. Zapomenutí obrátili kouzlo a místo toho uzamkli Matku Gothel.",
+      "source": "pre_existing",
+      "original_cz": "Po rozluštění celé Vzpomínky zjistíte, že Matka Gothel plánovala uzamknout Zapomenuté a použít jejich magii k udržení svého mládí. Zapomenutí obrátili kouzlo a místo toho uzamkli Matku Gothel."
+    },
+    {
+      "key": "Story!MRQS124_TheForgotten_Group11_Step11_TalkToCharacter04_StepDescription",
+      "en": "Talk to the Fairy Godmother at the next gateway.",
+      "cz": "Promluvte si s Vílou kmotrou u další brány.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Vílou kmotrou u další brány."
+    },
+    {
+      "key": "Story!MRQS124_TheForgotten_Group12_Step12_StepDescription",
+      "en": "Collect the <ActivityItem>Memory of Trust</ActivityItem> from the pedestal.",
+      "cz": "Seberte <ActivityItem>Vzpomínku důvěry</ActivityItem> z podstavce.",
+      "source": "pre_existing",
+      "original_cz": "Seberte <ActivityItem>Vzpomínku důvěry</ActivityItem> z podstavce."
+    }
+  ],
+  "DarkMountainsUpdate_Story/MRQS126_TheForgotten.locbin": [
+    {
+      "key": "Story!MRQS126_TheForgotten_Any_CompletedRequestDescription",
+      "en": "Talk to the Fairy Godmother about what you learned.",
+      "cz": "Promluvte si s Vílou kmotrou o tom, co jste se dozvěděli.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Vílou kmotrou o tom, co jste se dozvěděli."
+    },
+    {
+      "key": "Story!MRQS126_TheForgotten_AvailableDescription",
+      "en": "The Fairy Godmother invites you to pass through the final door and uncover the Memory that sealed the Forgotten's fate.",
+      "cz": "Víla kmotra vás zve, abyste prošli posledními dveřmi a odhalili Vzpomínku, která zpečetila osud Zapomenutých.",
+      "source": "pre_existing",
+      "original_cz": "Víla kmotra vás zve, abyste prošli posledními dveřmi a odhalili Vzpomínku, která zpečetila osud Zapomenutých."
+    },
+    {
+      "key": "Story!MRQS126_TheForgotten_CompletedStoryDescription",
+      "en": "With the Memory complete, you see now that the Forgotten was driven out of the Valley and took refuge in a dark shadow of the Village. You suppose you'll have to venture there to put an end to all this.",
+      "cz": "S dokončením Vzpomínky vidíte, že Zapomenutí byli vyhnáni z Údolí a uchýlili se do temného stínu Vesnice. Předpokládáte, že se tam budete muset vydat, abyste tomu všemu učinili konec.",
+      "source": "pre_existing",
+      "original_cz": "S dokončením Vzpomínky vidíte, že Zapomenutí byli vyhnáni z Údolí a uchýlili se do temného stínu Vesnice. Předpokládáte, že se tam budete muset vydat, abyste tomu všemu učinili konec."
+    },
+    {
+      "key": "Story!MRQS126_TheForgotten_DisplayName",
+      "en": "Forgotten Memories: Nurturing",
+      "cz": "Zapomenuté vzpomínky: Péče",
+      "source": "pre_existing",
+      "original_cz": "Zapomenuté vzpomínky: Péče"
+    },
+    {
+      "key": "Story!MRQS126_TheForgotten_Group01_Step01_VisitArea01_StepDescription",
+      "en": "Step through the third gate in the Dreamscape to uncover the Forgotten's final Memory.",
+      "cz": "Projděte třetí branou v Krajině snů a odhalte poslední vzpomínku Zapomenutého.",
+      "source": "pre_existing",
+      "original_cz": "Projděte třetí branou v Krajině snů a odhalte poslední vzpomínku Zapomenutého."
+    },
+    {
+      "key": "Story!MRQS126_TheForgotten_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Talk to the Fairy Godmother at the last gateway.",
+      "cz": "Promluvte si s Vílou kmotrou u poslední brány.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Vílou kmotrou u poslední brány."
+    },
+    {
+      "key": "Story!MRQS126_TheForgotten_Group03_Step03_TalkToCharacter05_StepDescription",
+      "en": "What does Scar want...? Better talk to him.",
+      "cz": "Co Scar chce...? Raději si s ním promluv.",
+      "source": "pre_existing",
+      "original_cz": "Co Scar chce...? Raději si s ním promluv."
+    },
+    {
+      "key": "Story!MRQS126_TheForgotten_Group03_StepDescription",
+      "en": "Uncover the Forgotten's final lost Memory in the Dreamscape:",
+      "cz": "Odhalte poslední ztracenou vzpomínku Zapomenutého v Krajině snů:",
+      "source": "pre_existing",
+      "original_cz": "Odhalte poslední ztracenou vzpomínku Zapomenutého v Krajině snů:"
+    },
+    {
+      "key": "Story!MRQS126_TheForgotten_Group04_Step04_Interaction02_StepDescription",
+      "en": "Crush the flowers around the Plateau to weaken the Pillar's energy.",
+      "cz": "Rozdrťte květiny kolem plošiny, abyste oslabili energii Pilíře.",
+      "source": "pre_existing",
+      "original_cz": "Rozdrťte květiny kolem plošiny, abyste oslabili energii Pilíře."
+    },
+    {
+      "key": "Story!MRQS126_TheForgotten_Group04_StepDescription",
+      "en": "Uncover the Forgotten's final lost Memory in the Dreamscape:",
+      "cz": "Odhalte poslední ztracenou vzpomínku Zapomenutého v Krajině snů:",
+      "source": "pre_existing",
+      "original_cz": "Odhalte poslední ztracenou vzpomínku Zapomenutého v Krajině snů:"
+    },
+    {
+      "key": "Story!MRQS126_TheForgotten_Group05_Step05_Possess01_StepDescription",
+      "en": "Recover the <ActivityItem>Orb of Nurturing</ActivityItem> near the Pillar.",
+      "cz": "Získejte <ActivityItem>Kouli péče</ActivityItem> poblíž pilíře.",
+      "source": "pre_existing",
+      "original_cz": "Získejte <ActivityItem>Kouli péče</ActivityItem> poblíž pilíře."
+    },
+    {
+      "key": "Story!MRQS126_TheForgotten_Group05_StepDescription",
+      "en": "Uncover the Forgotten's final lost Memory in the Dreamscape:",
+      "cz": "Odhalte poslední ztracenou vzpomínku Zapomenutého v Krajině snů:",
+      "source": "pre_existing",
+      "original_cz": "Odhalte poslední ztracenou vzpomínku Zapomenutého v Krajině snů:"
+    },
+    {
+      "key": "Story!MRQS126_TheForgotten_Group05_StoryDescription",
+      "en": "Scar tricked the Forgotten into destroying life throughout the Plateau. The Orb was left to wither without the plant life to feed it.",
+      "cz": "Scar oklamal Zapomenuté, aby zničili život na celé Plošině. Koule zůstala chřadnout bez rostlinného života, který by ji živil.",
+      "source": "pre_existing",
+      "original_cz": "Scar oklamal Zapomenuté, aby zničili život na celé Plošině. Koule zůstala chřadnout bez rostlinného života, který by ji živil."
+    },
+    {
+      "key": "Story!MRQS126_TheForgotten_Group06_Step06_VisitArea03_StepDescription",
+      "en": "Return to Scar near his cave.",
+      "cz": "Vraťte se k Scarovi poblíž jeho jeskyně.",
+      "source": "pre_existing",
+      "original_cz": "Vraťte se k Scarovi poblíž jeho jeskyně."
+    },
+    {
+      "key": "Story!MRQS126_TheForgotten_Group06_StepDescription",
+      "en": "Uncover the Forgotten's final lost Memory in the Dreamscape:",
+      "cz": "Odhalte poslední ztracenou vzpomínku Zapomenutého v Krajině snů:",
+      "source": "pre_existing",
+      "original_cz": "Odhalte poslední ztracenou vzpomínku Zapomenutého v Krajině snů:"
+    },
+    {
+      "key": "Story!MRQS126_TheForgotten_Group07_Step07_TalkToCharacter02_StepDescription",
+      "en": "Talk to Scar.",
+      "cz": "Promluvte si se Scarem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Scarem."
+    },
+    {
+      "key": "Story!MRQS126_TheForgotten_Group07_StepDescription",
+      "en": "Uncover the Forgotten's final lost Memory in the Dreamscape:",
+      "cz": "Odhalte poslední ztracenou vzpomínku Zapomenutého v Krajině snů:",
+      "source": "pre_existing",
+      "original_cz": "Odhalte poslední ztracenou vzpomínku Zapomenutého v Krajině snů:"
+    },
+    {
+      "key": "Story!MRQS126_TheForgotten_Group09_Step09_TalkToCharacter03_StepDescription",
+      "en": "Confront Merlin. It looks like he has some more \"advice\" for you...",
+      "cz": "Konfrontuj Merlina. Vypadá to, že pro tebe má další „radu“...",
+      "source": "pre_existing",
+      "original_cz": "Konfrontuj Merlina. Vypadá to, že pro tebe má další „radu“..."
+    },
+    {
+      "key": "Story!MRQS126_TheForgotten_Group09_StepDescription",
+      "en": "Uncover the Forgotten's final lost Memory in the Dreamscape:",
+      "cz": "Odhalte poslední ztracenou vzpomínku Zapomenutého v Krajině snů:",
+      "source": "pre_existing",
+      "original_cz": "Odhalte poslední ztracenou vzpomínku Zapomenutého v Krajině snů:"
+    },
+    {
+      "key": "Story!MRQS126_TheForgotten_Group10_Step10_VisitArea05_StepDescription",
+      "en": "Return to the Fairy Godmother in the Dreamscape.",
+      "cz": "Vraťte se k Víle Kmotře v Krajině snů.",
+      "source": "pre_existing",
+      "original_cz": "Vraťte se k Víle Kmotře v Krajině snů."
+    },
+    {
+      "key": "Story!MRQS126_TheForgotten_Group10_StoryDescription",
+      "en": "Merlin cautioned the Forgotten not to lose faith in love, friendship, and the power of small acts of care. But the Forgotten was too far gone to heed Merlin's warning.",
+      "cz": "Merlin varoval Zapomenuté, aby neztráceli víru v lásku, přátelství a sílu malých projevů péče. Zapomenutí však zašli příliš daleko na to, aby Merlinovo varování dbali.",
+      "source": "pre_existing",
+      "original_cz": "Merlin varoval Zapomenuté, aby neztráceli víru v lásku, přátelství a sílu malých projevů péče. Zapomenutí však zašli příliš daleko na to, aby Merlinovo varování dbali."
+    },
+    {
+      "key": "Story!MRQS126_TheForgotten_Group11_Step11_TalkToCharacter04_StepDescription",
+      "en": "Return to Scar.",
+      "cz": "Návrat k Scarovi.",
+      "source": "pre_existing",
+      "original_cz": "Návrat k Scarovi."
+    },
+    {
+      "key": "Story!MRQS126_TheForgotten_Group11_StepDescription",
+      "en": "Uncover the Forgotten's final lost Memory in the Dreamscape:",
+      "cz": "Odhalte poslední ztracenou vzpomínku Zapomenutého v Krajině snů:",
+      "source": "pre_existing",
+      "original_cz": "Odhalte poslední ztracenou vzpomínku Zapomenutého v Krajině snů:"
+    },
+    {
+      "key": "Story!MRQS126_TheForgotten_Group12_Step12_MakeGarden01_StepDescription",
+      "en": "Near the giant Dreamlight Tree.",
+      "cz": "Poblíž obřího Stromu Světla Snů.",
+      "source": "pre_existing",
+      "original_cz": "Poblíž obřího Stromu Světla Snů."
+    },
+    {
+      "key": "Story!MRQS126_TheForgotten_Group12_Step12_MakeGarden02_StepDescription",
+      "en": "Near the Pillar of Nurturing.",
+      "cz": "Poblíž Pilíře péče.",
+      "source": "pre_existing",
+      "original_cz": "Poblíž Pilíře péče."
+    },
+    {
+      "key": "Story!MRQS126_TheForgotten_Group12_Step12_MakeGarden03_StepDescription",
+      "en": "Near the Mine entrance and waterfall.",
+      "cz": "Poblíž vchodu do dolu a vodopádu.",
+      "source": "pre_existing",
+      "original_cz": "Poblíž vchodu do dolu a vodopádu."
+    },
+    {
+      "key": "Story!MRQS126_TheForgotten_Group12_StepDescription",
+      "en": "Uncover the Forgotten's final lost Memory in the Dreamscape by planting and tending to the <ActivityItem>Night Thorn Seeds</ActivityItem>:",
+      "cz": "Odhalte poslední ztracenou vzpomínku Zapomenutých v Krajině snů zasazením a péčí o <ActivityItem>Semena Nočního trnu</ActivityItem>:",
+      "source": "pre_existing",
+      "original_cz": "Odhalte poslední ztracenou vzpomínku Zapomenutých v Krajině snů zasazením a péčí o <ActivityItem>Semena Nočního trnu</ActivityItem>:"
+    },
+    {
+      "key": "Story!MRQS126_TheForgotten_Group13_Step13_Unlock01_StepDescription",
+      "en": "Pick up the Forgotten's final <ActivityItem>Memory</ActivityItem> in the Dreamscape.",
+      "cz": "Seberte poslední <ActivityItem>Vzpomínku</ActivityItem> Zapomenutého v Krajině snů.",
+      "source": "pre_existing",
+      "original_cz": "Seberte poslední <ActivityItem>Vzpomínku</ActivityItem> Zapomenutého v Krajině snů."
+    }
+  ],
+  "DarkMountainsUpdate_Story/MRQS128_TheForgotten.locbin": [
+    {
+      "key": "Story!MRQS128_TheForgotten_Any_CompletedRequestDescription",
+      "en": "Tell the Fairy Godmother what's happened.",
+      "cz": "Řekni víle kmotřičce, co se stalo.",
+      "source": "pre_existing",
+      "original_cz": "Řekni víle kmotřičce, co se stalo."
+    },
+    {
+      "key": "Story!MRQS128_TheForgotten_AvailableDescription",
+      "en": "The Fairy Godmother has tasked you with restoring the Pillar of Remembrance. All that remains is to pick up the Orb...",
+      "cz": "Víla kmotra vám dala za úkol obnovit Pamětní sloup. Zbývá už jen sebrat Kouli...",
+      "source": "pre_existing",
+      "original_cz": "Víla kmotra vám dala za úkol obnovit Pamětní sloup. Zbývá už jen sebrat Kouli..."
+    },
+    {
+      "key": "Story!MRQS128_TheForgotten_CompletedStoryDescription",
+      "en": "The Forgotten steals the Orb of Remembrance from your grasp, intent on using its magic to fuel some sort of spell to tear down the walls of reality in the Village. So, you know, just another day in Dreamlight Valley!",
+      "cz": "Zapomenutý vám ukradne Kouli vzpomínek z ruky s úmyslem použít její magii k podnícení nějakého kouzla, které by ve vesnici zbořilo zdi reality. Takže, víte, jen další den v Údolí Světla Snů!",
+      "source": "pre_existing",
+      "original_cz": "Zapomenutý vám ukradne Kouli vzpomínek z ruky s úmyslem použít její magii k podnícení nějakého kouzla, které by ve vesnici zbořilo zdi reality. Takže, víte, jen další den v Údolí Světla Snů!"
+    },
+    {
+      "key": "Story!MRQS128_TheForgotten_DisplayName",
+      "en": "What's Left Behind",
+      "cz": "Co zbylo pozadu",
+      "source": "pre_existing",
+      "original_cz": "Co zbylo pozadu"
+    },
+    {
+      "key": "Story!MRQS128_TheForgotten_Group02_Step02_Interaction01_StepDescription",
+      "en": "Grab the {ItemName}.",
+      "cz": "Grab the {ItemName}.",
+      "source": "pre_existing",
+      "original_cz": "Grab the {ItemName}."
+    },
+    {
+      "key": "Story!MRQS128_TheForgotten_Group04_Step04_VisitArea01_StepDescription",
+      "en": "Leave the Dreamscape.",
+      "cz": "Leave the Dreamscape.",
+      "source": "pre_existing",
+      "original_cz": "Leave the Dreamscape."
+    },
+    {
+      "key": "Story!MRQS128_TheForgotten_Group05_Step05_TalkToCharacter02_StepDescription",
+      "en": "Talk to the Forgotten.",
+      "cz": "Promluvte si se Zapomenutým.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Zapomenutým."
+    },
+    {
+      "key": "Story!MRQS128_TheForgotten_Group05_StoryDescription",
+      "en": "Before you can restore the Orb of Remembrance, you're confronted by the Forgotten. It's the showdown you've long been waiting for...",
+      "cz": "Než stihnete obnovit Kouli vzpomínek, budete konfrontováni se Zapomenutými. Je to zúčtování, na které jste dlouho čekali...",
+      "source": "pre_existing",
+      "original_cz": "Než stihnete obnovit Kouli vzpomínek, budete konfrontováni se Zapomenutými. Je to zúčtování, na které jste dlouho čekali..."
+    }
+  ],
+  "DarkMountainsUpdate_Story/MRQS130A_LightInTheDark.locbin": [
+    {
+      "key": "Story!MRQS130A_LightInTheDark_AvailableDescription",
+      "en": "You've found an old book of fairy tales in Mickey's House. To harness its magic, you'll need to uncover the whole story by talking to Mickey.",
+      "cz": "V Mickeyho domě jste našli starou knihu pohádek. Abyste využili její kouzlo, budete muset odhalit celý příběh rozhovorem s Mickey.",
+      "source": "pre_existing",
+      "original_cz": "V Mickeyho domě jste našli starou knihu pohádek. Abyste využili její kouzlo, budete muset odhalit celý příběh rozhovorem s Mickey."
+    },
+    {
+      "key": "Story!MRQS130A_LightInTheDark_CompletedStoryDescription",
+      "en": "Mickey's memories return, and he tells you the full story of the mysterious book.",
+      "cz": "Mickeyho vzpomínky se vracejí a on vám vypráví celý příběh záhadné knihy.",
+      "source": "pre_existing",
+      "original_cz": "Mickeyho vzpomínky se vracejí a on vám vypráví celý příběh záhadné knihy."
+    },
+    {
+      "key": "Story!MRQS130A_LightInTheDark_DisplayName",
+      "en": "Forgotten Relics: The Storybook",
+      "cz": "Zapomenuté relikvie: Pohádková kniha",
+      "source": "pre_existing",
+      "original_cz": "Zapomenuté relikvie: Pohádková kniha"
+    },
+    {
+      "key": "Story!MRQS130A_LightInTheDark_Group01_StepDescription",
+      "en": "Ask Mickey Mouse about the <ActivityItem>Forgotten Storybook</ActivityItem> you found.",
+      "cz": "Zeptejte se Mickey Mouse na <ActivityItem>Zapomenutou pohádkovou knihu</ActivityItem>, kterou jste našli.",
+      "source": "pre_existing",
+      "original_cz": "Zeptejte se Mickey Mouse na <ActivityItem>Zapomenutou pohádkovou knihu</ActivityItem>, kterou jste našli."
+    },
+    {
+      "key": "Story!MRQS130A_LightInTheDark_Group02_Step02_Conditional01_StepDescription",
+      "en": "Complete more Quests with Mickey to help him remember.",
+      "cz": "Dokončete s Mickeyem více úkolů, které mu pomohou si vzpomenout.",
+      "source": "pre_existing",
+      "original_cz": "Dokončete s Mickeyem více úkolů, které mu pomohou si vzpomenout."
+    },
+    {
+      "key": "Story!MRQS130A_LightInTheDark_Group02_StepDescription",
+      "en": "Mickey's memories aren't strong enough yet...",
+      "cz": "Mickeyho vzpomínky ještě nejsou dostatečně silné...",
+      "source": "pre_existing",
+      "original_cz": "Mickeyho vzpomínky ještě nejsou dostatečně silné..."
+    },
+    {
+      "key": "Story!MRQS130A_LightInTheDark_Group03_Step03_BringItem02_StepDescription",
+      "en": "Make sure you have the {ItemName} in your Inventory.",
+      "cz": "Ujistěte se, že máte {ItemName} ve svém inventáři.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte {ItemName} ve svém inventáři."
+    },
+    {
+      "key": "Story!MRQS130A_LightInTheDark_Group03_Step03_ReadyDescription",
+      "en": "Ask Mickey Mouse about the <ActivityItem>Forgotten Storybook</ActivityItem>.",
+      "cz": "Zeptejte se Mickey Mouse na <ActivityItem>Zapomenutou pohádkovou knihu</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Zeptejte se Mickey Mouse na <ActivityItem>Zapomenutou pohádkovou knihu</ActivityItem>."
+    }
+  ],
+  "DarkMountainsUpdate_Story/MRQS130B_LightInTheDark.locbin": [
+    {
+      "key": "Story!MRQS130B_LightInTheDark_CompletedStoryDescription",
+      "en": "Elsa reveals the story behind the blanket. You're one step closer to stopping the Forgotten.",
+      "cz": "Elsa odhaluje příběh za dekou. Jste o krok blíž k zastavení Zapomenutých.",
+      "source": "pre_existing",
+      "original_cz": "Elsa odhaluje příběh za dekou. Jste o krok blíž k zastavení Zapomenutých."
+    },
+    {
+      "key": "Story!MRQS130B_LightInTheDark_DisplayName",
+      "en": "Forgotten Relics: The Blanket",
+      "cz": "Zapomenuté relikvie: Deka",
+      "source": "pre_existing",
+      "original_cz": "Zapomenuté relikvie: Deka"
+    },
+    {
+      "key": "Story!MRQS130B_LightInTheDark_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "Talk to Olaf.",
+      "cz": "Promluvte si s Olafem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Olafem."
+    },
+    {
+      "key": "Story!MRQS130B_LightInTheDark_Group02_StepDescription",
+      "en": "Your answers lie in the <Lore>Frozen Realm</Lore>:",
+      "cz": "Vaše odpovědi leží v <Lore>Zmrzlé říši</Lore>:",
+      "source": "pre_existing",
+      "original_cz": "Vaše odpovědi leží v <Lore>Zmrzlé říši</Lore>:"
+    },
+    {
+      "key": "Story!MRQS130B_LightInTheDark_Group03_StoryDescription",
+      "en": "Olaf reveals that the blanket was made by Elsa. You'll need to ask her about the story behind it.",
+      "cz": "Olaf prozradí, že deku vyrobila Elsa. Budete se jí muset zeptat na příběh, který se za ní skrývá.",
+      "source": "pre_existing",
+      "original_cz": "Olaf prozradí, že deku vyrobila Elsa. Budete se jí muset zeptat na příběh, který se za ní skrývá."
+    },
+    {
+      "key": "Story!MRQS130B_LightInTheDark_Group04_StepDescription",
+      "en": "Elsa's memories aren't strong enough yet...",
+      "cz": "Elsiny vzpomínky ještě nejsou dostatečně silné...",
+      "source": "pre_existing",
+      "original_cz": "Elsiny vzpomínky ještě nejsou dostatečně silné..."
+    }
+  ],
+  "DarkMountainsUpdate_Story/MRQS130C_LightInTheDark.locbin": [
+    {
+      "key": "Story!MRQS130C_LightInTheDark_AvailableDescription",
+      "en": "You've found a funny drawing in Scar's Cave. Perhaps Scar knows the story behind it.",
+      "cz": "V Scarově jeskyni jste našli vtipnou kresbu. Možná Scar zná příběh, který se za ní skrývá.",
+      "source": "pre_existing",
+      "original_cz": "V Scarově jeskyni jste našli vtipnou kresbu. Možná Scar zná příběh, který se za ní skrývá."
+    },
+    {
+      "key": "Story!MRQS130C_LightInTheDark_CompletedStoryDescription",
+      "en": "Scar tells you the truth about when you drew the drawing for him. You're one step closer to stopping the Forgotten.",
+      "cz": "Scar vám řekne pravdu o tom, kdy jste pro něj nakreslili kresbu. Jste o krok blíž k zastavení Zapomenutých.",
+      "source": "pre_existing",
+      "original_cz": "Scar vám řekne pravdu o tom, kdy jste pro něj nakreslili kresbu. Jste o krok blíž k zastavení Zapomenutých."
+    },
+    {
+      "key": "Story!MRQS130C_LightInTheDark_DisplayName",
+      "en": "Forgotten Relics: The Drawing",
+      "cz": "Zapomenuté relikvie: Kresba",
+      "source": "pre_existing",
+      "original_cz": "Zapomenuté relikvie: Kresba"
+    },
+    {
+      "key": "Story!MRQS130C_LightInTheDark_Group01_StepDescription",
+      "en": "Ask Scar about the <ActivityItem>Forgotten Drawing</ActivityItem>.",
+      "cz": "Zeptejte se Scara na <ActivityItem>Zapomenutou kresbu</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Zeptejte se Scara na <ActivityItem>Zapomenutou kresbu</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS130C_LightInTheDark_Group02_Step02_Conditional01_StepDescription",
+      "en": "Complete more Quests with Scar to make him trust you.",
+      "cz": "Splňte se Scarem více úkolů, abyste si získali jeho důvěru.",
+      "source": "pre_existing",
+      "original_cz": "Splňte se Scarem více úkolů, abyste si získali jeho důvěru."
+    },
+    {
+      "key": "Story!MRQS130C_LightInTheDark_Group02_StepDescription",
+      "en": "Scar claims he doesn't remember the drawing.",
+      "cz": "Scar tvrdí, že si kresbu nepamatuje.",
+      "source": "pre_existing",
+      "original_cz": "Scar tvrdí, že si kresbu nepamatuje."
+    },
+    {
+      "key": "Story!MRQS130C_LightInTheDark_Group03_Step03_BringItem02_StepDescription",
+      "en": "Make sure you have the <ActivityItem>Forgotten Drawing</ActivityItem> in your Inventory.",
+      "cz": "Ujistěte se, že máte v inventáři <ActivityItem>Zapomenutou kresbu</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte v inventáři <ActivityItem>Zapomenutou kresbu</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS130C_LightInTheDark_Group03_Step03_ReadyDescription",
+      "en": "Ask Scar about the <ActivityItem>Forgotten Drawing</ActivityItem>.",
+      "cz": "Zeptejte se Scara na <ActivityItem>Zapomenutou kresbu</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Zeptejte se Scara na <ActivityItem>Zapomenutou kresbu</ActivityItem>."
+    }
+  ],
+  "DarkMountainsUpdate_Story/MRQS130D_LightInTheDark.locbin": [
+    {
+      "key": "Story!MRQS130D_LightInTheDark_AvailableDescription",
+      "en": "You found some Forgotten Beach Toys in the very same cave where you freed Ursula so long ago. Perhaps she knows the story behind them...",
+      "cz": "V té samé jeskyni, kde jsi před dávnými časy osvobodil Ursulu, jsi našel nějaké Zapomenuté plážové hračky. Možná zná příběh, který se za nimi skrývá...",
+      "source": "pre_existing",
+      "original_cz": "V té samé jeskyni, kde jsi před dávnými časy osvobodil Ursulu, jsi našel nějaké Zapomenuté plážové hračky. Možná zná příběh, který se za nimi skrývá..."
+    },
+    {
+      "key": "Story!MRQS130D_LightInTheDark_CompletedStoryDescription",
+      "en": "Now that you know the story behind the Beach Toys, you're one step closer to saving Dreamlight Valley.",
+      "cz": "Nyní, když znáte příběh o Plážových hračkách, jste o krok blíž k záchraně Údolí snů.",
+      "source": "pre_existing",
+      "original_cz": "Nyní, když znáte příběh o Plážových hračkách, jste o krok blíž k záchraně Údolí snů."
+    },
+    {
+      "key": "Story!MRQS130D_LightInTheDark_DisplayName",
+      "en": "Forgotten Relics: Beach Toys",
+      "cz": "Zapomenuté relikvie: Plážové hračky",
+      "source": "pre_existing",
+      "original_cz": "Zapomenuté relikvie: Plážové hračky"
+    },
+    {
+      "key": "Story!MRQS130D_LightInTheDark_Group01_Step01_Conditional01_StepDescription",
+      "en": "Bring Moana to the Valley.",
+      "cz": "Přiveďte Vaianu do Údolí.",
+      "source": "pre_existing",
+      "original_cz": "Přiveďte Vaianu do Údolí."
+    },
+    {
+      "key": "Story!MRQS130D_LightInTheDark_Group01_StepDescription",
+      "en": "Your answers lie in the <Lore>Moana Realm</Lore>:",
+      "cz": "Vaše odpovědi leží v <Lore>Vaianské říši</Lore>:",
+      "source": "pre_existing",
+      "original_cz": "Vaše odpovědi leží v <Lore>Vaianské říši</Lore>:"
+    },
+    {
+      "key": "Story!MRQS130D_LightInTheDark_Group02_Step02_BringItem01_StepDescription",
+      "en": "Make sure you have the <ActivityItem>Forgotten Beach Toys</ActivityItem> in your Inventory.",
+      "cz": "Ujistěte se, že máte v inventáři <ActivityItem>Zapomenuté plážové hračky</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte v inventáři <ActivityItem>Zapomenuté plážové hračky</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS130D_LightInTheDark_Group02_Step02_ReadyDescription",
+      "en": "Ask Moana about the <ActivityItem>Forgotten Beach Toys</ActivityItem>.",
+      "cz": "Zeptejte se Moany na <ActivityItem>Zapomenuté plážové hračky</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Zeptejte se Moany na <ActivityItem>Zapomenuté plážové hračky</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS130D_LightInTheDark_Group02_StoryDescription",
+      "en": "Ursula reveals that she remembers one thing about those old toys... You and Moana used to play with them when you were a child.",
+      "cz": "Ursula prozrazuje, že si pamatuje jednu věc o těch starých hračkách... Ty a Moana jste si s nimi hrály, když jste byly děti.",
+      "source": "pre_existing",
+      "original_cz": "Ursula prozrazuje, že si pamatuje jednu věc o těch starých hračkách... Ty a Moana jste si s nimi hrály, když jste byly děti."
+    },
+    {
+      "key": "Story!MRQS130D_LightInTheDark_Group03_Step03_Conditional02_StepDescription",
+      "en": "Complete more Quests with Moana to help her remember.",
+      "cz": "Dokončete s Moanou více úkolů, které jí pomohou si vzpomenout.",
+      "source": "pre_existing",
+      "original_cz": "Dokončete s Moanou více úkolů, které jí pomohou si vzpomenout."
+    },
+    {
+      "key": "Story!MRQS130D_LightInTheDark_Group03_StepDescription",
+      "en": "Moana's memories aren't strong enough yet...",
+      "cz": "Vaaniny vzpomínky ještě nejsou dostatečně silné...",
+      "source": "pre_existing",
+      "original_cz": "Vaaniny vzpomínky ještě nejsou dostatečně silné..."
+    },
+    {
+      "key": "Story!MRQS130D_LightInTheDark_Group04_Step04_BringItem02_StepDescription",
+      "en": "Make sure you have the <ActivityItem>Forgotten Beach Toys</ActivityItem> in your Inventory.",
+      "cz": "Ujistěte se, že máte v inventáři <ActivityItem>Zapomenuté plážové hračky</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte v inventáři <ActivityItem>Zapomenuté plážové hračky</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS130D_LightInTheDark_Group04_Step04_ReadyDescription",
+      "en": "Ask Moana about the <ActivityItem>Forgotten Beach Toys</ActivityItem>.",
+      "cz": "Zeptejte se Vaany na <ActivityItem>Zapomenuté plážové hračky</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Zeptejte se Vaany na <ActivityItem>Zapomenuté plážové hračky</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS130D_LightInTheDark_Group05_Step05_TalkToCharacter01_StepDescription",
+      "en": "Talk to Ursula.",
+      "cz": "Promluvte si s Ursulou.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Ursulou."
+    }
+  ],
+  "DarkMountainsUpdate_Story/MRQS130_LightInTheDark.locbin": [
+    {
+      "key": "Story!MRQS130_LightInTheDark_AvailableDescription",
+      "en": "Dreamlight Valley seems to be falling apart at the seams. You need to find some way to reach the Forgotten and stop this. Perhaps Merlin has some ideas.",
+      "cz": "Údolí snů se zdá být rozpadající se ve švech. Musíte najít nějaký způsob, jak se dostat k Zapomenutým a zastavit to. Možná má Merlin nějaké nápady.",
+      "source": "pre_existing",
+      "original_cz": "Údolí snů se zdá být rozpadající se ve švech. Musíte najít nějaký způsob, jak se dostat k Zapomenutým a zastavit to. Možná má Merlin nějaké nápady."
+    },
+    {
+      "key": "Story!MRQS130_LightInTheDark_DisplayName",
+      "en": "The Forgotten Relics",
+      "cz": "Zapomenuté relikvie",
+      "source": "pre_existing",
+      "original_cz": "Zapomenuté relikvie"
+    },
+    {
+      "key": "Story!MRQS130_LightInTheDark_Group01_Step01_FollowCharacter01_StepDescription",
+      "en": "Follow Merlin to Mickey's House.",
+      "cz": "Následujte Merlina do Mickeyho domu.",
+      "source": "pre_existing",
+      "original_cz": "Následujte Merlina do Mickeyho domu."
+    },
+    {
+      "key": "Story!MRQS130_LightInTheDark_Group01_Step01_FollowCharacter01_TalkToDescription",
+      "en": "Talk to Merlin.",
+      "cz": "Promluvte si s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Merlinem."
+    },
+    {
+      "key": "Story!MRQS130_LightInTheDark_Group02_Step02_StepDescription",
+      "en": "Merlin must be done his investigations by now...",
+      "cz": "Merlin už musí mít svá vyšetřování hotová...",
+      "source": "pre_existing",
+      "original_cz": "Merlin už musí mít svá vyšetřování hotová..."
+    },
+    {
+      "key": "Story!MRQS130_LightInTheDark_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Talk to Merlin.",
+      "cz": "Promluvte si s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Merlinem."
+    },
+    {
+      "key": "Story!MRQS130_LightInTheDark_Group03_Step03_VisitArea01_StepDescription",
+      "en": "Enter Mickey's House.",
+      "cz": "Vstupte do Mickeyho domu.",
+      "source": "pre_existing",
+      "original_cz": "Vstupte do Mickeyho domu."
+    },
+    {
+      "key": "Story!MRQS130_LightInTheDark_Group04_Step04_Possess01_StepDescription",
+      "en": "Search Mickey's House to find something imbued with the Forgotten's Dark Magic.",
+      "cz": "Prohledejte Mickeyho dům a najděte něco prodchnutého temnou magií Zapomenutých.",
+      "source": "pre_existing",
+      "original_cz": "Prohledejte Mickeyho dům a najděte něco prodchnutého temnou magií Zapomenutých."
+    },
+    {
+      "key": "Story!MRQS130_LightInTheDark_Group05_StepDescription",
+      "en": "Bring the <ActivityItem>Forgotten Storybook</ActivityItem> to Merlin.",
+      "cz": "Přineste Merlinovi <ActivityItem>Zapomenutou pohádkovou knihu</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Přineste Merlinovi <ActivityItem>Zapomenutou pohádkovou knihu</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS130_LightInTheDark_Group06_Step06_StepDescription",
+      "en": "Search for <ActivityItem>Forgotten Relics</ActivityItem> around the Village and uncover the stories behind them.",
+      "cz": "Vyhledejte ve vesnici <ActivityItem>Zapomenuté relikvie</ActivityItem> a odhalte příběhy, které se za nimi skrývají.",
+      "source": "pre_existing",
+      "original_cz": "Vyhledejte ve vesnici <ActivityItem>Zapomenuté relikvie</ActivityItem> a odhalte příběhy, které se za nimi skrývají."
+    }
+  ],
+  "DarkMountainsUpdate_Story/MRQS132_LightInTheDark.locbin": [
+    {
+      "key": "Story!MRQS132_LightInTheDark_AvailableDescription",
+      "en": "You've uncovered a blanket imbued with Dark Magic inside the secret chamber. Olaf spent a long time locked in there — perhaps he knows the story behind it.",
+      "cz": "V tajné komnatě jste objevili deku naplněnou temnou magií. Olaf tam strávil dlouhou dobu zavřený – možná zná příběh, který se za ní skrývá.",
+      "source": "pre_existing",
+      "original_cz": "V tajné komnatě jste objevili deku naplněnou temnou magií. Olaf tam strávil dlouhou dobu zavřený – možná zná příběh, který se za ní skrývá."
+    },
+    {
+      "key": "Story!MRQS132_LightInTheDark_Group02_Step02_Conditional01_StepDescription",
+      "en": "Bring Elsa to the Valley.",
+      "cz": "Přiveďte Elsu do údolí.",
+      "source": "pre_existing",
+      "original_cz": "Přiveďte Elsu do údolí."
+    },
+    {
+      "key": "Story!MRQS132_LightInTheDark_Group03_StepDescription",
+      "en": "Ask Elsa about the <ActivityItem>Forgotten Blanket</ActivityItem>.",
+      "cz": "Zeptejte se Elsy na <ActivityItem>Zapomenutou deku</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Zeptejte se Elsy na <ActivityItem>Zapomenutou deku</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS132_LightInTheDark_Group04_Step04_Conditional02_StepDescription",
+      "en": "Complete more Quests with Elsa to help her remember.",
+      "cz": "Dokončete s Elsou více úkolů, které jí pomohou si vzpomenout.",
+      "source": "pre_existing",
+      "original_cz": "Dokončete s Elsou více úkolů, které jí pomohou si vzpomenout."
+    },
+    {
+      "key": "Story!MRQS132_LightInTheDark_Group05_Step05_BringItem02_StepDescription",
+      "en": "Make sure you have the <ActivityItem>Forgotten Blanket</ActivityItem> in your Inventory.",
+      "cz": "Ujistěte se, že máte v inventáři <ActivityItem>Zapomenutou deku</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte v inventáři <ActivityItem>Zapomenutou deku</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS132_LightInTheDark_Group05_Step05_ReadyDescription",
+      "en": "Ask Elsa about the <ActivityItem>Forgotten Blanket</ActivityItem>.",
+      "cz": "Zeptejte se Elsy na <ActivityItem>Zapomenutou deku</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Zeptejte se Elsy na <ActivityItem>Zapomenutou deku</ActivityItem>."
+    }
+  ],
+  "DarkMountainsUpdate_Story/MRQS133_TheDarkCastle.locbin": [
+    {
+      "key": "Story!MRQS133_TheDarkCastle_AvailableDescription",
+      "en": "You've gathered up enough Forgotten Relics to cast the spell. It's time to speak to Merlin.",
+      "cz": "Nasbíral jsi dostatek Zapomenutých relikvií k seslání kouzla. Je čas promluvit si s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Nasbíral jsi dostatek Zapomenutých relikvií k seslání kouzla. Je čas promluvit si s Merlinem."
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_DisplayName",
+      "en": "The Dark Castle",
+      "cz": "The Dark Castle",
+      "source": "pre_existing",
+      "original_cz": "The Dark Castle"
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group01_Step01_BringItem01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group01_Step01_BringItem02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group01_Step01_BringItem03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group01_Step01_BringItem04_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group01_Step01_ReadyDescription",
+      "en": "Bring the <ActivityItem>Forgotten Relics</ActivityItem> to Merlin.",
+      "cz": "Přineste Merlinovi <ActivityItem>Zapomenuté relikvie</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Přineste Merlinovi <ActivityItem>Zapomenuté relikvie</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group02_Step02_FollowCharacter01_StepDescription",
+      "en": "Follow Merlin to the Plaza.",
+      "cz": "Následujte Merlina na náměstí.",
+      "source": "pre_existing",
+      "original_cz": "Následujte Merlina na náměstí."
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group02_Step02_FollowCharacter01_TalkToDescription",
+      "en": "Talk to Merlin.",
+      "cz": "Promluvte si s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Merlinem."
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group03_Step09_VisitArea10_StepDescription",
+      "en": "Make your way to the next door.",
+      "cz": "Projděte si cestu k dalším dveřím.",
+      "source": "pre_existing",
+      "original_cz": "Projděte si cestu k dalším dveřím."
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group03_StoryDescription",
+      "en": "You puzzle your way past more doors, doing your best with the ingredients at hand and using a \"mechanical eye.\"",
+      "cz": "Proplétáte se kolem dalších dveří, snažíte se co nejlépe využít ingredience, které máte po ruce, a používáte „mechanické oko“.",
+      "source": "pre_existing",
+      "original_cz": "Proplétáte se kolem dalších dveří, snažíte se co nejlépe využít ingredience, které máte po ruce, a používáte „mechanické oko“."
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group06_Step06_VisitArea01_StepDescription",
+      "en": "Pass through the portal to the Dark Castle.",
+      "cz": "Projděte portálem do Temného hradu.",
+      "source": "pre_existing",
+      "original_cz": "Projděte portálem do Temného hradu."
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group07_Step07_VisitArea02_StepDescription",
+      "en": "Enter the Dark Castle.",
+      "cz": "Enter the Dark Castle.",
+      "source": "pre_existing",
+      "original_cz": "Enter the Dark Castle."
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group08_Step08_TalkToCharacter03_StepDescription",
+      "en": "Investigate it.",
+      "cz": "Investigate it.",
+      "source": "pre_existing",
+      "original_cz": "Investigate it."
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group08_StepDescription",
+      "en": "Something is weird about this door...",
+      "cz": "Něco je s těmito dveřmi divné...",
+      "source": "pre_existing",
+      "original_cz": "Něco je s těmito dveřmi divné..."
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group10_Step10_StepDescription",
+      "en": "Find something around here to trick the door into letting you in.",
+      "cz": "Najděte si tady něco, co by oklamalo dveře a přimělo vás pustit dovnitř.",
+      "source": "pre_existing",
+      "original_cz": "Najděte si tady něco, co by oklamalo dveře a přimělo vás pustit dovnitř."
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group10_StoryDescription",
+      "en": "Within the castle, you meet a very sleepy door that refuses to let you pass unless you look more like the Forgotten.",
+      "cz": "Uvnitř hradu narazíte na velmi ospalé dveře, které vás odmítají pustit dál, pokud nevypadáte spíše jako Zapomenutí.",
+      "source": "pre_existing",
+      "original_cz": "Uvnitř hradu narazíte na velmi ospalé dveře, které vás odmítají pustit dál, pokud nevypadáte spíše jako Zapomenutí."
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group11_Step11_TalkToCharacter04_StepDescription",
+      "en": "Talk to the door.",
+      "cz": "Promluvte si se dveřmi.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se dveřmi."
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group12_Step12_VisitArea03_StepDescription",
+      "en": "Go through the door.",
+      "cz": "Projděte dveřmi.",
+      "source": "pre_existing",
+      "original_cz": "Projděte dveřmi."
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group12_StoryDescription",
+      "en": "You find a disguise that does the trick and continue on your journey.",
+      "cz": "Najdete převlek, který zabere, a pokračujete ve své cestě.",
+      "source": "pre_existing",
+      "original_cz": "Najdete převlek, který zabere, a pokračujete ve své cestě."
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group13_Step13_VisitArea04_StepDescription",
+      "en": "Explore deeper into the Dark Castle.",
+      "cz": "Explore deeper into the Dark Castle.",
+      "source": "pre_existing",
+      "original_cz": "Explore deeper into the Dark Castle."
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group19_Step19_FillKeyhole02_StepDescription",
+      "en": "Figure out how to get past the second door in the Dark Castle.",
+      "cz": "Přijďte na to, jak se dostat za druhé dveře v Temném hradě.",
+      "source": "pre_existing",
+      "original_cz": "Přijďte na to, jak se dostat za druhé dveře v Temném hradě."
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group20_Step20_VisitArea05_StepDescription",
+      "en": "Pass through the second door in the Dark Castle.",
+      "cz": "Projděte druhými dveřmi v Temném hradě.",
+      "source": "pre_existing",
+      "original_cz": "Projděte druhými dveřmi v Temném hradě."
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group21_Step21_VisitArea06_StepDescription",
+      "en": "Explore deeper into the Dark Castle.",
+      "cz": "Explore deeper into the Dark Castle.",
+      "source": "pre_existing",
+      "original_cz": "Explore deeper into the Dark Castle."
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group22_Step22_TakePicture01_StepDescription",
+      "en": "Search for a clue.",
+      "cz": "Hledejte nápovědu.",
+      "source": "pre_existing",
+      "original_cz": "Hledejte nápovědu."
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group22_StepDescription",
+      "en": "This door seems to be missing...",
+      "cz": "Zdá se, že tyto dveře chybí...",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že tyto dveře chybí..."
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group23_Step23_VisitArea07_StepDescription",
+      "en": "Pass through the third door in the Dark Castle.",
+      "cz": "Projděte třetími dveřmi v Temném hradě.",
+      "source": "pre_existing",
+      "original_cz": "Projděte třetími dveřmi v Temném hradě."
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group24_Step03_VisitArea09_StepDescription",
+      "en": "Pass through the first door to explore deeper into the Dark Castle.",
+      "cz": "Projděte prvními dveřmi a prozkoumejte hlouběji Temný hrad.",
+      "source": "pre_existing",
+      "original_cz": "Projděte prvními dveřmi a prozkoumejte hlouběji Temný hrad."
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group26_Step26_StepDescription",
+      "en": "Find a way to get the key.",
+      "cz": "Najděte způsob, jak získat klíč.",
+      "source": "pre_existing",
+      "original_cz": "Najděte způsob, jak získat klíč."
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group26_StepDescription",
+      "en": "The door is locked...",
+      "cz": "Dveře jsou zamčené...",
+      "source": "pre_existing",
+      "original_cz": "Dveře jsou zamčené..."
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group28_Step28_Possess05_StepDescription",
+      "en": "Get the key.",
+      "cz": "Get the key.",
+      "source": "pre_existing",
+      "original_cz": "Get the key."
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group28_StepDescription",
+      "en": "You melted the ice!",
+      "cz": "Rozpustil jsi ledy!",
+      "source": "pre_existing",
+      "original_cz": "Rozpustil jsi ledy!"
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group29_Step29_FillKeyhole04_StepDescription",
+      "en": "Unlock the door using the key.",
+      "cz": "Odemkněte dveře klíčem.",
+      "source": "pre_existing",
+      "original_cz": "Odemkněte dveře klíčem."
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group30_Step30_VisitArea08_StepDescription",
+      "en": "Pass through the final door in the Dark Castle and face the Forgotten.",
+      "cz": "Projděte posledními dveřmi v Temném hradě a postavte se Zapomenutým.",
+      "source": "pre_existing",
+      "original_cz": "Projděte posledními dveřmi v Temném hradě a postavte se Zapomenutým."
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group31_Step31_TalkToCharacter05_StepDescription",
+      "en": "Confront the Forgotten.",
+      "cz": "Postav se zapomenutému.",
+      "source": "pre_existing",
+      "original_cz": "Postav se zapomenutému."
+    },
+    {
+      "key": "Story!MRQS133_TheDarkCastle_Group31_StoryDescription",
+      "en": "At last, you find yourself face to face with the Forgotten. You must choose your words carefully — the fate of the universe is at stake, after all.",
+      "cz": "Konečně se ocitnete tváří v tvář Zapomenutým. Musíte pečlivě volit slova – koneckonců je v sázce osud vesmíru.",
+      "source": "pre_existing",
+      "original_cz": "Konečně se ocitnete tváří v tvář Zapomenutým. Musíte pečlivě volit slova – koneckonců je v sázce osud vesmíru."
+    }
+  ],
+  "DarkMountainsUpdate_Story/MRQS137_ReachTheLight.locbin": [
+    {
+      "key": "Story!MRQS137_ReachTheLight_AvailableDescription",
+      "en": "After a spell goes awry in your confrontation with the Forgotten, you find yourself in a strange, dark place. Something about it seems familiar...",
+      "cz": "Poté, co se vám při konfrontaci se Zapomenutými jedno kouzlo zvrtne, ocitnete se na podivném, temném místě. Něco se vám na něm zdá povědomé...",
+      "source": "pre_existing",
+      "original_cz": "Poté, co se vám při konfrontaci se Zapomenutými jedno kouzlo zvrtne, ocitnete se na podivném, temném místě. Něco se vám na něm zdá povědomé..."
+    },
+    {
+      "key": "Story!MRQS137_ReachTheLight_DisplayName",
+      "en": "The Remembered",
+      "cz": "Vzpomínka",
+      "source": "pre_existing",
+      "original_cz": "Vzpomínka"
+    },
+    {
+      "key": "Story!MRQS137_ReachTheLight_Group02_Step02_VisitArea02_StepDescription",
+      "en": "Walk towards the light.",
+      "cz": "Jděte směrem ke světlu.",
+      "source": "pre_existing",
+      "original_cz": "Jděte směrem ke světlu."
+    },
+    {
+      "key": "Story!MRQS137_ReachTheLight_Group03_Step03_TalkToCharacter01_StepDescription",
+      "en": "Talk to the Forgotten near the sandbox.",
+      "cz": "Promluvte si se Zapomenutým poblíž pískoviště.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Zapomenutým poblíž pískoviště."
+    },
+    {
+      "key": "Story!MRQS137_ReachTheLight_Group04_Step04_Interaction01_StepDescription",
+      "en": "Focus your magic on the sandbox.",
+      "cz": "Soustřeďte svá kouzla na pískoviště.",
+      "source": "pre_existing",
+      "original_cz": "Soustřeďte svá kouzla na pískoviště."
+    },
+    {
+      "key": "Story!MRQS137_ReachTheLight_Group05_Step05_TalkToCharacter03_StepDescription",
+      "en": "Talk to the Forgotten.",
+      "cz": "Promluvte si se Zapomenutým.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Zapomenutým."
+    },
+    {
+      "key": "Story!MRQS137_ReachTheLight_Group06_Step06_Interaction02_StepDescription",
+      "en": "Focus your magic on the bed.",
+      "cz": "Soustřeďte svou magii na postel.",
+      "source": "pre_existing",
+      "original_cz": "Soustřeďte svou magii na postel."
+    },
+    {
+      "key": "Story!MRQS137_ReachTheLight_Group07_Step07_VisitArea06_StepDescription",
+      "en": "Meet the Forgotten at the next light.",
+      "cz": "Setkejte se se Zapomenutými na dalším semaforu.",
+      "source": "pre_existing",
+      "original_cz": "Setkejte se se Zapomenutými na dalším semaforu."
+    },
+    {
+      "key": "Story!MRQS137_ReachTheLight_Group08_Step08_Interaction03_StepDescription",
+      "en": "Focus your magic on the desk.",
+      "cz": "Soustřeďte svou magii na stůl.",
+      "source": "pre_existing",
+      "original_cz": "Soustřeďte svou magii na stůl."
+    },
+    {
+      "key": "Story!MRQS137_ReachTheLight_Group09_Step09_VisitArea07_StepDescription",
+      "en": "Meet the Forgotten at the next light.",
+      "cz": "Setkejte se se Zapomenutými na dalším semaforu.",
+      "source": "pre_existing",
+      "original_cz": "Setkejte se se Zapomenutými na dalším semaforu."
+    },
+    {
+      "key": "Story!MRQS137_ReachTheLight_Group10_Step10_Interaction04_StepDescription",
+      "en": "Focus your magic on the bookshelf.",
+      "cz": "Soustřeďte svá kouzla na knihovnu.",
+      "source": "pre_existing",
+      "original_cz": "Soustřeďte svá kouzla na knihovnu."
+    },
+    {
+      "key": "Story!MRQS137_ReachTheLight_Group10_StoryDescription",
+      "en": "You discover a place filled with all of the memories you share with the Forgotten. You just know that something in this place can pull the Forgotten back from the brink.",
+      "cz": "Objevíte místo naplněné všemi vzpomínkami, které sdílíte se Zapomenutými. Prostě víte, že něco na tomto místě dokáže Zapomenuté stáhnout z propasti.",
+      "source": "pre_existing",
+      "original_cz": "Objevíte místo naplněné všemi vzpomínkami, které sdílíte se Zapomenutými. Prostě víte, že něco na tomto místě dokáže Zapomenuté stáhnout z propasti."
+    },
+    {
+      "key": "Story!MRQS137_ReachTheLight_Group11_Step11_TalkToCharacter02_StepDescription",
+      "en": "Talk to the Forgotten.",
+      "cz": "Promluvte si se Zapomenutým.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Zapomenutým."
+    },
+    {
+      "key": "Story!MRQS137_ReachTheLight_Group14_Step14_VisitArea05_StepDescription",
+      "en": "Meet the Forgotten at the next light.",
+      "cz": "Setkejte se se Zapomenutými na dalším semaforu.",
+      "source": "pre_existing",
+      "original_cz": "Setkejte se se Zapomenutými na dalším semaforu."
+    },
+    {
+      "key": "Story!MRQS137_ReachTheLight_Group15_Step15_TalkToCharacter04_StepDescription",
+      "en": "Talk to the Forgotten.",
+      "cz": "Promluvte si se Zapomenutým.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Zapomenutým."
+    },
+    {
+      "key": "Story!MRQS137_ReachTheLight_Group16_Step16_TalkToCharacter05_StepDescription",
+      "en": "Talk to the Forgotten.",
+      "cz": "Promluvte si se Zapomenutým.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Zapomenutým."
+    },
+    {
+      "key": "Story!MRQS137_ReachTheLight_Group17_Step17_TalkToCharacter06_StepDescription",
+      "en": "Talk to the Forgotten about what happened.",
+      "cz": "Promluvte si se Zapomenutým o tom, co se stalo.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Zapomenutým o tom, co se stalo."
+    },
+    {
+      "key": "Story!MRQS137_ReachTheLight_Group18_Step18_TalkToCharacter07_StepDescription",
+      "en": "Talk to the Forgotten about what you've uncovered.",
+      "cz": "Promluvte si se Zapomenutým o tom, co jste odhalili.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Zapomenutým o tom, co jste odhalili."
+    },
+    {
+      "key": "Story!MRQS137_ReachTheLight_Group19_Step19_TalkToCharacter08_StepDescription",
+      "en": "Talk to the Forgotten about what you uncovered.",
+      "cz": "Promluvte si se Zapomenutým o tom, co jste odhalili.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Zapomenutým o tom, co jste odhalili."
+    }
+  ],
+  "DarkMountainsUpdate_Story/MRQS139_PostCredit.locbin": [
+    {
+      "key": "Story!MRQS139_PostCredit_Any_CompletedRequestDescription",
+      "en": "Talk to Merlin.",
+      "cz": "Promluvte si s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Merlinem."
+    },
+    {
+      "key": "Story!MRQS139_PostCredit_AvailableDescription",
+      "en": "You stopped the Forgotten from accidentally destroying the universe. Now you need to see how they're handling it all.",
+      "cz": "Zabránil jsi Zapomenutým v nechtěném zničení vesmíru. Teď musíš zjistit, jak se s tím vším vypořádají.",
+      "source": "pre_existing",
+      "original_cz": "Zabránil jsi Zapomenutým v nechtěném zničení vesmíru. Teď musíš zjistit, jak se s tím vším vypořádají."
+    },
+    {
+      "key": "Story!MRQS139_PostCredit_CompletedStoryDescription",
+      "en": "The Pillar of Remembrance is restored, and you reminded the Forgotten of the things that must always be remembered. You'll need to speak to Merlin to see what happens next, but you get the feeling that this is not an ending, but a beginning.",
+      "cz": "Siluř vzpomínek byl obnoven a vy jste Zapomenutým připomněli věci, které je třeba vždy pamatovat. Budete si muset promluvit s Merlinem, abyste zjistili, co se stane dál, ale máte pocit, že tohle není konec, ale začátek.",
+      "source": "pre_existing",
+      "original_cz": "Siluř vzpomínek byl obnoven a vy jste Zapomenutým připomněli věci, které je třeba vždy pamatovat. Budete si muset promluvit s Merlinem, abyste zjistili, co se stane dál, ale máte pocit, že tohle není konec, ale začátek."
+    },
+    {
+      "key": "Story!MRQS139_PostCredit_DisplayName",
+      "en": "Odds & Ends...",
+      "cz": "Odds & Ends...",
+      "source": "pre_existing",
+      "original_cz": "Odds & Ends..."
+    },
+    {
+      "key": "Story!MRQS139_PostCredit_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "Check in to see how the Forgotten is feeling.",
+      "cz": "Zkontrolujte, jak se cítí Zapomenutý.",
+      "source": "pre_existing",
+      "original_cz": "Zkontrolujte, jak se cítí Zapomenutý."
+    },
+    {
+      "key": "Story!MRQS139_PostCredit_Group02_Step02_FillKeyhole01_StepDescription",
+      "en": "Return the <ActivityItem>Orb of Remembrance</ActivityItem> to the Pillar in the Forgotten Lands.",
+      "cz": "Vraťte <ActivityItem>Kouli Vzpomínky</ActivityItem> do Pilíře v Zapomenutých zemích.",
+      "source": "pre_existing",
+      "original_cz": "Vraťte <ActivityItem>Kouli Vzpomínky</ActivityItem> do Pilíře v Zapomenutých zemích."
+    }
+  ]
+}

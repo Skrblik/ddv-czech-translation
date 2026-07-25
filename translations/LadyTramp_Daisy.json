@@ -1,0 +1,549 @@
+{
+  "LadyTramp_Daisy/Daisy_VLG_Lady_020_VLG_Lady_020_BringItem01.locbin": [
+    {
+      "key": "Daisy_002_f",
+      "en": "There you go, Daisy and Minnie: one grooming station and bottle of shampoo!",
+      "cz": "Tak tady to máte, Daisy a Minnie: jedna stanice pro péči o srst a lahvička šamponu!",
+      "source": "pre_existing",
+      "original_cz": "Tak tady to máte, Daisy a Minnie: jedna stanice pro péči o srst a lahvička šamponu!"
+    },
+    {
+      "key": "Daisy_003_f",
+      "en": "Oh, goody, goody! Thanks, {PlayerName}.",
+      "cz": "Jé, paráda, paráda! Díky, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Jé, paráda, paráda! Díky, {PlayerName}."
+    },
+    {
+      "key": "Daisy_004_f",
+      "en": "Hmm... You know, I think we still may be missing a few things to give Lady the <i>very best</i> grooming session.",
+      "cz": "Hmm... Víš, myslím, že nám ještě pár věcí chybí, abychom Lady poskytli tu <i>to nejlepší</i> péči o srst.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Víš, myslím, že nám ještě pár věcí chybí, abychom Lady poskytli tu <i>to nejlepší</i> péči o srst."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Hmm, what do you think Lady — do you deserve the best?",
+      "cz": "Hmm, co si myslíš, paní – zasloužíš si to nejlepší?",
+      "source": "pre_existing",
+      "original_cz": "Hmm, co si myslíš, paní – zasloužíš si to nejlepší?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "She's such a good dog — she does deserve it!",
+      "cz": "Je to tak hodný pes – zaslouží si to!",
+      "source": "pre_existing",
+      "original_cz": "Je to tak hodný pes – zaslouží si to!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "You sure you want to go that hard on your first groom?",
+      "cz": "Jsi si jistá, že chceš na svého prvního ženicha takhle tvrdě zajít?",
+      "source": "pre_existing",
+      "original_cz": "Jsi si jistá, že chceš na svého prvního ženicha takhle tvrdě zajít?"
+    },
+    {
+      "key": "Daisy_005_f",
+      "en": "Well, I'd like to think so.",
+      "cz": "No, rád bych si to myslel.",
+      "source": "pre_existing",
+      "original_cz": "No, rád bych si to myslel."
+    },
+    {
+      "key": "Daisy_016_f",
+      "en": "All right, have fun, you three!",
+      "cz": "Tak jo, bavte se, vy tři!",
+      "source": "pre_existing",
+      "original_cz": "Tak jo, bavte se, vy tři!"
+    },
+    {
+      "key": "Daisy_017_f",
+      "en": "Goodbye! I'm sure I'll have a marvelous time with my new friends!",
+      "cz": "Nashledanou! Jsem si jistý/á, že si s novými přáteli užiju skvělý čas!",
+      "source": "pre_existing",
+      "original_cz": "Nashledanou! Jsem si jistý/á, že si s novými přáteli užiju skvělý čas!"
+    },
+    {
+      "key": "Daisy_006_f",
+      "en": "I think that means she agrees. Those little barks are just so cute.",
+      "cz": "Myslím, že to znamená, že souhlasí. To malé štěkání je tak roztomilé.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že to znamená, že souhlasí. To malé štěkání je tak roztomilé."
+    },
+    {
+      "key": "Daisy_009_f",
+      "en": "All right, well what can I do to help bring Lady's first groom to the next level?",
+      "cz": "Dobře, co můžu udělat, abych posunul prvního ženicha Lady na další úroveň?",
+      "source": "pre_existing",
+      "original_cz": "Dobře, co můžu udělat, abych posunul prvního ženicha Lady na další úroveň?"
+    },
+    {
+      "key": "Daisy_010_f",
+      "en": "We'll definitely need <Lore>some scissors and towels</Lore>.",
+      "cz": "Určitě budeme potřebovat <Lore>nějaké nůžky a ručníky</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Určitě budeme potřebovat <Lore>nějaké nůžky a ručníky</Lore>."
+    },
+    {
+      "key": "Daisy_011_f",
+      "en": "Oh, I think Anna said she had some towels. And I left some specialty scissors at the Boutique. Could you go to <Lore>the Boutique and Arendelle Castle</Lore> and grab them?",
+      "cz": "Myslím, že Anna říkala, že má nějaké ručníky. A já nechala v butiku speciální nůžky. Mohla bys zajít do <Lore>butiku a k hradu Arendelle</Lore>a vzít si je?",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že Anna říkala, že má nějaké ručníky. A já nechala v butiku speciální nůžky. Mohla bys zajít do <Lore>butiku a k hradu Arendelle</Lore>a vzít si je?"
+    },
+    {
+      "key": "Daisy_012_f",
+      "en": "And we forgot all about a brush! We have to have a good-quality <ActivityItem>Brush</ActivityItem> to make her coat shiny.",
+      "cz": "A úplně jsme zapomněli na kartáč! Potřebujeme kvalitní <ActivityItem>kartáč</ActivityItem>, aby se jí srst leskla.",
+      "source": "pre_existing",
+      "original_cz": "A úplně jsme zapomněli na kartáč! Potřebujeme kvalitní <ActivityItem>kartáč</ActivityItem>, aby se jí srst leskla."
+    },
+    {
+      "key": "Daisy_013_f",
+      "en": "There's a brush <Lore>in my House</Lore> that we can use.",
+      "cz": "U nás doma je štětec, <Lore>který můžeme použít.</Lore>",
+      "source": "pre_existing",
+      "original_cz": "U nás doma je štětec, <Lore>který můžeme použít.</Lore>"
+    },
+    {
+      "key": "Daisy_014_f",
+      "en": "Sure, I'll get looking now! You two still good to keep an eye on Lady?",
+      "cz": "Jasně, už se jdu podívat! Můžete vy dva ještě dávat pozor na Lady?",
+      "source": "pre_existing",
+      "original_cz": "Jasně, už se jdu podívat! Můžete vy dva ještě dávat pozor na Lady?"
+    },
+    {
+      "key": "Daisy_015_f",
+      "en": "Of course! We'll get started on Lady's wash.",
+      "cz": "Samozřejmě! Začneme s praním dámského prádla.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě! Začneme s praním dámského prádla."
+    },
+    {
+      "key": "Daisy_007_f",
+      "en": "That's what we think, too!",
+      "cz": "To si myslíme taky!",
+      "source": "pre_existing",
+      "original_cz": "To si myslíme taky!"
+    },
+    {
+      "key": "Daisy_008_f",
+      "en": "Oh, how hard could it be? Lady is so well-behaved!",
+      "cz": "Ach, jak těžké by to mohlo být? Paní je tak slušně vychovaná!",
+      "source": "pre_existing",
+      "original_cz": "Ach, jak těžké by to mohlo být? Paní je tak slušně vychovaná!"
+    }
+  ],
+  "LadyTramp_Daisy/Daisy_VLG_Tram_020_VLG_Tram_020_BringItem01.locbin": [
+    {
+      "key": "Daisy_003_f",
+      "en": "Hey, Daisy. I have these fragrant flowers you asked for.",
+      "cz": "Ahoj, Daisy. Mám tyhle voňavé květiny, o které jsi žádala.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, Daisy. Mám tyhle voňavé květiny, o které jsi žádala."
+    },
+    {
+      "key": "Daisy_004_f",
+      "en": "Thanks, {PlayerName}! They're just what we need for Tramp's level of dirtiness.",
+      "cz": "Díky, {PlayerName}! Jsou přesně to, co potřebujeme na úroveň špinavosti, jakou má Tramp.",
+      "source": "pre_existing",
+      "original_cz": "Díky, {PlayerName}! Jsou přesně to, co potřebujeme na úroveň špinavosti, jakou má Tramp."
+    },
+    {
+      "key": "Daisy_005_f",
+      "en": "Whoa, whoa, whoa, what are we talking about here?!",
+      "cz": "Hej, hej, hej, o čem se tu bavíme?!",
+      "source": "pre_existing",
+      "original_cz": "Hej, hej, hej, o čem se tu bavíme?!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Daisy and Minnie are going to groom Tramp!",
+      "cz": "Daisy a Minnie budou čelit Trampovi!",
+      "source": "pre_existing",
+      "original_cz": "Daisy a Minnie budou čelit Trampovi!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "You seem upset... What's wrong?",
+      "cz": "Vypadáš naštvaně... Co se děje?",
+      "source": "pre_existing",
+      "original_cz": "Vypadáš naštvaně... Co se děje?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "... What are you even <i>doing</i> here?",
+      "cz": "... Co tu vůbec <i>děláš</i>?",
+      "source": "pre_existing",
+      "original_cz": "... Co tu vůbec <i>děláš</i>?"
+    },
+    {
+      "key": "Daisy_006_f",
+      "en": "What? Why?! That's a terrible idea!",
+      "cz": "Cože? Proč?! To je hrozný nápad!",
+      "source": "pre_existing",
+      "original_cz": "Cože? Proč?! To je hrozný nápad!"
+    },
+    {
+      "key": "Daisy_009_f",
+      "en": "He's a mess! He needs a good scrub before he dirties up his whole House.",
+      "cz": "Je to nepořádek! Potřebuje pořádně vydrhnout, než si ušpiní celý dům.",
+      "source": "pre_existing",
+      "original_cz": "Je to nepořádek! Potřebuje pořádně vydrhnout, než si ušpiní celý dům."
+    },
+    {
+      "key": "Daisy_010_f",
+      "en": "*excited barking*",
+      "cz": "*vzrušené štěkání*",
+      "source": "pre_existing",
+      "original_cz": "*vzrušené štěkání*"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Mike, why don't you want Tramp to get cleaned up?",
+      "cz": "Mikeu, proč nechceš, aby se Tramp dal do pořádku?",
+      "source": "pre_existing",
+      "original_cz": "Mikeu, proč nechceš, aby se Tramp dal do pořádku?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I think Tramp finds that a little insulting, Daisy.",
+      "cz": "Myslím, že Tramp to trochu uráží, Daisy.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že Tramp to trochu uráží, Daisy."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Can we just get him to the grooming station now?",
+      "cz": "Můžeme ho už rovnou dostat do stříhací stanice?",
+      "source": "pre_existing",
+      "original_cz": "Můžeme ho už rovnou dostat do stříhací stanice?"
+    },
+    {
+      "key": "Daisy_011_f",
+      "en": "Because the smell of a dirty wet dog is... is...",
+      "cz": "Protože zápach špinavého mokrého psa je... je...",
+      "source": "pre_existing",
+      "original_cz": "Protože zápach špinavého mokrého psa je... je..."
+    },
+    {
+      "key": "Daisy_015_f",
+      "en": "...TOTAL GOLD! You know how much a bottle of something like that could go for in Monstropolis? It could be the KEY to an empire!",
+      "cz": "...NAPROSTO ZLATO! Víte, kolik by mohla stát láhev něčeho takového v Monstropolis? Mohl by to být KLÍČ k celé říši!",
+      "source": "pre_existing",
+      "original_cz": "...NAPROSTO ZLATO! Víte, kolik by mohla stát láhev něčeho takového v Monstropolis? Mohl by to být KLÍČ k celé říši!"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Oh. Gross.",
+      "cz": "Ach. Hnus.",
+      "source": "pre_existing",
+      "original_cz": "Ach. Hnus."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "That might be the first time anyone has said that sentence.",
+      "cz": "To je možná poprvé, co někdo tuhle větu řekl.",
+      "source": "pre_existing",
+      "original_cz": "To je možná poprvé, co někdo tuhle větu řekl."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "I admit it's not as bad as some people think...",
+      "cz": "Přiznávám, že to není tak hrozné, jak si někteří myslí...",
+      "source": "pre_existing",
+      "original_cz": "Přiznávám, že to není tak hrozné, jak si někteří myslí..."
+    },
+    {
+      "key": "Daisy_019_f",
+      "en": "What if I make some special cologne for you that smells just like wet dog minus the dirt?",
+      "cz": "Co kdybych ti udělal nějakou speciální kolínskou, která voní jako mokrý pes, jen bez špíny?",
+      "source": "pre_existing",
+      "original_cz": "Co kdybych ti udělal nějakou speciální kolínskou, která voní jako mokrý pes, jen bez špíny?"
+    },
+    {
+      "key": "Daisy_020_f",
+      "en": "Hmm... Like an <ActivityItem>Eau-de-Chien-Soggy</ActivityItem>? I suppose that's a good compromise.",
+      "cz": "Hmm... Třeba <ActivityItem>Eau-de-Chien-Soggy</ActivityItem>? To je asi dobrý kompromis.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Třeba <ActivityItem>Eau-de-Chien-Soggy</ActivityItem>? To je asi dobrý kompromis."
+    },
+    {
+      "key": "Daisy_021_f",
+      "en": "Great! Problem solved. {PlayerName}, before you start that, could you fetch me a <ActivityItem>Dog Bath</ActivityItem> for the salon? We're going to need a real tub for this!",
+      "cz": "Skvělé! Problém vyřešen. {PlayerName}, než s tím začneš, mohl bys mi do salonu přinést <ActivityItem>psí koupel</ActivityItem>? Na tohle budeme potřebovat pořádnou vanu!",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Problém vyřešen. {PlayerName}, než s tím začneš, mohl bys mi do salonu přinést <ActivityItem>psí koupel</ActivityItem>? Na tohle budeme potřebovat pořádnou vanu!"
+    },
+    {
+      "key": "Daisy_022_f",
+      "en": "Sure! I'll get one from <Lore>Mr. McDuck's shop</Lore>.",
+      "cz": "Jistě! Koupím jeden v <Lore>obchodě pana McDucka</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Jistě! Koupím jeden v <Lore>obchodě pana McDucka</Lore>."
+    },
+    {
+      "key": "Daisy_018_f",
+      "en": "I prefer \"delightfully pungent.\" You gotta let me figure out a way to bottle this!",
+      "cz": "Dávám přednost „lahodně štiplavému“. Musím vymyslet, jak tohle zabalit!",
+      "source": "pre_existing",
+      "original_cz": "Dávám přednost „lahodně štiplavému“. Musím vymyslet, jak tohle zabalit!"
+    },
+    {
+      "key": "Daisy_012_f",
+      "en": "Well I'm sorry, but it's the truth.",
+      "cz": "No, promiň, ale je to pravda.",
+      "source": "pre_existing",
+      "original_cz": "No, promiň, ale je to pravda."
+    },
+    {
+      "key": "Daisy_014_f",
+      "en": "But the smell of a dirty wet dog is... is...",
+      "cz": "Ale zápach špinavého mokrého psa je... je...",
+      "source": "pre_existing",
+      "original_cz": "Ale zápach špinavého mokrého psa je... je..."
+    },
+    {
+      "key": "Daisy_013_f",
+      "en": "No! The smell of a dirty wet dog is... is...",
+      "cz": "Ne! Zápach špinavého mokrého psa je... je...",
+      "source": "pre_existing",
+      "original_cz": "Ne! Zápach špinavého mokrého psa je... je..."
+    },
+    {
+      "key": "Daisy_007_f",
+      "en": "I'll tell you what's wrong. It sounds like you're planning to get this perfectly respectable dog cleaned up!",
+      "cz": "Řeknu ti, co je špatně. Zní to, jako bys chtěl nechat vyčistit tohohle naprosto úctyhodného psa!",
+      "source": "pre_existing",
+      "original_cz": "Řeknu ti, co je špatně. Zní to, jako bys chtěl nechat vyčistit tohohle naprosto úctyhodného psa!"
+    },
+    {
+      "key": "Daisy_008_f",
+      "en": "For your information, I came to ask Daisy about a color contact to really make my eye pop! But what's this about cleaning up this perfectly respectable dog?",
+      "cz": "Pro vaši informaci, přišla jsem se Daisy zeptat na barevné kontaktní čočky, abych si pořádně vyfoukla! Ale co to má znamenat s úklidem tohohle naprosto slušného psa?",
+      "source": "pre_existing",
+      "original_cz": "Pro vaši informaci, přišla jsem se Daisy zeptat na barevné kontaktní čočky, abych si pořádně vyfoukla! Ale co to má znamenat s úklidem tohohle naprosto slušného psa?"
+    }
+  ],
+  "LadyTramp_Daisy/Daisy_VLG_Tram_020_VLG_Tram_020_BringItem02.locbin": [
+    {
+      "key": "Daisy_001_f",
+      "en": "Here's the <ActivityItem>Dog Bath</ActivityItem> you asked for!",
+      "cz": "Tady je <ActivityItem>psí koupel</ActivityItem>, o kterou jste se ptali!",
+      "source": "pre_existing",
+      "original_cz": "Tady je <ActivityItem>psí koupel</ActivityItem>, o kterou jste se ptali!"
+    },
+    {
+      "key": "Daisy_002_f",
+      "en": "Fabulous! It's perfect, {PlayerName}!",
+      "cz": "Skvělé! Je to perfektní, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Je to perfektní, {PlayerName}!"
+    },
+    {
+      "key": "Daisy_003_f",
+      "en": "And your timing is wonderful. We've just finished clipping Tramp's claws.",
+      "cz": "A tvé načasování je skvělé. Právě jsme dostřihli Trampovi drápy.",
+      "source": "pre_existing",
+      "original_cz": "A tvé načasování je skvělé. Právě jsme dostřihli Trampovi drápy."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "How did he handle that?",
+      "cz": "Jak se s tím vypořádal?",
+      "source": "pre_existing",
+      "original_cz": "Jak se s tím vypořádal?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Bet he wasn't a fan of that.",
+      "cz": "Vsadím se, že toho nebyl fanoušek.",
+      "source": "pre_existing",
+      "original_cz": "Vsadím se, že toho nebyl fanoušek."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Wow, you work fast!",
+      "cz": "Páni, pracuješ rychle!",
+      "source": "pre_existing",
+      "original_cz": "Páni, pracuješ rychle!"
+    },
+    {
+      "key": "Daisy_004_f",
+      "en": "He was SO well behaved!",
+      "cz": "Byl TAK dobře vychovaný!",
+      "source": "pre_existing",
+      "original_cz": "Byl TAK dobře vychovaný!"
+    },
+    {
+      "key": "Daisy_008_f",
+      "en": "I'm glad to hear it.",
+      "cz": "To rád slyším.",
+      "source": "pre_existing",
+      "original_cz": "To rád slyším."
+    },
+    {
+      "key": "Daisy_009_f",
+      "en": "Next step is to get him in the bath for a good wash. Oh! And {PlayerName}, you can have this <ActivityItem>Wet Fur</ActivityItem> we combed off of him.",
+      "cz": "Dalším krokem je dát ho do vany, aby se pořádně umyl. Oh! A {PlayerName}, můžeš si vzít tohle <ActivityItem>mokré srsti</ActivityItem>, které jsme z něj vyčesali.",
+      "source": "pre_existing",
+      "original_cz": "Dalším krokem je dát ho do vany, aby se pořádně umyl. Oh! A {PlayerName}, můžeš si vzít tohle <ActivityItem>mokré srsti</ActivityItem>, které jsme z něj vyčesali."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Um... thank you?",
+      "cz": "Ehm... děkuji?",
+      "source": "pre_existing",
+      "original_cz": "Ehm... děkuji?"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "But... <i>why</i>?",
+      "cz": "Ale... <i>proč</i>?",
+      "source": "pre_existing",
+      "original_cz": "Ale... <i>proč</i>?"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "This is perfect!",
+      "cz": "To je perfektní!",
+      "source": "pre_existing",
+      "original_cz": "To je perfektní!"
+    },
+    {
+      "key": "Daisy_010_f",
+      "en": "It's for Mike's cologne.",
+      "cz": "Je to pro Mikovu kolínskou.",
+      "source": "pre_existing",
+      "original_cz": "Je to pro Mikovu kolínskou."
+    },
+    {
+      "key": "Daisy_014_f",
+      "en": "Oh, I gotcha!",
+      "cz": "Jé, mám!",
+      "source": "pre_existing",
+      "original_cz": "Jé, mám!"
+    },
+    {
+      "key": "Daisy_015_f",
+      "en": "While you two finish up Tramp's grooming session, I'll get started making that... What did Mike call it? <ActivityItem>Eau-de-Chien-Soggy</ActivityItem>?",
+      "cz": "Zatímco vy dva dokončíte Trampovo stříhání, já se pustím do přípravy toho... Jak tomu Mike říkal? <ActivityItem>Rozmočená psí voda</ActivityItem>?",
+      "source": "pre_existing",
+      "original_cz": "Zatímco vy dva dokončíte Trampovo stříhání, já se pustím do přípravy toho... Jak tomu Mike říkal? <ActivityItem>Rozmočená psí voda</ActivityItem>?"
+    },
+    {
+      "key": "Daisy_016_f",
+      "en": "I'll come get Tramp after I've <Lore>made the cologne and delivered it to Mike</Lore>.",
+      "cz": "Přijdu si pro Tramp, až <Lore>vyrobím kolínskou a doručím ji Mikovi</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Přijdu si pro Tramp, až <Lore>vyrobím kolínskou a doručím ji Mikovi</Lore>."
+    },
+    {
+      "key": "Daisy_000_f",
+      "en": "Oh, and put the <ActivityItem>Heavy-Duty Dog Shampoo</ActivityItem> into the bathtub too, please.",
+      "cz": "A prosím, dejte do vany i <ActivityItem>Heavy-Duty Dog Shampoo</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "A prosím, dejte do vany i <ActivityItem>Heavy-Duty Dog Shampoo</ActivityItem>."
+    },
+    {
+      "key": "Daisy_012_f",
+      "en": "I can use it for Mike's cologne!",
+      "cz": "Můžu to použít pro Mikeovu kolínskou!",
+      "source": "pre_existing",
+      "original_cz": "Můžu to použít pro Mikeovu kolínskou!"
+    },
+    {
+      "key": "Daisy_013_f",
+      "en": "That's what we were thinking.",
+      "cz": "To jsme si taky mysleli.",
+      "source": "pre_existing",
+      "original_cz": "To jsme si taky mysleli."
+    },
+    {
+      "key": "Daisy_005_f",
+      "en": "No, he was very well behaved.",
+      "cz": "Ne, choval se velmi dobře.",
+      "source": "pre_existing",
+      "original_cz": "Ne, choval se velmi dobře."
+    },
+    {
+      "key": "Daisy_007_f",
+      "en": "Tramp was really well behaved, so it was easy.",
+      "cz": "Tramp se choval opravdu dobře, takže to bylo snadné.",
+      "source": "pre_existing",
+      "original_cz": "Tramp se choval opravdu dobře, takže to bylo snadné."
+    }
+  ],
+  "LadyTramp_Daisy/Daisy_VLG_Tram_020_VLG_Tram_020_TalkTo03.locbin": [
+    {
+      "key": "Daisy_002_f",
+      "en": "Hello, Daisy! Are you and Minnie up for another canine client for your dog grooming business?",
+      "cz": "Ahoj, Daisy! Jste s Minnie zájemce o dalšího psího klienta pro vaši firmu na stříhání psů?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, Daisy! Jste s Minnie zájemce o dalšího psího klienta pro vaši firmu na stříhání psů?"
+    },
+    {
+      "key": "Daisy_003_f",
+      "en": "I am! What do you think, Minnie?",
+      "cz": "To jsem! Co si o tom myslíš, Minnie?",
+      "source": "pre_existing",
+      "original_cz": "To jsem! Co si o tom myslíš, Minnie?"
+    },
+    {
+      "key": "Daisy_004_f",
+      "en": "I would love that! Who's the lucky pup?",
+      "cz": "To by se mi moc líbilo! Kdo je to šťastné štěně?",
+      "source": "pre_existing",
+      "original_cz": "To by se mi moc líbilo! Kdo je to šťastné štěně?"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "Tramp!",
+      "cz": "Tuláku!",
+      "source": "pre_existing",
+      "original_cz": "Tuláku!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "His coat could use a really, <i>really</i> deep clean.",
+      "cz": "Jeho kabát by potřeboval opravdu, <i>opravdu</i> důkladně vyčistit.",
+      "source": "pre_existing",
+      "original_cz": "Jeho kabát by potřeboval opravdu, <i>opravdu</i> důkladně vyčistit."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "He's quite a bit dirtier than Lady, so be warned!",
+      "cz": "Je o dost špinavější než Lady, takže pozor!",
+      "source": "pre_existing",
+      "original_cz": "Je o dost špinavější než Lady, takže pozor!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "He's a typical rough-and-tumble dog of the world, so he needs this.",
+      "cz": "Je to typický drsňák světa, takže tohle potřebuje.",
+      "source": "pre_existing",
+      "original_cz": "Je to typický drsňák světa, takže tohle potřebuje."
+    },
+    {
+      "key": "Daisy_005_f",
+      "en": "Oh, we're familiar with Tramp. He's going to need something a little more... heavy-duty to get him cleaned up. And we'll need your help.",
+      "cz": "Oh, s Trampem se vyznáme. Bude potřebovat něco trochu... silnějšího, aby se dal do pořádku. A budeme potřebovat tvou pomoc.",
+      "source": "pre_existing",
+      "original_cz": "Oh, s Trampem se vyznáme. Bude potřebovat něco trochu... silnějšího, aby se dal do pořádku. A budeme potřebovat tvou pomoc."
+    },
+    {
+      "key": "Daisy_006_f",
+      "en": "Would you <Lore>plant these special seeds</Lore>? They'll grow particularly fragrant flowers that we can use in Tramp's shampoo.",
+      "cz": "Zasadil bys <Lore>tato speciální semínka</Lore>? Vyrostou z nich obzvlášť voňavé květy, které můžeme použít do Trampova šamponu.",
+      "source": "pre_existing",
+      "original_cz": "Zasadil bys <Lore>tato speciální semínka</Lore>? Vyrostou z nich obzvlášť voňavé květy, které můžeme použít do Trampova šamponu."
+    },
+    {
+      "key": "Daisy_007_f",
+      "en": "Okay, thanks Daisy!",
+      "cz": "Dobře, díky Daisy!",
+      "source": "pre_existing",
+      "original_cz": "Dobře, díky Daisy!"
+    }
+  ]
+}

@@ -1,0 +1,1287 @@
+{
+  "JafarAct03_Oswald/Oswald_MRQS_E01_230_MRQS_E01_230_TalkTo11.locbin": [
+    {
+      "key": "Oswald_001_f",
+      "en": "Great idea! Guess I'll go <Lore>talk to Mickey, EVE, Gaston, and Rapunzel</Lore>.",
+      "cz": "Skvělý nápad! Asi si půjdu <Lore>promluvit s Mickey, EVE, Gastonem a Locikou</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Skvělý nápad! Asi si půjdu <Lore>promluvit s Mickey, EVE, Gastonem a Locikou</Lore>."
+    },
+    {
+      "key": "Oswald_000_f",
+      "en": "You betcha I did!",
+      "cz": "To se vsadím, že ano!",
+      "source": "pre_existing",
+      "original_cz": "To se vsadím, že ano!"
+    }
+  ],
+  "JafarAct03_Oswald/Oswald_SEC_Jafa_010_SEC_Jafa_010_TalkTo04.locbin": [
+    {
+      "key": "Oswald_001_f",
+      "en": "Hey, Oswald! I'm checking in with everyone that Jafar dealt with. How has he been around you since the trial?",
+      "cz": "Ahoj, Oswalde! Zjišťuji, co se děje se všemi, s nimiž Jafar jednal. Jak se k tobě chová od soudu?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, Oswalde! Zjišťuji, co se děje se všemi, s nimiž Jafar jednal. Jak se k tobě chová od soudu?"
+    },
+    {
+      "key": "Oswald_011_f",
+      "en": "Well, that's surprisingly reassuring.",
+      "cz": "No, to je překvapivě uklidňující.",
+      "source": "pre_existing",
+      "original_cz": "No, to je překvapivě uklidňující."
+    },
+    {
+      "key": "Oswald_002_f",
+      "en": "How do, {PlayerName}! And, actually, Jafar's been swell!",
+      "cz": "Jak se máš, {PlayerName}! A vlastně, Jafar je skvělý!",
+      "source": "pre_existing",
+      "original_cz": "Jak se máš, {PlayerName}! A vlastně, Jafar je skvělý!"
+    },
+    {
+      "key": "Oswald_004_f",
+      "en": "Well, that's good to hear, I suppose. What kind of nice actions has he been doing?",
+      "cz": "No, to asi rád slyším. Jaké hezké činy dělal?",
+      "source": "pre_existing",
+      "original_cz": "No, to asi rád slyším. Jaké hezké činy dělal?"
+    },
+    {
+      "key": "Oswald_006_f",
+      "en": "Well, he brought me a gift — a set of tools for Trolley repair and maintenance!",
+      "cz": "No, přinesl mi dárek – sadu nářadí na opravu a údržbu tramvají!",
+      "source": "pre_existing",
+      "original_cz": "No, přinesl mi dárek – sadu nářadí na opravu a údržbu tramvají!"
+    },
+    {
+      "key": "Oswald_008_f",
+      "en": "Oh, that's actually very considerate of him.",
+      "cz": "To je od něj vlastně velmi ohleduplné.",
+      "source": "pre_existing",
+      "original_cz": "To je od něj vlastně velmi ohleduplné."
+    },
+    {
+      "key": "Oswald_009_f",
+      "en": "Yeah! He apologized for before and said that he liked my style.",
+      "cz": "Jo! Omluvil se za to předtím a řekl, že se mu líbí můj styl.",
+      "source": "pre_existing",
+      "original_cz": "Jo! Omluvil se za to předtím a řekl, že se mu líbí můj styl."
+    },
+    {
+      "key": "Oswald_010_f",
+      "en": "And that the <Lore>traditional</Lore> look was always in fashion.",
+      "cz": "A že <Lore>tradiční</Lore> vzhled byl vždy v módě.",
+      "source": "pre_existing",
+      "original_cz": "A že <Lore>tradiční</Lore> vzhled byl vždy v módě."
+    },
+    {
+      "key": "Oswald_000_f",
+      "en": "You know, after hearing what everyone has told me... I think that maybe we should do something for Jafar.",
+      "cz": "Víš, po tom, co jsem slyšel, co mi všichni říkali... si myslím, že bychom pro Jafara možná měli něco udělat.",
+      "source": "pre_existing",
+      "original_cz": "Víš, po tom, co jsem slyšel, co mi všichni říkali... si myslím, že bychom pro Jafara možná měli něco udělat."
+    },
+    {
+      "key": "Oswald_013_f",
+      "en": "That idea's tops!",
+      "cz": "Ten nápad je super!",
+      "source": "pre_existing",
+      "original_cz": "Ten nápad je super!"
+    },
+    {
+      "key": "Oswald_014_f",
+      "en": "It's clear that Jafar is trying to ingratiate himself to everyone now.",
+      "cz": "Je jasné, že se Džafar teď snaží získat si přízeň všech.",
+      "source": "pre_existing",
+      "original_cz": "Je jasné, že se Džafar teď snaží získat si přízeň všech."
+    },
+    {
+      "key": "Oswald_015_f",
+      "en": "We should do something to show that we appreciate his effort.",
+      "cz": "Měli bychom udělat něco, abychom ukázali, že si vážíme jeho úsilí.",
+      "source": "pre_existing",
+      "original_cz": "Měli bychom udělat něco, abychom ukázali, že si vážíme jeho úsilí."
+    },
+    {
+      "key": "Oswald_016_f",
+      "en": "Hmm...",
+      "cz": "Hmm...",
+      "source": "pre_existing",
+      "original_cz": "Hmm..."
+    },
+    {
+      "key": "Oswald_017_f",
+      "en": "Let's see... He did kinda show his own interests with his gift choices — we should use that to start!",
+      "cz": "Podívejme se... Svým výběrem dárků tak trochu ukázal své vlastní zájmy – toho bychom měli využít pro začátek!",
+      "source": "pre_existing",
+      "original_cz": "Podívejme se... Svým výběrem dárků tak trochu ukázal své vlastní zájmy – toho bychom měli využít pro začátek!"
+    },
+    {
+      "key": "Oswald_018_f",
+      "en": "I've got it! We'll decorate around the Palace with furniture that's <Lore>Red</Lore>, <Lore>Black</Lore>, <Lore>Elegant</Lore>, <Lore>Bold</Lore>, and <Lore>Traditional</Lore>!",
+      "cz": "Mám to! Vyzdobíme palác nábytkem v <Lore>červeném</Lore>, <Lore>černém</Lore>, <Lore>elegantním</Lore>, <Lore>odvážném</Lore> a <Lore>tradičním</Lore> stylu!",
+      "source": "pre_existing",
+      "original_cz": "Mám to! Vyzdobíme palác nábytkem v <Lore>červeném</Lore>, <Lore>černém</Lore>, <Lore>elegantním</Lore>, <Lore>odvážném</Lore> a <Lore>tradičním</Lore> stylu!"
+    },
+    {
+      "key": "Oswald_019_f",
+      "en": "Maybe I should talk to Merlin to get a little something extra special too...",
+      "cz": "Možná bych si měl promluvit s Merlinem, abych si taky pořídil něco extra speciálního...",
+      "source": "pre_existing",
+      "original_cz": "Možná bych si měl promluvit s Merlinem, abych si taky pořídil něco extra speciálního..."
+    },
+    {
+      "key": "Oswald_012_f",
+      "en": "Thanks Oswald; I think you've made things way more clear for me.",
+      "cz": "Díky, Oswalde; myslím, že jsi mi to mnohem lépe vysvětlil.",
+      "source": "pre_existing",
+      "original_cz": "Díky, Oswalde; myslím, že jsi mi to mnohem lépe vysvětlil."
+    }
+  ],
+  "JafarAct03_Oswald/Oswald_SEC_Oswa_010_SEC_Oswa_010_Ongoing01.locbin": [
+    {
+      "key": "Oswald_000_f",
+      "en": "Good luck searchin', chum!",
+      "cz": "Hodně štěstí s hledáním, kámo!",
+      "source": "pre_existing",
+      "original_cz": "Hodně štěstí s hledáním, kámo!"
+    },
+    {
+      "key": "Oswald_001_f",
+      "en": "Hope the other objects that are missin' dimensions ain't too hard to find.",
+      "cz": "Doufám, že další objekty, kterým chybí rozměry, nebude příliš těžké najít.",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že další objekty, kterým chybí rozměry, nebude příliš těžké najít."
+    }
+  ],
+  "JafarAct03_Oswald/Oswald_SEC_Oswa_010_SEC_Oswa_010_Ongoing02.locbin": [
+    {
+      "key": "Oswald_000_f",
+      "en": "What'd ol' wizard-whiskers say? Have ya figured out what's goin' on?",
+      "cz": "Co říkali ti staří kouzelníci s vousatymi kouzelníky? Už jsi přišel na to, co se děje?",
+      "source": "pre_existing",
+      "original_cz": "Co říkali ti staří kouzelníci s vousatymi kouzelníky? Už jsi přišel na to, co se děje?"
+    },
+    {
+      "key": "Oswald_001_f",
+      "en": "I'm heading to the Palace — maybe Jafar had some notes that can help us figure this out.",
+      "cz": "Mířím do paláce – možná má Džafar nějaké poznámky, které by nám s tím mohly pomoct.",
+      "source": "pre_existing",
+      "original_cz": "Mířím do paláce – možná má Džafar nějaké poznámky, které by nám s tím mohly pomoct."
+    }
+  ],
+  "JafarAct03_Oswald/Oswald_SEC_Oswa_010_SEC_Oswa_010_Ongoing03.locbin": [
+    {
+      "key": "Oswald_000_f",
+      "en": "Lemme hear it, chum! What did Jafar's notes say?",
+      "cz": "Dovol mi to slyšet, kámo! Co stálo v Džafarových poznámkách?",
+      "source": "pre_existing",
+      "original_cz": "Dovol mi to slyšet, kámo! Co stálo v Džafarových poznámkách?"
+    },
+    {
+      "key": "Oswald_001_f",
+      "en": "Unfortunately, not enough — I'm going to need to head to the <Lore>Cave of Wonders</Lore> with the lamp to free him and ask for his help.",
+      "cz": "Bohužel to nestačí – budu se muset s lampou vydat do <Lore>Jeskyně divů</Lore>, abych ho osvobodil a požádal o pomoc.",
+      "source": "pre_existing",
+      "original_cz": "Bohužel to nestačí – budu se muset s lampou vydat do <Lore>Jeskyně divů</Lore>, abych ho osvobodil a požádal o pomoc."
+    },
+    {
+      "key": "Oswald_002_f",
+      "en": "Leapin' lizards! Glad it's you and not me. Hope some of my luck's rubbed off on ya!",
+      "cz": "Skákající ještěrky! Jsem rád, že jsi to ty a ne já. Doufám, že se na tebe trochu štěstí přeneslo!",
+      "source": "pre_existing",
+      "original_cz": "Skákající ještěrky! Jsem rád, že jsi to ty a ne já. Doufám, že se na tebe trochu štěstí přeneslo!"
+    }
+  ],
+  "JafarAct03_Oswald/Oswald_SEC_Oswa_010_SEC_Oswa_010_Ongoing04.locbin": [
+    {
+      "key": "Oswald_000_f",
+      "en": "*gulp* I'm kinda afraid to ask... Is Jafar freed? How's your investigation goin'?",
+      "cz": "*gulp* Trochu se bojím zeptat... Je Jafar na svobodě? Jak pokračuje vaše vyšetřování?",
+      "source": "pre_existing",
+      "original_cz": "*gulp* Trochu se bojím zeptat... Je Jafar na svobodě? Jak pokračuje vaše vyšetřování?"
+    },
+    {
+      "key": "Oswald_001_f",
+      "en": "Still working on it! Seems I need to place the lamp on a specific statue in the <Lore>Cave of Wonders</Lore>.",
+      "cz": "Stále na tom pracuji! Zdá se, že musím umístit lampu na konkrétní sochu v <Lore>Jeskyni divů</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Stále na tom pracuji! Zdá se, že musím umístit lampu na konkrétní sochu v <Lore>Jeskyni divů</Lore>."
+    }
+  ],
+  "JafarAct03_Oswald/Oswald_SEC_Oswa_010_SEC_Oswa_010_Ongoing05.locbin": [
+    {
+      "key": "Oswald_000_f",
+      "en": "Have ya gotten Jafar outta the lamp yet?",
+      "cz": "Už jsi dostal Jafara z lampy?",
+      "source": "pre_existing",
+      "original_cz": "Už jsi dostal Jafara z lampy?"
+    },
+    {
+      "key": "Oswald_001_f",
+      "en": "Still not sure if it's the right thing to do...",
+      "cz": "Stále si nejsem jistý, jestli je to správná věc...",
+      "source": "pre_existing",
+      "original_cz": "Stále si nejsem jistý, jestli je to správná věc..."
+    },
+    {
+      "key": "Oswald_002_f",
+      "en": "But I don't think I have any alternatives. I'm going to need to use my <ActivityItem>Royal Hourglass</ActivityItem> on the lamp once it's properly set up in the Cave.",
+      "cz": "Ale myslím, že nemám žádné alternativy. Budu muset použít své <ActivityItem>Královské přesýpací hodiny</ActivityItem> na lampu, jakmile bude správně nastavená v jeskyni.",
+      "source": "pre_existing",
+      "original_cz": "Ale myslím, že nemám žádné alternativy. Budu muset použít své <ActivityItem>Královské přesýpací hodiny</ActivityItem> na lampu, jakmile bude správně nastavená v jeskyni."
+    }
+  ],
+  "JafarAct03_Oswald/Oswald_SEC_Oswa_010_SEC_Oswa_010_Ongoing06.locbin": [
+    {
+      "key": "Oswald_000_f",
+      "en": "Did ya manage to spring Jafar yet?",
+      "cz": "Už se ti podařilo dostat Jafara ven?",
+      "source": "pre_existing",
+      "original_cz": "Už se ti podařilo dostat Jafara ven?"
+    },
+    {
+      "key": "Oswald_001_f",
+      "en": "I did! Just need to show him the objects and see if he has any insights.",
+      "cz": "Udělal! Jen mu musím ukázat ty předměty a zjistit, jestli má nějaké postřehy.",
+      "source": "pre_existing",
+      "original_cz": "Udělal! Jen mu musím ukázat ty předměty a zjistit, jestli má nějaké postřehy."
+    }
+  ],
+  "JafarAct03_Oswald/Oswald_SEC_Oswa_010_SEC_Oswa_010_TalkTo01.locbin": [
+    {
+      "key": "Oswald_001_f",
+      "en": "Hey Oswald, I found these weird flat objects around Eternity Isle.",
+      "cz": "Ahoj Oswalde, našel jsem tyhle divné ploché objekty poblíž Eternity Isle.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj Oswalde, našel jsem tyhle divné ploché objekty poblíž Eternity Isle."
+    },
+    {
+      "key": "Oswald_002_f",
+      "en": "Yeah? What's that got to do with me, friend-o?",
+      "cz": "Jo? Co to má společného se mnou, kamaráde?",
+      "source": "pre_existing",
+      "original_cz": "Jo? Co to má společného se mnou, kamaráde?"
+    },
+    {
+      "key": "Oswald_003_f",
+      "en": "Well, they're flat in a way that screams Oswald.",
+      "cz": "No, jsou ploché způsobem, který přímo křičí na Oswalda.",
+      "source": "pre_existing",
+      "original_cz": "No, jsou ploché způsobem, který přímo křičí na Oswalda."
+    },
+    {
+      "key": "Oswald_004_f",
+      "en": "Huh... Ya don't say...",
+      "cz": "Hm... To neříkej...",
+      "source": "pre_existing",
+      "original_cz": "Hm... To neříkej..."
+    },
+    {
+      "key": "Oswald_005_f",
+      "en": "All right, fess up — is this your fault?",
+      "cz": "Dobře, přiznejte se – je to vaše chyba?",
+      "source": "pre_existing",
+      "original_cz": "Dobře, přiznejte se – je to vaše chyba?"
+    },
+    {
+      "key": "Oswald_006_f",
+      "en": "... Maybe?",
+      "cz": "... Možná?",
+      "source": "pre_existing",
+      "original_cz": "... Možná?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'll take that as a yes.",
+      "cz": "Beru to jako ano.",
+      "source": "pre_existing",
+      "original_cz": "Beru to jako ano."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Come on, Oswald; I won't be mad.",
+      "cz": "No tak, Oswalde; nebudu se zlobit.",
+      "source": "pre_existing",
+      "original_cz": "No tak, Oswalde; nebudu se zlobit."
+    },
+    {
+      "key": "Oswald_007_f",
+      "en": "Okay, ya got me, {PlayerName}!",
+      "cz": "Dobře, máš mě, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Dobře, máš mě, {PlayerName}!"
+    },
+    {
+      "key": "Oswald_009_f",
+      "en": "I'll spill the beans...",
+      "cz": "Prozradím ti, co se děje...",
+      "source": "pre_existing",
+      "original_cz": "Prozradím ti, co se děje..."
+    },
+    {
+      "key": "Oswald_010_f",
+      "en": "See, I was workin' on some self improvements — ya know, tryin' to be SO interesting it'd make tongues wag!",
+      "cz": "Víš, pracoval jsem na nějakém sebezdokonalování – víš, snažil jsem se být TAK zajímavý, že by z toho jazyky za zuby vrtěly!",
+      "source": "pre_existing",
+      "original_cz": "Víš, pracoval jsem na nějakém sebezdokonalování – víš, snažil jsem se být TAK zajímavý, že by z toho jazyky za zuby vrtěly!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "But you're already interesting!",
+      "cz": "Ale už teď jsi zajímavý/á!",
+      "source": "pre_existing",
+      "original_cz": "Ale už teď jsi zajímavý/á!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "And how did we get to two-dimensional plants and such?",
+      "cz": "A jak jsme se dostali k dvourozměrným rostlinám a podobně?",
+      "source": "pre_existing",
+      "original_cz": "A jak jsme se dostali k dvourozměrným rostlinám a podobně?"
+    },
+    {
+      "key": "Oswald_011_f",
+      "en": "Course YOU'D say that; you're TOO nice! But, what about everybody else?",
+      "cz": "Samozřejmě, že BYSTE TO ŘEKLI; jste PŘÍLIŠ milý! Ale co všichni ostatní?",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě, že BYSTE TO ŘEKLI; jste PŘÍLIŠ milý! Ale co všichni ostatní?"
+    },
+    {
+      "key": "Oswald_013_f",
+      "en": "I figured I needed some more sides to myself, so I borrowed a few dimensions from the stuff around me.",
+      "cz": "Říkal jsem si, že potřebuji mít pro sebe něco víc, a tak jsem si pár dimenzí vypůjčil z věcí kolem sebe.",
+      "source": "pre_existing",
+      "original_cz": "Říkal jsem si, že potřebuji mít pro sebe něco víc, a tak jsem si pár dimenzí vypůjčil z věcí kolem sebe."
+    },
+    {
+      "key": "Oswald_014_f",
+      "en": "Problem is, now I can't figure how to put 'em back. I'm at my wit's end, I tell ya!",
+      "cz": "Problém je, že teď nevím, jak je dát zpátky. Jsem na konci s rozumem, říkám vám!",
+      "source": "pre_existing",
+      "original_cz": "Problém je, že teď nevím, jak je dát zpátky. Jsem na konci s rozumem, říkám vám!"
+    },
+    {
+      "key": "Oswald_015_f",
+      "en": "Oof, well, lemme go talk to Merlin — maybe he'll know what to do.",
+      "cz": "Uf, no, nech mě jít si promluvit s Merlinem – třeba bude vědět, co dělat.",
+      "source": "pre_existing",
+      "original_cz": "Uf, no, nech mě jít si promluvit s Merlinem – třeba bude vědět, co dělat."
+    },
+    {
+      "key": "Oswald_016_f",
+      "en": "In the meantime... Whatever you did — don't do it again!",
+      "cz": "Mezitím... Ať už jsi udělal cokoli – už to nedělej!",
+      "source": "pre_existing",
+      "original_cz": "Mezitím... Ať už jsi udělal cokoli – už to nedělej!"
+    },
+    {
+      "key": "Oswald_017_f",
+      "en": "Don't you worry; I learned my lesson, chum!",
+      "cz": "Neboj se; poučil jsem se, kámo!",
+      "source": "pre_existing",
+      "original_cz": "Neboj se; poučil jsem se, kámo!"
+    },
+    {
+      "key": "Oswald_012_f",
+      "en": "I'm gettin' to that! Hold your horses...! Ahem...",
+      "cz": "Už se k tomu dostávám! Zastavte se...! Ehm...",
+      "source": "pre_existing",
+      "original_cz": "Už se k tomu dostávám! Zastavte se...! Ehm..."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "But you're already interesting!",
+      "cz": "Ale už teď jsi zajímavý/á!",
+      "source": "pre_existing",
+      "original_cz": "Ale už teď jsi zajímavý/á!"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "And how did we get to a two-dimensional object?",
+      "cz": "A jak jsme se dostali k dvourozměrnému objektu?",
+      "source": "pre_existing",
+      "original_cz": "A jak jsme se dostali k dvourozměrnému objektu?"
+    },
+    {
+      "key": "Oswald_008_f",
+      "en": "Okay, okay, it's all my fault.",
+      "cz": "Dobře, dobře, je to všechno moje chyba.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, dobře, je to všechno moje chyba."
+    },
+    {
+      "key": "Oswald_018_f",
+      "en": "Well, it's flat in a way that screams Oswald.",
+      "cz": "No, je to ploché způsobem, který křičí Oswalda.",
+      "source": "pre_existing",
+      "original_cz": "No, je to ploché způsobem, který křičí Oswalda."
+    },
+    {
+      "key": "Oswald_000_f",
+      "en": "Hey Oswald, I found this weird flat object on Eternity Isle.",
+      "cz": "Ahoj Oswalde, našel jsem tenhle divný plochý objekt na Eternity Isle.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj Oswalde, našel jsem tenhle divný plochý objekt na Eternity Isle."
+    }
+  ],
+  "JafarAct03_Oswald/Oswald_VLG_Jafa_030_VLG_Jafa_030_BringItem01.locbin": [
+    {
+      "key": "Oswald_000_f",
+      "en": "There you go, Oswald: one tasty poutine!",
+      "cz": "Tak vidíš, Oswalde: jedna lahodná poutine!",
+      "source": "pre_existing",
+      "original_cz": "Tak vidíš, Oswalde: jedna lahodná poutine!"
+    },
+    {
+      "key": "Oswald_008_f",
+      "en": "My stomach's nice and full now, but I still feel... hollow.",
+      "cz": "Mám teď příjemně plný žaludek, ale pořád se cítím... prázdný.",
+      "source": "pre_existing",
+      "original_cz": "Mám teď příjemně plný žaludek, ale pořád se cítím... prázdný."
+    },
+    {
+      "key": "Oswald_009_f",
+      "en": "Hmm, that's strange.",
+      "cz": "Hmm, to je divné.",
+      "source": "pre_existing",
+      "original_cz": "Hmm, to je divné."
+    },
+    {
+      "key": "Oswald_010_f",
+      "en": "Lemme <Lore>check in with the other Villagers</Lore> and see if anyone feels the same. Maybe you're onto something with the Dreamlight flu idea!",
+      "cz": "Nech mě <Lore>se zeptat ostatních vesničanů</Lore> a zjistit, jestli to někdo cítí stejně. Možná jsi na něčem s tou myšlenkou na chřipku ze Sněmovny!",
+      "source": "pre_existing",
+      "original_cz": "Nech mě <Lore>se zeptat ostatních vesničanů</Lore> a zjistit, jestli to někdo cítí stejně. Možná jsi na něčem s tou myšlenkou na chřipku ze Sněmovny!"
+    },
+    {
+      "key": "Oswald_011_f",
+      "en": "Hang in there, Oswald!",
+      "cz": "Vydrž, Oswalde!",
+      "source": "pre_existing",
+      "original_cz": "Vydrž, Oswalde!"
+    },
+    {
+      "key": "Oswald_001_f",
+      "en": "Aces!",
+      "cz": "Esa!",
+      "source": "pre_existing",
+      "original_cz": "Esa!"
+    },
+    {
+      "key": "Oswald_002_f",
+      "en": "Mmm, that was delicious.",
+      "cz": "Mmm, to bylo vynikající.",
+      "source": "pre_existing",
+      "original_cz": "Mmm, to bylo vynikající."
+    },
+    {
+      "key": "Oswald_003_f",
+      "en": "The cheese even went SQUIK SQUIK in my mouth!",
+      "cz": "Sýr mi v puse dokonce CVÍK CVÍK!",
+      "source": "pre_existing",
+      "original_cz": "Sýr mi v puse dokonce CVÍK CVÍK!"
+    },
+    {
+      "key": "Oswald_004_f",
+      "en": "That's the idea! You feeling better now?",
+      "cz": "To je ten nápad! Už se cítíš líp?",
+      "source": "pre_existing",
+      "original_cz": "To je ten nápad! Už se cítíš líp?"
+    },
+    {
+      "key": "Oswald_005_f",
+      "en": "Sure am—",
+      "cz": "Jasně, že—",
+      "source": "pre_existing",
+      "original_cz": "Jasně, že—"
+    },
+    {
+      "key": "Oswald_006_f",
+      "en": "Huh... Actually, I don't.",
+      "cz": "Hm... Vlastně ne.",
+      "source": "pre_existing",
+      "original_cz": "Hm... Vlastně ne."
+    },
+    {
+      "key": "Oswald_007_f",
+      "en": "Oh no!",
+      "cz": "Ach ne!",
+      "source": "pre_existing",
+      "original_cz": "Ach ne!"
+    }
+  ],
+  "JafarAct03_Oswald/Oswald_VLG_Jafa_030_VLG_Jafa_030_TalkTo01.locbin": [
+    {
+      "key": "Oswald_001_f",
+      "en": "What's the news, Oswald?",
+      "cz": "Co je nového, Oswalde?",
+      "source": "pre_existing",
+      "original_cz": "Co je nového, Oswalde?"
+    },
+    {
+      "key": "Oswald_002_f",
+      "en": "How do, {PlayerName}...",
+      "cz": "Jak to děláš, {PlayerName}...",
+      "source": "pre_existing",
+      "original_cz": "Jak to děláš, {PlayerName}..."
+    },
+    {
+      "key": "Oswald_003_f",
+      "en": "<i>*sigh*</i>",
+      "cz": "*vzdech*",
+      "source": "pre_existing",
+      "original_cz": "*vzdech*"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Gee, not a lot of energy there.",
+      "cz": "No, moc energie tam není.",
+      "source": "pre_existing",
+      "original_cz": "No, moc energie tam není."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Oswald, are you feeling all right?",
+      "cz": "Oswalde, cítíš se v pořádku?",
+      "source": "pre_existing",
+      "original_cz": "Oswalde, cítíš se v pořádku?"
+    },
+    {
+      "key": "Oswald_004_f",
+      "en": "Sorry, I ain't exactly feelin' copacetic today.",
+      "cz": "Promiň, ale dnes se mi zrovna necítí dobře.",
+      "source": "pre_existing",
+      "original_cz": "Promiň, ale dnes se mi zrovna necítí dobře."
+    },
+    {
+      "key": "Oswald_000_f",
+      "en": "That'd be swell! And I know a great recipe — lemme jot it down for ya!",
+      "cz": "To by bylo skvělé! A znám skvělý recept – dovolte mi ho zapsat!",
+      "source": "pre_existing",
+      "original_cz": "To by bylo skvělé! A znám skvělý recept – dovolte mi ho zapsat!"
+    },
+    {
+      "key": "Oswald_006_f",
+      "en": "To be honest, I feel kinda strange.",
+      "cz": "Abych byl upřímný, cítím se trochu divně.",
+      "source": "pre_existing",
+      "original_cz": "Abych byl upřímný, cítím se trochu divně."
+    },
+    {
+      "key": "Oswald_007_f",
+      "en": "Oh? What's going on?",
+      "cz": "Aha? Co se děje?",
+      "source": "pre_existing",
+      "original_cz": "Aha? Co se děje?"
+    },
+    {
+      "key": "Oswald_008_f",
+      "en": "I'm just kinda... empty. Like my bucket of Oswald-ness is rusty and dry.",
+      "cz": "Jsem prostě tak trochu... prázdný. Jako by můj kbelík s oswaldovskou povahou byl rezavý a suchý.",
+      "source": "pre_existing",
+      "original_cz": "Jsem prostě tak trochu... prázdný. Jako by můj kbelík s oswaldovskou povahou byl rezavý a suchý."
+    },
+    {
+      "key": "Oswald_009_f",
+      "en": "Are there Dreamlight flus that do that?",
+      "cz": "Existují chřipky Dreamlight, které to dělají?",
+      "source": "pre_existing",
+      "original_cz": "Existují chřipky Dreamlight, které to dělají?"
+    },
+    {
+      "key": "Oswald_010_f",
+      "en": "Hmm, not that I know of.",
+      "cz": "Hmm, o tom nevím.",
+      "source": "pre_existing",
+      "original_cz": "Hmm, o tom nevím."
+    },
+    {
+      "key": "Oswald_011_f",
+      "en": "But we can't have you feeling like that! Why don't I fix you something that will stick to your ribs and get rid of that nasty hollow feeling?",
+      "cz": "Ale nemůžeme dopustit, abys měl takový pocit! Co kdybych ti uvařil něco, co se ti přilepí na žebra a zbaví tě toho nepříjemného pocitu prázdnoty?",
+      "source": "pre_existing",
+      "original_cz": "Ale nemůžeme dopustit, abys měl takový pocit! Co kdybych ti uvařil něco, co se ti přilepí na žebra a zbaví tě toho nepříjemného pocitu prázdnoty?"
+    },
+    {
+      "key": "Oswald_012_f",
+      "en": "Aww, you're the bee's knees, {PlayerName}!",
+      "cz": "Páni, jsi úžasný, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Páni, jsi úžasný, {PlayerName}!"
+    },
+    {
+      "key": "Oswald_013_f",
+      "en": "I'll bring you some <ActivityItem>Poutine</ActivityItem> — that's a meal that will fill you up like no other!",
+      "cz": "Přinesu vám trochu <ActivityItem>Poutine</ActivityItem> – to je jídlo, které vás zasytí jako žádné jiné!",
+      "source": "pre_existing",
+      "original_cz": "Přinesu vám trochu <ActivityItem>Poutine</ActivityItem> – to je jídlo, které vás zasytí jako žádné jiné!"
+    },
+    {
+      "key": "Oswald_005_f",
+      "en": "Nah, I been feelin' kinda off...",
+      "cz": "Ne, cítím se nějak divně...",
+      "source": "pre_existing",
+      "original_cz": "Ne, cítím se nějak divně..."
+    }
+  ],
+  "JafarAct03_Oswald/Oswald_VLG_Jafa_030_VLG_Jafa_030_TalkTo06.locbin": [
+    {
+      "key": "Oswald_000_f",
+      "en": "Oswald, are you all right?",
+      "cz": "Oswalde, jsi v pořádku?",
+      "source": "pre_existing",
+      "original_cz": "Oswalde, jsi v pořádku?"
+    },
+    {
+      "key": "Oswald_001_f",
+      "en": "I... I think so.",
+      "cz": "Já... myslím, že ano.",
+      "source": "pre_existing",
+      "original_cz": "Já... myslím, že ano."
+    },
+    {
+      "key": "Oswald_002_f",
+      "en": "Gee thanks, {PlayerName}! I'd have been a goner without ya!",
+      "cz": "Páni, díky, {PlayerName}! Bez tebe bych byl v háji!",
+      "source": "pre_existing",
+      "original_cz": "Páni, díky, {PlayerName}! Bez tebe bych byl v háji!"
+    },
+    {
+      "key": "Oswald_003_f",
+      "en": "I'm just glad that you're okay.",
+      "cz": "Jsem jen rád, že jsi v pořádku.",
+      "source": "pre_existing",
+      "original_cz": "Jsem jen rád, že jsi v pořádku."
+    },
+    {
+      "key": "Oswald_004_f",
+      "en": "But now we need to do something about Jafar. Time to look into another lamp, I think.",
+      "cz": "Ale teď musíme s Džafarem něco udělat. Myslím, že je čas podívat se na jinou lampu.",
+      "source": "pre_existing",
+      "original_cz": "Ale teď musíme s Džafarem něco udělat. Myslím, že je čas podívat se na jinou lampu."
+    },
+    {
+      "key": "Oswald_005_f",
+      "en": "Hold up, {PlayerName}...",
+      "cz": "Počkej, {PlayerName}...",
+      "source": "pre_existing",
+      "original_cz": "Počkej, {PlayerName}..."
+    },
+    {
+      "key": "Oswald_006_f",
+      "en": "When I was under that gizmo of Jafar's, it was connectin' me to him, and I think...",
+      "cz": "Když jsem byl pod tím Jafarovým zařízením, spojovalo mě to s ním a myslím...",
+      "source": "pre_existing",
+      "original_cz": "Když jsem byl pod tím Jafarovým zařízením, spojovalo mě to s ním a myslím..."
+    },
+    {
+      "key": "Oswald_007_f",
+      "en": "...I think I got a glimpse into how he ticks.",
+      "cz": "...Myslím, že jsem zahlédl, jak funguje.",
+      "source": "pre_existing",
+      "original_cz": "...Myslím, že jsem zahlédl, jak funguje."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm so sorry — that can't have been a good experience.",
+      "cz": "Moc se omlouvám – tohle nemohl být dobrý zážitek.",
+      "source": "pre_existing",
+      "original_cz": "Moc se omlouvám – tohle nemohl být dobrý zážitek."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Do you need a sauna to sweat it out?",
+      "cz": "Potřebujete saunu, abyste se vypotili?",
+      "source": "pre_existing",
+      "original_cz": "Potřebujete saunu, abyste se vypotili?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Oh? What did you see?",
+      "cz": "Aha? Co jsi viděl?",
+      "source": "pre_existing",
+      "original_cz": "Aha? Co jsi viděl?"
+    },
+    {
+      "key": "Oswald_008_f",
+      "en": "It sure wasn't, but maybe not for the reason ya think.",
+      "cz": "To jistě nebylo, ale možná ne z důvodu, který si myslíte.",
+      "source": "pre_existing",
+      "original_cz": "To jistě nebylo, ale možná ne z důvodu, který si myslíte."
+    },
+    {
+      "key": "Oswald_011_f",
+      "en": "{PlayerName}... Jafar's heart is lousy with loneliness.",
+      "cz": "{PlayerName}... Džafarovo srdce je zmítáno osamělostí.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}... Džafarovo srdce je zmítáno osamělostí."
+    },
+    {
+      "key": "Oswald_012_f",
+      "en": "Back in the lamp might not be the savvy choice here.",
+      "cz": "Zpátky v lampě v tomto případě nemusí být tou správnou volbou.",
+      "source": "pre_existing",
+      "original_cz": "Zpátky v lampě v tomto případě nemusí být tou správnou volbou."
+    },
+    {
+      "key": "Oswald_013_f",
+      "en": "Who knows how evil he might get if he's even MORE lonely!",
+      "cz": "Kdo ví, jak zlý by se mohl stát, kdyby byl ještě VÍC osamělý!",
+      "source": "pre_existing",
+      "original_cz": "Kdo ví, jak zlý by se mohl stát, kdyby byl ještě VÍC osamělý!"
+    },
+    {
+      "key": "Oswald_014_f",
+      "en": "What are you saying, Oswald?",
+      "cz": "Co to říkáš, Oswalde?",
+      "source": "pre_existing",
+      "original_cz": "Co to říkáš, Oswalde?"
+    },
+    {
+      "key": "Oswald_015_f",
+      "en": "I, uh... I think we should give him another chance.",
+      "cz": "Já, ehm... myslím, že bychom mu měli dát ještě jednu šanci.",
+      "source": "pre_existing",
+      "original_cz": "Já, ehm... myslím, že bychom mu měli dát ještě jednu šanci."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Oswald, are you okay?",
+      "cz": "Oswalde, jsi v pořádku?",
+      "source": "pre_existing",
+      "original_cz": "Oswalde, jsi v pořádku?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "You can't be serious.",
+      "cz": "To nemůžeš myslet vážně.",
+      "source": "pre_existing",
+      "original_cz": "To nemůžeš myslet vážně."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "That's... very gallant of you.",
+      "cz": "To je od vás... velmi galantní.",
+      "source": "pre_existing",
+      "original_cz": "To je od vás... velmi galantní."
+    },
+    {
+      "key": "Oswald_016_f",
+      "en": "You betcha. Thanks to you!",
+      "cz": "To se vsadím. Díky!",
+      "source": "pre_existing",
+      "original_cz": "To se vsadím. Díky!"
+    },
+    {
+      "key": "Oswald_019_f",
+      "en": "I don't know... Jafar has shown us multiple times that he only cares about himself.",
+      "cz": "Nevím... Džafar nám už několikrát ukázal, že mu záleží jen na sobě.",
+      "source": "pre_existing",
+      "original_cz": "Nevím... Džafar nám už několikrát ukázal, že mu záleží jen na sobě."
+    },
+    {
+      "key": "Oswald_020_f",
+      "en": "How can we trust that he won't try to take over Eternity Isle again?",
+      "cz": "Jak můžeme věřit, že se znovu nepokusí dobýt Eternity Isle?",
+      "source": "pre_existing",
+      "original_cz": "Jak můžeme věřit, že se znovu nepokusí dobýt Eternity Isle?"
+    },
+    {
+      "key": "Oswald_021_f",
+      "en": "Gee... I, uh... I guess we can't.",
+      "cz": "Páni... Já, ehm... asi nemůžeme.",
+      "source": "pre_existing",
+      "original_cz": "Páni... Já, ehm... asi nemůžeme."
+    },
+    {
+      "key": "Oswald_022_f",
+      "en": "But he ain't the only villain here. And you keep a close eye on them, and they don't dare act up!",
+      "cz": "Ale není tu jediný padouch. A ty je bedlivě sleduješ a oni se neodváží chovat špatně!",
+      "source": "pre_existing",
+      "original_cz": "Ale není tu jediný padouch. A ty je bedlivě sleduješ a oni se neodváží chovat špatně!"
+    },
+    {
+      "key": "Oswald_023_f",
+      "en": "Maybe just livin' around so much Dreamlight Magic makes 'em better.",
+      "cz": "Možná je jen to, že žijí v blízkosti Magie snového světla, dělá lepšími.",
+      "source": "pre_existing",
+      "original_cz": "Možná je jen to, že žijí v blízkosti Magie snového světla, dělá lepšími."
+    },
+    {
+      "key": "Oswald_024_f",
+      "en": "That's... very wise of you, Oswald. I'll talk to Jafar.",
+      "cz": "To je... od tebe velmi moudré, Oswalde. Promluvím si s Jafarem.",
+      "source": "pre_existing",
+      "original_cz": "To je... od tebe velmi moudré, Oswalde. Promluvím si s Jafarem."
+    },
+    {
+      "key": "Oswald_017_f",
+      "en": "I try to avoid it, but this time I can't.",
+      "cz": "Snažím se tomu vyhnout, ale tentokrát to nejde.",
+      "source": "pre_existing",
+      "original_cz": "Snažím se tomu vyhnout, ale tentokrát to nejde."
+    },
+    {
+      "key": "Oswald_018_f",
+      "en": "Thanks, chum.",
+      "cz": "Díky, kámo.",
+      "source": "pre_existing",
+      "original_cz": "Díky, kámo."
+    },
+    {
+      "key": "Oswald_009_f",
+      "en": "Nah. I'm okay.",
+      "cz": "Ne. Jsem v pořádku.",
+      "source": "pre_existing",
+      "original_cz": "Ne. Jsem v pořádku."
+    },
+    {
+      "key": "Oswald_010_f",
+      "en": "Buckets and buckets of loneliness...",
+      "cz": "Kbelíky a kbelíky osamělosti...",
+      "source": "pre_existing",
+      "original_cz": "Kbelíky a kbelíky osamělosti..."
+    }
+  ],
+  "JafarAct03_Oswald/Oswald_VLG_Jafa_040_VLG_Jafa_040_TalkTo03.locbin": [
+    {
+      "key": "Oswald_000_f",
+      "en": "Hey Oswald, got any judge candidates for me?",
+      "cz": "Hej Oswalde, máš pro mě nějaké kandidáty na porotce?",
+      "source": "pre_existing",
+      "original_cz": "Hej Oswalde, máš pro mě nějaké kandidáty na porotce?"
+    },
+    {
+      "key": "Oswald_001_f",
+      "en": "You bet I do!",
+      "cz": "To se vsadím, že ano!",
+      "source": "pre_existing",
+      "original_cz": "To se vsadím, že ano!"
+    },
+    {
+      "key": "Oswald_002_f",
+      "en": "I've been chin waggin' all over Eternity Isle, but nobody thought they were a bullseye.",
+      "cz": "Celý týden jsem se hádal o slovo na Eternity Isle, ale nikdo si nemyslel, že je to trefa do černého.",
+      "source": "pre_existing",
+      "original_cz": "Celý týden jsem se hádal o slovo na Eternity Isle, ale nikdo si nemyslel, že je to trefa do černého."
+    },
+    {
+      "key": "Oswald_003_f",
+      "en": "Oh no! Will we need to postpone the trial? We can't really do this without a judge.",
+      "cz": "Ach ne! Budeme muset odložit soudní proces? Bez soudce to opravdu nezvládneme.",
+      "source": "pre_existing",
+      "original_cz": "Ach ne! Budeme muset odložit soudní proces? Bez soudce to opravdu nezvládneme."
+    },
+    {
+      "key": "Oswald_004_f",
+      "en": "Hold your horses! Everybody did agree on one thing—",
+      "cz": "Klid! Všichni se shodli na jedné věci—",
+      "source": "pre_existing",
+      "original_cz": "Klid! Všichni se shodli na jedné věci—"
+    },
+    {
+      "key": "Oswald_005_f",
+      "en": "YOU oughta be the judge!",
+      "cz": "Měl bys to posoudit TY!",
+      "source": "pre_existing",
+      "original_cz": "Měl bys to posoudit TY!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Me? The judge?",
+      "cz": "Já? Soudce?",
+      "source": "pre_existing",
+      "original_cz": "Já? Soudce?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "No way; I can't do that!",
+      "cz": "To v žádném případě; to nedokážu!",
+      "source": "pre_existing",
+      "original_cz": "To v žádném případě; to nedokážu!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Hmm, that does make sense...",
+      "cz": "Hmm, to dává smysl...",
+      "source": "pre_existing",
+      "original_cz": "Hmm, to dává smysl..."
+    },
+    {
+      "key": "Oswald_006_f",
+      "en": "Yeah! You'd be tops!",
+      "cz": "Jo! Byli byste super!",
+      "source": "pre_existing",
+      "original_cz": "Jo! Byli byste super!"
+    },
+    {
+      "key": "Oswald_009_f",
+      "en": "Think about it: You're the one that dynamited Jafar's plans, but you still wanna make sure he gets a fair trial.",
+      "cz": "Zamysli se nad tím: To ty jsi zhatil Jafarovy plány, ale i tak chceš zajistit, aby dostal spravedlivý proces.",
+      "source": "pre_existing",
+      "original_cz": "Zamysli se nad tím: To ty jsi zhatil Jafarovy plány, ale i tak chceš zajistit, aby dostal spravedlivý proces."
+    },
+    {
+      "key": "Oswald_010_f",
+      "en": "True...",
+      "cz": "Pravda...",
+      "source": "pre_existing",
+      "original_cz": "Pravda..."
+    },
+    {
+      "key": "Oswald_011_f",
+      "en": "And we all trust that you can put your gripes aside and do right by both Jafar and the Valley.",
+      "cz": "A všichni věříme, že dokážete odložit své stížnosti stranou a jednat správně vůči Jafarovi i Údolí.",
+      "source": "pre_existing",
+      "original_cz": "A všichni věříme, že dokážete odložit své stížnosti stranou a jednat správně vůči Jafarovi i Údolí."
+    },
+    {
+      "key": "Oswald_012_f",
+      "en": "Well, when you put it like that, I guess I should.",
+      "cz": "No, když to takhle řekneš, tak asi bych měl.",
+      "source": "pre_existing",
+      "original_cz": "No, když to takhle řekneš, tak asi bych měl."
+    },
+    {
+      "key": "Oswald_013_f",
+      "en": "That's the ticket!",
+      "cz": "To je ten lístek!",
+      "source": "pre_existing",
+      "original_cz": "To je ten lístek!"
+    },
+    {
+      "key": "Oswald_014_f",
+      "en": "Now, if you really wanna look the part, get ahold of a <ActivityItem>Powdered Wig</ActivityItem> and some spiffy duds.",
+      "cz": "A teď, pokud chcete opravdu vypadat skvěle, sežeňte si <ActivityItem>pudrovanou paruku</ActivityItem> a nějaké elegantní kousky.",
+      "source": "pre_existing",
+      "original_cz": "A teď, pokud chcete opravdu vypadat skvěle, sežeňte si <ActivityItem>pudrovanou paruku</ActivityItem> a nějaké elegantní kousky."
+    },
+    {
+      "key": "Oswald_007_f",
+      "en": "Sure ya can! Look at all you've done here when ya put your mind to it.",
+      "cz": "Jasně že můžeš! Podívej se, co všechno jsi tady dokázal, když se do toho pustíš.",
+      "source": "pre_existing",
+      "original_cz": "Jasně že můžeš! Podívej se, co všechno jsi tady dokázal, když se do toho pustíš."
+    },
+    {
+      "key": "Oswald_008_f",
+      "en": "I knew you'd see sense!",
+      "cz": "Věděl jsem, že pochopíš rozum!",
+      "source": "pre_existing",
+      "original_cz": "Věděl jsem, že pochopíš rozum!"
+    }
+  ],
+  "JafarAct03_Oswald/Oswald_VLG_Jafa_040_VLG_Jafa_040_TalkTo05.locbin": [
+    {
+      "key": "Oswald_002_f",
+      "en": "OK Oswald, it's your turn. How do you feel about what Jafar did?",
+      "cz": "Dobře, Oswalde, teď je řada na tobě. Co si myslíš o tom, co udělal Jafar?",
+      "source": "pre_existing",
+      "original_cz": "Dobře, Oswalde, teď je řada na tobě. Co si myslíš o tom, co udělal Jafar?"
+    },
+    {
+      "key": "Oswald_011_f",
+      "en": "Jafar keeps yammerin' on that he's got goodness in him, so why not find proof of that?",
+      "cz": "Džafar pořád dokola žvanil o tom, že je v sobě dobrota, tak proč nenajít důkaz?",
+      "source": "pre_existing",
+      "original_cz": "Džafar pořád dokola žvanil o tom, že je v sobě dobrota, tak proč nenajít důkaz?"
+    },
+    {
+      "key": "Oswald_012_f",
+      "en": "If we can catch some of them lost Memories and prove that he can rate, then I'm happy to let him stay.",
+      "cz": "Pokud se nám podaří chytit některé z těch ztracených vzpomínek a dokázat, že umí počítat, pak ho rád nechám zůstat.",
+      "source": "pre_existing",
+      "original_cz": "Pokud se nám podaří chytit některé z těch ztracených vzpomínek a dokázat, že umí počítat, pak ho rád nechám zůstat."
+    },
+    {
+      "key": "Oswald_013_f",
+      "en": "I'll even bring him a poutine myself!",
+      "cz": "Dokonce mu sám přinesu poutine!",
+      "source": "pre_existing",
+      "original_cz": "Dokonce mu sám přinesu poutine!"
+    },
+    {
+      "key": "Oswald_014_f",
+      "en": "Interesting, thank you for your testimony, Oswald.",
+      "cz": "Zajímavé, děkuji za tvé svědectví, Oswalde.",
+      "source": "pre_existing",
+      "original_cz": "Zajímavé, děkuji za tvé svědectví, Oswalde."
+    },
+    {
+      "key": "Oswald_015_f",
+      "en": "Court will adjourn for the time being. I need to go <Lore>look for some of those lost Memories</Lore>.",
+      "cz": "Soudní jednání se prozatím odročí. Musím jít <Lore>hledat některé z těch ztracených vzpomínek</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Soudní jednání se prozatím odročí. Musím jít <Lore>hledat některé z těch ztracených vzpomínek</Lore>."
+    },
+    {
+      "key": "Oswald_001_f",
+      "en": "When we reconvene, I will either examine evidence of Jafar's past good actions...",
+      "cz": "Až se znovu sejdeme, buď prozkoumám důkazy o Jafarových minulých dobrých činech...",
+      "source": "pre_existing",
+      "original_cz": "Až se znovu sejdeme, buď prozkoumám důkazy o Jafarových minulých dobrých činech..."
+    },
+    {
+      "key": "Oswald_016_f",
+      "en": "Or we will decide on his... eternal reward. Heh.",
+      "cz": "Nebo se rozhodneme o jeho... věčné odměně. Heh.",
+      "source": "pre_existing",
+      "original_cz": "Nebo se rozhodneme o jeho... věčné odměně. Heh."
+    },
+    {
+      "key": "Oswald_003_f",
+      "en": "Well, if anybody's got a right to accuse him of something, it's me. He almost stole my luck!",
+      "cz": "No, pokud má někdo právo ho z něčeho obvinit, jsem to já. Málem mi ukradl štěstí!",
+      "source": "pre_existing",
+      "original_cz": "No, pokud má někdo právo ho z něčeho obvinit, jsem to já. Málem mi ukradl štěstí!"
+    },
+    {
+      "key": "Oswald_004_f",
+      "en": "That's true. What do you want to happen to Jafar?",
+      "cz": "To je pravda. Co chceš, aby se stalo s Jafarem?",
+      "source": "pre_existing",
+      "original_cz": "To je pravda. Co chceš, aby se stalo s Jafarem?"
+    },
+    {
+      "key": "Oswald_005_f",
+      "en": "Gee, I'm not sure...",
+      "cz": "Páni, nejsem si jistý...",
+      "source": "pre_existing",
+      "original_cz": "Páni, nejsem si jistý..."
+    },
+    {
+      "key": "Oswald_006_f",
+      "en": "He's a tough customer, but shouldn't folks get a second chance in a place like this?",
+      "cz": "Je to náročný zákazník, ale neměli by lidé na takovém místě dostat druhou šanci?",
+      "source": "pre_existing",
+      "original_cz": "Je to náročný zákazník, ale neměli by lidé na takovém místě dostat druhou šanci?"
+    },
+    {
+      "key": "Oswald_007_f",
+      "en": "Jafar's right — he did used to live here with us.",
+      "cz": "Džafar má pravdu – kdysi tu s námi bydlel.",
+      "source": "pre_existing",
+      "original_cz": "Džafar má pravdu – kdysi tu s námi bydlel."
+    },
+    {
+      "key": "Oswald_008_f",
+      "en": "But nobody remembers! For all I know, maybe I used to be a villain, and he stopped me from a whole bunch o' trolley-based mayhem!",
+      "cz": "Ale nikdo si to nepamatuje! Co já vím, tak možná jsem býval padouch a on mě zastavil před hromadou tramvajového chaosu!",
+      "source": "pre_existing",
+      "original_cz": "Ale nikdo si to nepamatuje! Co já vím, tak možná jsem býval padouch a on mě zastavil před hromadou tramvajového chaosu!"
+    },
+    {
+      "key": "Oswald_009_f",
+      "en": "Do you think we should all just forget and forgive here?",
+      "cz": "Myslíš, že bychom všichni měli prostě zapomenout a odpustit?",
+      "source": "pre_existing",
+      "original_cz": "Myslíš, že bychom všichni měli prostě zapomenout a odpustit?"
+    },
+    {
+      "key": "Oswald_010_f",
+      "en": "No way, judge-o!",
+      "cz": "To snad ne, pane soudče!",
+      "source": "pre_existing",
+      "original_cz": "To snad ne, pane soudče!"
+    }
+  ],
+  "JafarAct03_Oswald/Oswald_VLG_Jafa_040_VLG_Jafa_040_TalkTo07.locbin": [
+    {
+      "key": "Oswald_000_f",
+      "en": "Hey Oswald, you hanging in there?",
+      "cz": "Hej Oswalde, držíš se?",
+      "source": "pre_existing",
+      "original_cz": "Hej Oswalde, držíš se?"
+    },
+    {
+      "key": "Oswald_009_f",
+      "en": "Great! I need you to speak with the other Villagers and try to find someone who can be an impartial judge.",
+      "cz": "Skvělé! Potřebuji, abys promluvil s ostatními vesničany a pokusil se najít někoho, kdo může být nestranným soudcem.",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Potřebuji, abys promluvil s ostatními vesničany a pokusil se najít někoho, kdo může být nestranným soudcem."
+    },
+    {
+      "key": "Oswald_010_f",
+      "en": "Oof, that might be tough, {PlayerName}. But I'll do my best! I'd be the judge, but things are always black and white with me. Oh-hoo-hoo! Ya get it?",
+      "cz": "Uf, to bude asi těžké, {PlayerName}. Ale udělám, co bude v mých silách! Posoudil bych to já, ale u mě jsou věci vždycky černobílé. Jééé! Chápeš?",
+      "source": "pre_existing",
+      "original_cz": "Uf, to bude asi těžké, {PlayerName}. Ale udělám, co bude v mých silách! Posoudil bych to já, ale u mě jsou věci vždycky černobílé. Jééé! Chápeš?"
+    },
+    {
+      "key": "Oswald_001_f",
+      "en": "Aw, I'm feeling peachy! Thanks to you o' course, chum!",
+      "cz": "Páni, cítím se skvěle! Díky tobě, kámo!",
+      "source": "pre_existing",
+      "original_cz": "Páni, cítím se skvěle! Díky tobě, kámo!"
+    },
+    {
+      "key": "Oswald_002_f",
+      "en": "That's good to hear!",
+      "cz": "To rád slyším!",
+      "source": "pre_existing",
+      "original_cz": "To rád slyším!"
+    },
+    {
+      "key": "Oswald_003_f",
+      "en": "I'm interviewing Villagers about their experiences with Jafar and getting a trial together.",
+      "cz": "Zpovídám vesničany o jejich zkušenostech s Jafarem a domlouvám si s nimi soudní řízení.",
+      "source": "pre_existing",
+      "original_cz": "Zpovídám vesničany o jejich zkušenostech s Jafarem a domlouvám si s nimi soudní řízení."
+    },
+    {
+      "key": "Oswald_004_f",
+      "en": "How do you feel about the situation, now that you've had a chance to let things settle?",
+      "cz": "Jak se cítíte v této situaci, když jste měl/a šanci nechat věci uklidnit?",
+      "source": "pre_existing",
+      "original_cz": "Jak se cítíte v této situaci, když jste měl/a šanci nechat věci uklidnit?"
+    },
+    {
+      "key": "Oswald_005_f",
+      "en": "A trial, huh? That'd be swell!",
+      "cz": "Zkušební verze, co? To by bylo skvělé!",
+      "source": "pre_existing",
+      "original_cz": "Zkušební verze, co? To by bylo skvělé!"
+    },
+    {
+      "key": "Oswald_006_f",
+      "en": "I still mean what I said about givin' Jafar a chance, but the ol' grapevine says that he's been pretty rotten since then.",
+      "cz": "Pořád myslím vážně to, co jsem řekl o tom, že dám Jafarovi šanci, ale prý se od té doby pěkně prohnil.",
+      "source": "pre_existing",
+      "original_cz": "Pořád myslím vážně to, co jsem řekl o tom, že dám Jafarovi šanci, ale prý se od té doby pěkně prohnil."
+    },
+    {
+      "key": "Oswald_007_f",
+      "en": "Yeah, enough is enough. Would you want to give me a hand with the trial prep?",
+      "cz": "Jo, už toho bylo dost. Mohl byste mi pomoct s přípravou na soudní proces?",
+      "source": "pre_existing",
+      "original_cz": "Jo, už toho bylo dost. Mohl byste mi pomoct s přípravou na soudní proces?"
+    },
+    {
+      "key": "Oswald_008_f",
+      "en": "Absopositively!",
+      "cz": "Rozhodně!",
+      "source": "pre_existing",
+      "original_cz": "Rozhodně!"
+    }
+  ],
+  "JafarAct03_Oswald/SEC_Oswa_010.locbin": [
+    {
+      "key": "Secret!Expansion01!Oswald!SEC_Oswa_010_AvailableDescription",
+      "en": "Some objects around Eternity Isle seem to be missing a dimension...",
+      "cz": "Některým objektům v okolí Eternity Isle zřejmě chybí dimenze...",
+      "source": "pre_existing",
+      "original_cz": "Některým objektům v okolí Eternity Isle zřejmě chybí dimenze..."
+    },
+    {
+      "key": "Secret!Expansion01!Oswald!SEC_Oswa_010_DisplayName",
+      "en": "The Lesser Evil",
+      "cz": "Menší zlo",
+      "source": "pre_existing",
+      "original_cz": "Menší zlo"
+    },
+    {
+      "key": "Secret!Expansion01!Oswald!SEC_Oswa_010_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "Talk to Oswald about the strange two-dimensional phenomenon you discovered.",
+      "cz": "Promluvte si s Oswaldem o podivném dvourozměrném jevu, který jste objevil.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Oswaldem o podivném dvourozměrném jevu, který jste objevil."
+    },
+    {
+      "key": "Secret!Expansion01!Oswald!SEC_Oswa_010_Group02_Step02_BringItem01_StepDescription",
+      "en": "2D Object from the Plains.",
+      "cz": "2D objekt z plání.",
+      "source": "pre_existing",
+      "original_cz": "2D objekt z plání."
+    },
+    {
+      "key": "Secret!Expansion01!Oswald!SEC_Oswa_010_Group02_Step02_BringItem02_StepDescription",
+      "en": "2D Object from the Grasslands.",
+      "cz": "2D objekt z travnatých porostů.",
+      "source": "pre_existing",
+      "original_cz": "2D objekt z travnatých porostů."
+    },
+    {
+      "key": "Secret!Expansion01!Oswald!SEC_Oswa_010_Group02_Step02_BringItem03_StepDescription",
+      "en": "2D Object from the Docks.",
+      "cz": "2D objekt z doků.",
+      "source": "pre_existing",
+      "original_cz": "2D objekt z doků."
+    },
+    {
+      "key": "Secret!Expansion01!Oswald!SEC_Oswa_010_Group02_Step02_ReadyDescription",
+      "en": "Bring the strange 2D objects to Merlin for inspection.",
+      "cz": "Přineste podivné 2D objekty Merlinovi k prozkoumání.",
+      "source": "pre_existing",
+      "original_cz": "Přineste podivné 2D objekty Merlinovi k prozkoumání."
+    },
+    {
+      "key": "Secret!Expansion01!Oswald!SEC_Oswa_010_Group02_Step02_StepDescription",
+      "en": "Find all the strange 2D objects in Eternity Isle:",
+      "cz": "Najděte všechny podivné 2D objekty na ostrově Eternity Isle:",
+      "source": "pre_existing",
+      "original_cz": "Najděte všechny podivné 2D objekty na ostrově Eternity Isle:"
+    },
+    {
+      "key": "Secret!Expansion01!Oswald!SEC_Oswa_010_Group03_Step03_ReadyDescription",
+      "en": "Bring Jafar's research notes to Merlin.",
+      "cz": "Přineste Merlinovi Jafarovy výzkumné poznámky.",
+      "source": "pre_existing",
+      "original_cz": "Přineste Merlinovi Jafarovy výzkumné poznámky."
+    },
+    {
+      "key": "Secret!Expansion01!Oswald!SEC_Oswa_010_Group03_Step03_StepDescription",
+      "en": "Find Jafar's research notes in the Palace Laboratory.",
+      "cz": "Najděte Jafarovy výzkumné poznámky v Palácové laboratoři.",
+      "source": "pre_existing",
+      "original_cz": "Najděte Jafarovy výzkumné poznámky v Palácové laboratoři."
+    },
+    {
+      "key": "Secret!Expansion01!Oswald!SEC_Oswa_010_Group04_Step04_Possess01_StepDescription",
+      "en": "Make sure you have the Lamp in your Inventory.",
+      "cz": "Ujistěte se, že máte lampu v inventáři.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte lampu v inventáři."
+    },
+    {
+      "key": "Secret!Expansion01!Oswald!SEC_Oswa_010_Group04_StoryDescription",
+      "en": "Oswald's experimentation has led to dimensional anomalies appearing in Eternity Isle and Jafar might be the only one who can help fix them.",
+      "cz": "Oswaldovy experimenty vedly k objevení se dimenzionálních anomálií na Eternity Isle a Jafar by mohl být jediný, kdo je může opravit.",
+      "source": "pre_existing",
+      "original_cz": "Oswaldovy experimenty vedly k objevení se dimenzionálních anomálií na Eternity Isle a Jafar by mohl být jediný, kdo je může opravit."
+    },
+    {
+      "key": "Secret!Expansion01!Oswald!SEC_Oswa_010_Group05_Step05_FillKeyhole01_StepDescription",
+      "en": "Place the Lamp in the Statue of Time's arms in the Cave of Wonders.",
+      "cz": "Umístěte lampu do náruče Sochy času v Jeskyni divů.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte lampu do náruče Sochy času v Jeskyni divů."
+    },
+    {
+      "key": "Secret!Expansion01!Oswald!SEC_Oswa_010_Group05_StepDescription",
+      "en": "Prepare to break Jafar free from the Lamp:",
+      "cz": "Připravte se osvobodit Jafara z Lampy:",
+      "source": "pre_existing",
+      "original_cz": "Připravte se osvobodit Jafara z Lampy:"
+    },
+    {
+      "key": "Secret!Expansion01!Oswald!SEC_Oswa_010_Group06_Step06_RemoveBlocker01_StepDescription",
+      "en": "Use your Hourglass to break the Lamp in the Cave of Wonders.",
+      "cz": "Použijte přesýpací hodiny k rozbití lampy v Jeskyni divů.",
+      "source": "pre_existing",
+      "original_cz": "Použijte přesýpací hodiny k rozbití lampy v Jeskyni divů."
+    },
+    {
+      "key": "Secret!Expansion01!Oswald!SEC_Oswa_010_Group06_StepDescription",
+      "en": "Prepare to break Jafar free from the Lamp:",
+      "cz": "Připravte se osvobodit Jafara z Lampy:",
+      "source": "pre_existing",
+      "original_cz": "Připravte se osvobodit Jafara z Lampy:"
+    },
+    {
+      "key": "Secret!Expansion01!Oswald!SEC_Oswa_010_Group07_Step07_TalkToCharacter02_StepDescription",
+      "en": "Talk to Jafar.",
+      "cz": "Promluvte si s Jafarem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Jafarem."
+    }
+  ]
+}

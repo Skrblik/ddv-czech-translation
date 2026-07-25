@@ -1,0 +1,1473 @@
+{
+  "Oswald_Rapunzel/Rapunzel_MRQS_E01_180_RapunzelPart_MRQS_E01_180_RapunzelPart_BringItem01.locbin": [
+    {
+      "key": "Rapunzel_000_f",
+      "en": "Wow, {PlayerName}. This tea... the soup...",
+      "cz": "Páni, {PlayerName}. Tenhle čaj... ta polévka...",
+      "source": "pre_existing",
+      "original_cz": "Páni, {PlayerName}. Tenhle čaj... ta polévka..."
+    },
+    {
+      "key": "Rapunzel_001_f",
+      "en": "They look just like what Mother used to make. I'm so excited to try them. Thank you so much!",
+      "cz": "Vypadají přesně jako ty, které dělávala maminka. Moc se těším, až je vyzkouším. Moc děkuji!",
+      "source": "pre_existing",
+      "original_cz": "Vypadají přesně jako ty, které dělávala maminka. Moc se těším, až je vyzkouším. Moc děkuji!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Enjoy!",
+      "cz": "Užijte si to!",
+      "source": "pre_existing",
+      "original_cz": "Užijte si to!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Bon appétit!",
+      "cz": "Dobrou chuť!",
+      "source": "pre_existing",
+      "original_cz": "Dobrou chuť!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Hey, that's what friends are for!",
+      "cz": "Hej, k tomu přece přátelé jsou!",
+      "source": "pre_existing",
+      "original_cz": "Hej, k tomu přece přátelé jsou!"
+    },
+    {
+      "key": "Rapunzel_002_f",
+      "en": "Let's see if they taste as good as what Mother used to make...",
+      "cz": "Uvidíme, jestli chutnají stejně dobře jako to, co dělávala maminka...",
+      "source": "pre_existing",
+      "original_cz": "Uvidíme, jestli chutnají stejně dobře jako to, co dělávala maminka..."
+    },
+    {
+      "key": "Rapunzel_004_f",
+      "en": "Hmm... Those weren't as good as Mother's...",
+      "cz": "Hmm... Ty nebyly tak dobré jako ty od matky...",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Ty nebyly tak dobré jako ty od matky..."
+    },
+    {
+      "key": "Rapunzel_005_f",
+      "en": "They were SO MUCH better!",
+      "cz": "Byly O MNOHEM lepší!",
+      "source": "pre_existing",
+      "original_cz": "Byly O MNOHEM lepší!"
+    },
+    {
+      "key": "Rapunzel_006_f",
+      "en": "They might taste better, but did they help...? Do you think you can sing?",
+      "cz": "Možná chutnaly lépe, ale pomohly...? Myslíš, že umíš zpívat?",
+      "source": "pre_existing",
+      "original_cz": "Možná chutnaly lépe, ale pomohly...? Myslíš, že umíš zpívat?"
+    },
+    {
+      "key": "Rapunzel_007_f",
+      "en": "The scratchiness in my throat is going away, but why don't you come back in a little while to be sure?",
+      "cz": "Škrábání v krku mizí, ale proč se za chvíli nevrátíš, abys to ověřil/a?",
+      "source": "pre_existing",
+      "original_cz": "Škrábání v krku mizí, ale proč se za chvíli nevrátíš, abys to ověřil/a?"
+    },
+    {
+      "key": "Rapunzel_008_f",
+      "en": "When Mother would make this for me, it always took about five minutes to start working.",
+      "cz": "Když mi tohle maminka dělala, vždycky mi trvalo asi pět minut, než jsem začala pracovat.",
+      "source": "pre_existing",
+      "original_cz": "Když mi tohle maminka dělala, vždycky mi trvalo asi pět minut, než jsem začala pracovat."
+    },
+    {
+      "key": "Rapunzel_015_f",
+      "en": "No problem!",
+      "cz": "Žádný problém!",
+      "source": "pre_existing",
+      "original_cz": "Žádný problém!"
+    },
+    {
+      "key": "Rapunzel_009_f",
+      "en": "Maybe I'll go <Lore>take care of the Isle</Lore> while I wait...",
+      "cz": "Možná se půjdu <Lore>postarat o ostrov</Lore>, zatímco budu čekat...",
+      "source": "pre_existing",
+      "original_cz": "Možná se půjdu <Lore>postarat o ostrov</Lore>, zatímco budu čekat..."
+    },
+    {
+      "key": "Rapunzel_012_f",
+      "en": "Maybe I'll go <Lore>help EVE</Lore> while I wait...",
+      "cz": "Možná půjdu <Lore>pomoci EVE</Lore>, zatímco čekám...",
+      "source": "pre_existing",
+      "original_cz": "Možná půjdu <Lore>pomoci EVE</Lore>, zatímco čekám..."
+    },
+    {
+      "key": "Rapunzel_013_f",
+      "en": "Maybe I'll go <Lore>help Gaston</Lore> while I wait...",
+      "cz": "Možná půjdu <Lore>pomoci Gastonovi</Lore>, zatímco budu čekat...",
+      "source": "pre_existing",
+      "original_cz": "Možná půjdu <Lore>pomoci Gastonovi</Lore>, zatímco budu čekat..."
+    },
+    {
+      "key": "Rapunzel_014_f",
+      "en": "Maybe I'll go <Lore>help EVE and Gaston</Lore> while I wait...",
+      "cz": "Možná půjdu <Lore>pomoci EVE a Gastonovi</Lore>, zatímco budu čekat...",
+      "source": "pre_existing",
+      "original_cz": "Možná půjdu <Lore>pomoci EVE a Gastonovi</Lore>, zatímco budu čekat..."
+    },
+    {
+      "key": "Rapunzel_003_f",
+      "en": "I'm so happy to have a friend like you. Don't get me wrong; I love the capybaras, but they aren't very good cooks. *giggle*",
+      "cz": "Jsem tak šťastná, že mám kamarádku jako jsi ty. Nechápejte mě špatně; miluji kapybary, ale nejsou to moc dobré kuchařky. *chichotá se*",
+      "source": "pre_existing",
+      "original_cz": "Jsem tak šťastná, že mám kamarádku jako jsi ty. Nechápejte mě špatně; miluji kapybary, ale nejsou to moc dobré kuchařky. *chichotá se*"
+    }
+  ],
+  "Oswald_Rapunzel/Rapunzel_MRQS_E01_180_RapunzelPart_MRQS_E01_180_RapunzelPart_Ongoing01.locbin": [
+    {
+      "key": "Rapunzel_000_f",
+      "en": "You found the recipes?! That's amazing! Wait... You have them, right? You didn't just leave them on the floor?",
+      "cz": "Našla jsi recepty?! To je úžasné! Počkej... Máš je, že? Nenechala jsi je jen tak na podlaze?",
+      "source": "pre_existing",
+      "original_cz": "Našla jsi recepty?! To je úžasné! Počkej... Máš je, že? Nenechala jsi je jen tak na podlaze?"
+    }
+  ],
+  "Oswald_Rapunzel/Rapunzel_MRQS_E01_180_RapunzelPart_MRQS_E01_180_RapunzelPart_Ongoing03.locbin": [
+    {
+      "key": "Rapunzel_000_f",
+      "en": "Have you found all of Mother's Ingredients yet?",
+      "cz": "Už jsi našla všechny Matčiny ingredience?",
+      "source": "pre_existing",
+      "original_cz": "Už jsi našla všechny Matčiny ingredience?"
+    }
+  ],
+  "Oswald_Rapunzel/Rapunzel_MRQS_E01_180_RapunzelPart_MRQS_E01_180_RapunzelPart_Ongoing04.locbin": [
+    {
+      "key": "Rapunzel_000_f",
+      "en": "You found Mother's seeds? I wonder if there's anything special you need to do with them.",
+      "cz": "Našla jsi Matčina semínka? Zajímalo by mě, jestli s nimi potřebuješ udělat něco speciálního.",
+      "source": "pre_existing",
+      "original_cz": "Našla jsi Matčina semínka? Zajímalo by mě, jestli s nimi potřebuješ udělat něco speciálního."
+    }
+  ],
+  "Oswald_Rapunzel/Rapunzel_MRQS_E01_180_RapunzelPart_MRQS_E01_180_RapunzelPart_Ongoing05.locbin": [
+    {
+      "key": "Rapunzel_000_f",
+      "en": "The herbs are growing to make Mother's tea? Thank you, {PlayerName}!",
+      "cz": "Pěstují se bylinky na přípravu matčina čaje? Děkuji, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Pěstují se bylinky na přípravu matčina čaje? Děkuji, {PlayerName}!"
+    }
+  ],
+  "Oswald_Rapunzel/Rapunzel_MRQS_E01_180_RapunzelPart_MRQS_E01_180_RapunzelPart_Ongoing06.locbin": [
+    {
+      "key": "Rapunzel_000_f",
+      "en": "Have you made Mother's recipes yet?",
+      "cz": "Už jsi uvařila recepty od maminky?",
+      "source": "pre_existing",
+      "original_cz": "Už jsi uvařila recepty od maminky?"
+    }
+  ],
+  "Oswald_Rapunzel/Rapunzel_MRQS_E01_180_RapunzelPart_MRQS_E01_180_RapunzelPart_Ongoing07.locbin": [
+    {
+      "key": "Rapunzel_000_f",
+      "en": "Oh, have you got the tea and soup for me so I can sing?! I'd really like to help!",
+      "cz": "Aha, máš pro mě čaj a polévku, abych si mohla zazpívat?! Moc ráda bych pomohla!",
+      "source": "pre_existing",
+      "original_cz": "Aha, máš pro mě čaj a polévku, abych si mohla zazpívat?! Moc ráda bych pomohla!"
+    }
+  ],
+  "Oswald_Rapunzel/Rapunzel_MRQS_E01_180_RapunzelPart_MRQS_E01_180_RapunzelPart_Ongoing08.locbin": [
+    {
+      "key": "Rapunzel_000_f",
+      "en": "Have you found the recipes for the tea and soup yet?",
+      "cz": "Už jsi našla recepty na čaj a polévku?",
+      "source": "pre_existing",
+      "original_cz": "Už jsi našla recepty na čaj a polévku?"
+    },
+    {
+      "key": "Rapunzel_001_f",
+      "en": "They must be somewhere in my tower.",
+      "cz": "Musí být někde v mé věži.",
+      "source": "pre_existing",
+      "original_cz": "Musí být někde v mé věži."
+    }
+  ],
+  "Oswald_Rapunzel/Rapunzel_MRQS_E01_180_RapunzelPart_MRQS_E01_180_RapunzelPart_Ongoing11.locbin": [
+    {
+      "key": "Rapunzel_000_f",
+      "en": "That tea and soup are really helping!",
+      "cz": "Ten čaj a polévka opravdu pomáhají!",
+      "source": "pre_existing",
+      "original_cz": "Ten čaj a polévka opravdu pomáhají!"
+    },
+    {
+      "key": "Rapunzel_001_f",
+      "en": "I think I'll be able to sing again soon.",
+      "cz": "Myslím, že brzy budu zase moct zpívat.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že brzy budu zase moct zpívat."
+    }
+  ],
+  "Oswald_Rapunzel/Rapunzel_MRQS_E01_180_RapunzelPart_MRQS_E01_180_RapunzelPart_Ongoing12.locbin": [
+    {
+      "key": "Rapunzel_000_f",
+      "en": "You found the recipes?! That's amazing! Can I see them?",
+      "cz": "Našla jsi recepty?! To je úžasné! Můžu se na ně podívat?",
+      "source": "pre_existing",
+      "original_cz": "Našla jsi recepty?! To je úžasné! Můžu se na ně podívat?"
+    }
+  ],
+  "Oswald_Rapunzel/Rapunzel_MRQS_E01_180_RapunzelPart_MRQS_E01_180_RapunzelPart_Outro.locbin": [
+    {
+      "key": "Rapunzel_000_f",
+      "en": "Okay, I think I'm ready, {PlayerName}.",
+      "cz": "Dobře, myslím, že jsem připravená, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, myslím, že jsem připravená, {PlayerName}."
+    },
+    {
+      "key": "Rapunzel_001_f",
+      "en": "Ahem...",
+      "cz": "Ehm...",
+      "source": "pre_existing",
+      "original_cz": "Ehm..."
+    },
+    {
+      "key": "Rapunzel_002_f",
+      "en": "La, la, la, la, la, la, LA!",
+      "cz": "La, la, la, la, la, la, LA!",
+      "source": "pre_existing",
+      "original_cz": "La, la, la, la, la, la, LA!"
+    },
+    {
+      "key": "Rapunzel_003_f",
+      "en": "*gasp* My voice is back! All right, I'm ready to help you rescue the Spark of Imagination!",
+      "cz": "*lapám po dechu* Můj hlas je zpátky! Tak jo, jsem připravená ti pomoct zachránit Jiskru představivosti!",
+      "source": "pre_existing",
+      "original_cz": "*lapám po dechu* Můj hlas je zpátky! Tak jo, jsem připravená ti pomoct zachránit Jiskru představivosti!"
+    },
+    {
+      "key": "Rapunzel_004_f",
+      "en": "Perfect! Meet me in the Ancient Ruins!",
+      "cz": "Perfektní! Sejdeme se ve Starověkých ruinách!",
+      "source": "pre_existing",
+      "original_cz": "Perfektní! Sejdeme se ve Starověkých ruinách!"
+    },
+    {
+      "key": "Rapunzel_005_f",
+      "en": "Looks like everyone is ready to go deeper into the Ruins.",
+      "cz": "Vypadá to, že jsou všichni připraveni jít hlouběji do ruin.",
+      "source": "pre_existing",
+      "original_cz": "Vypadá to, že jsou všichni připraveni jít hlouběji do ruin."
+    },
+    {
+      "key": "Rapunzel_006_f",
+      "en": "I'll meet you down there, okay?",
+      "cz": "Sejdeme se tam dole, ano?",
+      "source": "pre_existing",
+      "original_cz": "Sejdeme se tam dole, ano?"
+    },
+    {
+      "key": "Rapunzel_007_f",
+      "en": "I'm really glad I'll get to help you with something after how much you've helped me.",
+      "cz": "Jsem opravdu ráda, že ti můžu s něčím pomoct po tom, jak moc jsi pomohl/a mně.",
+      "source": "pre_existing",
+      "original_cz": "Jsem opravdu ráda, že ti můžu s něčím pomoct po tom, jak moc jsi pomohl/a mně."
+    },
+    {
+      "key": "Rapunzel_008_f",
+      "en": "I just need to finish helping EVE.",
+      "cz": "Jen musím dokončit pomoc EVE.",
+      "source": "pre_existing",
+      "original_cz": "Jen musím dokončit pomoc EVE."
+    },
+    {
+      "key": "Rapunzel_009_f",
+      "en": "I just need to finish helping Gaston.",
+      "cz": "Jen musím dopomoci Gastonovi.",
+      "source": "pre_existing",
+      "original_cz": "Jen musím dopomoci Gastonovi."
+    },
+    {
+      "key": "Rapunzel_010_f",
+      "en": "I just need to finish helping Gaston and EVE.",
+      "cz": "Jen musím dokončit pomoc Gastonovi a EVE.",
+      "source": "pre_existing",
+      "original_cz": "Jen musím dokončit pomoc Gastonovi a EVE."
+    }
+  ],
+  "Oswald_Rapunzel/Rapunzel_MRQS_E01_180_RapunzelPart_MRQS_E01_180_RapunzelPart_TalkTo01.locbin": [
+    {
+      "key": "Rapunzel_000_f",
+      "en": "Ahhh... ahhh... AHHHH... ahhh...",
+      "cz": "Ááá... áááá... AHHHH... ááá...",
+      "source": "pre_existing",
+      "original_cz": "Ááá... áááá... AHHHH... ááá..."
+    },
+    {
+      "key": "Rapunzel_001_f",
+      "en": "CHOOOOOO!!!",
+      "cz": "CHOOOOOO!!!",
+      "source": "pre_existing",
+      "original_cz": "CHOOOOOO!!!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Gesundheit?",
+      "cz": "Zdraví?",
+      "source": "pre_existing",
+      "original_cz": "Zdraví?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Uh... you okay?",
+      "cz": "Ehm... jsi v pořádku?",
+      "source": "pre_existing",
+      "original_cz": "Ehm... jsi v pořádku?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Maybe I'll come back later...",
+      "cz": "Možná se vrátím později...",
+      "source": "pre_existing",
+      "original_cz": "Možná se vrátím později..."
+    },
+    {
+      "key": "Rapunzel_002_f",
+      "en": "Ugh. I'm sorry, {PlayerName}. I got really close to one of those big flytrap plants and it let out a big cloud of pollen right in my face.",
+      "cz": "Uf. Promiň, {PlayerName}. Dostala jsem se opravdu blízko k jedné z těch velkých mucholapek a ta mi přímo do obličeje vypustila velký oblak pylu.",
+      "source": "pre_existing",
+      "original_cz": "Uf. Promiň, {PlayerName}. Dostala jsem se opravdu blízko k jedné z těch velkých mucholapek a ta mi přímo do obličeje vypustila velký oblak pylu."
+    },
+    {
+      "key": "Rapunzel_011_f",
+      "en": "But I really want to help you after all the ways you've helped me!",
+      "cz": "Ale po všech těch způsobech, jakými jsi pomohl/a mně, ti opravdu chci pomoct!",
+      "source": "pre_existing",
+      "original_cz": "Ale po všech těch způsobech, jakými jsi pomohl/a mně, ti opravdu chci pomoct!"
+    },
+    {
+      "key": "Rapunzel_012_f",
+      "en": "A-A-ACHOO! *sigh* If only I had the tea or the soup that Mother used to make me...",
+      "cz": "AA-ACHOO! *povzdech* Kéž bych tak měla ten čaj nebo polévku, co mi vařila máma...",
+      "source": "pre_existing",
+      "original_cz": "AA-ACHOO! *povzdech* Kéž bych tak měla ten čaj nebo polévku, co mi vařila máma..."
+    },
+    {
+      "key": "Rapunzel_013_f",
+      "en": "You see, whenever I had a sore throat, she'd make them, and after just a few sips, I could sing again.",
+      "cz": "Víš, kdykoli mě bolelo v krku, udělala je a po pár doušcích jsem mohla zase zpívat.",
+      "source": "pre_existing",
+      "original_cz": "Víš, kdykoli mě bolelo v krku, udělala je a po pár doušcích jsem mohla zase zpívat."
+    },
+    {
+      "key": "Rapunzel_014_f",
+      "en": "Maybe I could make you some?",
+      "cz": "Možná bych ti mohla nějaké udělat?",
+      "source": "pre_existing",
+      "original_cz": "Možná bych ti mohla nějaké udělat?"
+    },
+    {
+      "key": "Rapunzel_015_f",
+      "en": "*sniffles* Do you think you could do it? I'd make them myself, but Mother had special recipes that she wouldn't share with me.",
+      "cz": "*popotahuje* Myslíš, že bys to zvládla? Udělala bych je sama, ale máma měla speciální recepty, o které se mnou nechtěla sdílet.",
+      "source": "pre_existing",
+      "original_cz": "*popotahuje* Myslíš, že bys to zvládla? Udělala bych je sama, ale máma měla speciální recepty, o které se mnou nechtěla sdílet."
+    },
+    {
+      "key": "Rapunzel_005_f",
+      "en": "I've been sneezing ever since and my throat is all scratchy.",
+      "cz": "Od té doby kýchám a škrábe mě v krku.",
+      "source": "pre_existing",
+      "original_cz": "Od té doby kýchám a škrábe mě v krku."
+    },
+    {
+      "key": "Rapunzel_007_f",
+      "en": "I'm sure I'll be fine soon. Did you need something? Is there anything I can help with?",
+      "cz": "Jsem si jistá, že budu brzy v pořádku. Potřebovala jsi něco? Mohu ti s něčím pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Jsem si jistá, že budu brzy v pořádku. Potřebovala jsi něco? Mohu ti s něčím pomoct?"
+    },
+    {
+      "key": "Rapunzel_008_f",
+      "en": "I'm on the trail of this special treasure called the Spark of Imagination.",
+      "cz": "Jsem na stopě tohoto zvláštního pokladu zvaného Jiskra představivosti.",
+      "source": "pre_existing",
+      "original_cz": "Jsem na stopě tohoto zvláštního pokladu zvaného Jiskra představivosti."
+    },
+    {
+      "key": "Rapunzel_009_f",
+      "en": "But to find it, I need to solve this special puzzle involving musical notes.",
+      "cz": "Ale abych ho našla, musím vyřešit tuto speciální hádanku s hudebními notami.",
+      "source": "pre_existing",
+      "original_cz": "Ale abych ho našla, musím vyřešit tuto speciální hádanku s hudebními notami."
+    },
+    {
+      "key": "Rapunzel_003_f",
+      "en": "It seems like we'll need to know the right notes, and we'll need somebody to sing them.",
+      "cz": "Zdá se, že budeme potřebovat znát správné noty a někoho, kdo je zazpívá.",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že budeme potřebovat znát správné noty a někoho, kdo je zazpívá."
+    },
+    {
+      "key": "Rapunzel_004_f",
+      "en": "Oh no. If that's why you're here, I don't think I can help anytime soon.",
+      "cz": "Ach ne. Pokud je to důvod, proč jsi tady, nemyslím si, že ti můžu v dohledné době pomoct.",
+      "source": "pre_existing",
+      "original_cz": "Ach ne. Pokud je to důvod, proč jsi tady, nemyslím si, že ti můžu v dohledné době pomoct."
+    },
+    {
+      "key": "Rapunzel_006_f",
+      "en": "With my throat this scratchy, I haven't been able to sing a note all day.",
+      "cz": "S takhle škrábavým krkem jsem celý den nedokázala zazpívat ani notu.",
+      "source": "pre_existing",
+      "original_cz": "S takhle škrábavým krkem jsem celý den nedokázala zazpívat ani notu."
+    },
+    {
+      "key": "Rapunzel_010_f",
+      "en": "Oh... I guess I could ask someone else to help with that part.",
+      "cz": "Aha... Asi bych s tou částí mohla požádat někoho jiného o pomoc.",
+      "source": "pre_existing",
+      "original_cz": "Aha... Asi bych s tou částí mohla požádat někoho jiného o pomoc."
+    },
+    {
+      "key": "Rapunzel_016_f",
+      "en": "I really don't want to ask Mother for help. Not after I've come such a long way. I just know she'll ask me to sing for her in return.",
+      "cz": "Opravdu nechci žádat matku o pomoc. Ne po takové dlouhé cestě. Vím jen, že mě na oplátku požádá, abych jí zazpívala.",
+      "source": "pre_existing",
+      "original_cz": "Opravdu nechci žádat matku o pomoc. Ne po takové dlouhé cestě. Vím jen, že mě na oplátku požádá, abych jí zazpívala."
+    },
+    {
+      "key": "Rapunzel_018_f",
+      "en": "Your Mother left some stuff in your tower. Could it be up there?",
+      "cz": "Tvoje matka nechala ve tvé věži nějaké věci. Mohly by být tam nahoře?",
+      "source": "pre_existing",
+      "original_cz": "Tvoje matka nechala ve tvé věži nějaké věci. Mohly by být tam nahoře?"
+    },
+    {
+      "key": "Rapunzel_019_f",
+      "en": "You know, you might be right. ACHOO! Ugh... She left a bunch of things there.",
+      "cz": "Víš, možná máš pravdu. ACHOO! Fuj... Nechala tam spoustu věcí.",
+      "source": "pre_existing",
+      "original_cz": "Víš, možná máš pravdu. ACHOO! Fuj... Nechala tam spoustu věcí."
+    },
+    {
+      "key": "Rapunzel_020_f",
+      "en": "But I haven't looked through any of it yet. I've been too busy exploring the Isle.",
+      "cz": "Ale ještě jsem si nic z toho neprohlédla. Byla jsem příliš zaneprázdněná prozkoumáváním ostrova.",
+      "source": "pre_existing",
+      "original_cz": "Ale ještě jsem si nic z toho neprohlédla. Byla jsem příliš zaneprázdněná prozkoumáváním ostrova."
+    },
+    {
+      "key": "Rapunzel_021_f",
+      "en": "No problem. I'll go <Lore>search your Tower</Lore> and see what I can find.",
+      "cz": "Žádný problém. Půjdu <Lore>prohledat tvou věž</Lore> a uvidím, co najdu.",
+      "source": "pre_existing",
+      "original_cz": "Žádný problém. Půjdu <Lore>prohledat tvou věž</Lore> a uvidím, co najdu."
+    },
+    {
+      "key": "Rapunzel_017_f",
+      "en": "And since no one's seen Mother in quite a while... the recipes might be lost.",
+      "cz": "A protože matku už dlouho nikdo neviděl... recepty se možná ztratí.",
+      "source": "pre_existing",
+      "original_cz": "A protože matku už dlouho nikdo neviděl... recepty se možná ztratí."
+    }
+  ],
+  "Oswald_Rapunzel/Rapunzel_MRQS_E01_180_RapunzelPart_MRQS_E01_180_RapunzelPart_TalkTo02.locbin": [
+    {
+      "key": "Rapunzel_003_f",
+      "en": "So I found these recipes up in your tower...",
+      "cz": "Takže jsem našla tyhle recepty ve tvé věži...",
+      "source": "pre_existing",
+      "original_cz": "Takže jsem našla tyhle recepty ve tvé věži..."
+    },
+    {
+      "key": "Rapunzel_000_f",
+      "en": "Oh, these are the exact recipes Mother used to make!",
+      "cz": "Ach, tohle jsou přesně ty recepty, které dělávala maminka!",
+      "source": "pre_existing",
+      "original_cz": "Ach, tohle jsou přesně ty recepty, které dělávala maminka!"
+    },
+    {
+      "key": "Rapunzel_001_f",
+      "en": "But this one, the tea, requires a special herb she used to grow.",
+      "cz": "Ale na tento čaj je potřeba speciální bylina, kterou dříve pěstovala.",
+      "source": "pre_existing",
+      "original_cz": "Ale na tento čaj je potřeba speciální bylina, kterou dříve pěstovala."
+    },
+    {
+      "key": "Rapunzel_002_f",
+      "en": "I think she used to get the seeds for it from the Promenade.",
+      "cz": "Myslím, že semínka na to shánívala na Promenádě.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že semínka na to shánívala na Promenádě."
+    }
+  ],
+  "Oswald_Rapunzel/Rapunzel_MRQS_E01_190_UpperTemple_MRQS_E01_190_UpperTemple_TalkTo03.locbin": [
+    {
+      "key": "Rapunzel_000_f",
+      "en": "Ready to make some beautiful music?",
+      "cz": "Připraveni tvořit krásnou hudbu?",
+      "source": "pre_existing",
+      "original_cz": "Připraveni tvořit krásnou hudbu?"
+    },
+    {
+      "key": "Rapunzel_001_f",
+      "en": "SO ready. Where do I need to go? What do I need to do?",
+      "cz": "Jsem připraven/a. Kam musím jít? Co musím udělat?",
+      "source": "pre_existing",
+      "original_cz": "Jsem připraven/a. Kam musím jít? Co musím udělat?"
+    },
+    {
+      "key": "Rapunzel_002_f",
+      "en": "Just wait for me over in that East Chamber. I'll meet you there!",
+      "cz": "Jen na mě počkej v té východní komnatě. Sejdeme se tam!",
+      "source": "pre_existing",
+      "original_cz": "Jen na mě počkej v té východní komnatě. Sejdeme se tam!"
+    },
+    {
+      "key": "Rapunzel_003_f",
+      "en": "Great! I'll look over those musical notes and start warming up.",
+      "cz": "Skvělé! Prohlédnu si ty noty a začnu se rozcvičovat.",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Prohlédnu si ty noty a začnu se rozcvičovat."
+    },
+    {
+      "key": "Rapunzel_004_f",
+      "en": "Do... re... mi...",
+      "cz": "Udělejte... znovu... mi...",
+      "source": "pre_existing",
+      "original_cz": "Udělejte... znovu... mi..."
+    }
+  ],
+  "Oswald_Rapunzel/Rapunzel_MRQS_E01_190_UpperTemple_MRQS_E01_190_UpperTemple_TalkTo07.locbin": [
+    {
+      "key": "Rapunzel_000_f",
+      "en": "{PlayerName}, I've been looking at these musical notes on the wall...",
+      "cz": "{PlayerName}, dívám se na tyhle noty na zdi...",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, dívám se na tyhle noty na zdi..."
+    },
+    {
+      "key": "Rapunzel_001_f",
+      "en": "Right now, the melody they make is off somehow.",
+      "cz": "Právě teď je melodie, kterou vydávají, nějak divná.",
+      "source": "pre_existing",
+      "original_cz": "Právě teď je melodie, kterou vydávají, nějak divná."
+    },
+    {
+      "key": "Rapunzel_004_f",
+      "en": "It's not so much do-re-mi as...",
+      "cz": "Není to ani tak do-re-mi jako...",
+      "source": "pre_existing",
+      "original_cz": "Není to ani tak do-re-mi jako..."
+    },
+    {
+      "key": "Rapunzel_005_f",
+      "en": "...do-do-do-do-do.",
+      "cz": "...du-du-du-du-du.",
+      "source": "pre_existing",
+      "original_cz": "...du-du-du-du-du."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Sounds like a beautiful melody to me.",
+      "cz": "Zní mi to jako krásná melodie.",
+      "source": "pre_existing",
+      "original_cz": "Zní mi to jako krásná melodie."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "It just needs a decent harmony to go along with it!",
+      "cz": "Jen to potřebuje slušnou harmonii, která k tomu bude ladit!",
+      "source": "pre_existing",
+      "original_cz": "Jen to potřebuje slušnou harmonii, která k tomu bude ladit!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Er, yeah, I don't think that's the solution.",
+      "cz": "Ehm, jo, nemyslím si, že to je řešení.",
+      "source": "pre_existing",
+      "original_cz": "Ehm, jo, nemyslím si, že to je řešení."
+    },
+    {
+      "key": "Rapunzel_006_f",
+      "en": "Do you think so?",
+      "cz": "Myslíš si to?",
+      "source": "pre_existing",
+      "original_cz": "Myslíš si to?"
+    },
+    {
+      "key": "Rapunzel_007_f",
+      "en": "Huh. Maybe it is, but I don't think it's the solution to this puzzle.",
+      "cz": "Hm. Možná ano, ale nemyslím si, že je to řešení téhle hádanky.",
+      "source": "pre_existing",
+      "original_cz": "Hm. Možná ano, ale nemyslím si, že je to řešení téhle hádanky."
+    },
+    {
+      "key": "Rapunzel_002_f",
+      "en": "Don't worry. I WILL figure this out.",
+      "cz": "Neboj se. Já to vyřeším.",
+      "source": "pre_existing",
+      "original_cz": "Neboj se. Já to vyřeším."
+    },
+    {
+      "key": "Rapunzel_003_f",
+      "en": "Why don't you go <Lore>help Gaston</Lore>? I'm worried he might get himself into trouble over there.",
+      "cz": "Proč nejdeš <Lore>pomoct Gastonovi</Lore>? Bojím se, že by se tam mohl dostat do problémů.",
+      "source": "pre_existing",
+      "original_cz": "Proč nejdeš <Lore>pomoct Gastonovi</Lore>? Bojím se, že by se tam mohl dostat do problémů."
+    },
+    {
+      "key": "Rapunzel_008_f",
+      "en": "I guess it might make a good bass melody for a set of chords...",
+      "cz": "Myslím, že by z toho mohla být dobrá basová melodie pro sadu akordů...",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že by z toho mohla být dobrá basová melodie pro sadu akordů..."
+    },
+    {
+      "key": "Rapunzel_009_f",
+      "en": "But I don't think that's the solution to our puzzle.",
+      "cz": "Ale nemyslím si, že je to řešení naší hádanky.",
+      "source": "pre_existing",
+      "original_cz": "Ale nemyslím si, že je to řešení naší hádanky."
+    },
+    {
+      "key": "Rapunzel_010_f",
+      "en": "Neither do I.",
+      "cz": "Já taky ne.",
+      "source": "pre_existing",
+      "original_cz": "Já taky ne."
+    }
+  ],
+  "Oswald_Rapunzel/Rapunzel_MRQS_E01_190_UpperTemple_MRQS_E01_190_UpperTemple_TalkTo09.locbin": [
+    {
+      "key": "Rapunzel_000_f",
+      "en": "I think I figured out part of this puzzle, {PlayerName}.",
+      "cz": "Myslím, že jsem část téhle hádanky vyřešila, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že jsem část téhle hádanky vyřešila, {PlayerName}."
+    },
+    {
+      "key": "Rapunzel_001_f",
+      "en": "It's a duet. Once you get all the musical notes in order, I'll have to stand in that circle and sing them.",
+      "cz": "Je to duet. Jakmile seřadíš všechny noty, budu se muset postavit do kruhu a zazpívat je.",
+      "source": "pre_existing",
+      "original_cz": "Je to duet. Jakmile seřadíš všechny noty, budu se muset postavit do kruhu a zazpívat je."
+    },
+    {
+      "key": "Rapunzel_003_f",
+      "en": "You can change the notes by <Lore>pressing the buttons</Lore> over there.",
+      "cz": "Tóny můžete změnit <Lore>stisknutím tlačítek</Lore> tamhle.",
+      "source": "pre_existing",
+      "original_cz": "Tóny můžete změnit <Lore>stisknutím tlačítek</Lore> tamhle."
+    },
+    {
+      "key": "Rapunzel_002_f",
+      "en": "But we still need to figure out the right melody. There <Lore>must be a clue here somewhere</Lore>...",
+      "cz": "Ale pořád musíme přijít na správnou melodii. <Lore>Někde tu musí být nápověda</Lore>...",
+      "source": "pre_existing",
+      "original_cz": "Ale pořád musíme přijít na správnou melodii. <Lore>Někde tu musí být nápověda</Lore>..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'll search for a clue.",
+      "cz": "Budu hledat nápovědu.",
+      "source": "pre_existing",
+      "original_cz": "Budu hledat nápovědu."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'll just start pulling levers and hope for the best.",
+      "cz": "Začnu prostě tahat za páky a doufat v to nejlepší.",
+      "source": "pre_existing",
+      "original_cz": "Začnu prostě tahat za páky a doufat v to nejlepší."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I'll listen closely for whichever melody sounds best.",
+      "cz": "Budu pozorně poslouchat, která melodie bude znít nejlépe.",
+      "source": "pre_existing",
+      "original_cz": "Budu pozorně poslouchat, která melodie bude znít nejlépe."
+    },
+    {
+      "key": "Rapunzel_004_f",
+      "en": "That's probably best. There are so many combinations of notes you could put together to make it different.",
+      "cz": "To je asi nejlepší. Existuje tolik kombinací not, které byste mohli dát dohromady, abyste to udělali jinak.",
+      "source": "pre_existing",
+      "original_cz": "To je asi nejlepší. Existuje tolik kombinací not, které byste mohli dát dohromady, abyste to udělali jinak."
+    },
+    {
+      "key": "Rapunzel_005_f",
+      "en": "I love that about music, but I DON'T love that for us trying to figure out this puzzle!",
+      "cz": "Tohle na hudbě miluju, ale NEMÁM ráda, že se snažíme vyřešit tuhle hádanku!",
+      "source": "pre_existing",
+      "original_cz": "Tohle na hudbě miluju, ale NEMÁM ráda, že se snažíme vyřešit tuhle hádanku!"
+    },
+    {
+      "key": "Rapunzel_006_f",
+      "en": "Are you sure you should do that?",
+      "cz": "Jsi si jistá, že to máš udělat?",
+      "source": "pre_existing",
+      "original_cz": "Jsi si jistá, že to máš udělat?"
+    },
+    {
+      "key": "Rapunzel_007_f",
+      "en": "There are so many possible combinations!",
+      "cz": "Existuje tolik možných kombinací!",
+      "source": "pre_existing",
+      "original_cz": "Existuje tolik možných kombinací!"
+    },
+    {
+      "key": "Rapunzel_008_f",
+      "en": "Maybe you could <Lore>look around here for a clue</Lore> to the right melody.",
+      "cz": "Možná bys mohla <Lore>hledat tady nějakou nápovědu</Lore> k té správné melodii.",
+      "source": "pre_existing",
+      "original_cz": "Možná bys mohla <Lore>hledat tady nějakou nápovědu</Lore> k té správné melodii."
+    },
+    {
+      "key": "Rapunzel_009_f",
+      "en": "But that's the thing that's so amazing about music. There are so many ways you can place the notes and have it make a melody.",
+      "cz": "Ale to je na hudbě tak úžasné. Existuje tolik způsobů, jak umístit noty a vytvořit z nich melodii.",
+      "source": "pre_existing",
+      "original_cz": "Ale to je na hudbě tak úžasné. Existuje tolik způsobů, jak umístit noty a vytvořit z nich melodii."
+    }
+  ],
+  "Oswald_Rapunzel/Rapunzel_MRQS_E01_190_UpperTemple_MRQS_E01_190_UpperTemple_TalkTo10.locbin": [
+    {
+      "key": "Rapunzel_000_f",
+      "en": "{PlayerName}! I'm so glad you're here! I was just walking in the Tangle feeding my capybara friends when all of a sudden...",
+      "cz": "{PlayerName}! Jsem tak ráda, že jsi tady! Zrovna jsem se procházela v Tangle a krmila své kamarády kapybary, když najednou...",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}! Jsem tak ráda, že jsi tady! Zrovna jsem se procházela v Tangle a krmila své kamarády kapybary, když najednou..."
+    },
+    {
+      "key": "Rapunzel_001_f",
+      "en": "...these rips appeared in the sky and things started turning black and white.",
+      "cz": "...na obloze se objevily trhliny a všechno se začalo měnit v černé a bílé.",
+      "source": "pre_existing",
+      "original_cz": "...na obloze se objevily trhliny a všechno se začalo měnit v černé a bílé."
+    },
+    {
+      "key": "Rapunzel_007_f",
+      "en": "I even saw a <Lore>black and white capybara</Lore> run by.",
+      "cz": "Dokonce jsem viděla, jak kolem proběhla <Lore>černobílá kapybara</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Dokonce jsem viděla, jak kolem proběhla <Lore>černobílá kapybara</Lore>."
+    },
+    {
+      "key": "Rapunzel_002_f",
+      "en": "What's happening? Should I get my frying pan?",
+      "cz": "Co se děje? Mám si vzít pánev?",
+      "source": "pre_existing",
+      "original_cz": "Co se děje? Mám si vzít pánev?"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "Jafar tricked me and got ahold of the Spark of Imagination.",
+      "cz": "Džafar mě oklamal a získal Jiskru představivosti.",
+      "source": "pre_existing",
+      "original_cz": "Džafar mě oklamal a získal Jiskru představivosti."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Now time's all messed up.",
+      "cz": "Teď je čas úplně zpackaný.",
+      "source": "pre_existing",
+      "original_cz": "Teď je čas úplně zpackaný."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Get your frying pan ready...",
+      "cz": "Připravte si pánev...",
+      "source": "pre_existing",
+      "original_cz": "Připravte si pánev..."
+    },
+    {
+      "key": "Rapunzel_003_f",
+      "en": "Oh... oh no...",
+      "cz": "Ach... ach ne...",
+      "source": "pre_existing",
+      "original_cz": "Ach... ach ne..."
+    },
+    {
+      "key": "Rapunzel_006_f",
+      "en": "If there's anything I can do to help, please let me know.",
+      "cz": "Pokud můžu s něčím pomoci, dejte mi prosím vědět.",
+      "source": "pre_existing",
+      "original_cz": "Pokud můžu s něčím pomoci, dejte mi prosím vědět."
+    },
+    {
+      "key": "Rapunzel_008_f",
+      "en": "In the meantime, I'll see if that black and white capybara likes black and white food.",
+      "cz": "Mezitím se podívám, jestli má ta černobílá kapybara ráda černobílé jídlo.",
+      "source": "pre_existing",
+      "original_cz": "Mezitím se podívám, jestli má ta černobílá kapybara ráda černobílé jídlo."
+    },
+    {
+      "key": "Rapunzel_004_f",
+      "en": "I will. Whatever is causing this deserves a good thump!",
+      "cz": "Přijdu. Ať už tohle způsobuje cokoli, zaslouží si pořádný plácnutí!",
+      "source": "pre_existing",
+      "original_cz": "Přijdu. Ať už tohle způsobuje cokoli, zaslouží si pořádný plácnutí!"
+    }
+  ],
+  "Oswald_Rapunzel/Rapunzel_MRQS_E01_190_UpperTemple_MRQS_E01_190_UpperTemple_TalkTo14.locbin": [
+    {
+      "key": "Rapunzel_001_f",
+      "en": "{PlayerName}! I think you figured out the right notes.",
+      "cz": "{PlayerName}! Myslím, že jsi vystihl/a správné tóny.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}! Myslím, že jsi vystihl/a správné tóny."
+    },
+    {
+      "key": "Rapunzel_000_f",
+      "en": "I'll try and sing your melody...",
+      "cz": "Zkusím zazpívat tvou melodii...",
+      "source": "pre_existing",
+      "original_cz": "Zkusím zazpívat tvou melodii..."
+    },
+    {
+      "key": "Rapunzel_002_f",
+      "en": "That did it! The trap door is almost open!",
+      "cz": "To je ono! Padací dveře jsou skoro otevřené!",
+      "source": "pre_existing",
+      "original_cz": "To je ono! Padací dveře jsou skoro otevřené!"
+    }
+  ],
+  "Oswald_Rapunzel/Rapunzel_VLG_Oswa_020_VLG_Oswa_020_BringItem07.locbin": [
+    {
+      "key": "Rapunzel_001_f",
+      "en": "Hi Rapunzel! Got a delivery for you!",
+      "cz": "Ahoj Lociko! Mám pro tebe zásilku!",
+      "source": "pre_existing",
+      "original_cz": "Ahoj Lociko! Mám pro tebe zásilku!"
+    },
+    {
+      "key": "Rapunzel_002_f",
+      "en": "*yawn* For me? But I wasn't expecting anything.",
+      "cz": "*zívání* Pro mě? Ale nic jsem nečekala.",
+      "source": "pre_existing",
+      "original_cz": "*zívání* Pro mě? Ale nic jsem nečekala."
+    },
+    {
+      "key": "Rapunzel_003_f",
+      "en": "Oswald and I want to apologize for waking you up.",
+      "cz": "Oswald a já se chceme omluvit, že jsme vás vzbudili.",
+      "source": "pre_existing",
+      "original_cz": "Oswald a já se chceme omluvit, že jsme vás vzbudili."
+    },
+    {
+      "key": "Rapunzel_004_f",
+      "en": "Those alarm clocks kinda went wild for a while...",
+      "cz": "Ty budíky se na chvíli trochu zbláznily...",
+      "source": "pre_existing",
+      "original_cz": "Ty budíky se na chvíli trochu zbláznily..."
+    },
+    {
+      "key": "Rapunzel_005_f",
+      "en": "That's very kind of you, but you don't need to—",
+      "cz": "To je od vás velmi laskavé, ale nemusíte—",
+      "source": "pre_existing",
+      "original_cz": "To je od vás velmi laskavé, ale nemusíte—"
+    },
+    {
+      "key": "Rapunzel_006_f",
+      "en": "*yyyyaaaaawwwwwwnnnnn*",
+      "cz": "*yyyyaaaaawwwwwwnnnn*",
+      "source": "pre_existing",
+      "original_cz": "*yyyyaaaaawwwwwwnnnn*"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Rapunzel, you're falling asleep on your feet!",
+      "cz": "Lociko, usínáš vestoje!",
+      "source": "pre_existing",
+      "original_cz": "Lociko, usínáš vestoje!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Uhh, seems like we actually do need to.",
+      "cz": "Ehm, vypadá to, že to vlastně musíme udělat.",
+      "source": "pre_existing",
+      "original_cz": "Ehm, vypadá to, že to vlastně musíme udělat."
+    },
+    {
+      "key": "Rapunzel_007_f",
+      "en": "Try this. But a little heads-up — Oswald's coffee has some odd effects to it...",
+      "cz": "Vyzkoušejte tohle. Ale malé varování – Oswaldova káva má zvláštní účinky...",
+      "source": "pre_existing",
+      "original_cz": "Vyzkoušejte tohle. Ale malé varování – Oswaldova káva má zvláštní účinky..."
+    },
+    {
+      "key": "Rapunzel_009_f",
+      "en": "Oh, I'm sure his coffee's delicious.",
+      "cz": "Jé, jeho káva je jistě vynikající.",
+      "source": "pre_existing",
+      "original_cz": "Jé, jeho káva je jistě vynikající."
+    },
+    {
+      "key": "Rapunzel_010_f",
+      "en": "*sip sip* <i>Zowie, that'll get your peepers poppin'!</i>",
+      "cz": "*sip sip* <i>Zowie, z toho ti pukne chlupy!</i>",
+      "source": "pre_existing",
+      "original_cz": "*sip sip* <i>Zowie, z toho ti pukne chlupy!</i>"
+    },
+    {
+      "key": "Rapunzel_011_f",
+      "en": "Huh? I mean...",
+      "cz": "Cože? Myslím...",
+      "source": "pre_existing",
+      "original_cz": "Cože? Myslím..."
+    },
+    {
+      "key": "Rapunzel_000_f",
+      "en": "Oh, it's happening to you too? Don't worry; it'll be over soon!",
+      "cz": "Aha, děje se to i tobě? Neboj se, brzy to skončí!",
+      "source": "pre_existing",
+      "original_cz": "Aha, děje se to i tobě? Neboj se, brzy to skončí!"
+    },
+    {
+      "key": "Rapunzel_019_f",
+      "en": "I feel wonderful. I'm going to clean my room! And then paint a picture! And then go exploring!",
+      "cz": "Cítím se skvěle. Uklidím si pokoj! A pak namaluju obraz! A pak půjdu prozkoumávat!",
+      "source": "pre_existing",
+      "original_cz": "Cítím se skvěle. Uklidím si pokoj! A pak namaluju obraz! A pak půjdu prozkoumávat!"
+    },
+    {
+      "key": "Rapunzel_020_f",
+      "en": "Wow, that makes ME feel tired.",
+      "cz": "Páni, z toho se cítím unavená.",
+      "source": "pre_existing",
+      "original_cz": "Páni, z toho se cítím unavená."
+    },
+    {
+      "key": "Rapunzel_012_f",
+      "en": "<i>That joe was like a sock right to the button!</i>",
+      "cz": "<i>Ten joe byl jako ponožka až po knoflík!</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Ten joe byl jako ponožka až po knoflík!</i>"
+    },
+    {
+      "key": "Rapunzel_013_f",
+      "en": "...",
+      "cz": "...",
+      "source": "pre_existing",
+      "original_cz": "..."
+    },
+    {
+      "key": "Rapunzel_022_f",
+      "en": "<i>If that's not the bees knees! No way I'm gonna flop at the drop of a hat now...</i>",
+      "cz": "<i>Jestli tohle nejsou včelí kolena! Teď už se ale nebudu bát jen tak...</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Jestli tohle nejsou včelí kolena! Teď už se ale nebudu bát jen tak...</i>"
+    },
+    {
+      "key": "Rapunzel_014_f",
+      "en": "You okay, Rapunzel?",
+      "cz": "Jsi v pořádku, Lociko?",
+      "source": "pre_existing",
+      "original_cz": "Jsi v pořádku, Lociko?"
+    },
+    {
+      "key": "Rapunzel_015_f",
+      "en": "Umm... <i>Best. Day. Ever!</i> ... <i>Tell that to my frying pan.</i> ... Yep, I think I'm back to normal now.",
+      "cz": "Ehm... <i>Nejlepší. Den. Vůbec!</i> ... <i>Tohle řekni mé pánvi.</i> ... Jo, myslím, že už jsem zpátky v normálu.",
+      "source": "pre_existing",
+      "original_cz": "Ehm... <i>Nejlepší. Den. Vůbec!</i> ... <i>Tohle řekni mé pánvi.</i> ... Jo, myslím, že už jsem zpátky v normálu."
+    },
+    {
+      "key": "Rapunzel_016_f",
+      "en": "That was strange... but fun!",
+      "cz": "To bylo zvláštní... ale zábavné!",
+      "source": "pre_existing",
+      "original_cz": "To bylo zvláštní... ale zábavné!"
+    },
+    {
+      "key": "Rapunzel_017_f",
+      "en": "Yeah, Oswald always has something strange up his sleeve.",
+      "cz": "Jo, Oswald má vždycky v rukávu něco zvláštního.",
+      "source": "pre_existing",
+      "original_cz": "Jo, Oswald má vždycky v rukávu něco zvláštního."
+    },
+    {
+      "key": "Rapunzel_018_f",
+      "en": "But I hope you're feeling more alert now.",
+      "cz": "Ale doufám, že se teď cítíš bdělejší.",
+      "source": "pre_existing",
+      "original_cz": "Ale doufám, že se teď cítíš bdělejší."
+    },
+    {
+      "key": "Rapunzel_021_f",
+      "en": "What? You sound like you're right out of the roaring '20s!",
+      "cz": "Cože? Zníš, jako bys právě vylezla z bujarých dvacátých let!",
+      "source": "pre_existing",
+      "original_cz": "Cože? Zníš, jako bys právě vylezla z bujarých dvacátých let!"
+    },
+    {
+      "key": "Rapunzel_008_f",
+      "en": "Try this.",
+      "cz": "Zkuste tohle.",
+      "source": "pre_existing",
+      "original_cz": "Zkuste tohle."
+    }
+  ],
+  "Oswald_Rapunzel/Rapunzel_VLG_Oswa_040_VLG_Oswa_040_TalkTo07.locbin": [
+    {
+      "key": "Rapunzel_000_f",
+      "en": "Hey Rapunzel, can I bother you for something real quick?",
+      "cz": "Ahoj Lociko, můžu tě rychle o něco poprosit?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj Lociko, můžu tě rychle o něco poprosit?"
+    },
+    {
+      "key": "Rapunzel_001_f",
+      "en": "Of course! I mean... you're never a bother, {PlayerName}.",
+      "cz": "Samozřejmě! Myslím... nikdy nejsi na obtíž, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě! Myslím... nikdy nejsi na obtíž, {PlayerName}."
+    },
+    {
+      "key": "Rapunzel_011_f",
+      "en": "A trolley? What's that?",
+      "cz": "Vozík? Co to je?",
+      "source": "pre_existing",
+      "original_cz": "Vozík? Co to je?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Oh boy, where do I start?",
+      "cz": "No páni, kde mám začít?",
+      "source": "pre_existing",
+      "original_cz": "No páni, kde mám začít?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Uhh, let's just say it's Oswald's pet and move on from there.",
+      "cz": "Ehm, řekněme, že je to Oswaldův mazlíček a budeme pokračovat dál.",
+      "source": "pre_existing",
+      "original_cz": "Ehm, řekněme, že je to Oswaldův mazlíček a budeme pokračovat dál."
+    },
+    {
+      "key": "Rapunzel_013_f",
+      "en": "I guess you could say that it's sort of like a horseless carriage that moves on its own.",
+      "cz": "Dalo by se říct, že je to něco jako kočár bez koní, který se pohybuje sám od sebe.",
+      "source": "pre_existing",
+      "original_cz": "Dalo by se říct, že je to něco jako kočár bez koní, který se pohybuje sám od sebe."
+    },
+    {
+      "key": "Rapunzel_014_f",
+      "en": "It drives around an area in a preset loop, and people can get on and off to get to where they're going faster than just walking.",
+      "cz": "Jede po oblasti v předem dané smyčce a lidé mohou nastupovat a vystupovat, aby se dostali na místo určení rychleji než jen pěšky.",
+      "source": "pre_existing",
+      "original_cz": "Jede po oblasti v předem dané smyčce a lidé mohou nastupovat a vystupovat, aby se dostali na místo určení rychleji než jen pěšky."
+    },
+    {
+      "key": "Rapunzel_015_f",
+      "en": "And Oswald brought one here? That's amazing!",
+      "cz": "A Oswald sem jeden přivezl? To je úžasné!",
+      "source": "pre_existing",
+      "original_cz": "A Oswald sem jeden přivezl? To je úžasné!"
+    },
+    {
+      "key": "Rapunzel_016_f",
+      "en": "Could I see it?",
+      "cz": "Mohla bych se na to podívat?",
+      "source": "pre_existing",
+      "original_cz": "Mohla bych se na to podívat?"
+    },
+    {
+      "key": "Rapunzel_017_f",
+      "en": "Well, uhh... it escaped and we can't find it.",
+      "cz": "No, ehm... uteklo a my ho nemůžeme najít.",
+      "source": "pre_existing",
+      "original_cz": "No, ehm... uteklo a my ho nemůžeme najít."
+    },
+    {
+      "key": "Rapunzel_020_f",
+      "en": "The trolley... escaped? I don't understand.",
+      "cz": "Vozík... utekl? Nerozumím.",
+      "source": "pre_existing",
+      "original_cz": "Vozík... utekl? Nerozumím."
+    },
+    {
+      "key": "Rapunzel_022_f",
+      "en": "And besides, finding the lost trolley is much more important than a few paintings.",
+      "cz": "A kromě toho, nalezení ztraceného vozíku je mnohem důležitější než pár obrazů.",
+      "source": "pre_existing",
+      "original_cz": "A kromě toho, nalezení ztraceného vozíku je mnohem důležitější než pár obrazů."
+    },
+    {
+      "key": "Rapunzel_010_f",
+      "en": "Here you go, {PlayerName}!",
+      "cz": "Tady máš, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Tady máš, {PlayerName}!"
+    },
+    {
+      "key": "Rapunzel_012_f",
+      "en": "Amazing. I owe you one, Rapunzel.",
+      "cz": "Úžasné. Dlužím ti jeden dluh, Lociko.",
+      "source": "pre_existing",
+      "original_cz": "Úžasné. Dlužím ti jeden dluh, Lociko."
+    },
+    {
+      "key": "Rapunzel_002_f",
+      "en": "{PlayerName}, I'm worried for the poor lost trolley!",
+      "cz": "{PlayerName}, mám strach o ten chudák ztracený vozík!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, mám strach o ten chudák ztracený vozík!"
+    },
+    {
+      "key": "Rapunzel_003_f",
+      "en": "Is there anything I can do to help? Are you creating a search party?",
+      "cz": "Mohu s něčím pomoci? Vytváříte pátrací skupinu?",
+      "source": "pre_existing",
+      "original_cz": "Mohu s něčím pomoci? Vytváříte pátrací skupinu?"
+    },
+    {
+      "key": "Rapunzel_004_f",
+      "en": "Actually, there is something you can do!",
+      "cz": "Vlastně s tím něco udělat můžeš!",
+      "source": "pre_existing",
+      "original_cz": "Vlastně s tím něco udělat můžeš!"
+    },
+    {
+      "key": "Rapunzel_005_f",
+      "en": "We wanted to make some \"Missing\" posters and set them up around Eternity Isle.",
+      "cz": "Chtěli jsme vyrobit plakáty s nápisem „Ztracení“ a umístit je po celém ostrově Eternity Isle.",
+      "source": "pre_existing",
+      "original_cz": "Chtěli jsme vyrobit plakáty s nápisem „Ztracení“ a umístit je po celém ostrově Eternity Isle."
+    },
+    {
+      "key": "Rapunzel_006_f",
+      "en": "Of course! That way you can get everyone on the Island to help.",
+      "cz": "Samozřejmě! Takhle můžeš získat pomoc od všech na ostrově.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě! Takhle můžeš získat pomoc od všech na ostrově."
+    },
+    {
+      "key": "Rapunzel_007_f",
+      "en": "And I have some blank canvasses you can use if you want.",
+      "cz": "A mám i pár prázdných pláten, které můžete použít, pokud chcete.",
+      "source": "pre_existing",
+      "original_cz": "A mám i pár prázdných pláten, které můžete použít, pokud chcete."
+    },
+    {
+      "key": "Rapunzel_008_f",
+      "en": "You sure you won't need them?",
+      "cz": "Jsi si jistá, že je nebudeš potřebovat?",
+      "source": "pre_existing",
+      "original_cz": "Jsi si jistá, že je nebudeš potřebovat?"
+    },
+    {
+      "key": "Rapunzel_009_f",
+      "en": "I won't. I've been exploring non-standard canvasses recently. I did an oval painting yesterday, and I'm working on a dodecahedral one now.",
+      "cz": "Nebudu. Nedávno jsem zkoumala nestandardní plátna. Včera jsem malovala oválný obraz a teď pracuji na dvanáctistěnném.",
+      "source": "pre_existing",
+      "original_cz": "Nebudu. Nedávno jsem zkoumala nestandardní plátna. Včera jsem malovala oválný obraz a teď pracuji na dvanáctistěnném."
+    },
+    {
+      "key": "Rapunzel_018_f",
+      "en": "Well, I love pets and animal companions.",
+      "cz": "No, miluji domácí mazlíčky a zvířecí společníky.",
+      "source": "pre_existing",
+      "original_cz": "No, miluji domácí mazlíčky a zvířecí společníky."
+    },
+    {
+      "key": "Rapunzel_019_f",
+      "en": "Can I see the new trolley and say hello?",
+      "cz": "Můžu se podívat na nový vozík a pozdravit?",
+      "source": "pre_existing",
+      "original_cz": "Můžu se podívat na nový vozík a pozdravit?"
+    },
+    {
+      "key": "Rapunzel_021_f",
+      "en": "Um, it's basically a type of machine... and it escaped.",
+      "cz": "Ehm, je to v podstatě takový stroj... a utekl.",
+      "source": "pre_existing",
+      "original_cz": "Ehm, je to v podstatě takový stroj... a utekl."
+    }
+  ],
+  "Oswald_Rapunzel/Rapunzel_VLG_Oswa_070_VLG_Oswa_070_BringItem01.locbin": [
+    {
+      "key": "Rapunzel_000_f",
+      "en": "There we are — meals for you to judge!",
+      "cz": "Tady to máme – jídla, která si můžete posoudit sami!",
+      "source": "pre_existing",
+      "original_cz": "Tady to máme – jídla, která si můžete posoudit sami!"
+    },
+    {
+      "key": "Rapunzel_009_f",
+      "en": "I have to say {PlayerName} wins.",
+      "cz": "Musím říct, že {PlayerName} vyhrává.",
+      "source": "pre_existing",
+      "original_cz": "Musím říct, že {PlayerName} vyhrává."
+    },
+    {
+      "key": "Rapunzel_010_f",
+      "en": "The task was to bring me colorful meals so I can paint a still life.",
+      "cz": "Úkolem bylo přinést mi barevná jídla, abych mohla namalovat zátiší.",
+      "source": "pre_existing",
+      "original_cz": "Úkolem bylo přinést mi barevná jídla, abych mohla namalovat zátiší."
+    },
+    {
+      "key": "Rapunzel_011_f",
+      "en": "And as much as I love this carrot, I'd like to paint something that uses more than black paint.",
+      "cz": "A i když tuhle mrkev miluju, ráda bych namalovala něco, co by používalo víc než jen černou barvu.",
+      "source": "pre_existing",
+      "original_cz": "A i když tuhle mrkev miluju, ráda bych namalovala něco, co by používalo víc než jen černou barvu."
+    },
+    {
+      "key": "Rapunzel_012_f",
+      "en": "Thanks, Rapunzel!",
+      "cz": "Díky, Lociko!",
+      "source": "pre_existing",
+      "original_cz": "Díky, Lociko!"
+    },
+    {
+      "key": "Rapunzel_001_f",
+      "en": "These are amazing! The colors are so vivid!",
+      "cz": "To je úžasné! Barvy jsou tak živé!",
+      "source": "pre_existing",
+      "original_cz": "To je úžasné! Barvy jsou tak živé!"
+    },
+    {
+      "key": "Rapunzel_002_f",
+      "en": "And what did Oswald bring?",
+      "cz": "A co přinesl Oswald?",
+      "source": "pre_existing",
+      "original_cz": "A co přinesl Oswald?"
+    },
+    {
+      "key": "Rapunzel_003_f",
+      "en": "Oh, it's a carrot. It's um... Well, I like that it's so simple.",
+      "cz": "Aha, to je mrkev. Je to, ehm... No, líbí se mi, že je to tak jednoduché.",
+      "source": "pre_existing",
+      "original_cz": "Aha, to je mrkev. Je to, ehm... No, líbí se mi, že je to tak jednoduché."
+    },
+    {
+      "key": "Rapunzel_004_f",
+      "en": "It's very... clean.",
+      "cz": "Je to velmi... čisté.",
+      "source": "pre_existing",
+      "original_cz": "Je to velmi... čisté."
+    },
+    {
+      "key": "Rapunzel_005_f",
+      "en": "So in your opinion, which would make for the more interesting still-life painting?",
+      "cz": "Takže podle vašeho názoru, který obraz zátiší by byl zajímavější?",
+      "source": "pre_existing",
+      "original_cz": "Takže podle vašeho názoru, který obraz zátiší by byl zajímavější?"
+    },
+    {
+      "key": "Rapunzel_006_f",
+      "en": "It's so hard to decide. I don't want to hurt anyone's feelings...",
+      "cz": "Je tak těžké se rozhodnout. Nechci nikoho zranit...",
+      "source": "pre_existing",
+      "original_cz": "Je tak těžké se rozhodnout. Nechci nikoho zranit..."
+    },
+    {
+      "key": "Rapunzel_007_f",
+      "en": "It's okay, Rapunzel; we accept that there has to be a winner and a loser here.",
+      "cz": "To je v pořádku, Lociko; akceptujeme, že tady musí být vítěz a poražený.",
+      "source": "pre_existing",
+      "original_cz": "To je v pořádku, Lociko; akceptujeme, že tady musí být vítěz a poražený."
+    },
+    {
+      "key": "Rapunzel_008_f",
+      "en": "Well, if you insist...",
+      "cz": "No, když na tom trváš...",
+      "source": "pre_existing",
+      "original_cz": "No, když na tom trváš..."
+    }
+  ],
+  "Oswald_Rapunzel/Rapunzel_VLG_Oswa_070_VLG_Oswa_070_Intro.locbin": [
+    {
+      "key": "Rapunzel_000_f",
+      "en": "Hi, Rapunzel! Do you have a moment for a fun little distraction?",
+      "cz": "Ahoj, Lociko! Máš chvilku na malé zábavné rozptýlení?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, Lociko! Máš chvilku na malé zábavné rozptýlení?"
+    },
+    {
+      "key": "Rapunzel_002_f",
+      "en": "Of course, {PlayerName}. I always have time for fun!",
+      "cz": "Samozřejmě, {PlayerName}. Vždycky mám čas na zábavu!",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě, {PlayerName}. Vždycky mám čas na zábavu!"
+    },
+    {
+      "key": "Rapunzel_003_f",
+      "en": "In fact, I was just about to offer to reorganize Merlin's library based on colors instead of alphabetically.",
+      "cz": "Vlastně jsem se právě chystala nabídnout reorganizaci Merlinovy ​​knihovny podle barev místo abecedy.",
+      "source": "pre_existing",
+      "original_cz": "Vlastně jsem se právě chystala nabídnout reorganizaci Merlinovy ​​knihovny podle barev místo abecedy."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "How artistic!",
+      "cz": "Jak umělecké!",
+      "source": "pre_existing",
+      "original_cz": "Jak umělecké!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Honestly, that's probably more organized than how Merlin's books are now.",
+      "cz": "Upřímně řečeno, je to asi lépe uspořádané než teď, co má Merlin v knihách.",
+      "source": "pre_existing",
+      "original_cz": "Upřímně řečeno, je to asi lépe uspořádané než teď, co má Merlin v knihách."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "My librarian instincts aren't a fan of that idea...",
+      "cz": "Mé knihovnické instinkty tenhle nápad moc nenabízejí...",
+      "source": "pre_existing",
+      "original_cz": "Mé knihovnické instinkty tenhle nápad moc nenabízejí..."
+    },
+    {
+      "key": "Rapunzel_004_f",
+      "en": "Oh, but what's the distraction you had in mind? I can wait on my library plans.",
+      "cz": "Ale jaké rozptýlení jsi měla na mysli? Můžu počkat na své plány do knihovny.",
+      "source": "pre_existing",
+      "original_cz": "Ale jaké rozptýlení jsi měla na mysli? Můžu počkat na své plány do knihovny."
+    },
+    {
+      "key": "Rapunzel_013_f",
+      "en": "And then I'll tell you which set of meals would make for the most colorful still-life painting.",
+      "cz": "A pak vám řeknu, která sada jídel by byla pro nejbarevnější zátiší.",
+      "source": "pre_existing",
+      "original_cz": "A pak vám řeknu, která sada jídel by byla pro nejbarevnější zátiší."
+    },
+    {
+      "key": "Rapunzel_014_f",
+      "en": "I'm on it!",
+      "cz": "Jdu na to!",
+      "source": "pre_existing",
+      "original_cz": "Jdu na to!"
+    },
+    {
+      "key": "Rapunzel_001_f",
+      "en": "Great! And don't worry; I'll tell Oswald all about his part.",
+      "cz": "Skvělé! A nebojte se; Oswaldovi povím o jeho roli.",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! A nebojte se; Oswaldovi povím o jeho roli."
+    },
+    {
+      "key": "Rapunzel_005_f",
+      "en": "Well, Oswald and I are having a fierce contest.",
+      "cz": "No, Oswald a já spolu svádíme nelítostný souboj.",
+      "source": "pre_existing",
+      "original_cz": "No, Oswald a já spolu svádíme nelítostný souboj."
+    },
+    {
+      "key": "Rapunzel_006_f",
+      "en": "How exciting!",
+      "cz": "Jak vzrušující!",
+      "source": "pre_existing",
+      "original_cz": "Jak vzrušující!"
+    },
+    {
+      "key": "Rapunzel_007_f",
+      "en": "We need you to give us a task and then judge who did it better.",
+      "cz": "Potřebujeme, abyste nám zadali úkol a pak posoudili, kdo ho udělal lépe.",
+      "source": "pre_existing",
+      "original_cz": "Potřebujeme, abyste nám zadali úkol a pak posoudili, kdo ho udělal lépe."
+    },
+    {
+      "key": "Rapunzel_008_f",
+      "en": "All right. Let me think for a moment...",
+      "cz": "Dobře. Nech mě na chvíli přemýšlet...",
+      "source": "pre_existing",
+      "original_cz": "Dobře. Nech mě na chvíli přemýšlet..."
+    },
+    {
+      "key": "Rapunzel_009_f",
+      "en": "Okay, I have an idea!",
+      "cz": "Dobře, mám nápad!",
+      "source": "pre_existing",
+      "original_cz": "Dobře, mám nápad!"
+    },
+    {
+      "key": "Rapunzel_010_f",
+      "en": "I've been thinking about colors a lot lately and how I can make more interesting choices with my art.",
+      "cz": "V poslední době hodně přemýšlím o barvách a o tom, jak mohu ve svém umění dělat zajímavější volby.",
+      "source": "pre_existing",
+      "original_cz": "V poslední době hodně přemýšlím o barvách a o tom, jak mohu ve svém umění dělat zajímavější volby."
+    },
+    {
+      "key": "Rapunzel_011_f",
+      "en": "So I've decided to paint a still life.",
+      "cz": "Tak jsem se rozhodla namalovat zátiší.",
+      "source": "pre_existing",
+      "original_cz": "Tak jsem se rozhodla namalovat zátiší."
+    },
+    {
+      "key": "Rapunzel_012_f",
+      "en": "Here's my challenge: <Lore>Bring me 3 colorful meals</Lore>.",
+      "cz": "Zde je moje výzva: <Lore>Přineste mi 3 barevná jídla</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Zde je moje výzva: <Lore>Přineste mi 3 barevná jídla</Lore>."
+    },
+    {
+      "key": "Rapunzel_015_f",
+      "en": "Hmm... Maybe I should rethink it, then.",
+      "cz": "Hmm... Možná bych si to pak měla rozmyslet.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Možná bych si to pak měla rozmyslet."
+    }
+  ],
+  "Oswald_Rapunzel/Rapunzel_VLG_Oswa_070_VLG_Oswa_070_Ongoing01.locbin": [
+    {
+      "key": "Rapunzel_000_f",
+      "en": "How's the challenge going , {PlayerName}?",
+      "cz": "Jak jde výzva, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Jak jde výzva, {PlayerName}?"
+    },
+    {
+      "key": "Rapunzel_001_f",
+      "en": "Well, I'm still trying to figure out which <Lore>3 colorful meals</Lore> to make...",
+      "cz": "No, pořád se snažím vymyslet, která <Lore>3 barevná jídla</Lore> mám udělat...",
+      "source": "pre_existing",
+      "original_cz": "No, pořád se snažím vymyslet, která <Lore>3 barevná jídla</Lore> mám udělat..."
+    },
+    {
+      "key": "Rapunzel_002_f",
+      "en": "If you need some advice, you could always try <Lore>talking to Remy</Lore>.",
+      "cz": "Pokud potřebuješ poradit, můžeš si vždycky zkusit <Lore>promluvit s Remym</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Pokud potřebuješ poradit, můžeš si vždycky zkusit <Lore>promluvit s Remym</Lore>."
+    }
+  ],
+  "Oswald_Rapunzel/Rapunzel_VLG_Oswa_070_VLG_Oswa_070_Ongoing02.locbin": [
+    {
+      "key": "Rapunzel_000_f",
+      "en": "All done with my meals!",
+      "cz": "Už je konec s mým jídlem!",
+      "source": "pre_existing",
+      "original_cz": "Už je konec s mým jídlem!"
+    },
+    {
+      "key": "Rapunzel_001_f",
+      "en": "Great! Why don't you check with Oswald to see how he's doing?",
+      "cz": "Skvělé! Proč se nezeptáš Oswalda, jak se mu daří?",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Proč se nezeptáš Oswalda, jak se mu daří?"
+    }
+  ],
+  "Oswald_Rapunzel/Rapunzel_VLG_Oswa_070_VLG_Oswa_070_Ongoing03.locbin": [
+    {
+      "key": "Rapunzel_000_f",
+      "en": "How do Oswald's meals look?",
+      "cz": "Jak vypadají Oswaldova jídla?",
+      "source": "pre_existing",
+      "original_cz": "Jak vypadají Oswaldova jídla?"
+    },
+    {
+      "key": "Rapunzel_001_f",
+      "en": "I'll uhh... let you be the judge of that. Just need to grab my dishes. I put them down for a moment.",
+      "cz": "Ehm... nechám to na vás, abyste to posoudili. Jen si musím vzít nádobí. Na chvíli jsem ho položila.",
+      "source": "pre_existing",
+      "original_cz": "Ehm... nechám to na vás, abyste to posoudili. Jen si musím vzít nádobí. Na chvíli jsem ho položila."
+    }
+  ]
+}

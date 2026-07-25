@@ -1,0 +1,88 @@
+{
+  "daisy_Mirabel/Mirabel_VLG_Dais_020_VLG_Dais_020_TalkTo09.locbin": [
+    {
+      "key": "Mirabel_001_f",
+      "en": "Hola, {PlayerName}! Wow, you look busier than my sister Luisa on \"move the donkeys to the pasture\" day. What's going on?",
+      "cz": "Ahoj, {PlayerName}! Páni, vypadáš zaneprázdněněji než moje sestra Luisa v den, kdy se má \"přesunout osly na pastvu\". Co se děje?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}! Páni, vypadáš zaneprázdněněji než moje sestra Luisa v den, kdy se má \"přesunout osly na pastvu\". Co se děje?"
+    },
+    {
+      "key": "Mirabel_002_f",
+      "en": "I'm helping Minnie and Daisy launch their fashion line: Dots & Daisies. They need a <ActivityItem>Sewing Machine</ActivityItem> to get started.",
+      "cz": "Pomáhám Minnie a Daisy spustit jejich módní řadu: Dots & Daisies. Potřebují <ActivityItem>šicí stroj</ActivityItem>, aby mohly začít.",
+      "source": "pre_existing",
+      "original_cz": "Pomáhám Minnie a Daisy spustit jejich módní řadu: Dots & Daisies. Potřebují <ActivityItem>šicí stroj</ActivityItem>, aby mohly začít."
+    },
+    {
+      "key": "Player_000_f",
+      "en": "Do you have an extra one they could borrow?",
+      "cz": "Máte nějaký navíc, který by si mohli půjčit?",
+      "source": "pre_existing",
+      "original_cz": "Máte nějaký navíc, který by si mohli půjčit?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "They'd really appreciate it.",
+      "cz": "Opravdu by to ocenili.",
+      "source": "pre_existing",
+      "original_cz": "Opravdu by to ocenili."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "It would help a lot.",
+      "cz": "Hodně by to pomohlo.",
+      "source": "pre_existing",
+      "original_cz": "Hodně by to pomohlo."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Can you believe they don't already have one?",
+      "cz": "Věříš, že už žádný nemají?",
+      "source": "pre_existing",
+      "original_cz": "Věříš, že už žádný nemají?"
+    },
+    {
+      "key": "Mirabel_003_f",
+      "en": "I can do better than that — I can give them a sewing machine to keep! I have an extra one I never use.",
+      "cz": "Můžu udělat něco lepšího – můžu jim dát šicí stroj, aby si ho nechali! Mám jeden navíc, který nikdy nepoužívám.",
+      "source": "pre_existing",
+      "original_cz": "Můžu udělat něco lepšího – můžu jim dát šicí stroj, aby si ho nechali! Mám jeden navíc, který nikdy nepoužívám."
+    },
+    {
+      "key": "Mirabel_004_f",
+      "en": "That's so great! Muchas gracias, Mirabel!",
+      "cz": "To je tak skvělé! Muchas gracias, Mirabel!",
+      "source": "pre_existing",
+      "original_cz": "To je tak skvělé! Muchas gracias, Mirabel!"
+    },
+    {
+      "key": "Mirabel_008_f",
+      "en": "De nada! Ooh, maybe I can have a sewing party with them.",
+      "cz": "Nic! Jé, možná si s nimi můžu dát šicí párty.",
+      "source": "pre_existing",
+      "original_cz": "Nic! Jé, možná si s nimi můžu dát šicí párty."
+    },
+    {
+      "key": "Mirabel_006_f",
+      "en": "Well, sometimes you miss the forest for the sewing machine!",
+      "cz": "No, někdy se vám kvůli šicímu stroji les zasteskne!",
+      "source": "pre_existing",
+      "original_cz": "No, někdy se vám kvůli šicímu stroji les zasteskne!"
+    },
+    {
+      "key": "Mirabel_007_f",
+      "en": "... That joke was funnier in my head. ANYWAY!",
+      "cz": "... Ten vtip mi v hlavě přišel vtipnější. KAŽDODÁVNĚ!",
+      "source": "pre_existing",
+      "original_cz": "... Ten vtip mi v hlavě přišel vtipnější. KAŽDODÁVNĚ!"
+    },
+    {
+      "key": "Mirabel_000_f",
+      "en": "I can't lend them a sewing machine.",
+      "cz": "Nemůžu jim půjčit šicí stroj.",
+      "source": "pre_existing",
+      "original_cz": "Nemůžu jim půjčit šicí stroj."
+    }
+  ]
+}

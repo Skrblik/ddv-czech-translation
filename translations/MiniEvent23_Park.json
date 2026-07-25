@@ -1,0 +1,295 @@
+{
+  "MiniEvent23_Park/Buzz_ParkFest_020.locbin": [
+    {
+      "key": "Repeatable!Event!Park!Buzz_ParkFest_020_Any_CompletedRequestDescription",
+      "en": "Talk to Buzz.",
+      "cz": "Promluv si s Buzzem.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Buzzem."
+    },
+    {
+      "key": "Repeatable!Event!Park!Buzz_ParkFest_020_AvailableDescription",
+      "en": "Buzz has an idea for celebrating Dreamlight Parks Fest with Woody.",
+      "cz": "Buzz má nápad, jak oslavit festival Dreamlight Parks s Woodym.",
+      "source": "pre_existing",
+      "original_cz": "Buzz má nápad, jak oslavit festival Dreamlight Parks s Woodym."
+    },
+    {
+      "key": "Repeatable!Event!Park!Buzz_ParkFest_020_CompletedStoryDescription",
+      "en": "You take all the photos and bring them to Buzz. What will Woody think of the scrapbook idea?",
+      "cz": "Vezmeš všechny fotky a doneseš je Buzzovi. Co si Woody pomyslí o nápadu s albem?",
+      "source": "pre_existing",
+      "original_cz": "Vezmeš všechny fotky a doneseš je Buzzovi. Co si Woody pomyslí o nápadu s albem?"
+    },
+    {
+      "key": "Repeatable!Event!Park!Buzz_ParkFest_020_DisplayName",
+      "en": "Dreamlight Parks Fest: Toy Camera",
+      "cz": "Festival parků Dreamlight: Dětská kamera",
+      "source": "pre_existing",
+      "original_cz": "Festival parků Dreamlight: Dětská kamera"
+    },
+    {
+      "key": "Repeatable!Event!Park!Buzz_ParkFest_020_Group01_Step01_StepDescription",
+      "en": "Take photos of items in the Toy Story Realm:",
+      "cz": "Vyfoťte si předměty v Říši hraček:",
+      "source": "pre_existing",
+      "original_cz": "Vyfoťte si předměty v Říši hraček:"
+    },
+    {
+      "key": "Repeatable!Event!Park!Buzz_ParkFest_020_Group01_Step01_TakePicture01_StepDescription",
+      "en": "A Ladybug.",
+      "cz": "Beruška.",
+      "source": "pre_existing",
+      "original_cz": "Beruška."
+    },
+    {
+      "key": "Repeatable!Event!Park!Buzz_ParkFest_020_Group01_Step01_TakePicture02_StepDescription",
+      "en": "A Unicorn.",
+      "cz": "Jednorožec.",
+      "source": "pre_existing",
+      "original_cz": "Jednorožec."
+    },
+    {
+      "key": "Repeatable!Event!Park!Buzz_ParkFest_020_Group01_Step01_TakePicture03_StepDescription",
+      "en": "Butterflies.",
+      "cz": "Motýli.",
+      "source": "pre_existing",
+      "original_cz": "Motýli."
+    },
+    {
+      "key": "Repeatable!Event!Park!Buzz_ParkFest_020_Group01_Step01_TakePicture04_StepDescription",
+      "en": "Bonnie Anderson.",
+      "cz": "Bonnie Andersonová.",
+      "source": "pre_existing",
+      "original_cz": "Bonnie Andersonová."
+    },
+    {
+      "key": "Repeatable!Event!Park!Buzz_ParkFest_020_Group01_Step01_TakePicture05_StepDescription",
+      "en": "Dolphins.",
+      "cz": "Delfíni.",
+      "source": "pre_existing",
+      "original_cz": "Delfíni."
+    },
+    {
+      "key": "Repeatable!Event!Park!Buzz_ParkFest_020_Group01_StoryDescription",
+      "en": "He wants to collect photos to make a scrapbook with Woody. He asks you to return to the Toy Story Realm to take photos they can use in the project.",
+      "cz": "Chce nasbírat fotky, aby si s Woodym vytvořil album. Požádá vás, abyste se vrátili do Říše hraček a pořídili fotky, které mohou v projektu použít.",
+      "source": "pre_existing",
+      "original_cz": "Chce nasbírat fotky, aby si s Woodym vytvořil album. Požádá vás, abyste se vrátili do Říše hraček a pořídili fotky, které mohou v projektu použít."
+    },
+    {
+      "key": "Repeatable!Event!Park!Buzz_ParkFest_020_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol"
+    }
+  ],
+  "MiniEvent23_Park/Wood_ParkFest_010.locbin": [
+    {
+      "key": "Repeatable!Event!Park!Wood_ParkFest_010_AvailableDescription",
+      "en": "Woody has an idea for celebrating Dreamlight Parks Fest...",
+      "cz": "Woody má nápad, jak oslavit festival Dreamlight Parks...",
+      "source": "pre_existing",
+      "original_cz": "Woody má nápad, jak oslavit festival Dreamlight Parks..."
+    },
+    {
+      "key": "Repeatable!Event!Park!Wood_ParkFest_010_CompletedStoryDescription",
+      "en": "You bring the supplies for the checkerboard to Woody. He's extremely happy and gives you a reward as thanks.",
+      "cz": "Doneseš Woodymu pomůcky na šachovnici. Je nesmírně šťastný a jako poděkování ti dá odměnu.",
+      "source": "pre_existing",
+      "original_cz": "Doneseš Woodymu pomůcky na šachovnici. Je nesmírně šťastný a jako poděkování ti dá odměnu."
+    },
+    {
+      "key": "Repeatable!Event!Park!Wood_ParkFest_010_DisplayName",
+      "en": "Dreamlight Parks Fest: Checkerboard Chums",
+      "cz": "Festival parků Dreamlight: Šachovnicoví kamarádi",
+      "source": "pre_existing",
+      "original_cz": "Festival parků Dreamlight: Šachovnicoví kamarádi"
+    },
+    {
+      "key": "Repeatable!Event!Park!Wood_ParkFest_010_Group01_Step01_Possess01_StepDescription",
+      "en": "{itemName}.",
+      "cz": "{itemName}.",
+      "source": "pre_existing",
+      "original_cz": "{itemName}."
+    },
+    {
+      "key": "Repeatable!Event!Park!Wood_ParkFest_010_Group01_Step01_Possess02_StepDescription",
+      "en": "{itemName}.",
+      "cz": "{itemName}.",
+      "source": "pre_existing",
+      "original_cz": "{itemName}."
+    },
+    {
+      "key": "Repeatable!Event!Park!Wood_ParkFest_010_Group01_Step01_Possess03_StepDescription",
+      "en": "{itemName}.",
+      "cz": "{itemName}.",
+      "source": "pre_existing",
+      "original_cz": "{itemName}."
+    },
+    {
+      "key": "Repeatable!Event!Park!Wood_ParkFest_010_Group01_Step01_StepDescription",
+      "en": "Gather materials for Woody's checkerboard.",
+      "cz": "Sesbírej materiály na Woodyho šachovnici.",
+      "source": "pre_existing",
+      "original_cz": "Sesbírej materiály na Woodyho šachovnici."
+    },
+    {
+      "key": "Repeatable!Event!Park!Wood_ParkFest_010_Group01_StoryDescription",
+      "en": "He's been missing his games of checkers with Slinky Dog. He wants to make a board of his own to teach Buzz how to play and asks for help gathering materials to make it.",
+      "cz": "Chybí mu jeho hry dámy se Slinky Dogem. Chce si vyrobit vlastní desku, aby naučil Buzze hrát, a prosí o pomoc se shromažďováním materiálů na její výrobu.",
+      "source": "pre_existing",
+      "original_cz": "Chybí mu jeho hry dámy se Slinky Dogem. Chce si vyrobit vlastní desku, aby naučil Buzze hrát, a prosí o pomoc se shromažďováním materiálů na její výrobu."
+    },
+    {
+      "key": "Repeatable!Event!Park!Wood_ParkFest_010_Group02_Step02_BringItem01_StepDescription",
+      "en": "{itemName}.",
+      "cz": "{itemName}.",
+      "source": "pre_existing",
+      "original_cz": "{itemName}."
+    },
+    {
+      "key": "Repeatable!Event!Park!Wood_ParkFest_010_Group02_Step02_BringItem02_StepDescription",
+      "en": "{itemName}.",
+      "cz": "{itemName}.",
+      "source": "pre_existing",
+      "original_cz": "{itemName}."
+    },
+    {
+      "key": "Repeatable!Event!Park!Wood_ParkFest_010_Group02_Step02_BringItem03_StepDescription",
+      "en": "{itemName}.",
+      "cz": "{itemName}.",
+      "source": "pre_existing",
+      "original_cz": "{itemName}."
+    },
+    {
+      "key": "Repeatable!Event!Park!Wood_ParkFest_010_Group02_Step02_ReadyDescription",
+      "en": "Bring the checkerboard materials to Woody.",
+      "cz": "Dones Woodymu materiály na šachovnici.",
+      "source": "pre_existing",
+      "original_cz": "Dones Woodymu materiály na šachovnici."
+    },
+    {
+      "key": "Repeatable!Event!Park!Wood_ParkFest_010_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol"
+    }
+  ],
+  "MiniEvent23_Park/Wood_ParkFest_030.locbin": [
+    {
+      "key": "Repeatable!Event!Park!Wood_ParkFest_030_Any_CompletedRequestDescription",
+      "en": "Talk to Woody.",
+      "cz": "Promluv si s Woodym.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Woodym."
+    },
+    {
+      "key": "Repeatable!Event!Park!Wood_ParkFest_030_AvailableDescription",
+      "en": "Buzz and Woody want to bring more fun to the Valley for Dreamlight Parks Fest.",
+      "cz": "Buzz a Woody chtějí do údolí přinést více zábavy na festival Dreamlight Parks Fest.",
+      "source": "pre_existing",
+      "original_cz": "Buzz a Woody chtějí do údolí přinést více zábavy na festival Dreamlight Parks Fest."
+    },
+    {
+      "key": "Repeatable!Event!Park!Wood_ParkFest_030_CompletedStoryDescription",
+      "en": "You've finished decorating the Plaza, Meadow, and Dazzle Beach. What do Buzz and Woody think?",
+      "cz": "Dokončili jste výzdobu náměstí, louky a pláže Dazzle Beach. Co si o tom myslí Buzz a Woody?",
+      "source": "pre_existing",
+      "original_cz": "Dokončili jste výzdobu náměstí, louky a pláže Dazzle Beach. Co si o tom myslí Buzz a Woody?"
+    },
+    {
+      "key": "Repeatable!Event!Park!Wood_ParkFest_030_DisplayName",
+      "en": "Dreamlight Parks Fest: Playground Games",
+      "cz": "Festival parků Dreamlight: Hry na hřišti",
+      "source": "pre_existing",
+      "original_cz": "Festival parků Dreamlight: Hry na hřišti"
+    },
+    {
+      "key": "Repeatable!Event!Park!Wood_ParkFest_030_Group01_Step01_Decorate01_StepDescription",
+      "en": "Playful furniture.",
+      "cz": "Hravý nábytek.",
+      "source": "pre_existing",
+      "original_cz": "Hravý nábytek."
+    },
+    {
+      "key": "Repeatable!Event!Park!Wood_ParkFest_030_Group01_Step01_Decorate02_StepDescription",
+      "en": "Toy Story furniture.",
+      "cz": "Nábytek z Příběhu hraček.",
+      "source": "pre_existing",
+      "original_cz": "Nábytek z Příběhu hraček."
+    },
+    {
+      "key": "Repeatable!Event!Park!Wood_ParkFest_030_Group01_Step01_StepDescription",
+      "en": "Plaza:",
+      "cz": "Náměstí:",
+      "source": "pre_existing",
+      "original_cz": "Náměstí:"
+    },
+    {
+      "key": "Repeatable!Event!Park!Wood_ParkFest_030_Group01_Step02_Decorate03_StepDescription",
+      "en": "Playful furniture.",
+      "cz": "Hravý nábytek.",
+      "source": "pre_existing",
+      "original_cz": "Hravý nábytek."
+    },
+    {
+      "key": "Repeatable!Event!Park!Wood_ParkFest_030_Group01_Step02_Decorate04_StepDescription",
+      "en": "Toy Story furniture.",
+      "cz": "Nábytek z Příběhu hraček.",
+      "source": "pre_existing",
+      "original_cz": "Nábytek z Příběhu hraček."
+    },
+    {
+      "key": "Repeatable!Event!Park!Wood_ParkFest_030_Group01_Step02_StepDescription",
+      "en": "Meadow:",
+      "cz": "Louka:",
+      "source": "pre_existing",
+      "original_cz": "Louka:"
+    },
+    {
+      "key": "Repeatable!Event!Park!Wood_ParkFest_030_Group01_Step03_Decorate05_StepDescription",
+      "en": "Playful furniture.",
+      "cz": "Hravý nábytek.",
+      "source": "pre_existing",
+      "original_cz": "Hravý nábytek."
+    },
+    {
+      "key": "Repeatable!Event!Park!Wood_ParkFest_030_Group01_Step03_Decorate06_StepDescription",
+      "en": "Toy Story furniture.",
+      "cz": "Nábytek z Příběhu hraček.",
+      "source": "pre_existing",
+      "original_cz": "Nábytek z Příběhu hraček."
+    },
+    {
+      "key": "Repeatable!Event!Park!Wood_ParkFest_030_Group01_Step03_StepDescription",
+      "en": "Beach:",
+      "cz": "Pláž:",
+      "source": "pre_existing",
+      "original_cz": "Pláž:"
+    },
+    {
+      "key": "Repeatable!Event!Park!Wood_ParkFest_030_Group01_StepDescription",
+      "en": "Decorate the Plaza, the Meadow and the Beach.",
+      "cz": "Ozdobte náměstí, louku a pláž.",
+      "source": "pre_existing",
+      "original_cz": "Ozdobte náměstí, louku a pláž."
+    },
+    {
+      "key": "Repeatable!Event!Park!Wood_ParkFest_030_Group01_StoryDescription",
+      "en": "They suggest decorating with some special furniture to bring a little more fun to the Valley.",
+      "cz": "Navrhují vyzdobit údolí nějakým speciálním nábytkem, aby se do něj vneslo trochu více zábavy.",
+      "source": "pre_existing",
+      "original_cz": "Navrhují vyzdobit údolí nějakým speciálním nábytkem, aby se do něj vneslo trochu více zábavy."
+    },
+    {
+      "key": "Repeatable!Event!Park!Wood_ParkFest_030_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Spustit úkol"
+    }
+  ]
+}

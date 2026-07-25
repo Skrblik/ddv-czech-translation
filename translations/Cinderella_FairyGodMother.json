@@ -1,0 +1,1092 @@
+{
+  "Cinderella_FairyGodMother/FairyGodMother_SEC_Fair_010_SEC_Fair_010_BringItem01.locbin": [
+    {
+      "key": "FairyGodMother_000_f",
+      "en": "Fairy Godmother, I was wondering if you might know something about this shoe I found.",
+      "cz": "Kmotro vílo, zajímalo by mě, jestli bys mohla něco vědět o téhle botě, kterou jsem našla.",
+      "source": "pre_existing",
+      "original_cz": "Kmotro vílo, zajímalo by mě, jestli bys mohla něco vědět o téhle botě, kterou jsem našla."
+    },
+    {
+      "key": "FairyGodMother_002_f",
+      "en": "A single shoe? How odd when only two will do.",
+      "cz": "Jedna bota? Jak zvláštní, když stačí jen dvě.",
+      "source": "pre_existing",
+      "original_cz": "Jedna bota? Jak zvláštní, když stačí jen dvě."
+    },
+    {
+      "key": "FairyGodMother_003_f",
+      "en": "Goodness! This isn't just any shoe, my dear.",
+      "cz": "Proboha! Tohle není jen tak ledajaká bota, drahoušku.",
+      "source": "pre_existing",
+      "original_cz": "Proboha! Tohle není jen tak ledajaká bota, drahoušku."
+    },
+    {
+      "key": "FairyGodMother_015_f",
+      "en": "It's a very special glass slipper that belongs to a very special someone: Princess Cinderella.",
+      "cz": "Je to velmi speciální skleněný střevíček, který patří někomu velmi zvláštnímu: princezně Popelce.",
+      "source": "pre_existing",
+      "original_cz": "Je to velmi speciální skleněný střevíček, který patří někomu velmi zvláštnímu: princezně Popelce."
+    },
+    {
+      "key": "FairyGodMother_001_f",
+      "en": "There it is, her <ActivityItem>Small Spell Pumpkin</ActivityItem>!",
+      "cz": "Tady je, její <ActivityItem>Malá kouzelná dýně</ActivityItem>!",
+      "source": "pre_existing",
+      "original_cz": "Tady je, její <ActivityItem>Malá kouzelná dýně</ActivityItem>!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Is Cinderella trapped in that pumpkin?",
+      "cz": "Je Popelka uvězněná v té dýni?",
+      "source": "pre_existing",
+      "original_cz": "Je Popelka uvězněná v té dýni?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Did you turn Cinderella into a pumpkin?",
+      "cz": "Proměnil jsi Popelku v dýni?",
+      "source": "pre_existing",
+      "original_cz": "Proměnil jsi Popelku v dýni?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Does that pumpkin turn into a carriage for Cinderella?",
+      "cz": "Promění se ta dýně v kočár pro Popelku?",
+      "source": "pre_existing",
+      "original_cz": "Promění se ta dýně v kočár pro Popelku?"
+    },
+    {
+      "key": "FairyGodMother_004_f",
+      "en": "Oh, no, nothing like that. Let me explain...",
+      "cz": "Ale ne, nic takového. Dovolte mi to vysvětlit...",
+      "source": "pre_existing",
+      "original_cz": "Ale ne, nic takového. Dovolte mi to vysvětlit..."
+    },
+    {
+      "key": "FairyGodMother_007_f",
+      "en": "Many years ago, when the Forgetting came, I magically whisked Cinderella away to somewhere she'd be protected. The glass slipper is a sign that it's finally safe for her to return!",
+      "cz": "Před mnoha lety, když přišlo Zapomnění, jsem kouzelně odnesl Popelku na místo, kde by byla chráněna. Skleněný střevíček je znamením, že se konečně může bezpečně vrátit!",
+      "source": "pre_existing",
+      "original_cz": "Před mnoha lety, když přišlo Zapomnění, jsem kouzelně odnesl Popelku na místo, kde by byla chráněna. Skleněný střevíček je znamením, že se konečně může bezpečně vrátit!"
+    },
+    {
+      "key": "FairyGodMother_008_f",
+      "en": "Now, we must use this special pumpkin to undo the spell.",
+      "cz": "Teď musíme použít tuhle speciální dýni, abychom kouzlo zrušili.",
+      "source": "pre_existing",
+      "original_cz": "Teď musíme použít tuhle speciální dýni, abychom kouzlo zrušili."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "What do I have to do?",
+      "cz": "Co musím udělat?",
+      "source": "pre_existing",
+      "original_cz": "Co musím udělat?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Are you sure Cinderella will be safe here?",
+      "cz": "Jsi si jistá, že Popelka tu bude v bezpečí?",
+      "source": "pre_existing",
+      "original_cz": "Jsi si jistá, že Popelka tu bude v bezpečí?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "That's a strange looking pumpkin.",
+      "cz": "To je divně vypadající dýně.",
+      "source": "pre_existing",
+      "original_cz": "To je divně vypadající dýně."
+    },
+    {
+      "key": "FairyGodMother_009_f",
+      "en": "A <ActivityItem>Wish Enchantment</ActivityItem> will do the trick. Find the means and make it quick. Then <Lore>use it with your Watering Can</Lore>. That's my Bibbidi-Bobbidi-Boo plan!",
+      "cz": "<ActivityItem>Kouzlo přání</ActivityItem> postačí. Najdi si způsob a udělej to rychle. Pak to <Lore>použij se svou konví</Lore>. To je můj Bibbidi-Bobbidi-Boo plán!",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Kouzlo přání</ActivityItem> postačí. Najdi si způsob a udělej to rychle. Pak to <Lore>použij se svou konví</Lore>. To je můj Bibbidi-Bobbidi-Boo plán!"
+    },
+    {
+      "key": "FairyGodMother_010_f",
+      "en": "Oh yes, dear. All you've done to save the Valley since the Forgetting has ensured that it's the perfect time for her to return.",
+      "cz": "Ano, drahoušku. Všechno, co jsi udělala pro záchranu Údolí od Zapomnění, zajistilo, že je ideální čas pro její návrat.",
+      "source": "pre_existing",
+      "original_cz": "Ano, drahoušku. Všechno, co jsi udělala pro záchranu Údolí od Zapomnění, zajistilo, že je ideální čas pro její návrat."
+    },
+    {
+      "key": "FairyGodMother_012_f",
+      "en": "Okay. What do I have to do to bring her back?",
+      "cz": "Dobře. Co musím udělat, abych ji přivedl zpátky?",
+      "source": "pre_existing",
+      "original_cz": "Dobře. Co musím udělat, abych ji přivedl zpátky?"
+    },
+    {
+      "key": "FairyGodMother_011_f",
+      "en": "Well, it's actually an enchantment that's shaped like a pumpkin. You'll see.",
+      "cz": "No, je to vlastně kouzlo ve tvaru dýně. Uvidíš.",
+      "source": "pre_existing",
+      "original_cz": "No, je to vlastně kouzlo ve tvaru dýně. Uvidíš."
+    },
+    {
+      "key": "FairyGodMother_005_f",
+      "en": "Of course not! Let me explain...",
+      "cz": "Samozřejmě že ne! Dovolte mi to vysvětlit...",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě že ne! Dovolte mi to vysvětlit..."
+    },
+    {
+      "key": "FairyGodMother_006_f",
+      "en": "Oh, no, not this one. Let me explain...",
+      "cz": "Ale ne, tenhle ne. Dovolte mi to vysvětlit...",
+      "source": "pre_existing",
+      "original_cz": "Ale ne, tenhle ne. Dovolte mi to vysvětlit..."
+    }
+  ],
+  "Cinderella_FairyGodMother/FairyGodMother_SEC_Fair_010_SEC_Fair_010_BringItem02.locbin": [
+    {
+      "key": "FairyGodMother_001_f",
+      "en": "Safe at last, one fully grown <ActivityItem>Spell Pumpkin</ActivityItem>.",
+      "cz": "Konečně v bezpečí, jedna plně dospělá <ActivityItem>kouzelná dýně</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Konečně v bezpečí, jedna plně dospělá <ActivityItem>kouzelná dýně</ActivityItem>."
+    },
+    {
+      "key": "FairyGodMother_002_f",
+      "en": "Wonderful! You've nearly reversed the spell. Soon Cinderella will be able to rejoin us!",
+      "cz": "Skvělé! Málem jsi zvrátil kouzlo. Brzy se k nám Popelka bude moci znovu připojit!",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Málem jsi zvrátil kouzlo. Brzy se k nám Popelka bude moci znovu připojit!"
+    },
+    {
+      "key": "FairyGodMother_005_f",
+      "en": "What's next then?",
+      "cz": "Co bude dál?",
+      "source": "pre_existing",
+      "original_cz": "Co bude dál?"
+    },
+    {
+      "key": "FairyGodMother_000_f",
+      "en": "First, our Cinderella will need a <Lore>home</Lore>. Now, let me see... Domus domesticus, nunc apparicus, Bibbidi-Bobbidi-Boo!",
+      "cz": "Za prvé, naše Popelka bude potřebovat <Lore>domov</Lore>. Teď se podívám... Domus domesticus, nunc apparicus, Bibbidi-Bobbidi-Boo!",
+      "source": "pre_existing",
+      "original_cz": "Za prvé, naše Popelka bude potřebovat <Lore>domov</Lore>. Teď se podívám... Domus domesticus, nunc apparicus, Bibbidi-Bobbidi-Boo!"
+    },
+    {
+      "key": "FairyGodMother_008_f",
+      "en": "You'll find that you have Cinderella's home now, {PlayerName}. You know what to do!",
+      "cz": "Zjistíš, že teď máš Popelčin domov, {PlayerName}. Víš, co máš dělat!",
+      "source": "pre_existing",
+      "original_cz": "Zjistíš, že teď máš Popelčin domov, {PlayerName}. Víš, co máš dělat!"
+    },
+    {
+      "key": "FairyGodMother_009_f",
+      "en": "<Lore>Place Cinderella's House</Lore> somewhere in the Valley? Got it. What else?",
+      "cz": "<Lore>Umístit Popelčin dům</Lore> někam do údolí? Rozumím. Co ještě?",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Umístit Popelčin dům</Lore> někam do údolí? Rozumím. Co ještě?"
+    },
+    {
+      "key": "FairyGodMother_003_f",
+      "en": "You must place our <ActivityItem>Spell Pumpkin</ActivityItem> near the <Lore>Plaza's Wishing Well</Lore> so she may return there.",
+      "cz": "Musíš umístit naši <ActivityItem>Kouzelnou dýni</ActivityItem> blízko <Lore>Studny přání</Lore> na náměstí, aby se tam mohla vrátit.",
+      "source": "pre_existing",
+      "original_cz": "Musíš umístit naši <ActivityItem>Kouzelnou dýni</ActivityItem> blízko <Lore>Studny přání</Lore> na náměstí, aby se tam mohla vrátit."
+    },
+    {
+      "key": "FairyGodMother_004_f",
+      "en": "Oh, and to make it welcoming, please place <Lore>some Elegant furniture</Lore> around it. I wanted to be sure Cinderella felt welcomed when she returned. Now, the furniture MUST be <Lore>white, blue, and yellow</Lore> for the spell to work.",
+      "cz": "A aby to bylo příjemné, umístěte kolem něj prosím <Lore>nějaký elegantní nábytek</Lore>. Chtěla jsem se ujistit, že se Popelka po svém návratu bude cítit vítána. Aby kouzlo fungovalo, nábytek MUSÍ být <Lore>bílý, modrý a žlutý</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "A aby to bylo příjemné, umístěte kolem něj prosím <Lore>nějaký elegantní nábytek</Lore>. Chtěla jsem se ujistit, že se Popelka po svém návratu bude cítit vítána. Aby kouzlo fungovalo, nábytek MUSÍ být <Lore>bílý, modrý a žlutý</Lore>."
+    }
+  ],
+  "Cinderella_FairyGodMother/FairyGodMother_SEC_Fair_010_SEC_Fair_010_FollowingBarkDialogue01.locbin": [
+    {
+      "key": "FairyGodMother_000_f",
+      "en": "To cast the returning spell, arrange the <ActivityItem>Spell Pumpkin</ActivityItem> well!",
+      "cz": "Abys seslal/a kouzlo návratu, dobře uspořádej <ActivityItem>Dýni s kouzlem</ActivityItem>!",
+      "source": "pre_existing",
+      "original_cz": "Abys seslal/a kouzlo návratu, dobře uspořádej <ActivityItem>Dýni s kouzlem</ActivityItem>!"
+    }
+  ],
+  "Cinderella_FairyGodMother/FairyGodMother_SEC_Fair_010_SEC_Fair_010_Ongoing01.locbin": [
+    {
+      "key": "FairyGodMother_000_f",
+      "en": "What would I do, if I had a shoe? Why, I'd bring it home so it wouldn't roam!",
+      "cz": "Co bych dělal, kdybych měl botu? Vždyť bych si ji vzal domů, aby se nepotulovala!",
+      "source": "pre_existing",
+      "original_cz": "Co bych dělal, kdybych měl botu? Vždyť bych si ji vzal domů, aby se nepotulovala!"
+    }
+  ],
+  "Cinderella_FairyGodMother/FairyGodMother_SEC_Fair_010_SEC_Fair_010_Ongoing02.locbin": [
+    {
+      "key": "FairyGodMother_000_f",
+      "en": "To return Cinderella to the Valley, first you must make a <ActivityItem>Wish Enchantment</ActivityItem>.",
+      "cz": "Abyste Popelku vrátili do Údolí, musíte nejprve provést <ActivityItem>Kouzlo přání</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Abyste Popelku vrátili do Údolí, musíte nejprve provést <ActivityItem>Kouzlo přání</ActivityItem>."
+    }
+  ],
+  "Cinderella_FairyGodMother/FairyGodMother_SEC_Fair_010_SEC_Fair_010_Ongoing03.locbin": [
+    {
+      "key": "FairyGodMother_000_f",
+      "en": "Well done, my dear. Those Ingredients will make a fine <ActivityItem>Wish Enchantment</ActivityItem>.",
+      "cz": "Výborně, drahoušku. Z těchto ingrediencí bude skvělé <ActivityItem>Kouzlo přání</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Výborně, drahoušku. Z těchto ingrediencí bude skvělé <ActivityItem>Kouzlo přání</ActivityItem>."
+    }
+  ],
+  "Cinderella_FairyGodMother/FairyGodMother_SEC_Fair_010_SEC_Fair_010_Ongoing04.locbin": [
+    {
+      "key": "FairyGodMother_000_f",
+      "en": "If you use that <ActivityItem>Wish Enchantment</ActivityItem> on your Watering Can, the results will be truly magical!",
+      "cz": "Pokud použijete to <ActivityItem>Kouzlo přání</ActivityItem> na své konvici na zalévání, výsledky budou skutečně kouzelné!",
+      "source": "pre_existing",
+      "original_cz": "Pokud použijete to <ActivityItem>Kouzlo přání</ActivityItem> na své konvici na zalévání, výsledky budou skutečně kouzelné!"
+    }
+  ],
+  "Cinderella_FairyGodMother/FairyGodMother_SEC_Fair_010_SEC_Fair_010_Ongoing05.locbin": [
+    {
+      "key": "FairyGodMother_000_f",
+      "en": "The <ActivityItem>Small Spell Pumpkin</ActivityItem> must grow bigger, so please <Lore>plant it</Lore> in the Valley.",
+      "cz": "<ActivityItem>Malá kouzelná dýně</ActivityItem> musí vyrůst, takže ji prosím <Lore>zasaďte</Lore> do údolí.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Malá kouzelná dýně</ActivityItem> musí vyrůst, takže ji prosím <Lore>zasaďte</Lore> do údolí."
+    }
+  ],
+  "Cinderella_FairyGodMother/FairyGodMother_SEC_Fair_010_SEC_Fair_010_Ongoing06.locbin": [
+    {
+      "key": "FairyGodMother_000_f",
+      "en": "Don't forget: Our <ActivityItem>Small Spell Pumpkin</ActivityItem> must be watered to grow.",
+      "cz": "Nezapomeňte: Naše <ActivityItem>Malá kouzelná dýně</ActivityItem> musí být zalévána, aby rostla.",
+      "source": "pre_existing",
+      "original_cz": "Nezapomeňte: Naše <ActivityItem>Malá kouzelná dýně</ActivityItem> musí být zalévána, aby rostla."
+    }
+  ],
+  "Cinderella_FairyGodMother/FairyGodMother_SEC_Fair_010_SEC_Fair_010_Ongoing07.locbin": [
+    {
+      "key": "FairyGodMother_000_f",
+      "en": "Please place our <ActivityItem>Spell Pumpkin</ActivityItem> near the Plaza's Wishing Well, then surround it with eight pieces of white, yellow, or blue furniture. That will complete the spell of returning!",
+      "cz": "Prosím, umístěte naši <ActivityItem>Kouzelnou dýni</ActivityItem> poblíž studny přání na náměstí a poté ji obklopte osmi kusy bílého, žlutého nebo modrého nábytku. Tím se kouzlo návratu dokončí!",
+      "source": "pre_existing",
+      "original_cz": "Prosím, umístěte naši <ActivityItem>Kouzelnou dýni</ActivityItem> poblíž studny přání na náměstí a poté ji obklopte osmi kusy bílého, žlutého nebo modrého nábytku. Tím se kouzlo návratu dokončí!"
+    }
+  ],
+  "Cinderella_FairyGodMother/FairyGodMother_SEC_Fair_010_SEC_Fair_010_Ongoing08.locbin": [
+    {
+      "key": "FairyGodMother_000_f",
+      "en": "It's nearly done! We must go check on our <ActivityItem>Spell Pumpkin</ActivityItem>.",
+      "cz": "Už je to skoro hotové! Musíme se jít podívat na naši <ActivityItem>Kouzelnou dýni</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Už je to skoro hotové! Musíme se jít podívat na naši <ActivityItem>Kouzelnou dýni</ActivityItem>."
+    }
+  ],
+  "Cinderella_FairyGodMother/FairyGodMother_SEC_Fair_010_SEC_Fair_010_Ongoing09.locbin": [
+    {
+      "key": "FairyGodMother_000_f",
+      "en": "She's back! My dear Cinderella has returned.",
+      "cz": "Je zpět! Moje drahá Popelka se vrátila.",
+      "source": "pre_existing",
+      "original_cz": "Je zpět! Moje drahá Popelka se vrátila."
+    }
+  ],
+  "Cinderella_FairyGodMother/FairyGodMother_SEC_Fair_010_SEC_Fair_010_Ongoing11.locbin": [
+    {
+      "key": "FairyGodMother_000_f",
+      "en": "Cinderella will need a place to stay. Please <Lore>place her home</Lore> without delay!",
+      "cz": "Popelka bude potřebovat ubytování. Prosím, <Lore>ubytujte ji</Lore> bez prodlení!",
+      "source": "pre_existing",
+      "original_cz": "Popelka bude potřebovat ubytování. Prosím, <Lore>ubytujte ji</Lore> bez prodlení!"
+    }
+  ],
+  "Cinderella_FairyGodMother/FairyGodMother_SEC_Fair_010_SEC_Fair_010_Ongoing12.locbin": [
+    {
+      "key": "FairyGodMother_000_f",
+      "en": "Visit me inside my home, dear. We can discuss the spell to return Cinderella to us there.",
+      "cz": "Navštiv mě doma, drahá. Můžeme probrat kouzlo, které nám tam vrátí Popelku.",
+      "source": "pre_existing",
+      "original_cz": "Navštiv mě doma, drahá. Můžeme probrat kouzlo, které nám tam vrátí Popelku."
+    }
+  ],
+  "Cinderella_FairyGodMother/FairyGodMother_SEC_Fair_010_SEC_Fair_010_Ongoing13.locbin": [
+    {
+      "key": "FairyGodMother_000_f",
+      "en": "Thank goodness our <ActivityItem>Spell Pumpkin</ActivityItem> is safe and not soup!",
+      "cz": "Díkybohu, naše <ActivityItem>kouzelná dýně</ActivityItem> je bezpečná a ne polévka!",
+      "source": "pre_existing",
+      "original_cz": "Díkybohu, naše <ActivityItem>kouzelná dýně</ActivityItem> je bezpečná a ne polévka!"
+    }
+  ],
+  "Cinderella_FairyGodMother/FairyGodMother_SEC_Fair_010_SEC_Fair_010_Ongoing14.locbin": [
+    {
+      "key": "FairyGodMother_000_f",
+      "en": "Oh dear, where has our <ActivityItem>Spell Pumpkin</ActivityItem> gone?!",
+      "cz": "Ach jo, kam se poděla naše <ActivityItem>Kouzelná dýně</ActivityItem>?!",
+      "source": "pre_existing",
+      "original_cz": "Ach jo, kam se poděla naše <ActivityItem>Kouzelná dýně</ActivityItem>?!"
+    }
+  ],
+  "Cinderella_FairyGodMother/FairyGodMother_SEC_Fair_010_SEC_Fair_010_Ongoing15.locbin": [
+    {
+      "key": "FairyGodMother_000_f",
+      "en": "Please stop Remy before he makes our <ActivityItem>Spell Pumpkin</ActivityItem> into a pie!",
+      "cz": "Prosím, zastavte Remyho, než z naší <ActivityItem>Kouzlené dýně</ActivityItem> udělá koláč!",
+      "source": "pre_existing",
+      "original_cz": "Prosím, zastavte Remyho, než z naší <ActivityItem>Kouzlené dýně</ActivityItem> udělá koláč!"
+    }
+  ],
+  "Cinderella_FairyGodMother/FairyGodMother_SEC_Fair_010_SEC_Fair_010_Ongoing16.locbin": [
+    {
+      "key": "FairyGodMother_000_f",
+      "en": "Did Remy return our <ActivityItem>Spell Pumpkin</ActivityItem> safely?",
+      "cz": "Vrátil Remy v pořádku naši <ActivityItem>Kouzelnou dýni</ActivityItem>?",
+      "source": "pre_existing",
+      "original_cz": "Vrátil Remy v pořádku naši <ActivityItem>Kouzelnou dýni</ActivityItem>?"
+    }
+  ],
+  "Cinderella_FairyGodMother/FairyGodMother_SEC_Fair_010_SEC_Fair_010_Ongoing17.locbin": [
+    {
+      "key": "FairyGodMother_000_f",
+      "en": "Use the Scrooge McDuck Sign to pay for the construction of Cinderella's House!",
+      "cz": "Použijte ceduli Scrooge McDucka k zaplacení stavby Popelčina domu!",
+      "source": "pre_existing",
+      "original_cz": "Použijte ceduli Scrooge McDucka k zaplacení stavby Popelčina domu!"
+    }
+  ],
+  "Cinderella_FairyGodMother/FairyGodMother_SEC_Fair_010_SEC_Fair_010_Outro01.locbin": [
+    {
+      "key": "FairyGodMother_000_f",
+      "en": "Are you feeling well after your return, Princess? Is the Valley as you remembered it?",
+      "cz": "Cítíte se po svém návratu dobře, princezno? Je údolí takové, jaké sis ho pamatovala?",
+      "source": "pre_existing",
+      "original_cz": "Cítíte se po svém návratu dobře, princezno? Je údolí takové, jaké sis ho pamatovala?"
+    },
+    {
+      "key": "FairyGodMother_001_f",
+      "en": "Oh, it's as wonderful as I remember! Thank you so much, Fairy Godmother! And of course, you too, {PlayerName}.",
+      "cz": "Je to tak úžasné, jak si to pamatuji! Moc děkuji, vílo kmotro! A samozřejmě i tobě, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Je to tak úžasné, jak si to pamatuji! Moc děkuji, vílo kmotro! A samozřejmě i tobě, {PlayerName}."
+    },
+    {
+      "key": "FairyGodMother_002_f",
+      "en": "No problem! We're glad to have you back.",
+      "cz": "Žádný problém! Jsme rádi, že jste zpět.",
+      "source": "pre_existing",
+      "original_cz": "Žádný problém! Jsme rádi, že jste zpět."
+    },
+    {
+      "key": "FairyGodMother_003_f",
+      "en": "Now that you've returned, my dear, what would you like to do?",
+      "cz": "Teď, když ses vrátil/a, drahý/á, co bys chtěl/a dělat?",
+      "source": "pre_existing",
+      "original_cz": "Teď, když ses vrátil/a, drahý/á, co bys chtěl/a dělat?"
+    },
+    {
+      "key": "FairyGodMother_004_f",
+      "en": "Why, I'm not sure... So much has changed since I left. What do you think I should do first, {PlayerName}?",
+      "cz": "Proč, nejsem si jistý... Tolik se toho změnilo od té doby, co jsem odešel. Co myslíš, že bych měl udělat nejdřív, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Proč, nejsem si jistý... Tolik se toho změnilo od té doby, co jsem odešel. Co myslíš, že bych měl udělat nejdřív, {PlayerName}?"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "Why don't you...",
+      "cz": "Proč ne...",
+      "source": "pre_existing",
+      "original_cz": "Proč ne..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "...get a good meal? You must be starving after being stuck in a pumpkin for so long!",
+      "cz": "...dáš si dobré jídlo? Musíš mít po tak dlouhé době zavřený v dýni hlad!",
+      "source": "pre_existing",
+      "original_cz": "...dáš si dobré jídlo? Musíš mít po tak dlouhé době zavřený v dýni hlad!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "...re-introduce yourself to all the Villagers!",
+      "cz": "...znovu se představ všem vesničanům!",
+      "source": "pre_existing",
+      "original_cz": "...znovu se představ všem vesničanům!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "...arrange your House exactly as you like it!",
+      "cz": "...zařiďte si dům přesně podle svých představ!",
+      "source": "pre_existing",
+      "original_cz": "...zařiďte si dům přesně podle svých představ!"
+    },
+    {
+      "key": "FairyGodMother_005_f",
+      "en": "Oh, I wasn't stuck in the pumpkin. I was somewhere odd, but very comfortable.",
+      "cz": "Nebyl jsem uvězněný v dýni. Byl jsem na divném místě, ale cítil jsem se tam docela pohodlně.",
+      "source": "pre_existing",
+      "original_cz": "Nebyl jsem uvězněný v dýni. Byl jsem na divném místě, ale cítil jsem se tam docela pohodlně."
+    },
+    {
+      "key": "FairyGodMother_010_f",
+      "en": "I do look forward to trying all the new recipes I'm sure you've discovered since I left.",
+      "cz": "Těším se, až vyzkouším všechny nové recepty, které jsi určitě objevila od té doby, co jsem odešla.",
+      "source": "pre_existing",
+      "original_cz": "Těším se, až vyzkouším všechny nové recepty, které jsi určitě objevila od té doby, co jsem odešla."
+    },
+    {
+      "key": "FairyGodMother_008_f",
+      "en": "Thank you for reuniting us, {PlayerName}.",
+      "cz": "Děkujeme, že jste nás znovu spojili, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Děkujeme, že jste nás znovu spojili, {PlayerName}."
+    },
+    {
+      "key": "FairyGodMother_009_f",
+      "en": "Yes, thank you. I hope today is the renewal of a wonderful friendship, for all of us.",
+      "cz": "Ano, děkuji. Doufám, že dnešní den je pro nás všechny obnovením úžasného přátelství.",
+      "source": "pre_existing",
+      "original_cz": "Ano, děkuji. Doufám, že dnešní den je pro nás všechny obnovením úžasného přátelství."
+    },
+    {
+      "key": "FairyGodMother_006_f",
+      "en": "You're right; we haven't spoken in so long! I look forward to seeing my friends.",
+      "cz": "Máš pravdu, tak dlouho jsme spolu nemluvili! Těším se, až uvidím své přátele.",
+      "source": "pre_existing",
+      "original_cz": "Máš pravdu, tak dlouho jsme spolu nemluvili! Těším se, až uvidím své přátele."
+    },
+    {
+      "key": "FairyGodMother_007_f",
+      "en": "That's a very good idea. I look forward to seeing what's inside.",
+      "cz": "To je moc dobrý nápad. Těším se, co bude uvnitř.",
+      "source": "pre_existing",
+      "original_cz": "To je moc dobrý nápad. Těším se, co bude uvnitř."
+    }
+  ],
+  "Cinderella_FairyGodMother/FairyGodMother_SEC_Fair_010_SEC_Fair_010_TalkTo01.locbin": [
+    {
+      "key": "FairyGodMother_001_f",
+      "en": "You're ready! How wonderful! Now, take this <ActivityItem>Small Spell Pumpkin</ActivityItem>.",
+      "cz": "Jste připraveni! To je skvělé! A teď si vezměte tuto <ActivityItem>Malou kouzelnou dýni</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Jste připraveni! To je skvělé! A teď si vezměte tuto <ActivityItem>Malou kouzelnou dýni</ActivityItem>."
+    },
+    {
+      "key": "FairyGodMother_002_f",
+      "en": "Thanks, I think? But what do I do with it?",
+      "cz": "Díky, myslím si. Ale co s tím mám dělat?",
+      "source": "pre_existing",
+      "original_cz": "Díky, myslím si. Ale co s tím mám dělat?"
+    },
+    {
+      "key": "FairyGodMother_003_f",
+      "en": "Plant the <ActivityItem>Small Spell Pumpkin</ActivityItem> anywhere in <Lore>the Valley</Lore>, and then water it with the enchantment.",
+      "cz": "Zasaďte <ActivityItem>Malou kouzelnou dýni</ActivityItem> kamkoli do <Lore>Údolí</Lore> a poté ji zalijte očarováním.",
+      "source": "pre_existing",
+      "original_cz": "Zasaďte <ActivityItem>Malou kouzelnou dýni</ActivityItem> kamkoli do <Lore>Údolí</Lore> a poté ji zalijte očarováním."
+    },
+    {
+      "key": "FairyGodMother_004_f",
+      "en": "It will grow to its full size, and Cinderella will be returned to us!",
+      "cz": "Vyroste do své plné velikosti a Popelka se nám vrátí!",
+      "source": "pre_existing",
+      "original_cz": "Vyroste do své plné velikosti a Popelka se nám vrátí!"
+    }
+  ],
+  "Cinderella_FairyGodMother/FairyGodMother_SEC_Fair_010_SEC_Fair_010_TalkTo03.locbin": [
+    {
+      "key": "FairyGodMother_000_f",
+      "en": "Fairy Godmother, our <ActivityItem>Spell Pumpkin</ActivityItem> is missing! Was disappearing part of the magic?",
+      "cz": "Vílo kmotro, naše <ActivityItem>kouzelná dýně</ActivityItem> se ztratila! Bylo zmizení součástí magie?",
+      "source": "pre_existing",
+      "original_cz": "Vílo kmotro, naše <ActivityItem>kouzelná dýně</ActivityItem> se ztratila! Bylo zmizení součástí magie?"
+    },
+    {
+      "key": "FairyGodMother_001_f",
+      "en": "Goodness, no! It was supposed to grow, and then be harvested. I can't imagine what could have gone wrong, unless...",
+      "cz": "Proboha, ne! Mělo to vyrůst a pak se to sklidit. Nedokážu si představit, co se mohlo pokazit, ledaže...",
+      "source": "pre_existing",
+      "original_cz": "Proboha, ne! Mělo to vyrůst a pak se to sklidit. Nedokážu si představit, co se mohlo pokazit, ledaže..."
+    },
+    {
+      "key": "FairyGodMother_002_f",
+      "en": "Unless what?",
+      "cz": "Ledaže co?",
+      "source": "pre_existing",
+      "original_cz": "Ledaže co?"
+    },
+    {
+      "key": "FairyGodMother_003_f",
+      "en": "I did notice <Lore>Remy</Lore> walk by the <ActivityItem>Spell Pumpkin</ActivityItem> earlier with Mickey. Remy might have been looking for ingredients for his restaurant...",
+      "cz": "Všiml jsem si, jak <Lore>Remy</Lore> předtím šel s Mickeym kolem <ActivityItem>Kouzelné dýně</ActivityItem>. Remy možná hledal ingredience do své restaurace...",
+      "source": "pre_existing",
+      "original_cz": "Všiml jsem si, jak <Lore>Remy</Lore> předtím šel s Mickeym kolem <ActivityItem>Kouzelné dýně</ActivityItem>. Remy možná hledal ingredience do své restaurace..."
+    },
+    {
+      "key": "FairyGodMother_005_f",
+      "en": "And I just recalled, I told him some time ago that he could help himself to any of my pumpkins! Oh dear!",
+      "cz": "A právě jsem si vzpomněla, že jsem mu před časem říkala, že si může vzít kteroukoli z mých dýní! Ach jo!",
+      "source": "pre_existing",
+      "original_cz": "A právě jsem si vzpomněla, že jsem mu před časem říkala, že si může vzít kteroukoli z mých dýní! Ach jo!"
+    },
+    {
+      "key": "FairyGodMother_004_f",
+      "en": "I have to stop him before he puts our <ActivityItem>Spell Pumpkin</ActivityItem> on the menu!",
+      "cz": "Musím ho zastavit, než dá na menu naši <ActivityItem>Kouzelnou dýni</ActivityItem>!",
+      "source": "pre_existing",
+      "original_cz": "Musím ho zastavit, než dá na menu naši <ActivityItem>Kouzelnou dýni</ActivityItem>!"
+    }
+  ],
+  "Cinderella_FairyGodMother/FairyGodMother_VLG_Cind_030_VLG_Cind_030_TalkTo01.locbin": [
+    {
+      "key": "FairyGodMother_001_f",
+      "en": "Cinderella, {PlayerName}! What a lovely surprise to see you, dears.",
+      "cz": "Popelko, {PlayerName}! To je krásné překvapení vás vidět, moji drazí.",
+      "source": "pre_existing",
+      "original_cz": "Popelko, {PlayerName}! To je krásné překvapení vás vidět, moji drazí."
+    },
+    {
+      "key": "FairyGodMother_002_f",
+      "en": "Would you like some pumpkin-spiced tea and perhaps a pumpkin scone?",
+      "cz": "Dali byste si dýňový čaj a třeba dýňový koláček?",
+      "source": "pre_existing",
+      "original_cz": "Dali byste si dýňový čaj a třeba dýňový koláček?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "That sounds delicious, but it will have to wait.",
+      "cz": "To zní lahodně, ale bude to muset počkat.",
+      "source": "pre_existing",
+      "original_cz": "To zní lahodně, ale bude to muset počkat."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "No time to chat; we're here on business!",
+      "cz": "Není čas na povídání, jsme tu pracovně!",
+      "source": "pre_existing",
+      "original_cz": "Není čas na povídání, jsme tu pracovně!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I'm not a fan of pumpkin.",
+      "cz": "Nejsem fanoušek dýní.",
+      "source": "pre_existing",
+      "original_cz": "Nejsem fanoušek dýní."
+    },
+    {
+      "key": "FairyGodMother_003_f",
+      "en": "I'm afraid we haven't come for tea, Fairy Godmother. We have a question about magic for you.",
+      "cz": "Obávám se, že jsme nepřišli na čaj, paní vílo. Máme na vás otázku ohledně magie.",
+      "source": "pre_existing",
+      "original_cz": "Obávám se, že jsme nepřišli na čaj, paní vílo. Máme na vás otázku ohledně magie."
+    },
+    {
+      "key": "FairyGodMother_004_f",
+      "en": "Of course. How may I help?",
+      "cz": "Samozřejmě. Jak můžu pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě. Jak můžu pomoct?"
+    },
+    {
+      "key": "FairyGodMother_008_f",
+      "en": "A <ActivityItem>Mysterious Fabric Scrap</ActivityItem> and some <ActivityItem>White Buttons</ActivityItem> magically appeared when Cinderella and I were spending time together recently.",
+      "cz": "Když jsme nedávno s Popelkou trávily čas spolu, kouzelně se objevil <ActivityItem>Záhadný útržek látky</ActivityItem> a několik <ActivityItem>Bílých knoflíků</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Když jsme nedávno s Popelkou trávily čas spolu, kouzelně se objevil <ActivityItem>Záhadný útržek látky</ActivityItem> a několik <ActivityItem>Bílých knoflíků</ActivityItem>."
+    },
+    {
+      "key": "FairyGodMother_007_f",
+      "en": "I think they're pieces of another magical Memento.",
+      "cz": "Myslím, že jsou to kousky dalšího magického mementa.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že jsou to kousky dalšího magického mementa."
+    },
+    {
+      "key": "FairyGodMother_015_f",
+      "en": "Appeared magically, you say? Hmm... What feelings do they give you, {PlayerName}?",
+      "cz": "Říkáš, že se objevily magicky? Hmm... Jaké pocity ve tobě vyvolávají, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Říkáš, že se objevily magicky? Hmm... Jaké pocity ve tobě vyvolávají, {PlayerName}?"
+    },
+    {
+      "key": "Player_002_f",
+      "en": "When I look at them...",
+      "cz": "Když se na ně dívám...",
+      "source": "pre_existing",
+      "original_cz": "Když se na ně dívám..."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "...I get a strange, nostalgic feeling.",
+      "cz": "...Mám zvláštní, nostalgický pocit.",
+      "source": "pre_existing",
+      "original_cz": "...Mám zvláštní, nostalgický pocit."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "...they make me feel sad and hollow.",
+      "cz": "...kvůli nim se cítím smutně a prázdně.",
+      "source": "pre_existing",
+      "original_cz": "...kvůli nim se cítím smutně a prázdně."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "...I get BIG feelings. I do NOT want those, thank you very much!",
+      "cz": "...Mám VELKÉ pocity. Tyhle nechci, moc děkuji!",
+      "source": "pre_existing",
+      "original_cz": "...Mám VELKÉ pocity. Tyhle nechci, moc děkuji!"
+    },
+    {
+      "key": "FairyGodMother_016_f",
+      "en": "Goodness! Something <Lore>magical is happening</Lore> right at this moment! And it certainly wasn't me.",
+      "cz": "Proboha! Právě teď se děje něco <Lore>magického</Lore>! A rozhodně jsem to nebyl já.",
+      "source": "pre_existing",
+      "original_cz": "Proboha! Právě teď se děje něco <Lore>magického</Lore>! A rozhodně jsem to nebyl já."
+    },
+    {
+      "key": "FairyGodMother_006_f",
+      "en": "I've got no idea what they are, where they came from, or why they showed up...",
+      "cz": "Nemám tušení, co jsou zač, odkud se vzali nebo proč se objevili...",
+      "source": "pre_existing",
+      "original_cz": "Nemám tušení, co jsou zač, odkud se vzali nebo proč se objevili..."
+    },
+    {
+      "key": "FairyGodMother_011_f",
+      "en": "Oh, dear.",
+      "cz": "Ach, drahý.",
+      "source": "pre_existing",
+      "original_cz": "Ach, drahý."
+    },
+    {
+      "key": "FairyGodMother_012_f",
+      "en": "Well, I hope you don't mind the pumpkin-ness of my home.",
+      "cz": "No, doufám, že ti nevadí, že můj domov je dýňový.",
+      "source": "pre_existing",
+      "original_cz": "No, doufám, že ti nevadí, že můj domov je dýňový."
+    }
+  ],
+  "Cinderella_FairyGodMother/FairyGodMother_VLG_Cind_030_VLG_Cind_030_TalkTo02.locbin": [
+    {
+      "key": "FairyGodMother_000_f",
+      "en": "These photographs... They're of a school dance a long time ago.",
+      "cz": "Tyto fotografie... Jsou ze školního plesu před dávnou dobou.",
+      "source": "pre_existing",
+      "original_cz": "Tyto fotografie... Jsou ze školního plesu před dávnou dobou."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "It was supposed to be an evening of fun with my best friends.",
+      "cz": "Měl to být večer plný zábavy s mými nejlepšími přáteli.",
+      "source": "pre_existing",
+      "original_cz": "Měl to být večer plný zábavy s mými nejlepšími přáteli."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I wanted to dance with my crush.",
+      "cz": "Chtěla jsem si zatančit se svou láskou.",
+      "source": "pre_existing",
+      "original_cz": "Chtěla jsem si zatančit se svou láskou."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I thought it was sort of silly, but everyone else was going.",
+      "cz": "Přišlo mi to trochu hloupé, ale všichni ostatní tam šli.",
+      "source": "pre_existing",
+      "original_cz": "Přišlo mi to trochu hloupé, ale všichni ostatní tam šli."
+    },
+    {
+      "key": "FairyGodMother_003_f",
+      "en": "But you're not pictured in any of these images...",
+      "cz": "Ale na žádném z těchto obrázků nejsi vyfocený/á...",
+      "source": "pre_existing",
+      "original_cz": "Ale na žádném z těchto obrázků nejsi vyfocený/á..."
+    },
+    {
+      "key": "FairyGodMother_005_f",
+      "en": "How curious. Perhaps {PlayerName} was magically removed.",
+      "cz": "To je zvláštní. Možná byl {PlayerName} ​​magicky odstraněn.",
+      "source": "pre_existing",
+      "original_cz": "To je zvláštní. Možná byl {PlayerName} ​​magicky odstraněn."
+    },
+    {
+      "key": "Player_001_f",
+      "en": "No, I remember now. I missed the dance because I got the flu!",
+      "cz": "Ne, teď si vzpomínám. Zmeškal jsem ples, protože jsem dostal chřipku!",
+      "source": "pre_existing",
+      "original_cz": "Ne, teď si vzpomínám. Zmeškal jsem ples, protože jsem dostal chřipku!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I was so sick, I had to miss it.",
+      "cz": "Bylo mi tak špatně, musel jsem si to nechat ujít.",
+      "source": "pre_existing",
+      "original_cz": "Bylo mi tak špatně, musel jsem si to nechat ujít."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I must have slept through the entire thing.",
+      "cz": "Asi jsem to celé prospal/a.",
+      "source": "pre_existing",
+      "original_cz": "Asi jsem to celé prospal/a."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I tried to sneak out and was marched back to bed.",
+      "cz": "Zkusil jsem se vytratit ven a odvedli mě zpátky do postele.",
+      "source": "pre_existing",
+      "original_cz": "Zkusil jsem se vytratit ven a odvedli mě zpátky do postele."
+    },
+    {
+      "key": "FairyGodMother_006_f",
+      "en": "It was supposed to be a dream come true, but it was ruined for me.",
+      "cz": "Měl to být splněný sen, ale pro mě byl zničený.",
+      "source": "pre_existing",
+      "original_cz": "Měl to být splněný sen, ale pro mě byl zničený."
+    },
+    {
+      "key": "FairyGodMother_009_f",
+      "en": "THAT'S what I feel when I hold the buttons, and the fabric, AND these photos...",
+      "cz": "TOHLE cítím, když držím v ruce knoflíky, látku A tyto fotky...",
+      "source": "pre_existing",
+      "original_cz": "TOHLE cítím, když držím v ruce knoflíky, látku A tyto fotky..."
+    },
+    {
+      "key": "FairyGodMother_010_f",
+      "en": "{PlayerName}, that sounds like it must have been very difficult. I'm so sorry.",
+      "cz": "{PlayerName}, to zní, jako by to muselo být hodně těžké. Moc se omlouvám.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, to zní, jako by to muselo být hodně těžké. Moc se omlouvám."
+    },
+    {
+      "key": "FairyGodMother_011_f",
+      "en": "When my stepsisters tore up my gown, and I thought I'd lost my chance to go to the ball, I was heartbroken.",
+      "cz": "Když mi nevlastní sestry roztrhaly šaty a já si myslela, že jsem přišla o šanci jít na ples, zlomilo mi to srdce.",
+      "source": "pre_existing",
+      "original_cz": "Když mi nevlastní sestry roztrhaly šaty a já si myslela, že jsem přišla o šanci jít na ples, zlomilo mi to srdce."
+    },
+    {
+      "key": "FairyGodMother_012_f",
+      "en": "Oh! That's it, my dears! I know just what to do.",
+      "cz": "Ach! To je ono, moji drazí! Vím přesně, co mám dělat.",
+      "source": "pre_existing",
+      "original_cz": "Ach! To je ono, moji drazí! Vím přesně, co mám dělat."
+    },
+    {
+      "key": "FairyGodMother_004_f",
+      "en": "This Memento must contain all the hurt feelings you had from missing your own type of <Lore>royal ball</Lore>.",
+      "cz": "Tato památka musí obsahovat všechny zraněné pocity, které jste měli z toho, že jste zmeškali svůj vlastní <Lore>královský ples</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Tato památka musí obsahovat všechny zraněné pocity, které jste měli z toho, že jste zmeškali svůj vlastní <Lore>královský ples</Lore>."
+    },
+    {
+      "key": "FairyGodMother_019_f",
+      "en": "And I have just the thing to fix it. It will take some time, but <Lore>meet me in Cinderella's House</Lore>, and I'll tell you all about it!",
+      "cz": "A mám přesně tu věc, jak to opravit. Bude to chvíli trvat, ale <Lore>sejdeme se mnou v Popelčině domě</Lore> a já ti o tom všem povím!",
+      "source": "pre_existing",
+      "original_cz": "A mám přesně tu věc, jak to opravit. Bude to chvíli trvat, ale <Lore>sejdeme se mnou v Popelčině domě</Lore> a já ti o tom všem povím!"
+    },
+    {
+      "key": "FairyGodMother_018_f",
+      "en": "These objects seem to contain all the troubled feelings you had from missing your own type of <Lore>royal ball</Lore>.",
+      "cz": "Zdá se, že tyto předměty obsahují všechny ty znepokojivé pocity, které jste měli z toho, že jste zmeškali svůj vlastní <Lore>královský ples</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že tyto předměty obsahují všechny ty znepokojivé pocity, které jste měli z toho, že jste zmeškali svůj vlastní <Lore>královský ples</Lore>."
+    },
+    {
+      "key": "FairyGodMother_007_f",
+      "en": "They feel like the disappointment I felt from missing that night...",
+      "cz": "Připadají mi jako zklamání, které jsem cítil z toho, že jsem tu noc zmeškal...",
+      "source": "pre_existing",
+      "original_cz": "Připadají mi jako zklamání, které jsem cítil z toho, že jsem tu noc zmeškal..."
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "All these years later, I still regret missing it.",
+      "cz": "Po všech těch letech stále lituji, že jsem to zmeškal.",
+      "source": "pre_existing",
+      "original_cz": "Po všech těch letech stále lituji, že jsem to zmeškal."
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "Thinking about it makes me sort of... sad.",
+      "cz": "Když na to pomyslím, je mi to trochu... smutno.",
+      "source": "pre_existing",
+      "original_cz": "Když na to pomyslím, je mi to trochu... smutno."
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "I feel bad all over again!",
+      "cz": "Zase se cítím špatně!",
+      "source": "pre_existing",
+      "original_cz": "Zase se cítím špatně!"
+    }
+  ],
+  "Cinderella_FairyGodMother/FairyGodMother_VLG_Cind_040_VLG_Cind_040_BringItem06.locbin": [
+    {
+      "key": "FairyGodMother_000_f",
+      "en": "Oh, thank you, dear. You're very kind.",
+      "cz": "Ach, děkuji, drahoušku. Jsi moc laskavá.",
+      "source": "pre_existing",
+      "original_cz": "Ach, děkuji, drahoušku. Jsi moc laskavá."
+    },
+    {
+      "key": "FairyGodMother_001_f",
+      "en": "Goodness, even I'm feeling the effect of the Memento at the moment.",
+      "cz": "Proboha, dokonce i já teď cítím účinek toho Mementa.",
+      "source": "pre_existing",
+      "original_cz": "Proboha, dokonce i já teď cítím účinek toho Mementa."
+    },
+    {
+      "key": "FairyGodMother_003_f",
+      "en": "It reminds me of the time Cinderella was convinced she couldn't go to the ball of her dreams.",
+      "cz": "Připomíná mi to dobu, kdy byla Popelka přesvědčená, že se nemůže dostat na ples svých snů.",
+      "source": "pre_existing",
+      "original_cz": "Připomíná mi to dobu, kdy byla Popelka přesvědčená, že se nemůže dostat na ples svých snů."
+    },
+    {
+      "key": "FairyGodMother_004_f",
+      "en": "Her sadness broke my heart. I'm grateful my magic could make her dream come true.",
+      "cz": "Její smutek mi zlomil srdce. Jsem vděčný, že moje kouzla mohla splnit její sen.",
+      "source": "pre_existing",
+      "original_cz": "Její smutek mi zlomil srdce. Jsem vděčný, že moje kouzla mohla splnit její sen."
+    },
+    {
+      "key": "FairyGodMother_005_f",
+      "en": "I hope YOU feel your dream has come true before this ball is through.",
+      "cz": "Doufám, že TY budeš mít pocit, že se ti sen splnil, než tenhle ples skončí.",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že TY budeš mít pocit, že se ti sen splnil, než tenhle ples skončí."
+    },
+    {
+      "key": "FairyGodMother_002_f",
+      "en": "How odd... I feel the magic of that fabric in your coat, the buttons, those \"photographs\"...",
+      "cz": "To je zvláštní... Cítím kouzlo té látky na tvém kabátě, knoflíků, těch \"fotografií\"...",
+      "source": "pre_existing",
+      "original_cz": "To je zvláštní... Cítím kouzlo té látky na tvém kabátě, knoflíků, těch \"fotografií\"..."
+    }
+  ],
+  "Cinderella_FairyGodMother/SEC_Fair_010.locbin": [
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_Any_CompletedRequestDescription",
+      "en": "Check in with the Fairy Godmother to make sure the magic spell is complete.",
+      "cz": "Ověřte si u Víly kmotry, zda je kouzlo kompletní.",
+      "source": "pre_existing",
+      "original_cz": "Ověřte si u Víly kmotry, zda je kouzlo kompletní."
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_AvailableDescription",
+      "en": "Talk to the Fairy Godmother to begin.",
+      "cz": "Pro začátek si promluvte s Vílou kmotrou.",
+      "source": "pre_existing",
+      "original_cz": "Pro začátek si promluvte s Vílou kmotrou."
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_CompletedStoryDescription",
+      "en": "With help from the Fairy Godmother (and a Spell Pumpkin), you've returned Cinderella to the Valley where she belongs.",
+      "cz": "S pomocí Víly kmotry (a kouzelné dýně) jste vrátili Popelku do Údolí, kam patří.",
+      "source": "pre_existing",
+      "original_cz": "S pomocí Víly kmotry (a kouzelné dýně) jste vrátili Popelku do Údolí, kam patří."
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_DisplayName",
+      "en": "The Pumpkin and the Princess",
+      "cz": "Dýně a princezna",
+      "source": "pre_existing",
+      "original_cz": "Dýně a princezna"
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_Group01_Step01_BringItem01_StepDescription",
+      "en": "Make sure you have the <ActivityItem>Lost Shoe</ActivityItem> with you.",
+      "cz": "Ujistěte se, že máte s sebou <ActivityItem>Ztracenou botu</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte s sebou <ActivityItem>Ztracenou botu</ActivityItem>."
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_Group01_Step01_ReadyDescription",
+      "en": "Show the Fairy Godmother the <ActivityItem>Lost Shoe</ActivityItem>.",
+      "cz": "Ukaž víle kmotře <ActivityItem>ztracenou botu</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ukaž víle kmotře <ActivityItem>ztracenou botu</ActivityItem>."
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_Group01_Step01_WrongSceneDescription",
+      "en": "You found a <ActivityItem>Lost Shoe</ActivityItem>. If you bring it to the Fairy Godmother in her House, maybe she could tell you more about it...",
+      "cz": "Našla jsi <ActivityItem>Ztracenou botu</ActivityItem>. Pokud ji přineseš Víle kmotřičce do jejího domu, možná ti o ní poví víc...",
+      "source": "pre_existing",
+      "original_cz": "Našla jsi <ActivityItem>Ztracenou botu</ActivityItem>. Pokud ji přineseš Víle kmotřičce do jejího domu, možná ti o ní poví víc..."
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_Group01_StoryDescription",
+      "en": "A mysterious shoe sparks hope: Could a certain princess be returning? The Fairy Godmother would know for sure.",
+      "cz": "Záhadná bota vzbuzuje naději: Mohla by se vracet jistá princezna? Víla kmotra to jistě ví.",
+      "source": "pre_existing",
+      "original_cz": "Záhadná bota vzbuzuje naději: Mohla by se vracet jistá princezna? Víla kmotra to jistě ví."
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_Group02_Step02_Possess01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_Group02_Step02_Possess02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_Group02_Step02_Possess03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_Group02_Step02_Possess04_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_Group02_Step02_StepDescription",
+      "en": "Gather the Ingredients to craft the <ActivityItem>Wish Enchantment</ActivityItem>.",
+      "cz": "Shromážděte ingredience pro výrobu <ActivityItem>Kouzla přání</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Shromážděte ingredience pro výrobu <ActivityItem>Kouzla přání</ActivityItem>."
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_Group02_StoryDescription",
+      "en": "It seems the Fairy Godmother stored a bit of Cinderella's essence in a Spell Pumpkin. This glamorous gourd could hold the key to leading the princess back.",
+      "cz": "Zdá se, že víla kmotra uložila trochu Popelčiny esence do kouzelné dýně. Tato okouzlující tykev by mohla držet klíč k tomu, jak princeznu přivést zpět.",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že víla kmotra uložila trochu Popelčiny esence do kouzelné dýně. Tato okouzlující tykev by mohla držet klíč k tomu, jak princeznu přivést zpět."
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_Group03_Step03_CraftItem01_StepDescription",
+      "en": "Craft the <ActivityItem>Wish Enchantment</ActivityItem>.",
+      "cz": "Vytvořte <ActivityItem>Kouzlo přání</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Vytvořte <ActivityItem>Kouzlo přání</ActivityItem>."
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_Group04_Step04_ConsumeItem01_StepDescription",
+      "en": "Use the <ActivityItem>Wish Enchantment</ActivityItem> with your Watering Can.",
+      "cz": "Použijte <ActivityItem>Kouzlo přání</ActivityItem> s konví na zalévání.",
+      "source": "pre_existing",
+      "original_cz": "Použijte <ActivityItem>Kouzlo přání</ActivityItem> s konví na zalévání."
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_Group05_Step05_TalkToCharacter01_StepDescription",
+      "en": "Ask {TargetNPC} what to do next about the <ActivityItem>Small Spell Pumpkin</ActivityItem>.",
+      "cz": "Zeptej se {TargetNPC}, co máš dělat dál s <ActivityItem>Malou kouzelnou dýní</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Zeptej se {TargetNPC}, co máš dělat dál s <ActivityItem>Malou kouzelnou dýní</ActivityItem>."
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_Group05_Step05_TalkToCharacter01_WrongSceneDescription",
+      "en": "Meet {TargetNPC} in her House to discuss what to do next about the <ActivityItem>Small Spell Pumpkin</ActivityItem>.",
+      "cz": "Sejděte se s {TargetNPC} v jejím koleji a proberte, co dělat dál s <ActivityItem>Malou kouzelnou dýní</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Sejděte se s {TargetNPC} v jejím koleji a proberte, co dělat dál s <ActivityItem>Malou kouzelnou dýní</ActivityItem>."
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_Group06_Step06_StepDescription",
+      "en": "Plant the <ActivityItem>Small Spell Pumpkin</ActivityItem> anywhere in the Valley.",
+      "cz": "Zasaďte <ActivityItem>Malou kouzelnou dýni</ActivityItem> kdekoli v údolí.",
+      "source": "pre_existing",
+      "original_cz": "Zasaďte <ActivityItem>Malou kouzelnou dýni</ActivityItem> kdekoli v údolí."
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_Group07_Step07_StepDescription",
+      "en": "Water the <ActivityItem>Small Spell Pumpkin</ActivityItem>, then harvest it when it's grown. (It will take fifteen minutes to grow.)",
+      "cz": "Zalijte <ActivityItem>Malou kouzelnou dýni</ActivityItem> a poté ji skliďte, až vyroste. (Rostení bude trvat patnáct minut.)",
+      "source": "pre_existing",
+      "original_cz": "Zalijte <ActivityItem>Malou kouzelnou dýni</ActivityItem> a poté ji skliďte, až vyroste. (Rostení bude trvat patnáct minut.)"
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_Group08_Step08_TalkToCharacter02_StepDescription",
+      "en": "The <ActivityItem>Spell Pumpkin</ActivityItem> has vanished! Talk to the Fairy Godmother to find out what to do.",
+      "cz": "<ActivityItem>Kouzelná dýně</ActivityItem> zmizela! Promluvte si s kmotrou vílou a zjistěte, co dělat.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Kouzelná dýně</ActivityItem> zmizela! Promluvte si s kmotrou vílou a zjistěte, co dělat."
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_Group09_Step09_VisitArea01_StepDescription",
+      "en": "Go to the <Lore>Restaurant</Lore> to see if Remy has the <ActivityItem>Spell Pumpkin</ActivityItem>.",
+      "cz": "Jdi do <Lore>Restaurace</Lore> a zjisti, jestli má Remy <ActivityItem>Kouzelnou dýni</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Jdi do <Lore>Restaurace</Lore> a zjisti, jestli má Remy <ActivityItem>Kouzelnou dýni</ActivityItem>."
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_Group10_Step10_TalkToCharacter03_StepDescription",
+      "en": "Retrieve the <ActivityItem>Spell Pumpkin</ActivityItem> from Remy.",
+      "cz": "Získej od Remyho <ActivityItem>Kouzelnou dýni</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Získej od Remyho <ActivityItem>Kouzelnou dýni</ActivityItem>."
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_Group10_Step10_TalkToCharacter03_WrongSceneDescription",
+      "en": "Go to the <Lore>Restaurant</Lore> to talk to Remy about the <ActivityItem>Spell Pumpkin</ActivityItem>.",
+      "cz": "Jdi do <Lore>Restaurace</Lore> a promluv si s Remym o <ActivityItem>Kouzlené dýni</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Jdi do <Lore>Restaurace</Lore> a promluv si s Remym o <ActivityItem>Kouzlené dýni</ActivityItem>."
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_Group11_Step11_TalkToCharacter04_StepDescription",
+      "en": "Show {TargetNPC} the <ActivityItem>Spell Pumpkin</ActivityItem>.",
+      "cz": "Ukažte {TargetNPC} <ActivityItem>kouzelnou dýni</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ukažte {TargetNPC} <ActivityItem>kouzelnou dýni</ActivityItem>."
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_Group11_StoryDescription",
+      "en": "Now that the Spell Pumpkin has grown, the spell is nearly complete! With a few more magical steps, you should be able to welcome back Cinderella.",
+      "cz": "Teď, když Kouzelná dýně vyrostla, je kouzlo téměř dokončeno! S několika dalšími magickými kroky byste měli být schopni přivítat zpět Popelku.",
+      "source": "pre_existing",
+      "original_cz": "Teď, když Kouzelná dýně vyrostla, je kouzlo téměř dokončeno! S několika dalšími magickými kroky byste měli být schopni přivítat zpět Popelku."
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_Group12_Step12_PlaceBuilding01_StepDescription",
+      "en": "Place <Lore>Cinderella's House</Lore> in <Lore>Dreamlight Valley</Lore>.",
+      "cz": "Umístěte <Lore>Popelčin dům</Lore> do <Lore>Údolí snů</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte <Lore>Popelčin dům</Lore> do <Lore>Údolí snů</Lore>."
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_Group13_Step13_Decorate01_StepDescription",
+      "en": "Elegant white, yellow, or blue furniture.",
+      "cz": "Elegantní bílý, žlutý nebo modrý nábytek.",
+      "source": "pre_existing",
+      "original_cz": "Elegantní bílý, žlutý nebo modrý nábytek."
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_Group13_Step13_Decorate02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_Group13_Step13_StepDescription",
+      "en": "Place the <ActivityItem>Spell Pumpkin</ActivityItem> close to the Plaza's Wishing Well along with the appropriate furniture.",
+      "cz": "Umístěte <ActivityItem>Dýni s kouzelným motivem</ActivityItem> poblíž studny přání na náměstí spolu s příslušným nábytkem.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte <ActivityItem>Dýni s kouzelným motivem</ActivityItem> poblíž studny přání na náměstí spolu s příslušným nábytkem."
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_Group14_Step14_Interaction01_StepDescription",
+      "en": "The spell is working! Interact with the <ActivityItem>Spell Pumpkin</ActivityItem> to summon Cinderella.",
+      "cz": "Kouzlo funguje! Interagujte s <ActivityItem>Dýní z kouzel</ActivityItem>, abyste přivolali Popelku.",
+      "source": "pre_existing",
+      "original_cz": "Kouzlo funguje! Interagujte s <ActivityItem>Dýní z kouzel</ActivityItem>, abyste přivolali Popelku."
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_Group15_Step15_UnlockCharacter01_StepDescription",
+      "en": "Welcome <Lore>Cinderella</Lore> back to Dreamlight Valley.",
+      "cz": "Vítej <Lore>Popelko</Lore> zpět v Údolí snů.",
+      "source": "pre_existing",
+      "original_cz": "Vítej <Lore>Popelko</Lore> zpět v Údolí snů."
+    },
+    {
+      "key": "Secret!Cinderella!FairyGodMother!SEC_Fair_010_Group16_StepDescription",
+      "en": "Use the Scrooge McDuck Sign to pay for the construction of Cinderella's House.",
+      "cz": "Použijte ceduli Scrooge McDucka k zaplacení stavby Popelčina domu.",
+      "source": "pre_existing",
+      "original_cz": "Použijte ceduli Scrooge McDucka k zaplacení stavby Popelčina domu."
+    }
+  ]
+}

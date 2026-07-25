@@ -1,0 +1,652 @@
+{
+  "BeautyBeastBundle_Daisy/Daisy_PRM_Beas_030_PRM_Beas_030_BringItem01.locbin": [
+    {
+      "key": "Daisy_000_f",
+      "en": "Oh, goody goody! You brought everything, {PlayerName}.",
+      "cz": "Jé, paráda, paráda! Všechno jsi přinesl, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Jé, paráda, paráda! Všechno jsi přinesl, {PlayerName}."
+    },
+    {
+      "key": "Daisy_001_f",
+      "en": "Glad to help! So... how far along are you?",
+      "cz": "Rád jsem pomohl! Tak... jak daleko jsi?",
+      "source": "pre_existing",
+      "original_cz": "Rád jsem pomohl! Tak... jak daleko jsi?"
+    },
+    {
+      "key": "Daisy_002_f",
+      "en": "Almost there! Just need to stitch a few final touches.",
+      "cz": "Téměř hotovo! Už jen zbývá došít pár finálních detailů.",
+      "source": "pre_existing",
+      "original_cz": "Téměř hotovo! Už jen zbývá došít pár finálních detailů."
+    },
+    {
+      "key": "Daisy_003_f",
+      "en": "Actually, now that you're here, is there anything you think the outfit might need?",
+      "cz": "Vlastně, když už jste tady, myslíte si, že by ten outfit mohl potřebovat něco?",
+      "source": "pre_existing",
+      "original_cz": "Vlastně, když už jste tady, myslíte si, že by ten outfit mohl potřebovat něco?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "A top hat for dramatic flair.",
+      "cz": "Cylindr pro dramatický nádech.",
+      "source": "pre_existing",
+      "original_cz": "Cylindr pro dramatický nádech."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Hidden pockets for snacks.",
+      "cz": "Skryté kapsy na svačinu.",
+      "source": "pre_existing",
+      "original_cz": "Skryté kapsy na svačinu."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I literally have no idea.",
+      "cz": "Doslova nemám tušení.",
+      "source": "pre_existing",
+      "original_cz": "Doslova nemám tušení."
+    },
+    {
+      "key": "Daisy_004_f",
+      "en": "Classy, but it's not screaming the \"Beast\" to me.",
+      "cz": "Elegantní, ale pro mě to nekřičí „Bestie“.",
+      "source": "pre_existing",
+      "original_cz": "Elegantní, ale pro mě to nekřičí „Bestie“."
+    },
+    {
+      "key": "Daisy_007_f",
+      "en": "Now go on — shoo! I need to work in peace. You'd better go check on the Beast.",
+      "cz": "A teď do toho – kšu! Potřebuji pracovat v klidu. Raději se běžte podívat na Bestii.",
+      "source": "pre_existing",
+      "original_cz": "A teď do toho – kšu! Potřebuji pracovat v klidu. Raději se běžte podívat na Bestii."
+    },
+    {
+      "key": "Daisy_005_f",
+      "en": "Well, THAT'S fashion with function.",
+      "cz": "No, TO JE móda s funkcí.",
+      "source": "pre_existing",
+      "original_cz": "No, TO JE móda s funkcí."
+    },
+    {
+      "key": "Daisy_006_f",
+      "en": "Not to worry, I've got LOTS of those.",
+      "cz": "Nebojte se, mám jich HODNĚ.",
+      "source": "pre_existing",
+      "original_cz": "Nebojte se, mám jich HODNĚ."
+    }
+  ],
+  "BeautyBeastBundle_Daisy/Daisy_PRM_Beas_030_PRM_Beas_030_TalkTo03.locbin": [
+    {
+      "key": "Daisy_000_f",
+      "en": "Not to be rude, but... {PlayerName}, were you seriously planning to show up to a ball wearing that?",
+      "cz": "Nechci být hrubý, ale... {PlayerName}, vážně jsi plánoval jít v tomhle na ples?",
+      "source": "pre_existing",
+      "original_cz": "Nechci být hrubý, ale... {PlayerName}, vážně jsi plánoval jít v tomhle na ples?"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "This is my formal gardening attire.",
+      "cz": "Tohle je můj formální zahradnický oděv.",
+      "source": "pre_existing",
+      "original_cz": "Tohle je můj formální zahradnický oděv."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "It's called \"eccentric royal chic.\"",
+      "cz": "Říká se tomu „excentrická královská elegance“.",
+      "source": "pre_existing",
+      "original_cz": "Říká se tomu „excentrická královská elegance“."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "My hat makes any outfit look amazing.",
+      "cz": "Můj klobouk dodá každému outfitu úžasný vzhled.",
+      "source": "pre_existing",
+      "original_cz": "Můj klobouk dodá každému outfitu úžasný vzhled."
+    },
+    {
+      "key": "Daisy_001_f",
+      "en": "I see.",
+      "cz": "Chápu.",
+      "source": "pre_existing",
+      "original_cz": "Chápu."
+    },
+    {
+      "key": "Daisy_003_f",
+      "en": "Anyway... let's get back to the <i>ball</i>.",
+      "cz": "Ale zpátky k <i>míči</i>.",
+      "source": "pre_existing",
+      "original_cz": "Ale zpátky k <i>míči</i>."
+    },
+    {
+      "key": "Daisy_008_f",
+      "en": "The Beast's outfit is almost ready. It just needs a few finishing touches.",
+      "cz": "Oblečení Bestie je téměř hotové. Už jen potřebuje pár finálních úprav.",
+      "source": "pre_existing",
+      "original_cz": "Oblečení Bestie je téměř hotové. Už jen potřebuje pár finálních úprav."
+    },
+    {
+      "key": "Daisy_009_f",
+      "en": "Any thoughts on the look? Speak now or sparkle later.",
+      "cz": "Nějaké myšlenky ohledně vzhledu? Mluvte teď, nebo se třpytte později.",
+      "source": "pre_existing",
+      "original_cz": "Nějaké myšlenky ohledně vzhledu? Mluvte teď, nebo se třpytte později."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Gold buttons, of course!",
+      "cz": "Zlaté knoflíky, samozřejmě!",
+      "source": "pre_existing",
+      "original_cz": "Zlaté knoflíky, samozřejmě!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Ruffles. ALL the ruffles.",
+      "cz": "Volány. VŠECHNY volánky.",
+      "source": "pre_existing",
+      "original_cz": "Volány. VŠECHNY volánky."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "No idea.",
+      "cz": "Nemám tušení.",
+      "source": "pre_existing",
+      "original_cz": "Nemám tušení."
+    },
+    {
+      "key": "Daisy_010_f",
+      "en": "Hey, that's not a bad idea. I'll see what I can do.",
+      "cz": "Hej, to není špatný nápad. Uvidím, co se s tím dá dělat.",
+      "source": "pre_existing",
+      "original_cz": "Hej, to není špatný nápad. Uvidím, co se s tím dá dělat."
+    },
+    {
+      "key": "Daisy_011_f",
+      "en": "I am missing a few key things. Could you track them down while I go dig up some gold buttons?",
+      "cz": "Chybí mi pár klíčových věcí. Mohl bys je sehnat, zatímco já půjdu vyhrabat nějaké zlaté knoflíky?",
+      "source": "pre_existing",
+      "original_cz": "Chybí mi pár klíčových věcí. Mohl bys je sehnat, zatímco já půjdu vyhrabat nějaké zlaté knoflíky?"
+    },
+    {
+      "key": "Daisy_013_f",
+      "en": "A few ruffles and that's all!",
+      "cz": "Pár volánek a to je vše!",
+      "source": "pre_existing",
+      "original_cz": "Pár volánek a to je vše!"
+    },
+    {
+      "key": "Daisy_012_f",
+      "en": "Now that's what I call fashion confidence!",
+      "cz": "Tomu říkám módní sebevědomí!",
+      "source": "pre_existing",
+      "original_cz": "Tomu říkám módní sebevědomí!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "This is my formal gardening attire.",
+      "cz": "Tohle je můj formální zahradnický oděv.",
+      "source": "pre_existing",
+      "original_cz": "Tohle je můj formální zahradnický oděv."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "It's called \"eccentric royal chic.\"",
+      "cz": "Říká se tomu „excentrická královská elegance“.",
+      "source": "pre_existing",
+      "original_cz": "Říká se tomu „excentrická královská elegance“."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Don't worry. I was gonna add a hat.",
+      "cz": "Neboj se. Chtěl jsem si dát klobouk.",
+      "source": "pre_existing",
+      "original_cz": "Neboj se. Chtěl jsem si dát klobouk."
+    },
+    {
+      "key": "Daisy_002_f",
+      "en": "A hat won't save this, but... points for optimism.",
+      "cz": "Klobouk to sice nezachrání, ale... body za optimismus.",
+      "source": "pre_existing",
+      "original_cz": "Klobouk to sice nezachrání, ale... body za optimismus."
+    }
+  ],
+  "BeautyBeastBundle_Daisy/Daisy_PRM_Beas_050_PRM_Beas_050_Intro.locbin": [
+    {
+      "key": "Daisy_000_f",
+      "en": "{PlayerName}, you're exactly who I wanted to see!",
+      "cz": "{PlayerName}, jsi přesně ten/ta/to, koho jsem chtěl/a vidět!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, jsi přesně ten/ta/to, koho jsem chtěl/a vidět!"
+    },
+    {
+      "key": "Daisy_001_f",
+      "en": "Hi, Daisy! What's up?",
+      "cz": "Ahoj, Daisy! Co se děje?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, Daisy! Co se děje?"
+    },
+    {
+      "key": "Daisy_002_f",
+      "en": "Ever since <i>the Grand Enchanted Ball</i>, I haven't been able to stop thinking about Belle and the Beast. They looked absolutely divine!",
+      "cz": "Už od chvíle, kdy <i>byl Velký kouzelný ples</i>, jsem nemohla přestat myslet na Bellu a zvíře. Vypadali naprosto božsky!",
+      "source": "pre_existing",
+      "original_cz": "Už od chvíle, kdy <i>byl Velký kouzelný ples</i>, jsem nemohla přestat myslet na Bellu a zvíře. Vypadali naprosto božsky!"
+    },
+    {
+      "key": "Daisy_003_f",
+      "en": "I keep hoping their fabulous looks might spark some new fashion ideas for me, but I've got nothing! Maybe you can help me?",
+      "cz": "Pořád doufám, že jejich úžasný vzhled by ve mně mohl podnítit nějaké nové módní nápady, ale nic nemám! Možná mi můžete pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Pořád doufám, že jejich úžasný vzhled by ve mně mohl podnítit nějaké nové módní nápady, ale nic nemám! Možná mi můžete pomoct?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Count me in!",
+      "cz": "Počítejte se mnou!",
+      "source": "pre_existing",
+      "original_cz": "Počítejte se mnou!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Maybe another time?",
+      "cz": "Možná jindy?",
+      "source": "pre_existing",
+      "original_cz": "Možná jindy?"
+    },
+    {
+      "key": "Daisy_004_f",
+      "en": "Great! I knew you had an eye for elegance!",
+      "cz": "Skvělé! Věděl jsem, že máš cit pro eleganci!",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Věděl jsem, že máš cit pro eleganci!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Elegance is my middle name.",
+      "cz": "Elegance je moje prostřední jméno.",
+      "source": "pre_existing",
+      "original_cz": "Elegance je moje prostřední jméno."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I'm stylish and I know it.",
+      "cz": "Jsem stylová a vím to.",
+      "source": "pre_existing",
+      "original_cz": "Jsem stylová a vím to."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I just follow my fashion instincts.",
+      "cz": "Řídím se jen svým módním instinktem.",
+      "source": "pre_existing",
+      "original_cz": "Řídím se jen svým módním instinktem."
+    },
+    {
+      "key": "Daisy_005_f",
+      "en": "So I've been sketching since dawn, trying to capture the feeling of the ball. You know, the romance! The glamor! But no matter what type of garment I draw, something's missing.",
+      "cz": "Takže jsem kreslila od úsvitu a snažila se zachytit atmosféru plesu. Víte, tu romantiku! Ten půvab! Ale ať už nakreslím jakýkoli typ oblečení, něco mi chybí.",
+      "source": "pre_existing",
+      "original_cz": "Takže jsem kreslila od úsvitu a snažila se zachytit atmosféru plesu. Víte, tu romantiku! Ten půvab! Ale ať už nakreslím jakýkoli typ oblečení, něco mi chybí."
+    },
+    {
+      "key": "Daisy_006_f",
+      "en": "Tell me, when you hit a creative wall, what helps you push through?",
+      "cz": "Řekněte mi, když narazíte na tvůrčí zeď, co vám pomůže ji prosadit?",
+      "source": "pre_existing",
+      "original_cz": "Řekněte mi, když narazíte na tvůrčí zeď, co vám pomůže ji prosadit?"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "A walk in nature always clears my mind.",
+      "cz": "Procházka v přírodě mi vždycky vyčistí mysl.",
+      "source": "pre_existing",
+      "original_cz": "Procházka v přírodě mi vždycky vyčistí mysl."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "I think back to what inspired me before.",
+      "cz": "Vzpomínám si na to, co mě inspirovalo dříve.",
+      "source": "pre_existing",
+      "original_cz": "Vzpomínám si na to, co mě inspirovalo dříve."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "I talk to friends. They shift my perspective.",
+      "cz": "Mluvím s přáteli. Změní můj pohled na věc.",
+      "source": "pre_existing",
+      "original_cz": "Mluvím s přáteli. Změní můj pohled na věc."
+    },
+    {
+      "key": "Daisy_007_f",
+      "en": "That makes sense. Sometimes the answer isn't on the page, it's out in the world, waiting!",
+      "cz": "To dává smysl. Někdy odpověď není na stránce, ale čeká někde ve světě!",
+      "source": "pre_existing",
+      "original_cz": "To dává smysl. Někdy odpověď není na stránce, ale čeká někde ve světě!"
+    },
+    {
+      "key": "Daisy_008_f",
+      "en": "{PlayerName}, I know there's a secret behind Belle's magical style. I want to try ONE more design sketch. While I do that, would you ask her about that gorgeous golden gown?",
+      "cz": "{PlayerName}, vím, že se za Belliným magickým stylem skrývá tajemství. Chci zkusit ještě JEDNU návrhářskou skicu. A když už to dělám, mohla by ses jí zeptat na ty nádherné zlaté šaty?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, vím, že se za Belliným magickým stylem skrývá tajemství. Chci zkusit ještě JEDNU návrhářskou skicu. A když už to dělám, mohla by ses jí zeptat na ty nádherné zlaté šaty?"
+    },
+    {
+      "key": "Daisy_009_f",
+      "en": "You want me to <Lore>ask Belle</Lore> about...",
+      "cz": "Chceš, abych se Belle <Lore>zeptala</Lore> na...",
+      "source": "pre_existing",
+      "original_cz": "Chceš, abych se Belle <Lore>zeptala</Lore> na..."
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "...her dress from the ball?",
+      "cz": "...její šaty z plesu?",
+      "source": "pre_existing",
+      "original_cz": "...její šaty z plesu?"
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "...style back in her homeland?",
+      "cz": "...styl zpět ve své vlasti?",
+      "source": "pre_existing",
+      "original_cz": "...styl zpět ve své vlasti?"
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "...what made that moment truly unforgettable?",
+      "cz": "...co udělalo ten okamžik skutečně nezapomenutelným?",
+      "source": "pre_existing",
+      "original_cz": "...co udělalo ten okamžik skutečně nezapomenutelným?"
+    },
+    {
+      "key": "Daisy_010_f",
+      "en": "Yes! That gown was pure enchantment! I need to know everything about it!",
+      "cz": "Ano! Ty šaty byly čiré okouzlující! Potřebuji o nich vědět všechno!",
+      "source": "pre_existing",
+      "original_cz": "Ano! Ty šaty byly čiré okouzlující! Potřebuji o nich vědět všechno!"
+    },
+    {
+      "key": "Daisy_011_f",
+      "en": "Whatever she tells you, bring back every glamorous detail! I'll be here, brainstorming.",
+      "cz": "Ať ti řekne cokoli, připomeň si každý okouzlující detail! Budu tady a budu vymýšlet.",
+      "source": "pre_existing",
+      "original_cz": "Ať ti řekne cokoli, připomeň si každý okouzlující detail! Budu tady a budu vymýšlet."
+    },
+    {
+      "key": "Daisy_012_f",
+      "en": "Ooh, très chic! I bet they had the most exquisite trends.",
+      "cz": "Jé, to je ale šik! Vsadím se, že měli ty nejvybranější trendy.",
+      "source": "pre_existing",
+      "original_cz": "Jé, to je ale šik! Vsadím se, že měli ty nejvybranější trendy."
+    },
+    {
+      "key": "Daisy_013_f",
+      "en": "That's it! It's not just about what she wears, it's <i>how</i> she wears it!",
+      "cz": "To je vše! Nejde jen o to, co nosí, ale i o to, <i>jak</i> to nosí!",
+      "source": "pre_existing",
+      "original_cz": "To je vše! Nejde jen o to, co nosí, ale i o to, <i>jak</i> to nosí!"
+    },
+    {
+      "key": "Daisy_014_f",
+      "en": "Of course! That's what I've been overlooking. It's not just style, it's the folks who make it meaningful.",
+      "cz": "Jasně! To je to, co jsem přehlížel. Nejde jen o styl, ale o lidi, kteří tomu dávají smysl.",
+      "source": "pre_existing",
+      "original_cz": "Jasně! To je to, co jsem přehlížel. Nejde jen o styl, ale o lidi, kteří tomu dávají smysl."
+    },
+    {
+      "key": "Daisy_015_f",
+      "en": "All right. Come back when you're ready for a little glamor and inspiration. I'll be here!",
+      "cz": "Dobře. Vrať se, až budeš připravená na trochu lesku a inspirace. Budu tu!",
+      "source": "pre_existing",
+      "original_cz": "Dobře. Vrať se, až budeš připravená na trochu lesku a inspirace. Budu tu!"
+    }
+  ],
+  "BeautyBeastBundle_Daisy/Daisy_PRM_Beas_050_PRM_Beas_050_Ongoing01.locbin": [
+    {
+      "key": "Daisy_000_f",
+      "en": "Don't forget to ask Belle all about that enchanting gown.",
+      "cz": "Nezapomeň se Belle zeptat na ty okouzlující šaty.",
+      "source": "pre_existing",
+      "original_cz": "Nezapomeň se Belle zeptat na ty okouzlující šaty."
+    },
+    {
+      "key": "Daisy_001_f",
+      "en": "I need every stylish detail! Color, fabric, sparkle level. Everything.",
+      "cz": "Potřebuji každý stylový detail! Barvu, látku, úroveň třpytek. Všechno.",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji každý stylový detail! Barvu, látku, úroveň třpytek. Všechno."
+    }
+  ],
+  "BeautyBeastBundle_Daisy/Daisy_PRM_Beas_050_PRM_Beas_050_Ongoing02.locbin": [
+    {
+      "key": "Daisy_000_f",
+      "en": "You know, maybe we could find something special to be the perfect final touch for my new outfits.",
+      "cz": "Víš, možná bychom mohli najít něco speciálního, co by bylo perfektním finálním detailem pro mé nové outfity.",
+      "source": "pre_existing",
+      "original_cz": "Víš, možná bychom mohli najít něco speciálního, co by bylo perfektním finálním detailem pro mé nové outfity."
+    }
+  ],
+  "BeautyBeastBundle_Daisy/Daisy_PRM_Beas_050_PRM_Beas_050_Ongoing03.locbin": [
+    {
+      "key": "Daisy_000_f",
+      "en": "So... Did Belle share the secret behind her look? I'm hoping it might help me finally shake this creative block!",
+      "cz": "Takže... Podělila se Belle o tajemství svého vzhledu? Doufám, že mi to konečně pomůže zbavit se téhle tvůrčí blokády!",
+      "source": "pre_existing",
+      "original_cz": "Takže... Podělila se Belle o tajemství svého vzhledu? Doufám, že mi to konečně pomůže zbavit se téhle tvůrčí blokády!"
+    }
+  ],
+  "BeautyBeastBundle_Daisy/Daisy_PRM_Beas_050_PRM_Beas_050_Ongoing04.locbin": [
+    {
+      "key": "Daisy_000_f",
+      "en": "So... Did Belle share the secret behind her look? I'm hoping it might help me finally shake this creative block!",
+      "cz": "Takže... Podělila se Belle o tajemství svého vzhledu? Doufám, že mi to konečně pomůže zbavit se téhle tvůrčí blokády!",
+      "source": "pre_existing",
+      "original_cz": "Takže... Podělila se Belle o tajemství svého vzhledu? Doufám, že mi to konečně pomůže zbavit se téhle tvůrčí blokády!"
+    }
+  ],
+  "BeautyBeastBundle_Daisy/Daisy_PRM_Beas_050_PRM_Beas_050_Ongoing06.locbin": [
+    {
+      "key": "Daisy_000_f",
+      "en": "Let's go show Belle my fabulous new signature perfume!",
+      "cz": "Pojďme ukázat Belle můj úžasný nový parfém!",
+      "source": "pre_existing",
+      "original_cz": "Pojďme ukázat Belle můj úžasný nový parfém!"
+    }
+  ],
+  "BeautyBeastBundle_Daisy/Daisy_PRM_Beas_050_PRM_Beas_050_Outro.locbin": [
+    {
+      "key": "Belle_000_f",
+      "en": "Oh, hello, {PlayerName}. You two look so inspired and happy! Wait... What's that wonderful scent?",
+      "cz": "Ahoj, {PlayerName}. Vypadáte tak inspirovaně a šťastně! Počkej... Co je to za úžasnou vůni?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}. Vypadáte tak inspirovaně a šťastně! Počkej... Co je to za úžasnou vůni?"
+    },
+    {
+      "key": "Belle_001_f",
+      "en": "That's the aroma of breaking through my creative block, all thanks to you and {PlayerName}!",
+      "cz": "To je vůně prolomení mého tvůrčího bloku, a to vše díky tobě a {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "To je vůně prolomení mého tvůrčího bloku, a to vše díky tobě a {PlayerName}!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm just happy when my friends are happy.",
+      "cz": "Jsem šťastný/á jen tehdy, když jsou šťastní moji přátelé.",
+      "source": "pre_existing",
+      "original_cz": "Jsem šťastný/á jen tehdy, když jsou šťastní moji přátelé."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I went on a scent-sational adventure!",
+      "cz": "Vydala jsem se na pachově-nacionalistické dobrodružství!",
+      "source": "pre_existing",
+      "original_cz": "Vydala jsem se na pachově-nacionalistické dobrodružství!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I worked my creative magic.",
+      "cz": "Použil jsem svou kreativní magii.",
+      "source": "pre_existing",
+      "original_cz": "Použil jsem svou kreativní magii."
+    },
+    {
+      "key": "Belle_002_f",
+      "en": "Now I really get what you were saying, Belle! Just take in this scent! <i>Psh-psh!</i>",
+      "cz": "Teď už opravdu chápu, co jsi říkala, Belle! Jen se nauč té vůně! <i>Pšššš!</i>",
+      "source": "pre_existing",
+      "original_cz": "Teď už opravdu chápu, co jsi říkala, Belle! Jen se nauč té vůně! <i>Pšššš!</i>"
+    },
+    {
+      "key": "Belle_011_f",
+      "en": "Oh, and if you ever go into perfumery, I'll save a shelf in my Boutique just for you.",
+      "cz": "A pokud se někdy pustíš do parfumerie, schovám ti v Modní salonu poličku.",
+      "source": "pre_existing",
+      "original_cz": "A pokud se někdy pustíš do parfumerie, schovám ti v Modní salonu poličku."
+    },
+    {
+      "key": "Belle_003_f",
+      "en": "Oh... Daisy, I think that's perfect for you.",
+      "cz": "Ach... Daisy, myslím, že to je pro tebe perfektní.",
+      "source": "pre_existing",
+      "original_cz": "Ach... Daisy, myslím, že to je pro tebe perfektní."
+    },
+    {
+      "key": "Belle_004_f",
+      "en": "This will be the finishing touch for my perfumed gown, and ALL my future looks.",
+      "cz": "Tohle bude finální detail pro mé navoněné šaty a VŠECHNY mé budoucí outfity.",
+      "source": "pre_existing",
+      "original_cz": "Tohle bude finální detail pro mé navoněné šaty a VŠECHNY mé budoucí outfity."
+    },
+    {
+      "key": "Belle_009_f",
+      "en": "Thanks again, {PlayerName}! I'm also going to think of YOU every time I smell this scent.",
+      "cz": "Ještě jednou díky, {PlayerName}! Taky na TEBE budu myslet pokaždé, když ucítím tuhle vůni.",
+      "source": "pre_existing",
+      "original_cz": "Ještě jednou díky, {PlayerName}! Taky na TEBE budu myslet pokaždé, když ucítím tuhle vůni."
+    },
+    {
+      "key": "Belle_010_f",
+      "en": "Happy to help, Daisy.",
+      "cz": "Ráda pomůžu, Daisy.",
+      "source": "pre_existing",
+      "original_cz": "Ráda pomůžu, Daisy."
+    }
+  ],
+  "BeautyBeastBundle_Daisy/Daisy_PRM_Beas_050_PRM_Beas_050_TalkTo03.locbin": [
+    {
+      "key": "Daisy_000_f",
+      "en": "Ta-da! <Lore>A Memory Perfume!</Lore> Made especially for you.",
+      "cz": "Ta-dá! <Lore>Parfém na památku!</Lore> Vyrobeno speciálně pro vás.",
+      "source": "pre_existing",
+      "original_cz": "Ta-dá! <Lore>Parfém na památku!</Lore> Vyrobeno speciálně pro vás."
+    },
+    {
+      "key": "Daisy_001_f",
+      "en": "Wait... perfume? This is the first I'm hearing about perfume!",
+      "cz": "Počkej... parfém? Tohle slyším o parfému poprvé!",
+      "source": "pre_existing",
+      "original_cz": "Počkej... parfém? Tohle slyším o parfému poprvé!"
+    },
+    {
+      "key": "Daisy_003_f",
+      "en": "Belle said her dress is special because of the memories it holds for her. So this perfume... Well, it's <i>a new</i> idea. But trust me, it's ready to shatter any creative block!",
+      "cz": "Belle řekla, že její šaty jsou výjimečné kvůli vzpomínkám, které s ní nesou. Takže tento parfém... No, je to <i>nový</i> nápad. Ale věřte mi, je připravený rozbít jakoukoli tvůrčí blokádu!",
+      "source": "pre_existing",
+      "original_cz": "Belle řekla, že její šaty jsou výjimečné kvůli vzpomínkám, které s ní nesou. Takže tento parfém... No, je to <i>nový</i> nápad. Ale věřte mi, je připravený rozbít jakoukoli tvůrčí blokádu!"
+    },
+    {
+      "key": "Daisy_004_f",
+      "en": "Okay, {PlayerName}, let's give it a spritz and see what magic you've made!",
+      "cz": "Dobře, {PlayerName}, tak to trochu postříkejme a uvidíme, jaké kouzlo jsi dokázal/a!",
+      "source": "pre_existing",
+      "original_cz": "Dobře, {PlayerName}, tak to trochu postříkejme a uvidíme, jaké kouzlo jsi dokázal/a!"
+    },
+    {
+      "key": "Daisy_005_f",
+      "en": "<i>Psh-psh!</i>",
+      "cz": "<i>Pšššš!</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Pšššš!</i>"
+    },
+    {
+      "key": "Daisy_006_f",
+      "en": "Oh... It smells JUST like the flowers Donald gives me. But also, an afternoon picking cherries in the sun with Minnie?",
+      "cz": "Ach... Voní to STEJNĚ jako květiny, které mi dává Donald. Ale taky, odpoledne sbírání třešní na sluníčku s Minnie?",
+      "source": "pre_existing",
+      "original_cz": "Ach... Voní to STEJNĚ jako květiny, které mi dává Donald. Ale taky, odpoledne sbírání třešní na sluníčku s Minnie?"
+    },
+    {
+      "key": "Daisy_012_f",
+      "en": "I LOVE IT! And I just had an amazing idea... A dress that emits this signature scent when you twirl. I'm a GENIUS!",
+      "cz": "MILUJU TO! A právě jsem dostala úžasný nápad... Šaty, které při točení vydávají tuhle typickou vůni. Jsem GÉNIUS!",
+      "source": "pre_existing",
+      "original_cz": "MILUJU TO! A právě jsem dostala úžasný nápad... Šaty, které při točení vydávají tuhle typickou vůni. Jsem GÉNIUS!"
+    },
+    {
+      "key": "Daisy_013_f",
+      "en": "My creative block is GONE, all thanks to this gorgeous perfume. What do you think, {PlayerName}?",
+      "cz": "Můj kreativní blok je PRYČ, a to vše díky tomuto nádhernému parfému. Co si o tom myslíte, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Můj kreativní blok je PRYČ, a to vše díky tomuto nádhernému parfému. Co si o tom myslíte, {PlayerName}?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "This scent is amazing!",
+      "cz": "Tahle vůně je úžasná!",
+      "source": "pre_existing",
+      "original_cz": "Tahle vůně je úžasná!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "So elegant and fresh!",
+      "cz": "Tak elegantní a svěží!",
+      "source": "pre_existing",
+      "original_cz": "Tak elegantní a svěží!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Eh. I'm not much for perfume.",
+      "cz": "Ehm, na parfémy moc nemám.",
+      "source": "pre_existing",
+      "original_cz": "Ehm, na parfémy moc nemám."
+    },
+    {
+      "key": "Daisy_007_f",
+      "en": "I agree. It's fun and sophisticated with just a hint of yumminess!",
+      "cz": "Souhlasím. Je to zábavné a sofistikované s trochou lahodnosti!",
+      "source": "pre_existing",
+      "original_cz": "Souhlasím. Je to zábavné a sofistikované s trochou lahodnosti!"
+    },
+    {
+      "key": "Daisy_008_f",
+      "en": "So what are we gonna do now?",
+      "cz": "Tak co teď budeme dělat?",
+      "source": "pre_existing",
+      "original_cz": "Tak co teď budeme dělat?"
+    },
+    {
+      "key": "Daisy_009_f",
+      "en": "I <i>HAVE</i> to show it to <Lore>Belle</Lore> right away.",
+      "cz": "<i>MUSÍM</i> to hned ukázat <Lore>Belle</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "<i>MUSÍM</i> to hned ukázat <Lore>Belle</Lore>."
+    },
+    {
+      "key": "Daisy_010_f",
+      "en": "And you know what? You simply must come with me!",
+      "cz": "A víš co? Prostě musíš jít se mnou!",
+      "source": "pre_existing",
+      "original_cz": "A víš co? Prostě musíš jít se mnou!"
+    },
+    {
+      "key": "Daisy_011_f",
+      "en": "It takes all sorts, I guess.",
+      "cz": "Chce to všechno možné, myslím.",
+      "source": "pre_existing",
+      "original_cz": "Chce to všechno možné, myslím."
+    }
+  ]
+}

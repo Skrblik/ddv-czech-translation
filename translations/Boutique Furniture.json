@@ -1,0 +1,144 @@
+{
+  "Boutique Furniture/Boutique Furniture_Dialogue_BoutiqueFurnitureDialogue.locbin": [
+    {
+      "key": "Boutique Furniture_006_f",
+      "en": "Hm, I don't own this base yet. I should talk to Daisy in the Boutique.",
+      "cz": "Hm, tuhle základnu ještě nevlastním. Měl bych si promluvit s Daisy v butiku.",
+      "source": "pre_existing",
+      "original_cz": "Hm, tuhle základnu ještě nevlastním. Měl bych si promluvit s Daisy v butiku."
+    },
+    {
+      "key": "Boutique Furniture_009_f",
+      "en": "Hm, I don't own this base yet. I should find a way to unlock it.",
+      "cz": "Hm, tuhle základnu ještě nevlastním. Měl bych najít způsob, jak ji odemknout.",
+      "source": "pre_existing",
+      "original_cz": "Hm, tuhle základnu ještě nevlastním. Měl bych najít způsob, jak ji odemknout."
+    },
+    {
+      "key": "Boutique Furniture_003_f",
+      "en": "There is no design to check here yet!",
+      "cz": "Zatím zde není žádný design k prohlédnutí!",
+      "source": "pre_existing",
+      "original_cz": "Zatím zde není žádný design k prohlédnutí!"
+    },
+    {
+      "key": "Boutique Furniture_001_f",
+      "en": "I can't update Boutique displays while I have Valley visitors!",
+      "cz": "Nemohu aktualizovat výlohy v butiku, když mám návštěvníky z Valley!",
+      "source": "pre_existing",
+      "original_cz": "Nemohu aktualizovat výlohy v butiku, když mám návštěvníky z Valley!"
+    },
+    {
+      "key": "Boutique Furniture_000_f",
+      "en": "What should I do?",
+      "cz": "Co mám dělat?",
+      "source": "pre_existing",
+      "original_cz": "Co mám dělat?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Show my own designs.",
+      "cz": "Zobrazit mé vlastní návrhy.",
+      "source": "pre_existing",
+      "original_cz": "Zobrazit mé vlastní návrhy."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I'm finished.",
+      "cz": "Jsem hotový.",
+      "source": "pre_existing",
+      "original_cz": "Jsem hotový."
+    },
+    {
+      "key": "Boutique Furniture_008_f",
+      "en": "Hmm. It seems like this furniture is big enough for two displays.",
+      "cz": "Hmm. Vypadá to, že tento nábytek je dostatečně velký pro dvě vystavené dekorace.",
+      "source": "pre_existing",
+      "original_cz": "Hmm. Vypadá to, že tento nábytek je dostatečně velký pro dvě vystavené dekorace."
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "Use 2 displays.",
+      "cz": "Použijte 2 displeje.",
+      "source": "pre_existing",
+      "original_cz": "Použijte 2 displeje."
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "Select a different furniture design.",
+      "cz": "Vyberte jiný design nábytku.",
+      "source": "pre_existing",
+      "original_cz": "Vyberte jiný design nábytku."
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "I'll come back later.",
+      "cz": "Vrátím se později.",
+      "source": "pre_existing",
+      "original_cz": "Vrátím se později."
+    },
+    {
+      "key": "Boutique Furniture_005_f",
+      "en": "This display is locked!",
+      "cz": "Tato expozice je uzamčena!",
+      "source": "pre_existing",
+      "original_cz": "Tato expozice je uzamčena!"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Let's open this display (Use <nobr>{displaycost} <sprite=\"iconCurrencySoft\" index=0>)</nobr>",
+      "cz": "Otevřeme tento displej (Použijeme <nobr>{displaycost} <sprite=\"iconCurrencySoft\" index=0>)</nobr>",
+      "source": "pre_existing",
+      "original_cz": "Otevřeme tento displej (Použijeme <nobr>{displaycost} <sprite=\"iconCurrencySoft\" index=0>)</nobr>"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "I'll unlock this display later.",
+      "cz": "Tento displej odemknu později.",
+      "source": "pre_existing",
+      "original_cz": "Tento displej odemknu později."
+    },
+    {
+      "key": "Boutique Furniture_004_f",
+      "en": "Seems like I don't have enough Star Coins for this.",
+      "cz": "Zdá se, že na tohle nemám dost hvězdných mincí.",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že na tohle nemám dost hvězdných mincí."
+    },
+    {
+      "key": "Boutique Furniture_007_f",
+      "en": "Design limit reached? I should visit my Design Inventory in the Furniture Menu to make room for new designs.",
+      "cz": "Dosažen limit designů? Měl bych se podívat do svého inventáře designů v nabídce Nábytek, abych uvolnil místo pro nové designy.",
+      "source": "pre_existing",
+      "original_cz": "Dosažen limit designů? Měl bych se podívat do svého inventáře designů v nabídce Nábytek, abych uvolnil místo pro nové designy."
+    },
+    {
+      "key": "Boutique Furniture_010_f",
+      "en": "I can save this custom furniture made by {hostusername} to a design slot.",
+      "cz": "Tento zakázkový nábytek vyrobený uživatelem {hostusername} mohu uložit do designového slotu.",
+      "source": "pre_existing",
+      "original_cz": "Tento zakázkový nábytek vyrobený uživatelem {hostusername} mohu uložit do designového slotu."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'll save it.",
+      "cz": "Uložím si to.",
+      "source": "pre_existing",
+      "original_cz": "Uložím si to."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I'll come back later.",
+      "cz": "Vrátím se později.",
+      "source": "pre_existing",
+      "original_cz": "Vrátím se později."
+    },
+    {
+      "key": "Boutique Furniture_002_f",
+      "en": "I can save this custom furniture to a design slot.",
+      "cz": "Tento zakázkový nábytek si mohu uložit do designového slotu.",
+      "source": "pre_existing",
+      "original_cz": "Tento zakázkový nábytek si mohu uložit do designového slotu."
+    }
+  ]
+}

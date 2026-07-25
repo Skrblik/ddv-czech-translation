@@ -1,0 +1,78 @@
+{
+  "MiniEvent23_Cinderella/Cinderella_Daily_Cind_ClickMagic_010_Daily_Cind_ClickMagic_010_Intro.locbin": [
+    {
+      "key": "Cinderella_000_f",
+      "en": "Oh, {PlayerName}. Are you interested in a small game?",
+      "cz": "Aha, {PlayerName}. Máš zájem o nějakou malou hru?",
+      "source": "pre_existing",
+      "original_cz": "Aha, {PlayerName}. Máš zájem o nějakou malou hru?"
+    },
+    {
+      "key": "Cinderella_001_f",
+      "en": "You've been working so hard lately. I thought you might like a little diversion.",
+      "cz": "V poslední době jsi tak tvrdě pracoval/a. Myslel/a jsem, že by se ti mohlo hodit malé rozptýlení.",
+      "source": "pre_existing",
+      "original_cz": "V poslední době jsi tak tvrdě pracoval/a. Myslel/a jsem, že by se ti mohlo hodit malé rozptýlení."
+    },
+    {
+      "key": "Cinderella_002_f",
+      "en": "It's simple: All you have to do is find four symbols hidden in the Vitalys Mines.",
+      "cz": "Je to jednoduché: Stačí najít čtyři symboly ukryté v dolech Vitalys.",
+      "source": "pre_existing",
+      "original_cz": "Je to jednoduché: Stačí najít čtyři symboly ukryté v dolech Vitalys."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'll find all of them!",
+      "cz": "Všechny je najdu!",
+      "source": "pre_existing",
+      "original_cz": "Všechny je najdu!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'm busy.",
+      "cz": "Jsem zaneprázdněný/á.",
+      "source": "pre_existing",
+      "original_cz": "Jsem zaneprázdněný/á."
+    },
+    {
+      "key": "Cinderella_003_f",
+      "en": "Oh, I hope you do. And when you locate them, please capture their images with that small box you have.",
+      "cz": "Doufám, že ano. Až je najdete, prosím, vyfoťte je tou malou krabičkou, co máte.",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že ano. Až je najdete, prosím, vyfoťte je tou malou krabičkou, co máte."
+    },
+    {
+      "key": "Cinderella_004_f",
+      "en": "<Lore>Find the images hidden in the Mines</Lore> and <Lore>take a picture with my Royal Phone</Lore>. Got it!",
+      "cz": "<Lore>Najdi obrázky skryté v dolech</Lore> a <Lore>vyfoť je mým královským telefonem</Lore>. Rozumím!",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Najdi obrázky skryté v dolech</Lore> a <Lore>vyfoť je mým královským telefonem</Lore>. Rozumím!"
+    }
+  ],
+  "MiniEvent23_Cinderella/Cinderella_Daily_Cind_ClickMagic_010_Daily_Cind_ClickMagic_010_Ongoing01.locbin": [
+    {
+      "key": "Cinderella_000_f",
+      "en": "I've got to <Lore>find the four images hidden in the Mines</Lore> and <Lore>take a picture with my Royal Phone</Lore>. I'll be back, Cinderella!",
+      "cz": "Musím <Lore>najít ty čtyři obrázky schované v dolech</Lore> a <Lore>vyfotit je svým královským telefonem</Lore>. Vrátím se, Popelko!",
+      "source": "pre_existing",
+      "original_cz": "Musím <Lore>najít ty čtyři obrázky schované v dolech</Lore> a <Lore>vyfotit je svým královským telefonem</Lore>. Vrátím se, Popelko!"
+    }
+  ],
+  "MiniEvent23_Cinderella/Cinderella_Daily_Cind_ClickMagic_010_Daily_Cind_ClickMagic_010_Outro.locbin": [
+    {
+      "key": "Cinderella_000_f",
+      "en": "I hope you enjoyed the game, {PlayerName}. You finished wonderfully.",
+      "cz": "Doufám, že se vám hra líbila, {PlayerName}. Zvládli jste to skvěle.",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že se vám hra líbila, {PlayerName}. Zvládli jste to skvěle."
+    },
+    {
+      "key": "Cinderella_001_f",
+      "en": "Please take this. A small treasure, just for you.",
+      "cz": "Prosím, vezmi si tohle. Malý poklad, jen pro tebe.",
+      "source": "pre_existing",
+      "original_cz": "Prosím, vezmi si tohle. Malý poklad, jen pro tebe."
+    }
+  ]
+}

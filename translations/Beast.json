@@ -1,0 +1,46 @@
+{
+  "Beast/Beast_UnlocksAndUpgrades_BeastGreenhouseUnlock.locbin": [
+    {
+      "key": "Beast_001_f",
+      "en": "If you open up the Beast's Greenhouse, you'll be able to cultivate even more rare flowers, and that'll mean a happier Village!",
+      "cz": "Pokud otevřete Bestiin skleník, budete moci pěstovat ještě více vzácných květin, a to bude znamenat šťastnější vesnici!",
+      "source": "pre_existing",
+      "original_cz": "Pokud otevřete Bestiin skleník, budete moci pěstovat ještě více vzácných květin, a to bude znamenat šťastnější vesnici!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "{Placeholder}Let's unlock the greenhouse. (Use <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>",
+      "cz": "{Placeholder}Odemkněme skleník. (Použijeme <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Odemkněme skleník. (Použijeme <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Perhaps some other time.",
+      "cz": "Možná někdy jindy.",
+      "source": "pre_existing",
+      "original_cz": "Možná někdy jindy."
+    },
+    {
+      "key": "Beast_002_f",
+      "en": "Ah, isn't that a sight?! The Village is sure to have a lot more beautiful bouquets soon enough.",
+      "cz": "No, to je ale nádhera?! Vesnice bude mít brzy jistě mnohem víc krásných kytic.",
+      "source": "pre_existing",
+      "original_cz": "No, to je ale nádhera?! Vesnice bude mít brzy jistě mnohem víc krásných kytic."
+    },
+    {
+      "key": "Beast_003_f",
+      "en": "Och! You don't have enough Star Coins to open the Beast's Greenhouse! Come back when you have the funds, {PlayerName}.",
+      "cz": "Ach! Nemáš dostatek hvězdných mincí na otevření skleníku Bestie! Vrať se, až budeš mít peníze, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Ach! Nemáš dostatek hvězdných mincí na otevření skleníku Bestie! Vrať se, až budeš mít peníze, {PlayerName}."
+    },
+    {
+      "key": "Beast_004_f",
+      "en": "Curse me kilts! Stop wasting my time and find me when you're serious about investing in the Beast's Greenhouse.",
+      "cz": "Zatracené kilty! Přestaňte mi marnit čas a najděte si mě, až to s investicí do Bestiina skleníku myslíte vážně.",
+      "source": "pre_existing",
+      "original_cz": "Zatracené kilty! Přestaňte mi marnit čas a najděte si mě, až to s investicí do Bestiina skleníku myslíte vážně."
+    }
+  ]
+}

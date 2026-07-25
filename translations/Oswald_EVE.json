@@ -1,0 +1,863 @@
+{
+  "Oswald_EVE/EVE_MRQS_E01_170_EvePart_MRQS_E01_170_EvePart_BringItem02.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "All right, EVE! One <ActivityItem>Ancient Processor</ActivityItem> for you.",
+      "cz": "Dobře, EVE! Jeden <ActivityItem>Starověký procesor</ActivityItem> pro tebe.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, EVE! Jeden <ActivityItem>Starověký procesor</ActivityItem> pro tebe."
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "Think this'll be enough to communicate with that ancient computer thing down in the Ruins?",
+      "cz": "Myslíš, že tohle bude stačit na komunikaci s tím starodávným počítačem dole v Ruinách?",
+      "source": "pre_existing",
+      "original_cz": "Myslíš, že tohle bude stačit na komunikaci s tím starodávným počítačem dole v Ruinách?"
+    },
+    {
+      "key": "EVE_002_f",
+      "en": "Hmmm...",
+      "cz": "Hmmm...",
+      "source": "pre_existing",
+      "original_cz": "Hmmm..."
+    },
+    {
+      "key": "EVE_003_f",
+      "en": "Classified.",
+      "cz": "Klasifikovaný.",
+      "source": "pre_existing",
+      "original_cz": "Klasifikovaný."
+    },
+    {
+      "key": "EVE_004_f",
+      "en": "It doesn't seem like it fits right... Hmm...",
+      "cz": "Nezdá se, že by to tam správně sedělo... Hmm...",
+      "source": "pre_existing",
+      "original_cz": "Nezdá se, že by to tam správně sedělo... Hmm..."
+    },
+    {
+      "key": "EVE_005_f",
+      "en": "I guess that makes sense. Maybe if I could craft some sort of <ActivityItem>Universal Adapter</ActivityItem> to hook the processor into your systems.",
+      "cz": "To asi dává smysl. Možná kdybych dokázal vyrobit nějaký <ActivityItem>univerzální adaptér</ActivityItem>, který by procesor připojil k vašim systémům.",
+      "source": "pre_existing",
+      "original_cz": "To asi dává smysl. Možná kdybych dokázal vyrobit nějaký <ActivityItem>univerzální adaptér</ActivityItem>, který by procesor připojil k vašim systémům."
+    },
+    {
+      "key": "EVE_006_f",
+      "en": "Directive!",
+      "cz": "Směrnice!",
+      "source": "pre_existing",
+      "original_cz": "Směrnice!"
+    },
+    {
+      "key": "EVE_007_f",
+      "en": "I guess that means I'll need to learn a little more about how YOU work! Maybe I can start by <Lore>taking pictures inside your House</Lore>.",
+      "cz": "To asi znamená, že se budu muset trochu víc dozvědět o tom, jak pracujete! Možná bych mohl začít tím, že <Lore>začnu fotit uvnitř vašeho domu</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "To asi znamená, že se budu muset trochu víc dozvědět o tom, jak pracujete! Možná bych mohl začít tím, že <Lore>začnu fotit uvnitř vašeho domu</Lore>."
+    }
+  ],
+  "Oswald_EVE/EVE_MRQS_E01_170_EvePart_MRQS_E01_170_EvePart_Ongoing01.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "*digital beeps*",
+      "cz": "*digitální pípání*",
+      "source": "pre_existing",
+      "original_cz": "*digitální pípání*"
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "Don't worry, EVE. I'm searching for those parts all over the Isle right now.",
+      "cz": "Neboj se, EVE. Právě teď hledám tyhle části po celém ostrově.",
+      "source": "pre_existing",
+      "original_cz": "Neboj se, EVE. Právě teď hledám tyhle části po celém ostrově."
+    }
+  ],
+  "Oswald_EVE/EVE_MRQS_E01_170_EvePart_MRQS_E01_170_EvePart_Ongoing03.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "Still working on that Ancient Processor for you, EVE!",
+      "cz": "Pořád pro tebe pracuji na tom Starověkém procesoru, EVE!",
+      "source": "pre_existing",
+      "original_cz": "Pořád pro tebe pracuji na tom Starověkém procesoru, EVE!"
+    }
+  ],
+  "Oswald_EVE/EVE_MRQS_E01_170_EvePart_MRQS_E01_170_EvePart_Ongoing04.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "Still working on that Ancient Processor for you, EVE!",
+      "cz": "Pořád pro tebe pracuji na tom Starověkém procesoru, EVE!",
+      "source": "pre_existing",
+      "original_cz": "Pořád pro tebe pracuji na tom Starověkém procesoru, EVE!"
+    }
+  ],
+  "Oswald_EVE/EVE_MRQS_E01_170_EvePart_MRQS_E01_170_EvePart_Ongoing06.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "Directive?",
+      "cz": "Směrnice?",
+      "source": "pre_existing",
+      "original_cz": "Směrnice?"
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "I think I know enough now to make a perfect adapter for you! I've just got to find the right materials.",
+      "cz": "Myslím, že teď už vím dost na to, abych pro tebe vyrobil perfektní adaptér! Jen musím najít správné materiály.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že teď už vím dost na to, abych pro tebe vyrobil perfektní adaptér! Jen musím najít správné materiály."
+    }
+  ],
+  "Oswald_EVE/EVE_MRQS_E01_170_EvePart_MRQS_E01_170_EvePart_Ongoing07.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "EVE?",
+      "cz": "PŘEDVEČER?",
+      "source": "pre_existing",
+      "original_cz": "PŘEDVEČER?"
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "I've got everything we need for that <ActivityItem>Universal Adapter</ActivityItem>! Now I've just got to make it.",
+      "cz": "Mám všechno, co potřebujeme pro ten <ActivityItem>Univerzální adaptér</ActivityItem>! Teď ho už jen musím vyrobit.",
+      "source": "pre_existing",
+      "original_cz": "Mám všechno, co potřebujeme pro ten <ActivityItem>Univerzální adaptér</ActivityItem>! Teď ho už jen musím vyrobit."
+    }
+  ],
+  "Oswald_EVE/EVE_MRQS_E01_170_EvePart_MRQS_E01_170_EvePart_Ongoing08.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "EVE?",
+      "cz": "PŘEDVEČER?",
+      "source": "pre_existing",
+      "original_cz": "PŘEDVEČER?"
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "One <ActivityItem>Universal Adapter</ActivityItem> coming right up!",
+      "cz": "Jeden <ActivityItem>Univerzální adaptér</ActivityItem> se blíží!",
+      "source": "pre_existing",
+      "original_cz": "Jeden <ActivityItem>Univerzální adaptér</ActivityItem> se blíží!"
+    }
+  ],
+  "Oswald_EVE/EVE_MRQS_E01_170_EvePart_MRQS_E01_170_EvePart_Ongoing11.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "I've got that Ancient Processor for you!",
+      "cz": "Mám pro tebe ten Starověký procesor!",
+      "source": "pre_existing",
+      "original_cz": "Mám pro tebe ten Starověký procesor!"
+    }
+  ],
+  "Oswald_EVE/EVE_MRQS_E01_170_EvePart_MRQS_E01_170_EvePart_Ongoing12.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "EVE?",
+      "cz": "PŘEDVEČER?",
+      "source": "pre_existing",
+      "original_cz": "PŘEDVEČER?"
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "Right. I need to <Lore>take some pictures of things around your House</Lore> to learn more about how you work!",
+      "cz": "Dobře. Potřebuji <Lore>vyfotit pár věcí kolem vašeho domu</Lore>, abych se dozvěděl víc o tom, jak pracujete!",
+      "source": "pre_existing",
+      "original_cz": "Dobře. Potřebuji <Lore>vyfotit pár věcí kolem vašeho domu</Lore>, abych se dozvěděl víc o tom, jak pracujete!"
+    }
+  ],
+  "Oswald_EVE/EVE_MRQS_E01_170_EvePart_MRQS_E01_170_EvePart_Ongoing13.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "*digital beeps*",
+      "cz": "*digitální pípání*",
+      "source": "pre_existing",
+      "original_cz": "*digitální pípání*"
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "Oh, right! I need to look over this map you gave me.",
+      "cz": "Jasně! Musím se podívat na tu mapu, co jsi mi dal/a.",
+      "source": "pre_existing",
+      "original_cz": "Jasně! Musím se podívat na tu mapu, co jsi mi dal/a."
+    }
+  ],
+  "Oswald_EVE/EVE_MRQS_E01_170_EvePart_MRQS_E01_170_EvePart_Outro.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "EVE!",
+      "cz": "PŘEDVEČER!",
+      "source": "pre_existing",
+      "original_cz": "PŘEDVEČER!"
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "There you go! With all that you should be able to communicate with that console in the Ancient Ruins.",
+      "cz": "Tak tady to máte! S tím vším byste měli být schopni komunikovat s tou konzolí ve Starověkých ruinách.",
+      "source": "pre_existing",
+      "original_cz": "Tak tady to máte! S tím vším byste měli být schopni komunikovat s tou konzolí ve Starověkých ruinách."
+    },
+    {
+      "key": "EVE_002_f",
+      "en": "Why don't you wait for me down there?",
+      "cz": "Proč na mě dole nepočkáš?",
+      "source": "pre_existing",
+      "original_cz": "Proč na mě dole nepočkáš?"
+    },
+    {
+      "key": "EVE_003_f",
+      "en": "*digital beeps*",
+      "cz": "*digitální pípání*",
+      "source": "pre_existing",
+      "original_cz": "*digitální pípání*"
+    },
+    {
+      "key": "EVE_008_f",
+      "en": "Looks like everyone is ready to go deeper into the Ruins.",
+      "cz": "Vypadá to, že jsou všichni připraveni jít hlouběji do Ruin.",
+      "source": "pre_existing",
+      "original_cz": "Vypadá to, že jsou všichni připraveni jít hlouběji do Ruin."
+    },
+    {
+      "key": "EVE_009_f",
+      "en": "I'll meet you down there, okay?",
+      "cz": "Sejdeme se tam dole, ano?",
+      "source": "pre_existing",
+      "original_cz": "Sejdeme se tam dole, ano?"
+    },
+    {
+      "key": "EVE_010_f",
+      "en": "Directive!",
+      "cz": "Směrnice!",
+      "source": "pre_existing",
+      "original_cz": "Směrnice!"
+    },
+    {
+      "key": "EVE_006_f",
+      "en": "I just need to finish helping Rapunzel.",
+      "cz": "Jen musím dopomoci Razpunzel.",
+      "source": "pre_existing",
+      "original_cz": "Jen musím dopomoci Razpunzel."
+    },
+    {
+      "key": "EVE_004_f",
+      "en": "I just need to finish helping Gaston.",
+      "cz": "Jen musím dopomoci Gastonovi.",
+      "source": "pre_existing",
+      "original_cz": "Jen musím dopomoci Gastonovi."
+    },
+    {
+      "key": "EVE_007_f",
+      "en": "I just need to finish helping Gaston and Rapunzel.",
+      "cz": "Jen musím dopomoci Gastonovi a Razpunzel.",
+      "source": "pre_existing",
+      "original_cz": "Jen musím dopomoci Gastonovi a Razpunzel."
+    }
+  ],
+  "Oswald_EVE/EVE_MRQS_E01_170_EvePart_MRQS_E01_170_EvePart_TalkTo01.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "*questioning digital beeps*",
+      "cz": "*zpovídající digitální pípání*",
+      "source": "pre_existing",
+      "original_cz": "*zpovídající digitální pípání*"
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "EVE! I've got a very special directive for you.",
+      "cz": "EVE! Mám pro tebe velmi speciální pokyn.",
+      "source": "pre_existing",
+      "original_cz": "EVE! Mám pro tebe velmi speciální pokyn."
+    },
+    {
+      "key": "EVE_002_f",
+      "en": "Ooooh.",
+      "cz": "Jééé.",
+      "source": "pre_existing",
+      "original_cz": "Jééé."
+    },
+    {
+      "key": "EVE_003_f",
+      "en": "Scan this photo. There are these Ancient Ruins underneath Eternity Isle.",
+      "cz": "Naskenujte tuto fotku. Pod Eternity Isle se nacházejí tyto starověké ruiny.",
+      "source": "pre_existing",
+      "original_cz": "Naskenujte tuto fotku. Pod Eternity Isle se nacházejí tyto starověké ruiny."
+    },
+    {
+      "key": "EVE_004_f",
+      "en": "There's some kind of funny ancient computer down there. I need you to hack into it.",
+      "cz": "Je tam dole nějaký divný starobylý počítač. Potřebuji, abys se do něj naboural.",
+      "source": "pre_existing",
+      "original_cz": "Je tam dole nějaký divný starobylý počítač. Potřebuji, abys se do něj naboural."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Pretty please?",
+      "cz": "Prosím hezky?",
+      "source": "pre_existing",
+      "original_cz": "Prosím hezky?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Does that seem like something you can do?",
+      "cz": "Zdá se ti to jako něco, co bys mohl/a dělat?",
+      "source": "pre_existing",
+      "original_cz": "Zdá se ti to jako něco, co bys mohl/a dělat?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Should be a piece of cake, right?",
+      "cz": "To by měla být hračka, ne?",
+      "source": "pre_existing",
+      "original_cz": "To by měla být hračka, ne?"
+    },
+    {
+      "key": "EVE_005_f",
+      "en": "Hmmm...",
+      "cz": "Hmmm...",
+      "source": "pre_existing",
+      "original_cz": "Hmmm..."
+    },
+    {
+      "key": "EVE_013_f",
+      "en": "It looks like some kind of map... a map to pieces of something called an \"Ancient Processor.\"",
+      "cz": "Vypadá to jako nějaká mapa... mapa rozdělená do částí něčeho, čemu se říká „Starověký procesor“.",
+      "source": "pre_existing",
+      "original_cz": "Vypadá to jako nějaká mapa... mapa rozdělená do částí něčeho, čemu se říká „Starověký procesor“."
+    },
+    {
+      "key": "EVE_014_f",
+      "en": "That's got to be what we need! I'll <Lore>use this map to find all those pieces</Lore> and let you know once I've got them!",
+      "cz": "To musí být přesně to, co potřebujeme! <Lore>Použiji tuto mapu, abych všechny ty kousky našel</Lore>, a dám vám vědět, jakmile je budu mít!",
+      "source": "pre_existing",
+      "original_cz": "To musí být přesně to, co potřebujeme! <Lore>Použiji tuto mapu, abych všechny ty kousky našel</Lore>, a dám vám vědět, jakmile je budu mít!"
+    },
+    {
+      "key": "EVE_006_f",
+      "en": "Ahhh... *beeps*",
+      "cz": "Ááá... *pípnutí*",
+      "source": "pre_existing",
+      "original_cz": "Ááá... *pípnutí*"
+    },
+    {
+      "key": "EVE_007_f",
+      "en": "Oh no, EVE! You look sad. You don't think you'll be able to talk to this computer?",
+      "cz": "Ale ne, EVE! Vypadáš smutně. Myslíš, že s tímhle počítačem nebudeš moct mluvit?",
+      "source": "pre_existing",
+      "original_cz": "Ale ne, EVE! Vypadáš smutně. Myslíš, že s tímhle počítačem nebudeš moct mluvit?"
+    },
+    {
+      "key": "EVE_008_f",
+      "en": "No.",
+      "cz": "Žádný.",
+      "source": "pre_existing",
+      "original_cz": "Žádný."
+    },
+    {
+      "key": "EVE_009_f",
+      "en": "Hmmm. There are so many pieces of old technology around this Isle.",
+      "cz": "Hmmm. Na tomhle ostrově je tolik starých technologií.",
+      "source": "pre_existing",
+      "original_cz": "Hmmm. Na tomhle ostrově je tolik starých technologií."
+    },
+    {
+      "key": "EVE_010_f",
+      "en": "There must be SOME kind of way to make an accessory to help you link up with that computer.",
+      "cz": "Musí existovat NĚJAKÝ způsob, jak vyrobit příslušenství, které vám pomůže s připojením k tomuto počítači.",
+      "source": "pre_existing",
+      "original_cz": "Musí existovat NĚJAKÝ způsob, jak vyrobit příslušenství, které vám pomůže s připojením k tomuto počítači."
+    },
+    {
+      "key": "EVE_011_f",
+      "en": "*gasp!*",
+      "cz": "*zalapání po dechu!*",
+      "source": "pre_existing",
+      "original_cz": "*zalapání po dechu!*"
+    },
+    {
+      "key": "EVE_012_f",
+      "en": "Whoa, what's this?",
+      "cz": "Páni, co to je?",
+      "source": "pre_existing",
+      "original_cz": "Páni, co to je?"
+    }
+  ],
+  "Oswald_EVE/EVE_MRQS_E01_190_UpperTemple_MRQS_E01_190_UpperTemple_TalkTo01.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "All right, EVE, you ready to do this?",
+      "cz": "Dobře, EVE, jsi připravená to udělat?",
+      "source": "pre_existing",
+      "original_cz": "Dobře, EVE, jsi připravená to udělat?"
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "Directive?",
+      "cz": "Směrnice?",
+      "source": "pre_existing",
+      "original_cz": "Směrnice?"
+    },
+    {
+      "key": "EVE_002_f",
+      "en": "Head into the North Chamber and try to get that ancient computer running. I'll meet you in there!",
+      "cz": "Jdi do Severní komory a zkus spustit ten starobylý počítač. Sejdeme se tam!",
+      "source": "pre_existing",
+      "original_cz": "Jdi do Severní komory a zkus spustit ten starobylý počítač. Sejdeme se tam!"
+    },
+    {
+      "key": "EVE_003_f",
+      "en": "Whooooo!",
+      "cz": "Jeeeej!",
+      "source": "pre_existing",
+      "original_cz": "Jeeeej!"
+    }
+  ],
+  "Oswald_EVE/EVE_MRQS_E01_190_UpperTemple_MRQS_E01_190_UpperTemple_TalkTo05.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "Hmm...",
+      "cz": "Hmm...",
+      "source": "pre_existing",
+      "original_cz": "Hmm..."
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "What's wrong? The console won't turn on?",
+      "cz": "Co je špatně? Konzole se nezapne?",
+      "source": "pre_existing",
+      "original_cz": "Co je špatně? Konzole se nezapne?"
+    },
+    {
+      "key": "EVE_002_f",
+      "en": "No. *digital beeps*",
+      "cz": "Ne. *digitální pípání*",
+      "source": "pre_existing",
+      "original_cz": "Ne. *digitální pípání*"
+    },
+    {
+      "key": "EVE_003_f",
+      "en": "Huh. Oh. I guess we've got to restore power to it.",
+      "cz": "Hm. Oh. Asi do toho musíme obnovit proud.",
+      "source": "pre_existing",
+      "original_cz": "Hm. Oh. Asi do toho musíme obnovit proud."
+    },
+    {
+      "key": "EVE_004_f",
+      "en": "It looks like there are some empty <ActivityItem>Power Sockets</ActivityItem> around here.",
+      "cz": "Vypadá to, že jsou tu nějaké prázdné <ActivityItem>zásuvky</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Vypadá to, že jsou tu nějaké prázdné <ActivityItem>zásuvky</ActivityItem>."
+    },
+    {
+      "key": "EVE_005_f",
+      "en": "Maybe I can find the <ActivityItem>Power Coils</ActivityItem> that are supposed to go in them scattered around. There sure is a lot of <Lore>rubble</Lore> in here.",
+      "cz": "Možná najdu ty <ActivityItem>napájecí cívky</ActivityItem>, co do nich mají patřit, rozházené všude kolem. Je tu opravdu spousta <Lore>suti</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Možná najdu ty <ActivityItem>napájecí cívky</ActivityItem>, co do nich mají patřit, rozházené všude kolem. Je tu opravdu spousta <Lore>suti</Lore>."
+    }
+  ],
+  "Oswald_EVE/EVE_MRQS_E01_190_UpperTemple_MRQS_E01_190_UpperTemple_TalkTo12.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "*questioning digital beeps*",
+      "cz": "*zpovídající digitální pípání*",
+      "source": "pre_existing",
+      "original_cz": "*zpovídající digitální pípání*"
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "Uh-oh. Everything turning black and white, and all this magic in the air must be really messing with your sensors, huh?",
+      "cz": "Jéé. Všechno se mění v černé a bílé a všechna ta magie ve vzduchu ti asi pořádně kazí senzory, co?",
+      "source": "pre_existing",
+      "original_cz": "Jéé. Všechno se mění v černé a bílé a všechna ta magie ve vzduchu ti asi pořádně kazí senzory, co?"
+    },
+    {
+      "key": "EVE_002_f",
+      "en": "*sigh*",
+      "cz": "*povzdech*",
+      "source": "pre_existing",
+      "original_cz": "*povzdech*"
+    },
+    {
+      "key": "EVE_003_f",
+      "en": "It's all Jafar's doing.",
+      "cz": "To všechno dělá Džafar.",
+      "source": "pre_existing",
+      "original_cz": "To všechno dělá Džafar."
+    },
+    {
+      "key": "EVE_008_f",
+      "en": "*gasp*",
+      "cz": "*zalapání po dechu*",
+      "source": "pre_existing",
+      "original_cz": "*zalapání po dechu*"
+    },
+    {
+      "key": "EVE_004_f",
+      "en": "Directive?",
+      "cz": "Směrnice?",
+      "source": "pre_existing",
+      "original_cz": "Směrnice?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Take care of the Isle.",
+      "cz": "Postarej se o Ostrov.",
+      "source": "pre_existing",
+      "original_cz": "Postarej se o Ostrov."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Investigate anything weird.",
+      "cz": "Prozkoumejte cokoli zvláštního.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte cokoli zvláštního."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Try not to freak out too much.",
+      "cz": "Zkuste se moc nestresovat.",
+      "source": "pre_existing",
+      "original_cz": "Zkuste se moc nestresovat."
+    },
+    {
+      "key": "Player_000_choice_003_f",
+      "en": "Hang out with WALL·E.",
+      "cz": "Trávte čas s WALL·E.",
+      "source": "pre_existing",
+      "original_cz": "Trávte čas s WALL·E."
+    },
+    {
+      "key": "EVE_005_f",
+      "en": "Directive!",
+      "cz": "Směrnice!",
+      "source": "pre_existing",
+      "original_cz": "Směrnice!"
+    },
+    {
+      "key": "EVE_010_f",
+      "en": "In the meantime, I could have sworn I saw a <Lore>black and white Monkey</Lore> running around Ancient's Landing...",
+      "cz": "Mezitím bych mohl přísahat, že jsem viděl <Lore>černobílou opici</Lore> pobíhat kolem Starověkého Přístavište...",
+      "source": "pre_existing",
+      "original_cz": "Mezitím bych mohl přísahat, že jsem viděl <Lore>černobílou opici</Lore> pobíhat kolem Starověkého Přístavište..."
+    },
+    {
+      "key": "EVE_006_f",
+      "en": "Directive!",
+      "cz": "Směrnice!",
+      "source": "pre_existing",
+      "original_cz": "Směrnice!"
+    },
+    {
+      "key": "EVE_007_f",
+      "en": "*sigh*",
+      "cz": "*povzdech*",
+      "source": "pre_existing",
+      "original_cz": "*povzdech*"
+    },
+    {
+      "key": "EVE_009_f",
+      "en": "*gasp* WALL·E!",
+      "cz": "*zalapání po dechu* WALL·E!",
+      "source": "pre_existing",
+      "original_cz": "*zalapání po dechu* WALL·E!"
+    }
+  ],
+  "Oswald_EVE/EVE_MRQS_E01_190_UpperTemple_MRQS_E01_190_UpperTemple_TalkTo13.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "Okay, EVE, the Ancient Console is all powered up and ready!",
+      "cz": "Tak jo, EVE, Starověká konzole je zapnutá a připravená!",
+      "source": "pre_existing",
+      "original_cz": "Tak jo, EVE, Starověká konzole je zapnutá a připravená!"
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "*digital beeps*",
+      "cz": "*digitální pípání*",
+      "source": "pre_existing",
+      "original_cz": "*digitální pípání*"
+    },
+    {
+      "key": "EVE_002_f",
+      "en": "Think you can try communicating with it now to unlock the trap door?",
+      "cz": "Myslíš, že s tím můžeš zkusit komunikovat teď, abys odemkl padací dveře?",
+      "source": "pre_existing",
+      "original_cz": "Myslíš, že s tím můžeš zkusit komunikovat teď, abys odemkl padací dveře?"
+    },
+    {
+      "key": "EVE_003_f",
+      "en": "Directive!",
+      "cz": "Směrnice!",
+      "source": "pre_existing",
+      "original_cz": "Směrnice!"
+    },
+    {
+      "key": "EVE_004_f",
+      "en": "It looks like that worked, EVE! The pathway to the trap door is all lit up!",
+      "cz": "Vypadá to, že to fungovalo, EVE! Cesta k padacím dveřím je celá osvětlená!",
+      "source": "pre_existing",
+      "original_cz": "Vypadá to, že to fungovalo, EVE! Cesta k padacím dveřím je celá osvětlená!"
+    },
+    {
+      "key": "EVE_005_f",
+      "en": "WOOOOOO!",
+      "cz": "JÉÉÉÉ!",
+      "source": "pre_existing",
+      "original_cz": "JÉÉÉÉ!"
+    }
+  ],
+  "Oswald_EVE/EVE_VLG_Oswa_040_VLG_Oswa_040_TalkTo05.locbin": [
+    {
+      "key": "EVE_001_f",
+      "en": "Hey, EVE! I was hoping you could help me with a little something.",
+      "cz": "Ahoj, EVE! Doufal jsem, že bys mi mohla s něčím pomoct.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, EVE! Doufal jsem, že bys mi mohla s něčím pomoct."
+    },
+    {
+      "key": "EVE_002_f",
+      "en": "Oh?",
+      "cz": "Ó?",
+      "source": "pre_existing",
+      "original_cz": "Ó?"
+    },
+    {
+      "key": "EVE_003_f",
+      "en": "So I imagine that by now you've heard of the escaped flying trolley...",
+      "cz": "Takže si dovolím předpokládat, že už jste slyšeli o uprchlém létajícím vozíku...",
+      "source": "pre_existing",
+      "original_cz": "Takže si dovolím předpokládat, že už jste slyšeli o uprchlém létajícím vozíku..."
+    },
+    {
+      "key": "EVE_004_f",
+      "en": "*giggle*",
+      "cz": "*chichotání*",
+      "source": "pre_existing",
+      "original_cz": "*chichotání*"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'll take that as a yes.",
+      "cz": "Budu to brát jako ano.",
+      "source": "pre_existing",
+      "original_cz": "Budu to brát jako ano."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Hey, that poor trolley needs our help!",
+      "cz": "Hej, ten ubohý vozík potřebuje naši pomoc!",
+      "source": "pre_existing",
+      "original_cz": "Hej, ten ubohý vozík potřebuje naši pomoc!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Yeah, this whole thing is a little ridiculous.",
+      "cz": "Jo, celá tahle věc je trochu směšná.",
+      "source": "pre_existing",
+      "original_cz": "Jo, celá tahle věc je trochu směšná."
+    },
+    {
+      "key": "EVE_005_f",
+      "en": "I'm trying to build a landing track for the trolley.",
+      "cz": "Snažím se postavit přistávací dráhu pro trolejbus.",
+      "source": "pre_existing",
+      "original_cz": "Snažím se postavit přistávací dráhu pro trolejbus."
+    },
+    {
+      "key": "EVE_008_f",
+      "en": "As a flying machine, I thought you might have some insights as to how to help the poor trolley land safely.",
+      "cz": "Jako létající stroj jsem si myslel, že bys mohl mít nějaké postřehy, jak pomoci tomu chudákovi vozíku bezpečně přistát.",
+      "source": "pre_existing",
+      "original_cz": "Jako létající stroj jsem si myslel, že bys mohl mít nějaké postřehy, jak pomoci tomu chudákovi vozíku bezpečně přistát."
+    },
+    {
+      "key": "EVE_009_f",
+      "en": "Uh... Hmm...",
+      "cz": "Ehm... Hmm...",
+      "source": "pre_existing",
+      "original_cz": "Ehm... Hmm..."
+    },
+    {
+      "key": "EVE_010_f",
+      "en": "Oh! Oh! *digital beeps*",
+      "cz": "Jé! Jé! *digitální pípání*",
+      "source": "pre_existing",
+      "original_cz": "Jé! Jé! *digitální pípání*"
+    },
+    {
+      "key": "EVE_011_f",
+      "en": "What's this — flares? Perfect!",
+      "cz": "Co je tohle – zvonky? Perfektní!",
+      "source": "pre_existing",
+      "original_cz": "Co je tohle – zvonky? Perfektní!"
+    },
+    {
+      "key": "EVE_012_f",
+      "en": "Directive! *giggle*",
+      "cz": "Směrnice! *chichotání*",
+      "source": "pre_existing",
+      "original_cz": "Směrnice! *chichotání*"
+    },
+    {
+      "key": "EVE_013_f",
+      "en": "Thanks, EVE — talk to you later!",
+      "cz": "Díky, EVE – ozvu se později!",
+      "source": "pre_existing",
+      "original_cz": "Díky, EVE – ozvu se později!"
+    },
+    {
+      "key": "EVE_006_f",
+      "en": "Oh... *digital beeps*",
+      "cz": "Ach... *digitální pípání*",
+      "source": "pre_existing",
+      "original_cz": "Ach... *digitální pípání*"
+    },
+    {
+      "key": "EVE_007_f",
+      "en": "*giggle* *digital beeps*",
+      "cz": "*chichotání* *digitální pípání*",
+      "source": "pre_existing",
+      "original_cz": "*chichotání* *digitální pípání*"
+    }
+  ],
+  "Oswald_EVE/EVE_VLG_Oswa_060_VLG_Oswa_060_BringItem01.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "Here we are, EVE!",
+      "cz": "Tady to máme, EVE!",
+      "source": "pre_existing",
+      "original_cz": "Tady to máme, EVE!"
+    },
+    {
+      "key": "EVE_009_f",
+      "en": "Well, guess I win!",
+      "cz": "No, asi vyhraju!",
+      "source": "pre_existing",
+      "original_cz": "No, asi vyhraju!"
+    },
+    {
+      "key": "EVE_010_f",
+      "en": "Thanks, EVE! I hope WALL·E likes the gift.",
+      "cz": "Díky, EVE! Doufám, že se WALL·Emu dárek líbí.",
+      "source": "pre_existing",
+      "original_cz": "Díky, EVE! Doufám, že se WALL·Emu dárek líbí."
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "I found you a lovely assortment of gemstones!",
+      "cz": "Našla jsem ti krásnou kolekci drahokamů!",
+      "source": "pre_existing",
+      "original_cz": "Našla jsem ti krásnou kolekci drahokamů!"
+    },
+    {
+      "key": "EVE_002_f",
+      "en": "And Oswald brought you a lovely assortment of... coal.",
+      "cz": "A Oswald vám přinesl krásný sortiment... uhlí.",
+      "source": "pre_existing",
+      "original_cz": "A Oswald vám přinesl krásný sortiment... uhlí."
+    },
+    {
+      "key": "EVE_003_f",
+      "en": "Hmm...",
+      "cz": "Hmm...",
+      "source": "pre_existing",
+      "original_cz": "Hmm..."
+    },
+    {
+      "key": "EVE_004_f",
+      "en": "Oh!",
+      "cz": "Ó!",
+      "source": "pre_existing",
+      "original_cz": "Ó!"
+    },
+    {
+      "key": "EVE_005_f",
+      "en": "*digital beeps*",
+      "cz": "*digitální pípání*",
+      "source": "pre_existing",
+      "original_cz": "*digitální pípání*"
+    },
+    {
+      "key": "EVE_006_f",
+      "en": "Have you made a decision?",
+      "cz": "Udělal jsi rozhodnutí?",
+      "source": "pre_existing",
+      "original_cz": "Udělal jsi rozhodnutí?"
+    },
+    {
+      "key": "EVE_007_f",
+      "en": "Did... Oswald win?",
+      "cz": "Vyhrál... Oswald?",
+      "source": "pre_existing",
+      "original_cz": "Vyhrál... Oswald?"
+    },
+    {
+      "key": "EVE_008_f",
+      "en": "No! *giggle* Directive!",
+      "cz": "Ne! *chichotá se* Nařízení!",
+      "source": "pre_existing",
+      "original_cz": "Ne! *chichotá se* Nařízení!"
+    }
+  ],
+  "Oswald_EVE/EVE_VLG_Oswa_060_VLG_Oswa_060_Ongoing01.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "Hey EVE, can you give me a little hint for the challenge? You want a gem for WALL·E?",
+      "cz": "Ahoj EVE, můžeš mi dát malou nápovědu k výzvě? Chceš drahokam pro WALL·E?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj EVE, můžeš mi dát malou nápovědu k výzvě? Chceš drahokam pro WALL·E?"
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "Directive!",
+      "cz": "Směrnice!",
+      "source": "pre_existing",
+      "original_cz": "Směrnice!"
+    },
+    {
+      "key": "EVE_002_f",
+      "en": "Hmm, you're flashing a red light? Maybe a red gem like a <ActivityItem>Spinel</ActivityItem>...",
+      "cz": "Hmm, blikáš červeným světlem? Možná nějaký červený drahokam jako <ActivityItem>spinel</ActivityItem>...",
+      "source": "pre_existing",
+      "original_cz": "Hmm, blikáš červeným světlem? Možná nějaký červený drahokam jako <ActivityItem>spinel</ActivityItem>..."
+    }
+  ],
+  "Oswald_EVE/EVE_VLG_Oswa_060_VLG_Oswa_060_Ongoing02.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "*sigh*",
+      "cz": "*povzdech*",
+      "source": "pre_existing",
+      "original_cz": "*povzdech*"
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "Oh boy, did Oswald gather something strange instead of a gem for you?",
+      "cz": "Páni, to pro tebe Oswald místo drahokamu nasbíral něco divného?",
+      "source": "pre_existing",
+      "original_cz": "Páni, to pro tebe Oswald místo drahokamu nasbíral něco divného?"
+    },
+    {
+      "key": "EVE_002_f",
+      "en": "Maybe I should go and check in with him...",
+      "cz": "Možná bych se s ním měla jít zeptat...",
+      "source": "pre_existing",
+      "original_cz": "Možná bych se s ním měla jít zeptat..."
+    }
+  ],
+  "Oswald_EVE/EVE_VLG_Oswa_060_VLG_Oswa_060_Ongoing03.locbin": [
+    {
+      "key": "EVE_000_f",
+      "en": "Uhh...",
+      "cz": "Ehm...",
+      "source": "pre_existing",
+      "original_cz": "Ehm..."
+    },
+    {
+      "key": "EVE_001_f",
+      "en": "I'll be back in a sec. I just put down the gift for WALL·E for a moment.",
+      "cz": "Hned jsem zpátky. Jen jsem na chvilku odložil dárek pro WALL·Eho.",
+      "source": "pre_existing",
+      "original_cz": "Hned jsem zpátky. Jen jsem na chvilku odložil dárek pro WALL·Eho."
+    }
+  ]
+}

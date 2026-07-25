@@ -1,0 +1,249 @@
+{
+  "MonstersInc_FairyGodMother/FairyGodMother_VLG_Mike_030_VLG_Mike_030_TalkTo06.locbin": [
+    {
+      "key": "FairyGodMother_000_f",
+      "en": "{PlayerName}, how are you, my dear?",
+      "cz": "{PlayerName}, jak se máš, drahoušku?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, jak se máš, drahoušku?"
+    },
+    {
+      "key": "FairyGodMother_001_f",
+      "en": "Quite well, thank you! I'm trying to help Mike Wazowski with something.",
+      "cz": "Docela dobře, děkuji! Snažím se Mikovi Wazowskému s něčím pomoct.",
+      "source": "pre_existing",
+      "original_cz": "Docela dobře, děkuji! Snažím se Mikovi Wazowskému s něčím pomoct."
+    },
+    {
+      "key": "FairyGodMother_002_f",
+      "en": "Well, that's very kind of you. What is Michael in need of?",
+      "cz": "To je od vás velmi laskavé. Co Michael potřebuje?",
+      "source": "pre_existing",
+      "original_cz": "To je od vás velmi laskavé. Co Michael potřebuje?"
+    },
+    {
+      "key": "FairyGodMother_003_f",
+      "en": "He's looking for people that might be interested in learning comedy. How does that sound to you?",
+      "cz": "Hledá lidi, kteří by se mohli zajímat o studium komedie. Co říkáte na to?",
+      "source": "pre_existing",
+      "original_cz": "Hledá lidi, kteří by se mohli zajímat o studium komedie. Co říkáte na to?"
+    },
+    {
+      "key": "FairyGodMother_004_f",
+      "en": "Oh my. Learning comedy? I'm not sure I'm really the comedic sort.",
+      "cz": "Jéj. Učíš se komedii? Nejsem si jistá, jestli jsem opravdu komický typ.",
+      "source": "pre_existing",
+      "original_cz": "Jéj. Učíš se komedii? Nejsem si jistá, jestli jsem opravdu komický typ."
+    },
+    {
+      "key": "FairyGodMother_005_f",
+      "en": "You never know. Sometimes you get surprised by a hidden talent!",
+      "cz": "Nikdy nevíte. Někdy vás překvapí skrytý talent!",
+      "source": "pre_existing",
+      "original_cz": "Nikdy nevíte. Někdy vás překvapí skrytý talent!"
+    },
+    {
+      "key": "FairyGodMother_006_f",
+      "en": "I don't know...",
+      "cz": "Nevím...",
+      "source": "pre_existing",
+      "original_cz": "Nevím..."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "What if I tell you a joke, and then you try to imagine yourself in my place?",
+      "cz": "Co kdybych ti řekl vtip a ty bys pak zkusil představit si sebe na mém místě?",
+      "source": "pre_existing",
+      "original_cz": "Co kdybych ti řekl vtip a ty bys pak zkusil představit si sebe na mém místě?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "No problem. You don't have to participate if you don't want to!",
+      "cz": "Žádný problém. Nemusíte se účastnit, pokud nechcete!",
+      "source": "pre_existing",
+      "original_cz": "Žádný problém. Nemusíte se účastnit, pokud nechcete!"
+    },
+    {
+      "key": "FairyGodMother_026_f",
+      "en": "All right.",
+      "cz": "Dobře.",
+      "source": "pre_existing",
+      "original_cz": "Dobře."
+    },
+    {
+      "key": "Player_000_f",
+      "en": "Okay, I'll tell you...",
+      "cz": "Dobře, řeknu ti to...",
+      "source": "pre_existing",
+      "original_cz": "Dobře, řeknu ti to..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "...a knock-knock joke.",
+      "cz": "...vtip typu ťuk-ťuk.",
+      "source": "pre_existing",
+      "original_cz": "...vtip typu ťuk-ťuk."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "...a wordplay joke.",
+      "cz": "...vtip se slovní hříčkou.",
+      "source": "pre_existing",
+      "original_cz": "...vtip se slovní hříčkou."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "...a \"chicken crossing the road\" joke.",
+      "cz": "...vtip o „kuřeti přecházejícím silnici“.",
+      "source": "pre_existing",
+      "original_cz": "...vtip o „kuřeti přecházejícím silnici“."
+    },
+    {
+      "key": "FairyGodMother_023_f",
+      "en": "My magic is more about helping people achieve their dreams than making them laugh.",
+      "cz": "Moje magie je spíš o tom, pomáhat lidem dosáhnout jejich snů, než je rozesmát.",
+      "source": "pre_existing",
+      "original_cz": "Moje magie je spíš o tom, pomáhat lidem dosáhnout jejich snů, než je rozesmát."
+    },
+    {
+      "key": "FairyGodMother_024_f",
+      "en": "That's really sweet.",
+      "cz": "To je opravdu milé.",
+      "source": "pre_existing",
+      "original_cz": "To je opravdu milé."
+    },
+    {
+      "key": "FairyGodMother_025_f",
+      "en": "I'll head back to my task then, and let you keep on helping people with their hopes and dreams!",
+      "cz": "Tak se vrátím ke svému úkolu a nechám tě, abys i nadále pomáhala lidem s jejich nadějemi a sny!",
+      "source": "pre_existing",
+      "original_cz": "Tak se vrátím ke svému úkolu a nechám tě, abys i nadále pomáhala lidem s jejich nadějemi a sny!"
+    },
+    {
+      "key": "FairyGodMother_007_f",
+      "en": "Knock knock!",
+      "cz": "Ťuk ťuk!",
+      "source": "pre_existing",
+      "original_cz": "Ťuk ťuk!"
+    },
+    {
+      "key": "FairyGodMother_008_f",
+      "en": "Oh... what are you knocking on?",
+      "cz": "Ach... na co to klepeš?",
+      "source": "pre_existing",
+      "original_cz": "Ach... na co to klepeš?"
+    },
+    {
+      "key": "FairyGodMother_009_f",
+      "en": "It's the setup for the joke — I'm knocking on the door that you're behind, and you need to answer.",
+      "cz": "To je příprava na vtip – klepu na dveře, za kterými jsi, a ty musíš otevřít.",
+      "source": "pre_existing",
+      "original_cz": "To je příprava na vtip – klepu na dveře, za kterými jsi, a ty musíš otevřít."
+    },
+    {
+      "key": "FairyGodMother_010_f",
+      "en": "Oh, how fun! May my door answer? Sometimes I like to enchant it to speak.",
+      "cz": "To je ale zábava! Kéž by se mi dveře otevřely? Někdy je ráda očaruji, aby mluvily.",
+      "source": "pre_existing",
+      "original_cz": "To je ale zábava! Kéž by se mi dveře otevřely? Někdy je ráda očaruji, aby mluvily."
+    },
+    {
+      "key": "FairyGodMother_011_f",
+      "en": "Uhhh, I guess? Your door needs to respond with \"who's there?\" for this kind of joke.",
+      "cz": "Ehm, asi? Na tenhle druh vtipu by se ti dveře měly ozvat „kdo je tam?“.",
+      "source": "pre_existing",
+      "original_cz": "Ehm, asi? Na tenhle druh vtipu by se ti dveře měly ozvat „kdo je tam?“."
+    },
+    {
+      "key": "FairyGodMother_012_f",
+      "en": "Fortunately, my enchanted doors can see, so they'll know that it's you that's knocking!",
+      "cz": "Naštěstí mé začarované dveře vidí, takže budou vědět, že jsi to ty, kdo klepe!",
+      "source": "pre_existing",
+      "original_cz": "Naštěstí mé začarované dveře vidí, takže budou vědět, že jsi to ty, kdo klepe!"
+    },
+    {
+      "key": "FairyGodMother_013_f",
+      "en": "Okay, this isn't working the way I thought it would.",
+      "cz": "Dobře, tohle nefunguje tak, jak jsem si představovala.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, tohle nefunguje tak, jak jsem si představovala."
+    },
+    {
+      "key": "FairyGodMother_022_f",
+      "en": "I understand, {PlayerName}. I suppose comedy isn't exactly my forte.",
+      "cz": "Rozumím, {PlayerName}. Asi komedie není zrovna moje silná stránka.",
+      "source": "pre_existing",
+      "original_cz": "Rozumím, {PlayerName}. Asi komedie není zrovna moje silná stránka."
+    },
+    {
+      "key": "FairyGodMother_014_f",
+      "en": "Why was six afraid of seven?",
+      "cz": "Proč se šestka bála sedmičky?",
+      "source": "pre_existing",
+      "original_cz": "Proč se šestka bála sedmičky?"
+    },
+    {
+      "key": "FairyGodMother_015_f",
+      "en": "Oh dear, I hope seven wasn't being mean to six!",
+      "cz": "Ach jo, doufám, že Sedm nebyla k Šest zlá!",
+      "source": "pre_existing",
+      "original_cz": "Ach jo, doufám, že Sedm nebyla k Šest zlá!"
+    },
+    {
+      "key": "FairyGodMother_016_f",
+      "en": "No, it's because seven eight nine!",
+      "cz": "Ne, je to proto, že sedm osm devět!",
+      "source": "pre_existing",
+      "original_cz": "Ne, je to proto, že sedm osm devět!"
+    },
+    {
+      "key": "FairyGodMother_028_f",
+      "en": "Get it... seven ate nine?",
+      "cz": "Chápeš... sedm snědlo devět?",
+      "source": "pre_existing",
+      "original_cz": "Chápeš... sedm snědlo devět?"
+    },
+    {
+      "key": "FairyGodMother_017_f",
+      "en": "I'm sorry, I don't follow.",
+      "cz": "Omlouvám se, nesleduji.",
+      "source": "pre_existing",
+      "original_cz": "Omlouvám se, nesleduji."
+    },
+    {
+      "key": "FairyGodMother_018_f",
+      "en": "A chicken crossing the road? If it's a busy road, that could be dangerous!",
+      "cz": "Kuře přechází silnici? Pokud je to rušná silnice, mohlo by to být nebezpečné!",
+      "source": "pre_existing",
+      "original_cz": "Kuře přechází silnici? Pokud je to rušná silnice, mohlo by to být nebezpečné!"
+    },
+    {
+      "key": "FairyGodMother_019_f",
+      "en": "Well, it's something of a figurative road...",
+      "cz": "No, je to tak trochu obrazná cesta...",
+      "source": "pre_existing",
+      "original_cz": "No, je to tak trochu obrazná cesta..."
+    },
+    {
+      "key": "FairyGodMother_020_f",
+      "en": "May I be in the joke to help the chicken cross safely?",
+      "cz": "Můžu se zapojit do vtipu a pomoci kuřeti bezpečně přejít?",
+      "source": "pre_existing",
+      "original_cz": "Můžu se zapojit do vtipu a pomoci kuřeti bezpečně přejít?"
+    },
+    {
+      "key": "FairyGodMother_021_f",
+      "en": "Perhaps I could enchant a gourd into a carriage for the chicken!",
+      "cz": "Možná bych mohla tykev začarovat do kočáru pro kuře!",
+      "source": "pre_existing",
+      "original_cz": "Možná bych mohla tykev začarovat do kočáru pro kuře!"
+    },
+    {
+      "key": "FairyGodMother_027_f",
+      "en": "That might be best, dear. I don't really consider myself a performer.",
+      "cz": "To by asi bylo nejlepší, drahoušku. Nepovažuji se za umělkyni.",
+      "source": "pre_existing",
+      "original_cz": "To by asi bylo nejlepší, drahoušku. Nepovažuji se za umělkyni."
+    }
+  ]
+}

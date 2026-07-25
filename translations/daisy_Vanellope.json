@@ -1,0 +1,408 @@
+{
+  "daisy_Vanellope/Vanellope_VLG_Dais_040_VLG_Dais_040_BringItem02.locbin": [
+    {
+      "key": "Vanellope_001_f",
+      "en": "Uh... What's this?",
+      "cz": "Ehm... Co je tohle?",
+      "source": "pre_existing",
+      "original_cz": "Ehm... Co je tohle?"
+    },
+    {
+      "key": "Vanellope_002_f",
+      "en": "Daisy's answer to your question. She thinks a change of wardrobe will help you \"take it to the next level\" and make you feel \"like a boss\" like you asked.",
+      "cz": "Daisyina odpověď na vaši otázku. Myslí si, že změna šatníku vám pomůže \"posunout to na další úroveň\" a budete se cítit \"jako šéf\", jak jste se ptal/a.",
+      "source": "pre_existing",
+      "original_cz": "Daisyina odpověď na vaši otázku. Myslí si, že změna šatníku vám pomůže \"posunout to na další úroveň\" a budete se cítit \"jako šéf\", jak jste se ptal/a."
+    },
+    {
+      "key": "Vanellope_003_f",
+      "en": "This is bonkers! When I said I wanted to level up and be more like a boss, I thought she'd teach me how to investigate mysteries? Run a business?",
+      "cz": "To je šílené! Když jsem říkala, že se chci posunout výš a být víc jako šéfka, myslela jsem si, že mě naučí, jak vyšetřovat záhady? Podnikat?",
+      "source": "pre_existing",
+      "original_cz": "To je šílené! Když jsem říkala, že se chci posunout výš a být víc jako šéfka, myslela jsem si, že mě naučí, jak vyšetřovat záhady? Podnikat?"
+    },
+    {
+      "key": "Vanellope_009_f",
+      "en": "Sheesh, even tying knots that never come undone like she does with her bows!",
+      "cz": "Sakra, dokonce i vázání uzlů, které se nikdy nerozvážou, jako to dělá se svými mašlemi!",
+      "source": "pre_existing",
+      "original_cz": "Sakra, dokonce i vázání uzlů, které se nikdy nerozvážou, jako to dělá se svými mašlemi!"
+    },
+    {
+      "key": "Vanellope_000_f",
+      "en": "I definitely didn't mean a makeover!",
+      "cz": "Rozhodně jsem nemyslela proměnu!",
+      "source": "pre_existing",
+      "original_cz": "Rozhodně jsem nemyslela proměnu!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I think it's a great dress.",
+      "cz": "Myslím, že jsou to skvělé šaty.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že jsou to skvělé šaty."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Does that mean you won't wear it?",
+      "cz": "Znamená to, že ho nebudeš nosit?",
+      "source": "pre_existing",
+      "original_cz": "Znamená to, že ho nebudeš nosit?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I tried to warn Daisy about this!",
+      "cz": "Snažil jsem se Daisy před tím varovat!",
+      "source": "pre_existing",
+      "original_cz": "Snažil jsem se Daisy před tím varovat!"
+    },
+    {
+      "key": "Vanellope_004_f",
+      "en": "Sure, it's nice, {PlayerName}, but eh... It's just not me. And I love being me!",
+      "cz": "Jasně, je to hezké, {PlayerName}, ale eh... To prostě nejsem já. A já miluju být sama sebou!",
+      "source": "pre_existing",
+      "original_cz": "Jasně, je to hezké, {PlayerName}, ale eh... To prostě nejsem já. A já miluju být sama sebou!"
+    },
+    {
+      "key": "Vanellope_011_f",
+      "en": "I love my candy-sprinkled hair, and my comfy clothes, and my adorable face that gets super intense when I'm leaving my competitors in the dust!",
+      "cz": "Miluji své vlasy posypané bonbóny, pohodlné oblečení a svůj rozkošný obličej, který se strašně zintenzivní, když nechávám své soupeře v prachu!",
+      "source": "pre_existing",
+      "original_cz": "Miluji své vlasy posypané bonbóny, pohodlné oblečení a svůj rozkošný obličej, který se strašně zintenzivní, když nechávám své soupeře v prachu!"
+    },
+    {
+      "key": "Vanellope_008_f",
+      "en": "Hey... look at me being all sure of myself. Sweet mother of monkey milk!",
+      "cz": "Hej... podívej se, jak jsem si sám sebou jistý. Sladká matko opičího mléka!",
+      "source": "pre_existing",
+      "original_cz": "Hej... podívej se, jak jsem si sám sebou jistý. Sladká matko opičího mléka!"
+    },
+    {
+      "key": "Vanellope_007_f",
+      "en": "Maybe this DID help me reach a new level? Just... not how Daisy thought.",
+      "cz": "Možná mi tohle POMOHLO dosáhnout nové úrovně? Jen... ne tak, jak si Daisy myslela.",
+      "source": "pre_existing",
+      "original_cz": "Možná mi tohle POMOHLO dosáhnout nové úrovně? Jen... ne tak, jak si Daisy myslela."
+    },
+    {
+      "key": "Vanellope_005_f",
+      "en": "Nah, it's really not my speed.",
+      "cz": "Ne, to opravdu není moje rychlost.",
+      "source": "pre_existing",
+      "original_cz": "Ne, to opravdu není moje rychlost."
+    },
+    {
+      "key": "Vanellope_006_f",
+      "en": "Aw, it's nice to have a friend who knows me so well! It's a cool outfit and all, but it's just not me. And I LIKE being me.",
+      "cz": "Jé, je fajn mít kamaráda/kamarádku, který/á mě tak dobře zná! Je to sice super outfit, ale prostě to nejsem já. A já RÁDA jsem sama sebou.",
+      "source": "pre_existing",
+      "original_cz": "Jé, je fajn mít kamaráda/kamarádku, který/á mě tak dobře zná! Je to sice super outfit, ale prostě to nejsem já. A já RÁDA jsem sama sebou."
+    },
+    {
+      "key": "Vanellope_010_f",
+      "en": "I love my candy-sprinkled hair, and my comfy clothes, and my adorable face that gets super intense when I'm leaving my competitors in the dust!",
+      "cz": "Miluji své vlasy posypané bonbóny, pohodlné oblečení a svůj rozkošný obličej, který se strašně zintenzivní, když nechávám své soupeře v prachu!",
+      "source": "pre_existing",
+      "original_cz": "Miluji své vlasy posypané bonbóny, pohodlné oblečení a svůj rozkošný obličej, který se strašně zintenzivní, když nechávám své soupeře v prachu!"
+    }
+  ],
+  "daisy_Vanellope/Vanellope_VLG_Dais_040_VLG_Dais_040_Ongoing01.locbin": [
+    {
+      "key": "Vanellope_000_f",
+      "en": "Hey, {PlayerName}, what's goin' on?",
+      "cz": "Hej, {PlayerName}, co se děje?",
+      "source": "pre_existing",
+      "original_cz": "Hej, {PlayerName}, co se děje?"
+    },
+    {
+      "key": "Vanellope_001_f",
+      "en": "Daisy got your question in her Advice Box. I'm going to talk to Minnie about it.",
+      "cz": "Daisy má tvou otázku ve své poradně. Promluvím si o tom s Minnie.",
+      "source": "pre_existing",
+      "original_cz": "Daisy má tvou otázku ve své poradně. Promluvím si o tom s Minnie."
+    },
+    {
+      "key": "Vanellope_002_f",
+      "en": "... Okay? Knock yourself out, I guess.",
+      "cz": "... Dobře? Tak se klidně zabav.",
+      "source": "pre_existing",
+      "original_cz": "... Dobře? Tak se klidně zabav."
+    }
+  ],
+  "daisy_Vanellope/Vanellope_VLG_Dais_040_VLG_Dais_040_Ongoing02.locbin": [
+    {
+      "key": "Vanellope_000_f",
+      "en": "Hey, {PlayerName}, I heard you were helping Daisy with a question for \"Ask Daisy\"?",
+      "cz": "Ahoj, {PlayerName}, slyšel jsem, že pomáháš Daisy s otázkou pro \"Zeptejte se Daisy\"?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}, slyšel jsem, že pomáháš Daisy s otázkou pro \"Zeptejte se Daisy\"?"
+    },
+    {
+      "key": "Vanellope_001_f",
+      "en": "Yep! I need to bring a few things to Minnie. Some <ActivityItem>Fabric</ActivityItem>, <ActivityItem>Gold Ingots</ActivityItem>, and <ActivityItem>Red Bromeliads</ActivityItem>.",
+      "cz": "Jo! Musím Minnie donést pár věcí. Nějakou <ActivityItem>látku</ActivityItem>, <ActivityItem>zlaté ingoty</ActivityItem> a <ActivityItem>červené bromélie</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Jo! Musím Minnie donést pár věcí. Nějakou <ActivityItem>látku</ActivityItem>, <ActivityItem>zlaté ingoty</ActivityItem> a <ActivityItem>červené bromélie</ActivityItem>."
+    },
+    {
+      "key": "Vanellope_002_f",
+      "en": "For... reasons...",
+      "cz": "Z... důvodů...",
+      "source": "pre_existing",
+      "original_cz": "Z... důvodů..."
+    }
+  ],
+  "daisy_Vanellope/Vanellope_VLG_Dais_040_VLG_Dais_040_Ongoing03.locbin": [
+    {
+      "key": "Vanellope_000_f",
+      "en": "Can I help you?",
+      "cz": "Můžu vám s něčím pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Můžu vám s něčím pomoct?"
+    },
+    {
+      "key": "Vanellope_001_f",
+      "en": "Oh! I need to give you the <ActivityItem>Dress to Impress</ActivityItem>.",
+      "cz": "Ach! Musím ti dát <ActivityItem>šaty, které udělají dojem</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ach! Musím ti dát <ActivityItem>šaty, které udělají dojem</ActivityItem>."
+    },
+    {
+      "key": "Vanellope_002_f",
+      "en": "The what now?",
+      "cz": "A co teď?",
+      "source": "pre_existing",
+      "original_cz": "A co teď?"
+    }
+  ],
+  "daisy_Vanellope/Vanellope_VLG_Dais_040_VLG_Dais_040_Ongoing04.locbin": [
+    {
+      "key": "Vanellope_000_f",
+      "en": "I think you should tell Daisy what I thought. Before she sends me a whole wardrobe of dresses.",
+      "cz": "Myslím, že bys měla Daisy říct, co si myslím. Než mi pošle celou skříň šatů.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že bys měla Daisy říct, co si myslím. Než mi pošle celou skříň šatů."
+    }
+  ],
+  "daisy_Vanellope/Vanellope_VLG_Dais_060_VLG_Dais_060_TalkTo04.locbin": [
+    {
+      "key": "Vanellope_000_f",
+      "en": "Oh! Look at that... glitter. Everywhere! Whatever could have happened?",
+      "cz": "Jé! Podívejte se na to... třpytky. Všude! Co se mohlo stát?",
+      "source": "pre_existing",
+      "original_cz": "Jé! Podívejte se na to... třpytky. Všude! Co se mohlo stát?"
+    },
+    {
+      "key": "Vanellope_001_f",
+      "en": "Seems someone planted a glitter bomb to prank the gala. Would you know anything about that?",
+      "cz": "Zdá se, že někdo nastražil třpytivou bombu, aby si na slavnostním galavečeru udělal legraci. Víte o tom něco?",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že někdo nastražil třpytivou bombu, aby si na slavnostním galavečeru udělal legraci. Víte o tom něco?"
+    },
+    {
+      "key": "Vanellope_002_f",
+      "en": "Who, me? I'm just an innocent, adorable little kid enjoying some cheesecake.",
+      "cz": "Kdo, já? Jsem jen nevinné, rozkošné malé dítě, které si pochutnává na tvarohovém dortu.",
+      "source": "pre_existing",
+      "original_cz": "Kdo, já? Jsem jen nevinné, rozkošné malé dítě, které si pochutnává na tvarohovém dortu."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "You expect me to believe that?",
+      "cz": "Čekáš, že tomu uvěřím?",
+      "source": "pre_existing",
+      "original_cz": "Čekáš, že tomu uvěřím?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Who do you think is responsible?",
+      "cz": "Kdo si myslíte, že je zodpovědný?",
+      "source": "pre_existing",
+      "original_cz": "Kdo si myslíte, že je zodpovědný?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Lie better, Vanellope.",
+      "cz": "Lži líp, Vanellope.",
+      "source": "pre_existing",
+      "original_cz": "Lži líp, Vanellope."
+    },
+    {
+      "key": "Vanellope_017_f",
+      "en": "You seemed really REALLY bored...",
+      "cz": "Vypadal jsi fakt, fakt znuděně...",
+      "source": "pre_existing",
+      "original_cz": "Vypadal jsi fakt, fakt znuděně..."
+    },
+    {
+      "key": "Vanellope_012_f",
+      "en": "No! I had my eyes closed. I was trying to mess with the photo because I knew it would drive Daisy bonkers.",
+      "cz": "Ne! Měl jsem zavřené oči. Snažil jsem se s tou fotkou něco změnit, protože jsem věděl, že by to Daisy zbláznilo.",
+      "source": "pre_existing",
+      "original_cz": "Ne! Měl jsem zavřené oči. Snažil jsem se s tou fotkou něco změnit, protože jsem věděl, že by to Daisy zbláznilo."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm keeping an eye on you...",
+      "cz": "Dávám ti pozor...",
+      "source": "pre_existing",
+      "original_cz": "Dávám ti pozor..."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I didn't learn anything useful.",
+      "cz": "Nic užitečného jsem se nenaučil/a.",
+      "source": "pre_existing",
+      "original_cz": "Nic užitečného jsem se nenaučil/a."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "You are SO suspicious!",
+      "cz": "Jsi TAK podezřívavý/á!",
+      "source": "pre_existing",
+      "original_cz": "Jsi TAK podezřívavý/á!"
+    },
+    {
+      "key": "Vanellope_004_f",
+      "en": "Hey! Being bored isn't a crime. I'll tell you who's REALLY responsible for this glitter disaster... Minnie!",
+      "cz": "Hej! Nudit se není zločin. Řeknu ti, kdo je za tuhle třpytivou katastrofu OPRAVDU zodpovědný... Minnie!",
+      "source": "pre_existing",
+      "original_cz": "Hej! Nudit se není zločin. Řeknu ti, kdo je za tuhle třpytivou katastrofu OPRAVDU zodpovědný... Minnie!"
+    },
+    {
+      "key": "Vanellope_005_f",
+      "en": "Minnie?",
+      "cz": "Minnie?",
+      "source": "pre_existing",
+      "original_cz": "Minnie?"
+    },
+    {
+      "key": "Vanellope_006_f",
+      "en": "Yeah, she looks all spice and everything nice, but she's a mastermind, and she actually LIKES glitter. It must be her or... Kristoff.",
+      "cz": "Jo, vypadá sama o sobě elegantně a mile, ale je to geniální osobnost a třpytky má MÁ RÁDA. Musí to být ona nebo... Kristoff.",
+      "source": "pre_existing",
+      "original_cz": "Jo, vypadá sama o sobě elegantně a mile, ale je to geniální osobnost a třpytky má MÁ RÁDA. Musí to být ona nebo... Kristoff."
+    },
+    {
+      "key": "Vanellope_007_f",
+      "en": "Don't you think it's weird he's so calm, like all the time?! If you ask me, he's hiding something.",
+      "cz": "Nemyslíš, že je divný, že je pořád tak klidný?! Podle mě něco skrývá.",
+      "source": "pre_existing",
+      "original_cz": "Nemyslíš, že je divný, že je pořád tak klidný?! Podle mě něco skrývá."
+    },
+    {
+      "key": "Vanellope_008_f",
+      "en": "Or what about Donald?",
+      "cz": "Nebo co třeba Donald?",
+      "source": "pre_existing",
+      "original_cz": "Nebo co třeba Donald?"
+    },
+    {
+      "key": "Vanellope_009_f",
+      "en": "What ABOUT Donald?",
+      "cz": "A co Donald?",
+      "source": "pre_existing",
+      "original_cz": "A co Donald?"
+    },
+    {
+      "key": "Vanellope_010_f",
+      "en": "He could've easily tripped and exploded something with glitter inside. Clumsy city, am I right?",
+      "cz": "Mohl snadno zakopnout a něco s třpytkami uvnitř explodovat. Nešikovné město, že?",
+      "source": "pre_existing",
+      "original_cz": "Mohl snadno zakopnout a něco s třpytkami uvnitř explodovat. Nešikovné město, že?"
+    },
+    {
+      "key": "Vanellope_011_f",
+      "en": "Sounds like you're guessing... Or covering something up. You didn't see anything?",
+      "cz": "Zní to, jako byste hádali... Nebo něco zatajovali. Nic jste neviděli?",
+      "source": "pre_existing",
+      "original_cz": "Zní to, jako byste hádali... Nebo něco zatajovali. Nic jste neviděli?"
+    },
+    {
+      "key": "Vanellope_013_f",
+      "en": "You can keep BOTH eyes on me, {PlayerName}. Just remember the culprit is anyone BUT me.",
+      "cz": "Můžeš na mě dávat pozor OBĚMA očima, {PlayerName}. Jen si pamatuj, že viníkem je kdokoli JEN JEN já.",
+      "source": "pre_existing",
+      "original_cz": "Můžeš na mě dávat pozor OBĚMA očima, {PlayerName}. Jen si pamatuj, že viníkem je kdokoli JEN JEN já."
+    },
+    {
+      "key": "Vanellope_014_f",
+      "en": "Great!",
+      "cz": "Velký!",
+      "source": "pre_existing",
+      "original_cz": "Velký!"
+    },
+    {
+      "key": "Vanellope_015_f",
+      "en": "Wait— Uh-oh.",
+      "cz": "Počkejte – Jééé.",
+      "source": "pre_existing",
+      "original_cz": "Počkejte – Jééé."
+    },
+    {
+      "key": "Vanellope_016_f",
+      "en": "Me? Pfff, {PlayerName}, don't be ridiculous. I'm a perfectly innocent little kid.",
+      "cz": "Já? Pff, {PlayerName}, nebuď směšný. Jsem naprosto nevinné malé dítě.",
+      "source": "pre_existing",
+      "original_cz": "Já? Pff, {PlayerName}, nebuď směšný. Jsem naprosto nevinné malé dítě."
+    }
+  ],
+  "daisy_Vanellope/Vanellope_VLG_Dais_060_VLG_Dais_060_TalkTo15.locbin": [
+    {
+      "key": "Vanellope_001_f",
+      "en": "Hey, {PlayerName}. I came for the cheesecake, but now I'm stuck at this snooze fest! Are you as bored as me?",
+      "cz": "Ahoj, {PlayerName}. Přišel jsem pro tvarohový dort, ale teď jsem uvízl na tomhle festivalu zdřímnutí! Nudíš se stejně jako já?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}. Přišel jsem pro tvarohový dort, ale teď jsem uvízl na tomhle festivalu zdřímnutí! Nudíš se stejně jako já?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm having fun.",
+      "cz": "Bavím se.",
+      "source": "pre_existing",
+      "original_cz": "Bavím se."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Why are you bored?",
+      "cz": "Proč se nudíš?",
+      "source": "pre_existing",
+      "original_cz": "Proč se nudíš?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "More, even.",
+      "cz": "Dokonce i víc.",
+      "source": "pre_existing",
+      "original_cz": "Dokonce i víc."
+    },
+    {
+      "key": "Vanellope_002_f",
+      "en": "Well... To each their own. Hmm...",
+      "cz": "No... každému co chce. Hmm...",
+      "source": "pre_existing",
+      "original_cz": "No... každému co chce. Hmm..."
+    },
+    {
+      "key": "Vanellope_003_f",
+      "en": "Hey, I know how we can liven things up: a race! C'mon, let's go slide down every railing in this joint!",
+      "cz": "Hej, vím, jak to můžeme oživit: závodem! No tak, sjedeme se po všech zábradlích tady v týhle firmě!",
+      "source": "pre_existing",
+      "original_cz": "Hej, vím, jak to můžeme oživit: závodem! No tak, sjedeme se po všech zábradlích tady v týhle firmě!"
+    },
+    {
+      "key": "Vanellope_004_f",
+      "en": "People are just eating and talking. There aren't even any games at this shindig!",
+      "cz": "Lidé jen jedí a povídají si. Na téhle slavnosti se ani žádné hry nekonají!",
+      "source": "pre_existing",
+      "original_cz": "Lidé jen jedí a povídají si. Na téhle slavnosti se ani žádné hry nekonají!"
+    },
+    {
+      "key": "Vanellope_005_f",
+      "en": "Yeah, this is one game I DON'T wanna win. There's gotta be something fun to do around here.",
+      "cz": "Jo, tohle je jedna hra, kterou NECHCI vyhrát. Tady musí být něco, co by mě bavilo.",
+      "source": "pre_existing",
+      "original_cz": "Jo, tohle je jedna hra, kterou NECHCI vyhrát. Tady musí být něco, co by mě bavilo."
+    }
+  ]
+}

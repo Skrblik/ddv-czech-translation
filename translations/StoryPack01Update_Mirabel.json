@@ -1,0 +1,421 @@
+{
+  "StoryPack01Update_Mirabel/Mirabel_PRM_WallE_010_PRM_WallE_010_TalkTo02.locbin": [
+    {
+      "key": "Mirabel_000_f",
+      "en": "Hola, {PlayerName}! Hola, WALL·E! What brings you to Mini-Casita?",
+      "cz": "Ahoj, {PlayerName}! Ahoj, WALL·E! Co tě přivádí do Mini-Casity?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}! Ahoj, WALL·E! Co tě přivádí do Mini-Casity?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "You'll have to ask WALL·E about that...",
+      "cz": "Na to se budeš muset zeptat WALL·Eho...",
+      "source": "pre_existing",
+      "original_cz": "Na to se budeš muset zeptat WALL·Eho..."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Just being neighborly!",
+      "cz": "Jen jsem zdvořilý/á!",
+      "source": "pre_existing",
+      "original_cz": "Jen jsem zdvořilý/á!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "We're here for the arepas!",
+      "cz": "Jsme tu kvůli arepám!",
+      "source": "pre_existing",
+      "original_cz": "Jsme tu kvůli arepám!"
+    },
+    {
+      "key": "Mirabel_002_f",
+      "en": "Right! Okay... that might be tricky.",
+      "cz": "Jasně! Dobře... to by mohlo být ošemetné.",
+      "source": "pre_existing",
+      "original_cz": "Jasně! Dobře... to by mohlo být ošemetné."
+    },
+    {
+      "key": "Mirabel_003_f",
+      "en": "You're telling me!",
+      "cz": "To mi říkáš!",
+      "source": "pre_existing",
+      "original_cz": "To mi říkáš!"
+    },
+    {
+      "key": "Mirabel_009_f",
+      "en": "He's been visiting for awhile and rooting around. Mostly in the trash...",
+      "cz": "Už nějakou dobu nás navštěvuje a hrabe se všude kolem. Většinou v koši...",
+      "source": "pre_existing",
+      "original_cz": "Už nějakou dobu nás navštěvuje a hrabe se všude kolem. Většinou v koši..."
+    },
+    {
+      "key": "Mirabel_010_f",
+      "en": "He does love to collect all sorts of things.",
+      "cz": "Miluje sbírat nejrůznější věci.",
+      "source": "pre_existing",
+      "original_cz": "Miluje sbírat nejrůznější věci."
+    },
+    {
+      "key": "Mirabel_011_f",
+      "en": "I'm pretty sure he's looking for something... and he really likes this metal handle. Why don't you and WALL·E take it?",
+      "cz": "Jsem si docela jistá, že něco hledá... a tahle kovová rukojeť se mu fakt líbí. Proč si ji ty a WALL·E nevezmete?",
+      "source": "pre_existing",
+      "original_cz": "Jsem si docela jistá, že něco hledá... a tahle kovová rukojeť se mu fakt líbí. Proč si ji ty a WALL·E nevezmete?"
+    },
+    {
+      "key": "Mirabel_012_f",
+      "en": "Maybe you can figure out what he's hoping to do.",
+      "cz": "Možná dokážeš zjistit, co chce udělat.",
+      "source": "pre_existing",
+      "original_cz": "Možná dokážeš zjistit, co chce udělat."
+    },
+    {
+      "key": "Mirabel_013_f",
+      "en": "Thanks! I'll show it to WALL·E and see how he reacts.",
+      "cz": "Díky! Ukážu to WALL·Emu a uvidím, jak zareaguje.",
+      "source": "pre_existing",
+      "original_cz": "Díky! Ukážu to WALL·Emu a uvidím, jak zareaguje."
+    },
+    {
+      "key": "Mirabel_004_f",
+      "en": "I'm sure WALL·E has something particular in mind...",
+      "cz": "Jsem si jistá, že WALL·E má na mysli něco konkrétního...",
+      "source": "pre_existing",
+      "original_cz": "Jsem si jistá, že WALL·E má na mysli něco konkrétního..."
+    },
+    {
+      "key": "Mirabel_005_f",
+      "en": "Do you know what he wants?",
+      "cz": "Víš, co chce?",
+      "source": "pre_existing",
+      "original_cz": "Víš, co chce?"
+    },
+    {
+      "key": "Mirabel_006_f",
+      "en": "Honestly, I have no idea.",
+      "cz": "Upřímně, nemám tušení.",
+      "source": "pre_existing",
+      "original_cz": "Upřímně, nemám tušení."
+    },
+    {
+      "key": "Mirabel_007_f",
+      "en": "Oooh! Sorry, I just ate the last one!",
+      "cz": "Jéé! Promiň, právě jsem snědla ten poslední!",
+      "source": "pre_existing",
+      "original_cz": "Jéé! Promiň, právě jsem snědla ten poslední!"
+    },
+    {
+      "key": "Mirabel_008_f",
+      "en": "Um, {PlayerName}, WALL·E seems to be on a mission. Do you know what it is?",
+      "cz": "Ehm, {PlayerName}, WALL·E se zdá být na misi. Víš, co to je?",
+      "source": "pre_existing",
+      "original_cz": "Ehm, {PlayerName}, WALL·E se zdá být na misi. Víš, co to je?"
+    }
+  ],
+  "StoryPack01Update_Mirabel/Mirabel_PRM_WallE_030_PRM_WallE_030_BringItem01.locbin": [
+    {
+      "key": "Mirabel_000_f",
+      "en": "Here are the feathers, as requested!",
+      "cz": "Zde jsou peříčka, jak jsem si přála!",
+      "source": "pre_existing",
+      "original_cz": "Zde jsou peříčka, jak jsem si přála!"
+    },
+    {
+      "key": "Mirabel_001_f",
+      "en": "Gracias, {PlayerName}! This is amazing!",
+      "cz": "Gracias, {PlayerName}! To je úžasné!",
+      "source": "pre_existing",
+      "original_cz": "Gracias, {PlayerName}! To je úžasné!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "No big deal. I like interacting with birds.",
+      "cz": "Žádný problém. Rád se setkávám s ptáky.",
+      "source": "pre_existing",
+      "original_cz": "Žádný problém. Rád se setkávám s ptáky."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'll be honest: They took a while to gather!",
+      "cz": "Budu upřímný: Chvíli jim trvalo, než se sebrali!",
+      "source": "pre_existing",
+      "original_cz": "Budu upřímný: Chvíli jim trvalo, než se sebrali!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "All part of a day's work!",
+      "cz": "Všechno je součástí denní práce!",
+      "source": "pre_existing",
+      "original_cz": "Všechno je součástí denní práce!"
+    },
+    {
+      "key": "Mirabel_002_f",
+      "en": "They are pretty adorable.",
+      "cz": "Jsou docela rozkošní.",
+      "source": "pre_existing",
+      "original_cz": "Jsou docela rozkošní."
+    },
+    {
+      "key": "Mirabel_004_f",
+      "en": "So what are you planning with this stuff?",
+      "cz": "Tak co s tímhle plánuješ?",
+      "source": "pre_existing",
+      "original_cz": "Tak co s tímhle plánuješ?"
+    },
+    {
+      "key": "Mirabel_005_f",
+      "en": "Actually, it's kind of a secret.",
+      "cz": "Vlastně je to tak trochu tajemství.",
+      "source": "pre_existing",
+      "original_cz": "Vlastně je to tak trochu tajemství."
+    },
+    {
+      "key": "Mirabel_006_f",
+      "en": "A secret?! After all my hard work?!",
+      "cz": "Tajemství?! Po vší mé tvrdé práci?!",
+      "source": "pre_existing",
+      "original_cz": "Tajemství?! Po vší mé tvrdé práci?!"
+    },
+    {
+      "key": "Mirabel_007_f",
+      "en": "Okay, what if I said it's less of a secret... and more of a surprise?",
+      "cz": "Dobře, co kdybych řekla, že je to méně tajemství... a spíše překvapení?",
+      "source": "pre_existing",
+      "original_cz": "Dobře, co kdybych řekla, že je to méně tajemství... a spíše překvapení?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "OK, that makes it better.",
+      "cz": "Dobře, tím je to lepší.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, tím je to lepší."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Now I want to know even more!",
+      "cz": "Teď chci vědět ještě víc!",
+      "source": "pre_existing",
+      "original_cz": "Teď chci vědět ještě víc!"
+    },
+    {
+      "key": "Mirabel_008_f",
+      "en": "I can wait for a surprise.",
+      "cz": "Můžu si počkat na překvapení.",
+      "source": "pre_existing",
+      "original_cz": "Můžu si počkat na překvapení."
+    },
+    {
+      "key": "Mirabel_010_f",
+      "en": "If it makes it easier, the surprise is for you!",
+      "cz": "Jestli to bude snazší, překvapení je pro tebe!",
+      "source": "pre_existing",
+      "original_cz": "Jestli to bude snazší, překvapení je pro tebe!"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "... That's even worse.",
+      "cz": "... To je ještě horší.",
+      "source": "pre_existing",
+      "original_cz": "... To je ještě horší."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Oooh, okay. I'll try to be patient!",
+      "cz": "Jé, dobře. Zkusím být trpělivý!",
+      "source": "pre_existing",
+      "original_cz": "Jé, dobře. Zkusím být trpělivý!"
+    },
+    {
+      "key": "Mirabel_011_f",
+      "en": "I am consumed by curiosity!",
+      "cz": "Zvídavost mě pohlcuje!",
+      "source": "pre_existing",
+      "original_cz": "Zvídavost mě pohlcuje!"
+    },
+    {
+      "key": "Mirabel_013_f",
+      "en": "Sorry, you're just going to have to deal with it!",
+      "cz": "Promiň, ale budeš se s tím muset nějak vyrovnat!",
+      "source": "pre_existing",
+      "original_cz": "Promiň, ale budeš se s tím muset nějak vyrovnat!"
+    },
+    {
+      "key": "Mirabel_014_f",
+      "en": "All right, guess I'll let you go about your mysterious business.",
+      "cz": "Dobře, asi tě nechám jít si s tvými tajemnými záležitostmi.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, asi tě nechám jít si s tvými tajemnými záležitostmi."
+    },
+    {
+      "key": "Mirabel_015_f",
+      "en": "See you at the celebration!",
+      "cz": "Uvidíme se na oslavě!",
+      "source": "pre_existing",
+      "original_cz": "Uvidíme se na oslavě!"
+    },
+    {
+      "key": "Mirabel_016_f",
+      "en": "Adiós!",
+      "cz": "Sbohem!",
+      "source": "pre_existing",
+      "original_cz": "Sbohem!"
+    },
+    {
+      "key": "Mirabel_012_f",
+      "en": "It'll be worth the wait — I promise!",
+      "cz": "Slibuji, že to čekání bude stát za to!",
+      "source": "pre_existing",
+      "original_cz": "Slibuji, že to čekání bude stát za to!"
+    },
+    {
+      "key": "Mirabel_009_f",
+      "en": "Sorry! You're going to have to wait!",
+      "cz": "Omlouvám se! Budete muset počkat!",
+      "source": "pre_existing",
+      "original_cz": "Omlouvám se! Budete muset počkat!"
+    },
+    {
+      "key": "Mirabel_003_f",
+      "en": "Well, thank you for putting in all that effort!",
+      "cz": "Děkuji za veškeré to úsilí!",
+      "source": "pre_existing",
+      "original_cz": "Děkuji za veškeré to úsilí!"
+    }
+  ],
+  "StoryPack01Update_Mirabel/Mirabel_PRM_WallE_030_PRM_WallE_030_TalkTo01.locbin": [
+    {
+      "key": "Mirabel_000_f",
+      "en": "{PlayerName}! Hola! ... Whoa, you look like you have something important on your mind.",
+      "cz": "{PlayerName}! Ahoj! ... Páni, vypadáš, jako bys měla na mysli něco důležitého.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}! Ahoj! ... Páni, vypadáš, jako bys měla na mysli něco důležitého."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Buñuelos! Did you happen to have any left over...?",
+      "cz": "Buñuelos! Nezbylo vám náhodou něco...?",
+      "source": "pre_existing",
+      "original_cz": "Buñuelos! Nezbylo vám náhodou něco...?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I came to see you!",
+      "cz": "Přišel jsem tě navštívit!",
+      "source": "pre_existing",
+      "original_cz": "Přišel jsem tě navštívit!"
+    },
+    {
+      "key": "Mirabel_002_f",
+      "en": "I'm afraid I don't have any left. Turns out Goofy is a big fan!",
+      "cz": "Obávám se, že mi už žádné nezbyly. Ukázalo se, že Goofy je velký fanoušek!",
+      "source": "pre_existing",
+      "original_cz": "Obávám se, že mi už žádné nezbyly. Ukázalo se, že Goofy je velký fanoušek!"
+    },
+    {
+      "key": "Mirabel_021_f",
+      "en": "They're going into their seasonal molt now. But it may take a few days for them to drop all the feathers I need.",
+      "cz": "Teď probíhá jejich sezónní pelichání. Ale může trvat několik dní, než shodí všechno peří, které potřebuji.",
+      "source": "pre_existing",
+      "original_cz": "Teď probíhá jejich sezónní pelichání. Ale může trvat několik dní, než shodí všechno peří, které potřebuji."
+    },
+    {
+      "key": "Mirabel_022_f",
+      "en": "So you'll have to check the <ActivityItem>Sunlit Plateau</ActivityItem> every now and then to see if you can find more feathers.",
+      "cz": "Takže se budeš muset čas od času podívat na <ActivityItem>Slunnou plošinu</ActivityItem>, jestli tam nenajdeš další peří.",
+      "source": "pre_existing",
+      "original_cz": "Takže se budeš muset čas od času podívat na <ActivityItem>Slunnou plošinu</ActivityItem>, jestli tam nenajdeš další peří."
+    },
+    {
+      "key": "Mirabel_024_f",
+      "en": "Oh! And I'll need <ActivityItem>Fabric</ActivityItem> and <ActivityItem>Emeralds</ActivityItem> as well.",
+      "cz": "Ach! A budu potřebovat také <ActivityItem>Látku</ActivityItem> a <ActivityItem>Smaragdy</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ach! A budu potřebovat také <ActivityItem>Látku</ActivityItem> a <ActivityItem>Smaragdy</ActivityItem>."
+    },
+    {
+      "key": "Mirabel_023_f",
+      "en": "Can do!",
+      "cz": "Zvládnu to!",
+      "source": "pre_existing",
+      "original_cz": "Zvládnu to!"
+    },
+    {
+      "key": "Mirabel_001_f",
+      "en": "Fantastic! If Antonio were here, his animal friends could help...",
+      "cz": "Fantastické! Kdyby tu byl Antonio, jeho zvířecí kamarádi by mohli pomoci...",
+      "source": "pre_existing",
+      "original_cz": "Fantastické! Kdyby tu byl Antonio, jeho zvířecí kamarádi by mohli pomoci..."
+    },
+    {
+      "key": "Mirabel_025_f",
+      "en": "But I know you've got this!",
+      "cz": "Ale vím, že na to máš!",
+      "source": "pre_existing",
+      "original_cz": "Ale vím, že na to máš!"
+    },
+    {
+      "key": "Mirabel_026_f",
+      "en": "Yep. I've got Dreamlight Magic to help out.",
+      "cz": "Jo. Mám na pomoc Dreamlight Magic.",
+      "source": "pre_existing",
+      "original_cz": "Jo. Mám na pomoc Dreamlight Magic."
+    },
+    {
+      "key": "Mirabel_003_f",
+      "en": "Hmm. I guess I could make some myself. But they're better when we make them together.",
+      "cz": "Hmm. Asi bych si nějaké mohla udělat sama. Ale jsou lepší, když je děláme společně.",
+      "source": "pre_existing",
+      "original_cz": "Hmm. Asi bych si nějaké mohla udělat sama. Ale jsou lepší, když je děláme společně."
+    },
+    {
+      "key": "Mirabel_004_f",
+      "en": "Oh, gracias. We'll have to make some more together soon!",
+      "cz": "Ach, gracias. Brzy budeme muset společně vyrobit další!",
+      "source": "pre_existing",
+      "original_cz": "Ach, gracias. Brzy budeme muset společně vyrobit další!"
+    },
+    {
+      "key": "Mirabel_006_f",
+      "en": "Well, good thing I have something else to ask you.",
+      "cz": "No, dobře, že se tě chci ještě na něco zeptat.",
+      "source": "pre_existing",
+      "original_cz": "No, dobře, že se tě chci ještě na něco zeptat."
+    },
+    {
+      "key": "Mirabel_007_f",
+      "en": "WALL·E is planning a little shindig and would love for you to attend.",
+      "cz": "WALL·E plánuje malou slavnost a rád by ses jí zúčastnil.",
+      "source": "pre_existing",
+      "original_cz": "WALL·E plánuje malou slavnost a rád by ses jí zúčastnil."
+    },
+    {
+      "key": "Mirabel_008_f",
+      "en": "You mean like a party? I love parties!",
+      "cz": "Myslíš jako večírek? Miluju večírky!",
+      "source": "pre_existing",
+      "original_cz": "Myslíš jako večírek? Miluju večírky!"
+    },
+    {
+      "key": "Mirabel_009_f",
+      "en": "Oooh, but I would need you to help me with something first if I'm gonna be able to make it.",
+      "cz": "Jé, ale nejdřív bych od tebe potřebovala s něčím pomoct, pokud to mám zvládnout.",
+      "source": "pre_existing",
+      "original_cz": "Jé, ale nejdřív bych od tebe potřebovala s něčím pomoct, pokud to mám zvládnout."
+    },
+    {
+      "key": "Mirabel_019_f",
+      "en": "Sure! What do you need?",
+      "cz": "Jasně! Co potřebuješ?",
+      "source": "pre_existing",
+      "original_cz": "Jasně! Co potřebuješ?"
+    },
+    {
+      "key": "Mirabel_020_f",
+      "en": "<ActivityItem>Sunbird Feathers</ActivityItem>!",
+      "cz": "<ActivityItem>Peří slunečního ptáka</ActivityItem>!",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Peří slunečního ptáka</ActivityItem>!"
+    }
+  ]
+}

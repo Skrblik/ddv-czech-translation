@@ -1,0 +1,639 @@
+{
+  "Pocahontas_Merlin/Merlin_SEC_Merl_070_SEC_Merl_070_Ongoing01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "{PlayerName}, you look as though something's troubling you. You'd best stop by so we can sort out the problem!",
+      "cz": "{PlayerName}, vypadáš, jako by tě něco trápilo. Raději se zastav, ať ten problém vyřešíme!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, vypadáš, jako by tě něco trápilo. Raději se zastav, ať ten problém vyřešíme!"
+    }
+  ],
+  "Pocahontas_Merlin/Merlin_SEC_Merl_070_SEC_Merl_070_Ongoing02.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Try to capture an image of the strange new door in the Dream Castle with your <Lore>Royal Phone</Lore>.",
+      "cz": "Zkuste vyfotit podivné nové dveře v Hradě snů pomocí svého <Lore>královského telefonu</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Zkuste vyfotit podivné nové dveře v Hradě snů pomocí svého <Lore>královského telefonu</Lore>."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Remember: It's <Lore>just inside the entryway of the Castle</Lore>.",
+      "cz": "Nezapomeňte: Je to <Lore>hned uvnitř vchodu do hradu</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Nezapomeňte: Je to <Lore>hned uvnitř vchodu do hradu</Lore>."
+    }
+  ],
+  "Pocahontas_Merlin/Merlin_SEC_Merl_070_SEC_Merl_070_Ongoing03.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Try to capture an image of the strange new door in the Dream Castle with your <Lore>Royal Phone</Lore>.",
+      "cz": "Zkuste vyfotit podivné nové dveře v Hradě snů pomocí svého <Lore>královského telefonu</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Zkuste vyfotit podivné nové dveře v Hradě snů pomocí svého <Lore>královského telefonu</Lore>."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "It's really rather important, you know.",
+      "cz": "Je to opravdu docela důležité, víš.",
+      "source": "pre_existing",
+      "original_cz": "Je to opravdu docela důležité, víš."
+    }
+  ],
+  "Pocahontas_Merlin/Merlin_SEC_Merl_070_SEC_Merl_070_Outro.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "{PlayerName}, you found the strange door! Your photo confirms it's real for all of us.",
+      "cz": "{PlayerName}, našel jsi ty podivné dveře! Tvoje fotka nám všem potvrzuje, že jsou skutečné.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, našel jsi ty podivné dveře! Tvoje fotka nám všem potvrzuje, že jsou skutečné."
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "Wizards sometimes perceive things others cannot, you know. Clearly, that is not the case here. What do you make of the Realmweaver's Door?",
+      "cz": "Víš, kouzelníci někdy vnímají věci, které jiní nevidí. V tomto případě to zjevně není pravda. Co si myslíš o Dveřích Tkalce Říše?",
+      "source": "pre_existing",
+      "original_cz": "Víš, kouzelníci někdy vnímají věci, které jiní nevidí. V tomto případě to zjevně není pravda. Co si myslíš o Dveřích Tkalce Říše?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "You think \"the Realmweaver\" put the door there?",
+      "cz": "Myslíš, že tam dal ty dveře \"Tkadlec Říše\"?",
+      "source": "pre_existing",
+      "original_cz": "Myslíš, že tam dal ty dveře \"Tkadlec Říše\"?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "This is so exciting. I love mysteries!",
+      "cz": "To je tak vzrušující. Miluju záhady!",
+      "source": "pre_existing",
+      "original_cz": "To je tak vzrušující. Miluju záhady!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Seems like a totally normal Realm door to me.",
+      "cz": "Připadá mi to jako úplně normální dveře do Realmu.",
+      "source": "pre_existing",
+      "original_cz": "Připadá mi to jako úplně normální dveře do Realmu."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "I do. But how they did it, and for what purpose, must be investigated!",
+      "cz": "Ano. Ale jak to udělali a za jakým účelem, to je třeba vyšetřit!",
+      "source": "pre_existing",
+      "original_cz": "Ano. Ale jak to udělali a za jakým účelem, to je třeba vyšetřit!"
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "As we cannot yet unlock the door, I suggest you stay alert for <Lore>more signs</Lore> as to who this Realmweaver is and what they want.",
+      "cz": "Protože zatím nemůžeme odemknout dveře, navrhuji, abyste byli ostražití a sledovali <Lore>další náznaky</Lore>o tom, kdo je tento Tkadlec říše a co chce.",
+      "source": "pre_existing",
+      "original_cz": "Protože zatím nemůžeme odemknout dveře, navrhuji, abyste byli ostražití a sledovali <Lore>další náznaky</Lore>o tom, kdo je tento Tkadlec říše a co chce."
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "The clearer our picture becomes of this mysterious being in the Valley's shadows, the closer we are to solving this new mystery.",
+      "cz": "Čím jasnější bude náš obraz této záhadné bytosti ve stínu Údolí, tím blíže budeme k vyřešení této nové záhady.",
+      "source": "pre_existing",
+      "original_cz": "Čím jasnější bude náš obraz této záhadné bytosti ve stínu Údolí, tím blíže budeme k vyřešení této nové záhady."
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "Keep your eyes open for <Lore>more clues</Lore>, especially as Villagers return to the Valley! Not to worry, {PlayerName}; we'll solve this puzzle yet!",
+      "cz": "Mějte oči otevřené pro <Lore>další stopy</Lore>, zvláště když se vesničané vracejí do Údolí! Nebojte se, {PlayerName}; tuhle hádanku ještě vyřešíme!",
+      "source": "pre_existing",
+      "original_cz": "Mějte oči otevřené pro <Lore>další stopy</Lore>, zvláště když se vesničané vracejí do Údolí! Nebojte se, {PlayerName}; tuhle hádanku ještě vyřešíme!"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Splendid, {PlayerName}! Your curiosity will lead you to the most wondrous places in life.",
+      "cz": "Skvělé, {PlayerName}! Tvoje zvědavost tě zavede na ta nejúžasnější místa v životě.",
+      "source": "pre_existing",
+      "original_cz": "Skvělé, {PlayerName}! Tvoje zvědavost tě zavede na ta nejúžasnější místa v životě."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "And hopefully, that includes who the Realmweaver is and WHY they put that door in the Dream Castle.",
+      "cz": "A doufejme, že to zahrnuje i to, kdo je Tkadlec Říše a PROČ dali ty dveře do Hradu snů.",
+      "source": "pre_existing",
+      "original_cz": "A doufejme, že to zahrnuje i to, kdo je Tkadlec Říše a PROČ dali ty dveře do Hradu snů."
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "Do I detect a hint of sarcasm?",
+      "cz": "Cítím náznak sarkasmu?",
+      "source": "pre_existing",
+      "original_cz": "Cítím náznak sarkasmu?"
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "The door has no symbol, no means to unlock it... There's no way of knowing what's on the other side or why it's there.",
+      "cz": "Dveře nemají žádný symbol, žádný způsob, jak je odemknout... Neexistuje způsob, jak zjistit, co je na druhé straně nebo proč to tam je.",
+      "source": "pre_existing",
+      "original_cz": "Dveře nemají žádný symbol, žádný způsob, jak je odemknout... Neexistuje způsob, jak zjistit, co je na druhé straně nebo proč to tam je."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "I'd call that a mystery!",
+      "cz": "To bych nazval záhadou!",
+      "source": "pre_existing",
+      "original_cz": "To bych nazval záhadou!"
+    }
+  ],
+  "Pocahontas_Merlin/Merlin_SEC_Merl_070_SEC_Merl_070_TalkTo02.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Ah, {PlayerName}. Are you all right? You seem troubled.",
+      "cz": "Aha, {PlayerName}. Jsi v pořádku? Zdá se, že máš potíže.",
+      "source": "pre_existing",
+      "original_cz": "Aha, {PlayerName}. Jsi v pořádku? Zdá se, že máš potíže."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Pocahontas and I pulled Meeko out of a weird ocean portal during the Celestial Celebration. He had this note attached to his fur.",
+      "cz": "S Pocahontas jsme během Nebeské oslavy vytáhli Meeka z podivného oceánského portálu. Měl na srsti připevněný tento vzkaz.",
+      "source": "pre_existing",
+      "original_cz": "S Pocahontas jsme během Nebeské oslavy vytáhli Meeka z podivného oceánského portálu. Měl na srsti připevněný tento vzkaz."
+    },
+    {
+      "key": "Merlin_028_f",
+      "en": "It's from someone called the \"Realmweaver.\"",
+      "cz": "Je to od někoho, kdo se jmenuje „Tkadlec říše“.",
+      "source": "pre_existing",
+      "original_cz": "Je to od někoho, kdo se jmenuje „Tkadlec říše“."
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "How curious. This handwriting calls to mind a curious figure from the Valley's past...",
+      "cz": "To je zvláštní. Tento rukopis evokuje jednu zvláštní postavu z minulosti Údolí...",
+      "source": "pre_existing",
+      "original_cz": "To je zvláštní. Tento rukopis evokuje jednu zvláštní postavu z minulosti Údolí..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "What kind of a figure?",
+      "cz": "Jaký druh postavy?",
+      "source": "pre_existing",
+      "original_cz": "Jaký druh postavy?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Are they dangerous?",
+      "cz": "Jsou nebezpeční?",
+      "source": "pre_existing",
+      "original_cz": "Jsou nebezpeční?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "EVERYONE here is from the Valley's past.",
+      "cz": "VŠICHNI tady pocházejí z minulosti Údolí.",
+      "source": "pre_existing",
+      "original_cz": "VŠICHNI tady pocházejí z minulosti Údolí."
+    },
+    {
+      "key": "Merlin_015_f",
+      "en": "Blast! I can't seem to recall.",
+      "cz": "Sakra! Zdá se, že si to nemůžu vzpomenout.",
+      "source": "pre_existing",
+      "original_cz": "Sakra! Zdá se, že si to nemůžu vzpomenout."
+    },
+    {
+      "key": "Merlin_018_f",
+      "en": "I do remember they were somewhat of a <Lore>trickster and quite close to you in your youth</Lore>...",
+      "cz": "Pamatuji si, že byli tak trochu <Lore>podvodníci a v mládí vám byli docela blízcí</Lore>...",
+      "source": "pre_existing",
+      "original_cz": "Pamatuji si, že byli tak trochu <Lore>podvodníci a v mládí vám byli docela blízcí</Lore>..."
+    },
+    {
+      "key": "Merlin_029_f",
+      "en": "I wonder...",
+      "cz": "Zajímalo by mě...",
+      "source": "pre_existing",
+      "original_cz": "Zajímalo by mě..."
+    },
+    {
+      "key": "Merlin_030_f",
+      "en": "{PlayerName}, this morning I was drawn to a certain unmarked door in the <Lore>Dream Castle</Lore>. It could be these two peculiarities are connected...",
+      "cz": "{PlayerName}, dnes ráno mě zaujaly jisté neoznačené dveře v <Lore>Hradu snů</Lore>. Je možné, že tyto dvě zvláštnosti spolu souvisejí...",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, dnes ráno mě zaujaly jisté neoznačené dveře v <Lore>Hradu snů</Lore>. Je možné, že tyto dvě zvláštnosti spolu souvisejí..."
+    },
+    {
+      "key": "Merlin_031_f",
+      "en": "Why don't you <Lore>investigate the door inside the Dream Castle</Lore>, and then we can compare our observations?",
+      "cz": "Co kdybys <Lore>prozkoumal dveře uvnitř Hradu snů</Lore> a pak bychom mohli porovnat naše postřehy?",
+      "source": "pre_existing",
+      "original_cz": "Co kdybys <Lore>prozkoumal dveře uvnitř Hradu snů</Lore> a pak bychom mohli porovnat naše postřehy?"
+    },
+    {
+      "key": "Merlin_032_f",
+      "en": "It's <Lore>just inside the entryway</Lore>. Search to your left, and you'll soon see it.",
+      "cz": "Je to <Lore>hned za vchodem</Lore>. Hledejte po levé straně a brzy to uvidíte.",
+      "source": "pre_existing",
+      "original_cz": "Je to <Lore>hned za vchodem</Lore>. Hledejte po levé straně a brzy to uvidíte."
+    },
+    {
+      "key": "Merlin_014_f",
+      "en": "No, not necessarily.",
+      "cz": "Ne, ne nutně.",
+      "source": "pre_existing",
+      "original_cz": "Ne, ne nutně."
+    },
+    {
+      "key": "Merlin_016_f",
+      "en": "Yes, yes. But I mean from its FAR past. Its very origins!",
+      "cz": "Ano, ano. Ale myslím tím z jeho DALEKÉ minulosti. Z jeho samotných počátků!",
+      "source": "pre_existing",
+      "original_cz": "Ano, ano. Ale myslím tím z jeho DALEKÉ minulosti. Z jeho samotných počátků!"
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "I found this spool of thread while I was helping Hercules and Phil with some pretty strange chaos in their Realm.",
+      "cz": "Našel jsem tuhle cívku nití, když jsem pomáhal Herkulovi a Philovi s docela zvláštním chaosem v jejich Říši.",
+      "source": "pre_existing",
+      "original_cz": "Našel jsem tuhle cívku nití, když jsem pomáhal Herkulovi a Philovi s docela zvláštním chaosem v jejich Říši."
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "Dreamlight Thread...? How curious.",
+      "cz": "Vlákno o Dreamlightu...? To je zvláštní.",
+      "source": "pre_existing",
+      "original_cz": "Vlákno o Dreamlightu...? To je zvláštní."
+    },
+    {
+      "key": "Merlin_012_f",
+      "en": "You might recall that <Lore>Dreamlight</Lore> is the very substance that makes up everything in the Valley and the Realms!",
+      "cz": "Možná si vzpomínáte, že <Lore>Světlo snů</Lore> je samotná substance, která tvoří vše v Údolí a Říších!",
+      "source": "pre_existing",
+      "original_cz": "Možná si vzpomínáte, že <Lore>Světlo snů</Lore> je samotná substance, která tvoří vše v Údolí a Říších!"
+    },
+    {
+      "key": "Merlin_033_f",
+      "en": "Ah-ha! I remember a name — \"the Realmweaver.\"",
+      "cz": "Ááá! Vzpomínám si na jedno jméno – „Tkadlec říše“.",
+      "source": "pre_existing",
+      "original_cz": "Ááá! Vzpomínám si na jedno jméno – „Tkadlec říše“."
+    },
+    {
+      "key": "Merlin_017_f",
+      "en": "Someone <Lore>VERY powerful</Lore>. They can create new places, or undo places that exist, including the Realms.",
+      "cz": "Někdo <Lore>VELMI mocný</Lore>. Dokáže vytvářet nová místa nebo rušit stávající, včetně Říší.",
+      "source": "pre_existing",
+      "original_cz": "Někdo <Lore>VELMI mocný</Lore>. Dokáže vytvářet nová místa nebo rušit stávající, včetně Říší."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Do you remember anyone like that in the Valley before the Forgetting?",
+      "cz": "Pamatuješ si někoho takového v Údolí před Zapomněním?",
+      "source": "pre_existing",
+      "original_cz": "Pamatuješ si někoho takového v Údolí před Zapomněním?"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "That sounds cool!",
+      "cz": "To zní skvěle!",
+      "source": "pre_existing",
+      "original_cz": "To zní skvěle!"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Could they destroy the Valley?!",
+      "cz": "Mohli by zničit Údolí?!",
+      "source": "pre_existing",
+      "original_cz": "Mohli by zničit Údolí?!"
+    },
+    {
+      "key": "Merlin_019_f",
+      "en": "More like \"potentially meddlesome\"!",
+      "cz": "Spíš jako „potenciálně vlezlý“!",
+      "source": "pre_existing",
+      "original_cz": "Spíš jako „potenciálně vlezlý“!"
+    },
+    {
+      "key": "Merlin_020_f",
+      "en": "Perhaps. But I have an odd half-memory that destruction is not their intent.",
+      "cz": "Možná. Ale mám zvláštní poloviční vzpomínku, že zkáza není jejich záměrem.",
+      "source": "pre_existing",
+      "original_cz": "Možná. Ale mám zvláštní poloviční vzpomínku, že zkáza není jejich záměrem."
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "I found this old sketchbook that's full of designs for the Valley and the Dream Castle. It also says, <Lore>\"Property of the Realmweaver.\"</Lore>",
+      "cz": "Našel jsem tenhle starý skicář plný návrhů Údolí a Hrad snů. Taky tam stojí: <Lore>„Majetek Tkadlec říše.“</Lore>",
+      "source": "pre_existing",
+      "original_cz": "Našel jsem tenhle starý skicář plný návrhů Údolí a Hrad snů. Taky tam stojí: <Lore>„Majetek Tkadlec říše.“</Lore>"
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "How fascinating!",
+      "cz": "Jak fascinující!",
+      "source": "pre_existing",
+      "original_cz": "Jak fascinující!"
+    },
+    {
+      "key": "Merlin_013_f",
+      "en": "Could it be that this \"Realmweaver\" <Lore>helped create Dreamlight Valley</Lore>?",
+      "cz": "Mohlo by být, že tento „Tkadlec říše“ <Lore>pomohl vytvořit Údolí snů</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "Mohlo by být, že tento „Tkadlec říše“ <Lore>pomohl vytvořit Údolí snů</Lore>?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I thought I created the Valley?",
+      "cz": "Myslel jsem, že jsem stvořil Údolí?",
+      "source": "pre_existing",
+      "original_cz": "Myslel jsem, že jsem stvořil Údolí?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "This is MY dream though...",
+      "cz": "Tohle je ale MŮJ sen...",
+      "source": "pre_existing",
+      "original_cz": "Tohle je ale MŮJ sen..."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "You can't just say something like that and NOT give me more info!",
+      "cz": "Nemůžeš jen tak říct něco takového a NEDát mi víc informací!",
+      "source": "pre_existing",
+      "original_cz": "Nemůžeš jen tak říct něco takového a NEDát mi víc informací!"
+    },
+    {
+      "key": "Merlin_021_f",
+      "en": "You did, of course. But it seems you may have had some help.",
+      "cz": "Samozřejmě ano. Ale zdá se, že jste možná dostal nějakou pomoc.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě ano. Ale zdá se, že jste možná dostal nějakou pomoc."
+    },
+    {
+      "key": "Merlin_023_f",
+      "en": "Blast! This is all so familiar and yet just out of my mind's grasp...",
+      "cz": "Sakra! Tohle je tak povědomé a přitom mi to prostě nedochází...",
+      "source": "pre_existing",
+      "original_cz": "Sakra! Tohle je tak povědomé a přitom mi to prostě nedochází..."
+    },
+    {
+      "key": "Merlin_022_f",
+      "en": "Of course, but it's a complex dream filled with magic. It stands to reason you had help.",
+      "cz": "Samozřejmě, ale je to složitý sen plný magie. Je logické, že jsi měl pomoc.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě, ale je to složitý sen plný magie. Je logické, že jsi měl pomoc."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "I found a childhood drawing of... an imaginary friend or something called \"the Realmweaver\"? It was all ripped up.",
+      "cz": "Našel jsem dětskou kresbu... imaginárního přítele nebo něčeho, co se jmenuje \"Tkadlec říše\"? Byla celá potrhaná.",
+      "source": "pre_existing",
+      "original_cz": "Našel jsem dětskou kresbu... imaginárního přítele nebo něčeho, co se jmenuje \"Tkadlec říše\"? Byla celá potrhaná."
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "How strange. You don't happen to remember WHO or WHAT a Realmweaver is, do you?",
+      "cz": "To je zvláštní. Nepamatuješ si náhodou, KDO nebo CO je Tkadlec Říše, že ne?",
+      "source": "pre_existing",
+      "original_cz": "To je zvláštní. Nepamatuješ si náhodou, KDO nebo CO je Tkadlec Říše, že ne?"
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "I was hoping YOU did.",
+      "cz": "Doufal jsem, že TY to uděláš.",
+      "source": "pre_existing",
+      "original_cz": "Doufal jsem, že TY to uděláš."
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "No, but it seems like trouble.",
+      "cz": "Ne, ale vypadá to na potíže.",
+      "source": "pre_existing",
+      "original_cz": "Ne, ale vypadá to na potíže."
+    },
+    {
+      "key": "Player_003_choice_003_f",
+      "en": "All I know is... they aren't happy with me.",
+      "cz": "Vím jen, že... nejsou se mnou spokojení.",
+      "source": "pre_existing",
+      "original_cz": "Vím jen, že... nejsou se mnou spokojení."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "I found this vial of sparkly dust? With a weird note attached...",
+      "cz": "Našel jsem tuhle lahvičku s třpytivým prachem? S připevněným divným vzkazem...",
+      "source": "pre_existing",
+      "original_cz": "Našel jsem tuhle lahvičku s třpytivým prachem? S připevněným divným vzkazem..."
+    },
+    {
+      "key": "Merlin_024_f",
+      "en": "I see, yes... It's from someone called \"the Realmweaver\"? How curious...",
+      "cz": "Rozumím, ano... Je to od někoho jménem \"Tkadlec říše\"? To je zvláštní...",
+      "source": "pre_existing",
+      "original_cz": "Rozumím, ano... Je to od někoho jménem \"Tkadlec říše\"? To je zvláštní..."
+    },
+    {
+      "key": "Merlin_025_f",
+      "en": "This vial is full of stardust. AND, it sounds as though this \"Realmweaver\" has kidnapped the poor creature this stardust belongs to.",
+      "cz": "Tato lahvička je plná hvězdného prachu. A Zní to, jako by tenhle „Tkadlec říše“ unesl ubohého tvora, kterému tenhle hvězdný prach patří.",
+      "source": "pre_existing",
+      "original_cz": "Tato lahvička je plná hvězdného prachu. A Zní to, jako by tenhle „Tkadlec říše“ unesl ubohého tvora, kterému tenhle hvězdný prach patří."
+    },
+    {
+      "key": "Player_004_choice_000_f",
+      "en": "That sounds like trouble.",
+      "cz": "To zní jako potíže.",
+      "source": "pre_existing",
+      "original_cz": "To zní jako potíže."
+    },
+    {
+      "key": "Player_004_choice_001_f",
+      "en": "Are we in danger?",
+      "cz": "Jsme v nebezpečí?",
+      "source": "pre_existing",
+      "original_cz": "Jsme v nebezpečí?"
+    },
+    {
+      "key": "Player_004_choice_002_f",
+      "en": "Do we launch a search and rescue mission?",
+      "cz": "Zahájíme pátrací a záchrannou misi?",
+      "source": "pre_existing",
+      "original_cz": "Zahájíme pátrací a záchrannou misi?"
+    },
+    {
+      "key": "Merlin_027_f",
+      "en": "Perhaps, but perhaps not.",
+      "cz": "Možná, ale možná ne.",
+      "source": "pre_existing",
+      "original_cz": "Možná, ale možná ne."
+    },
+    {
+      "key": "Merlin_026_f",
+      "en": "I rarely say this, {PlayerName}: I do not know.",
+      "cz": "Zřídka to říkám, {PlayerName}: Nevím.",
+      "source": "pre_existing",
+      "original_cz": "Zřídka to říkám, {PlayerName}: Nevím."
+    }
+  ],
+  "Pocahontas_Merlin/Merlin_VLG_Poca_040_VLG_Poca_040_TalkTo06.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "{PlayerName}, I heard the news that there's magic afoot, all to do with the upcoming Celestial Celebration!",
+      "cz": "{PlayerName}, slyšel jsem zprávu, že se chystá magie, a to vše kvůli nadcházející Nebeské oslavě!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, slyšel jsem zprávu, že se chystá magie, a to vše kvůli nadcházející Nebeské oslavě!"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Pocahontas said traces of Meeko have been spotted in the Valley once again? Heh-heh. That raccoon once ate every ingredient in my apothecary drawers!",
+      "cz": "Pocahontas říkala, že v údolí zase byly spatřeny stopy Meeka? Heh-heh. Ten mýval mi jednou snědl všechny ingredience v zásuvkách v lékárně!",
+      "source": "pre_existing",
+      "original_cz": "Pocahontas říkala, že v údolí zase byly spatřeny stopy Meeka? Heh-heh. Ten mýval mi jednou snědl všechny ingredience v zásuvkách v lékárně!"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Sort of. We tracked him to the dock, but his paw prints disappeared heading off the end. We didn't see him in the water...",
+      "cz": "Tak nějak. Sledovali jsme ho až k molu, ale otisky jeho tlapek zmizely směrem od konce. Ve vodě jsme ho neviděli...",
+      "source": "pre_existing",
+      "original_cz": "Tak nějak. Sledovali jsme ho až k molu, ale otisky jeho tlapek zmizely směrem od konce. Ve vodě jsme ho neviděli..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Do you think he's IN the water?",
+      "cz": "Myslíš, že je VE VODĚ?",
+      "source": "pre_existing",
+      "original_cz": "Myslíš, že je VE VODĚ?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Do you think he's got a tiny scuba tank?",
+      "cz": "Myslíš, že má malou potápěčskou lahvičku?",
+      "source": "pre_existing",
+      "original_cz": "Myslíš, že má malou potápěčskou lahvičku?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Help me, oh wisest of wizards!",
+      "cz": "Pomoz mi, ó nejmoudřejší z čarodějů!",
+      "source": "pre_existing",
+      "original_cz": "Pomoz mi, ó nejmoudřejší z čarodějů!"
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "No, no, certainly not.",
+      "cz": "Ne, ne, rozhodně ne.",
+      "source": "pre_existing",
+      "original_cz": "Ne, ne, rozhodně ne."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "The Moontide Glow always brings about strange magic that ebbs and flows like the tides. When the glow reaches its peak, at the height of the Celestial Celebration, so does the magic.",
+      "cz": "Záře měsíčního přílivu vždycky přináší zvláštní magii, která kolísá jako příliv a odliv. Když záře dosáhne svého vrcholu, na vrcholu Nebeské oslavy, kolísá i magie.",
+      "source": "pre_existing",
+      "original_cz": "Záře měsíčního přílivu vždycky přináší zvláštní magii, která kolísá jako příliv a odliv. Když záře dosáhne svého vrcholu, na vrcholu Nebeské oslavy, kolísá i magie."
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "I believe a high tide of magic scooped up Meeko and is holding him somewhere that isn't IN the water, but is OF the water. Do you follow?",
+      "cz": "Věřím, že Meeka snesla vlna magie a drží ho někde, kde není VE vodě, ale MIMO vodu. Rozumíš?",
+      "source": "pre_existing",
+      "original_cz": "Věřím, že Meeka snesla vlna magie a drží ho někde, kde není VE vodě, ale MIMO vodu. Rozumíš?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I'm following. How do we rescue him?",
+      "cz": "Sleduji. Jak ho zachráníme?",
+      "source": "pre_existing",
+      "original_cz": "Sleduji. Jak ho zachráníme?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "What's the simplest way to rescue him?",
+      "cz": "Jaký je nejjednodušší způsob, jak ho zachránit?",
+      "source": "pre_existing",
+      "original_cz": "Jaký je nejjednodušší způsob, jak ho zachránit?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Not at all, but magic never makes sense to me.",
+      "cz": "Vůbec ne, ale magie mi nikdy nedává smysl.",
+      "source": "pre_existing",
+      "original_cz": "Vůbec ne, ale magie mi nikdy nedává smysl."
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "You must craft a special animal-safe <Lore>Raccoon Bait</Lore> with Meeko's favorite foods, and fish for him where you last saw his footprints.",
+      "cz": "Musíš vyrobit speciální návnadu pro mývaly <Lore>Návnada na mývaly</Lore> z Meekových oblíbených pochoutek a zkusit ho ulovit tam, kde jsi naposledy zahlédl jeho stopy.",
+      "source": "pre_existing",
+      "original_cz": "Musíš vyrobit speciální návnadu pro mývaly <Lore>Návnada na mývaly</Lore> z Meekových oblíbených pochoutek a zkusit ho ulovit tam, kde jsi naposledy zahlédl jeho stopy."
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "Be sure to fish for him at the <Lore>peak of the Celestial Celebration</Lore>, when the magic is most powerful.",
+      "cz": "Určitě ho chytejte na <Lore>vrcholu Nebeské oslavy</Lore>, kdy je magie nejsilnější.",
+      "source": "pre_existing",
+      "original_cz": "Určitě ho chytejte na <Lore>vrcholu Nebeské oslavy</Lore>, kdy je magie nejsilnější."
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "One moment too late, and we'll have to wait another year to rescue the poor fellow.",
+      "cz": "Ještě chvilka pozdě a budeme muset čekat další rok, než toho chudáka zachráníme.",
+      "source": "pre_existing",
+      "original_cz": "Ještě chvilka pozdě a budeme muset čekat další rok, než toho chudáka zachráníme."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "What an absurdly marvelous idea! I may just have to invent one of those myself. But I don't think that's what's happened here.",
+      "cz": "To je absurdně úžasný nápad! Možná si ho budu muset sám vymyslet. Ale myslím, že se to tady nestalo.",
+      "source": "pre_existing",
+      "original_cz": "To je absurdně úžasný nápad! Možná si ho budu muset sám vymyslet. Ale myslím, že se to tady nestalo."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "You merely need ask, {PlayerName}. Unlike Ursula or Mother Gothel, I don't go in for all that flattering nonsense. Now then...",
+      "cz": "Stačí se zeptat, {PlayerName}. Na rozdíl od Uršuly nebo Matky Gothel se do všech těch lichotivých nesmyslů nepouštěm. Tak a teď...",
+      "source": "pre_existing",
+      "original_cz": "Stačí se zeptat, {PlayerName}. Na rozdíl od Uršuly nebo Matky Gothel se do všech těch lichotivých nesmyslů nepouštěm. Tak a teď..."
+    }
+  ],
+  "Pocahontas_Merlin/SEC_Merl_070.locbin": [
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_070_Any_CompletedRequestDescription",
+      "en": "Return to Merlin.",
+      "cz": "Návrat k Merlinovi.",
+      "source": "pre_existing",
+      "original_cz": "Návrat k Merlinovi."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_070_AvailableDescription",
+      "en": "You've found a strange clue that points to a curious new mystery in the Valley...",
+      "cz": "Našli jste zvláštní stopu, která ukazuje na kuriózní novou záhadu v Údolí...",
+      "source": "pre_existing",
+      "original_cz": "Našli jste zvláštní stopu, která ukazuje na kuriózní novou záhadu v Údolí..."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_070_DisplayName",
+      "en": "A Tangled Web",
+      "cz": "Zamotaná pavučina",
+      "source": "pre_existing",
+      "original_cz": "Zamotaná pavučina"
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_070_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "Talk to Merlin about the curious clue you found.",
+      "cz": "Promluv si s Merlinem o té kuriózní stopě, kterou jsi našel.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Merlinem o té kuriózní stopě, kterou jsi našel."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_070_Group02_Step02_VisitArea01_StepDescription",
+      "en": "Search for the mysterious new door in the Dream Castle to the left of the entrance.",
+      "cz": "Hledejte tajemné nové dveře v Hradě snů nalevo od vchodu.",
+      "source": "pre_existing",
+      "original_cz": "Hledejte tajemné nové dveře v Hradě snů nalevo od vchodu."
+    },
+    {
+      "key": "Secret!SwordInStone!Merlin!SEC_Merl_070_Group03_Step03_TakePicture01_StepDescription",
+      "en": "Take a photo of the mysterious new door in the Dream Castle.",
+      "cz": "Vyfoťte si tajemné nové dveře v Hradě snů.",
+      "source": "pre_existing",
+      "original_cz": "Vyfoťte si tajemné nové dveře v Hradě snů."
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "Update11_Nala/Nala_VLG_Mula_050_VLG_Mula_050_BringItem01.locbin": [
+    {
+      "key": "Nala_000_f",
+      "en": "You found it! Great!",
+      "cz": "Našli jste to! Skvělé!",
+      "source": "pre_existing",
+      "original_cz": "Našli jste to! Skvělé!"
+    },
+    {
+      "key": "Nala_001_f",
+      "en": "This <Lore>Mini Flag</Lore> is going to put our pride ahead of Mother Gothel for sure.",
+      "cz": "Tato <Lore>Mini Flag</Lore> jistě postaví naši hrdost před Matku Gothel.",
+      "source": "pre_existing",
+      "original_cz": "Tato <Lore>Mini Flag</Lore> jistě postaví naši hrdost před Matku Gothel."
+    },
+    {
+      "key": "Nala_002_f",
+      "en": "Did I say \"pride\"? I meant \"team.\"",
+      "cz": "Řekl jsem „hrdost“? Myslel jsem „tým“.",
+      "source": "pre_existing",
+      "original_cz": "Řekl jsem „hrdost“? Myslel jsem „tým“."
+    },
+    {
+      "key": "Nala_003_f",
+      "en": "Nice work, {PlayerName}!",
+      "cz": "Dobrá práce, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Dobrá práce, {PlayerName}!"
+    }
+  ],
+  "Update11_Nala/Nala_VLG_Mula_050_VLG_Mula_050_Ongoing01.locbin": [
+    {
+      "key": "Nala_000_f",
+      "en": "We need to talk about the training game, don't we? I'm certain we can find our flag faster than Mother Gothel.",
+      "cz": "Musíme si promluvit o tréninkovém zápase, že? Jsem si jistý, že najdeme naši vlajku rychleji než Matka Gothel.",
+      "source": "pre_existing",
+      "original_cz": "Musíme si promluvit o tréninkovém zápase, že? Jsem si jistý, že najdeme naši vlajku rychleji než Matka Gothel."
+    }
+  ],
+  "Update11_Nala/Nala_VLG_Mula_050_VLG_Mula_050_Ongoing02.locbin": [
+    {
+      "key": "Nala_000_f",
+      "en": "You were going to search for the <ActivityItem>Mini Flag</ActivityItem> someplace that smells of salt, fish and sand. Be very thorough; check the land AND water!",
+      "cz": "Chtěl jsi hledat <ActivityItem>Miniflag</ActivityItem> někde, kde voní solí, rybami a pískem. Buď velmi pečlivý; zkontroluj pevninu I vodu!",
+      "source": "pre_existing",
+      "original_cz": "Chtěl jsi hledat <ActivityItem>Miniflag</ActivityItem> někde, kde voní solí, rybami a pískem. Buď velmi pečlivý; zkontroluj pevninu I vodu!"
+    }
+  ],
+  "Update11_Nala/Nala_VLG_Mula_050_VLG_Mula_050_TalkTo01.locbin": [
+    {
+      "key": "Nala_000_f",
+      "en": "{PlayerName}, I'm glad you're here. I was just about to investigate my clue... *sniff* *sniff*",
+      "cz": "{PlayerName}, jsem rád, že jsi tady. Zrovna jsem se chystal prozkoumat svou stopu... *čich* *čich*",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, jsem rád, že jsi tady. Zrovna jsem se chystal prozkoumat svou stopu... *čich* *čich*"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "What does it smell like?",
+      "cz": "Jak to voní?",
+      "source": "pre_existing",
+      "original_cz": "Jak to voní?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "You smelled it?",
+      "cz": "Cítil jsi to?",
+      "source": "pre_existing",
+      "original_cz": "Cítil jsi to?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Can I smell it too?",
+      "cz": "Můžu to taky cítit?",
+      "source": "pre_existing",
+      "original_cz": "Můžu to taky cítit?"
+    },
+    {
+      "key": "Nala_003_f",
+      "en": "Hm... Like <Lore>salt, fish, and sand</Lore>...",
+      "cz": "Hm... Jako <Lore>sůl, ryba a písek</Lore>...",
+      "source": "pre_existing",
+      "original_cz": "Hm... Jako <Lore>sůl, ryba a písek</Lore>..."
+    },
+    {
+      "key": "Nala_008_f",
+      "en": "Could you look somewhere that has all three? And since it might be in the water, bring your Fishing Rod.",
+      "cz": "Mohl byste se podívat někam, kde mají všechny tři? A protože by to mohlo být ve vodě, vezměte si s sebou rybářský prut.",
+      "source": "pre_existing",
+      "original_cz": "Mohl byste se podívat někam, kde mají všechny tři? A protože by to mohlo být ve vodě, vezměte si s sebou rybářský prut."
+    },
+    {
+      "key": "Nala_007_f",
+      "en": "I'll find the flag, Nala! Don't worry!",
+      "cz": "Najdu tu vlajku, Nalo! Neboj se!",
+      "source": "pre_existing",
+      "original_cz": "Najdu tu vlajku, Nalo! Neboj se!"
+    },
+    {
+      "key": "Nala_002_f",
+      "en": "Of course. That's how lions find out a lot of information. I can say for certain that our clue smells like <Lore>salt, fish, and sand</Lore>.",
+      "cz": "Samozřejmě. Takhle lvi zjišťují spoustu informací. Mohu s jistotou říct, že naše stopa voní jako <Lore>sůl, ryba a písek</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě. Takhle lvi zjišťují spoustu informací. Mohu s jistotou říct, že naše stopa voní jako <Lore>sůl, ryba a písek</Lore>."
+    },
+    {
+      "key": "Nala_004_f",
+      "en": "All right... I'm not sure you'll get anything, though. Lions have VERY powerful noses.",
+      "cz": "Dobře... Nejsem si ale jistý, jestli něco dostaneš. Lvi mají VELMI silné čumáky.",
+      "source": "pre_existing",
+      "original_cz": "Dobře... Nejsem si ale jistý, jestli něco dostaneš. Lvi mají VELMI silné čumáky."
+    },
+    {
+      "key": "Nala_001_f",
+      "en": "And mine tells me <Lore>salt, fish, and sand</Lore>... are our clue.",
+      "cz": "A ten můj mi říká, že <Lore>sůl, ryby a písek</Lore>... jsou naše vodítko.",
+      "source": "pre_existing",
+      "original_cz": "A ten můj mi říká, že <Lore>sůl, ryby a písek</Lore>... jsou naše vodítko."
+    }
+  ]
+}

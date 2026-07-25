@@ -1,0 +1,699 @@
+{
+  "ExpansionMain_MotherGothel/MotherGothel_Dialogue_Eager001.locbin": [
+    {
+      "key": "MotherGothel_000_f",
+      "en": "Amuse me, {PlayerName}. I'm practically wilting away with boredom.",
+      "cz": "Pobav mě, {PlayerName}. Už skoro vadnu.",
+      "source": "pre_existing",
+      "original_cz": "Pobav mě, {PlayerName}. Už skoro vadnu."
+    }
+  ],
+  "ExpansionMain_MotherGothel/MotherGothel_Dialogue_PostGame001.locbin": [
+    {
+      "key": "MotherGothel_000_f",
+      "en": "Oh?",
+      "cz": "Aha?",
+      "source": "pre_existing",
+      "original_cz": "Aha?"
+    },
+    {
+      "key": "MotherGothel_001_f",
+      "en": "You won? How nice for you.",
+      "cz": "Vyhrála jsi? To je od tebe hezké.",
+      "source": "pre_existing",
+      "original_cz": "Vyhrála jsi? To je od tebe hezké."
+    },
+    {
+      "key": "MotherGothel_002_f",
+      "en": "Yes, being this talented IS exhausting. Not that I'd expect you to understand. Just kidding, dear! You're wonderful.",
+      "cz": "Ano, být takhle talentovaná JE vyčerpávající. Ne, že bych to čekala, že pochopíš. Jen žertuji, drahoušku! Jsi úžasná.",
+      "source": "pre_existing",
+      "original_cz": "Ano, být takhle talentovaná JE vyčerpávající. Ne, že bych to čekala, že pochopíš. Jen žertuji, drahoušku! Jsi úžasná."
+    }
+  ],
+  "ExpansionMain_MotherGothel/MotherGothel_Dialogue_PreGame001.locbin": [
+    {
+      "key": "MotherGothel_000_f",
+      "en": "Oh, I do love games.",
+      "cz": "Ach, já miluju hry.",
+      "source": "pre_existing",
+      "original_cz": "Ach, já miluju hry."
+    }
+  ],
+  "ExpansionMain_MotherGothel/MotherGothel_Discussion_Discussion001.locbin": [
+    {
+      "key": "MotherGothel_000_f",
+      "en": "Ah, {PlayerName}. Tell me: What do you think of my daughter, Rapunzel?",
+      "cz": "Aha, {PlayerName}. Řekni mi: Co si myslíš o mé dceři Locice?",
+      "source": "pre_existing",
+      "original_cz": "Aha, {PlayerName}. Řekni mi: Co si myslíš o mé dceři Locice?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm her friend.",
+      "cz": "Jsem její kamarád.",
+      "source": "pre_existing",
+      "original_cz": "Jsem její kamarád."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "She's part of the Village.",
+      "cz": "Je součástí vesnice.",
+      "source": "pre_existing",
+      "original_cz": "Je součástí vesnice."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "She wears her heart on her sleeve.",
+      "cz": "Své srdce dává najevo.",
+      "source": "pre_existing",
+      "original_cz": "Své srdce dává najevo."
+    },
+    {
+      "key": "MotherGothel_001_f",
+      "en": "A \"friend.\" How sweet. Let me make one thing perfectly clear, \"friend\":",
+      "cz": "„Přítel“. Jak milé. Dovolte mi, abych jednu věc upřesnila, „přítel“:",
+      "source": "pre_existing",
+      "original_cz": "„Přítel“. Jak milé. Dovolte mi, abych jednu věc upřesnila, „přítel“:"
+    },
+    {
+      "key": "MotherGothel_002_f",
+      "en": "...If you hurt a hair on her head I will take you apart piece by piece.",
+      "cz": "...Jestli jí utrhneš byť jen vlas na hlavě, roztrhám tě kousek po kousku.",
+      "source": "pre_existing",
+      "original_cz": "...Jestli jí utrhneš byť jen vlas na hlavě, roztrhám tě kousek po kousku."
+    },
+    {
+      "key": "MotherGothel_003_f",
+      "en": "You have no idea what I've done to protect her. Do we understand each other?",
+      "cz": "Nemáš tušení, co jsem udělala, abych ji ochránila. Rozumíme si?",
+      "source": "pre_existing",
+      "original_cz": "Nemáš tušení, co jsem udělala, abych ji ochránila. Rozumíme si?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Yes.",
+      "cz": "Ano.",
+      "source": "pre_existing",
+      "original_cz": "Ano."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "No.",
+      "cz": "Ne.",
+      "source": "pre_existing",
+      "original_cz": "Ne."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "You're awful.",
+      "cz": "Jsi hrozný/á.",
+      "source": "pre_existing",
+      "original_cz": "Jsi hrozný/á."
+    },
+    {
+      "key": "MotherGothel_004_f",
+      "en": "I'm so glad.",
+      "cz": "Jsem tak ráda.",
+      "source": "pre_existing",
+      "original_cz": "Jsem tak ráda."
+    },
+    {
+      "key": "MotherGothel_005_f",
+      "en": "Be careful, {PlayerName}. You don't want to upset me. Bad things tend to happen to people who upset me.",
+      "cz": "Buď opatrný, {PlayerName}. Nechceš mě rozrušit. Lidem, kteří mě rozruší, se stávají špatné věci.",
+      "source": "pre_existing",
+      "original_cz": "Buď opatrný, {PlayerName}. Nechceš mě rozrušit. Lidem, kteří mě rozruší, se stávají špatné věci."
+    },
+    {
+      "key": "MotherGothel_006_f",
+      "en": "Oh, now let's not be churlish, dear. It's very unbecoming.",
+      "cz": "Ach, nebuďme teď hrubí, drahoušku. Je to velmi neslušné.",
+      "source": "pre_existing",
+      "original_cz": "Ach, nebuďme teď hrubí, drahoušku. Je to velmi neslušné."
+    },
+    {
+      "key": "MotherGothel_007_f",
+      "en": "I see. How civic-minded of you. The happy leader of a happy little Village of happy, simple people.",
+      "cz": "Aha. Jak jste občansky uvědomělý/á. Šťastný/á vůdce šťastné malé vesnice šťastných, prostých lidí.",
+      "source": "pre_existing",
+      "original_cz": "Aha. Jak jste občansky uvědomělý/á. Šťastný/á vůdce šťastné malé vesnice šťastných, prostých lidí."
+    },
+    {
+      "key": "MotherGothel_008_f",
+      "en": "Well, let me make one thing perfectly clear...",
+      "cz": "Dovolte mi, abych jednu věc naprosto ujasnila...",
+      "source": "pre_existing",
+      "original_cz": "Dovolte mi, abych jednu věc naprosto ujasnila..."
+    },
+    {
+      "key": "MotherGothel_009_f",
+      "en": "You're not wrong. It seems we share an ability to read people.",
+      "cz": "Nemýlíš se. Zdá se, že sdílíme schopnost číst lidi.",
+      "source": "pre_existing",
+      "original_cz": "Nemýlíš se. Zdá se, že sdílíme schopnost číst lidi."
+    },
+    {
+      "key": "MotherGothel_010_f",
+      "en": "Perhaps we might even work together.",
+      "cz": "Možná bychom mohli dokonce spolupracovat.",
+      "source": "pre_existing",
+      "original_cz": "Možná bychom mohli dokonce spolupracovat."
+    },
+    {
+      "key": "MotherGothel_011_f",
+      "en": "However, let me make one thing perfectly clear...",
+      "cz": "Dovolte mi však, abych jednu věc dokonale upřesnila...",
+      "source": "pre_existing",
+      "original_cz": "Dovolte mi však, abych jednu věc dokonale upřesnila..."
+    }
+  ],
+  "ExpansionMain_MotherGothel/MotherGothel_Discussion_Discussion003.locbin": [
+    {
+      "key": "MotherGothel_000_f",
+      "en": "Ah. {PlayerName}. Just who I wanted to see. I'm trying to come up with more dangers I can tell Rapunzel about.",
+      "cz": "Aha. {PlayerName}. Přesně koho jsem chtěla vidět. Snažím se vymyslet další nebezpečí, o kterých bych mohla Locice říct.",
+      "source": "pre_existing",
+      "original_cz": "Aha. {PlayerName}. Přesně koho jsem chtěla vidět. Snažím se vymyslet další nebezpečí, o kterých bych mohla Locice říct."
+    },
+    {
+      "key": "MotherGothel_001_f",
+      "en": "I've done poison ivy, quicksand, bears, spiders, and large spiders.",
+      "cz": "Pracovala jsem s jedovatým břečťanem, pohyblivým pískem, medvědy, pavouky a velkými pavouky.",
+      "source": "pre_existing",
+      "original_cz": "Pracovala jsem s jedovatým břečťanem, pohyblivým pískem, medvědy, pavouky a velkými pavouky."
+    },
+    {
+      "key": "MotherGothel_002_f",
+      "en": "What other terrifying things can you think of?",
+      "cz": "Jaké další děsivé věci si dokážete představit?",
+      "source": "pre_existing",
+      "original_cz": "Jaké další děsivé věci si dokážete představit?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "You shouldn't scare Rapunzel.",
+      "cz": "Neměl bys Lociku děsit.",
+      "source": "pre_existing",
+      "original_cz": "Neměl bys Lociku děsit."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Men with pointy teeth.",
+      "cz": "Muži se špičatými zuby.",
+      "source": "pre_existing",
+      "original_cz": "Muži se špičatými zuby."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Hippos.",
+      "cz": "Hroši.",
+      "source": "pre_existing",
+      "original_cz": "Hroši."
+    },
+    {
+      "key": "MotherGothel_003_f",
+      "en": "All I'm trying to do is keep her safe!",
+      "cz": "Snažím se jen o její bezpečí!",
+      "source": "pre_existing",
+      "original_cz": "Snažím se jen o její bezpečí!"
+    },
+    {
+      "key": "MotherGothel_004_f",
+      "en": "Sometimes she has to be a little terrified to be safe. That's just how it is when you have children.",
+      "cz": "Někdy se musí trochu bát, aby byla v bezpečí. Tak to prostě je, když máte děti.",
+      "source": "pre_existing",
+      "original_cz": "Někdy se musí trochu bát, aby byla v bezpečí. Tak to prostě je, když máte děti."
+    },
+    {
+      "key": "MotherGothel_005_f",
+      "en": "I actually already have that one. But it's a good one. Points for effort.",
+      "cz": "Ten už vlastně mám. Ale je dobrý. Body za snahu.",
+      "source": "pre_existing",
+      "original_cz": "Ten už vlastně mám. Ale je dobrý. Body za snahu."
+    },
+    {
+      "key": "MotherGothel_006_f",
+      "en": "Interesting. I've heard about those animals. They're kind of cute, but also extremely dangerous.",
+      "cz": "Zajímavé. Slyšela jsem o těch zvířatech. Jsou docela roztomilá, ale také extrémně nebezpečná.",
+      "source": "pre_existing",
+      "original_cz": "Zajímavé. Slyšela jsem o těch zvířatech. Jsou docela roztomilá, ale také extrémně nebezpečná."
+    },
+    {
+      "key": "MotherGothel_007_f",
+      "en": "I like it. It will make Rapunzel scared of cute things.",
+      "cz": "Líbí se mi to. Locika se kvůli tomu bude bát roztomilých věcí.",
+      "source": "pre_existing",
+      "original_cz": "Líbí se mi to. Locika se kvůli tomu bude bát roztomilých věcí."
+    }
+  ],
+  "ExpansionMain_MotherGothel/MotherGothel_Discussion_Discussion005.locbin": [
+    {
+      "key": "MotherGothel_000_f",
+      "en": "I've been criticized for how I treated Rapunzel, but you must understand...",
+      "cz": "Byla jsem kritizována za to, jak jsem se chovala k Locice, ale musíš to pochopit...",
+      "source": "pre_existing",
+      "original_cz": "Byla jsem kritizována za to, jak jsem se chovala k Locice, ale musíš to pochopit..."
+    },
+    {
+      "key": "MotherGothel_001_f",
+      "en": "...it was all for her own good! She really was far too naive.",
+      "cz": "...to všechno bylo pro její dobro! Byla opravdu až příliš naivní.",
+      "source": "pre_existing",
+      "original_cz": "...to všechno bylo pro její dobro! Byla opravdu až příliš naivní."
+    },
+    {
+      "key": "MotherGothel_002_f",
+      "en": "The dangers of the outside world would have destroyed her!",
+      "cz": "Nebezpečí vnějšího světa by ji zničila!",
+      "source": "pre_existing",
+      "original_cz": "Nebezpečí vnějšího světa by ji zničila!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I don't think that's true.",
+      "cz": "Myslím, že to není pravda.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že to není pravda."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Right. It has nothing to do with the fact that you needed her hair.",
+      "cz": "Správně. To nemá nic společného s tím, že jsi potřeboval její vlasy.",
+      "source": "pre_existing",
+      "original_cz": "Správně. To nemá nic společného s tím, že jsi potřeboval její vlasy."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Is it possible she was naive because she grew up in a tower?",
+      "cz": "Je možné, že byla naivní, protože vyrostla ve věži?",
+      "source": "pre_existing",
+      "original_cz": "Je možné, že byla naivní, protože vyrostla ve věži?"
+    },
+    {
+      "key": "MotherGothel_003_f",
+      "en": "If you were her mother, you would know better than to say such things. No one loves her like I do. Or cared for her like I did.",
+      "cz": "Kdybys byla její matkou, věděla bys, že takové věci neříkáš. Nikdo ji nemiluje tak jako já. Ani se o ni nestará tak jako já.",
+      "source": "pre_existing",
+      "original_cz": "Kdybys byla její matkou, věděla bys, že takové věci neříkáš. Nikdo ji nemiluje tak jako já. Ani se o ni nestará tak jako já."
+    },
+    {
+      "key": "MotherGothel_004_f",
+      "en": "Needed her hair? What on earth are you talking about? What an absurd concept. Needing hair. What does that even mean?",
+      "cz": "Potřebovala jsi vlasy? O čem to proboha mluvíš? To je absurdní koncept. Potřebovat vlasy. Co to vůbec znamená?",
+      "source": "pre_existing",
+      "original_cz": "Potřebovala jsi vlasy? O čem to proboha mluvíš? To je absurdní koncept. Potřebovat vlasy. Co to vůbec znamená?"
+    },
+    {
+      "key": "MotherGothel_005_f",
+      "en": "Let's pretend you didn't say it and never talk about this again.",
+      "cz": "Předstírejme, že jsi to neřekl/a, a už o tom nikdy nemluvme.",
+      "source": "pre_existing",
+      "original_cz": "Předstírejme, že jsi to neřekl/a, a už o tom nikdy nemluvme."
+    },
+    {
+      "key": "MotherGothel_006_f",
+      "en": "Now don't come at me with that silly logic of yours. It wasn't her upbringing. It was her nature. She was too soft. A delicate flower.",
+      "cz": "Nenapadá mě ta hloupá logika. Nebyla to její výchova. Byla to její povaha. Byla příliš jemná. Křehká květinka.",
+      "source": "pre_existing",
+      "original_cz": "Nenapadá mě ta hloupá logika. Nebyla to její výchova. Byla to její povaha. Byla příliš jemná. Křehká květinka."
+    }
+  ],
+  "ExpansionMain_MotherGothel/MotherGothel_MRQS_E01_130_Tower_MRQS_E01_130_Tower_TalkTo02.locbin": [
+    {
+      "key": "MotherGothel_007_f",
+      "en": "Rapunzel... I think you have to talk to it! Tell it to go away. Tell it how you feel!",
+      "cz": "Lociko... Myslím, že si s tím musíš promluvit! Řekni mu, ať odejde. Řekni mu, co cítíš!",
+      "source": "pre_existing",
+      "original_cz": "Lociko... Myslím, že si s tím musíš promluvit! Řekni mu, ať odejde. Řekni mu, co cítíš!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "It's okay to admit it hurts!",
+      "cz": "Je v pořádku přiznat, že to bolí!",
+      "source": "pre_existing",
+      "original_cz": "Je v pořádku přiznat, že to bolí!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "You have to tell YOURSELF the truth!",
+      "cz": "Musíš si říct pravdu!",
+      "source": "pre_existing",
+      "original_cz": "Musíš si říct pravdu!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Do it for the capybaras!",
+      "cz": "Udělej to pro kapybary!",
+      "source": "pre_existing",
+      "original_cz": "Udělej to pro kapybary!"
+    },
+    {
+      "key": "MotherGothel_009_f",
+      "en": "It's working, Rapunzel! Look!",
+      "cz": "Funguje to, Lociko! Podívej!",
+      "source": "pre_existing",
+      "original_cz": "Funguje to, Lociko! Podívej!"
+    },
+    {
+      "key": "MotherGothel_010_f",
+      "en": "Nothing will ever be fixed unless you're honest with yourself first.",
+      "cz": "Nic se nikdy neopraví, pokud nejdříve nebudete upřímní sami k sobě.",
+      "source": "pre_existing",
+      "original_cz": "Nic se nikdy neopraví, pokud nejdříve nebudete upřímní sami k sobě."
+    },
+    {
+      "key": "MotherGothel_013_f",
+      "en": "Do it for yourself.",
+      "cz": "Udělej to pro sebe.",
+      "source": "pre_existing",
+      "original_cz": "Udělej to pro sebe."
+    }
+  ],
+  "ExpansionMain_MotherGothel/MotherGothel_VLG_Gast_020_VLG_Gast_020_TalkTo08.locbin": [
+    {
+      "key": "MotherGothel_000_f",
+      "en": "Mother Gothel! We're trying to find the owner of this climbing pick — are you missing one?",
+      "cz": "Matko Gothel! Snažíme se najít majitele tohoto horolezeckého krumpáče – nechybí vám nějaký?",
+      "source": "pre_existing",
+      "original_cz": "Matko Gothel! Snažíme se najít majitele tohoto horolezeckého krumpáče – nechybí vám nějaký?"
+    },
+    {
+      "key": "MotherGothel_001_f",
+      "en": "A climbing pick that might be mine? What could you possibly be thinking, {PlayerName}?",
+      "cz": "Horolezecký krumpáč, který by mohl být můj? Co si asi myslíš, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Horolezecký krumpáč, který by mohl být můj? Co si asi myslíš, {PlayerName}?"
+    },
+    {
+      "key": "MotherGothel_003_f",
+      "en": "Well, sometimes you might need to climb up a steep, rocky surface...",
+      "cz": "No, někdy možná budete muset vylézt po strmém, skalnatém povrchu...",
+      "source": "pre_existing",
+      "original_cz": "No, někdy možná budete muset vylézt po strmém, skalnatém povrchu..."
+    },
+    {
+      "key": "MotherGothel_005_f",
+      "en": "Ha-ha-ha!",
+      "cz": "Ha-ha-ha!",
+      "source": "pre_existing",
+      "original_cz": "Ha-ha-ha!"
+    },
+    {
+      "key": "MotherGothel_006_f",
+      "en": "Now, why would I bother with climbing...",
+      "cz": "Proč bych se teď obtěžovala s lezením...",
+      "source": "pre_existing",
+      "original_cz": "Proč bych se teď obtěžovala s lezením..."
+    },
+    {
+      "key": "MotherGothel_010_f",
+      "en": "...when I can simply be lifted by... other means.",
+      "cz": "...když mě můžou jednoduše zvednout... jinými prostředky.",
+      "source": "pre_existing",
+      "original_cz": "...když mě můžou jednoduše zvednout... jinými prostředky."
+    },
+    {
+      "key": "MotherGothel_008_f",
+      "en": "I assure you, the item is not mine.",
+      "cz": "Ujišťuji vás, že ta položka není moje.",
+      "source": "pre_existing",
+      "original_cz": "Ujišťuji vás, že ta položka není moje."
+    },
+    {
+      "key": "MotherGothel_009_f",
+      "en": "Okay, I'm sorry. I'll keep looking for the proper owner.",
+      "cz": "Dobře, omlouvám se. Budu dál hledat správného majitele.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, omlouvám se. Budu dál hledat správného majitele."
+    }
+  ],
+  "ExpansionMain_MotherGothel/MotherGothel_VLG_Rapu_030_VLG_Rapu_030_TalkTo01.locbin": [
+    {
+      "key": "MotherGothel_000_f",
+      "en": "Mother Gothel? I need to talk to you about Rapunzel.",
+      "cz": "Matko Gothel? Potřebuji s tebou mluvit o Locice.",
+      "source": "pre_existing",
+      "original_cz": "Matko Gothel? Potřebuji s tebou mluvit o Locice."
+    },
+    {
+      "key": "MotherGothel_001_f",
+      "en": "Oh? What is my precious flower up to today? Breaking more rules and shattering my heart?",
+      "cz": "Ach? Co to moje drahocenná květina dnes dělá? Porušuje další pravidla a ničí mi srdce?",
+      "source": "pre_existing",
+      "original_cz": "Ach? Co to moje drahocenná květina dnes dělá? Porušuje další pravidla a ničí mi srdce?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Why do you call her your flower?",
+      "cz": "Proč jí říkáš svá květina?",
+      "source": "pre_existing",
+      "original_cz": "Proč jí říkáš svá květina?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I heard you made her sing.",
+      "cz": "Slyšel jsem, že jsi ji donutil zpívat.",
+      "source": "pre_existing",
+      "original_cz": "Slyšel jsem, že jsi ji donutil zpívat."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Escaping your control once and for all!",
+      "cz": "Jednou provždy se zbavuji vaší kontroly!",
+      "source": "pre_existing",
+      "original_cz": "Jednou provždy se zbavuji vaší kontroly!"
+    },
+    {
+      "key": "MotherGothel_004_f",
+      "en": "Hmm? Oh, it's just my little pet name for her.",
+      "cz": "Hmm? Ach, to je jen moje malá přezdívka pro ni.",
+      "source": "pre_existing",
+      "original_cz": "Hmm? Ach, to je jen moje malá přezdívka pro ni."
+    },
+    {
+      "key": "MotherGothel_005_f",
+      "en": "My fragile, delicate, rebellious little flower...",
+      "cz": "Můj křehký, jemný, vzpurný kvíteček...",
+      "source": "pre_existing",
+      "original_cz": "Můj křehký, jemný, vzpurný kvíteček..."
+    },
+    {
+      "key": "MotherGothel_006_f",
+      "en": "Uh-huh... And calling her \"flower\" has nothing to do with her magic — when she sings for you?",
+      "cz": "Aha... A to, že jí říkáš „květinka“, nemá nic společného s její magií — když ti zpívá?",
+      "source": "pre_existing",
+      "original_cz": "Aha... A to, že jí říkáš „květinka“, nemá nic společného s její magií — když ti zpívá?"
+    },
+    {
+      "key": "MotherGothel_007_f",
+      "en": "I've no idea what you're talking about, {PlayerName}.",
+      "cz": "Nemám tušení, o čem mluvíš, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Nemám tušení, o čem mluvíš, {PlayerName}."
+    },
+    {
+      "key": "MotherGothel_017_f",
+      "en": "Listen. I'm trying to find a way to harness Rapunzel's magic so she doesn't have to sing for you if she doesn't want to.",
+      "cz": "Poslouchej. Snažím se najít způsob, jak využít Locikinu magii, aby pro tebe nemusela zpívat, pokud nechce.",
+      "source": "pre_existing",
+      "original_cz": "Poslouchej. Snažím se najít způsob, jak využít Locikinu magii, aby pro tebe nemusela zpívat, pokud nechce."
+    },
+    {
+      "key": "MotherGothel_018_f",
+      "en": "What a brilliant idea. I can't believe I never thought of it. Oh, that's right. I did.",
+      "cz": "To je skvělý nápad. Nemůžu uvěřit, že mě to nikdy nenapadlo. Aha, přesně tak. Napadlo.",
+      "source": "pre_existing",
+      "original_cz": "To je skvělý nápad. Nemůžu uvěřit, že mě to nikdy nenapadlo. Aha, přesně tak. Napadlo."
+    },
+    {
+      "key": "MotherGothel_019_f",
+      "en": "I've searched for answers for years! You know how much I would love independence...",
+      "cz": "Hledám odpovědi už roky! Víš, jak moc bych si přála nezávislost...",
+      "source": "pre_existing",
+      "original_cz": "Hledám odpovědi už roky! Víš, jak moc bych si přála nezávislost..."
+    },
+    {
+      "key": "MotherGothel_020_f",
+      "en": "For Rapunzel.",
+      "cz": "Pro Lociku.",
+      "source": "pre_existing",
+      "original_cz": "Pro Lociku."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Help me to help you.",
+      "cz": "Pomozte mi pomoci vám.",
+      "source": "pre_existing",
+      "original_cz": "Pomozte mi pomoci vám."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Let's work together!",
+      "cz": "Pojďme spolupracovat!",
+      "source": "pre_existing",
+      "original_cz": "Pojďme spolupracovat!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I'll succeed where you failed.",
+      "cz": "Uspěju tam, kde ty selhal.",
+      "source": "pre_existing",
+      "original_cz": "Uspěju tam, kde ty selhal."
+    },
+    {
+      "key": "MotherGothel_022_f",
+      "en": "I know you're SO busy with... uh... being glamorous.",
+      "cz": "Vím, že jsi TAK zaneprázdněná... ehm... tím, že jsi okouzlující.",
+      "source": "pre_existing",
+      "original_cz": "Vím, že jsi TAK zaneprázdněná... ehm... tím, že jsi okouzlující."
+    },
+    {
+      "key": "MotherGothel_026_f",
+      "en": "So very true. It's exhausting being in such high demand. I suppose you could try...",
+      "cz": "To je pravda. Je vyčerpávající být tak žádaný. Myslím, že bys mohl zkusit...",
+      "source": "pre_existing",
+      "original_cz": "To je pravda. Je vyčerpávající být tak žádaný. Myslím, že bys mohl zkusit..."
+    },
+    {
+      "key": "MotherGothel_028_f",
+      "en": "*sigh* Very well... Rapunzel's magic comes from a rare bloom called the Sundrop Flower.",
+      "cz": "*povzdech* Výborně... Locikina magie pochází ze vzácného květu zvaného Sluneční kapka.",
+      "source": "pre_existing",
+      "original_cz": "*povzdech* Výborně... Locikina magie pochází ze vzácného květu zvaného Sluneční kapka."
+    },
+    {
+      "key": "MotherGothel_029_f",
+      "en": "Hmmm... I might be able to find some petals if I use my Hourglass. Where would I look?",
+      "cz": "Hmmm... Možná bych mohla najít nějaké okvětní lístky, kdybych použila přesýpací hodiny. Kde bych je měla hledat?",
+      "source": "pre_existing",
+      "original_cz": "Hmmm... Možná bych mohla najít nějaké okvětní lístky, kdybych použila přesýpací hodiny. Kde bych je měla hledat?"
+    },
+    {
+      "key": "MotherGothel_030_f",
+      "en": "Well, since you're feeling so ambitious, take this. It's a <Lore>map</Lore> I made of places the Sundrops grew before they all dried up, petals scattered to the wind.",
+      "cz": "No, když už máš takovou ambiciózní představu, vezmi si tohle. Je to <Lore>mapa</Lore>, kterou jsem vytvořila a která zobrazuje místa, kde rostly sluneční kapky, než všechny uschly a okvětní lístky rozprášily vítr.",
+      "source": "pre_existing",
+      "original_cz": "No, když už máš takovou ambiciózní představu, vezmi si tohle. Je to <Lore>mapa</Lore>, kterou jsem vytvořila a která zobrazuje místa, kde rostly sluneční kapky, než všechny uschly a okvětní lístky rozprášily vítr."
+    },
+    {
+      "key": "MotherGothel_031_f",
+      "en": "If you find any — which you won't — take the petals to someone skilled with magic. Perhaps they'll know what to do.",
+      "cz": "Pokud nějaké najdete – což nenajdete – vezměte okvětní lístky někomu, kdo se vyzná v magii. Možná bude vědět, co s nimi dělat.",
+      "source": "pre_existing",
+      "original_cz": "Pokud nějaké najdete – což nenajdete – vezměte okvětní lístky někomu, kdo se vyzná v magii. Možná bude vědět, co s nimi dělat."
+    },
+    {
+      "key": "MotherGothel_032_f",
+      "en": "<Lore>Find the Sundrop Petals with the map and Hourglass. Take them to someone magical</Lore>. Got it.",
+      "cz": "<Lore>Najděte okvětní lístky sluneční kapky pomocí mapy a přesýpacích hodin. Vezměte je někomu kouzelnému</Lore>. Rozumím.",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Najděte okvětní lístky sluneční kapky pomocí mapy a přesýpacích hodin. Vezměte je někomu kouzelnému</Lore>. Rozumím."
+    },
+    {
+      "key": "MotherGothel_021_f",
+      "en": "Why would I waste my precious energy on a task I know is fruitless?",
+      "cz": "Proč bych měla plýtvat svou drahocennou energií úkolem, o kterém vím, že je bezvýsledný?",
+      "source": "pre_existing",
+      "original_cz": "Proč bych měla plýtvat svou drahocennou energií úkolem, o kterém vím, že je bezvýsledný?"
+    },
+    {
+      "key": "MotherGothel_025_f",
+      "en": "So... let me do it for you?",
+      "cz": "Takže... dovolím si to udělat za tebe?",
+      "source": "pre_existing",
+      "original_cz": "Takže... dovolím si to udělat za tebe?"
+    },
+    {
+      "key": "MotherGothel_023_f",
+      "en": "Fail? Don't be ridiculous. And now that I have Rapunzel back, I've no reason to embark on fruitless quests.",
+      "cz": "Neúspěch? Nebuď směšná. A teď, když mám Lociku zpátky, nemám důvod se pouštět do marných úkolů.",
+      "source": "pre_existing",
+      "original_cz": "Neúspěch? Nebuď směšná. A teď, když mám Lociku zpátky, nemám důvod se pouštět do marných úkolů."
+    },
+    {
+      "key": "MotherGothel_024_f",
+      "en": "I think you're afraid that I'll beat you at your own game. You don't want me to figure it out.",
+      "cz": "Myslím, že se bojíš, že tě porazím v tvé vlastní hře. Nechceš, abych to zjistila.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že se bojíš, že tě porazím v tvé vlastní hře. Nechceš, abych to zjistila."
+    },
+    {
+      "key": "MotherGothel_027_f",
+      "en": "Ha! Please. But since it seems you won't go away...",
+      "cz": "Ha! Prosím. Ale protože se zdá, že neodejdeš...",
+      "source": "pre_existing",
+      "original_cz": "Ha! Prosím. Ale protože se zdá, že neodejdeš..."
+    },
+    {
+      "key": "MotherGothel_008_f",
+      "en": "\"Made\"? Please! You've seen her running around the Isle! I can't make her do a thing anymore.",
+      "cz": "\"Vyrobeno\"? Prosím! Viděl jsi ji pobíhat po ostrově! Už ji k ničemu nedonutím.",
+      "source": "pre_existing",
+      "original_cz": "\"Vyrobeno\"? Prosím! Viděl jsi ji pobíhat po ostrově! Už ji k ničemu nedonutím."
+    },
+    {
+      "key": "MotherGothel_009_f",
+      "en": "She was happy to volunteer her voice for me.",
+      "cz": "Ráda mi nabídla svůj hlas.",
+      "source": "pre_existing",
+      "original_cz": "Ráda mi nabídla svůj hlas."
+    },
+    {
+      "key": "MotherGothel_010_f",
+      "en": "She didn't seem happy about it.",
+      "cz": "Nezdálo se, že by z toho měla radost.",
+      "source": "pre_existing",
+      "original_cz": "Nezdálo se, že by z toho měla radost."
+    },
+    {
+      "key": "MotherGothel_011_f",
+      "en": "Oh, was she a little pouty? Ignore that. You just don't know Rapunzel like I do.",
+      "cz": "Aha, byla trochu našpulená? To ignoruj. Prostě neznáš Lociku tak jako já.",
+      "source": "pre_existing",
+      "original_cz": "Aha, byla trochu našpulená? To ignoruj. Prostě neznáš Lociku tak jako já."
+    },
+    {
+      "key": "MotherGothel_012_f",
+      "en": "You're right. You know her best, so... Where does her magic come from?",
+      "cz": "Máš pravdu. Znáš ji nejlépe, takže... Odkud pochází její magie?",
+      "source": "pre_existing",
+      "original_cz": "Máš pravdu. Znáš ji nejlépe, takže... Odkud pochází její magie?"
+    },
+    {
+      "key": "MotherGothel_016_f",
+      "en": "Who knows? It IS magic after all.",
+      "cz": "Kdo ví? Koneckonců je to magie.",
+      "source": "pre_existing",
+      "original_cz": "Kdo ví? Koneckonců je to magie."
+    },
+    {
+      "key": "MotherGothel_003_f",
+      "en": "My control? Ha! Oh {PlayerName}, you shouldn't try to make jokes with such a faulty sense of humor.",
+      "cz": "Moje kontrola? Ha! Ach, {PlayerName}, neměl by sis dělat legraci s tak vadným smyslem pro humor.",
+      "source": "pre_existing",
+      "original_cz": "Moje kontrola? Ha! Ach, {PlayerName}, neměl by sis dělat legraci s tak vadným smyslem pro humor."
+    },
+    {
+      "key": "MotherGothel_013_f",
+      "en": "I'm her MOTHER. Is it any wonder my daughter loves me after all I've done for her?",
+      "cz": "Jsem její MATKA. Je snad divu, že mě moje dcera miluje po všem, co jsem pro ni udělala?",
+      "source": "pre_existing",
+      "original_cz": "Jsem její MATKA. Je snad divu, že mě moje dcera miluje po všem, co jsem pro ni udělala?"
+    },
+    {
+      "key": "MotherGothel_014_f",
+      "en": "Kind of.",
+      "cz": "Tak nějak.",
+      "source": "pre_existing",
+      "original_cz": "Tak nějak."
+    },
+    {
+      "key": "MotherGothel_015_f",
+      "en": "Excuse me?",
+      "cz": "Prosím?",
+      "source": "pre_existing",
+      "original_cz": "Prosím?"
+    }
+  ]
+}

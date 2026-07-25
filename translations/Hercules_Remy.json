@@ -1,0 +1,402 @@
+{
+  "Hercules_Remy/Remy_CrossNPCDialogues_Remy_Remy_VLG_Phil_010_RemyBravos.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "Bravo! Bravo!",
+      "cz": "Bravo! Bravo!",
+      "source": "pre_existing",
+      "original_cz": "Bravo! Bravo!"
+    }
+  ],
+  "Hercules_Remy/Remy_VLG_Herc_040_VLG_Herc_040_TalkTo05.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "Hey Remy, I could use your culinary help if you've got a moment.",
+      "cz": "Hej Remy, kdybys měl chvilku, tak by se mi hodila tvoje kuchařská pomoc.",
+      "source": "pre_existing",
+      "original_cz": "Hej Remy, kdybys měl chvilku, tak by se mi hodila tvoje kuchařská pomoc."
+    },
+    {
+      "key": "Remy_001_f",
+      "en": "Sure! What's the trouble?",
+      "cz": "Jasně! V čem je problém?",
+      "source": "pre_existing",
+      "original_cz": "Jasně! V čem je problém?"
+    },
+    {
+      "key": "Remy_002_f",
+      "en": "I'm trying to figure out a cooking puzzle for Pumbaa, but I'm having trouble decoding the hints for some of the Ingredients.",
+      "cz": "Snažím se vyřešit kuchařskou hádanku s Pumbou, ale mám problém s rozluštěním nápověd k některým ingrediencím.",
+      "source": "pre_existing",
+      "original_cz": "Snažím se vyřešit kuchařskou hádanku s Pumbou, ale mám problém s rozluštěním nápověd k některým ingrediencím."
+    },
+    {
+      "key": "Remy_003_f",
+      "en": "I know that the first Ingredients are <Lore>Lobster and Wheat</Lore>, but I'm not sure about the others.",
+      "cz": "Vím, že první ingredience jsou <Lore>Humr a pšenice</Lore>, ale nejsem si jistý s těmi ostatními.",
+      "source": "pre_existing",
+      "original_cz": "Vím, že první ingredience jsou <Lore>Humr a pšenice</Lore>, ale nejsem si jistý s těmi ostatními."
+    },
+    {
+      "key": "Remy_004_f",
+      "en": "The hints are a dash of juice from <Lore>something yellow and sour</Lore>, a <Lore>creamy delight that must be churned</Lore>, and a <Lore>common bulb that your taste buds will adore, but your breath might not</Lore>.",
+      "cz": "Náznaky jsou špetka šťávy z <Lore>něčeho žlutého a kyselého</Lore>, <Lore>krémová lahůdka, kterou je třeba stlouct</Lore>, a <Lore>obyčejná cibule, kterou si vaše chuťové pohárky zamilují, ale váš dech možná ne</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Náznaky jsou špetka šťávy z <Lore>něčeho žlutého a kyselého</Lore>, <Lore>krémová lahůdka, kterou je třeba stlouct</Lore>, a <Lore>obyčejná cibule, kterou si vaše chuťové pohárky zamilují, ale váš dech možná ne</Lore>."
+    },
+    {
+      "key": "Remy_005_f",
+      "en": "Well, the first hint has to be a <ActivityItem>Lemon</ActivityItem>.",
+      "cz": "No, první nápovědou musí být <ActivityItem>Citron</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "No, první nápovědou musí být <ActivityItem>Citron</ActivityItem>."
+    },
+    {
+      "key": "Remy_008_f",
+      "en": "A <Lore>creamy delight that must be churned</Lore> is definitely butter.",
+      "cz": "<Lore>Krémová pochoutka, kterou je třeba vyšlehat</Lore>, je bezpochyby máslo.",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Krémová pochoutka, kterou je třeba vyšlehat</Lore>, je bezpochyby máslo."
+    },
+    {
+      "key": "Remy_009_f",
+      "en": "And that <Lore>common bulb that your taste buds will adore, but your breath might not</Lore>... There's a couple options, but I'm thinking garlic.",
+      "cz": "A ta <Lore>obyčejná cibule, kterou si vaše chuťové pohárky zamilují, ale váš dech možná ne</Lore>... Existuje několik možností, ale já přemýšlím o česneku.",
+      "source": "pre_existing",
+      "original_cz": "A ta <Lore>obyčejná cibule, kterou si vaše chuťové pohárky zamilují, ale váš dech možná ne</Lore>... Existuje několik možností, ale já přemýšlím o česneku."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "You're a lifesaver, Remy.",
+      "cz": "Jsi zachránce, Remy.",
+      "source": "pre_existing",
+      "original_cz": "Jsi zachránce, Remy."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Okay, I was on the right track.",
+      "cz": "Dobře, byl jsem na správné cestě.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, byl jsem na správné cestě."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Well, now I'm getting hungry.",
+      "cz": "No, teď už mám hlad.",
+      "source": "pre_existing",
+      "original_cz": "No, teď už mám hlad."
+    },
+    {
+      "key": "Remy_010_f",
+      "en": "Happy to help!",
+      "cz": "Rádi vám pomůžeme!",
+      "source": "pre_existing",
+      "original_cz": "Rádi vám pomůžeme!"
+    },
+    {
+      "key": "Remy_013_f",
+      "en": "So if I cook all of those together, I should get...",
+      "cz": "Takže když to všechno uvařím dohromady, měl bych dostat...",
+      "source": "pre_existing",
+      "original_cz": "Takže když to všechno uvařím dohromady, měl bych dostat..."
+    },
+    {
+      "key": "Remy_014_f",
+      "en": "...a <ActivityItem>Lobster Roll</ActivityItem>!",
+      "cz": "...<ActivityItem>roláda s humrem</ActivityItem>!",
+      "source": "pre_existing",
+      "original_cz": "...<ActivityItem>roláda s humrem</ActivityItem>!"
+    },
+    {
+      "key": "Remy_011_f",
+      "en": "Hey, sometimes you just have to talk it out.",
+      "cz": "Hej, někdy si o tom prostě musíš promluvit.",
+      "source": "pre_existing",
+      "original_cz": "Hej, někdy si o tom prostě musíš promluvit."
+    },
+    {
+      "key": "Remy_012_f",
+      "en": "Then make two. One for you and one for Pumbaa!",
+      "cz": "Tak udělej dva. Jeden pro sebe a jeden pro Pumbu!",
+      "source": "pre_existing",
+      "original_cz": "Tak udělej dva. Jeden pro sebe a jeden pro Pumbu!"
+    }
+  ],
+  "Hercules_Remy/Remy_VLG_Phil_010_VLG_Phil_010_BringItem04.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "Hey, Remy! Got an invitation for you to Phil's theatrical production!",
+      "cz": "Hej, Remy! Mám pro tebe pozvánku na Philovo divadelní představení!",
+      "source": "pre_existing",
+      "original_cz": "Hej, Remy! Mám pro tebe pozvánku na Philovo divadelní představení!"
+    },
+    {
+      "key": "Remy_001_f",
+      "en": "That's great! I was looking forward to it after our discussion about edible props, but now...",
+      "cz": "To je skvělé! Těšil jsem se na to po naší debatě o jedlých rekvizitách, ale teď...",
+      "source": "pre_existing",
+      "original_cz": "To je skvělé! Těšil jsem se na to po naší debatě o jedlých rekvizitách, ale teď..."
+    },
+    {
+      "key": "Remy_002_f",
+      "en": "Umm, yeah, what about now?",
+      "cz": "Ehm, jo, a co teď?",
+      "source": "pre_existing",
+      "original_cz": "Ehm, jo, a co teď?"
+    },
+    {
+      "key": "Remy_003_f",
+      "en": "Well, I heard that Mr. McDuck has a VERY demanding role — something really out of character for him.",
+      "cz": "No, slyšel jsem, že pan McDuck má VELMI náročnou roli – něco, co je pro něj opravdu netypické.",
+      "source": "pre_existing",
+      "original_cz": "No, slyšel jsem, že pan McDuck má VELMI náročnou roli – něco, co je pro něj opravdu netypické."
+    },
+    {
+      "key": "Remy_004_f",
+      "en": "Do you think he'll be any good?",
+      "cz": "Myslíš, že bude k něčemu dobrý?",
+      "source": "pre_existing",
+      "original_cz": "Myslíš, že bude k něčemu dobrý?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Sure!",
+      "cz": "Jasně!",
+      "source": "pre_existing",
+      "original_cz": "Jasně!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I have no idea!",
+      "cz": "Nemám tušení!",
+      "source": "pre_existing",
+      "original_cz": "Nemám tušení!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Oh no, he's going to bomb.",
+      "cz": "Ale ne, on bude bombardovat.",
+      "source": "pre_existing",
+      "original_cz": "Ale ne, on bude bombardovat."
+    },
+    {
+      "key": "Remy_014_f",
+      "en": "Mr. McDuck is just full of surprises.",
+      "cz": "Pan McDuck je prostě plný překvapení.",
+      "source": "pre_existing",
+      "original_cz": "Pan McDuck je prostě plný překvapení."
+    },
+    {
+      "key": "Remy_011_f",
+      "en": "And that's the joy of acting, I suppose — portraying someone different from yourself.",
+      "cz": "A to je asi ta radost z herectví – ztvárnit někoho jiného, ​​než jste vy sami.",
+      "source": "pre_existing",
+      "original_cz": "A to je asi ta radost z herectví – ztvárnit někoho jiného, ​​než jste vy sami."
+    },
+    {
+      "key": "Remy_006_f",
+      "en": "But he's so nice, I can't imagine him acting all mean and scary.",
+      "cz": "Ale je tak milý, nedokážu si představit, že by se choval tak zle a děsivě.",
+      "source": "pre_existing",
+      "original_cz": "Ale je tak milý, nedokážu si představit, že by se choval tak zle a děsivě."
+    },
+    {
+      "key": "Remy_007_f",
+      "en": "Excuse me, what?!",
+      "cz": "Promiňte, cože?!",
+      "source": "pre_existing",
+      "original_cz": "Promiňte, cože?!"
+    },
+    {
+      "key": "Remy_008_f",
+      "en": "Sorry, gotta run. See you at the show!",
+      "cz": "Promiň, musím běžet. Uvidíme se na koncertě!",
+      "source": "pre_existing",
+      "original_cz": "Promiň, musím běžet. Uvidíme se na koncertě!"
+    },
+    {
+      "key": "Remy_009_f",
+      "en": "Why does everyone seem to know something that I don't?!",
+      "cz": "Proč se zdá, že všichni vědí něco, co já ne?!",
+      "source": "pre_existing",
+      "original_cz": "Proč se zdá, že všichni vědí něco, co já ne?!"
+    },
+    {
+      "key": "Remy_010_f",
+      "en": "Well, that was odd...",
+      "cz": "No, to bylo zvláštní...",
+      "source": "pre_existing",
+      "original_cz": "No, to bylo zvláštní..."
+    },
+    {
+      "key": "Remy_012_f",
+      "en": "Does Mr. McDuck have prior acting experience? I guess we'll find out.",
+      "cz": "Má pan McDuck nějaké herecké zkušenosti? Asi to zjistíme.",
+      "source": "pre_existing",
+      "original_cz": "Má pan McDuck nějaké herecké zkušenosti? Asi to zjistíme."
+    },
+    {
+      "key": "Remy_013_f",
+      "en": "... I'm sure it will be a learning experience.",
+      "cz": "... Jsem si jistý/á, že to bude poučná zkušenost.",
+      "source": "pre_existing",
+      "original_cz": "... Jsem si jistý/á, že to bude poučná zkušenost."
+    }
+  ],
+  "Hercules_Remy/Remy_VLG_Phil_010_VLG_Phil_010_TalkTo02.locbin": [
+    {
+      "key": "Remy_002_f",
+      "en": "Hey, you two. Goofy said you wanted to see me?",
+      "cz": "Hej, vy dva. Goofy říkal, že mě chcete vidět?",
+      "source": "pre_existing",
+      "original_cz": "Hej, vy dva. Goofy říkal, že mě chcete vidět?"
+    },
+    {
+      "key": "Remy_003_f",
+      "en": "That's right! I need an edible prop for the play, so Remy here's helpin' me out.",
+      "cz": "Přesně tak! Potřebuji na tu hru jedlý rekvizit, takže mi s tím Remy pomáhá.",
+      "source": "pre_existing",
+      "original_cz": "Přesně tak! Potřebuji na tu hru jedlý rekvizit, takže mi s tím Remy pomáhá."
+    },
+    {
+      "key": "Remy_004_f",
+      "en": "When it comes to food, I'm always happy to lend a hand.",
+      "cz": "Pokud jde o jídlo, vždycky rád pomůžu.",
+      "source": "pre_existing",
+      "original_cz": "Pokud jde o jídlo, vždycky rád pomůžu."
+    },
+    {
+      "key": "Remy_006_f",
+      "en": "What kind of edible prop do you need, Phil?",
+      "cz": "Jaký druh jedlého rekvizitu potřebuješ, Phile?",
+      "source": "pre_existing",
+      "original_cz": "Jaký druh jedlého rekvizitu potřebuješ, Phile?"
+    },
+    {
+      "key": "Remy_008_f",
+      "en": "Well, it's gotta really say, \"GREEK\"! But it doesn't hafta be super traditional.",
+      "cz": "No, musí se to vážně říct „ŘECKÉ“! Ale nemusí to být zrovna super tradiční.",
+      "source": "pre_existing",
+      "original_cz": "No, musí se to vážně říct „ŘECKÉ“! Ale nemusí to být zrovna super tradiční."
+    },
+    {
+      "key": "Remy_009_f",
+      "en": "Hmm... What about some Greek pizza?",
+      "cz": "Hmm... Co takhle řecká pizza?",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Co takhle řecká pizza?"
+    },
+    {
+      "key": "Remy_010_f",
+      "en": "Pizza? Is that some kinda Ephesus thing?",
+      "cz": "Pizza? To je něco jako Efez?",
+      "source": "pre_existing",
+      "original_cz": "Pizza? To je něco jako Efez?"
+    },
+    {
+      "key": "Remy_011_f",
+      "en": "Think of it as a kind of toasted flatbread with a bunch of tasty ingredients on it.",
+      "cz": "Představte si to jako opečený placký chléb s hromadou chutných ingrediencí.",
+      "source": "pre_existing",
+      "original_cz": "Představte si to jako opečený placký chléb s hromadou chutných ingrediencí."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Pizza is probably the best food around.",
+      "cz": "Pizza je asi nejlepší jídlo v okolí.",
+      "source": "pre_existing",
+      "original_cz": "Pizza je asi nejlepší jídlo v okolí."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "It's easy to eat one-handed!",
+      "cz": "Je snadné jíst jednou rukou!",
+      "source": "pre_existing",
+      "original_cz": "Je snadné jíst jednou rukou!"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "The concept of Greek pizza might make some traditionalists mad.",
+      "cz": "Koncept řecké pizzy by mohl některé tradicionalisty rozzuřit.",
+      "source": "pre_existing",
+      "original_cz": "Koncept řecké pizzy by mohl některé tradicionalisty rozzuřit."
+    },
+    {
+      "key": "Remy_012_f",
+      "en": "Great! I love it! Greek pizza it is! You'll make it for me now, right?",
+      "cz": "Skvělé! Miluju to! To je řecká pizza! Teď mi ji uděláš, jo?",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Miluju to! To je řecká pizza! Teď mi ji uděláš, jo?"
+    },
+    {
+      "key": "Remy_013_f",
+      "en": "Sorry Phil, but I need to prep for my next rush. Maybe {PlayerName} could help out?",
+      "cz": "Promiň, Phile, ale musím se připravit na další útok. Možná by ti mohl pomoct {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Promiň, Phile, ale musím se připravit na další útok. Možná by ti mohl pomoct {PlayerName}?"
+    },
+    {
+      "key": "Remy_014_f",
+      "en": "Sure! I'd be glad to <Lore>make a Greek pizza for Phil</Lore>.",
+      "cz": "Jasně! Rád bych <Lore>udělal řeckou pizzu pro Phila</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Jasně! Rád bych <Lore>udělal řeckou pizzu pro Phila</Lore>."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "... If he gives me a hint about the play.",
+      "cz": "... Pokud mi dá nějakou nápovědu ohledně té hry.",
+      "source": "pre_existing",
+      "original_cz": "... Pokud mi dá nějakou nápovědu ohledně té hry."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I'll get on that now.",
+      "cz": "Do toho se teď pustím.",
+      "source": "pre_existing",
+      "original_cz": "Do toho se teď pustím."
+    },
+    {
+      "key": "Remy_015_f",
+      "en": "Ahh, well I guess I could give you a little preview, seein' as you're bein' so helpful.",
+      "cz": "No, asi bych ti mohl dát malou ukázku, když vidím, že jsi tak nápomocný.",
+      "source": "pre_existing",
+      "original_cz": "No, asi bych ti mohl dát malou ukázku, když vidím, že jsi tak nápomocný."
+    },
+    {
+      "key": "Remy_017_f",
+      "en": "All right, so you gotta have a good reason for the hero to go on an adventure, right?",
+      "cz": "Dobře, takže musíš mít dobrý důvod, proč se hrdina vydává na dobrodružství, že?",
+      "source": "pre_existing",
+      "original_cz": "Dobře, takže musíš mít dobrý důvod, proč se hrdina vydává na dobrodružství, že?"
+    },
+    {
+      "key": "Remy_001_f",
+      "en": "Well, this is gonna involve a noble satyr's quest to rescue his little brother from the clutches of an evil villain!",
+      "cz": "No, tohle bude zahrnovat výpravu vznešeného satyra, aby zachránil svého malého bratra ze spárů zlého padoucha!",
+      "source": "pre_existing",
+      "original_cz": "No, tohle bude zahrnovat výpravu vznešeného satyra, aby zachránil svého malého bratra ze spárů zlého padoucha!"
+    },
+    {
+      "key": "Remy_018_f",
+      "en": "But that's the only hint you're gettin'!",
+      "cz": "Ale to je jediná nápověda, kterou máš!",
+      "source": "pre_existing",
+      "original_cz": "Ale to je jediná nápověda, kterou máš!"
+    },
+    {
+      "key": "Remy_019_f",
+      "en": "Thanks for the hint, Phil! I'll <Lore>get that Greek pizza going for you</Lore> now.",
+      "cz": "Díky za radu, Phile! Teď ti <Lore>udělám tu řeckou pizzu</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Díky za radu, Phile! Teď ti <Lore>udělám tu řeckou pizzu</Lore>."
+    },
+    {
+      "key": "Remy_016_f",
+      "en": "You're the best, {PlayerName}! You can <Lore>bring it to my House</Lore> once it's ready.",
+      "cz": "Jsi nejlepší, {PlayerName}! Můžeš mi to <Lore>přinést domů</Lore>, jakmile to bude hotové.",
+      "source": "pre_existing",
+      "original_cz": "Jsi nejlepší, {PlayerName}! Můžeš mi to <Lore>přinést domů</Lore>, jakmile to bude hotové."
+    }
+  ]
+}

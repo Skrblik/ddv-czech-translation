@@ -1,0 +1,2459 @@
+{
+  "ExpansionMain_Expansion01/MRQS_E01_010_Dock.locbin": [
+    {
+      "key": "Story!Expansion01!MRQS_E01_010_Dock_AvailableDescription",
+      "en": "Merlin has something to tell you about special places beyond Dreamlight Valley. You decide to go talk to him.",
+      "cz": "Merlin vám chce něco říct o zvláštních místech za Údolím snů. Rozhodnete se s ním promluvit.",
+      "source": "pre_existing",
+      "original_cz": "Merlin vám chce něco říct o zvláštních místech za Údolím snů. Rozhodnete se s ním promluvit."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_010_Dock_DisplayName",
+      "en": "The Port of Many Worlds",
+      "cz": "Přístav mnoha světů",
+      "source": "pre_existing",
+      "original_cz": "Přístav mnoha světů"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_010_Dock_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "Talk to Merlin.",
+      "cz": "Promluvte si s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Merlinem."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_010_Dock_Group01_StepDescription",
+      "en": "Merlin has remembered something about a very special place in Dreamlight Valley...",
+      "cz": "Merlin si vzpomněl na něco o jednom velmi zvláštním místě v Údolí snů...",
+      "source": "pre_existing",
+      "original_cz": "Merlin si vzpomněl na něco o jednom velmi zvláštním místě v Údolí snů..."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_010_Dock_Group02_Step02_VisitArea01_StepDescription",
+      "en": "Meet Merlin in the Dream Castle.",
+      "cz": "Setkejte se s Merlinem v Hradě snů.",
+      "source": "pre_existing",
+      "original_cz": "Setkejte se s Merlinem v Hradě snů."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_010_Dock_Group03_Step03_FollowCharacter01_StepDescription",
+      "en": "Follow Merlin to the gate in the Dream Castle.",
+      "cz": "Následujte Merlina k bráně v Hradě snů.",
+      "source": "pre_existing",
+      "original_cz": "Následujte Merlina k bráně v Hradě snů."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_010_Dock_Group03_Step03_FollowCharacter01_TalkToDescription",
+      "en": "Talk to Merlin.",
+      "cz": "Promluvte si s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Merlinem."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_010_Dock_Group04_Step04_VisitArea02_StepDescription",
+      "en": "Pass through the gate in the Dream Castle.",
+      "cz": "Projděte branou v Hradě snů.",
+      "source": "pre_existing",
+      "original_cz": "Projděte branou v Hradě snů."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_010_Dock_Group05_Step05_TalkToCharacter02_StepDescription",
+      "en": "Talk to Merlin in the Stardust Port.",
+      "cz": "Promluvte si s Merlinem v přístavu Stardust.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Merlinem v přístavu Stardust."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_010_Dock_Group02_OngoingRequestButton",
+      "en": "{title}</smallcaps><br>Where are we going?",
+      "cz": "{title}</smallcaps><br>Where are we going?",
+      "source": "pre_existing",
+      "original_cz": "{title}</smallcaps><br>Where are we going?"
+    }
+  ],
+  "ExpansionMain_Expansion01/MRQS_E01_020_Restaurant.locbin": [
+    {
+      "key": "Story!Expansion01!MRQS_E01_020_Restaurant_Any_CompletedRequestDescription",
+      "en": "Talk to Remy.",
+      "cz": "Promluvte si s Remym.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Remym."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_020_Restaurant_AvailableDescription",
+      "en": "As you were exploring Ancient's Landing, you came across a menu for Chez Remy. A certain little chef might be pretty interested in it...",
+      "cz": "Když jste prozkoumávali Ancient's Landing, narazili jste na menu pro Chez Remy. Jistý malý šéfkuchař by o něj mohl mít docela zájem...",
+      "source": "pre_existing",
+      "original_cz": "Když jste prozkoumávali Ancient's Landing, narazili jste na menu pro Chez Remy. Jistý malý šéfkuchař by o něj mohl mít docela zájem..."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_020_Restaurant_CompletedStoryDescription",
+      "en": "With Chez Remy on Eternity Isle now open, Remy should have plenty of new culinary challenges to take on.",
+      "cz": "S otevřením restaurace Chez Remy na ostrově Eternity Isle by měl Remy čelit spoustě nových kulinářských výzev.",
+      "source": "pre_existing",
+      "original_cz": "S otevřením restaurace Chez Remy na ostrově Eternity Isle by měl Remy čelit spoustě nových kulinářských výzev."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_020_Restaurant_DisplayName",
+      "en": "Ancient's Landing Fine Dining",
+      "cz": "Luxusní restaurace Ancient's Landing",
+      "source": "pre_existing",
+      "original_cz": "Luxusní restaurace Ancient's Landing"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_020_Restaurant_Group01_Step01_BringItem01_StepDescription",
+      "en": "Make sure you have the <ActivityItem>Menu</ActivityItem> in your Inventory.",
+      "cz": "Ujistěte se, že máte v inventáři položku <ActivityItem>Menu</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte v inventáři položku <ActivityItem>Menu</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_020_Restaurant_Group01_Step01_ReadyDescription",
+      "en": "Give the <ActivityItem>Menu</ActivityItem> to Remy.",
+      "cz": "Dejte Remymu <ActivityItem>Menu</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Dejte Remymu <ActivityItem>Menu</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_020_Restaurant_Group02_Step02_FollowCharacter01_StepDescription",
+      "en": "Follow Remy to the restaurant on Eternity Isle.",
+      "cz": "Následujte Remyho do restaurace na Eternity Isle.",
+      "source": "pre_existing",
+      "original_cz": "Následujte Remyho do restaurace na Eternity Isle."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_020_Restaurant_Group02_Step02_FollowCharacter01_TalkToDescription",
+      "en": "Talk to Remy.",
+      "cz": "Promluvte si s Remym.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Remym."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_020_Restaurant_Group02_StoryDescription",
+      "en": "Remy is overjoyed to discover the menu and wants to take a closer look at the building.",
+      "cz": "Remy má velkou radost, když objevil menu, a chce se na budovu podívat zblízka.",
+      "source": "pre_existing",
+      "original_cz": "Remy má velkou radost, když objevil menu, a chce se na budovu podívat zblízka."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_020_Restaurant_Group03_Step03_BringItem02_StepDescription",
+      "en": "Any <ActivityItem>Fish</ActivityItem> from Ancient's Landing:",
+      "cz": "Jakákoli <ActivityItem>ryba</ActivityItem> z Přístaviště Ancient's Landing:",
+      "source": "pre_existing",
+      "original_cz": "Jakákoli <ActivityItem>ryba</ActivityItem> z Přístaviště Ancient's Landing:"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_020_Restaurant_Group03_Step03_BringItem03_StepDescription",
+      "en": "<ActivityItem>Cumin</ActivityItem>.",
+      "cz": "<ActivityItem>Cumin</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Cumin</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_020_Restaurant_Group03_Step03_BringItem04_StepDescription",
+      "en": "<ActivityItem>Strawberries</ActivityItem>.",
+      "cz": "<ActivityItem>Strawberries</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Strawberries</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_020_Restaurant_Group03_Step03_ReadyDescription",
+      "en": "Bring the Ingredients to Remy.",
+      "cz": "Doneste ingredience Remymu.",
+      "source": "pre_existing",
+      "original_cz": "Doneste ingredience Remymu."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_020_Restaurant_Group03_Step03_StepDescription",
+      "en": "Gather some fresh Eternity Isle Ingredients for Remy:",
+      "cz": "Sežeňte pro Remyho čerstvé ingredience z Eternity Isle:",
+      "source": "pre_existing",
+      "original_cz": "Sežeňte pro Remyho čerstvé ingredience z Eternity Isle:"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_020_Restaurant_Group03_StoryDescription",
+      "en": "He decides to clean the place and make some inventory while you go and gather Ingredients for the pantry.",
+      "cz": "Rozhodne se, že to místo uklidí a provede inventuru, zatímco vy půjdete nasbírat ingredience do spíže.",
+      "source": "pre_existing",
+      "original_cz": "Rozhodne se, že to místo uklidí a provede inventuru, zatímco vy půjdete nasbírat ingredience do spíže."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_020_Restaurant_Group04_Step04_Unlock01_StepDescription",
+      "en": "Unlock Chez Remy on Eternity Isle by interacting with the Scrooge McDuck Sign beside it.",
+      "cz": "Odemkněte restauraci Chez Remy na ostrově Eternity Isle interakcí s cedulí Scrooge McDucka vedle ní.",
+      "source": "pre_existing",
+      "original_cz": "Odemkněte restauraci Chez Remy na ostrově Eternity Isle interakcí s cedulí Scrooge McDucka vedle ní."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_020_Restaurant_Group04_StoryDescription",
+      "en": "Grateful for your help, he charges you with opening the restaurant.",
+      "cz": "Vděčný za vaši pomoc vám pověřuje otevřením restaurace.",
+      "source": "pre_existing",
+      "original_cz": "Vděčný za vaši pomoc vám pověřuje otevřením restaurace."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_020_Restaurant_Group01_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What do you need?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What do you need?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What do you need?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_020_Restaurant_Group03_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What do you need?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What do you need?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What do you need?"
+    }
+  ],
+  "ExpansionMain_Expansion01/MRQS_E01_030_Stall.locbin": [
+    {
+      "key": "Story!Expansion01!MRQS_E01_030_Stall_Any_CompletedRequestDescription",
+      "en": "Talk to Goofy.",
+      "cz": "Promluvte si s Goofym.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Goofym."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_030_Stall_AvailableDescription",
+      "en": "You discovered a sign indicating that Goofy had previously opened at least one of his famous Stalls on Eternity Isle. Maybe he'll be interested to see this.",
+      "cz": "Objevil jsi ceduli, která naznačuje, že Goofy dříve otevřel alespoň jeden ze svých slavných stánků na Eternity Isle. Možná ho to bude zajímat.",
+      "source": "pre_existing",
+      "original_cz": "Objevil jsi ceduli, která naznačuje, že Goofy dříve otevřel alespoň jeden ze svých slavných stánků na Eternity Isle. Možná ho to bude zajímat."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_030_Stall_CompletedStoryDescription",
+      "en": "With the inauguration done, you can now use the Stall in Ancient's Landing. Maybe you should check in with Goofy to see if he needs anything else.",
+      "cz": "Po dokončení inaugurace můžete nyní používat stánek v Ancient's Landing. Možná byste se měli zeptat Goofyho, jestli ještě něco nepotřebuje.",
+      "source": "pre_existing",
+      "original_cz": "Po dokončení inaugurace můžete nyní používat stánek v Ancient's Landing. Možná byste se měli zeptat Goofyho, jestli ještě něco nepotřebuje."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_030_Stall_DisplayName",
+      "en": "Give Me a Sign",
+      "cz": "Give Me a Sign",
+      "source": "pre_existing",
+      "original_cz": "Give Me a Sign"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_030_Stall_Group01_Step01_BringItem01_StepDescription",
+      "en": "Make sure you have the {ItemName} in your Inventory.",
+      "cz": "Ujistěte se, že máte {ItemName} ve svém inventáři.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte {ItemName} ve svém inventáři."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_030_Stall_Group01_Step01_ReadyDescription",
+      "en": "Bring the {ItemName} to Goofy.",
+      "cz": "Přineste {ItemName} Goofymu.",
+      "source": "pre_existing",
+      "original_cz": "Přineste {ItemName} Goofymu."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_030_Stall_Group02_Step02_FollowCharacter01_StepDescription",
+      "en": "Follow Goofy to his Stall in Ancient's Landing.",
+      "cz": "Následujte Goofyho k jeho stánku v Ancient's Landing.",
+      "source": "pre_existing",
+      "original_cz": "Následujte Goofyho k jeho stánku v Ancient's Landing."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_030_Stall_Group02_Step02_FollowCharacter01_TalkToDescription",
+      "en": "Talk to Goofy.",
+      "cz": "Promluv si s Goofym.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Goofym."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_030_Stall_Group02_StoryDescription",
+      "en": "Goofy remembers he used to have Stalls on Eternity Isle as well and decides to see what happened to the one in Ancient's Landing.",
+      "cz": "Goofy si vzpomene, že míval stánky i na Eternity Isle, a rozhodne se zjistit, co se stalo s tou v Ancient's Landing.",
+      "source": "pre_existing",
+      "original_cz": "Goofy si vzpomene, že míval stánky i na Eternity Isle, a rozhodne se zjistit, co se stalo s tou v Ancient's Landing."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_030_Stall_Group03_Step03_BringItem02_StepDescription",
+      "en": "Mine for <ActivityItem>Copper</ActivityItem> in rocks.",
+      "cz": "Těžba <ActivityItem>mědi</ActivityItem> v horninách.",
+      "source": "pre_existing",
+      "original_cz": "Těžba <ActivityItem>mědi</ActivityItem> v horninách."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_030_Stall_Group03_Step03_BringItem03_StepDescription",
+      "en": "Fish for <ActivityItem>Plastic Scrap</ActivityItem> in the waters without ripples.",
+      "cz": "Lovte <ActivityItem>plastový odpad</ActivityItem> ve vodách bez vln.",
+      "source": "pre_existing",
+      "original_cz": "Lovte <ActivityItem>plastový odpad</ActivityItem> ve vodách bez vln."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_030_Stall_Group03_Step03_ReadyDescription",
+      "en": "Bring the materials to Goofy.",
+      "cz": "Přineste materiály Goofymu.",
+      "source": "pre_existing",
+      "original_cz": "Přineste materiály Goofymu."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_030_Stall_Group03_Step03_StepDescription",
+      "en": "Gather the materials for Goofy around Ancient's Landing:",
+      "cz": "Shromážděte materiály pro Goofyho v okolí Ancient's Landing:",
+      "source": "pre_existing",
+      "original_cz": "Shromážděte materiály pro Goofyho v okolí Ancient's Landing:"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_030_Stall_Group03_StoryDescription",
+      "en": "The Stall is all broken, and you decide to help Goofy fix it by gathering the materials for him.",
+      "cz": "Stánek je celý rozbitý a vy se rozhodnete Goofymu pomoci ho opravit tím, že pro něj shromáždíte potřebné materiály.",
+      "source": "pre_existing",
+      "original_cz": "Stánek je celý rozbitý a vy se rozhodnete Goofymu pomoci ho opravit tím, že pro něj shromáždíte potřebné materiály."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_030_Stall_Group04_Step04_Unlock01_StepDescription",
+      "en": "Unlock Goofy's Stall in Ancient's Landing by interacting with the Scrooge McDuck Sign beside it.",
+      "cz": "Odemkněte Goofyho stánek v Ancient's Landing interakcí s cedulí Scrooge McDucka vedle něj.",
+      "source": "pre_existing",
+      "original_cz": "Odemkněte Goofyho stánek v Ancient's Landing interakcí s cedulí Scrooge McDucka vedle něj."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_030_Stall_Group04_StoryDescription",
+      "en": "You bring Goofy what he needs to fix the Stall, and he decides that you should be the one opening it for everyone to use.",
+      "cz": "Přinesete Goofymu, co potřebuje k opravě stánku, a on se rozhodne, že byste ho měli otevřít pro všechny.",
+      "source": "pre_existing",
+      "original_cz": "Přinesete Goofymu, co potřebuje k opravě stánku, a on se rozhodne, že byste ho měli otevřít pro všechny."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_030_Stall_Group03_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What do you need?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What do you need?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What do you need?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_030_Stall_Group04_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What's next?"
+    }
+  ],
+  "ExpansionMain_Expansion01/MRQS_E01_040_Shop.locbin": [
+    {
+      "key": "Story!Expansion01!MRQS_E01_040_Shop_Any_CompletedRequestDescription",
+      "en": "Talk to Scrooge McDuck.",
+      "cz": "Promluvte si se Scroogem McDuckem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Scroogem McDuckem."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_040_Shop_AvailableDescription",
+      "en": "There is a derelict store on the Isle that you can't help but think looks a lot like Scrooge's Store. When you take a closer look at it a sign warning you it needs repair falls to your feet and you gather it. Maybe you should bring it to Scrooge.",
+      "cz": "Na ostrově je opuštěný obchod, který si nemůžete pomoct, ale myslíte si, že hodně připomíná Scroogův obchod. Když se na něj podíváte blíž, spadne vám k nohám cedule s varováním, že potřebuje opravu, a vy ho seberete. Možná byste ho měli přinést Scroogovi.",
+      "source": "pre_existing",
+      "original_cz": "Na ostrově je opuštěný obchod, který si nemůžete pomoct, ale myslíte si, že hodně připomíná Scroogův obchod. Když se na něj podíváte blíž, spadne vám k nohám cedule s varováním, že potřebuje opravu, a vy ho seberete. Možná byste ho měli přinést Scroogovi."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_040_Shop_CompletedStoryDescription",
+      "en": "A new Scrooge's Store has opened on Eternity Isle. What does Scrooge think about it? There's only one way to know.",
+      "cz": "Na Eternity Isle se otevřel nový Scroogův obchod. Co si o tom Scrooge myslí? Existuje jen jeden způsob, jak to zjistit.",
+      "source": "pre_existing",
+      "original_cz": "Na Eternity Isle se otevřel nový Scroogův obchod. Co si o tom Scrooge myslí? Existuje jen jeden způsob, jak to zjistit."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_040_Shop_DisplayName",
+      "en": "New Ventures (and Adventures)",
+      "cz": "Nové podniky (a dobrodružství)",
+      "source": "pre_existing",
+      "original_cz": "Nové podniky (a dobrodružství)"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_040_Shop_Group01_Step01_BringItem01_StepDescription",
+      "en": "Make sure you have the {ItemName} in your Inventory.",
+      "cz": "Ujistěte se, že máte {ItemName} ve svém inventáři.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte {ItemName} ve svém inventáři."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_040_Shop_Group01_Step01_ReadyDescription",
+      "en": "Give the {ItemName} to Scrooge McDuck.",
+      "cz": "Dejte {ItemName} Scroogeovi McDuckovi.",
+      "source": "pre_existing",
+      "original_cz": "Dejte {ItemName} Scroogeovi McDuckovi."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_040_Shop_Group02_Step02_FollowCharacter01_StepDescription",
+      "en": "Follow Scrooge McDuck.",
+      "cz": "Sledujte Scrooge McDucka.",
+      "source": "pre_existing",
+      "original_cz": "Sledujte Scrooge McDucka."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_040_Shop_Group02_Step02_FollowCharacter01_TalkToDescription",
+      "en": "Talk to Scrooge.",
+      "cz": "Promluvte si se Scroogem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Scroogem."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_040_Shop_Group02_StoryDescription",
+      "en": "Presented with the opportunity of opening a new shop on Eternity Isle, Scrooge McDuck decides to check the state of the building by himself. You follow him.",
+      "cz": "Když se Scrooge McDuckovi naskytne příležitost otevřít nový obchod na Eternity Isle, rozhodne se sám zkontrolovat stav budovy. Sledujete ho.",
+      "source": "pre_existing",
+      "original_cz": "Když se Scrooge McDuckovi naskytne příležitost otevřít nový obchod na Eternity Isle, rozhodne se sám zkontrolovat stav budovy. Sledujete ho."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_040_Shop_Group03_Step03_BringItem02_StepDescription",
+      "en": "Mine <ActivityItem>Quartz</ActivityItem> from rocks.",
+      "cz": "Těžte <ActivityItem>křemen</ActivityItem> z hornin.",
+      "source": "pre_existing",
+      "original_cz": "Těžte <ActivityItem>křemen</ActivityItem> z hornin."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_040_Shop_Group03_Step03_BringItem03_StepDescription",
+      "en": "Mine <ActivityItem>Copper</ActivityItem> from rocks.",
+      "cz": "Těžte <ActivityItem>měď</ActivityItem> z kamenů.",
+      "source": "pre_existing",
+      "original_cz": "Těžte <ActivityItem>měď</ActivityItem> z kamenů."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_040_Shop_Group03_Step03_BringItem04_StepDescription",
+      "en": "Dig up <ActivityItem>Pearls</ActivityItem> from the ground.",
+      "cz": "Vykopejte <ActivityItem>Perly</ActivityItem> ze země.",
+      "source": "pre_existing",
+      "original_cz": "Vykopejte <ActivityItem>Perly</ActivityItem> ze země."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_040_Shop_Group03_Step03_ReadyDescription",
+      "en": "Bring the materials to Scrooge.",
+      "cz": "Doneste materiály Scroogovi.",
+      "source": "pre_existing",
+      "original_cz": "Doneste materiály Scroogovi."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_040_Shop_Group03_Step03_StepDescription",
+      "en": "Gather the following from around Ancient's Landing:",
+      "cz": "Shromážděte následující z okolí Ancient's Landing:",
+      "source": "pre_existing",
+      "original_cz": "Shromážděte následující z okolí Ancient's Landing:"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_040_Shop_Group03_StoryDescription",
+      "en": "Most of the necessary repairs are for the interior, and while Scrooge fixes the exterior, you get him the materials to make over the inside of the shop.",
+      "cz": "Většina nezbytných oprav se týká interiéru a zatímco Scrooge opravuje exteriér, vy mu seženete materiál na jeho obložení vnitřku obchodu.",
+      "source": "pre_existing",
+      "original_cz": "Většina nezbytných oprav se týká interiéru a zatímco Scrooge opravuje exteriér, vy mu seženete materiál na jeho obložení vnitřku obchodu."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_040_Shop_Group04_Step04_Unlock01_StepDescription",
+      "en": "Unlock Scrooge's Store in Ancient's Landing by interacting with the Scrooge McDuck Sign beside it.",
+      "cz": "Odemkněte Scroogův obchod v Ancient's Landing interakcí s cedulí Scrooge McDucka vedle něj.",
+      "source": "pre_existing",
+      "original_cz": "Odemkněte Scroogův obchod v Ancient's Landing interakcí s cedulí Scrooge McDucka vedle něj."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_040_Shop_Group04_StoryDescription",
+      "en": "With everything on hand, Scrooge rewards you with the honor of opening the shop to everyone.",
+      "cz": "Se vším po ruce vás Scrooge odmění ctí, že otevřete obchod všem.",
+      "source": "pre_existing",
+      "original_cz": "Se vším po ruce vás Scrooge odmění ctí, že otevřete obchod všem."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_040_Shop_Group03_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What do you need?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What do you need?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What do you need?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_040_Shop_Group04_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What's next?"
+    }
+  ],
+  "ExpansionMain_Expansion01/MRQS_E01_050_Settling.locbin": [
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_AvailableDescription",
+      "en": "Strange Time Rifts are starting to appear around the Valley, and a Mysterious Device has appeared near the Wishing Well in the Plaza...",
+      "cz": "V údolí se začínají objevovat podivné časové trhliny a poblíž Studny přání na náměstí se objevilo záhadné zařízení...",
+      "source": "pre_existing",
+      "original_cz": "V údolí se začínají objevovat podivné časové trhliny a poblíž Studny přání na náměstí se objevilo záhadné zařízení..."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_DisplayName",
+      "en": "The Secrets of Eternity Isle",
+      "cz": "Tajemství ostrova Eternity",
+      "source": "pre_existing",
+      "original_cz": "Tajemství ostrova Eternity"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "Use the <ActivityItem>Mysterious Device</ActivityItem> in the corner of the Plaza to talk to Jafar.",
+      "cz": "Použijte <ActivityItem>Záhadné zařízení</ActivityItem> v rohu náměstí a promluvte si s Jafarem.",
+      "source": "pre_existing",
+      "original_cz": "Použijte <ActivityItem>Záhadné zařízení</ActivityItem> v rohu náměstí a promluvte si s Jafarem."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_Group02_Step02_Conditional01_StepDescription",
+      "en": "Complete \"The Port of Many Worlds\" Quest to proceed to Eternity Isle.",
+      "cz": "Dokončete úkol „Přístav mnoha světů“ a pokračujte na Ostrov věčnosti.",
+      "source": "pre_existing",
+      "original_cz": "Dokončete úkol „Přístav mnoha světů“ a pokračujte na Ostrov věčnosti."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_Group03_Step03_VisitArea01_StepDescription",
+      "en": "Go to the Stardust Port in the Dream Castle.",
+      "cz": "Jděte do Hvězdného přístavu v Hradě snů.",
+      "source": "pre_existing",
+      "original_cz": "Jděte do Hvězdného přístavu v Hradě snů."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_Group03_StoryDescription",
+      "en": "You discover Jafar, who introduces himself as the Royal Vizier of Dreamlight Valley before explaining that he is stranded in a place called Eternity Isle, sundered from the Valley by some sort of magical incident. You'll need to find a way to reach Eternity Isle to set things right.",
+      "cz": "Objevíte Džafara, který se představí jako královský vezír z Údolí snů a vysvětlí, že uvízl na místě zvaném Ostrov věčnosti, odděleném od Údolí nějakou magickou událostí. Abyste to napravili, budete muset najít způsob, jak se na Ostrov věčnosti dostat.",
+      "source": "pre_existing",
+      "original_cz": "Objevíte Džafara, který se představí jako královský vezír z Údolí snů a vysvětlí, že uvízl na místě zvaném Ostrov věčnosti, odděleném od Údolí nějakou magickou událostí. Abyste to napravili, budete muset najít způsob, jak se na Ostrov věčnosti dostat."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_Group04_Step04_VisitArea02_StepDescription",
+      "en": "Interact with the <ActivityItem>Wooden Boat</ActivityItem> in the Stardust Port to travel to Eternity Isle.",
+      "cz": "Interakcí s <ActivityItem>dřevěným člunem</ActivityItem> v Přístavu Stardust cestujte na Ostrov věčnosti.",
+      "source": "pre_existing",
+      "original_cz": "Interakcí s <ActivityItem>dřevěným člunem</ActivityItem> v Přístavu Stardust cestujte na Ostrov věčnosti."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_Group05_Step05_VisitArea03_StepDescription",
+      "en": "Find the <ActivityItem>Hologram Station</ActivityItem> that will allow you to speak to Jafar.",
+      "cz": "Najděte <ActivityItem>Hologramovou stanici</ActivityItem>, která vám umožní mluvit s Jafarem.",
+      "source": "pre_existing",
+      "original_cz": "Najděte <ActivityItem>Hologramovou stanici</ActivityItem>, která vám umožní mluvit s Jafarem."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_Group05_StepDescription",
+      "en": "Welcome to Eternity Isle!",
+      "cz": "Vítejte na Ostrově Věčnosti!",
+      "source": "pre_existing",
+      "original_cz": "Vítejte na Ostrově Věčnosti!"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_Group06_Step06_TalkToCharacter02_StepDescription",
+      "en": "Interact with the <ActivityItem>Hologram Station</ActivityItem> to talk to Jafar.",
+      "cz": "Interakcí s <ActivityItem>Hologramovou stanicí</ActivityItem> si můžete promluvit s Jafarem.",
+      "source": "pre_existing",
+      "original_cz": "Interakcí s <ActivityItem>Hologramovou stanicí</ActivityItem> si můžete promluvit s Jafarem."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_Group07_Step07_StepDescription",
+      "en": "(Clear away the <ActivityItem>Splinters of Fate</ActivityItem> by approaching them and pressing {input_interact}!)",
+      "cz": "(Odstraňte <ActivityItem>Úlomky osudu</ActivityItem> tak, že se k nim přiblížíte a stisknete {input_interact}!)",
+      "source": "pre_existing",
+      "original_cz": "(Odstraňte <ActivityItem>Úlomky osudu</ActivityItem> tak, že se k nim přiblížíte a stisknete {input_interact}!)"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_Group07_StepDescription",
+      "en": "Reach the <ActivityItem>Ancient Gate</ActivityItem> that leads deeper into Eternity Isle.",
+      "cz": "Dosáhněte <ActivityItem>Starověké brány</ActivityItem>, která vede hlouběji do Eternity Isle.",
+      "source": "pre_existing",
+      "original_cz": "Dosáhněte <ActivityItem>Starověké brány</ActivityItem>, která vede hlouběji do Eternity Isle."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_Group07_StoryDescription",
+      "en": "Upon your arrival, Jafar directs you to speak to him near a gate that leads deeper into Eternity Isle. But first you need to deal with some pesky Splinters of Fate blocking the way...",
+      "cz": "Po vašem příjezdu vám Jafar dá pokyn, abyste si s ním promluvili poblíž brány, která vede hlouběji do Eternity Isle. Nejdříve se ale musíte vypořádat s otravnými Třískami osudu, které vám blokují cestu...",
+      "source": "pre_existing",
+      "original_cz": "Po vašem příjezdu vám Jafar dá pokyn, abyste si s ním promluvili poblíž brány, která vede hlouběji do Eternity Isle. Nejdříve se ale musíte vypořádat s otravnými Třískami osudu, které vám blokují cestu..."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_Group08_Step08_TalkToCharacter03_StepDescription",
+      "en": "Talk to Jafar using the <ActivityItem>Hologram Station</ActivityItem> beside the Ancient Gate.",
+      "cz": "Promluvte si s Jafarem pomocí <ActivityItem>Hologramové stanice</ActivityItem> vedle Starověké brány.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Jafarem pomocí <ActivityItem>Hologramové stanice</ActivityItem> vedle Starověké brány."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_Group09_StepDescription",
+      "en": "Find the pieces of the <ActivityItem>Ancient Sphere</ActivityItem> as you explore Ancient's Landing.",
+      "cz": "Při prozkoumávání Ancient's Landing najděte části <ActivityItem>Ancient Sphere</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Při prozkoumávání Ancient's Landing najděte části <ActivityItem>Ancient Sphere</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_Group09_StoryDescription",
+      "en": "He explains to you that the gate can only be opened if a broken sphere that once powered it is restored to its rightful place. You go to find its broken parts. Perhaps you'll uncover more as you begin to explore this place...",
+      "cz": "Vysvětlí vám, že bránu lze otevřít pouze tehdy, když se rozbitá koule, která ji kdysi poháněla, vrátí na své místo. Vydáte se hledat její rozbité části. Možná objevíte více, až začnete toto místo prozkoumávat...",
+      "source": "pre_existing",
+      "original_cz": "Vysvětlí vám, že bránu lze otevřít pouze tehdy, když se rozbitá koule, která ji kdysi poháněla, vrátí na své místo. Vydáte se hledat její rozbité části. Možná objevíte více, až začnete toto místo prozkoumávat..."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_Group10_Step10_CraftItem01_StepDescription",
+      "en": "Repair the <ActivityItem>Ancient Sphere</ActivityItem> at a Crafting Station.",
+      "cz": "Opravte <ActivityItem>Starověkou kouli</ActivityItem> v řemeslné stanici.",
+      "source": "pre_existing",
+      "original_cz": "Opravte <ActivityItem>Starověkou kouli</ActivityItem> v řemeslné stanici."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_Group11_Step11_FillKeyhole01_StepDescription",
+      "en": "Put the <ActivityItem>Ancient Sphere</ActivityItem> in the receptacle next to the Ancient Gate.",
+      "cz": "Vložte <ActivityItem>Starověkou kouli</ActivityItem> do schránky vedle Starověké brány.",
+      "source": "pre_existing",
+      "original_cz": "Vložte <ActivityItem>Starověkou kouli</ActivityItem> do schránky vedle Starověké brány."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_Group12_Step12_Unlock01_StepDescription",
+      "en": "Open the Ancient Gate.",
+      "cz": "Otevřete Starověkou bránu.",
+      "source": "pre_existing",
+      "original_cz": "Otevřete Starověkou bránu."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_Group13_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Where am I going?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Where am I going?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Where am I going?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_Group13_Step13_VisitArea05_StepDescription",
+      "en": "Go deeper into Eternity Isle.",
+      "cz": "Vydejte se hlouběji do Eternity Isle.",
+      "source": "pre_existing",
+      "original_cz": "Vydejte se hlouběji do Eternity Isle."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_Group14_Step14_VisitArea06_StepDescription",
+      "en": "Meet Jafar by the broken bridge in the Courtyard area.",
+      "cz": "Setkávejte se s Jafarem u rozbitého mostu v oblasti nádvoří.",
+      "source": "pre_existing",
+      "original_cz": "Setkávejte se s Jafarem u rozbitého mostu v oblasti nádvoří."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_Group14_StoryDescription",
+      "en": "The gate is open, and it's time to explore more of Eternity Isle.",
+      "cz": "Brána je otevřená a je čas prozkoumat více z Eternity Isle.",
+      "source": "pre_existing",
+      "original_cz": "Brána je otevřená a je čas prozkoumat více z Eternity Isle."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_Group15_Step15_TalkToCharacter04_StepDescription",
+      "en": "Talk to Jafar at the <Lore>Hologram Station</Lore>.",
+      "cz": "Promluvte si s Jafarem v <Lore>Hologramové stanici</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Jafarem v <Lore>Hologramové stanici</Lore>."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_Group15_StoryDescription",
+      "en": "Jafar is waiting for you by the broken bridge. Beyond him lies a desert and a jungle and some sort of strange magical disruption in time. Maybe now he'll tell you more about how this happened.",
+      "cz": "Džafar na tebe čeká u rozbitého mostu. Za ním leží poušť, džungle a jakési podivné magické narušení času. Možná ti teď poví víc o tom, jak se to stalo.",
+      "source": "pre_existing",
+      "original_cz": "Džafar na tebe čeká u rozbitého mostu. Za ním leží poušť, džungle a jakési podivné magické narušení času. Možná ti teď poví víc o tom, jak se to stalo."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_Group03_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Where should I go?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Where should I go?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Where should I go?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_Group04_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What's next?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_Group09_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What do you need?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What do you need?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What do you need?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_Group10_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What's next?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_Group11_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How can I help?",
+      "cz": "<smallcaps>{title}</smallcaps><br>How can I help?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>How can I help?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_050_Settling_Group14_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Where am I going?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Where am I going?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Where am I going?"
+    }
+  ],
+  "ExpansionMain_Expansion01/MRQS_E01_060_Hourglass.locbin": [
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Any_CompletedRequestDescription",
+      "en": "Talk to Jafar at the <ActivityItem>Hologram Station</ActivityItem>.",
+      "cz": "Promluvte si s Jafarem v <ActivityItem>Hologramové stanici</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Jafarem v <ActivityItem>Hologramové stanici</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_AvailableDescription",
+      "en": "If you want to stop the Time Rifts from spreading, you'll need to fix the bridge. To do that, you'll need a new Royal Tool... the Hourglass. Jafar told you it's guarded by a \"pesky metal nuisance.\" You'll have to search for it in Ancient's Landing.",
+      "cz": "Chcete-li zastavit šíření Časových trhlin, budete muset opravit most. K tomu budete potřebovat nový královský nástroj... přesýpací hodiny. Jafar vám řekl, že je střeží „otravný kovový netvor“. Budete ho muset hledat v Ancient's Landing.",
+      "source": "pre_existing",
+      "original_cz": "Chcete-li zastavit šíření Časových trhlin, budete muset opravit most. K tomu budete potřebovat nový královský nástroj... přesýpací hodiny. Jafar vám řekl, že je střeží „otravný kovový netvor“. Budete ho muset hledat v Ancient's Landing."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_CompletedStoryDescription",
+      "en": "Armed with the new Royal Tool, you go back to the bridge to learn what you need to do next.",
+      "cz": "Vyzbrojeni novým královským nástrojem se vracíte na můstek, abyste se dozvěděli, co máte dělat dál.",
+      "source": "pre_existing",
+      "original_cz": "Vyzbrojeni novým královským nástrojem se vracíte na můstek, abyste se dozvěděli, co máte dělat dál."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_DisplayName",
+      "en": "The Flying Metal Nuisance",
+      "cz": "Létající kovová příšera",
+      "source": "pre_existing",
+      "original_cz": "Létající kovová příšera"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group01_Step01_VisitArea01_StepDescription",
+      "en": "Search around Ancient's Landing for the \"flying metal nuisance\" to get the Royal Hourglass.",
+      "cz": "Hledejte v Ancient's Landing „létající kovovou přítěž“, abyste získali Královské přesýpací hodiny.",
+      "source": "pre_existing",
+      "original_cz": "Hledejte v Ancient's Landing „létající kovovou přítěž“, abyste získali Královské přesýpací hodiny."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Talk to the \"flying metal nuisance.\"",
+      "cz": "Promluvte si s „létajícím kovovým obtěžujícím“.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s „létajícím kovovým obtěžujícím“."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group02_StoryDescription",
+      "en": "You ran into a hostile robot. Maybe you should try to talk to her...",
+      "cz": "Narazil jsi na nepřátelského robota. Možná bys s ním měl zkusit promluvit...",
+      "source": "pre_existing",
+      "original_cz": "Narazil jsi na nepřátelského robota. Možná bys s ním měl zkusit promluvit..."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group03_Step03_TalkToCharacter02_StepDescription",
+      "en": "Talk to Jafar at one of the <ActivityItem>Hologram Stations</ActivityItem> around Ancient's Landing.",
+      "cz": "Promluvte si s Jafarem v jedné z <ActivityItem>hologramových stanic</ActivityItem> v okolí Ancient's Landing.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Jafarem v jedné z <ActivityItem>hologramových stanic</ActivityItem> v okolí Ancient's Landing."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group04_Step04_VisitArea02_StepDescription",
+      "en": "Go inside EVE's House in Ancient's Landing.",
+      "cz": "Vstupte do Evina domu v Ancient's Landing.",
+      "source": "pre_existing",
+      "original_cz": "Vstupte do Evina domu v Ancient's Landing."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group04_StoryDescription",
+      "en": "You run into EVE, a little robot with a lot of determination. She's not about to hand over the Hourglass to just anyone. Jafar suggests you search EVE's House to find some way to make her more friendly with you.",
+      "cz": "Narazíte na EVE, malého robota s velkým odhodláním. Nehodlá předat Přesýpací hodiny jen tak někomu. Jafar vám navrhne, abyste prohledali EVEIN dům a našli nějaký způsob, jak si ji k sobě více spřátelit.",
+      "source": "pre_existing",
+      "original_cz": "Narazíte na EVE, malého robota s velkým odhodláním. Nehodlá předat Přesýpací hodiny jen tak někomu. Jafar vám navrhne, abyste prohledali EVEIN dům a našli nějaký způsob, jak si ji k sobě více spřátelit."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group05_Step05_PickUp01_StepDescription",
+      "en": "Remove the <ActivityItem>Piles of Junk</ActivityItem> inside EVE's House to find a clue.",
+      "cz": "Odstraňte <ActivityItem>Hromady harampádí</ActivityItem> uvnitř EVEINA domu a najděte stopu.",
+      "source": "pre_existing",
+      "original_cz": "Odstraňte <ActivityItem>Hromady harampádí</ActivityItem> uvnitř EVEINA domu a najděte stopu."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group06_Step06_Unlock01_StepDescription",
+      "en": "Pick up the paper on the ground.",
+      "cz": "Seberte papír na zemi.",
+      "source": "pre_existing",
+      "original_cz": "Seberte papír na zemi."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group07_Step07_TalkToCharacter03_StepDescription",
+      "en": "Return to Jafar at one of the <ActivityItem>Hologram Stations</ActivityItem> around Ancient's Landing.",
+      "cz": "Vraťte se za Jafarem na jednu z <ActivityItem>Hologramových stanic</ActivityItem> v okolí Ancient's Landing.",
+      "source": "pre_existing",
+      "original_cz": "Vraťte se za Jafarem na jednu z <ActivityItem>Hologramových stanic</ActivityItem> v okolí Ancient's Landing."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group07_StoryDescription",
+      "en": "Your search yields a Memory showing EVE and someone dressed in a Robot Costume sharing what looks like a meal in an unknown location. You go back to Jafar.",
+      "cz": "Vaše hledání vám vrátí vzpomínku, která ukazuje EVE a někoho oblečeného v robotickém kostýmu, jak sdílejí něco, co vypadá jako jídlo, na neznámém místě. Vraťte se k Jafarovi.",
+      "source": "pre_existing",
+      "original_cz": "Vaše hledání vám vrátí vzpomínku, která ukazuje EVE a někoho oblečeného v robotickém kostýmu, jak sdílejí něco, co vypadá jako jídlo, na neznámém místě. Vraťte se k Jafarovi."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group08_Step08_DressUp01_StepDescription",
+      "en": "The <ActivityItem>Robot Hat</ActivityItem>.",
+      "cz": "<ActivityItem>Robotický klobouk</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Robotický klobouk</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group08_Step08_DressUp02_StepDescription",
+      "en": "The <ActivityItem>Robot Costume</ActivityItem>.",
+      "cz": "<ActivityItem>Kostým robota</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Kostým robota</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group08_Step08_StepDescription",
+      "en": "Dress up using the items you found in the hidden area:",
+      "cz": "Oblékněte se pomocí předmětů, které jste našli ve skryté oblasti:",
+      "source": "pre_existing",
+      "original_cz": "Oblékněte se pomocí předmětů, které jste našli ve skryté oblasti:"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group09_Step09_TalkToCharacter04_StepDescription",
+      "en": "Talk to EVE while wearing the <ActivityItem>Robot Hat</ActivityItem> and <ActivityItem>Robot Costume</ActivityItem>.",
+      "cz": "Promluvte si s EVE, když máte na sobě <ActivityItem>robotí klobouk</ActivityItem> a <ActivityItem>robotí kostým</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s EVE, když máte na sobě <ActivityItem>robotí klobouk</ActivityItem> a <ActivityItem>robotí kostým</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group09_StoryDescription",
+      "en": "After finding the costume, you return to EVE, hoping to allay her suspicions.",
+      "cz": "Po nalezení kostýmu se vracíte k EVE v naději, že rozptýlíte její podezření.",
+      "source": "pre_existing",
+      "original_cz": "Po nalezení kostýmu se vracíte k EVE v naději, že rozptýlíte její podezření."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group10_Step10_Conditional01_StepDescription",
+      "en": "(Find the broken half Goofy's Stall Sign in Ancient's Landing, then complete the \"Give Me a Sign\" Quest.)",
+      "cz": "(Najděte rozbitou polovinu cedule Goofyho stánku v Ancient's Landing a poté splňte úkol „Dej mi znamení“.)",
+      "source": "pre_existing",
+      "original_cz": "(Najděte rozbitou polovinu cedule Goofyho stánku v Ancient's Landing a poté splňte úkol „Dej mi znamení“.)"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group10_StepDescription",
+      "en": "Unlock Goofy's Stall in Ancient's Landing.",
+      "cz": "Odemkněte Goofyho stánek v Ancient's Landing.",
+      "source": "pre_existing",
+      "original_cz": "Odemkněte Goofyho stánek v Ancient's Landing."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group11_Step11_CookMeal01_StepDescription",
+      "en": "Cook the <ActivityItem>Best Fish Forever</ActivityItem> for EVE.",
+      "cz": "Uvařte <ActivityItem>Nejlepší rybu navždy</ActivityItem> pro EVE.",
+      "source": "pre_existing",
+      "original_cz": "Uvařte <ActivityItem>Nejlepší rybu navždy</ActivityItem> pro EVE."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group12_Step12_BringItem01_StepDescription",
+      "en": "Make sure the <ActivityItem>Best Fish Forever</ActivityItem> is in your Inventory.",
+      "cz": "Ujistěte se, že máte ve svém inventáři <ActivityItem>Nejlepší ryba navždy</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte ve svém inventáři <ActivityItem>Nejlepší ryba navždy</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group12_Step12_ReadyDescription",
+      "en": "Bring the food to EVE.",
+      "cz": "Přineste jídlo EVE.",
+      "source": "pre_existing",
+      "original_cz": "Přineste jídlo EVE."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group13_Step13_Unlock02_StepDescription",
+      "en": "Pick up the <ActivityItem>Royal Hourglass</ActivityItem>.",
+      "cz": "Seberte <ActivityItem>Královské přesýpací hodiny</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Seberte <ActivityItem>Královské přesýpací hodiny</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group13_StoryDescription",
+      "en": "EVE doesn't see you as a threat anymore, and lets you access the Hourglass.",
+      "cz": "EVE vás už nepovažuje za hrozbu a umožní vám přístup k přesýpacím hodinám.",
+      "source": "pre_existing",
+      "original_cz": "EVE vás už nepovažuje za hrozbu a umožní vám přístup k přesýpacím hodinám."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group14_Step14_VisitArea03_StepDescription",
+      "en": "Return to the Broken Bridge.",
+      "cz": "Vraťte se k Zlomenému mostu.",
+      "source": "pre_existing",
+      "original_cz": "Vraťte se k Zlomenému mostu."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group15_Step15_VisitArea04_StepDescription",
+      "en": "Look for the hidden area shown in the Memory.",
+      "cz": "Hledejte skrytou oblast zobrazenou v paměti.",
+      "source": "pre_existing",
+      "original_cz": "Hledejte skrytou oblast zobrazenou v paměti."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group17_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What's next?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group17_Step17_ConsumeItem01_StepDescription",
+      "en": "Investigate the <ActivityItem>Best Fish Forever Recipe</ActivityItem> in your Inventory.",
+      "cz": "Prozkoumejte <ActivityItem>Nejlepší recept na ryby navždy</ActivityItem> ve svém inventáři.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte <ActivityItem>Nejlepší recept na ryby navždy</ActivityItem> ve svém inventáři."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group18_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What's next?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group18_Step18_Possess03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group18_Step18_Possess04_StepDescription",
+      "en": "{ItemName}. (Some of the white flowers around here might be cumin...)",
+      "cz": "{ItemName}. (Některé z bílých květin tady kolem by mohly být kmín...)",
+      "source": "pre_existing",
+      "original_cz": "{ItemName}. (Některé z bílých květin tady kolem by mohly být kmín...)"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group18_Step18_Possess05_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group18_Step18_Possess06_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group18_Step18_StepDescription",
+      "en": "Gather the following items from Ancient's Landing to make the recipe:",
+      "cz": "Shromážděte následující položky z Ancient's Landing pro přípravu receptu:",
+      "source": "pre_existing",
+      "original_cz": "Shromážděte následující položky z Ancient's Landing pro přípravu receptu:"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group19_Step19_StepDescription",
+      "en": "Search for both parts of the <ActivityItem>Robot Costume</ActivityItem> in the secret area behind the waterfall.",
+      "cz": "V tajné oblasti za vodopádem vyhledejte obě části <ActivityItem>robotického kostýmu</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "V tajné oblasti za vodopádem vyhledejte obě části <ActivityItem>robotického kostýmu</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group01_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What am I looking for?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What am I looking for?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What am I looking for?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group04_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How can I help?",
+      "cz": "<smallcaps>{title}</smallcaps><br>How can I help?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>How can I help?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group06_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What's next?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group10_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What's next?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group11_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What's next?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group12_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What's next?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group13_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What's next?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_060_Hourglass_Group14_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Where should I go?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Where should I go?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Where should I go?"
+    }
+  ],
+  "ExpansionMain_Expansion01/MRQS_E01_070_TimeStone.locbin": [
+    {
+      "key": "Story!Expansion01!MRQS_E01_070_TimeStone_AvailableDescription",
+      "en": "It's time to start your quest for the first of the three Jewels of Time.",
+      "cz": "Je čas začít s hledáním prvního ze tří Klenotů času.",
+      "source": "pre_existing",
+      "original_cz": "Je čas začít s hledáním prvního ze tří Klenotů času."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_070_TimeStone_DisplayName",
+      "en": "The Sands in the Hourglass",
+      "cz": "Písky v přesýpacích hodinách",
+      "source": "pre_existing",
+      "original_cz": "Písky v přesýpacích hodinách"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_070_TimeStone_Group01_Step01_StepDescription",
+      "en": "(Clear away the <ActivityItem>Swirling Sands</ActivityItem> by equipping your Hourglass and pressing {input_usetool} near them!)",
+      "cz": "(Odstraňte <ActivityItem>Vířící písky</ActivityItem> vybavením se přesýpacími hodinami a stisknutím {input_usetool} v jejich blízkosti!)",
+      "source": "pre_existing",
+      "original_cz": "(Odstraňte <ActivityItem>Vířící písky</ActivityItem> vybavením se přesýpacími hodinami a stisknutím {input_usetool} v jejich blízkosti!)"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_070_TimeStone_Group01_StepDescription",
+      "en": "Reach the Secluded Beach down the passage to the right of the broken bridge.",
+      "cz": "Dostaňte se k Odlehlé pláži chodbou napravo od rozbitého mostu.",
+      "source": "pre_existing",
+      "original_cz": "Dostaňte se k Odlehlé pláži chodbou napravo od rozbitého mostu."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_070_TimeStone_Group01_StoryDescription",
+      "en": "You first need to visit the Secluded Beach where the Statue holding the Jewel of Time is standing.",
+      "cz": "Nejprve musíte navštívit Odlehlou pláž, kde stojí socha držící Drahokam času.",
+      "source": "pre_existing",
+      "original_cz": "Nejprve musíte navštívit Odlehlou pláž, kde stojí socha držící Drahokam času."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_070_TimeStone_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Talk to Jafar at the <ActivityItem>Hologram Station</ActivityItem>.",
+      "cz": "Promluvte si s Jafarem v <ActivityItem>Hologramové stanici</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Jafarem v <ActivityItem>Hologramové stanici</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_070_TimeStone_Group03_Step03_Possess01_StepDescription",
+      "en": "<ActivityItem>Ancient Statue Fragments</ActivityItem>.",
+      "cz": "<ActivityItem>Fragmenty starověké sochy</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Fragmenty starověké sochy</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_070_TimeStone_Group03_Step03_StepDescription",
+      "en": "Use your Hourglass to search the Secluded Beach for what you need to repair the Statue:",
+      "cz": "Použijte přesýpací hodiny k prohledání Odlehlé pláže a zjistěte, co potřebujete k opravě sochy:",
+      "source": "pre_existing",
+      "original_cz": "Použijte přesýpací hodiny k prohledání Odlehlé pláže a zjistěte, co potřebujete k opravě sochy:"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_070_TimeStone_Group03_StepDescription",
+      "en": "(Equip your Hourglass and search for lost treasures by pressing {input_usetool}!)",
+      "cz": "(Vybavte se přesýpacími hodinami a hledejte ztracené poklady stisknutím {input_usetool}!)",
+      "source": "pre_existing",
+      "original_cz": "(Vybavte se přesýpacími hodinami a hledejte ztracené poklady stisknutím {input_usetool}!)"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_070_TimeStone_Group03_StoryDescription",
+      "en": "Now that you know what materials you need, you'll have to gather them and craft a new arm for the Statue.",
+      "cz": "Nyní, když víte, jaké materiály potřebujete, budete je muset shromáždit a vyrobit novou ruku pro sochu.",
+      "source": "pre_existing",
+      "original_cz": "Nyní, když víte, jaké materiály potřebujete, budete je muset shromáždit a vyrobit novou ruku pro sochu."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_070_TimeStone_Group04_Step04_Possess02_StepDescription",
+      "en": "<ActivityItem>Ancient Plates</ActivityItem>.",
+      "cz": "<ActivityItem>Ancient Plates</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Ancient Plates</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_070_TimeStone_Group04_StepDescription",
+      "en": "Use your Hourglass to search for more materials lost in time around Ancient's Landing:",
+      "cz": "Použijte své přesýpací hodiny k hledání dalších materiálů ztracených v čase kolem Ancient's Landing:",
+      "source": "pre_existing",
+      "original_cz": "Použijte své přesýpací hodiny k hledání dalších materiálů ztracených v čase kolem Ancient's Landing:"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_070_TimeStone_Group05_Step05_VisitArea02_StepDescription",
+      "en": "Return to Jafar on the Secluded Beach.",
+      "cz": "Vraťte se k Jafarovi na odlehlou pláž.",
+      "source": "pre_existing",
+      "original_cz": "Vraťte se k Jafarovi na odlehlou pláž."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_070_TimeStone_Group06_Step06_TalkToCharacter02_StepDescription",
+      "en": "Talk to Jafar.",
+      "cz": "Promluvte si s Jafarem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Jafarem."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_070_TimeStone_Group07_Step07_ConsumeItem01_StepDescription",
+      "en": "Use the {ItemName} in your Inventory.",
+      "cz": "Použijte {ItemName} ve svém inventáři.",
+      "source": "pre_existing",
+      "original_cz": "Použijte {ItemName} ve svém inventáři."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_070_TimeStone_Group08_Step08_CraftItem01_StepDescription",
+      "en": "Craft the {ItemName} at the Timebending Table on the Secluded Beach.",
+      "cz": "Vyrobte předmět {ItemName} u stolu pro ohýbání času na odlehlé pláži.",
+      "source": "pre_existing",
+      "original_cz": "Vyrobte předmět {ItemName} u stolu pro ohýbání času na odlehlé pláži."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_070_TimeStone_Group08_StoryDescription",
+      "en": "Once the material is gathered, Jafar tells you that you need to use a Timebending Table to put the arm back together.",
+      "cz": "Jakmile je materiál shromážděn, Jafar vám řekne, že k opětovnému sestavení paže potřebujete použít Stůl ohýbání času.",
+      "source": "pre_existing",
+      "original_cz": "Jakmile je materiál shromážděn, Jafar vám řekne, že k opětovnému sestavení paže potřebujete použít Stůl ohýbání času."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_070_TimeStone_Group09_Step09_FillKeyhole01_StepDescription",
+      "en": "Put the <ActivityItem>Statue's Arm</ActivityItem> back in its socket by interacting with the statue on the Secluded Beach.",
+      "cz": "Vložte <ActivityItem>Paži sochy</ActivityItem> zpět do její objímky interakcí se sochou na Odlehlé pláži.",
+      "source": "pre_existing",
+      "original_cz": "Vložte <ActivityItem>Paži sochy</ActivityItem> zpět do její objímky interakcí se sochou na Odlehlé pláži."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_070_TimeStone_Group10_Step10_VisitArea03_StepDescription",
+      "en": "Return to the broken bridge in the Courtyard area.",
+      "cz": "Vraťte se k rozbitému mostu v oblasti nádvoří.",
+      "source": "pre_existing",
+      "original_cz": "Vraťte se k rozbitému mostu v oblasti nádvoří."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_070_TimeStone_Group11_Step11_TalkToCharacter03_StepDescription",
+      "en": "Talk to Jafar using the Hologram Station.",
+      "cz": "Promluvte si s Jafarem pomocí hologramové stanice.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Jafarem pomocí hologramové stanice."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_070_TimeStone_Group12_Step12_StepDescription",
+      "en": "(Search for Mist with your Hourglass, or access the Dreamlight menu and investigate your new <Lore>Mist Duties</Lore> by pressing {input_mainmenu}.)",
+      "cz": "(Vyhledejte Mlhu pomocí přesýpacích hodin nebo přejděte do nabídky Dreamlight a prozkoumejte své nové <Lore>Povinnosti v Mlze</Lore> stisknutím {input_mainmenu}.)",
+      "source": "pre_existing",
+      "original_cz": "(Vyhledejte Mlhu pomocí přesýpacích hodin nebo přejděte do nabídky Dreamlight a prozkoumejte své nové <Lore>Povinnosti v Mlze</Lore> stisknutím {input_mainmenu}.)"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_070_TimeStone_Group12_Step12_Unlock01_StepDescription",
+      "en": "Repair the broken bridge in the Courtyard area by using <ActivityItem>Mist</ActivityItem>.",
+      "cz": "Opravte rozbitý most v oblasti nádvoří pomocí <ActivityItem>Mlha</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Opravte rozbitý most v oblasti nádvoří pomocí <ActivityItem>Mlha</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_070_TimeStone_Group12_StoryDescription",
+      "en": "With the Jewel of Time now in your possession, you use it to make your Hourglass even more powerful. Now you're ready to repair the bridge.",
+      "cz": "S Drahokamem času, který nyní vlastníte, ho použijete k tomu, abyste své přesýpací hodiny ještě více zesílili. Nyní jste připraveni opravit most.",
+      "source": "pre_existing",
+      "original_cz": "S Drahokamem času, který nyní vlastníte, ho použijete k tomu, abyste své přesýpací hodiny ještě více zesílili. Nyní jste připraveni opravit most."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_070_TimeStone_Group01_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Where should I go?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Where should I go?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Where should I go?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_070_TimeStone_Group05_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What do you need?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What do you need?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What do you need?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_070_TimeStone_Group07_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What's next?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_070_TimeStone_Group08_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What do you need?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What do you need?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What do you need?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_070_TimeStone_Group09_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What's next?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_070_TimeStone_Group10_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What do you need?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What do you need?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What do you need?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_070_TimeStone_Group12_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What do you need?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What do you need?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What do you need?"
+    }
+  ],
+  "ExpansionMain_Expansion01/MRQS_E01_080_DesertScarab.locbin": [
+    {
+      "key": "Story!Expansion01!MRQS_E01_080_DesertScarab_Any_CompletedRequestDescription",
+      "en": "Check on Gaston and \"LeFou.\"",
+      "cz": "Zkontrolujte Gastona a „LeFoua“.",
+      "source": "pre_existing",
+      "original_cz": "Zkontrolujte Gastona a „LeFoua“."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_080_DesertScarab_AvailableDescription",
+      "en": "Jafar mentioned someone in the Glittering Dunes could help you out.",
+      "cz": "Jafar zmínil, že by ti někdo v Třpytivých dunách mohl pomoct.",
+      "source": "pre_existing",
+      "original_cz": "Jafar zmínil, že by ti někdo v Třpytivých dunách mohl pomoct."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_080_DesertScarab_CompletedStoryDescription",
+      "en": "The mystery of Coconut LeFou has been solved and the missing Scarab piece located... but how is Gaston dealing with this revelation?",
+      "cz": "Záhada Coconut LeFou byla vyřešena a chybějící kousek Skarabea nalezen... ale jak se s tímto odhalením vyrovnává Gaston?",
+      "source": "pre_existing",
+      "original_cz": "Záhada Coconut LeFou byla vyřešena a chybějící kousek Skarabea nalezen... ale jak se s tímto odhalením vyrovnává Gaston?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_080_DesertScarab_DisplayName",
+      "en": "The Wanderer of the Dunes",
+      "cz": "Poutník z dun",
+      "source": "pre_existing",
+      "original_cz": "Poutník z dun"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_080_DesertScarab_Group01_Step01_BringItem01_StepDescription",
+      "en": "Green Spiky-Leafed Plant?",
+      "cz": "Zelená rostlina s ostnatými listy?",
+      "source": "pre_existing",
+      "original_cz": "Zelená rostlina s ostnatými listy?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_080_DesertScarab_Group01_Step01_BringItem02_StepDescription",
+      "en": "Flexing Spider-like Thing?",
+      "cz": "Ohýbající se pavoukovitá věc?",
+      "source": "pre_existing",
+      "original_cz": "Ohýbající se pavoukovitá věc?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_080_DesertScarab_Group01_Step01_BringItem03_StepDescription",
+      "en": "Sweet Brown Raisin Things?",
+      "cz": "Sladké hnědé rozinkové věci?",
+      "source": "pre_existing",
+      "original_cz": "Sladké hnědé rozinkové věci?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_080_DesertScarab_Group01_Step01_ReadyDescription",
+      "en": "Bring Gaston the food he requested.",
+      "cz": "Přineste Gastonovi jídlo, které si vyžádal.",
+      "source": "pre_existing",
+      "original_cz": "Přineste Gastonovi jídlo, které si vyžádal."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_080_DesertScarab_Group01_Step01_StepDescription",
+      "en": "Gaston is clearly dehydrated. Find what he's looking for around the <ActivityItem>Glittering Dunes</ActivityItem>:",
+      "cz": "Gaston je evidentně dehydrovaný. Najděte, co hledá, v okolí <ActivityItem>Třpytivých dun</ActivityItem>:",
+      "source": "pre_existing",
+      "original_cz": "Gaston je evidentně dehydrovaný. Najděte, co hledá, v okolí <ActivityItem>Třpytivých dun</ActivityItem>:"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_080_DesertScarab_Group01_StoryDescription",
+      "en": "Jafar sent you to find Gaston in the desert, but when you arrived he was trapped, starving and dehydrated!",
+      "cz": "Jafar tě poslal najít Gastona v poušti, ale když jsi dorazil, byl uvězněný, hladovějící a dehydrovaný!",
+      "source": "pre_existing",
+      "original_cz": "Jafar tě poslal najít Gastona v poušti, ale když jsi dorazil, byl uvězněný, hladovějící a dehydrovaný!"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_080_DesertScarab_Group02_Step02_FollowCharacter01_StepDescription",
+      "en": "Follow Gaston to his encampment.",
+      "cz": "Následujte Gastona do jeho tábora.",
+      "source": "pre_existing",
+      "original_cz": "Následujte Gastona do jeho tábora."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_080_DesertScarab_Group02_Step02_FollowCharacter01_TalkToDescription",
+      "en": "Talk to Gaston.",
+      "cz": "Promluvte si s Gastonem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Gastonem."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_080_DesertScarab_Group03_Step03_StepDescription",
+      "en": "Look around the camp for <ActivityItem>clues</ActivityItem> to the vault key's whereabouts.",
+      "cz": "Hledejte v táboře <ActivityItem>stopy</ActivityItem>, kde by se dal najít klíč od trezoru.",
+      "source": "pre_existing",
+      "original_cz": "Hledejte v táboře <ActivityItem>stopy</ActivityItem>, kde by se dal najít klíč od trezoru."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_080_DesertScarab_Group04_Step04_BringItem04_StepDescription",
+      "en": "Paint.",
+      "cz": "Paint.",
+      "source": "pre_existing",
+      "original_cz": "Paint."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_080_DesertScarab_Group04_Step04_BringItem05_StepDescription",
+      "en": "Glue.",
+      "cz": "Glue.",
+      "source": "pre_existing",
+      "original_cz": "Glue."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_080_DesertScarab_Group04_Step04_BringItem06_StepDescription",
+      "en": "Coconut Husks.",
+      "cz": "Kokosové slupky.",
+      "source": "pre_existing",
+      "original_cz": "Kokosové slupky."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_080_DesertScarab_Group04_Step04_ReadyDescription",
+      "en": "Show Gaston what you found.",
+      "cz": "Ukaž Gastonovi, co jsi našel.",
+      "source": "pre_existing",
+      "original_cz": "Ukaž Gastonovi, co jsi našel."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_080_DesertScarab_Group04_Step04_StepDescription",
+      "en": "Make sure your Inventory includes:",
+      "cz": "Ujistěte se, že váš inventář obsahuje:",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že váš inventář obsahuje:"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_080_DesertScarab_Group05_Step05_Unlock01_StepDescription",
+      "en": "(Search for Mist with your Hourglass, or access the Dreamlight menu and investigate your new <Lore>Mist Duties</Lore> by pressing {input_mainmenu}.)",
+      "cz": "(Vyhledejte Mlhu pomocí přesýpacích hodin nebo přejděte do nabídky Dreamlight a prozkoumejte své nové <Lore>Povinnosti v Mlze</Lore> stisknutím {input_mainmenu}.)",
+      "source": "pre_existing",
+      "original_cz": "(Vyhledejte Mlhu pomocí přesýpacích hodin nebo přejděte do nabídky Dreamlight a prozkoumejte své nové <Lore>Povinnosti v Mlze</Lore> stisknutím {input_mainmenu}.)"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_080_DesertScarab_Group05_StepDescription",
+      "en": "Unlock access to the <ActivityItem>Wastes</ActivityItem>.",
+      "cz": "Odemkněte přístup k <ActivityItem>Odpadům</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Odemkněte přístup k <ActivityItem>Odpadům</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_080_DesertScarab_Group05_StoryDescription",
+      "en": "While searching the capital of Gastonia, you've managed to find what looks like an arts and crafts kit! Who does it belong to? Why is it near Gaston's camp?",
+      "cz": "Při prohledávání hlavního města Gastonie se vám podařilo najít něco, co vypadá jako sada pro umění a řemesla! Komu patří? Proč je poblíž Gastonova tábora?",
+      "source": "pre_existing",
+      "original_cz": "Při prohledávání hlavního města Gastonie se vám podařilo najít něco, co vypadá jako sada pro umění a řemesla! Komu patří? Proč je poblíž Gastonova tábora?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_080_DesertScarab_Group06_Step06_FollowCharacter02_StepDescription",
+      "en": "Meet up with Gaston at his <ActivityItem>Shipwreck</ActivityItem> in the Wastes.",
+      "cz": "Setkejte se s Gastonem u jeho <ActivityItem>Vrak lodi</ActivityItem> v Pustinách.",
+      "source": "pre_existing",
+      "original_cz": "Setkejte se s Gastonem u jeho <ActivityItem>Vrak lodi</ActivityItem> v Pustinách."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_080_DesertScarab_Group06_Step06_FollowCharacter02_TalkToDescription",
+      "en": "Talk to Gaston.",
+      "cz": "Promluvte si s Gastonem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Gastonem."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_080_DesertScarab_Group07_Step07_BringItem07_StepDescription",
+      "en": "Search for the vault key in the <Lore>Wastes</Lore> — maybe it fell in the quicksand.",
+      "cz": "Hledejte klíč od trezoru v <Lore>Pustinách</Lore> – možná spadl do tekutého písku.",
+      "source": "pre_existing",
+      "original_cz": "Hledejte klíč od trezoru v <Lore>Pustinách</Lore> – možná spadl do tekutého písku."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_080_DesertScarab_Group07_Step07_ReadyDescription",
+      "en": "You found a LeFou... made of coconuts? Ask Gaston about your disturbing discovery.",
+      "cz": "Našli jste LeFou... vyrobeného z kokosových ořechů? Zeptejte se Gastona na svůj znepokojivý objev.",
+      "source": "pre_existing",
+      "original_cz": "Našli jste LeFou... vyrobeného z kokosových ořechů? Zeptejte se Gastona na svůj znepokojivý objev."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_080_DesertScarab_Group08_Step08_Possess04_StepDescription",
+      "en": "Search for the <ActivityItem>Desert Scarab Piece</ActivityItem> in the Plains using the Hourglass.",
+      "cz": "Vyhledejte <ActivityItem>Pásku pouštního skarabea</ActivityItem> na pláních pomocí přesýpacích hodin.",
+      "source": "pre_existing",
+      "original_cz": "Vyhledejte <ActivityItem>Pásku pouštního skarabea</ActivityItem> na pláních pomocí přesýpacích hodin."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_080_DesertScarab_Group08_StoryDescription",
+      "en": "Your search for the vault key has only turned up a LeFou made of coconuts. Gaston must have gotten quite lonely! The Scarab piece still remains missing and must be somewhere in the Dunes...",
+      "cz": "Při hledání klíče od trezoru jste našli pouze LeFou vyrobeného z kokosových ořechů. Gaston musel být docela osamělý! Figurka Skarabea stále chybí a musí být někde v Dunách...",
+      "source": "pre_existing",
+      "original_cz": "Při hledání klíče od trezoru jste našli pouze LeFou vyrobeného z kokosových ořechů. Gaston musel být docela osamělý! Figurka Skarabea stále chybí a musí být někde v Dunách..."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_080_DesertScarab_Group09_Step09_TalkToCharacter01_StepDescription",
+      "en": "Talk to Jafar at a Hologram Station.",
+      "cz": "Promluvte si s Jafarem na hologramové stanici.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Jafarem na hologramové stanici."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_080_DesertScarab_StartRequestButton",
+      "en": "START REQUEST",
+      "cz": "START REQUEST",
+      "source": "pre_existing",
+      "original_cz": "START REQUEST"
+    }
+  ],
+  "ExpansionMain_Expansion01/MRQS_E01_090_JungleScarab.locbin": [
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_AvailableDescription",
+      "en": "The next piece of the Scarab is likely in the Tangle — maybe Gaston can help shed some light on the situation... if he's managed to move past the whole Coconut LeFou debacle.",
+      "cz": "Další kousek Skarabea je pravděpodobně v Tangle – možná by Gaston mohl pomoci objasnit situaci... pokud se mu podařilo překonat celý ten debakl s Coconut LeFou.",
+      "source": "pre_existing",
+      "original_cz": "Další kousek Skarabea je pravděpodobně v Tangle – možná by Gaston mohl pomoci objasnit situaci... pokud se mu podařilo překonat celý ten debakl s Coconut LeFou."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_DisplayName",
+      "en": "The Wild Tangle's Swarm",
+      "cz": "Roj divoké spleti",
+      "source": "pre_existing",
+      "original_cz": "Roj divoké spleti"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "Check on Gaston.",
+      "cz": "Zkontrolujte Gastona.",
+      "source": "pre_existing",
+      "original_cz": "Zkontrolujte Gastona."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group02_Step02_TalkToCharacter02_StepDescription",
+      "en": "Talk to Rapunzel.",
+      "cz": "Promluvte si s Locikou.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Locikou."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group03_Step03_StepDescription",
+      "en": "Find the <ActivityItem>Swarming Insects</ActivityItem> in the Grove.",
+      "cz": "Najděte <ActivityItem>Hojivý hmyz</ActivityItem> v háji.",
+      "source": "pre_existing",
+      "original_cz": "Najděte <ActivityItem>Hojivý hmyz</ActivityItem> v háji."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group03_StoryDescription",
+      "en": "Rapunzel described a strange buzzing sound that she was never able to locate — if you can find it, maybe it can lead the way to the Scarab.",
+      "cz": "Losička popsala podivný bzučivý zvuk, který nikdy nedokázala lokalizovat – pokud ho najdete, možná vás dovede k Skarabeovi.",
+      "source": "pre_existing",
+      "original_cz": "Losička popsala podivný bzučivý zvuk, který nikdy nedokázala lokalizovat – pokud ho najdete, možná vás dovede k Skarabeovi."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group04_Step04_StepDescription",
+      "en": "Those insects are hiding something. But how to get rid of them?",
+      "cz": "Ten hmyz něco schovává. Ale jak se ho zbavit?",
+      "source": "pre_existing",
+      "original_cz": "Ten hmyz něco schovává. Ale jak se ho zbavit?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group04_Step04_TakePicture01_StepDescription",
+      "en": "Take a picture of the insects to show Rapunzel. She might have an idea.",
+      "cz": "Vyfoť hmyz a ukaž mu to Locice. Možná dostane nápad.",
+      "source": "pre_existing",
+      "original_cz": "Vyfoť hmyz a ukaž mu to Locice. Možná dostane nápad."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group05_Step05_TalkToCharacter03_StepDescription",
+      "en": "Return to Rapunzel.",
+      "cz": "Návrat k Locice.",
+      "source": "pre_existing",
+      "original_cz": "Návrat k Locice."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group06_Step06_Possess01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group06_Step06_Possess02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group06_Step06_Possess03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group06_Step06_Possess04_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group06_Step06_Possess05_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group06_Step06_StepDescription",
+      "en": "Gather the following resources from across Eternity Isle:",
+      "cz": "Shromážděte následující zdroje z celého Eternity Isle:",
+      "source": "pre_existing",
+      "original_cz": "Shromážděte následující zdroje z celého Eternity Isle:"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group06_StoryDescription",
+      "en": "Rapunzel suggested making Flower Arrangements from the local carnivorous plants — maybe they'll be able to devour the insects and reveal what they're hiding.",
+      "cz": "Losička navrhla vytvoření květinových aranžmá z místních masožravých rostlin – možná by mohly hmyz pohltit a odhalit, co se skrývá.",
+      "source": "pre_existing",
+      "original_cz": "Losička navrhla vytvoření květinových aranžmá z místních masožravých rostlin – možná by mohly hmyz pohltit a odhalit, co se skrývá."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group07_Step07_CraftItem01_StepDescription",
+      "en": "Craft some {ItemName}.",
+      "cz": "Vyrobte nějaký {ItemName}.",
+      "source": "pre_existing",
+      "original_cz": "Vyrobte nějaký {ItemName}."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group08_Step08_Decorate01_StepDescription",
+      "en": "Decorate using the {ItemName} near the Bug-Infested Pedestal in the Grove.",
+      "cz": "Ozdobte pomocí předmětu {ItemName} poblíž hmyzem zamořeného podstavce v háji.",
+      "source": "pre_existing",
+      "original_cz": "Ozdobte pomocí předmětu {ItemName} poblíž hmyzem zamořeného podstavce v háji."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group09_Step09_StepDescription",
+      "en": "Now all that's left to do is wait. This might take a while.",
+      "cz": "Teď už jen zbývá čekat. Může to chvíli trvat.",
+      "source": "pre_existing",
+      "original_cz": "Teď už jen zbývá čekat. Může to chvíli trvat."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group09_Step09_TalkToCharacter04_StepDescription",
+      "en": "Check on Gaston and how he's doing with his task.",
+      "cz": "Zkontrolujte Gastona a jak si vede s jeho úkolem.",
+      "source": "pre_existing",
+      "original_cz": "Zkontrolujte Gastona a jak si vede s jeho úkolem."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group10_Step10_StepDescription",
+      "en": "The plants should have eaten the insects by now.",
+      "cz": "Rostliny už měly hmyz sežrat.",
+      "source": "pre_existing",
+      "original_cz": "Rostliny už měly hmyz sežrat."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group10_Step10_VisitArea02_StepDescription",
+      "en": "Return to the <ActivityItem>Pedestal</ActivityItem> in the Grove.",
+      "cz": "Vraťte se k <ActivityItem>Podstavci</ActivityItem> v Háji.",
+      "source": "pre_existing",
+      "original_cz": "Vraťte se k <ActivityItem>Podstavci</ActivityItem> v Háji."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group11_Step11_Possess06_StepDescription",
+      "en": "Pick up the <ActivityItem>Jungle Scarab Piece</ActivityItem> from the pedestal.",
+      "cz": "Seberte <ActivityItem>Džunglový skarabeus</ActivityItem> z podstavce.",
+      "source": "pre_existing",
+      "original_cz": "Seberte <ActivityItem>Džunglový skarabeus</ActivityItem> z podstavce."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group11_Step11_StepDescription",
+      "en": "You found the Jungle Scarab Piece!",
+      "cz": "Našli jste dílek džunglového skarabea!",
+      "source": "pre_existing",
+      "original_cz": "Našli jste dílek džunglového skarabea!"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group12_Step12_ConsumeItem01_StepDescription",
+      "en": "Examine the <ActivityItem>Blueprint</ActivityItem> in your Inventory.",
+      "cz": "Prozkoumejte <ActivityItem>Plán</ActivityItem> ve svém inventáři.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte <ActivityItem>Plán</ActivityItem> ve svém inventáři."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group12_Step12_StepDescription",
+      "en": "This Scarab piece is completely rusted. Maybe Jafar would know how to restore it?",
+      "cz": "Tento kousek Skarabea je úplně zrezivělý. Možná by Jafar věděl, jak ho zrestaurovat?",
+      "source": "pre_existing",
+      "original_cz": "Tento kousek Skarabea je úplně zrezivělý. Možná by Jafar věděl, jak ho zrestaurovat?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group12_Step12_TalkToCharacter05_StepDescription",
+      "en": "Talk to Jafar at a Hologram Station.",
+      "cz": "Promluvte si s Jafarem na hologramové stanici.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Jafarem na hologramové stanici."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group12_StoryDescription",
+      "en": "The insects have been dealt with, revealing the second piece of the Scarab! However, it's in terrible condition — maybe Jafar knows what to do.",
+      "cz": "S hmyzem bylo postaráno a odhalili jsme druhý kus Skarabea! Je však ve hrozném stavu – možná Jafar ví, co s tím.",
+      "source": "pre_existing",
+      "original_cz": "S hmyzem bylo postaráno a odhalili jsme druhý kus Skarabea! Je však ve hrozném stavu – možná Jafar ví, co s tím."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group13_Step13_Possess07_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group13_Step13_Possess08_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group13_Step13_Possess09_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group13_Step13_StepDescription",
+      "en": "Gather what is needed to repair the Jungle Scarab Piece.",
+      "cz": "Shromážděte vše potřebné k opravě dílu džunglového skarabea.",
+      "source": "pre_existing",
+      "original_cz": "Shromážděte vše potřebné k opravě dílu džunglového skarabea."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group14_Step14_CraftItem02_StepDescription",
+      "en": "Repair the Jungle Scarab Piece at a Timebending Table.",
+      "cz": "Opravte kus džunglového skarabea u stolu pro ohýbání času.",
+      "source": "pre_existing",
+      "original_cz": "Opravte kus džunglového skarabea u stolu pro ohýbání času."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group15_Step15_StepDescription",
+      "en": "You now hold both Scarab pieces.",
+      "cz": "Nyní držíte oba dílky Skarabea.",
+      "source": "pre_existing",
+      "original_cz": "Nyní držíte oba dílky Skarabea."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group15_Step15_TalkToCharacter06_StepDescription",
+      "en": "Talk to Jafar at a Hologram Station about the next step.",
+      "cz": "Promluvte si s Jafarem na hologramové stanici o dalším kroku.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Jafarem na hologramové stanici o dalším kroku."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group15_StoryDescription",
+      "en": "You've braved the Wild Tangle and now have both pieces of the Scarab! The Cave of Wonders awaits...",
+      "cz": "Stál jsi v Divoké spleti a teď máš oba kusy Skarabea! Jeskyně divů čeká...",
+      "source": "pre_existing",
+      "original_cz": "Stál jsi v Divoké spleti a teď máš oba kusy Skarabea! Jeskyně divů čeká..."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group16_Step16_Conditional01_StepDescription",
+      "en": "Give Gaston some time to re-center himself.",
+      "cz": "Dejte Gastonovi trochu času, aby se znovu soustředil.",
+      "source": "pre_existing",
+      "original_cz": "Dejte Gastonovi trochu času, aby se znovu soustředil."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group16_Step16_Conditional02_StepDescription",
+      "en": "Explore the Wild Tangle to see who you meet.",
+      "cz": "Prozkoumejte Divokou spleti a zjistěte, koho potkáte.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte Divokou spleti a zjistěte, koho potkáte."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_090_JungleScarab_Group16_Step16_StepDescription",
+      "en": "Gaston is not yet ready to help you find the next <ActivityItem>Scarab Piece</ActivityItem>.",
+      "cz": "Gaston vám zatím není připraven pomoci najít další <ActivityItem>kousek skarabea</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Gaston vám zatím není připraven pomoci najít další <ActivityItem>kousek skarabea</ActivityItem>."
+    }
+  ],
+  "ExpansionMain_Expansion01/MRQS_E01_100_CaveOfWonders.locbin": [
+    {
+      "key": "Story!Expansion01!MRQS_E01_100_CaveOfWonders_Any_CompletedRequestDescription",
+      "en": "Talk to Gaston.",
+      "cz": "Promluvte si s Gastonem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Gastonem."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_100_CaveOfWonders_AvailableDescription",
+      "en": "It's time! Meet up with Gaston and assemble the Scarab Key!",
+      "cz": "Je čas! Sejděte se s Gastonem a sestavte Scarabův klíč!",
+      "source": "pre_existing",
+      "original_cz": "Je čas! Sejděte se s Gastonem a sestavte Scarabův klíč!"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_100_CaveOfWonders_DisplayName",
+      "en": "Diamond in the Rough",
+      "cz": "Neopracovaný diamant",
+      "source": "pre_existing",
+      "original_cz": "Neopracovaný diamant"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_100_CaveOfWonders_Group01_Step01_ReadyDescription",
+      "en": "Talk to Gaston when you are ready to <ActivityItem>assemble the Scarab Key</ActivityItem>.",
+      "cz": "Promluvte si s Gastonem, až budete připraveni <ActivityItem>sestavit Skarabeův klíč</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Gastonem, až budete připraveni <ActivityItem>sestavit Skarabeův klíč</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_100_CaveOfWonders_Group01_Step01_StepDescription",
+      "en": "Make sure both <ActivityItem>Scarab Pieces</ActivityItem> are in your Inventory.",
+      "cz": "Ujistěte se, že máte oba <ActivityItem>kousky skarabea</ActivityItem> ve svém inventáři.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte oba <ActivityItem>kousky skarabea</ActivityItem> ve svém inventáři."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_100_CaveOfWonders_Group01_StepDescription",
+      "en": "It's time! The wizard's vault awaits.",
+      "cz": "Je čas! Čarodějův trezor čeká.",
+      "source": "pre_existing",
+      "original_cz": "Je čas! Čarodějův trezor čeká."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_100_CaveOfWonders_Group02_StepDescription",
+      "en": "Follow the Scarab's trail from Gaston's encampment.",
+      "cz": "Sledujte Skarabeovu stopu z Gastonova tábora.",
+      "source": "pre_existing",
+      "original_cz": "Sledujte Skarabeovu stopu z Gastonova tábora."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_100_CaveOfWonders_Group03_Step04_StepDescription",
+      "en": "Is Jafar's vault... a Cave of Wonders?",
+      "cz": "Je Džafarův trezor... Jeskyní divů?",
+      "source": "pre_existing",
+      "original_cz": "Je Džafarův trezor... Jeskyní divů?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_100_CaveOfWonders_Group03_Step04_TalkToCharacter01_StepDescription",
+      "en": "Talk to Gaston.",
+      "cz": "Promluvte si s Gastonem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Gastonem."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_100_CaveOfWonders_Group04_Step05_VisitArea02_StepDescription",
+      "en": "Enter the Cave of Wonders.",
+      "cz": "Vstupte do Jeskyně divů.",
+      "source": "pre_existing",
+      "original_cz": "Vstupte do Jeskyně divů."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_100_CaveOfWonders_Group05_Step06_VisitArea03_StepDescription",
+      "en": "Explore the Cave of Wonders.",
+      "cz": "Prozkoumejte Jeskyni divů.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte Jeskyni divů."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_100_CaveOfWonders_Group06_Step07_TalkToCharacter02_StepDescription",
+      "en": "Talk to Jafar at the Hologram Station.",
+      "cz": "Promluvte si s Jafarem na hologramové stanici.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Jafarem na hologramové stanici."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_100_CaveOfWonders_Group07_Step08_StepDescription",
+      "en": "Find a way to <ActivityItem>open the gate</ActivityItem>.",
+      "cz": "Najděte způsob, jak <ActivityItem>otevřít bránu</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Najděte způsob, jak <ActivityItem>otevřít bránu</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_100_CaveOfWonders_Group07_Step09_TalkToCharacter03_StepDescription",
+      "en": "(Optional) Ask Jafar for hints.",
+      "cz": "(Volitelné) Požádejte Jafara o rady.",
+      "source": "pre_existing",
+      "original_cz": "(Volitelné) Požádejte Jafara o rady."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_100_CaveOfWonders_Group07_StepDescription",
+      "en": "The way forward is blocked by a magical gate.",
+      "cz": "Cesta vpřed je blokována magickou branou.",
+      "source": "pre_existing",
+      "original_cz": "Cesta vpřed je blokována magickou branou."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_100_CaveOfWonders_Group08_Step10_StepDescription",
+      "en": "The gate is opened! Explore deeper into the Cave of Wonders.",
+      "cz": "Brána je otevřena! Prozkoumejte hlouběji Jeskyni divů.",
+      "source": "pre_existing",
+      "original_cz": "Brána je otevřena! Prozkoumejte hlouběji Jeskyni divů."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_100_CaveOfWonders_Group09_Step11_Conditional02_StepDescription",
+      "en": "Activate the first Light Interrupter.",
+      "cz": "Aktivujte první přerušovač světla.",
+      "source": "pre_existing",
+      "original_cz": "Aktivujte první přerušovač světla."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_100_CaveOfWonders_Group09_Step11_Conditional03_StepDescription",
+      "en": "Activate the second Light Interrupter.",
+      "cz": "Aktivujte druhý přerušovač světla.",
+      "source": "pre_existing",
+      "original_cz": "Aktivujte druhý přerušovač světla."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_100_CaveOfWonders_Group09_Step11_StepDescription",
+      "en": "Cross the next gate.",
+      "cz": "Přejděte další branou.",
+      "source": "pre_existing",
+      "original_cz": "Přejděte další branou."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_100_CaveOfWonders_Group09_Step12_StepDescription",
+      "en": "(Optional) Ask Jafar for hints.",
+      "cz": "(Volitelné) Požádejte Jafara o rady.",
+      "source": "pre_existing",
+      "original_cz": "(Volitelné) Požádejte Jafara o rady."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_100_CaveOfWonders_Group10_Step13_StepDescription",
+      "en": "The gate is open!",
+      "cz": "Brána je otevřená!",
+      "source": "pre_existing",
+      "original_cz": "Brána je otevřená!"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_100_CaveOfWonders_Group10_Step13_VisitArea05_StepDescription",
+      "en": "Explore deeper into the Cave of Wonders.",
+      "cz": "Prozkoumejte hlouběji Jeskyni divů.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte hlouběji Jeskyni divů."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_100_CaveOfWonders_Group11_Step14_Interaction01_StepDescription",
+      "en": "You found it! Pick up the <ActivityItem>Jewel of Time</ActivityItem> from the pedestal.",
+      "cz": "Našli jste to! Seberte <ActivityItem>Klenot času</ActivityItem> z podstavce.",
+      "source": "pre_existing",
+      "original_cz": "Našli jste to! Seberte <ActivityItem>Klenot času</ActivityItem> z podstavce."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_100_CaveOfWonders_Group12_Step15_StepDescription",
+      "en": "You obtained the Jewel of Time from the Glittering Dunes!",
+      "cz": "Získali jste Klenot času z Třpytivých dun!",
+      "source": "pre_existing",
+      "original_cz": "Získali jste Klenot času z Třpytivých dun!"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_100_CaveOfWonders_Group12_Step15_VisitArea06_StepDescription",
+      "en": "Leave the Cave of Wonders.",
+      "cz": "Opusťte Jeskyni divů.",
+      "source": "pre_existing",
+      "original_cz": "Opusťte Jeskyni divů."
+    }
+  ],
+  "ExpansionMain_Expansion01/MRQS_E01_110_Gate.locbin": [
+    {
+      "key": "Story!Expansion01!MRQS_E01_110_Gate_Any_CompletedRequestDescription",
+      "en": "Talk to Rapunzel.",
+      "cz": "Promluv si s Locikou.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Locikou."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_110_Gate_AvailableDescription",
+      "en": "You follow a trail of flowers to a mysterious locked Ancient Door set in a stone arch behind a waterfall...",
+      "cz": "Sledujete květinovou stezku k tajemným zamčeným Starověkým dveřím zasazeným do kamenného oblouku za vodopádem...",
+      "source": "pre_existing",
+      "original_cz": "Sledujete květinovou stezku k tajemným zamčeným Starověkým dveřím zasazeným do kamenného oblouku za vodopádem..."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_110_Gate_CompletedStoryDescription",
+      "en": "Heading through the door, you see a new challenge waiting for you — and a Statue of Time on an island floating nearby. How will you get there?",
+      "cz": "Když projdete dveřmi, uvidíte novou výzvu, která na vás čeká – a Sochu času na nedalekém ostrově, který se vznáší. Jak se tam dostanete?",
+      "source": "pre_existing",
+      "original_cz": "Když projdete dveřmi, uvidíte novou výzvu, která na vás čeká – a Sochu času na nedalekém ostrově, který se vznáší. Jak se tam dostanete?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_110_Gate_DisplayName",
+      "en": "The Ancient Door",
+      "cz": "Starověké dveře",
+      "source": "pre_existing",
+      "original_cz": "Starověké dveře"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_110_Gate_Group01_StepDescription",
+      "en": "Use your Hourglass to remove the Gray Floating Rocks behind the Grasslands' waterfall.",
+      "cz": "Použijte přesýpací hodiny k odstranění šedých plovoucích kamenů za vodopádem v travnatých oblastech.",
+      "source": "pre_existing",
+      "original_cz": "Použijte přesýpací hodiny k odstranění šedých plovoucích kamenů za vodopádem v travnatých oblastech."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_110_Gate_Group02_Step02_Possess01_StepDescription",
+      "en": "Pick up the shining object that fell from the Floating Rocks.",
+      "cz": "Seberte zářící předmět, který spadl z Plovoucích skal.",
+      "source": "pre_existing",
+      "original_cz": "Seberte zářící předmět, který spadl z Plovoucích skal."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_110_Gate_Group03_Step03_TalkToCharacter01_StepDescription",
+      "en": "Talk to Rapunzel.",
+      "cz": "Promluvte si s Locikou.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Locikou."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_110_Gate_Group03_StoryDescription",
+      "en": "After meeting Rapunzel by the Ancient Door, you help her clear away the Time Anomalies blocking it. Something shiny falls to the ground and you pick it up...",
+      "cz": "Po setkání s Locikou u Starověkých dveří jí pomůžete odstranit Časové anomálie, které je blokují. Něco lesklého spadne na zem a vy to zvednete...",
+      "source": "pre_existing",
+      "original_cz": "Po setkání s Locikou u Starověkých dveří jí pomůžete odstranit Časové anomálie, které je blokují. Něco lesklého spadne na zem a vy to zvednete..."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_110_Gate_Group04_Step04_StepDescription",
+      "en": "Break Gray Floating Rocks around the Isle until you find <ActivityItem>Sun Core Pieces</ActivityItem>.",
+      "cz": "Rozbíjejte šedé plovoucí kameny kolem ostrova, dokud nenajdete <ActivityItem>Kusy slunečního jádra</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Rozbíjejte šedé plovoucí kameny kolem ostrova, dokud nenajdete <ActivityItem>Kusy slunečního jádra</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_110_Gate_Group04_StepDescription",
+      "en": "Gather the remaining <ActivityItem>Sun Core Pieces</ActivityItem>.",
+      "cz": "Seberte zbývající <ActivityItem>dílky slunečního jádra</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Seberte zbývající <ActivityItem>dílky slunečního jádra</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_110_Gate_Group05_Step05_CraftItem01_StepDescription",
+      "en": "Rebuild the <ActivityItem>Sun Core</ActivityItem> at a Crafting Station.",
+      "cz": "Znovu postavte <ActivityItem>Sluneční jádro</ActivityItem> na řemeslné stanici.",
+      "source": "pre_existing",
+      "original_cz": "Znovu postavte <ActivityItem>Sluneční jádro</ActivityItem> na řemeslné stanici."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_110_Gate_Group06_Step06_FillKeyhole01_StepDescription",
+      "en": "Unlock the Ancient Door behind the waterfall in the Grasslands with the <ActivityItem>Sun Core</ActivityItem>.",
+      "cz": "Odemkněte Starověké dveře za vodopádem v travnatých oblastech pomocí <ActivityItem>Slunečního jádra</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Odemkněte Starověké dveře za vodopádem v travnatých oblastech pomocí <ActivityItem>Slunečního jádra</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_110_Gate_Group06_StoryDescription",
+      "en": "With the Sun Core rebuilt, you head to unlock the Ancient Door in search of the Jewel of Time and Rapunzel's missing paints.",
+      "cz": "S přestavěným Slunečním jádrem se vydáte odemknout Starověké dveře a hledat Klenot času a Locikiny ztracené barvy.",
+      "source": "pre_existing",
+      "original_cz": "S přestavěným Slunečním jádrem se vydáte odemknout Starověké dveře a hledat Klenot času a Locikiny ztracené barvy."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_110_Gate_Group07_StepDescription",
+      "en": "Pass beyond the Ancient Door with Rapunzel.",
+      "cz": "Projděte s Locikou za Starověké dveře.",
+      "source": "pre_existing",
+      "original_cz": "Projděte s Locikou za Starověké dveře."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_110_Gate_StartRequestButton",
+      "en": "Meet Rapunzel.",
+      "cz": "Seznamte se s Locikou.",
+      "source": "pre_existing",
+      "original_cz": "Seznamte se s Locikou."
+    }
+  ],
+  "ExpansionMain_Expansion01/MRQS_E01_120_Islands.locbin": [
+    {
+      "key": "Story!Expansion01!MRQS_E01_120_Islands_Any_CompletedRequestDescription",
+      "en": "Return to Rapunzel.",
+      "cz": "Návrat k Locice.",
+      "source": "pre_existing",
+      "original_cz": "Návrat k Locice."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_120_Islands_AvailableDescription",
+      "en": "You and Rapunzel enter an ancient grove with a strange sundial in the center and a Sun Core on the ground. A mysterious island floats nearby, just out of reach.",
+      "cz": "Vy a Locika vstoupíte do starobylého háje s podivnými slunečními hodinami uprostřed a Slunečním jádrem na zemi. Nedaleko se vznáší tajemný ostrov, těsně mimo dosah.",
+      "source": "pre_existing",
+      "original_cz": "Vy a Locika vstoupíte do starobylého háje s podivnými slunečními hodinami uprostřed a Slunečním jádrem na zemi. Nedaleko se vznáší tajemný ostrov, těsně mimo dosah."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_120_Islands_CompletedStoryDescription",
+      "en": "You discover the Jewel of Time has been stolen — and a strange magical echo and old diary point to Mother Gothel as the culprit. You and Rapunzel head for her tower to search an old chest that Gothel kept inside.",
+      "cz": "Zjistíte, že Klenot času byl ukraden – a podivná magická ozvěna a starý deník ukazují na Matku Gothel jako na viníka. Vy a Locika se vydáte do její věže prohledat starou truhlu, kterou Gothel uchovávala uvnitř.",
+      "source": "pre_existing",
+      "original_cz": "Zjistíte, že Klenot času byl ukraden – a podivná magická ozvěna a starý deník ukazují na Matku Gothel jako na viníka. Vy a Locika se vydáte do její věže prohledat starou truhlu, kterou Gothel uchovávala uvnitř."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_120_Islands_DisplayName",
+      "en": "The Sundial",
+      "cz": "Sluneční hodiny",
+      "source": "pre_existing",
+      "original_cz": "Sluneční hodiny"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_120_Islands_Group01_Step01_VisitArea01_StepDescription",
+      "en": "Investigate the <ActivityItem>Second Sun Core</ActivityItem> near the <ActivityItem>Sundial</ActivityItem>.",
+      "cz": "Prozkoumejte <ActivityItem>Druhé sluneční jádro</ActivityItem> poblíž <ActivityItem>slunečních hodin</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte <ActivityItem>Druhé sluneční jádro</ActivityItem> poblíž <ActivityItem>slunečních hodin</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_120_Islands_Group02_StepDescription",
+      "en": "Catch the <ActivityItem>Floating Sun Core</ActivityItem> on the Sundial Island.",
+      "cz": "Chyťte <ActivityItem>Plovoucí sluneční jádro</ActivityItem> na Ostrově slunečních hodin.",
+      "source": "pre_existing",
+      "original_cz": "Chyťte <ActivityItem>Plovoucí sluneční jádro</ActivityItem> na Ostrově slunečních hodin."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_120_Islands_Group03_Step03_Possess01_StepDescription",
+      "en": "Make sure you have the <ActivityItem>Floating Sun Core</ActivityItem> in your Inventory.",
+      "cz": "Ujistěte se, že máte v inventáři <ActivityItem>Plovoucí sluneční jádro</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte v inventáři <ActivityItem>Plovoucí sluneční jádro</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_120_Islands_Group04_Step04_FillKeyhole01_StepDescription",
+      "en": "This Sun Core looks just like the last one... Where does it fit here?",
+      "cz": "Toto sluneční jádro vypadá přesně jako to poslední... Kam sem patří?",
+      "source": "pre_existing",
+      "original_cz": "Toto sluneční jádro vypadá přesně jako to poslední... Kam sem patří?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_120_Islands_Group05_Step05_TalkToCharacter01_StepDescription",
+      "en": "Talk to Rapunzel.",
+      "cz": "Promluvte si s Locikou.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Locikou."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_120_Islands_Group06_StepDescription",
+      "en": "Search the Isle for <ActivityItem>Floating Sundial Gears</ActivityItem>.",
+      "cz": "Hledejte na ostrově <ActivityItem>Plovoucí ozubená kola slunečních hodin</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Hledejte na ostrově <ActivityItem>Plovoucí ozubená kola slunečních hodin</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_120_Islands_Group07_Step08_ReadyDescription",
+      "en": "Show all the <ActivityItem>Sundial Gears</ActivityItem> to Rapunzel.",
+      "cz": "Ukažte Locice všechna <ActivityItem>sluneční hodiny</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ukažte Locice všechna <ActivityItem>sluneční hodiny</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_120_Islands_Group07_Step08_StepDescription",
+      "en": "Make sure you have all the <ActivityItem>Sundial Gears</ActivityItem> in your Inventory.",
+      "cz": "Ujistěte se, že máte ve svém inventáři všechna <ActivityItem>sluneční hodiny</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte ve svém inventáři všechna <ActivityItem>sluneční hodiny</ActivityItem>."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_120_Islands_Group08_Step09_Conditional01_StepDescription",
+      "en": "Rumbling and grinding noises? Investigate the Sundial.",
+      "cz": "Slyšíte dunění a skřípání? Prozkoumejte sluneční hodiny.",
+      "source": "pre_existing",
+      "original_cz": "Slyšíte dunění a skřípání? Prozkoumejte sluneční hodiny."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_120_Islands_Group09_StepDescription",
+      "en": "Reach the Statue of Time with Rapunzel.",
+      "cz": "Dosáhněte Sochy času s Locikou.",
+      "source": "pre_existing",
+      "original_cz": "Dosáhněte Sochy času s Locikou."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_120_Islands_Group09_StoryDescription",
+      "en": "You and Rapunzel fix the Sundial mechanism and discover the large platform moves just like a clock. You reach the floating island.",
+      "cz": "Ty a Locika opravíte mechanismus slunečních hodin a zjistíte, že se velká plošina pohybuje stejně jako hodiny. Dostanete se na plovoucí ostrov.",
+      "source": "pre_existing",
+      "original_cz": "Ty a Locika opravíte mechanismus slunečních hodin a zjistíte, že se velká plošina pohybuje stejně jako hodiny. Dostanete se na plovoucí ostrov."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_120_Islands_Group10_StepDescription",
+      "en": "The Jewel of Time is missing... Investigate the area.",
+      "cz": "Klenot času chybí... Prozkoumejte oblast.",
+      "source": "pre_existing",
+      "original_cz": "Klenot času chybí... Prozkoumejte oblast."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_120_Islands_Group11_Step12_ConsumeItem01_StepDescription",
+      "en": "Investigate the diary page near the Statue of Time.",
+      "cz": "Prozkoumejte stránku deníku poblíž Sochy času.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte stránku deníku poblíž Sochy času."
+    }
+  ],
+  "ExpansionMain_Expansion01/MRQS_E01_130_Tower.locbin": [
+    {
+      "key": "Story!Expansion01!MRQS_E01_130_Tower_Any_CompletedRequestDescription",
+      "en": "Talk to Rapunzel.",
+      "cz": "Promluv si s Locikou.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Locikou."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_130_Tower_AvailableDescription",
+      "en": "You and Rapunzel head to Rapunzel's Tower, hoping to investigate Mother Gothel's chest of belongings within. Rapunzel seems VERY hesitant to go anywhere near the tower... but why?",
+      "cz": "Vy a Locika se vydáte do Locikiny věže v naději, že prozkoumáte truhlu s věcmi Matky Gothel uvnitř. Locika se zdá VELMI váhavá, zda se má k věži přiblížit... ale proč?",
+      "source": "pre_existing",
+      "original_cz": "Vy a Locika se vydáte do Locikiny věže v naději, že prozkoumáte truhlu s věcmi Matky Gothel uvnitř. Locika se zdá VELMI váhavá, zda se má k věži přiblížit... ale proč?"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_130_Tower_CompletedStoryDescription",
+      "en": "Once banished, Mother Gothel's sand illusion dropped the Jewel of Time! Behind it, you find the real Gothel's chest of precious treasures with Rapunzel's missing paints inside. You return the paints to a grateful Rapunzel, celebrating the fact that you're one step closer to saving Eternity Isle.",
+      "cz": "Jakmile byla Matka Gothel vyhnána, její písečná iluze upustila Drahokam času! Za ním najdete skutečnou Gothelinu truhlu s drahocennými poklady, ve které se nacházejí Locikiny chybějící barvy. Barvy vrátíte vděčné Locice a oslavíte tak, že jste o krok blíž k záchraně Věčného ostrova.",
+      "source": "pre_existing",
+      "original_cz": "Jakmile byla Matka Gothel vyhnána, její písečná iluze upustila Drahokam času! Za ním najdete skutečnou Gothelinu truhlu s drahocennými poklady, ve které se nacházejí Locikiny chybějící barvy. Barvy vrátíte vděčné Locice a oslavíte tak, že jste o krok blíž k záchraně Věčného ostrova."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_130_Tower_DisplayName",
+      "en": "The Tower",
+      "cz": "The Tower",
+      "source": "pre_existing",
+      "original_cz": "The Tower"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_130_Tower_Group01_Step01_FollowCharacter01_TalkToDescription",
+      "en": "The Grove is blocked! Talk to Rapunzel.",
+      "cz": "Háj je zablokovaný! Promluvte si s Locikou.",
+      "source": "pre_existing",
+      "original_cz": "Háj je zablokovaný! Promluvte si s Locikou."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_130_Tower_Group01_StepDescription",
+      "en": "Follow Rapunzel towards the tower.",
+      "cz": "Následujte Lociku směrem k věži.",
+      "source": "pre_existing",
+      "original_cz": "Následujte Lociku směrem k věži."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_130_Tower_Group02_Step03_Unlock02_StepDescription",
+      "en": "(Search for Mist with your Hourglass, or access the Dreamlight menu and investigate your new <Lore>Mist Duties</Lore> by pressing {input_mainmenu}.)",
+      "cz": "(Vyhledejte Mlhu pomocí přesýpacích hodin nebo přejděte do nabídky Dreamlight a prozkoumejte své nové <Lore>Povinnosti v Mlze</Lore> stisknutím {input_mainmenu}.)",
+      "source": "pre_existing",
+      "original_cz": "(Vyhledejte Mlhu pomocí přesýpacích hodin nebo přejděte do nabídky Dreamlight a prozkoumejte své nové <Lore>Povinnosti v Mlze</Lore> stisknutím {input_mainmenu}.)"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_130_Tower_Group02_StepDescription",
+      "en": "Unlock the Grove in the Wild Tangle.",
+      "cz": "Odemkněte Háj v Divoké spleti.",
+      "source": "pre_existing",
+      "original_cz": "Odemkněte Háj v Divoké spleti."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_130_Tower_Group03_Step04_FollowCharacter02_TalkToDescription",
+      "en": "Talk to Rapunzel near her tower.",
+      "cz": "Promluvte si s Locikou poblíž její věže.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Locikou poblíž její věže."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_130_Tower_Group03_Step04_StepDescription",
+      "en": "Meet Rapunzel at her tower.",
+      "cz": "Setkejte se s Locikou v její věži.",
+      "source": "pre_existing",
+      "original_cz": "Setkejte se s Locikou v její věži."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_130_Tower_Group04_Step05_Possess01_StepDescription",
+      "en": "Dig up Vine Seeds on the Plains near the Oasis.",
+      "cz": "Vykopejte semínka vinné révy na pláních poblíž oázy.",
+      "source": "pre_existing",
+      "original_cz": "Vykopejte semínka vinné révy na pláních poblíž oázy."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_130_Tower_Group05_Step06_VisitArea01_StepDescription",
+      "en": "Return to Rapunzel's Tower.",
+      "cz": "Vraťte se do Locičiny věže.",
+      "source": "pre_existing",
+      "original_cz": "Vraťte se do Locičiny věže."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_130_Tower_Group06_Step07_RemoveBlocker01_StepDescription",
+      "en": "Remove the Swirling Sands around Rapunzel's Tower.",
+      "cz": "Odstraňte vířící písky kolem Locikiny věže.",
+      "source": "pre_existing",
+      "original_cz": "Odstraňte vířící písky kolem Locikiny věže."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_130_Tower_Group06_Step08_TalkToCharacter01_StepDescription",
+      "en": "Talk to Rapunzel.",
+      "cz": "Promluvte si s Locikou.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Locikou."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_130_Tower_Group06_StepDescription",
+      "en": "Return to Rapunzel's Tower:",
+      "cz": "Návrat do Locičiny věže:",
+      "source": "pre_existing",
+      "original_cz": "Návrat do Locičiny věže:"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_130_Tower_Group07_Step09_FillKeyhole01_StepDescription",
+      "en": "Put all three Vine Seeds in the soil at the base of Rapunzel's Tower.",
+      "cz": "Vložte všechna tři semínka révy do půdy u paty Locičiny věže.",
+      "source": "pre_existing",
+      "original_cz": "Vložte všechna tři semínka révy do půdy u paty Locičiny věže."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_130_Tower_Group07_StoryDescription",
+      "en": "Rapunzel believes her tower is cursed, claiming she sees Mother Gothel in the window. Despite her fears, she agrees to accompany you inside to help Eternity Isle. You hatch a plan to grow vines to climb into the tower, and set out to find seeds in the Oasis.",
+      "cz": "Losička věří, že její věž je prokletá, a tvrdí, že v okně vidí Matku Gothel. Navzdory svým obavám souhlasí, že vás doprovodí dovnitř a pomůže Eternity Isle. Vymyslíte plán, jak vypěstovat popínavé rostliny, abyste se mohli dostat do věže, a vydáte se hledat semínka v Oáze.",
+      "source": "pre_existing",
+      "original_cz": "Losička věří, že její věž je prokletá, a tvrdí, že v okně vidí Matku Gothel. Navzdory svým obavám souhlasí, že vás doprovodí dovnitř a pomůže Eternity Isle. Vymyslíte plán, jak vypěstovat popínavé rostliny, abyste se mohli dostat do věže, a vydáte se hledat semínka v Oáze."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_130_Tower_Group08_Step10_VisitArea02_StepDescription",
+      "en": "Enter Rapunzel's Tower using the vine.",
+      "cz": "Vstupte do Locičiny věže pomocí liány.",
+      "source": "pre_existing",
+      "original_cz": "Vstupte do Locičiny věže pomocí liány."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_130_Tower_Group09_Step11_TalkToCharacter02_StepDescription",
+      "en": "Swirling Sands inside?! Talk to Rapunzel.",
+      "cz": "Vířící písek uvnitř?! Promluv si s Locikou.",
+      "source": "pre_existing",
+      "original_cz": "Vířící písek uvnitř?! Promluv si s Locikou."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_130_Tower_Group10_StepDescription",
+      "en": "Clear away the Swirling Sands to reach Gothel's Chest in the tower.",
+      "cz": "Odstraňte Vířící písky, abyste se dostali ke Gothelově truhle ve věži.",
+      "source": "pre_existing",
+      "original_cz": "Odstraňte Vířící písky, abyste se dostali ke Gothelově truhle ve věži."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_130_Tower_Group11_StepDescription",
+      "en": "Confront the Sands with Rapunzel.",
+      "cz": "Postav se Pískům s Locikou.",
+      "source": "pre_existing",
+      "original_cz": "Postav se Pískům s Locikou."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_130_Tower_Group12_Step16_TalkToCharacter04_StepDescription",
+      "en": "Talk to Rapunzel in her tower.",
+      "cz": "Promluvte si s Locikou v její věži.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Locikou v její věži."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_130_Tower_Group12_StoryDescription",
+      "en": "Inside the tower, you see the chaos of Time Anomalies on the loose. You also encounter a strange illusion made of sand that looks and sounds like Mother Gothel! You help Rapunzel confront this illusion with her feelings and watch it dissolve.",
+      "cz": "Uvnitř věže vidíte chaos Časových anomálií, které se volně šíří. Také narazíte na podivnou iluzi z písku, která vypadá a zní jako Matka Gothel! Pomůžete Locice čelit této iluzi s jejími pocity a sledovat, jak se rozpouští.",
+      "source": "pre_existing",
+      "original_cz": "Uvnitř věže vidíte chaos Časových anomálií, které se volně šíří. Také narazíte na podivnou iluzi z písku, která vypadá a zní jako Matka Gothel! Pomůžete Locice čelit této iluzi s jejími pocity a sledovat, jak se rozpouští."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_130_Tower_Group13_Step17_Interaction01_StepDescription",
+      "en": "Collect the Jewel of Time.",
+      "cz": "Seberte Klenot času.",
+      "source": "pre_existing",
+      "original_cz": "Seberte Klenot času."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_130_Tower_Group13_StepDescription",
+      "en": "You helped Rapunzel banish the Sands from the tower.",
+      "cz": "Pomohl jsi Locice vyhnat Písečné hory z věže.",
+      "source": "pre_existing",
+      "original_cz": "Pomohl jsi Locice vyhnat Písečné hory z věže."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_130_Tower_Group14_Step18_ReadyDescription",
+      "en": "Return the paints to Rapunzel.",
+      "cz": "Vrať barvy Locice.",
+      "source": "pre_existing",
+      "original_cz": "Vrať barvy Locice."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_130_Tower_Group14_Step18_StepDescription",
+      "en": "Investigate the chest in the corner of Rapunzel's Tower.",
+      "cz": "Prozkoumejte truhlici v rohu Locičiny věže.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte truhlici v rohu Locičiny věže."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_130_Tower_Group15_StepDescription",
+      "en": "Interact with the tower to grow the vines with Hourglass magic.",
+      "cz": "Interagujte s věží a pomocí magie přesýpacích hodin vypěstujte vinnou révu.",
+      "source": "pre_existing",
+      "original_cz": "Interagujte s věží a pomocí magie přesýpacích hodin vypěstujte vinnou révu."
+    }
+  ],
+  "ExpansionMain_Expansion01/MRQS_E01_140_Ending.locbin": [
+    {
+      "key": "Story!Expansion01!MRQS_E01_140_Ending_AvailableDescription",
+      "en": "Jafar has tasked you with finding the two Jewels of Time that are still missing from the Hourglass. You won't be able to reach the palace until you do. He suggests you start by exploring the Glittering Dunes and the Wild Tangle. Perhaps you'll find some new Villagers who can help you...",
+      "cz": "Džafar vám dal za úkol najít dva Klenoty času, které stále chybí v Přesýpacích hodinách. Do paláce se nedostanete, dokud je nenajdete. Navrhuje, abyste začali prozkoumáváním Třpytivých dun a Divoké spleti. Možná najdete nějaké nové vesničany, kteří vám pomohou...",
+      "source": "pre_existing",
+      "original_cz": "Džafar vám dal za úkol najít dva Klenoty času, které stále chybí v Přesýpacích hodinách. Do paláce se nedostanete, dokud je nenajdete. Navrhuje, abyste začali prozkoumáváním Třpytivých dun a Divoké spleti. Možná najdete nějaké nové vesničany, kteří vám pomohou..."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_140_Ending_DisplayName",
+      "en": "Your Eternal Reward",
+      "cz": "Vaše věčná odměna",
+      "source": "pre_existing",
+      "original_cz": "Vaše věčná odměna"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_140_Ending_Group01_Step01_Conditional01_StepDescription",
+      "en": "The Wild Tangle.",
+      "cz": "Divoká spleť.",
+      "source": "pre_existing",
+      "original_cz": "Divoká spleť."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_140_Ending_Group01_Step01_Conditional02_StepDescription",
+      "en": "The Glittering Dunes.",
+      "cz": "Třpytivé duny.",
+      "source": "pre_existing",
+      "original_cz": "Třpytivé duny."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_140_Ending_Group01_StepDescription",
+      "en": "Find the remaining two <ActivityItem>Jewels of Time</ActivityItem> by investigating:",
+      "cz": "Najděte zbývající dva <ActivityItem>Klenoty času</ActivityItem> prozkoumáním:",
+      "source": "pre_existing",
+      "original_cz": "Najděte zbývající dva <ActivityItem>Klenoty času</ActivityItem> prozkoumáním:"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_140_Ending_Group02_StepDescription",
+      "en": "Talk to Jafar at a Hologram Station.",
+      "cz": "Promluvte si s Jafarem na hologramové stanici.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Jafarem na hologramové stanici."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_140_Ending_Group02_StoryDescription",
+      "en": "With some help from Rapunzel and barely any help at all from Gaston, you managed to find both Jewels of Time. Your Hourglass is now closer than ever to its full power. It's time to return to Jafar...",
+      "cz": "S trochou pomoci od Lociky a téměř bez pomoci od Gastona se ti podařilo najít oba Klenoty času. Tvé přesýpací hodiny jsou nyní blíž než kdy dříve k plné síle. Je čas vrátit se k Jafarovi...",
+      "source": "pre_existing",
+      "original_cz": "S trochou pomoci od Lociky a téměř bez pomoci od Gastona se ti podařilo najít oba Klenoty času. Tvé přesýpací hodiny jsou nyní blíž než kdy dříve k plné síle. Je čas vrátit se k Jafarovi..."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_140_Ending_Group03_Step03_StepDescription",
+      "en": "(Search for Mist with your Hourglass, or access the Dreamlight menu and investigate your new <Lore>Mist Duties</Lore> by pressing {input_mainmenu}.)",
+      "cz": "(Vyhledejte Mlhu pomocí přesýpacích hodin nebo přejděte do nabídky Dreamlight a prozkoumejte své nové <Lore>Povinnosti v Mlze</Lore> stisknutím {input_mainmenu}.)",
+      "source": "pre_existing",
+      "original_cz": "(Vyhledejte Mlhu pomocí přesýpacích hodin nebo přejděte do nabídky Dreamlight a prozkoumejte své nové <Lore>Povinnosti v Mlze</Lore> stisknutím {input_mainmenu}.)"
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_140_Ending_Group03_StepDescription",
+      "en": "Unlock the <Lore>Borderlands</Lore> in the Glittering Dunes to reach the palace.",
+      "cz": "Odemkněte <Lore>Pohraničí</Lore> v Třpytivých dunách, abyste se dostali k paláci.",
+      "source": "pre_existing",
+      "original_cz": "Odemkněte <Lore>Pohraničí</Lore> v Třpytivých dunách, abyste se dostali k paláci."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_140_Ending_Group04_Step07_Interaction01_StepDescription",
+      "en": "Interact with the <ActivityItem>Time Anomaly</ActivityItem> in front of the door to Jafar's Palace.",
+      "cz": "Interakce s <ActivityItem>Časovou anomálií</ActivityItem> před dveřmi do Džafarova paláce.",
+      "source": "pre_existing",
+      "original_cz": "Interakce s <ActivityItem>Časovou anomálií</ActivityItem> před dveřmi do Džafarova paláce."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_140_Ending_Group05_Step05_TalkToCharacter02_StepDescription",
+      "en": "Talk to Jafar.",
+      "cz": "Promluvte si s Jafarem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Jafarem."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_140_Ending_Group05_StoryDescription",
+      "en": "You resolved the dangerous Time Anomaly around Jafar's Palace. Eternity Isle is safe... for now.",
+      "cz": "Vyřešili jste nebezpečnou časovou anomálii kolem Džafarova paláce. Ostrov Věčnosti je bezpečný... prozatím.",
+      "source": "pre_existing",
+      "original_cz": "Vyřešili jste nebezpečnou časovou anomálii kolem Džafarova paláce. Ostrov Věčnosti je bezpečný... prozatím."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_140_Ending_Group06_Step06_TalkToCharacter03_StepDescription",
+      "en": "Talk to Merlin.",
+      "cz": "Promluvte si s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Merlinem."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_140_Ending_Group06_StepDescription",
+      "en": "Jafar has vanished. But you get the feeling he'll be back...",
+      "cz": "Džafar zmizel. Ale máte pocit, že se vrátí...",
+      "source": "pre_existing",
+      "original_cz": "Džafar zmizel. Ale máte pocit, že se vrátí..."
+    },
+    {
+      "key": "Story!Expansion01!MRQS_E01_140_Ending_Group06_StoryDescription",
+      "en": "But when you confronted Jafar, you learned his true motivations. Jafar is after an ancient treasure known as the Spark of Imagination. With that, he would have the power to bend all of space and time to his whim. For now, Jafar has vanished... but when he returns, you'll have to be ready to stop his schemes.",
+      "cz": "Ale když jste se postavili Jafarovi, poznali jste jeho skutečné motivy. Jafar touží po starodávném pokladu známém jako Jiskra představivosti. S ní by měl moc ohýbat veškerý prostor a čas podle svého rozmaru. Prozatím Jafar zmizel... ale až se vrátí, budete muset být připraveni zastavit jeho plány.",
+      "source": "pre_existing",
+      "original_cz": "Ale když jste se postavili Jafarovi, poznali jste jeho skutečné motivy. Jafar touží po starodávném pokladu známém jako Jiskra představivosti. S ní by měl moc ohýbat veškerý prostor a čas podle svého rozmaru. Prozatím Jafar zmizel... ale až se vrátí, budete muset být připraveni zastavit jeho plány."
+    }
+  ],
+  "ExpansionMain_Expansion01/ORQS_E01_010_BoardGame.locbin": [
+    {
+      "key": "Story!Expansion01!ORQS_E01_010_BoardGame_Any_CompletedRequestDescription",
+      "en": "Talk to Mickey.",
+      "cz": "Promluv si s Mickey.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Mickey."
+    },
+    {
+      "key": "Story!Expansion01!ORQS_E01_010_BoardGame_AvailableDescription",
+      "en": "Mickey seems excited about something he's discovered on Eternity Isle. Perhaps you should talk to him.",
+      "cz": "Mickey se zdá být nadšený z něčeho, co objevil na Eternity Isle. Možná by sis s ním měl promluvit.",
+      "source": "pre_existing",
+      "original_cz": "Mickey se zdá být nadšený z něčeho, co objevil na Eternity Isle. Možná by sis s ním měl promluvit."
+    },
+    {
+      "key": "Story!Expansion01!ORQS_E01_010_BoardGame_DisplayName",
+      "en": "A Game of Coins",
+      "cz": "Hra o mince",
+      "source": "pre_existing",
+      "original_cz": "Hra o mince"
+    },
+    {
+      "key": "Story!Expansion01!ORQS_E01_010_BoardGame_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "Talk to Mickey.",
+      "cz": "Promluv si s Mickey.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Mickey."
+    },
+    {
+      "key": "Story!Expansion01!ORQS_E01_010_BoardGame_Group01_StepDescription",
+      "en": "Mickey has something he needs to show you.",
+      "cz": "Mickey ti potřebuje něco ukázat.",
+      "source": "pre_existing",
+      "original_cz": "Mickey ti potřebuje něco ukázat."
+    },
+    {
+      "key": "Story!Expansion01!ORQS_E01_010_BoardGame_Group02_Step02_StepDescription",
+      "en": "(Talk to Mickey and select Scramblecoin from his dialog menu to play!)",
+      "cz": "(Promluvte si s Mickey a z jeho dialogového menu vyberte Scramblecoin pro hraní!)",
+      "source": "pre_existing",
+      "original_cz": "(Promluvte si s Mickey a z jeho dialogového menu vyberte Scramblecoin pro hraní!)"
+    },
+    {
+      "key": "Story!Expansion01!ORQS_E01_010_BoardGame_Group02_StepDescription",
+      "en": "Win a game of Scramblecoin against Mickey Mouse.",
+      "cz": "Vyhrajte hru Scramblecoin proti Mickey Mouseovi.",
+      "source": "pre_existing",
+      "original_cz": "Vyhrajte hru Scramblecoin proti Mickey Mouseovi."
+    }
+  ],
+  "ExpansionMain_Expansion01/SEC_E01_Merlin_010.locbin": [
+    {
+      "key": "Secret!Expansion01!SEC_E01_Merlin_010_AvailableDescription",
+      "en": "Jafar told you how to use your Hourglass to find lost treasures and channel Mist. But Merlin might know more about it, and the magical Mist that it can channel. You'll need to speak to him for more answers.",
+      "cz": "Jafar vám řekl, jak používat přesýpací hodiny k nalezení ztracených pokladů a sesílání mlhy. Ale Merlin by o nich a o magické mlze, kterou dokáží sesílat, mohl vědět víc. Budete si s ním muset promluvit, abyste získali další odpovědi.",
+      "source": "pre_existing",
+      "original_cz": "Jafar vám řekl, jak používat přesýpací hodiny k nalezení ztracených pokladů a sesílání mlhy. Ale Merlin by o nich a o magické mlze, kterou dokáží sesílat, mohl vědět víc. Budete si s ním muset promluvit, abyste získali další odpovědi."
+    }
+  ]
+}

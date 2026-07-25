@@ -1,0 +1,435 @@
+{
+  "MonstersInc_Remy/Remy_VLG_Mike_020_VLG_Mike_020_BringItem03.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "Hey, {PlayerName}! Are you still helping Mike out with his cologne?",
+      "cz": "Ahoj, {PlayerName}! Pořád pomáháš Mikovi s jeho kolínskou?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}! Pořád pomáháš Mikovi s jeho kolínskou?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Ah well, worth a shot.",
+      "cz": "No, za pokus to stojí.",
+      "source": "pre_existing",
+      "original_cz": "No, za pokus to stojí."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Is that good or bad?",
+      "cz": "Je to dobré, nebo špatné?",
+      "source": "pre_existing",
+      "original_cz": "Je to dobré, nebo špatné?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I guess that means Mike will love it.",
+      "cz": "To asi znamená, že se to Mikovi bude líbit.",
+      "source": "pre_existing",
+      "original_cz": "To asi znamená, že se to Mikovi bude líbit."
+    },
+    {
+      "key": "Remy_001_f",
+      "en": "We've moved on to making tasty treats, and as the Village's culinary expert, we'd love to get your opinion!",
+      "cz": "Přešli jsme k výrobě chutných pochoutek a jakožto kulinářský expert naší vesnice bychom rádi znali váš názor!",
+      "source": "pre_existing",
+      "original_cz": "Přešli jsme k výrobě chutných pochoutek a jakožto kulinářský expert naší vesnice bychom rádi znali váš názor!"
+    },
+    {
+      "key": "Remy_002_f",
+      "en": "Oh wow, what did you make?",
+      "cz": "Páni, co jsi to udělal/a?",
+      "source": "pre_existing",
+      "original_cz": "Páni, co jsi to udělal/a?"
+    },
+    {
+      "key": "Remy_003_f",
+      "en": "It's a spin on one of Mike's favs from back home.",
+      "cz": "Je to variace na jeden z Mikových oblíbených filmů z domova.",
+      "source": "pre_existing",
+      "original_cz": "Je to variace na jeden z Mikových oblíbených filmů z domova."
+    },
+    {
+      "key": "Remy_004_f",
+      "en": "A <ActivityItem>Gourmet Rot Dog</ActivityItem>!",
+      "cz": "<ActivityItem>Gourmet Rot Dog</ActivityItem>!",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Gourmet Rot Dog</ActivityItem>!"
+    },
+    {
+      "key": "Remy_005_f",
+      "en": "Okay...",
+      "cz": "Dobře...",
+      "source": "pre_existing",
+      "original_cz": "Dobře..."
+    },
+    {
+      "key": "Remy_006_f",
+      "en": "Here, have a bite!",
+      "cz": "Tady, dej si sousto!",
+      "source": "pre_existing",
+      "original_cz": "Tady, dej si sousto!"
+    },
+    {
+      "key": "Remy_007_f",
+      "en": "...",
+      "cz": "...",
+      "source": "pre_existing",
+      "original_cz": "..."
+    },
+    {
+      "key": "Remy_008_f",
+      "en": "{PlayerName}, I'm sorry, but this tastes like garbage.",
+      "cz": "{PlayerName}, omlouvám se, ale tohle chutná jako odpad.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, omlouvám se, ale tohle chutná jako odpad."
+    },
+    {
+      "key": "Remy_009_f",
+      "en": "Hey, you can learn a lot from what goes wrong.",
+      "cz": "Hej, z toho, co se pokazí, se dá hodně naučit.",
+      "source": "pre_existing",
+      "original_cz": "Hej, z toho, co se pokazí, se dá hodně naučit."
+    },
+    {
+      "key": "Remy_013_f",
+      "en": "I'm sure you worked hard on this.",
+      "cz": "Jsem si jistý, že jsi na tom tvrdě pracoval.",
+      "source": "pre_existing",
+      "original_cz": "Jsem si jistý, že jsi na tom tvrdě pracoval."
+    },
+    {
+      "key": "Remy_014_f",
+      "en": "And no shame to garbage — my family and I ate LOTS of garbage before I became a chef.",
+      "cz": "A žádná ostuda za odpadky – moje rodina a já jsme snědli HODNĚ odpadků, než jsem se stal šéfkuchařem.",
+      "source": "pre_existing",
+      "original_cz": "A žádná ostuda za odpadky – moje rodina a já jsme snědli HODNĚ odpadků, než jsem se stal šéfkuchařem."
+    },
+    {
+      "key": "Remy_015_f",
+      "en": "But I'm happy that that chapter of my life is done.",
+      "cz": "Ale jsem rád, že tahle kapitola mého života je za mnou.",
+      "source": "pre_existing",
+      "original_cz": "Ale jsem rád, že tahle kapitola mého života je za mnou."
+    },
+    {
+      "key": "Remy_016_f",
+      "en": "Fair enough!",
+      "cz": "To je fér!",
+      "source": "pre_existing",
+      "original_cz": "To je fér!"
+    },
+    {
+      "key": "Remy_017_f",
+      "en": "Why don't you <Lore>bring it back to Mike</Lore>? I'm sure he'll enjoy it.",
+      "cz": "Proč to <Lore>nevrátíš Mikovi</Lore>? Jsem si jistý, že si to užije.",
+      "source": "pre_existing",
+      "original_cz": "Proč to <Lore>nevrátíš Mikovi</Lore>? Jsem si jistý, že si to užije."
+    },
+    {
+      "key": "Remy_010_f",
+      "en": "Well, from my perspective...",
+      "cz": "No, z mého pohledu...",
+      "source": "pre_existing",
+      "original_cz": "No, z mého pohledu..."
+    },
+    {
+      "key": "Remy_011_f",
+      "en": "It's not great.",
+      "cz": "Není to skvělé.",
+      "source": "pre_existing",
+      "original_cz": "Není to skvělé."
+    },
+    {
+      "key": "Remy_012_f",
+      "en": "I gotta say: I am fascinated by his palate.",
+      "cz": "Musím říct: Jeho chuťové pohárky mě fascinují.",
+      "source": "pre_existing",
+      "original_cz": "Musím říct: Jeho chuťové pohárky mě fascinují."
+    }
+  ],
+  "MonstersInc_Remy/Remy_VLG_Mike_020_VLG_Mike_020_TalkTo06.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "Hey there, {PlayerName}. What kind of culinary adventure are you on today?",
+      "cz": "Ahoj, {PlayerName}. Na jaké kulinářské dobrodružství se dnes vydáváš?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}. Na jaké kulinářské dobrodružství se dnes vydáváš?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "A rather strange one.",
+      "cz": "Docela zvláštní.",
+      "source": "pre_existing",
+      "original_cz": "Docela zvláštní."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I wish I knew.",
+      "cz": "Kéž bych to věděl.",
+      "source": "pre_existing",
+      "original_cz": "Kéž bych to věděl."
+    },
+    {
+      "key": "Remy_001_f",
+      "en": "Oh? Breaking new ground? Interesting...",
+      "cz": "Aha? Průlom v novém světě? Zajímavé...",
+      "source": "pre_existing",
+      "original_cz": "Aha? Průlom v novém světě? Zajímavé..."
+    },
+    {
+      "key": "Remy_011_f",
+      "en": "You're telling me!",
+      "cz": "To mi říkáš!",
+      "source": "pre_existing",
+      "original_cz": "To mi říkáš!"
+    },
+    {
+      "key": "Remy_012_f",
+      "en": "From the conversations I've had with Mike and Sulley...",
+      "cz": "Z rozhovorů, které jsem vedl s Mikem a Sulleym...",
+      "source": "pre_existing",
+      "original_cz": "Z rozhovorů, které jsem vedl s Mikem a Sulleym..."
+    },
+    {
+      "key": "Remy_013_f",
+      "en": "I wonder if they have an expanded range of taste.",
+      "cz": "Zajímalo by mě, jestli mají širší škálu chutí.",
+      "source": "pre_existing",
+      "original_cz": "Zajímalo by mě, jestli mají širší škálu chutí."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Expanded range? What do you mean?",
+      "cz": "Rozšířený dosah? Co tím myslíš?",
+      "source": "pre_existing",
+      "original_cz": "Rozšířený dosah? Co tím myslíš?"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "I'll let them worry about their own taste buds.",
+      "cz": "Nechám je, ať se starají o své vlastní chuťové pohárky.",
+      "source": "pre_existing",
+      "original_cz": "Nechám je, ať se starají o své vlastní chuťové pohárky."
+    },
+    {
+      "key": "Remy_003_f",
+      "en": "I'm helping Mike Wazowski with a little project.",
+      "cz": "Pomáhám Mikovi Wazowskému s malým projektem.",
+      "source": "pre_existing",
+      "original_cz": "Pomáhám Mikovi Wazowskému s malým projektem."
+    },
+    {
+      "key": "Remy_004_f",
+      "en": "We need a fish, one that might be a little aged. Think you might be able to help?",
+      "cz": "Potřebujeme rybu, možná trochu starou. Myslíte, že byste nám mohli pomoci?",
+      "source": "pre_existing",
+      "original_cz": "Potřebujeme rybu, možná trochu starou. Myslíte, že byste nám mohli pomoci?"
+    },
+    {
+      "key": "Remy_005_f",
+      "en": "Sure! Are you doing some experiments in fermentation?",
+      "cz": "Jasně! Děláš nějaké experimenty s fermentací?",
+      "source": "pre_existing",
+      "original_cz": "Jasně! Děláš nějaké experimenty s fermentací?"
+    },
+    {
+      "key": "Remy_006_f",
+      "en": "You might call it that...",
+      "cz": "Možná byste to tak nazvali...",
+      "source": "pre_existing",
+      "original_cz": "Možná byste to tak nazvali..."
+    },
+    {
+      "key": "Remy_007_f",
+      "en": "That's fantastic! Are you making some surströming? Maybe some funazushi?",
+      "cz": "To je fantastické! Děláš si surströming? Možná funazushi?",
+      "source": "pre_existing",
+      "original_cz": "To je fantastické! Děláš si surströming? Možná funazushi?"
+    },
+    {
+      "key": "Remy_008_f",
+      "en": "Just about every culture around the world uses fermentation in some way.",
+      "cz": "Téměř každá kultura na světě nějakým způsobem používá fermentaci.",
+      "source": "pre_existing",
+      "original_cz": "Téměř každá kultura na světě nějakým způsobem používá fermentaci."
+    },
+    {
+      "key": "Remy_009_f",
+      "en": "Actually... it will be for some cologne.",
+      "cz": "Vlastně... bude to na trochu kolínské.",
+      "source": "pre_existing",
+      "original_cz": "Vlastně... bude to na trochu kolínské."
+    },
+    {
+      "key": "Remy_010_f",
+      "en": "Oh! Okay... That's unusual.",
+      "cz": "Aha! Dobře... To je neobvyklé.",
+      "source": "pre_existing",
+      "original_cz": "Aha! Dobře... To je neobvyklé."
+    },
+    {
+      "key": "Remy_015_f",
+      "en": "Well, we all have specific tastes — sweet, salty, sour, etc.",
+      "cz": "No, všichni máme specifické chutě – sladké, slané, kyselé atd.",
+      "source": "pre_existing",
+      "original_cz": "No, všichni máme specifické chutě – sladké, slané, kyselé atd."
+    },
+    {
+      "key": "Remy_016_f",
+      "en": "But what if the monsters have a more expanded palate?",
+      "cz": "Ale co když mají monstra širší chuťové pohárky?",
+      "source": "pre_existing",
+      "original_cz": "Ale co když mají monstra širší chuťové pohárky?"
+    },
+    {
+      "key": "Remy_017_f",
+      "en": "What if what we think of as \"gross\" is just another taste to them the way bitter or umami is to us?",
+      "cz": "Co když to, co považujeme za „hnusné“, je pro ně jen další příchuť, stejně jako je pro nás hořká nebo umami?",
+      "source": "pre_existing",
+      "original_cz": "Co když to, co považujeme za „hnusné“, je pro ně jen další příchuť, stejně jako je pro nás hořká nebo umami?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I think you're on to something.",
+      "cz": "Myslím, že jsi na správné stopě.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že jsi na správné stopě."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I'm okay with my current taste buds.",
+      "cz": "S mými současnými chuťovými pohárky jsem v pohodě.",
+      "source": "pre_existing",
+      "original_cz": "S mými současnými chuťovými pohárky jsem v pohodě."
+    },
+    {
+      "key": "Remy_018_f",
+      "en": "Anyway, here's that fish.",
+      "cz": "Každopádně, tady je ta ryba.",
+      "source": "pre_existing",
+      "original_cz": "Každopádně, tady je ta ryba."
+    },
+    {
+      "key": "Remy_019_f",
+      "en": "Haven't had a lot of seafood orders the past couple days, so it's past its prime. I was just about to put it in the compost. Hopefully, it'll work for your plan.",
+      "cz": "Posledních pár dní jsem neměl moc objednávek mořských plodů, takže už jsou za zenitem. Zrovna jsem se je chystal dát do kompostu. Doufám, že to bude fungovat podle tvého plánu.",
+      "source": "pre_existing",
+      "original_cz": "Posledních pár dní jsem neměl moc objednávek mořských plodů, takže už jsou za zenitem. Zrovna jsem se je chystal dát do kompostu. Doufám, že to bude fungovat podle tvého plánu."
+    },
+    {
+      "key": "Remy_020_f",
+      "en": "Great, thanks Remy! I'll... try and breathe through my mouth while dealing with this.",
+      "cz": "Skvělé, díky, Remy! Zkusím... při tom dýchat ústy.",
+      "source": "pre_existing",
+      "original_cz": "Skvělé, díky, Remy! Zkusím... při tom dýchat ústy."
+    },
+    {
+      "key": "Remy_014_f",
+      "en": "I get that.",
+      "cz": "Chápu to.",
+      "source": "pre_existing",
+      "original_cz": "Chápu to."
+    },
+    {
+      "key": "Remy_002_f",
+      "en": "Huh. I'm intrigued!",
+      "cz": "Hm. To mě zajímá!",
+      "source": "pre_existing",
+      "original_cz": "Hm. To mě zajímá!"
+    }
+  ],
+  "MonstersInc_Remy/Remy_VLG_Sull_021_Mike_VLG_Sull_021_Mike_TalkTo02.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "Hey, {PlayerName}, what are we cooking today?",
+      "cz": "Ahoj, {PlayerName}, co dnes vaříme?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}, co dnes vaříme?"
+    },
+    {
+      "key": "Remy_001_f",
+      "en": "Mike asked me for fresh Ingredients. But when I brought them, he complained that they weren't like what you make for him.",
+      "cz": "Mike mě požádal o čerstvé ingredience. Ale když jsem mu je přinesl, stěžoval si, že nejsou takové, jaké pro něj děláte.",
+      "source": "pre_existing",
+      "original_cz": "Mike mě požádal o čerstvé ingredience. Ale když jsem mu je přinesl, stěžoval si, že nejsou takové, jaké pro něj děláte."
+    },
+    {
+      "key": "Remy_002_f",
+      "en": "I think I know what went wrong. I always make sure that each of his meals contains some <ActivityItem>Fresh Compost</ActivityItem>.",
+      "cz": "Myslím, že vím, co se pokazilo. Vždycky se ujistím, že každé jeho jídlo obsahuje nějaký <ActivityItem>čerstvý kompost</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že vím, co se pokazilo. Vždycky se ujistím, že každé jeho jídlo obsahuje nějaký <ActivityItem>čerstvý kompost</ActivityItem>."
+    },
+    {
+      "key": "Remy_008_f",
+      "en": "Monster palates seem to prefer a degree of decay.",
+      "cz": "Zdá se, že monstrózní chutě preferují určitý stupeň rozkladu.",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že monstrózní chutě preferují určitý stupeň rozkladu."
+    },
+    {
+      "key": "Remy_009_f",
+      "en": "So if I prepare something called a <ActivityItem>Hodgepodge à la Monstropolis</ActivityItem> and I already have <ActivityItem>Carrots</ActivityItem>, <ActivityItem>Corn</ActivityItem>, and <ActivityItem>Bell Peppers</ActivityItem>...",
+      "cz": "Takže když připravím něco s názvem <ActivityItem>Míšenka podle Monstropolis</ActivityItem> a už mám <ActivityItem>Mrkev</ActivityItem>, <ActivityItem>Kukuřici</ActivityItem> a <ActivityItem>Papriky</ActivityItem>...",
+      "source": "pre_existing",
+      "original_cz": "Takže když připravím něco s názvem <ActivityItem>Míšenka podle Monstropolis</ActivityItem> a už mám <ActivityItem>Mrkev</ActivityItem>, <ActivityItem>Kukuřici</ActivityItem> a <ActivityItem>Papriky</ActivityItem>..."
+    },
+    {
+      "key": "Remy_010_f",
+      "en": "Just add some <ActivityItem>Fresh Compost</ActivityItem> to the recipe and you're in business.",
+      "cz": "Stačí do receptu přidat trochu <ActivityItem>čerstvého kompostu</ActivityItem> a je to.",
+      "source": "pre_existing",
+      "original_cz": "Stačí do receptu přidat trochu <ActivityItem>čerstvého kompostu</ActivityItem> a je to."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "To each their own, I guess.",
+      "cz": "Každému své, myslím.",
+      "source": "pre_existing",
+      "original_cz": "Každému své, myslím."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "If that's what I need to do.",
+      "cz": "Pokud tohle musím udělat.",
+      "source": "pre_existing",
+      "original_cz": "Pokud tohle musím udělat."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Eww... Disgusting.",
+      "cz": "Fuj... Nechutné.",
+      "source": "pre_existing",
+      "original_cz": "Fuj... Nechutné."
+    },
+    {
+      "key": "Remy_003_f",
+      "en": "Exactly! One monster's delicacy is somebody else's garbage.",
+      "cz": "Přesně tak! Lahůdkou jednoho monstra jsou odpadky někoho jiného.",
+      "source": "pre_existing",
+      "original_cz": "Přesně tak! Lahůdkou jednoho monstra jsou odpadky někoho jiného."
+    },
+    {
+      "key": "Remy_006_f",
+      "en": "If you need some <ActivityItem>Fresh Compost</ActivityItem>, I just put it outside to enrich the soil. It should be near the Restaurant.",
+      "cz": "Pokud potřebujete nějaký <ActivityItem>čerstvý kompost</ActivityItem>, prostě ho dám ven, aby obohatil půdu. Měl by být blízko restaurace.",
+      "source": "pre_existing",
+      "original_cz": "Pokud potřebujete nějaký <ActivityItem>čerstvý kompost</ActivityItem>, prostě ho dám ven, aby obohatil půdu. Měl by být blízko restaurace."
+    },
+    {
+      "key": "Remy_004_f",
+      "en": "Sometimes that's what it takes to be a great chef.",
+      "cz": "Někdy je to přesně to, co je potřeba k tomu, abyste se stali skvělým šéfkuchařem.",
+      "source": "pre_existing",
+      "original_cz": "Někdy je to přesně to, co je potřeba k tomu, abyste se stali skvělým šéfkuchařem."
+    },
+    {
+      "key": "Remy_005_f",
+      "en": "Hey, not everyone eats the same thing. And it's not our place to judge but... I hear you. Monster food isn't my favorite, either.",
+      "cz": "Hele, ne každý jí to samé. A není na nás, abychom to soudili, ale... rozumím ti. Monster food taky není můj oblíbený.",
+      "source": "pre_existing",
+      "original_cz": "Hele, ne každý jí to samé. A není na nás, abychom to soudili, ale... rozumím ti. Monster food taky není můj oblíbený."
+    }
+  ]
+}

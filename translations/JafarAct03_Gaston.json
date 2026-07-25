@@ -1,0 +1,1673 @@
+{
+  "JafarAct03_Gaston/Gaston_MRQS_E01_230_MRQS_E01_230_TalkTo08.locbin": [
+    {
+      "key": "Gaston_000_f",
+      "en": "{PlayerName}, I'm not convinced the way you're running this Island is the best.",
+      "cz": "{PlayerName}, nejsem přesvědčen, že způsob, jakým tento ostrov řídíte, je nejlepší.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, nejsem přesvědčen, že způsob, jakým tento ostrov řídíte, je nejlepší."
+    },
+    {
+      "key": "Gaston_001_f",
+      "en": "I've made a list of all the ways you could improve things here.",
+      "cz": "Vytvořil jsem seznam všech způsobů, jak byste mohli věci tady vylepšit.",
+      "source": "pre_existing",
+      "original_cz": "Vytvořil jsem seznam všech způsobů, jak byste mohli věci tady vylepšit."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's hear it.",
+      "cz": "Pojďme si to poslechnout.",
+      "source": "pre_existing",
+      "original_cz": "Pojďme si to poslechnout."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Instead of that... why not help me out right now?",
+      "cz": "Místo toho... proč mi nepomůžeš hned teď?",
+      "source": "pre_existing",
+      "original_cz": "Místo toho... proč mi nepomůžeš hned teď?"
+    },
+    {
+      "key": "Gaston_002_f",
+      "en": "First, I don't like how things keep turning black and white. I suggest you stop all that.",
+      "cz": "Zaprvé se mi nelíbí, jak se věci pořád mění v černobílé. Navrhuji, abyste s tím přestali.",
+      "source": "pre_existing",
+      "original_cz": "Zaprvé se mi nelíbí, jak se věci pořád mění v černobílé. Navrhuji, abyste s tím přestali."
+    },
+    {
+      "key": "Gaston_003_f",
+      "en": "Next, Eternity Isle needs more statues of me. One in Ancient's Landing, one in the Glittering Dunes, and one in the Wild Tangle.",
+      "cz": "Dále, Ostrov věčnosti potřebuje další mé sochy. Jednu v Starověký Přístav, jednu v Třpytivé Duny a jednu v Divoké Spleťi.",
+      "source": "pre_existing",
+      "original_cz": "Dále, Ostrov věčnosti potřebuje další mé sochy. Jednu v Starověký Přístav, jednu v Třpytivé Duny a jednu v Divoké Spleťi."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Anything else?",
+      "cz": "Ještě něco?",
+      "source": "pre_existing",
+      "original_cz": "Ještě něco?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Okay, that's enough. How about you help me out now?",
+      "cz": "Dobře, to stačí. Co kdybys mi teď pomohl/a?",
+      "source": "pre_existing",
+      "original_cz": "Dobře, to stačí. Co kdybys mi teď pomohl/a?"
+    },
+    {
+      "key": "Gaston_004_f",
+      "en": "Yes! THIRDLY, the names of things around this Isle need to change. I was thinking of \"Gaston's Landing,\" the \"Gastonian Dunes,\" and the \"Tangle Gaston.\"",
+      "cz": "Ano! ZA TŘETÍ, názvy věcí na tomto ostrově se musí změnit. Myslel jsem na „Gastonovo přístaviště“, \"Gastonovy duny\" a \"Gastonův spletitý\".",
+      "source": "pre_existing",
+      "original_cz": "Ano! ZA TŘETÍ, názvy věcí na tomto ostrově se musí změnit. Myslel jsem na „Gastonovo přístaviště“, \"Gastonovy duny\" a \"Gastonův spletitý\"."
+    },
+    {
+      "key": "Gaston_005_f",
+      "en": "Fourthly, \"Eternity Isle\"? Please! Everyone should be calling the place \"Gaston.\" Or maybe \"Gaston's Eternity Isle\"!",
+      "cz": "Za čtvrté, \"Ostrov věčnosti\"? Prosím! Všichni by tomu místu měli říkat „Gaston“. Nebo možná \"Gastonův ostrov věčnosti\"!",
+      "source": "pre_existing",
+      "original_cz": "Za čtvrté, \"Ostrov věčnosti\"? Prosím! Všichni by tomu místu měli říkat „Gaston“. Nebo možná \"Gastonův ostrov věčnosti\"!"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Is that your whole list?",
+      "cz": "To je tvůj celý seznam?",
+      "source": "pre_existing",
+      "original_cz": "To je tvůj celý seznam?"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Okay, that's enough. How about you help me out now?",
+      "cz": "Dobře, to stačí. Co kdybys mi teď pomohl/a?",
+      "source": "pre_existing",
+      "original_cz": "Dobře, to stačí. Co kdybys mi teď pomohl/a?"
+    },
+    {
+      "key": "Gaston_006_f",
+      "en": "Hardly! Let me see... more sidekicks for me... daily performances to celebrate my feats... some sort of contraption to funnel eggs directly into my mouth even faster...",
+      "cz": "To sotva! Ukažte mi... další pomocníky... denní vystoupení na oslavu mých činů... nějaký vynález, který mi ještě rychleji nalévá vejce přímo do úst...",
+      "source": "pre_existing",
+      "original_cz": "To sotva! Ukažte mi... další pomocníky... denní vystoupení na oslavu mých činů... nějaký vynález, který mi ještě rychleji nalévá vejce přímo do úst..."
+    },
+    {
+      "key": "Gaston_007_f",
+      "en": "Ooh. Belle's love and admiration given only to me. That would improve things around here quite a bit, if you can manage it.",
+      "cz": "Jé. Bellina láska a obdiv věnované jen mně. To by tu docela zlepšilo situaci, pokud to zvládneš.",
+      "source": "pre_existing",
+      "original_cz": "Jé. Bellina láska a obdiv věnované jen mně. To by tu docela zlepšilo situaci, pokud to zvládneš."
+    },
+    {
+      "key": "Gaston_008_f",
+      "en": "Why don't we circle back to all that once we fix the more pressing issues around the Isle together?",
+      "cz": "Proč se k tomu všemu nevrátíme, až společně vyřešíme ty naléhavější problémy na ostrově?",
+      "source": "pre_existing",
+      "original_cz": "Proč se k tomu všemu nevrátíme, až společně vyřešíme ty naléhavější problémy na ostrově?"
+    },
+    {
+      "key": "Gaston_009_f",
+      "en": "Hmm... all right. Fine. What do you need?",
+      "cz": "Hmm... dobře. Fajn. Co potřebuješ?",
+      "source": "pre_existing",
+      "original_cz": "Hmm... dobře. Fajn. Co potřebuješ?"
+    },
+    {
+      "key": "Gaston_010_f",
+      "en": "Those black and white rifts around Eternity Isle... I need YOUR help to fix them.",
+      "cz": "Ty černobílé trhliny kolem Ostrov věčnosti... Potřebuji VAŠI pomoc s jejich opravou.",
+      "source": "pre_existing",
+      "original_cz": "Ty černobílé trhliny kolem Ostrov věčnosti... Potřebuji VAŠI pomoc s jejich opravou."
+    },
+    {
+      "key": "Gaston_011_f",
+      "en": "How convenient! A very pesky one just opened up in my camp.",
+      "cz": "To je výhodné! V mém táboře se právě objevil jeden velmi otravný.",
+      "source": "pre_existing",
+      "original_cz": "To je výhodné! V mém táboře se právě objevil jeden velmi otravný."
+    },
+    {
+      "key": "Gaston_012_f",
+      "en": "<Lore>Follow me</Lore>! I'll show you!",
+      "cz": "<Lore>Pojď za mnou</Lore>! Ukážu ti to!",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Pojď za mnou</Lore>! Ukážu ti to!"
+    }
+  ],
+  "JafarAct03_Gaston/Gaston_MRQS_E01_234_RiftRapunzel_MRQS_E01_234_RiftRapunzel_TalkTo05.locbin": [
+    {
+      "key": "Gaston_000_f",
+      "en": "Gaston, I've got a question for you, and I'm kind of afraid to know the answer. What's your heart's deepest wish?",
+      "cz": "Gastone, mám na tebe otázku a trochu se bojím znát odpověď. Jaké je tvé nejhlubší přání?",
+      "source": "pre_existing",
+      "original_cz": "Gastone, mám na tebe otázku a trochu se bojím znát odpověď. Jaké je tvé nejhlubší přání?"
+    },
+    {
+      "key": "Gaston_001_f",
+      "en": "My heart's deepest wish?",
+      "cz": "Nejhlubší přání mého srdce?",
+      "source": "pre_existing",
+      "original_cz": "Nejhlubší přání mého srdce?"
+    },
+    {
+      "key": "Gaston_002_f",
+      "en": "No one's ever asked me anything like that before. My heart has so many wishes.",
+      "cz": "Nikdo se mě na nic takového nikdy nepožádal. Moje srdce má tolik přání.",
+      "source": "pre_existing",
+      "original_cz": "Nikdo se mě na nic takového nikdy nepožádal. Moje srdce má tolik přání."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "But what's the biggest one?",
+      "cz": "Ale jaký je ten největší?",
+      "source": "pre_existing",
+      "original_cz": "Ale jaký je ten největší?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "How do you fit them all in that tiny heart?",
+      "cz": "Jak se to všechno vejde do toho malého srdce?",
+      "source": "pre_existing",
+      "original_cz": "Jak se to všechno vejde do toho malého srdce?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Don't think. Just answer.",
+      "cz": "Nepřemýšlej. Prostě odpověz.",
+      "source": "pre_existing",
+      "original_cz": "Nepřemýšlej. Prostě odpověz."
+    },
+    {
+      "key": "Gaston_003_f",
+      "en": "Hmm...",
+      "cz": "Hmm...",
+      "source": "pre_existing",
+      "original_cz": "Hmm..."
+    },
+    {
+      "key": "Gaston_004_f",
+      "en": "I suppose there is one thing I wish for most.",
+      "cz": "Asi je jedna věc, kterou si přeji nejvíc.",
+      "source": "pre_existing",
+      "original_cz": "Asi je jedna věc, kterou si přeji nejvíc."
+    },
+    {
+      "key": "Gaston_005_f",
+      "en": "Of course I already have so many gifts. I'm handsome... strong... brave...",
+      "cz": "Samozřejmě už mám tolik darů. Jsem pohledný... silný... statečný...",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě už mám tolik darů. Jsem pohledný... silný... statečný..."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Don't forget humble...",
+      "cz": "Nezapomeňte na skromnost...",
+      "source": "pre_existing",
+      "original_cz": "Nezapomeňte na skromnost..."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Not hearing a wish yet...",
+      "cz": "Zatím jsem žádné přání neslyšel...",
+      "source": "pre_existing",
+      "original_cz": "Zatím jsem žádné přání neslyšel..."
+    },
+    {
+      "key": "Gaston_006_f",
+      "en": "Ah, yes, humble!",
+      "cz": "Ach ano, pokorný!",
+      "source": "pre_existing",
+      "original_cz": "Ach ano, pokorný!"
+    },
+    {
+      "key": "Gaston_007_f",
+      "en": "I'm feared by some! Adored by the rest!",
+      "cz": "Někteří se mě bojí, ostatní mě zbožňují!",
+      "source": "pre_existing",
+      "original_cz": "Někteří se mě bojí, ostatní mě zbožňují!"
+    },
+    {
+      "key": "Gaston_008_f",
+      "en": "But there is one person whose admiration eludes me.",
+      "cz": "Ale je tu jeden člověk, jehož obdiv mi uniká.",
+      "source": "pre_existing",
+      "original_cz": "Ale je tu jeden člověk, jehož obdiv mi uniká."
+    },
+    {
+      "key": "Gaston_009_f",
+      "en": "A certain brunette who spends too much time reading and getting ideas in her head.",
+      "cz": "Jistá brunetka, která tráví příliš mnoho času čtením a vařením nápadů v hlavě.",
+      "source": "pre_existing",
+      "original_cz": "Jistá brunetka, která tráví příliš mnoho času čtením a vařením nápadů v hlavě."
+    },
+    {
+      "key": "Gaston_010_f",
+      "en": "Do you understand now, {PlayerName}? I wish that Belle could see me for who I truly am.",
+      "cz": "Rozumíš teď, {PlayerName}? Přála bych si, aby Belle mohla vidět, kým doopravdy jsem.",
+      "source": "pre_existing",
+      "original_cz": "Rozumíš teď, {PlayerName}? Přála bych si, aby Belle mohla vidět, kým doopravdy jsem."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "That's... surprisingly deep for you, Gaston.",
+      "cz": "To je... od tebe překvapivě hlubokomyslné, Gastone.",
+      "source": "pre_existing",
+      "original_cz": "To je... od tebe překvapivě hlubokomyslné, Gastone."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Have you ever heard the expression \"there are plenty of other fish in the sea\"?",
+      "cz": "Slyšeli jste někdy výraz „v moři je spousta jiných ryb“?",
+      "source": "pre_existing",
+      "original_cz": "Slyšeli jste někdy výraz „v moři je spousta jiných ryb“?"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Thanks for the wish, Gaston! That's all I needed!",
+      "cz": "Díky za přání, Gastone! To je vše, co jsem potřeboval/a!",
+      "source": "pre_existing",
+      "original_cz": "Díky za přání, Gastone! To je vše, co jsem potřeboval/a!"
+    },
+    {
+      "key": "Gaston_011_f",
+      "en": "Ugh. I know. I almost expressed... feelings... No! I need to go wrestle a bear or fight off bandits to banish this odd sensation.",
+      "cz": "Fuj. Já vím. Skoro jsem vyjádřil… pocity… Ne! Musím jít zápasit s medvědem nebo se ubránit banditům, abych se zbavil tohohle zvláštního pocitu.",
+      "source": "pre_existing",
+      "original_cz": "Fuj. Já vím. Skoro jsem vyjádřil… pocity… Ne! Musím jít zápasit s medvědem nebo se ubránit banditům, abych se zbavil tohohle zvláštního pocitu."
+    },
+    {
+      "key": "Gaston_012_f",
+      "en": "You do that! In the meantime, I need to keep helping Rapunzel!",
+      "cz": "Udělej to! Mezitím musím dál pomáhat Locice!",
+      "source": "pre_existing",
+      "original_cz": "Udělej to! Mezitím musím dál pomáhat Locice!"
+    },
+    {
+      "key": "Gaston_013_f",
+      "en": "I don't want a fish! I want Belle!",
+      "cz": "Nechci rybu! Chci Belle!",
+      "source": "pre_existing",
+      "original_cz": "Nechci rybu! Chci Belle!"
+    },
+    {
+      "key": "Gaston_014_f",
+      "en": "Gaston, it's just a metaphor... You know what? Don't worry about it. I need to get back to helping Rapunzel.",
+      "cz": "Gastone, to je jen metafora... Víš co? Nedělej si s tím starosti. Musím se vrátit k pomoci Locice.",
+      "source": "pre_existing",
+      "original_cz": "Gastone, to je jen metafora... Víš co? Nedělej si s tím starosti. Musím se vrátit k pomoci Locice."
+    },
+    {
+      "key": "Gaston_015_f",
+      "en": "Wait! Does this mean my wish will be granted?! You never said that part!",
+      "cz": "Počkej! Znamená to snad, že se mi přání splní?! Tuhle část jsi nikdy neřekl/a!",
+      "source": "pre_existing",
+      "original_cz": "Počkej! Znamená to snad, že se mi přání splní?! Tuhle část jsi nikdy neřekl/a!"
+    },
+    {
+      "key": "Gaston_016_f",
+      "en": "That isn't funny, {PlayerName}. I'll have you know my heart is nearly as large as my neck.",
+      "cz": "To není vtipné, {PlayerName}. Abys věděl, že moje srdce je skoro stejně velké jako můj krk.",
+      "source": "pre_existing",
+      "original_cz": "To není vtipné, {PlayerName}. Abys věděl, že moje srdce je skoro stejně velké jako můj krk."
+    },
+    {
+      "key": "Gaston_017_f",
+      "en": "Okay, okay. If you've got so much room for wishes in that heart, just tell me one.",
+      "cz": "Dobře, dobře. Jestli máš v tom srdci tolik místa na přání, řekni mi jen jedno.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, dobře. Jestli máš v tom srdci tolik místa na přání, řekni mi jen jedno."
+    }
+  ],
+  "JafarAct03_Gaston/Gaston_MRQS_E01_236_RiftGaston_MRQS_E01_236_RiftGaston_BringItem01.locbin": [
+    {
+      "key": "Gaston_000_f",
+      "en": "{PlayerName}, this is just a bunch of wood and glass. I'm not very impressed by your making-a-ship-in-a-bottle skills.",
+      "cz": "{PlayerName}, tohle je jen hromada dřeva a skla. Tvoje dovednosti ve stavbě lodi v lahvi na mě moc nepůsobí dojmem.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, tohle je jen hromada dřeva a skla. Tvoje dovednosti ve stavbě lodi v lahvi na mě moc nepůsobí dojmem."
+    },
+    {
+      "key": "Gaston_001_f",
+      "en": "These are just the materials. You have to make it yourself, Gaston!",
+      "cz": "To jsou jen materiály. Musíš si to vyrobit sám, Gastone!",
+      "source": "pre_existing",
+      "original_cz": "To jsou jen materiály. Musíš si to vyrobit sám, Gastone!"
+    },
+    {
+      "key": "Gaston_002_f",
+      "en": "Come on. Let's get to it.",
+      "cz": "Pojďme na to.",
+      "source": "pre_existing",
+      "original_cz": "Pojďme na to."
+    },
+    {
+      "key": "Gaston_003_f",
+      "en": "If I must...",
+      "cz": "Pokud musím...",
+      "source": "pre_existing",
+      "original_cz": "Pokud musím..."
+    },
+    {
+      "key": "Gaston_009_f",
+      "en": "There!",
+      "cz": "Tam!",
+      "source": "pre_existing",
+      "original_cz": "Tam!"
+    },
+    {
+      "key": "Gaston_004_f",
+      "en": "What do you think?",
+      "cz": "Co si o tom myslíš?",
+      "source": "pre_existing",
+      "original_cz": "Co si o tom myslíš?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "It's beautiful.",
+      "cz": "Je to krásné.",
+      "source": "pre_existing",
+      "original_cz": "Je to krásné."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Well... at least you tried.",
+      "cz": "No... alespoň jsi to zkusil/a.",
+      "source": "pre_existing",
+      "original_cz": "No... alespoň jsi to zkusil/a."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Did you just break open the bottle and tape it back together after?!",
+      "cz": "To jsi jenom rozbil láhev a pak ji zase slepil páskou?!",
+      "source": "pre_existing",
+      "original_cz": "To jsi jenom rozbil láhev a pak ji zase slepil páskou?!"
+    },
+    {
+      "key": "Gaston_005_f",
+      "en": "Of course it is. It's the first thing I've ever imagined, and it came out perfectly!",
+      "cz": "Jasně že je. Je to první věc, kterou jsem si kdy představoval, a vyšlo to perfektně!",
+      "source": "pre_existing",
+      "original_cz": "Jasně že je. Je to první věc, kterou jsem si kdy představoval, a vyšlo to perfektně!"
+    },
+    {
+      "key": "Gaston_006_f",
+      "en": "Let's go! Now we've just gotta go <Lore>toss it in the rift</Lore>.",
+      "cz": "Jdeme na to! Teď to musíme jen <Lore>hodit do trhliny</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Jdeme na to! Teď to musíme jen <Lore>hodit do trhliny</Lore>."
+    },
+    {
+      "key": "Gaston_007_f",
+      "en": "Ha! Barely! And it still came out perfectly.",
+      "cz": "Ha! Sotva! A stejně to dopadlo perfektně.",
+      "source": "pre_existing",
+      "original_cz": "Ha! Sotva! A stejně to dopadlo perfektně."
+    },
+    {
+      "key": "Gaston_008_f",
+      "en": "I detect a hint of jealousy, {PlayerName}. Don't worry. Someday you'll make something half as good.",
+      "cz": "Cítím náznak žárlivosti, {PlayerName}. Neboj se. Jednou uděláš něco alespoň z poloviny tak dobrého.",
+      "source": "pre_existing",
+      "original_cz": "Cítím náznak žárlivosti, {PlayerName}. Neboj se. Jednou uděláš něco alespoň z poloviny tak dobrého."
+    }
+  ],
+  "JafarAct03_Gaston/Gaston_MRQS_E01_236_RiftGaston_MRQS_E01_236_RiftGaston_Ongoing01.locbin": [
+    {
+      "key": "Gaston_000_f",
+      "en": "Well, follow me, obviously! And don't be a laggard!",
+      "cz": "No, samozřejmě mě následujte! A nebuďte opoždění!",
+      "source": "pre_existing",
+      "original_cz": "No, samozřejmě mě následujte! A nebuďte opoždění!"
+    }
+  ],
+  "JafarAct03_Gaston/Gaston_MRQS_E01_236_RiftGaston_MRQS_E01_236_RiftGaston_Ongoing02.locbin": [
+    {
+      "key": "Gaston_000_f",
+      "en": "That ship in a bottle's not going to build itself.",
+      "cz": "Ta loď v lahvi se sama nepostaví.",
+      "source": "pre_existing",
+      "original_cz": "Ta loď v lahvi se sama nepostaví."
+    }
+  ],
+  "JafarAct03_Gaston/Gaston_MRQS_E01_236_RiftGaston_MRQS_E01_236_RiftGaston_Ongoing05.locbin": [
+    {
+      "key": "Gaston_000_f",
+      "en": "You've got all the materials? Then follow me!",
+      "cz": "Máš všechny materiály? Tak pojď za mnou!",
+      "source": "pre_existing",
+      "original_cz": "Máš všechny materiály? Tak pojď za mnou!"
+    }
+  ],
+  "JafarAct03_Gaston/Gaston_MRQS_E01_236_RiftGaston_MRQS_E01_236_RiftGaston_Ongoing06.locbin": [
+    {
+      "key": "Gaston_000_f",
+      "en": "You were going to ask that odd rabbit to give us help using our imaginations.",
+      "cz": "Chtěl jsi požádat toho divného králíka, aby nám pomohl s naší fantazií.",
+      "source": "pre_existing",
+      "original_cz": "Chtěl jsi požádat toho divného králíka, aby nám pomohl s naší fantazií."
+    }
+  ],
+  "JafarAct03_Gaston/Gaston_MRQS_E01_236_RiftGaston_MRQS_E01_236_RiftGaston_Ongoing07.locbin": [
+    {
+      "key": "Gaston_000_f",
+      "en": "Follow me! We must visit the place where I was first shipwrecked on Eternity Isle!",
+      "cz": "Pojďte za mnou! Musíme navštívit místo, kde jsem poprvé ztroskotal na Ostrově věčnosti!",
+      "source": "pre_existing",
+      "original_cz": "Pojďte za mnou! Musíme navštívit místo, kde jsem poprvé ztroskotal na Ostrově věčnosti!"
+    }
+  ],
+  "JafarAct03_Gaston/Gaston_MRQS_E01_236_RiftGaston_MRQS_E01_236_RiftGaston_Ongoing08.locbin": [
+    {
+      "key": "Gaston_000_f",
+      "en": "Follow me to higher ground!",
+      "cz": "Následuj mě na vyšší místa!",
+      "source": "pre_existing",
+      "original_cz": "Následuj mě na vyšší místa!"
+    }
+  ],
+  "JafarAct03_Gaston/Gaston_MRQS_E01_236_RiftGaston_MRQS_E01_236_RiftGaston_TalkTo02.locbin": [
+    {
+      "key": "Gaston_000_f",
+      "en": "Well? What did that irritating rabbit say?",
+      "cz": "No a co na to ten otravný králík řekl?",
+      "source": "pre_existing",
+      "original_cz": "No a co na to ten otravný králík řekl?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "He said you threatened to turn him into a stew.",
+      "cz": "Řekl, že jsi mu vyhrožoval, že z něj uděláš guláš.",
+      "source": "pre_existing",
+      "original_cz": "Řekl, že jsi mu vyhrožoval, že z něj uděláš guláš."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "He said something about you hunting him?",
+      "cz": "Říkal něco o tom, že ho lovíš?",
+      "source": "pre_existing",
+      "original_cz": "Říkal něco o tom, že ho lovíš?"
+    },
+    {
+      "key": "Gaston_001_f",
+      "en": "Threatened...? Ha! I was merely speculating on how easy he would be to hunt and whether it would be worth it.",
+      "cz": "Ohrožený...? Ha! Jen jsem spekuloval o tom, jak snadné by ho bylo ulovit a jestli by to stálo za to.",
+      "source": "pre_existing",
+      "original_cz": "Ohrožený...? Ha! Jen jsem spekuloval o tom, jak snadné by ho bylo ulovit a jestli by to stálo za to."
+    },
+    {
+      "key": "Gaston_002_f",
+      "en": "In the end, I decided he'd be much too stringy to make a satisfying stew.",
+      "cz": "Nakonec jsem usoudil, že by byl příliš vláknitý na to, aby z něj byl uspokojivý guláš.",
+      "source": "pre_existing",
+      "original_cz": "Nakonec jsem usoudil, že by byl příliš vláknitý na to, aby z něj byl uspokojivý guláš."
+    },
+    {
+      "key": "Gaston_008_f",
+      "en": "Let's just be clear. No hunting anyone. Got it?",
+      "cz": "Aby bylo jasno. Žádný lov na nikoho. Rozumíš?",
+      "source": "pre_existing",
+      "original_cz": "Aby bylo jasno. Žádný lov na nikoho. Rozumíš?"
+    },
+    {
+      "key": "Gaston_009_f",
+      "en": "*sigh* Fine. But you won't stop me from target practice. I have to stay sharp!",
+      "cz": "*povzdech* Fajn. Ale nezabráníš mi v tréninku střelby. Musím zůstat bystrý!",
+      "source": "pre_existing",
+      "original_cz": "*povzdech* Fajn. Ale nezabráníš mi v tréninku střelby. Musím zůstat bystrý!"
+    },
+    {
+      "key": "Gaston_007_f",
+      "en": "Target practicing is okay, but forget about that for now. What's important is Oswald suggested we go on a little Island tour.",
+      "cz": "Cvičení na střelbu je v pořádku, ale na to teď zapomeňte. Důležité je, že Oswald navrhl, abychom se vydali na malou prohlídku ostrova.",
+      "source": "pre_existing",
+      "original_cz": "Cvičení na střelbu je v pořádku, ale na to teď zapomeňte. Důležité je, že Oswald navrhl, abychom se vydali na malou prohlídku ostrova."
+    },
+    {
+      "key": "Gaston_003_f",
+      "en": "An Island tour?",
+      "cz": "Výlet na ostrov?",
+      "source": "pre_existing",
+      "original_cz": "Výlet na ostrov?"
+    },
+    {
+      "key": "Gaston_004_f",
+      "en": "That's right, Gaston! We need to stir up your emotions, get you thinking on some of your past heroic deeds!",
+      "cz": "Přesně tak, Gastone! Musíme v tobě probudit emoce, přimět tě zamyslet se nad některými tvými minulými hrdinskými činy!",
+      "source": "pre_existing",
+      "original_cz": "Přesně tak, Gastone! Musíme v tobě probudit emoce, přimět tě zamyslet se nad některými tvými minulými hrdinskými činy!"
+    },
+    {
+      "key": "Gaston_005_f",
+      "en": "Hmm... well, there is the place where I was first shipwrecked here on Eternity Isle. That was an exceedingly heroic moment.",
+      "cz": "Hmm... no, tady na Ostrov věčnosti je to místo, kde jsem poprvé ztroskotal. To byl nesmírně hrdinský okamžik.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... no, tady na Ostrov věčnosti je to místo, kde jsem poprvé ztroskotal. To byl nesmírně hrdinský okamžik."
+    },
+    {
+      "key": "Gaston_006_f",
+      "en": "That's perfect! <Lore>Lead the way!</Lore>",
+      "cz": "To je perfektní! <Lore>Veďte cestu!</Lore>",
+      "source": "pre_existing",
+      "original_cz": "To je perfektní! <Lore>Veďte cestu!</Lore>"
+    }
+  ],
+  "JafarAct03_Gaston/Gaston_MRQS_E01_236_RiftGaston_MRQS_E01_236_RiftGaston_TalkToDialog01.locbin": [
+    {
+      "key": "Gaston_000_f",
+      "en": "Do you see this... this thing?",
+      "cz": "Vidíš tohle... tuhle věc?",
+      "source": "pre_existing",
+      "original_cz": "Vidíš tohle... tuhle věc?"
+    },
+    {
+      "key": "Gaston_001_f",
+      "en": "It's blocking my entire camp!",
+      "cz": "Blokuje mi to celý tábor!",
+      "source": "pre_existing",
+      "original_cz": "Blokuje mi to celý tábor!"
+    },
+    {
+      "key": "Gaston_002_f",
+      "en": "It's pretty annoying. But I know just how we can fix it.",
+      "cz": "Je to docela otravné. Ale vím, jak to můžeme napravit.",
+      "source": "pre_existing",
+      "original_cz": "Je to docela otravné. Ale vím, jak to můžeme napravit."
+    },
+    {
+      "key": "Gaston_003_f",
+      "en": "We need to use our imaginations together and make something to throw inside of it.",
+      "cz": "Musíme společně zapojit fantazii a vytvořit něco, co do něj hodíme.",
+      "source": "pre_existing",
+      "original_cz": "Musíme společně zapojit fantazii a vytvořit něco, co do něj hodíme."
+    },
+    {
+      "key": "Gaston_004_f",
+      "en": "Imagination?! Ha! Who needs imagination when you have strength? Courage? Cunning?",
+      "cz": "Představivost?! Ha! Kdo potřebuje představivost, když má sílu? Odvahu? Lstivost?",
+      "source": "pre_existing",
+      "original_cz": "Představivost?! Ha! Kdo potřebuje představivost, když má sílu? Odvahu? Lstivost?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Gaston... are you SCARED to use your imagination?",
+      "cz": "Gastone... bojíš se použít svou fantazii?",
+      "source": "pre_existing",
+      "original_cz": "Gastone... bojíš se použít svou fantazii?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "All of those things are useless to us right now.",
+      "cz": "Všechny tyto věci jsou nám teď k ničemu.",
+      "source": "pre_existing",
+      "original_cz": "Všechny tyto věci jsou nám teď k ničemu."
+    },
+    {
+      "key": "Gaston_005_f",
+      "en": "Scared?! ME?! Of course not!",
+      "cz": "Bojíš se?! JÁ?! Samozřejmě, že ne!",
+      "source": "pre_existing",
+      "original_cz": "Bojíš se?! JÁ?! Samozřejmě, že ne!"
+    },
+    {
+      "key": "Gaston_006_f",
+      "en": "I... I... well, all right. I'm not SCARED, but it is something I've never really done before.",
+      "cz": "Já... já... no, dobře. NEBOJÍM SE, ale je to něco, co jsem nikdy předtím doopravdy nedělal.",
+      "source": "pre_existing",
+      "original_cz": "Já... já... no, dobře. NEBOJÍM SE, ale je to něco, co jsem nikdy předtím doopravdy nedělal."
+    },
+    {
+      "key": "Gaston_007_f",
+      "en": "That sort of thing is more for Belle, or her father Maurice. You know — odd people.",
+      "cz": "Tohle je spíš pro Belle nebo jejího otce Maurice. Víte – divné lidi.",
+      "source": "pre_existing",
+      "original_cz": "Tohle je spíš pro Belle nebo jejího otce Maurice. Víte – divné lidi."
+    },
+    {
+      "key": "Gaston_008_f",
+      "en": "Well, if it's something you've never done before... maybe you need an imagination coach?",
+      "cz": "No, pokud je to něco, co jste nikdy předtím nedělali... možná potřebujete kouče představivosti?",
+      "source": "pre_existing",
+      "original_cz": "No, pokud je to něco, co jste nikdy předtím nedělali... možná potřebujete kouče představivosti?"
+    },
+    {
+      "key": "Gaston_009_f",
+      "en": "But who would be capable of coaching ME?",
+      "cz": "Ale kdo by byl schopen trénovat MĚ?",
+      "source": "pre_existing",
+      "original_cz": "Ale kdo by byl schopen trénovat MĚ?"
+    },
+    {
+      "key": "Gaston_010_f",
+      "en": "I think I've got juuust the lucky rabbit we need.",
+      "cz": "Myslím, že mám přesně toho šťastného králíka, kterého potřebujeme.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že mám přesně toho šťastného králíka, kterého potřebujeme."
+    },
+    {
+      "key": "Gaston_011_f",
+      "en": "I'll go <Lore>ask Oswald</Lore>!",
+      "cz": "Půjdu se <Lore>zeptat Oswalda</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Půjdu se <Lore>zeptat Oswalda</Lore>!"
+    },
+    {
+      "key": "Gaston_012_f",
+      "en": "Useless?! Impossible!",
+      "cz": "K ničemu?! Nemožné!",
+      "source": "pre_existing",
+      "original_cz": "K ničemu?! Nemožné!"
+    },
+    {
+      "key": "Gaston_013_f",
+      "en": "'Fraid so. Only the magic of imagination will help us close this rift.",
+      "cz": "„Obávám se, že ano. Jen kouzlo představivosti nám pomůže překlenout tuhle trhlinu.“",
+      "source": "pre_existing",
+      "original_cz": "„Obávám se, že ano. Jen kouzlo představivosti nám pomůže překlenout tuhle trhlinu.“"
+    },
+    {
+      "key": "Gaston_014_f",
+      "en": "But I'm not sure I've ever used my imagination before.",
+      "cz": "Ale nejsem si jistý/á, jestli jsem někdy předtím použil/a svou fantazii.",
+      "source": "pre_existing",
+      "original_cz": "Ale nejsem si jistý/á, jestli jsem někdy předtím použil/a svou fantazii."
+    }
+  ],
+  "JafarAct03_Gaston/Gaston_MRQS_E01_236_RiftGaston_MRQS_E01_236_RiftGaston_TalkToDialog02.locbin": [
+    {
+      "key": "Gaston_000_f",
+      "en": "It's so beautiful. Almost a shame to toss it in there...",
+      "cz": "Je to tak krásné. Skoro škoda to tam hodit...",
+      "source": "pre_existing",
+      "original_cz": "Je to tak krásné. Skoro škoda to tam hodit..."
+    },
+    {
+      "key": "Gaston_001_f",
+      "en": "But I suppose I can always make another.",
+      "cz": "Ale myslím, že si vždycky můžu udělat další.",
+      "source": "pre_existing",
+      "original_cz": "Ale myslím, že si vždycky můžu udělat další."
+    },
+    {
+      "key": "Gaston_002_f",
+      "en": "HA! Did you see that, {PlayerName}?",
+      "cz": "HA! Viděl jsi to, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "HA! Viděl jsi to, {PlayerName}?"
+    },
+    {
+      "key": "Gaston_003_f",
+      "en": "The rift shrank away to nothing!",
+      "cz": "Trhlina se zmenšila na nic!",
+      "source": "pre_existing",
+      "original_cz": "Trhlina se zmenšila na nic!"
+    },
+    {
+      "key": "Gaston_004_f",
+      "en": "All thanks to my glorious imagination!",
+      "cz": "To vše díky mé úžasné fantazii!",
+      "source": "pre_existing",
+      "original_cz": "To vše díky mé úžasné fantazii!"
+    }
+  ],
+  "JafarAct03_Gaston/Gaston_MRQS_E01_236_RiftGaston_MRQS_E01_236_RiftGaston_TalkToDialog03.locbin": [
+    {
+      "key": "Gaston_000_f",
+      "en": "This is it. When I was shipwrecked on the Isle, the wave carried us all the way here into the desert.",
+      "cz": "To je ono. Když jsem ztroskotal na ostrově, vlna nás zanesla až sem do pouště.",
+      "source": "pre_existing",
+      "original_cz": "To je ono. Když jsem ztroskotal na ostrově, vlna nás zanesla až sem do pouště."
+    },
+    {
+      "key": "Gaston_001_f",
+      "en": "Okay, Gaston. Think about that moment. Remember the salty sea air, the waves crashing against the hull... How did you feel?",
+      "cz": "Dobře, Gastone. Vzpomeň si na ten okamžik. Vzpomeň si na slaný mořský vzduch, vlny narážející do trupu... Jaký jsi měl pocit?",
+      "source": "pre_existing",
+      "original_cz": "Dobře, Gastone. Vzpomeň si na ten okamžik. Vzpomeň si na slaný mořský vzduch, vlny narážející do trupu... Jaký jsi měl pocit?"
+    },
+    {
+      "key": "Gaston_002_f",
+      "en": "How did I feel?",
+      "cz": "Jak jsem se cítil/a?",
+      "source": "pre_existing",
+      "original_cz": "Jak jsem se cítil/a?"
+    },
+    {
+      "key": "Gaston_003_f",
+      "en": "...",
+      "cz": "...",
+      "source": "pre_existing",
+      "original_cz": "..."
+    },
+    {
+      "key": "Gaston_004_f",
+      "en": "Hungry, I suppose.",
+      "cz": "Hladový, asi.",
+      "source": "pre_existing",
+      "original_cz": "Hladový, asi."
+    },
+    {
+      "key": "Gaston_005_f",
+      "en": "This is hopeless. Maybe there's somewhere else I can bring you...",
+      "cz": "To je beznadějné. Možná tě můžu vzít někam jinam...",
+      "source": "pre_existing",
+      "original_cz": "To je beznadějné. Možná tě můžu vzít někam jinam..."
+    },
+    {
+      "key": "Gaston_006_f",
+      "en": "Hmm... Perhaps if I could see the whole area and imagine how it looked from above... that might spark something.",
+      "cz": "Hmm... Možná kdybych se mohl podívat na celou oblast a představit si, jak vypadá shora... to by mohlo něco vyvolat.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Možná kdybych se mohl podívat na celou oblast a představit si, jak vypadá shora... to by mohlo něco vyvolat."
+    },
+    {
+      "key": "Gaston_007_f",
+      "en": "Great idea! Let's try to find somewhere like that!",
+      "cz": "Skvělý nápad! Zkusme něco takového najít!",
+      "source": "pre_existing",
+      "original_cz": "Skvělý nápad! Zkusme něco takového najít!"
+    }
+  ],
+  "JafarAct03_Gaston/Gaston_MRQS_E01_236_RiftGaston_MRQS_E01_236_RiftGaston_TalkToDialog04.locbin": [
+    {
+      "key": "Gaston_000_f",
+      "en": "Ahhh, yes, this is a much better vantage point.",
+      "cz": "Ááá, ano, tohle je mnohem lepší úhel pohledu.",
+      "source": "pre_existing",
+      "original_cz": "Ááá, ano, tohle je mnohem lepší úhel pohledu."
+    },
+    {
+      "key": "Gaston_001_f",
+      "en": "Why, from up here, the ship must have looked as tiny as one of those ships in a bottle.",
+      "cz": "Vždyť odsud musela loď vypadat malinká jako jedna z těch lodí v lahvi.",
+      "source": "pre_existing",
+      "original_cz": "Vždyť odsud musela loď vypadat malinká jako jedna z těch lodí v lahvi."
+    },
+    {
+      "key": "Gaston_002_f",
+      "en": "Wait a moment... a ship in a bottle! That would be something imaginative!",
+      "cz": "Počkejte chvíli... loď v láhvi! To by bylo něco nápaditého!",
+      "source": "pre_existing",
+      "original_cz": "Počkejte chvíli... loď v láhvi! To by bylo něco nápaditého!"
+    },
+    {
+      "key": "Gaston_003_f",
+      "en": "Where I come from, great sea captains would have woodworkers make a ship in a bottle to remember their most illustrious expeditions. We must make something like that!",
+      "cz": "Tam, odkud pocházím, si velcí námořní kapitáni nechávali truhláře vyrobit loď v lahvi na památku svých nejslavnějších expedic. Něco takového musíme vyrobit i my!",
+      "source": "pre_existing",
+      "original_cz": "Tam, odkud pocházím, si velcí námořní kapitáni nechávali truhláře vyrobit loď v lahvi na památku svých nejslavnějších expedic. Něco takového musíme vyrobit i my!"
+    },
+    {
+      "key": "Gaston_004_f",
+      "en": "Wow, Gaston! I'm impressed. That's some good imagining!",
+      "cz": "Páni, Gastone! Jsem ohromen. To je ale dobrá představivost!",
+      "source": "pre_existing",
+      "original_cz": "Páni, Gastone! Jsem ohromen. To je ale dobrá představivost!"
+    },
+    {
+      "key": "Gaston_005_f",
+      "en": "You start figuring out what the boat should look like. I'll go <Lore>gather some materials</Lore>.",
+      "cz": "Začneš vymýšlet, jak by měla loď vypadat. Já půjdu <Lore>shromáždit nějaké materiály</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Začneš vymýšlet, jak by měla loď vypadat. Já půjdu <Lore>shromáždit nějaké materiály</Lore>."
+    }
+  ],
+  "JafarAct03_Gaston/Gaston_SEC_Jafa_010_SEC_Jafa_010_TalkTo06.locbin": [
+    {
+      "key": "Gaston_001_f",
+      "en": "Hey Gaston, got a moment to talk about Jafar?",
+      "cz": "Hej Gastone, máš chvilku na rozhovor o Jafarovi?",
+      "source": "pre_existing",
+      "original_cz": "Hej Gastone, máš chvilku na rozhovor o Jafarovi?"
+    },
+    {
+      "key": "Gaston_002_f",
+      "en": "How strange. I was just talking with him earlier.",
+      "cz": "To je zvláštní. Zrovna jsem s ním předtím mluvil.",
+      "source": "pre_existing",
+      "original_cz": "To je zvláštní. Zrovna jsem s ním předtím mluvil."
+    },
+    {
+      "key": "Gaston_003_f",
+      "en": "Oh yeah? Was he mean? Nice? Somewhere in the middle?",
+      "cz": "Jo? Byl zlý? Milý? Někde uprostřed?",
+      "source": "pre_existing",
+      "original_cz": "Jo? Byl zlý? Milý? Někde uprostřed?"
+    },
+    {
+      "key": "Gaston_004_f",
+      "en": "He was finally behaving right — he brought me a gift!",
+      "cz": "Konečně se choval slušně – přinesl mi dárek!",
+      "source": "pre_existing",
+      "original_cz": "Konečně se choval slušně – přinesl mi dárek!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "How kind of him!",
+      "cz": "Jak laskavé od něj!",
+      "source": "pre_existing",
+      "original_cz": "Jak laskavé od něj!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Was this gift a snake statue with glowing eyes?",
+      "cz": "Byl tento dar socha hada se zářícíma očima?",
+      "source": "pre_existing",
+      "original_cz": "Byl tento dar socha hada se zářícíma očima?"
+    },
+    {
+      "key": "Gaston_009_f",
+      "en": "And it was even a gift I wanted.",
+      "cz": "A byl to dokonce i dárek, který jsem si přála.",
+      "source": "pre_existing",
+      "original_cz": "A byl to dokonce i dárek, který jsem si přála."
+    },
+    {
+      "key": "Gaston_011_f",
+      "en": "Jafar gave me a set of weights! He said he saw me with coconut-based exercise equipment so he made me something more solid.",
+      "cz": "Džafar mi dal sadu závaží! Řekl, že mě viděl s cvičebním nářadím na bázi kokosu, tak mi vyrobil něco pevnějšího.",
+      "source": "pre_existing",
+      "original_cz": "Džafar mi dal sadu závaží! Řekl, že mě viděl s cvičebním nářadím na bázi kokosu, tak mi vyrobil něco pevnějšího."
+    },
+    {
+      "key": "Gaston_005_f",
+      "en": "He also complimented me on my clothes. Said something about how <Lore>red and black</Lore> were noble colors.",
+      "cz": "Také mi pochválil oblečení. Řekl něco o tom, že <Lore>červená a černá</Lore> jsou ušlechtilé barvy.",
+      "source": "pre_existing",
+      "original_cz": "Také mi pochválil oblečení. Řekl něco o tom, že <Lore>červená a černá</Lore> jsou ušlechtilé barvy."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "That's quite unexpected!",
+      "cz": "To je docela nečekané!",
+      "source": "pre_existing",
+      "original_cz": "To je docela nečekané!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Wow, really seems like he's making an effort!",
+      "cz": "Páni, vypadá to, že se opravdu snaží!",
+      "source": "pre_existing",
+      "original_cz": "Páni, vypadá to, že se opravdu snaží!"
+    },
+    {
+      "key": "Gaston_012_f",
+      "en": "I agree. I never thought someone with such skinny arms would even know the word \"exercise.\"",
+      "cz": "Souhlasím. Nikdy by mě nenapadlo, že někdo s tak hubenýma rukama bude znát slovo „cvičení“.",
+      "source": "pre_existing",
+      "original_cz": "Souhlasím. Nikdy by mě nenapadlo, že někdo s tak hubenýma rukama bude znát slovo „cvičení“."
+    },
+    {
+      "key": "Gaston_007_f",
+      "en": "Anything else about your dealings with him that you'd like to pass along?",
+      "cz": "Je ještě něco o vašem jednání s ním, co byste nám chtěl sdělit?",
+      "source": "pre_existing",
+      "original_cz": "Je ještě něco o vašem jednání s ním, co byste nám chtěl sdělit?"
+    },
+    {
+      "key": "Gaston_008_f",
+      "en": "Hmm... Yes! He also complimented me!",
+      "cz": "Hmm... Ano! Taky mi složil kompliment!",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Ano! Taky mi složil kompliment!"
+    },
+    {
+      "key": "Gaston_015_f",
+      "en": "He said I was incredibly strong!",
+      "cz": "Řekl, že jsem neuvěřitelně silný/á!",
+      "source": "pre_existing",
+      "original_cz": "Řekl, že jsem neuvěřitelně silný/á!"
+    },
+    {
+      "key": "Gaston_016_f",
+      "en": "Yeah? What was the context?",
+      "cz": "Jo? Jaký byl kontext?",
+      "source": "pre_existing",
+      "original_cz": "Jo? Jaký byl kontext?"
+    },
+    {
+      "key": "Gaston_017_f",
+      "en": "Well, I was trying out the weights, swinging them around, and I nearly hit myself in the head.",
+      "cz": "No, zkoušel jsem závaží, houpal jsem s nimi a málem jsem se praštil do hlavy.",
+      "source": "pre_existing",
+      "original_cz": "No, zkoušel jsem závaží, houpal jsem s nimi a málem jsem se praštil do hlavy."
+    },
+    {
+      "key": "Gaston_018_f",
+      "en": "I said something like \"good thing that didn't hit my head!\" and he said that even if it did, I'd be fine since I was \"incredibly thick-headed.\" See, he complimented my strength!",
+      "cz": "Řekla jsem něco jako „dobře, že mě to netrefilo do hlavy!“ a on řekl, že i kdyby ano, budu v pořádku, protože jsem „neuvěřitelně tupohlavá“. Vidíte, pochválil mou sílu!",
+      "source": "pre_existing",
+      "original_cz": "Řekla jsem něco jako „dobře, že mě to netrefilo do hlavy!“ a on řekl, že i kdyby ano, budu v pořádku, protože jsem „neuvěřitelně tupohlavá“. Vidíte, pochválil mou sílu!"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "... Yes, so nice of him.",
+      "cz": "... Ano, to je od něj tak milé.",
+      "source": "pre_existing",
+      "original_cz": "... Ano, to je od něj tak milé."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "That's an insult, Gaston.",
+      "cz": "To je urážka, Gastone.",
+      "source": "pre_existing",
+      "original_cz": "To je urážka, Gastone."
+    },
+    {
+      "key": "Gaston_019_f",
+      "en": "He's all right, that Jafar!",
+      "cz": "Je v pořádku, ten Džafar!",
+      "source": "pre_existing",
+      "original_cz": "Je v pořádku, ten Džafar!"
+    },
+    {
+      "key": "Gaston_021_f",
+      "en": "Okay, well thanks for answering my questions, Gaston.",
+      "cz": "Dobře, díky za odpovědi na mé otázky, Gastone.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, díky za odpovědi na mé otázky, Gastone."
+    },
+    {
+      "key": "Gaston_000_f",
+      "en": "You know, after hearing what everyone has told me... I think that maybe we should do something for Jafar.",
+      "cz": "Víš, po tom, co mi všichni říkali... si myslím, že bychom pro Jafara možná měli něco udělat.",
+      "source": "pre_existing",
+      "original_cz": "Víš, po tom, co mi všichni říkali... si myslím, že bychom pro Jafara možná měli něco udělat."
+    },
+    {
+      "key": "Gaston_006_f",
+      "en": "Are you sure about that?",
+      "cz": "Jsi si tím jistý/á?",
+      "source": "pre_existing",
+      "original_cz": "Jsi si tím jistý/á?"
+    },
+    {
+      "key": "Gaston_023_f",
+      "en": "Yeah, well, it's clear that Jafar is trying to ingratiate himself to everyone now.",
+      "cz": "Jo, no, je jasné, že se Džafar teď snaží vlídnout všem.",
+      "source": "pre_existing",
+      "original_cz": "Jo, no, je jasné, že se Džafar teď snaží vlídnout všem."
+    },
+    {
+      "key": "Gaston_024_f",
+      "en": "We should do something to show that we appreciate the effort.",
+      "cz": "Měli bychom udělat něco, abychom ukázali, že si vážíme úsilí.",
+      "source": "pre_existing",
+      "original_cz": "Měli bychom udělat něco, abychom ukázali, že si vážíme úsilí."
+    },
+    {
+      "key": "Gaston_025_f",
+      "en": "Should we give him some eggs?",
+      "cz": "Máme mu dát vajíčka?",
+      "source": "pre_existing",
+      "original_cz": "Máme mu dát vajíčka?"
+    },
+    {
+      "key": "Gaston_026_f",
+      "en": "I wasn't thinking eggs. Let's see... he did kinda show his own interests with his gift choices — we should use that to start!",
+      "cz": "Nemyslel jsem na vajíčka. Podívejme se... svým výběrem dárků tak trochu ukázal své zájmy – toho bychom měli využít pro začátek!",
+      "source": "pre_existing",
+      "original_cz": "Nemyslel jsem na vajíčka. Podívejme se... svým výběrem dárků tak trochu ukázal své zájmy – toho bychom měli využít pro začátek!"
+    },
+    {
+      "key": "Gaston_027_f",
+      "en": "I've got it! We'll decorate around the Palace with furniture that's <Lore>Red</Lore>, <Lore>Black</Lore>, <Lore>Elegant</Lore>, <Lore>Bold</Lore>, and <Lore>Traditional</Lore>!",
+      "cz": "Mám to! Vyzdobíme palác nábytkem, který bude <Lore>červený</Lore>, <Lore>černý</Lore>, <Lore>elegantní</Lore>, <Lore>výrazný</Lore> a <Lore>tradiční</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Mám to! Vyzdobíme palác nábytkem, který bude <Lore>červený</Lore>, <Lore>černý</Lore>, <Lore>elegantní</Lore>, <Lore>výrazný</Lore> a <Lore>tradiční</Lore>!"
+    },
+    {
+      "key": "Gaston_028_f",
+      "en": "Maybe I should talk to Merlin to get a little something extra special too...",
+      "cz": "Možná bych si měl promluvit s Merlinem, abych taky pořídil něco extra speciálního...",
+      "source": "pre_existing",
+      "original_cz": "Možná bych si měl promluvit s Merlinem, abych taky pořídil něco extra speciálního..."
+    },
+    {
+      "key": "Gaston_022_f",
+      "en": "Bye!",
+      "cz": "Nashledanou!",
+      "source": "pre_existing",
+      "original_cz": "Nashledanou!"
+    },
+    {
+      "key": "Gaston_020_f",
+      "en": "But he said it so nicely! You must be mistaken.",
+      "cz": "Ale řekl to tak hezky! To se asi mýlíš.",
+      "source": "pre_existing",
+      "original_cz": "Ale řekl to tak hezky! To se asi mýlíš."
+    },
+    {
+      "key": "Gaston_013_f",
+      "en": "I agree.",
+      "cz": "Souhlasím.",
+      "source": "pre_existing",
+      "original_cz": "Souhlasím."
+    },
+    {
+      "key": "Gaston_010_f",
+      "en": "I know better than to accept a gift like that! Now.",
+      "cz": "Vím, že je lepší takový dar nepřijmout! Teď hned.",
+      "source": "pre_existing",
+      "original_cz": "Vím, že je lepší takový dar nepřijmout! Teď hned."
+    }
+  ],
+  "JafarAct03_Gaston/Gaston_VLG_Jafa_030_VLG_Jafa_030_TalkTo02.locbin": [
+    {
+      "key": "Gaston_001_f",
+      "en": "Hey Gaston, how are you feeling today?",
+      "cz": "Ahoj Gastone, jak se dnes cítíš?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj Gastone, jak se dnes cítíš?"
+    },
+    {
+      "key": "Gaston_016_f",
+      "en": "I spoke with Rapunzel and she seemed... kinda off.",
+      "cz": "Mluvil jsem s Locikou a zdála se mi... trochu divná.",
+      "source": "pre_existing",
+      "original_cz": "Mluvil jsem s Locikou a zdála se mi... trochu divná."
+    },
+    {
+      "key": "Gaston_002_f",
+      "en": "<i>How unfortunate. Personally, I feel like a paragon of vitality!</i>",
+      "cz": "<i>To je škoda. Osobně se cítím jako ztělesnění vitality!</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>To je škoda. Osobně se cítím jako ztělesnění vitality!</i>"
+    },
+    {
+      "key": "Gaston_003_f",
+      "en": "Excuse me, what?",
+      "cz": "Promiňte, co?",
+      "source": "pre_existing",
+      "original_cz": "Promiňte, co?"
+    },
+    {
+      "key": "Gaston_004_f",
+      "en": "<i>I am infused with exuberance! I revel in exertion! Behold, the manly perspiration that dots my brow!</i>",
+      "cz": "<i>Jsem naplněn nespoutaností! Libuji v námaze! Pohleďte, mužný pot mi stéká po čele!</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Jsem naplněn nespoutaností! Libuji v námaze! Pohleďte, mužný pot mi stéká po čele!</i>"
+    },
+    {
+      "key": "Gaston_005_f",
+      "en": "I'm glad for you. Unfortunately, Oswald's been under the weather.",
+      "cz": "Jsem za tebe rád. Bohužel, Oswald je z toho špatně.",
+      "source": "pre_existing",
+      "original_cz": "Jsem za tebe rád. Bohužel, Oswald je z toho špatně."
+    },
+    {
+      "key": "Gaston_006_f",
+      "en": "<i>Perhaps he should seek a medicinal remedy from Jafar. I hear his alchemical skills are unmatched!</i>",
+      "cz": "<i>Možná by měl vyhledat léčivý prostředek od Džafara. Slyšel jsem, že jeho alchymistické schopnosti jsou bezkonkurenční!</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Možná by měl vyhledat léčivý prostředek od Džafara. Slyšel jsem, že jeho alchymistické schopnosti jsou bezkonkurenční!</i>"
+    },
+    {
+      "key": "Gaston_008_f",
+      "en": "<i>I am sure creating a simple tonic would not tax him unduly.</i>",
+      "cz": "<i>Jsem si jistý, že by ho vytvoření jednoduchého tonika nepřiměřeně nezatěžovalo.</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Jsem si jistý, že by ho vytvoření jednoduchého tonika nepřiměřeně nezatěžovalo.</i>"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Your vocabulary seems different.",
+      "cz": "Tvoje slovní zásoba se zdá být jiná.",
+      "source": "pre_existing",
+      "original_cz": "Tvoje slovní zásoba se zdá být jiná."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I already tried bringing him some food.",
+      "cz": "Už jsem se mu snažila přinést nějaké jídlo.",
+      "source": "pre_existing",
+      "original_cz": "Už jsem se mu snažila přinést nějaké jídlo."
+    },
+    {
+      "key": "Gaston_009_f",
+      "en": "<i>Oh... Am I not permitted to improve my communication skills?</i>",
+      "cz": "<i>Ach... Nemám snad dovoleno zlepšit si komunikační dovednosti?</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Ach... Nemám snad dovoleno zlepšit si komunikační dovednosti?</i>"
+    },
+    {
+      "key": "Gaston_010_f",
+      "en": "No, of course you are...",
+      "cz": "Ne, samozřejmě že jsi...",
+      "source": "pre_existing",
+      "original_cz": "Ne, samozřejmě že jsi..."
+    },
+    {
+      "key": "Gaston_012_f",
+      "en": "It just seems weird for you.",
+      "cz": "Tobě to prostě přijde divné.",
+      "source": "pre_existing",
+      "original_cz": "Tobě to prostě přijde divné."
+    },
+    {
+      "key": "Gaston_015_f",
+      "en": "Okay, this conversation is going strangely.",
+      "cz": "Dobře, tahle konverzace se vyvíjí divně.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, tahle konverzace se vyvíjí divně."
+    },
+    {
+      "key": "Gaston_019_f",
+      "en": "I think I'm going to continue on with my survey.",
+      "cz": "Myslím, že budu pokračovat ve svém průzkumu.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že budu pokračovat ve svém průzkumu."
+    },
+    {
+      "key": "Gaston_020_f",
+      "en": "<i>But of course. Goodbye, {PlayerName}.</i>",
+      "cz": "<i>Ale samozřejmě. Sbohem, {PlayerName}.</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Ale samozřejmě. Sbohem, {PlayerName}.</i>"
+    },
+    {
+      "key": "Gaston_011_f",
+      "en": "But it didn't really help.",
+      "cz": "Ale moc to nepomohlo.",
+      "source": "pre_existing",
+      "original_cz": "Ale moc to nepomohlo."
+    },
+    {
+      "key": "Gaston_013_f",
+      "en": "<i>One hopes he is not taking notes from that foul floating machine!</i>",
+      "cz": "<i>Doufám, že si nedělá poznámky z toho odporného plovoucího stroje!</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Doufám, že si nedělá poznámky z toho odporného plovoucího stroje!</i>"
+    },
+    {
+      "key": "Gaston_014_f",
+      "en": "<i>Her aversion to sustenance is uncanny.</i>",
+      "cz": "<i>Její odpor k obživě je záhadný.</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Její odpor k obživě je záhadný.</i>"
+    },
+    {
+      "key": "Gaston_017_f",
+      "en": "I was talking with Mr. McDuck, and he seems a little strange today.",
+      "cz": "Mluvil jsem s panem McDuckem a dnes se mi zdá trochu divný.",
+      "source": "pre_existing",
+      "original_cz": "Mluvil jsem s panem McDuckem a dnes se mi zdá trochu divný."
+    },
+    {
+      "key": "Gaston_018_f",
+      "en": "<i>Simply stupendous, {PlayerName}! I am a paragon of vitality!</i>",
+      "cz": "<i>Prostě úžasné, {PlayerName}! Jsem ztělesněním vitality!</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Prostě úžasné, {PlayerName}! Jsem ztělesněním vitality!</i>"
+    }
+  ],
+  "JafarAct03_Gaston/Gaston_VLG_Jafa_030_VLG_Jafa_030_TalkTo04.locbin": [
+    {
+      "key": "Gaston_000_f",
+      "en": "ARGH!",
+      "cz": "ARGH!",
+      "source": "pre_existing",
+      "original_cz": "ARGH!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "He's not really a magician.",
+      "cz": "Není to vlastně žádný kouzelník.",
+      "source": "pre_existing",
+      "original_cz": "Není to vlastně žádný kouzelník."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "What happened after you lost control?",
+      "cz": "Co se stalo poté, co jsi ztratil kontrolu?",
+      "source": "pre_existing",
+      "original_cz": "Co se stalo poté, co jsi ztratil kontrolu?"
+    },
+    {
+      "key": "Gaston_001_f",
+      "en": "Gaston! Are you all right?",
+      "cz": "Gastone! Jsi v pořádku?",
+      "source": "pre_existing",
+      "original_cz": "Gastone! Jsi v pořádku?"
+    },
+    {
+      "key": "Gaston_002_f",
+      "en": "Now I am, but before... I was enchanted!",
+      "cz": "Teď už ano, ale předtím... jsem byla okouzlena!",
+      "source": "pre_existing",
+      "original_cz": "Teď už ano, ale předtím... jsem byla okouzlena!"
+    },
+    {
+      "key": "Gaston_003_f",
+      "en": "Enchanted? What do you mean?",
+      "cz": "Okouzlená? Co tím myslíš?",
+      "source": "pre_existing",
+      "original_cz": "Okouzlená? Co tím myslíš?"
+    },
+    {
+      "key": "Gaston_004_f",
+      "en": "Those burning, red snake eyes... I felt myself lose control of this perfect specimen of a physique!",
+      "cz": "Ty palčivé, rudé hadí oči... Cítil jsem, jak ztrácím kontrolu nad tímto dokonalým exemplářem postavy!",
+      "source": "pre_existing",
+      "original_cz": "Ty palčivé, rudé hadí oči... Cítil jsem, jak ztrácím kontrolu nad tímto dokonalým exemplářem postavy!"
+    },
+    {
+      "key": "Gaston_005_f",
+      "en": "Then it was like I was watching myself from a distance.",
+      "cz": "Pak to bylo, jako bych se pozoroval z dálky.",
+      "source": "pre_existing",
+      "original_cz": "Pak to bylo, jako bych se pozoroval z dálky."
+    },
+    {
+      "key": "Gaston_006_f",
+      "en": "I'm going to give that magician a piece of my mind!",
+      "cz": "Řeknu tomu kouzelníkovi, co si o tom myslím!",
+      "source": "pre_existing",
+      "original_cz": "Řeknu tomu kouzelníkovi, co si o tom myslím!"
+    },
+    {
+      "key": "Gaston_007_f",
+      "en": "I'm sorry — magician? You're not talking about Merlin, are you?",
+      "cz": "Promiňte – kouzelníku? Nemluvíte snad o Merlinovi?",
+      "source": "pre_existing",
+      "original_cz": "Promiňte – kouzelníku? Nemluvíte snad o Merlinovi?"
+    },
+    {
+      "key": "Gaston_008_f",
+      "en": "No! The other scrawny one. In red and black.",
+      "cz": "Ne! Ten druhý vychrtlý. V červené a černé.",
+      "source": "pre_existing",
+      "original_cz": "Ne! Ten druhý vychrtlý. V červené a černé."
+    },
+    {
+      "key": "Gaston_009_f",
+      "en": "Huh? But I always see him scribbling those magical symbols on paper whenever I pass by the Palace.",
+      "cz": "Cože? Ale vždycky ho vidím, jak si čmárá ty magické symboly na papír, kdykoli jdu kolem paláce.",
+      "source": "pre_existing",
+      "original_cz": "Cože? Ale vždycky ho vidím, jak si čmárá ty magické symboly na papír, kdykoli jdu kolem paláce."
+    },
+    {
+      "key": "Gaston_010_f",
+      "en": "You know, the x, the tiny numbers on top of other numbers, stuff like that.",
+      "cz": "Víš, to x, ta malá čísla nad jinými čísly, a tak dále.",
+      "source": "pre_existing",
+      "original_cz": "Víš, to x, ta malá čísla nad jinými čísly, a tak dále."
+    },
+    {
+      "key": "Gaston_011_f",
+      "en": "Are you referring to... math? Jafar knows a lot about mathematics as well as magic.",
+      "cz": "Myslíš... matematiku? Džafar toho ví hodně o matematice i o magii.",
+      "source": "pre_existing",
+      "original_cz": "Myslíš... matematiku? Džafar toho ví hodně o matematice i o magii."
+    },
+    {
+      "key": "Gaston_012_f",
+      "en": "There's a difference?",
+      "cz": "Je v tom rozdíl?",
+      "source": "pre_existing",
+      "original_cz": "Je v tom rozdíl?"
+    },
+    {
+      "key": "Gaston_013_f",
+      "en": "Okay, let's get back on track. What happened after you were hypnotized?",
+      "cz": "Dobře, vraťme se k tématu. Co se stalo poté, co jste byl/a hypnotizován/a?",
+      "source": "pre_existing",
+      "original_cz": "Dobře, vraťme se k tématu. Co se stalo poté, co jste byl/a hypnotizován/a?"
+    },
+    {
+      "key": "Gaston_014_f",
+      "en": "When hypnotized, I was used! ... Like a draft horse, <Lore>lugging Jafar's equipment from the Palace to the Ancient Ruins</Lore>.",
+      "cz": "Když jsem byl hypnotizován, byl jsem zneužit! ... Jako tažný kůň, <Lore>táhnoucí Džafarovo vybavení z paláce do starověkých ruin</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Když jsem byl hypnotizován, byl jsem zneužit! ... Jako tažný kůň, <Lore>táhnoucí Džafarovo vybavení z paláce do starověkých ruin</Lore>."
+    },
+    {
+      "key": "Gaston_015_f",
+      "en": "Thanks Gaston; I'll check up on the <Lore>Ancient Ruins</Lore> next.",
+      "cz": "Díky, Gastone; příště se podívám na ty <Lore>Starověké ruiny</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Díky, Gastone; příště se podívám na ty <Lore>Starověké ruiny</Lore>."
+    }
+  ],
+  "JafarAct03_Gaston/Gaston_VLG_Jafa_040_VLG_Jafa_040_BringItem01.locbin": [
+    {
+      "key": "Gaston_001_f",
+      "en": "Hey Gaston, I got the furniture for you. Ready to set it all up for me?",
+      "cz": "Hej Gastone, mám pro tebe nábytek. Jsi připravený mi ho všechno sestavit?",
+      "source": "pre_existing",
+      "original_cz": "Hej Gastone, mám pro tebe nábytek. Jsi připravený mi ho všechno sestavit?"
+    },
+    {
+      "key": "Gaston_002_f",
+      "en": "Of course! No one can lift heavy furniture like Gaston!",
+      "cz": "Jasně! Nikdo nedokáže zvedat těžký nábytek jako Gaston!",
+      "source": "pre_existing",
+      "original_cz": "Jasně! Nikdo nedokáže zvedat těžký nábytek jako Gaston!"
+    },
+    {
+      "key": "Gaston_003_f",
+      "en": "Thanks, I've been so busy with the planning; this is a huge help.",
+      "cz": "Díky, měl jsem s plánováním spoustu práce, tohle mi moc pomohlo.",
+      "source": "pre_existing",
+      "original_cz": "Díky, měl jsem s plánováním spoustu práce, tohle mi moc pomohlo."
+    },
+    {
+      "key": "Gaston_004_f",
+      "en": "Hmm... where is the judge going to sit?",
+      "cz": "Hmm... kde bude sedět soudce?",
+      "source": "pre_existing",
+      "original_cz": "Hmm... kde bude sedět soudce?"
+    },
+    {
+      "key": "Gaston_005_f",
+      "en": "Oh, I guess I hadn't thought about that yet. I still need to talk to Oswald to see who will be taking that role during the trial.",
+      "cz": "No, asi jsem na to ještě nepomyslel. Ještě si musím promluvit s Oswaldem, abych zjistil, kdo tu roli během procesu zastává.",
+      "source": "pre_existing",
+      "original_cz": "No, asi jsem na to ještě nepomyslel. Ještě si musím promluvit s Oswaldem, abych zjistil, kdo tu roli během procesu zastává."
+    },
+    {
+      "key": "Gaston_006_f",
+      "en": "{PlayerName}... I have an idea.",
+      "cz": "{PlayerName}... Mám nápad.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}... Mám nápad."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "That's a first.",
+      "cz": "To je poprvé.",
+      "source": "pre_existing",
+      "original_cz": "To je poprvé."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "You do? I'm all ears!",
+      "cz": "Vážně? Jsem jen ucho!",
+      "source": "pre_existing",
+      "original_cz": "Vážně? Jsem jen ucho!"
+    },
+    {
+      "key": "Gaston_007_f",
+      "en": "No, it's not. I have an excellent idea at least once a month! Now then...",
+      "cz": "Ne, to není pravda. Mám skvělý nápad, alespoň jednou za měsíc! Tak a teď...",
+      "source": "pre_existing",
+      "original_cz": "Ne, to není pravda. Mám skvělý nápad, alespoň jednou za měsíc! Tak a teď..."
+    },
+    {
+      "key": "Gaston_010_f",
+      "en": "The judge is the most important person in a trial, right?",
+      "cz": "Soudce je v soudním řízení nejdůležitější osobou, že?",
+      "source": "pre_existing",
+      "original_cz": "Soudce je v soudním řízení nejdůležitější osobou, že?"
+    },
+    {
+      "key": "Gaston_011_f",
+      "en": "Sure, I guess you could say that.",
+      "cz": "Jasně, asi by se to dalo říct.",
+      "source": "pre_existing",
+      "original_cz": "Jasně, asi by se to dalo říct."
+    },
+    {
+      "key": "Gaston_012_f",
+      "en": "Well, then the judge deserves a powerful chair! And I know just the one...",
+      "cz": "No, pak si soudce zaslouží mocné křeslo! A já vím přesně tohle...",
+      "source": "pre_existing",
+      "original_cz": "No, pak si soudce zaslouží mocné křeslo! A já vím přesně tohle..."
+    },
+    {
+      "key": "Gaston_013_f",
+      "en": "I'll set it up with the rest of the other furnishings now.",
+      "cz": "Teď to postavím k ostatnímu nábytku.",
+      "source": "pre_existing",
+      "original_cz": "Teď to postavím k ostatnímu nábytku."
+    },
+    {
+      "key": "Gaston_014_f",
+      "en": "Oh, that's very helpful of you, Gaston, thanks!",
+      "cz": "To je od tebe moc užitečné, Gastone, díky!",
+      "source": "pre_existing",
+      "original_cz": "To je od tebe moc užitečné, Gastone, díky!"
+    },
+    {
+      "key": "Gaston_008_f",
+      "en": "No, you're not. I can see you only have two ears. Though, \"all ears\" wouldn't be the strangest thing I've seen here.",
+      "cz": "Ne, nejsi. Vidím, že máš jen dvě uši. I když „samé uši“ by nebyla ta nejpodivnější věc, kterou jsem tady viděl.",
+      "source": "pre_existing",
+      "original_cz": "Ne, nejsi. Vidím, že máš jen dvě uši. I když „samé uši“ by nebyla ta nejpodivnější věc, kterou jsem tady viděl."
+    },
+    {
+      "key": "Gaston_009_f",
+      "en": "It's a figure of speech, Gaston. What's your idea?",
+      "cz": "To je jen řečnická figura, Gastone. Co si o tom myslíš?",
+      "source": "pre_existing",
+      "original_cz": "To je jen řečnická figura, Gastone. Co si o tom myslíš?"
+    }
+  ],
+  "JafarAct03_Gaston/Gaston_VLG_Jafa_040_VLG_Jafa_040_TalkTo04.locbin": [
+    {
+      "key": "Gaston_000_f",
+      "en": "The Dreamlight Court will now hear testimony from Gaston.",
+      "cz": "Soud Světla snů nyní vyslechne Gastonovu výpověď.",
+      "source": "pre_existing",
+      "original_cz": "Soud Světla snů nyní vyslechne Gastonovu výpověď."
+    },
+    {
+      "key": "Gaston_009_f",
+      "en": "Umm, well... Jafar isn't the only one here that has done bad things.",
+      "cz": "Ehm, no... Džafar tu není jediný, kdo udělal špatné věci.",
+      "source": "pre_existing",
+      "original_cz": "Ehm, no... Džafar tu není jediný, kdo udělal špatné věci."
+    },
+    {
+      "key": "Gaston_010_f",
+      "en": "It will shock you to hear, but I have... on occasion... long in the past... done one or two things that MAY be considered... not good. Plus, Ursula, Scar, and Mother Gothel have all done MANY nasty things, and they're allowed to stay here.",
+      "cz": "Bude tě šokovat, ale já jsem... občas... dávno v minulosti... udělal jednu nebo dvě věci, které MOHOU být považovány... za nedobré. Navíc, Ursula, Scar a Matka Gothel udělaly MNOHO ošklivých věcí a můžou tu zůstat.",
+      "source": "pre_existing",
+      "original_cz": "Bude tě šokovat, ale já jsem... občas... dávno v minulosti... udělal jednu nebo dvě věci, které MOHOU být považovány... za nedobré. Navíc, Ursula, Scar a Matka Gothel udělaly MNOHO ošklivých věcí a můžou tu zůstat."
+    },
+    {
+      "key": "Gaston_011_f",
+      "en": "That's true... but have they done anything as bad as Jafar?",
+      "cz": "To je pravda... ale udělali snad něco tak špatného jako Džafar?",
+      "source": "pre_existing",
+      "original_cz": "To je pravda... ale udělali snad něco tak špatného jako Džafar?"
+    },
+    {
+      "key": "Gaston_012_f",
+      "en": "I can't do EVERYTHING for you. You decide. You're the Your Honor judge.",
+      "cz": "Nemůžu za vás udělat VŠECHNO. Rozhodněte se vy. Vy jste soudce, Vaše Ctihodnosti.",
+      "source": "pre_existing",
+      "original_cz": "Nemůžu za vás udělat VŠECHNO. Rozhodněte se vy. Vy jste soudce, Vaše Ctihodnosti."
+    },
+    {
+      "key": "Gaston_013_f",
+      "en": "No, that's not how you say it, either... oh never mind.",
+      "cz": "Ne, takhle se to taky neříká... no, nevadí.",
+      "source": "pre_existing",
+      "original_cz": "Ne, takhle se to taky neříká... no, nevadí."
+    },
+    {
+      "key": "Gaston_014_f",
+      "en": "Thank you for your testimony, Gaston. You can return to the bench.",
+      "cz": "Děkuji za vaši výpověď, Gastone. Můžete se vrátit k soudcovské lavici.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji za vaši výpověď, Gastone. Můžete se vrátit k soudcovské lavici."
+    },
+    {
+      "key": "Gaston_001_f",
+      "en": "It's very simple, Your Glory.",
+      "cz": "Je to velmi jednoduché, Vaše Slávo.",
+      "source": "pre_existing",
+      "original_cz": "Je to velmi jednoduché, Vaše Slávo."
+    },
+    {
+      "key": "Gaston_002_f",
+      "en": "Your Honor.",
+      "cz": "Vaše Ctihodnosti.",
+      "source": "pre_existing",
+      "original_cz": "Vaše Ctihodnosti."
+    },
+    {
+      "key": "Gaston_003_f",
+      "en": "Huh?",
+      "cz": "Cože?",
+      "source": "pre_existing",
+      "original_cz": "Cože?"
+    },
+    {
+      "key": "Gaston_004_f",
+      "en": "\"Your Honor\" is how you address a judge, not \"Your Glory.\" Anyway, keep going.",
+      "cz": "Soudce oslovujete „Vaše Ctihodnosti“, ne „Vaše slávo“. Každopádně pokračujte.",
+      "source": "pre_existing",
+      "original_cz": "Soudce oslovujete „Vaše Ctihodnosti“, ne „Vaše slávo“. Každopádně pokračujte."
+    },
+    {
+      "key": "Gaston_006_f",
+      "en": "So yes, Jafar did hypnotize me. But, he also used me for a strength-related task, so I can't be THAT angry with him.",
+      "cz": "Takže ano, Džafar mě hypnotizoval. Ale také mě použil k úkolu souvisejícímu se silou, takže na něj nemůžu být TAK naštvaná.",
+      "source": "pre_existing",
+      "original_cz": "Takže ano, Džafar mě hypnotizoval. Ale také mě použil k úkolu souvisejícímu se silou, takže na něj nemůžu být TAK naštvaná."
+    },
+    {
+      "key": "Gaston_007_f",
+      "en": "You see, as the strongest member of this community—",
+      "cz": "Víte, jako nejsilnější člen této komunity—",
+      "source": "pre_existing",
+      "original_cz": "Víte, jako nejsilnější člen této komunity—"
+    },
+    {
+      "key": "Gaston_008_f",
+      "en": "The witness will cease self-aggrandizing and get to the point.",
+      "cz": "Svědek přestane sebelít a přejde k věci.",
+      "source": "pre_existing",
+      "original_cz": "Svědek přestane sebelít a přejde k věci."
+    }
+  ],
+  "JafarAct03_Gaston/Gaston_VLG_Jafa_040_VLG_Jafa_040_TalkTo06.locbin": [
+    {
+      "key": "Gaston_000_f",
+      "en": "Gaston, I need to talk to you about Jafar.",
+      "cz": "Gastone, potřebuji s tebou mluvit o Jafarovi.",
+      "source": "pre_existing",
+      "original_cz": "Gastone, potřebuji s tebou mluvit o Jafarovi."
+    },
+    {
+      "key": "Gaston_001_f",
+      "en": "We're going to be holding a trial for him and—",
+      "cz": "Budeme s ním pořádat soud a—",
+      "source": "pre_existing",
+      "original_cz": "Budeme s ním pořádat soud a—"
+    },
+    {
+      "key": "Gaston_002_f",
+      "en": "Ahh, and you want me to be the judge? Of course!",
+      "cz": "Aha, a chceš, abych byl soudcem? Jasně!",
+      "source": "pre_existing",
+      "original_cz": "Aha, a chceš, abych byl soudcem? Jasně!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "No.",
+      "cz": "Žádný.",
+      "source": "pre_existing",
+      "original_cz": "Žádný."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Never.",
+      "cz": "Nikdy.",
+      "source": "pre_existing",
+      "original_cz": "Nikdy."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "You are the last person I would ask.",
+      "cz": "Jsi poslední, koho bych se zeptal.",
+      "source": "pre_existing",
+      "original_cz": "Jsi poslední, koho bych se zeptal."
+    },
+    {
+      "key": "Gaston_003_f",
+      "en": "A mistake you'll regret, I'm sure. What do you want then?",
+      "cz": "Chyba, které budeš jistě litovat. Co pak chceš?",
+      "source": "pre_existing",
+      "original_cz": "Chyba, které budeš jistě litovat. Co pak chceš?"
+    },
+    {
+      "key": "Gaston_012_f",
+      "en": "What if when I need to get the courtroom set up, I rely on you to move the heavy things?",
+      "cz": "Co když budu muset připravit soudní síň a budu se spoléhat na vás, že přemístíte těžké věci?",
+      "source": "pre_existing",
+      "original_cz": "Co když budu muset připravit soudní síň a budu se spoléhat na vás, že přemístíte těžké věci?"
+    },
+    {
+      "key": "Gaston_013_f",
+      "en": "I like it!",
+      "cz": "Líbí se mi to!",
+      "source": "pre_existing",
+      "original_cz": "Líbí se mi to!"
+    },
+    {
+      "key": "Gaston_004_f",
+      "en": "Well, I wanted to get your take on things. How do you feel about Jafar? Is there anything you want to raise when you testify?",
+      "cz": "No, chtěl jsem znát váš názor na věc. Co si myslíte o Džafarovi? Je něco, co byste chtěl zmínit, až budete svědčit?",
+      "source": "pre_existing",
+      "original_cz": "No, chtěl jsem znát váš názor na věc. Co si myslíte o Džafarovi? Je něco, co byste chtěl zmínit, až budete svědčit?"
+    },
+    {
+      "key": "Gaston_005_f",
+      "en": "Hmm... I must confess; I'm conflicted. I don't like that he hypnotized me to do his bidding...",
+      "cz": "Hmm... Musím se přiznat; jsem z toho rozpačitý. Nelíbí se mi, že mě zhypnotizoval, abych plnil jeho rozkazy...",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Musím se přiznat; jsem z toho rozpačitý. Nelíbí se mi, že mě zhypnotizoval, abych plnil jeho rozkazy..."
+    },
+    {
+      "key": "Gaston_006_f",
+      "en": "For sure!",
+      "cz": "Jistě!",
+      "source": "pre_existing",
+      "original_cz": "Jistě!"
+    },
+    {
+      "key": "Gaston_007_f",
+      "en": "BUT he did want me to move his extremely heavy equipment, so he clearly knows I'm the strongest person here.",
+      "cz": "ALE chtěl, abych přestěhoval jeho extrémně těžké vybavení, takže evidentně ví, že jsem tady nejsilnější člověk.",
+      "source": "pre_existing",
+      "original_cz": "ALE chtěl, abych přestěhoval jeho extrémně těžké vybavení, takže evidentně ví, že jsem tady nejsilnější člověk."
+    },
+    {
+      "key": "Gaston_008_f",
+      "en": "... For sure.",
+      "cz": "... Jistě.",
+      "source": "pre_existing",
+      "original_cz": "... Jistě."
+    },
+    {
+      "key": "Gaston_009_f",
+      "en": "I believe he should answer for his crimes...",
+      "cz": "Myslím, že by se měl zodpovídat za své zločiny...",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že by se měl zodpovídat za své zločiny..."
+    },
+    {
+      "key": "Gaston_010_f",
+      "en": "...AND you should acknowledge that I'm amazingly strong.",
+      "cz": "...A měla bys uznat, že jsem úžasně silná.",
+      "source": "pre_existing",
+      "original_cz": "...A měla bys uznat, že jsem úžasně silná."
+    },
+    {
+      "key": "Gaston_011_f",
+      "en": "Okay, I can work with this.",
+      "cz": "Dobře, s tím můžu pracovat.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, s tím můžu pracovat."
+    },
+    {
+      "key": "Gaston_014_f",
+      "en": "Okay, glad we sorted that out — talk to you later!",
+      "cz": "Dobře, jsem rád, že jsme to vyřešili – ozvu se později!",
+      "source": "pre_existing",
+      "original_cz": "Dobře, jsem rád, že jsme to vyřešili – ozvu se později!"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "MiniEvent23_Merlin/Merlin_Daily_Merl_ClickMagic_010_Daily_Merl_ClickMagic_010_Intro.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "{PlayerName}, how smart of you to drop by! You see, I've prepared a little something special for you. In fact, the whole Village did.",
+      "cz": "{PlayerName}, to je od tebe chytré, že jsi se zastavil/a! Víš, připravil/a jsem pro tebe něco speciálního. Vlastně to udělala celá vesnice.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, to je od tebe chytré, že jsi se zastavil/a! Víš, připravil/a jsem pro tebe něco speciálního. Vlastně to udělala celá vesnice."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "It's a <Lore>special scavenger hunt</Lore>! But instead of finding items, you must <Lore>take pictures of hidden symbols</Lore> with that Royal Phone of yours.",
+      "cz": "Je to <Lore>speciální honba za pokladem</Lore>! Ale místo hledání předmětů musíte <Lore>vyfotit skryté symboly</Lore> svým královským telefonem.",
+      "source": "pre_existing",
+      "original_cz": "Je to <Lore>speciální honba za pokladem</Lore>! Ale místo hledání předmětů musíte <Lore>vyfotit skryté symboly</Lore> svým královským telefonem."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I love a scavenger hunt! Count me in!",
+      "cz": "Miluju honbu za pokladem! Počítejte se mnou!",
+      "source": "pre_existing",
+      "original_cz": "Miluju honbu za pokladem! Počítejte se mnou!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Maybe later, Merlin.",
+      "cz": "Možná později, Merline.",
+      "source": "pre_existing",
+      "original_cz": "Možná později, Merline."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Wonderful! Your task is to find examples of a curious motif in the <Lore>Dream Castle</Lore>. I've hidden <Lore>four</Lore> of them inside for you. Good luck!",
+      "cz": "Skvělé! Vaším úkolem je najít příklady zvláštního motivu v <Lore>Hradu snů</Lore>. Schovala jsem pro vás <Lore>čtyři</Lore> z nich. Hodně štěstí!",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Vaším úkolem je najít příklady zvláštního motivu v <Lore>Hradu snů</Lore>. Schovala jsem pro vás <Lore>čtyři</Lore> z nich. Hodně štěstí!"
+    }
+  ],
+  "MiniEvent23_Merlin/Merlin_Daily_Merl_ClickMagic_010_Daily_Merl_ClickMagic_010_Ongoing01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "You must search inside the Dream Castle for my hidden motif and take a photograph! There are <Lore>four in total</Lore>.",
+      "cz": "Musíš uvnitř Hradu snů prohledat můj skrytý motiv a vyfotit ho! Jsou jich <Lore>celkem čtyři</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Musíš uvnitř Hradu snů prohledat můj skrytý motiv a vyfotit ho! Jsou jich <Lore>celkem čtyři</Lore>."
+    }
+  ],
+  "MiniEvent23_Merlin/Merlin_Daily_Merl_ClickMagic_010_Daily_Merl_ClickMagic_010_Outro.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Well done, {PlayerName}! You're rather a good scavenger hunter, you know. And a good photographer, too.",
+      "cz": "Výborně, {PlayerName}! Víš, že jsi docela dobrý lovec pokladů. A taky dobrý fotograf.",
+      "source": "pre_existing",
+      "original_cz": "Výborně, {PlayerName}! Víš, že jsi docela dobrý lovec pokladů. A taky dobrý fotograf."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Please take your reward. And remember: The fun is only beginning!",
+      "cz": "Vezměte si prosím svou odměnu. A nezapomeňte: Zábava teprve začíná!",
+      "source": "pre_existing",
+      "original_cz": "Vezměte si prosím svou odměnu. A nezapomeňte: Zábava teprve začíná!"
+    }
+  ]
+}

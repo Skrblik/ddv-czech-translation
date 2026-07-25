@@ -1,0 +1,311 @@
+{
+  "Upd10MiniEvent_Moana/Moana_RPT_Moan_DailyPark_RPT_Moan_DailyPark_Intro.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "Hi {PlayerName}!",
+      "cz": "Ahoj {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Ahoj {PlayerName}!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "What's up?",
+      "cz": "Co se děje?",
+      "source": "pre_existing",
+      "original_cz": "Co se děje?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I'm a little busy to talk now.",
+      "cz": "Teď nemám moc práce, abych si s vámi povídal.",
+      "source": "pre_existing",
+      "original_cz": "Teď nemám moc práce, abych si s vámi povídal."
+    },
+    {
+      "key": "Moana_008_f",
+      "en": "{PlayerName}, I'm glad I found you!",
+      "cz": "{PlayerName}, jsem ráda, že jsem tě našla!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, jsem ráda, že jsem tě našla!"
+    },
+    {
+      "key": "Moana_011_f",
+      "en": "I was hoping we could give the other Villagers another festival treat.",
+      "cz": "Doufala jsem, že bychom mohli ostatním vesničanům dopřát další festivalovou pochoutku.",
+      "source": "pre_existing",
+      "original_cz": "Doufala jsem, že bychom mohli ostatním vesničanům dopřát další festivalovou pochoutku."
+    },
+    {
+      "key": "Moana_012_f",
+      "en": "Everyone really loves those <ActivityItem>Princess Aurora Cupcakes</ActivityItem> you made.",
+      "cz": "Všichni opravdu milují ty <ActivityItem>Cupcakes princezny Aurory</ActivityItem>, které jsi upekla.",
+      "source": "pre_existing",
+      "original_cz": "Všichni opravdu milují ty <ActivityItem>Cupcakes princezny Aurory</ActivityItem>, které jsi upekla."
+    },
+    {
+      "key": "Moana_013_f",
+      "en": "There's something about that tart raspberry flavor with the sweetness that just kind of makes you smile.",
+      "cz": "Na té kyselé malinové chuti se sladkostí je něco, co vás prostě rozesměje.",
+      "source": "pre_existing",
+      "original_cz": "Na té kyselé malinové chuti se sladkostí je něco, co vás prostě rozesměje."
+    },
+    {
+      "key": "Moana_014_f",
+      "en": "Do you think you could make another batch? And could you help me share them with the Villagers?",
+      "cz": "Myslíš, že bys mohla udělat další várku? A mohla bys mi pomoct se o ně podělit s vesničany?",
+      "source": "pre_existing",
+      "original_cz": "Myslíš, že bys mohla udělat další várku? A mohla bys mi pomoct se o ně podělit s vesničany?"
+    },
+    {
+      "key": "Moana_009_f",
+      "en": "Oh, {PlayerName}! Do you think you could make some more <ActivityItem>Princess Aurora Cupcakes</ActivityItem> so we can give them to the Villagers?",
+      "cz": "Ach, {PlayerName}! Myslíš, že bys mohla udělat víc <ActivityItem>cupcaků princezny Aurory</ActivityItem>, abychom je mohli dát vesničanům?",
+      "source": "pre_existing",
+      "original_cz": "Ach, {PlayerName}! Myslíš, že bys mohla udělat víc <ActivityItem>cupcaků princezny Aurory</ActivityItem>, abychom je mohli dát vesničanům?"
+    },
+    {
+      "key": "Moana_015_f",
+      "en": "My father always says a leader should make sure that others have enough to eat before worrying about themselves.",
+      "cz": "Můj otec vždycky říká, že vůdce by se měl ujistit, že ostatní mají dostatek jídla, než se začne starat o sebe.",
+      "source": "pre_existing",
+      "original_cz": "Můj otec vždycky říká, že vůdce by se měl ujistit, že ostatní mají dostatek jídla, než se začne starat o sebe."
+    },
+    {
+      "key": "Moana_016_f",
+      "en": "I don't think he has cupcakes in mind, but the lesson about sharing is the same!",
+      "cz": "Myslím, že nemá na mysli cupcakes, ale ponaučení o sdílení je stejné!",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že nemá na mysli cupcakes, ale ponaučení o sdílení je stejné!"
+    },
+    {
+      "key": "Moana_017_f",
+      "en": "Would you like to help me do something fun to celebrate the Dreamlight Parks Fest?",
+      "cz": "Chtěl/a bys mi pomoct s něčím zábavným na oslavu festivalu Dreamlight Parks?",
+      "source": "pre_existing",
+      "original_cz": "Chtěl/a bys mi pomoct s něčím zábavným na oslavu festivalu Dreamlight Parks?"
+    },
+    {
+      "key": "Moana_018_f",
+      "en": "I was thinking we could make more of those <ActivityItem>Princess Aurora Cupcakes</ActivityItem>.",
+      "cz": "Přemýšlela jsem, že bychom mohli udělat víc těch <ActivityItem>cupcaků princezny Aurory</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Přemýšlela jsem, že bychom mohli udělat víc těch <ActivityItem>cupcaků princezny Aurory</ActivityItem>."
+    },
+    {
+      "key": "Moana_019_f",
+      "en": "I don't know Princess Aurora, or maybe that's just the Forgetting. But whoever she is, she has great taste in cupcakes!",
+      "cz": "Neznám princeznu Auroru, nebo je to možná jen Zapomněnka. Ale ať je to kdokoli, má skvělý vkus na cupcakes!",
+      "source": "pre_existing",
+      "original_cz": "Neznám princeznu Auroru, nebo je to možná jen Zapomněnka. Ale ať je to kdokoli, má skvělý vkus na cupcakes!"
+    },
+    {
+      "key": "Moana_020_f",
+      "en": "Could you bake some and help me hand out these cupcakes?",
+      "cz": "Mohla bys mi upéct nějaké a pomoct mi rozdat tyhle cupcaky?",
+      "source": "pre_existing",
+      "original_cz": "Mohla bys mi upéct nějaké a pomoct mi rozdat tyhle cupcaky?"
+    },
+    {
+      "key": "Moana_001_f",
+      "en": "Are you enjoying the festival?",
+      "cz": "Užíváš si festival?",
+      "source": "pre_existing",
+      "original_cz": "Užíváš si festival?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "The Dreamlight Parks Fest is great.",
+      "cz": "Festival Dreamlight Parks je skvělý.",
+      "source": "pre_existing",
+      "original_cz": "Festival Dreamlight Parks je skvělý."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Who doesn't love a celebration?",
+      "cz": "Kdo by nemiloval oslavy?",
+      "source": "pre_existing",
+      "original_cz": "Kdo by nemiloval oslavy?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I haven't had a chance to celebrate!",
+      "cz": "Neměl jsem čas oslavit!",
+      "source": "pre_existing",
+      "original_cz": "Neměl jsem čas oslavit!"
+    },
+    {
+      "key": "Moana_002_f",
+      "en": "I agree! There's so much to do and see. It feels like we've voyaged to another Valley!",
+      "cz": "Souhlasím! Je tu tolik věcí k vidění a dělání. Připadám si, jako bychom se ocitli v jiném údolí!",
+      "source": "pre_existing",
+      "original_cz": "Souhlasím! Je tu tolik věcí k vidění a dělání. Připadám si, jako bychom se ocitli v jiném údolí!"
+    },
+    {
+      "key": "Moana_005_f",
+      "en": "One of my favorite things about the festival BEFORE the Forgetting, were these special cakes...",
+      "cz": "Jednou z mých nejoblíbenějších věcí na festivalu PŘED Zapomněním byly tyto speciální dorty...",
+      "source": "pre_existing",
+      "original_cz": "Jednou z mých nejoblíbenějších věcí na festivalu PŘED Zapomněním byly tyto speciální dorty..."
+    },
+    {
+      "key": "Moana_006_f",
+      "en": "Everyone called them <ActivityItem>Princess Aurora Cupcakes<ActivityItem>.",
+      "cz": "Všichni jim říkali <ActivityItem>Košíčky princezny Aurory<ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Všichni jim říkali <ActivityItem>Košíčky princezny Aurory<ActivityItem>."
+    },
+    {
+      "key": "Moana_021_f",
+      "en": "I'd never had raspberries until I got here. And the cakes were so bright and delicious!",
+      "cz": "Nikdy jsem nejedla maliny, dokud jsem sem nepřišla. A ty koláče byly tak zářivé a lahodné!",
+      "source": "pre_existing",
+      "original_cz": "Nikdy jsem nejedla maliny, dokud jsem sem nepřišla. A ty koláče byly tak zářivé a lahodné!"
+    },
+    {
+      "key": "Moana_007_f",
+      "en": "Now, the tradition is that we share them with the other Villagers.",
+      "cz": "Nyní je tradicí, že se o ně dělíme s ostatními vesničany.",
+      "source": "pre_existing",
+      "original_cz": "Nyní je tradicí, že se o ně dělíme s ostatními vesničany."
+    },
+    {
+      "key": "Moana_023_f",
+      "en": "Do you think you could help me with that? Oh, and be sure to come see me afterwards. I have something special for you.",
+      "cz": "Myslíš, že bys mi s tím mohla pomoct? A určitě se za mnou potom přijď podívat. Mám pro tebe něco speciálního.",
+      "source": "pre_existing",
+      "original_cz": "Myslíš, že bys mi s tím mohla pomoct? A určitě se za mnou potom přijď podívat. Mám pro tebe něco speciálního."
+    },
+    {
+      "key": "Moana_003_f",
+      "en": "Right?! On Motunui we have all kinds of different celebrations.",
+      "cz": "Že jo?! Na Motunui máme nejrůznější oslavy.",
+      "source": "pre_existing",
+      "original_cz": "Že jo?! Na Motunui máme nejrůznější oslavy."
+    },
+    {
+      "key": "Moana_004_f",
+      "en": "Well, I have a fun way to get into the spirit of things, if you're interested.",
+      "cz": "No, pokud máte zájem, mám pro vás zábavný způsob, jak se vcítit do podstaty věci.",
+      "source": "pre_existing",
+      "original_cz": "No, pokud máte zájem, mám pro vás zábavný způsob, jak se vcítit do podstaty věci."
+    },
+    {
+      "key": "Moana_010_f",
+      "en": "Okay, I understand. Maybe later then?",
+      "cz": "Dobře, rozumím. Možná později?",
+      "source": "pre_existing",
+      "original_cz": "Dobře, rozumím. Možná později?"
+    }
+  ],
+  "Upd10MiniEvent_Moana/Moana_RPT_Moan_DailyPark_RPT_Moan_DailyPark_Ongoing01.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "How are those <ActivityItem>Princess Aurora Cupcakes</ActivityItem> coming along? I can't wait to get them to the Villagers.",
+      "cz": "Jak jdou ty <ActivityItem>Cupcakes princezny Aurory</ActivityItem>? Nemůžu se dočkat, až je dostanu vesničanům.",
+      "source": "pre_existing",
+      "original_cz": "Jak jdou ty <ActivityItem>Cupcakes princezny Aurory</ActivityItem>? Nemůžu se dočkat, až je dostanu vesničanům."
+    }
+  ],
+  "Upd10MiniEvent_Moana/Moana_RPT_Moan_DailyPark_RPT_Moan_DailyPark_Ongoing02.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "Remember those <ActivityItem>Princess Aurora Cupcakes</ActivityItem> you made? Would you mind delivering them to a few Villagers?",
+      "cz": "Pamatuješ si ty <ActivityItem>Cupcakes princezny Aurory</ActivityItem>, co jsi upekla? Mohla bys je doručit pár vesničanům?",
+      "source": "pre_existing",
+      "original_cz": "Pamatuješ si ty <ActivityItem>Cupcakes princezny Aurory</ActivityItem>, co jsi upekla? Mohla bys je doručit pár vesničanům?"
+    },
+    {
+      "key": "Moana_001_f",
+      "en": "Come back and see me when you're finished!",
+      "cz": "Vrať se za mnou, až skončíš!",
+      "source": "pre_existing",
+      "original_cz": "Vrať se za mnou, až skončíš!"
+    }
+  ],
+  "Upd10MiniEvent_Moana/Moana_RPT_Moan_DailyPark_RPT_Moan_DailyPark_Outro.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "Everything delivered!",
+      "cz": "Vše doručeno!",
+      "source": "pre_existing",
+      "original_cz": "Vše doručeno!"
+    },
+    {
+      "key": "Moana_001_f",
+      "en": "Thanks for handing those out, {PlayerName}!",
+      "cz": "Díky za rozdání, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Díky za rozdání, {PlayerName}!"
+    },
+    {
+      "key": "Moana_003_f",
+      "en": "And here's the surprise I promised you!",
+      "cz": "A tady je překvapení, které jsem ti slíbila!",
+      "source": "pre_existing",
+      "original_cz": "A tady je překvapení, které jsem ti slíbila!"
+    },
+    {
+      "key": "Moana_004_f",
+      "en": "Thank you for handing out the cupcakes, {PlayerName}.",
+      "cz": "Děkuji za rozdání koláčků, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji za rozdání koláčků, {PlayerName}."
+    },
+    {
+      "key": "Moana_005_f",
+      "en": "I know everyone here looks up to you as a leader and appreciates what you do — especially the baking!",
+      "cz": "Vím, že si tě tady všichni váží jako vůdkyně a oceňují, co děláš – obzvlášť to pečení!",
+      "source": "pre_existing",
+      "original_cz": "Vím, že si tě tady všichni váží jako vůdkyně a oceňují, co děláš – obzvlášť to pečení!"
+    },
+    {
+      "key": "Moana_006_f",
+      "en": "Oh! I almost forgot — here, this is for you.",
+      "cz": "Jé! Málem jsem zapomněla – tady je to pro tebe.",
+      "source": "pre_existing",
+      "original_cz": "Jé! Málem jsem zapomněla – tady je to pro tebe."
+    },
+    {
+      "key": "Moana_007_f",
+      "en": "Thank you for all your help with the cupcakes, {PlayerName}. The Villagers look so happy!",
+      "cz": "Děkuji za všechnu tvou pomoc s cupcaky, {PlayerName}. Vesničané vypadají tak šťastně!",
+      "source": "pre_existing",
+      "original_cz": "Děkuji za všechnu tvou pomoc s cupcaky, {PlayerName}. Vesničané vypadají tak šťastně!"
+    },
+    {
+      "key": "Moana_008_f",
+      "en": "I think my father would approve.",
+      "cz": "Myslím, že by to můj otec schválil.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že by to můj otec schválil."
+    },
+    {
+      "key": "Moana_009_f",
+      "en": "Here — a little something as a reward for your amazing leadership!",
+      "cz": "Zde — malá odměna za vaše úžasné vedení!",
+      "source": "pre_existing",
+      "original_cz": "Zde — malá odměna za vaše úžasné vedení!"
+    },
+    {
+      "key": "Moana_010_f",
+      "en": "Isn't the festival amazing?!",
+      "cz": "Není ten festival úžasný?!",
+      "source": "pre_existing",
+      "original_cz": "Není ten festival úžasný?!"
+    },
+    {
+      "key": "Moana_011_f",
+      "en": "Thanks for celebrating with me. That was really fun.",
+      "cz": "Díky, že jsi to se mnou oslavila. Byla to fakt zábava.",
+      "source": "pre_existing",
+      "original_cz": "Díky, že jsi to se mnou oslavila. Byla to fakt zábava."
+    },
+    {
+      "key": "Moana_012_f",
+      "en": "Oh, and here you go, {PlayerName}. Just a little something to say \"thank you.\"",
+      "cz": "A tady to máš, {PlayerName}. Jen malé poděkování.",
+      "source": "pre_existing",
+      "original_cz": "A tady to máš, {PlayerName}. Jen malé poděkování."
+    }
+  ]
+}

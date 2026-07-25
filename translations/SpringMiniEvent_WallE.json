@@ -1,0 +1,145 @@
+{
+  "SpringMiniEvent_WallE/WallE_RPT_WallE_DailyBundles_RPT_BroughtItems.locbin": [
+    {
+      "key": "WallE_000_f",
+      "en": "There you go, WALL·E!",
+      "cz": "Tak vidíš, WALL·E!",
+      "source": "pre_existing",
+      "original_cz": "Tak vidíš, WALL·E!"
+    },
+    {
+      "key": "WallE_001_f",
+      "en": "WALL·EEE!!!",
+      "cz": "ZEĎ·EEÉ!!!",
+      "source": "pre_existing",
+      "original_cz": "ZEĎ·EEÉ!!!"
+    }
+  ],
+  "SpringMiniEvent_WallE/WallE_RPT_WallE_DailyBundles_RPT_Intro.locbin": [
+    {
+      "key": "WallE_000_f",
+      "en": "Ooh! Ooh!",
+      "cz": "Jé! Jé!",
+      "source": "pre_existing",
+      "original_cz": "Jé! Jé!"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "You want me to help gathering flowers?",
+      "cz": "Chceš, abych ti pomohl se sběrem květin?",
+      "source": "pre_existing",
+      "original_cz": "Chceš, abych ti pomohl se sběrem květin?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's do it!",
+      "cz": "Pojďme na to!",
+      "source": "pre_existing",
+      "original_cz": "Pojďme na to!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I don't have time today!",
+      "cz": "Dnes nemám čas!",
+      "source": "pre_existing",
+      "original_cz": "Dnes nemám čas!"
+    },
+    {
+      "key": "WallE_001_f",
+      "en": "Yoo-hoo!",
+      "cz": "Ju-hu!",
+      "source": "pre_existing",
+      "original_cz": "Ju-hu!"
+    },
+    {
+      "key": "WallE_002_f",
+      "en": "Aw...",
+      "cz": "Jé...",
+      "source": "pre_existing",
+      "original_cz": "Jé..."
+    }
+  ],
+  "SpringMiniEvent_WallE/WallE_RPT_WallE_DailyBundles_RPT_OngoingBringItem.locbin": [
+    {
+      "key": "WallE_000_f",
+      "en": "Directive!",
+      "cz": "Nařízení!",
+      "source": "pre_existing",
+      "original_cz": "Nařízení!"
+    },
+    {
+      "key": "WallE_001_f",
+      "en": "I'm still gathering flowers! I'll be back as soon as possible.",
+      "cz": "Stále sbírám květiny! Vrátím se co nejdříve.",
+      "source": "pre_existing",
+      "original_cz": "Stále sbírám květiny! Vrátím se co nejdříve."
+    },
+    {
+      "key": "WallE_002_f",
+      "en": "Oooh.",
+      "cz": "Jééé.",
+      "source": "pre_existing",
+      "original_cz": "Jééé."
+    }
+  ],
+  "SpringMiniEvent_WallE/WallE_RPT_WallE_WeeklyBunnies_RPT_Intro.locbin": [
+    {
+      "key": "WallE_000_f",
+      "en": "Ooh! Ooh!",
+      "cz": "Jé! Jé!",
+      "source": "pre_existing",
+      "original_cz": "Jé! Jé!"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "You want me to catch bunnies running in the Plaza?",
+      "cz": "Chceš, abych chytal králíky, jak běhají po náměstí?",
+      "source": "pre_existing",
+      "original_cz": "Chceš, abych chytal králíky, jak běhají po náměstí?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's do it!",
+      "cz": "Pojďme na to!",
+      "source": "pre_existing",
+      "original_cz": "Pojďme na to!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I don't have time today!",
+      "cz": "Dnes nemám čas!",
+      "source": "pre_existing",
+      "original_cz": "Dnes nemám čas!"
+    },
+    {
+      "key": "WallE_001_f",
+      "en": "Yoo-hoo!",
+      "cz": "Ju-hu!",
+      "source": "pre_existing",
+      "original_cz": "Ju-hu!"
+    },
+    {
+      "key": "WallE_002_f",
+      "en": "Aw...",
+      "cz": "Jé...",
+      "source": "pre_existing",
+      "original_cz": "Jé..."
+    }
+  ],
+  "SpringMiniEvent_WallE/WallE_RPT_WallE_WeeklyBunnies_RPT_Ongoing.locbin": [
+    {
+      "key": "WallE_000_f",
+      "en": "I still haven't caught all the bunnies in the Plaza!",
+      "cz": "Ještě jsem nechytil všechny králíky na náměstí!",
+      "source": "pre_existing",
+      "original_cz": "Ještě jsem nechytil všechny králíky na náměstí!"
+    },
+    {
+      "key": "WallE_001_f",
+      "en": "Ooh!",
+      "cz": "Jé!",
+      "source": "pre_existing",
+      "original_cz": "Jé!"
+    }
+  ]
+}

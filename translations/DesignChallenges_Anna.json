@@ -1,0 +1,816 @@
+{
+  "DesignChallenges_Anna/Anna_VLG_Vane_040_VLG_Vane_040_TalkTo03.locbin": [
+    {
+      "key": "Anna_057_f",
+      "en": "How cunning of you. This is the sort of thinking you will need to outsmart the Mastermind!",
+      "cz": "Jak jsi mazaná. Takhle přemýšlíš, abys přechytračila Generála!",
+      "source": "pre_existing",
+      "original_cz": "Jak jsi mazaná. Takhle přemýšlíš, abys přechytračila Generála!"
+    },
+    {
+      "key": "Anna_058_f",
+      "en": "I reach out slowly and take my staff back...",
+      "cz": "Pomalu natahuji ruku a beru si hůl zpět...",
+      "source": "pre_existing",
+      "original_cz": "Pomalu natahuji ruku a beru si hůl zpět..."
+    },
+    {
+      "key": "Anna_000_f",
+      "en": "Oh, {PlayerName}! You're here! Err... I mean...",
+      "cz": "Aha, {PlayerName}! Jsi tady! Ehm... Myslím...",
+      "source": "pre_existing",
+      "original_cz": "Aha, {PlayerName}! Jsi tady! Ehm... Myslím..."
+    },
+    {
+      "key": "Anna_001_f",
+      "en": "How fascinating! Someone approaches the Wizard... (Um, what was that name again? Oh, right!) ... Chockany Gumbottom!",
+      "cz": "To je fascinující! Někdo se blíží k Čaroději... (Ehm, jak se to jmenovalo? No jasně!) ... Čokani Gumbottomovi!",
+      "source": "pre_existing",
+      "original_cz": "To je fascinující! Někdo se blíží k Čaroději... (Ehm, jak se to jmenovalo? No jasně!) ... Čokani Gumbottomovi!"
+    },
+    {
+      "key": "Anna_002_f",
+      "en": "I'm a wizened old wizard with a very long beard and a pointy hat and tiny little glasses.",
+      "cz": "Jsem scvrklý starý kouzelník s velmi dlouhým vousem, špičatým kloboukem a maličkými brýlemi.",
+      "source": "pre_existing",
+      "original_cz": "Jsem scvrklý starý kouzelník s velmi dlouhým vousem, špičatým kloboukem a maličkými brýlemi."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I want to save the kingdom!",
+      "cz": "Chci zachránit království!",
+      "source": "pre_existing",
+      "original_cz": "Chci zachránit království!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "How do I stop the Mastermind?",
+      "cz": "Jak zastavím Mastermind?",
+      "source": "pre_existing",
+      "original_cz": "Jak zastavím Mastermind?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Your Merlin impression needs work.",
+      "cz": "Vaše imitace Merlina potřebuje vylepšit.",
+      "source": "pre_existing",
+      "original_cz": "Vaše imitace Merlina potřebuje vylepšit."
+    },
+    {
+      "key": "Anna_059_f",
+      "en": "It's been so long since I had a friend to share frozen treats with me...",
+      "cz": "Už je to tak dlouho, co jsem měla kamarádku, která by se mnou mohla podělit o mražené dobroty...",
+      "source": "pre_existing",
+      "original_cz": "Už je to tak dlouho, co jsem měla kamarádku, která by se mnou mohla podělit o mražené dobroty..."
+    },
+    {
+      "key": "Anna_060_f",
+      "en": "As you rush towards me, I gasp and dive out of the way!",
+      "cz": "Když se ke mně řítíš, zalapám po dechu a uskočím z cesty!",
+      "source": "pre_existing",
+      "original_cz": "Když se ke mně řítíš, zalapám po dechu a uskočím z cesty!"
+    },
+    {
+      "key": "Anna_061_f",
+      "en": "Stop!",
+      "cz": "Stůj!",
+      "source": "pre_existing",
+      "original_cz": "Stůj!"
+    },
+    {
+      "key": "Anna_062_f",
+      "en": "Only a true Hero or a true daredevil would rush at a powerful wizard like me!",
+      "cz": "Jen opravdový hrdina nebo opravdový odvážlivec by se vrhl na mocného čaroděje, jako jsem já!",
+      "source": "pre_existing",
+      "original_cz": "Jen opravdový hrdina nebo opravdový odvážlivec by se vrhl na mocného čaroděje, jako jsem já!"
+    },
+    {
+      "key": "Player_014_choice_000_f",
+      "en": "Maybe I'm both.",
+      "cz": "Možná jsem obojí.",
+      "source": "pre_existing",
+      "original_cz": "Možná jsem obojí."
+    },
+    {
+      "key": "Player_014_choice_001_f",
+      "en": "So... I win?",
+      "cz": "Takže... vyhrál jsem?",
+      "source": "pre_existing",
+      "original_cz": "Takže... vyhrál jsem?"
+    },
+    {
+      "key": "Anna_063_f",
+      "en": "Either way, you are just what the kingdom needs!",
+      "cz": "Ať tak či onak, jsi přesně to, co království potřebuje!",
+      "source": "pre_existing",
+      "original_cz": "Ať tak či onak, jsi přesně to, co království potřebuje!"
+    },
+    {
+      "key": "Anna_064_f",
+      "en": "Indeed, you do! You have proven your bravery on this day!",
+      "cz": "Vskutku! Dnes jsi prokázala svou statečnost!",
+      "source": "pre_existing",
+      "original_cz": "Vskutku! Dnes jsi prokázala svou statečnost!"
+    },
+    {
+      "key": "Anna_065_f",
+      "en": "Wait... what?!",
+      "cz": "Počkej... co?!",
+      "source": "pre_existing",
+      "original_cz": "Počkej... co?!"
+    },
+    {
+      "key": "Anna_066_f",
+      "en": "Uh... the umm... The sugar fairy crunches, and you realize it's not a fairy! Just enchanted rock candy.",
+      "cz": "Ehm... ehm... Cukrová víla křupe a vy si uvědomíte, že to není víla! Jen kouzelný kámen cukru.",
+      "source": "pre_existing",
+      "original_cz": "Ehm... ehm... Cukrová víla křupe a vy si uvědomíte, že to není víla! Jen kouzelný kámen cukru."
+    },
+    {
+      "key": "Anna_067_f",
+      "en": "You see through my illusion, and the fairies turn into lumps of rock candy and drop all around us.",
+      "cz": "Prohlédneš mou iluzi a víly se promění v kusy cukrového kamene a rozsypou se všude kolem nás.",
+      "source": "pre_existing",
+      "original_cz": "Prohlédneš mou iluzi a víly se promění v kusy cukrového kamene a rozsypou se všude kolem nás."
+    },
+    {
+      "key": "Anna_068_f",
+      "en": "With a twirl of my candy-striped staff, I summon a mighty peppermint wind!",
+      "cz": "Otočením své hole s pruhy jako cukroví přivolám mocný peprmintový vítr!",
+      "source": "pre_existing",
+      "original_cz": "Otočením své hole s pruhy jako cukroví přivolám mocný peprmintový vítr!"
+    },
+    {
+      "key": "Player_015_choice_000_f",
+      "en": "I hate peppermint!",
+      "cz": "Nesnáším mátu peprnou!",
+      "source": "pre_existing",
+      "original_cz": "Nesnáším mátu peprnou!"
+    },
+    {
+      "key": "Player_015_choice_001_f",
+      "en": "You won't stop me, Chockany!",
+      "cz": "Nezastavíš mě, Chockany!",
+      "source": "pre_existing",
+      "original_cz": "Nezastavíš mě, Chockany!"
+    },
+    {
+      "key": "Anna_069_f",
+      "en": "Then surrender!",
+      "cz": "Tak se vzdej!",
+      "source": "pre_existing",
+      "original_cz": "Tak se vzdej!"
+    },
+    {
+      "key": "Player_016_choice_000_f",
+      "en": "The kingdom is counting on me!",
+      "cz": "Království se na mě spoléhá!",
+      "source": "pre_existing",
+      "original_cz": "Království se na mě spoléhá!"
+    },
+    {
+      "key": "Player_016_choice_001_f",
+      "en": "I refuse!",
+      "cz": "Odmítám!",
+      "source": "pre_existing",
+      "original_cz": "Odmítám!"
+    },
+    {
+      "key": "Anna_070_f",
+      "en": "My eyes soften as you brave the peppermint wind with courage and determination.",
+      "cz": "Mé oči změknou, když se s odvahou a odhodláním postavíš větru s příchutí peprmintu.",
+      "source": "pre_existing",
+      "original_cz": "Mé oči změknou, když se s odvahou a odhodláním postavíš větru s příchutí peprmintu."
+    },
+    {
+      "key": "Anna_071_f",
+      "en": "With a wave of my candy-striped staff, the wind stops.",
+      "cz": "S mávnutím své hole s pruhy jako cukroví vítr ustane.",
+      "source": "pre_existing",
+      "original_cz": "S mávnutím své hole s pruhy jako cukroví vítr ustane."
+    },
+    {
+      "key": "Anna_072_f",
+      "en": "You have proven you will put the kingdom before all else!",
+      "cz": "Dokázala jsi, že království upřednostňuješ před vším ostatním!",
+      "source": "pre_existing",
+      "original_cz": "Dokázala jsi, že království upřednostňuješ před vším ostatním!"
+    },
+    {
+      "key": "Anna_073_f",
+      "en": "I trudge forward through the freezing peppermint wind. One foot at a time...",
+      "cz": "Plachtím se vpřed mrazivým peprmintovým větrem. Nohu po noze...",
+      "source": "pre_existing",
+      "original_cz": "Plachtím se vpřed mrazivým peprmintovým větrem. Nohu po noze..."
+    },
+    {
+      "key": "Anna_074_f",
+      "en": "The Futurist! I wonder... can your imaginative powers save us from boredom?",
+      "cz": "Futuristka! Zajímalo by mě... dokáže nás tvoje fantazie zachránit před nudou?",
+      "source": "pre_existing",
+      "original_cz": "Futuristka! Zajímalo by mě... dokáže nás tvoje fantazie zachránit před nudou?"
+    },
+    {
+      "key": "Anna_075_f",
+      "en": "Oh, a Noble Hero. Could it be that you really were born for a great purpose... to save us from boredom and stop the Mastermind?",
+      "cz": "Ó, vznešený hrdino. Je možné, že ses opravdu narodil pro velký účel... abys nás zachránil před nudou a zastavil Generála?",
+      "source": "pre_existing",
+      "original_cz": "Ó, vznešený hrdino. Je možné, že ses opravdu narodil pro velký účel... abys nás zachránil před nudou a zastavil Generála?"
+    },
+    {
+      "key": "Anna_076_f",
+      "en": "You must <Lore>rescue our Princess and get the keys to the chest where all fun has been locked away!</Lore> But, one thing at a time! *harrumph*",
+      "cz": "Musíš <Lore>zachránit naši princeznu a získat klíče od truhly, kde je ukryta veškerá zábava!</Lore> Ale jednu věc po druhé! *harrumph*",
+      "source": "pre_existing",
+      "original_cz": "Musíš <Lore>zachránit naši princeznu a získat klíče od truhly, kde je ukryta veškerá zábava!</Lore> Ale jednu věc po druhé! *harrumph*"
+    },
+    {
+      "key": "Anna_077_f",
+      "en": "I told Vanellope I should have a costume beard but she said it \"wasn't in her budget\"?",
+      "cz": "Řekla jsem Vanellope, že bych si měla nechat udělat kostýmní vousy, ale ona řekla, že to „není v jejím rozpočtu“?",
+      "source": "pre_existing",
+      "original_cz": "Řekla jsem Vanellope, že bych si měla nechat udělat kostýmní vousy, ale ona řekla, že to „není v jejím rozpočtu“?"
+    },
+    {
+      "key": "Anna_078_f",
+      "en": "But this is still fun, right? ... Anyway! Ahem!",
+      "cz": "Ale tohle je pořád zábava, že? ... Každopádně! Ehm!",
+      "source": "pre_existing",
+      "original_cz": "Ale tohle je pořád zábava, že? ... Každopádně! Ehm!"
+    },
+    {
+      "key": "Anna_079_f",
+      "en": "Come closer, Hero. Let these old magical eyes have a look at you. Hrm hrm...",
+      "cz": "Pojď blíž, hrdino. Ať se na tebe podívají tyto staré magické oči. Hmm hrm...",
+      "source": "pre_existing",
+      "original_cz": "Pojď blíž, hrdino. Ať se na tebe podívají tyto staré magické oči. Hmm hrm..."
+    },
+    {
+      "key": "Anna_003_f",
+      "en": "Yes, yes, *harrumph*, so do we all! I myself tried with my... gumball incantations many times with no result.",
+      "cz": "Ano, ano, *harrumph*, my všichni taky! Sama jsem to zkoušela se svými... žvýkacími zaříkáváními mnohokrát, ale bez výsledku.",
+      "source": "pre_existing",
+      "original_cz": "Ano, ano, *harrumph*, my všichni taky! Sama jsem to zkoušela se svými... žvýkacími zaříkáváními mnohokrát, ale bez výsledku."
+    },
+    {
+      "key": "Anna_004_f",
+      "en": "Now, let these old and very magical eyes have a look at you...",
+      "cz": "A teď nechte tyto staré a velmi magické oči, aby se na vás podívaly...",
+      "source": "pre_existing",
+      "original_cz": "A teď nechte tyto staré a velmi magické oči, aby se na vás podívaly..."
+    },
+    {
+      "key": "Anna_005_f",
+      "en": "A humble Farmer? Could you be the Hero who will save us all from boredom?",
+      "cz": "Pokorný farmář? Mohl bys být hrdinou, který nás všechny zachrání před nudou?",
+      "source": "pre_existing",
+      "original_cz": "Pokorný farmář? Mohl bys být hrdinou, který nás všechny zachrání před nudou?"
+    },
+    {
+      "key": "Anna_006_f",
+      "en": "Here's a secret... <Lore>I have the first key,</Lore> but I can only give it to the true Hero!",
+      "cz": "Zde je tajemství... <Lore>Mám první klíč,</Lore> ale můžu ho dát jen pravému hrdinovi!",
+      "source": "pre_existing",
+      "original_cz": "Zde je tajemství... <Lore>Mám první klíč,</Lore> ale můžu ho dát jen pravému hrdinovi!"
+    },
+    {
+      "key": "Anna_007_f",
+      "en": "And to prove you're a Hero, you must defeat me in a \"spellcaster's duel\"!",
+      "cz": "A abys dokázal/a, že jsi hrdina/hrdinka, musíš mě porazit v „kouzelnickém souboji“!",
+      "source": "pre_existing",
+      "original_cz": "A abys dokázal/a, že jsi hrdina/hrdinka, musíš mě porazit v „kouzelnickém souboji“!"
+    },
+    {
+      "key": "Anna_008_f",
+      "en": "I raise my candy-striped wizard staff and <Lore>send a rain of stale chocolate cupcakes at you!</Lore>",
+      "cz": "Zvedám svou pruhovanou kouzelnickou hůl a <Lore>posílám na tebe déšť starých čokoládových cupcaků!</Lore>",
+      "source": "pre_existing",
+      "original_cz": "Zvedám svou pruhovanou kouzelnickou hůl a <Lore>posílám na tebe déšť starých čokoládových cupcaků!</Lore>"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I catch some and throw them back at you!",
+      "cz": "Nějaké chytím a hodím je zpátky po tobě!",
+      "source": "pre_existing",
+      "original_cz": "Nějaké chytím a hodím je zpátky po tobě!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Good, I'm hungry! I eat a cupcake!",
+      "cz": "Výborně, mám hlad! Sním koláček!",
+      "source": "pre_existing",
+      "original_cz": "Výborně, mám hlad! Sním koláček!"
+    },
+    {
+      "key": "Anna_009_f",
+      "en": "You have impressive reflexes! A cupcake hits me in the shoulder! I'm smeared with buttercream and stagger back.",
+      "cz": "Máš úžasné reflexy! Košíček mě trefil do ramene! Jsem umazaná od krému a zapotácím se dozadu.",
+      "source": "pre_existing",
+      "original_cz": "Máš úžasné reflexy! Košíček mě trefil do ramene! Jsem umazaná od krému a zapotácím se dozadu."
+    },
+    {
+      "key": "Anna_010_f",
+      "en": "As I fall, the ground under your feet starts to soften. I've made it into a hot fudge sink pit!",
+      "cz": "Jak padám, země pod tvýma nohama začíná měknout. Udělala jsem z ní horkou čokoládovou jámu!",
+      "source": "pre_existing",
+      "original_cz": "Jak padám, země pod tvýma nohama začíná měknout. Udělala jsem z ní horkou čokoládovou jámu!"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "*gasp* Chockany! You're sinking too!",
+      "cz": "*vzdech* Čokani! Ty se taky potápíš!",
+      "source": "pre_existing",
+      "original_cz": "*vzdech* Čokani! Ty se taky potápíš!"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "I leap to solid ground!",
+      "cz": "Skáču na pevnou zem!",
+      "source": "pre_existing",
+      "original_cz": "Skáču na pevnou zem!"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Anybody have some ice cream?",
+      "cz": "Dá si někdo zmrzlinu?",
+      "source": "pre_existing",
+      "original_cz": "Dá si někdo zmrzlinu?"
+    },
+    {
+      "key": "Anna_011_f",
+      "en": "Oh no! My spell was too powerful!",
+      "cz": "Ach ne! Moje kouzlo bylo příliš silné!",
+      "source": "pre_existing",
+      "original_cz": "Ach ne! Moje kouzlo bylo příliš silné!"
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "Don't worry; I'll save us!",
+      "cz": "Nebojte se; já nás zachráním!",
+      "source": "pre_existing",
+      "original_cz": "Nebojte se; já nás zachráním!"
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "Hm. Guess we'll sink together.",
+      "cz": "Hm. Asi se potopíme společně.",
+      "source": "pre_existing",
+      "original_cz": "Hm. Asi se potopíme společně."
+    },
+    {
+      "key": "Anna_012_f",
+      "en": "You... would save me?",
+      "cz": "Ty... bys mě zachránila?",
+      "source": "pre_existing",
+      "original_cz": "Ty... bys mě zachránila?"
+    },
+    {
+      "key": "Anna_013_f",
+      "en": "I wave my candy-striped staff. We're on solid ground again.",
+      "cz": "Mávám svou holí s pruhy jako cukroví. Jsme zase na pevné zemi.",
+      "source": "pre_existing",
+      "original_cz": "Mávám svou holí s pruhy jako cukroví. Jsme zase na pevné zemi."
+    },
+    {
+      "key": "Anna_014_f",
+      "en": "You have proven yourself to be brave AND selfless. You are the Hero the kingdom needs. Take this.",
+      "cz": "Dokázala jsi, že jsi statečná A nesobecká. Jsi hrdinka, kterou království potřebuje. Vezmi si tohle.",
+      "source": "pre_existing",
+      "original_cz": "Dokázala jsi, že jsi statečná A nesobecká. Jsi hrdinka, kterou království potřebuje. Vezmi si tohle."
+    },
+    {
+      "key": "Anna_015_f",
+      "en": "The first key is yours!",
+      "cz": "První klíč je tvůj!",
+      "source": "pre_existing",
+      "original_cz": "První klíč je tvůj!"
+    },
+    {
+      "key": "Anna_016_f",
+      "en": "My eyes grow wide as we start to sink into the delicious fudge until we're almost up to our necks!",
+      "cz": "Oči se mi rozšíří, když se začneme bořit do lahodného fondánu, až nám sahá skoro až po krk!",
+      "source": "pre_existing",
+      "original_cz": "Oči se mi rozšíří, když se začneme bořit do lahodného fondánu, až nám sahá skoro až po krk!"
+    },
+    {
+      "key": "Anna_017_f",
+      "en": "It will be a chocolate drowning! ... But then!",
+      "cz": "Bude to čokoládové utopení! ... Ale pak!",
+      "source": "pre_existing",
+      "original_cz": "Bude to čokoládové utopení! ... Ale pak!"
+    },
+    {
+      "key": "Anna_018_f",
+      "en": "My staff starts to glow and WHOOSH! We're on solid ground again. The fudge is gone.",
+      "cz": "Moje hůl začíná zářit a BUCH! Jsme zase na pevné zemi. Karbanátek je pryč.",
+      "source": "pre_existing",
+      "original_cz": "Moje hůl začíná zářit a BUCH! Jsme zase na pevné zemi. Karbanátek je pryč."
+    },
+    {
+      "key": "Player_004_choice_000_f",
+      "en": "Did I win?",
+      "cz": "Vyhrál jsem?",
+      "source": "pre_existing",
+      "original_cz": "Vyhrál jsem?"
+    },
+    {
+      "key": "Player_004_choice_001_f",
+      "en": "I didn't even get any fudge!",
+      "cz": "Ani jsem nedostal žádný fondán!",
+      "source": "pre_existing",
+      "original_cz": "Ani jsem nedostal žádný fondán!"
+    },
+    {
+      "key": "Anna_019_f",
+      "en": "You have proved that you are fearless, determined, and immune to fudge! YOU are the Hero the kingdom needs.",
+      "cz": "Dokázala jsi, že jsi nebojácná, odhodlaná a imunní vůči podvodům! TY jsi hrdinka, kterou království potřebuje.",
+      "source": "pre_existing",
+      "original_cz": "Dokázala jsi, že jsi nebojácná, odhodlaná a imunní vůči podvodům! TY jsi hrdinka, kterou království potřebuje."
+    },
+    {
+      "key": "Anna_020_f",
+      "en": "There will be fountains of fudge when you save the kingdom from boredom...",
+      "cz": "Až zachráníš království před nudou, budou z něj fontány fondánu...",
+      "source": "pre_existing",
+      "original_cz": "Až zachráníš království před nudou, budou z něj fontány fondánu..."
+    },
+    {
+      "key": "Anna_021_f",
+      "en": "You won't get rid of me that easily!",
+      "cz": "Tak snadno se mě nezbavíš!",
+      "source": "pre_existing",
+      "original_cz": "Tak snadno se mě nezbavíš!"
+    },
+    {
+      "key": "Player_005_choice_000_f",
+      "en": "I charge at you!",
+      "cz": "Útočím na tebe!",
+      "source": "pre_existing",
+      "original_cz": "Útočím na tebe!"
+    },
+    {
+      "key": "Player_005_choice_001_f",
+      "en": "I summon a hail of rainbow sprinkles!",
+      "cz": "Přivolávám krupobití duhových posypů!",
+      "source": "pre_existing",
+      "original_cz": "Přivolávám krupobití duhových posypů!"
+    },
+    {
+      "key": "Anna_022_f",
+      "en": "Ahh! I'm not used to non-magical confrontation!",
+      "cz": "Ahh! Nejsem zvyklá na nemagickou konfrontaci!",
+      "source": "pre_existing",
+      "original_cz": "Ahh! Nejsem zvyklá na nemagickou konfrontaci!"
+    },
+    {
+      "key": "Anna_023_f",
+      "en": "As you rush at me, I throw my candy-striped staff down between us...",
+      "cz": "Když se na mě vrhneš, hodím mezi nás svou pruhovanou hůl jako cukroví...",
+      "source": "pre_existing",
+      "original_cz": "Když se na mě vrhneš, hodím mezi nás svou pruhovanou hůl jako cukroví..."
+    },
+    {
+      "key": "Anna_024_f",
+      "en": "Have mercy on an old wizard!",
+      "cz": "Smiluj se nad starým čarodějem!",
+      "source": "pre_existing",
+      "original_cz": "Smiluj se nad starým čarodějem!"
+    },
+    {
+      "key": "Player_006_choice_000_f",
+      "en": "I'll spare you, Chockany.",
+      "cz": "Ušetřím tě, Chockany.",
+      "source": "pre_existing",
+      "original_cz": "Ušetřím tě, Chockany."
+    },
+    {
+      "key": "Player_006_choice_001_f",
+      "en": "I win the duel!",
+      "cz": "Vyhrál jsem souboj!",
+      "source": "pre_existing",
+      "original_cz": "Vyhrál jsem souboj!"
+    },
+    {
+      "key": "Anna_025_f",
+      "en": "You have proven yourself a Hero of mercy and might!",
+      "cz": "Prokázala jsi, že jsi Hrdinkou milosrdenství a moci!",
+      "source": "pre_existing",
+      "original_cz": "Prokázala jsi, že jsi Hrdinkou milosrdenství a moci!"
+    },
+    {
+      "key": "Anna_026_f",
+      "en": "You have won the first key. You ARE the hero we need.",
+      "cz": "Získala jsi první klíč. JSI hrdina, kterého potřebujeme.",
+      "source": "pre_existing",
+      "original_cz": "Získala jsi první klíč. JSI hrdina, kterého potřebujeme."
+    },
+    {
+      "key": "Anna_027_f",
+      "en": "Yes, you have proven you're fearless in the face of my magical might!",
+      "cz": "Ano, dokázala jsi, že se nebojíš tváří v tvář mé magické moci!",
+      "source": "pre_existing",
+      "original_cz": "Ano, dokázala jsi, že se nebojíš tváří v tvář mé magické moci!"
+    },
+    {
+      "key": "Anna_028_f",
+      "en": "Ow! Ow! Pellets of colorful confections hail from the sky!",
+      "cz": "Au! Au! Z nebe padají kuličky barevných cukrovinek!",
+      "source": "pre_existing",
+      "original_cz": "Au! Au! Z nebe padají kuličky barevných cukrovinek!"
+    },
+    {
+      "key": "Anna_029_f",
+      "en": "*gasp* You can do candy magic?!",
+      "cz": "*lapám po dechu* Umíš kouzlit s cukrovinkami?!",
+      "source": "pre_existing",
+      "original_cz": "*lapám po dechu* Umíš kouzlit s cukrovinkami?!"
+    },
+    {
+      "key": "Anna_030_f",
+      "en": "Only the chosen Hero could master candy magic without training...",
+      "cz": "Pouze vyvolený hrdina dokázal zvládnout cukrovou magii bez tréninku...",
+      "source": "pre_existing",
+      "original_cz": "Pouze vyvolený hrdina dokázal zvládnout cukrovou magii bez tréninku..."
+    },
+    {
+      "key": "Player_007_choice_000_f",
+      "en": "I'm more than I seem.",
+      "cz": "Jsem víc, než se zdá.",
+      "source": "pre_existing",
+      "original_cz": "Jsem víc, než se zdá."
+    },
+    {
+      "key": "Player_007_choice_001_f",
+      "en": "I'm a magic genius!",
+      "cz": "Jsem kouzelnický génius!",
+      "source": "pre_existing",
+      "original_cz": "Jsem kouzelnický génius!"
+    },
+    {
+      "key": "Anna_031_f",
+      "en": "Indeed! And you will become much more very soon, Hero...",
+      "cz": "Vskutku! A brzy se staneš mnohem víc, hrdino...",
+      "source": "pre_existing",
+      "original_cz": "Vskutku! A brzy se staneš mnohem víc, hrdino..."
+    },
+    {
+      "key": "Anna_032_f",
+      "en": "Take the first key and save the kingdom with this old wizard's blessing!",
+      "cz": "Vezmi první klíč a zachraň království s požehnáním tohoto starého čaroděje!",
+      "source": "pre_existing",
+      "original_cz": "Vezmi první klíč a zachraň království s požehnáním tohoto starého čaroděje!"
+    },
+    {
+      "key": "Anna_033_f",
+      "en": "You are! Perhaps once you save the kingdom, we can teach each other more candy magic!",
+      "cz": "To jsi! Možná až zachráníš království, budeme se moci navzájem naučit další sladké kouzlení!",
+      "source": "pre_existing",
+      "original_cz": "To jsi! Možná až zachráníš království, budeme se moci navzájem naučit další sladké kouzlení!"
+    },
+    {
+      "key": "Anna_034_f",
+      "en": "Did... did you say \"ice cream\"?",
+      "cz": "Řekla... řekla jsi „zmrzlina“?",
+      "source": "pre_existing",
+      "original_cz": "Řekla... řekla jsi „zmrzlina“?"
+    },
+    {
+      "key": "Player_008_choice_000_f",
+      "en": "I'm hungry, okay?",
+      "cz": "Mám hlad, jasný?",
+      "source": "pre_existing",
+      "original_cz": "Mám hlad, jasný?"
+    },
+    {
+      "key": "Player_008_choice_001_f",
+      "en": "You said I'm sinking in fudge, right?",
+      "cz": "Říkal jsi, že se topím v fondánu, že?",
+      "source": "pre_existing",
+      "original_cz": "Říkal jsi, že se topím v fondánu, že?"
+    },
+    {
+      "key": "Anna_035_f",
+      "en": "Ice cream is my FAVORITE food. My eyes glaze over in a dreamy daze...",
+      "cz": "Zmrzlina je moje NEJOBLÍBENĚJŠÍ jídlo. Oči se mi zalijí snovým omámením...",
+      "source": "pre_existing",
+      "original_cz": "Zmrzlina je moje NEJOBLÍBENĚJŠÍ jídlo. Oči se mi zalijí snovým omámením..."
+    },
+    {
+      "key": "Anna_036_f",
+      "en": "I wave my candy-striped staff...",
+      "cz": "Mávám svou holí pruhovanou jako cukroví...",
+      "source": "pre_existing",
+      "original_cz": "Mávám svou holí pruhovanou jako cukroví..."
+    },
+    {
+      "key": "Anna_037_f",
+      "en": "WHOOSH! The ground beneath our feet becomes solid again. I approach you...",
+      "cz": "ŠUŠ! Země pod našima nohama se opět stává pevnou. Blížím se k tobě...",
+      "source": "pre_existing",
+      "original_cz": "ŠUŠ! Země pod našima nohama se opět stává pevnou. Blížím se k tobě..."
+    },
+    {
+      "key": "Anna_038_f",
+      "en": "Sweet Hero, ice cream is always the answer. You are the one the kingdom needs!",
+      "cz": "Sladký hrdino, zmrzlina je vždycky řešení. Jsi ten, koho království potřebuje!",
+      "source": "pre_existing",
+      "original_cz": "Sladký hrdino, zmrzlina je vždycky řešení. Jsi ten, koho království potřebuje!"
+    },
+    {
+      "key": "Anna_039_f",
+      "en": "The first key is yours!",
+      "cz": "První klíč je tvůj!",
+      "source": "pre_existing",
+      "original_cz": "První klíč je tvůj!"
+    },
+    {
+      "key": "Anna_040_f",
+      "en": "Yes! And hot fudge and ice cream go perfectly together!",
+      "cz": "Ano! A horký fondán a zmrzlina se k sobě perfektně hodí!",
+      "source": "pre_existing",
+      "original_cz": "Ano! A horký fondán a zmrzlina se k sobě perfektně hodí!"
+    },
+    {
+      "key": "Anna_041_f",
+      "en": "What is this?! My attack failed?!",
+      "cz": "Co to je?! Můj útok selhal?!",
+      "source": "pre_existing",
+      "original_cz": "Co to je?! Můj útok selhal?!"
+    },
+    {
+      "key": "Anna_042_f",
+      "en": "I summon a cloud of sugar fairies to swarm you!",
+      "cz": "Přivolávám oblak cukrových víl, aby tě zaplavily!",
+      "source": "pre_existing",
+      "original_cz": "Přivolávám oblak cukrových víl, aby tě zaplavily!"
+    },
+    {
+      "key": "Player_009_choice_000_f",
+      "en": "I rush you through the fairies!",
+      "cz": "Popohání tě skrz víly!",
+      "source": "pre_existing",
+      "original_cz": "Popohání tě skrz víly!"
+    },
+    {
+      "key": "Player_009_choice_001_f",
+      "en": "I eat a sugar fairy.",
+      "cz": "Jím cukrovou vílu.",
+      "source": "pre_existing",
+      "original_cz": "Jím cukrovou vílu."
+    },
+    {
+      "key": "Anna_043_f",
+      "en": "The sweet fairies sting like sleet as you run at me!",
+      "cz": "Sladké víly štípou jako plískanice, když na mě běžíš!",
+      "source": "pre_existing",
+      "original_cz": "Sladké víly štípou jako plískanice, když na mě běžíš!"
+    },
+    {
+      "key": "Anna_044_f",
+      "en": "I raise my candy-striped staff, and the ground transforms to ice under your running feet.",
+      "cz": "Zvedám svou hůl s pruhy jako cukroví a země se pod tvými běžícími nohama promění v led.",
+      "source": "pre_existing",
+      "original_cz": "Zvedám svou hůl s pruhy jako cukroví a země se pod tvými běžícími nohama promění v led."
+    },
+    {
+      "key": "Anna_045_f",
+      "en": "And it's lingonberry-flavored!",
+      "cz": "A má brusinkovou příchuť!",
+      "source": "pre_existing",
+      "original_cz": "A má brusinkovou příchuť!"
+    },
+    {
+      "key": "Player_010_choice_000_f",
+      "en": "I slip on the delicious ice!",
+      "cz": "Uklouzl jsem na lahodném ledu!",
+      "source": "pre_existing",
+      "original_cz": "Uklouzl jsem na lahodném ledu!"
+    },
+    {
+      "key": "Player_010_choice_001_f",
+      "en": "I transform my footwear into candy cane skates!",
+      "cz": "Proměňuji své boty v brusle z cukrové hůlky!",
+      "source": "pre_existing",
+      "original_cz": "Proměňuji své boty v brusle z cukrové hůlky!"
+    },
+    {
+      "key": "Anna_046_f",
+      "en": "You crash to the lingonberry ice! BAM!",
+      "cz": "Nabouráš se do brusinkového ledu! BAM!",
+      "source": "pre_existing",
+      "original_cz": "Nabouráš se do brusinkového ledu! BAM!"
+    },
+    {
+      "key": "Player_011_choice_000_f",
+      "en": "I get up slowly...",
+      "cz": "Vstávám pomalu...",
+      "source": "pre_existing",
+      "original_cz": "Vstávám pomalu..."
+    },
+    {
+      "key": "Player_011_choice_001_f",
+      "en": "I lick the lingonberry ice rink!",
+      "cz": "Olíznu brusinkové kluziště!",
+      "source": "pre_existing",
+      "original_cz": "Olíznu brusinkové kluziště!"
+    },
+    {
+      "key": "Anna_047_f",
+      "en": "My eyes grow wide as I watch you rise, fearless and determined.",
+      "cz": "Rozšíří se mi oči, když tě sleduji, jak stoupáš, nebojácný a odhodlaný.",
+      "source": "pre_existing",
+      "original_cz": "Rozšíří se mi oči, když tě sleduji, jak stoupáš, nebojácný a odhodlaný."
+    },
+    {
+      "key": "Anna_048_f",
+      "en": "Wait! We do not need to duel any longer.",
+      "cz": "Počkejte! Už nemusíme soubojovat.",
+      "source": "pre_existing",
+      "original_cz": "Počkejte! Už nemusíme soubojovat."
+    },
+    {
+      "key": "Anna_049_f",
+      "en": "You have shown me that you are brave and can resist sugar ice! You ARE the Hero we need!",
+      "cz": "Ukázala jsi mi, že jsi statečná a dokážeš odolat cukrové polevě! JSI Hrdinka, kterou potřebujeme!",
+      "source": "pre_existing",
+      "original_cz": "Ukázala jsi mi, že jsi statečná a dokážeš odolat cukrové polevě! JSI Hrdinka, kterou potřebujeme!"
+    },
+    {
+      "key": "Anna_050_f",
+      "en": "Wow, this magical ice is so good!",
+      "cz": "Páni, tenhle kouzelný led je tak dobrý!",
+      "source": "pre_existing",
+      "original_cz": "Páni, tenhle kouzelný led je tak dobrý!"
+    },
+    {
+      "key": "Anna_051_f",
+      "en": "R-really? No one has complimented my magical lingonberry ice in so long...",
+      "cz": "V-vážně? Nikdo mi tak dlouho nepochválil můj kouzelný brusinkový led...",
+      "source": "pre_existing",
+      "original_cz": "V-vážně? Nikdo mi tak dlouho nepochválil můj kouzelný brusinkový led..."
+    },
+    {
+      "key": "Anna_052_f",
+      "en": "I also kneel and lick a part of the ice!",
+      "cz": "Taky si klečím a olizuji kousek ledu!",
+      "source": "pre_existing",
+      "original_cz": "Taky si klečím a olizuji kousek ledu!"
+    },
+    {
+      "key": "Player_012_choice_000_f",
+      "en": "I steal your candy-striped wizard staff!",
+      "cz": "Ukradnu ti tvou pruhovanou kouzelnickou hůl!",
+      "source": "pre_existing",
+      "original_cz": "Ukradnu ti tvou pruhovanou kouzelnickou hůl!"
+    },
+    {
+      "key": "Player_012_choice_001_f",
+      "en": "We enjoy the nice moment and lingonberry ice.",
+      "cz": "Užíváme si příjemné chvíle a brusinkovou zmrzlinu.",
+      "source": "pre_existing",
+      "original_cz": "Užíváme si příjemné chvíle a brusinkovou zmrzlinu."
+    },
+    {
+      "key": "Anna_053_f",
+      "en": "*gasp* No, not my staff!",
+      "cz": "*lapám po dechu* Ne, to nejsou moji zaměstnanci!",
+      "source": "pre_existing",
+      "original_cz": "*lapám po dechu* Ne, to nejsou moji zaměstnanci!"
+    },
+    {
+      "key": "Player_013_choice_000_f",
+      "en": "Just kidding! Have it back.",
+      "cz": "Jen žertuji! Dostaňte to zpátky.",
+      "source": "pre_existing",
+      "original_cz": "Jen žertuji! Dostaňte to zpátky."
+    },
+    {
+      "key": "Player_013_choice_001_f",
+      "en": "I'll trade you for the first key.",
+      "cz": "Vyměním tě za první klíč.",
+      "source": "pre_existing",
+      "original_cz": "Vyměním tě za první klíč."
+    },
+    {
+      "key": "Anna_054_f",
+      "en": "Oh... Oh thank you! My candy-striped staff is also my best friend!",
+      "cz": "Ach... Ach, děkuji! Moje pruhovaná hůl je taky moje nejlepší kamarádka!",
+      "source": "pre_existing",
+      "original_cz": "Ach... Ach, děkuji! Moje pruhovaná hůl je taky moje nejlepší kamarádka!"
+    },
+    {
+      "key": "Anna_055_f",
+      "en": "A Hero is not only brave or smart but also kind. You are certainly all of those things.",
+      "cz": "Hrdina není jen statečný nebo chytrý, ale také laskavý. Ty jsi rozhodně vším tím.",
+      "source": "pre_existing",
+      "original_cz": "Hrdina není jen statečný nebo chytrý, ale také laskavý. Ty jsi rozhodně vším tím."
+    },
+    {
+      "key": "Anna_056_f",
+      "en": "Take the first key, with the regards of this old and wise wizard!",
+      "cz": "Vezměte si první klíč, s pozdravem tohoto starého a moudrého čaroděje!",
+      "source": "pre_existing",
+      "original_cz": "Vezměte si první klíč, s pozdravem tohoto starého a moudrého čaroděje!"
+    }
+  ]
+}

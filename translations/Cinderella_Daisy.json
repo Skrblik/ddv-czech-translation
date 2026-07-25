@@ -1,0 +1,337 @@
+{
+  "Cinderella_Daisy/Daisy_VLG_Cind_010_VLG_Cind_010_TalkTo01.locbin": [
+    {
+      "key": "Daisy_000_f",
+      "en": "Hi, Daisy. I was wondering if you had some time to help out Cinderella.",
+      "cz": "Ahoj, Daisy. Zajímalo by mě, jestli bys měla trochu času pomoct Popelce.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, Daisy. Zajímalo by mě, jestli bys měla trochu času pomoct Popelce."
+    },
+    {
+      "key": "Player_000_f",
+      "en": "She's trying to make something, but...",
+      "cz": "Snaží se něco vyrobit, ale...",
+      "source": "pre_existing",
+      "original_cz": "Snaží se něco vyrobit, ale..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "...she needs some creative inspiration.",
+      "cz": "...potřebuje trochu tvůrčí inspirace.",
+      "source": "pre_existing",
+      "original_cz": "...potřebuje trochu tvůrčí inspirace."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "...she needs help getting a project started.",
+      "cz": "...potřebuje pomoc s rozjezdem nějakého projektu.",
+      "source": "pre_existing",
+      "original_cz": "...potřebuje pomoc s rozjezdem nějakého projektu."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "...she's mostly made clothes for her animal friends and wants to try something new.",
+      "cz": "...většinou šila oblečení pro své zvířecí kamarády a chce zkusit něco nového.",
+      "source": "pre_existing",
+      "original_cz": "...většinou šila oblečení pro své zvířecí kamarády a chce zkusit něco nového."
+    },
+    {
+      "key": "Daisy_001_f",
+      "en": "Well, I've got oodles of that!",
+      "cz": "No, toho mám fakt hromadu!",
+      "source": "pre_existing",
+      "original_cz": "No, toho mám fakt hromadu!"
+    },
+    {
+      "key": "Daisy_004_f",
+      "en": "What's dear Cindy trying to make?",
+      "cz": "Co se ta drahá Cindy snaží udělat?",
+      "source": "pre_existing",
+      "original_cz": "Co se ta drahá Cindy snaží udělat?"
+    },
+    {
+      "key": "Daisy_005_f",
+      "en": "I don't think she knows yet. In the past, she had to follow orders from her stepmother.",
+      "cz": "Myslím, že to ještě neví. V minulosti musela poslouchat rozkazy své nevlastní matky.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že to ještě neví. V minulosti musela poslouchat rozkazy své nevlastní matky."
+    },
+    {
+      "key": "Daisy_006_f",
+      "en": "Well, that's no fun.",
+      "cz": "No, to není žádná legrace.",
+      "source": "pre_existing",
+      "original_cz": "No, to není žádná legrace."
+    },
+    {
+      "key": "Daisy_007_f",
+      "en": "{PlayerName}, this is a design emergency! I say we give Cindy full access to the Boutique as her design space and workshop.",
+      "cz": "{PlayerName}, tohle je designová nouze! Říkám, že bychom měli dát Cindy plný přístup do Modnímu salonu jako její designový prostor a dílnu.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, tohle je designová nouze! Říkám, že bychom měli dát Cindy plný přístup do Modnímu salonu jako její designový prostor a dílnu."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Thanks, I'm sure she'll appreciate that.",
+      "cz": "Díky, jsem si jistý, že to ocení.",
+      "source": "pre_existing",
+      "original_cz": "Díky, jsem si jistý, že to ocení."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Are you sure? That Boutique is our own design palace.",
+      "cz": "Jste si jistý/á? Ten Modní salon je náš vlastní designový palác.",
+      "source": "pre_existing",
+      "original_cz": "Jste si jistý/á? Ten Modní salon je náš vlastní designový palác."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Make it work!",
+      "cz": "Ať to funguje!",
+      "source": "pre_existing",
+      "original_cz": "Ať to funguje!"
+    },
+    {
+      "key": "Daisy_011_f",
+      "en": "It's the least I can do for an up-and-coming designer.",
+      "cz": "Je to to nejmenší, co můžu udělat pro začínajícího designéra.",
+      "source": "pre_existing",
+      "original_cz": "Je to to nejmenší, co můžu udělat pro začínajícího designéra."
+    },
+    {
+      "key": "Daisy_009_f",
+      "en": "But first, we need a meeting of the minds. I'll call <Lore>Minnie and Jasmine</Lore> to the Boutique to devise a plan of action.",
+      "cz": "Ale nejdřív se musíme shodnout. Zavolám <Lore>Minnie a Jasmine</Lore> do Modního salonu, abychom vymyslely plán.",
+      "source": "pre_existing",
+      "original_cz": "Ale nejdřív se musíme shodnout. Zavolám <Lore>Minnie a Jasmine</Lore> do Modního salonu, abychom vymyslely plán."
+    },
+    {
+      "key": "Daisy_010_f",
+      "en": "<Lore>Meet us at the Boutique</Lore>. We'll soon sort out this inspiration desperation!",
+      "cz": "<Lore>Sejdeme se v Modním salonu</Lore>. Brzy vyřešíme tuhle zoufalou inspiraci!",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Sejdeme se v Modním salonu</Lore>. Brzy vyřešíme tuhle zoufalou inspiraci!"
+    },
+    {
+      "key": "Daisy_012_f",
+      "en": "We designers have to help one another. Otherwise, where will new ideas come from?",
+      "cz": "My, designéři, si musíme navzájem pomáhat. Jinak, odkud se vezmou nové nápady?",
+      "source": "pre_existing",
+      "original_cz": "My, designéři, si musíme navzájem pomáhat. Jinak, odkud se vezmou nové nápady?"
+    },
+    {
+      "key": "Daisy_013_f",
+      "en": "Oh, we will!",
+      "cz": "Ach, to uděláme!",
+      "source": "pre_existing",
+      "original_cz": "Ach, to uděláme!"
+    },
+    {
+      "key": "Daisy_002_f",
+      "en": "That's always the hardest part. But never fear; I've got oodles of experience!",
+      "cz": "To je vždycky to nejtěžší. Ale nebojte se, mám spoustu zkušeností!",
+      "source": "pre_existing",
+      "original_cz": "To je vždycky to nejtěžší. Ale nebojte se, mám spoustu zkušeností!"
+    },
+    {
+      "key": "Daisy_003_f",
+      "en": "Well, if she can work in miniature like that, she must be very talented! I'm sure we can figure out something fabulous.",
+      "cz": "No, když dokáže pracovat s takovou miniaturou, musí být velmi talentovaná! Jsem si jistá, že dokážeme vymyslet něco úžasného.",
+      "source": "pre_existing",
+      "original_cz": "No, když dokáže pracovat s takovou miniaturou, musí být velmi talentovaná! Jsem si jistá, že dokážeme vymyslet něco úžasného."
+    }
+  ],
+  "Cinderella_Daisy/Daisy_VLG_Cind_010_VLG_Cind_010_TalkTo02.locbin": [
+    {
+      "key": "Daisy_001_f",
+      "en": "Thanks for joining us, {PlayerName}. This is an emergency meeting of the design advice council. We're all here to help Cindy get her inspiration back.",
+      "cz": "Děkujeme, že jste se k nám připojili, {PlayerName}. Toto je mimořádná schůze rady pro design. Všichni jsme tu, abychom pomohli Cindy znovu najít inspiraci.",
+      "source": "pre_existing",
+      "original_cz": "Děkujeme, že jste se k nám připojili, {PlayerName}. Toto je mimořádná schůze rady pro design. Všichni jsme tu, abychom pomohli Cindy znovu najít inspiraci."
+    },
+    {
+      "key": "Daisy_002_f",
+      "en": "Jasmine, what would you recommend for our dear friend Cinderella?",
+      "cz": "Jasmíno, co bys doporučila naší drahé kamarádce Popelce?",
+      "source": "pre_existing",
+      "original_cz": "Jasmíno, co bys doporučila naší drahé kamarádce Popelce?"
+    },
+    {
+      "key": "Daisy_003_f",
+      "en": "Hmm... It might be wise to start small. If she made a lovely accessory, that could give her the confidence to tackle larger projects.",
+      "cz": "Hmm... Možná by bylo moudré začít v malém. Kdyby vyrobila nějaký krásný doplněk, mohlo by jí to dodat sebevědomí k plnění větších projektů.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Možná by bylo moudré začít v malém. Kdyby vyrobila nějaký krásný doplněk, mohlo by jí to dodat sebevědomí k plnění větších projektů."
+    },
+    {
+      "key": "Daisy_004_f",
+      "en": "That's a very thoughtful idea. What about you, Minnie?",
+      "cz": "To je velmi promyšlený nápad. A co ty, Minnie?",
+      "source": "pre_existing",
+      "original_cz": "To je velmi promyšlený nápad. A co ty, Minnie?"
+    },
+    {
+      "key": "Daisy_005_f",
+      "en": "Well, I think Cinderella might be inspired by the world of patterns. My polka dots always make me happy. But there's all kinds of patterns to explore — stripes, florals, even paisleys!",
+      "cz": "No, myslím, že Popelka by se mohla inspirovat světem vzorů. Moje puntíky mě vždycky potěší. Ale je tu spousta druhů vzorů k prozkoumání – pruhy, květiny, dokonce i paisley!",
+      "source": "pre_existing",
+      "original_cz": "No, myslím, že Popelka by se mohla inspirovat světem vzorů. Moje puntíky mě vždycky potěší. Ale je tu spousta druhů vzorů k prozkoumání – pruhy, květiny, dokonce i paisley!"
+    },
+    {
+      "key": "Daisy_006_f",
+      "en": "Very true. What do you think, {PlayerName}?",
+      "cz": "Naprostá pravda. Co si o tom myslíš, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Naprostá pravda. Co si o tom myslíš, {PlayerName}?"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "I think Cinderella...",
+      "cz": "Myslím, že Popelka...",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že Popelka..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "...should take her time and consider multiple possibilities.",
+      "cz": "...měla by si dát na čas a zvážit více možností.",
+      "source": "pre_existing",
+      "original_cz": "...měla by si dát na čas a zvážit více možností."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "...should look around her for inspiration.",
+      "cz": "...měla by se kolem sebe poohlédnout pro inspiraci.",
+      "source": "pre_existing",
+      "original_cz": "...měla by se kolem sebe poohlédnout pro inspiraci."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "...is lucky to have great friends like you!",
+      "cz": "...má štěstí mít skvělé přátele jako jsi ty!",
+      "source": "pre_existing",
+      "original_cz": "...má štěstí mít skvělé přátele jako jsi ty!"
+    },
+    {
+      "key": "Daisy_007_f",
+      "en": "That's a very good point. She shouldn't limit herself to just one idea.",
+      "cz": "To je velmi dobrý postřeh. Neměla by se omezovat jen na jeden nápad.",
+      "source": "pre_existing",
+      "original_cz": "To je velmi dobrý postřeh. Neměla by se omezovat jen na jeden nápad."
+    },
+    {
+      "key": "Daisy_010_f",
+      "en": "Maybe I can help by taking some pictures? That way, Cinderella could study them and put all this advice into action.",
+      "cz": "Možná bych mohla pomoct tím, že bych pořídila nějaké fotky? Tak by si je Popelka mohla prostudovat a všechny tyhle rady uvést do praxe.",
+      "source": "pre_existing",
+      "original_cz": "Možná bych mohla pomoct tím, že bych pořídila nějaké fotky? Tak by si je Popelka mohla prostudovat a všechny tyhle rady uvést do praxe."
+    },
+    {
+      "key": "Daisy_011_f",
+      "en": "Fantastic! Go take some <Lore>inspiring pictures</Lore>, then <Lore>come back here</Lore> for Cinderella's inspiration convention!",
+      "cz": "Fantastické! Udělejte pár <Lore>inspirativních fotek</Lore> a pak se <Lore>vraťte</Lore> na Popelčin inspirační sjezd!",
+      "source": "pre_existing",
+      "original_cz": "Fantastické! Udělejte pár <Lore>inspirativních fotek</Lore> a pak se <Lore>vraťte</Lore> na Popelčin inspirační sjezd!"
+    },
+    {
+      "key": "Daisy_008_f",
+      "en": "Yes! Sometimes the best ideas are just waiting outside our door.",
+      "cz": "Ano! Někdy ty nejlepší nápady čekají přímo za dveřmi.",
+      "source": "pre_existing",
+      "original_cz": "Ano! Někdy ty nejlepší nápady čekají přímo za dveřmi."
+    },
+    {
+      "key": "Daisy_009_f",
+      "en": "And you too, {PlayerName}!",
+      "cz": "A ty taky, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "A ty taky, {PlayerName}!"
+    }
+  ],
+  "Cinderella_Daisy/Daisy_VLG_Cind_010_VLG_Cind_010_TalkTo05.locbin": [
+    {
+      "key": "Daisy_001_f",
+      "en": "Daisy, I was wondering if—",
+      "cz": "Daisy, napadlo mě, jestli—",
+      "source": "pre_existing",
+      "original_cz": "Daisy, napadlo mě, jestli—"
+    },
+    {
+      "key": "Daisy_000_f",
+      "en": "Oh, what fabulous colors! Just give me a moment.",
+      "cz": "Ach, to jsou nádherné barvy! Jen mi dejte chvilku.",
+      "source": "pre_existing",
+      "original_cz": "Ach, to jsou nádherné barvy! Jen mi dejte chvilku."
+    },
+    {
+      "key": "Daisy_002_f",
+      "en": "And it's done! {PlayerName}, take this.",
+      "cz": "A je to hotové! {PlayerName}, vezmi si tohle.",
+      "source": "pre_existing",
+      "original_cz": "A je to hotové! {PlayerName}, vezmi si tohle."
+    },
+    {
+      "key": "Player_000_f",
+      "en": "Thanks, it looks like...",
+      "cz": "Díky, vypadá to, že...",
+      "source": "pre_existing",
+      "original_cz": "Díky, vypadá to, že..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "...good quality fabric, I think.",
+      "cz": "...myslím, že je to kvalitní látka.",
+      "source": "pre_existing",
+      "original_cz": "...myslím, že je to kvalitní látka."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "...a medium-weight cotton twill? Perfect choice.",
+      "cz": "...středně těžký bavlněný kepr? Perfektní volba.",
+      "source": "pre_existing",
+      "original_cz": "...středně těžký bavlněný kepr? Perfektní volba."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "...it's really brightly colored!",
+      "cz": "...je to opravdu pestrobarevné!",
+      "source": "pre_existing",
+      "original_cz": "...je to opravdu pestrobarevné!"
+    },
+    {
+      "key": "Daisy_004_f",
+      "en": "It is! And it's a type that takes dye really well.",
+      "cz": "Je! A je to typ, který opravdu dobře snáší barvivo.",
+      "source": "pre_existing",
+      "original_cz": "Je! A je to typ, který opravdu dobře snáší barvivo."
+    },
+    {
+      "key": "Daisy_007_f",
+      "en": "Thanks for dyeing the fabric, Daisy! What do you think I should do next?",
+      "cz": "Díky za obarvení látky, Daisy! Co myslíš, že bych měla dělat dál?",
+      "source": "pre_existing",
+      "original_cz": "Díky za obarvení látky, Daisy! Co myslíš, že bych měla dělat dál?"
+    },
+    {
+      "key": "Daisy_008_f",
+      "en": "Go check in with Minnie. I'm sure she'll have some wonderful ideas for a finishing touch!",
+      "cz": "Zajdi se zeptat Minnie. Určitě bude mít nějaké skvělé nápady na závěrečnou úpravu!",
+      "source": "pre_existing",
+      "original_cz": "Zajdi se zeptat Minnie. Určitě bude mít nějaké skvělé nápady na závěrečnou úpravu!"
+    },
+    {
+      "key": "Daisy_005_f",
+      "en": "I'm glad you agree! And this variety takes dye really well.",
+      "cz": "Jsem rád, že souhlasíš! A tato odrůda snáší barviva opravdu dobře.",
+      "source": "pre_existing",
+      "original_cz": "Jsem rád, že souhlasíš! A tato odrůda snáší barviva opravdu dobře."
+    },
+    {
+      "key": "Daisy_006_f",
+      "en": "That's because of the dye, silly!",
+      "cz": "To je kvůli tomu barvivu, hloupý/á!",
+      "source": "pre_existing",
+      "original_cz": "To je kvůli tomu barvivu, hloupý/á!"
+    }
+  ]
+}

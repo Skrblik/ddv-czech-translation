@@ -1,0 +1,472 @@
+{
+  "Expansion02Main_Daisy/Daisy_CrossNPCDialogues_Daisy_Beast_VLG_Hade_040_DaisyBeast.locbin": [
+    {
+      "key": "Daisy_000_f",
+      "en": "{Placeholder}Unfortunately, nobody really liked the music all that much and the various Villagers take glee in pointing out Hades' many faults and foibles. By the end of the last ListenTo, Hades loses his cool and kicks everyone out of his home. Roast Hades by Flynn Hades becomes upset.",
+      "cz": "{Placeholder}Bohužel se hudba nikomu moc nelíbila a různí vesničané s radostí poukazují na Hádovy četné chyby a slabosti. Na konci posledního alba ListenTo Hádes ztratí chladnou hlavu a všechny vyhodí ze svého domova. Roast Hades od Flynna Hades se rozčílí.",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Bohužel se hudba nikomu moc nelíbila a různí vesničané s radostí poukazují na Hádovy četné chyby a slabosti. Na konci posledního alba ListenTo Hádes ztratí chladnou hlavu a všechny vyhodí ze svého domova. Roast Hades od Flynna Hades se rozčílí."
+    }
+  ],
+  "Expansion02Main_Daisy/Daisy_VLG_Hade_030_VLG_Hade_030_BringItem01.locbin": [
+    {
+      "key": "Daisy_000_f",
+      "en": "There you go, Daisy; all you need for some Hades merch!",
+      "cz": "Tak to máš, Daisy; všechno, co potřebuješ na trochu Hádova zboží!",
+      "source": "pre_existing",
+      "original_cz": "Tak to máš, Daisy; všechno, co potřebuješ na trochu Hádova zboží!"
+    },
+    {
+      "key": "Daisy_001_f",
+      "en": "Oh goody, goody! I certainly don't agree with the direction Hades wants to take with his merchandise...",
+      "cz": "Paráda, paráda! Rozhodně nesouhlasím se směrem, kterým se Hádes chce ubírat se svým zbožím...",
+      "source": "pre_existing",
+      "original_cz": "Paráda, paráda! Rozhodně nesouhlasím se směrem, kterým se Hádes chce ubírat se svým zbožím..."
+    },
+    {
+      "key": "Daisy_002_f",
+      "en": "But the T-shirts will be super quick to produce.",
+      "cz": "Ale trička se budou vyrábět super rychle.",
+      "source": "pre_existing",
+      "original_cz": "Ale trička se budou vyrábět super rychle."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Yeah, I guess nobody told Hades about the designer triad.",
+      "cz": "Jo, Hádovi asi nikdo neřekl o triádě designérů.",
+      "source": "pre_existing",
+      "original_cz": "Jo, Hádovi asi nikdo neřekl o triádě designérů."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "He should really listen to your advice.",
+      "cz": "Opravdu by si měl poslechnout tvé rady.",
+      "source": "pre_existing",
+      "original_cz": "Opravdu by si měl poslechnout tvé rady."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I think the T-shirts will be cool!",
+      "cz": "Myslím, že ta trička budou parádní!",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že ta trička budou parádní!"
+    },
+    {
+      "key": "Daisy_003_f",
+      "en": "Nope. He picked \"quick\" and \"cheap,\" so I better not hear about \"quality\" later on.",
+      "cz": "Ne. Vybral si „rychle“ a „levně“, takže o „kvalitě“ raději později neslyším.",
+      "source": "pre_existing",
+      "original_cz": "Ne. Vybral si „rychle“ a „levně“, takže o „kvalitě“ raději později neslyším."
+    },
+    {
+      "key": "Daisy_013_f",
+      "en": "A pic in <Lore>the Elysian Fields, the Fiery Plains, and the Statues' Shadow</Lore> should do it.",
+      "cz": "Fotka v <Lore>Elysejských polích, Ohnivých pláních a Stínu soch</Lore> by měla stačit.",
+      "source": "pre_existing",
+      "original_cz": "Fotka v <Lore>Elysejských polích, Ohnivých pláních a Stínu soch</Lore> by měla stačit."
+    },
+    {
+      "key": "Daisy_014_f",
+      "en": "You got it!",
+      "cz": "Máš to!",
+      "source": "pre_existing",
+      "original_cz": "Máš to!"
+    },
+    {
+      "key": "Daisy_004_f",
+      "en": "If he does, I've got your back!",
+      "cz": "Jestli to udělá, kryju ti záda!",
+      "source": "pre_existing",
+      "original_cz": "Jestli to udělá, kryju ti záda!"
+    },
+    {
+      "key": "Daisy_008_f",
+      "en": "Now, I'll just put the picture on the shirts...",
+      "cz": "Teď jen dám obrázek na trička...",
+      "source": "pre_existing",
+      "original_cz": "Teď jen dám obrázek na trička..."
+    },
+    {
+      "key": "Daisy_009_f",
+      "en": "There we go!",
+      "cz": "Tak a je to tady!",
+      "source": "pre_existing",
+      "original_cz": "Tak a je to tady!"
+    },
+    {
+      "key": "Daisy_010_f",
+      "en": "Great! What are the next steps for Hades, then?",
+      "cz": "Skvělé! Jaké jsou tedy další kroky pro Háda?",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Jaké jsou tedy další kroky pro Háda?"
+    },
+    {
+      "key": "Daisy_011_f",
+      "en": "We need to get folks excited about the shirts!",
+      "cz": "Musíme lidi nadchnout pro trička!",
+      "source": "pre_existing",
+      "original_cz": "Musíme lidi nadchnout pro trička!"
+    },
+    {
+      "key": "Daisy_012_f",
+      "en": "Why don't you <Lore>model it for Hades and then take some promotional pictures with him</Lore>?",
+      "cz": "Proč to <Lore>nepředvedeš pro Háda a pak s ním neuděláš pár propagačních fotek</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "Proč to <Lore>nepředvedeš pro Háda a pak s ním neuděláš pár propagačních fotek</Lore>?"
+    },
+    {
+      "key": "Daisy_005_f",
+      "en": "I agree!",
+      "cz": "Souhlasím!",
+      "source": "pre_existing",
+      "original_cz": "Souhlasím!"
+    },
+    {
+      "key": "Daisy_006_f",
+      "en": "But dealing with difficult celebrities is all part of being a manager.",
+      "cz": "Ale jednání s obtížnými celebritami je součástí manažerské práce.",
+      "source": "pre_existing",
+      "original_cz": "Ale jednání s obtížnými celebritami je součástí manažerské práce."
+    },
+    {
+      "key": "Daisy_007_f",
+      "en": "Well, I'll certainly do my best.",
+      "cz": "No, určitě se budu snažit.",
+      "source": "pre_existing",
+      "original_cz": "No, určitě se budu snažit."
+    }
+  ],
+  "Expansion02Main_Daisy/Daisy_VLG_Hade_030_VLG_Hade_030_BringItem02.locbin": [
+    {
+      "key": "Daisy_000_f",
+      "en": "Hey Daisy, how's the manager life treating you?",
+      "cz": "Ahoj Daisy, jak se ti daří v manažerském životě?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj Daisy, jak se ti daří v manažerském životě?"
+    },
+    {
+      "key": "Daisy_001_f",
+      "en": "Ooo, that Hades! He's so... so...",
+      "cz": "Jé, ten Hádes! Je tak... tak...",
+      "source": "pre_existing",
+      "original_cz": "Jé, ten Hádes! Je tak... tak..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Rude?",
+      "cz": "Hrubý?",
+      "source": "pre_existing",
+      "original_cz": "Hrubý?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Self-centered?",
+      "cz": "Sobecký/á?",
+      "source": "pre_existing",
+      "original_cz": "Sobecký/á?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Clever?",
+      "cz": "Chytrý?",
+      "source": "pre_existing",
+      "original_cz": "Chytrý?"
+    },
+    {
+      "key": "Daisy_002_f",
+      "en": "Exactly!",
+      "cz": "Přesně!",
+      "source": "pre_existing",
+      "original_cz": "Přesně!"
+    },
+    {
+      "key": "Daisy_011_f",
+      "en": "On it!",
+      "cz": "Na to!",
+      "source": "pre_existing",
+      "original_cz": "Na to!"
+    },
+    {
+      "key": "Daisy_004_f",
+      "en": "He's completely ignoring my advice! And he only seems to care about being famous, NOT about using his power to make actual change!",
+      "cz": "Úplně ignoruje mou radu! A zdá se, že mu jde jen o to, aby byl slavný, NE o to, aby využil svou moc k dosažení skutečných změn!",
+      "source": "pre_existing",
+      "original_cz": "Úplně ignoruje mou radu! A zdá se, že mu jde jen o to, aby byl slavný, NE o to, aby využil svou moc k dosažení skutečných změn!"
+    },
+    {
+      "key": "Daisy_005_f",
+      "en": "I wrote a whole script for him so he could talk about using sustainably sourced dishes, and organic ingredients, and he absolutely refused to even listen!",
+      "cz": "Napsala jsem mu celý scénář, aby mohl mluvit o používání pokrmů z udržitelných zdrojů a bio surovin, a on absolutně odmítl poslouchat!",
+      "source": "pre_existing",
+      "original_cz": "Napsala jsem mu celý scénář, aby mohl mluvit o používání pokrmů z udržitelných zdrojů a bio surovin, a on absolutně odmítl poslouchat!"
+    },
+    {
+      "key": "Daisy_006_f",
+      "en": "First the merchandise and now this? Why does he even want a manager if he's not going to listen to my ideas?",
+      "cz": "Nejdřív zboží a teď tohle? Proč vůbec chce manažera, když nebude poslouchat mé nápady?",
+      "source": "pre_existing",
+      "original_cz": "Nejdřív zboží a teď tohle? Proč vůbec chce manažera, když nebude poslouchat mé nápady?"
+    },
+    {
+      "key": "Daisy_007_f",
+      "en": "Well, hang in there, Daisy. If you can manage Hades, you can manage anybody!",
+      "cz": "Tak vydrž, Daisy. Pokud zvládneš Háda, zvládneš kohokoli!",
+      "source": "pre_existing",
+      "original_cz": "Tak vydrž, Daisy. Pokud zvládneš Háda, zvládneš kohokoli!"
+    },
+    {
+      "key": "Daisy_008_f",
+      "en": "True!",
+      "cz": "Věrný!",
+      "source": "pre_existing",
+      "original_cz": "Věrný!"
+    },
+    {
+      "key": "Daisy_009_f",
+      "en": "I suppose we'll just have to make the best of things. I brought a <ActivityItem>Cooking Station</ActivityItem> to use for the talk.",
+      "cz": "Asi z toho budeme muset vytěžit maximum. Přinesl jsem si <ActivityItem>Vařící Stanice</ActivityItem>, abych ho mohl použít na přednášku.",
+      "source": "pre_existing",
+      "original_cz": "Asi z toho budeme muset vytěžit maximum. Přinesl jsem si <ActivityItem>Vařící Stanice</ActivityItem>, abych ho mohl použít na přednášku."
+    },
+    {
+      "key": "Daisy_010_f",
+      "en": "If you <Lore>put it next to the Hades Kiosk</Lore>, we should have the perfect setup for Hades to demonstrate his meals.",
+      "cz": "Pokud to <Lore>postavíte vedle Hádova kiosku</Lore>, měli bychom mít perfektní prostředí pro Hádovo předvádění jeho jídel.",
+      "source": "pre_existing",
+      "original_cz": "Pokud to <Lore>postavíte vedle Hádova kiosku</Lore>, měli bychom mít perfektní prostředí pro Hádovo předvádění jeho jídel."
+    },
+    {
+      "key": "Daisy_003_f",
+      "en": "I suppose he must be when it comes to the Underworld, but...",
+      "cz": "Předpokládám, že musí být, pokud jde o Podsvětí, ale...",
+      "source": "pre_existing",
+      "original_cz": "Předpokládám, že musí být, pokud jde o Podsvětí, ale..."
+    }
+  ],
+  "Expansion02Main_Daisy/Daisy_VLG_Hade_030_VLG_Hade_030_TalkTo07.locbin": [
+    {
+      "key": "Daisy_000_f",
+      "en": "Hey Daisy, think you could help us out with something?",
+      "cz": "Ahoj Daisy, myslíš, že bys nám s něčím mohla pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj Daisy, myslíš, že bys nám s něčím mohla pomoct?"
+    },
+    {
+      "key": "Daisy_001_f",
+      "en": "Hades wants to be a celebrity and—",
+      "cz": "Hádes se chce stát celebritou a—",
+      "source": "pre_existing",
+      "original_cz": "Hádes se chce stát celebritou a—"
+    },
+    {
+      "key": "Daisy_002_f",
+      "en": "Whoa! Whoa. Not \"wants\" to be a celebrity — I am one! I just need a little help getting other people to recognize that.",
+      "cz": "Páni! Páni. Ne „chce“ být celebritou – já celebritou jsem! Jen potřebuji trochu pomoct, aby si to uvědomili i ostatní.",
+      "source": "pre_existing",
+      "original_cz": "Páni! Páni. Ne „chce“ být celebritou – já celebritou jsem! Jen potřebuji trochu pomoct, aby si to uvědomili i ostatní."
+    },
+    {
+      "key": "Daisy_003_f",
+      "en": "Well, to be a celebrity, you have to be famous.",
+      "cz": "No, abyste byli celebritou, musíte být slavní.",
+      "source": "pre_existing",
+      "original_cz": "No, abyste byli celebritou, musíte být slavní."
+    },
+    {
+      "key": "Daisy_004_f",
+      "en": "Check.",
+      "cz": "Kontrola.",
+      "source": "pre_existing",
+      "original_cz": "Kontrola."
+    },
+    {
+      "key": "Daisy_005_f",
+      "en": "You need to have fans who absolutely adore you. And you should TRY to do good things with your fame!",
+      "cz": "Potřebuješ mít fanoušky, kteří tě naprosto zbožňují. A měl by ses SNAŽIT dělat se svou slávou dobré věci!",
+      "source": "pre_existing",
+      "original_cz": "Potřebuješ mít fanoušky, kteří tě naprosto zbožňují. A měl by ses SNAŽIT dělat se svou slávou dobré věci!"
+    },
+    {
+      "key": "Daisy_006_f",
+      "en": "Also check! Not so much with the \"doing good things,\" but ALL IN on the \"fans adoring me.\"",
+      "cz": "Taky se podívej! Ne ani tak s tím „děláním dobrých věcí“, ale spíš s tím VŠECHNO pro „fanoušky, kteří mě zbožňují“.",
+      "source": "pre_existing",
+      "original_cz": "Taky se podívej! Ne ani tak s tím „děláním dobrých věcí“, ale spíš s tím VŠECHNO pro „fanoušky, kteří mě zbožňují“."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Who adores you?",
+      "cz": "Kdo tě zbožňuje?",
+      "source": "pre_existing",
+      "original_cz": "Kdo tě zbožňuje?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "The dead in the Underworld don't count.",
+      "cz": "Mrtví v podsvětí se nepočítají.",
+      "source": "pre_existing",
+      "original_cz": "Mrtví v podsvětí se nepočítají."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Not counting ancient Greek citizens.",
+      "cz": "Nepočítáme-li starověké řecké občany.",
+      "source": "pre_existing",
+      "original_cz": "Nepočítáme-li starověké řecké občany."
+    },
+    {
+      "key": "Daisy_007_f",
+      "en": "Well, you, for instance. And I'm assuming others. C'mon, I'm a likeable guy!",
+      "cz": "No, ty například. A předpokládám, že i ostatní. No tak, jsem sympatický chlap!",
+      "source": "pre_existing",
+      "original_cz": "No, ty například. A předpokládám, že i ostatní. No tak, jsem sympatický chlap!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "You sure about that?",
+      "cz": "Jsi si tím jistý/á?",
+      "source": "pre_existing",
+      "original_cz": "Jsi si tím jistý/á?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I'd consider us acquaintances at best.",
+      "cz": "V nejlepším případě bych nás považoval za známé.",
+      "source": "pre_existing",
+      "original_cz": "V nejlepším případě bych nás považoval za známé."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Of course I adore you — I want a good afterlife!",
+      "cz": "Samozřejmě, že tě zbožňuji – chci dobrý posmrtný život!",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě, že tě zbožňuji – chci dobrý posmrtný život!"
+    },
+    {
+      "key": "Daisy_024_f",
+      "en": "What's not to like? I'm funny, charming—",
+      "cz": "Co se na tom nemá líbit? Jsem vtipný, okouzlující—",
+      "source": "pre_existing",
+      "original_cz": "Co se na tom nemá líbit? Jsem vtipný, okouzlující—"
+    },
+    {
+      "key": "Daisy_020_f",
+      "en": "Sure, if you want cheap, badly made—",
+      "cz": "Jasně, pokud chcete levné, špatně vyrobené—",
+      "source": "pre_existing",
+      "original_cz": "Jasně, pokud chcete levné, špatně vyrobené—"
+    },
+    {
+      "key": "Daisy_021_f",
+      "en": "Great, it's settled!",
+      "cz": "Skvělé, je to vyřešené!",
+      "source": "pre_existing",
+      "original_cz": "Skvělé, je to vyřešené!"
+    },
+    {
+      "key": "Daisy_022_f",
+      "en": "*sigh* ... Fine, if you want cheap merchandise, then that's what we'll do.",
+      "cz": "*povzdech* ... Dobře, pokud chcete levné zboží, tak to uděláme.",
+      "source": "pre_existing",
+      "original_cz": "*povzdech* ... Dobře, pokud chcete levné zboží, tak to uděláme."
+    },
+    {
+      "key": "Daisy_023_f",
+      "en": "Does exactly what I say — now that's what I want from a manager! You're hired!",
+      "cz": "Dělá přesně to, co říkám – přesně to chci od manažera! Jste přijat!",
+      "source": "pre_existing",
+      "original_cz": "Dělá přesně to, co říkám – přesně to chci od manažera! Jste přijat!"
+    },
+    {
+      "key": "Daisy_012_f",
+      "en": "Hmm, I think what you really need is a manager.",
+      "cz": "Hmm, myslím, že to, co opravdu potřebujete, je manažer.",
+      "source": "pre_existing",
+      "original_cz": "Hmm, myslím, že to, co opravdu potřebujete, je manažer."
+    },
+    {
+      "key": "Daisy_013_f",
+      "en": "A manager? Are you kidding?! I DON'T need to be managed.",
+      "cz": "Manažer? Děláš si srandu?! Nepotřebuju být řízen.",
+      "source": "pre_existing",
+      "original_cz": "Manažer? Děláš si srandu?! Nepotřebuju být řízen."
+    },
+    {
+      "key": "Daisy_014_f",
+      "en": "Trust me. Being a celebrity is oodles of work. You have to constantly touch base with your fans.",
+      "cz": "Věř mi. Být celebritou je spousta práce. Musíš být neustále v kontaktu se svými fanoušky.",
+      "source": "pre_existing",
+      "original_cz": "Věř mi. Být celebritou je spousta práce. Musíš být neustále v kontaktu se svými fanoušky."
+    },
+    {
+      "key": "Daisy_015_f",
+      "en": "Toss a crumb to the admirers, got it.",
+      "cz": "Hoď drobeček obdivovatelům, rozumíš?",
+      "source": "pre_existing",
+      "original_cz": "Hoď drobeček obdivovatelům, rozumíš?"
+    },
+    {
+      "key": "Daisy_016_f",
+      "en": "I say we start by brainstorming some merchandizing opportunities. Folks love to wear clothing with their favorite celebrities on them!",
+      "cz": "Říkám, že bychom měli začít brainstormingem několika možností merchandisingu. Lidé rádi nosí oblečení se svými oblíbenými celebritami!",
+      "source": "pre_existing",
+      "original_cz": "Říkám, že bychom měli začít brainstormingem několika možností merchandisingu. Lidé rádi nosí oblečení se svými oblíbenými celebritami!"
+    },
+    {
+      "key": "Daisy_017_f",
+      "en": "We could also do water bottles, action figures, sandals...",
+      "cz": "Mohli bychom také vyrobit lahve na vodu, akční figurky, sandály...",
+      "source": "pre_existing",
+      "original_cz": "Mohli bychom také vyrobit lahve na vodu, akční figurky, sandály..."
+    },
+    {
+      "key": "Daisy_018_f",
+      "en": "NO! That's what the goat's doing for Jerkcules. Let's... do T-shirts.",
+      "cz": "NE! Tohle dělá koza pro Jerkkulese. Pojďme... nalíčit trička.",
+      "source": "pre_existing",
+      "original_cz": "NE! Tohle dělá koza pro Jerkkulese. Pojďme... nalíčit trička."
+    },
+    {
+      "key": "Daisy_019_f",
+      "en": "I read you can produce 'em cheap and just rake in the dough.",
+      "cz": "Četl jsem, že se dají vyrobit levně a jen do nich shrabat těsto.",
+      "source": "pre_existing",
+      "original_cz": "Četl jsem, že se dají vyrobit levně a jen do nich shrabat těsto."
+    },
+    {
+      "key": "Daisy_025_f",
+      "en": "Yeah, yeah. You think I'd be actual friends with a MORTAL?",
+      "cz": "Jo, jo. Myslíš, že bych se s nějakým SMRTELNÍKEM doopravdy kamarádil?",
+      "source": "pre_existing",
+      "original_cz": "Jo, jo. Myslíš, že bych se s nějakým SMRTELNÍKEM doopravdy kamarádil?"
+    },
+    {
+      "key": "Daisy_026_f",
+      "en": "Ugh, transactional fawning? I've had enough of that to last a few millennia.",
+      "cz": "Fuj, transakční podlézavost? Toho mám dost na pár tisíciletí.",
+      "source": "pre_existing",
+      "original_cz": "Fuj, transakční podlézavost? Toho mám dost na pár tisíciletí."
+    },
+    {
+      "key": "Daisy_009_f",
+      "en": "What?! Why not?!",
+      "cz": "Cože?! Proč ne?!",
+      "source": "pre_existing",
+      "original_cz": "Cože?! Proč ne?!"
+    },
+    {
+      "key": "Daisy_010_f",
+      "en": "What was it you were saying again about ironic consequences?",
+      "cz": "Co jsi to zase říkal o těch ironických důsledcích?",
+      "source": "pre_existing",
+      "original_cz": "Co jsi to zase říkal o těch ironických důsledcích?"
+    },
+    {
+      "key": "Daisy_011_f",
+      "en": "I KNOW! Besides, I've given up on those ingrates. They're totally obsessed with Zeus.",
+      "cz": "JÁ VÍM! Kromě toho jsem se těch nevděčníků vzdal. Jsou úplně posedlí Zeusem.",
+      "source": "pre_existing",
+      "original_cz": "JÁ VÍM! Kromě toho jsem se těch nevděčníků vzdal. Jsou úplně posedlí Zeusem."
+    }
+  ]
+}

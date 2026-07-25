@@ -1,0 +1,260 @@
+{
+  "DreamBundle02_Donald/Donald_PRM_Ursu_060_PRM_Ursu_060_BringItem01.locbin": [
+    {
+      "key": "Donald_001_f",
+      "en": "That's it! That's what Ursula gave me.",
+      "cz": "To je ono! To mi dala Ursula.",
+      "source": "pre_existing",
+      "original_cz": "To je ono! To mi dala Ursula."
+    },
+    {
+      "key": "Donald_000_f",
+      "en": "Let's go to the Cursed Cave. We'll destroy it there! Ursula won't follow us after being trapped inside it for so long.",
+      "cz": "Pojďme do Prokleté jeskyně. Zničíme ji tam! Ursula nás po tak dlouhé době uvěznění v ní nebude následovat.",
+      "source": "pre_existing",
+      "original_cz": "Pojďme do Prokleté jeskyně. Zničíme ji tam! Ursula nás po tak dlouhé době uvěznění v ní nebude následovat."
+    }
+  ],
+  "DreamBundle02_Donald/Donald_PRM_Ursu_060_PRM_Ursu_060_TalkTo01.locbin": [
+    {
+      "key": "Donald_003_f",
+      "en": "Oh boy, am I glad to see you, {PlayerName}!",
+      "cz": "Páni, to jsem rád, že tě vidím, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Páni, to jsem rád, že tě vidím, {PlayerName}!"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "Ursula is very angry with you...",
+      "cz": "Ursula je na tebe velmi naštvaná...",
+      "source": "pre_existing",
+      "original_cz": "Ursula je na tebe velmi naštvaná..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "It's not like you to go back on your promises.",
+      "cz": "Není to pro tebe typické, že porušíš své sliby.",
+      "source": "pre_existing",
+      "original_cz": "Není to pro tebe typické, že porušíš své sliby."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "What happened?",
+      "cz": "Co se stalo?",
+      "source": "pre_existing",
+      "original_cz": "Co se stalo?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Aren't you afraid to be added to her garden?",
+      "cz": "Nebojíš se, že tě přidají do její zahrady?",
+      "source": "pre_existing",
+      "original_cz": "Nebojíš se, že tě přidají do její zahrady?"
+    },
+    {
+      "key": "Donald_004_f",
+      "en": "WAKKK! That's not what I'm doin'!",
+      "cz": "SAKRÁS! Tohle nedělám!",
+      "source": "pre_existing",
+      "original_cz": "SAKRÁS! Tohle nedělám!"
+    },
+    {
+      "key": "Donald_007_f",
+      "en": "She tried to trick me.",
+      "cz": "Snažila se mě oklamat.",
+      "source": "pre_existing",
+      "original_cz": "Snažila se mě oklamat."
+    },
+    {
+      "key": "Donald_008_f",
+      "en": "I asked her to help me find a special gift for you, and she gave me that <ActivityItem>Mysterious Blue Box</ActivityItem>. But she told me not to open it.",
+      "cz": "Požádal jsem ji, aby mi pomohla najít pro tebe speciální dárek, a ona mi dala tu <ActivityItem>Záhadnou modrou krabičku</ActivityItem>. Ale řekla mi, abych ji neotevíral.",
+      "source": "pre_existing",
+      "original_cz": "Požádal jsem ji, aby mi pomohla najít pro tebe speciální dárek, a ona mi dala tu <ActivityItem>Záhadnou modrou krabičku</ActivityItem>. Ale řekla mi, abych ji neotevíral."
+    },
+    {
+      "key": "Donald_009_f",
+      "en": "I was about to give it to you when I saw the box open by itself and start eating Dreamlight Magic!",
+      "cz": "Zrovna jsem ti to chtěl dát, když jsem uviděl, jak se krabice sama otevřela a začala jíst Kouzlo Světla Snů!",
+      "source": "pre_existing",
+      "original_cz": "Zrovna jsem ti to chtěl dát, když jsem uviděl, jak se krabice sama otevřela a začala jíst Kouzlo Světla Snů!"
+    },
+    {
+      "key": "Donald_010_f",
+      "en": "I told her I wasn't gonna pay her, or give it back to her, or give it to you 'cause there's something screwy with it! That's when she got mad.",
+      "cz": "Řekl jsem jí, že jí to nezaplatím, ani jí to nevrátím, ani tobě, protože s tím je něco divného! Tehdy se naštvala.",
+      "source": "pre_existing",
+      "original_cz": "Řekl jsem jí, že jí to nezaplatím, ani jí to nevrátím, ani tobě, protože s tím je něco divného! Tehdy se naštvala."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Wow, that's so nice of you.",
+      "cz": "Páni, to je od tebe tak milé.",
+      "source": "pre_existing",
+      "original_cz": "Páni, to je od tebe tak milé."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "What did you intend to do about it?",
+      "cz": "Co jste s tím chtěl/a udělat?",
+      "source": "pre_existing",
+      "original_cz": "Co jste s tím chtěl/a udělat?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I ain't afraid of a box.",
+      "cz": "Nebojím se krabice.",
+      "source": "pre_existing",
+      "original_cz": "Nebojím se krabice."
+    },
+    {
+      "key": "Donald_012_f",
+      "en": "Aw, it's the least I could do for you.",
+      "cz": "Ach, to je to nejmenší, co pro tebe můžu udělat.",
+      "source": "pre_existing",
+      "original_cz": "Ach, to je to nejmenší, co pro tebe můžu udělat."
+    },
+    {
+      "key": "Donald_015_f",
+      "en": "But now that you know about it, we should destroy it.",
+      "cz": "Ale teď, když o tom víte, měli bychom to zničit.",
+      "source": "pre_existing",
+      "original_cz": "Ale teď, když o tom víte, měli bychom to zničit."
+    },
+    {
+      "key": "Donald_016_f",
+      "en": "Good idea. I'll go fetch it.",
+      "cz": "Dobrý nápad. Jdu si pro to.",
+      "source": "pre_existing",
+      "original_cz": "Dobrý nápad. Jdu si pro to."
+    },
+    {
+      "key": "Donald_017_f",
+      "en": "It's in my House. It looks like a blue box. I put it under something for safe keeping. I can't remember where, but I'm sure you'll find it.",
+      "cz": "Je to u mě doma. Vypadá to jako modrá krabice. Dal jsem to pod něco pro bezpečí. Nepamatuji si kde, ale jsem si jistý, že to najdete.",
+      "source": "pre_existing",
+      "original_cz": "Je to u mě doma. Vypadá to jako modrá krabice. Dal jsem to pod něco pro bezpečí. Nepamatuji si kde, ale jsem si jistý, že to najdete."
+    },
+    {
+      "key": "Donald_013_f",
+      "en": "I hadn't come up with anything yet.",
+      "cz": "Ještě jsem na nic nepřišel.",
+      "source": "pre_existing",
+      "original_cz": "Ještě jsem na nic nepřišel."
+    },
+    {
+      "key": "Donald_014_f",
+      "en": "Hey, I'm not afraid! I was just... uh, brainstorming a plan. Yeah, that's it!",
+      "cz": "Hej, já se nebojím! Jen jsem... ehm, vymýšlel plán. Jo, to je ono!",
+      "source": "pre_existing",
+      "original_cz": "Hej, já se nebojím! Jen jsem... ehm, vymýšlel plán. Jo, to je ono!"
+    },
+    {
+      "key": "Donald_006_f",
+      "en": "You bet I am! But I don't want you added either!",
+      "cz": "To se vsadím, že ano! Ale ani já nechci, abys byl přidán!",
+      "source": "pre_existing",
+      "original_cz": "To se vsadím, že ano! Ale ani já nechci, abys byl přidán!"
+    }
+  ],
+  "DreamBundle02_Donald/Donald_PRM_Ursu_060_PRM_Ursu_060_TalkTo02.locbin": [
+    {
+      "key": "Donald_001_f",
+      "en": "Oh boy, oh boy, oh boy! It's done!",
+      "cz": "No teda, no teda, no teda! Je hotovo!",
+      "source": "pre_existing",
+      "original_cz": "No teda, no teda, no teda! Je hotovo!"
+    },
+    {
+      "key": "Donald_003_f",
+      "en": "But now I don't have anything to give you...",
+      "cz": "Ale teď ti nemám co dát...",
+      "source": "pre_existing",
+      "original_cz": "Ale teď ti nemám co dát..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Oh, it's okay!",
+      "cz": "Aha, to je v pořádku!",
+      "source": "pre_existing",
+      "original_cz": "Aha, to je v pořádku!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "It's the intention that counts.",
+      "cz": "Na záměru záleží.",
+      "source": "pre_existing",
+      "original_cz": "Na záměru záleží."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I should get used to disappointment.",
+      "cz": "Měl bych si zvyknout na zklamání.",
+      "source": "pre_existing",
+      "original_cz": "Měl bych si zvyknout na zklamání."
+    },
+    {
+      "key": "Donald_004_f",
+      "en": "No, it's not. You do so much for everyone...",
+      "cz": "Ne, to není pravda. Děláš toho pro všechny tolik...",
+      "source": "pre_existing",
+      "original_cz": "Ne, to není pravda. Děláš toho pro všechny tolik..."
+    },
+    {
+      "key": "Donald_007_f",
+      "en": "Oh, I know! We should go to the Restaurant together!",
+      "cz": "Já vím! Měli bychom jít spolu do restaurace!",
+      "source": "pre_existing",
+      "original_cz": "Já vím! Měli bychom jít spolu do restaurace!"
+    },
+    {
+      "key": "Donald_008_f",
+      "en": "Let's go!",
+      "cz": "Jdeme!",
+      "source": "pre_existing",
+      "original_cz": "Jdeme!"
+    },
+    {
+      "key": "Donald_009_f",
+      "en": "Wow, thank you Donald. That was a fun dinner.",
+      "cz": "Páni, děkuji Donalde. To byla zábavná večeře.",
+      "source": "pre_existing",
+      "original_cz": "Páni, děkuji Donalde. To byla zábavná večeře."
+    },
+    {
+      "key": "Donald_000_f",
+      "en": "Here! You keep the leftovers.",
+      "cz": "Tady! Zbytky si nechte.",
+      "source": "pre_existing",
+      "original_cz": "Tady! Zbytky si nechte."
+    },
+    {
+      "key": "Donald_010_f",
+      "en": "Now I should go and confront Ursula...",
+      "cz": "Teď bych se měl jít konfrontovat s Ursulou...",
+      "source": "pre_existing",
+      "original_cz": "Teď bych se měl jít konfrontovat s Ursulou..."
+    },
+    {
+      "key": "Donald_011_f",
+      "en": "Oh, uh... I'd help ya, but Mickey needs me to help him... um, match up all his pairs of gloves! Good luck, {PlayerName}!",
+      "cz": "Oh, ehm... Pomohl bych ti, ale Mickey potřebuje, abych mu pomohl... ehm, seřadit všechny jeho páry rukavic! Hodně štěstí, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Oh, ehm... Pomohl bych ti, ale Mickey potřebuje, abych mu pomohl... ehm, seřadit všechny jeho páry rukavic! Hodně štěstí, {PlayerName}!"
+    },
+    {
+      "key": "Donald_005_f",
+      "en": "Aw, I never liked that saying. Especially when you do so much for everyone...",
+      "cz": "Ach, tohle rčení se mi nikdy nelíbilo. Zvlášť když toho pro všechny tolik děláš...",
+      "source": "pre_existing",
+      "original_cz": "Ach, tohle rčení se mi nikdy nelíbilo. Zvlášť když toho pro všechny tolik děláš..."
+    },
+    {
+      "key": "Donald_006_f",
+      "en": "Don't be ridiculous! You do so much for everyone...",
+      "cz": "Nebuď směšný! Děláš pro všechny tolik...",
+      "source": "pre_existing",
+      "original_cz": "Nebuď směšný! Děláš pro všechny tolik..."
+    }
+  ]
+}

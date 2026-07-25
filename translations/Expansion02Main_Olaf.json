@@ -1,0 +1,723 @@
+{
+  "Expansion02Main_Olaf/Olaf_CrossNPCDialogues_Olaf_Lorekeeper_SEC_E01_Olaf_010.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Hello, Madam Lorekeeper!",
+      "cz": "Dobrý den, paní strážkyně věštby!",
+      "source": "pre_existing",
+      "original_cz": "Dobrý den, paní strážkyně věštby!"
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "I can't wait to hear the fascinating facts and stories you have for me today.",
+      "cz": "Nemůžu se dočkat, až si dnes přečtu fascinující fakta a příběhy, které mi prozradíte.",
+      "source": "pre_existing",
+      "original_cz": "Nemůžu se dočkat, až si dnes přečtu fascinující fakta a příběhy, které mi prozradíte."
+    },
+    {
+      "key": "Olaf_002_f",
+      "en": "Oh, I have forgotten more stories than most will ever know, little man made of snow.",
+      "cz": "Ach, zapomněl jsem víc příběhů, než se většina lidí kdy dozví, malý mužíčku ze sněhu.",
+      "source": "pre_existing",
+      "original_cz": "Ach, zapomněl jsem víc příběhů, než se většina lidí kdy dozví, malý mužíčku ze sněhu."
+    },
+    {
+      "key": "Olaf_003_f",
+      "en": "Tales of heroes brave, generous, and cunning...",
+      "cz": "Příběhy o hrdinech statečných, štědrých a lstivých...",
+      "source": "pre_existing",
+      "original_cz": "Příběhy o hrdinech statečných, štědrých a lstivých..."
+    },
+    {
+      "key": "Olaf_004_f",
+      "en": "...and of villains most devious, greedy, and sly.",
+      "cz": "...a ze všech padouchů nejlstivějších, nejchamtivějších a nejlstivějších.",
+      "source": "pre_existing",
+      "original_cz": "...a ze všech padouchů nejlstivějších, nejchamtivějších a nejlstivějších."
+    },
+    {
+      "key": "Olaf_005_f",
+      "en": "And I want to hear them all!",
+      "cz": "A já je chci všechny slyšet!",
+      "source": "pre_existing",
+      "original_cz": "A já je chci všechny slyšet!"
+    },
+    {
+      "key": "Olaf_006_f",
+      "en": "I wish to share them... but my magic is not what it once was...",
+      "cz": "Chtěl bych se o ně podělit... ale moje magie už není to, co bývala...",
+      "source": "pre_existing",
+      "original_cz": "Chtěl bych se o ně podělit... ale moje magie už není to, co bývala..."
+    },
+    {
+      "key": "Olaf_007_f",
+      "en": "I am tired... I must rest...",
+      "cz": "Jsem unavený... Musím si odpočinout...",
+      "source": "pre_existing",
+      "original_cz": "Jsem unavený... Musím si odpočinout..."
+    }
+  ],
+  "Expansion02Main_Olaf/Olaf_SEC_E02_Olaf_010_SEC_E02_Olaf_010_BringItem01.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Hey Olaf. I found these notes lying around. I think they're yours.",
+      "cz": "Ahoj Olafe. Našel jsem někde tyhle vzkazy. Myslím, že jsou tvoje.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj Olafe. Našel jsem někde tyhle vzkazy. Myslím, že jsou tvoje."
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "*gasp* You found them! Thank you, {PlayerName}. These notes are my chronicle of new fun facts I'm learning from the Bind.",
+      "cz": "*vzdech* Našel jsi je! Děkuji, {PlayerName}. Tyto poznámky jsou mou kronikou nových zábavných faktů, které se dozvídám od Bind.",
+      "source": "pre_existing",
+      "original_cz": "*vzdech* Našel jsi je! Děkuji, {PlayerName}. Tyto poznámky jsou mou kronikou nových zábavných faktů, které se dozvídám od Bind."
+    },
+    {
+      "key": "Olaf_002_f",
+      "en": "A whole world made of books is a whole world made of facts!",
+      "cz": "Celý svět tvořený knihami je celý svět tvořený fakty!",
+      "source": "pre_existing",
+      "original_cz": "Celý svět tvořený knihami je celý svět tvořený fakty!"
+    },
+    {
+      "key": "Olaf_003_f",
+      "en": "As soon as I got here, I tripped on something and landed face down on a path of books, and then I learned all about the life cycle of the bumblebee!",
+      "cz": "Jakmile jsem sem dorazil, zakopl jsem o něco a přistál jsem obličejem dolů na cestě plné knih, a pak jsem se dozvěděl všechno o životním cyklu čmeláka!",
+      "source": "pre_existing",
+      "original_cz": "Jakmile jsem sem dorazil, zakopl jsem o něco a přistál jsem obličejem dolů na cestě plné knih, a pak jsem se dozvěděl všechno o životním cyklu čmeláka!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "You must have been buzzing with excitement.",
+      "cz": "Musel jsi bzučet vzrušením.",
+      "source": "pre_existing",
+      "original_cz": "Musel jsi bzučet vzrušením."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Have you met the Lorekeeper yet? She knows lots of fun facts!",
+      "cz": "Už jsi potkal Věštkyni? Zná spoustu zajímavých faktů!",
+      "source": "pre_existing",
+      "original_cz": "Už jsi potkal Věštkyni? Zná spoustu zajímavých faktů!"
+    },
+    {
+      "key": "Olaf_009_f",
+      "en": "...",
+      "cz": "...",
+      "source": "pre_existing",
+      "original_cz": "..."
+    },
+    {
+      "key": "Olaf_010_f",
+      "en": "OHHH! Buzzing! Like a bee. That's hilarious.",
+      "cz": "OHHH! Bzučí! Jako včela. To je k popukání.",
+      "source": "pre_existing",
+      "original_cz": "OHHH! Bzučí! Jako včela. To je k popukání."
+    },
+    {
+      "key": "Olaf_004_f",
+      "en": "Have you met the Lorekeeper? You two would probably hit it off.",
+      "cz": "Potkal jsi už Strážce Věštění? Vy dva byste si asi padli do oka.",
+      "source": "pre_existing",
+      "original_cz": "Potkal jsi už Strážce Věštění? Vy dva byste si asi padli do oka."
+    },
+    {
+      "key": "Olaf_005_f",
+      "en": "She's a talking book who knows all sorts of stories.",
+      "cz": "Je to mluvící kniha, která zná všechny možné příběhy.",
+      "source": "pre_existing",
+      "original_cz": "Je to mluvící kniha, která zná všechny možné příběhy."
+    },
+    {
+      "key": "Olaf_006_f",
+      "en": "Oh, I've met the Lorekeeper. She's already taught me so many fascinating pieces of information.",
+      "cz": "Ach, potkal jsem Strážkyni Věštění. Už mě naučila tolik fascinujících informací.",
+      "source": "pre_existing",
+      "original_cz": "Ach, potkal jsem Strážkyni Věštění. Už mě naučila tolik fascinujících informací."
+    },
+    {
+      "key": "Olaf_007_f",
+      "en": "I'd venture to say that she's now one of my very best friends!",
+      "cz": "Troufám si říct, že je teď jednou z mých nejlepších kamarádek!",
+      "source": "pre_existing",
+      "original_cz": "Troufám si říct, že je teď jednou z mých nejlepších kamarádek!"
+    },
+    {
+      "key": "Olaf_008_f",
+      "en": "In fact, I'm headed her way right now! Won't you join me for some intellectually stimulating conversation?",
+      "cz": "Vlastně právě mířím jejím směrem! Nepřidáš se ke mně na trochu intelektuálně podnětného rozhovoru?",
+      "source": "pre_existing",
+      "original_cz": "Vlastně právě mířím jejím směrem! Nepřidáš se ke mně na trochu intelektuálně podnětného rozhovoru?"
+    }
+  ],
+  "Expansion02Main_Olaf/Olaf_SEC_E02_Olaf_010_SEC_E02_Olaf_010_Ongoing01.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Hello, {PlayerName}. By any chance, have you seen my notes?",
+      "cz": "Ahoj, {PlayerName}. Neviděl jsi náhodou mé poznámky?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}. Neviděl jsi náhodou mé poznámky?"
+    }
+  ],
+  "Expansion02Main_Olaf/Olaf_SEC_E02_Olaf_010_SEC_E02_Olaf_010_Ongoing02.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "I'm on my way to another fascinating conversation with the Lorekeeper. Would you like to join me?",
+      "cz": "Jsem na cestě k dalšímu fascinujícímu rozhovoru s Věštcem. Chtěl by ses ke mně přidat?",
+      "source": "pre_existing",
+      "original_cz": "Jsem na cestě k dalšímu fascinujícímu rozhovoru s Věštcem. Chtěl by ses ke mně přidat?"
+    }
+  ],
+  "Expansion02Main_Olaf/Olaf_SEC_E02_Olaf_010_SEC_E02_Olaf_010_Ongoing03.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "I hope the Lorekeeper is all right. She didn't tell me any stories or facts today.",
+      "cz": "Doufám, že je s Věštkyní v pořádku. Dnes mi neřekla žádné příběhy ani fakta.",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že je s Věštkyní v pořádku. Dnes mi neřekla žádné příběhy ani fakta."
+    }
+  ],
+  "Expansion02Main_Olaf/Olaf_SEC_E02_Olaf_010_SEC_E02_Olaf_010_Ongoing04.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Did I hear you tell the Lorekeeper that you want to talk to Anna?",
+      "cz": "Slyšel jsem tě, jak jsi říkal Věštci, že chceš mluvit s Annou?",
+      "source": "pre_existing",
+      "original_cz": "Slyšel jsem tě, jak jsi říkal Věštci, že chceš mluvit s Annou?"
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "We are so alike. I want to talk to Anna so many times every day.",
+      "cz": "Jsme si tak podobní. Chci s Annou mluvit tolikrát denně.",
+      "source": "pre_existing",
+      "original_cz": "Jsme si tak podobní. Chci s Annou mluvit tolikrát denně."
+    }
+  ],
+  "Expansion02Main_Olaf/Olaf_SEC_E02_Olaf_010_SEC_E02_Olaf_010_Ongoing05.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "I've noticed you exploring the Bind, {PlayerName}.",
+      "cz": "Všiml jsem si, že prozkoumáváš Bind, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Všiml jsem si, že prozkoumáváš Bind, {PlayerName}."
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "Isn't it fascinating? I can't wait to learn more about the <Lore>secret door beneath the bridge</Lore>, the <Lore>mysterious fountains</Lore>, and <Lore>the owls</Lore>!",
+      "cz": "Není to fascinující? Nemůžu se dočkat, až se dozvím víc o <Lore>tajných dveřích pod mostem</Lore>, <Lore>záhadných fontánách</Lore> a <Lore>sovách</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Není to fascinující? Nemůžu se dočkat, až se dozvím víc o <Lore>tajných dveřích pod mostem</Lore>, <Lore>záhadných fontánách</Lore> a <Lore>sovách</Lore>!"
+    }
+  ],
+  "Expansion02Main_Olaf/Olaf_SEC_E02_Olaf_010_SEC_E02_Olaf_010_Ongoing06.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Have you befriended any of the owls around the Bind? I'm still seeking out some trivia on the topic.",
+      "cz": "Spřátelil ses s některou ze sov v okolí Bind? Pořád hledám nějaké zajímavosti k tomuto tématu.",
+      "source": "pre_existing",
+      "original_cz": "Spřátelil ses s některou ze sov v okolí Bind? Pořád hledám nějaké zajímavosti k tomuto tématu."
+    }
+  ],
+  "Expansion02Main_Olaf/Olaf_SEC_E02_Olaf_010_SEC_E02_Olaf_010_Ongoing07.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Let's create a home for all the owls in the Bind!",
+      "cz": "Vytvořme domov pro všechny sovy v Bindu!",
+      "source": "pre_existing",
+      "original_cz": "Vytvořme domov pro všechny sovy v Bindu!"
+    }
+  ],
+  "Expansion02Main_Olaf/Olaf_SEC_E02_Olaf_010_SEC_E02_Olaf_010_Outro.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "{PlayerName}, the Bind is now perfect for observing and befriending owls!",
+      "cz": "{PlayerName}, Pouto je nyní ideální pro pozorování sov a přátelství se s nimi!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, Pouto je nyní ideální pro pozorování sov a přátelství se s nimi!"
+    },
+    {
+      "key": "Olaf_006_f",
+      "en": "Maybe the next time I visit the Lorekeeper, I can share some of the fun facts I learned about them with her.",
+      "cz": "Možná až příště navštívím Věštkyni, budu se s ní moci podělit o pár zajímavých faktů, které jsem se o nich dozvěděl.",
+      "source": "pre_existing",
+      "original_cz": "Možná až příště navštívím Věštkyni, budu se s ní moci podělit o pár zajímavých faktů, které jsem se o nich dozvěděl."
+    },
+    {
+      "key": "Olaf_008_f",
+      "en": "And I can't wait to observe more of the animals around Storybook Vale.",
+      "cz": "A už se nemůžu dočkat, až budu moci pozorovat další zvířata v okolí Storybook Vale.",
+      "source": "pre_existing",
+      "original_cz": "A už se nemůžu dočkat, až budu moci pozorovat další zvířata v okolí Storybook Vale."
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "Did you know the owls here have a favorite treat? Well, they do. And I asked Remy to get some for me!",
+      "cz": "Věděl jsi, že sovy tady mají oblíbenou pamlsek? No, mají. A požádal jsem Remyho, aby mi nějaký přinesl!",
+      "source": "pre_existing",
+      "original_cz": "Věděl jsi, že sovy tady mají oblíbenou pamlsek? No, mají. A požádal jsem Remyho, aby mi nějaký přinesl!"
+    },
+    {
+      "key": "Olaf_002_f",
+      "en": "They love <Lore>grains, like barley</Lore>. Here you go, {PlayerName}. To share with all the owls in the Vale!",
+      "cz": "Milují <Lore>obiloviny, jako ječmen</Lore>. Tady máš, {PlayerName}. Poděl se se všemi sovami v Údolí!",
+      "source": "pre_existing",
+      "original_cz": "Milují <Lore>obiloviny, jako ječmen</Lore>. Tady máš, {PlayerName}. Poděl se se všemi sovami v Údolí!"
+    }
+  ],
+  "Expansion02Main_Olaf/Olaf_SEC_E02_Olaf_010_SEC_E02_Olaf_010_TalkTo03.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Hey, Olaf. There's something we need to talk about...",
+      "cz": "Ahoj, Olafe. Musíme si o něčem promluvit...",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, Olafe. Musíme si o něčem promluvit..."
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "Ooo, are we about to have a difficult and grown-up conversation about a serious topic?",
+      "cz": "Óó, chystáme se vést složitý a dospělý rozhovor o vážném tématu?",
+      "source": "pre_existing",
+      "original_cz": "Óó, chystáme se vést složitý a dospělý rozhovor o vážném tématu?"
+    },
+    {
+      "key": "Olaf_002_f",
+      "en": "I'm so excited!",
+      "cz": "Jsem tak nadšený!",
+      "source": "pre_existing",
+      "original_cz": "Jsem tak nadšený!"
+    },
+    {
+      "key": "Olaf_003_f",
+      "en": "Ahem. I will endeavor to display the utmost maturity. Proceed...",
+      "cz": "Ehm. Budu se snažit projevit maximální zralost. Pokračujte...",
+      "source": "pre_existing",
+      "original_cz": "Ehm. Budu se snažit projevit maximální zralost. Pokračujte..."
+    },
+    {
+      "key": "Player_000_f",
+      "en": "You've been spending a LOT of time talking to the Lorekeeper.",
+      "cz": "Strávil jsi HODNĚ času rozhovory s Věštcem.",
+      "source": "pre_existing",
+      "original_cz": "Strávil jsi HODNĚ času rozhovory s Věštcem."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "She's tired and she needs some rest.",
+      "cz": "Je unavená a potřebuje si odpočinout.",
+      "source": "pre_existing",
+      "original_cz": "Je unavená a potřebuje si odpočinout."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "We think you'd benefit from also having another hobby.",
+      "cz": "Myslíme si, že by vám prospělo mít i další koníček.",
+      "source": "pre_existing",
+      "original_cz": "Myslíme si, že by vám prospělo mít i další koníček."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Maybe you should diversify your fun-fact sources.",
+      "cz": "Možná bys měl diverzifikovat zdroje zábavných faktů.",
+      "source": "pre_existing",
+      "original_cz": "Možná bys měl diverzifikovat zdroje zábavných faktů."
+    },
+    {
+      "key": "Olaf_004_f",
+      "en": "Oh. I had noticed that her fun facts are getting less fun and less frequent each time we speak.",
+      "cz": "Aha. Všiml jsem si, že její zábavné fakty jsou s každým dalším rozhovorem čím dál méně zábavné a méně časté.",
+      "source": "pre_existing",
+      "original_cz": "Aha. Všiml jsem si, že její zábavné fakty jsou s každým dalším rozhovorem čím dál méně zábavné a méně časté."
+    },
+    {
+      "key": "Olaf_008_f",
+      "en": "Maybe I should take up a new hobby for when she's too tired to talk.",
+      "cz": "Možná bych si měl najít nový koníček, když bude moc unavená na to, aby mluvila.",
+      "source": "pre_existing",
+      "original_cz": "Možná bych si měl najít nový koníček, když bude moc unavená na to, aby mluvila."
+    },
+    {
+      "key": "Olaf_005_f",
+      "en": "But what sort of hobby could it be...?",
+      "cz": "Ale co by to mohlo být za koníček...?",
+      "source": "pre_existing",
+      "original_cz": "Ale co by to mohlo být za koníček...?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Fountain construction?",
+      "cz": "Stavba fontány?",
+      "source": "pre_existing",
+      "original_cz": "Stavba fontány?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Owls?",
+      "cz": "Sovy?",
+      "source": "pre_existing",
+      "original_cz": "Sovy?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Secret rooms?",
+      "cz": "Tajné místnosti?",
+      "source": "pre_existing",
+      "original_cz": "Tajné místnosti?"
+    },
+    {
+      "key": "Olaf_010_f",
+      "en": "Fountains ARE fascinating. But I think the wildlife here is even more interesting!",
+      "cz": "Fontány JSOU fascinující. Ale myslím, že divoká zvěř je zde ještě zajímavější!",
+      "source": "pre_existing",
+      "original_cz": "Fontány JSOU fascinující. Ale myslím, že divoká zvěř je zde ještě zajímavější!"
+    },
+    {
+      "key": "Olaf_020_f",
+      "en": "Maybe the owls around the Bind would be a worthy topic of study...",
+      "cz": "Možná by sovy kolem Bind byly hodným tématem studia...",
+      "source": "pre_existing",
+      "original_cz": "Možná by sovy kolem Bind byly hodným tématem studia..."
+    },
+    {
+      "key": "Olaf_012_f",
+      "en": "I don't know much about them. But ignorance is the first step on the journey to knowledge.",
+      "cz": "Moc o nich nevím. Ale nevědomost je prvním krokem na cestě k poznání.",
+      "source": "pre_existing",
+      "original_cz": "Moc o nich nevím. Ale nevědomost je prvním krokem na cestě k poznání."
+    },
+    {
+      "key": "Olaf_013_f",
+      "en": "Birdwatching could be an excellent source of new facts and information!",
+      "cz": "Pozorování ptáků by mohlo být vynikajícím zdrojem nových faktů a informací!",
+      "source": "pre_existing",
+      "original_cz": "Pozorování ptáků by mohlo být vynikajícím zdrojem nových faktů a informací!"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "I could find you a book on owls?",
+      "cz": "Mohl bych vám najít knihu o sovách?",
+      "source": "pre_existing",
+      "original_cz": "Mohl bych vám najít knihu o sovách?"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "I could get you a pair of binoculars?",
+      "cz": "Mohl bych vám sehnat dalekohled?",
+      "source": "pre_existing",
+      "original_cz": "Mohl bych vám sehnat dalekohled?"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "I could make you an owl stuffed animal?",
+      "cz": "Mohl bych ti vyrobit plyšového zvířátka sovu?",
+      "source": "pre_existing",
+      "original_cz": "Mohl bych ti vyrobit plyšového zvířátka sovu?"
+    },
+    {
+      "key": "Player_002_choice_003_f",
+      "en": "We'll need to get a look at an owl up close.",
+      "cz": "Budeme se muset podívat na sovu zblízka.",
+      "source": "pre_existing",
+      "original_cz": "Budeme se muset podívat na sovu zblízka."
+    },
+    {
+      "key": "Olaf_014_f",
+      "en": "Oh, I would love that! But I also want to watch the cute little feathery owls up close.",
+      "cz": "To bych moc rád viděl! Ale taky chci zblízka pozorovat ty roztomilé malé opeřené sovy.",
+      "source": "pre_existing",
+      "original_cz": "To bych moc rád viděl! Ale taky chci zblízka pozorovat ty roztomilé malé opeřené sovy."
+    },
+    {
+      "key": "Olaf_017_f",
+      "en": "Maybe I should try feeding one...",
+      "cz": "Možná bych měl zkusit jednoho nakrmit...",
+      "source": "pre_existing",
+      "original_cz": "Možná bych měl zkusit jednoho nakrmit..."
+    },
+    {
+      "key": "Olaf_018_f",
+      "en": "Uh, let me handle that. Your nose might look like a delicious treat to an owl.",
+      "cz": "Eh, nechte to na mně. Váš nos by mohl sově připadat jako lahodná pochoutka.",
+      "source": "pre_existing",
+      "original_cz": "Eh, nechte to na mně. Váš nos by mohl sově připadat jako lahodná pochoutka."
+    },
+    {
+      "key": "Olaf_019_f",
+      "en": "*gasp* You're right, {PlayerName}! Maybe you can <Lore>feed the owls in the Bind</Lore> while I go consult an owl expert.",
+      "cz": "*vzdech* Máš pravdu, {PlayerName}! Možná bys mohl <Lore>nakrmit sovy v Bind</Lore>, zatímco já se půjdu poradit s odborníkem na sovy.",
+      "source": "pre_existing",
+      "original_cz": "*vzdech* Máš pravdu, {PlayerName}! Možná bys mohl <Lore>nakrmit sovy v Bind</Lore>, zatímco já se půjdu poradit s odborníkem na sovy."
+    },
+    {
+      "key": "Olaf_015_f",
+      "en": "Oh, I don't need binoculars! I want to get up close to the cute little feathery owls...",
+      "cz": "Ach, já nepotřebuji dalekohled! Chci se dostat zblízka k těm roztomilým malým opeřeným sovičkám...",
+      "source": "pre_existing",
+      "original_cz": "Ach, já nepotřebuji dalekohled! Chci se dostat zblízka k těm roztomilým malým opeřeným sovičkám..."
+    },
+    {
+      "key": "Olaf_016_f",
+      "en": "While I would love that, I'm afraid it's no replacement for close observation of the real thing.",
+      "cz": "I když bych to moc rád viděl, obávám se, že to nenahradí pečlivé pozorování skutečné věci.",
+      "source": "pre_existing",
+      "original_cz": "I když bych to moc rád viděl, obávám se, že to nenahradí pečlivé pozorování skutečné věci."
+    },
+    {
+      "key": "Olaf_021_f",
+      "en": "That's what I was thinking!",
+      "cz": "To jsem si taky myslel!",
+      "source": "pre_existing",
+      "original_cz": "To jsem si taky myslel!"
+    },
+    {
+      "key": "Olaf_009_f",
+      "en": "*gasp* The owls in the Bind are so fascinating!",
+      "cz": "*vzdech* Sovy v Bind jsou tak fascinující!",
+      "source": "pre_existing",
+      "original_cz": "*vzdech* Sovy v Bind jsou tak fascinující!"
+    },
+    {
+      "key": "Olaf_011_f",
+      "en": "Secret rooms are interesting, but after spending so much time stuck in the one in the Valley, I'd like to diversify my studies.",
+      "cz": "Tajné místnosti jsou zajímavé, ale po tolika časech strávených v té v Údolí bych si rád studium zpestřil.",
+      "source": "pre_existing",
+      "original_cz": "Tajné místnosti jsou zajímavé, ale po tolika časech strávených v té v Údolí bych si rád studium zpestřil."
+    },
+    {
+      "key": "Olaf_006_f",
+      "en": "Another hobby? How exciting!",
+      "cz": "Další koníček? Jak vzrušující!",
+      "source": "pre_existing",
+      "original_cz": "Další koníček? Jak vzrušující!"
+    },
+    {
+      "key": "Olaf_007_f",
+      "en": "You know, you're right! A new hobby could provide an endless assortment of new fun facts!",
+      "cz": "Víš, máš pravdu! Nový koníček by mohl poskytnout nekonečnou škálu nových zábavných faktů!",
+      "source": "pre_existing",
+      "original_cz": "Víš, máš pravdu! Nový koníček by mohl poskytnout nekonečnou škálu nových zábavných faktů!"
+    }
+  ],
+  "Expansion02Main_Olaf/Olaf_SEC_E02_Olaf_010_SEC_E02_Olaf_010_TalkTo04.locbin": [
+    {
+      "key": "Olaf_001_f",
+      "en": "{PlayerName}! You saw the owls up close?",
+      "cz": "{PlayerName}! Viděl jsi ty sovy zblízka?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}! Viděl jsi ty sovy zblízka?"
+    },
+    {
+      "key": "Olaf_002_f",
+      "en": "I did! How did your research go?",
+      "cz": "Udělal! Jak dopadl tvůj výzkum?",
+      "source": "pre_existing",
+      "original_cz": "Udělal! Jak dopadl tvůj výzkum?"
+    },
+    {
+      "key": "Olaf_003_f",
+      "en": "Well, I talked to Merlin and he told me several fascinating facts...",
+      "cz": "No, mluvil jsem s Merlinem a řekl mi několik fascinujících faktů...",
+      "source": "pre_existing",
+      "original_cz": "No, mluvil jsem s Merlinem a řekl mi několik fascinujících faktů..."
+    },
+    {
+      "key": "Olaf_004_f",
+      "en": "Owls have feathers that let them fly almost silently.",
+      "cz": "Sovy mají peří, které jim umožňuje létat téměř bezhlučně.",
+      "source": "pre_existing",
+      "original_cz": "Sovy mají peří, které jim umožňuje létat téměř bezhlučně."
+    },
+    {
+      "key": "Olaf_005_f",
+      "en": "And their eyes aren't like human eyes, which are spheres. Owl eyes are cone-shaped...",
+      "cz": "A jejich oči nejsou jako lidské oči, které jsou kulovité. Soviny oči mají kuželovitý tvar...",
+      "source": "pre_existing",
+      "original_cz": "A jejich oči nejsou jako lidské oči, které jsou kulovité. Soviny oči mají kuželovitý tvar..."
+    },
+    {
+      "key": "Olaf_006_f",
+      "en": "Ooh! And a group of owls is called a \"parliament.\"",
+      "cz": "Jé! A skupinka sov se nazývá „parlament“.",
+      "source": "pre_existing",
+      "original_cz": "Jé! A skupinka sov se nazývá „parlament“."
+    },
+    {
+      "key": "Olaf_007_f",
+      "en": "The Lorekeeper told me a parliament is a group that sits around all day making decisions. So I thought maybe we could make something for owls to gather around!",
+      "cz": "Zvěstovatel mi řekl, že parlament je skupina, která celý den sedí a rozhoduje. Tak jsem si říkal, že bychom mohli vyrobit něco, kolem čeho by se mohly shromažďovat sovy!",
+      "source": "pre_existing",
+      "original_cz": "Zvěstovatel mi řekl, že parlament je skupina, která celý den sedí a rozhoduje. Tak jsem si říkal, že bychom mohli vyrobit něco, kolem čeho by se mohly shromažďovat sovy!"
+    }
+  ],
+  "Expansion02Main_Olaf/Olaf_VLG_Flyn_030_VLG_Flyn_030_TalkTo02.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Hey Olaf, if I invited you to join a team Flynn and I are putting together, what would you say?",
+      "cz": "Ahoj Olafe, kdybych tě pozval do týmu, který s Flynnem dáváme dohromady, co bys řekl?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj Olafe, kdybych tě pozval do týmu, který s Flynnem dáváme dohromady, co bys řekl?"
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "I'd say sign me up! What do I need to do?",
+      "cz": "Řekl bych, zaregistrujte mě! Co mám dělat?",
+      "source": "pre_existing",
+      "original_cz": "Řekl bych, zaregistrujte mě! Co mám dělat?"
+    },
+    {
+      "key": "Olaf_002_f",
+      "en": "How would you feel about squeezing through tight spaces and making a fire?",
+      "cz": "Co byste si mysleli, kdybyste se protáhli těsnými prostory a rozdělali oheň?",
+      "source": "pre_existing",
+      "original_cz": "Co byste si mysleli, kdybyste se protáhli těsnými prostory a rozdělali oheň?"
+    },
+    {
+      "key": "Olaf_003_f",
+      "en": "Hmm... The only squeezing I really do is hugging. And even with my permafrost, Elsa said I should be careful around fire. Which is actually good advice for everyone.",
+      "cz": "Hmm... Jediné, co opravdu objímám, je objímání. A i s mým permafrostem Elsa říkala, že bych si měl dávat pozor na oheň. Což je vlastně dobrá rada pro všechny.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Jediné, co opravdu objímám, je objímání. A i s mým permafrostem Elsa říkala, že bych si měl dávat pozor na oheň. Což je vlastně dobrá rada pro všechny."
+    },
+    {
+      "key": "Olaf_004_f",
+      "en": "Fair enough, Olaf! I'll see you later.",
+      "cz": "To je fér, Olafe! Uvidíme se později.",
+      "source": "pre_existing",
+      "original_cz": "To je fér, Olafe! Uvidíme se později."
+    }
+  ],
+  "Expansion02Main_Olaf/SEC_E02_Olaf_010.locbin": [
+    {
+      "key": "Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Any_CompletedRequestDescription",
+      "en": "Return to Olaf.",
+      "cz": "Zpět k Olafovi.",
+      "source": "pre_existing",
+      "original_cz": "Zpět k Olafovi."
+    },
+    {
+      "key": "Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_AvailableDescription",
+      "en": "While exploring the Bind, {PlayerName} uncovered some fascinating notes written in Olaf's handwriting. It seemed that the talkative snowman was on a mission to acquire more fun facts.",
+      "cz": "Při prozkoumávání Svazku objevil {PlayerName} fascinující poznámky napsané Olafovým rukopisem. Zdálo se, že upovídaný sněhulák se snaží získat další zábavná fakta.",
+      "source": "pre_existing",
+      "original_cz": "Při prozkoumávání Svazku objevil {PlayerName} fascinující poznámky napsané Olafovým rukopisem. Zdálo se, že upovídaný sněhulák se snaží získat další zábavná fakta."
+    },
+    {
+      "key": "Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_DisplayName",
+      "en": "A Hoot and a Half",
+      "cz": "A Hoot and a Half",
+      "source": "pre_existing",
+      "original_cz": "A Hoot and a Half"
+    },
+    {
+      "key": "Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group01_Step01_ReadyDescription",
+      "en": "Bring Olaf his fun facts.",
+      "cz": "Bring Olaf his fun facts.",
+      "source": "pre_existing",
+      "original_cz": "Bring Olaf his fun facts."
+    },
+    {
+      "key": "Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group01_Step01_StepDescription",
+      "en": "Get <ActivityItem>Olaf's Fun Facts</ActivityItem>.",
+      "cz": "Get <ActivityItem>Olaf's Fun Facts</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Get <ActivityItem>Olaf's Fun Facts</ActivityItem>."
+    },
+    {
+      "key": "Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group01_StepDescription",
+      "en": "You found some notes in the tidy scrawl of a certain talkative snowman...",
+      "cz": "Našli jste nějaké poznámky v úhledném rukopise jistého upovídaného sněhuláka...",
+      "source": "pre_existing",
+      "original_cz": "Našli jste nějaké poznámky v úhledném rukopise jistého upovídaného sněhuláka..."
+    },
+    {
+      "key": "Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group02_Step02_Listen01_StepDescription",
+      "en": "Listen as Olaf and the Lorekeeper have a fascinating conversation.",
+      "cz": "Poslouchejte fascinující rozhovor mezi Olafem a Strážcem Vědomí.",
+      "source": "pre_existing",
+      "original_cz": "Poslouchejte fascinující rozhovor mezi Olafem a Strážcem Vědomí."
+    },
+    {
+      "key": "Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group03_Step03_TalkToCharacter01_StepDescription",
+      "en": "Talk to the Lorekeeper.",
+      "cz": "Promluvte si se Strážcem věštby.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Strážcem věštby."
+    },
+    {
+      "key": "Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group04_Step04_TalkToCharacter02_StepDescription",
+      "en": "Talk to Anna.",
+      "cz": "Promluvte si s Annou.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Annou."
+    },
+    {
+      "key": "Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group05_Step05_StepDescription",
+      "en": "Take pictures of things around the Bind that Olaf might be interested in:",
+      "cz": "Vyfoťte věci v okolí Bind, které by mohly Olafa zajímat:",
+      "source": "pre_existing",
+      "original_cz": "Vyfoťte věci v okolí Bind, které by mohly Olafa zajímat:"
+    },
+    {
+      "key": "Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group05_Step05_TakePicture01_StepDescription",
+      "en": "The Library of Lore.",
+      "cz": "Knihovna Lore.",
+      "source": "pre_existing",
+      "original_cz": "Knihovna Lore."
+    },
+    {
+      "key": "Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group05_Step05_TakePicture02_StepDescription",
+      "en": "A mysterious hidden doorway beneath the bridge in the Bind.",
+      "cz": "Záhadné skryté dveře pod mostem v Bind.",
+      "source": "pre_existing",
+      "original_cz": "Záhadné skryté dveře pod mostem v Bind."
+    },
+    {
+      "key": "Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group05_Step05_TakePicture03_StepDescription",
+      "en": "The fountains.",
+      "cz": "The fountains.",
+      "source": "pre_existing",
+      "original_cz": "The fountains."
+    },
+    {
+      "key": "Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group05_Step05_TakePicture04_StepDescription",
+      "en": "The owls.",
+      "cz": "The owls.",
+      "source": "pre_existing",
+      "original_cz": "The owls."
+    },
+    {
+      "key": "Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group06_Step06_TalkToCharacter03_StepDescription",
+      "en": "Return to Olaf.",
+      "cz": "Zpět k Olafovi.",
+      "source": "pre_existing",
+      "original_cz": "Zpět k Olafovi."
+    },
+    {
+      "key": "Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group07_Step07_Conditional01_StepDescription",
+      "en": "Befriend and unlock any of the owls around the Bind.",
+      "cz": "Spřátelte se s jakoukoli sovou v okolí Pouta a odemkněte ji.",
+      "source": "pre_existing",
+      "original_cz": "Spřátelte se s jakoukoli sovou v okolí Pouta a odemkněte ji."
+    },
+    {
+      "key": "Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group08_StepDescription",
+      "en": "Return to Olaf.",
+      "cz": "Zpět k Olafovi.",
+      "source": "pre_existing",
+      "original_cz": "Zpět k Olafovi."
+    },
+    {
+      "key": "Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group09_Step09_StepDescription",
+      "en": "(If you don't have one, search the Bind for Ingredients and visit a Crafting Station!)",
+      "cz": "(Pokud žádný nemáte, vyhledejte ingredience ve schránce a navštivte řemeslnou stanici!)",
+      "source": "pre_existing",
+      "original_cz": "(Pokud žádný nemáte, vyhledejte ingredience ve schránce a navštivte řemeslnou stanici!)"
+    },
+    {
+      "key": "Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group09_StepDescription",
+      "en": "Decorate the Bind with an {ItemName}.",
+      "cz": "Ozdobte vazbu s {ItemName}.",
+      "source": "pre_existing",
+      "original_cz": "Ozdobte vazbu s {ItemName}."
+    }
+  ]
+}

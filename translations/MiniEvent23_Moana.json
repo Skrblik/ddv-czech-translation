@@ -1,0 +1,78 @@
+{
+  "MiniEvent23_Moana/Moana_Daily_Moan_ClickMagic_010_Daily_Moan_ClickMagic_010_Intro.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "Hey, Moana. I've been trying to work on my photography skills. Do you have any suggestions for somewhere I can practice?",
+      "cz": "Ahoj, Moano. Snažím se zlepšit své fotografické dovednosti. Máš nějaké tipy na místo, kde bych se mohla procvičovat?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, Moano. Snažím se zlepšit své fotografické dovednosti. Máš nějaké tipy na místo, kde bych se mohla procvičovat?"
+    },
+    {
+      "key": "Moana_001_f",
+      "en": "Well, <Lore>the place you found Maui and me</Lore> is pretty amazing.",
+      "cz": "No, <Lore>místo, kde jsi našel mě a Maui</Lore>, je docela úžasné.",
+      "source": "pre_existing",
+      "original_cz": "No, <Lore>místo, kde jsi našel mě a Maui</Lore>, je docela úžasné."
+    },
+    {
+      "key": "Moana_003_f",
+      "en": "Maybe there's <Lore>something interesting for you</Lore> there?",
+      "cz": "Možná je tam <Lore>něco zajímavého pro vás</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "Možná je tam <Lore>něco zajímavého pro vás</Lore>?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Great idea! I'll head to your Realm.",
+      "cz": "Skvělý nápad! Zamířím do tvé říše.",
+      "source": "pre_existing",
+      "original_cz": "Skvělý nápad! Zamířím do tvé říše."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Sorry, I can't right now.",
+      "cz": "Promiň, teď nemůžu.",
+      "source": "pre_existing",
+      "original_cz": "Promiň, teď nemůžu."
+    },
+    {
+      "key": "Moana_002_f",
+      "en": "Happy exploring, {PlayerName}!",
+      "cz": "Šťastné objevování, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Šťastné objevování, {PlayerName}!"
+    }
+  ],
+  "MiniEvent23_Moana/Moana_Daily_Moan_ClickMagic_010_Daily_Moan_ClickMagic_010_Ongoing01.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "Moana, I'm still exploring your Realm to look for <Lore>interesting symbols</Lore> to photograph.",
+      "cz": "Moano, pořád prozkoumávám tvé království a hledám <Lore>zajímavé symboly</Lore>, které bych mohl vyfotit.",
+      "source": "pre_existing",
+      "original_cz": "Moano, pořád prozkoumávám tvé království a hledám <Lore>zajímavé symboly</Lore>, které bych mohl vyfotit."
+    },
+    {
+      "key": "Moana_001_f",
+      "en": "Ooh, can I see them when you're finished?!",
+      "cz": "Jé, můžu se na ně podívat, až skončíš?!",
+      "source": "pre_existing",
+      "original_cz": "Jé, můžu se na ně podívat, až skončíš?!"
+    }
+  ],
+  "MiniEvent23_Moana/Moana_Daily_Moan_ClickMagic_010_Daily_Moan_ClickMagic_010_Outro.locbin": [
+    {
+      "key": "Moana_000_f",
+      "en": "These images are incredible, {PlayerName}!",
+      "cz": "Tyhle obrázky jsou neuvěřitelné, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Tyhle obrázky jsou neuvěřitelné, {PlayerName}!"
+    },
+    {
+      "key": "Moana_001_f",
+      "en": "You should have something special for all that effort.",
+      "cz": "Za všechnu tu námahu byste měli mít něco speciálního.",
+      "source": "pre_existing",
+      "original_cz": "Za všechnu tu námahu byste měli mít něco speciálního."
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "Alice_SingingFlower/SingingFlower_Greetings_SingingFlower_Greetings01.locbin": [
+    {
+      "key": "SingingFlower_001_f",
+      "en": "Why, hello there!",
+      "cz": "No, ahoj!",
+      "source": "pre_existing",
+      "original_cz": "No, ahoj!"
+    },
+    {
+      "key": "Player_002_exit_000_f",
+      "en": "Sorry, I can't talk now.",
+      "cz": "Promiňte, teď nemůžu mluvit.",
+      "source": "pre_existing",
+      "original_cz": "Promiňte, teď nemůžu mluvit."
+    }
+  ],
+  "Alice_SingingFlower/SingingFlower_RLM_AliceIP_Alic_010_RLM_AliceIP_Alic_010_TalkTo06.locbin": [
+    {
+      "key": "SingingFlower_001_f",
+      "en": "Um... Hello.",
+      "cz": "Ehm... Dobrý den.",
+      "source": "pre_existing",
+      "original_cz": "Ehm... Dobrý den."
+    },
+    {
+      "key": "Player_000_f",
+      "en": "I'm looking for the Ingredients for a <ActivityItem>Contrary Perfume</ActivityItem>...",
+      "cz": "Hledám ingredience na <ActivityItem>Parfém Contrary</ActivityItem>...",
+      "source": "pre_existing",
+      "original_cz": "Hledám ingredience na <ActivityItem>Parfém Contrary</ActivityItem>..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Can you help me?",
+      "cz": "Můžete mi pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Můžete mi pomoct?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "The Cheshire Cat sent me.",
+      "cz": "Poslal mě kocour Cheshire.",
+      "source": "pre_existing",
+      "original_cz": "Poslal mě kocour Cheshire."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I thought a flower might know something about that.",
+      "cz": "Myslel jsem si, že o tom by mohla něco vědět květina.",
+      "source": "pre_existing",
+      "original_cz": "Myslel jsem si, že o tom by mohla něco vědět květina."
+    },
+    {
+      "key": "SingingFlower_003_f",
+      "en": "Help you?",
+      "cz": "Pomoci ti?",
+      "source": "pre_existing",
+      "original_cz": "Pomoci ti?"
+    },
+    {
+      "key": "SingingFlower_006_f",
+      "en": "Oh dear, I'm afraid I can't. Look about...",
+      "cz": "Ach jo, obávám se, že to nedokážu. Rozhlédni se...",
+      "source": "pre_existing",
+      "original_cz": "Ach jo, obávám se, že to nedokážu. Rozhlédni se..."
+    },
+    {
+      "key": "SingingFlower_007_f",
+      "en": "Without any rain, we've all wilted. We can't sing so much as a scale...",
+      "cz": "Bez deště jsme všichni zvadli. Neumíme zpívat ani stupnici...",
+      "source": "pre_existing",
+      "original_cz": "Bez deště jsme všichni zvadli. Neumíme zpívat ani stupnici..."
+    },
+    {
+      "key": "SingingFlower_011_f",
+      "en": "But if you could help us sing again, I'll do my best to try and get you what you need.",
+      "cz": "Ale pokud byste nám mohli znovu pomoci zpívat, udělám vše pro to, abych vám sehnal, co potřebujete.",
+      "source": "pre_existing",
+      "original_cz": "Ale pokud byste nám mohli znovu pomoci zpívat, udělám vše pro to, abych vám sehnal, co potřebujete."
+    },
+    {
+      "key": "SingingFlower_002_f",
+      "en": "That troublesome beast? Please leave. We have plenty of trouble here already, and we don't need more.",
+      "cz": "Ta otravná bestie? Prosím, odejděte. Máme tu už spoustu problémů a další nepotřebujeme.",
+      "source": "pre_existing",
+      "original_cz": "Ta otravná bestie? Prosím, odejděte. Máme tu už spoustu problémů a další nepotřebujeme."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "What kind of trouble? Can I help?",
+      "cz": "Co je to za problém? Mohu s tím nějak pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Co je to za problém? Mohu s tím nějak pomoct?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I think the Cheshire Cat is trouble too.",
+      "cz": "Myslím, že kočka Cheshire je taky problém.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že kočka Cheshire je taky problém."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I REALLY need your help!",
+      "cz": "Vážně potřebuji tvou pomoc!",
+      "source": "pre_existing",
+      "original_cz": "Vážně potřebuji tvou pomoc!"
+    },
+    {
+      "key": "SingingFlower_009_f",
+      "en": "Only if you can cause the rain to fall.",
+      "cz": "Jen pokud dokážeš způsobit déšť.",
+      "source": "pre_existing",
+      "original_cz": "Jen pokud dokážeš způsobit déšť."
+    },
+    {
+      "key": "SingingFlower_008_f",
+      "en": "Then we're agreed. It would not surprise me if that striped menace is the reason for the drought.",
+      "cz": "Pak se shodneme. Nepřekvapilo by mě, kdyby ta pruhovaná hrozba byla důvodem sucha.",
+      "source": "pre_existing",
+      "original_cz": "Pak se shodneme. Nepřekvapilo by mě, kdyby ta pruhovaná hrozba byla důvodem sucha."
+    },
+    {
+      "key": "SingingFlower_010_f",
+      "en": "And I desperately need a rainstorm.",
+      "cz": "A zoufale potřebuji bouřku.",
+      "source": "pre_existing",
+      "original_cz": "A zoufale potřebuji bouřku."
+    },
+    {
+      "key": "SingingFlower_004_f",
+      "en": "Not all flowers are known for their fragrance.",
+      "cz": "Ne všechny květiny jsou známé svou vůní.",
+      "source": "pre_existing",
+      "original_cz": "Ne všechny květiny jsou známé svou vůní."
+    },
+    {
+      "key": "SingingFlower_005_f",
+      "en": "And this isn't the time to fret over perfume. Look about you!",
+      "cz": "A teď není čas se trápit kvůli parfému. Rozhlédněte se kolem sebe!",
+      "source": "pre_existing",
+      "original_cz": "A teď není čas se trápit kvůli parfému. Rozhlédněte se kolem sebe!"
+    }
+  ]
+}

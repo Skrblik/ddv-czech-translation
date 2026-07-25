@@ -1,0 +1,990 @@
+{
+  "Alice_Remy/Remy_SEC_Remy_030_SEC_Remy_030_BringItem01.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "Remy! The Cheshire Cat left us a new recipe! It's for a <ActivityItem>Cheshire Cat Tail</ActivityItem> dessert and it looks delicious.",
+      "cz": "Remy! Cheshire Cat nám nechal nový recept! Je to recept na dezert <ActivityItem>Cheshire Cat Tail</ActivityItem> a vypadá to skvěle.",
+      "source": "pre_existing",
+      "original_cz": "Remy! Cheshire Cat nám nechal nový recept! Je to recept na dezert <ActivityItem>Cheshire Cat Tail</ActivityItem> a vypadá to skvěle."
+    },
+    {
+      "key": "Remy_001_f",
+      "en": "Well hey, I'm always happy to have new dishes to offer my guests. But I'm still worried about this strange cat playing tricks...",
+      "cz": "No, vždycky mě potěší, když hostům nabídnu nová jídla. Ale pořád se bojím, že mi tahle divná kočka dělá triky...",
+      "source": "pre_existing",
+      "original_cz": "No, vždycky mě potěší, když hostům nabídnu nová jídla. Ale pořád se bojím, že mi tahle divná kočka dělá triky..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "That's understandable.",
+      "cz": "To je pochopitelné.",
+      "source": "pre_existing",
+      "original_cz": "To je pochopitelné."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "The Cheshire Cat is harmless... probably.",
+      "cz": "Kočka Cheshire je neškodná... pravděpodobně.",
+      "source": "pre_existing",
+      "original_cz": "Kočka Cheshire je neškodná... pravděpodobně."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "How can I help make you feel better?",
+      "cz": "Jak vám mohu pomoci, abyste se cítili lépe?",
+      "source": "pre_existing",
+      "original_cz": "Jak vám mohu pomoci, abyste se cítili lépe?"
+    },
+    {
+      "key": "Remy_004_f",
+      "en": "Could you <Lore>check outside the restaurant for me</Lore>? I wanna make sure there isn't anything weird going on out there, too.",
+      "cz": "Mohl byste se mi <Lore>podívat ven z restaurace</Lore>? Chci se taky ujistit, že se tam venku neděje nic divného.",
+      "source": "pre_existing",
+      "original_cz": "Mohl byste se mi <Lore>podívat ven z restaurace</Lore>? Chci se taky ujistit, že se tam venku neděje nic divného."
+    }
+  ],
+  "Alice_Remy/Remy_SEC_Remy_030_SEC_Remy_030_Ongoing01.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "Don't forget to <Lore>check out the paw prints on my dining room table</Lore>, please.",
+      "cz": "Nezapomeň se prosím <Lore>podívat na otisky tlapek na mém jídelním stole</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Nezapomeň se prosím <Lore>podívat na otisky tlapek na mém jídelním stole</Lore>."
+    },
+    {
+      "key": "Remy_001_f",
+      "en": "Yup! <Lore>I'll also look for other hints that the Cheshire Cat has been here</Lore> and clean those up, too.",
+      "cz": "Jo! <Lore>Také se podívám po dalších náznakech, že tu byl kocour Cheshire</Lore> a ty taky odstraním.",
+      "source": "pre_existing",
+      "original_cz": "Jo! <Lore>Také se podívám po dalších náznakech, že tu byl kocour Cheshire</Lore> a ty taky odstraním."
+    }
+  ],
+  "Alice_Remy/Remy_SEC_Remy_030_SEC_Remy_030_Ongoing04.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "Please keep looking until you <Lore>find everything this Cheshire Cat's done</Lore> in my restaurant.",
+      "cz": "Prosím, <Lore>hledejte dál, dokud nenajdete všechno, co tento kocour z Cheshire udělal</Lore> v mé restauraci.",
+      "source": "pre_existing",
+      "original_cz": "Prosím, <Lore>hledejte dál, dokud nenajdete všechno, co tento kocour z Cheshire udělal</Lore> v mé restauraci."
+    },
+    {
+      "key": "Remy_001_f",
+      "en": "I have! Something appeared on the restaurant floor... <Lore>I'll go pick up that item now</Lore>.",
+      "cz": "Ano! Něco se objevilo na podlaze restaurace... <Lore>Teď si pro to půjdu</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Ano! Něco se objevilo na podlaze restaurace... <Lore>Teď si pro to půjdu</Lore>."
+    }
+  ],
+  "Alice_Remy/Remy_SEC_Remy_030_SEC_Remy_030_Ongoing05.locbin": [
+    {
+      "key": "Remy_001_f",
+      "en": "A recipe appeared in your restaurant... I should probably <Lore>check it out</Lore>.",
+      "cz": "Ve vaší restauraci se objevil recept... Asi bych se na něj měl <Lore>podívat</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Ve vaší restauraci se objevil recept... Asi bych se na něj měl <Lore>podívat</Lore>."
+    }
+  ],
+  "Alice_Remy/Remy_SEC_Remy_030_SEC_Remy_030_Ongoing06.locbin": [
+    {
+      "key": "Remy_001_f",
+      "en": "What was that thing that came out of the painting in my restaurant?",
+      "cz": "Co to bylo za věc, co vylezlo z obrazu v mé restauraci?",
+      "source": "pre_existing",
+      "original_cz": "Co to bylo za věc, co vylezlo z obrazu v mé restauraci?"
+    },
+    {
+      "key": "Remy_002_f",
+      "en": "A recipe! I'll <Lore>cook it right now</Lore> and see what it makes!",
+      "cz": "Recept! <Lore>Hned to uvařím</Lore> a uvidím, co z toho bude!",
+      "source": "pre_existing",
+      "original_cz": "Recept! <Lore>Hned to uvařím</Lore> a uvidím, co z toho bude!"
+    }
+  ],
+  "Alice_Remy/Remy_SEC_Remy_030_SEC_Remy_030_Ongoing07.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "Have you <Lore>made that new Cheshire Cat Tail dessert</Lore>? I gotta admit, I want to try it.",
+      "cz": "Už jsi <Lore>udělal/a ten nový dezert s ocasem kočky Cheshire</Lore>? Musím přiznat, že ho chci zkusit.",
+      "source": "pre_existing",
+      "original_cz": "Už jsi <Lore>udělal/a ten nový dezert s ocasem kočky Cheshire</Lore>? Musím přiznat, že ho chci zkusit."
+    }
+  ],
+  "Alice_Remy/Remy_SEC_Remy_030_SEC_Remy_030_Ongoing08.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "Could you <Lore>look outside my restaurant</Lore> to make sure the Cheshire Cat didn't do anything out there, too?",
+      "cz": "Mohl byste se <Lore>podívat ven z mé restaurace</Lore>, abyste se ujistil, že tam taky nic neudělala kočka Cheshire?",
+      "source": "pre_existing",
+      "original_cz": "Mohl byste se <Lore>podívat ven z mé restaurace</Lore>, abyste se ujistil, že tam taky nic neudělala kočka Cheshire?"
+    }
+  ],
+  "Alice_Remy/Remy_SEC_Remy_030_SEC_Remy_030_Ongoing09.locbin": [
+    {
+      "key": "Remy_001_f",
+      "en": "Could you <Lore>look outside my restaurant</Lore> to make sure the Cheshire Cat didn't do anything out there, too?",
+      "cz": "Mohl byste se <Lore>podívat ven z mé restaurace</Lore>, abyste se ujistil, že tam taky nic neudělala kočka Cheshire?",
+      "source": "pre_existing",
+      "original_cz": "Mohl byste se <Lore>podívat ven z mé restaurace</Lore>, abyste se ujistil, že tam taky nic neudělala kočka Cheshire?"
+    }
+  ],
+  "Alice_Remy/Remy_SEC_Remy_030_SEC_Remy_030_Ongoing10.locbin": [
+    {
+      "key": "Remy_002_f",
+      "en": "Let's <Lore>go back inside my restaurant</Lore> and make sure there are no more weird things happening in there!",
+      "cz": "Pojďme se <Lore>vracet do mé restaurace</Lore> a ujistit se, že se tam už nedějí žádné divné věci!",
+      "source": "pre_existing",
+      "original_cz": "Pojďme se <Lore>vracet do mé restaurace</Lore> a ujistit se, že se tam už nedějí žádné divné věci!"
+    }
+  ],
+  "Alice_Remy/Remy_SEC_Remy_030_SEC_Remy_030_Ongoing11.locbin": [
+    {
+      "key": "Remy_001_f",
+      "en": "Is that... the Cheshire Cat in my restaurant?",
+      "cz": "Je to... ta kočka Cheshire v mé restauraci?",
+      "source": "pre_existing",
+      "original_cz": "Je to... ta kočka Cheshire v mé restauraci?"
+    },
+    {
+      "key": "Remy_000_f",
+      "en": "Yep, that's him. <Lore>I should go talk to him and find out what he's up to</Lore>.",
+      "cz": "Jo, to je on. <Lore>Měl bych si s ním promluvit a zjistit, co dělá</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Jo, to je on. <Lore>Měl bych si s ním promluvit a zjistit, co dělá</Lore>."
+    }
+  ],
+  "Alice_Remy/Remy_SEC_Remy_030_SEC_Remy_030_Ongoing12.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "There's something awfully strange happening in my restaurant, {PlayerName}. Could you help me out?",
+      "cz": "V mé restauraci, {PlayerName}, se děje něco strašně divného. Mohl byste mi s tím pomoct?",
+      "source": "pre_existing",
+      "original_cz": "V mé restauraci, {PlayerName}, se děje něco strašně divného. Mohl byste mi s tím pomoct?"
+    },
+    {
+      "key": "Remy_001_f",
+      "en": "Of course! <Lore>Let's meet in your restaurant and see what's going on</Lore>.",
+      "cz": "Samozřejmě! <Lore>Sejdeme se ve vaší restauraci a uvidíme, co se děje</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě! <Lore>Sejdeme se ve vaší restauraci a uvidíme, co se děje</Lore>."
+    }
+  ],
+  "Alice_Remy/Remy_SEC_Remy_030_SEC_Remy_030_TalkTo01.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "Hi, Remy! What's going on in here?",
+      "cz": "Ahoj, Remy! Co se tady děje?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, Remy! Co se tady děje?"
+    },
+    {
+      "key": "Remy_001_f",
+      "en": "{PlayerName}! Am I ever glad to see you!",
+      "cz": "{PlayerName}! Jsem rád/a, že tě vidím!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}! Jsem rád/a, že tě vidím!"
+    },
+    {
+      "key": "Remy_002_f",
+      "en": "Someone's been leaving paw prints in my restaurant! And they're NOT mine.",
+      "cz": "Někdo mi v restauraci nechává otisky tlapek! A NEJSOU moje.",
+      "source": "pre_existing",
+      "original_cz": "Někdo mi v restauraci nechává otisky tlapek! A NEJSOU moje."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Paw prints?",
+      "cz": "Otisky tlapek?",
+      "source": "pre_existing",
+      "original_cz": "Otisky tlapek?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Sounds unappetizing.",
+      "cz": "Zní to nechutně.",
+      "source": "pre_existing",
+      "original_cz": "Zní to nechutně."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Uh-oh... I think I know who that is...",
+      "cz": "Jéé... Myslím, že vím, kdo to je...",
+      "source": "pre_existing",
+      "original_cz": "Jéé... Myslím, že vím, kdo to je..."
+    },
+    {
+      "key": "Remy_003_f",
+      "en": "Yes! They look like they belong to a cat...",
+      "cz": "Ano! Vypadají, jako by patřily kočce...",
+      "source": "pre_existing",
+      "original_cz": "Ano! Vypadají, jako by patřily kočce..."
+    },
+    {
+      "key": "Remy_008_f",
+      "en": "I bet it's the Cheshire Cat!",
+      "cz": "Vsadím se, že je to kočka Cheshire!",
+      "source": "pre_existing",
+      "original_cz": "Vsadím se, že je to kočka Cheshire!"
+    },
+    {
+      "key": "Remy_012_f",
+      "en": "What?! I can't have a cat running around here!",
+      "cz": "Cože?! Nemůžu tu nechat pobíhat kočku!",
+      "source": "pre_existing",
+      "original_cz": "Cože?! Nemůžu tu nechat pobíhat kočku!"
+    },
+    {
+      "key": "Remy_009_f",
+      "en": "Alice and I think he's getting ready to join the Valley.",
+      "cz": "S Alicí si myslíme, že se chystá připojit k Údolí.",
+      "source": "pre_existing",
+      "original_cz": "S Alicí si myslíme, že se chystá připojit k Údolí."
+    },
+    {
+      "key": "Remy_010_f",
+      "en": "I'll <Lore>investigate the paw prints</Lore> and see what happens. And I'll <Lore>look around the restaurant for any other hints the Cheshire Cat left</Lore>, while I'm at it.",
+      "cz": "<Lore>Prozkoumám otisky tlapek</Lore> a uvidím, co se stane. A když už budu u toho, <Lore>rozhlédnu se po restauraci, jestli tam nenajdeme další nápovědy, které zanechal kocour Cheshire.</Lore>",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Prozkoumám otisky tlapek</Lore> a uvidím, co se stane. A když už budu u toho, <Lore>rozhlédnu se po restauraci, jestli tam nenajdeme další nápovědy, které zanechal kocour Cheshire.</Lore>"
+    },
+    {
+      "key": "Remy_011_f",
+      "en": "Thanks, {PlayerName}! A cat in the restaurant could really spoil my day.",
+      "cz": "Díky, {PlayerName}! Kočka v restauraci by mi mohla vážně zkazit den.",
+      "source": "pre_existing",
+      "original_cz": "Díky, {PlayerName}! Kočka v restauraci by mi mohla vážně zkazit den."
+    },
+    {
+      "key": "Remy_004_f",
+      "en": "No one wants to eat where someone's feet have been.",
+      "cz": "Nikdo nechce jíst tam, kde někomu šlápli nohy.",
+      "source": "pre_existing",
+      "original_cz": "Nikdo nechce jíst tam, kde někomu šlápli nohy."
+    },
+    {
+      "key": "Remy_006_f",
+      "en": "Especially not without a very thorough wipe down.",
+      "cz": "Zvlášť ne bez velmi důkladného otření.",
+      "source": "pre_existing",
+      "original_cz": "Zvlášť ne bez velmi důkladného otření."
+    },
+    {
+      "key": "Remy_007_f",
+      "en": "They look like they belong to a cat...",
+      "cz": "Vypadají, jako by patřily kočce...",
+      "source": "pre_existing",
+      "original_cz": "Vypadají, jako by patřily kočce..."
+    },
+    {
+      "key": "Remy_005_f",
+      "en": "You do?",
+      "cz": "Ano? / Vážně?",
+      "source": "pre_existing",
+      "original_cz": "Ano? / Vážně?"
+    }
+  ],
+  "Alice_Remy/Remy_SEC_Remy_030_SEC_Remy_030_TalkTo03.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "That MUST HAVE been the Cheshire Cat.",
+      "cz": "To musela být kočka Cheshire.",
+      "source": "pre_existing",
+      "original_cz": "To musela být kočka Cheshire."
+    },
+    {
+      "key": "Remy_001_f",
+      "en": "Yup.",
+      "cz": "Jo.",
+      "source": "pre_existing",
+      "original_cz": "Jo."
+    },
+    {
+      "key": "Remy_002_f",
+      "en": "Is he always so... What's the word?",
+      "cz": "Je vždycky tak... Jak se to říká?",
+      "source": "pre_existing",
+      "original_cz": "Je vždycky tak... Jak se to říká?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Odd?",
+      "cz": "Zvláštní?",
+      "source": "pre_existing",
+      "original_cz": "Zvláštní?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Mysterious?",
+      "cz": "Tajemný?",
+      "source": "pre_existing",
+      "original_cz": "Tajemný?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Troublesome?",
+      "cz": "Problémy?",
+      "source": "pre_existing",
+      "original_cz": "Problémy?"
+    },
+    {
+      "key": "Remy_003_f",
+      "en": "Exactly.",
+      "cz": "Přesně.",
+      "source": "pre_existing",
+      "original_cz": "Přesně."
+    },
+    {
+      "key": "Remy_004_f",
+      "en": "Seems like it... More or less.",
+      "cz": "Vypadá to tak... Víceméně.",
+      "source": "pre_existing",
+      "original_cz": "Vypadá to tak... Víceméně."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "He knows how to keep things interesting!",
+      "cz": "Ví, jak udržet věci zajímavé!",
+      "source": "pre_existing",
+      "original_cz": "Ví, jak udržet věci zajímavé!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "It's kind of fun, isn't it?",
+      "cz": "Je to docela zábava, že?",
+      "source": "pre_existing",
+      "original_cz": "Je to docela zábava, že?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "He's starting to get on my nerves...",
+      "cz": "Začíná mi lézt na nervy...",
+      "source": "pre_existing",
+      "original_cz": "Začíná mi lézt na nervy..."
+    },
+    {
+      "key": "Remy_007_f",
+      "en": "\"Interesting\" is right! I suppose variety is the spice of life.",
+      "cz": "„Zajímavé“ je správně! Řekl bych, že rozmanitost je kořením života.",
+      "source": "pre_existing",
+      "original_cz": "„Zajímavé“ je správně! Řekl bych, že rozmanitost je kořením života."
+    },
+    {
+      "key": "Remy_011_f",
+      "en": "BUT... He brought way too much pink and purple chaos to my restaurant!",
+      "cz": "ALE... Vnesl do mé restaurace až příliš mnoho růžového a fialového chaosu!",
+      "source": "pre_existing",
+      "original_cz": "ALE... Vnesl do mé restaurace až příliš mnoho růžového a fialového chaosu!"
+    },
+    {
+      "key": "Remy_005_f",
+      "en": "Don't worry; I think your restaurant will be safe from his antics from now on. He doesn't seem to strike the same place twice.",
+      "cz": "Nebojte se, myslím, že vaše restaurace bude odteď v bezpečí před jeho kousky. Zdá se, že dvakrát neútočí na stejné místo.",
+      "source": "pre_existing",
+      "original_cz": "Nebojte se, myslím, že vaše restaurace bude odteď v bezpečí před jeho kousky. Zdá se, že dvakrát neútočí na stejné místo."
+    },
+    {
+      "key": "Remy_006_f",
+      "en": "Though something tells me I'll be seeing more of him soon...",
+      "cz": "I když mi něco říká, že ho brzy uvidím častěji...",
+      "source": "pre_existing",
+      "original_cz": "I když mi něco říká, že ho brzy uvidím častěji..."
+    },
+    {
+      "key": "Remy_008_f",
+      "en": "I don't know. I think that's one flavor profile I'd like to avoid in my restaurant.",
+      "cz": "Nevím. Myslím, že to je jeden chuťový profil, kterému bych se ve své restauraci rád vyhnul.",
+      "source": "pre_existing",
+      "original_cz": "Nevím. Myslím, že to je jeden chuťový profil, kterému bych se ve své restauraci rád vyhnul."
+    },
+    {
+      "key": "Remy_009_f",
+      "en": "I can see why.",
+      "cz": "Chápu proč.",
+      "source": "pre_existing",
+      "original_cz": "Chápu proč."
+    },
+    {
+      "key": "Remy_012_f",
+      "en": "Just look at what he did to my restaurant!",
+      "cz": "Jen se podívejte, co udělal s mou restaurací!",
+      "source": "pre_existing",
+      "original_cz": "Jen se podívejte, co udělal s mou restaurací!"
+    }
+  ],
+  "Alice_Remy/Remy_VLG_Alic_010_VLG_Alic_010_TalkTo11.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "Hey, Remy! Got a moment?",
+      "cz": "Hej, Remy! Máš chvilku?",
+      "source": "pre_existing",
+      "original_cz": "Hej, Remy! Máš chvilku?"
+    },
+    {
+      "key": "Remy_001_f",
+      "en": "Sure, I'm on a break right now. What's up?",
+      "cz": "Jasně, mám teď pauzu. Co se děje?",
+      "source": "pre_existing",
+      "original_cz": "Jasně, mám teď pauzu. Co se děje?"
+    },
+    {
+      "key": "Remy_002_f",
+      "en": "I heard there was culinary experimentation going on today...",
+      "cz": "Slyšel jsem, že se dneska konají kulinářské experimenty...",
+      "source": "pre_existing",
+      "original_cz": "Slyšel jsem, že se dneska konají kulinářské experimenty..."
+    },
+    {
+      "key": "Remy_005_f",
+      "en": "That's because I found the strangest thing — a word growing in a berry bush! I gave it a sniff, so I knew it wasn't poisonous.",
+      "cz": "To proto, že jsem našel tu nejpodivnější věc – slovo rostoucí v bobulovém keři! Přičichl jsem k němu, takže jsem věděl, že není jedovaté.",
+      "source": "pre_existing",
+      "original_cz": "To proto, že jsem našel tu nejpodivnější věc – slovo rostoucí v bobulovém keři! Přičichl jsem k němu, takže jsem věděl, že není jedovaté."
+    },
+    {
+      "key": "Remy_007_f",
+      "en": "It smelled amazing! That's why I infused some oil with the word, and I've been using it to finish dishes.",
+      "cz": "Vonělo to úžasně! Proto jsem do toho slova přidala trochu oleje a používám ho na dočištění nádobí.",
+      "source": "pre_existing",
+      "original_cz": "Vonělo to úžasně! Proto jsem do toho slova přidala trochu oleje a používám ho na dočištění nádobí."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "How'd it taste?",
+      "cz": "Jak to chutnalo?",
+      "source": "pre_existing",
+      "original_cz": "Jak to chutnalo?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "That's our word!",
+      "cz": "To je naše slovo!",
+      "source": "pre_existing",
+      "original_cz": "To je naše slovo!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Why am I not surprised that you'd try to cook with it.",
+      "cz": "Proč mě nepřekvapuje, že se s tím snažíš vařit?",
+      "source": "pre_existing",
+      "original_cz": "Proč mě nepřekvapuje, že se s tím snažíš vařit?"
+    },
+    {
+      "key": "Remy_008_f",
+      "en": "Well, the word is \"verdant,\" and it imparted this incredible green color and fresh herb taste to the oil!",
+      "cz": "No, slovo je „zelenavý“ a ono oleji dodalo tu neuvěřitelnou zelenou barvu a svěží bylinkovou chuť!",
+      "source": "pre_existing",
+      "original_cz": "No, slovo je „zelenavý“ a ono oleji dodalo tu neuvěřitelnou zelenou barvu a svěží bylinkovou chuť!"
+    },
+    {
+      "key": "Remy_011_f",
+      "en": "Here, why don't you take it. I think I have all the infused oil I need for now.",
+      "cz": "Tady, proč si to nevezmeš? Myslím, že mám prozatím všechen napuštěný olej, který potřebuji.",
+      "source": "pre_existing",
+      "original_cz": "Tady, proč si to nevezmeš? Myslím, že mám prozatím všechen napuštěný olej, který potřebuji."
+    },
+    {
+      "key": "Remy_012_f",
+      "en": "Thanks, Remy! There's one last adjective we need to find now. Any idea where it went?",
+      "cz": "Díky, Remy! Teď už musíme najít poslední přídavné jméno. Máš tušení, kam se podělo?",
+      "source": "pre_existing",
+      "original_cz": "Díky, Remy! Teď už musíme najít poslední přídavné jméno. Máš tušení, kam se podělo?"
+    },
+    {
+      "key": "Remy_013_f",
+      "en": "Actually, yeah. Mickey was just at Chez Remy's. He was curious about what I was cooking, so I gave him the other adjective. I'd <Lore>check his House</Lore>.",
+      "cz": "Vlastně jo. Mickey byl zrovna u Remyho. Zajímalo ho, co vařím, tak jsem mu dala to druhé přídavné jméno. <Lore>Zkontroluju jeho dům</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Vlastně jo. Mickey byl zrovna u Remyho. Zajímalo ho, co vařím, tak jsem mu dala to druhé přídavné jméno. <Lore>Zkontroluju jeho dům</Lore>."
+    },
+    {
+      "key": "Remy_014_f",
+      "en": "Will do. Thanks, Remy!",
+      "cz": "Udělám. Díky, Remy!",
+      "source": "pre_existing",
+      "original_cz": "Udělám. Díky, Remy!"
+    },
+    {
+      "key": "Remy_009_f",
+      "en": "Okay. Someday, you'll have to explain to me why it was growing on a berry bush.",
+      "cz": "Dobře. Jednou mi budeš muset vysvětlit, proč to rostlo na bobulovém keři.",
+      "source": "pre_existing",
+      "original_cz": "Dobře. Jednou mi budeš muset vysvětlit, proč to rostlo na bobulovém keři."
+    },
+    {
+      "key": "Remy_010_f",
+      "en": "You have to experiment to grow as a chef!",
+      "cz": "Abyste se zlepšili jako kuchař, musíte experimentovat!",
+      "source": "pre_existing",
+      "original_cz": "Abyste se zlepšili jako kuchař, musíte experimentovat!"
+    },
+    {
+      "key": "Remy_003_f",
+      "en": "I'm helping Alice track down some adjectives that escaped from one of Merlin's books. You haven't seen any strange animated words on a berry bush, have you?",
+      "cz": "Pomáhám Alici vystopovat pár přídavných jmen, která unikla z jedné z Merlinových knih. Neviděl jsi snad nějaká divná animovaná slova na bobulovém keři?",
+      "source": "pre_existing",
+      "original_cz": "Pomáhám Alici vystopovat pár přídavných jmen, která unikla z jedné z Merlinových knih. Neviděl jsi snad nějaká divná animovaná slova na bobulovém keři?"
+    },
+    {
+      "key": "Remy_004_f",
+      "en": "Actually, I have!",
+      "cz": "Vlastně ano!",
+      "source": "pre_existing",
+      "original_cz": "Vlastně ano!"
+    },
+    {
+      "key": "Remy_006_f",
+      "en": "I found a Magical Word growing next to the berries! It was the strangest thing. After a quick sniff, I knew it was safe to eat.",
+      "cz": "Našla jsem vedle bobulí rostoucí Magické slovo! Byla to ta nejpodivnější věc. Po rychlém přičichnutí jsem věděla, že je bezpečné ho jíst.",
+      "source": "pre_existing",
+      "original_cz": "Našla jsem vedle bobulí rostoucí Magické slovo! Byla to ta nejpodivnější věc. Po rychlém přičichnutí jsem věděla, že je bezpečné ho jíst."
+    }
+  ],
+  "Alice_Remy/Remy_VLG_Alic_040_VLG_Alic_040_TalkTo01.locbin": [
+    {
+      "key": "Remy_003_f",
+      "en": "{PlayerName}! What brings you by?",
+      "cz": "{PlayerName}! Co tě sem přivádí?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}! Co tě sem přivádí?"
+    },
+    {
+      "key": "Remy_004_f",
+      "en": "Well, to begin, I have a question for you! Is it your birthday today?",
+      "cz": "Tak, hned na začátek mám na tebe otázku! Máš dnes narozeniny?",
+      "source": "pre_existing",
+      "original_cz": "Tak, hned na začátek mám na tebe otázku! Máš dnes narozeniny?"
+    },
+    {
+      "key": "Remy_005_f",
+      "en": "My birthday? No, I don't think so. That's more of a human thing. Rats aren't big on calendars.",
+      "cz": "Moje narozeniny? Ne, to si nemyslím. To je spíš lidská věc. Krysy se v kalendářích moc nehrají.",
+      "source": "pre_existing",
+      "original_cz": "Moje narozeniny? Ne, to si nemyslím. To je spíš lidská věc. Krysy se v kalendářích moc nehrají."
+    },
+    {
+      "key": "Remy_006_f",
+      "en": "Well then, happy unbirthday!",
+      "cz": "Tak tedy všechno nejlepší k nenarozeninám!",
+      "source": "pre_existing",
+      "original_cz": "Tak tedy všechno nejlepší k nenarozeninám!"
+    },
+    {
+      "key": "Remy_007_f",
+      "en": "Unbirthday?! What's that?",
+      "cz": "Nenarozeniny?! Co to je?",
+      "source": "pre_existing",
+      "original_cz": "Nenarozeniny?! Co to je?"
+    },
+    {
+      "key": "Remy_008_f",
+      "en": "It's a Wonderland celebration that Alice is trying to share with the Valley.",
+      "cz": "Je to oslava Říše divů, kterou se Alice snaží sdílet s Údolím.",
+      "source": "pre_existing",
+      "original_cz": "Je to oslava Říše divů, kterou se Alice snaží sdílet s Údolím."
+    },
+    {
+      "key": "Remy_009_f",
+      "en": "It's similar to a birthday celebration, only it occurs on days that <i>aren't</i> your birthday.",
+      "cz": "Je to podobné oslavě narozenin, jen se koná ve dnech, které <i>není</i> vaším dnem narozenin.",
+      "source": "pre_existing",
+      "original_cz": "Je to podobné oslavě narozenin, jen se koná ve dnech, které <i>není</i> vaším dnem narozenin."
+    },
+    {
+      "key": "Remy_010_f",
+      "en": "Okay. Interesting...",
+      "cz": "Dobře. Zajímavé...",
+      "source": "pre_existing",
+      "original_cz": "Dobře. Zajímavé..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Right?!",
+      "cz": "Právo?!",
+      "source": "pre_existing",
+      "original_cz": "Právo?!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "You're allowed to find it weird.",
+      "cz": "Můžeš si to připadat divné.",
+      "source": "pre_existing",
+      "original_cz": "Můžeš si to připadat divné."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "It'll be the most frequently celebrated day...",
+      "cz": "Bude to nejčastěji oslavovaný den...",
+      "source": "pre_existing",
+      "original_cz": "Bude to nejčastěji oslavovaný den..."
+    },
+    {
+      "key": "Remy_011_f",
+      "en": "So, is an unbirthday celebrated similarly to a regular birthday?",
+      "cz": "Takže se nenarozeniny slaví podobně jako běžné narozeniny?",
+      "source": "pre_existing",
+      "original_cz": "Takže se nenarozeniny slaví podobně jako běžné narozeniny?"
+    },
+    {
+      "key": "Remy_014_f",
+      "en": "Actually, that brings me to my next question!",
+      "cz": "Vlastně, to mě přivádí k mé další otázce!",
+      "source": "pre_existing",
+      "original_cz": "Vlastně, to mě přivádí k mé další otázce!"
+    },
+    {
+      "key": "Remy_016_f",
+      "en": "What can you tell me about making birthday (or unbirthday) cakes?",
+      "cz": "Co mi můžete říct o pečení narozeninových (nebo nenarozeninových) dortů?",
+      "source": "pre_existing",
+      "original_cz": "Co mi můžete říct o pečení narozeninových (nebo nenarozeninových) dortů?"
+    },
+    {
+      "key": "Remy_017_f",
+      "en": "Well, a basic cake can be made with eggs, wheat, and milk... but if you want to have fun with it, I'd suggest adding some festive flavors and making multiple layers.",
+      "cz": "No, základní dort se dá upéct z vajec, pšenice a mléka... ale pokud si s ním chcete užít trochu zábavy, doporučuji přidat trochu slavnostních chutí a udělat více vrstev.",
+      "source": "pre_existing",
+      "original_cz": "No, základní dort se dá upéct z vajec, pšenice a mléka... ale pokud si s ním chcete užít trochu zábavy, doporučuji přidat trochu slavnostních chutí a udělat více vrstev."
+    },
+    {
+      "key": "Remy_018_f",
+      "en": "Oh, something like <Lore>blueberry, banana, or raspberry</Lore>?",
+      "cz": "Něco jako <Lore>borůvka, banán nebo malina</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "Něco jako <Lore>borůvka, banán nebo malina</Lore>?"
+    },
+    {
+      "key": "Remy_019_f",
+      "en": "Exactly! And actually — here, a little unbirthday gift for you!",
+      "cz": "Přesně tak! A vlastně – tady je malý nenarozeninový dárek pro vás!",
+      "source": "pre_existing",
+      "original_cz": "Přesně tak! A vlastně – tady je malý nenarozeninový dárek pro vás!"
+    },
+    {
+      "key": "Remy_020_f",
+      "en": "Funny thing — today IS my birthday.",
+      "cz": "Zajímavé je, že dnes mám JEN narozeniny.",
+      "source": "pre_existing",
+      "original_cz": "Zajímavé je, že dnes mám JEN narozeniny."
+    },
+    {
+      "key": "Remy_021_f",
+      "en": "Really? Happy birthday, {PlayerName}! And, consider that a birthday gift.",
+      "cz": "Vážně? Všechno nejlepší k narozeninám, {PlayerName}! A to ber jako narozeninový dárek.",
+      "source": "pre_existing",
+      "original_cz": "Vážně? Všechno nejlepší k narozeninám, {PlayerName}! A to ber jako narozeninový dárek."
+    },
+    {
+      "key": "Remy_022_f",
+      "en": "The <ActivityItem>Cake Icing</ActivityItem> will let you have fun with the cake decoration, and you'll need the sugar for the cake layers.",
+      "cz": "<ActivityItem>Poleva na dort</ActivityItem> vám umožní si užít zábavu s zdobením dortu a cukr budete potřebovat na vrstvy dortu.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Poleva na dort</ActivityItem> vám umožní si užít zábavu s zdobením dortu a cukr budete potřebovat na vrstvy dortu."
+    },
+    {
+      "key": "Remy_023_f",
+      "en": "Wow, thanks, Remy!",
+      "cz": "Páni, díky, Remy!",
+      "source": "pre_existing",
+      "original_cz": "Páni, díky, Remy!"
+    },
+    {
+      "key": "Remy_012_f",
+      "en": "I'll admit it's a little unusual, but there's nothing wrong with that!",
+      "cz": "Přiznávám, že je to trochu neobvyklé, ale na tom není nic špatného!",
+      "source": "pre_existing",
+      "original_cz": "Přiznávám, že je to trochu neobvyklé, ale na tom není nic špatného!"
+    },
+    {
+      "key": "Remy_013_f",
+      "en": "Works for me! Especially if it means more visits to Chez Remy's for unbirthday meals.",
+      "cz": "Pro mě to funguje! Zvlášť pokud to znamená více návštěv Chez Remy's na nenarozeninová jídla.",
+      "source": "pre_existing",
+      "original_cz": "Pro mě to funguje! Zvlášť pokud to znamená více návštěv Chez Remy's na nenarozeninová jídla."
+    }
+  ],
+  "Alice_Remy/Remy_VLG_Ches_020_VLG_Ches_020_TalkTo01.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "Hi, Remy! I'd like to invite you to a party!",
+      "cz": "Ahoj, Remy! Rád bych tě pozval na večírek!",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, Remy! Rád bych tě pozval na večírek!"
+    },
+    {
+      "key": "Remy_001_f",
+      "en": "Thanks, {PlayerName}! What kind of party?",
+      "cz": "Díky, {PlayerName}! Jaká párty?",
+      "source": "pre_existing",
+      "original_cz": "Díky, {PlayerName}! Jaká párty?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "A Nonsense Party!",
+      "cz": "Nesmyslná párty!",
+      "source": "pre_existing",
+      "original_cz": "Nesmyslná párty!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "A really fun, totally normal one!",
+      "cz": "Opravdu zábavná, úplně normální věc!",
+      "source": "pre_existing",
+      "original_cz": "Opravdu zábavná, úplně normální věc!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Honestly, I'm not even sure.",
+      "cz": "Upřímně, ani si nejsem jistý.",
+      "source": "pre_existing",
+      "original_cz": "Upřímně, ani si nejsem jistý."
+    },
+    {
+      "key": "Remy_002_f",
+      "en": "What does that mean, exactly?",
+      "cz": "Co to přesně znamená?",
+      "source": "pre_existing",
+      "original_cz": "Co to přesně znamená?"
+    },
+    {
+      "key": "Remy_005_f",
+      "en": "It's a tradition the Cheshire Cat made up.",
+      "cz": "Je to tradice, kterou si vymyslela kočka Cheshire.",
+      "source": "pre_existing",
+      "original_cz": "Je to tradice, kterou si vymyslela kočka Cheshire."
+    },
+    {
+      "key": "Remy_009_f",
+      "en": "The Cheshire Cat? Isn't he the one who made a mess in my restaurant?",
+      "cz": "Kocour z Cheshire? Není to on, kdo udělal nepořádek v mé restauraci?",
+      "source": "pre_existing",
+      "original_cz": "Kocour z Cheshire? Není to on, kdo udělal nepořádek v mé restauraci?"
+    },
+    {
+      "key": "Remy_010_f",
+      "en": "He wants to make amends!",
+      "cz": "Chce to napravit!",
+      "source": "pre_existing",
+      "original_cz": "Chce to napravit!"
+    },
+    {
+      "key": "Remy_011_f",
+      "en": "And we made a few new recipes for the party. I bet the Cheshire Cat would love to know what you think.",
+      "cz": "A na večírek jsme připravili pár nových receptů. Vsadím se, že kočka Cheshire by ráda věděla, co si o tom myslíte.",
+      "source": "pre_existing",
+      "original_cz": "A na večírek jsme připravili pár nových receptů. Vsadím se, že kočka Cheshire by ráda věděla, co si o tom myslíte."
+    },
+    {
+      "key": "Remy_012_f",
+      "en": "Sure. I can't say no to experimental cuisine. I'll be there!",
+      "cz": "Jasně. Experimentální kuchyni nemůžu říct ne. Budu tam!",
+      "source": "pre_existing",
+      "original_cz": "Jasně. Experimentální kuchyni nemůžu říct ne. Budu tam!"
+    },
+    {
+      "key": "Remy_003_f",
+      "en": "And when you say \"totally normal,\" you mean...?",
+      "cz": "A když říkáš „úplně normální“, myslíš tím...?",
+      "source": "pre_existing",
+      "original_cz": "A když říkáš „úplně normální“, myslíš tím...?"
+    },
+    {
+      "key": "Remy_006_f",
+      "en": "Well, it's a party the Cheshire Cat and I are putting together.",
+      "cz": "No, je to večírek, který pořádáme já a kocour Cheshire.",
+      "source": "pre_existing",
+      "original_cz": "No, je to večírek, který pořádáme já a kocour Cheshire."
+    },
+    {
+      "key": "Remy_007_f",
+      "en": "This is the same Cheshire Cat who made a mess in my restaurant, right?",
+      "cz": "To je přece ten samý kocour Cheshire, co udělal nepořádek v mé restauraci, že?",
+      "source": "pre_existing",
+      "original_cz": "To je přece ten samý kocour Cheshire, co udělal nepořádek v mé restauraci, že?"
+    },
+    {
+      "key": "Remy_004_f",
+      "en": "What do you mean?",
+      "cz": "Co tím myslíš?",
+      "source": "pre_existing",
+      "original_cz": "Co tím myslíš?"
+    },
+    {
+      "key": "Remy_008_f",
+      "en": "Well, it's a party the Cheshire Cat and I are putting together.",
+      "cz": "No, je to večírek, který pořádáme já a kocour Cheshire.",
+      "source": "pre_existing",
+      "original_cz": "No, je to večírek, který pořádáme já a kocour Cheshire."
+    }
+  ],
+  "Alice_Remy/Remy_VLG_Ches_020_VLG_Ches_020_TalkTo06.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "So what did you think of the Nonsense Party?",
+      "cz": "Tak co sis myslel/a o té Nonsense Party?",
+      "source": "pre_existing",
+      "original_cz": "Tak co sis myslel/a o té Nonsense Party?"
+    },
+    {
+      "key": "Remy_001_f",
+      "en": "The food was definitely... interesting...",
+      "cz": "Jídlo bylo rozhodně... zajímavé...",
+      "source": "pre_existing",
+      "original_cz": "Jídlo bylo rozhodně... zajímavé..."
+    },
+    {
+      "key": "Remy_002_f",
+      "en": "But I totally applaud the creativity that went into the dishes!",
+      "cz": "Ale naprosto tleskám kreativitě, která se do toho nádobí vložila!",
+      "source": "pre_existing",
+      "original_cz": "Ale naprosto tleskám kreativitě, která se do toho nádobí vložila!"
+    },
+    {
+      "key": "Remy_003_f",
+      "en": "Oh! Well, I'm glad you had a good time!",
+      "cz": "No, to jsem ráda, že sis to užila!",
+      "source": "pre_existing",
+      "original_cz": "No, to jsem ráda, že sis to užila!"
+    },
+    {
+      "key": "Remy_004_f",
+      "en": "It's like Gusteau said, \"Anyone can cook!\"",
+      "cz": "Je to jak řekl Gusteau: „Vařit umí každý!“",
+      "source": "pre_existing",
+      "original_cz": "Je to jak řekl Gusteau: „Vařit umí každý!“"
+    }
+  ],
+  "Alice_Remy/SEC_Remy_030.locbin": [
+    {
+      "key": "Secret!Ratatouille!Remy!SEC_Remy_030_Any_CompletedRequestDescription",
+      "en": "Talk to Remy.",
+      "cz": "Promluv si s Remym.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Remym."
+    },
+    {
+      "key": "Secret!Ratatouille!Remy!SEC_Remy_030_AvailableDescription",
+      "en": "Remy is having a problem in his restaurant. You should go check on him and see if he needs help.",
+      "cz": "Remy má ve své restauraci problém. Měl bys ho jít zkontrolovat a zjistit, jestli nepotřebuje pomoc.",
+      "source": "pre_existing",
+      "original_cz": "Remy má ve své restauraci problém. Měl bys ho jít zkontrolovat a zjistit, jestli nepotřebuje pomoc."
+    },
+    {
+      "key": "Secret!Ratatouille!Remy!SEC_Remy_030_DisplayName",
+      "en": "Chaos in the Kitchen",
+      "cz": "Chaos v kuchyni",
+      "source": "pre_existing",
+      "original_cz": "Chaos v kuchyni"
+    },
+    {
+      "key": "Secret!Ratatouille!Remy!SEC_Remy_030_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluvte si s {TargetNPC}.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s {TargetNPC}."
+    },
+    {
+      "key": "Secret!Ratatouille!Remy!SEC_Remy_030_Group02_StepDescription",
+      "en": "Clear Remy's Restaurant of the Cheshire Cat's messes.",
+      "cz": "Zbavte restauraci Remyho nepořádku po kočičím šílencovi.",
+      "source": "pre_existing",
+      "original_cz": "Zbavte restauraci Remyho nepořádku po kočičím šílencovi."
+    },
+    {
+      "key": "Secret!Ratatouille!Remy!SEC_Remy_030_Group02_StoryDescription",
+      "en": "Paw prints all around the restaurant? This must be the Cheshire Cat again!",
+      "cz": "Otisky tlapek všude po restauraci? To musí být zase kocour z Cheshire!",
+      "source": "pre_existing",
+      "original_cz": "Otisky tlapek všude po restauraci? To musí být zase kocour z Cheshire!"
+    },
+    {
+      "key": "Secret!Ratatouille!Remy!SEC_Remy_030_Group03_Step03_Possess01_StepDescription",
+      "en": "Pick up the item that appeared in Remy's Restaurant.",
+      "cz": "Seberte předmět, který se objevil v Remyho restauraci.",
+      "source": "pre_existing",
+      "original_cz": "Seberte předmět, který se objevil v Remyho restauraci."
+    },
+    {
+      "key": "Secret!Ratatouille!Remy!SEC_Remy_030_Group04_Step04_Unlock01_StepDescription",
+      "en": "Use the new recipe in your Inventory.",
+      "cz": "Použijte nový recept ve svém inventáři.",
+      "source": "pre_existing",
+      "original_cz": "Použijte nový recept ve svém inventáři."
+    },
+    {
+      "key": "Secret!Ratatouille!Remy!SEC_Remy_030_Group05_Step05_CookMeal01_StepDescription",
+      "en": "Cook the new Cheshire Cat Tail dessert.",
+      "cz": "Uvařte si nový dezert s kočičím ocasem.",
+      "source": "pre_existing",
+      "original_cz": "Uvařte si nový dezert s kočičím ocasem."
+    },
+    {
+      "key": "Secret!Ratatouille!Remy!SEC_Remy_030_Group06_Step06_BringItem01_StepDescription",
+      "en": "{itemName}.",
+      "cz": "{itemName}.",
+      "source": "pre_existing",
+      "original_cz": "{itemName}."
+    },
+    {
+      "key": "Secret!Ratatouille!Remy!SEC_Remy_030_Group06_Step06_ReadyDescription",
+      "en": "Bring the {itemName} to {TargetNPC} in his restaurant.",
+      "cz": "Přineste {itemName} {TargetNPC} do jeho restaurace.",
+      "source": "pre_existing",
+      "original_cz": "Přineste {itemName} {TargetNPC} do jeho restaurace."
+    },
+    {
+      "key": "Secret!Ratatouille!Remy!SEC_Remy_030_Group06_Step06_StepDescription",
+      "en": "Make sure you have {itemName} in your Inventory.",
+      "cz": "Ujistěte se, že máte v inventáři {itemName}.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte v inventáři {itemName}."
+    },
+    {
+      "key": "Secret!Ratatouille!Remy!SEC_Remy_030_Group06_StoryDescription",
+      "en": "The Cheshire Cat left a delicious-looking new recipe for you to try! You'll need to tell Remy and see if there are any other weird things happening in the restaurant.",
+      "cz": "Kocour z Cheshire ti nechal nový, lahodně vypadající recept, který můžeš vyzkoušet! Budeš to muset říct Remymu a zjistit, jestli se v restauraci nedějí nějaké další divné věci.",
+      "source": "pre_existing",
+      "original_cz": "Kocour z Cheshire ti nechal nový, lahodně vypadající recept, který můžeš vyzkoušet! Budeš to muset říct Remymu a zjistit, jestli se v restauraci nedějí nějaké další divné věci."
+    },
+    {
+      "key": "Secret!Ratatouille!Remy!SEC_Remy_030_Group07_Step07_VisitArea01_StepDescription",
+      "en": "Return to Dreamlight Valley.",
+      "cz": "Návrat do Údolí snů.",
+      "source": "pre_existing",
+      "original_cz": "Návrat do Údolí snů."
+    },
+    {
+      "key": "Secret!Ratatouille!Remy!SEC_Remy_030_Group08_Step08_StepDescription",
+      "en": "Clean up the Cheshire Cat's messes around Remy's Restaurant.",
+      "cz": "Ukliď nepořádek po kocourkovi Cheshire kolem restaurace Remy's.",
+      "source": "pre_existing",
+      "original_cz": "Ukliď nepořádek po kocourkovi Cheshire kolem restaurace Remy's."
+    },
+    {
+      "key": "Secret!Ratatouille!Remy!SEC_Remy_030_Group09_Step09_StepDescription",
+      "en": "Go back inside Remy's Restaurant.",
+      "cz": "Vraťte se do restaurace Remy's.",
+      "source": "pre_existing",
+      "original_cz": "Vraťte se do restaurace Remy's."
+    },
+    {
+      "key": "Secret!Ratatouille!Remy!SEC_Remy_030_Group09_StoryDescription",
+      "en": "Oh dear... the Cheshire Cat made even more of a mess around the restaurant! You'll need to clean that up and head back inside to chat with Remy.",
+      "cz": "Ach jo... kocour Cheshire nadělal v restauraci ještě větší nepořádek! Budeš to muset uklidit a vrátit se dovnitř, abys si popovídal s Remym.",
+      "source": "pre_existing",
+      "original_cz": "Ach jo... kocour Cheshire nadělal v restauraci ještě větší nepořádek! Budeš to muset uklidit a vrátit se dovnitř, abys si popovídal s Remym."
+    },
+    {
+      "key": "Secret!Ratatouille!Remy!SEC_Remy_030_Group10_Step10_StepDescription",
+      "en": "The Cheshire Cat? What is he doing here?",
+      "cz": "Kocour z Cheshire? Co tady dělá?",
+      "source": "pre_existing",
+      "original_cz": "Kocour z Cheshire? Co tady dělá?"
+    },
+    {
+      "key": "Secret!Ratatouille!Remy!SEC_Remy_030_Group10_Step10_TalkToCharacter02_StepDescription",
+      "en": "Talk to the Cheshire Cat in Remy's Restaurant.",
+      "cz": "Promluvte si s kočkou Cheshire v restauraci Remy's.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s kočkou Cheshire v restauraci Remy's."
+    }
+  ]
+}

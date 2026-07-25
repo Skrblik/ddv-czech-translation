@@ -1,0 +1,608 @@
+{
+  "MonstersInc_Ursula/Ursula_VLG_Sull_010_VLG_Sull_010_TalkTo05.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Ah, angelfish, what can I do for you today?",
+      "cz": "Ach, anděle rybko, co pro tebe můžu dnes udělat?",
+      "source": "pre_existing",
+      "original_cz": "Ach, anděle rybko, co pro tebe můžu dnes udělat?"
+    },
+    {
+      "key": "Ursula_006_f",
+      "en": "You don't have a <ActivityItem>Videotape</ActivityItem>?",
+      "cz": "Nemáte <ActivityItem>videokazetu</ActivityItem>?",
+      "source": "pre_existing",
+      "original_cz": "Nemáte <ActivityItem>videokazetu</ActivityItem>?"
+    },
+    {
+      "key": "Ursula_007_f",
+      "en": "Oh, I do. But it's not anything that hirsute do-gooder and his one-eyed friend will want.",
+      "cz": "Ach, to ano. Ale není to nic, co by si chlupatý dobrodinec a jeho jednooký kamarád přáli.",
+      "source": "pre_existing",
+      "original_cz": "Ach, to ano. Ale není to nic, co by si chlupatý dobrodinec a jeho jednooký kamarád přáli."
+    },
+    {
+      "key": "Player_000_f",
+      "en": "Seems like a sensitive topic...",
+      "cz": "Zdá se to jako citlivé téma...",
+      "source": "pre_existing",
+      "original_cz": "Zdá se to jako citlivé téma..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "So, I'll leave it alone.",
+      "cz": "Takže to nechám být.",
+      "source": "pre_existing",
+      "original_cz": "Takže to nechám být."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "But how can you be sure?",
+      "cz": "Ale jak si tím můžete být jistý?",
+      "source": "pre_existing",
+      "original_cz": "Ale jak si tím můžete být jistý?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Now I need to know everything.",
+      "cz": "Teď potřebuji vědět všechno.",
+      "source": "pre_existing",
+      "original_cz": "Teď potřebuji vědět všechno."
+    },
+    {
+      "key": "Ursula_002_f",
+      "en": "Sulley is trying to revive Monster Movie Night and—",
+      "cz": "Sulley se snaží oživit Monster Movie Night a—",
+      "source": "pre_existing",
+      "original_cz": "Sulley se snaží oživit Monster Movie Night a—"
+    },
+    {
+      "key": "Ursula_003_f",
+      "en": "Stop right there! If he wants to make a deal for me to create something for the event, he'll have to ask me himself.",
+      "cz": "Přestaňte! Pokud se mnou chce uzavřít dohodu o vytvoření něčeho pro akci, bude se mě muset zeptat sám.",
+      "source": "pre_existing",
+      "original_cz": "Přestaňte! Pokud se mnou chce uzavřít dohodu o vytvoření něčeho pro akci, bude se mě muset zeptat sám."
+    },
+    {
+      "key": "Ursula_001_f",
+      "en": "No he— you know what, Ursula? I'm surprised you even know what it is.",
+      "cz": "Ne, on— víš co, Ursulo? Překvapuje mě, že vůbec víš, co to je.",
+      "source": "pre_existing",
+      "original_cz": "Ne, on— víš co, Ursulo? Překvapuje mě, že vůbec víš, co to je."
+    },
+    {
+      "key": "Ursula_017_f",
+      "en": "Oh, I learned all about this \"movie\" nonsense during my previous time here in the Valley. Some Villagers are very fond of such a silly pastime.",
+      "cz": "Ach, o tomhle „filmovém“ nesmyslu jsem se dozvěděla už během mého předchozího pobytu tady v Údolí. Někteří vesničané si takovou hloupou zábavu velmi oblíbili.",
+      "source": "pre_existing",
+      "original_cz": "Ach, o tomhle „filmovém“ nesmyslu jsem se dozvěděla už během mého předchozího pobytu tady v Údolí. Někteří vesničané si takovou hloupou zábavu velmi oblíbili."
+    },
+    {
+      "key": "Ursula_018_f",
+      "en": "I didn't think much of it until I realized it could provide marvelous insights into the desires and needs of you surface dwellers.",
+      "cz": "Moc jsem o tom nepřemýšlela, dokud jsem si neuvědomila, že by to mohlo poskytnout úžasný vhled do přání a potřeb vás, obyvatel povrchu.",
+      "source": "pre_existing",
+      "original_cz": "Moc jsem o tom nepřemýšlela, dokud jsem si neuvědomila, že by to mohlo poskytnout úžasný vhled do přání a potřeb vás, obyvatel povrchu."
+    },
+    {
+      "key": "Ursula_019_f",
+      "en": "So I bargained with Scrooge for the proper equipment and studied his videotapes.",
+      "cz": "Tak jsem smlouvala se Scroogem o správné vybavení a prostudovala si jeho videokazety.",
+      "source": "pre_existing",
+      "original_cz": "Tak jsem smlouvala se Scroogem o správné vybavení a prostudovala si jeho videokazety."
+    },
+    {
+      "key": "Ursula_004_f",
+      "en": "Maybe you can help. We're looking for a <ActivityItem>Videotape</ActivityItem> of a movie that would be perfect for the relaunch. Scrooge thinks you might have it. \"20,000 Giant Arachnids Under the Bed\"?",
+      "cz": "Možná nám můžete pomoci. Hledáme <ActivityItem>videokazetu</ActivityItem> filmu, která by se perfektně hodila k opětovnému uvedení. Scrooge si myslí, že ji máte. „20 000 obřích pavoukovců pod postelí“?",
+      "source": "pre_existing",
+      "original_cz": "Možná nám můžete pomoci. Hledáme <ActivityItem>videokazetu</ActivityItem> filmu, která by se perfektně hodila k opětovnému uvedení. Scrooge si myslí, že ji máte. „20 000 obřích pavoukovců pod postelí“?"
+    },
+    {
+      "key": "Ursula_005_f",
+      "en": "Sorry, but I don't have what you're looking for.",
+      "cz": "Je mi líto, ale nemám to, co hledáte.",
+      "source": "pre_existing",
+      "original_cz": "Je mi líto, ale nemám to, co hledáte."
+    },
+    {
+      "key": "Ursula_008_f",
+      "en": "Smart thinking, dearie. However, since you're respecting my privacy, I'll tell you what this movie's about. Because I know you'd NEVER tell another soul.",
+      "cz": "Chytrá úvaha, drahoušku. Nicméně, protože respektuješ mé soukromí, řeknu ti, o čem tenhle film je. Protože vím, že bys to NIKDY nikomu jinému neřekla.",
+      "source": "pre_existing",
+      "original_cz": "Chytrá úvaha, drahoušku. Nicméně, protože respektuješ mé soukromí, řeknu ti, o čem tenhle film je. Protože vím, že bys to NIKDY nikomu jinému neřekla."
+    },
+    {
+      "key": "Ursula_013_f",
+      "en": "It's... Well, it's a love story between two humans. No monsters in it. It's called \"The Prince's Secret Pirate Romance.\"",
+      "cz": "Je to... No, je to milostný příběh mezi dvěma lidmi. Žádné příšery v něm nejsou. Jmenuje se „Princův tajný pirátský románek“.",
+      "source": "pre_existing",
+      "original_cz": "Je to... No, je to milostný příběh mezi dvěma lidmi. Žádné příšery v něm nejsou. Jmenuje se „Princův tajný pirátský románek“."
+    },
+    {
+      "key": "Ursula_014_f",
+      "en": "You like... watching rom-coms?",
+      "cz": "Ráda... sleduješ romantické komedie?",
+      "source": "pre_existing",
+      "original_cz": "Ráda... sleduješ romantické komedie?"
+    },
+    {
+      "key": "Ursula_015_f",
+      "en": "Bite your tongue! I don't LIKE them. I STUDY them to know what humans want...",
+      "cz": "Kousni si do jazyka! Nemám je ráda. STUDUJI je, abych věděla, co lidé chtějí...",
+      "source": "pre_existing",
+      "original_cz": "Kousni si do jazyka! Nemám je ráda. STUDUJI je, abych věděla, co lidé chtějí..."
+    },
+    {
+      "key": "Ursula_016_f",
+      "en": "All right... I don't think you have what I'm looking for. I'll leave you to your \"studies.\"",
+      "cz": "Dobře... Myslím, že nemáš to, co hledám. Nechám tě tvému ​​„studiu“.",
+      "source": "pre_existing",
+      "original_cz": "Dobře... Myslím, že nemáš to, co hledám. Nechám tě tvému ​​„studiu“."
+    },
+    {
+      "key": "Ursula_009_f",
+      "en": "Because it's a love story between two humans. No monsters in it. It's called \"The Prince's Secret Pirate Romance.\"",
+      "cz": "Protože je to milostný příběh mezi dvěma lidmi. Žádné příšery v něm nejsou. Jmenuje se „Princův tajný pirátský románek“.",
+      "source": "pre_existing",
+      "original_cz": "Protože je to milostný příběh mezi dvěma lidmi. Žádné příšery v něm nejsou. Jmenuje se „Princův tajný pirátský románek“."
+    },
+    {
+      "key": "Ursula_010_f",
+      "en": "Beware, {PlayerName}. Curiosity killed the catfish.",
+      "cz": "Pozor, {PlayerName}. Zvědavost zabila sumce.",
+      "source": "pre_existing",
+      "original_cz": "Pozor, {PlayerName}. Zvědavost zabila sumce."
+    },
+    {
+      "key": "Ursula_011_f",
+      "en": "Oh, come on!",
+      "cz": "No tak!",
+      "source": "pre_existing",
+      "original_cz": "No tak!"
+    },
+    {
+      "key": "Ursula_012_f",
+      "en": "Fine! It's a love story between two humans. No monsters in it... It's called \"The Prince's Secret Pirate Romance.\"",
+      "cz": "Výborně! Je to milostný příběh mezi dvěma lidmi. Žádné příšery v něm nejsou... Jmenuje se „Princův tajný pirátský románek“.",
+      "source": "pre_existing",
+      "original_cz": "Výborně! Je to milostný příběh mezi dvěma lidmi. Žádné příšery v něm nejsou... Jmenuje se „Princův tajný pirátský románek“."
+    }
+  ],
+  "MonstersInc_Ursula/Ursula_VLG_Sull_024_Ursula_VLG_Sull_024_Ursula_BringItem01.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Thanks, angelfish. It's nice to finally have some dependable help.",
+      "cz": "Díky, angelfish. Je fajn mít konečně nějakou spolehlivou pomoc.",
+      "source": "pre_existing",
+      "original_cz": "Díky, angelfish. Je fajn mít konečně nějakou spolehlivou pomoc."
+    },
+    {
+      "key": "Ursula_002_f",
+      "en": "Now... I just need to mix each customized Ingredient with the perfume.",
+      "cz": "Teď... už jen musím smíchat každou upravenou ingredienci s parfémem.",
+      "source": "pre_existing",
+      "original_cz": "Teď... už jen musím smíchat každou upravenou ingredienci s parfémem."
+    },
+    {
+      "key": "Ursula_003_f",
+      "en": "Here...",
+      "cz": "Zde...",
+      "source": "pre_existing",
+      "original_cz": "Zde..."
+    },
+    {
+      "key": "Ursula_004_f",
+      "en": "Who should I give them to?",
+      "cz": "Komu je mám dát?",
+      "source": "pre_existing",
+      "original_cz": "Komu je mám dát?"
+    },
+    {
+      "key": "Ursula_005_f",
+      "en": "One is for that old busybody Merlin. Everyone knows how often we disagree. If it looks like I've put our quarrels behind us, everyone will see how forgiving I am.",
+      "cz": "Jedna je pro toho starého všetečného Merlina. Každý ví, jak často se neshodneme. Pokud to bude vypadat, že jsem naše hádky nechala za sebou, všichni uvidí, jak jsem shovívavá.",
+      "source": "pre_existing",
+      "original_cz": "Jedna je pro toho starého všetečného Merlina. Každý ví, jak často se neshodneme. Pokud to bude vypadat, že jsem naše hádky nechala za sebou, všichni uvidí, jak jsem shovívavá."
+    },
+    {
+      "key": "Ursula_006_f",
+      "en": "One is for Mike so he puts a good word in for me with his friend, and one is for Goofy — everyone loves that gullible fool.",
+      "cz": "Jeden je pro Mika, aby se za mě u svého kamaráda zasmál, a jeden je pro Goofyho – tohohle naivního blázna má každý rád.",
+      "source": "pre_existing",
+      "original_cz": "Jeden je pro Mika, aby se za mě u svého kamaráda zasmál, a jeden je pro Goofyho – tohohle naivního blázna má každý rád."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "That's not really genuine.",
+      "cz": "To není tak úplně upřímné.",
+      "source": "pre_existing",
+      "original_cz": "To není tak úplně upřímné."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "You thought about everything.",
+      "cz": "Myslel jsi na všechno.",
+      "source": "pre_existing",
+      "original_cz": "Myslel jsi na všechno."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I admire your resourcefulness.",
+      "cz": "Obdivuji vaši vynalézavost.",
+      "source": "pre_existing",
+      "original_cz": "Obdivuji vaši vynalézavost."
+    },
+    {
+      "key": "Ursula_007_f",
+      "en": "No one ever is, angelfish.",
+      "cz": "Nikdo nikdy není, anděle.",
+      "source": "pre_existing",
+      "original_cz": "Nikdo nikdy není, anděle."
+    },
+    {
+      "key": "Ursula_008_f",
+      "en": "Yes, dearie. That's the key to success.",
+      "cz": "Ano, drahoušku. To je klíč k úspěchu.",
+      "source": "pre_existing",
+      "original_cz": "Ano, drahoušku. To je klíč k úspěchu."
+    },
+    {
+      "key": "Ursula_009_f",
+      "en": "As you should!",
+      "cz": "Jak se patří!",
+      "source": "pre_existing",
+      "original_cz": "Jak se patří!"
+    }
+  ],
+  "MonstersInc_Ursula/Ursula_VLG_Sull_024_Ursula_VLG_Sull_024_Ursula_Ongoing01.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Gather some <ActivityItem>Seaweed</ActivityItem>, <ActivityItem>Purple Hydrangeas</ActivityItem>, <ActivityItem>Purple Rising Penstemons</ActivityItem>, and <ActivityItem>Empty Vials</ActivityItem>.",
+      "cz": "Nasbírejte nějaké <ActivityItem>mořské řasy</ActivityItem>, <ActivityItem>fialové hortenzie</ActivityItem>, <ActivityItem>fialové rostoucí penstemony</ActivityItem> a <ActivityItem>prázdné lahvičky</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Nasbírejte nějaké <ActivityItem>mořské řasy</ActivityItem>, <ActivityItem>fialové hortenzie</ActivityItem>, <ActivityItem>fialové rostoucí penstemony</ActivityItem> a <ActivityItem>prázdné lahvičky</ActivityItem>."
+    }
+  ],
+  "MonstersInc_Ursula/Ursula_VLG_Sull_024_Ursula_VLG_Sull_024_Ursula_Ongoing02.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "If you have everything, angelfish, go craft the <ActivityItem>Perfume of the Sea Enchantment</ActivityItem>.",
+      "cz": "Jestli máš všechno, anděle, jdi si vyrobit <ActivityItem>Kouzlo Mořské vůně</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Jestli máš všechno, anděle, jdi si vyrobit <ActivityItem>Kouzlo Mořské vůně</ActivityItem>."
+    }
+  ],
+  "MonstersInc_Ursula/Ursula_VLG_Sull_024_Ursula_VLG_Sull_024_Ursula_Ongoing03.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Bring the <ActivityItem>Perfume of the Sea Enchantment</ActivityItem> to me as soon as you can.",
+      "cz": "Přines mi co nejdříve <ActivityItem>Kouzlo Vůně moře</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Přines mi co nejdříve <ActivityItem>Kouzlo Vůně moře</ActivityItem>."
+    }
+  ],
+  "MonstersInc_Ursula/Ursula_VLG_Sull_024_Ursula_VLG_Sull_024_Ursula_Ongoing04.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Bring the <ActivityItem>Perfume of the Sea Enchantment</ActivityItem> to Merlin, Goofy, and that Wazowski creature.",
+      "cz": "Přineste <ActivityItem>Kouzlo Mořské vůně</ActivityItem> Merlinovi, Goofymu a tomu Wazowskému stvoření.",
+      "source": "pre_existing",
+      "original_cz": "Přineste <ActivityItem>Kouzlo Mořské vůně</ActivityItem> Merlinovi, Goofymu a tomu Wazowskému stvoření."
+    }
+  ],
+  "MonstersInc_Ursula/Ursula_VLG_Sull_024_Ursula_VLG_Sull_024_Ursula_Outro.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Thanks for your help, {PlayerName}. With my gifts sent, I only have to wait...",
+      "cz": "Děkuji za pomoc, {PlayerName}. Dárky byly odeslány, už jen musím čekat...",
+      "source": "pre_existing",
+      "original_cz": "Děkuji za pomoc, {PlayerName}. Dárky byly odeslány, už jen musím čekat..."
+    },
+    {
+      "key": "Ursula_002_f",
+      "en": "I'm sure the Villagers will be lining up to make deals with me after this.",
+      "cz": "Jsem si jistá, že se vesničané po tomhle budou setkávat ve frontě, aby se mnou uzavřeli dohodu.",
+      "source": "pre_existing",
+      "original_cz": "Jsem si jistá, že se vesničané po tomhle budou setkávat ve frontě, aby se mnou uzavřeli dohodu."
+    },
+    {
+      "key": "Ursula_003_f",
+      "en": "And I just might get a medal for my efforts, too.",
+      "cz": "A možná za své úsilí dostanu i medaili.",
+      "source": "pre_existing",
+      "original_cz": "A možná za své úsilí dostanu i medaili."
+    }
+  ],
+  "MonstersInc_Ursula/Ursula_VLG_Sull_024_Ursula_VLG_Sull_024_Ursula_TalkTo01.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Ah, angelfish, there you are! I need an assistant for Sullivan's silly little contest.",
+      "cz": "Aha, anděle rybko, tady to máš! Potřebuji asistenta pro Sullivanovu hloupou malou soutěž.",
+      "source": "pre_existing",
+      "original_cz": "Aha, anděle rybko, tady to máš! Potřebuji asistenta pro Sullivanovu hloupou malou soutěž."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm glad you want to help the community!",
+      "cz": "Jsem rád, že chcete pomoci komunitě!",
+      "source": "pre_existing",
+      "original_cz": "Jsem rád, že chcete pomoci komunitě!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'm surprised by your decision.",
+      "cz": "Jsem překvapen vaším rozhodnutím.",
+      "source": "pre_existing",
+      "original_cz": "Jsem překvapen vaším rozhodnutím."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "So what's your real endgame?",
+      "cz": "Takže jaký je tvůj skutečný cíl?",
+      "source": "pre_existing",
+      "original_cz": "Takže jaký je tvůj skutečný cíl?"
+    },
+    {
+      "key": "Ursula_002_f",
+      "en": "AH-HA-HA-HA!",
+      "cz": "AH-HA-HA-HA!",
+      "source": "pre_existing",
+      "original_cz": "AH-HA-HA-HA!"
+    },
+    {
+      "key": "Ursula_014_f",
+      "en": "I'll need 3 vials of the <ActivityItem>Perfume</ActivityItem> so I can add each Villager's special Ingredient. Bring them to me as soon as you can.",
+      "cz": "Budu potřebovat 3 lahvičky <ActivityItem>Parfému</ActivityItem>, abych mohla přidat speciální přísadu každého vesničana. Přineste mi je co nejdříve.",
+      "source": "pre_existing",
+      "original_cz": "Budu potřebovat 3 lahvičky <ActivityItem>Parfému</ActivityItem>, abych mohla přidat speciální přísadu každého vesničana. Přineste mi je co nejdříve."
+    },
+    {
+      "key": "Ursula_005_f",
+      "en": "My dear sweet child, you can be so innocent...",
+      "cz": "Mé drahé dítě, umíš být tak nevinná...",
+      "source": "pre_existing",
+      "original_cz": "Mé drahé dítě, umíš být tak nevinná..."
+    },
+    {
+      "key": "Ursula_007_f",
+      "en": "That great blue lug went around the whole Valley advertising his ridiculous contest. But if I win, it's free publicity!",
+      "cz": "Ten velký modrý pes obletěl celé údolí a propagoval svou směšnou soutěž. Ale když vyhraju, je to reklama zdarma!",
+      "source": "pre_existing",
+      "original_cz": "Ten velký modrý pes obletěl celé údolí a propagoval svou směšnou soutěž. Ale když vyhraju, je to reklama zdarma!"
+    },
+    {
+      "key": "Ursula_008_f",
+      "en": "And the only thing I have to do is impress a bunch of Villagers. It'll be like stealing candy from a baby!",
+      "cz": "A jediné, co musím udělat, je ohromit hromadu vesničanů. Bude to jako ukrást bonbón dítěti!",
+      "source": "pre_existing",
+      "original_cz": "A jediné, co musím udělat, je ohromit hromadu vesničanů. Bude to jako ukrást bonbón dítěti!"
+    },
+    {
+      "key": "Ursula_009_f",
+      "en": "Hm... What do you have in mind?",
+      "cz": "Hm... Co máš na mysli?",
+      "source": "pre_existing",
+      "original_cz": "Hm... Co máš na mysli?"
+    },
+    {
+      "key": "Ursula_010_f",
+      "en": "The perfect gift of one of my custom perfumes for a few select Villagers! I'll formulate each to smell like their favorite thing in Valley.",
+      "cz": "Perfektní dárek v podobě jednoho z mých vlastních parfémů pro pár vybraných vesničanů! Každý z nich vytvořím tak, aby voněl jako jejich oblíbená věc v údolí.",
+      "source": "pre_existing",
+      "original_cz": "Perfektní dárek v podobě jednoho z mých vlastních parfémů pro pár vybraných vesničanů! Každý z nich vytvořím tak, aby voněl jako jejich oblíbená věc v údolí."
+    },
+    {
+      "key": "Ursula_011_f",
+      "en": "I need you to procure me the <ActivityItem>Perfume</ActivityItem>, angelfish.",
+      "cz": "Potřebuji, abys mi sehnal <ActivityItem>Parfém</ActivityItem>, andělskou rybku.",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji, abys mi sehnal <ActivityItem>Parfém</ActivityItem>, andělskou rybku."
+    },
+    {
+      "key": "Ursula_012_f",
+      "en": "What exactly goes into a magic perfume, Ursula?",
+      "cz": "Ursulo, co přesně patří do kouzelného parfému?",
+      "source": "pre_existing",
+      "original_cz": "Ursulo, co přesně patří do kouzelného parfému?"
+    },
+    {
+      "key": "Ursula_013_f",
+      "en": "A few select ingredients. Gather some <ActivityItem>Seaweed</ActivityItem>, <ActivityItem>Purple Hydrangeas</ActivityItem>, <ActivityItem>Purple Rising Penstemons</ActivityItem>, and <ActivityItem>Empty Vials</ActivityItem>.",
+      "cz": "Několik vybraných ingrediencí. Nasbírejte si <ActivityItem>mořské řasy</ActivityItem>, <ActivityItem>fialové hortenzie</ActivityItem>, <ActivityItem>fialové rostoucí penstemony</ActivityItem> a <ActivityItem>prázdné lahvičky</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Několik vybraných ingrediencí. Nasbírejte si <ActivityItem>mořské řasy</ActivityItem>, <ActivityItem>fialové hortenzie</ActivityItem>, <ActivityItem>fialové rostoucí penstemony</ActivityItem> a <ActivityItem>prázdné lahvičky</ActivityItem>."
+    },
+    {
+      "key": "Ursula_003_f",
+      "en": "You shouldn't be, sweetness.",
+      "cz": "Neměla bys být, zlato.",
+      "source": "pre_existing",
+      "original_cz": "Neměla bys být, zlato."
+    },
+    {
+      "key": "Ursula_006_f",
+      "en": "I'm never one to turn down an opportunity when it floats my way.",
+      "cz": "Nikdy neodmítám příležitost, když se mi naskytne.",
+      "source": "pre_existing",
+      "original_cz": "Nikdy neodmítám příležitost, když se mi naskytne."
+    },
+    {
+      "key": "Ursula_004_f",
+      "en": "This is what I like about you, child. You're not as gullible as the other fools around here.",
+      "cz": "Tohle se mi na tobě líbí, dítě. Nejsi tak naivní jako ostatní blázni tady kolem.",
+      "source": "pre_existing",
+      "original_cz": "Tohle se mi na tobě líbí, dítě. Nejsi tak naivní jako ostatní blázni tady kolem."
+    }
+  ],
+  "MonstersInc_Ursula/VLG_Sull_024_Ursula.locbin": [
+    {
+      "key": "Village!LilMermaid!Ursula!VLG_Sull_024_Ursula_Any_CompletedRequestDescription",
+      "en": "Return to Ursula.",
+      "cz": "Return to Ursula.",
+      "source": "pre_existing",
+      "original_cz": "Return to Ursula."
+    },
+    {
+      "key": "Village!LilMermaid!Ursula!VLG_Sull_024_Ursula_AvailableDescription",
+      "en": "Go see Ursula about her project.",
+      "cz": "Zajděte se zeptat Ursuly na její projekt.",
+      "source": "pre_existing",
+      "original_cz": "Zajděte se zeptat Ursuly na její projekt."
+    },
+    {
+      "key": "Village!LilMermaid!Ursula!VLG_Sull_024_Ursula_CompletedStoryDescription",
+      "en": "You distributed the gifts. Time to go back to Ursula.",
+      "cz": "Rozdala jsi dárky. Je čas se vrátit k Ursule.",
+      "source": "pre_existing",
+      "original_cz": "Rozdala jsi dárky. Je čas se vrátit k Ursule."
+    },
+    {
+      "key": "Village!LilMermaid!Ursula!VLG_Sull_024_Ursula_DisplayName",
+      "en": "Villager of the Month: Ursula",
+      "cz": "Vesničánka měsíce: Ursula",
+      "source": "pre_existing",
+      "original_cz": "Vesničánka měsíce: Ursula"
+    },
+    {
+      "key": "Village!LilMermaid!Ursula!VLG_Sull_024_Ursula_Group01_Step01_Possess01_StepDescription",
+      "en": "<ActivityItem>Seaweed</ActivityItem>.",
+      "cz": "<ActivityItem>Seaweed</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Seaweed</ActivityItem>."
+    },
+    {
+      "key": "Village!LilMermaid!Ursula!VLG_Sull_024_Ursula_Group01_Step01_Possess02_StepDescription",
+      "en": "<ActivityItem>Purple Hydrangeas</ActivityItem>.",
+      "cz": "<ActivityItem>Purple Hydrangeas</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Purple Hydrangeas</ActivityItem>."
+    },
+    {
+      "key": "Village!LilMermaid!Ursula!VLG_Sull_024_Ursula_Group01_Step01_Possess03_StepDescription",
+      "en": "<ActivityItem>Purple Rising Penstemons</ActivityItem>.",
+      "cz": "<ActivityItem>Purple Rising Penstemons</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Purple Rising Penstemons</ActivityItem>."
+    },
+    {
+      "key": "Village!LilMermaid!Ursula!VLG_Sull_024_Ursula_Group01_Step01_Possess04_StepDescription",
+      "en": "<ActivityItem>Empty Vials</ActivityItem>.",
+      "cz": "<ActivityItem>Empty Vials</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Empty Vials</ActivityItem>."
+    },
+    {
+      "key": "Village!LilMermaid!Ursula!VLG_Sull_024_Ursula_Group01_Step01_StepDescription",
+      "en": "Gather the Ingredients for the <ActivityItem>Perfume of the Sea Enchantment</ActivityItem>:",
+      "cz": "Shromážděte ingredience pro <ActivityItem>Kouzlo Mořské vůně</ActivityItem>:",
+      "source": "pre_existing",
+      "original_cz": "Shromážděte ingredience pro <ActivityItem>Kouzlo Mořské vůně</ActivityItem>:"
+    },
+    {
+      "key": "Village!LilMermaid!Ursula!VLG_Sull_024_Ursula_Group01_StoryDescription",
+      "en": "Ursula's plan to win the Villager of the Month contest is to make a special perfume to give some Villagers. She needs your help with the preparation.",
+      "cz": "Ursulin plán, jak vyhrát soutěž o vesničana měsíce, je vyrobit speciální parfém, který dá vesničanům. Potřebuje vaši pomoc s přípravou.",
+      "source": "pre_existing",
+      "original_cz": "Ursulin plán, jak vyhrát soutěž o vesničana měsíce, je vyrobit speciální parfém, který dá vesničanům. Potřebuje vaši pomoc s přípravou."
+    },
+    {
+      "key": "Village!LilMermaid!Ursula!VLG_Sull_024_Ursula_Group02_Step02_CraftItem01_StepDescription",
+      "en": "Craft the <ActivityItem>Perfume of the Sea Enchantment</ActivityItem> at a Crafting Station.",
+      "cz": "Vyrobte kouzlo <ActivityItem>Mořský parfém</ActivityItem> na řemeslné stanici.",
+      "source": "pre_existing",
+      "original_cz": "Vyrobte kouzlo <ActivityItem>Mořský parfém</ActivityItem> na řemeslné stanici."
+    },
+    {
+      "key": "Village!LilMermaid!Ursula!VLG_Sull_024_Ursula_Group03_Step03_BringItem01_StepDescription",
+      "en": "Make sure the <ActivityItem>Perfume of the Sea Enchantments</ActivityItem> are in your Inventory.",
+      "cz": "Ujistěte se, že máte v inventáři <ActivityItem>Kouzla Mořský parfém</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte v inventáři <ActivityItem>Kouzla Mořský parfém</ActivityItem>."
+    },
+    {
+      "key": "Village!LilMermaid!Ursula!VLG_Sull_024_Ursula_Group03_Step03_ReadyDescription",
+      "en": "Bring the <ActivityItem>Perfume of the Sea Enchantments</ActivityItem> to Ursula.",
+      "cz": "Přineste Ursule <ActivityItem>Kouzla Mořské vůně</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Přineste Ursule <ActivityItem>Kouzla Mořské vůně</ActivityItem>."
+    },
+    {
+      "key": "Village!LilMermaid!Ursula!VLG_Sull_024_Ursula_Group04_Step04_BringItem02_StepDescription",
+      "en": "Make sure the <ActivityItem>Perfume of the Sea Enchantment</ActivityItem> is in your Inventory.",
+      "cz": "Ujistěte se, že máte v inventáři <ActivityItem>Kouzlo Mořské vůně</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte v inventáři <ActivityItem>Kouzlo Mořské vůně</ActivityItem>."
+    },
+    {
+      "key": "Village!LilMermaid!Ursula!VLG_Sull_024_Ursula_Group04_Step04_ReadyDescription",
+      "en": "Merlin.",
+      "cz": "Merlin.",
+      "source": "pre_existing",
+      "original_cz": "Merlin."
+    },
+    {
+      "key": "Village!LilMermaid!Ursula!VLG_Sull_024_Ursula_Group04_Step05_BringItem03_StepDescription",
+      "en": "Make sure the <ActivityItem>Perfume of the Sea Enchantment</ActivityItem> is in your Inventory.",
+      "cz": "Ujistěte se, že máte v inventáři <ActivityItem>Kouzlo Mořské vůně</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte v inventáři <ActivityItem>Kouzlo Mořské vůně</ActivityItem>."
+    },
+    {
+      "key": "Village!LilMermaid!Ursula!VLG_Sull_024_Ursula_Group04_Step05_ReadyDescription",
+      "en": "Mike.",
+      "cz": "Mike.",
+      "source": "pre_existing",
+      "original_cz": "Mike."
+    },
+    {
+      "key": "Village!LilMermaid!Ursula!VLG_Sull_024_Ursula_Group04_Step06_BringItem04_StepDescription",
+      "en": "Make sure the <ActivityItem>Perfume of the Sea Enchantment</ActivityItem> is in your Inventory.",
+      "cz": "Ujistěte se, že máte v inventáři <ActivityItem>Kouzlo Mořské vůně</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ujistěte se, že máte v inventáři <ActivityItem>Kouzlo Mořské vůně</ActivityItem>."
+    },
+    {
+      "key": "Village!LilMermaid!Ursula!VLG_Sull_024_Ursula_Group04_Step06_ReadyDescription",
+      "en": "Goofy.",
+      "cz": "Goofy.",
+      "source": "pre_existing",
+      "original_cz": "Goofy."
+    },
+    {
+      "key": "Village!LilMermaid!Ursula!VLG_Sull_024_Ursula_Group04_StepDescription",
+      "en": "Bring the <ActivityItem>Perfume of the Sea Enchantment</ActivityItem> to the following Villagers:",
+      "cz": "Přineste <ActivityItem>Kouzlo Mořské vůně</ActivityItem> následujícím vesničanům:",
+      "source": "pre_existing",
+      "original_cz": "Přineste <ActivityItem>Kouzlo Mořské vůně</ActivityItem> následujícím vesničanům:"
+    },
+    {
+      "key": "Village!LilMermaid!Ursula!VLG_Sull_024_Ursula_Group04_StoryDescription",
+      "en": "Once the perfumes have been made, the Sea Witch charges you with the delivery of the gifts.",
+      "cz": "Jakmile jsou parfémy vyrobeny, Mořská čarodějnice vás pověří doručením darů.",
+      "source": "pre_existing",
+      "original_cz": "Jakmile jsou parfémy vyrobeny, Mořská čarodějnice vás pověří doručením darů."
+    },
+    {
+      "key": "Village!LilMermaid!Ursula!VLG_Sull_024_Ursula_Group01_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What do you need?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What do you need?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What do you need?"
+    },
+    {
+      "key": "Village!LilMermaid!Ursula!VLG_Sull_024_Ursula_Group02_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What's next?"
+    },
+    {
+      "key": "Village!LilMermaid!Ursula!VLG_Sull_024_Ursula_Group03_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What do you need?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What do you need?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What do you need?"
+    }
+  ]
+}

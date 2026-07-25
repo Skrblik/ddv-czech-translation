@@ -1,0 +1,85 @@
+{
+  "MiniEvent23_Mickey/Mickey_Daily_Mick_ClickMagic_010_Daily_Mick_ClickMagic_010_Intro.locbin": [
+    {
+      "key": "Mickey_001_f",
+      "en": "Hiya, {PlayerName}!",
+      "cz": "Ahoj, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}!"
+    },
+    {
+      "key": "Mickey_000_f",
+      "en": "Are you up for a <Lore>photo scavenger hunt</Lore>?",
+      "cz": "Chceš se vydat na <Lore>honbu za pokladem fotografií</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "Chceš se vydat na <Lore>honbu za pokladem fotografií</Lore>?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Click, click! Let's go!",
+      "cz": "Klik, klik! Jdeme na to!",
+      "source": "pre_existing",
+      "original_cz": "Klik, klik! Jdeme na to!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Sorry, I can't right now.",
+      "cz": "Promiň, teď nemůžu.",
+      "source": "pre_existing",
+      "original_cz": "Promiň, teď nemůžu."
+    },
+    {
+      "key": "Mickey_002_f",
+      "en": "Great! Goofy and I hid <Lore>four</Lore> secret symbols in our Houses. All you gotta do is find them and take a picture!",
+      "cz": "Skvělé! S Goofym jsme si v našich domečcích schovali <Lore>čtyři</Lore> tajné symboly. Stačí je najít a vyfotit!",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! S Goofym jsme si v našich domečcích schovali <Lore>čtyři</Lore> tajné symboly. Stačí je najít a vyfotit!"
+    }
+  ],
+  "MiniEvent23_Mickey/Mickey_Daily_Mick_ClickMagic_010_Daily_Mick_ClickMagic_010_Ongoing01.locbin": [
+    {
+      "key": "Mickey_001_f",
+      "en": "How's the scavenger hunt, {PlayerName}?",
+      "cz": "Jak jde honba za pokladem, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Jak jde honba za pokladem, {PlayerName}?"
+    },
+    {
+      "key": "Mickey_003_f",
+      "en": "Could you remind me what I need to do?",
+      "cz": "Mohl byste mi připomenout, co musím udělat?",
+      "source": "pre_existing",
+      "original_cz": "Mohl byste mi připomenout, co musím udělat?"
+    },
+    {
+      "key": "Mickey_004_f",
+      "en": "Search <Lore>my House and Goofy's House</Lore> for hidden symbols. Ya gotta take one picture of each.",
+      "cz": "Prohledej <Lore>můj dům a Goofyho dům</Lore>, jestli tam nejsou skryté symboly. Musíš si od každého udělat jednu fotku.",
+      "source": "pre_existing",
+      "original_cz": "Prohledej <Lore>můj dům a Goofyho dům</Lore>, jestli tam nejsou skryté symboly. Musíš si od každého udělat jednu fotku."
+    },
+    {
+      "key": "Mickey_005_f",
+      "en": "Remember: <Lore>There are four symbols in total</Lore>.",
+      "cz": "Pamatujte: <Lore>Celkem existují čtyři symboly</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Pamatujte: <Lore>Celkem existují čtyři symboly</Lore>."
+    }
+  ],
+  "MiniEvent23_Mickey/Mickey_Daily_Mick_ClickMagic_010_Daily_Mick_ClickMagic_010_Outro.locbin": [
+    {
+      "key": "Mickey_001_f",
+      "en": "You found all the symbols! Hope you had fun, 'cause Goofy and I sure had fun setting it up for ya.",
+      "cz": "Našli jste všechny symboly! Doufám, že jste se bavili, protože my s Goofym jsme si to při přípravě užili.",
+      "source": "pre_existing",
+      "original_cz": "Našli jste všechny symboly! Doufám, že jste se bavili, protože my s Goofym jsme si to při přípravě užili."
+    },
+    {
+      "key": "Mickey_000_f",
+      "en": "Here's your prize!",
+      "cz": "Tady je tvoje odměna!",
+      "source": "pre_existing",
+      "original_cz": "Tady je tvoje odměna!"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "BeautyBeastUpdate_FairyGodMother/FairyGodMother_VLG_Bell_040_VLG_Bell_040_BringItem07.locbin": [
+    {
+      "key": "FairyGodMother_001_f",
+      "en": "Congratulations, {PlayerName}! Another job well done.",
+      "cz": "Gratuluji, {PlayerName}! Další skvělá práce.",
+      "source": "pre_existing",
+      "original_cz": "Gratuluji, {PlayerName}! Další skvělá práce."
+    },
+    {
+      "key": "FairyGodMother_002_f",
+      "en": "Now it's my turn to work my magic.",
+      "cz": "Teď je řada na mně, abych předvedla svá kouzla.",
+      "source": "pre_existing",
+      "original_cz": "Teď je řada na mně, abych předvedla svá kouzla."
+    },
+    {
+      "key": "FairyGodMother_003_f",
+      "en": "Bibbidi-Bobbidi-Boo!",
+      "cz": "Bibbidi-Bobidi-Boo!",
+      "source": "pre_existing",
+      "original_cz": "Bibbidi-Bobidi-Boo!"
+    },
+    {
+      "key": "FairyGodMother_004_f",
+      "en": "Here. That should be as good as new.",
+      "cz": "Tady. To by mělo být jako nové.",
+      "source": "pre_existing",
+      "original_cz": "Tady. To by mělo být jako nové."
+    },
+    {
+      "key": "FairyGodMother_005_f",
+      "en": "And I hope that whatever's inside will make Belle's dreams come true!",
+      "cz": "A doufám, že ať už je uvnitř cokoli, splní Belle její sny!",
+      "source": "pre_existing",
+      "original_cz": "A doufám, že ať už je uvnitř cokoli, splní Belle její sny!"
+    },
+    {
+      "key": "FairyGodMother_006_f",
+      "en": "Now run along, dear, and give it to her.",
+      "cz": "A teď běž, drahá, a dej jí to.",
+      "source": "pre_existing",
+      "original_cz": "A teď běž, drahá, a dej jí to."
+    }
+  ],
+  "BeautyBeastUpdate_FairyGodMother/FairyGodMother_VLG_Bell_040_VLG_Bell_040_TalkTo17.locbin": [
+    {
+      "key": "FairyGodMother_001_f",
+      "en": "Hello, my dear! If you've something on your mind, I'm always happy to lend an ear.",
+      "cz": "Ahoj, drahá/drahouš! Pokud máš něco na srdci, vždycky tě ráda vyslechnu.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, drahá/drahouš! Pokud máš něco na srdci, vždycky tě ráda vyslechnu."
+    },
+    {
+      "key": "FairyGodMother_002_f",
+      "en": "Well, Belle was looking for this object. It's called <ActivityItem>The Chronicles of the Ancients</ActivityItem> and...",
+      "cz": "No, Belle hledala tento předmět. Jmenuje se <ActivityItem>Letopisy starověku</ActivityItem> a...",
+      "source": "pre_existing",
+      "original_cz": "No, Belle hledala tento předmět. Jmenuje se <ActivityItem>Letopisy starověku</ActivityItem> a..."
+    },
+    {
+      "key": "FairyGodMother_003_f",
+      "en": "Oh, yes, I've heard many things about that marvelous treasure.",
+      "cz": "Ano, slyšela jsem už mnoho věcí o tom úžasném pokladu.",
+      "source": "pre_existing",
+      "original_cz": "Ano, slyšela jsem už mnoho věcí o tom úžasném pokladu."
+    },
+    {
+      "key": "FairyGodMother_004_f",
+      "en": "Well, we found it in a—",
+      "cz": "No, našli jsme to v—",
+      "source": "pre_existing",
+      "original_cz": "No, našli jsme to v—"
+    },
+    {
+      "key": "FairyGodMother_005_f",
+      "en": "How wonderful! Belle must be so happy.",
+      "cz": "To je úžasné! Belle musí být tak šťastná.",
+      "source": "pre_existing",
+      "original_cz": "To je úžasné! Belle musí být tak šťastná."
+    },
+    {
+      "key": "Player_000_f",
+      "en": "The thing is... it's broken.",
+      "cz": "Jde o to... že je to rozbité.",
+      "source": "pre_existing",
+      "original_cz": "Jde o to... že je to rozbité."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "She's devastated.",
+      "cz": "Je zdrcená.",
+      "source": "pre_existing",
+      "original_cz": "Je zdrcená."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "How would you feel in her place?",
+      "cz": "Jak byste se cítili na jejím místě?",
+      "source": "pre_existing",
+      "original_cz": "Jak byste se cítili na jejím místě?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "This is why I don't get excited about anything.",
+      "cz": "Proto se z ničeho netěším.",
+      "source": "pre_existing",
+      "original_cz": "Proto se z ničeho netěším."
+    },
+    {
+      "key": "FairyGodMother_006_f",
+      "en": "Oh dear.",
+      "cz": "Ach jo.",
+      "source": "pre_existing",
+      "original_cz": "Ach jo."
+    },
+    {
+      "key": "FairyGodMother_010_f",
+      "en": "Well, perhaps if I could see it for just a moment...",
+      "cz": "No, kdybych to možná na chvilku viděla...",
+      "source": "pre_existing",
+      "original_cz": "No, kdybych to možná na chvilku viděla..."
+    },
+    {
+      "key": "FairyGodMother_017_f",
+      "en": "It's the thing I just gave you.",
+      "cz": "To je ta věc, kterou jsem ti právě dala.",
+      "source": "pre_existing",
+      "original_cz": "To je ta věc, kterou jsem ti právě dala."
+    },
+    {
+      "key": "FairyGodMother_018_f",
+      "en": "You did? ... Oh, yes, of course, you did. I have it right... Now where did I put it? Ah yes... here!",
+      "cz": "Udělala? ... Ach ano, samozřejmě, že udělala. Mám to správně... Kam jsem to jen dala? Ach ano... tady!",
+      "source": "pre_existing",
+      "original_cz": "Udělala? ... Ach ano, samozřejmě, že udělala. Mám to správně... Kam jsem to jen dala? Ach ano... tady!"
+    },
+    {
+      "key": "FairyGodMother_012_f",
+      "en": "Hmm...",
+      "cz": "Hmm...",
+      "source": "pre_existing",
+      "original_cz": "Hmm..."
+    },
+    {
+      "key": "FairyGodMother_013_f",
+      "en": "Well, that's rather curious. It looks almost like a mirror. I haven't the faintest idea how it works, but I suspect what's wrong with it is that it's cracked...",
+      "cz": "No, to je docela zvláštní. Vypadá to skoro jako zrcadlo. Nemám nejmenší tušení, jak to funguje, ale mám podezření, že je to prasklé...",
+      "source": "pre_existing",
+      "original_cz": "No, to je docela zvláštní. Vypadá to skoro jako zrcadlo. Nemám nejmenší tušení, jak to funguje, ale mám podezření, že je to prasklé..."
+    },
+    {
+      "key": "FairyGodMother_014_f",
+      "en": "...and I'm sure with just a few items, I could fix that.",
+      "cz": "...a jsem si jistá, že s pár věcmi bych to mohla napravit.",
+      "source": "pre_existing",
+      "original_cz": "...a jsem si jistá, že s pár věcmi bych to mohla napravit."
+    },
+    {
+      "key": "FairyGodMother_016_f",
+      "en": "Let's see... I'll need some <ActivityItem>Gold Ingots</ActivityItem>, <ActivityItem>Vitalys Crystals</ActivityItem>, <ActivityItem>Dream Shards</ActivityItem>, and a <ActivityItem>Sapphire</ActivityItem> for the enchantment.",
+      "cz": "Podívejme se... Na očarování budu potřebovat nějaké <ActivityItem>zlaté ingoty</ActivityItem>, <ActivityItem>krystaly Vitalys</ActivityItem>, <ActivityItem>střepy snů</ActivityItem> a <ActivityItem>safír</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Podívejme se... Na očarování budu potřebovat nějaké <ActivityItem>zlaté ingoty</ActivityItem>, <ActivityItem>krystaly Vitalys</ActivityItem>, <ActivityItem>střepy snů</ActivityItem> a <ActivityItem>safír</ActivityItem>."
+    },
+    {
+      "key": "FairyGodMother_015_f",
+      "en": "Oh, that's great news! I'll go fetch those.",
+      "cz": "To je skvělá zpráva! Jdu pro ně.",
+      "source": "pre_existing",
+      "original_cz": "To je skvělá zpráva! Jdu pro ně."
+    },
+    {
+      "key": "FairyGodMother_007_f",
+      "en": "Oh, I'd be very disappointed.",
+      "cz": "Ach, to bych byla velmi zklamaná.",
+      "source": "pre_existing",
+      "original_cz": "Ach, to bych byla velmi zklamaná."
+    },
+    {
+      "key": "FairyGodMother_008_f",
+      "en": "Now dear, you mustn't think like that.",
+      "cz": "Drahá, takhle nesmíš myslet.",
+      "source": "pre_existing",
+      "original_cz": "Drahá, takhle nesmíš myslet."
+    },
+    {
+      "key": "FairyGodMother_009_f",
+      "en": "But I understand that Belle is surely disappointed.",
+      "cz": "Ale chápu, že Belle je jistě zklamaná.",
+      "source": "pre_existing",
+      "original_cz": "Ale chápu, že Belle je jistě zklamaná."
+    }
+  ]
+}

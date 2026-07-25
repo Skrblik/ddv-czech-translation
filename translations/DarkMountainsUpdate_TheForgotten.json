@@ -1,0 +1,1488 @@
+{
+  "DarkMountainsUpdate_TheForgotten/TheForgotten_Discussions_Discussion002.locbin": [
+    {
+      "key": "TheForgotten_011_f",
+      "en": "Seriously? Why are you talking to me?",
+      "cz": "Myslíš, že se na mě někteří vesničané pořád zlobí kvůli té... téměř zničené věci s vesmírem?",
+      "source": "pre_existing",
+      "original_cz": "Myslíš, že se na mě někteří vesničané pořád zlobí kvůli té... téměř zničené věci s vesmírem?"
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Never mind then.",
+      "cz": "Tak nic.",
+      "source": "our_translation"
+    }
+  ],
+  "DarkMountainsUpdate_TheForgotten/TheForgotten_MRQS128_TheForgotten_MRQS128_TheForgotten_TalkTo02.locbin": [
+    {
+      "key": "TheForgotten_000_f",
+      "en": "After all this time... here we are. Face to face.",
+      "cz": "Po celé té době... tady jsme. Tváří v tvář.",
+      "source": "pre_existing",
+      "original_cz": "Po celé té době... tady jsme. Tváří v tvář."
+    },
+    {
+      "key": "TheForgotten_013_f",
+      "en": "I have all these... these memories in my head all of a sudden. You must have seen them too.",
+      "cz": "Najednou mám v hlavě všechny ty... tyhle vzpomínky. Určitě jsi je taky viděl/a.",
+      "source": "pre_existing",
+      "original_cz": "Najednou mám v hlavě všechny ty... tyhle vzpomínky. Určitě jsi je taky viděl/a."
+    },
+    {
+      "key": "TheForgotten_014_f",
+      "en": "So you must know what I am by now.",
+      "cz": "Takže už musíš vědět, kdo jsem.",
+      "source": "pre_existing",
+      "original_cz": "Takže už musíš vědět, kdo jsem."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "You're my inner child, aren't you?",
+      "cz": "Jsi moje vnitřní dítě, že?",
+      "source": "pre_existing",
+      "original_cz": "Jsi moje vnitřní dítě, že?"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "You're everything I left behind.",
+      "cz": "Jsi všechno, co jsem po sobě nechal.",
+      "source": "pre_existing",
+      "original_cz": "Jsi všechno, co jsem po sobě nechal."
+    },
+    {
+      "key": "Player_002_choice_003_f",
+      "en": "You're some sort of shadow of me.",
+      "cz": "Jsi jakýsi můj stín.",
+      "source": "pre_existing",
+      "original_cz": "Jsi jakýsi můj stín."
+    },
+    {
+      "key": "TheForgotten_015_f",
+      "en": "You split off from me when I stopped visiting Dreamlight Valley.",
+      "cz": "Oddělil ses ode mě, když jsem přestal navštěvovat Údolí snů.",
+      "source": "pre_existing",
+      "original_cz": "Oddělil ses ode mě, když jsem přestal navštěvovat Údolí snů."
+    },
+    {
+      "key": "TheForgotten_016_f",
+      "en": "Inner child...? But how can we really say which one of us is the real {PlayerName}?",
+      "cz": "Vnitřní dítě...? Ale jak můžeme doopravdy říct, kdo z nás je ten pravý {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Vnitřní dítě...? Ale jak můžeme doopravdy říct, kdo z nás je ten pravý {PlayerName}?"
+    },
+    {
+      "key": "TheForgotten_017_f",
+      "en": "Maybe you're just the part that moved on. A piece of ME that left...",
+      "cz": "Možná jsi jen ta část, která se posunula dál. Kousek MĚ, který odešel...",
+      "source": "pre_existing",
+      "original_cz": "Možná jsi jen ta část, která se posunula dál. Kousek MĚ, který odešel..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "It doesn't matter. I just want to help.",
+      "cz": "Na tom nezáleží. Jen chci pomoct.",
+      "source": "pre_existing",
+      "original_cz": "Na tom nezáleží. Jen chci pomoct."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "No sudden moves... I'm watching you.",
+      "cz": "Žádné prudké pohyby... Sleduji tě.",
+      "source": "pre_existing",
+      "original_cz": "Žádné prudké pohyby... Sleduji tě."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "That's enough. Get out of my way.",
+      "cz": "To stačí. Jdi mi z cesty.",
+      "source": "pre_existing",
+      "original_cz": "To stačí. Jdi mi z cesty."
+    },
+    {
+      "key": "TheForgotten_001_f",
+      "en": "I don't want to hurt you. Really. I want to help.",
+      "cz": "Nechci ti ublížit. Vážně. Chci ti pomoct.",
+      "source": "pre_existing",
+      "original_cz": "Nechci ti ublížit. Vážně. Chci ti pomoct."
+    },
+    {
+      "key": "TheForgotten_005_f",
+      "en": "Is that what you think about me? That I'm... I'm some kind of weakling who needs \"help\"?",
+      "cz": "Myslíš si tohle o mně? Že jsem... že jsem nějaký slaboch, který potřebuje „pomoc“?",
+      "source": "pre_existing",
+      "original_cz": "Myslíš si tohle o mně? Že jsem... že jsem nějaký slaboch, který potřebuje „pomoc“?"
+    },
+    {
+      "key": "TheForgotten_006_f",
+      "en": "Maybe I was. Once. But not anymore.",
+      "cz": "Možná ano. Kdysi. Ale už ne.",
+      "source": "pre_existing",
+      "original_cz": "Možná ano. Kdysi. Ale už ne."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Needing help doesn't make you weak.",
+      "cz": "Potřeba pomoci tě nedělá slabým.",
+      "source": "pre_existing",
+      "original_cz": "Potřeba pomoci tě nedělá slabým."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "You put on a big show... but I can tell you're scared.",
+      "cz": "Předvedl jsi velké divadlo... ale vidím, že se bojíš.",
+      "source": "pre_existing",
+      "original_cz": "Předvedl jsi velké divadlo... ale vidím, že se bojíš."
+    },
+    {
+      "key": "TheForgotten_012_f",
+      "en": "That's what Merlin was trying to tell you. Caring for others... That's not something you leave behind.",
+      "cz": "To se ti Merlin snažil říct. Starost o druhé... To není něco, co zanecháváš po sobě.",
+      "source": "pre_existing",
+      "original_cz": "To se ti Merlin snažil říct. Starost o druhé... To není něco, co zanecháváš po sobě."
+    },
+    {
+      "key": "TheForgotten_032_f",
+      "en": "Busy? Doing what...?",
+      "cz": "Zaneprázdněný? Co děláš...?",
+      "source": "pre_existing",
+      "original_cz": "Zaneprázdněný? Co děláš...?"
+    },
+    {
+      "key": "TheForgotten_035_f",
+      "en": "Do you expect me to just tell you my whole plan?! Like some kind of... some kind of villain at the end of a movie?",
+      "cz": "Čekáš, že ti jen tak povím celý svůj plán?! Jako nějaký... nějaký padouch na konci filmu?",
+      "source": "pre_existing",
+      "original_cz": "Čekáš, že ti jen tak povím celý svůj plán?! Jako nějaký... nějaký padouch na konci filmu?"
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "If you've got a plan... I can help.",
+      "cz": "Pokud máš plán... můžu ti pomoct.",
+      "source": "pre_existing",
+      "original_cz": "Pokud máš plán... můžu ti pomoct."
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "I mean... you're kind of giving off that vibe?",
+      "cz": "Myslím... tak nějak z tebe vyzařuje ta atmosféra?",
+      "source": "pre_existing",
+      "original_cz": "Myslím... tak nějak z tebe vyzařuje ta atmosféra?"
+    },
+    {
+      "key": "TheForgotten_022_f",
+      "en": "It makes us stronger. Not weaker. It holds the Valley together.",
+      "cz": "Dělá nás silnějšími. Ne slabšími. Drží Údolí pohromadě.",
+      "source": "pre_existing",
+      "original_cz": "Dělá nás silnějšími. Ne slabšími. Drží Údolí pohromadě."
+    },
+    {
+      "key": "TheForgotten_024_f",
+      "en": "Please. Let us help you.",
+      "cz": "Prosím. Dovolte nám, abychom vám pomohli.",
+      "source": "pre_existing",
+      "original_cz": "Prosím. Dovolte nám, abychom vám pomohli."
+    },
+    {
+      "key": "TheForgotten_028_f",
+      "en": "You think I didn't TRY to ask for help? After that day with Scar... no one could hear me.",
+      "cz": "Myslíš, že jsem se nepokusil požádat o pomoc? Po tom dni se Scarem... mě nikdo neslyšel.",
+      "source": "pre_existing",
+      "original_cz": "Myslíš, že jsem se nepokusil požádat o pomoc? Po tom dni se Scarem... mě nikdo neslyšel."
+    },
+    {
+      "key": "TheForgotten_029_f",
+      "en": "I was trapped in the shadows. Alone. Lost. It takes all my magic now just to step out into the light.",
+      "cz": "Byl jsem uvězněn ve stínech. Sám. Ztracen. Teď už jen k tomu, abych vykročil na světlo, potřebuji veškerou svou magii.",
+      "source": "pre_existing",
+      "original_cz": "Byl jsem uvězněn ve stínech. Sám. Ztracen. Teď už jen k tomu, abych vykročil na světlo, potřebuji veškerou svou magii."
+    },
+    {
+      "key": "TheForgotten_030_f",
+      "en": "But you're here now. Let's fix all of this.",
+      "cz": "Ale teď jsi tady. Pojďme to všechno napravit.",
+      "source": "pre_existing",
+      "original_cz": "Ale teď jsi tady. Pojďme to všechno napravit."
+    },
+    {
+      "key": "TheForgotten_025_f",
+      "en": "Fix all of this? That's exactly what I've been trying to do.",
+      "cz": "Opravit tohle všechno? Přesně o to se snažím.",
+      "source": "pre_existing",
+      "original_cz": "Opravit tohle všechno? Přesně o to se snažím."
+    },
+    {
+      "key": "TheForgotten_031_f",
+      "en": "I haven't been hiding.",
+      "cz": "Neskrýval jsem se.",
+      "source": "pre_existing",
+      "original_cz": "Neskrýval jsem se."
+    },
+    {
+      "key": "TheForgotten_026_f",
+      "en": "I've been busy.",
+      "cz": "Měl jsem hodně práce.",
+      "source": "pre_existing",
+      "original_cz": "Měl jsem hodně práce."
+    },
+    {
+      "key": "TheForgotten_036_f",
+      "en": "You could never help. Because you could never understand.",
+      "cz": "Nikdy jsi nemohl pomoct. Protože jsi to nikdy nemohl pochopit.",
+      "source": "pre_existing",
+      "original_cz": "Nikdy jsi nemohl pomoct. Protože jsi to nikdy nemohl pochopit."
+    },
+    {
+      "key": "TheForgotten_027_f",
+      "en": "There's only one way to make sure that no one ever gets pulled to the dark side of Dreamlight Valley like I was.",
+      "cz": "Existuje jen jeden způsob, jak zajistit, aby se nikdo nikdy nenechal strhnout na temnou stranu Údolí snů jako já.",
+      "source": "pre_existing",
+      "original_cz": "Existuje jen jeden způsob, jak zajistit, aby se nikdo nikdy nenechal strhnout na temnou stranu Údolí snů jako já."
+    },
+    {
+      "key": "TheForgotten_038_f",
+      "en": "Only one way to make sure no one is ever lonely again.",
+      "cz": "Je jen jeden způsob, jak zajistit, aby už nikdo nikdy nebyl sám.",
+      "source": "pre_existing",
+      "original_cz": "Je jen jeden způsob, jak zajistit, aby už nikdo nikdy nebyl sám."
+    },
+    {
+      "key": "TheForgotten_033_f",
+      "en": "I need to rip open the walls between worlds. Between Dreamlight Valley and the other side.",
+      "cz": "Potřebuji roztrhat zdi mezi světy. Mezi Údolím Světla Snů a druhou stranou.",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji roztrhat zdi mezi světy. Mezi Údolím Světla Snů a druhou stranou."
+    },
+    {
+      "key": "TheForgotten_040_f",
+      "en": "And now I have the last thing I was missing. The way to fuel the spell. <Lore>The Orb of Remembrance</Lore>!",
+      "cz": "A teď mám to poslední, co mi chybělo. Způsob, jak napájet kouzlo. <Lore>Koule Vzpomínky</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "A teď mám to poslední, co mi chybělo. Způsob, jak napájet kouzlo. <Lore>Koule Vzpomínky</Lore>!"
+    },
+    {
+      "key": "TheForgotten_037_f",
+      "en": "You still don't get it. I'm not the bad guy. YOU are.",
+      "cz": "Pořád to nechápeš. Já nejsem ten zlý. TY ano.",
+      "source": "pre_existing",
+      "original_cz": "Pořád to nechápeš. Já nejsem ten zlý. TY ano."
+    },
+    {
+      "key": "TheForgotten_023_f",
+      "en": "If you really felt like you were so strong, then you wouldn't have stayed in the shadows all this time. Whatever was happening to you... Merlin could have helped.",
+      "cz": "Kdybys opravdu cítil/a, že jsi tak silný/á, pak bys celou tu dobu nezůstával/a ve stínu. Ať se s tebou dělo cokoli... Merlin ti mohl pomoct.",
+      "source": "pre_existing",
+      "original_cz": "Kdybys opravdu cítil/a, že jsi tak silný/á, pak bys celou tu dobu nezůstával/a ve stínu. Ať se s tebou dělo cokoli... Merlin ti mohl pomoct."
+    },
+    {
+      "key": "TheForgotten_002_f",
+      "en": "I want to talk, but... you better not try to rip open a portal or hex me or anything like that!",
+      "cz": "Chci si promluvit, ale... radši se nepokoušej otevřít portál nebo mě proklet nebo něco podobného!",
+      "source": "pre_existing",
+      "original_cz": "Chci si promluvit, ale... radši se nepokoušej otevřít portál nebo mě proklet nebo něco podobného!"
+    },
+    {
+      "key": "TheForgotten_007_f",
+      "en": "Heh. You're afraid of me? Good. You should be.",
+      "cz": "Heh. Bojíš se mě? Dobře. Měl bys.",
+      "source": "pre_existing",
+      "original_cz": "Heh. Bojíš se mě? Dobře. Měl bys."
+    },
+    {
+      "key": "TheForgotten_008_f",
+      "en": "Maybe Merlin should have been afraid of me too. Instead of thinking I was some weakling who needed his help.",
+      "cz": "Možná se mě Merlin měl taky bát. Místo aby si myslel, že jsem nějaký slaboch, který potřebuje jeho pomoc.",
+      "source": "pre_existing",
+      "original_cz": "Možná se mě Merlin měl taky bát. Místo aby si myslel, že jsem nějaký slaboch, který potřebuje jeho pomoc."
+    },
+    {
+      "key": "TheForgotten_003_f",
+      "en": "After everything you've done to this Village... we've got nothing more to talk about.",
+      "cz": "Po všem, co jsi udělal této vesnici... už nemáme o čem mluvit.",
+      "source": "pre_existing",
+      "original_cz": "Po všem, co jsi udělal této vesnici... už nemáme o čem mluvit."
+    },
+    {
+      "key": "TheForgotten_004_f",
+      "en": "Step aside so I can fix the damage you've done.",
+      "cz": "Ustup stranou, abych mohl napravit škody, které jsi způsobil.",
+      "source": "pre_existing",
+      "original_cz": "Ustup stranou, abych mohl napravit škody, které jsi způsobil."
+    },
+    {
+      "key": "TheForgotten_009_f",
+      "en": "Fix the damage...? Heh.",
+      "cz": "Opravit škody...? Heh.",
+      "source": "pre_existing",
+      "original_cz": "Opravit škody...? Heh."
+    },
+    {
+      "key": "TheForgotten_010_f",
+      "en": "Don't you see that running around and helping everybody... it makes them weak. And it makes YOU weak too.",
+      "cz": "Nevidíš, že běhání kolem a pomáhání všem... oslabuje je. A oslabuje to i TEBE.",
+      "source": "pre_existing",
+      "original_cz": "Nevidíš, že běhání kolem a pomáhání všem... oslabuje je. A oslabuje to i TEBE."
+    },
+    {
+      "key": "TheForgotten_018_f",
+      "en": "When I stopped visiting Dreamlight Valley... when I let go of my childlike wonder... You're all of that.",
+      "cz": "Když jsem přestala navštěvovat Údolí snů... když jsem se vzdala svého dětského úžasu... To všechno jsi ty.",
+      "source": "pre_existing",
+      "original_cz": "Když jsem přestala navštěvovat Údolí snů... když jsem se vzdala svého dětského úžasu... To všechno jsi ty."
+    },
+    {
+      "key": "TheForgotten_019_f",
+      "en": "What you left behind...? But how can you really say which one of us is the real {PlayerName}?",
+      "cz": "Co jsi po sobě zanechal...? Ale jak můžeš doopravdy říct, kdo z nás je ten pravý {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Co jsi po sobě zanechal...? Ale jak můžeš doopravdy říct, kdo z nás je ten pravý {PlayerName}?"
+    },
+    {
+      "key": "TheForgotten_020_f",
+      "en": "When I left Dreamlight Valley... I left a shadow, an echo. And that's you.",
+      "cz": "Když jsem opustil Údolí snů... Zanechal jsem po sobě stín, ozvěnu. A to jsi ty.",
+      "source": "pre_existing",
+      "original_cz": "Když jsem opustil Údolí snů... Zanechal jsem po sobě stín, ozvěnu. A to jsi ty."
+    },
+    {
+      "key": "TheForgotten_021_f",
+      "en": "ME? How do you know I'm not the REAL {PlayerName}? What if YOU'RE the echo?!",
+      "cz": "JÁ? Jak víš, že nejsem SKUTEČNÝ {PlayerName}? Co když TY JSI ozvěna?!",
+      "source": "pre_existing",
+      "original_cz": "JÁ? Jak víš, že nejsem SKUTEČNÝ {PlayerName}? Co když TY JSI ozvěna?!"
+    }
+  ],
+  "DarkMountainsUpdate_TheForgotten/TheForgotten_MRQS133_TheDarkCastle_MRQS133_TheDarkCastle_TalkTo05.locbin": [
+    {
+      "key": "TheForgotten_003_f",
+      "en": "Huh? You again?!",
+      "cz": "Cože? Zase ty?!",
+      "source": "pre_existing",
+      "original_cz": "Cože? Zase ty?!"
+    },
+    {
+      "key": "TheForgotten_004_f",
+      "en": "How did you make it past all my doors?!",
+      "cz": "Jak ses dostal/a kolem všech mých dveří?!",
+      "source": "pre_existing",
+      "original_cz": "Jak ses dostal/a kolem všech mých dveří?!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "It was tough. But I did it.",
+      "cz": "Bylo to těžké. Ale zvládl jsem to.",
+      "source": "pre_existing",
+      "original_cz": "Bylo to těžké. Ale zvládl jsem to."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "As villainous lairs go, this one could use some work.",
+      "cz": "Co se týče darebáckých doupat, tohle by se hodilo trochu zapracovat.",
+      "source": "pre_existing",
+      "original_cz": "Co se týče darebáckých doupat, tohle by se hodilo trochu zapracovat."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Ever considered a security system? Maybe some cameras and alarms?",
+      "cz": "Uvažovali jste někdy o bezpečnostním systému? Možná o kamerách a alarmech?",
+      "source": "pre_existing",
+      "original_cz": "Uvažovali jste někdy o bezpečnostním systému? Možná o kamerách a alarmech?"
+    },
+    {
+      "key": "TheForgotten_005_f",
+      "en": "Well, sorry to tell you, but all your hard work was for nothing.",
+      "cz": "No, je mi líto, že ti to musím říct, ale veškerá tvá tvrdá práce byla k ničemu.",
+      "source": "pre_existing",
+      "original_cz": "No, je mi líto, že ti to musím říct, ale veškerá tvá tvrdá práce byla k ničemu."
+    },
+    {
+      "key": "TheForgotten_009_f",
+      "en": "I've already cast the spell. Not even I could stop it now.",
+      "cz": "Už jsem seslal kouzlo. Ani já bych ho teď nemohl zastavit.",
+      "source": "pre_existing",
+      "original_cz": "Už jsem seslal kouzlo. Ani já bych ho teď nemohl zastavit."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "We can stop this. Together.",
+      "cz": "Tomuto můžeme zabránit. Společně.",
+      "source": "pre_existing",
+      "original_cz": "Tomuto můžeme zabránit. Společně."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Please. Think of our friends in the Village.",
+      "cz": "Prosím. Myslete na naše přátele ve vesnici.",
+      "source": "pre_existing",
+      "original_cz": "Prosím. Myslete na naše přátele ve vesnici."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "You're about to destroy the universe.",
+      "cz": "Chystáš se zničit vesmír.",
+      "source": "pre_existing",
+      "original_cz": "Chystáš se zničit vesmír."
+    },
+    {
+      "key": "TheForgotten_011_f",
+      "en": "Together? Ha! Yeah, sure. You know, if you hadn't abandoned me here in the first place... none of this would be happening.",
+      "cz": "Společně? Ha! Jasně. Víš, kdybys mě tu od začátku neopustila... nic z toho by se nedělo.",
+      "source": "pre_existing",
+      "original_cz": "Společně? Ha! Jasně. Víš, kdybys mě tu od začátku neopustila... nic z toho by se nedělo."
+    },
+    {
+      "key": "TheForgotten_016_f",
+      "en": "I never meant for you to be left behind. I didn't know. I just... I got caught up in my own life.",
+      "cz": "Nikdy jsem nechtěl, abys zůstal pozadu. Nevěděl jsem. Jen... Zabral jsem do svého vlastního života.",
+      "source": "pre_existing",
+      "original_cz": "Nikdy jsem nechtěl, abys zůstal pozadu. Nevěděl jsem. Jen... Zabral jsem do svého vlastního života."
+    },
+    {
+      "key": "TheForgotten_017_f",
+      "en": "More lies. More lies to try to confuse me.",
+      "cz": "Další lži. Další lži, které se mě snaží zmást.",
+      "source": "pre_existing",
+      "original_cz": "Další lži. Další lži, které se mě snaží zmást."
+    },
+    {
+      "key": "TheForgotten_018_f",
+      "en": "All I want to do is make sure no one ever goes through what I went through. I won't let you ruin that.",
+      "cz": "Chci jen zajistit, aby si nikdo nikdy neprošel tím, čím jsem si prošel já. Nedovolím, abys to zkazil.",
+      "source": "pre_existing",
+      "original_cz": "Chci jen zajistit, aby si nikdo nikdy neprošel tím, čím jsem si prošel já. Nedovolím, abys to zkazil."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Please. I don't want to fight.",
+      "cz": "Prosím. Nechci se prát.",
+      "source": "pre_existing",
+      "original_cz": "Prosím. Nechci se prát."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "I'm going to stop you. However I have to.",
+      "cz": "Zastavím tě. Nicméně musím.",
+      "source": "pre_existing",
+      "original_cz": "Zastavím tě. Nicméně musím."
+    },
+    {
+      "key": "Player_002_choice_003_f",
+      "en": "I'm excited to see whose magic is stronger.",
+      "cz": "Těším se, až uvidím, čí magie je silnější.",
+      "source": "pre_existing",
+      "original_cz": "Těším se, až uvidím, čí magie je silnější."
+    },
+    {
+      "key": "TheForgotten_020_f",
+      "en": "You don't want to fight because you know I'll win.",
+      "cz": "Nechceš bojovat, protože víš, že já vyhraju.",
+      "source": "pre_existing",
+      "original_cz": "Nechceš bojovat, protože víš, že já vyhraju."
+    },
+    {
+      "key": "TheForgotten_024_f",
+      "en": "You asked for this. Let's go.",
+      "cz": "Sám sis to přál. Pojďme na to.",
+      "source": "pre_existing",
+      "original_cz": "Sám sis to přál. Pojďme na to."
+    },
+    {
+      "key": "TheForgotten_021_f",
+      "en": "Then we've got nothing more to talk about.",
+      "cz": "Pak už nemáme o čem mluvit.",
+      "source": "pre_existing",
+      "original_cz": "Pak už nemáme o čem mluvit."
+    },
+    {
+      "key": "TheForgotten_022_f",
+      "en": "Duh. Obviously mine.",
+      "cz": "No jasně. Je to samozřejmě moje.",
+      "source": "pre_existing",
+      "original_cz": "No jasně. Je to samozřejmě moje."
+    },
+    {
+      "key": "TheForgotten_012_f",
+      "en": "Did they think of me when I disappeared from the Village?",
+      "cz": "Vzpomněli na mě, když jsem zmizel z vesnice?",
+      "source": "pre_existing",
+      "original_cz": "Vzpomněli na mě, když jsem zmizel z vesnice?"
+    },
+    {
+      "key": "TheForgotten_014_f",
+      "en": "Everyone tried their best. But the Forgetting... the Night Thorns... there was nothing anyone could do.",
+      "cz": "Všichni se snažili, jak nejlépe uměli. Ale Zapomnění... Noční trny... nikdo s tím nemohl nic dělat.",
+      "source": "pre_existing",
+      "original_cz": "Všichni se snažili, jak nejlépe uměli. Ale Zapomnění... Noční trny... nikdo s tím nemohl nic dělat."
+    },
+    {
+      "key": "TheForgotten_013_f",
+      "en": "What...? No, I'm not. Don't lie to me.",
+      "cz": "Cože...? Ne, nejsem. Nelži mi.",
+      "source": "pre_existing",
+      "original_cz": "Cože...? Ne, nejsem. Nelži mi."
+    },
+    {
+      "key": "TheForgotten_015_f",
+      "en": "I'm not lying. The magic you're messing with... It's dangerous.",
+      "cz": "Nelžu. Ta magie, se kterou si zahráváš... Je nebezpečná.",
+      "source": "pre_existing",
+      "original_cz": "Nelžu. Ta magie, se kterou si zahráváš... Je nebezpečná."
+    },
+    {
+      "key": "TheForgotten_006_f",
+      "en": "Hey! I think I did a pretty good job in here.",
+      "cz": "Hej! Myslím, že jsem to tady docela zvládl.",
+      "source": "pre_existing",
+      "original_cz": "Hej! Myslím, že jsem to tady docela zvládl."
+    },
+    {
+      "key": "TheForgotten_008_f",
+      "en": "Ugh. You're trying to get to me. But it won't work. It's too late for that.",
+      "cz": "Uf. Snažíš se mě dostat. Ale to nevyjde. Na to je už pozdě.",
+      "source": "pre_existing",
+      "original_cz": "Uf. Snažíš se mě dostat. Ale to nevyjde. Na to je už pozdě."
+    },
+    {
+      "key": "TheForgotten_007_f",
+      "en": "Thanks for the tip. But I won't be needing that. You're already too late.",
+      "cz": "Díky za tip. Ale to nebudu potřebovat. Už je pozdě.",
+      "source": "pre_existing",
+      "original_cz": "Díky za tip. Ale to nebudu potřebovat. Už je pozdě."
+    }
+  ],
+  "DarkMountainsUpdate_TheForgotten/TheForgotten_MRQS137_ReachTheLight_MRQS137_ReachTheLight_TalkTo01.locbin": [
+    {
+      "key": "TheForgotten_005_f",
+      "en": "Where are we...? Is this some kind of trick?!",
+      "cz": "Kde to jsme...? Je to nějaký trik?!",
+      "source": "pre_existing",
+      "original_cz": "Kde to jsme...? Je to nějaký trik?!"
+    },
+    {
+      "key": "TheForgotten_006_f",
+      "en": "No! I didn't do this. When our magic collided... it brought us here.",
+      "cz": "Ne! Tohle jsem neudělal. Když se naše magie srazila... přivedla nás sem.",
+      "source": "pre_existing",
+      "original_cz": "Ne! Tohle jsem neudělal. Když se naše magie srazila... přivedla nás sem."
+    },
+    {
+      "key": "Player_000_f",
+      "en": "Maybe it's...",
+      "cz": "Možná je to...",
+      "source": "pre_existing",
+      "original_cz": "Možná je to..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "...a dream?",
+      "cz": "...sen?",
+      "source": "pre_existing",
+      "original_cz": "...sen?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "...the Here and There?",
+      "cz": "...tady a tam?",
+      "source": "pre_existing",
+      "original_cz": "...tady a tam?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "...a memory?",
+      "cz": "...vzpomínka?",
+      "source": "pre_existing",
+      "original_cz": "...vzpomínka?"
+    },
+    {
+      "key": "TheForgotten_007_f",
+      "en": "Well... duh. Everything in Dreamlight Valley is a dream. But this is... different.",
+      "cz": "No... jasně. Všechno v Údolí snů je sen. Ale tohle je... jiné.",
+      "source": "pre_existing",
+      "original_cz": "No... jasně. Všechno v Údolí snů je sen. Ale tohle je... jiné."
+    },
+    {
+      "key": "TheForgotten_010_f",
+      "en": "I think... I think it's a place we share together. Somewhere our oldest memories go.",
+      "cz": "Myslím... Myslím, že je to místo, které sdílíme společně. Někde, kde sídlí naše nejstarší vzpomínky.",
+      "source": "pre_existing",
+      "original_cz": "Myslím... Myslím, že je to místo, které sdílíme společně. Někde, kde sídlí naše nejstarší vzpomínky."
+    },
+    {
+      "key": "TheForgotten_011_f",
+      "en": "Then that must mean... this sandbox...?",
+      "cz": "To tedy musí znamenat... toto pískoviště...?",
+      "source": "pre_existing",
+      "original_cz": "To tedy musí znamenat... toto pískoviště...?"
+    },
+    {
+      "key": "TheForgotten_012_f",
+      "en": "You remember it too, don't you?",
+      "cz": "Taky si to pamatuješ, že?",
+      "source": "pre_existing",
+      "original_cz": "Taky si to pamatuješ, že?"
+    },
+    {
+      "key": "TheForgotten_013_f",
+      "en": "But something's not right about it. Something is missing.",
+      "cz": "Ale něco s tím není v pořádku. Něco chybí.",
+      "source": "pre_existing",
+      "original_cz": "Ale něco s tím není v pořádku. Něco chybí."
+    },
+    {
+      "key": "TheForgotten_014_f",
+      "en": "I can fix it. I know I can.",
+      "cz": "Opravím to. Vím, že to dokážu.",
+      "source": "pre_existing",
+      "original_cz": "Opravím to. Vím, že to dokážu."
+    },
+    {
+      "key": "TheForgotten_008_f",
+      "en": "I don't think this is someplace far away.",
+      "cz": "Nemyslím si, že je to někde daleko.",
+      "source": "pre_existing",
+      "original_cz": "Nemyslím si, že je to někde daleko."
+    },
+    {
+      "key": "TheForgotten_009_f",
+      "en": "I think you're right.",
+      "cz": "Myslím, že máš pravdu.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že máš pravdu."
+    }
+  ],
+  "DarkMountainsUpdate_TheForgotten/TheForgotten_MRQS137_ReachTheLight_MRQS137_ReachTheLight_TalkTo02.locbin": [
+    {
+      "key": "TheForgotten_002_f",
+      "en": "I remember now. This bookshelf, it used to be covered in our favorite stories.",
+      "cz": "Teď si vzpomínám. Tahle knihovna bývala pokrytá našimi oblíbenými příběhy.",
+      "source": "pre_existing",
+      "original_cz": "Teď si vzpomínám. Tahle knihovna bývala pokrytá našimi oblíbenými příběhy."
+    },
+    {
+      "key": "TheForgotten_003_f",
+      "en": "We'd spend hours reading them together...",
+      "cz": "Strávili jsme hodiny jejich čtením společně...",
+      "source": "pre_existing",
+      "original_cz": "Strávili jsme hodiny jejich čtením společně..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Stories let us be whatever we wanted.",
+      "cz": "Příběhy nám dovolují být čímkoli chceme.",
+      "source": "pre_existing",
+      "original_cz": "Příběhy nám dovolují být čímkoli chceme."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Stories let us explore from the safety of our room.",
+      "cz": "Příběhy nám umožňují prozkoumávat z bezpečí našeho pokoje.",
+      "source": "pre_existing",
+      "original_cz": "Příběhy nám umožňují prozkoumávat z bezpečí našeho pokoje."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Stories were our safe place.",
+      "cz": "Příběhy byly naším bezpečným místem.",
+      "source": "pre_existing",
+      "original_cz": "Příběhy byly naším bezpečným místem."
+    },
+    {
+      "key": "TheForgotten_004_f",
+      "en": "Even when we were just a little kid in a big world... stories let us feel powerful. They let us be whoever we wanted.",
+      "cz": "I když jsme byli jen malé děti ve velkém světě... příběhy nám dávaly pocit síly. Dovolily nám být kýmkoli jsme chtěli.",
+      "source": "pre_existing",
+      "original_cz": "I když jsme byli jen malé děti ve velkém světě... příběhy nám dávaly pocit síly. Dovolily nám být kýmkoli jsme chtěli."
+    },
+    {
+      "key": "TheForgotten_007_f",
+      "en": "I... I wish it could be like that again.",
+      "cz": "Já... Kéž by to takhle mohlo být zase.",
+      "source": "pre_existing",
+      "original_cz": "Já... Kéž by to takhle mohlo být zase."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "It can be. Trust me.",
+      "cz": "Může. Věř mi.",
+      "source": "pre_existing",
+      "original_cz": "Může. Věř mi."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Maybe it can't be. And maybe that's okay.",
+      "cz": "Možná to tak být nemůže. A možná je to v pořádku.",
+      "source": "pre_existing",
+      "original_cz": "Možná to tak být nemůže. A možná je to v pořádku."
+    },
+    {
+      "key": "TheForgotten_008_f",
+      "en": "Growing up doesn't have to mean leaving the things that are important to us behind.",
+      "cz": "Dospívání nemusí nutně znamenat opuštění věcí, které jsou pro nás důležité.",
+      "source": "pre_existing",
+      "original_cz": "Dospívání nemusí nutně znamenat opuštění věcí, které jsou pro nás důležité."
+    },
+    {
+      "key": "TheForgotten_009_f",
+      "en": "You can hang on to what you love.",
+      "cz": "Můžeš si nechat to, co miluješ.",
+      "source": "pre_existing",
+      "original_cz": "Můžeš si nechat to, co miluješ."
+    },
+    {
+      "key": "TheForgotten_012_f",
+      "en": "But... what would you hang on to?",
+      "cz": "Ale... čeho byste se držel/a?",
+      "source": "pre_existing",
+      "original_cz": "Ale... čeho byste se držel/a?"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Joy and enthusiasm.",
+      "cz": "Radost a nadšení.",
+      "source": "pre_existing",
+      "original_cz": "Radost a nadšení."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Excitement and exploration.",
+      "cz": "Vzrušení a objevování.",
+      "source": "pre_existing",
+      "original_cz": "Vzrušení a objevování."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Creativity and play.",
+      "cz": "Kreativita a hra.",
+      "source": "pre_existing",
+      "original_cz": "Kreativita a hra."
+    },
+    {
+      "key": "TheForgotten_017_f",
+      "en": "When you're a little kid, you're not so afraid of stuff yet. All you know is joy and excitement about everything you find.",
+      "cz": "Když jsi malé dítě, ještě se ničeho tolik nebojíš. Víš jen radost a nadšení ze všeho, co najdeš.",
+      "source": "pre_existing",
+      "original_cz": "Když jsi malé dítě, ještě se ničeho tolik nebojíš. Víš jen radost a nadšení ze všeho, co najdeš."
+    },
+    {
+      "key": "TheForgotten_016_f",
+      "en": "Come with me. All of those things are waiting for us back in Dreamlight Valley.",
+      "cz": "Pojď se mnou. Všechny tyhle věci na nás čekají v Údolí Světla Snů.",
+      "source": "pre_existing",
+      "original_cz": "Pojď se mnou. Všechny tyhle věci na nás čekají v Údolí Světla Snů."
+    },
+    {
+      "key": "TheForgotten_020_f",
+      "en": "After everything I've done... it's not too late?",
+      "cz": "Po všem, co jsem udělal... není už příliš pozdě?",
+      "source": "pre_existing",
+      "original_cz": "Po všem, co jsem udělal... není už příliš pozdě?"
+    },
+    {
+      "key": "TheForgotten_021_f",
+      "en": "It's never too late.",
+      "cz": "Nikdy není pozdě.",
+      "source": "pre_existing",
+      "original_cz": "Nikdy není pozdě."
+    },
+    {
+      "key": "TheForgotten_022_f",
+      "en": "The spell I started... I don't know if I can stop it on my own.",
+      "cz": "Kouzlo, které jsem začal/a... Nevím, jestli ho dokážu sám/sama zastavit.",
+      "source": "pre_existing",
+      "original_cz": "Kouzlo, které jsem začal/a... Nevím, jestli ho dokážu sám/sama zastavit."
+    },
+    {
+      "key": "TheForgotten_023_f",
+      "en": "Then we'll stop it together. Come on.",
+      "cz": "Tak to spolu zastavíme. Pojďme.",
+      "source": "pre_existing",
+      "original_cz": "Tak to spolu zastavíme. Pojďme."
+    },
+    {
+      "key": "TheForgotten_000_f",
+      "en": "I never want to lose that feeling. No matter how old I get.",
+      "cz": "Nikdy nechci ztratit ten pocit. Bez ohledu na to, kolik mi bude let.",
+      "source": "pre_existing",
+      "original_cz": "Nikdy nechci ztratit ten pocit. Bez ohledu na to, kolik mi bude let."
+    },
+    {
+      "key": "TheForgotten_013_f",
+      "en": "... Me neither. I guess there's still more of a connection between us than I thought.",
+      "cz": "... Já taky ne. Asi je mezi námi pořád větší spojení, než jsem si myslel.",
+      "source": "pre_existing",
+      "original_cz": "... Já taky ne. Asi je mezi námi pořád větší spojení, než jsem si myslel."
+    },
+    {
+      "key": "TheForgotten_015_f",
+      "en": "That and... I can't get what Merlin told me out of my head all of a sudden... Love, kindness, acts of care. You need those too, don't you...?",
+      "cz": "To a... Nemůžu dostat z hlavy, co mi Merlin najednou řekl... Láska, laskavost, projevy péče. Ty to taky potřebuješ, že...?",
+      "source": "pre_existing",
+      "original_cz": "To a... Nemůžu dostat z hlavy, co mi Merlin najednou řekl... Láska, laskavost, projevy péče. Ty to taky potřebuješ, že...?"
+    },
+    {
+      "key": "TheForgotten_024_f",
+      "en": "Now you're getting it. And the stories we loved as kids... They hold all of these things.",
+      "cz": "Teď už tomu rozumíš. A ty příběhy, které jsme jako děti milovali... Ty obsahují všechny tyto věci.",
+      "source": "pre_existing",
+      "original_cz": "Teď už tomu rozumíš. A ty příběhy, které jsme jako děti milovali... Ty obsahují všechny tyto věci."
+    },
+    {
+      "key": "TheForgotten_025_f",
+      "en": "Of course. So as long as we remember those stories... the things we loved about being kids... they'll never be...",
+      "cz": "Samozřejmě. Takže dokud si budeme pamatovat ty příběhy... věci, které jsme milovali na dětství... nikdy nebudou...",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě. Takže dokud si budeme pamatovat ty příběhy... věci, které jsme milovali na dětství... nikdy nebudou..."
+    },
+    {
+      "key": "TheForgotten_026_f",
+      "en": "They'll never be...",
+      "cz": "Nikdy nebudou...",
+      "source": "pre_existing",
+      "original_cz": "Nikdy nebudou..."
+    },
+    {
+      "key": "TheForgotten_027_f",
+      "en": "...forgotten?",
+      "cz": "...zapomněli jste?",
+      "source": "pre_existing",
+      "original_cz": "...zapomněli jste?"
+    },
+    {
+      "key": "TheForgotten_028_f",
+      "en": "Exactly.",
+      "cz": "Přesně tak.",
+      "source": "pre_existing",
+      "original_cz": "Přesně tak."
+    },
+    {
+      "key": "TheForgotten_018_f",
+      "en": "Remember those days? Everything seemed like an adventure. Everything was new.",
+      "cz": "Pamatuješ si ty dny? Všechno se zdálo jako dobrodružství. Všechno bylo nové.",
+      "source": "pre_existing",
+      "original_cz": "Pamatuješ si ty dny? Všechno se zdálo jako dobrodružství. Všechno bylo nové."
+    },
+    {
+      "key": "TheForgotten_019_f",
+      "en": "When you're a kid, you haven't figured out how the world works yet. So there are no limits on what you can do.",
+      "cz": "Když jsi dítě, ještě jsi nepochopil/a, jak svět funguje. Takže neexistují žádná omezení toho, co můžeš dělat.",
+      "source": "pre_existing",
+      "original_cz": "Když jsi dítě, ještě jsi nepochopil/a, jak svět funguje. Takže neexistují žádná omezení toho, co můžeš dělat."
+    },
+    {
+      "key": "TheForgotten_010_f",
+      "en": "Things won't ever be quite like they were when we were kids. But that doesn't mean leaving EVERYTHING behind.",
+      "cz": "Věci už nikdy nebudou úplně takové, jaké byly, když jsme byli děti. Ale to neznamená, že musíme nechat VŠECHNO za sebou.",
+      "source": "pre_existing",
+      "original_cz": "Věci už nikdy nebudou úplně takové, jaké byly, když jsme byli děti. Ale to neznamená, že musíme nechat VŠECHNO za sebou."
+    },
+    {
+      "key": "TheForgotten_011_f",
+      "en": "You can hang on to what's important to you.",
+      "cz": "Můžeš se držet toho, co je pro tebe důležité.",
+      "source": "pre_existing",
+      "original_cz": "Můžeš se držet toho, co je pro tebe důležité."
+    },
+    {
+      "key": "TheForgotten_005_f",
+      "en": "Even when we weren't allowed to bike past the stop sign at the end of the street... stories let us see to the other side of the universe.",
+      "cz": "I když jsme nesměli projet na kole kolem značky stop na konci ulice... příběhy nám umožňují nahlédnout na druhou stranu vesmíru.",
+      "source": "pre_existing",
+      "original_cz": "I když jsme nesměli projet na kole kolem značky stop na konci ulice... příběhy nám umožňují nahlédnout na druhou stranu vesmíru."
+    },
+    {
+      "key": "TheForgotten_006_f",
+      "en": "No matter how bad the world got... stories were somewhere safe.",
+      "cz": "Ať se svět zvrtl jakkoli... příběhy byly někde v bezpečí.",
+      "source": "pre_existing",
+      "original_cz": "Ať se svět zvrtl jakkoli... příběhy byly někde v bezpečí."
+    }
+  ],
+  "DarkMountainsUpdate_TheForgotten/TheForgotten_MRQS137_ReachTheLight_MRQS137_ReachTheLight_TalkTo03.locbin": [
+    {
+      "key": "TheForgotten_003_f",
+      "en": "This... this was our childhood bed, wasn't it...?",
+      "cz": "Tohle... tohle byla naše postel z dětství, že...?",
+      "source": "pre_existing",
+      "original_cz": "Tohle... tohle byla naše postel z dětství, že...?"
+    },
+    {
+      "key": "TheForgotten_004_f",
+      "en": "But something about it isn't right. Something's missing.",
+      "cz": "Ale něco na tom není v pořádku. Něco tu chybí.",
+      "source": "pre_existing",
+      "original_cz": "Ale něco na tom není v pořádku. Něco tu chybí."
+    },
+    {
+      "key": "TheForgotten_005_f",
+      "en": "Do you think we could fix this one, the same way we fixed the sandbox?",
+      "cz": "Myslíš, že bychom tohle mohli opravit stejně, jako jsme opravili pískoviště?",
+      "source": "pre_existing",
+      "original_cz": "Myslíš, že bychom tohle mohli opravit stejně, jako jsme opravili pískoviště?"
+    }
+  ],
+  "DarkMountainsUpdate_TheForgotten/TheForgotten_MRQS137_ReachTheLight_MRQS137_ReachTheLight_TalkTo04.locbin": [
+    {
+      "key": "TheForgotten_002_f",
+      "en": "This desk... I don't remember anything about it.",
+      "cz": "Tenhle stůl... Na nic si z něj nepamatuju.",
+      "source": "pre_existing",
+      "original_cz": "Tenhle stůl... Na nic si z něj nepamatuju."
+    },
+    {
+      "key": "TheForgotten_003_f",
+      "en": "I think I do. This was where I used to do my homework.",
+      "cz": "Myslím, že ano. Tady jsem si dělal domácí úkoly.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že ano. Tady jsem si dělal domácí úkoly."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Homework was never my favorite thing.",
+      "cz": "Domácí úkoly nikdy nebyly mou nejoblíbenější činností.",
+      "source": "pre_existing",
+      "original_cz": "Domácí úkoly nikdy nebyly mou nejoblíbenější činností."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I got so intense about it.",
+      "cz": "Začal jsem se tím tak intenzivně zabývat.",
+      "source": "pre_existing",
+      "original_cz": "Začal jsem se tím tak intenzivně zabývat."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I had no time for anything else.",
+      "cz": "Na nic jiného jsem neměl čas.",
+      "source": "pre_existing",
+      "original_cz": "Na nic jiného jsem neměl čas."
+    },
+    {
+      "key": "TheForgotten_004_f",
+      "en": "Ugh. Me too. I remember wishing I could go play instead.",
+      "cz": "Uf. Já taky. Pamatuji si, že jsem si přála, abych si mohla jít raději hrát.",
+      "source": "pre_existing",
+      "original_cz": "Uf. Já taky. Pamatuji si, že jsem si přála, abych si mohla jít raději hrát."
+    },
+    {
+      "key": "TheForgotten_008_f",
+      "en": "It was like we were being pulled apart. I wanted to play, but you wanted to work.",
+      "cz": "Bylo to, jako by nás někdo od sebe odděloval. Já jsem si chtěl hrát, ale ty jsi chtěl pracovat.",
+      "source": "pre_existing",
+      "original_cz": "Bylo to, jako by nás někdo od sebe odděloval. Já jsem si chtěl hrát, ale ty jsi chtěl pracovat."
+    },
+    {
+      "key": "TheForgotten_009_f",
+      "en": "There must be something else here though. Something from before all that...",
+      "cz": "Musí tu ale být ještě něco jiného. Něco z doby před tím vším...",
+      "source": "pre_existing",
+      "original_cz": "Musí tu ale být ještě něco jiného. Něco z doby před tím vším..."
+    },
+    {
+      "key": "TheForgotten_005_f",
+      "en": "I remember that. It felt like you and I were being torn apart. I wanted to play, but you wanted to work.",
+      "cz": "Pamatuji si to. Cítila jsem se, jako bychom se my dva od sebe oddělovali. Chtěla jsem si hrát, ale ty jsi chtěla pracovat.",
+      "source": "pre_existing",
+      "original_cz": "Pamatuji si to. Cítila jsem se, jako bychom se my dva od sebe oddělovali. Chtěla jsem si hrát, ale ty jsi chtěla pracovat."
+    },
+    {
+      "key": "TheForgotten_006_f",
+      "en": "That sounds right. It was like part of me disappeared.",
+      "cz": "To zní správně. Bylo to, jako by část mě zmizela.",
+      "source": "pre_existing",
+      "original_cz": "To zní správně. Bylo to, jako by část mě zmizela."
+    },
+    {
+      "key": "TheForgotten_007_f",
+      "en": "The part of me that was... you. I wanted to play, but you wanted to work.",
+      "cz": "Část mě, která byla... ty. Chtěl jsem si hrát, ale ty jsi chtěl pracovat.",
+      "source": "pre_existing",
+      "original_cz": "Část mě, která byla... ty. Chtěl jsem si hrát, ale ty jsi chtěl pracovat."
+    }
+  ],
+  "DarkMountainsUpdate_TheForgotten/TheForgotten_MRQS137_ReachTheLight_MRQS137_ReachTheLight_TalkTo06.locbin": [
+    {
+      "key": "TheForgotten_003_f",
+      "en": "It's a bookshelf. Looks sort of dusty...",
+      "cz": "Je to knihovna. Vypadá trochu zaprášeně...",
+      "source": "pre_existing",
+      "original_cz": "Je to knihovna. Vypadá trochu zaprášeně..."
+    },
+    {
+      "key": "TheForgotten_004_f",
+      "en": "I guess we haven't touched anything on it in a long time.",
+      "cz": "Asi jsme se toho dlouho ničeho nedotkli.",
+      "source": "pre_existing",
+      "original_cz": "Asi jsme se toho dlouho ničeho nedotkli."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "We just got too busy.",
+      "cz": "Prostě jsme byli příliš zaneprázdněni.",
+      "source": "pre_existing",
+      "original_cz": "Prostě jsme byli příliš zaneprázdněni."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Life got in the way.",
+      "cz": "Život mi vstoupil do cesty.",
+      "source": "pre_existing",
+      "original_cz": "Život mi vstoupil do cesty."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Too many dry textbooks...",
+      "cz": "Příliš mnoho suchých učebnic...",
+      "source": "pre_existing",
+      "original_cz": "Příliš mnoho suchých učebnic..."
+    },
+    {
+      "key": "TheForgotten_006_f",
+      "en": "When that started happening... it was like a part of me was drifting away.",
+      "cz": "Když se to začalo dít... bylo to, jako by se část mě vzdalovala.",
+      "source": "pre_existing",
+      "original_cz": "Když se to začalo dít... bylo to, jako by se část mě vzdalovala."
+    },
+    {
+      "key": "TheForgotten_009_f",
+      "en": "But... but if we brush the dust off of the shelf, maybe it could be like it used to be?",
+      "cz": "Ale... ale když oprášíme prach z police, možná by to mohlo být jako dřív?",
+      "source": "pre_existing",
+      "original_cz": "Ale... ale když oprášíme prach z police, možná by to mohlo být jako dřív?"
+    }
+  ],
+  "DarkMountainsUpdate_TheForgotten/TheForgotten_MRQS137_ReachTheLight_MRQS137_ReachTheLight_TalkTo07.locbin": [
+    {
+      "key": "TheForgotten_001_f",
+      "en": "Did you see that?",
+      "cz": "Viděl jsi to?",
+      "source": "pre_existing",
+      "original_cz": "Viděl jsi to?"
+    },
+    {
+      "key": "TheForgotten_002_f",
+      "en": "The second we focused our magic... The sandbox looks just how I remember it.",
+      "cz": "V okamžiku, kdy jsme soustředili svou magii... Pískoviště vypadá přesně tak, jak si ho pamatuji.",
+      "source": "pre_existing",
+      "original_cz": "V okamžiku, kdy jsme soustředili svou magii... Pískoviště vypadá přesně tak, jak si ho pamatuji."
+    },
+    {
+      "key": "TheForgotten_005_f",
+      "en": "It's starting to come back to me, too.",
+      "cz": "Taky se mi to začíná vracet.",
+      "source": "pre_existing",
+      "original_cz": "Taky se mi to začíná vracet."
+    },
+    {
+      "key": "TheForgotten_003_f",
+      "en": "Do you remember what it was like...? Being just a little kid?",
+      "cz": "Pamatuješ si, jaké to bylo...? Být jen malé dítě?",
+      "source": "pre_existing",
+      "original_cz": "Pamatuješ si, jaké to bylo...? Být jen malé dítě?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "The only limit was your imagination.",
+      "cz": "Jediným omezením byla vaše představivost.",
+      "source": "pre_existing",
+      "original_cz": "Jediným omezením byla vaše představivost."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Even little plastic beach toys seemed magical.",
+      "cz": "I malé plastové plážové hračky se zdály kouzelné.",
+      "source": "pre_existing",
+      "original_cz": "I malé plastové plážové hračky se zdály kouzelné."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "A sandbox could be a whole world.",
+      "cz": "Pískoviště by mohlo být celým světem.",
+      "source": "pre_existing",
+      "original_cz": "Pískoviště by mohlo být celým světem."
+    },
+    {
+      "key": "TheForgotten_006_f",
+      "en": "Yeah. We used to play for hours. Making up stories. Going on adventures.",
+      "cz": "Jo. Hráli jsme si celé hodiny. Vymýšleli jsme si příběhy. Vydávali se na dobrodružství.",
+      "source": "pre_existing",
+      "original_cz": "Jo. Hráli jsme si celé hodiny. Vymýšleli jsme si příběhy. Vydávali se na dobrodružství."
+    },
+    {
+      "key": "TheForgotten_009_f",
+      "en": "... I miss that. I wish it could be that way again.",
+      "cz": "... To mi chybí. Přála bych si, aby to tak zase bylo.",
+      "source": "pre_existing",
+      "original_cz": "... To mi chybí. Přála bych si, aby to tak zase bylo."
+    },
+    {
+      "key": "TheForgotten_010_f",
+      "en": "Maybe it can be.",
+      "cz": "Možná ano.",
+      "source": "pre_existing",
+      "original_cz": "Možná ano."
+    },
+    {
+      "key": "TheForgotten_011_f",
+      "en": "I... I wish I could believe that...",
+      "cz": "Já... Kéž bych tomu mohl/a věřit...",
+      "source": "pre_existing",
+      "original_cz": "Já... Kéž bych tomu mohl/a věřit..."
+    },
+    {
+      "key": "TheForgotten_012_f",
+      "en": "Ugh. Whatever. Just... <Lore>follow me</Lore>. I think there's more stuff hidden in here.",
+      "cz": "Uf. Cokoliv. Prostě... <Lore>pojď za mnou</Lore>. Myslím, že je tu schovaných víc věcí.",
+      "source": "pre_existing",
+      "original_cz": "Uf. Cokoliv. Prostě... <Lore>pojď za mnou</Lore>. Myslím, že je tu schovaných víc věcí."
+    },
+    {
+      "key": "TheForgotten_007_f",
+      "en": "Ha! It's true. Even a little plastic beach toy buried in the sand seemed like a lost magical artifact from ten thousand years ago.",
+      "cz": "Ha! To je pravda. I malá plastová plážová hračka zahrabaná v písku vypadala jako ztracený magický artefakt z doby před deseti tisíci lety.",
+      "source": "pre_existing",
+      "original_cz": "Ha! To je pravda. I malá plastová plážová hračka zahrabaná v písku vypadala jako ztracený magický artefakt z doby před deseti tisíci lety."
+    },
+    {
+      "key": "TheForgotten_008_f",
+      "en": "I know. You could visit the deepest part of the jungle, or the middle of the desert, or the far reaches of the galaxy without ever leaving your backyard.",
+      "cz": "Já vím. Mohli byste navštívit nejhlubší část džungle, střed pouště nebo odlehlé končiny galaxie, aniž byste museli opustit svůj dvůr.",
+      "source": "pre_existing",
+      "original_cz": "Já vím. Mohli byste navštívit nejhlubší část džungle, střed pouště nebo odlehlé končiny galaxie, aniž byste museli opustit svůj dvůr."
+    }
+  ],
+  "DarkMountainsUpdate_TheForgotten/TheForgotten_MRQS137_ReachTheLight_MRQS137_ReachTheLight_TalkTo08.locbin": [
+    {
+      "key": "TheForgotten_000_f",
+      "en": "Of course. This feels right. This is how I remember it looking.",
+      "cz": "Samozřejmě. Tohle mi přijde správné. Takhle si to pamatuji.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě. Tohle mi přijde správné. Takhle si to pamatuji."
+    },
+    {
+      "key": "Player_000_f",
+      "en": "I remember this blanket now. Or... or at least a blanket just like it. I remember when I was snuggled under it...",
+      "cz": "Teď si na tuhle deku vzpomínám. Nebo... nebo alespoň na deku jako tahle. Pamatuji si, jak jsem se pod ní choulil...",
+      "source": "pre_existing",
+      "original_cz": "Teď si na tuhle deku vzpomínám. Nebo... nebo alespoň na deku jako tahle. Pamatuji si, jak jsem se pod ní choulil..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "...I felt so safe.",
+      "cz": "...Cítil jsem se tak bezpečně.",
+      "source": "pre_existing",
+      "original_cz": "...Cítil jsem se tak bezpečně."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "...I'd spend hours reading with a flashlight.",
+      "cz": "...Strávil bych hodiny čtením s baterkou.",
+      "source": "pre_existing",
+      "original_cz": "...Strávil bych hodiny čtením s baterkou."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "...I'd imagine I was on an adventure.",
+      "cz": "...Představuji si, že jsem na dobrodružství.",
+      "source": "pre_existing",
+      "original_cz": "...Představuji si, že jsem na dobrodružství."
+    },
+    {
+      "key": "TheForgotten_001_f",
+      "en": "Yeah... that sounds right. It was like even if everything in the universe was messed up, we were safe under that blanket.",
+      "cz": "Jo... to zní správně. Bylo to, jako kdyby i kdyby bylo všechno ve vesmíru v háji, byli bychom v bezpečí pod tou dekou.",
+      "source": "pre_existing",
+      "original_cz": "Jo... to zní správně. Bylo to, jako kdyby i kdyby bylo všechno ve vesmíru v háji, byli bychom v bezpečí pod tou dekou."
+    },
+    {
+      "key": "TheForgotten_004_f",
+      "en": "But that was just kid's stuff. Life can't be that simple anymore.",
+      "cz": "Ale to byly jen dětské věci. Život už nemůže být tak jednoduchý.",
+      "source": "pre_existing",
+      "original_cz": "Ale to byly jen dětské věci. Život už nemůže být tak jednoduchý."
+    },
+    {
+      "key": "TheForgotten_005_f",
+      "en": "Maybe not always. But just because you're a grown-up doesn't mean you always need to act grown up.",
+      "cz": "Možná ne vždy. Ale jen proto, že jste dospělí, neznamená, že se musíte vždycky chovat dospěle.",
+      "source": "pre_existing",
+      "original_cz": "Možná ne vždy. Ale jen proto, že jste dospělí, neznamená, že se musíte vždycky chovat dospěle."
+    },
+    {
+      "key": "TheForgotten_006_f",
+      "en": "I... I guess not. Come on. <Lore>Follow me</Lore>. There's more to discover in here.",
+      "cz": "Já... Asi ne. No tak. <Lore>Pojď za mnou</Lore>. Je tu toho víc k objevování.",
+      "source": "pre_existing",
+      "original_cz": "Já... Asi ne. No tak. <Lore>Pojď za mnou</Lore>. Je tu toho víc k objevování."
+    },
+    {
+      "key": "TheForgotten_002_f",
+      "en": "Ha! I remember that. We got through so many books that way. We'd be so tired the next morning.",
+      "cz": "Ha! To si pamatuju. Takhle jsme přečetli tolik knih. Druhý den ráno jsme byli tak unavení.",
+      "source": "pre_existing",
+      "original_cz": "Ha! To si pamatuju. Takhle jsme přečetli tolik knih. Druhý den ráno jsme byli tak unavení."
+    },
+    {
+      "key": "TheForgotten_003_f",
+      "en": "I forgot about that. We would imagine the bed could fly, and it was taking us anywhere in the world that we wanted to go.",
+      "cz": "Na to jsem zapomněl. Představovali jsme si, že postel umí létat a že nás veze kamkoli na světě, kam jsme chtěli.",
+      "source": "pre_existing",
+      "original_cz": "Na to jsem zapomněl. Představovali jsme si, že postel umí létat a že nás veze kamkoli na světě, kam jsme chtěli."
+    }
+  ],
+  "DarkMountainsUpdate_TheForgotten/TheForgotten_MRQS137_ReachTheLight_MRQS137_ReachTheLight_TalkTo09.locbin": [
+    {
+      "key": "TheForgotten_000_f",
+      "en": "Of course. Before this desk was a scary place for doing homework...",
+      "cz": "Samozřejmě. Předtím byl tento stůl děsivým místem pro dělání domácích úkolů...",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě. Předtím byl tento stůl děsivým místem pro dělání domácích úkolů..."
+    },
+    {
+      "key": "TheForgotten_001_f",
+      "en": "...it was a fun place. A place for creativity.",
+      "cz": "...bylo to zábavné místo. Místo pro kreativitu.",
+      "source": "pre_existing",
+      "original_cz": "...bylo to zábavné místo. Místo pro kreativitu."
+    },
+    {
+      "key": "Player_000_f",
+      "en": "I remember! We used to sit here for hours and...",
+      "cz": "Pamatuji si! Sedávali jsme tu celé hodiny a...",
+      "source": "pre_existing",
+      "original_cz": "Pamatuji si! Sedávali jsme tu celé hodiny a..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "...draw!",
+      "cz": "...remíza!",
+      "source": "pre_existing",
+      "original_cz": "...remíza!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "...write stories!",
+      "cz": "...piš příběhy!",
+      "source": "pre_existing",
+      "original_cz": "...piš příběhy!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "...make crafts!",
+      "cz": "...vyrábějte tvoření!",
+      "source": "pre_existing",
+      "original_cz": "...vyrábějte tvoření!"
+    },
+    {
+      "key": "TheForgotten_002_f",
+      "en": "Of course! I wonder where all those old drawings went. Probably in a box somewhere. I hope they didn't get thrown out...",
+      "cz": "Samozřejmě! Zajímalo by mě, kam se všechny ty staré kresby poděly. Pravděpodobně někde v krabici. Doufám, že je nikdo nevyhodil...",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě! Zajímalo by mě, kam se všechny ty staré kresby poděly. Pravděpodobně někde v krabici. Doufám, že je nikdo nevyhodil..."
+    },
+    {
+      "key": "TheForgotten_005_f",
+      "en": "Now, all I use my creativity for is making the Dark Castle. It doesn't feel the same.",
+      "cz": "Teď svou kreativitu využívám jen k tvorbě Temného hradu. Není to ten samý pocit.",
+      "source": "pre_existing",
+      "original_cz": "Teď svou kreativitu využívám jen k tvorbě Temného hradu. Není to ten samý pocit."
+    },
+    {
+      "key": "TheForgotten_006_f",
+      "en": "There's nothing stopping us from working together again. Like we used to.",
+      "cz": "Nic nám nebrání v tom, abychom znovu spolupracovali. Jako dřív.",
+      "source": "pre_existing",
+      "original_cz": "Nic nám nebrání v tom, abychom znovu spolupracovali. Jako dřív."
+    },
+    {
+      "key": "TheForgotten_007_f",
+      "en": "I... I don't know. Let's just <Lore>keep looking around</Lore>.",
+      "cz": "Já... já nevím. Pojďme se prostě <Lore>rozhlédnout</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Já... já nevím. Pojďme se prostě <Lore>rozhlédnout</Lore>."
+    },
+    {
+      "key": "TheForgotten_003_f",
+      "en": "I remember! The stories we wrote together... I guess they were kind of fun. Even if some of them didn't make a whole lot of sense.",
+      "cz": "Pamatuji si! Ty příběhy, co jsme spolu psali... Asi byly docela zábavné. I když některé z nich nedávaly moc smysl.",
+      "source": "pre_existing",
+      "original_cz": "Pamatuji si! Ty příběhy, co jsme spolu psali... Asi byly docela zábavné. I když některé z nich nedávaly moc smysl."
+    },
+    {
+      "key": "TheForgotten_004_f",
+      "en": "I remember now. We were always putting together junk like ice pop sticks and pipe cleaners. Some of it was pretty cool, I guess...",
+      "cz": "Teď si vzpomínám. Vždycky jsme dávali dohromady nějaké haraburdí jako tyčinky na ledovou zmrzlinu a čističe dýmek. Některé z nich byly docela fajn, myslím...",
+      "source": "pre_existing",
+      "original_cz": "Teď si vzpomínám. Vždycky jsme dávali dohromady nějaké haraburdí jako tyčinky na ledovou zmrzlinu a čističe dýmek. Některé z nich byly docela fajn, myslím..."
+    }
+  ],
+  "DarkMountainsUpdate_TheForgotten/TheForgotten_MRQS139_PostCredit_MRQS139_PostCredit_TalkTo01.locbin": [
+    {
+      "key": "TheForgotten_003_f",
+      "en": "That... that was amazing.",
+      "cz": "To... to bylo úžasné.",
+      "source": "pre_existing",
+      "original_cz": "To... to bylo úžasné."
+    },
+    {
+      "key": "TheForgotten_004_f",
+      "en": "Everybody just accepted me for who I was. I thought they'd be mad... I thought they'd hate me...",
+      "cz": "Všichni mě prostě přijali takovou, jaká jsem. Myslela jsem, že se budou zlobit... Myslela jsem, že mě budou nenávidět...",
+      "source": "pre_existing",
+      "original_cz": "Všichni mě prostě přijali takovou, jaká jsem. Myslela jsem, že se budou zlobit... Myslela jsem, že mě budou nenávidět..."
+    },
+    {
+      "key": "TheForgotten_005_f",
+      "en": "I guess kindness, love, care... It's like they're always waiting here for me, aren't they?",
+      "cz": "Asi laskavost, láska, péče... Je to, jako by tu na mě pořád čekaly, že?",
+      "source": "pre_existing",
+      "original_cz": "Asi laskavost, láska, péče... Je to, jako by tu na mě pořád čekaly, že?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "As long as you're willing to give as much as you get.",
+      "cz": "Pokud jste ochotni dát tolik, kolik dostanete.",
+      "source": "pre_existing",
+      "original_cz": "Pokud jste ochotni dát tolik, kolik dostanete."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "As long as you're willing to ask for it.",
+      "cz": "Pokud si o to budete ochotni požádat.",
+      "source": "pre_existing",
+      "original_cz": "Pokud si o to budete ochotni požádat."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Always. No questions asked.",
+      "cz": "Vždy. Žádné otázky.",
+      "source": "pre_existing",
+      "original_cz": "Vždy. Žádné otázky."
+    },
+    {
+      "key": "TheForgotten_006_f",
+      "en": "... Thanks, {PlayerName}.",
+      "cz": "... Děkuji, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "... Děkuji, {PlayerName}."
+    },
+    {
+      "key": "TheForgotten_007_f",
+      "en": "This is... This is a LOT. I hope you don't mind if I spend some time alone for a while, just... to process.",
+      "cz": "Tohle je... Tohle je HODNĚ. Doufám, že ti nebude vadit, když strávím chvíli o samotě, jen... abych to zpracoval/a.",
+      "source": "pre_existing",
+      "original_cz": "Tohle je... Tohle je HODNĚ. Doufám, že ti nebude vadit, když strávím chvíli o samotě, jen... abych to zpracoval/a."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Take as much time as you need.",
+      "cz": "Věnujte si tolik času, kolik potřebujete.",
+      "source": "pre_existing",
+      "original_cz": "Věnujte si tolik času, kolik potřebujete."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Don't take too long. We've got a lot of catching up to do.",
+      "cz": "Nezdržuj se. Musíme toho hodně dohnat.",
+      "source": "pre_existing",
+      "original_cz": "Nezdržuj se. Musíme toho hodně dohnat."
+    },
+    {
+      "key": "TheForgotten_008_f",
+      "en": "Don't worry. I don't think I need too much time. But... I appreciate you giving me the space.",
+      "cz": "Nebojte se. Myslím, že nepotřebuji moc času. Ale... vážím si toho, že jste mi dal prostor.",
+      "source": "pre_existing",
+      "original_cz": "Nebojte se. Myslím, že nepotřebuji moc času. Ale... vážím si toho, že jste mi dal prostor."
+    },
+    {
+      "key": "TheForgotten_009_f",
+      "en": "I couldn't believe how much kindness everybody showed me, even after everything I did.",
+      "cz": "Nemohla jsem uvěřit, kolik laskavosti mi všichni projevili, i po všem, co jsem udělala.",
+      "source": "pre_existing",
+      "original_cz": "Nemohla jsem uvěřit, kolik laskavosti mi všichni projevili, i po všem, co jsem udělala."
+    },
+    {
+      "key": "TheForgotten_010_f",
+      "en": "I feel a lot better already. Promise to <Lore>keep visiting me in the Dark Castle</Lore> until I'm ready to explore the Village?",
+      "cz": "Už se cítím mnohem lépe. Slib mi, že mě budeš <Lore>navštěvovat v Temném hradě</Lore>, dokud nebudu připravený prozkoumat vesnici?",
+      "source": "pre_existing",
+      "original_cz": "Už se cítím mnohem lépe. Slib mi, že mě budeš <Lore>navštěvovat v Temném hradě</Lore>, dokud nebudu připravený prozkoumat vesnici?"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "You couldn't get rid of me if you tried.",
+      "cz": "Ani kdybys to zkusil, nezbavil by ses mě.",
+      "source": "pre_existing",
+      "original_cz": "Ani kdybys to zkusil, nezbavil by ses mě."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Sure, but you have to be okay being alone sometimes too.",
+      "cz": "Jasně, ale i s tím, že jsi někdy sám, musíš být v pohodě.",
+      "source": "pre_existing",
+      "original_cz": "Jasně, ale i s tím, že jsi někdy sám, musíš být v pohodě."
+    },
+    {
+      "key": "TheForgotten_011_f",
+      "en": "We've got too much catching up to do.",
+      "cz": "Máme toho příliš mnoho na dohánění.",
+      "source": "pre_existing",
+      "original_cz": "Máme toho příliš mnoho na dohánění."
+    },
+    {
+      "key": "TheForgotten_012_f",
+      "en": "That sounds... kind of great.",
+      "cz": "To zní... docela skvěle.",
+      "source": "pre_existing",
+      "original_cz": "To zní... docela skvěle."
+    },
+    {
+      "key": "TheForgotten_013_f",
+      "en": "Oh! Hey! Before you go...",
+      "cz": "Ach! Nazdar! Než odejdeš...",
+      "source": "pre_existing",
+      "original_cz": "Ach! Nazdar! Než odejdeš..."
+    },
+    {
+      "key": "TheForgotten_014_f",
+      "en": "...I've got something for you. The <ActivityItem>Orb of Remembrance</ActivityItem>.",
+      "cz": "...Mám pro tebe něco. <ActivityItem>Koule vzpomínky</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "...Mám pro tebe něco. <ActivityItem>Koule vzpomínky</ActivityItem>."
+    },
+    {
+      "key": "TheForgotten_015_f",
+      "en": "Maybe now you can <Lore>put it back in the Pillar</Lore>.",
+      "cz": "Možná ho teď můžeš <Lore>vrátit zpátky do Pilíře</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Možná ho teď můžeš <Lore>vrátit zpátky do Pilíře</Lore>."
+    },
+    {
+      "key": "TheForgotten_016_f",
+      "en": "I know you spent a lot of time alone before. But I think you need to learn to see that being alone doesn't need to be misery.",
+      "cz": "Vím, že jsi předtím trávil/a hodně času sám/sama. Ale myslím, že se musíš naučit vidět, že být sám/sama nemusí být utrpením.",
+      "source": "pre_existing",
+      "original_cz": "Vím, že jsi předtím trávil/a hodně času sám/sama. Ale myslím, že se musíš naučit vidět, že být sám/sama nemusí být utrpením."
+    },
+    {
+      "key": "TheForgotten_017_f",
+      "en": "Sometimes it can be kind of nice!",
+      "cz": "Někdy to může být docela fajn!",
+      "source": "pre_existing",
+      "original_cz": "Někdy to může být docela fajn!"
+    },
+    {
+      "key": "TheForgotten_018_f",
+      "en": "Yeah. It's not so bad being alone when you don't FEEL all alone.",
+      "cz": "Jo. Není tak špatné být sám, když se NECÍTÍŠ úplně sám.",
+      "source": "pre_existing",
+      "original_cz": "Jo. Není tak špatné být sám, když se NECÍTÍŠ úplně sám."
+    },
+    {
+      "key": "TheForgotten_019_f",
+      "en": "Don't worry. I think I'll be ready to come explore the Village with you pretty soon.",
+      "cz": "Neboj se. Myslím, že budu brzy připravený jít s tebou prozkoumat vesnici.",
+      "source": "pre_existing",
+      "original_cz": "Neboj se. Myslím, že budu brzy připravený jít s tebou prozkoumat vesnici."
+    }
+  ]
+}

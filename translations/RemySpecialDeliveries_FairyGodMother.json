@@ -1,0 +1,409 @@
+{
+  "RemySpecialDeliveries_FairyGodMother/FairyGodMother_RPT_Remy_050_RPT_Remy_050_BringItem01.locbin": [
+    {
+      "key": "FairyGodMother_000_f",
+      "en": "Oh! These look quite delicious, {PlayerName}!",
+      "cz": "Páni! Tyhle vypadají docela lahodně, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Páni! Tyhle vypadají docela lahodně, {PlayerName}!"
+    },
+    {
+      "key": "FairyGodMother_001_f",
+      "en": "Now, would you be a dear and bring them to Minnie for me?",
+      "cz": "A teď, byla bys tak milá a donesla je za mě Minnie?",
+      "source": "pre_existing",
+      "original_cz": "A teď, byla bys tak milá a donesla je za mě Minnie?"
+    },
+    {
+      "key": "FairyGodMother_002_f",
+      "en": "And whatever you do, don't tell her I'm the one who sent them. Simply say they were sent by a friend.",
+      "cz": "A ať děláš cokoli, neříkej jí, že jsem je poslala já. Prostě řekni, že je poslal kamarád.",
+      "source": "pre_existing",
+      "original_cz": "A ať děláš cokoli, neříkej jí, že jsem je poslala já. Prostě řekni, že je poslal kamarád."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Don't worry. I'm on it. My lips are sealed.",
+      "cz": "Neboj se. Už to dělám. Držím jazyk za zuby.",
+      "source": "pre_existing",
+      "original_cz": "Neboj se. Už to dělám. Držím jazyk za zuby."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Why so mysterious?",
+      "cz": "Proč tak záhadné?",
+      "source": "pre_existing",
+      "original_cz": "Proč tak záhadné?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "What if she wants to thank you?",
+      "cz": "Co když ti chce poděkovat?",
+      "source": "pre_existing",
+      "original_cz": "Co když ti chce poděkovat?"
+    },
+    {
+      "key": "FairyGodMother_003_f",
+      "en": "I so appreciate your help, dear.",
+      "cz": "Velmi si vážím tvé pomoci, drahá.",
+      "source": "pre_existing",
+      "original_cz": "Velmi si vážím tvé pomoci, drahá."
+    },
+    {
+      "key": "FairyGodMother_005_f",
+      "en": "If Minnie wishes to send her thanks, please ask her to pass along an act of kindness to someone else.",
+      "cz": "Pokud si Minnie přeje poděkovat, požádejte ji, aby někomu jinému předala laskavý skutek.",
+      "source": "pre_existing",
+      "original_cz": "Pokud si Minnie přeje poděkovat, požádejte ji, aby někomu jinému předala laskavý skutek."
+    },
+    {
+      "key": "FairyGodMother_004_f",
+      "en": "Why, because Minnie loves a good mystery. I thought the second part of my gift could be giving her a mystery to solve.",
+      "cz": "Protože Minnie miluje dobrou záhadu. Myslela jsem, že druhou částí mého daru by mohlo být to, že jí dám záhadu k vyřešení.",
+      "source": "pre_existing",
+      "original_cz": "Protože Minnie miluje dobrou záhadu. Myslela jsem, že druhou částí mého daru by mohlo být to, že jí dám záhadu k vyřešení."
+    }
+  ],
+  "RemySpecialDeliveries_FairyGodMother/FairyGodMother_RPT_Remy_050_RPT_Remy_050_BringItem02.locbin": [
+    {
+      "key": "FairyGodMother_000_f",
+      "en": "Oh, thank you for delivering these delicious treats, dear!",
+      "cz": "Díky, drahoušku, že jsi doručila tyto lahodné dobroty!",
+      "source": "pre_existing",
+      "original_cz": "Díky, drahoušku, že jsi doručila tyto lahodné dobroty!"
+    },
+    {
+      "key": "FairyGodMother_001_f",
+      "en": "I just know my guests will love your pumpkin dishes.",
+      "cz": "Vím, že si moji hosté zamilují vaše dýňové pokrmy.",
+      "source": "pre_existing",
+      "original_cz": "Vím, že si moji hosté zamilují vaše dýňové pokrmy."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "No problem! Enjoy!",
+      "cz": "Žádný problém! Užijte si to!",
+      "source": "pre_existing",
+      "original_cz": "Žádný problém! Užijte si to!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Anything else you need a hand with?",
+      "cz": "Potřebujete s něčím dalším pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Potřebujete s něčím dalším pomoct?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "What's this I hear about a pumpkin party?",
+      "cz": "Co to slyším o dýňové párty?",
+      "source": "pre_existing",
+      "original_cz": "Co to slyším o dýňové párty?"
+    },
+    {
+      "key": "FairyGodMother_003_f",
+      "en": "If you've a moment... I would like to ask for one more favor.",
+      "cz": "Máte-li chvilku... Ráda bych vás požádala ještě o jednu laskavost.",
+      "source": "pre_existing",
+      "original_cz": "Máte-li chvilku... Ráda bych vás požádala ještě o jednu laskavost."
+    },
+    {
+      "key": "FairyGodMother_006_f",
+      "en": "In my excitement to put everything together for my pumpkin party, I'm afraid I forgot one very important thing...",
+      "cz": "V mém nadšení z přípravy všeho na mou dýňovou párty jsem se obávám, že jsem zapomněla na jednu velmi důležitou věc...",
+      "source": "pre_existing",
+      "original_cz": "V mém nadšení z přípravy všeho na mou dýňovou párty jsem se obávám, že jsem zapomněla na jednu velmi důležitou věc..."
+    },
+    {
+      "key": "FairyGodMother_008_f",
+      "en": "...to send out the invitations!",
+      "cz": "...rozeslat pozvánky!",
+      "source": "pre_existing",
+      "original_cz": "...rozeslat pozvánky!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I could invite some Villagers!",
+      "cz": "Mohl bych pozvat pár vesničanů!",
+      "source": "pre_existing",
+      "original_cz": "Mohl bych pozvat pár vesničanů!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Why not just send out some enchanted invitations?",
+      "cz": "Proč prostě nerozeslat pár očarovaných pozvánek?",
+      "source": "pre_existing",
+      "original_cz": "Proč prostě nerozeslat pár očarovaných pozvánek?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "That part is kind of crucial for a party.",
+      "cz": "Tato část je pro skupinu docela klíčová.",
+      "source": "pre_existing",
+      "original_cz": "Tato část je pro skupinu docela klíčová."
+    },
+    {
+      "key": "FairyGodMother_009_f",
+      "en": "Oh, would you, dear? I'd be most grateful.",
+      "cz": "Ach, drahoušku? Byla bych ti velmi vděčná.",
+      "source": "pre_existing",
+      "original_cz": "Ach, drahoušku? Byla bych ti velmi vděčná."
+    },
+    {
+      "key": "FairyGodMother_014_f",
+      "en": "For my inaugural party, I'd like to invite <Lore>Vanellope, Stitch, Olaf, Elsa, and Minnie</Lore>.",
+      "cz": "Na mou inaugurační párty bych ráda pozvala <Lore>Vanellope, Stitche, Olafa, Elsu a Minnie</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Na mou inaugurační párty bych ráda pozvala <Lore>Vanellope, Stitche, Olafa, Elsu a Minnie</Lore>."
+    },
+    {
+      "key": "FairyGodMother_015_f",
+      "en": "After all, what matters most is not cake, favors, or other odds and ends...",
+      "cz": "Koneckonců, to, na čem nejvíc záleží, není dort, dárky ani jiné drobnosti...",
+      "source": "pre_existing",
+      "original_cz": "Koneckonců, to, na čem nejvíc záleží, není dort, dárky ani jiné drobnosti..."
+    },
+    {
+      "key": "FairyGodMother_016_f",
+      "en": "...but rather a welcoming atmosphere and many good friends!",
+      "cz": "...ale spíše příjemná atmosféra a spousta dobrých přátel!",
+      "source": "pre_existing",
+      "original_cz": "...ale spíše příjemná atmosféra a spousta dobrých přátel!"
+    },
+    {
+      "key": "FairyGodMother_010_f",
+      "en": "Oh, enchanted invitations can be a bit tricky. They're known to wander and get themselves into trouble.",
+      "cz": "Ach, s očarovanými pozvánkami může být trochu ošemetné. Je známo, že se zatoulají a dostávají se do problémů.",
+      "source": "pre_existing",
+      "original_cz": "Ach, s očarovanými pozvánkami může být trochu ošemetné. Je známo, že se zatoulají a dostávají se do problémů."
+    },
+    {
+      "key": "FairyGodMother_011_f",
+      "en": "It would be much simpler if you could ask some of the Villagers for me.",
+      "cz": "Bylo by mnohem jednodušší, kdybyste se za mě mohla zeptat některých vesničanů.",
+      "source": "pre_existing",
+      "original_cz": "Bylo by mnohem jednodušší, kdybyste se za mě mohla zeptat některých vesničanů."
+    },
+    {
+      "key": "FairyGodMother_012_f",
+      "en": "Of course it is, dear.",
+      "cz": "Samozřejmě, že ano, drahoušku.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě, že ano, drahoušku."
+    },
+    {
+      "key": "FairyGodMother_013_f",
+      "en": "I don't suppose you could help me by inviting some Villagers?",
+      "cz": "Nepředpokládám, že byste mi mohla pomoci pozváním nějakých vesničanů?",
+      "source": "pre_existing",
+      "original_cz": "Nepředpokládám, že byste mi mohla pomoci pozváním nějakých vesničanů?"
+    },
+    {
+      "key": "FairyGodMother_004_f",
+      "en": "How kind of you to ask. And, yes, I could use your help with something...",
+      "cz": "To je od vás laskavé, že se ptáte. A ano, s něčím bych potřebovala vaši pomoc...",
+      "source": "pre_existing",
+      "original_cz": "To je od vás laskavé, že se ptáte. A ano, s něčím bych potřebovala vaši pomoc..."
+    },
+    {
+      "key": "FairyGodMother_005_f",
+      "en": "Yes, it's a new idea I've had that I hope will become a tradition. It's just... I'm afraid I have a bit of a problem, which I was hoping you could help with.",
+      "cz": "Ano, je to nový nápad, který jsem dostala a doufám, že se z něj stane tradice. Jen... Obávám se, že mám menší problém, se kterým jsem doufala, že byste mi mohli pomoci.",
+      "source": "pre_existing",
+      "original_cz": "Ano, je to nový nápad, který jsem dostala a doufám, že se z něj stane tradice. Jen... Obávám se, že mám menší problém, se kterým jsem doufala, že byste mi mohli pomoci."
+    }
+  ],
+  "RemySpecialDeliveries_FairyGodMother/FairyGodMother_RPT_Remy_050_RPT_Remy_050_BringItem03.locbin": [
+    {
+      "key": "FairyGodMother_000_f",
+      "en": "Oh, {PlayerName}, these desserts look scrumptious!",
+      "cz": "Ach, {PlayerName}, tyhle dezerty vypadají lahodně!",
+      "source": "pre_existing",
+      "original_cz": "Ach, {PlayerName}, tyhle dezerty vypadají lahodně!"
+    },
+    {
+      "key": "FairyGodMother_001_f",
+      "en": "I'm sure Ursula will be most pleased with them.",
+      "cz": "Jsem si jistá, že Ursula z nich bude mít velkou radost.",
+      "source": "pre_existing",
+      "original_cz": "Jsem si jistá, že Ursula z nich bude mít velkou radost."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Ursula?!",
+      "cz": "Ursula?!",
+      "source": "pre_existing",
+      "original_cz": "Ursula?!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Are you and Ursula friends?",
+      "cz": "Jste s Ursulou kamarádky?",
+      "source": "pre_existing",
+      "original_cz": "Jste s Ursulou kamarádky?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I hope you didn't get sucked into a deal with her.",
+      "cz": "Doufám, že ses s ní nenechal vtáhnout do dohody.",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že ses s ní nenechal vtáhnout do dohody."
+    },
+    {
+      "key": "FairyGodMother_002_f",
+      "en": "That's right, dear.",
+      "cz": "Přesně tak, drahoušku.",
+      "source": "pre_existing",
+      "original_cz": "Přesně tak, drahoušku."
+    },
+    {
+      "key": "FairyGodMother_005_f",
+      "en": "You see, she was telling me the other day how unappreciated she feels...",
+      "cz": "Víš, nedávno mi říkala, jak moc si ji nikdo neváží...",
+      "source": "pre_existing",
+      "original_cz": "Víš, nedávno mi říkala, jak moc si ji nikdo neváží..."
+    },
+    {
+      "key": "FairyGodMother_006_f",
+      "en": "...and how sure she is that no one ever does an act of kindness for another without wanting something in return.",
+      "cz": "...a jak si je jistá, že nikdo nikdy neprokáže laskavost druhému, aniž by za to chtěl něco na oplátku.",
+      "source": "pre_existing",
+      "original_cz": "...a jak si je jistá, že nikdo nikdy neprokáže laskavost druhému, aniž by za to chtěl něco na oplátku."
+    },
+    {
+      "key": "FairyGodMother_007_f",
+      "en": "I'm hoping this will show her that's simply not true.",
+      "cz": "Doufám, že jí to ukáže, že to prostě není pravda.",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že jí to ukáže, že to prostě není pravda."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "How thoughtful!",
+      "cz": "Jak ohleduplné!",
+      "source": "pre_existing",
+      "original_cz": "Jak ohleduplné!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I'm sure Ursula will appreciate it.",
+      "cz": "Jsem si jistý, že to Ursula ocení.",
+      "source": "pre_existing",
+      "original_cz": "Jsem si jistý, že to Ursula ocení."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "You're wasting your time trying to be nice to her.",
+      "cz": "Ztrácíš čas snahou být na ni milý.",
+      "source": "pre_existing",
+      "original_cz": "Ztrácíš čas snahou být na ni milý."
+    },
+    {
+      "key": "FairyGodMother_008_f",
+      "en": "That's kind of you to say.",
+      "cz": "To je od vás laskavé.",
+      "source": "pre_existing",
+      "original_cz": "To je od vás laskavé."
+    },
+    {
+      "key": "FairyGodMother_010_f",
+      "en": "Now, off you go. Don't delay! Show Ursula that kindness is always the way.",
+      "cz": "A teď jděte. Neváhejte! Ukažte Ursule, že laskavost je vždycky ta správná cesta.",
+      "source": "pre_existing",
+      "original_cz": "A teď jděte. Neváhejte! Ukažte Ursule, že laskavost je vždycky ta správná cesta."
+    },
+    {
+      "key": "FairyGodMother_009_f",
+      "en": "That's my wish.",
+      "cz": "To je mé přání.",
+      "source": "pre_existing",
+      "original_cz": "To je mé přání."
+    },
+    {
+      "key": "FairyGodMother_011_f",
+      "en": "Oh, {PlayerName}. You ought to know that no gift is ever wasted. Giving is itself a marvelous reward.",
+      "cz": "Ach, {PlayerName}. Měla bys vědět, že žádný dar nikdy nepřijde nazmar. Dávání je samo o sobě úžasnou odměnou.",
+      "source": "pre_existing",
+      "original_cz": "Ach, {PlayerName}. Měla bys vědět, že žádný dar nikdy nepřijde nazmar. Dávání je samo o sobě úžasnou odměnou."
+    },
+    {
+      "key": "FairyGodMother_003_f",
+      "en": "I'll simply say that I'm hoping one day Ursula will see that a friend is a wonderful thing to be.",
+      "cz": "Jednoduše řeknu, že doufám, že Ursula jednoho dne pochopí, že být přítelem je úžasná věc.",
+      "source": "pre_existing",
+      "original_cz": "Jednoduše řeknu, že doufám, že Ursula jednoho dne pochopí, že být přítelem je úžasná věc."
+    },
+    {
+      "key": "FairyGodMother_004_f",
+      "en": "A deal? Oh no, nothing like that.",
+      "cz": "Dohoda? Ale ne, nic takového.",
+      "source": "pre_existing",
+      "original_cz": "Dohoda? Ale ne, nic takového."
+    }
+  ],
+  "RemySpecialDeliveries_FairyGodMother/FairyGodMother_RPT_Remy_050_RPT_Remy_050_BringItem05.locbin": [
+    {
+      "key": "FairyGodMother_000_f",
+      "en": "Oh my! These look delicious. Did you make them, dear?",
+      "cz": "Jéj! Vypadají lahodně. Udělala jsi je, drahoušku?",
+      "source": "pre_existing",
+      "original_cz": "Jéj! Vypadají lahodně. Udělala jsi je, drahoušku?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "They're a treat from a friend, just for being you.",
+      "cz": "Jsou to dárky od kamaráda, jen proto, že jste vy.",
+      "source": "pre_existing",
+      "original_cz": "Jsou to dárky od kamaráda, jen proto, že jste vy."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'm not supposed to say who they're from.",
+      "cz": "Nemám říkat, od koho jsou.",
+      "source": "pre_existing",
+      "original_cz": "Nemám říkat, od koho jsou."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "They're a thank-you from Minnie.",
+      "cz": "Je to poděkování od Minnie.",
+      "source": "pre_existing",
+      "original_cz": "Je to poděkování od Minnie."
+    },
+    {
+      "key": "FairyGodMother_001_f",
+      "en": "Oh, I see. They're from Minnie, aren't they?",
+      "cz": "Aha, rozumím. Jsou od Minnie, že?",
+      "source": "pre_existing",
+      "original_cz": "Aha, rozumím. Jsou od Minnie, že?"
+    },
+    {
+      "key": "FairyGodMother_002_f",
+      "en": "She solved the mystery that the gift was from me. Well, bravo to her!",
+      "cz": "Vyřešila záhadu, že dárek byl ode mě. No, bravo!",
+      "source": "pre_existing",
+      "original_cz": "Vyřešila záhadu, že dárek byl ode mě. No, bravo!"
+    },
+    {
+      "key": "FairyGodMother_003_f",
+      "en": "I'll just have to be extra mysterious the next time I want to send her something anonymously.",
+      "cz": "Až jí příště budu chtít něco anonymně poslat, budu muset být ještě záhadnější.",
+      "source": "pre_existing",
+      "original_cz": "Až jí příště budu chtít něco anonymně poslat, budu muset být ještě záhadnější."
+    },
+    {
+      "key": "FairyGodMother_005_f",
+      "en": "Thank you, {PlayerName}. You're everything a good Ruler ought to be — a kind helper and a wonderful friend.",
+      "cz": "Děkuji, {PlayerName}. Jsi vším, čím by dobrý Vládce měl být – laskavým pomocníkem a skvělým přítelem.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji, {PlayerName}. Jsi vším, čím by dobrý Vládce měl být – laskavým pomocníkem a skvělým přítelem."
+    },
+    {
+      "key": "FairyGodMother_004_f",
+      "en": "But I wasn't supposed to tell you that...",
+      "cz": "Ale to jsem ti neměla říkat...",
+      "source": "pre_existing",
+      "original_cz": "Ale to jsem ti neměla říkat..."
+    }
+  ]
+}

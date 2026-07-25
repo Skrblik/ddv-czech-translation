@@ -1,0 +1,418 @@
+{
+  "daisy_Donald/Donald_VLG_Dais_010_VLG_Dais_010_BringItem01.locbin": [
+    {
+      "key": "Donald_000_f",
+      "en": "Thanks, {PlayerName}. This is exactly what I need to finish Daisy's new wardrobe. She'll be over the moon!",
+      "cz": "Díky, {PlayerName}. Tohle je přesně to, co potřebuji k dokončení Daisyina nového šatníku. Bude z toho nadšená!",
+      "source": "pre_existing",
+      "original_cz": "Díky, {PlayerName}. Tohle je přesně to, co potřebuji k dokončení Daisyina nového šatníku. Bude z toho nadšená!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Hey, it was nothing.",
+      "cz": "Hej, nic to nebylo.",
+      "source": "pre_existing",
+      "original_cz": "Hej, nic to nebylo."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Do you need anything else?",
+      "cz": "Potřebujete ještě něco?",
+      "source": "pre_existing",
+      "original_cz": "Potřebujete ještě něco?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Just be careful with that hammer, all right?",
+      "cz": "Jen buď opatrný s tím kladivem, ano?",
+      "source": "pre_existing",
+      "original_cz": "Jen buď opatrný s tím kladivem, ano?"
+    },
+    {
+      "key": "Donald_002_f",
+      "en": "Maybe to you, but not to me. Now I can build Daisy's new wardrobe. It'll be stupendous. I can't wait to show her.",
+      "cz": "Možná tobě, ale mně ne. Teď můžu Daisy ušít nový šatník. Bude to úžasné. Nemůžu se dočkat, až jí to ukážu.",
+      "source": "pre_existing",
+      "original_cz": "Možná tobě, ale mně ne. Teď můžu Daisy ušít nový šatník. Bude to úžasné. Nemůžu se dočkat, až jí to ukážu."
+    },
+    {
+      "key": "Donald_001_f",
+      "en": "Good luck, Donald. While you do that, maybe I'll <Lore>see how Daisy's doing</Lore>.",
+      "cz": "Hodně štěstí, Donalde. Zatímco to budeš dělat, možná se <Lore>podívám, jak se daří Daisy</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Hodně štěstí, Donalde. Zatímco to budeš dělat, možná se <Lore>podívám, jak se daří Daisy</Lore>."
+    },
+    {
+      "key": "Donald_003_f",
+      "en": "Nope! I gotta build this wardrobe myself. I can't wait to show it to Daisy!",
+      "cz": "Ne! Musím si tu skříň postavit sama. Nemůžu se dočkat, až ji ukážu Daisy!",
+      "source": "pre_existing",
+      "original_cz": "Ne! Musím si tu skříň postavit sama. Nemůžu se dočkat, až ji ukážu Daisy!"
+    },
+    {
+      "key": "Donald_004_f",
+      "en": "You got it! I never make the same mistake twice!",
+      "cz": "Máš to! Nikdy neudělám stejnou chybu dvakrát!",
+      "source": "pre_existing",
+      "original_cz": "Máš to! Nikdy neudělám stejnou chybu dvakrát!"
+    },
+    {
+      "key": "Donald_005_f",
+      "en": "Um...",
+      "cz": "Ehm...",
+      "source": "pre_existing",
+      "original_cz": "Ehm..."
+    }
+  ],
+  "daisy_Donald/Donald_VLG_Dais_010_VLG_Dais_010_TalkTo02.locbin": [
+    {
+      "key": "Donald_003_f",
+      "en": "Hey, {PlayerName}. Thanks for helping Daisy clean up.",
+      "cz": "Ahoj, {PlayerName}. Díky, že jsi Daisy pomohla s úklidem.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}. Díky, že jsi Daisy pomohla s úklidem."
+    },
+    {
+      "key": "Donald_004_f",
+      "en": "I just wanted a nice date with her, building that wardrobe together, and then — KERPOW! I ruined everything!",
+      "cz": "Jen jsem si s ní chtěl dát hezké rande, společně si vylepšit šatník, a pak – BUĎ! Zkazil jsem všechno!",
+      "source": "pre_existing",
+      "original_cz": "Jen jsem si s ní chtěl dát hezké rande, společně si vylepšit šatník, a pak – BUĎ! Zkazil jsem všechno!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Daisy wants to make up.",
+      "cz": "Daisy se chce usmířit.",
+      "source": "pre_existing",
+      "original_cz": "Daisy se chce usmířit."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "It was an accident.",
+      "cz": "Byla to nehoda.",
+      "source": "pre_existing",
+      "original_cz": "Byla to nehoda."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Get a grip, Donald.",
+      "cz": "Vzpamatuj se, Donalde.",
+      "source": "pre_existing",
+      "original_cz": "Vzpamatuj se, Donalde."
+    },
+    {
+      "key": "Donald_006_f",
+      "en": "She does?! Hooray!",
+      "cz": "Vážně?! Hurá!",
+      "source": "pre_existing",
+      "original_cz": "Vážně?! Hurá!"
+    },
+    {
+      "key": "Donald_001_f",
+      "en": "I gotta do something for her! Something special — maybe a moonlit cruise? Or I could plant a field of a million daisies, or write her the best love song of all time?",
+      "cz": "Musím pro ni něco udělat! Něco speciálního – třeba plavbu za měsíčního svitu? Nebo bych mohl zasadit pole s milionem sedmikrásek, nebo jí napsat nejlepší milostnou píseň všech dob?",
+      "source": "pre_existing",
+      "original_cz": "Musím pro ni něco udělat! Něco speciálního – třeba plavbu za měsíčního svitu? Nebo bych mohl zasadit pole s milionem sedmikrásek, nebo jí napsat nejlepší milostnou píseň všech dob?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Let's start with the wardrobe.",
+      "cz": "Začněme šatníkem.",
+      "source": "pre_existing",
+      "original_cz": "Začněme šatníkem."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Donald, you're such a romantic!",
+      "cz": "Donalde, jsi takový romantik!",
+      "source": "pre_existing",
+      "original_cz": "Donalde, jsi takový romantik!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Caaaalm down. Let's think small.",
+      "cz": "Uklidněte se. Mysleme v malém.",
+      "source": "pre_existing",
+      "original_cz": "Uklidněte se. Mysleme v malém."
+    },
+    {
+      "key": "Donald_012_f",
+      "en": "Hey, that's a great idea!",
+      "cz": "Hej, to je skvělý nápad!",
+      "source": "pre_existing",
+      "original_cz": "Hej, to je skvělý nápad!"
+    },
+    {
+      "key": "Donald_009_f",
+      "en": "Let's get started right away. If you round up plans and the tools, I'll get the materials.",
+      "cz": "Tak začněme hned. Pokud seženete plány a nářadí, já seženu materiál.",
+      "source": "pre_existing",
+      "original_cz": "Tak začněme hned. Pokud seženete plány a nářadí, já seženu materiál."
+    },
+    {
+      "key": "Donald_010_f",
+      "en": "Oh boy, oh boy! Daisy's gonna be so happy! Come see me as soon as you <Lore>get the materials for the wardrobe</Lore>.",
+      "cz": "Páni, páni! Daisy bude mít takovou radost! Přijď za mnou, jakmile <Lore>seženeš materiál na skříň</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Páni, páni! Daisy bude mít takovou radost! Přijď za mnou, jakmile <Lore>seženeš materiál na skříň</Lore>."
+    },
+    {
+      "key": "Donald_005_f",
+      "en": "Well, Daisy deserves the best! Oh, but growing an entire flower field or writing the greatest song ever might take awhile. Maybe we should start by finishing that wardrobe.",
+      "cz": "No, Daisy si zaslouží to nejlepší! Ale vypěstovat celé květinové pole nebo napsat tu nejlepší písničku vůbec může chvíli trvat. Možná bychom měli začít tím, že dokončíme ten šatník.",
+      "source": "pre_existing",
+      "original_cz": "No, Daisy si zaslouží to nejlepší! Ale vypěstovat celé květinové pole nebo napsat tu nejlepší písničku vůbec může chvíli trvat. Možná bychom měli začít tím, že dokončíme ten šatník."
+    },
+    {
+      "key": "Donald_007_f",
+      "en": "You're right, but... Somehow, these things always happen to me. And Daisy ends up losing. Ya know what? I gotta fix this!",
+      "cz": "Máš pravdu, ale... Nějak se mi tyhle věci vždycky stávají. A Daisy nakonec prohraje. Víš co? Musím to napravit!",
+      "source": "pre_existing",
+      "original_cz": "Máš pravdu, ale... Nějak se mi tyhle věci vždycky stávají. A Daisy nakonec prohraje. Víš co? Musím to napravit!"
+    },
+    {
+      "key": "Donald_008_f",
+      "en": "WAAAAKKKK!!! How dare you?! I— Uh-oh, there I go again. You're right. It was an accident. I gotta fix things.",
+      "cz": "WAAAAKKK!!! Jak se opovažuješ?! Já— Jé, už zase. Máš pravdu. Byla to nehoda. Musím to napravit.",
+      "source": "pre_existing",
+      "original_cz": "WAAAAKKK!!! Jak se opovažuješ?! Já— Jé, už zase. Máš pravdu. Byla to nehoda. Musím to napravit."
+    }
+  ],
+  "daisy_Donald/Donald_VLG_Dais_010_VLG_Dais_010_TalkTo04.locbin": [
+    {
+      "key": "Donald_000_f",
+      "en": "Oh boy! {PlayerName}! You're just in time — I finished the wardrobe. It's perfect and GIGANTIC! Just what Daisy needs.",
+      "cz": "Páni! {PlayerName}! Přišla jsi akorát včas – dokončila jsem šatní skříň. Je perfektní a OBROVSKÁ! Přesně to Daisy potřebuje.",
+      "source": "pre_existing",
+      "original_cz": "Páni! {PlayerName}! Přišla jsi akorát včas – dokončila jsem šatní skříň. Je perfektní a OBROVSKÁ! Přesně to Daisy potřebuje."
+    },
+    {
+      "key": "Donald_002_f",
+      "en": "And since you brought me so many materials, and you've been such a big help — I made you a wardrobe too! Here, as a thank-you.",
+      "cz": "A protože jsi mi přinesla tolik materiálů a byla jsi mi tak velkou pomocí – ušila jsem ti i šatní skříň! Tady, jako poděkování.",
+      "source": "pre_existing",
+      "original_cz": "A protože jsi mi přinesla tolik materiálů a byla jsi mi tak velkou pomocí – ušila jsem ti i šatní skříň! Tady, jako poděkování."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "It's adorable! You're adorable!",
+      "cz": "To je rozkošné! Jsi rozkošná!",
+      "source": "pre_existing",
+      "original_cz": "To je rozkošné! Jsi rozkošná!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "This must have been a TON of work!",
+      "cz": "To musela být hromada práce!",
+      "source": "pre_existing",
+      "original_cz": "To musela být hromada práce!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Not my style, but thanks, Donald!",
+      "cz": "Není to můj styl, ale díky, Donalde!",
+      "source": "pre_existing",
+      "original_cz": "Není to můj styl, ale díky, Donalde!"
+    },
+    {
+      "key": "Donald_001_f",
+      "en": "Aw, I'm just glad ya like it!",
+      "cz": "Jé, to jsem prostě ráda, že se ti to líbí!",
+      "source": "pre_existing",
+      "original_cz": "Jé, to jsem prostě ráda, že se ti to líbí!"
+    },
+    {
+      "key": "Donald_005_f",
+      "en": "I'm gonna go give Daisy her wardrobe now. Why don'tcha come along?",
+      "cz": "Jdu teď dát Daisy její šatník. Proč nejdeš s námi?",
+      "source": "pre_existing",
+      "original_cz": "Jdu teď dát Daisy její šatník. Proč nejdeš s námi?"
+    },
+    {
+      "key": "Donald_003_f",
+      "en": "Oh, it was. But you really helped fix things between Daisy and me, so I was happy to do it.",
+      "cz": "Aha, to jo. Ale opravdu jsi pomohl/a napravit věci mezi mnou a Daisy, takže jsem to rád/a udělal/a.",
+      "source": "pre_existing",
+      "original_cz": "Aha, to jo. Ale opravdu jsi pomohl/a napravit věci mezi mnou a Daisy, takže jsem to rád/a udělal/a."
+    },
+    {
+      "key": "Donald_004_f",
+      "en": "Oh. Well, you never know, you might get good taste someday.",
+      "cz": "No, člověk nikdy neví, třeba jednou na to přijde.",
+      "source": "pre_existing",
+      "original_cz": "No, člověk nikdy neví, třeba jednou na to přijde."
+    }
+  ],
+  "daisy_Donald/Donald_VLG_Dais_010_VLG_Dais_010_TalkTo06.locbin": [
+    {
+      "key": "Donald_000_f",
+      "en": "Aw phooey. Just look at this mess, {PlayerName}. And it's all my fault. I bet you came here to laugh at me, huh?",
+      "cz": "Jejda. Jen se podívej na tenhle nepořádek, {PlayerName}. A je to všechno moje chyba. Vsadím se, že ses mi přišel smát, co?",
+      "source": "pre_existing",
+      "original_cz": "Jejda. Jen se podívej na tenhle nepořádek, {PlayerName}. A je to všechno moje chyba. Vsadím se, že ses mi přišel smát, co?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm only here to help.",
+      "cz": "Jsem tu jen proto, abych pomohl/a.",
+      "source": "pre_existing",
+      "original_cz": "Jsem tu jen proto, abych pomohl/a."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Laugh? What's the story here?",
+      "cz": "Smích? O co jde?",
+      "source": "pre_existing",
+      "original_cz": "Smích? O co jde?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "This IS hilariously chaotic...",
+      "cz": "Tohle je fakt legrační chaotické...",
+      "source": "pre_existing",
+      "original_cz": "Tohle je fakt legrační chaotické..."
+    },
+    {
+      "key": "Donald_001_f",
+      "en": "You are? That's fantastic! You see...",
+      "cz": "Jsi? To je fantastické! Vidíš...",
+      "source": "pre_existing",
+      "original_cz": "Jsi? To je fantastické! Vidíš..."
+    },
+    {
+      "key": "Donald_002_f",
+      "en": "...Daisy and I were building her new wardrobe, when I hit my hand with the hammer — hard!",
+      "cz": "...S Daisy jsme jí stavěly novou skříň, když jsem se praštila kladivem do ruky – pořádně!",
+      "source": "pre_existing",
+      "original_cz": "...S Daisy jsme jí stavěly novou skříň, když jsem se praštila kladivem do ruky – pořádně!"
+    },
+    {
+      "key": "Donald_004_f",
+      "en": "I jumped back and tripped on Daisy's toolbox, knocked over the flower pots, and spilled everything everywhere. It's a mess. A GIGANTIC mess!",
+      "cz": "Odskočila jsem a zakopla o Daisyinu bednu s nářadím, převrhla květináče a všechno jsem všude rozlila. Je to nepořádek. OBROVSKÝ nepořádek!",
+      "source": "pre_existing",
+      "original_cz": "Odskočila jsem a zakopla o Daisyinu bednu s nářadím, převrhla květináče a všechno jsem všude rozlila. Je to nepořádek. OBROVSKÝ nepořádek!"
+    },
+    {
+      "key": "Donald_005_f",
+      "en": "Daisy's gotta be upset! I bet she's furious with me.",
+      "cz": "Daisy musí být naštvaná! Vsadím se, že je na mě naštvaná.",
+      "source": "pre_existing",
+      "original_cz": "Daisy musí být naštvaná! Vsadím se, že je na mě naštvaná."
+    },
+    {
+      "key": "Donald_006_f",
+      "en": "Donald... it was an accident, and Daisy's worried that YOU'RE upset with her. Why don't we start fixing this by cleaning up?",
+      "cz": "Donalde... byla to nehoda a Daisy se bojí, že JSI na ni naštvaný. Proč to nezačneme opravovat úklidem?",
+      "source": "pre_existing",
+      "original_cz": "Donalde... byla to nehoda a Daisy se bojí, že JSI na ni naštvaný. Proč to nezačneme opravovat úklidem?"
+    },
+    {
+      "key": "Donald_008_f",
+      "en": "You'll help me? Oh boy, oh boy! Thanks!",
+      "cz": "Pomůžeš mi? No páni, no páni! Díky!",
+      "source": "pre_existing",
+      "original_cz": "Pomůžeš mi? No páni, no páni! Díky!"
+    },
+    {
+      "key": "Donald_007_f",
+      "en": "It was an accident. Let me talk to her, okay?",
+      "cz": "Byla to nehoda. Nech mě s ní promluvit, ano?",
+      "source": "pre_existing",
+      "original_cz": "Byla to nehoda. Nech mě s ní promluvit, ano?"
+    },
+    {
+      "key": "Donald_003_f",
+      "en": "Chaotic? More like catastrophic!",
+      "cz": "Chaotické? Spíš katastrofické!",
+      "source": "pre_existing",
+      "original_cz": "Chaotické? Spíš katastrofické!"
+    }
+  ],
+  "daisy_Donald/Donald_VLG_Dais_060_VLG_Dais_060_TalkTo10.locbin": [
+    {
+      "key": "Donald_001_f",
+      "en": "{PlayerName}, do you think Daisy's having a good time? Does she need anything? Should I do something for her?",
+      "cz": "{PlayerName}, myslíš, že se Daisy dobře baví? Potřebuje něco? Mám pro ni něco udělat?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, myslíš, že se Daisy dobře baví? Potřebuje něco? Mám pro ni něco udělat?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Relax, Donald. Everything's going well.",
+      "cz": "Uklidni se, Donalde. Všechno jde dobře.",
+      "source": "pre_existing",
+      "original_cz": "Uklidni se, Donalde. Všechno jde dobře."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Why are you stressed?",
+      "cz": "Proč jsi ve stresu?",
+      "source": "pre_existing",
+      "original_cz": "Proč jsi ve stresu?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "You should start a conga line. She'd love that.",
+      "cz": "Měla bys začít s kongou. To by se jí moc líbilo.",
+      "source": "pre_existing",
+      "original_cz": "Měla bys začít s kongou. To by se jí moc líbilo."
+    },
+    {
+      "key": "Donald_002_f",
+      "en": "Are you sure? I better go check that there's enough cheesecake!",
+      "cz": "Jsi si jistý/á? Raději se půjdu podívat, jestli je dost tvarohového dortu!",
+      "source": "pre_existing",
+      "original_cz": "Jsi si jistý/á? Raději se půjdu podívat, jestli je dost tvarohového dortu!"
+    },
+    {
+      "key": "Donald_003_f",
+      "en": "Because I want everything to go right for Daisy.",
+      "cz": "Protože chci, aby pro Daisy všechno dopadlo dobře.",
+      "source": "pre_existing",
+      "original_cz": "Protože chci, aby pro Daisy všechno dopadlo dobře."
+    },
+    {
+      "key": "Donald_004_f",
+      "en": "Look at her. Does she seem happy?",
+      "cz": "Podívejte se na ni. Vypadá šťastně?",
+      "source": "pre_existing",
+      "original_cz": "Podívejte se na ni. Vypadá šťastně?"
+    },
+    {
+      "key": "Donald_005_f",
+      "en": "She does.",
+      "cz": "Ona to dělá.",
+      "source": "pre_existing",
+      "original_cz": "Ona to dělá."
+    },
+    {
+      "key": "Donald_006_f",
+      "en": "Daisy would hate that at her fancy party! I—",
+      "cz": "Daisy by to na své nóbl párty nenáviděla! Já—",
+      "source": "pre_existing",
+      "original_cz": "Daisy by to na své nóbl párty nenáviděla! Já—"
+    },
+    {
+      "key": "Donald_007_f",
+      "en": "Oh...",
+      "cz": "Ó...",
+      "source": "pre_existing",
+      "original_cz": "Ó..."
+    },
+    {
+      "key": "Donald_008_f",
+      "en": "That was a joke.",
+      "cz": "To byl vtip.",
+      "source": "pre_existing",
+      "original_cz": "To byl vtip."
+    },
+    {
+      "key": "Donald_009_f",
+      "en": "It totally was. I promise: The party is going well.",
+      "cz": "Naprosto ano. Slibuji: Párty se daří.",
+      "source": "pre_existing",
+      "original_cz": "Naprosto ano. Slibuji: Párty se daří."
+    }
+  ]
+}

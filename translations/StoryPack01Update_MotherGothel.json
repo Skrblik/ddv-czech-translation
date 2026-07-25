@@ -1,0 +1,915 @@
+{
+  "StoryPack01Update_MotherGothel/MotherGothel_Discussion_Discussion013.locbin": [
+    {
+      "key": "MotherGothel_000_f",
+      "en": "You're frowning.",
+      "cz": "Mračíš se.",
+      "source": "pre_existing",
+      "original_cz": "Mračíš se."
+    },
+    {
+      "key": "MotherGothel_001_f",
+      "en": "Of course I am.",
+      "cz": "Samozřejmě, že jsem.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě, že jsem."
+    },
+    {
+      "key": "MotherGothel_002_f",
+      "en": "My patience is being tried beyond belief!",
+      "cz": "Moje trpělivost je zkoušena k neuvěřitelným výsledkům!",
+      "source": "pre_existing",
+      "original_cz": "Moje trpělivost je zkoušena k neuvěřitelným výsledkům!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Maybe you could try some calming breaths?",
+      "cz": "Možná byste mohl zkusit uklidňující dýchání?",
+      "source": "pre_existing",
+      "original_cz": "Možná byste mohl zkusit uklidňující dýchání?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "What's getting you down?",
+      "cz": "Co tě trápí?",
+      "source": "pre_existing",
+      "original_cz": "Co tě trápí?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I wouldn't describe you as particularly cheery...",
+      "cz": "Nepopsal bych tě jako zvlášť veselého...",
+      "source": "pre_existing",
+      "original_cz": "Nepopsal bych tě jako zvlášť veselého..."
+    },
+    {
+      "key": "MotherGothel_003_f",
+      "en": "Why didn't I think of that?",
+      "cz": "Proč mě to nenapadlo?",
+      "source": "pre_existing",
+      "original_cz": "Proč mě to nenapadlo?"
+    },
+    {
+      "key": "MotherGothel_004_f",
+      "en": "Oh, of course. Because SOMEONE is preventing me!",
+      "cz": "Ach, samozřejmě. Protože mi v tom NĚKDO brání!",
+      "source": "pre_existing",
+      "original_cz": "Ach, samozřejmě. Protože mi v tom NĚKDO brání!"
+    },
+    {
+      "key": "MotherGothel_005_f",
+      "en": "That little metal assemblage, clanking away everywhere. Constantly humming and whistling. Ever since he got those new clothes, he's been insufferable!",
+      "cz": "Ta malá kovová sestava, která všude cinká. Neustále hučí a píská. Od té doby, co dostal ty nové šaty, je nesnesitelný!",
+      "source": "pre_existing",
+      "original_cz": "Ta malá kovová sestava, která všude cinká. Neustále hučí a píská. Od té doby, co dostal ty nové šaty, je nesnesitelný!"
+    },
+    {
+      "key": "MotherGothel_006_f",
+      "en": "And he's giving me a constant headache!",
+      "cz": "A z něj mě neustále bolí hlava!",
+      "source": "pre_existing",
+      "original_cz": "A z něj mě neustále bolí hlava!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "WALL·E is just trying to make people happy...",
+      "cz": "WALL·E se jen snaží udělat lidi šťastnými...",
+      "source": "pre_existing",
+      "original_cz": "WALL·E se jen snaží udělat lidi šťastnými..."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "How rude!",
+      "cz": "Jak neslušné!",
+      "source": "pre_existing",
+      "original_cz": "Jak neslušné!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Can't you tolerate it for now?",
+      "cz": "Nemůžeš to teď tolerovat?",
+      "source": "pre_existing",
+      "original_cz": "Nemůžeš to teď tolerovat?"
+    },
+    {
+      "key": "MotherGothel_007_f",
+      "en": "Yes... Fine... Bravo for him.",
+      "cz": "Ano... Výborně... Bravo pro něj.",
+      "source": "pre_existing",
+      "original_cz": "Ano... Výborně... Bravo pro něj."
+    },
+    {
+      "key": "MotherGothel_008_f",
+      "en": "But can you not make him do it more quietly?!",
+      "cz": "Ale nemůžeš ho přimět, aby to dělal tišeji?!",
+      "source": "pre_existing",
+      "original_cz": "Ale nemůžeš ho přimět, aby to dělal tišeji?!"
+    },
+    {
+      "key": "MotherGothel_009_f",
+      "en": "Finally, someone agrees!",
+      "cz": "Konečně někdo souhlasí!",
+      "source": "pre_existing",
+      "original_cz": "Konečně někdo souhlasí!"
+    },
+    {
+      "key": "MotherGothel_010_f",
+      "en": "Of course, if you truly agreed, you would have already done something about the noise...",
+      "cz": "Samozřejmě, kdybyste s tím opravdu souhlasila, už byste s tím hlukem něco udělala...",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě, kdybyste s tím opravdu souhlasila, už byste s tím hlukem něco udělala..."
+    },
+    {
+      "key": "MotherGothel_011_f",
+      "en": "Tolerating it is exactly what I've been doing.",
+      "cz": "Přesně to jsem dělala, tolerovala jsem to.",
+      "source": "pre_existing",
+      "original_cz": "Přesně to jsem dělala, tolerovala jsem to."
+    },
+    {
+      "key": "MotherGothel_012_f",
+      "en": "The question is: Why should I have to?!",
+      "cz": "Otázka zní: Proč bych měla?!",
+      "source": "pre_existing",
+      "original_cz": "Otázka zní: Proč bych měla?!"
+    },
+    {
+      "key": "MotherGothel_013_f",
+      "en": "A horrific occurrence!",
+      "cz": "Hrozná událost!",
+      "source": "pre_existing",
+      "original_cz": "Hrozná událost!"
+    },
+    {
+      "key": "MotherGothel_014_f",
+      "en": "And why is my mood of any concern of yours?!",
+      "cz": "A proč tě má moje nálada znepokojovat?!",
+      "source": "pre_existing",
+      "original_cz": "A proč tě má moje nálada znepokojovat?!"
+    },
+    {
+      "key": "MotherGothel_015_f",
+      "en": "OK, I'm sorry!",
+      "cz": "Dobře, omlouvám se!",
+      "source": "pre_existing",
+      "original_cz": "Dobře, omlouvám se!"
+    },
+    {
+      "key": "MotherGothel_016_f",
+      "en": "What's bugging you?",
+      "cz": "Co tě trápí?",
+      "source": "pre_existing",
+      "original_cz": "Co tě trápí?"
+    }
+  ],
+  "StoryPack01Update_MotherGothel/MotherGothel_PRM_WallE_020_PRM_WallE_020_BringItem03.locbin": [
+    {
+      "key": "MotherGothel_000_f",
+      "en": "{PlayerName}! I hope you don't need anything, dear.",
+      "cz": "{PlayerName}! Doufám, že nic nepotřebuješ, drahoušku.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}! Doufám, že nic nepotřebuješ, drahoušku."
+    },
+    {
+      "key": "MotherGothel_001_f",
+      "en": "Surely you can see that I'm busy? Come back, oh... a year from now?",
+      "cz": "Jistě vidíš, že jsem zaneprázdněná? Vrať se, ehm... za rok?",
+      "source": "pre_existing",
+      "original_cz": "Jistě vidíš, že jsem zaneprázdněná? Vrať se, ehm... za rok?"
+    },
+    {
+      "key": "MotherGothel_002_f",
+      "en": "I'm just teasing! Oh, the look on your face. You're always welcome! You know that.",
+      "cz": "Jen žertuju! Ach, ten výraz v tvé tváři. Vždycky jsi vítán/a! To přece víš.",
+      "source": "pre_existing",
+      "original_cz": "Jen žertuju! Ach, ten výraz v tvé tváři. Vždycky jsi vítán/a! To přece víš."
+    },
+    {
+      "key": "MotherGothel_003_f",
+      "en": "Here! I have something for you!",
+      "cz": "Tady! Mám pro tebe něco!",
+      "source": "pre_existing",
+      "original_cz": "Tady! Mám pro tebe něco!"
+    },
+    {
+      "key": "MotherGothel_004_f",
+      "en": "You do? Well, why didn't you say so?!",
+      "cz": "Vážně? No, proč jsi to neřekla?!",
+      "source": "pre_existing",
+      "original_cz": "Vážně? No, proč jsi to neřekla?!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I tried, but you cut me off and—",
+      "cz": "Snažil jsem se, ale přerušil jsi mě a—",
+      "source": "pre_existing",
+      "original_cz": "Snažil jsem se, ale přerušil jsi mě a—"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'm sorry. Can you ever forgive me?",
+      "cz": "Je mi to líto. Dokážeš mi někdy odpustit?",
+      "source": "pre_existing",
+      "original_cz": "Je mi to líto. Dokážeš mi někdy odpustit?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Do you want it or not?!",
+      "cz": "Chceš to, nebo ne?!",
+      "source": "pre_existing",
+      "original_cz": "Chceš to, nebo ne?!"
+    },
+    {
+      "key": "MotherGothel_005_f",
+      "en": "Don't be silly; I'd never do such a thing.",
+      "cz": "Nebuď hloupá; já bych nikdy nic takového neudělala.",
+      "source": "pre_existing",
+      "original_cz": "Nebuď hloupá; já bych nikdy nic takového neudělala."
+    },
+    {
+      "key": "MotherGothel_006_f",
+      "en": "... Well, hurry along with it, {PlayerName}. I told you: I'm busy.",
+      "cz": "... Tak si pospěš, {PlayerName}. Říkala jsem ti: Jsem zaneprázdněná.",
+      "source": "pre_existing",
+      "original_cz": "... Tak si pospěš, {PlayerName}. Říkala jsem ti: Jsem zaneprázdněná."
+    },
+    {
+      "key": "MotherGothel_007_f",
+      "en": "I have an invitation for you. It's to a magic moment on Dazzle Beach with someone special!",
+      "cz": "Mám pro tebe pozvánku. Je to kouzelný okamžik na Dazzle Beach s někým výjimečným!",
+      "source": "pre_existing",
+      "original_cz": "Mám pro tebe pozvánku. Je to kouzelný okamžik na Dazzle Beach s někým výjimečným!"
+    },
+    {
+      "key": "MotherGothel_008_f",
+      "en": "An invitation from a secret admirer?",
+      "cz": "Pozvánka od tajného ctitele?",
+      "source": "pre_existing",
+      "original_cz": "Pozvánka od tajného ctitele?"
+    },
+    {
+      "key": "MotherGothel_009_f",
+      "en": "Finally!",
+      "cz": "Konečně!",
+      "source": "pre_existing",
+      "original_cz": "Konečně!"
+    },
+    {
+      "key": "MotherGothel_010_f",
+      "en": "The fact that it's taken this long is a clear indication of the lack of taste among everyone in this Village.",
+      "cz": "Skutečnost, že to trvalo tak dlouho, jasně svědčí o nedostatku vkusu u všech v této vesnici.",
+      "source": "pre_existing",
+      "original_cz": "Skutečnost, že to trvalo tak dlouho, jasně svědčí o nedostatku vkusu u všech v této vesnici."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "You aren't exactly going out of your way to be friendly...",
+      "cz": "Nesnažíš se být zrovna přátelský...",
+      "source": "pre_existing",
+      "original_cz": "Nesnažíš se být zrovna přátelský..."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I completely agree!",
+      "cz": "Naprosto souhlasím!",
+      "source": "pre_existing",
+      "original_cz": "Naprosto souhlasím!"
+    },
+    {
+      "key": "MotherGothel_011_f",
+      "en": "Nonsense! I'm the warmest and most welcoming person you'll ever meet.",
+      "cz": "Nesmysl! Jsem ten nejvřelejší a nejpřívětivější člověk, jakého kdy potkáte.",
+      "source": "pre_existing",
+      "original_cz": "Nesmysl! Jsem ten nejvřelejší a nejpřívětivější člověk, jakého kdy potkáte."
+    },
+    {
+      "key": "MotherGothel_012_f",
+      "en": "Now... who's the invitation from?",
+      "cz": "A teď... od koho je ta pozvánka?",
+      "source": "pre_existing",
+      "original_cz": "A teď... od koho je ta pozvánka?"
+    },
+    {
+      "key": "MotherGothel_013_f",
+      "en": "It's a surprise.",
+      "cz": "To je překvapení.",
+      "source": "pre_existing",
+      "original_cz": "To je překvapení."
+    },
+    {
+      "key": "MotherGothel_014_f",
+      "en": "How intriguing...",
+      "cz": "Jak fascinující...",
+      "source": "pre_existing",
+      "original_cz": "Jak fascinující..."
+    },
+    {
+      "key": "MotherGothel_015_f",
+      "en": "Head over to <ActivityItem>Dazzle Beach</ActivityItem> at the time listed on the invitation.",
+      "cz": "V čase uvedeném na pozvánce se vydejte na <ActivityItem>Dazzle Beach</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "V čase uvedeném na pozvánce se vydejte na <ActivityItem>Dazzle Beach</ActivityItem>."
+    },
+    {
+      "key": "MotherGothel_016_f",
+      "en": "My curiosity IS rather piqued... All right. I'll do it!",
+      "cz": "Moje zvědavost JE docela rozdmýchaná... Dobře. Udělám to!",
+      "source": "pre_existing",
+      "original_cz": "Moje zvědavost JE docela rozdmýchaná... Dobře. Udělám to!"
+    },
+    {
+      "key": "MotherGothel_017_f",
+      "en": "Ta-ta, {PlayerName}!",
+      "cz": "Ta-ta, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Ta-ta, {PlayerName}!"
+    },
+    {
+      "key": "MotherGothel_018_f",
+      "en": "Then why haven't you done something about it? ... Oh, I'm only teasing! You really must relax, dear.",
+      "cz": "Tak proč jsi s tím něco neudělala? ... Jen žertuju! Opravdu se musíš uklidnit, drahá.",
+      "source": "pre_existing",
+      "original_cz": "Tak proč jsi s tím něco neudělala? ... Jen žertuju! Opravdu se musíš uklidnit, drahá."
+    },
+    {
+      "key": "MotherGothel_019_f",
+      "en": "Possibly. Especially if you have a gift for me!",
+      "cz": "Možná. Zvlášť pokud pro mě máte dárek!",
+      "source": "pre_existing",
+      "original_cz": "Možná. Zvlášť pokud pro mě máte dárek!"
+    },
+    {
+      "key": "MotherGothel_020_f",
+      "en": "Of course. No need to be rude, {PlayerName}.",
+      "cz": "Samozřejmě. Nemusíš být hrubý, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě. Nemusíš být hrubý, {PlayerName}."
+    },
+    {
+      "key": "MotherGothel_021_f",
+      "en": "Didn't your elders teach you any manners?",
+      "cz": "Nenaučili tě tvoji starší nějakému slušnému chování?",
+      "source": "pre_existing",
+      "original_cz": "Nenaučili tě tvoji starší nějakému slušnému chování?"
+    }
+  ],
+  "StoryPack01Update_MotherGothel/MotherGothel_PRM_WallE_020_PRM_WallE_020_TalkTo05.locbin": [
+    {
+      "key": "MotherGothel_000_f",
+      "en": "So... how are you feeling about that, uh... magic moment with Merlin?",
+      "cz": "Takže... jak se cítíš ohledně toho, ehm... magického okamžiku s Merlinem?",
+      "source": "pre_existing",
+      "original_cz": "Takže... jak se cítíš ohledně toho, ehm... magického okamžiku s Merlinem?"
+    },
+    {
+      "key": "MotherGothel_001_f",
+      "en": "Magical?! Ha!",
+      "cz": "Magické?! Ha!",
+      "source": "pre_existing",
+      "original_cz": "Magické?! Ha!"
+    },
+    {
+      "key": "MotherGothel_002_f",
+      "en": "That windbag's attitude only proved to show how unappreciated I am here. Why, he seemed almost offended!",
+      "cz": "Postup toho blbce jen ukázal, jak moc si mě tady neváží. Vždyť se zdál být skoro uražený!",
+      "source": "pre_existing",
+      "original_cz": "Postup toho blbce jen ukázal, jak moc si mě tady neváží. Vždyť se zdál být skoro uražený!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "It's a crying shame!",
+      "cz": "To je naprostá škoda!",
+      "source": "pre_existing",
+      "original_cz": "To je naprostá škoda!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Have you tried doing anything we could appreciate?",
+      "cz": "Zkusil jsi udělat něco, co bychom mohli ocenit?",
+      "source": "pre_existing",
+      "original_cz": "Zkusil jsi udělat něco, co bychom mohli ocenit?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "No need to get angry at Merlin.",
+      "cz": "Není třeba se zlobit na Merlina.",
+      "source": "pre_existing",
+      "original_cz": "Není třeba se zlobit na Merlina."
+    },
+    {
+      "key": "MotherGothel_003_f",
+      "en": "Finally, someone understands! Merlin should have been thrilled to be seen in my company.",
+      "cz": "Konečně to někdo chápe! Merlin měl být nadšený, že ho viděli v mé společnosti.",
+      "source": "pre_existing",
+      "original_cz": "Konečně to někdo chápe! Merlin měl být nadšený, že ho viděli v mé společnosti."
+    },
+    {
+      "key": "MotherGothel_012_f",
+      "en": "Ugh. Fine. I'll be a tad more charitable upon our next meeting. But no more than a tad.",
+      "cz": "Uf. Dobře. Při našem příštím setkání budu o trochu štědřejší. Ale ne o moc víc.",
+      "source": "pre_existing",
+      "original_cz": "Uf. Dobře. Při našem příštím setkání budu o trochu štědřejší. Ale ne o moc víc."
+    },
+    {
+      "key": "MotherGothel_013_f",
+      "en": "Excellent!",
+      "cz": "Výborně!",
+      "source": "pre_existing",
+      "original_cz": "Výborně!"
+    },
+    {
+      "key": "MotherGothel_004_f",
+      "en": "Well, Merlin's not the most sociable guy. Don't take it personally.",
+      "cz": "No, Merlin není zrovna nejspolečenštější chlap. Neber si to osobně.",
+      "source": "pre_existing",
+      "original_cz": "No, Merlin není zrovna nejspolečenštější chlap. Neber si to osobně."
+    },
+    {
+      "key": "MotherGothel_005_f",
+      "en": "In fact — he might have been intimidated by your wit and charm.",
+      "cz": "Ve skutečnosti – váš vtip a šarm ho mohly zastrašit.",
+      "source": "pre_existing",
+      "original_cz": "Ve skutečnosti – váš vtip a šarm ho mohly zastrašit."
+    },
+    {
+      "key": "MotherGothel_006_f",
+      "en": "Very perceptive, {PlayerName}... I suppose anyone would be intimidated, wouldn't they?",
+      "cz": "Velmi vnímavé, {PlayerName}... Předpokládám, že by se to kohokoli zděsilo, že?",
+      "source": "pre_existing",
+      "original_cz": "Velmi vnímavé, {PlayerName}... Předpokládám, že by se to kohokoli zděsilo, že?"
+    },
+    {
+      "key": "MotherGothel_007_f",
+      "en": "Poor Merlin was likely dazzled and not thinking straight.",
+      "cz": "Chudák Merlin byl pravděpodobně oslepený a nemohl jasně myslet.",
+      "source": "pre_existing",
+      "original_cz": "Chudák Merlin byl pravděpodobně oslepený a nemohl jasně myslet."
+    },
+    {
+      "key": "MotherGothel_008_f",
+      "en": "In any case... this was all WALL·E's idea.",
+      "cz": "V každém případě... tohle byl všechno WALL·Eho nápad.",
+      "source": "pre_existing",
+      "original_cz": "V každém případě... tohle byl všechno WALL·Eho nápad."
+    },
+    {
+      "key": "MotherGothel_009_f",
+      "en": "Really? Perhaps I underestimated the little rolling crate.",
+      "cz": "Vážně? Možná jsem podcenila tu malou pojízdnou bednu.",
+      "source": "pre_existing",
+      "original_cz": "Vážně? Možná jsem podcenila tu malou pojízdnou bednu."
+    },
+    {
+      "key": "MotherGothel_010_f",
+      "en": "I'll have to keep my eye on him.",
+      "cz": "Budu na něj muset dávat pozor.",
+      "source": "pre_existing",
+      "original_cz": "Budu na něj muset dávat pozor."
+    },
+    {
+      "key": "MotherGothel_011_f",
+      "en": "Well, since you're feeling more cheerful, can you let bygones be bygones with Merlin?",
+      "cz": "No, když už se cítíš veseleji, mohla bys s Merlinem nechat minulost pryč?",
+      "source": "pre_existing",
+      "original_cz": "No, když už se cítíš veseleji, mohla bys s Merlinem nechat minulost pryč?"
+    },
+    {
+      "key": "MotherGothel_014_f",
+      "en": "Gracing you with my presence should be more than enough! Why, Merlin ought to be flattered that I'd even give him the time of day.",
+      "cz": "Poctit tě svou přítomností by mělo být víc než dost! Merlin by měl být polichocen, že jsem mu vůbec věnovala čas.",
+      "source": "pre_existing",
+      "original_cz": "Poctit tě svou přítomností by mělo být víc než dost! Merlin by měl být polichocen, že jsem mu vůbec věnovala čas."
+    },
+    {
+      "key": "MotherGothel_015_f",
+      "en": "Angry? He's not worth getting angry over. I'm merely appalled at his lack of taste.",
+      "cz": "Zlobí se? Nestojí za to se kvůli němu zlobit. Jen mě zděsí jeho nedostatek vkusu.",
+      "source": "pre_existing",
+      "original_cz": "Zlobí se? Nestojí za to se kvůli němu zlobit. Jen mě zděsí jeho nedostatek vkusu."
+    }
+  ],
+  "StoryPack01Update_MotherGothel/MotherGothel_PRM_WallE_040_PRM_WallE_040_BringItem03.locbin": [
+    {
+      "key": "MotherGothel_000_f",
+      "en": "Well... I suppose these will do.",
+      "cz": "No... předpokládám, že tohle bude stačit.",
+      "source": "pre_existing",
+      "original_cz": "No... předpokládám, že tohle bude stačit."
+    },
+    {
+      "key": "MotherGothel_001_f",
+      "en": "So, what did you do with the plant?",
+      "cz": "Tak co jsi udělala s tou rostlinou?",
+      "source": "pre_existing",
+      "original_cz": "Tak co jsi udělala s tou rostlinou?"
+    },
+    {
+      "key": "MotherGothel_002_f",
+      "en": "I threw it away.",
+      "cz": "Vyhodila jsem to.",
+      "source": "pre_existing",
+      "original_cz": "Vyhodila jsem to."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "WHAT?",
+      "cz": "COŽE?",
+      "source": "pre_existing",
+      "original_cz": "COŽE?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "How could you?",
+      "cz": "Jak jsi mohl?",
+      "source": "pre_existing",
+      "original_cz": "Jak jsi mohl?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "We were reading a story to it...",
+      "cz": "Četli jsme k tomu příběh...",
+      "source": "pre_existing",
+      "original_cz": "Četli jsme k tomu příběh..."
+    },
+    {
+      "key": "MotherGothel_003_f",
+      "en": "I said I disposed of it. Really, dear, you should pay better attention.",
+      "cz": "Řekla jsem, že jsem se toho zbavila. Vážně, drahá, měla bys dávat větší pozor.",
+      "source": "pre_existing",
+      "original_cz": "Řekla jsem, že jsem se toho zbavila. Vážně, drahá, měla bys dávat větší pozor."
+    },
+    {
+      "key": "MotherGothel_004_f",
+      "en": "Where did you throw it out?",
+      "cz": "Kam jsi to vyhodil/a?",
+      "source": "pre_existing",
+      "original_cz": "Kam jsi to vyhodil/a?"
+    },
+    {
+      "key": "MotherGothel_005_f",
+      "en": "The rubbish pile, of course.",
+      "cz": "Hromada odpadků, samozřejmě.",
+      "source": "pre_existing",
+      "original_cz": "Hromada odpadků, samozřejmě."
+    },
+    {
+      "key": "MotherGothel_006_f",
+      "en": "... Mother Gothel, we don't have a rubbish pile in the Valley.",
+      "cz": "... Matko Gothel, v údolí nemáme hromadu smetí.",
+      "source": "pre_existing",
+      "original_cz": "... Matko Gothel, v údolí nemáme hromadu smetí."
+    },
+    {
+      "key": "MotherGothel_007_f",
+      "en": "Of course we do! It's a nasty shade of yellow, rather rectangular, has a ramp in front...",
+      "cz": "Samozřejmě, že ano! Má ošklivý odstín žluté, je spíše obdélníkový, má před sebou rampu...",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě, že ano! Má ošklivý odstín žluté, je spíše obdélníkový, má před sebou rampu..."
+    },
+    {
+      "key": "MotherGothel_008_f",
+      "en": "Rubbish pile?! That's WALL·E's home!",
+      "cz": "Hromada odpadků?! To je domov WALL·Eho!",
+      "source": "pre_existing",
+      "original_cz": "Hromada odpadků?! To je domov WALL·Eho!"
+    },
+    {
+      "key": "MotherGothel_009_f",
+      "en": "... Well, I'm not sure how to react to that without infuriating you further.",
+      "cz": "... No, nejsem si jistá, jak na to reagovat, aniž bych tě ještě víc rozzuřila.",
+      "source": "pre_existing",
+      "original_cz": "... No, nejsem si jistá, jak na to reagovat, aniž bych tě ještě víc rozzuřila."
+    },
+    {
+      "key": "MotherGothel_010_f",
+      "en": "I... Never mind. Thank you for telling us where you left it.",
+      "cz": "Já... Nevadí. Děkujeme, že jste nám řekli, kde jste to nechali.",
+      "source": "pre_existing",
+      "original_cz": "Já... Nevadí. Děkujeme, že jste nám řekli, kde jste to nechali."
+    },
+    {
+      "key": "MotherGothel_011_f",
+      "en": "Goodbye, {PlayerName}! And I hope that's the last time you meddle with my belongings.",
+      "cz": "Sbohem, {PlayerName}! A doufám, že je to naposledy, co se mi pleteš do věcí.",
+      "source": "pre_existing",
+      "original_cz": "Sbohem, {PlayerName}! A doufám, že je to naposledy, co se mi pleteš do věcí."
+    },
+    {
+      "key": "MotherGothel_012_f",
+      "en": "Well, it would have clashed terribly with the décor here — surely you can see that?",
+      "cz": "No, hrozně by to kolidovalo s výzdobou tady – to jistě vidíte, že?",
+      "source": "pre_existing",
+      "original_cz": "No, hrozně by to kolidovalo s výzdobou tady – to jistě vidíte, že?"
+    },
+    {
+      "key": "MotherGothel_013_f",
+      "en": "Oh... that is so pathetic; it must be true.",
+      "cz": "Ach... to je tak ubohé; to musí být pravda.",
+      "source": "pre_existing",
+      "original_cz": "Ach... to je tak ubohé; to musí být pravda."
+    }
+  ],
+  "StoryPack01Update_MotherGothel/MotherGothel_PRM_WallE_040_PRM_WallE_040_BringItem07.locbin": [
+    {
+      "key": "MotherGothel_000_f",
+      "en": "Mother Gothel... we need to talk.",
+      "cz": "Matko Gothel... musíme si promluvit.",
+      "source": "pre_existing",
+      "original_cz": "Matko Gothel... musíme si promluvit."
+    },
+    {
+      "key": "MotherGothel_001_f",
+      "en": "Why, {PlayerName}, whatever about?",
+      "cz": "Proč, {PlayerName}, o co jde?",
+      "source": "pre_existing",
+      "original_cz": "Proč, {PlayerName}, o co jde?"
+    },
+    {
+      "key": "MotherGothel_002_f",
+      "en": "WALL·E and I found this empty vial...",
+      "cz": "WALL·E a já jsme našli tuhle prázdnou lahvičku...",
+      "source": "pre_existing",
+      "original_cz": "WALL·E a já jsme našli tuhle prázdnou lahvičku..."
+    },
+    {
+      "key": "MotherGothel_003_f",
+      "en": "Yours, I presume?",
+      "cz": "Předpokládám, že vaše?",
+      "source": "pre_existing",
+      "original_cz": "Předpokládám, že vaše?"
+    },
+    {
+      "key": "MotherGothel_004_f",
+      "en": "A presumption indeed!",
+      "cz": "Vskutku domněnka!",
+      "source": "pre_existing",
+      "original_cz": "Vskutku domněnka!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "So, it's not yours?",
+      "cz": "Takže to není tvoje?",
+      "source": "pre_existing",
+      "original_cz": "Takže to není tvoje?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Come on; it has to be yours!",
+      "cz": "No tak, musí to být tvoje!",
+      "source": "pre_existing",
+      "original_cz": "No tak, musí to být tvoje!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Do you know who it belongs to?",
+      "cz": "Víš, komu to patří?",
+      "source": "pre_existing",
+      "original_cz": "Víš, komu to patří?"
+    },
+    {
+      "key": "MotherGothel_005_f",
+      "en": "Why would there possibly be a fuss over an empty vial?",
+      "cz": "Proč by se měl kvůli prázdné lahvičce dělat rozruch?",
+      "source": "pre_existing",
+      "original_cz": "Proč by se měl kvůli prázdné lahvičce dělat rozruch?"
+    },
+    {
+      "key": "MotherGothel_006_f",
+      "en": "You're being awfully evasive.",
+      "cz": "Jsi strašně vyhýbavá.",
+      "source": "pre_existing",
+      "original_cz": "Jsi strašně vyhýbavá."
+    },
+    {
+      "key": "MotherGothel_007_f",
+      "en": "Come now, {PlayerName}; a lady must have her secrets.",
+      "cz": "No tak, {PlayerName}; dáma musí mít svá tajemství.",
+      "source": "pre_existing",
+      "original_cz": "No tak, {PlayerName}; dáma musí mít svá tajemství."
+    },
+    {
+      "key": "MotherGothel_008_f",
+      "en": "Well, it's less about the vial than what was supposed to be in that same area. WALL·E's plant has gone missing.",
+      "cz": "No, nejde ani tak o tu lahvičku, jako spíš o to, co mělo být v té samé oblasti. WALL·Eho rostlina zmizela.",
+      "source": "pre_existing",
+      "original_cz": "No, nejde ani tak o tu lahvičku, jako spíš o to, co mělo být v té samé oblasti. WALL·Eho rostlina zmizela."
+    },
+    {
+      "key": "MotherGothel_009_f",
+      "en": "Oh, you're worried about THAT little thing?",
+      "cz": "Aha, děláš si starosti s TOU malou věcí?",
+      "source": "pre_existing",
+      "original_cz": "Aha, děláš si starosti s TOU malou věcí?"
+    },
+    {
+      "key": "MotherGothel_010_f",
+      "en": "Why didn't you say so?!",
+      "cz": "Proč jsi to neřekla?!",
+      "source": "pre_existing",
+      "original_cz": "Proč jsi to neřekla?!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I tried, but you were being really evasive!",
+      "cz": "Snažil jsem se, ale byl jsi opravdu vyhýbavý!",
+      "source": "pre_existing",
+      "original_cz": "Snažil jsem se, ale byl jsi opravdu vyhýbavý!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I... uh... Never mind.",
+      "cz": "Já... ehm... Nevadí.",
+      "source": "pre_existing",
+      "original_cz": "Já... ehm... Nevadí."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "You're right: I should have been more direct.",
+      "cz": "Máš pravdu: Měl jsem být přímočařejší.",
+      "source": "pre_existing",
+      "original_cz": "Máš pravdu: Měl jsem být přímočařejší."
+    },
+    {
+      "key": "MotherGothel_011_f",
+      "en": "Hmmm, and whose fault is that, dear?",
+      "cz": "Hmmm, a čí je to chyba, drahoušku?",
+      "source": "pre_existing",
+      "original_cz": "Hmmm, a čí je to chyba, drahoušku?"
+    },
+    {
+      "key": "MotherGothel_020_f",
+      "en": "What happened to it?",
+      "cz": "Co se s tím stalo?",
+      "source": "pre_existing",
+      "original_cz": "Co se s tím stalo?"
+    },
+    {
+      "key": "MotherGothel_021_f",
+      "en": "Well, I could tell you... if you do something for me first.",
+      "cz": "No, můžu ti to říct... když pro mě nejdřív něco uděláš.",
+      "source": "pre_existing",
+      "original_cz": "No, můžu ti to říct... když pro mě nejdřív něco uděláš."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Why am I not surprised you want something?",
+      "cz": "Proč mě nepřekvapuje, že něco chceš?",
+      "source": "pre_existing",
+      "original_cz": "Proč mě nepřekvapuje, že něco chceš?"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Fair is fair.",
+      "cz": "Fér je fér.",
+      "source": "pre_existing",
+      "original_cz": "Fér je fér."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "What if I say \"pretty please\"?",
+      "cz": "Co když řeknu „prosím hezky“?",
+      "source": "pre_existing",
+      "original_cz": "Co když řeknu „prosím hezky“?"
+    },
+    {
+      "key": "MotherGothel_012_f",
+      "en": "So, you saw the plant?",
+      "cz": "Takže jsi viděl tu rostlinu?",
+      "source": "pre_existing",
+      "original_cz": "Takže jsi viděl tu rostlinu?"
+    },
+    {
+      "key": "MotherGothel_013_f",
+      "en": "I did indeed! My keen senses immediately detected something special about it.",
+      "cz": "Vskutku! Mé bystré smysly na tom okamžitě rozpoznaly něco zvláštního.",
+      "source": "pre_existing",
+      "original_cz": "Vskutku! Mé bystré smysly na tom okamžitě rozpoznaly něco zvláštního."
+    },
+    {
+      "key": "MotherGothel_014_f",
+      "en": "And?!",
+      "cz": "A?!",
+      "source": "pre_existing",
+      "original_cz": "A?!"
+    },
+    {
+      "key": "MotherGothel_015_f",
+      "en": "Ooh, someone's in a hurry.",
+      "cz": "Jé, někdo spěchá.",
+      "source": "pre_existing",
+      "original_cz": "Jé, někdo spěchá."
+    },
+    {
+      "key": "MotherGothel_016_f",
+      "en": "*sigh* Fine. I brought the plant to Ursula, and she helped me examine it with a number of arcane techniques that I'm sure would be beyond your comprehension...",
+      "cz": "*povzdech* Výborně. Přinesla jsem rostlinu Ursule a ona mi pomohla ji prozkoumat pomocí řady tajemných technik, které by jistě přesahovaly tvé chápání...",
+      "source": "pre_existing",
+      "original_cz": "*povzdech* Výborně. Přinesla jsem rostlinu Ursule a ona mi pomohla ji prozkoumat pomocí řady tajemných technik, které by jistě přesahovaly tvé chápání..."
+    },
+    {
+      "key": "MotherGothel_017_f",
+      "en": "...",
+      "cz": "...",
+      "source": "pre_existing",
+      "original_cz": "..."
+    },
+    {
+      "key": "MotherGothel_018_f",
+      "en": "But the pathetic little weed was useless.",
+      "cz": "Ale ta ubohá malá tráva byla k ničemu.",
+      "source": "pre_existing",
+      "original_cz": "Ale ta ubohá malá tráva byla k ničemu."
+    },
+    {
+      "key": "MotherGothel_019_f",
+      "en": "Simply full of storybook magic, a trite and weak form of enchantment.",
+      "cz": "Prostě plné pohádkové magie, otřepaná a slabá forma kouzlení.",
+      "source": "pre_existing",
+      "original_cz": "Prostě plné pohádkové magie, otřepaná a slabá forma kouzlení."
+    },
+    {
+      "key": "MotherGothel_022_f",
+      "en": "Because you understand how the world works, {PlayerName}.",
+      "cz": "Protože chápeš, jak svět funguje, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Protože chápeš, jak svět funguje, {PlayerName}."
+    },
+    {
+      "key": "MotherGothel_023_f",
+      "en": "OK, OK, what do you want?",
+      "cz": "Dobře, dobře, co chceš?",
+      "source": "pre_existing",
+      "original_cz": "Dobře, dobře, co chceš?"
+    },
+    {
+      "key": "MotherGothel_024_f",
+      "en": "Well, I used some rather precious ingredients trying to bring that plant back to health.",
+      "cz": "No, použila jsem pár docela vzácných ingrediencí, abych tu rostlinu uzdravila.",
+      "source": "pre_existing",
+      "original_cz": "No, použila jsem pár docela vzácných ingrediencí, abych tu rostlinu uzdravila."
+    },
+    {
+      "key": "MotherGothel_025_f",
+      "en": "If you bring me replacements... you'll have your information.",
+      "cz": "Pokud mi přinesete náhradu... budete mít své informace.",
+      "source": "pre_existing",
+      "original_cz": "Pokud mi přinesete náhradu... budete mít své informace."
+    },
+    {
+      "key": "MotherGothel_026_f",
+      "en": "Really? Do you want me to brew up a whole potion for you too?",
+      "cz": "Vážně? Chceš, abych ti taky uvařila celý lektvar?",
+      "source": "pre_existing",
+      "original_cz": "Vážně? Chceš, abych ti taky uvařila celý lektvar?"
+    },
+    {
+      "key": "MotherGothel_027_f",
+      "en": "And trust you to do it correctly? Hardly. I'd much rather rely on Ursula's skills for that.",
+      "cz": "A věřit ti, že to uděláš správně? To sotva. V tomhle bych se mnohem raději spolehla na Ursuliny dovednosti.",
+      "source": "pre_existing",
+      "original_cz": "A věřit ti, že to uděláš správně? To sotva. V tomhle bych se mnohem raději spolehla na Ursuliny dovednosti."
+    },
+    {
+      "key": "MotherGothel_028_f",
+      "en": "Bring me <ActivityItem>Seaweed</ActivityItem>, <ActivityItem>Cucumbers</ActivityItem>, and <ActivityItem>Sunflowers</ActivityItem>, and I'll tell you where the plant is.",
+      "cz": "Přines mi <ActivityItem>Mořské řasy</ActivityItem>, <ActivityItem>Okurky</ActivityItem> a <ActivityItem>Slunečnice</ActivityItem> a já ti řeknu, kde ta rostlina je.",
+      "source": "pre_existing",
+      "original_cz": "Přines mi <ActivityItem>Mořské řasy</ActivityItem>, <ActivityItem>Okurky</ActivityItem> a <ActivityItem>Slunečnice</ActivityItem> a já ti řeknu, kde ta rostlina je."
+    },
+    {
+      "key": "MotherGothel_029_f",
+      "en": "How mature of you!",
+      "cz": "Jak od tebe zralé!",
+      "source": "pre_existing",
+      "original_cz": "Jak od tebe zralé!"
+    },
+    {
+      "key": "MotherGothel_030_f",
+      "en": "Oh, you can't possibly be serious! ... Wait, you are? Well, then...",
+      "cz": "To snad nemyslíš vážně! ... Počkej, vážně? No, pak...",
+      "source": "pre_existing",
+      "original_cz": "To snad nemyslíš vážně! ... Počkej, vážně? No, pak..."
+    },
+    {
+      "key": "MotherGothel_031_f",
+      "en": "No.",
+      "cz": "Ne.",
+      "source": "pre_existing",
+      "original_cz": "Ne."
+    },
+    {
+      "key": "MotherGothel_032_f",
+      "en": "That's what I thought.",
+      "cz": "To jsem si myslela.",
+      "source": "pre_existing",
+      "original_cz": "To jsem si myslela."
+    },
+    {
+      "key": "MotherGothel_033_f",
+      "en": "At least you can admit your faults, darling.",
+      "cz": "Aspoň si umíš přiznat své chyby, zlato.",
+      "source": "pre_existing",
+      "original_cz": "Aspoň si umíš přiznat své chyby, zlato."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "BeautyBeastUpdate_Goofy/Goofy_VLG_Bell_010_VLG_Bell_010_TalkTo01.locbin": [
+    {
+      "key": "Goofy_000_f",
+      "en": "Howdy, {PlayerName}! What brings you by?",
+      "cz": "Zdravím, {PlayerName}! Co tě sem přivedlo?",
+      "source": "pre_existing",
+      "original_cz": "Zdravím, {PlayerName}! Co tě sem přivedlo?"
+    },
+    {
+      "key": "Goofy_005_f",
+      "en": "I have this list of <ActivityItem>Books</ActivityItem> Villagers forgot to return to the Dreamlight Library and your name is on it...",
+      "cz": "Mám tento seznam <ActivityItem>knih</ActivityItem>, které vesničané zapomněli vrátit do knihovny Dreamlight, a vaše jméno je na něm...",
+      "source": "pre_existing",
+      "original_cz": "Mám tento seznam <ActivityItem>knih</ActivityItem>, které vesničané zapomněli vrátit do knihovny Dreamlight, a vaše jméno je na něm..."
+    },
+    {
+      "key": "Goofy_006_f",
+      "en": "Gawrsh, I knew something slipped my mind!",
+      "cz": "Páni, věděl jsem, že mi něco uniklo z paměti!",
+      "source": "pre_existing",
+      "original_cz": "Páni, věděl jsem, že mi něco uniklo z paměti!"
+    },
+    {
+      "key": "Goofy_007_f",
+      "en": "Look, I got the book right here.",
+      "cz": "Podívej, mám tu knihu přímo tady.",
+      "source": "pre_existing",
+      "original_cz": "Podívej, mám tu knihu přímo tady."
+    },
+    {
+      "key": "Goofy_008_f",
+      "en": "Please tell Merlin I'm real sorry.",
+      "cz": "Prosím, řekni Merlinovi, že se opravdu omlouvám.",
+      "source": "pre_existing",
+      "original_cz": "Prosím, řekni Merlinovi, že se opravdu omlouvám."
+    },
+    {
+      "key": "Player_001_f",
+      "en": "Hmm... the book is called <ActivityItem>\"Bear in Mind\"</ActivityItem>...",
+      "cz": "Hmm... kniha se jmenuje <ActivityItem>„Mějte na paměti“</ActivityItem>...",
+      "source": "pre_existing",
+      "original_cz": "Hmm... kniha se jmenuje <ActivityItem>„Mějte na paměti“</ActivityItem>..."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Was it helpful?",
+      "cz": "Bylo to užitečné?",
+      "source": "pre_existing",
+      "original_cz": "Bylo to užitečné?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "What kind of <ActivityItem>Book</ActivityItem> is this?",
+      "cz": "Co je to za <ActivityItem>knihu</ActivityItem>?",
+      "source": "pre_existing",
+      "original_cz": "Co je to za <ActivityItem>knihu</ActivityItem>?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Having a bear in your mind... sounds like it would cause a headache.",
+      "cz": "Mít v mysli medvěda... zní to, jako by z toho bolet hlava.",
+      "source": "pre_existing",
+      "original_cz": "Mít v mysli medvěda... zní to, jako by z toho bolet hlava."
+    },
+    {
+      "key": "Goofy_009_f",
+      "en": "I thought so... but now I'm not so sure.",
+      "cz": "Myslel jsem si to... ale teď si nejsem tak jistý.",
+      "source": "pre_existing",
+      "original_cz": "Myslel jsem si to... ale teď si nejsem tak jistý."
+    },
+    {
+      "key": "Goofy_010_f",
+      "en": "It's all about helpin' ya not forget anything.",
+      "cz": "Jde o to, abys na nic nezapomněl.",
+      "source": "pre_existing",
+      "original_cz": "Jde o to, abys na nic nezapomněl."
+    },
+    {
+      "key": "Goofy_012_f",
+      "en": "And I was rememberin' lots of stuff, so I thought it worked...",
+      "cz": "A já si pamatoval spoustu věcí, takže jsem si myslel, že to funguje...",
+      "source": "pre_existing",
+      "original_cz": "A já si pamatoval spoustu věcí, takže jsem si myslel, že to funguje..."
+    },
+    {
+      "key": "Goofy_013_f",
+      "en": "But then I forgot to return the book, so I guess it didn't!",
+      "cz": "Ale pak jsem zapomněl knihu vrátit, takže asi ne!",
+      "source": "pre_existing",
+      "original_cz": "Ale pak jsem zapomněl knihu vrátit, takže asi ne!"
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "Aw, don't worry about it. Keep up the good non-remembering work, Goofy.",
+      "cz": "Ale nedělej si s tím starosti. Jen tak dál s tou dobrou prací bez pamatování, Goofy.",
+      "source": "pre_existing",
+      "original_cz": "Ale nedělej si s tím starosti. Jen tak dál s tou dobrou prací bez pamatování, Goofy."
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "Well, I'm sure you learned some very helpful things.",
+      "cz": "No, jsem si jistý, že jste se dozvěděli pár velmi užitečných věcí.",
+      "source": "pre_existing",
+      "original_cz": "No, jsem si jistý, že jste se dozvěděli pár velmi užitečných věcí."
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "Sounds like your memory's more like a goldfish than a bear.",
+      "cz": "Zní to, jako bys měl paměť spíš jako zlatá rybka než jako medvěd.",
+      "source": "pre_existing",
+      "original_cz": "Zní to, jako bys měl paměť spíš jako zlatá rybka než jako medvěd."
+    },
+    {
+      "key": "Goofy_016_f",
+      "en": "Thanks, {PlayerName}! And thanks for helpin' Merlin care for the Dreamlight Library.",
+      "cz": "Díky, {PlayerName}! A díky, že jsi Merlinovi pomohl s péčí o Knihovnu Dreamlight.",
+      "source": "pre_existing",
+      "original_cz": "Díky, {PlayerName}! A díky, že jsi Merlinovi pomohl s péčí o Knihovnu Dreamlight."
+    },
+    {
+      "key": "Goofy_017_f",
+      "en": "Gawrsh, I think so. Just hope I remember 'em.",
+      "cz": "Proboha, myslím, že ano. Jen doufám, že si je pamatuju.",
+      "source": "pre_existing",
+      "original_cz": "Proboha, myslím, že ano. Jen doufám, že si je pamatuju."
+    },
+    {
+      "key": "Goofy_018_f",
+      "en": "You're right! A-hyuck! Say, maybe that's why I like fishin' so much. I got the same kinda memory as a fish.",
+      "cz": "Máš pravdu! Hy-hy! Možná proto tak rád rybařím. Mám stejnou paměť jako ryba.",
+      "source": "pre_existing",
+      "original_cz": "Máš pravdu! Hy-hy! Možná proto tak rád rybařím. Mám stejnou paměť jako ryba."
+    },
+    {
+      "key": "Goofy_011_f",
+      "en": "A-hyuck! I guess it would!",
+      "cz": "A-hyuck! Asi jo!",
+      "source": "pre_existing",
+      "original_cz": "A-hyuck! Asi jo!"
+    },
+    {
+      "key": "Goofy_001_f",
+      "en": "Seriously though. What's the book really about?",
+      "cz": "Ale vážně. O čem ta kniha vlastně je?",
+      "source": "pre_existing",
+      "original_cz": "Ale vážně. O čem ta kniha vlastně je?"
+    }
+  ]
+}

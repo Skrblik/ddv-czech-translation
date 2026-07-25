@@ -1,0 +1,617 @@
+{
+  "Upd10MiniEvent_Park/RPT_Mick_DailyPark.locbin": [
+    {
+      "key": "Repeatable!Event!Park!RPT_Mick_DailyPark_Any_CompletedRequestDescription",
+      "en": "Return to Mickey.",
+      "cz": "Return to Mickey.",
+      "source": "pre_existing",
+      "original_cz": "Return to Mickey."
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Mick_DailyPark_AvailableDescription",
+      "en": "Talk to Mickey.",
+      "cz": "Promluvte si s Mickey.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Mickey."
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Mick_DailyPark_DisplayName",
+      "en": "Dreamlight Parks Fest: Mickey",
+      "cz": "Dreamlight Parks Fest: Mickey",
+      "source": "pre_existing",
+      "original_cz": "Dreamlight Parks Fest: Mickey"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Mick_DailyPark_Group01_Step01_CookMeal01_StepDescription",
+      "en": "Cook some Minnie Cupcakes.",
+      "cz": "Cook some Minnie Cupcakes.",
+      "source": "pre_existing",
+      "original_cz": "Cook some Minnie Cupcakes."
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Mick_DailyPark_Group02_Step02_StepDescription",
+      "en": "(Repeatedly giving cupcakes to the same Villagers doesn't count. Spread the joy!)",
+      "cz": "(Opakované dávání koláčků stejným vesničanům se nepočítá. Šiřte radost!)",
+      "source": "pre_existing",
+      "original_cz": "(Opakované dávání koláčků stejným vesničanům se nepočítá. Šiřte radost!)"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Mick_DailyPark_Group02_StepDescription",
+      "en": "Deliver the Minnie Cupcakes to any Villagers.",
+      "cz": "Deliver the Minnie Cupcakes to any Villagers.",
+      "source": "pre_existing",
+      "original_cz": "Deliver the Minnie Cupcakes to any Villagers."
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Mick_DailyPark_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Start Quest"
+    }
+  ],
+  "Upd10MiniEvent_Park/RPT_Moan_DailyPark.locbin": [
+    {
+      "key": "Repeatable!Event!Park!RPT_Moan_DailyPark_Any_CompletedRequestDescription",
+      "en": "Return to Moana.",
+      "cz": "Return to Moana.",
+      "source": "pre_existing",
+      "original_cz": "Return to Moana."
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Moan_DailyPark_AvailableDescription",
+      "en": "Talk to Moana.",
+      "cz": "Promluvte si s Vaianou.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Vaianou."
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Moan_DailyPark_DisplayName",
+      "en": "Dreamlight Parks Fest: Moana",
+      "cz": "Dreamlight Parks Fest: Moana",
+      "source": "pre_existing",
+      "original_cz": "Dreamlight Parks Fest: Moana"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Moan_DailyPark_Group01_Step01_CookMeal01_StepDescription",
+      "en": "Cook some Princess Aurora Cupcakes.",
+      "cz": "Cook some Princess Aurora Cupcakes.",
+      "source": "pre_existing",
+      "original_cz": "Cook some Princess Aurora Cupcakes."
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Moan_DailyPark_Group02_Step02_StepDescription",
+      "en": "(Repeatedly giving cupcakes to the same Villagers doesn't count. Spread the joy!)",
+      "cz": "(Opakované dávání koláčků stejným vesničanům se nepočítá. Šiřte radost!)",
+      "source": "pre_existing",
+      "original_cz": "(Opakované dávání koláčků stejným vesničanům se nepočítá. Šiřte radost!)"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Moan_DailyPark_Group02_StepDescription",
+      "en": "Deliver the Princess Aurora Cupcakes among Villagers.",
+      "cz": "Deliver the Princess Aurora Cupcakes among Villagers.",
+      "source": "pre_existing",
+      "original_cz": "Deliver the Princess Aurora Cupcakes among Villagers."
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Moan_DailyPark_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Start Quest"
+    }
+  ],
+  "Upd10MiniEvent_Park/RPT_Scro_DailyPark.locbin": [
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_DailyPark_Any_CompletedRequestDescription",
+      "en": "Return to Scrooge McDuck.",
+      "cz": "Return to Scrooge McDuck.",
+      "source": "pre_existing",
+      "original_cz": "Return to Scrooge McDuck."
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_DailyPark_AvailableDescription",
+      "en": "Talk to Scrooge McDuck.",
+      "cz": "Promluvte si se Scroogem McDuckem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Scroogem McDuckem."
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_DailyPark_DisplayName",
+      "en": "Dreamlight Parks Fest: Scrooge McDuck",
+      "cz": "Dreamlight Parks Fest: Scrooge McDuck",
+      "source": "pre_existing",
+      "original_cz": "Dreamlight Parks Fest: Scrooge McDuck"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_DailyPark_Group01_Step01_CookMeal01_StepDescription",
+      "en": "Cook some Stitch Cupcakes.",
+      "cz": "Cook some Stitch Cupcakes.",
+      "source": "pre_existing",
+      "original_cz": "Cook some Stitch Cupcakes."
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_DailyPark_Group02_Step02_StepDescription",
+      "en": "(Repeatedly giving cupcakes to the same Villagers doesn't count. Spread the joy!)",
+      "cz": "(Opakované dávání koláčků stejným vesničanům se nepočítá. Šiřte radost!)",
+      "source": "pre_existing",
+      "original_cz": "(Opakované dávání koláčků stejným vesničanům se nepočítá. Šiřte radost!)"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_DailyPark_Group02_StepDescription",
+      "en": "Deliver the Stitch Cupcakes to any Villagers.",
+      "cz": "Deliver the Stitch Cupcakes to any Villagers.",
+      "source": "pre_existing",
+      "original_cz": "Deliver the Stitch Cupcakes to any Villagers."
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_DailyPark_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Start Quest"
+    }
+  ],
+  "Upd10MiniEvent_Park/RPT_Scro_WeeklyPark_010.locbin": [
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Any_CompletedRequestDescription",
+      "en": "Return to Scrooge McDuck.",
+      "cz": "Return to Scrooge McDuck.",
+      "source": "pre_existing",
+      "original_cz": "Return to Scrooge McDuck."
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_AvailableDescription",
+      "en": "Talk to Scrooge McDuck.",
+      "cz": "Promluvte si se Scroogem McDuckem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Scroogem McDuckem."
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_DisplayName",
+      "en": "Dreamlight Parks Fest: Decorate!",
+      "cz": "Dreamlight Parks Fest: Decorate!",
+      "source": "pre_existing",
+      "original_cz": "Dreamlight Parks Fest: Decorate!"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group01_Step01_Possess01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group01_Step01_Possess02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group01_Step01_Possess03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group01_Step01_Possess04_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group01_Step01_Possess05_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group01_Step01_Possess06_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group01_Step01_Possess07_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group01_Step01_Possess08_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group01_StepDescription",
+      "en": "Gather the following materials:",
+      "cz": "Shromážděte následující materiály:",
+      "source": "pre_existing",
+      "original_cz": "Shromážděte následující materiály:"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Talk to Scrooge McDuck.",
+      "cz": "Talk to Scrooge McDuck.",
+      "source": "pre_existing",
+      "original_cz": "Talk to Scrooge McDuck."
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group03_Step03_CraftItem01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group03_Step03_CraftItem02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group03_StepDescription",
+      "en": "Craft:",
+      "cz": "Craft:",
+      "source": "pre_existing",
+      "original_cz": "Craft:"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group04_Step04_Decorate01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group04_Step04_Decorate02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group04_StepDescription",
+      "en": "Decorate your Valley with:",
+      "cz": "Decorate your Valley with:",
+      "source": "pre_existing",
+      "original_cz": "Decorate your Valley with:"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Start Quest"
+    }
+  ],
+  "Upd10MiniEvent_Park/RPT_Scro_WeeklyPark_020.locbin": [
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_020_Any_CompletedRequestDescription",
+      "en": "Return to Scrooge McDuck.",
+      "cz": "Return to Scrooge McDuck.",
+      "source": "pre_existing",
+      "original_cz": "Return to Scrooge McDuck."
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_020_AvailableDescription",
+      "en": "Talk to Scrooge McDuck.",
+      "cz": "Promluvte si se Scroogem McDuckem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Scroogem McDuckem."
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_020_DisplayName",
+      "en": "Dreamlight Parks Fest: Decorate More!",
+      "cz": "Dreamlight Parks Fest: Decorate More!",
+      "source": "pre_existing",
+      "original_cz": "Dreamlight Parks Fest: Decorate More!"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_020_Group01_Step01_Possess01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_020_Group01_Step01_Possess02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_020_Group01_Step01_Possess03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_020_Group01_Step01_Possess04_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_020_Group01_Step01_Possess05_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_020_Group01_Step01_Possess06_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_020_Group01_StepDescription",
+      "en": "Gather the following materials:",
+      "cz": "Gather the following materials:",
+      "source": "pre_existing",
+      "original_cz": "Gather the following materials:"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_020_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Talk to Scrooge McDuck.",
+      "cz": "Talk to Scrooge McDuck.",
+      "source": "pre_existing",
+      "original_cz": "Talk to Scrooge McDuck."
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_020_Group03_Step03_CraftItem01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_020_Group03_Step03_CraftItem02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_020_Group03_StepDescription",
+      "en": "Craft:",
+      "cz": "Craft:",
+      "source": "pre_existing",
+      "original_cz": "Craft:"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_020_Group04_Step04_Decorate01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_020_Group04_Step04_Decorate02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_020_Group04_StepDescription",
+      "en": "Decorate your Valley with:",
+      "cz": "Decorate your Valley with:",
+      "source": "pre_existing",
+      "original_cz": "Decorate your Valley with:"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_020_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Start Quest"
+    }
+  ],
+  "Upd10MiniEvent_Park/RPT_Scro_WeeklyPark_030.locbin": [
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_030_Any_CompletedRequestDescription",
+      "en": "Return to Scrooge McDuck.",
+      "cz": "Return to Scrooge McDuck.",
+      "source": "pre_existing",
+      "original_cz": "Return to Scrooge McDuck."
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_030_AvailableDescription",
+      "en": "Talk to Scrooge McDuck.",
+      "cz": "Promluvte si se Scroogem McDuckem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Scroogem McDuckem."
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_030_DisplayName",
+      "en": "Dreamlight Parks Fest: Decorate Most!",
+      "cz": "Dreamlight Parks Fest: Decorate Most!",
+      "source": "pre_existing",
+      "original_cz": "Dreamlight Parks Fest: Decorate Most!"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_030_Group01_Step01_Possess01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_030_Group01_Step01_Possess02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_030_Group01_Step01_Possess03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_030_Group01_Step01_Possess04_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_030_Group01_Step01_Possess05_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_030_Group01_StepDescription",
+      "en": "Gather the following materials:",
+      "cz": "Shromážděte následující materiály:",
+      "source": "pre_existing",
+      "original_cz": "Shromážděte následující materiály:"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_030_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Talk to Scrooge McDuck.",
+      "cz": "Talk to Scrooge McDuck.",
+      "source": "pre_existing",
+      "original_cz": "Talk to Scrooge McDuck."
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_030_Group03_Step03_CraftItem01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_030_Group03_Step03_CraftItem02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_030_Group03_StepDescription",
+      "en": "Craft:",
+      "cz": "Craft:",
+      "source": "pre_existing",
+      "original_cz": "Craft:"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_030_Group04_Step04_Decorate01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_030_Group04_Step04_Decorate02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_030_Group04_StepDescription",
+      "en": "Decorate your Valley with:",
+      "cz": "Decorate your Valley with:",
+      "source": "pre_existing",
+      "original_cz": "Decorate your Valley with:"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Scro_WeeklyPark_030_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Start Quest"
+    }
+  ],
+  "Upd10MiniEvent_Park/RPT_Ursu_DailyPark.locbin": [
+    {
+      "key": "Repeatable!Event!Park!RPT_Ursu_DailyPark_Any_CompletedRequestDescription",
+      "en": "Return to Ursula.",
+      "cz": "Return to Ursula.",
+      "source": "pre_existing",
+      "original_cz": "Return to Ursula."
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Ursu_DailyPark_AvailableDescription",
+      "en": "Talk to Ursula.",
+      "cz": "Talk to Ursula.",
+      "source": "pre_existing",
+      "original_cz": "Talk to Ursula."
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Ursu_DailyPark_DisplayName",
+      "en": "Dreamlight Parks Fest: Ursula",
+      "cz": "Dreamlight Parks Fest: Ursula",
+      "source": "pre_existing",
+      "original_cz": "Dreamlight Parks Fest: Ursula"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Ursu_DailyPark_Group01_Step01_CookMeal01_StepDescription",
+      "en": "Cook some Mermaid Cupcakes.",
+      "cz": "Cook some Mermaid Cupcakes.",
+      "source": "pre_existing",
+      "original_cz": "Cook some Mermaid Cupcakes."
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Ursu_DailyPark_Group02_Step02_StepDescription",
+      "en": "(Repeatedly giving cupcakes to the same Villagers doesn't count. Spread the joy!)",
+      "cz": "(Opakované dávání koláčků stejným vesničanům se nepočítá. Šiřte radost!)",
+      "source": "pre_existing",
+      "original_cz": "(Opakované dávání koláčků stejným vesničanům se nepočítá. Šiřte radost!)"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Ursu_DailyPark_Group02_StepDescription",
+      "en": "Deliver the Mermaid Cupcakes to any Villagers.",
+      "cz": "Deliver the Mermaid Cupcakes to any Villagers.",
+      "source": "pre_existing",
+      "original_cz": "Deliver the Mermaid Cupcakes to any Villagers."
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_Ursu_DailyPark_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Start Quest"
+    }
+  ],
+  "Upd10MiniEvent_Park/RPT_WallE_DailyPark.locbin": [
+    {
+      "key": "Repeatable!Event!Park!RPT_WallE_DailyPark_Any_CompletedRequestDescription",
+      "en": "Return to WALL·E.",
+      "cz": "Return to WALL·E.",
+      "source": "pre_existing",
+      "original_cz": "Return to WALL·E."
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_WallE_DailyPark_AvailableDescription",
+      "en": "Talk to WALL·E.",
+      "cz": "Promluvte si s WALL·E.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s WALL·E."
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_WallE_DailyPark_DisplayName",
+      "en": "Dreamlight Parks Fest: WALL·E",
+      "cz": "Dreamlight Parks Fest: WALL·E",
+      "source": "pre_existing",
+      "original_cz": "Dreamlight Parks Fest: WALL·E"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_WallE_DailyPark_Group01_Step01_CookMeal01_StepDescription",
+      "en": "Cook some Spaceship Earth Cupcakes.",
+      "cz": "Cook some Spaceship Earth Cupcakes.",
+      "source": "pre_existing",
+      "original_cz": "Cook some Spaceship Earth Cupcakes."
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_WallE_DailyPark_Group02_Step02_StepDescription",
+      "en": "(Repeatedly giving cupcakes to the same Villagers doesn't count. Spread the joy!)",
+      "cz": "(Opakované dávání koláčků stejným vesničanům se nepočítá. Šiřte radost!)",
+      "source": "pre_existing",
+      "original_cz": "(Opakované dávání koláčků stejným vesničanům se nepočítá. Šiřte radost!)"
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_WallE_DailyPark_Group02_StepDescription",
+      "en": "Deliver Spaceship Earth Cupcakes to any Villagers.",
+      "cz": "Deliver Spaceship Earth Cupcakes to any Villagers.",
+      "source": "pre_existing",
+      "original_cz": "Deliver Spaceship Earth Cupcakes to any Villagers."
+    },
+    {
+      "key": "Repeatable!Event!Park!RPT_WallE_DailyPark_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Start Quest"
+    }
+  ]
+}

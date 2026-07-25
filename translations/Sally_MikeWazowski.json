@@ -1,0 +1,228 @@
+{
+  "Sally_MikeWazowski/MikeWazowski_VLG_Sall_020_VLG_Sall_020_TalkTo05.locbin": [
+    {
+      "key": "MikeWazowski_001_f",
+      "en": "Mike?!",
+      "cz": "Mikrofon?!",
+      "source": "pre_existing",
+      "original_cz": "Mikrofon?!"
+    },
+    {
+      "key": "MikeWazowski_000_f",
+      "en": "You're not a raccoon!",
+      "cz": "Nejsi mýval!",
+      "source": "pre_existing",
+      "original_cz": "Nejsi mýval!"
+    },
+    {
+      "key": "MikeWazowski_002_f",
+      "en": "No kidding!",
+      "cz": "Bez legrace!",
+      "source": "pre_existing",
+      "original_cz": "Bez legrace!"
+    },
+    {
+      "key": "MikeWazowski_025_f",
+      "en": "But more importantly...",
+      "cz": "Ale co je důležitější...",
+      "source": "pre_existing",
+      "original_cz": "Ale co je důležitější..."
+    },
+    {
+      "key": "MikeWazowski_003_f",
+      "en": "...your auto-mat's broken! I'm stuck and I can't get out!",
+      "cz": "...váš automatickou rohožku rozbitou! Jsem uvízlý a nemůžu se dostat ven!",
+      "source": "pre_existing",
+      "original_cz": "...váš automatickou rohožku rozbitou! Jsem uvízlý a nemůžu se dostat ven!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "... Auto-mat?",
+      "cz": "... Automatická podložka?",
+      "source": "pre_existing",
+      "original_cz": "... Automatická podložka?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Do you need some help?",
+      "cz": "Potřebujete s něčím pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Potřebujete s něčím pomoct?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "You're not a critter!",
+      "cz": "Nejsi žádný tvor!",
+      "source": "pre_existing",
+      "original_cz": "Nejsi žádný tvor!"
+    },
+    {
+      "key": "MikeWazowski_004_f",
+      "en": "Yeah? An automated food delivery machine? What do you call it?",
+      "cz": "Jo? Automatický rozvoz jídla? Jak se tomu říká?",
+      "source": "pre_existing",
+      "original_cz": "Jo? Automatický rozvoz jídla? Jak se tomu říká?"
+    },
+    {
+      "key": "MikeWazowski_009_f",
+      "en": "That's... not what this is.",
+      "cz": "To... tohle není.",
+      "source": "pre_existing",
+      "original_cz": "To... tohle není."
+    },
+    {
+      "key": "MikeWazowski_010_f",
+      "en": "Hold on a sec; let me get you out of there...",
+      "cz": "Počkej chvilku, dostanu tě odtamtud...",
+      "source": "pre_existing",
+      "original_cz": "Počkej chvilku, dostanu tě odtamtud..."
+    },
+    {
+      "key": "MikeWazowski_011_f",
+      "en": "Ahh, much better. Thanks, {PlayerName}!",
+      "cz": "Ááá, mnohem lepší. Díky, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Ááá, mnohem lepší. Díky, {PlayerName}!"
+    },
+    {
+      "key": "MikeWazowski_012_f",
+      "en": "So, can you explain why you were nabbed trying to get into Sally's <ActivityItem>Compost Bin</ActivityItem>?",
+      "cz": "Takže, můžete vysvětlit, proč vás chytili, když jste se snažil dostat do Sallyina <ActivityItem>kompostéru</ActivityItem>?",
+      "source": "pre_existing",
+      "original_cz": "Takže, můžete vysvětlit, proč vás chytili, když jste se snažil dostat do Sallyina <ActivityItem>kompostéru</ActivityItem>?"
+    },
+    {
+      "key": "MikeWazowski_013_f",
+      "en": "Who said anything about compost? I'm here for the food!",
+      "cz": "Kdo říkal něco o kompostu? Jsem tu kvůli jídlu!",
+      "source": "pre_existing",
+      "original_cz": "Kdo říkal něco o kompostu? Jsem tu kvůli jídlu!"
+    },
+    {
+      "key": "MikeWazowski_014_f",
+      "en": "I was minding my own business when I picked up the delectable scent of some five-star seasoning!",
+      "cz": "Staral jsem se o své, když jsem ucítil lahodnou vůni nějakého pětihvězdičkového koření!",
+      "source": "pre_existing",
+      "original_cz": "Staral jsem se o své, když jsem ucítil lahodnou vůni nějakého pětihvězdičkového koření!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "You're... EATING the compost?",
+      "cz": "Ty... JÍŠ ten kompost?",
+      "source": "pre_existing",
+      "original_cz": "Ty... JÍŠ ten kompost?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Smells kinda like dirt to me.",
+      "cz": "Voní mi to trochu jako špína.",
+      "source": "pre_existing",
+      "original_cz": "Voní mi to trochu jako špína."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I should have known...",
+      "cz": "Měl jsem to vědět...",
+      "source": "pre_existing",
+      "original_cz": "Měl jsem to vědět..."
+    },
+    {
+      "key": "MikeWazowski_020_f",
+      "en": "You mean the seasoning. And yeah. Why wouldn't I?",
+      "cz": "Myslíš to koření. A jo. Proč bych ne?",
+      "source": "pre_existing",
+      "original_cz": "Myslíš to koření. A jo. Proč bych ne?"
+    },
+    {
+      "key": "MikeWazowski_015_f",
+      "en": "It's clearly the best flavoring available in the Valley. Though I have no idea why it was completely unattended.",
+      "cz": "Je to jednoznačně nejlepší příchuť, jaká se v údolí dává k dispozici. I když nemám tušení, proč se o ni vůbec nestarali.",
+      "source": "pre_existing",
+      "original_cz": "Je to jednoznačně nejlepší příchuť, jaká se v údolí dává k dispozici. I když nemám tušení, proč se o ni vůbec nestarali."
+    },
+    {
+      "key": "MikeWazowski_016_f",
+      "en": "It was just sittin' there, so I thought I'd help myself. But then... well, I was trapped.",
+      "cz": "Jen tak tam leželo, tak jsem si říkal, že si pomůžu sám. Ale pak... no, byl jsem v pasti.",
+      "source": "pre_existing",
+      "original_cz": "Jen tak tam leželo, tak jsem si říkal, že si pomůžu sám. Ale pak... no, byl jsem v pasti."
+    },
+    {
+      "key": "MikeWazowski_017_f",
+      "en": "Okay, I think I see the problem here. This is not a dispenser for seasoning!",
+      "cz": "Dobře, myslím, že tady vidím problém. Tohle není dávkovač koření!",
+      "source": "pre_existing",
+      "original_cz": "Dobře, myslím, že tady vidím problém. Tohle není dávkovač koření!"
+    },
+    {
+      "key": "MikeWazowski_018_f",
+      "en": "... You feeling all right, {PlayerName}? There is clearly fabulous seasoning inside that container, and I'm NOT supposed to eat it?!",
+      "cz": "... Cítíš se dobře, {PlayerName}? V té nádobě je evidentně skvělé koření a já ho NEMÁM jíst?!",
+      "source": "pre_existing",
+      "original_cz": "... Cítíš se dobře, {PlayerName}? V té nádobě je evidentně skvělé koření a já ho NEMÁM jíst?!"
+    },
+    {
+      "key": "MikeWazowski_019_f",
+      "en": "Oof, okay, maybe Sally should explain this to you...",
+      "cz": "Uf, dobře, možná by ti to Sally měla vysvětlit...",
+      "source": "pre_existing",
+      "original_cz": "Uf, dobře, možná by ti to Sally měla vysvětlit..."
+    },
+    {
+      "key": "MikeWazowski_021_f",
+      "en": "Yes, very dirt forward! And yet, with notes of rot and vegetable miasma.",
+      "cz": "Ano, velmi drsné! A přece s tóny hniloby a rostlinného miasmatu.",
+      "source": "pre_existing",
+      "original_cz": "Ano, velmi drsné! A přece s tóny hniloby a rostlinného miasmatu."
+    },
+    {
+      "key": "MikeWazowski_022_f",
+      "en": "I agree! It's like you don't know me at all...",
+      "cz": "Souhlasím! Je to, jako bys mě vůbec neznal/a...",
+      "source": "pre_existing",
+      "original_cz": "Souhlasím! Je to, jako bys mě vůbec neznal/a..."
+    },
+    {
+      "key": "MikeWazowski_005_f",
+      "en": "Oh no, clearly I want to stay here until the end of time.",
+      "cz": "Ale ne, já tu očividně chci zůstat až do konce věků.",
+      "source": "pre_existing",
+      "original_cz": "Ale ne, já tu očividně chci zůstat až do konce věků."
+    },
+    {
+      "key": "MikeWazowski_006_f",
+      "en": "Yes, I need help!",
+      "cz": "Ano, potřebuji pomoc!",
+      "source": "pre_existing",
+      "original_cz": "Ano, potřebuji pomoc!"
+    },
+    {
+      "key": "MikeWazowski_007_f",
+      "en": "Again, no!",
+      "cz": "Znovu, ne!",
+      "source": "pre_existing",
+      "original_cz": "Znovu, ne!"
+    },
+    {
+      "key": "MikeWazowski_008_f",
+      "en": "Why do you keep telling me things I'm not?",
+      "cz": "Proč mi pořád říkáš věci, které nejsem?",
+      "source": "pre_existing",
+      "original_cz": "Proč mi pořád říkáš věci, které nejsem?"
+    },
+    {
+      "key": "MikeWazowski_023_f",
+      "en": "You're not a raven!",
+      "cz": "Nejsi havran!",
+      "source": "pre_existing",
+      "original_cz": "Nejsi havran!"
+    },
+    {
+      "key": "MikeWazowski_024_f",
+      "en": "You're not a turtle!",
+      "cz": "Nejsi želva!",
+      "source": "pre_existing",
+      "original_cz": "Nejsi želva!"
+    }
+  ]
+}

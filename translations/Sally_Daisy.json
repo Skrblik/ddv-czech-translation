@@ -1,0 +1,358 @@
+{
+  "Sally_Daisy/Daisy_VLG_Sall_010_VLG_Sall_010_TalkTo01.locbin": [
+    {
+      "key": "Daisy_002_f",
+      "en": "Hey Daisy, can we talk for a moment?",
+      "cz": "Ahoj Daisy, můžeme si na chvilku promluvit?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj Daisy, můžeme si na chvilku promluvit?"
+    },
+    {
+      "key": "Daisy_003_f",
+      "en": "Of course! What do you want to talk about?",
+      "cz": "Jasně! O čem chceš mluvit?",
+      "source": "pre_existing",
+      "original_cz": "Jasně! O čem chceš mluvit?"
+    },
+    {
+      "key": "Daisy_004_f",
+      "en": "Romance!",
+      "cz": "Romantika!",
+      "source": "pre_existing",
+      "original_cz": "Romantika!"
+    },
+    {
+      "key": "Daisy_005_f",
+      "en": "Oooh, I'm always happy to talk about that!",
+      "cz": "Jé, o tom si vždycky ráda povím!",
+      "source": "pre_existing",
+      "original_cz": "Jé, o tom si vždycky ráda povím!"
+    },
+    {
+      "key": "Daisy_006_f",
+      "en": "So I'm trying to help Sally and Jack get comfortable with each other again.",
+      "cz": "Takže se snažím Sally a Jackovi pomoct, aby se na sebe zase cítili dobře.",
+      "source": "pre_existing",
+      "original_cz": "Takže se snažím Sally a Jackovi pomoct, aby se na sebe zase cítili dobře."
+    },
+    {
+      "key": "Daisy_007_f",
+      "en": "They were apart for a while, and I think they need a little help to get back on the same page.",
+      "cz": "Byli chvíli od sebe a myslím, že potřebují trochu pomoci, aby se dali zase do pořádku.",
+      "source": "pre_existing",
+      "original_cz": "Byli chvíli od sebe a myslím, že potřebují trochu pomoci, aby se dali zase do pořádku."
+    },
+    {
+      "key": "Daisy_008_f",
+      "en": "I understand. Did you have anything in mind?",
+      "cz": "Rozumím. Měl jsi něco na mysli?",
+      "source": "pre_existing",
+      "original_cz": "Rozumím. Měl jsi něco na mysli?"
+    },
+    {
+      "key": "Daisy_010_f",
+      "en": "Minnie suggested that I make some treats for them to share.",
+      "cz": "Minnie navrhla, abych jim připravila nějaké pamlsky, o které by se mohli podělit.",
+      "source": "pre_existing",
+      "original_cz": "Minnie navrhla, abych jim připravila nějaké pamlsky, o které by se mohli podělit."
+    },
+    {
+      "key": "Daisy_016_f",
+      "en": "Well, that's a great start! As long as it's the kind of treat that Jack and Sally both like.",
+      "cz": "No, to je skvělý začátek! Hlavně, že je to taková pochoutka, kterou mají rádi Jack i Sally.",
+      "source": "pre_existing",
+      "original_cz": "No, to je skvělý začátek! Hlavně, že je to taková pochoutka, kterou mají rádi Jack i Sally."
+    },
+    {
+      "key": "Daisy_017_f",
+      "en": "Hmm, not sure about that... I guess gingerbread isn't the most Halloween-y of treats.",
+      "cz": "Hmm, tím si nejsem jistý... Myslím, že perník není zrovna nejhalloweenštější pochoutka.",
+      "source": "pre_existing",
+      "original_cz": "Hmm, tím si nejsem jistý... Myslím, že perník není zrovna nejhalloweenštější pochoutka."
+    },
+    {
+      "key": "Daisy_018_f",
+      "en": "Well, there's an easy way to fix that — make the cookies in the shape of a skull!",
+      "cz": "No, existuje snadný způsob, jak to napravit – udělejte sušenky ve tvaru lebky!",
+      "source": "pre_existing",
+      "original_cz": "No, existuje snadný způsob, jak to napravit – udělejte sušenky ve tvaru lebky!"
+    },
+    {
+      "key": "Daisy_009_f",
+      "en": "But a date needs more than just snacks. You could... <Lore>decorate with Halloween items</Lore> or even <Lore>include a variety of Halloween-themed food</Lore>!",
+      "cz": "Ale rande potřebuje víc než jen občerstvení. Můžete... <Lore>ozdobit halloweenskými předměty</Lore> nebo dokonce <Lore>zahrnout různé halloweenské jídlo</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Ale rande potřebuje víc než jen občerstvení. Můžete... <Lore>ozdobit halloweenskými předměty</Lore> nebo dokonce <Lore>zahrnout různé halloweenské jídlo</Lore>!"
+    },
+    {
+      "key": "Daisy_020_f",
+      "en": "Great ideas, Daisy. I'll get started on that now!",
+      "cz": "Skvělé nápady, Daisy. Hned se do toho pustím!",
+      "source": "pre_existing",
+      "original_cz": "Skvělé nápady, Daisy. Hned se do toho pustím!"
+    },
+    {
+      "key": "Daisy_011_f",
+      "en": "No, you're the first Villager I came to see.",
+      "cz": "Ne, jsi první vesničan, kterého jsem přišel navštívit.",
+      "source": "pre_existing",
+      "original_cz": "Ne, jsi první vesničan, kterého jsem přišel navštívit."
+    },
+    {
+      "key": "Daisy_012_f",
+      "en": "Well, aren't you smart? Coming to the best advice-giver in the Valley first!",
+      "cz": "No, nejsi chytrý? Nejdřív zajdi za nejlepším rádcem v údolí!",
+      "source": "pre_existing",
+      "original_cz": "No, nejsi chytrý? Nejdřív zajdi za nejlepším rádcem v údolí!"
+    },
+    {
+      "key": "Daisy_013_f",
+      "en": "Now, let me think... Oh, I know! You could give them something they'll both like that they can share together.",
+      "cz": "Tak mě nechte přemýšlet... No, já vím! Mohli byste jim dát něco, co se jim oběma bude líbit a o co se mohou společně podělit.",
+      "source": "pre_existing",
+      "original_cz": "Tak mě nechte přemýšlet... No, já vím! Mohli byste jim dát něco, co se jim oběma bude líbit a o co se mohou společně podělit."
+    },
+    {
+      "key": "Daisy_014_f",
+      "en": "And for Jack and Sally, it should involve frightening imagery!",
+      "cz": "A pro Jacka a Sally by to mělo zahrnovat děsivé obrazy!",
+      "source": "pre_existing",
+      "original_cz": "A pro Jacka a Sally by to mělo zahrnovat děsivé obrazy!"
+    },
+    {
+      "key": "Daisy_015_f",
+      "en": "Like a skull, or something Halloween-y.",
+      "cz": "Třeba lebka, nebo něco halloweenského.",
+      "source": "pre_existing",
+      "original_cz": "Třeba lebka, nebo něco halloweenského."
+    },
+    {
+      "key": "Daisy_001_f",
+      "en": "And that can apply to everything! You could <Lore>decorate with Halloween items</Lore> or even <Lore>include Halloween-themed food</Lore>!",
+      "cz": "A to se může vztahovat na cokoli! Můžete <Lore>ozdobit halloweenskými předměty</Lore> nebo dokonce <Lore>použít halloweenské jídlo</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "A to se může vztahovat na cokoli! Můžete <Lore>ozdobit halloweenskými předměty</Lore> nebo dokonce <Lore>použít halloweenské jídlo</Lore>!"
+    },
+    {
+      "key": "Daisy_019_f",
+      "en": "Perfect! Thanks, Daisy. I'll <Lore>see what Minnie has to say next</Lore>.",
+      "cz": "Perfektní! Díky, Daisy. <Lore>Uvidím, co Minnie řekne dál</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Perfektní! Díky, Daisy. <Lore>Uvidím, co Minnie řekne dál</Lore>."
+    }
+  ],
+  "Sally_Daisy/Daisy_VLG_Sall_030_VLG_Sall_030_TalkTo01.locbin": [
+    {
+      "key": "Daisy_001_f",
+      "en": "Hey, Daisy!",
+      "cz": "Hej, Daisy!",
+      "source": "pre_existing",
+      "original_cz": "Hej, Daisy!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Do you have any sewing project ideas?",
+      "cz": "Máte nějaké nápady na šicí projekty?",
+      "source": "pre_existing",
+      "original_cz": "Máte nějaké nápady na šicí projekty?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Need any sewing help?",
+      "cz": "Potřebujete pomoc s šitím?",
+      "source": "pre_existing",
+      "original_cz": "Potřebujete pomoc s šitím?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "How's your fashion line coming?",
+      "cz": "Jak se daří vaší módní linii?",
+      "source": "pre_existing",
+      "original_cz": "Jak se daří vaší módní linii?"
+    },
+    {
+      "key": "Daisy_005_f",
+      "en": "Why, of course. I have dozens! A purple and pink tartan skirt with a back bow, an entire athleisure set with lace trim... I could go on.",
+      "cz": "No jasně. Mám jich tucty! Fialovoružovou tartanovou sukni s mašlí na zadní straně, celou sportovní soupravu s krajkovým lemem... Mohla bych pokračovat.",
+      "source": "pre_existing",
+      "original_cz": "No jasně. Mám jich tucty! Fialovoružovou tartanovou sukni s mašlí na zadní straně, celou sportovní soupravu s krajkovým lemem... Mohla bych pokračovat."
+    },
+    {
+      "key": "Daisy_006_f",
+      "en": "Why do you ask?",
+      "cz": "Proč se ptáš?",
+      "source": "pre_existing",
+      "original_cz": "Proč se ptáš?"
+    },
+    {
+      "key": "Daisy_007_f",
+      "en": "Sally's looking for a new sewing project. I thought you and Minnie might have some ideas for her.",
+      "cz": "Sally hledá nový šicí projekt. Myslela jsem, že ty a Minnie byste pro ni mohly mít nějaké nápady.",
+      "source": "pre_existing",
+      "original_cz": "Sally hledá nový šicí projekt. Myslela jsem, že ty a Minnie byste pro ni mohly mít nějaké nápady."
+    },
+    {
+      "key": "Daisy_016_f",
+      "en": "Actually, I have an even BETTER thought! Why don't you and Sally join Minnie and me on our next project?",
+      "cz": "Vlastně mám ještě LEPŠÍ nápad! Proč se ty a Sally nepřidáte ke mně a Minnie na našem dalším projektu?",
+      "source": "pre_existing",
+      "original_cz": "Vlastně mám ještě LEPŠÍ nápad! Proč se ty a Sally nepřidáte ke mně a Minnie na našem dalším projektu?"
+    },
+    {
+      "key": "Daisy_009_f",
+      "en": "We're thinking: home decor. You know — throw pillows, curtains, the whole works.",
+      "cz": "Přemýšlíme o bytových dekoracích. Víte – polštáře, záclony, zkrátka celé.",
+      "source": "pre_existing",
+      "original_cz": "Přemýšlíme o bytových dekoracích. Víte – polštáře, záclony, zkrátka celé."
+    },
+    {
+      "key": "Daisy_010_f",
+      "en": "I'm sure Minnie will agree that you and Sally would be the perfect collaborators!",
+      "cz": "Jsem si jistá, že Minnie bude souhlasit, že ty a Sally byste byly perfektní spolupracovnice!",
+      "source": "pre_existing",
+      "original_cz": "Jsem si jistá, že Minnie bude souhlasit, že ty a Sally byste byly perfektní spolupracovnice!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "What do we need to get started?",
+      "cz": "Co potřebujeme k zahájení?",
+      "source": "pre_existing",
+      "original_cz": "Co potřebujeme k zahájení?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Sally will be so happy!",
+      "cz": "Sally bude mít takovou radost!",
+      "source": "pre_existing",
+      "original_cz": "Sally bude mít takovou radost!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Do you actually THROW throw pillows?",
+      "cz": "Opravdu HÁZÍTE dekorační polštáře?",
+      "source": "pre_existing",
+      "original_cz": "Opravdu HÁZÍTE dekorační polštáře?"
+    },
+    {
+      "key": "Daisy_012_f",
+      "en": "I'll give you a list of supplies. Would you mind <Lore>collecting them for us</Lore>?",
+      "cz": "Dám vám seznam zásob. Mohl byste nám je <Lore>vyzvednout</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "Dám vám seznam zásob. Mohl byste nám je <Lore>vyzvednout</Lore>?"
+    },
+    {
+      "key": "Daisy_015_f",
+      "en": "In the meantime, I need to grab my design sketches. Then we'll <Lore>meet at Minnie's place</Lore>!",
+      "cz": "Mezitím si musím vzít své návrhové náčrty. Pak se <Lore>sejdeme u Minnie</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Mezitím si musím vzít své návrhové náčrty. Pak se <Lore>sejdeme u Minnie</Lore>!"
+    },
+    {
+      "key": "Daisy_011_f",
+      "en": "Well, I'm thrilled! Sally has such fantastic style. I'm sure we'll come up with something unforgettable.",
+      "cz": "No, jsem nadšená! Sally má tak fantastický styl. Jsem si jistá, že vymyslíme něco nezapomenutelného.",
+      "source": "pre_existing",
+      "original_cz": "No, jsem nadšená! Sally má tak fantastický styl. Jsem si jistá, že vymyslíme něco nezapomenutelného."
+    },
+    {
+      "key": "Daisy_013_f",
+      "en": "Sometimes. If Donald's being especially frustrating. *giggle*",
+      "cz": "Někdy. Pokud je Donald obzvlášť frustrující. *chichotání*",
+      "source": "pre_existing",
+      "original_cz": "Někdy. Pokud je Donald obzvlášť frustrující. *chichotání*"
+    },
+    {
+      "key": "Daisy_014_f",
+      "en": "Now, there's lots of work to do!",
+      "cz": "Teď je spousta práce!",
+      "source": "pre_existing",
+      "original_cz": "Teď je spousta práce!"
+    },
+    {
+      "key": "Daisy_002_f",
+      "en": "As a matter of fact, I do! Minnie and I are planning a new project for \"Dots & Daisies,\" but it's a little ambitious for just the two of us...",
+      "cz": "Vlastně ano! S Minnie plánujeme nový projekt pro „Dots & Daisies“, ale je to trochu ambiciózní jen pro nás dvě...",
+      "source": "pre_existing",
+      "original_cz": "Vlastně ano! S Minnie plánujeme nový projekt pro „Dots & Daisies“, ale je to trochu ambiciózní jen pro nás dvě..."
+    },
+    {
+      "key": "Daisy_004_f",
+      "en": "Oh, \"Dots & Daisies\" is doing fabulously! We're just about to start a big new project!",
+      "cz": "„Dots & Daisies“ si vede skvěle! Právě se chystáme začít s novým velkým projektem!",
+      "source": "pre_existing",
+      "original_cz": "„Dots & Daisies“ si vede skvěle! Právě se chystáme začít s novým velkým projektem!"
+    },
+    {
+      "key": "Daisy_008_f",
+      "en": "But enough about me; what was it you wanted to talk about?",
+      "cz": "Ale dost o mně; o čem jsi chtěl mluvit?",
+      "source": "pre_existing",
+      "original_cz": "Ale dost o mně; o čem jsi chtěl mluvit?"
+    }
+  ],
+  "Sally_Daisy/Daisy_VLG_Sall_030_VLG_Sall_030_TalkTo02.locbin": [
+    {
+      "key": "Daisy_000_f",
+      "en": "{PlayerName}, thanks again for helping with the materials but...",
+      "cz": "{PlayerName}, ještě jednou děkuji za pomoc s materiály, ale...",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, ještě jednou děkuji za pomoc s materiály, ale..."
+    },
+    {
+      "key": "Daisy_001_f",
+      "en": "I'm not sure it's the best time for Sally to collaborate with Minnie and me.",
+      "cz": "Nejsem si jistý/á, jestli je to pro Sally nejlepší čas na spolupráci s Minnie a se mnou.",
+      "source": "pre_existing",
+      "original_cz": "Nejsem si jistý/á, jestli je to pro Sally nejlepší čas na spolupráci s Minnie a se mnou."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "We'll find something different for Sally.",
+      "cz": "Najdeme pro Sally něco jiného.",
+      "source": "pre_existing",
+      "original_cz": "Najdeme pro Sally něco jiného."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Maybe something in the future?",
+      "cz": "Možná něco v budoucnu?",
+      "source": "pre_existing",
+      "original_cz": "Možná něco v budoucnu?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Because it's your first home collection?",
+      "cz": "Protože je to vaše první domácí sbírka?",
+      "source": "pre_existing",
+      "original_cz": "Protože je to vaše první domácí sbírka?"
+    },
+    {
+      "key": "Daisy_003_f",
+      "en": "You absolutely must! She has SO many unique ideas... I'm just not sure they're right for the first EVER home decor line for \"Dots & Daisies.\"",
+      "cz": "To musíš mít! Má TOLIK unikátních nápadů... Jen si nejsem jistá, jestli jsou ty pravé pro PRVNÍ řadu bytových dekorací VŮBEC s názvem „Dots & Daisies“.",
+      "source": "pre_existing",
+      "original_cz": "To musíš mít! Má TOLIK unikátních nápadů... Jen si nejsem jistá, jestli jsou ty pravé pro PRVNÍ řadu bytových dekorací VŮBEC s názvem „Dots & Daisies“."
+    },
+    {
+      "key": "Daisy_005_f",
+      "en": "Anyway, I'll give the materials back to Sally. I just know the two of you will come up with something fun for them!",
+      "cz": "Každopádně vrátím materiály Sally. Vím jen, že vy dvě pro ně vymyslíte něco zábavného!",
+      "source": "pre_existing",
+      "original_cz": "Každopádně vrátím materiály Sally. Vím jen, že vy dvě pro ně vymyslíte něco zábavného!"
+    },
+    {
+      "key": "Daisy_002_f",
+      "en": "Oh, definitely! We all love Halloween, so I'm SURE we'll have a haunted house collection soon!",
+      "cz": "Jasně! Všichni milujeme Halloween, takže si JSEM JISTÁ, že brzy budeme mít sbírku strašidelných domů!",
+      "source": "pre_existing",
+      "original_cz": "Jasně! Všichni milujeme Halloween, takže si JSEM JISTÁ, že brzy budeme mít sbírku strašidelných domů!"
+    },
+    {
+      "key": "Daisy_004_f",
+      "en": "Exactly! This first one really has to have our established style. But I'd love to collaborate with her in the future!",
+      "cz": "Přesně! Ta první musí mít náš zaběhnutý styl. Ale moc ráda bych s ní v budoucnu spolupracovala!",
+      "source": "pre_existing",
+      "original_cz": "Přesně! Ta první musí mít náš zaběhnutý styl. Ale moc ráda bych s ní v budoucnu spolupracovala!"
+    }
+  ]
+}

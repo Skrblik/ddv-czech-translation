@@ -1,0 +1,339 @@
+{
+  "Cinderella_Remy/Remy_SEC_Fair_010_SEC_Fair_010_TalkTo04.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "Hey, {PlayerName}, glad to see you. I was just about to make some pumpkin soup.",
+      "cz": "Ahoj, {PlayerName}, rád tě vidím. Zrovna jsem se chystal udělat dýňovou polévku.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}, rád tě vidím. Zrovna jsem se chystal udělat dýňovou polévku."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Remy, you can't eat that pumpkin!",
+      "cz": "Remy, tu dýni nemůžeš jíst!",
+      "source": "pre_existing",
+      "original_cz": "Remy, tu dýni nemůžeš jíst!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Stop! That pumpkin is magical.",
+      "cz": "Přestaň! Ta dýně je kouzelná.",
+      "source": "pre_existing",
+      "original_cz": "Přestaň! Ta dýně je kouzelná."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "UNHAND THAT MAGICAL PUMPKIN!",
+      "cz": "PUSŤTE Z RUKY TU KOUZELNOU DÝNI!",
+      "source": "pre_existing",
+      "original_cz": "PUSŤTE Z RUKY TU KOUZELNOU DÝNI!"
+    },
+    {
+      "key": "Remy_001_f",
+      "en": "Well, not raw, no. I mean, it won't hurt you, but what a waste of potential flavor.",
+      "cz": "No, ne syrové, to ne. Tedy, neublíží ti to, ale to je plýtvání potenciální chutí.",
+      "source": "pre_existing",
+      "original_cz": "No, ne syrové, to ne. Tedy, neublíží ti to, ale to je plýtvání potenciální chutí."
+    },
+    {
+      "key": "Remy_004_f",
+      "en": "Seriously, you can't eat that. It's my <ActivityItem>Spell Pumpkin</ActivityItem>!",
+      "cz": "Vážně, tohle nemůžeš jíst. To je moje <ActivityItem>Dýně pro kouzla</ActivityItem>!",
+      "source": "pre_existing",
+      "original_cz": "Vážně, tohle nemůžeš jíst. To je moje <ActivityItem>Dýně pro kouzla</ActivityItem>!"
+    },
+    {
+      "key": "Remy_003_f",
+      "en": "Really? Huh. I've never heard of that variety of pumpkin.",
+      "cz": "Vážně? Hm. O téhle odrůdě dýně jsem nikdy neslyšel/a.",
+      "source": "pre_existing",
+      "original_cz": "Vážně? Hm. O téhle odrůdě dýně jsem nikdy neslyšel/a."
+    },
+    {
+      "key": "Remy_005_f",
+      "en": "It's a magical charm the Fairy Godmother made to keep Cinderella safe during the Forgetting. But now, to help Cinderella return, we need to use it to break the spell.",
+      "cz": "Je to kouzelné kouzlo, které víla kmotra vytvořila, aby ochránila Popelku během Zapomnění. Ale teď, abychom Popelce pomohli vrátit se, musíme ho použít k prolomení kouzla.",
+      "source": "pre_existing",
+      "original_cz": "Je to kouzelné kouzlo, které víla kmotra vytvořila, aby ochránila Popelku během Zapomnění. Ale teď, abychom Popelce pomohli vrátit se, musíme ho použít k prolomení kouzla."
+    },
+    {
+      "key": "Remy_006_f",
+      "en": "Not sure I followed all of that, but please take this back. I hope it helps.",
+      "cz": "Nejsem si jistý/á, jestli jsem to celé splnil/a, ale prosím, vezměte to zpět. Doufám, že to pomůže.",
+      "source": "pre_existing",
+      "original_cz": "Nejsem si jistý/á, jestli jsem to celé splnil/a, ale prosím, vezměte to zpět. Doufám, že to pomůže."
+    },
+    {
+      "key": "Remy_007_f",
+      "en": "Thanks, Remy!",
+      "cz": "Díky, Remy!",
+      "source": "pre_existing",
+      "original_cz": "Díky, Remy!"
+    },
+    {
+      "key": "Remy_008_f",
+      "en": "Sorry to cause you trouble. Next time I find any strange-looking vegetables, I'll be sure to ask about 'em first.",
+      "cz": "Omlouvám se za potíže. Až příště najdu nějakou podivně vypadající zeleninu, určitě se na ni nejdřív zeptám.",
+      "source": "pre_existing",
+      "original_cz": "Omlouvám se za potíže. Až příště najdu nějakou podivně vypadající zeleninu, určitě se na ni nejdřív zeptám."
+    },
+    {
+      "key": "Remy_002_f",
+      "en": "I know! It's about to be magically scrumptious! The aroma is like a hybrid between a butternut squash and a zucchini, with notes of autumn harvest and crisp fall air.",
+      "cz": "Já vím! Bude to kouzelně lahodné! Vůně je jako hybrid hokkaido hokkaido a cukety, s tóny podzimní sklizně a svěžího podzimního vzduchu.",
+      "source": "pre_existing",
+      "original_cz": "Já vím! Bude to kouzelně lahodné! Vůně je jako hybrid hokkaido hokkaido a cukety, s tóny podzimní sklizně a svěžího podzimního vzduchu."
+    }
+  ],
+  "Cinderella_Remy/Remy_VLG_Cind_040_VLG_Cind_040_BringItem02.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "These Ingredients are fantastic! Exactly what we need.",
+      "cz": "Tyto ingredience jsou fantastické! Přesně to, co potřebujeme.",
+      "source": "pre_existing",
+      "original_cz": "Tyto ingredience jsou fantastické! Přesně to, co potřebujeme."
+    },
+    {
+      "key": "Remy_003_f",
+      "en": "Thank you so much for the help, {PlayerName}. I think we've perfected our special drink for the Friendship Ball while you were away.",
+      "cz": "Moc děkuji za pomoc, {PlayerName}. Myslím, že jsme během tvé nepřítomnosti zdokonalili náš speciální nápoj na Ples přátelství.",
+      "source": "pre_existing",
+      "original_cz": "Moc děkuji za pomoc, {PlayerName}. Myslím, že jsme během tvé nepřítomnosti zdokonalili náš speciální nápoj na Ples přátelství."
+    },
+    {
+      "key": "Remy_004_f",
+      "en": "You have? Is there a sample {PlayerName} could try?",
+      "cz": "Máte? Existuje nějaký vzorek {PlayerName}, který byste mohl vyzkoušet?",
+      "source": "pre_existing",
+      "original_cz": "Máte? Existuje nějaký vzorek {PlayerName}, který byste mohl vyzkoušet?"
+    },
+    {
+      "key": "Remy_005_f",
+      "en": "Not yet. It needs some time to reach full flavor. But we were hoping for your opinion on something, {PlayerName}.",
+      "cz": "Ještě ne. Chvíli to trvá, než dosáhne plné chuti. Ale doufali jsme, že se dozvíme váš názor na jednu věc, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Ještě ne. Chvíli to trvá, než dosáhne plné chuti. Ale doufali jsme, že se dozvíme váš názor na jednu věc, {PlayerName}."
+    },
+    {
+      "key": "Remy_006_f",
+      "en": "At the ball, someone needs to run the buffet, and someone needs to serve the drinks.",
+      "cz": "Na plese musí někdo obsluhovat bufet a někdo musí servírovat nápoje.",
+      "source": "pre_existing",
+      "original_cz": "Na plese musí někdo obsluhovat bufet a někdo musí servírovat nápoje."
+    },
+    {
+      "key": "Remy_007_f",
+      "en": "And we just can't decide who should do what. Rather than toss a coin, we thought we'd ask you. What do you think, {PlayerName}?",
+      "cz": "A my se prostě nemůžeme rozhodnout, kdo by měl co dělat. Raději než házet mincí, než abychom si házeli mincí, jsme se zeptali vás. Co si o tom myslíte, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "A my se prostě nemůžeme rozhodnout, kdo by měl co dělat. Raději než házet mincí, než abychom si házeli mincí, jsme se zeptali vás. Co si o tom myslíte, {PlayerName}?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Remy should serve the food.",
+      "cz": "Remy by měl servírovat jídlo.",
+      "source": "pre_existing",
+      "original_cz": "Remy by měl servírovat jídlo."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Tiana should serve the food.",
+      "cz": "Jídlo by měla servírovat Tiana.",
+      "source": "pre_existing",
+      "original_cz": "Jídlo by měla servírovat Tiana."
+    },
+    {
+      "key": "Remy_001_f",
+      "en": "That'll work just fine. After we prepare the food, I'll be happy to serve our new <ActivityItem>Dream Fizz</ActivityItem> to everyone at the ball.",
+      "cz": "To bude fungovat dobře. Až si připravíme jídlo, rád všem na plese naservíruji náš nový <ActivityItem>Dream Fizz</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "To bude fungovat dobře. Až si připravíme jídlo, rád všem na plese naservíruji náš nový <ActivityItem>Dream Fizz</ActivityItem>."
+    },
+    {
+      "key": "Remy_008_f",
+      "en": "And I'll manage the buffet. Thanks, {PlayerName}!",
+      "cz": "A já se postarám o bufet. Díky, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "A já se postarám o bufet. Díky, {PlayerName}!"
+    },
+    {
+      "key": "Remy_010_f",
+      "en": "It'll all be wonderful, I'm sure.",
+      "cz": "Všechno to bude úžasné, jsem si jistý/á.",
+      "source": "pre_existing",
+      "original_cz": "Všechno to bude úžasné, jsem si jistý/á."
+    },
+    {
+      "key": "Remy_011_f",
+      "en": "{PlayerName}, we have one final stop to make before the ball can begin. Please come with me to speak to <Lore>Belle</Lore>.",
+      "cz": "{PlayerName}, než ples začne, musíme se ještě zastavit. Pojďte se mnou promluvit si s <Lore>Belle</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, než ples začne, musíme se ještě zastavit. Pojďte se mnou promluvit si s <Lore>Belle</Lore>."
+    },
+    {
+      "key": "Remy_002_f",
+      "en": "That'll work just fine. I'm happy to manage the buffet at the ball after Chef Remy and I prepare all the food together.",
+      "cz": "To bude fungovat dobře. Rád se postarám o raut na plese poté, co s šéfkuchařem Remym připravíme všechno jídlo společně.",
+      "source": "pre_existing",
+      "original_cz": "To bude fungovat dobře. Rád se postarám o raut na plese poté, co s šéfkuchařem Remym připravíme všechno jídlo společně."
+    },
+    {
+      "key": "Remy_009_f",
+      "en": "And I'll be at the beverage station serving everyone their new favorite drink: our <ActivityItem>Shareable Dream Fizz</ActivityItem>!",
+      "cz": "A já budu u nápojového stánku a budu všem nabízet jejich nový oblíbený nápoj: náš <ActivityItem>Shareable Dream Fizz</ActivityItem>!",
+      "source": "pre_existing",
+      "original_cz": "A já budu u nápojového stánku a budu všem nabízet jejich nový oblíbený nápoj: náš <ActivityItem>Shareable Dream Fizz</ActivityItem>!"
+    }
+  ],
+  "Cinderella_Remy/Remy_VLG_Cind_040_VLG_Cind_040_TalkTo03.locbin": [
+    {
+      "key": "Remy_001_f",
+      "en": "Cinderella, {PlayerName}! Thanks for coming by.",
+      "cz": "Popelko, {PlayerName}! Díky, že jsi se zastavila.",
+      "source": "pre_existing",
+      "original_cz": "Popelko, {PlayerName}! Díky, že jsi se zastavila."
+    },
+    {
+      "key": "Remy_002_f",
+      "en": "You're just who we were hoping to see. Remy and I've been working on a menu for the Friendship Ball.",
+      "cz": "Jsi přesně ten, koho jsme doufali vidět. S Remym jsme pracovali na menu pro Ples přátelství.",
+      "source": "pre_existing",
+      "original_cz": "Jsi přesně ten, koho jsme doufali vidět. S Remym jsme pracovali na menu pro Ples přátelství."
+    },
+    {
+      "key": "Remy_003_f",
+      "en": "That's wonderful! Thank you, friends.",
+      "cz": "To je skvělé! Děkuji vám, přátelé.",
+      "source": "pre_existing",
+      "original_cz": "To je skvělé! Děkuji vám, přátelé."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "What can I do to help?",
+      "cz": "Co můžu udělat, abych pomohl/a?",
+      "source": "pre_existing",
+      "original_cz": "Co můžu udělat, abych pomohl/a?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I'm sure everything will be delicious.",
+      "cz": "Jsem si jistý/á, že všechno bude vynikající.",
+      "source": "pre_existing",
+      "original_cz": "Jsem si jistý/á, že všechno bude vynikající."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Need me to sample anything?",
+      "cz": "Potřebuji něco ochutnat?",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji něco ochutnat?"
+    },
+    {
+      "key": "Remy_005_f",
+      "en": "Well, we haven't had time to get all the Ingredients for the buffet food.",
+      "cz": "No, neměli jsme čas sehnat všechny ingredience na bufet.",
+      "source": "pre_existing",
+      "original_cz": "No, neměli jsme čas sehnat všechny ingredience na bufet."
+    },
+    {
+      "key": "Remy_008_f",
+      "en": "Lumiere asked us to make a special punch for the ball, and it's taking some time to get right.",
+      "cz": "Lumiere nás požádal, abychom na míč vyrobili speciální úderník, a chvíli trvá, než se to podaří.",
+      "source": "pre_existing",
+      "original_cz": "Lumiere nás požádal, abychom na míč vyrobili speciální úderník, a chvíli trvá, než se to podaří."
+    },
+    {
+      "key": "Remy_009_f",
+      "en": "Between that and figuring out how to manage the buffet, we've had our hands full. Or paws full, in my case.",
+      "cz": "Mezi tím a vymýšlením, jak zvládnout bufet, jsme měli plné ruce práce. Nebo v mém případě plné tlapky.",
+      "source": "pre_existing",
+      "original_cz": "Mezi tím a vymýšlením, jak zvládnout bufet, jsme měli plné ruce práce. Nebo v mém případě plné tlapky."
+    },
+    {
+      "key": "Player_003_f",
+      "en": "I'll collect the Ingredients you need for the buffet.",
+      "cz": "Seženu ingredience, které budeš potřebovat na bufet.",
+      "source": "pre_existing",
+      "original_cz": "Seženu ingredience, které budeš potřebovat na bufet."
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "I'm happy to contribute to the party!",
+      "cz": "Rád/a přispěji k oslavě!",
+      "source": "pre_existing",
+      "original_cz": "Rád/a přispěji k oslavě!"
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "We're all working together.",
+      "cz": "Všichni pracujeme společně.",
+      "source": "pre_existing",
+      "original_cz": "Všichni pracujeme společně."
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "I've gotten LOTS of practice at this by now.",
+      "cz": "V tomhle už mám HODNĚ praxe.",
+      "source": "pre_existing",
+      "original_cz": "V tomhle už mám HODNĚ praxe."
+    },
+    {
+      "key": "Remy_011_f",
+      "en": "Truly? That would be a lifesaver!",
+      "cz": "Vážně? To by mi zachránilo život!",
+      "source": "pre_existing",
+      "original_cz": "Vážně? To by mi zachránilo život!"
+    },
+    {
+      "key": "Remy_012_f",
+      "en": "Yeah, thanks, {PlayerName}! That'll be a huge help.",
+      "cz": "Jo, díky, {PlayerName}! To by mi moc pomohlo.",
+      "source": "pre_existing",
+      "original_cz": "Jo, díky, {PlayerName}! To by mi moc pomohlo."
+    },
+    {
+      "key": "Remy_004_f",
+      "en": "I think you'll be pleased.",
+      "cz": "Myslím, že budeš spokojený/á.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že budeš spokojený/á."
+    },
+    {
+      "key": "Remy_007_f",
+      "en": "Problem is, we haven't had time to get all the Ingredients for the food for the buffet.",
+      "cz": "Problém je, že jsme neměli čas sehnat všechny ingredience na jídlo do bufetu.",
+      "source": "pre_existing",
+      "original_cz": "Problém je, že jsme neměli čas sehnat všechny ingredience na jídlo do bufetu."
+    },
+    {
+      "key": "Remy_006_f",
+      "en": "I'm afraid we haven't even started preparing things yet.",
+      "cz": "Obávám se, že jsme s přípravami ještě ani nezačali.",
+      "source": "pre_existing",
+      "original_cz": "Obávám se, že jsme s přípravami ještě ani nezačali."
+    }
+  ],
+  "Cinderella_Remy/Remy_VLG_Cind_040_VLG_Cind_040_TalkTo08.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "Hey, Remy!",
+      "cz": "Hej, Remy!",
+      "source": "pre_existing",
+      "original_cz": "Hej, Remy!"
+    },
+    {
+      "key": "Remy_001_f",
+      "en": "{PlayerName}, did you get anything to eat yet? Help yourself to the buffet! Tiana and I tried to pull out all the stops for you.",
+      "cz": "{PlayerName}, už jsi něco snědl/a? Dones si k bufetu! S Tianou jsme se pro tebe snažili udělat maximum.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, už jsi něco snědl/a? Dones si k bufetu! S Tianou jsme se pro tebe snažili udělat maximum."
+    },
+    {
+      "key": "Remy_002_f",
+      "en": "Everyone really seems to be enjoying the Dream Fizz! I knew Tiana and I had a hit as soon as I tasted our new recipe.",
+      "cz": "Zdá se, že si Dream Fizz opravdu všichni užívají! Věděla jsem, že si s Tianou užijeme hit, hned jak jsem ochutnala náš nový recept.",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že si Dream Fizz opravdu všichni užívají! Věděla jsem, že si s Tianou užijeme hit, hned jak jsem ochutnala náš nový recept."
+    }
+  ]
+}

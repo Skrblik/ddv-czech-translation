@@ -1,0 +1,123 @@
+{
+  "PeterPan_Sally/Sally_VLG_Pete_010_VLG_Pete_010_TalkTo06.locbin": [
+    {
+      "key": "Sally_001_f",
+      "en": "Hello, {PlayerName}. Peter said you'd come visit me soon. You're trying to catch his shadow?",
+      "cz": "Ahoj, {PlayerName}. Petr říkal, že mě brzy přijdeš navštívit. Snažíš se chytit jeho stín?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}. Petr říkal, že mě brzy přijdeš navštívit. Snažíš se chytit jeho stín?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Trying. No success yet.",
+      "cz": "Snažím se. Zatím bez úspěchu.",
+      "source": "pre_existing",
+      "original_cz": "Snažím se. Zatím bez úspěchu."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "It's actually pretty fun.",
+      "cz": "Je to vlastně docela zábava.",
+      "source": "pre_existing",
+      "original_cz": "Je to vlastně docela zábava."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "He really seems to need my help.",
+      "cz": "Zdá se, že opravdu potřebuje mou pomoc.",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že opravdu potřebuje mou pomoc."
+    },
+    {
+      "key": "Sally_003_f",
+      "en": "Oh, I'm sure you'll catch it. And when you do, I have just the thing to reattach it.",
+      "cz": "Jsem si jistý, že to chytíš. A až to uděláš, mám přesně tu věc, jak to znovu připevnit.",
+      "source": "pre_existing",
+      "original_cz": "Jsem si jistý, že to chytíš. A až to uděláš, mám přesně tu věc, jak to znovu připevnit."
+    },
+    {
+      "key": "Sally_010_f",
+      "en": "It's <ActivityItem>Shadow Thread</ActivityItem>. Jack and I have been working on it together in his lab.",
+      "cz": "Je to <ActivityItem>Stínová nit</ActivityItem>. S Jackem na ní pracujeme společně v jeho laboratoři.",
+      "source": "pre_existing",
+      "original_cz": "Je to <ActivityItem>Stínová nit</ActivityItem>. S Jackem na ní pracujeme společně v jeho laboratoři."
+    },
+    {
+      "key": "Sally_012_f",
+      "en": "Peter brought the supplies to me earlier, so it's all ready for you.",
+      "cz": "Petr mi už dříve přinesl zásoby, takže je to pro tebe všechno připravené.",
+      "source": "pre_existing",
+      "original_cz": "Petr mi už dříve přinesl zásoby, takže je to pro tebe všechno připravené."
+    },
+    {
+      "key": "Sally_011_f",
+      "en": "He also said you should <Lore>meet him and Kristoff at Belle and the Beast's Castle</Lore>.",
+      "cz": "Také řekl, že byste se měli <Lore>setkat s ním a Kristoffem v zámku Belle a Bestie</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Také řekl, že byste se měli <Lore>setkat s ním a Kristoffem v zámku Belle a Bestie</Lore>."
+    },
+    {
+      "key": "Sally_002_f",
+      "en": "It does seem like a rather fun game.",
+      "cz": "Vypadá to jako docela zábavná hra.",
+      "source": "pre_existing",
+      "original_cz": "Vypadá to jako docela zábavná hra."
+    },
+    {
+      "key": "Sally_006_f",
+      "en": "And I have just the thing for when you catch it.",
+      "cz": "A mám přesně to pravé pro vás, když to chytíte.",
+      "source": "pre_existing",
+      "original_cz": "A mám přesně to pravé pro vás, když to chytíte."
+    },
+    {
+      "key": "Sally_004_f",
+      "en": "You're a good friend to help him with this.",
+      "cz": "Jsi dobrý přítel, který mu s tím pomůže.",
+      "source": "pre_existing",
+      "original_cz": "Jsi dobrý přítel, který mu s tím pomůže."
+    },
+    {
+      "key": "Sally_005_f",
+      "en": "It must be strange for him to see a dear friend suddenly all grown up.",
+      "cz": "Musí pro něj být zvláštní vidět drahého přítele najednou tak dospělého.",
+      "source": "pre_existing",
+      "original_cz": "Musí pro něj být zvláštní vidět drahého přítele najednou tak dospělého."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I'm glad I can be there for him.",
+      "cz": "Jsem rád/a, že tam pro něj můžu být.",
+      "source": "pre_existing",
+      "original_cz": "Jsem rád/a, že tam pro něj můžu být."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Yeah, he's definitely got a thing about grown-ups.",
+      "cz": "Jo, on má rozhodně slabost pro dospělé.",
+      "source": "pre_existing",
+      "original_cz": "Jo, on má rozhodně slabost pro dospělé."
+    },
+    {
+      "key": "Sally_007_f",
+      "en": "So am I.",
+      "cz": "Já taky.",
+      "source": "pre_existing",
+      "original_cz": "Já taky."
+    },
+    {
+      "key": "Sally_009_f",
+      "en": "Oh! I have something for you!",
+      "cz": "Mám pro tebe něco!",
+      "source": "pre_existing",
+      "original_cz": "Mám pro tebe něco!"
+    },
+    {
+      "key": "Sally_008_f",
+      "en": "Well, for some people, it's hard to trust others. But I'm sure you'll help him with that too.",
+      "cz": "No, pro některé lidi je těžké důvěřovat ostatním. Ale jsem si jistý, že mu s tím taky pomůžeš.",
+      "source": "pre_existing",
+      "original_cz": "No, pro některé lidi je těžké důvěřovat ostatním. Ale jsem si jistý, že mu s tím taky pomůžeš."
+    }
+  ]
+}

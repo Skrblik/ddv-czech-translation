@@ -1,0 +1,71 @@
+{
+  "MiniEvent23_PeterPan/PeterPan_Daily_Pete_ClickMagic_010_Daily_Pete_ClickMagic_010_Intro.locbin": [
+    {
+      "key": "PeterPan_000_f",
+      "en": "Hey, {PlayerName}!",
+      "cz": "Ahoj, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}!"
+    },
+    {
+      "key": "PeterPan_001_f",
+      "en": "Betcha can't find all the drawings I hid in Skull Rock with that fancy picture box of yours!",
+      "cz": "Vsadím se, že nenajdeš všechny kresby, co jsem schoval ve Skull Rocku s tou tvou fantastickou fotoboxovou krabicí!",
+      "source": "pre_existing",
+      "original_cz": "Vsadím se, že nenajdeš všechny kresby, co jsem schoval ve Skull Rocku s tou tvou fantastickou fotoboxovou krabicí!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "A scavenger hunt in Skull Rock? I'm in!",
+      "cz": "Honba za pokladem ve Skull Rocku? Jsem pro!",
+      "source": "pre_existing",
+      "original_cz": "Honba za pokladem ve Skull Rocku? Jsem pro!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'm too busy!",
+      "cz": "Jsem příliš zaneprázdněný/á!",
+      "source": "pre_existing",
+      "original_cz": "Jsem příliš zaneprázdněný/á!"
+    },
+    {
+      "key": "PeterPan_003_f",
+      "en": "There's <Lore>four</Lore> drawings to find. Good luck!",
+      "cz": "Je třeba najít <Lore>čtyři</Lore> kresby. Hodně štěstí!",
+      "source": "pre_existing",
+      "original_cz": "Je třeba najít <Lore>čtyři</Lore> kresby. Hodně štěstí!"
+    }
+  ],
+  "MiniEvent23_PeterPan/PeterPan_Daily_Pete_ClickMagic_010_Daily_Pete_ClickMagic_010_Ongoing01.locbin": [
+    {
+      "key": "PeterPan_000_f",
+      "en": "I'm going to <Lore>find all four hidden symbols in Skull Rock</Lore> and <Lore>take a picture with my Royal Phone</Lore>.",
+      "cz": "Najdu <Lore>všechny čtyři skryté symboly v Lebkové skále</Lore> a <Lore>vyfotím je svým královským telefonem</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Najdu <Lore>všechny čtyři skryté symboly v Lebkové skále</Lore> a <Lore>vyfotím je svým královským telefonem</Lore>."
+    },
+    {
+      "key": "PeterPan_001_f",
+      "en": "Ha! We'll see. I hid 'em real good!",
+      "cz": "Ha! Uvidíme. Schoval jsem je fakt dobře!",
+      "source": "pre_existing",
+      "original_cz": "Ha! Uvidíme. Schoval jsem je fakt dobře!"
+    }
+  ],
+  "MiniEvent23_PeterPan/PeterPan_Daily_Pete_ClickMagic_010_Daily_Pete_ClickMagic_010_Outro.locbin": [
+    {
+      "key": "PeterPan_000_f",
+      "en": "Well, what do ya know?! You found all my hidden drawings.",
+      "cz": "No, co ty víš?! Našla jsi všechny moje schované kresby.",
+      "source": "pre_existing",
+      "original_cz": "No, co ty víš?! Našla jsi všechny moje schované kresby."
+    },
+    {
+      "key": "PeterPan_001_f",
+      "en": "Fair's fair, {PlayerName}. Take your prize!",
+      "cz": "Dobře, {PlayerName}. Vezmi si svou cenu!",
+      "source": "pre_existing",
+      "original_cz": "Dobře, {PlayerName}. Vezmi si svou cenu!"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "ExpansionMain_Anna/Anna_BoardGame_Pregame001.locbin": [
+    {
+      "key": "Anna_000_f",
+      "en": "(I can do this. I am gonna win...) Okay, here we go!",
+      "cz": "(Zvládnu to. Vyhraju...) Tak jo, jdeme na to!",
+      "source": "pre_existing",
+      "original_cz": "(Zvládnu to. Vyhraju...) Tak jo, jdeme na to!"
+    }
+  ],
+  "ExpansionMain_Anna/Anna_Dialogues_Eager001.locbin": [
+    {
+      "key": "Anna_000_f",
+      "en": "Ooh! {PlayerName}! Have you got time for some Scramblecoin?",
+      "cz": "Jé! {PlayerName}! Máš čas na nějaké Scramblecoiny?",
+      "source": "pre_existing",
+      "original_cz": "Jé! {PlayerName}! Máš čas na nějaké Scramblecoiny?"
+    }
+  ],
+  "ExpansionMain_Anna/Anna_Dialogues_Postgame001.locbin": [
+    {
+      "key": "Anna_000_f",
+      "en": "Oh!",
+      "cz": "Ach!",
+      "source": "pre_existing",
+      "original_cz": "Ach!"
+    },
+    {
+      "key": "Anna_001_f",
+      "en": "What a move! Phew, I need to get some more practice.",
+      "cz": "To je ale tah! Uf, musím si ještě trochu procvičit.",
+      "source": "pre_existing",
+      "original_cz": "To je ale tah! Uf, musím si ještě trochu procvičit."
+    },
+    {
+      "key": "Anna_002_f",
+      "en": "You were so close! Keep practicing and I won't stand a chance against you.",
+      "cz": "Byla jsi tak blízko! Trénuj dál a já proti tobě nebudu mít šanci.",
+      "source": "pre_existing",
+      "original_cz": "Byla jsi tak blízko! Trénuj dál a já proti tobě nebudu mít šanci."
+    }
+  ]
+}

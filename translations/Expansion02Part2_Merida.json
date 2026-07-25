@@ -1,0 +1,860 @@
+{
+  "Expansion02Part2_Merida/Merida_MRQS_E02_120_MysteriousWhirls_MRQS_E02_120_MysteriousWhirlwinds_BringItem01.locbin": [
+    {
+      "key": "Merida_000_f",
+      "en": "That's odd.",
+      "cz": "To je zvláštní.",
+      "source": "pre_existing",
+      "original_cz": "To je zvláštní."
+    },
+    {
+      "key": "Merida_001_f",
+      "en": "You found this at the center of the whirlwind?",
+      "cz": "Našel jsi to uprostřed víru?",
+      "source": "pre_existing",
+      "original_cz": "Našel jsi to uprostřed víru?"
+    },
+    {
+      "key": "Merida_002_f",
+      "en": "Oh my... Looking into it, I'm feeling sort of... funny.",
+      "cz": "Ach jo... Když se na to dívám, cítím se nějak... divně.",
+      "source": "pre_existing",
+      "original_cz": "Ach jo... Když se na to dívám, cítím se nějak... divně."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Like \"turning into a bear\" kind of funny?",
+      "cz": "Jako třeba \"proměnit se v medvěda\"?",
+      "source": "pre_existing",
+      "original_cz": "Jako třeba \"proměnit se v medvěda\"?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "More funny than you were feeling already?",
+      "cz": "Ještě vtipnější, než ses už cítil/a?",
+      "source": "pre_existing",
+      "original_cz": "Ještě vtipnější, než ses už cítil/a?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "You're not going to be sick, are you? Should I get a bucket?!",
+      "cz": "Nebudeš nemocný, že ne? Mám si pro kyblík dát?!",
+      "source": "pre_existing",
+      "original_cz": "Nebudeš nemocný, že ne? Mám si pro kyblík dát?!"
+    },
+    {
+      "key": "Merida_005_f",
+      "en": "No. But now that you mention it...",
+      "cz": "Ne. Ale teď, když to zmiňuješ...",
+      "source": "pre_existing",
+      "original_cz": "Ne. Ale teď, když to zmiňuješ..."
+    },
+    {
+      "key": "Merida_013_f",
+      "en": "Did you see that? The magic, it's part of me again!",
+      "cz": "Viděl jsi to? Ta magie, je zase součástí mě!",
+      "source": "pre_existing",
+      "original_cz": "Viděl jsi to? Ta magie, je zase součástí mě!"
+    },
+    {
+      "key": "Merida_014_f",
+      "en": "I feel back to my old self.",
+      "cz": "Cítím se zpátky jako moje staré já.",
+      "source": "pre_existing",
+      "original_cz": "Cítím se zpátky jako moje staré já."
+    },
+    {
+      "key": "Merida_015_f",
+      "en": "Maybe it's the same thing that's happening to Flynn and Hades too.",
+      "cz": "Možná je to totéž, co se děje Flynnovi a Hádovi.",
+      "source": "pre_existing",
+      "original_cz": "Možná je to totéž, co se děje Flynnovi a Hádovi."
+    },
+    {
+      "key": "Merida_016_f",
+      "en": "Hurry and go <Lore>check on Flynn</Lore>. Don't tell him, but I'm starting to consider him a friend.",
+      "cz": "Pospěš si a běž se <Lore>podívat na Flynna</Lore>. Neříkej mu to, ale začínám ho považovat za přítele.",
+      "source": "pre_existing",
+      "original_cz": "Pospěš si a běž se <Lore>podívat na Flynna</Lore>. Neříkej mu to, ale začínám ho považovat za přítele."
+    },
+    {
+      "key": "Merida_017_f",
+      "en": "Oh, and if you could <Lore>catch those Snippets</Lore> flying around and restore my story to the Lorekeeper's pages...",
+      "cz": "A kdybys mohl <Lore>zachytit ty úryvky</Lore>, co poletují kolem, a vrátit můj příběh na stránky Věštce...",
+      "source": "pre_existing",
+      "original_cz": "A kdybys mohl <Lore>zachytit ty úryvky</Lore>, co poletují kolem, a vrátit můj příběh na stránky Věštce..."
+    },
+    {
+      "key": "Merida_018_f",
+      "en": "...I'd certainly appreciate it.",
+      "cz": "...Určitě bych to ocenil/a.",
+      "source": "pre_existing",
+      "original_cz": "...Určitě bych to ocenil/a."
+    },
+    {
+      "key": "Merida_008_f",
+      "en": "Looking at this reminds me of... me. It must be connected to me somehow.",
+      "cz": "Když se na to dívám, připomíná mi to... mě. Musí to se mnou nějak souviset.",
+      "source": "pre_existing",
+      "original_cz": "Když se na to dívám, připomíná mi to... mě. Musí to se mnou nějak souviset."
+    },
+    {
+      "key": "Merida_003_f",
+      "en": "It's... Oh, this is gonna sound like rubbish, {PlayerName}, but I think it's a part of me. A part of my story.",
+      "cz": "Je to... Bude to znít jako nesmysl, {PlayerName}, ale myslím, že je to součást mě. Součást mého příběhu.",
+      "source": "pre_existing",
+      "original_cz": "Je to... Bude to znít jako nesmysl, {PlayerName}, ale myslím, že je to součást mě. Součást mého příběhu."
+    },
+    {
+      "key": "Merida_004_f",
+      "en": "I see my mum. And I see myself.",
+      "cz": "Vidím svou mámu. A vidím sebe.",
+      "source": "pre_existing",
+      "original_cz": "Vidím svou mámu. A vidím sebe."
+    },
+    {
+      "key": "Merida_009_f",
+      "en": "I'm saying I'm sorry. I'm telling her that I want her back. That I love her.",
+      "cz": "Říkám, že mě to mrzí. Říkám jí, že ji chci zpátky. Že ji miluji.",
+      "source": "pre_existing",
+      "original_cz": "Říkám, že mě to mrzí. Říkám jí, že ji chci zpátky. Že ji miluji."
+    },
+    {
+      "key": "Merida_010_f",
+      "en": "And then all of a sudden, she's hugging me and holding me close.",
+      "cz": "A pak mě najednou objímá a pevně mě k sobě táhne.",
+      "source": "pre_existing",
+      "original_cz": "A pak mě najednou objímá a pevně mě k sobě táhne."
+    },
+    {
+      "key": "Merida_011_f",
+      "en": "That was the day I realized our destinies are in our hands. I can't believe I nearly lost this!",
+      "cz": "To byl den, kdy jsem si uvědomil/a, že naše osudy jsou v našich rukou. Nemůžu uvěřit, že jsem o to málem přišel/a!",
+      "source": "pre_existing",
+      "original_cz": "To byl den, kdy jsem si uvědomil/a, že naše osudy jsou v našich rukou. Nemůžu uvěřit, že jsem o to málem přišel/a!"
+    },
+    {
+      "key": "Merida_012_f",
+      "en": "Wait... What's happening now?",
+      "cz": "Počkej... Co se teď děje?",
+      "source": "pre_existing",
+      "original_cz": "Počkej... Co se teď děje?"
+    },
+    {
+      "key": "Merida_006_f",
+      "en": "It's a different kind of funny.",
+      "cz": "Je to jiný druh vtipu.",
+      "source": "pre_existing",
+      "original_cz": "Je to jiný druh vtipu."
+    },
+    {
+      "key": "Merida_007_f",
+      "en": "No. I said I felt funny, not sick.",
+      "cz": "Ne. Řekl jsem, že se cítím divně, ne špatně.",
+      "source": "pre_existing",
+      "original_cz": "Ne. Řekl jsem, že se cítím divně, ne špatně."
+    }
+  ],
+  "Expansion02Part2_Merida/Merida_MRQS_E02_120_MysteriousWhirls_MRQS_E02_120_MysteriousWhirlwinds_TalkTo02.locbin": [
+    {
+      "key": "Merida_019_f",
+      "en": "Ah, {PlayerName}... the Lorekeeper must have told you what's happening to me.",
+      "cz": "Ach, {PlayerName}... Věštce ti musel říct, co se se mnou děje.",
+      "source": "pre_existing",
+      "original_cz": "Ach, {PlayerName}... Věštce ti musel říct, co se se mnou děje."
+    },
+    {
+      "key": "Merida_005_f",
+      "en": "It's like everything that makes me... well, me... is disappearing.",
+      "cz": "Je to, jako by všechno, co mě dělá... no, mnou... mizelo.",
+      "source": "pre_existing",
+      "original_cz": "Je to, jako by všechno, co mě dělá... no, mnou... mizelo."
+    },
+    {
+      "key": "Merida_006_f",
+      "en": "I don't feel like I could hit a bullseye from a yard away. Forget about climbing the Crone's Tooth.",
+      "cz": "Nemám pocit, že bych z metru dokázal trefit terč. Zapomeňte na lezení na Zub Babičiny nohy.",
+      "source": "pre_existing",
+      "original_cz": "Nemám pocit, že bych z metru dokázal trefit terč. Zapomeňte na lezení na Zub Babičiny nohy."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "We'll fix this. Together.",
+      "cz": "Tohle napravíme. Společně.",
+      "source": "pre_existing",
+      "original_cz": "Tohle napravíme. Společně."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "You're Merida. You can do ANYTHING.",
+      "cz": "Jsi Merida. Dokážeš VŠECHNO.",
+      "source": "pre_existing",
+      "original_cz": "Jsi Merida. Dokážeš VŠECHNO."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Maybe take this as an opportunity. Embrace laziness. Do nothing!",
+      "cz": "Možná tohle vezměte jako příležitost. Přijměte lenost. Nedělejte nic!",
+      "source": "pre_existing",
+      "original_cz": "Možná tohle vezměte jako příležitost. Přijměte lenost. Nedělejte nic!"
+    },
+    {
+      "key": "Merida_010_f",
+      "en": "If anyone can help me, I'm sure it's you.",
+      "cz": "Pokud mi někdo může pomoct, jsem si jistý, že jsi to ty.",
+      "source": "pre_existing",
+      "original_cz": "Pokud mi někdo může pomoct, jsem si jistý, že jsi to ty."
+    },
+    {
+      "key": "Merida_012_f",
+      "en": "I just wish I knew what was wrong.",
+      "cz": "Jen bych si přál/a vědět, co je špatně.",
+      "source": "pre_existing",
+      "original_cz": "Jen bych si přál/a vědět, co je špatně."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Start at the beginning. Did anything happen to trigger it?",
+      "cz": "Začněte od začátku. Stalo se něco, co to spustilo?",
+      "source": "pre_existing",
+      "original_cz": "Začněte od začátku. Stalo se něco, co to spustilo?"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Have you noticed anything strange around lately?",
+      "cz": "Všiml sis v poslední době něčeho zvláštního?",
+      "source": "pre_existing",
+      "original_cz": "Všiml sis v poslední době něčeho zvláštního?"
+    },
+    {
+      "key": "Merida_016_f",
+      "en": "Well, now that you mention it, something strange DID happen...",
+      "cz": "No, když už to zmiňuješ, stalo se něco divného...",
+      "source": "pre_existing",
+      "original_cz": "No, když už to zmiňuješ, stalo se něco divného..."
+    },
+    {
+      "key": "Merida_007_f",
+      "en": "It started when I saw this <Lore>funny whirlwind</Lore> in the Bind.",
+      "cz": "Začalo to, když jsem v Bindu uviděl tenhle **vtipný vír**.",
+      "source": "pre_existing",
+      "original_cz": "Začalo to, když jsem v Bindu uviděl tenhle **vtipný vír**."
+    },
+    {
+      "key": "Merida_008_f",
+      "en": "I guess I got too close to it because all of a sudden I started feeling odd!",
+      "cz": "Asi jsem se k tomu dostal moc blízko, protože jsem se najednou začal cítit divně!",
+      "source": "pre_existing",
+      "original_cz": "Asi jsem se k tomu dostal moc blízko, protože jsem se najednou začal cítit divně!"
+    },
+    {
+      "key": "Merida_009_f",
+      "en": "Och, there's no use yapping about it. <Lore>Follow me.</Lore> I'll show you.",
+      "cz": "Ach, nemá cenu o tom štěbetat. <Lore>Pojď za mnou.</Lore> Ukážu ti to.",
+      "source": "pre_existing",
+      "original_cz": "Ach, nemá cenu o tom štěbetat. <Lore>Pojď za mnou.</Lore> Ukážu ti to."
+    },
+    {
+      "key": "Merida_011_f",
+      "en": "Och, even at my best, I don't know about that.",
+      "cz": "Ach, ani v nejlepším slova smyslu o tom nevím.",
+      "source": "pre_existing",
+      "original_cz": "Ach, ani v nejlepším slova smyslu o tom nevím."
+    },
+    {
+      "key": "Merida_014_f",
+      "en": "I'm from Clan DunBroch. That's NOT in our nature.",
+      "cz": "Pocházím z klanu DunBroch. To v naší povaze NENÍ.",
+      "source": "pre_existing",
+      "original_cz": "Pocházím z klanu DunBroch. To v naší povaze NENÍ."
+    },
+    {
+      "key": "Merida_015_f",
+      "en": "We have to fix this.",
+      "cz": "Musíme to napravit.",
+      "source": "pre_existing",
+      "original_cz": "Musíme to napravit."
+    }
+  ],
+  "Expansion02Part2_Merida/Merida_MRQS_E02_120_MysteriousWhirls_MRQS_E02_120_MysteriousWhirlwinds_TalkTo06.locbin": [
+    {
+      "key": "Merida_001_f",
+      "en": "Look — there! It just started storming like that one day.",
+      "cz": "Podívejte – tam! Jednoho dne se prostě začala takhle bouřit.",
+      "source": "pre_existing",
+      "original_cz": "Podívejte – tam! Jednoho dne se prostě začala takhle bouřit."
+    },
+    {
+      "key": "Merida_002_f",
+      "en": "Do you suppose it has something to do with me disappearing?",
+      "cz": "Myslíš, že to má něco společného s mým zmizením?",
+      "source": "pre_existing",
+      "original_cz": "Myslíš, že to má něco společného s mým zmizením?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "It seems pretty likely.",
+      "cz": "Zdá se to docela pravděpodobné.",
+      "source": "pre_existing",
+      "original_cz": "Zdá se to docela pravděpodobné."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "It's gotta be!",
+      "cz": "Musí to být!",
+      "source": "pre_existing",
+      "original_cz": "Musí to být!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Maybe it's a whole different kind of weirdness.",
+      "cz": "Možná je to úplně jiný druh podivnosti.",
+      "source": "pre_existing",
+      "original_cz": "Možná je to úplně jiný druh podivnosti."
+    },
+    {
+      "key": "Merida_008_f",
+      "en": "I don't want to get too close again. Those winds are fierce!",
+      "cz": "Nechci se k tomu znovu dostat moc blízko. Ten vítr je zuřivý!",
+      "source": "pre_existing",
+      "original_cz": "Nechci se k tomu znovu dostat moc blízko. Ten vítr je zuřivý!"
+    },
+    {
+      "key": "Merida_003_f",
+      "en": "Whoa. {PlayerName}!",
+      "cz": "Páni. {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Páni. {PlayerName}!"
+    },
+    {
+      "key": "Merida_004_f",
+      "en": "Did you see that? At the heart of the storm? <Lore>Something's starting to come out of that barmy whirlwind!</Lore>",
+      "cz": "Viděl jsi to? V srdci bouře? <Lore>Něco se začíná rýsovat z té bláznivé vichřice!</Lore>",
+      "source": "pre_existing",
+      "original_cz": "Viděl jsi to? V srdci bouře? <Lore>Něco se začíná rýsovat z té bláznivé vichřice!</Lore>"
+    },
+    {
+      "key": "Merida_006_f",
+      "en": "It isn't — it couldn't be...",
+      "cz": "Není – to nemůže být…",
+      "source": "pre_existing",
+      "original_cz": "Není – to nemůže být…"
+    },
+    {
+      "key": "Merida_007_f",
+      "en": "It is! It's a Snippet! A bunch of Snippets! <Lore>Quick! Catch them before they get away!</Lore>",
+      "cz": "Je to! Je to úryvek! Spousta úryvků! <Lore>Rychle! Chyťte je, než utečou!</Lore>",
+      "source": "pre_existing",
+      "original_cz": "Je to! Je to úryvek! Spousta úryvků! <Lore>Rychle! Chyťte je, než utečou!</Lore>"
+    },
+    {
+      "key": "Merida_009_f",
+      "en": "Och, I haven't the time for more than one problem! Especially not while I'm disappearing!",
+      "cz": "Ach, nemám čas na víc než jeden problém! Zvlášť ne, když mizím!",
+      "source": "pre_existing",
+      "original_cz": "Ach, nemám čas na víc než jeden problém! Zvlášť ne, když mizím!"
+    }
+  ],
+  "Expansion02Part2_Merida/Merida_MRQS_E02_130_KeeperOfTheVale_MRQS_E02_130_KeeperOfTheVale_TalkTo04.locbin": [
+    {
+      "key": "Merida_001_f",
+      "en": "{PlayerName}! Flynn told me you're close to finding Aurora.",
+      "cz": "{PlayerName}! Flynn mi říkal, že už jsi blízko k nalezení Aurory.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}! Flynn mi říkal, že už jsi blízko k nalezení Aurory."
+    },
+    {
+      "key": "Merida_002_f",
+      "en": "Just tell me what I can do to help.",
+      "cz": "Jen mi řekni, s čím můžu pomoct.",
+      "source": "pre_existing",
+      "original_cz": "Jen mi řekni, s čím můžu pomoct."
+    },
+    {
+      "key": "Merida_004_f",
+      "en": "I need something from you. A scrap of fabric should do the trick.",
+      "cz": "Něco od tebe potřebuju. Kousek látky by měl stačit.",
+      "source": "pre_existing",
+      "original_cz": "Něco od tebe potřebuju. Kousek látky by měl stačit."
+    },
+    {
+      "key": "Merida_005_f",
+      "en": "You mean something like this?",
+      "cz": "Myslíš něco takového?",
+      "source": "pre_existing",
+      "original_cz": "Myslíš něco takového?"
+    },
+    {
+      "key": "Merida_006_f",
+      "en": "It's a piece of an old family quilt I've been keeping.",
+      "cz": "Je to kousek staré rodinné deky, kterou si schovávám.",
+      "source": "pre_existing",
+      "original_cz": "Je to kousek staré rodinné deky, kterou si schovávám."
+    },
+    {
+      "key": "Merida_008_f",
+      "en": "That should do the trick. Thanks, Merida.",
+      "cz": "To by mělo stačit. Díky, Merido.",
+      "source": "pre_existing",
+      "original_cz": "To by mělo stačit. Díky, Merido."
+    }
+  ],
+  "Expansion02Part2_Merida/Merida_VLG_Auro_010_VLG_Auro_010_Listen01.locbin": [
+    {
+      "key": "Merida_000_f",
+      "en": "That's a terrible idea. You see that it'll look terrible, right?",
+      "cz": "To je hrozný nápad. Chápeš, že to bude vypadat hrozně, že?",
+      "source": "pre_existing",
+      "original_cz": "To je hrozný nápad. Chápeš, že to bude vypadat hrozně, že?"
+    },
+    {
+      "key": "Merida_001_f",
+      "en": "I've spent my whole life helping my mum plan gatherings and celebrations. I know what I'm doing!",
+      "cz": "Celý život jsem pomáhala mamince s plánováním setkání a oslav. Vím, co dělám!",
+      "source": "pre_existing",
+      "original_cz": "Celý život jsem pomáhala mamince s plánováním setkání a oslav. Vím, co dělám!"
+    },
+    {
+      "key": "Merida_002_f",
+      "en": "Then as a princess, you really should have better taste than that.",
+      "cz": "Pak bys jako princezna měla mít opravdu lepší vkus.",
+      "source": "pre_existing",
+      "original_cz": "Pak bys jako princezna měla mít opravdu lepší vkus."
+    },
+    {
+      "key": "Merida_003_f",
+      "en": "I'll not let a scoundrel lecture me on matters of taste!",
+      "cz": "Nenechám se od darebáka poučovat o vkusu!",
+      "source": "pre_existing",
+      "original_cz": "Nenechám se od darebáka poučovat o vkusu!"
+    }
+  ],
+  "Expansion02Part2_Merida/Merida_VLG_Auro_010_VLG_Auro_010_Listen02.locbin": [
+    {
+      "key": "Merida_000_f",
+      "en": "No, that's a terrible idea. Pink!",
+      "cz": "Ne, to je hrozný nápad. Růžová!",
+      "source": "pre_existing",
+      "original_cz": "Ne, to je hrozný nápad. Růžová!"
+    },
+    {
+      "key": "Merida_001_f",
+      "en": "Do you truly have NO taste? We can't have a pink banner! It has to be blue!",
+      "cz": "Opravdu nemáš vkus? Nemůžeme mít růžový transparent! Musí být modrý!",
+      "source": "pre_existing",
+      "original_cz": "Opravdu nemáš vkus? Nemůžeme mít růžový transparent! Musí být modrý!"
+    },
+    {
+      "key": "Merida_002_f",
+      "en": "Blue? It'll blend in with the sky! Trust me, pink is the way to go.",
+      "cz": "Modrá? Splyne s oblohou! Věřte mi, růžová je ta správná volba.",
+      "source": "pre_existing",
+      "original_cz": "Modrá? Splyne s oblohou! Věřte mi, růžová je ta správná volba."
+    },
+    {
+      "key": "Merida_003_f",
+      "en": "That's an even worse idea than your face on a banner!",
+      "cz": "To je ještě horší nápad než tvůj obličej na transparentu!",
+      "source": "pre_existing",
+      "original_cz": "To je ještě horší nápad než tvůj obličej na transparentu!"
+    }
+  ],
+  "Expansion02Part2_Merida/Merida_VLG_Auro_030_VLG_Auro_030_TalkTo07.locbin": [
+    {
+      "key": "Merida_009_f",
+      "en": "Aurora! Princess {PlayerName}! Are you ready to release your inner warrior?",
+      "cz": "Auroro! Princezno {PlayerName}! Jsi připravená uvolnit svého vnitřního bojovníka?",
+      "source": "pre_existing",
+      "original_cz": "Auroro! Princezno {PlayerName}! Jsi připravená uvolnit svého vnitřního bojovníka?"
+    },
+    {
+      "key": "Merida_010_f",
+      "en": "Goodness! I'm not sure, but I'll certainly try! What about you, Princess {PlayerName}?",
+      "cz": "Proboha! Nejsem si jistý/á, ale určitě to zkusím! A co ty, princezno {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Proboha! Nejsem si jistý/á, ale určitě to zkusím! A co ty, princezno {PlayerName}?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Watch me — I have many skills.",
+      "cz": "Sledujte mě – mám spoustu dovedností.",
+      "source": "pre_existing",
+      "original_cz": "Sledujte mě – mám spoustu dovedností."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'm willing to learn!",
+      "cz": "Jsem ochotný/á se učit!",
+      "source": "pre_existing",
+      "original_cz": "Jsem ochotný/á se učit!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I'll try, but I hope I don't break anything...",
+      "cz": "Zkusím to, ale doufám, že nic nezlomím...",
+      "source": "pre_existing",
+      "original_cz": "Zkusím to, ale doufám, že nic nezlomím..."
+    },
+    {
+      "key": "Merida_002_f",
+      "en": "Confidence is important, but so is humility.",
+      "cz": "Sebevědomí je důležité, ale stejně tak i pokora.",
+      "source": "pre_existing",
+      "original_cz": "Sebevědomí je důležité, ale stejně tak i pokora."
+    },
+    {
+      "key": "Merida_005_f",
+      "en": "Now, as you can see, we've prepared some practice bricks to test your technique.",
+      "cz": "Jak vidíte, připravili jsme pro vás několik cvičných kostek, abyste si otestovali svou techniku.",
+      "source": "pre_existing",
+      "original_cz": "Jak vidíte, připravili jsme pro vás několik cvičných kostek, abyste si otestovali svou techniku."
+    },
+    {
+      "key": "Merida_006_f",
+      "en": "If you can <Lore>break the bricks</Lore> without difficulty, then we can move on to the next step and set you up with a jian for some proper swordplay.",
+      "cz": "Pokud dokážete <Lore>rozbít cihly</Lore> bez problémů, můžeme přejít k dalšímu kroku a připravit vám jian na pořádný šerm.",
+      "source": "pre_existing",
+      "original_cz": "Pokud dokážete <Lore>rozbít cihly</Lore> bez problémů, můžeme přejít k dalšímu kroku a připravit vám jian na pořádný šerm."
+    },
+    {
+      "key": "Merida_007_f",
+      "en": "A jian?! I thought we agreed to try a claymore next!",
+      "cz": "Jian?! Myslel jsem, že jsme se domluvili, že příště zkusíme claymore!",
+      "source": "pre_existing",
+      "original_cz": "Jian?! Myslel jsem, že jsme se domluvili, že příště zkusíme claymore!"
+    },
+    {
+      "key": "Merida_008_f",
+      "en": "Och, no. We're not starting this argument again! Give it a shot, Princess {PlayerName}. Show Aurora how it's done!",
+      "cz": "Ach ne. Tuhle hádku už zase nezačneme! Zkus to, princezno {PlayerName}. Ukaž Auroře, jak se to dělá!",
+      "source": "pre_existing",
+      "original_cz": "Ach ne. Tuhle hádku už zase nezačneme! Zkus to, princezno {PlayerName}. Ukaž Auroře, jak se to dělá!"
+    },
+    {
+      "key": "Merida_011_f",
+      "en": "Och, no. We're not starting this argument again! Give it a shot, {PlayerName}. Show Aurora how it's done!",
+      "cz": "Ach ne. Tuhle hádku už zase nezačneme! Zkus to, {PlayerName}. Ukaž Auroře, jak se to dělá!",
+      "source": "pre_existing",
+      "original_cz": "Ach ne. Tuhle hádku už zase nezačneme! Zkus to, {PlayerName}. Ukaž Auroře, jak se to dělá!"
+    },
+    {
+      "key": "Merida_003_f",
+      "en": "And I'm happy to teach!",
+      "cz": "A ráda učím!",
+      "source": "pre_existing",
+      "original_cz": "A ráda učím!"
+    },
+    {
+      "key": "Merida_004_f",
+      "en": "Don't worry. All the practice brick setups are made to be broken.",
+      "cz": "Nebojte se. Všechny cvičné kostky jsou určené k rozbití.",
+      "source": "pre_existing",
+      "original_cz": "Nebojte se. Všechny cvičné kostky jsou určené k rozbití."
+    },
+    {
+      "key": "Merida_000_f",
+      "en": "Aurora! {PlayerName}! Are you ready to release your inner warrior?",
+      "cz": "Auroro! {PlayerName}! Jsi připravená uvolnit svého vnitřního bojovníka?",
+      "source": "pre_existing",
+      "original_cz": "Auroro! {PlayerName}! Jsi připravená uvolnit svého vnitřního bojovníka?"
+    },
+    {
+      "key": "Merida_001_f",
+      "en": "Goodness! I'm not sure, but I'll certainly try! What about you, {PlayerName}?",
+      "cz": "Proboha! Nejsem si jistý/á, ale určitě to zkusím! A co ty, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Proboha! Nejsem si jistý/á, ale určitě to zkusím! A co ty, {PlayerName}?"
+    }
+  ],
+  "Expansion02Part2_Merida/Merida_VLG_Auro_040_VLG_Auro_040_TalkTo07.locbin": [
+    {
+      "key": "Merida_000_f",
+      "en": "Merida, I heard you haven't been feeling well.",
+      "cz": "Merido, slyšel jsem, že se necítíš dobře.",
+      "source": "pre_existing",
+      "original_cz": "Merido, slyšel jsem, že se necítíš dobře."
+    },
+    {
+      "key": "Merida_001_f",
+      "en": "Aye, that's right. I feel terrible!",
+      "cz": "Ano, přesně tak. Cítím se hrozně!",
+      "source": "pre_existing",
+      "original_cz": "Ano, přesně tak. Cítím se hrozně!"
+    },
+    {
+      "key": "Merida_002_f",
+      "en": "You've been hit with nightmares?",
+      "cz": "Měl jsi noční můry?",
+      "source": "pre_existing",
+      "original_cz": "Měl jsi noční můry?"
+    },
+    {
+      "key": "Merida_003_f",
+      "en": "Ferocious ones! But I can't remember much about them...",
+      "cz": "Děsiví! Ale moc si na ně nepamatuju...",
+      "source": "pre_existing",
+      "original_cz": "Děsiví! Ale moc si na ně nepamatuju..."
+    },
+    {
+      "key": "Merida_004_f",
+      "en": "...except one thing — horrible, green flames spreading, and there's nothing I can do to stop them!",
+      "cz": "...až na jednu věc – šíří se hrozné zelené plameny a já s nimi nemůžu nic dělat!",
+      "source": "pre_existing",
+      "original_cz": "...až na jednu věc – šíří se hrozné zelené plameny a já s nimi nemůžu nic dělat!"
+    },
+    {
+      "key": "Merida_005_f",
+      "en": "Hmm, sounds eerily similar to Flynn's dream.",
+      "cz": "Hmm, zní to děsivě podobně jako Flynnův sen.",
+      "source": "pre_existing",
+      "original_cz": "Hmm, zní to děsivě podobně jako Flynnův sen."
+    },
+    {
+      "key": "Merida_007_f",
+      "en": "I'm... I'm not gonna turn into a bear, am I?",
+      "cz": "Já... já se neproměním v medvěda, že ne?",
+      "source": "pre_existing",
+      "original_cz": "Já... já se neproměním v medvěda, že ne?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Nah, I think you're good.",
+      "cz": "Ne, myslím, že jsi dobrý/á.",
+      "source": "pre_existing",
+      "original_cz": "Ne, myslím, že jsi dobrý/á."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "You might — who knows?!",
+      "cz": "Možná – kdo ví?!",
+      "source": "pre_existing",
+      "original_cz": "Možná – kdo ví?!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Frankly, I'm surprised you're not furry already.",
+      "cz": "Upřímně řečeno, divím se, že už nejsi chlupatý.",
+      "source": "pre_existing",
+      "original_cz": "Upřímně řečeno, divím se, že už nejsi chlupatý."
+    },
+    {
+      "key": "Merida_008_f",
+      "en": "Good! That's the last thing I need.",
+      "cz": "Dobře! To je to poslední, co potřebuji.",
+      "source": "pre_existing",
+      "original_cz": "Dobře! To je to poslední, co potřebuji."
+    },
+    {
+      "key": "Merida_011_f",
+      "en": "Well, you're safe for now, and I'm going to try and keep things that way.",
+      "cz": "No, prozatím jsi v bezpečí a já se pokusím, aby to tak i zůstalo.",
+      "source": "pre_existing",
+      "original_cz": "No, prozatím jsi v bezpečí a já se pokusím, aby to tak i zůstalo."
+    },
+    {
+      "key": "Merida_010_f",
+      "en": "This is quite concerning. I'm going to look into this.",
+      "cz": "This is quite concerning. I'm going to look into this.",
+      "source": "pre_existing",
+      "original_cz": "This is quite concerning. I'm going to look into this."
+    },
+    {
+      "key": "Merida_014_f",
+      "en": "Thank you, {PlayerName}. And good luck!",
+      "cz": "Thank you, {PlayerName}. And good luck!",
+      "source": "pre_existing",
+      "original_cz": "Thank you, {PlayerName}. And good luck!"
+    },
+    {
+      "key": "Merida_009_f",
+      "en": "Is that a joke? Are you joking at a time like this?",
+      "cz": "Is that a joke? Are you joking at a time like this?",
+      "source": "pre_existing",
+      "original_cz": "Is that a joke? Are you joking at a time like this?"
+    },
+    {
+      "key": "Merida_013_f",
+      "en": "Seems like you needed a laugh!",
+      "cz": "Seems like you needed a laugh!",
+      "source": "pre_existing",
+      "original_cz": "Seems like you needed a laugh!"
+    },
+    {
+      "key": "Merida_012_f",
+      "en": "UGH! I'm too tired to laugh!",
+      "cz": "UGH! I'm too tired to laugh!",
+      "source": "pre_existing",
+      "original_cz": "UGH! I'm too tired to laugh!"
+    },
+    {
+      "key": "Merida_006_f",
+      "en": "Oh, that sounds terrible!",
+      "cz": "Oh, that sounds terrible!",
+      "source": "pre_existing",
+      "original_cz": "Oh, that sounds terrible!"
+    }
+  ],
+  "Expansion02Part2_Merida/Merida_VLG_Male_030_VLG_Male_030_TalkTo08.locbin": [
+    {
+      "key": "Merida_001_f",
+      "en": "Hey Merida, could I get some advice?",
+      "cz": "Hey Merida, could I get some advice?",
+      "source": "pre_existing",
+      "original_cz": "Hey Merida, could I get some advice?"
+    },
+    {
+      "key": "Merida_002_f",
+      "en": "It's about Hades and Maleficent, isn't it? They've certainly been stirring up a fuss!",
+      "cz": "It's about Hades and Maleficent, isn't it? They've certainly been stirring up a fuss!",
+      "source": "pre_existing",
+      "original_cz": "It's about Hades and Maleficent, isn't it? They've certainly been stirring up a fuss!"
+    },
+    {
+      "key": "Merida_003_f",
+      "en": "I tried to trick them by giving them each a gift that was supposed to be from the other. The Lorekeeper seemed to think it would work...",
+      "cz": "I tried to trick them by giving them each a gift that was supposed to be from the other. The Lorekeeper seemed to think it would work...",
+      "source": "pre_existing",
+      "original_cz": "I tried to trick them by giving them each a gift that was supposed to be from the other. The Lorekeeper seemed to think it would work..."
+    },
+    {
+      "key": "Merida_004_f",
+      "en": "Oh, I see the problem! Hades and Maleficent are having a serious argument. It's not like they're each one of your parents and you're trying to trap them into getting along again.",
+      "cz": "Oh, I see the problem! Hades and Maleficent are having a serious argument. It's not like they're each one of your parents and you're trying to trap them into getting along again.",
+      "source": "pre_existing",
+      "original_cz": "Oh, I see the problem! Hades and Maleficent are having a serious argument. It's not like they're each one of your parents and you're trying to trap them into getting along again."
+    },
+    {
+      "key": "Merida_005_f",
+      "en": "That sort of thing only works if they had a good relationship in the first place. Hades and Maleficent have always been standoffish at best.",
+      "cz": "That sort of thing only works if they had a good relationship in the first place. Hades and Maleficent have always been standoffish at best.",
+      "source": "pre_existing",
+      "original_cz": "That sort of thing only works if they had a good relationship in the first place. Hades and Maleficent have always been standoffish at best."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Well, guess those gifts are wasted...",
+      "cz": "Well, guess those gifts are wasted...",
+      "source": "pre_existing",
+      "original_cz": "Well, guess those gifts are wasted..."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "What do you think I should do?",
+      "cz": "What do you think I should do?",
+      "source": "pre_existing",
+      "original_cz": "What do you think I should do?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Maybe I just banish them both and wash my hands of it?",
+      "cz": "Maybe I just banish them both and wash my hands of it?",
+      "source": "pre_existing",
+      "original_cz": "Maybe I just banish them both and wash my hands of it?"
+    },
+    {
+      "key": "Merida_006_f",
+      "en": "No, they still may have earned you a wee bit of goodwill.",
+      "cz": "No, they still may have earned you a wee bit of goodwill.",
+      "source": "pre_existing",
+      "original_cz": "No, they still may have earned you a wee bit of goodwill."
+    },
+    {
+      "key": "Merida_007_f",
+      "en": "You can use that to your advantage.",
+      "cz": "You can use that to your advantage.",
+      "source": "pre_existing",
+      "original_cz": "You can use that to your advantage."
+    },
+    {
+      "key": "Merida_009_f",
+      "en": "Think of it this way: The Scottish clans will fight at the drop of a hat, but they can often be united by reminding them of what's important—",
+      "cz": "Think of it this way: The Scottish clans will fight at the drop of a hat, but they can often be united by reminding them of what's important—",
+      "source": "pre_existing",
+      "original_cz": "Think of it this way: The Scottish clans will fight at the drop of a hat, but they can often be united by reminding them of what's important—"
+    },
+    {
+      "key": "Merida_010_f",
+      "en": "Family, tradition, and safety from bears!",
+      "cz": "Family, tradition, and safety from bears!",
+      "source": "pre_existing",
+      "original_cz": "Family, tradition, and safety from bears!"
+    },
+    {
+      "key": "Merida_011_f",
+      "en": "Hmm, so I need to think about what Hades and Maleficent have in common...",
+      "cz": "Hmm, so I need to think about what Hades and Maleficent have in common...",
+      "source": "pre_existing",
+      "original_cz": "Hmm, so I need to think about what Hades and Maleficent have in common..."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "They both like barking commands.",
+      "cz": "They both like barking commands.",
+      "source": "pre_existing",
+      "original_cz": "They both like barking commands."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "They're both kinda stressful to deal with.",
+      "cz": "They're both kinda stressful to deal with.",
+      "source": "pre_existing",
+      "original_cz": "They're both kinda stressful to deal with."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "They both like fire.",
+      "cz": "They both like fire.",
+      "source": "pre_existing",
+      "original_cz": "They both like fire."
+    },
+    {
+      "key": "Merida_000_f",
+      "en": "Well, I'd imagine that's pretty common for villainous sorts in general.",
+      "cz": "Well, I'd imagine that's pretty common for villainous sorts in general.",
+      "source": "pre_existing",
+      "original_cz": "Well, I'd imagine that's pretty common for villainous sorts in general."
+    },
+    {
+      "key": "Merida_015_f",
+      "en": "Hmm... Oh, I have an idea! Both Hades and Maleficent seem <i>quite</i> fond of fire.",
+      "cz": "Hmm... Oh, I have an idea! Both Hades and Maleficent seem <i>quite</i> fond of fire.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Oh, I have an idea! Both Hades and Maleficent seem <i>quite</i> fond of fire."
+    },
+    {
+      "key": "Merida_013_f",
+      "en": "Why don't you <Lore>make a bonfire pit</Lore> for them to gather around? I know I'm always in a more understanding mood around a flickering campfire.",
+      "cz": "Why don't you <Lore>make a bonfire pit</Lore> for them to gather around? I know I'm always in a more understanding mood around a flickering campfire.",
+      "source": "pre_existing",
+      "original_cz": "Why don't you <Lore>make a bonfire pit</Lore> for them to gather around? I know I'm always in a more understanding mood around a flickering campfire."
+    },
+    {
+      "key": "Merida_014_f",
+      "en": "And maybe you'll think of some other things they have in common.",
+      "cz": "And maybe you'll think of some other things they have in common.",
+      "source": "pre_existing",
+      "original_cz": "And maybe you'll think of some other things they have in common."
+    },
+    {
+      "key": "Merida_016_f",
+      "en": "Now, I believe Maleficent's been plotting in her castle. I'm sure you'll <Lore>find her there</Lore> once the <ActivityItem>Bonfire Pit</ActivityItem> is ready.",
+      "cz": "Now, I believe Maleficent's been plotting in her castle. I'm sure you'll <Lore>find her there</Lore> once the <ActivityItem>Bonfire Pit</ActivityItem> is ready.",
+      "source": "pre_existing",
+      "original_cz": "Now, I believe Maleficent's been plotting in her castle. I'm sure you'll <Lore>find her there</Lore> once the <ActivityItem>Bonfire Pit</ActivityItem> is ready."
+    },
+    {
+      "key": "Merida_017_f",
+      "en": "That's a grand place to start!",
+      "cz": "That's a grand place to start!",
+      "source": "pre_existing",
+      "original_cz": "That's a grand place to start!"
+    },
+    {
+      "key": "Merida_008_f",
+      "en": "Well, I don't think you have to go that far!",
+      "cz": "Well, I don't think you have to go that far!",
+      "source": "pre_existing",
+      "original_cz": "Well, I don't think you have to go that far!"
+    }
+  ]
+}

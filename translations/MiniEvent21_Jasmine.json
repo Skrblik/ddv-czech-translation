@@ -1,0 +1,105 @@
+{
+  "MiniEvent21_Jasmine/Jasmine_CrossNPCDialogues_Jasmine_Aladdin_RPT_Jasm_Valentines_010.locbin": [
+    {
+      "key": "Jasmine_000_f",
+      "en": "Apples and bananas? My favorites! Thanks, Jasmine!",
+      "cz": "Jablka a banány? Moje nejoblíbenější! Díky, Jasmíne!",
+      "source": "pre_existing",
+      "original_cz": "Jablka a banány? Moje nejoblíbenější! Díky, Jasmíne!"
+    },
+    {
+      "key": "Jasmine_001_f",
+      "en": "You're very welcome. And they come with something even better: a reminder that I love you.",
+      "cz": "Není zač. A přinášejí ještě něco lepšího: připomínku, že tě miluji.",
+      "source": "pre_existing",
+      "original_cz": "Není zač. A přinášejí ještě něco lepšího: připomínku, že tě miluji."
+    },
+    {
+      "key": "Jasmine_002_f",
+      "en": "You're right. That is even better. I love you too, Jasmine.",
+      "cz": "Máš pravdu. To je ještě lepší. Taky tě miluju, Jasmíno.",
+      "source": "pre_existing",
+      "original_cz": "Máš pravdu. To je ještě lepší. Taky tě miluju, Jasmíno."
+    }
+  ],
+  "MiniEvent21_Jasmine/Jasmine_RPT_Jasm_Valentines_010_RPT_Jasm_Valentines_010_BringItem01.locbin": [
+    {
+      "key": "Jasmine_000_f",
+      "en": "Oh, these are just lovely. I know Aladdin will enjoy them.",
+      "cz": "Jé, ty jsou prostě nádherné. Vím, že si je Aladdin užije.",
+      "source": "pre_existing",
+      "original_cz": "Jé, ty jsou prostě nádherné. Vím, že si je Aladdin užije."
+    }
+  ],
+  "MiniEvent21_Jasmine/Jasmine_RPT_Jasm_Valentines_010_RPT_Jasm_Valentines_010_Intro.locbin": [
+    {
+      "key": "Jasmine_000_f",
+      "en": "{PlayerName}, I was hoping I'd see you today. Aladdin's been working much too hard lately, so I want to give him something that reminds him to take care of himself.",
+      "cz": "{PlayerName}, doufal jsem, že tě dnes uvidím. Aladdin v poslední době pracuje až příliš tvrdě, takže mu chci dát něco, co mu připomene, aby se o sebe staral.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, doufal jsem, že tě dnes uvidím. Aladdin v poslední době pracuje až příliš tvrdě, takže mu chci dát něco, co mu připomene, aby se o sebe staral."
+    },
+    {
+      "key": "Jasmine_001_f",
+      "en": "He always enjoys relaxing with a snack of his favorite fruit. Would you help me pick some, please?",
+      "cz": "Vždycky si rád odpočine s svačicí ze svého oblíbeného ovoce. Mohl bys mi prosím nějaké vybrat?",
+      "source": "pre_existing",
+      "original_cz": "Vždycky si rád odpočine s svačicí ze svého oblíbeného ovoce. Mohl bys mi prosím nějaké vybrat?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "That's so sweet. I'll help!",
+      "cz": "To je tak milé. Pomůžu!",
+      "source": "pre_existing",
+      "original_cz": "To je tak milé. Pomůžu!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Let's talk later!",
+      "cz": "Promluvíme si později!",
+      "source": "pre_existing",
+      "original_cz": "Promluvíme si později!"
+    },
+    {
+      "key": "Jasmine_003_f",
+      "en": "Thank you.",
+      "cz": "Děkuju.",
+      "source": "pre_existing",
+      "original_cz": "Děkuju."
+    },
+    {
+      "key": "Jasmine_002_f",
+      "en": "Of course. Whenever you have a moment.",
+      "cz": "Samozřejmě. Kdykoli budete mít chvilku.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě. Kdykoli budete mít chvilku."
+    }
+  ],
+  "MiniEvent21_Jasmine/Jasmine_RPT_Jasm_Valentines_010_RPT_Jasm_Valentines_010_Ongoing01.locbin": [
+    {
+      "key": "Jasmine_000_f",
+      "en": "I want to find some delicious <ActivityItem>Apples</ActivityItem> and <ActivityItem>Bananas</ActivityItem> for Aladdin.",
+      "cz": "Chci najít nějaká lahodná <ActivityItem>jablka</ActivityItem> a <ActivityItem>banány</ActivityItem> pro Aladina.",
+      "source": "pre_existing",
+      "original_cz": "Chci najít nějaká lahodná <ActivityItem>jablka</ActivityItem> a <ActivityItem>banány</ActivityItem> pro Aladina."
+    }
+  ],
+  "MiniEvent21_Jasmine/Jasmine_RPT_Jasm_Valentines_010_RPT_Jasm_Valentines_010_Ongoing02.locbin": [
+    {
+      "key": "Jasmine_000_f",
+      "en": "Are you going to bring the fruit we collected to Aladdin?",
+      "cz": "Přineseš Aladinovi ovoce, co jsme nasbírali?",
+      "source": "pre_existing",
+      "original_cz": "Přineseš Aladinovi ovoce, co jsme nasbírali?"
+    }
+  ],
+  "MiniEvent21_Jasmine/Jasmine_RPT_Jasm_Valentines_010_RPT_Jasm_Valentines_010_Outro.locbin": [
+    {
+      "key": "Jasmine_000_f",
+      "en": "Thank you for helping me gather that gift for Aladdin, {PlayerName}. Here, this is for you. It's a pleasure to call you my friend.",
+      "cz": "Děkuji ti, že jsi mi pomohl shromáždit ten dárek pro Aladina, {PlayerName}. Tady, tohle je pro tebe. Je mi potěšením tě nazývat svým přítelem.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji ti, že jsi mi pomohl shromáždit ten dárek pro Aladina, {PlayerName}. Tady, tohle je pro tebe. Je mi potěšením tě nazývat svým přítelem."
+    }
+  ]
+}

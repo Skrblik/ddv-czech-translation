@@ -1,0 +1,593 @@
+{
+  "ExpansionMain_Mickey/Mickey_BoardGame_Eager001.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "Hiya, pal! Wanna play some Scramblecoin?",
+      "cz": "Ahoj, kámo! Chceš si zahrát Scramblecoin?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, kámo! Chceš si zahrát Scramblecoin?"
+    }
+  ],
+  "ExpansionMain_Mickey/Mickey_BoardGame_PostGame001.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "Well...",
+      "cz": "No...",
+      "source": "pre_existing",
+      "original_cz": "No..."
+    },
+    {
+      "key": "Mickey_001_f",
+      "en": "Wow! That was amazing, pal!",
+      "cz": "Páni! To bylo úžasné, kámo!",
+      "source": "pre_existing",
+      "original_cz": "Páni! To bylo úžasné, kámo!"
+    },
+    {
+      "key": "Mickey_002_f",
+      "en": "Aw, don't worry, {PlayerName}. I bet you'll win next time!",
+      "cz": "Ale neboj se, {PlayerName}. Vsadím se, že příště vyhraješ!",
+      "source": "pre_existing",
+      "original_cz": "Ale neboj se, {PlayerName}. Vsadím se, že příště vyhraješ!"
+    }
+  ],
+  "ExpansionMain_Mickey/Mickey_BoardGame_PreGame001.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "This is gonna be great!",
+      "cz": "Tohle bude skvělé!",
+      "source": "pre_existing",
+      "original_cz": "Tohle bude skvělé!"
+    }
+  ],
+  "ExpansionMain_Mickey/Mickey_ORQS_E01_010_BoardGame_ORQS_E01_010_BoardGame_Ongoing02.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "Well, if ya haven't won yet, don't get discouraged, pal. Scramblecoin is just for fun!",
+      "cz": "No, pokud jsi ještě nevyhrál, nenech se odradit, kámo. Scramblecoin je jen pro zábavu!",
+      "source": "pre_existing",
+      "original_cz": "No, pokud jsi ještě nevyhrál, nenech se odradit, kámo. Scramblecoin je jen pro zábavu!"
+    }
+  ],
+  "ExpansionMain_Mickey/Mickey_ORQS_E01_010_BoardGame_ORQS_E01_010_BoardGame_Outro.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "Wow, {PlayerName}! That was great!",
+      "cz": "Páni, {PlayerName}! To bylo skvělé!",
+      "source": "pre_existing",
+      "original_cz": "Páni, {PlayerName}! To bylo skvělé!"
+    },
+    {
+      "key": "Mickey_001_f",
+      "en": "It took me forever to win my first game of Scramblecoin against Merlin. But you beat me at it pretty quick.",
+      "cz": "Trvalo mi věčnost, než jsem vyhrál svou první hru Scramblecoin proti Merlinovi. Ale vy jste mě v tom docela rychle porazil.",
+      "source": "pre_existing",
+      "original_cz": "Trvalo mi věčnost, než jsem vyhrál svou první hru Scramblecoin proti Merlinovi. Ale vy jste mě v tom docela rychle porazil."
+    },
+    {
+      "key": "Mickey_002_f",
+      "en": "I bet lotsa folks would love to play a game with you.",
+      "cz": "Vsadím se, že by si s tebou spousta lidí ráda zahrála hru.",
+      "source": "pre_existing",
+      "original_cz": "Vsadím se, že by si s tebou spousta lidí ráda zahrála hru."
+    },
+    {
+      "key": "Mickey_003_f",
+      "en": "You get <ActivityItem>figurines</ActivityItem> for winning. If ya keep playing, you'll win even more.",
+      "cz": "Za výhru získáte <ActivityItem>figurky</ActivityItem>. Pokud budete hrát dál, vyhrajete ještě více.",
+      "source": "pre_existing",
+      "original_cz": "Za výhru získáte <ActivityItem>figurky</ActivityItem>. Pokud budete hrát dál, vyhrajete ještě více."
+    },
+    {
+      "key": "Mickey_004_f",
+      "en": "Hey, and maybe someday we can start up the Scramblecoin Championship again. I bet you'd be champion in no time!",
+      "cz": "Ahoj, a třeba jednou zase spustíme Scramblecoin Championship. Vsadím se, že bys byl šampionem co nevidět!",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, a třeba jednou zase spustíme Scramblecoin Championship. Vsadím se, že bys byl šampionem co nevidět!"
+    }
+  ],
+  "ExpansionMain_Mickey/Mickey_ORQS_E01_010_BoardGame_ORQS_E01_010_BoardGame_TalkTo01.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "Say, {PlayerName}, I've been explorin' around Eternity Isle, and I found something I think you'll like.",
+      "cz": "Poslechni, {PlayerName}, prozkoumával jsem Eternity Isle a našel jsem něco, co by se ti podle mě mohlo líbit.",
+      "source": "pre_existing",
+      "original_cz": "Poslechni, {PlayerName}, prozkoumával jsem Eternity Isle a našel jsem něco, co by se ti podle mě mohlo líbit."
+    },
+    {
+      "key": "Mickey_001_f",
+      "en": "A bunch of <Lore>little statues</Lore>...",
+      "cz": "Spousta <Lore>malých sošek</Lore>...",
+      "source": "pre_existing",
+      "original_cz": "Spousta <Lore>malých sošek</Lore>..."
+    },
+    {
+      "key": "Mickey_002_f",
+      "en": "They're pieces from a board game we all used to play around the Valley!",
+      "cz": "Jsou to figurky z deskové hry, kterou jsme všichni hrávali v údolí!",
+      "source": "pre_existing",
+      "original_cz": "Jsou to figurky z deskové hry, kterou jsme všichni hrávali v údolí!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Ooh! How fun!",
+      "cz": "Jé! To je ale zábava!",
+      "source": "pre_existing",
+      "original_cz": "Jé! To je ale zábava!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I hope the rules aren't too complicated...",
+      "cz": "Doufám, že pravidla nejsou příliš složitá...",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že pravidla nejsou příliš složitá..."
+    },
+    {
+      "key": "Mickey_003_f",
+      "en": "Yeah, it's a blast!",
+      "cz": "Jo, to je pecka!",
+      "source": "pre_existing",
+      "original_cz": "Jo, to je pecka!"
+    },
+    {
+      "key": "Mickey_011_f",
+      "en": "Let me know if ya wanna try a game. And don't worry; you'll figure out the rules real quick.",
+      "cz": "Dej mi vědět, jestli si chceš něco zkusit zahrát. A neboj se, pravidla pochopíš velmi rychle.",
+      "source": "pre_existing",
+      "original_cz": "Dej mi vědět, jestli si chceš něco zkusit zahrát. A neboj se, pravidla pochopíš velmi rychle."
+    },
+    {
+      "key": "Mickey_012_f",
+      "en": "Gosh, I haven't played Scramblecoin in forever. I can't wait to teach it to ya!",
+      "cz": "Páni, Scramblecoin jsem nehrál už celou věčnost. Už se nemůžu dočkat, až tě to naučím!",
+      "source": "pre_existing",
+      "original_cz": "Páni, Scramblecoin jsem nehrál už celou věčnost. Už se nemůžu dočkat, až tě to naučím!"
+    },
+    {
+      "key": "Mickey_004_f",
+      "en": "The game is called... <Lore>Scramblecoin</Lore>. And it was one of our favorite things to do with friends.",
+      "cz": "Hra se jmenuje... <Lore>Scramblecoin</Lore>. A byla to jedna z našich nejoblíbenějších aktivit s přáteli.",
+      "source": "pre_existing",
+      "original_cz": "Hra se jmenuje... <Lore>Scramblecoin</Lore>. A byla to jedna z našich nejoblíbenějších aktivit s přáteli."
+    },
+    {
+      "key": "Mickey_005_f",
+      "en": "So what do I need to play?",
+      "cz": "Co tedy potřebuji k hraní?",
+      "source": "pre_existing",
+      "original_cz": "Co tedy potřebuji k hraní?"
+    },
+    {
+      "key": "Mickey_006_f",
+      "en": "Welp, I've got <Lore>five pieces</Lore> here for ya.",
+      "cz": "No, mám tu pro tebe <Lore>pět kousků</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "No, mám tu pro tebe <Lore>pět kousků</Lore>."
+    },
+    {
+      "key": "Mickey_007_f",
+      "en": "Now we can play.",
+      "cz": "Teď si můžeme hrát.",
+      "source": "pre_existing",
+      "original_cz": "Teď si můžeme hrát."
+    },
+    {
+      "key": "Mickey_008_f",
+      "en": "Okay... So, Scramblecoin is all about movin' pieces around the board to try and collect coins. <Lore>The more games you win, the more pieces you get</Lore>!",
+      "cz": "Dobře... Takže Scramblecoin je o přesouvání figurek po hrací desce a sbírání mincí. <Lore>Čím více her vyhrajete, tím více figurek získáte</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Dobře... Takže Scramblecoin je o přesouvání figurek po hrací desce a sbírání mincí. <Lore>Čím více her vyhrajete, tím více figurek získáte</Lore>!"
+    },
+    {
+      "key": "Mickey_009_f",
+      "en": "And all the pieces move around the board in different ways.",
+      "cz": "A všechny figurky se po hrací desce pohybují různými způsoby.",
+      "source": "pre_existing",
+      "original_cz": "A všechny figurky se po hrací desce pohybují různými způsoby."
+    },
+    {
+      "key": "Mickey_010_f",
+      "en": "Hmm... what else? ... Oh! Everybody here loves Scramblecoin, so be sure to play with all your pals.",
+      "cz": "Hmm... co ještě? ... Ach! Všichni tady milují Scramblecoin, takže si určitě zahrajte se všemi svými kamarády.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... co ještě? ... Ach! Všichni tady milují Scramblecoin, takže si určitě zahrajte se všemi svými kamarády."
+    },
+    {
+      "key": "Mickey_013_f",
+      "en": "Aw, it's real simple! Don't worry.",
+      "cz": "Páni, je to opravdu jednoduché! Neboj se.",
+      "source": "pre_existing",
+      "original_cz": "Páni, je to opravdu jednoduché! Neboj se."
+    }
+  ],
+  "ExpansionMain_Mickey/Mickey_SEC_E01_Mickey_010_SEC_E01_Mickey_010_BringItem01.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "Here you go, Mickey! I got those flowers you asked for!",
+      "cz": "Tady máš, Mickey! Mám ty květiny, o které sis přál!",
+      "source": "pre_existing",
+      "original_cz": "Tady máš, Mickey! Mám ty květiny, o které sis přál!"
+    },
+    {
+      "key": "Mickey_001_f",
+      "en": "Aw, thanks, pal!",
+      "cz": "Ach, díky, kámo!",
+      "source": "pre_existing",
+      "original_cz": "Ach, díky, kámo!"
+    },
+    {
+      "key": "Mickey_002_f",
+      "en": "Hmm... hold on... There's something funny about these.",
+      "cz": "Hmm... počkej... Na tomhle je něco vtipného.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... počkej... Na tomhle je něco vtipného."
+    },
+    {
+      "key": "Mickey_004_f",
+      "en": "The blue one... is it made outta glass?!",
+      "cz": "Ten modrý... je ze skla?!",
+      "source": "pre_existing",
+      "original_cz": "Ten modrý... je ze skla?!"
+    },
+    {
+      "key": "Mickey_006_f",
+      "en": "And the green one... it seems more like a pet than a house plant!",
+      "cz": "A ta zelená... vypadá spíš jako domácí mazlíček než pokojová rostlina!",
+      "source": "pre_existing",
+      "original_cz": "A ta zelená... vypadá spíš jako domácí mazlíček než pokojová rostlina!"
+    },
+    {
+      "key": "Mickey_003_f",
+      "en": "A lot of dangerous magic was running wild on Eternity Isle. I guess it made these flowers a bit... weird.",
+      "cz": "Na Eternity Isle divoce fungovalo spousta nebezpečné magie. Asi kvůli tomu byly tyhle květiny trochu... divné.",
+      "source": "pre_existing",
+      "original_cz": "Na Eternity Isle divoce fungovalo spousta nebezpečné magie. Asi kvůli tomu byly tyhle květiny trochu... divné."
+    },
+    {
+      "key": "Mickey_007_f",
+      "en": "Gosh, I don't know if Minnie would like any of these much.",
+      "cz": "Páni, nevím, jestli by se Minnie něco z toho moc líbilo.",
+      "source": "pre_existing",
+      "original_cz": "Páni, nevím, jestli by se Minnie něco z toho moc líbilo."
+    },
+    {
+      "key": "Mickey_008_f",
+      "en": "She had enough trouble with magic during her time in the Here and There.",
+      "cz": "Během svého pobytu v Tady a Tam měla s magií dost problémů.",
+      "source": "pre_existing",
+      "original_cz": "Během svého pobytu v Tady a Tam měla s magií dost problémů."
+    },
+    {
+      "key": "Mickey_010_f",
+      "en": "Sorry I asked you to do all that, {PlayerName}. Do ya think since these flowers seem so magical that there's somebody else who could use 'em for somethin'?",
+      "cz": "Promiň, že jsem tě o tohle všechno žádal, {PlayerName}. Myslíš, že když tyhle květiny vypadají tak kouzelně, tak by je mohl k něčemu použít ještě někdo jiný?",
+      "source": "pre_existing",
+      "original_cz": "Promiň, že jsem tě o tohle všechno žádal, {PlayerName}. Myslíš, že když tyhle květiny vypadají tak kouzelně, tak by je mohl k něčemu použít ještě někdo jiný?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'll bring them to Merlin. He can use them for his experiments.",
+      "cz": "Přinesu je Merlinovi. Může je použít pro své experimenty.",
+      "source": "pre_existing",
+      "original_cz": "Přinesu je Merlinovi. Může je použít pro své experimenty."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'll bring them to Ursula. She can use them for her potions.",
+      "cz": "Přinesu je Ursule. Může je použít do svých lektvarů.",
+      "source": "pre_existing",
+      "original_cz": "Přinesu je Ursule. Může je použít do svých lektvarů."
+    },
+    {
+      "key": "Mickey_011_f",
+      "en": "That's a great idea! I bet Merlin would love to take a look at these.",
+      "cz": "To je skvělý nápad! Vsadím se, že by se na to Merlin rád podíval.",
+      "source": "pre_existing",
+      "original_cz": "To je skvělý nápad! Vsadím se, že by se na to Merlin rád podíval."
+    },
+    {
+      "key": "Mickey_013_f",
+      "en": "Thanks for helping, {PlayerName}, even if it didn't turn out exactly how we planned. Next time, I'll stick to petunias.",
+      "cz": "Díky za pomoc, {PlayerName}, i když to nedopadlo přesně podle našich plánů. Příště se budu držet petúnií.",
+      "source": "pre_existing",
+      "original_cz": "Díky za pomoc, {PlayerName}, i když to nedopadlo přesně podle našich plánů. Příště se budu držet petúnií."
+    },
+    {
+      "key": "Mickey_012_f",
+      "en": "You sure about that, pal? What if she uses 'em to make somethin' dangerous?",
+      "cz": "Jsi si tím jistý, kámo? Co když je použije k výrobě něčeho nebezpečného?",
+      "source": "pre_existing",
+      "original_cz": "Jsi si tím jistý, kámo? Co když je použije k výrobě něčeho nebezpečného?"
+    },
+    {
+      "key": "Mickey_014_f",
+      "en": "Whatever Ursula wants to use them for, she'll be in my debt. That's useful.",
+      "cz": "Ať už je Ursula chce použít k čemukoli, bude mi zavázána. To se hodí.",
+      "source": "pre_existing",
+      "original_cz": "Ať už je Ursula chce použít k čemukoli, bude mi zavázána. To se hodí."
+    },
+    {
+      "key": "Mickey_015_f",
+      "en": "Huh. Guess I'll have to trust you on that.",
+      "cz": "Hm. Asi ti v tom budu muset věřit.",
+      "source": "pre_existing",
+      "original_cz": "Hm. Asi ti v tom budu muset věřit."
+    },
+    {
+      "key": "Mickey_009_f",
+      "en": "And I wouldn't wanna risk upsetting her right after she gets back.",
+      "cz": "A nechtěl bych riskovat, že ji hned po jejím návratu rozruším.",
+      "source": "pre_existing",
+      "original_cz": "A nechtěl bych riskovat, že ji hned po jejím návratu rozruším."
+    }
+  ],
+  "ExpansionMain_Mickey/Mickey_SEC_E01_Mickey_010_SEC_E01_Mickey_010_Intro.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "Say, pal, I've been explorin' and I was wondering... could you help me do something special for Minnie?",
+      "cz": "Poslyš, kámo, prozkoumával jsem okolí a napadlo mě... mohl bys mi pomoct udělat něco speciálního pro Minnie?",
+      "source": "pre_existing",
+      "original_cz": "Poslyš, kámo, prozkoumával jsem okolí a napadlo mě... mohl bys mi pomoct udělat něco speciálního pro Minnie?"
+    },
+    {
+      "key": "Mickey_010_f",
+      "en": "Sure! How can I help?",
+      "cz": "Jasně! Jak můžu pomoci?",
+      "source": "pre_existing",
+      "original_cz": "Jasně! Jak můžu pomoci?"
+    },
+    {
+      "key": "Mickey_002_f",
+      "en": "Welp, I've seen all kinds of incredible flowers around Eternity Isle, and I wanna give Minnie some that are just as special as she is.",
+      "cz": "No, viděla jsem na Eternity Isle spoustu úžasných květin a chci Minnie dát nějaké, které jsou stejně výjimečné jako ona.",
+      "source": "pre_existing",
+      "original_cz": "No, viděla jsem na Eternity Isle spoustu úžasných květin a chci Minnie dát nějaké, které jsou stejně výjimečné jako ona."
+    },
+    {
+      "key": "Mickey_004_f",
+      "en": "But a few of 'em are kinda hard to get to without magic. Like those <Lore>shiny blue ones</Lore> in the Dunes...",
+      "cz": "Ale k některým z nich je docela těžké se bez magie dostat. Jako k těm <Lore>zářivě modrým</Lore> v Dunách...",
+      "source": "pre_existing",
+      "original_cz": "Ale k některým z nich je docela těžké se bez magie dostat. Jako k těm <Lore>zářivě modrým</Lore> v Dunách..."
+    },
+    {
+      "key": "Mickey_009_f",
+      "en": "Or the <Lore>nice orange ones</Lore> in Ancient's Landing...",
+      "cz": "Nebo ty <Lore>pěkné oranžové</Lore> v Ancient's Landing...",
+      "source": "pre_existing",
+      "original_cz": "Nebo ty <Lore>pěkné oranžové</Lore> v Ancient's Landing..."
+    },
+    {
+      "key": "Mickey_005_f",
+      "en": "Oh, and I also saw some <Lore>big green ones</Lore> that were movin' around in the Wild Tangle!",
+      "cz": "A taky jsem viděl pár <Lore>velkých zelených</Lore>, co se pohybovali v Divoké spleti!",
+      "source": "pre_existing",
+      "original_cz": "A taky jsem viděl pár <Lore>velkých zelených</Lore>, co se pohybovali v Divoké spleti!"
+    },
+    {
+      "key": "Mickey_006_f",
+      "en": "Yeah, those seem kind of... dangerous. Don't worry. I know just the flowers you're talking about.",
+      "cz": "Jo, ty vypadají trochu... nebezpečně. Neboj se. Vím přesně o těch květinách, o kterých mluvíš.",
+      "source": "pre_existing",
+      "original_cz": "Jo, ty vypadají trochu... nebezpečně. Neboj se. Vím přesně o těch květinách, o kterých mluvíš."
+    },
+    {
+      "key": "Mickey_007_f",
+      "en": "I'll see if I can find those for you. In the meantime... be careful if you go exploring the Isle!",
+      "cz": "Zkusím ti je najít. Mezitím... buď opatrný, pokud se vydáš na průzkum ostrova!",
+      "source": "pre_existing",
+      "original_cz": "Zkusím ti je najít. Mezitím... buď opatrný, pokud se vydáš na průzkum ostrova!"
+    },
+    {
+      "key": "Mickey_008_f",
+      "en": "Don't worry! I will!",
+      "cz": "Neboj se! Udělám to!",
+      "source": "pre_existing",
+      "original_cz": "Neboj se! Udělám to!"
+    },
+    {
+      "key": "Mickey_001_f",
+      "en": "I just know we'll find her someday, and I want everything to be perfect for her when we do!",
+      "cz": "Vím, že ji jednou najdeme, a chci, aby pro ni bylo všechno perfektní, až se to stane!",
+      "source": "pre_existing",
+      "original_cz": "Vím, že ji jednou najdeme, a chci, aby pro ni bylo všechno perfektní, až se to stane!"
+    }
+  ],
+  "ExpansionMain_Mickey/Mickey_SEC_E01_Mickey_010_SEC_E01_Mickey_010_Ongoing01.locbin": [
+    {
+      "key": "Mickey_001_f",
+      "en": "I've seen all kinds of incredible flowers around Eternity Isle, and I wanna give Minnie some that are just as special as she is.",
+      "cz": "Kolem Eternity Isle jsem viděla spoustu úžasných květin a chci Minnie dát nějaké, které jsou stejně výjimečné jako ona.",
+      "source": "pre_existing",
+      "original_cz": "Kolem Eternity Isle jsem viděla spoustu úžasných květin a chci Minnie dát nějaké, které jsou stejně výjimečné jako ona."
+    },
+    {
+      "key": "Mickey_002_f",
+      "en": "But a few of 'em are kinda hard to get to without magic. Like those shiny blue ones... or the nice orange ones...",
+      "cz": "Ale k některým z nich se bez magie docela těžko dostanete. Jako třeba k těm lesklým modrým... nebo k těm hezkým oranžovým...",
+      "source": "pre_existing",
+      "original_cz": "Ale k některým z nich se bez magie docela těžko dostanete. Jako třeba k těm lesklým modrým... nebo k těm hezkým oranžovým..."
+    },
+    {
+      "key": "Mickey_003_f",
+      "en": "Oh, and I also saw some big green ones that were movin' around!",
+      "cz": "A taky jsem viděl pár velkých zelených, co se tam pohybovali!",
+      "source": "pre_existing",
+      "original_cz": "A taky jsem viděl pár velkých zelených, co se tam pohybovali!"
+    },
+    {
+      "key": "Mickey_004_f",
+      "en": "Don't worry. I'll help you find them all.",
+      "cz": "Neboj se. Pomůžu ti je všechny najít.",
+      "source": "pre_existing",
+      "original_cz": "Neboj se. Pomůžu ti je všechny najít."
+    }
+  ],
+  "ExpansionMain_Mickey/Mickey_SEC_E01_Mickey_010_SEC_E01_Mickey_010_Ongoing02.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "Did ya bring those flowers to Merlin yet? Maybe he knows what's goin' on with 'em.",
+      "cz": "Už jsi přinesl ty květiny Merlinovi? Možná ví, co se s nimi děje.",
+      "source": "pre_existing",
+      "original_cz": "Už jsi přinesl ty květiny Merlinovi? Možná ví, co se s nimi děje."
+    }
+  ],
+  "ExpansionMain_Mickey/Mickey_SEC_E01_Mickey_010_SEC_E01_Mickey_010_Ongoing03.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "Are you sure ya wanna bring those flowers to Ursula...? Be careful, pal.",
+      "cz": "Jsi si jistý, že chceš Ursule donést ty květiny...? Buď opatrný, kámo.",
+      "source": "pre_existing",
+      "original_cz": "Jsi si jistý, že chceš Ursule donést ty květiny...? Buď opatrný, kámo."
+    }
+  ],
+  "ExpansionMain_Mickey/SEC_E01_Mick_010.locbin": [
+    {
+      "key": "Secret!Expansion01!Mickey!SEC_E01_Mick_010_DisplayName",
+      "en": "Flower Power",
+      "cz": "Síla květin",
+      "source": "pre_existing",
+      "original_cz": "Síla květin"
+    },
+    {
+      "key": "Secret!Expansion01!Mickey!SEC_E01_Mick_010_Group01_StoryDescription",
+      "en": "He wonders if you could help him gather some for Minnie.",
+      "cz": "Zajímalo by ho, jestli byste mu mohli pomoci nashromáždit nějaké pro Minnie.",
+      "source": "pre_existing",
+      "original_cz": "Zajímalo by ho, jestli byste mu mohli pomoci nashromáždit nějaké pro Minnie."
+    },
+    {
+      "key": "Secret!Expansion01!Mickey!SEC_E01_Mick_010_Group02_StoryDescription",
+      "en": "Mickey decides that these flowers seem downright dangerous for Minnie... but somebody else might really appreciate them! You decide to bring them to Merlin to help with his experiments. Merlin's done so much for you. It's only right to give back.",
+      "cz": "Mickey se rozhodne, že tyto květiny se Minnie zdají být vyloženě nebezpečné... ale někdo jiný by je mohl opravdu ocenit! Rozhodnete se je přinést Merlinovi, abyste mu pomohli s jeho experimenty. Merlin pro vás udělal tolik. Je správné mu to oplatit.",
+      "source": "pre_existing",
+      "original_cz": "Mickey se rozhodne, že tyto květiny se Minnie zdají být vyloženě nebezpečné... ale někdo jiný by je mohl opravdu ocenit! Rozhodnete se je přinést Merlinovi, abyste mu pomohli s jeho experimenty. Merlin pro vás udělal tolik. Je správné mu to oplatit."
+    },
+    {
+      "key": "Secret!Expansion01!Mickey!SEC_E01_Mick_010_Group03_StoryDescription",
+      "en": "Mickey decides that these flowers seem downright dangerous for Minnie... but somebody else might really appreciate them! You decide to bring them to Ursula to use as ingredients in her potions. After all, having Ursula in your debt is always valuable...",
+      "cz": "Mickey se rozhodne, že tyto květiny se Minnie zdají být vyloženě nebezpečné... ale někdo jiný by je mohl opravdu ocenit! Rozhodnete se je přinést Ursule, abyste je použila jako ingredience do jejích lektvarů. Koneckonců, mít Ursulu zavázanou je vždycky cenné...",
+      "source": "pre_existing",
+      "original_cz": "Mickey se rozhodne, že tyto květiny se Minnie zdají být vyloženě nebezpečné... ale někdo jiný by je mohl opravdu ocenit! Rozhodnete se je přinést Ursule, abyste je použila jako ingredience do jejích lektvarů. Koneckonců, mít Ursulu zavázanou je vždycky cenné..."
+    },
+    {
+      "key": "Secret!Expansion01!Mickey!SEC_E01_Mick_010_Group04_Step04_TalkToCharacter01_StepDescription",
+      "en": "Talk to Mickey.",
+      "cz": "Promluv si s Mickey.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Mickey."
+    },
+    {
+      "key": "Secret!Expansion01!Mickey!SEC_E01_Mick_010_Group04_StepDescription",
+      "en": "There sure are a lot of neat flowers around Eternity Isle...",
+      "cz": "Kolem Eternity Isle je spousta krásných květin...",
+      "source": "pre_existing",
+      "original_cz": "Kolem Eternity Isle je spousta krásných květin..."
+    }
+  ],
+  "ExpansionMain_Mickey/SEC_E01_Mickey_010.locbin": [
+    {
+      "key": "Secret!Expansion01!Mickey!SEC_E01_Mickey_010_AvailableDescription",
+      "en": "Mickey has been exploring Eternity Isle, and he's been thrilled to see all the new flowers!",
+      "cz": "Mickey prozkoumával Eternity Isle a byl nadšený, když viděl všechny ty nové květiny!",
+      "source": "pre_existing",
+      "original_cz": "Mickey prozkoumával Eternity Isle a byl nadšený, když viděl všechny ty nové květiny!"
+    },
+    {
+      "key": "Secret!Expansion01!Mickey!SEC_E01_Mickey_010_Group01_Step01_BringItem01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Secret!Expansion01!Mickey!SEC_E01_Mickey_010_Group01_Step01_BringItem04_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Secret!Expansion01!Mickey!SEC_E01_Mickey_010_Group01_Step01_BringItem05_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Secret!Expansion01!Mickey!SEC_E01_Mickey_010_Group01_Step01_ReadyDescription",
+      "en": "Bring the flowers to Mickey.",
+      "cz": "Přineste květiny Mickeymu.",
+      "source": "pre_existing",
+      "original_cz": "Přineste květiny Mickeymu."
+    },
+    {
+      "key": "Secret!Expansion01!Mickey!SEC_E01_Mickey_010_Group01_Step01_StepDescription",
+      "en": "Gather the following flowers for Mickey:",
+      "cz": "Nasbírejte pro Mickeyho následující květiny:",
+      "source": "pre_existing",
+      "original_cz": "Nasbírejte pro Mickeyho následující květiny:"
+    },
+    {
+      "key": "Secret!Expansion01!Mickey!SEC_E01_Mickey_010_Group02_Step02_BringItem02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Secret!Expansion01!Mickey!SEC_E01_Mickey_010_Group02_Step02_BringItem06_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Secret!Expansion01!Mickey!SEC_E01_Mickey_010_Group02_Step02_BringItem07_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Secret!Expansion01!Mickey!SEC_E01_Mickey_010_Group02_Step02_ReadyDescription",
+      "en": "Bring the flowers to Merlin for his experiments.",
+      "cz": "Přineste Merlinovi květiny k jeho experimentům.",
+      "source": "pre_existing",
+      "original_cz": "Přineste Merlinovi květiny k jeho experimentům."
+    },
+    {
+      "key": "Secret!Expansion01!Mickey!SEC_E01_Mickey_010_Group02_Step02_StepDescription",
+      "en": "Gather the following flowers for Merlin's experiments:",
+      "cz": "Nasbírejte následující květiny pro Merlinovy ​​experimenty:",
+      "source": "pre_existing",
+      "original_cz": "Nasbírejte následující květiny pro Merlinovy ​​experimenty:"
+    },
+    {
+      "key": "Secret!Expansion01!Mickey!SEC_E01_Mickey_010_Group03_Step03_BringItem03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Secret!Expansion01!Mickey!SEC_E01_Mickey_010_Group03_Step03_BringItem08_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Secret!Expansion01!Mickey!SEC_E01_Mickey_010_Group03_Step03_BringItem09_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Secret!Expansion01!Mickey!SEC_E01_Mickey_010_Group03_Step03_ReadyDescription",
+      "en": "Bring the flowers to Ursula for her potions.",
+      "cz": "Přineste květiny Ursule pro její lektvary.",
+      "source": "pre_existing",
+      "original_cz": "Přineste květiny Ursule pro její lektvary."
+    },
+    {
+      "key": "Secret!Expansion01!Mickey!SEC_E01_Mickey_010_Group03_Step03_StepDescription",
+      "en": "Gather the following flowers for Ursula's potions:",
+      "cz": "Nasbírejte následující květiny pro Ursuliny lektvary:",
+      "source": "pre_existing",
+      "original_cz": "Nasbírejte následující květiny pro Ursuliny lektvary:"
+    }
+  ]
+}

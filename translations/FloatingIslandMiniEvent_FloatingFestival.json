@@ -1,0 +1,39 @@
+{
+  "FloatingIslandMiniEvent_FloatingFestival/Merl_FloatingFestivalIntro_010.locbin": [
+    {
+      "key": "Repeatable!Event!FloatingFestival!Merl_FloatingFestivalIntro_010_AvailableDescription",
+      "en": "Merlin has something exciting to share with you about the Floating Islands. What could be happening on these mysterious islands in the sky?",
+      "cz": "Merlin se s vámi chce podělit o něco vzrušujícího ohledně Plovoucích ostrovů. Co by se mohlo dít na těchto tajemných ostrovech na obloze?",
+      "source": "pre_existing",
+      "original_cz": "Merlin se s vámi chce podělit o něco vzrušujícího ohledně Plovoucích ostrovů. Co by se mohlo dít na těchto tajemných ostrovech na obloze?"
+    },
+    {
+      "key": "Repeatable!Event!FloatingFestival!Merl_FloatingFestivalIntro_010_DisplayName",
+      "en": "The Floating Festival!",
+      "cz": "Plovoucí festival!",
+      "source": "pre_existing",
+      "original_cz": "Plovoucí festival!"
+    },
+    {
+      "key": "Repeatable!Event!FloatingFestival!Merl_FloatingFestivalIntro_010_Group01_StepDescription",
+      "en": "Talk to Merlin.",
+      "cz": "Promluv si s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Merlinem."
+    },
+    {
+      "key": "Repeatable!Event!FloatingFestival!Merl_FloatingFestivalIntro_010_Group03_Step04_FollowCharacter02_StepDescription",
+      "en": "Follow Merlin to the <Lore>Floating Festival portal</Lore> in the Plaza in Dreamlight Valley.",
+      "cz": "Následujte Merlina k <Lore>portálu Plovoucího festivalu</Lore> na náměstí v Údolí snů.",
+      "source": "pre_existing",
+      "original_cz": "Následujte Merlina k <Lore>portálu Plovoucího festivalu</Lore> na náměstí v Údolí snů."
+    },
+    {
+      "key": "Repeatable!Event!FloatingFestival!Merl_FloatingFestivalIntro_010_Group03_Step04_FollowCharacter02_TalkToDescription",
+      "en": "Talk to Merlin next to the <Lore>Floating Festival portal</Lore>.",
+      "cz": "Promluvte si s Merlinem vedle <Lore>portálu Plovoucího festivalu</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Merlinem vedle <Lore>portálu Plovoucího festivalu</Lore>."
+    }
+  ]
+}

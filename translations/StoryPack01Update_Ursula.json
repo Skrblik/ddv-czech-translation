@@ -1,0 +1,335 @@
+{
+  "StoryPack01Update_Ursula/Ursula_PRM_WallE_010_PRM_WallE_010_TalkTo04.locbin": [
+    {
+      "key": "Ursula_001_f",
+      "en": "{PlayerName}? What brings you here? Beyond my sparkling conversation, that is.",
+      "cz": "{PlayerName}? Co tě sem přivádí? Tedy kromě mé jiskřivé konverzace.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}? Co tě sem přivádí? Tedy kromě mé jiskřivé konverzace."
+    },
+    {
+      "key": "Ursula_003_f",
+      "en": "I have a surprise for you!",
+      "cz": "Mám pro tebe překvapení!",
+      "source": "pre_existing",
+      "original_cz": "Mám pro tebe překvapení!"
+    },
+    {
+      "key": "Ursula_021_f",
+      "en": "Can you meet me in the <ActivityItem>Cursed Cave</ActivityItem>? I still need to fetch it.",
+      "cz": "Můžeš se se mnou setkat v <ActivityItem>Prokleté jeskyni</ActivityItem>? Ještě ji musím přinést.",
+      "source": "pre_existing",
+      "original_cz": "Můžeš se se mnou setkat v <ActivityItem>Prokleté jeskyni</ActivityItem>? Ještě ji musím přinést."
+    },
+    {
+      "key": "Ursula_022_f",
+      "en": "Ha! You don't fool me, angelfish. Do you really think I'm going back in there to be locked away again?",
+      "cz": "Ha! Mě neoklameš, anděle. Vážně si myslíš, že se tam vrátím a zase mě tam zavřou?",
+      "source": "pre_existing",
+      "original_cz": "Ha! Mě neoklameš, anděle. Vážně si myslíš, že se tam vrátím a zase mě tam zavřou?"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "It's nothing nefarious, I promise!",
+      "cz": "Slibuji, že to není nic zlého!",
+      "source": "pre_existing",
+      "original_cz": "Slibuji, že to není nic zlého!"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "It's symbolic — I want to make that a place of happy memories.",
+      "cz": "Je to symbolické – chci z toho udělat místo šťastných vzpomínek.",
+      "source": "pre_existing",
+      "original_cz": "Je to symbolické – chci z toho udělat místo šťastných vzpomínek."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Oh... this is awkward...",
+      "cz": "Ach... to je trapné...",
+      "source": "pre_existing",
+      "original_cz": "Ach... to je trapné..."
+    },
+    {
+      "key": "Ursula_024_f",
+      "en": "Really? Would you promise... your voice?",
+      "cz": "Vážně? Slíbila bys mi... svůj hlas?",
+      "source": "pre_existing",
+      "original_cz": "Vážně? Slíbila bys mi... svůj hlas?"
+    },
+    {
+      "key": "Ursula_025_f",
+      "en": "Absolutely!",
+      "cz": "Rozhodně!",
+      "source": "pre_existing",
+      "original_cz": "Rozhodně!"
+    },
+    {
+      "key": "Ursula_034_f",
+      "en": "Keep talking. An offer like this doesn't happen every day. Naturally, I'm... suspicious.",
+      "cz": "Povídej dál. Taková nabídka se nestává každý den. Přirozeně, že jsem... podezřívavá.",
+      "source": "pre_existing",
+      "original_cz": "Povídej dál. Taková nabídka se nestává každý den. Přirozeně, že jsem... podezřívavá."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "And I feel bad about that.",
+      "cz": "A je mi to líto.",
+      "source": "pre_existing",
+      "original_cz": "A je mi to líto."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Well, it's time to change that!",
+      "cz": "No, je čas to změnit!",
+      "source": "pre_existing",
+      "original_cz": "No, je čas to změnit!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "We want to turn over a new... tentacle.",
+      "cz": "Chceme předat nové... chapadlo.",
+      "source": "pre_existing",
+      "original_cz": "Chceme předat nové... chapadlo."
+    },
+    {
+      "key": "Ursula_007_f",
+      "en": "Hmph. As you should!",
+      "cz": "Hm. Jak se patří!",
+      "source": "pre_existing",
+      "original_cz": "Hm. Jak se patří!"
+    },
+    {
+      "key": "Ursula_018_f",
+      "en": "You've been a... nearly model citizen, and we want to reward you.",
+      "cz": "Byla jsi... téměř vzornou občankou a my tě chceme odměnit.",
+      "source": "pre_existing",
+      "original_cz": "Byla jsi... téměř vzornou občankou a my tě chceme odměnit."
+    },
+    {
+      "key": "Ursula_019_f",
+      "en": "I have, haven't I? And I agree, I deserve a reward.",
+      "cz": "Ano, že? A souhlasím, zasloužím si odměnu.",
+      "source": "pre_existing",
+      "original_cz": "Ano, že? A souhlasím, zasloužím si odměnu."
+    },
+    {
+      "key": "Ursula_020_f",
+      "en": "What's this gift you want to give me?",
+      "cz": "Co je to za dárek, který mi chceš dát?",
+      "source": "pre_existing",
+      "original_cz": "Co je to za dárek, který mi chceš dát?"
+    },
+    {
+      "key": "Ursula_032_f",
+      "en": "It's a brand-new <ActivityItem>Potion Set</ActivityItem>! Lovingly handcrafted from <ActivityItem>Glass</ActivityItem> and <ActivityItem>Softwood</ActivityItem>.",
+      "cz": "Je to zbrusu nová <ActivityItem>sada lektvarů</ActivityItem>! S láskou ručně vyrobená ze <ActivityItem>skla</ActivityItem> a <ActivityItem>měkkého dřeva</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Je to zbrusu nová <ActivityItem>sada lektvarů</ActivityItem>! S láskou ručně vyrobená ze <ActivityItem>skla</ActivityItem> a <ActivityItem>měkkého dřeva</ActivityItem>."
+    },
+    {
+      "key": "Ursula_031_f",
+      "en": "I do need one of those. All right, I'll meet you. See you soon, dear.",
+      "cz": "Jeden takový potřebuju. Dobře, sejdeme se. Brzy na viděnou, drahoušku.",
+      "source": "pre_existing",
+      "original_cz": "Jeden takový potřebuju. Dobře, sejdeme se. Brzy na viděnou, drahoušku."
+    },
+    {
+      "key": "Ursula_008_f",
+      "en": "Go on.",
+      "cz": "Jen do toho.",
+      "source": "pre_existing",
+      "original_cz": "Jen do toho."
+    },
+    {
+      "key": "Ursula_009_f",
+      "en": "It's about time!",
+      "cz": "Už je na čase!",
+      "source": "pre_existing",
+      "original_cz": "Už je na čase!"
+    },
+    {
+      "key": "Ursula_010_f",
+      "en": "Right... Okay...",
+      "cz": "Dobře... Dobře...",
+      "source": "pre_existing",
+      "original_cz": "Dobře... Dobře..."
+    },
+    {
+      "key": "Ursula_026_f",
+      "en": "Hmm, then you wouldn't mind if I take certain... precautions?",
+      "cz": "Hmm, takže by vám nevadilo, kdybych podnikla určitá... opatření?",
+      "source": "pre_existing",
+      "original_cz": "Hmm, takže by vám nevadilo, kdybych podnikla určitá... opatření?"
+    },
+    {
+      "key": "Ursula_027_f",
+      "en": "Not at all!",
+      "cz": "Vůbec ne!",
+      "source": "pre_existing",
+      "original_cz": "Vůbec ne!"
+    },
+    {
+      "key": "Ursula_028_f",
+      "en": "I didn't mean it like that at all!",
+      "cz": "Takhle jsem to vůbec nemyslela!",
+      "source": "pre_existing",
+      "original_cz": "Takhle jsem to vůbec nemyslela!"
+    },
+    {
+      "key": "Ursula_029_f",
+      "en": "Please, Ursula, I just want to make things better between us.",
+      "cz": "Prosím tě, Ursulo, jen chci, aby se to mezi námi vylepšilo.",
+      "source": "pre_existing",
+      "original_cz": "Prosím tě, Ursulo, jen chci, aby se to mezi námi vylepšilo."
+    }
+  ],
+  "StoryPack01Update_Ursula/Ursula_PRM_WallE_010_PRM_WallE_010_TalkTo05.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "It is a <ActivityItem>Potion Set</ActivityItem>! I still wasn't sure you were being honest, you know.",
+      "cz": "Je to <ActivityItem>Sada lektvarů</ActivityItem>! Pořád jsem si nebyla jistá, jestli jsi upřímná, víš.",
+      "source": "pre_existing",
+      "original_cz": "Je to <ActivityItem>Sada lektvarů</ActivityItem>! Pořád jsem si nebyla jistá, jestli jsi upřímná, víš."
+    },
+    {
+      "key": "Ursula_001_f",
+      "en": "Do you like it?",
+      "cz": "Líbí se ti to?",
+      "source": "pre_existing",
+      "original_cz": "Líbí se ti to?"
+    },
+    {
+      "key": "Ursula_002_f",
+      "en": "Like it?! I love it! If Triton had treated me this kindly...",
+      "cz": "Líbí se ti to?! Miluju to! Kdyby se ke mně Triton choval takhle laskavě...",
+      "source": "pre_existing",
+      "original_cz": "Líbí se ti to?! Miluju to! Kdyby se ke mně Triton choval takhle laskavě..."
+    },
+    {
+      "key": "Ursula_003_f",
+      "en": "Let's just say things might have gone differently in Atlantica.",
+      "cz": "Řekněme, že v Atlantice by se věci mohly vyvíjet jinak.",
+      "source": "pre_existing",
+      "original_cz": "Řekněme, že v Atlantice by se věci mohly vyvíjet jinak."
+    },
+    {
+      "key": "Ursula_004_f",
+      "en": "How did you guess I needed one?",
+      "cz": "Jak jsi uhodl/a, že ho potřebuji?",
+      "source": "pre_existing",
+      "original_cz": "Jak jsi uhodl/a, že ho potřebuji?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "It just felt right.",
+      "cz": "Prostě to vypadalo správně.",
+      "source": "pre_existing",
+      "original_cz": "Prostě to vypadalo správně."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I thought long and hard.",
+      "cz": "Dlouho a usilovně jsem přemýšlel.",
+      "source": "pre_existing",
+      "original_cz": "Dlouho a usilovně jsem přemýšlel."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I had been saving it for a special someone.",
+      "cz": "Schoval jsem si to pro někoho výjimečného.",
+      "source": "pre_existing",
+      "original_cz": "Schoval jsem si to pro někoho výjimečného."
+    },
+    {
+      "key": "Ursula_005_f",
+      "en": "Perceptive little angelfish, aren't you?",
+      "cz": "Vnímavá malá andělská rybko, že?",
+      "source": "pre_existing",
+      "original_cz": "Vnímavá malá andělská rybko, že?"
+    },
+    {
+      "key": "Ursula_008_f",
+      "en": "Now, I know just where I'll put it in my House.",
+      "cz": "Teď už přesně vím, kam to v domě dám.",
+      "source": "pre_existing",
+      "original_cz": "Teď už přesně vím, kam to v domě dám."
+    },
+    {
+      "key": "Ursula_013_f",
+      "en": "(Oh no, I need to buy WALL·E more time!)",
+      "cz": "(Ach ne, musím WALL·Emu koupit víc času!)",
+      "source": "pre_existing",
+      "original_cz": "(Ach ne, musím WALL·Emu koupit víc času!)"
+    },
+    {
+      "key": "Ursula_014_f",
+      "en": "What's that, {PlayerName}?",
+      "cz": "Co to je, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Co to je, {PlayerName}?"
+    },
+    {
+      "key": "Ursula_015_f",
+      "en": "Err, I uh... just wanted to make sure that we're cool now.",
+      "cz": "Ehm, já, ehm... jen jsem se chtěla ujistit, že už je to v pořádku.",
+      "source": "pre_existing",
+      "original_cz": "Ehm, já, ehm... jen jsem se chtěla ujistit, že už je to v pořádku."
+    },
+    {
+      "key": "Ursula_016_f",
+      "en": "If you mean are we on good terms? Most definitely. You've risen rather quickly in my esteem.",
+      "cz": "Jestli myslíš, jestli máme dobré vztahy? Rozhodně. V mém postavení jsi si docela rychle vydobyl/a.",
+      "source": "pre_existing",
+      "original_cz": "Jestli myslíš, jestli máme dobré vztahy? Rozhodně. V mém postavení jsi si docela rychle vydobyl/a."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "... What did you think of me before?",
+      "cz": "... Co sis o mně předtím myslel/a?",
+      "source": "pre_existing",
+      "original_cz": "... Co sis o mně předtím myslel/a?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Time to let bygones be bygones!",
+      "cz": "Čas nechat minulost pryč!",
+      "source": "pre_existing",
+      "original_cz": "Čas nechat minulost pryč!"
+    },
+    {
+      "key": "Ursula_010_f",
+      "en": "No need to get into that now. Wouldn't want to spoil the mood.",
+      "cz": "Není třeba se do toho teď pouštět. Nechtěla bych kazit náladu.",
+      "source": "pre_existing",
+      "original_cz": "Není třeba se do toho teď pouštět. Nechtěla bych kazit náladu."
+    },
+    {
+      "key": "Ursula_009_f",
+      "en": "See you soon, {PlayerName}!",
+      "cz": "Brzy se uvidíme, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Brzy se uvidíme, {PlayerName}!"
+    },
+    {
+      "key": "Ursula_017_f",
+      "en": "Exactly!",
+      "cz": "Přesně tak!",
+      "source": "pre_existing",
+      "original_cz": "Přesně tak!"
+    },
+    {
+      "key": "Ursula_006_f",
+      "en": "Finally, someone treating me the way I deserve to be treated!",
+      "cz": "Konečně se ke mně někdo chová tak, jak si to zasloužím!",
+      "source": "pre_existing",
+      "original_cz": "Konečně se ke mně někdo chová tak, jak si to zasloužím!"
+    },
+    {
+      "key": "Ursula_007_f",
+      "en": "Well, aren't you a dear!",
+      "cz": "No, nejsi ale zlatíčko!",
+      "source": "pre_existing",
+      "original_cz": "No, nejsi ale zlatíčko!"
+    }
+  ]
+}

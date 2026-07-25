@@ -1,0 +1,812 @@
+{
+  "daisy_Mickey/Mickey_SEC_Mick_010_SEC_Mick_010_Intro.locbin": [
+    {
+      "key": "Mickey_002_f",
+      "en": "Oh boy, {PlayerName}, do I have news for you!",
+      "cz": "Páni, {PlayerName}, mám pro tebe novinku!",
+      "source": "pre_existing",
+      "original_cz": "Páni, {PlayerName}, mám pro tebe novinku!"
+    },
+    {
+      "key": "Mickey_003_f",
+      "en": "I opened up my mailbox this morning and found a sparkly purple envelope addressed to both Minnie and me...",
+      "cz": "Dnes ráno jsem otevřela poštovní schránku a našla jsem třpytivě fialovou obálku adresovanou mně i Minnie...",
+      "source": "pre_existing",
+      "original_cz": "Dnes ráno jsem otevřela poštovní schránku a našla jsem třpytivě fialovou obálku adresovanou mně i Minnie..."
+    },
+    {
+      "key": "Mickey_004_f",
+      "en": "Sparkly? Purple? Who was the letter from?",
+      "cz": "Třpytivé? Fialové? Od koho byl ten dopis?",
+      "source": "pre_existing",
+      "original_cz": "Třpytivé? Fialové? Od koho byl ten dopis?"
+    },
+    {
+      "key": "Mickey_006_f",
+      "en": "Our pal Daisy Duck! I knew it the second I saw the envelope.",
+      "cz": "Naše kamarádka Daisy Duck! Věděla jsem to hned, jak jsem uviděla obálku.",
+      "source": "pre_existing",
+      "original_cz": "Naše kamarádka Daisy Duck! Věděla jsem to hned, jak jsem uviděla obálku."
+    },
+    {
+      "key": "Mickey_001_f",
+      "en": "She left the Village to investigate the Forgetting. Daisy said getting to the bottom of it was more important than anything...",
+      "cz": "Opustila vesnici, aby prošetřila Zapomnění. Daisy řekla, že dostat se k jádru věci je důležitější než cokoli jiného...",
+      "source": "pre_existing",
+      "original_cz": "Opustila vesnici, aby prošetřila Zapomnění. Daisy řekla, že dostat se k jádru věci je důležitější než cokoli jiného..."
+    },
+    {
+      "key": "Mickey_017_f",
+      "en": "...and that she'd be back with the biggest news story the Valley's ever seen!",
+      "cz": "...a že se vrátí s největší zprávou, jakou kdy Údolí vidělo!",
+      "source": "pre_existing",
+      "original_cz": "...a že se vrátí s největší zprávou, jakou kdy Údolí vidělo!"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "So what did the letter say?",
+      "cz": "Co tedy v dopise stálo?",
+      "source": "pre_existing",
+      "original_cz": "Co tedy v dopise stálo?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "She sounds so brave!",
+      "cz": "Zní tak statečně!",
+      "source": "pre_existing",
+      "original_cz": "Zní tak statečně!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Is she in danger?",
+      "cz": "Je v nebezpečí?",
+      "source": "pre_existing",
+      "original_cz": "Je v nebezpečí?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Is she lost?",
+      "cz": "Je ztracená?",
+      "source": "pre_existing",
+      "original_cz": "Je ztracená?"
+    },
+    {
+      "key": "Mickey_009_f",
+      "en": "She sure is. And her letter says she's found out something big about the Forgetting, and she's ready to return to the Valley!",
+      "cz": "To jistě ano. A v jejím dopise stojí, že zjistila něco důležitého o Zapomnění a je připravena se vrátit do Údolí!",
+      "source": "pre_existing",
+      "original_cz": "To jistě ano. A v jejím dopise stojí, že zjistila něco důležitého o Zapomnění a je připravena se vrátit do Údolí!"
+    },
+    {
+      "key": "Mickey_012_f",
+      "en": "She wrote ahead to ask if we could make sure <Lore>her House is in great shape</Lore>. Gosh, I can't blame her. She's been on one LONG camping trip!",
+      "cz": "Napsala nám předem, jestli bychom se mohli ujistit, že <Lore>její dům je v perfektním stavu</Lore>. Bože, nemůžu se na ni dívat. Vždyť byla na jednom DLOUHÉM kempování!",
+      "source": "pre_existing",
+      "original_cz": "Napsala nám předem, jestli bychom se mohli ujistit, že <Lore>její dům je v perfektním stavu</Lore>. Bože, nemůžu se na ni dívat. Vždyť byla na jednom DLOUHÉM kempování!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I'll set up Daisy's House right away!",
+      "cz": "Hned zařídím Daisyin dům!",
+      "source": "pre_existing",
+      "original_cz": "Hned zařídím Daisyin dům!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Extended camping trip? Sounds like fun!",
+      "cz": "Dlouhý kempovací výlet? Zní to jako zábava!",
+      "source": "pre_existing",
+      "original_cz": "Dlouhý kempovací výlet? Zní to jako zábava!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Who needs camping when you have the mall?",
+      "cz": "Kdo potřebuje kempovat, když máte nákupní centrum?",
+      "source": "pre_existing",
+      "original_cz": "Kdo potřebuje kempovat, když máte nákupní centrum?"
+    },
+    {
+      "key": "Mickey_011_f",
+      "en": "Hot dog! Thanks, {PlayerName}!",
+      "cz": "Párek v rohlíku! Díky, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Párek v rohlíku! Díky, {PlayerName}!"
+    },
+    {
+      "key": "Mickey_015_f",
+      "en": "Let me know if you need any help <Lore>getting Daisy's House ready</Lore>.",
+      "cz": "Dejte mi vědět, pokud budete potřebovat pomoc <Lore>s přípravou Daisyina domu</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Dejte mi vědět, pokud budete potřebovat pomoc <Lore>s přípravou Daisyina domu</Lore>."
+    },
+    {
+      "key": "Mickey_000_f",
+      "en": "Welp, I'm sure you and Daisy'll have plenty to talk about when she gets back.",
+      "cz": "No, jsem si jistý, že si s Daisy budete mít o čem povídat, až se vrátí.",
+      "source": "pre_existing",
+      "original_cz": "No, jsem si jistý, že si s Daisy budete mít o čem povídat, až se vrátí."
+    },
+    {
+      "key": "Mickey_014_f",
+      "en": "Actually, Daisy likes shopping almost as much as she likes investigations and adventure! You two'll have plenty to talk about.",
+      "cz": "Daisy vlastně ráda nakupuje skoro stejně jako má ráda pátrání a dobrodružství! Budete si mít o čem povídat.",
+      "source": "pre_existing",
+      "original_cz": "Daisy vlastně ráda nakupuje skoro stejně jako má ráda pátrání a dobrodružství! Budete si mít o čem povídat."
+    },
+    {
+      "key": "Mickey_010_f",
+      "en": "No, nothing like that. Her letter said she found out something about the Forgetting during her adventures, and now she's ready to come back to the Valley.",
+      "cz": "Ne, nic takového. V jejím dopise stálo, že během svých dobrodružství zjistila něco o Zapomnění a teď je připravená vrátit se do Údolí.",
+      "source": "pre_existing",
+      "original_cz": "Ne, nic takového. V jejím dopise stálo, že během svých dobrodružství zjistila něco o Zapomnění a teď je připravená vrátit se do Údolí."
+    },
+    {
+      "key": "Mickey_008_f",
+      "en": "No, nothing like that. In fact, she's on her way back! It's all in her letter.",
+      "cz": "Ne, nic takového. Vlastně se vrací! Všechno je to v jejím dopise.",
+      "source": "pre_existing",
+      "original_cz": "Ne, nic takového. Vlastně se vrací! Všechno je to v jejím dopise."
+    },
+    {
+      "key": "Mickey_005_f",
+      "en": "But Minnie's still missing... Who's sending her mail?",
+      "cz": "Ale Minnie je stále nezvěstná... Kdo jí posílá poštu?",
+      "source": "pre_existing",
+      "original_cz": "Ale Minnie je stále nezvěstná... Kdo jí posílá poštu?"
+    },
+    {
+      "key": "Mickey_007_f",
+      "en": "It's from our best pal, Daisy Duck. She wouldn't know that Minnie's disappeared because Daisy's been away for a long time.",
+      "cz": "Je to od naší nejlepší kamarádky, Daisy Duck. Nevěděla by, že Minnie zmizela, protože Daisy je pryč už dlouho.",
+      "source": "pre_existing",
+      "original_cz": "Je to od naší nejlepší kamarádky, Daisy Duck. Nevěděla by, že Minnie zmizela, protože Daisy je pryč už dlouho."
+    }
+  ],
+  "daisy_Mickey/Mickey_SEC_Mick_010_SEC_Mick_010_Ongoing01.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "Daisy's coming back to the Valley, but her House isn't set up!",
+      "cz": "Daisy se vrací do Údolí, ale její dům ještě není připravený!",
+      "source": "pre_existing",
+      "original_cz": "Daisy se vrací do Údolí, ale její dům ještě není připravený!"
+    },
+    {
+      "key": "Mickey_001_f",
+      "en": "Could ya make sure her <ActivityItem>House</ActivityItem> is all ready to go, {PlayerName}?",
+      "cz": "Mohl bys se ujistit, že její <ActivityItem>dům</ActivityItem> je připravený k odjezdu, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Mohl bys se ujistit, že její <ActivityItem>dům</ActivityItem> je připravený k odjezdu, {PlayerName}?"
+    }
+  ],
+  "daisy_Mickey/Mickey_SEC_Mick_010_SEC_Mick_010_Ongoing02.locbin": [
+    {
+      "key": "Mickey_001_f",
+      "en": "Daisy's coming back to the Valley!",
+      "cz": "Daisy se vrací do údolí!",
+      "source": "pre_existing",
+      "original_cz": "Daisy se vrací do údolí!"
+    },
+    {
+      "key": "Mickey_002_f",
+      "en": "Could ya make sure her <ActivityItem>House</ActivityItem> is ready for her, {PlayerName}?",
+      "cz": "Mohl bys se ujistit, že její <ActivityItem>dům</ActivityItem> je pro ni připravený, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Mohl bys se ujistit, že její <ActivityItem>dům</ActivityItem> je pro ni připravený, {PlayerName}?"
+    }
+  ],
+  "daisy_Mickey/Mickey_SEC_Mick_010_SEC_Mick_010_Ongoing03.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "Welp, it's time to give Daisy a warm Valley welcome!",
+      "cz": "No, je čas vřele přivítat Daisy v údolí!",
+      "source": "pre_existing",
+      "original_cz": "No, je čas vřele přivítat Daisy v údolí!"
+    }
+  ],
+  "daisy_Mickey/Mickey_SEC_Mick_010_SEC_Mick_010_Ongoing04.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "Have ya talked to Daisy yet to see how she's doin'?",
+      "cz": "Už jsi mluvil s Daisy, abys zjistil, jak se jí daří?",
+      "source": "pre_existing",
+      "original_cz": "Už jsi mluvil s Daisy, abys zjistil, jak se jí daří?"
+    }
+  ],
+  "daisy_Mickey/Mickey_SEC_Mick_010_SEC_Mick_010_Ongoing05.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "Gosh, I sure hope Daisy's doing okay being back in the Village.",
+      "cz": "Bože, doufám, že se Daisy daří dobře, když je zpátky ve vesnici.",
+      "source": "pre_existing",
+      "original_cz": "Bože, doufám, že se Daisy daří dobře, když je zpátky ve vesnici."
+    },
+    {
+      "key": "Mickey_001_f",
+      "en": "She wants to show me something in her House.",
+      "cz": "Chce mi něco ukázat ve svém domě.",
+      "source": "pre_existing",
+      "original_cz": "Chce mi něco ukázat ve svém domě."
+    },
+    {
+      "key": "Mickey_002_f",
+      "en": "Then what are ya waitin' for? I'm sure she's got great stories to tell!",
+      "cz": "Tak na co ještě čekáš? Jsem si jistý, že má skvělé příběhy, které by mohla vyprávět!",
+      "source": "pre_existing",
+      "original_cz": "Tak na co ještě čekáš? Jsem si jistý, že má skvělé příběhy, které by mohla vyprávět!"
+    }
+  ],
+  "daisy_Mickey/Mickey_SEC_Mick_010_SEC_Mick_010_Ongoing06.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "Did ya see Daisy? Is she happy to be back?",
+      "cz": "Viděl jsi Daisy? Je ráda, že je zpátky?",
+      "source": "pre_existing",
+      "original_cz": "Viděl jsi Daisy? Je ráda, že je zpátky?"
+    },
+    {
+      "key": "Mickey_001_f",
+      "en": "I think she wanted to talk to me about something in her House...",
+      "cz": "Myslím, že si se mnou chtěla o něčem promluvit ve svém domě...",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že si se mnou chtěla o něčem promluvit ve svém domě..."
+    },
+    {
+      "key": "Mickey_002_f",
+      "en": "Then what are ya waitin' for? I'm sure she's got great stories to tell!",
+      "cz": "Tak na co ještě čekáš? Jsem si jistý, že má skvělé příběhy, které by mohla vyprávět!",
+      "source": "pre_existing",
+      "original_cz": "Tak na co ještě čekáš? Jsem si jistý, že má skvělé příběhy, které by mohla vyprávět!"
+    }
+  ],
+  "daisy_Mickey/Mickey_SEC_Mick_010_SEC_Mick_010_Ongoing07.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "Did you find out what Daisy wanted?",
+      "cz": "Zjistil jsi, co Daisy chtěla?",
+      "source": "pre_existing",
+      "original_cz": "Zjistil jsi, co Daisy chtěla?"
+    },
+    {
+      "key": "Mickey_001_f",
+      "en": "We're trying to bring back the <ActivityItem>Boutique</ActivityItem>. I need to gather some Ingredients for it.",
+      "cz": "Snažíme se oživit <ActivityItem>Modní salon</ActivityItem>. Potřebuji na to shromáždit nějaké ingredience.",
+      "source": "pre_existing",
+      "original_cz": "Snažíme se oživit <ActivityItem>Modní salon</ActivityItem>. Potřebuji na to shromáždit nějaké ingredience."
+    },
+    {
+      "key": "Mickey_002_f",
+      "en": "Some <ActivityItem>Dream Shards</ActivityItem>, <ActivityItem>Carrots</ActivityItem>, <ActivityItem>Topaz</ActivityItem>, and <ActivityItem>White Daisies</ActivityItem>.",
+      "cz": "Nějaké <ActivityItem>Střepy snů</ActivityItem>, <ActivityItem>Mrkev</ActivityItem>, <ActivityItem>Topaz</ActivityItem> a <ActivityItem>Bílé sedmikrásky</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Nějaké <ActivityItem>Střepy snů</ActivityItem>, <ActivityItem>Mrkev</ActivityItem>, <ActivityItem>Topaz</ActivityItem> a <ActivityItem>Bílé sedmikrásky</ActivityItem>."
+    },
+    {
+      "key": "Mickey_003_f",
+      "en": "Wow, that sounds exciting. Good luck!",
+      "cz": "Páni, to zní vzrušujícím způsobem. Hodně štěstí!",
+      "source": "pre_existing",
+      "original_cz": "Páni, to zní vzrušujícím způsobem. Hodně štěstí!"
+    }
+  ],
+  "daisy_Mickey/Mickey_SEC_Mick_010_SEC_Mick_010_Ongoing08.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "How's it goin' bringing back the <ActivityItem>Boutique</ActivityItem>, pal?",
+      "cz": "Jak jde s tím, že se vrací ten <ActivityItem>Modní salon</ActivityItem>, kámo?",
+      "source": "pre_existing",
+      "original_cz": "Jak jde s tím, že se vrací ten <ActivityItem>Modní salon</ActivityItem>, kámo?"
+    },
+    {
+      "key": "Mickey_001_f",
+      "en": "I need to craft the <ActivityItem>Wonderland Amplification Elixir</ActivityItem>.",
+      "cz": "Potřebuji vyrobit <ActivityItem>Elixír zesílení Říše divů</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji vyrobit <ActivityItem>Elixír zesílení Říše divů</ActivityItem>."
+    },
+    {
+      "key": "Mickey_002_f",
+      "en": "Aw, I'm sure you'll get that done in no time!",
+      "cz": "Jé, to určitě zvládneš hned!",
+      "source": "pre_existing",
+      "original_cz": "Jé, to určitě zvládneš hned!"
+    }
+  ],
+  "daisy_Mickey/Mickey_SEC_Mick_010_SEC_Mick_010_Ongoing09.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "Do you have the <ActivityItem>Wonderland Amplification Elixir</ActivityItem> you wanted to make?",
+      "cz": "Máš ten <ActivityItem>Elixír zesílení Říše divů</ActivityItem>, který jsi chtěl vyrobit?",
+      "source": "pre_existing",
+      "original_cz": "Máš ten <ActivityItem>Elixír zesílení Říše divů</ActivityItem>, který jsi chtěl vyrobit?"
+    },
+    {
+      "key": "Mickey_001_f",
+      "en": "Yes. Now I need to apply it to my Watering Can.",
+      "cz": "Ano. Teď to musím nalít do konve.",
+      "source": "pre_existing",
+      "original_cz": "Ano. Teď to musím nalít do konve."
+    }
+  ],
+  "daisy_Mickey/Mickey_SEC_Mick_010_SEC_Mick_010_Ongoing10.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "What else do ya have to do, {PlayerName}?",
+      "cz": "Co dalšího musíš udělat, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Co dalšího musíš udělat, {PlayerName}?"
+    },
+    {
+      "key": "Mickey_001_f",
+      "en": "I need to water the <ActivityItem>Mini Boutique</ActivityItem> in Daisy's House.",
+      "cz": "Potřebuji zalít <ActivityItem>Mini Modní salon</ActivityItem> v Daisyině domě.",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji zalít <ActivityItem>Mini Modní salon</ActivityItem> v Daisyině domě."
+    }
+  ],
+  "daisy_Mickey/Mickey_SEC_Mick_010_SEC_Mick_010_Ongoing11.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "Any news on the <ActivityItem>Boutique</ActivityItem>?",
+      "cz": "Nějaké novinky ohledně <ActivityItem>Modní salon</ActivityItem>?",
+      "source": "pre_existing",
+      "original_cz": "Nějaké novinky ohledně <ActivityItem>Modní salon</ActivityItem>?"
+    },
+    {
+      "key": "Mickey_001_f",
+      "en": "I need to pick it up from Daisy's House now.",
+      "cz": "Musím si to hned vyzvednout u Daisy.",
+      "source": "pre_existing",
+      "original_cz": "Musím si to hned vyzvednout u Daisy."
+    }
+  ],
+  "daisy_Mickey/Mickey_SEC_Mick_010_SEC_Mick_010_Ongoing12.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "Is the <ActivityItem>Boutique</ActivityItem> back? I can't wait to see what it'll have.",
+      "cz": "Je zpět <ActivityItem>Modní salon</ActivityItem>? Nemůžu se dočkat, co tam bude.",
+      "source": "pre_existing",
+      "original_cz": "Je zpět <ActivityItem>Modní salon</ActivityItem>? Nemůžu se dočkat, co tam bude."
+    },
+    {
+      "key": "Mickey_001_f",
+      "en": "I just need to place it.",
+      "cz": "Jen to musím umístit.",
+      "source": "pre_existing",
+      "original_cz": "Jen to musím umístit."
+    }
+  ],
+  "daisy_Mickey/Mickey_SEC_Mick_010_SEC_Mick_010_Ongoing13.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "How's the <ActivityItem>Boutique</ActivityItem> looking after all this time?",
+      "cz": "Jak se daří <ActivityItem>Modnímu salonu</ActivityItem> po celé té době?",
+      "source": "pre_existing",
+      "original_cz": "Jak se daří <ActivityItem>Modnímu salonu</ActivityItem> po celé té době?"
+    },
+    {
+      "key": "Mickey_001_f",
+      "en": "I don't know yet.",
+      "cz": "Ještě nevím.",
+      "source": "pre_existing",
+      "original_cz": "Ještě nevím."
+    },
+    {
+      "key": "Mickey_002_f",
+      "en": "Welp, I can't wait to find out!",
+      "cz": "No, už se nemůžu dočkat, až to zjistím!",
+      "source": "pre_existing",
+      "original_cz": "No, už se nemůžu dočkat, až to zjistím!"
+    }
+  ],
+  "daisy_Mickey/Mickey_SEC_Mick_010_SEC_Mick_010_Ongoing14.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "How are things going with Daisy?",
+      "cz": "Jak se daří s Daisy?",
+      "source": "pre_existing",
+      "original_cz": "Jak se daří s Daisy?"
+    },
+    {
+      "key": "Mickey_001_f",
+      "en": "I need to talk to her.",
+      "cz": "Potřebuji si s ní promluvit.",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji si s ní promluvit."
+    },
+    {
+      "key": "Mickey_002_f",
+      "en": "Gosh, I bet she's got some great stuff to tell ya!",
+      "cz": "Bože, vsadím se, že ti má spoustu skvělých věcí co říct!",
+      "source": "pre_existing",
+      "original_cz": "Bože, vsadím se, že ti má spoustu skvělých věcí co říct!"
+    }
+  ],
+  "daisy_Mickey/Mickey_SEC_Mick_010_SEC_Mick_010_Ongoing15.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "I'd love to hear what's happening with the Boutique.",
+      "cz": "Rád bych slyšel, co se děje s tím Modním salonem.",
+      "source": "pre_existing",
+      "original_cz": "Rád bych slyšel, co se děje s tím Modním salonem."
+    },
+    {
+      "key": "Mickey_001_f",
+      "en": "Daisy wants me to put one of my creations on a mannequin or furniture pedestal in the Boutique.",
+      "cz": "Daisy chce, abych jeden ze svých výtvorů umístil na figurínu nebo podstavec na nábytek v Modním salonu.",
+      "source": "pre_existing",
+      "original_cz": "Daisy chce, abych jeden ze svých výtvorů umístil na figurínu nebo podstavec na nábytek v Modním salonu."
+    },
+    {
+      "key": "Mickey_003_f",
+      "en": "What a great idea! I bet it'll be amazing.",
+      "cz": "To je skvělý nápad! Vsadím se, že to bude úžasné.",
+      "source": "pre_existing",
+      "original_cz": "To je skvělý nápad! Vsadím se, že to bude úžasné."
+    }
+  ],
+  "daisy_Mickey/Mickey_SEC_Mick_010_SEC_Mick_010_Ongoing16.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "Have you and Daisy gotten the Boutique figured out, {PlayerName}?",
+      "cz": "Už jsi s Daisy zjistila, co je s tím Modním salonem, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Už jsi s Daisy zjistila, co je s tím Modním salonem, {PlayerName}?"
+    },
+    {
+      "key": "Mickey_004_f",
+      "en": "I think I should go talk to Daisy again.",
+      "cz": "Myslím, že bych si měl znovu promluvit s Daisy.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že bych si měl znovu promluvit s Daisy."
+    }
+  ],
+  "daisy_Mickey/Mickey_SEC_Mick_010_SEC_Mick_010_Ongoing19.locbin": [
+    {
+      "key": "Mickey_001_f",
+      "en": "How are things going at the Boutique?",
+      "cz": "Jak se daří v Modním salonu?",
+      "source": "pre_existing",
+      "original_cz": "Jak se daří v Modním salonu?"
+    },
+    {
+      "key": "Mickey_002_f",
+      "en": "Daisy wants me to participate in a challenge there.",
+      "cz": "Daisy chce, abych se tam zúčastnil/a nějaké výzvy.",
+      "source": "pre_existing",
+      "original_cz": "Daisy chce, abych se tam zúčastnil/a nějaké výzvy."
+    },
+    {
+      "key": "Mickey_003_f",
+      "en": "Sounds like fun! Good luck, pal!",
+      "cz": "Zní to jako zábava! Hodně štěstí, kámo!",
+      "source": "pre_existing",
+      "original_cz": "Zní to jako zábava! Hodně štěstí, kámo!"
+    }
+  ],
+  "daisy_Mickey/Mickey_SEC_Mick_010_SEC_Mick_010_Outro.locbin": [
+    {
+      "key": "Mickey_001_f",
+      "en": "I hope everything's going well with Daisy.",
+      "cz": "Doufám, že s Daisy všechno dobře dopadne.",
+      "source": "pre_existing",
+      "original_cz": "Doufám, že s Daisy všechno dobře dopadne."
+    },
+    {
+      "key": "Mickey_002_f",
+      "en": "I need to go and talk to her.",
+      "cz": "Musím jít a promluvit si s ní.",
+      "source": "pre_existing",
+      "original_cz": "Musím jít a promluvit si s ní."
+    }
+  ],
+  "daisy_Mickey/SEC_Mick_010.locbin": [
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_AvailableDescription",
+      "en": "Mickey has some news to share!",
+      "cz": "Mickey má novinku!",
+      "source": "pre_existing",
+      "original_cz": "Mickey má novinku!"
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_DisplayName",
+      "en": "You Have Mail!",
+      "cz": "Máte poštu!",
+      "source": "pre_existing",
+      "original_cz": "Máte poštu!"
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "Talk to Mickey.",
+      "cz": "Promluv si s Mickeym.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Mickeym."
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group02_Step02_PlaceBuilding01_StepDescription",
+      "en": "Place Daisy's House in the Valley.",
+      "cz": "Umístěte Daisyin dům do údolí.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte Daisyin dům do údolí."
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group02_StoryDescription",
+      "en": "He tells you he received a letter from Daisy, who's planning to come back to the Valley but needs to have a House there to do so. You decide to make sure she does.",
+      "cz": "Řekne vám, že dostal dopis od Daisy, která se plánuje vrátit do Údolí, ale potřebuje tam k tomu Dům. Rozhodnete se, že se o to postaráte.",
+      "source": "pre_existing",
+      "original_cz": "Řekne vám, že dostal dopis od Daisy, která se plánuje vrátit do Údolí, ale potřebuje tam k tomu Dům. Rozhodnete se, že se o to postaráte."
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group03_Step03_Unlock01_StepDescription",
+      "en": "Use Scrooge's sign to unlock Daisy's House.",
+      "cz": "Použijte Scroogovo znamení k odemčení Daisyina domu.",
+      "source": "pre_existing",
+      "original_cz": "Použijte Scroogovo znamení k odemčení Daisyina domu."
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group04_Step04_UnlockCharacter01_StepDescription",
+      "en": "Welcome Daisy to the Valley!",
+      "cz": "Vítej Daisy v údolí!",
+      "source": "pre_existing",
+      "original_cz": "Vítej Daisy v údolí!"
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group05_Step05_TalkToCharacter02_StepDescription",
+      "en": "Talk to Daisy.",
+      "cz": "Promluv si s Daisy.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Daisy."
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group05_StoryDescription",
+      "en": "Daisy is back and it's time to learn about where she's been and what's next for her.",
+      "cz": "Daisy je zpět a je čas zjistit, kde byla a co ji čeká dál.",
+      "source": "pre_existing",
+      "original_cz": "Daisy je zpět a je čas zjistit, kde byla a co ji čeká dál."
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group06_Step06_VisitArea01_StepDescription",
+      "en": "Join Daisy in her House.",
+      "cz": "Přidej se k Daisy v jejím domě.",
+      "source": "pre_existing",
+      "original_cz": "Přidej se k Daisy v jejím domě."
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group06_StoryDescription",
+      "en": "Freshly back in the Valley, Daisy already has something to show you in her House.",
+      "cz": "Daisy, čerstvě zpátky v údolí, vám už má ve svém domě co ukázat.",
+      "source": "pre_existing",
+      "original_cz": "Daisy, čerstvě zpátky v údolí, vám už má ve svém domě co ukázat."
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group07_Step07_TalkToCharacter03_StepDescription",
+      "en": "Talk to Daisy.",
+      "cz": "Promluv si s Daisy.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Daisy."
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group08_Step08_Possess01_StepDescription",
+      "en": "<ActivityItem>Dream Shards</ActivityItem>.",
+      "cz": "<ActivityItem>Střepy snů</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Střepy snů</ActivityItem>."
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group08_Step08_Possess02_StepDescription",
+      "en": "<ActivityItem>Carrots</ActivityItem>.",
+      "cz": "<ActivityItem>Mrkev</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Mrkev</ActivityItem>."
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group08_Step08_Possess03_StepDescription",
+      "en": "<ActivityItem>Topaz</ActivityItem>.",
+      "cz": "<ActivityItem>Topaz</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Topaz</ActivityItem>."
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group08_Step08_Possess04_StepDescription",
+      "en": "<ActivityItem>White Daisies</ActivityItem>.",
+      "cz": "<ActivityItem>Bílé sedmikrásky</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Bílé sedmikrásky</ActivityItem>."
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group08_Step08_StepDescription",
+      "en": "Gather materials for the <ActivityItem>Wonderland Amplification Elixir</ActivityItem>.",
+      "cz": "Shromážděte materiály pro <ActivityItem>Elixír zesílení říše divů</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Shromážděte materiály pro <ActivityItem>Elixír zesílení říše divů</ActivityItem>."
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group08_StoryDescription",
+      "en": "She explains to you that she used to watch over a Boutique — a place where you can display your fashion skills — that has been magically reduced in size, and asks for your help to bring it back.",
+      "cz": "Vysvětlí vám, že dříve hlídala Modní salon – místo, kde můžete předvádět své módní dovednosti – který se magicky zmenšil, a požádá vás o pomoc s jeho obnovením.",
+      "source": "pre_existing",
+      "original_cz": "Vysvětlí vám, že dříve hlídala Modní salon – místo, kde můžete předvádět své módní dovednosti – který se magicky zmenšil, a požádá vás o pomoc s jeho obnovením."
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group09_Step09_CraftItem01_StepDescription",
+      "en": "Craft the <ActivityItem>Wonderland Amplification Elixir</ActivityItem>.",
+      "cz": "Vytvořte <ActivityItem>Elixír zesílení říše divů</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Vytvořte <ActivityItem>Elixír zesílení říše divů</ActivityItem>."
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group10_Step10_ConsumeItem01_StepDescription",
+      "en": "Use the {itemName} in your Inventory.",
+      "cz": "Použijte {itemName} ve svém inventáři.",
+      "source": "pre_existing",
+      "original_cz": "Použijte {itemName} ve svém inventáři."
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group10_StoryDescription",
+      "en": "After crafting a potion for your Watering Can, it's time you break the spell on the Boutique.",
+      "cz": "Poté, co si vyrobíte lektvar pro svou konvici na zalévání, je čas zlomit kouzlo na Modním salonu.",
+      "source": "pre_existing",
+      "original_cz": "Poté, co si vyrobíte lektvar pro svou konvici na zalévání, je čas zlomit kouzlo na Modním salonu."
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group11_Step11_WaterPlant01_StepDescription",
+      "en": "Water the <ActivityItem>Mini Boutique</ActivityItem> in Daisy's House.",
+      "cz": "Zalijte <ActivityItem>Malý Modní salon</ActivityItem> v Daisyině domě.",
+      "source": "pre_existing",
+      "original_cz": "Zalijte <ActivityItem>Malý Modní salon</ActivityItem> v Daisyině domě."
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group12_Step12_Possess05_StepDescription",
+      "en": "Pick up the <ActivityItem>Mini Boutique</ActivityItem> in Daisy's House.",
+      "cz": "Vyzvedněte si <ActivityItem>Malý Modní salon</ActivityItem> v Daisyině domě.",
+      "source": "pre_existing",
+      "original_cz": "Vyzvedněte si <ActivityItem>Malý Modní salon</ActivityItem> v Daisyině domě."
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group13_Step13_PlaceBuilding02_StepDescription",
+      "en": "Place the <ActivityItem>Boutique</ActivityItem> in the Valley.",
+      "cz": "Umístěte <ActivityItem>Modní salon</ActivityItem> do údolí.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte <ActivityItem>Modní salon</ActivityItem> do údolí."
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group14_Step14_VisitArea02_StepDescription",
+      "en": "Go inside the <ActivityItem>Boutique</ActivityItem>.",
+      "cz": "Jděte dovnitř <ActivityItem>Modního salonu</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Jděte dovnitř <ActivityItem>Modního salonu</ActivityItem>."
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group14_StoryDescription",
+      "en": "The Boutique is back in the Valley. You should see what's inside.",
+      "cz": "Modní salon je zpátky v údolí. Měl bys vidět, co je uvnitř.",
+      "source": "pre_existing",
+      "original_cz": "Modní salon je zpátky v údolí. Měl bys vidět, co je uvnitř."
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group15_Step15_TalkToCharacter04_StepDescription",
+      "en": "Talk to Daisy.",
+      "cz": "Promluv si s Daisy.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Daisy."
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group16_Step20_BoutiqueDisplay01_StepDescription",
+      "en": "Add one of your creations to a Boutique mannequin or furniture pedestal so visitors from other Valleys can buy it.<br><br>(Remember: Dress mannequins and pedestals on the Boutique's main floor, not the ones in the elevated corner area.)",
+      "cz": "Umístěte jeden ze svých výtvorů na figurínu nebo podstavec pro nábytek v Modním salonu, aby si ho mohli koupit návštěvníci z jiných údolí.<br><br>(Nezapomeňte: Oblékejte figuríny a podstavce v hlavním patře Modního salonu, ne ty ve vyvýšené rohové části.)",
+      "source": "pre_existing",
+      "original_cz": "Umístěte jeden ze svých výtvorů na figurínu nebo podstavec pro nábytek v Modním salonu, aby si ho mohli koupit návštěvníci z jiných údolí.<br><br>(Nezapomeňte: Oblékejte figuríny a podstavce v hlavním patře Modního salonu, ne ty ve vyvýšené rohové části.)"
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group17_Step17_TalkToCharacter05_StepDescription",
+      "en": "Talk to Daisy.",
+      "cz": "Promluv si s Daisy.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Daisy."
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group17_StoryDescription",
+      "en": "Daisy asked you to display one of your creations in the Boutique. You should see what she thinks.",
+      "cz": "Daisy tě požádala, abys v Modním salonu vystavil/a jeden ze svých výtvorů. Měl/a bys vědět, co si o tom myslí.",
+      "source": "pre_existing",
+      "original_cz": "Daisy tě požádala, abys v Modním salonu vystavil/a jeden ze svých výtvorů. Měl/a bys vědět, co si o tom myslí."
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group18_Step16_BoutiqueChallenge01_StepDescription",
+      "en": "Place furniture for the Boutique Challenge by selecting {input_inventory}, navigating to the Furniture menu, and decorating in the Challenge Space corner of the Boutique.<br><br>Interact with the mannequins in the Challenge Space corner to add clothing to them.<br><br> (Remember: You can only use non-Touch-of-Magic furniture and clothing to complete Boutique Challenges.)",
+      "cz": "Umístěte nábytek pro Butikovou výzvu výběrem {input_inventory}, přechodem do nabídky Nábytek a zdobením v rohu Butikového prostoru.<br><br>Interagujte s figurínami v rohu Butikového prostoru a přidejte k nim oblečení.<br><br> (Nezapomeňte: K plnění Butikových výzev můžete použít pouze nábytek a oblečení, které není Dotek magie.)",
+      "source": "pre_existing",
+      "original_cz": "Umístěte nábytek pro Butikovou výzvu výběrem {input_inventory}, přechodem do nabídky Nábytek a zdobením v rohu Butikového prostoru.<br><br>Interagujte s figurínami v rohu Butikového prostoru a přidejte k nim oblečení.<br><br> (Nezapomeňte: K plnění Butikových výzev můžete použít pouze nábytek a oblečení, které není Dotek magie.)"
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group18_Step16_BoutiqueChallenge01_StepDescriptionMobile",
+      "en": "Place furniture for the Boutique Challenge by navigating to the Furniture menu and decorating in the Challenge Space corner of the Boutique.<br><br>Interact with the mannequins in the Challenge Space corner to add clothing to them.<br><br> (Remember: You can only use non-Touch-of-Magic furniture and clothing to complete Boutique Challenges.)",
+      "cz": "Nábytek pro Butikovou výzvu umístěte tak, že přejdete do nabídky Nábytek a vyzdobíte si ho v rohu Butikového prostoru.<br><br>Interagujte s figurínami v rohu Butikového prostoru a přidejte k nim oblečení.<br><br> (Nezapomeňte: K plnění Butikových výzev můžete použít pouze nábytek a oblečení, které není typu Dotek magie.)",
+      "source": "pre_existing",
+      "original_cz": "Nábytek pro Butikovou výzvu umístěte tak, že přejdete do nabídky Nábytek a vyzdobíte si ho v rohu Butikového prostoru.<br><br>Interagujte s figurínami v rohu Butikového prostoru a přidejte k nim oblečení.<br><br> (Nezapomeňte: K plnění Butikových výzev můžete použít pouze nábytek a oblečení, které není typu Dotek magie.)"
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group19_Step19_StepDescription",
+      "en": "Talk to Daisy.",
+      "cz": "Promluv si s Daisy.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Daisy."
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group19_StoryDescription",
+      "en": "After participating in the challenge Daisy asked you to take part in, you go see her again.",
+      "cz": "Poté, co se zúčastníte výzvy, o kterou vás Daisy požádala, ji jdete znovu navštívit.",
+      "source": "pre_existing",
+      "original_cz": "Poté, co se zúčastníte výzvy, o kterou vás Daisy požádala, ji jdete znovu navštívit."
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group02_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How can I help?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Jak mohu pomoci?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Jak mohu pomoci?"
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group04_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co bude dál?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co bude dál?"
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group06_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Where should I go?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Kam mám jít?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Kam mám jít?"
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group08_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co bude dál?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co bude dál?"
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group09_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How can I help?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Jak mohu pomoci?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Jak mohu pomoci?"
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group11_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co bude dál?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co bude dál?"
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group13_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How can I help?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Jak mohu pomoci?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Jak mohu pomoci?"
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group14_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Where should I go?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Kam mám jít?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Kam mám jít?"
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group15_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What's next?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co bude dál?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co bude dál?"
+    },
+    {
+      "key": "Secret!Mickey!Mickey!SEC_Mick_010_Group17_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Who should I talk to?",
+      "cz": "<smallcaps>{title}</smallcaps><br>S kým si mám promluvit?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>S kým si mám promluvit?"
+    }
+  ]
+}

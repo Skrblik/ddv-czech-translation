@@ -1,0 +1,753 @@
+{
+  "ExpansionMain_Olaf/Olaf_Dialogues_Eager001.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Hello! Would you have time for Scramblecoin? I should warn you... I've read all the strategy books.",
+      "cz": "Ahoj! Měl bys čas na Scramblecoin? Měl bych tě varovat... Přečetl jsem si všechny knihy o strategii.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj! Měl bys čas na Scramblecoin? Měl bych tě varovat... Přečetl jsem si všechny knihy o strategii."
+    }
+  ],
+  "ExpansionMain_Olaf/Olaf_Dialogues_Postgame001.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Huh!",
+      "cz": "Hm!",
+      "source": "pre_existing",
+      "original_cz": "Hm!"
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "You don't think the strategy books could be wrong, do you? Let's play again so I can gather more data.",
+      "cz": "Nemyslíš si, že by se strategické knihy mohly mýlit? Pojďme si to zahrát znovu, ať můžu shromáždit víc dat.",
+      "source": "pre_existing",
+      "original_cz": "Nemyslíš si, že by se strategické knihy mohly mýlit? Pojďme si to zahrát znovu, ať můžu shromáždit víc dat."
+    },
+    {
+      "key": "Olaf_002_f",
+      "en": "Did you know that, statistically, more than 50% of coin tosses are lost by the player who calls tails?",
+      "cz": "Věděli jste, že statisticky více než 50 % hodů mincí prohraje hráč, který hlásí ocas?",
+      "source": "pre_existing",
+      "original_cz": "Věděli jste, že statisticky více než 50 % hodů mincí prohraje hráč, který hlásí ocas?"
+    }
+  ],
+  "ExpansionMain_Olaf/Olaf_Dialogues_Pregame001.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Ooh, I just love this game SO much!",
+      "cz": "Jé, tuhle hru prostě TAK moc miluju!",
+      "source": "pre_existing",
+      "original_cz": "Jé, tuhle hru prostě TAK moc miluju!"
+    }
+  ],
+  "ExpansionMain_Olaf/Olaf_Discussion_Discussion015.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "{Placeholder}Great! We're having so much fun together!",
+      "cz": "{Placeholder}Skvělé! Moc si to spolu užíváme!",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Skvělé! Moc si to spolu užíváme!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "{Placeholder}That's awesome!",
+      "cz": "{Placeholder}To je úžasné!",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}To je úžasné!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "{Placeholder}That's a surprise...",
+      "cz": "{Placeholder}To je překvapení...",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}To je překvapení..."
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "{Placeholder}Isn't it?",
+      "cz": "{Zástupný symbol}Že?",
+      "source": "pre_existing",
+      "original_cz": "{Zástupný symbol}Že?"
+    },
+    {
+      "key": "Olaf_002_f",
+      "en": "{Placeholder}Did he tell you to say that?",
+      "cz": "{Placeholder}Řekl ti, abys to řekl/a?",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Řekl ti, abys to řekl/a?"
+    },
+    {
+      "key": "Olaf_003_f",
+      "en": "{Placeholder}No! He actually told me I should be quiet most of the time.",
+      "cz": "{Placeholder}Ne! Vlastně mi řekl, že bych měl být většinu času zticha.",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Ne! Vlastně mi řekl, že bych měl být většinu času zticha."
+    },
+    {
+      "key": "Olaf_004_f",
+      "en": "{Placeholder}Isn't that a funny joke?",
+      "cz": "{Placeholder}Není to vtipný?",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Není to vtipný?"
+    },
+    {
+      "key": "Olaf_005_f",
+      "en": "{Placeholder}Okay, I think I may need to have a word with him...",
+      "cz": "{Placeholder}Dobře, myslím, že si s ním budu muset promluvit...",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Dobře, myslím, že si s ním budu muset promluvit..."
+    },
+    {
+      "key": "Olaf_006_f",
+      "en": "{Placeholder}What kind of sidekick things have you been doing together?",
+      "cz": "{Placeholder}Jaké společné akce jste spolu dělali?",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Jaké společné akce jste spolu dělali?"
+    },
+    {
+      "key": "Olaf_007_f",
+      "en": "{Placeholder}We worked out together!",
+      "cz": "{Placeholder}Cvičili jsme spolu!",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Cvičili jsme spolu!"
+    },
+    {
+      "key": "Olaf_008_f",
+      "en": "{Placeholder}He said that I had stick arms and that I needed to pump coconuts.",
+      "cz": "{Placeholder}Řekl, že mám paže jako tyčky a že musím pumpovat kokosové ořechy.",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Řekl, že mám paže jako tyčky a že musím pumpovat kokosové ořechy."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "{Placeholder}Did you like the workout?",
+      "cz": "{Placeholder}Líbil se ti trénink?",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Líbil se ti trénink?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "{Placeholder}He may have a point...",
+      "cz": "{Placeholder}Možná má pravdu...",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Možná má pravdu..."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "{Placeholder}Did you get any gains?",
+      "cz": "{Placeholder}Dosáhli jste nějakého zisku?",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Dosáhli jste nějakého zisku?"
+    },
+    {
+      "key": "Olaf_009_f",
+      "en": "{Placeholder}I did... he called it sit-ups?",
+      "cz": "{Placeholder}Udělal jsem to... on tomu říkal sedy-lehy?",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Udělal jsem to... on tomu říkal sedy-lehy?"
+    },
+    {
+      "key": "Olaf_010_f",
+      "en": "{Placeholder}It felt like my insides were giving me warm hugs!",
+      "cz": "{Placeholder}Cítil jsem, jako by mi mé nitro dávalo vřelé objetí!",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Cítil jsem, jako by mi mé nitro dávalo vřelé objetí!"
+    },
+    {
+      "key": "Olaf_011_f",
+      "en": "{Placeholder}One thing though...",
+      "cz": "{Placeholder}Jedna věc ale...",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Jedna věc ale..."
+    },
+    {
+      "key": "Olaf_012_f",
+      "en": "{Placeholder}What does \"leg day\" mean? Gaston said I might have trouble with that.",
+      "cz": "{Placeholder}Co znamená „den nohou“? Gaston říkal, že s tím můžu mít problém.",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Co znamená „den nohou“? Gaston říkal, že s tím můžu mít problém."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "{Placeholder}Don't worry about it.",
+      "cz": "{Placeholder}Nedělej si s tím starosti.",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Nedělej si s tím starosti."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "{Placeholder}Just think of it as \"foot day.\"",
+      "cz": "{Placeholder}Představte si to jako „den nohou“.",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Představte si to jako „den nohou“."
+    },
+    {
+      "key": "Olaf_013_f",
+      "en": "{Placeholder}Okay!",
+      "cz": "{Zástupný symbol}Dobře!",
+      "source": "pre_existing",
+      "original_cz": "{Zástupný symbol}Dobře!"
+    },
+    {
+      "key": "Olaf_014_f",
+      "en": "{Placeholder}Got it!",
+      "cz": "{Zástupný symbol}Rozumím!",
+      "source": "pre_existing",
+      "original_cz": "{Zástupný symbol}Rozumím!"
+    },
+    {
+      "key": "Olaf_015_f",
+      "en": "{Placeholder}Maybe I should find some thicker sticks for my arms...",
+      "cz": "{Placeholder}Možná bych si měl najít nějaké silnější tyče na ruce...",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Možná bych si měl najít nějaké silnější tyče na ruce..."
+    },
+    {
+      "key": "Olaf_016_f",
+      "en": "{Placeholder}I gained an even greater desire to get a hug from Gaston!",
+      "cz": "{Placeholder}Získal jsem ještě větší touhu obejmout mě od Gastona!",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Získal jsem ještě větší touhu obejmout mě od Gastona!"
+    },
+    {
+      "key": "Olaf_017_f",
+      "en": "{Placeholder}I love surprises!",
+      "cz": "{Placeholder}Miluji překvapení!",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Miluji překvapení!"
+    },
+    {
+      "key": "Olaf_018_f",
+      "en": "{Placeholder}Well, first I was sad that I lost...",
+      "cz": "{Placeholder}No, nejdřív jsem byl smutný, že jsem prohrál...",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}No, nejdřív jsem byl smutný, že jsem prohrál..."
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "{Placeholder}Don't be sad, Olaf!",
+      "cz": "{Placeholder}Nebuď smutný, Olafe!",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Nebuď smutný, Olafe!"
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "{Placeholder}You can't win them all...",
+      "cz": "{Placeholder}Nemůžeš je všechny vyhrát...",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Nemůžeš je všechny vyhrát..."
+    },
+    {
+      "key": "Olaf_019_f",
+      "en": "{Placeholder}I realized something though — I can be everyone's sidekick!",
+      "cz": "{Placeholder}Něco jsem si ale uvědomil – můžu být parťákem každého!",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Něco jsem si ale uvědomil – můžu být parťákem každého!"
+    },
+    {
+      "key": "Player_004_choice_000_f",
+      "en": "{Placeholder}I... guess?",
+      "cz": "{Placeholder}Já... hádám?",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Já... hádám?"
+    },
+    {
+      "key": "Player_004_choice_001_f",
+      "en": "{Placeholder}How does that work?",
+      "cz": "{Zástupný symbol}Jak to funguje?",
+      "source": "pre_existing",
+      "original_cz": "{Zástupný symbol}Jak to funguje?"
+    },
+    {
+      "key": "Player_004_choice_002_f",
+      "en": "{Placeholder}Sure, nobody can stop you from being helpful!",
+      "cz": "{Placeholder}Jasně, nikdo vám nemůže zabránit v tom, abyste byli užiteční!",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Jasně, nikdo vám nemůže zabránit v tom, abyste byli užiteční!"
+    },
+    {
+      "key": "Olaf_020_f",
+      "en": "{Placeholder}I've been helping Gaston and so many others!",
+      "cz": "{Placeholder}Pomáhal jsem Gastonovi a mnoha dalším!",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Pomáhal jsem Gastonovi a mnoha dalším!"
+    },
+    {
+      "key": "Olaf_021_f",
+      "en": "{Placeholder}I like to think of myself as the sidekick of ALL of Dreamlight Valley.",
+      "cz": "{Placeholder}Rád si o sobě myslím, že jsem parťák CELÉHO z Dreamlight Valley.",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Rád si o sobě myslím, že jsem parťák CELÉHO z Dreamlight Valley."
+    },
+    {
+      "key": "Player_005_choice_000_f",
+      "en": "{Placeholder}Olaf, you're too cute.",
+      "cz": "{Placeholder}Olafe, jsi moc roztomilý.",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Olafe, jsi moc roztomilý."
+    },
+    {
+      "key": "Player_005_choice_001_f",
+      "en": "{Placeholder}Keep up the good work!",
+      "cz": "{Placeholder}Pokračujte v dobré práci!",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Pokračujte v dobré práci!"
+    },
+    {
+      "key": "Player_005_choice_002_f",
+      "en": "{Placeholder}I hope people appreciate the work you do!",
+      "cz": "{Placeholder}Doufám, že si lidé váží vaší práce!",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Doufám, že si lidé váží vaší práce!"
+    },
+    {
+      "key": "Olaf_022_f",
+      "en": "{Placeholder}That's what Minnie said!",
+      "cz": "{Placeholder}Přesně to řekla Minnie!",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}Přesně to řekla Minnie!"
+    },
+    {
+      "key": "Olaf_023_f",
+      "en": "{Placeholder}That's the plan!",
+      "cz": "{Placeholder}To je plán!",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}To je plán!"
+    },
+    {
+      "key": "Olaf_024_f",
+      "en": "{Placeholder}They do! Even Gaston. I'm sure, though he hasn't said it...",
+      "cz": "{Placeholder}To ano! Dokonce i Gaston. Jsem si jistý, i když to neřekl...",
+      "source": "pre_existing",
+      "original_cz": "{Placeholder}To ano! Dokonce i Gaston. Jsem si jistý, i když to neřekl..."
+    }
+  ],
+  "ExpansionMain_Olaf/Olaf_VLG_Gast_040_VLG_Gast_040_BringItem02.locbin": [
+    {
+      "key": "Olaf_003_f",
+      "en": "Okay, Olaf, I think you're ready to report back to Gaston.",
+      "cz": "Dobře, Olafe, myslím, že jsi připravený hlásit se Gastonovi.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, Olafe, myslím, že jsi připravený hlásit se Gastonovi."
+    },
+    {
+      "key": "Olaf_004_f",
+      "en": "I just know he's going to love the flowers!",
+      "cz": "Já prostě vím, že si ty květiny zamiluje!",
+      "source": "pre_existing",
+      "original_cz": "Já prostě vím, že si ty květiny zamiluje!"
+    },
+    {
+      "key": "Olaf_005_f",
+      "en": "... Sure he will.",
+      "cz": "... Jistě, že to udělá.",
+      "source": "pre_existing",
+      "original_cz": "... Jistě, že to udělá."
+    },
+    {
+      "key": "Olaf_006_f",
+      "en": "One warm hug for Gaston, here we go!",
+      "cz": "Jedno vřelé objetí pro Gastona, jdeme na to!",
+      "source": "pre_existing",
+      "original_cz": "Jedno vřelé objetí pro Gastona, jdeme na to!"
+    }
+  ],
+  "ExpansionMain_Olaf/Olaf_VLG_Gast_040_VLG_Gast_040_TalkTo04.locbin": [
+    {
+      "key": "Olaf_004_f",
+      "en": "Olaf, are you ready for your sidekick test?",
+      "cz": "Olafe, jsi připravený na zkoušku svého pomocníka?",
+      "source": "pre_existing",
+      "original_cz": "Olafe, jsi připravený na zkoušku svého pomocníka?"
+    },
+    {
+      "key": "Olaf_005_f",
+      "en": "Definitely! But I have an important question first.",
+      "cz": "Rozhodně! Ale nejdřív mám důležitou otázku.",
+      "source": "pre_existing",
+      "original_cz": "Rozhodně! Ale nejdřív mám důležitou otázku."
+    },
+    {
+      "key": "Olaf_006_f",
+      "en": "Sure, what's up?",
+      "cz": "Jasně, co se děje?",
+      "source": "pre_existing",
+      "original_cz": "Jasně, co se děje?"
+    },
+    {
+      "key": "Olaf_007_f",
+      "en": "If I offer Gaston a warm hug, would that be considered trying to influence the judge?",
+      "cz": "Když Gastonovi nabídnu vřelé objetí, bude to považováno za pokus o ovlivnění soudce?",
+      "source": "pre_existing",
+      "original_cz": "Když Gastonovi nabídnu vřelé objetí, bude to považováno za pokus o ovlivnění soudce?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Hmm, could be!",
+      "cz": "Hmm, mohlo by to být!",
+      "source": "pre_existing",
+      "original_cz": "Hmm, mohlo by to být!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Nah, you're fine.",
+      "cz": "Ne, jsi v pořádku.",
+      "source": "pre_existing",
+      "original_cz": "Ne, jsi v pořádku."
+    },
+    {
+      "key": "Olaf_008_f",
+      "en": "I'm not sure how receptive Gaston would be, though.",
+      "cz": "Nejsem si ale jistý, jak vnímavý by byl Gaston.",
+      "source": "pre_existing",
+      "original_cz": "Nejsem si ale jistý, jak vnímavý by byl Gaston."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Great idea, Olaf!",
+      "cz": "Skvělý nápad, Olafe!",
+      "source": "pre_existing",
+      "original_cz": "Skvělý nápad, Olafe!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I... don't think that Gaston will see things that way.",
+      "cz": "Já... nemyslím si, že Gaston to takhle uvidí.",
+      "source": "pre_existing",
+      "original_cz": "Já... nemyslím si, že Gaston to takhle uvidí."
+    },
+    {
+      "key": "Olaf_009_f",
+      "en": "Oh, so I need to become his friend first and then offer a hug? I understand.",
+      "cz": "Aha, takže se s ním musím nejdřív spřátelit a pak ho obejmout? Rozumím.",
+      "source": "pre_existing",
+      "original_cz": "Aha, takže se s ním musím nejdřív spřátelit a pak ho obejmout? Rozumím."
+    },
+    {
+      "key": "Olaf_010_f",
+      "en": "I... Sure, let's go with that for now.",
+      "cz": "Já... Jasně, prozatím s tím budeme pokračovat.",
+      "source": "pre_existing",
+      "original_cz": "Já... Jasně, prozatím s tím budeme pokračovat."
+    },
+    {
+      "key": "Olaf_011_f",
+      "en": "Gaston wants to see how you're able to conquer nature. That's a big thing for him.",
+      "cz": "Gaston chce vidět, jak dokážeš překonat přírodu. To je pro něj velká věc.",
+      "source": "pre_existing",
+      "original_cz": "Gaston chce vidět, jak dokážeš překonat přírodu. To je pro něj velká věc."
+    },
+    {
+      "key": "Olaf_012_f",
+      "en": "Conquer nature? How silly. Nature can't be conquered! He must mean something else.",
+      "cz": "Dobyt přírodu? To je hloupé. Přírodu dobýt nelze! Musí tím myslet něco jiného.",
+      "source": "pre_existing",
+      "original_cz": "Dobyt přírodu? To je hloupé. Přírodu dobýt nelze! Musí tím myslet něco jiného."
+    },
+    {
+      "key": "Olaf_013_f",
+      "en": "Well... he spent a lot of time alone in the Glittering Dunes. Maybe he wants to see how you tackle the <ActivityItem>Swirling Sands</ActivityItem>, <ActivityItem>Glass Stalagmites</ActivityItem>, and <ActivityItem>Copper Rocks</ActivityItem>.",
+      "cz": "No... trávil spoustu času sám v Třpytivých dunách. Možná chce vidět, jak se vypořádáš s <ActivityItem>Vířícími písky</ActivityItem>, <ActivityItem>Skleněnými stalagmity</ActivityItem> a <ActivityItem>Měděnými skalami</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "No... trávil spoustu času sám v Třpytivých dunách. Možná chce vidět, jak se vypořádáš s <ActivityItem>Vířícími písky</ActivityItem>, <ActivityItem>Skleněnými stalagmity</ActivityItem> a <ActivityItem>Měděnými skalami</ActivityItem>."
+    },
+    {
+      "key": "Olaf_000_f",
+      "en": "I can deal with those with my Royal Tools, but you'll need to tag along and be a good sidekick!",
+      "cz": "S tím si poradím svými královskými nástroji, ale ty se budeš muset přidat a být dobrým pomocníkem!",
+      "source": "pre_existing",
+      "original_cz": "S tím si poradím svými královskými nástroji, ale ty se budeš muset přidat a být dobrým pomocníkem!"
+    },
+    {
+      "key": "Olaf_014_f",
+      "en": "Okay, okay... but what if what he REALLY wants is a bouquet of flowers?",
+      "cz": "Dobře, dobře... ale co když to, co VÁŽNĚ chce, je kytice květin?",
+      "source": "pre_existing",
+      "original_cz": "Dobře, dobře... ale co když to, co VÁŽNĚ chce, je kytice květin?"
+    },
+    {
+      "key": "Olaf_015_f",
+      "en": "If I was trying to make a new friend and they brought me flowers, I'd be so happy!",
+      "cz": "Kdybych se snažil najít nového přítele a on by mi přinesl květiny, byl bych tak šťastný!",
+      "source": "pre_existing",
+      "original_cz": "Kdybych se snažil najít nového přítele a on by mi přinesl květiny, byl bych tak šťastný!"
+    },
+    {
+      "key": "Olaf_016_f",
+      "en": "Hooray!",
+      "cz": "Hurá!",
+      "source": "pre_existing",
+      "original_cz": "Hurá!"
+    },
+    {
+      "key": "Olaf_003_f",
+      "en": "*gasp* What if we bring him flowers that nobody's ever seen before?!",
+      "cz": "*vzdech* Co kdybychom mu přinesli květiny, které ještě nikdo neviděl?!",
+      "source": "pre_existing",
+      "original_cz": "*vzdech* Co kdybychom mu přinesli květiny, které ještě nikdo neviděl?!"
+    },
+    {
+      "key": "Olaf_021_f",
+      "en": "We could find one of those portal things to someplace else, and then bring back flowers for Gaston that are brand-new to the Valley!",
+      "cz": "Mohli bychom najít jeden z těch portálů někam jinam a pak přivézt Gastonovi květiny, které jsou v Údolí zbrusu nové!",
+      "source": "pre_existing",
+      "original_cz": "Mohli bychom najít jeden z těch portálů někam jinam a pak přivézt Gastonovi květiny, které jsou v Údolí zbrusu nové!"
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "Gaston doesn't deserve you, Olaf.",
+      "cz": "Gaston si tě nezaslouží, Olafe.",
+      "source": "pre_existing",
+      "original_cz": "Gaston si tě nezaslouží, Olafe."
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "Whoooaaa... slow down there.",
+      "cz": "Páni... zpomal.",
+      "source": "pre_existing",
+      "original_cz": "Páni... zpomal."
+    },
+    {
+      "key": "Olaf_022_f",
+      "en": "Oh, everyone deserves a friend.",
+      "cz": "Ach, každý si zaslouží přítele.",
+      "source": "pre_existing",
+      "original_cz": "Ach, každý si zaslouží přítele."
+    },
+    {
+      "key": "Olaf_024_f",
+      "en": "Why don't we try for something a little simpler and gather flowers from <Lore>Eternity Isle</Lore>?",
+      "cz": "Proč nezkusíme něco jednoduššího a nenasbíráme květiny z <Lore>Ostrova věčnosti</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "Proč nezkusíme něco jednoduššího a nenasbíráme květiny z <Lore>Ostrova věčnosti</Lore>?"
+    },
+    {
+      "key": "Olaf_025_f",
+      "en": "Great idea, {PlayerName}!",
+      "cz": "Skvělý nápad, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Skvělý nápad, {PlayerName}!"
+    },
+    {
+      "key": "Olaf_019_f",
+      "en": "Let's go conquer nature!",
+      "cz": "Pojďme dobýt přírodu!",
+      "source": "pre_existing",
+      "original_cz": "Pojďme dobýt přírodu!"
+    },
+    {
+      "key": "Olaf_020_f",
+      "en": "And gather flowers!",
+      "cz": "A nasbírejte květiny!",
+      "source": "pre_existing",
+      "original_cz": "A nasbírejte květiny!"
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "Are you ready to go now?",
+      "cz": "Jsi připravený/á jít?",
+      "source": "pre_existing",
+      "original_cz": "Jsi připravený/á jít?"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Let's do it!",
+      "cz": "Pojďme na to!",
+      "source": "pre_existing",
+      "original_cz": "Pojďme na to!"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Actually, give me a moment first.",
+      "cz": "Vlastně mi dejte nejdřív chvilku.",
+      "source": "pre_existing",
+      "original_cz": "Vlastně mi dejte nejdřív chvilku."
+    },
+    {
+      "key": "Olaf_002_f",
+      "en": "Come back soon!",
+      "cz": "Brzy se vrať!",
+      "source": "pre_existing",
+      "original_cz": "Brzy se vrať!"
+    },
+    {
+      "key": "Olaf_023_f",
+      "en": "Okay...",
+      "cz": "Dobře...",
+      "source": "pre_existing",
+      "original_cz": "Dobře..."
+    },
+    {
+      "key": "Olaf_017_f",
+      "en": "Oh, I'm sure he will once he sees the flowers!",
+      "cz": "Jsem si jistý, že to udělá, až uvidí květiny!",
+      "source": "pre_existing",
+      "original_cz": "Jsem si jistý, že to udělá, až uvidí květiny!"
+    },
+    {
+      "key": "Olaf_018_f",
+      "en": "Well... it's your contest.",
+      "cz": "No... je to tvoje soutěž.",
+      "source": "pre_existing",
+      "original_cz": "No... je to tvoje soutěž."
+    }
+  ],
+  "ExpansionMain_Olaf/Olaf_VLG_Gast_040_VLG_Gast_040_TalkTo08.locbin": [
+    {
+      "key": "Olaf_001_f",
+      "en": "Olaf!",
+      "cz": "Olafe!",
+      "source": "pre_existing",
+      "original_cz": "Olafe!"
+    },
+    {
+      "key": "Olaf_002_f",
+      "en": "{PlayerName}! How is my very good friend?",
+      "cz": "{PlayerName}! Jak se má můj velmi dobrý přítel?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}! Jak se má můj velmi dobrý přítel?"
+    },
+    {
+      "key": "Olaf_003_f",
+      "en": "Not too bad; running an errand for Gaston. He's looking for a new sidekick!",
+      "cz": "Není to tak špatné; dělám pochůzku pro Gastona. Hledá nového parťáka!",
+      "source": "pre_existing",
+      "original_cz": "Není to tak špatné; dělám pochůzku pro Gastona. Hledá nového parťáka!"
+    },
+    {
+      "key": "Olaf_004_f",
+      "en": "How exciting! Did you know that sidekicks have been an essential part of stories for thousands of years?",
+      "cz": "To je vzrušující! Věděli jste, že pomocníci jsou nedílnou součástí příběhů po tisíce let?",
+      "source": "pre_existing",
+      "original_cz": "To je vzrušující! Věděli jste, že pomocníci jsou nedílnou součástí příběhů po tisíce let?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I do now!",
+      "cz": "Teď už ano!",
+      "source": "pre_existing",
+      "original_cz": "Teď už ano!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Great fact!",
+      "cz": "Skvělý fakt!",
+      "source": "pre_existing",
+      "original_cz": "Skvělý fakt!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Everyone knows that.",
+      "cz": "To ví každý.",
+      "source": "pre_existing",
+      "original_cz": "To ví každý."
+    },
+    {
+      "key": "Olaf_005_f",
+      "en": "Gaston is holding sidekick tryouts. Are you interested?",
+      "cz": "Gaston pořádá zkoušky pomocníků. Máš zájem?",
+      "source": "pre_existing",
+      "original_cz": "Gaston pořádá zkoušky pomocníků. Máš zájem?"
+    },
+    {
+      "key": "Olaf_008_f",
+      "en": "A chance to make a new friend? Of course!",
+      "cz": "Šance najít si nového přítele? Samozřejmě!",
+      "source": "pre_existing",
+      "original_cz": "Šance najít si nového přítele? Samozřejmě!"
+    },
+    {
+      "key": "Olaf_009_f",
+      "en": "Well, I'm not sure Gaston sees it that way, but—",
+      "cz": "No, nejsem si jistý, jestli to tak Gaston vidí, ale—",
+      "source": "pre_existing",
+      "original_cz": "No, nejsem si jistý, jestli to tak Gaston vidí, ale—"
+    },
+    {
+      "key": "Olaf_010_f",
+      "en": "Ooh, maybe I should bring him a friendship gift?!",
+      "cz": "Jé, možná bych mu měl/a přinést dárek přátelství?!",
+      "source": "pre_existing",
+      "original_cz": "Jé, možná bych mu měl/a přinést dárek přátelství?!"
+    },
+    {
+      "key": "Olaf_011_f",
+      "en": "Again, not sure if—",
+      "cz": "Opět si nejsem jistý, jestli—",
+      "source": "pre_existing",
+      "original_cz": "Opět si nejsem jistý, jestli—"
+    },
+    {
+      "key": "Olaf_012_f",
+      "en": "What am I saying? Of course I'll bring a friendship gift. It would be rude NOT to!",
+      "cz": "Co to říkám? Samozřejmě, že přinesu dárek přátelství. Bylo by neslušné to NEDOKÁZAT!",
+      "source": "pre_existing",
+      "original_cz": "Co to říkám? Samozřejmě, že přinesu dárek přátelství. Bylo by neslušné to NEDOKÁZAT!"
+    },
+    {
+      "key": "Olaf_013_f",
+      "en": "All right... lemme tell Gaston that you're a candidate, and you can deal with the friendship gift on your own.",
+      "cz": "Dobře... řeknu Gastonovi, že jsi kandidát, a že si s tím dárkem přátelství poradíš sám.",
+      "source": "pre_existing",
+      "original_cz": "Dobře... řeknu Gastonovi, že jsi kandidát, a že si s tím dárkem přátelství poradíš sám."
+    },
+    {
+      "key": "Olaf_006_f",
+      "en": "Thanks! Now, what were you saying about Gaston?",
+      "cz": "Díky! A co jsi to říkal o Gastonovi?",
+      "source": "pre_existing",
+      "original_cz": "Díky! A co jsi to říkal o Gastonovi?"
+    },
+    {
+      "key": "Olaf_007_f",
+      "en": "I don't think they do. Now, what were you saying about Gaston?",
+      "cz": "Myslím, že ne. Co jsi to říkal o Gastonovi?",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že ne. Co jsi to říkal o Gastonovi?"
+    }
+  ],
+  "ExpansionMain_Olaf/Olaf_VLG_Gast_040_VLG_Gast_040_TalkTo13.locbin": [
+    {
+      "key": "Olaf_001_f",
+      "en": "Congratulations, Olaf! You won!",
+      "cz": "Gratuluji, Olafe! Vyhrál jsi!",
+      "source": "pre_existing",
+      "original_cz": "Gratuluji, Olafe! Vyhrál jsi!"
+    },
+    {
+      "key": "Olaf_002_f",
+      "en": "I know. I'm so excited!",
+      "cz": "Já vím. Jsem tak nadšený!",
+      "source": "pre_existing",
+      "original_cz": "Já vím. Jsem tak nadšený!"
+    },
+    {
+      "key": "Olaf_003_f",
+      "en": "I'll try to be the best sidekick ever!",
+      "cz": "Pokusím se být nejlepším pomocníkem na světě!",
+      "source": "pre_existing",
+      "original_cz": "Pokusím se být nejlepším pomocníkem na světě!"
+    },
+    {
+      "key": "Olaf_004_f",
+      "en": "I'm sure you will! Just don't let Gaston boss you around too much...",
+      "cz": "Jsem si jistý, že ano! Jen se nenech Gastonem moc poroučet...",
+      "source": "pre_existing",
+      "original_cz": "Jsem si jistý, že ano! Jen se nenech Gastonem moc poroučet..."
+    },
+    {
+      "key": "Olaf_005_f",
+      "en": "Oh, I'm sure we'll get along great! And one day, he'll ask me for a warm hug...",
+      "cz": "Ach, jsem si jistý, že si budeme skvěle rozumět! A jednoho dne mě požádá o vřelé objetí...",
+      "source": "pre_existing",
+      "original_cz": "Ach, jsem si jistý, že si budeme skvěle rozumět! A jednoho dne mě požádá o vřelé objetí..."
+    },
+    {
+      "key": "Olaf_006_f",
+      "en": "Uhh, good luck with that, I guess!",
+      "cz": "Hm, tak s tím hodně štěstí, myslím!",
+      "source": "pre_existing",
+      "original_cz": "Hm, tak s tím hodně štěstí, myslím!"
+    }
+  ]
+}

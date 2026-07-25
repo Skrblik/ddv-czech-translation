@@ -1,0 +1,2260 @@
+{
+  "Expansion02Main_Lorekeeper/Lorekeeper_Greetings_Greeting001.locbin": [
+    {
+      "key": "Lorekeeper_000_f",
+      "en": "UrrrRRrrgghhh... *cough* ... My magic is waning...",
+      "cz": "UrrrRRrrgghhh... *kašel* ... Moje magie slábne...",
+      "source": "pre_existing",
+      "original_cz": "UrrrRRrrgghhh... *kašel* ... Moje magie slábne..."
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "I'll find some way to save you. Promise.",
+      "cz": "Najdu nějaký způsob, jak tě zachránit. Slibuji.",
+      "source": "pre_existing",
+      "original_cz": "Najdu nějaký způsob, jak tě zachránit. Slibuji."
+    }
+  ],
+  "Expansion02Main_Lorekeeper/Lorekeeper_Greetings_Greeting002.locbin": [
+    {
+      "key": "Lorekeeper_001_f",
+      "en": "Look through my pages, child, and see the stories most dear to your heart.",
+      "cz": "Prolistuj si mé stránky, dítě, a podívej se na příběhy, které jsou tvému ​​srdci nejdražší.",
+      "source": "pre_existing",
+      "original_cz": "Prolistuj si mé stránky, dítě, a podívej se na příběhy, které jsou tvému ​​srdci nejdražší."
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "I'll keep catching Snippets!",
+      "cz": "Budu dál chytat úryvky!",
+      "source": "pre_existing",
+      "original_cz": "Budu dál chytat úryvky!"
+    }
+  ],
+  "Expansion02Main_Lorekeeper/Lorekeeper_Greetings_Greeting003.locbin": [
+    {
+      "key": "Lorekeeper_001_f",
+      "en": "This land is sewn together from every story passed down through the ages.",
+      "cz": "Tato země je sešitá dohromady z každého příběhu předávaného po věky.",
+      "source": "pre_existing",
+      "original_cz": "Tato země je sešitá dohromady z každého příběhu předávaného po věky."
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "I'll save the Storybook Vale. Promise.",
+      "cz": "Zachráním Údolí pohádek. Slibuji.",
+      "source": "pre_existing",
+      "original_cz": "Zachráním Údolí pohádek. Slibuji."
+    }
+  ],
+  "Expansion02Main_Lorekeeper/Lorekeeper_MRQS_E02_010_MRQS_E02_010_TalkTo03.locbin": [
+    {
+      "key": "Lorekeeper_000_f",
+      "en": "Ahhhh... that feels MUCH better.",
+      "cz": "Ááá... to je MNOHEM lepší pocit.",
+      "source": "pre_existing",
+      "original_cz": "Ááá... to je MNOHEM lepší pocit."
+    },
+    {
+      "key": "Lorekeeper_001_f",
+      "en": "My pages were beginning to get all crumpled...",
+      "cz": "Moje stránky se začaly celé mačkat...",
+      "source": "pre_existing",
+      "original_cz": "Moje stránky se začaly celé mačkat..."
+    },
+    {
+      "key": "Lorekeeper_002_f",
+      "en": "All my magic was seeping away. *cough cough* Agh...",
+      "cz": "Všechna moje magie prosakovala. *kašel kašel* Ach...",
+      "source": "pre_existing",
+      "original_cz": "Všechna moje magie prosakovala. *kašel kašel* Ach..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "What more can I do to help?",
+      "cz": "Co ještě mohu udělat pro pomoc?",
+      "source": "pre_existing",
+      "original_cz": "Co ještě mohu udělat pro pomoc?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I've never met a book that was ill before.",
+      "cz": "Nikdy předtím jsem se nesetkal s knihou, která by byla nemocná.",
+      "source": "pre_existing",
+      "original_cz": "Nikdy předtím jsem se nesetkal s knihou, která by byla nemocná."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I fixed you up. Now can you help us?",
+      "cz": "Opravil jsem tě. A teď nám můžeš pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Opravil jsem tě. A teď nám můžeš pomoct?"
+    },
+    {
+      "key": "Lorekeeper_003_f",
+      "en": "Well, no problem can be fixed until it is understood.",
+      "cz": "Žádný problém nelze vyřešit, dokud se mu neporozumí.",
+      "source": "pre_existing",
+      "original_cz": "Žádný problém nelze vyřešit, dokud se mu neporozumí."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "What is the Neverafter?",
+      "cz": "Co je Neverafter?",
+      "source": "pre_existing",
+      "original_cz": "Co je Neverafter?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "What caused the feud?",
+      "cz": "Co způsobilo svár?",
+      "source": "pre_existing",
+      "original_cz": "Co způsobilo svár?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Who are Maleficent and Hades?",
+      "cz": "Kdo jsou Zloba a Hádes?",
+      "source": "pre_existing",
+      "original_cz": "Kdo jsou Zloba a Hádes?"
+    },
+    {
+      "key": "Player_001_choice_003_f",
+      "en": "This is a real mess! How can I fix all this?",
+      "cz": "Tohle je fakt chaos! Jak to můžu všechno opravit?",
+      "source": "pre_existing",
+      "original_cz": "Tohle je fakt chaos! Jak to můžu všechno opravit?"
+    },
+    {
+      "key": "Lorekeeper_004_f",
+      "en": "And there's no better way to understand a problem than by listening to a story.",
+      "cz": "A neexistuje lepší způsob, jak pochopit problém, než poslouchat příběh.",
+      "source": "pre_existing",
+      "original_cz": "A neexistuje lepší způsob, jak pochopit problém, než poslouchat příběh."
+    },
+    {
+      "key": "Lorekeeper_008_f",
+      "en": "Sit back, while I regale you with the tale of how this land fell into disrepair.",
+      "cz": "Pohodlně se usaďte, zatímco vám budu vyprávět příběh o tom, jak tato země zchátrala.",
+      "source": "pre_existing",
+      "original_cz": "Pohodlně se usaďte, zatímco vám budu vyprávět příběh o tom, jak tato země zchátrala."
+    },
+    {
+      "key": "Lorekeeper_011_f",
+      "en": "A tale that YOU helped restore to my pages.",
+      "cz": "Příběh, který jste TY pomohl/a obnovit na mých stránkách.",
+      "source": "pre_existing",
+      "original_cz": "Příběh, který jste TY pomohl/a obnovit na mých stránkách."
+    },
+    {
+      "key": "Lorekeeper_012_f",
+      "en": "<Lore>The Storybook Vale...</Lore> this land... is the place in your heart where your favorite stories live.",
+      "cz": "<Lore>Údolí pohádek...</Lore> tato země... je místem ve vašem srdci, kde žijí vaše oblíbené příběhy.",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Údolí pohádek...</Lore> tato země... je místem ve vašem srdci, kde žijí vaše oblíbené příběhy."
+    },
+    {
+      "key": "Lorekeeper_013_f",
+      "en": "A world <Lore>sewn together from fables and myths</Lore>.",
+      "cz": "Svět <Lore>sešitý z bajek a mýtů</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Svět <Lore>sešitý z bajek a mýtů</Lore>."
+    },
+    {
+      "key": "Lorekeeper_014_f",
+      "en": "Once upon a time, this land hung in the sky above Dreamlight Valley.",
+      "cz": "Kdysi dávno se tato země tyčila na obloze nad Údolím Světla Snů.",
+      "source": "pre_existing",
+      "original_cz": "Kdysi dávno se tato země tyčila na obloze nad Údolím Světla Snů."
+    },
+    {
+      "key": "Lorekeeper_021_f",
+      "en": "Only you can stop <Lore>the Neverafter<Lore> and set this all right.",
+      "cz": "Jen ty můžeš zastavit <Lore>Nekonečnost<Lore> a dát to do pořádku.",
+      "source": "pre_existing",
+      "original_cz": "Jen ty můžeš zastavit <Lore>Nekonečnost<Lore> a dát to do pořádku."
+    },
+    {
+      "key": "Lorekeeper_022_f",
+      "en": "It's what I've taken to calling the phenomena sweeping over the Vale.",
+      "cz": "Tak jsem si zvykl nazývat jevy, které se šíří údolím.",
+      "source": "pre_existing",
+      "original_cz": "Tak jsem si zvykl nazývat jevy, které se šíří údolím."
+    },
+    {
+      "key": "Lorekeeper_023_f",
+      "en": "Ink bleeding from the land itself... strange happenings... the pages of my stories becoming scattered...",
+      "cz": "Inkoust krvácející ze samotné země... podivné události... stránky mých příběhů se rozptylují...",
+      "source": "pre_existing",
+      "original_cz": "Inkoust krvácející ze samotné země... podivné události... stránky mých příběhů se rozptylují..."
+    },
+    {
+      "key": "Lorekeeper_024_f",
+      "en": "We must fix it, before it robs us all of a happily ever after.",
+      "cz": "Musíme to napravit, než nás to všechny připraví o šťastný konec.",
+      "source": "pre_existing",
+      "original_cz": "Musíme to napravit, než nás to všechny připraví o šťastný konec."
+    },
+    {
+      "key": "Lorekeeper_043_f",
+      "en": "This is a real mess! How can I fix all this?",
+      "cz": "Tohle je fakt chaos! Jak to můžu všechno opravit?",
+      "source": "pre_existing",
+      "original_cz": "Tohle je fakt chaos! Jak to můžu všechno opravit?"
+    },
+    {
+      "key": "Lorekeeper_033_f",
+      "en": "Oh, it will be quite simple.",
+      "cz": "Aha, bude to docela jednoduché.",
+      "source": "pre_existing",
+      "original_cz": "Aha, bude to docela jednoduché."
+    },
+    {
+      "key": "Lorekeeper_034_f",
+      "en": "You must <Lore>bring Hades and Maleficent together and end their squabbling</Lore>!",
+      "cz": "Musíš <Lore>spojit Háda a Zlobu a ukončit jejich hádky</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Musíš <Lore>spojit Háda a Zlobu a ukončit jejich hádky</Lore>!"
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "Simple?! That sounds impossible.",
+      "cz": "Jednoduché?! To zní nemožně.",
+      "source": "pre_existing",
+      "original_cz": "Jednoduché?! To zní nemožně."
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "Uh, easier said than done.",
+      "cz": "Ehm, snáze se to řekne než udělá.",
+      "source": "pre_existing",
+      "original_cz": "Ehm, snáze se to řekne než udělá."
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "I'll lock them in a room together and FORCE them to get along.",
+      "cz": "Zavřu je spolu v místnosti a DONUCÍM je, aby spolu vycházeli.",
+      "source": "pre_existing",
+      "original_cz": "Zavřu je spolu v místnosti a DONUCÍM je, aby spolu vycházeli."
+    },
+    {
+      "key": "Lorekeeper_035_f",
+      "en": "Oh, {PlayerName}, nothing is impossible here. This is the Storybook Vale.",
+      "cz": "Ach, {PlayerName}, tady není nic nemožné. Tohle je Údolí pohádek.",
+      "source": "pre_existing",
+      "original_cz": "Ach, {PlayerName}, tady není nic nemožné. Tohle je Údolí pohádek."
+    },
+    {
+      "key": "Lorekeeper_038_f",
+      "en": "Before you can bring those two together, you must <Lore>clean up around here</Lore>.",
+      "cz": "Než je dáš dohromady, musíš si <Lore>uklidit tady</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Než je dáš dohromady, musíš si <Lore>uklidit tady</Lore>."
+    },
+    {
+      "key": "Lorekeeper_040_f",
+      "en": "The way is blocked by all that ink gushing up from the ground. Perhaps <Lore>Merida</Lore> can be of some help with that.",
+      "cz": "Cesta je zablokovaná vším tím inkoustem, který tryská ze země. Možná by s tím mohla pomoci <Lore>Merida</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Cesta je zablokovaná vším tím inkoustem, který tryská ze země. Možná by s tím mohla pomoci <Lore>Merida</Lore>."
+    },
+    {
+      "key": "Lorekeeper_041_f",
+      "en": "I ask only one other thing... If you come across more of those <ActivityItem>Snippets</ActivityItem> on your journeys, {PlayerName}, do <Lore>bring them back to me</Lore>, eh?",
+      "cz": "Žádám tě jen o jednu věc... Pokud na svých cestách narazíš na další ty <ActivityItem>Úryvky</ActivityItem>, {PlayerName}, <Lore>přines mi je zpátky</Lore>, ano?",
+      "source": "pre_existing",
+      "original_cz": "Žádám tě jen o jednu věc... Pokud na svých cestách narazíš na další ty <ActivityItem>Úryvky</ActivityItem>, {PlayerName}, <Lore>přines mi je zpátky</Lore>, ano?"
+    },
+    {
+      "key": "Lorekeeper_042_f",
+      "en": "I have countless stories that need to be put back together again before I can regain my strength.",
+      "cz": "Mám bezpočet příběhů, které je třeba dát dohromady, než znovu naberu sílu.",
+      "source": "pre_existing",
+      "original_cz": "Mám bezpočet příběhů, které je třeba dát dohromady, než znovu naberu sílu."
+    },
+    {
+      "key": "Lorekeeper_036_f",
+      "en": "Of course, {PlayerName}. It's always easier to tell a story than it is to live one.",
+      "cz": "Samozřejmě, {PlayerName}. Vždycky je snazší příběh vyprávět, než ho prožít.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě, {PlayerName}. Vždycky je snazší příběh vyprávět, než ho prožít."
+    },
+    {
+      "key": "Lorekeeper_037_f",
+      "en": "I wish you the best of luck with that approach. Do watch out for any fireballs they start hurling around, won't you?",
+      "cz": "Přeji ti s tímhle přístupem hodně štěstí. Dávej si pozor na ohnivé koule, které začnou kolem sebe házet, ano?",
+      "source": "pre_existing",
+      "original_cz": "Přeji ti s tímhle přístupem hodně štěstí. Dávej si pozor na ohnivé koule, které začnou kolem sebe házet, ano?"
+    },
+    {
+      "key": "Lorekeeper_025_f",
+      "en": "Who can say? Maleficent holds great resentment, and the merest slight can enrage her.",
+      "cz": "Kdo to může říct? Zloba chová k sobě velkou zášť a sebemenší urážka ji může rozzuřit.",
+      "source": "pre_existing",
+      "original_cz": "Kdo to může říct? Zloba chová k sobě velkou zášť a sebemenší urážka ji může rozzuřit."
+    },
+    {
+      "key": "Lorekeeper_026_f",
+      "en": "And Hades... It is no play on mere words to say that he's a bit of a hothead.",
+      "cz": "A Hádes... Říct, že je trochu vášnivý, není pouhá slovní hříčka.",
+      "source": "pre_existing",
+      "original_cz": "A Hádes... Říct, že je trochu vášnivý, není pouhá slovní hříčka."
+    },
+    {
+      "key": "Lorekeeper_027_f",
+      "en": "Put the two of them in a room together and the consequences are disastrous!",
+      "cz": "Dejte je dva do jedné místnosti a následky budou katastrofální!",
+      "source": "pre_existing",
+      "original_cz": "Dejte je dva do jedné místnosti a následky budou katastrofální!"
+    },
+    {
+      "key": "Lorekeeper_028_f",
+      "en": "You've never heard of them? Why, Maleficent proclaims herself the \"Mistress of All Evil.\" You'd best beware of her.",
+      "cz": "Nikdy jsi o nich neslyšel/a? Vždyť Zloba se prohlašuje za „Paní všeho zla“. Raději si na ni dej pozor.",
+      "source": "pre_existing",
+      "original_cz": "Nikdy jsi o nich neslyšel/a? Vždyť Zloba se prohlašuje za „Paní všeho zla“. Raději si na ni dej pozor."
+    },
+    {
+      "key": "Lorekeeper_029_f",
+      "en": "And Hades is a mythological miser who rules over the Underworld. He can be a bit tricky, but he's not nearly as clever as he thinks he is.",
+      "cz": "A Hádes je mytologický lakomec, který vládne podsvětí. Může být trochu prohnaný, ale zdaleka není tak chytrý, jak si myslí.",
+      "source": "pre_existing",
+      "original_cz": "A Hádes je mytologický lakomec, který vládne podsvětí. Může být trochu prohnaný, ale zdaleka není tak chytrý, jak si myslí."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Uhhh, maybe I should just avoid them.",
+      "cz": "Ehm, možná bych se jim měl raději vyhýbat.",
+      "source": "pre_existing",
+      "original_cz": "Ehm, možná bych se jim měl raději vyhýbat."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "I'll watch my back around them.",
+      "cz": "Budu si před nimi hlídat záda.",
+      "source": "pre_existing",
+      "original_cz": "Budu si před nimi hlídat záda."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Pfft. They don't scare me.",
+      "cz": "Pfft. Nebojím se jich.",
+      "source": "pre_existing",
+      "original_cz": "Pfft. Nebojím se jich."
+    },
+    {
+      "key": "Lorekeeper_030_f",
+      "en": "You are wise to be heedful. But to save the Vale, you won't be able to avoid them forever.",
+      "cz": "Je moudré být ostražitý. Ale abyste zachránili Údolí, nebudete se jim moci vyhýbat navždy.",
+      "source": "pre_existing",
+      "original_cz": "Je moudré být ostražitý. Ale abyste zachránili Údolí, nebudete se jim moci vyhýbat navždy."
+    },
+    {
+      "key": "Lorekeeper_031_f",
+      "en": "Yes, sooner or later, you must confront them, but take great care.",
+      "cz": "Ano, dříve či později se s nimi budete muset setkat, ale buďte velmi opatrní.",
+      "source": "pre_existing",
+      "original_cz": "Ano, dříve či později se s nimi budete muset setkat, ale buďte velmi opatrní."
+    },
+    {
+      "key": "Lorekeeper_032_f",
+      "en": "Best be sure you know the difference between bravery and foolishness.",
+      "cz": "Nejlepší by mělo být, kdybyste věděli, jaký je rozdíl mezi statečností a hloupostí.",
+      "source": "pre_existing",
+      "original_cz": "Nejlepší by mělo být, kdybyste věděli, jaký je rozdíl mezi statečností a hloupostí."
+    },
+    {
+      "key": "Lorekeeper_005_f",
+      "en": "No, I suppose even in Dreamlight Valley, you don't come across that often, do you? Hehehe— *cough cough*",
+      "cz": "Ne, předpokládám, že ani v Údolí snů se na to tak často nesetkáváš, že ne? Hehehe— *kašel kašel*",
+      "source": "pre_existing",
+      "original_cz": "Ne, předpokládám, že ani v Údolí snů se na to tak často nesetkáváš, že ne? Hehehe— *kašel kašel*"
+    },
+    {
+      "key": "Lorekeeper_006_f",
+      "en": "Now, I've no idea how long I have before my magic departs me again.",
+      "cz": "Teď nemám tušení, jak dlouho mě čeká, než mě magie zase opustí.",
+      "source": "pre_existing",
+      "original_cz": "Teď nemám tušení, jak dlouho mě čeká, než mě magie zase opustí."
+    },
+    {
+      "key": "Lorekeeper_007_f",
+      "en": "Ah, straight to the point. I respect that. Cutting through the muddle with only a few words is a rare talent indeed!",
+      "cz": "Aha, rovnou k věci. To respektuji. Prořezat se zmatkem jen pár slovy je vskutku vzácný talent!",
+      "source": "pre_existing",
+      "original_cz": "Aha, rovnou k věci. To respektuji. Prořezat se zmatkem jen pár slovy je vskutku vzácný talent!"
+    },
+    {
+      "key": "Lorekeeper_009_f",
+      "en": "I shall not waste your time. Let me tell you why I brought you here.",
+      "cz": "Nebudu vám ztrácet čas. Dovolte mi, abych vám řekl, proč jsem vás sem přivedl.",
+      "source": "pre_existing",
+      "original_cz": "Nebudu vám ztrácet čas. Dovolte mi, abych vám řekl, proč jsem vás sem přivedl."
+    }
+  ],
+  "Expansion02Main_Lorekeeper/Lorekeeper_MRQS_E02_010_MRQS_E02_010_TalkTo04.locbin": [
+    {
+      "key": "Lorekeeper_000_f",
+      "en": "{PlayerName}...?",
+      "cz": "{PlayerName}...?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}...?"
+    },
+    {
+      "key": "Lorekeeper_002_f",
+      "en": "You answered my call...",
+      "cz": "Odpověděl jsi na mé volání...",
+      "source": "pre_existing",
+      "original_cz": "Odpověděl jsi na mé volání..."
+    },
+    {
+      "key": "Lorekeeper_003_f",
+      "en": "At last... You're the Vale's one remaining hope... *cough cough*",
+      "cz": "Konečně... Jsi pro Údolí jedinou zbývající nadějí... *kašel kašel*",
+      "source": "pre_existing",
+      "original_cz": "Konečně... Jsi pro Údolí jedinou zbývající nadějí... *kašel kašel*"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I need to know more if I'm going to be able to help you.",
+      "cz": "Potřebuji vědět víc, pokud vám chci být schopen pomoci.",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji vědět víc, pokud vám chci být schopen pomoci."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "You okay? You sound sick.",
+      "cz": "Jsi v pořádku? Zníš nemocně.",
+      "source": "pre_existing",
+      "original_cz": "Jsi v pořádku? Zníš nemocně."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Sorry, I'm used to reading books, not talking to them.",
+      "cz": "Promiňte, jsem zvyklý číst knihy, ne s nimi mluvit.",
+      "source": "pre_existing",
+      "original_cz": "Promiňte, jsem zvyklý číst knihy, ne s nimi mluvit."
+    },
+    {
+      "key": "Lorekeeper_004_f",
+      "en": "We haven't much time. The last of my strength... It's about to leave me...",
+      "cz": "Nemáme moc času. Poslední síly... Už mě to opustí...",
+      "source": "pre_existing",
+      "original_cz": "Nemáme moc času. Poslední síly... Už mě to opustí..."
+    },
+    {
+      "key": "Lorekeeper_005_f",
+      "en": "You must <Lore>find the Royal Net</Lore> and put it to use!",
+      "cz": "Musíš <Lore>najít Královskou síť</Lore> a použít ji!",
+      "source": "pre_existing",
+      "original_cz": "Musíš <Lore>najít Královskou síť</Lore> a použít ji!"
+    },
+    {
+      "key": "Lorekeeper_006_f",
+      "en": "The Royal Net... it's <Lore>hidden in this chamber</Lore>, beneath...",
+      "cz": "Královská síť... je <Lore>ukrytá v této komnatě</Lore>, pod...",
+      "source": "pre_existing",
+      "original_cz": "Královská síť... je <Lore>ukrytá v této komnatě</Lore>, pod..."
+    },
+    {
+      "key": "Lorekeeper_007_f",
+      "en": "It's hidden beneath...",
+      "cz": "Je to schované pod...",
+      "source": "pre_existing",
+      "original_cz": "Je to schované pod..."
+    },
+    {
+      "key": "Lorekeeper_008_f",
+      "en": "...urrRRRRgggg...",
+      "cz": "...urrRRRRgggg...",
+      "source": "pre_existing",
+      "original_cz": "...urrRRRRgggg..."
+    }
+  ],
+  "Expansion02Main_Lorekeeper/Lorekeeper_MRQS_E02_030_MRQS_E02_030_TalkTo01.locbin": [
+    {
+      "key": "Lorekeeper_000_f",
+      "en": "Ahh, {PlayerName}! Where has your story taken you? What have you uncovered?",
+      "cz": "Ááá, {PlayerName}! Kam tě tvůj příběh zavedl? Co jsi odhalil?",
+      "source": "pre_existing",
+      "original_cz": "Ááá, {PlayerName}! Kam tě tvůj příběh zavedl? Co jsi odhalil?"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "I journeyed into a dark forest in Everafter. That place is...",
+      "cz": "V Everafteru jsem se vydal do temného lesa. To místo je...",
+      "source": "pre_existing",
+      "original_cz": "V Everafteru jsem se vydal do temného lesa. To místo je..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "...so beautiful and mysterious!",
+      "cz": "...tak krásné a tajemné!",
+      "source": "pre_existing",
+      "original_cz": "...tak krásné a tajemné!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "...kinda creepy.",
+      "cz": "...trochu strašidelné.",
+      "source": "pre_existing",
+      "original_cz": "...trochu strašidelné."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "...not looking too good. There's ink everywhere!",
+      "cz": "...nevypadá to moc dobře. Všude je inkoust!",
+      "source": "pre_existing",
+      "original_cz": "...nevypadá to moc dobře. Všude je inkoust!"
+    },
+    {
+      "key": "Lorekeeper_001_f",
+      "en": "Yes, it is, isn't it? It's made up of the stories we loved most as children.",
+      "cz": "Ano, je, že? Je to složeno z příběhů, které jsme jako děti milovali nejvíc.",
+      "source": "pre_existing",
+      "original_cz": "Ano, je, že? Je to složeno z příběhů, které jsme jako děti milovali nejvíc."
+    },
+    {
+      "key": "Lorekeeper_004_f",
+      "en": "All of the lessons we learned and fables we cherished are there. Even the ones that scared us.",
+      "cz": "Všechny lekce, které jsme se naučili, a bajky, které jsme si vážili, jsou tam. Dokonce i ty, které nás děsily.",
+      "source": "pre_existing",
+      "original_cz": "Všechny lekce, které jsme se naučili, a bajky, které jsme si vážili, jsou tam. Dokonce i ty, které nás děsily."
+    },
+    {
+      "key": "Lorekeeper_003_f",
+      "en": "For it's often by facing what frightens us that we grow and learn who we truly are.",
+      "cz": "Protože právě tváří v tvář tomu, co nás děsí, často rosteme a učíme se, kdo skutečně jsme.",
+      "source": "pre_existing",
+      "original_cz": "Protože právě tváří v tvář tomu, co nás děsí, často rosteme a učíme se, kdo skutečně jsme."
+    },
+    {
+      "key": "Lorekeeper_006_f",
+      "en": "I stumbled upon something else there.",
+      "cz": "Narazil jsem tam na něco jiného.",
+      "source": "pre_existing",
+      "original_cz": "Narazil jsem tam na něco jiného."
+    },
+    {
+      "key": "Lorekeeper_007_f",
+      "en": "It was another of those gateways, like the one that I found in Mythopia!",
+      "cz": "Byla to další z těch bran, jako ta, kterou jsem našel v Mythopii!",
+      "source": "pre_existing",
+      "original_cz": "Byla to další z těch bran, jako ta, kterou jsem našel v Mythopii!"
+    },
+    {
+      "key": "Lorekeeper_009_f",
+      "en": "Ahhh... I know exactly what you've discovered.",
+      "cz": "Ááá... Vím přesně, co jsi objevil/a.",
+      "source": "pre_existing",
+      "original_cz": "Ááá... Vím přesně, co jsi objevil/a."
+    },
+    {
+      "key": "Lorekeeper_015_f",
+      "en": "Beyond that gateway, you will find a <Lore>Fairy Tale Trial</Lore> waiting to test you.",
+      "cz": "Za touto branou na vás čeká <Lore>Pohádková zkouška</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Za touto branou na vás čeká <Lore>Pohádková zkouška</Lore>."
+    },
+    {
+      "key": "Lorekeeper_010_f",
+      "en": "When Maleficent took it upon herself to rewrite Everafter... to place her castle at its farthest reach...",
+      "cz": "Když se Zloba rozhodla přepsat Everafter... aby umístila svůj hrad co nejdále od jeho dosahu...",
+      "source": "pre_existing",
+      "original_cz": "Když se Zloba rozhodla přepsat Everafter... aby umístila svůj hrad co nejdále od jeho dosahu..."
+    },
+    {
+      "key": "Lorekeeper_011_f",
+      "en": "...the magic went wrong. It all became corrupted and jumbled up, like the pages of a book.",
+      "cz": "...magie se pokazila. Všechno se to zkazilo a zmíchalo, jako stránky knihy.",
+      "source": "pre_existing",
+      "original_cz": "...magie se pokazila. Všechno se to zkazilo a zmíchalo, jako stránky knihy."
+    },
+    {
+      "key": "Lorekeeper_012_f",
+      "en": "And pieces of Maleficent's castle have been scattered across Everafter, spreading their corruption throughout the land!",
+      "cz": "A kusy Zlobyina hradu byly rozptýleny po celém Everafteru a šíří svou zkaženost po celé zemi!",
+      "source": "pre_existing",
+      "original_cz": "A kusy Zlobyina hradu byly rozptýleny po celém Everafteru a šíří svou zkaženost po celé zemi!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "What will I find inside?",
+      "cz": "Co najdu uvnitř?",
+      "source": "pre_existing",
+      "original_cz": "Co najdu uvnitř?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "What should I do next?",
+      "cz": "Co mám dělat dál?",
+      "source": "pre_existing",
+      "original_cz": "Co mám dělat dál?"
+    },
+    {
+      "key": "Lorekeeper_013_f",
+      "en": "I suspect you'll find old fables and fairy tales gone askew...",
+      "cz": "Myslím, že staré bajky a pohádky najdete pokřivené...",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že staré bajky a pohádky najdete pokřivené..."
+    },
+    {
+      "key": "Lorekeeper_017_f",
+      "en": "...corrupted by the Mistress of All Evil's malevolence.",
+      "cz": "...zkažený zlovolností Paní všeho zla.",
+      "source": "pre_existing",
+      "original_cz": "...zkažený zlovolností Paní všeho zla."
+    },
+    {
+      "key": "Lorekeeper_018_f",
+      "en": "You'll have to set them right and reach the very heart of them to undo what Maleficent has done.",
+      "cz": "Budeš je muset napravit a dosáhnout jejich samého jádra, abys odčinil/a, co Maleficent udělala.",
+      "source": "pre_existing",
+      "original_cz": "Budeš je muset napravit a dosáhnout jejich samého jádra, abys odčinil/a, co Maleficent udělala."
+    },
+    {
+      "key": "Lorekeeper_019_f",
+      "en": "So what should I do next?",
+      "cz": "Co mám tedy dělat dál?",
+      "source": "pre_existing",
+      "original_cz": "Co mám tedy dělat dál?"
+    },
+    {
+      "key": "Lorekeeper_014_f",
+      "en": "<Lore>Seek the aid of Merida</Lore>. She might just be able to help you get inside the Trial.",
+      "cz": "<Lore>Vyhledej pomoc Meridy</Lore>. Možná ti pomůže dostat se do Zkoušky.",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Vyhledej pomoc Meridy</Lore>. Možná ti pomůže dostat se do Zkoušky."
+    },
+    {
+      "key": "Lorekeeper_020_f",
+      "en": "With each Trial you face, you draw one step closer to reaching Maleficent and rescuing the Vale!",
+      "cz": "S každou zkouškou, které čelíte, se o krok přibližujete k dosažení Zloby a záchraně Údolí!",
+      "source": "pre_existing",
+      "original_cz": "S každou zkouškou, které čelíte, se o krok přibližujete k dosažení Zloby a záchraně Údolí!"
+    },
+    {
+      "key": "Lorekeeper_008_f",
+      "en": "It looked like some sort of... some sort of gateway, filled with ink.",
+      "cz": "Vypadalo to jako nějaká... nějaká brána, naplněná inkoustem.",
+      "source": "pre_existing",
+      "original_cz": "Vypadalo to jako nějaká... nějaká brána, naplněná inkoustem."
+    },
+    {
+      "key": "Lorekeeper_002_f",
+      "en": "Children's stories often have at least a hint of something perilous, don't they?",
+      "cz": "Dětské příběhy často obsahují alespoň náznak něčeho nebezpečného, ​​že?",
+      "source": "pre_existing",
+      "original_cz": "Dětské příběhy často obsahují alespoň náznak něčeho nebezpečného, ​​že?"
+    },
+    {
+      "key": "Lorekeeper_005_f",
+      "en": "I feared that might be the case. Once, it was beautiful, even if parts of it — like the forest — could be a bit scary.",
+      "cz": "Obával jsem se, že by to tak mohlo být. Kdysi to tu bylo krásné, i když některé jeho části – například les – mohly být trochu děsivé.",
+      "source": "pre_existing",
+      "original_cz": "Obával jsem se, že by to tak mohlo být. Kdysi to tu bylo krásné, i když některé jeho části – například les – mohly být trochu děsivé."
+    }
+  ],
+  "Expansion02Main_Lorekeeper/Lorekeeper_MRQS_E02_040_IntroTea_MRQS_E02_040_IntroTea_TalkTo02.locbin": [
+    {
+      "key": "Lorekeeper_000_f",
+      "en": "{PlayerName}! I sense that you've turned a new page in your journey to stop the Neverafter.",
+      "cz": "{PlayerName}! Mám pocit, že jsi na své cestě k zastavení Neverafteru obrátil novou stránku.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}! Mám pocit, že jsi na své cestě k zastavení Neverafteru obrátil novou stránku."
+    },
+    {
+      "key": "Lorekeeper_001_f",
+      "en": "What have you discovered?",
+      "cz": "Co jsi objevil/a?",
+      "source": "pre_existing",
+      "original_cz": "Co jsi objevil/a?"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "I found some mysterious waterfalls shaped like a teapot in Everafter.",
+      "cz": "V Everafteru jsem našel záhadné vodopády ve tvaru konvice na čaj.",
+      "source": "pre_existing",
+      "original_cz": "V Everafteru jsem našel záhadné vodopády ve tvaru konvice na čaj."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "They're so cool!",
+      "cz": "Jsou tak skvělí!",
+      "source": "pre_existing",
+      "original_cz": "Jsou tak skvělí!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "They're awfully curious.",
+      "cz": "Jsou strašně zvědaví.",
+      "source": "pre_existing",
+      "original_cz": "Jsou strašně zvědaví."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "That place is SUPER STRANGE.",
+      "cz": "To místo je SUPER ZVLÁŠTNÍ.",
+      "source": "pre_existing",
+      "original_cz": "To místo je SUPER ZVLÁŠTNÍ."
+    },
+    {
+      "key": "Lorekeeper_003_f",
+      "en": "Ah, yes! The Teapot Falls were a most beautiful sight before all the ink sprang up, muddying the place.",
+      "cz": "Ach ano! Vodopády Teapot Falls byly nádhernou podívanou, než se vyvalil inkoust a zabahnil to místo.",
+      "source": "pre_existing",
+      "original_cz": "Ach ano! Vodopády Teapot Falls byly nádhernou podívanou, než se vyvalil inkoust a zabahnil to místo."
+    },
+    {
+      "key": "Lorekeeper_006_f",
+      "en": "I'd like to get closer and investigate them, but something is blocking the way. Giant teacups shattered everywhere!",
+      "cz": "Rád bych se dostal blíž a prozkoumal je, ale něco mi brání v cestě. Všude se roztříštily obří čajové šálky!",
+      "source": "pre_existing",
+      "original_cz": "Rád bych se dostal blíž a prozkoumal je, ale něco mi brání v cestě. Všude se roztříštily obří čajové šálky!"
+    },
+    {
+      "key": "Lorekeeper_007_f",
+      "en": "Those are a remnant of Maleficent and Hades' feud. They quarreled in the sky over Everafter and rubble was strewn about.",
+      "cz": "To jsou pozůstatky sporu Maleficent a Háda. Hádali se na obloze kvůli Everafteru a všude kolem se válely sutiny.",
+      "source": "pre_existing",
+      "original_cz": "To jsou pozůstatky sporu Maleficent a Háda. Hádali se na obloze kvůli Everafteru a všude kolem se válely sutiny."
+    },
+    {
+      "key": "Lorekeeper_012_f",
+      "en": "Aurora faced this same problem once, long ago.",
+      "cz": "Aurora se s tímto problémem kdysi dávno potýkala.",
+      "source": "pre_existing",
+      "original_cz": "Aurora se s tímto problémem kdysi dávno potýkala."
+    },
+    {
+      "key": "Lorekeeper_008_f",
+      "en": "It seems your story is becoming even more intertwined with hers!",
+      "cz": "Zdá se, že tvůj příběh se s jejím ještě více proplétá!",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že tvůj příběh se s jejím ještě více proplétá!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Where could Aurora be?",
+      "cz": "Kde by mohla být Aurora?",
+      "source": "pre_existing",
+      "original_cz": "Kde by mohla být Aurora?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "How did Aurora solve this problem?",
+      "cz": "Jak Aurora vyřešila tento problém?",
+      "source": "pre_existing",
+      "original_cz": "Jak Aurora vyřešila tento problém?"
+    },
+    {
+      "key": "Lorekeeper_009_f",
+      "en": "I'm afraid I haven't the faintest idea. The ending of her story is still unwritten.",
+      "cz": "Obávám se, že nemám nejmenší tušení. Konec jejího příběhu je stále nenapsaný.",
+      "source": "pre_existing",
+      "original_cz": "Obávám se, že nemám nejmenší tušení. Konec jejího příběhu je stále nenapsaný."
+    },
+    {
+      "key": "Lorekeeper_010_f",
+      "en": "But perhaps you could follow in her footsteps to solve your challenge.",
+      "cz": "Ale možná byste se mohli vydat v jejích stopách a vyřešit svůj problém.",
+      "source": "pre_existing",
+      "original_cz": "Ale možná byste se mohli vydat v jejích stopách a vyřešit svůj problém."
+    },
+    {
+      "key": "Lorekeeper_011_f",
+      "en": "With a little help from the good fairies, Aurora discovered the secret to clearing away the rubble.",
+      "cz": "S trochou pomoci dobrých víl Aurora objevila tajemství, jak odklízet sutiny.",
+      "source": "pre_existing",
+      "original_cz": "S trochou pomoci dobrých víl Aurora objevila tajemství, jak odklízet sutiny."
+    },
+    {
+      "key": "Lorekeeper_013_f",
+      "en": "Perhaps her notes are hidden somewhere. This part of Aurora's story is lost to me, I'm afraid...",
+      "cz": "Možná jsou její poznámky někde schované. Obávám se, že tato část Aurorina příběhu je pro mě ztracená...",
+      "source": "pre_existing",
+      "original_cz": "Možná jsou její poznámky někde schované. Obávám se, že tato část Aurorina příběhu je pro mě ztracená..."
+    },
+    {
+      "key": "Lorekeeper_014_f",
+      "en": "I knew it once. But it's become scattered, like so many of my precious stories.",
+      "cz": "Kdysi jsem to věděl. Ale rozptýlilo se to, jako tolik mých drahocenných příběhů.",
+      "source": "pre_existing",
+      "original_cz": "Kdysi jsem to věděl. Ale rozptýlilo se to, jako tolik mých drahocenných příběhů."
+    },
+    {
+      "key": "Lorekeeper_015_f",
+      "en": "So if I <Lore>caught some Snippets in Everafter</Lore>... maybe I could <Lore>bring that story back to your pages</Lore>?",
+      "cz": "Takže kdybych <Lore>zachytil nějaké úryvky v Everafter</Lore>... možná bych mohl <Lore>ten příběh vrátit na vaše stránky</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "Takže kdybych <Lore>zachytil nějaké úryvky v Everafter</Lore>... možná bych mohl <Lore>ten příběh vrátit na vaše stránky</Lore>?"
+    },
+    {
+      "key": "Lorekeeper_016_f",
+      "en": "Yes... seek out the Snippets, and restore Aurora's tale! It's the only way to learn how she faced this problem.",
+      "cz": "Ano... vyhledejte Úryvky a obnovte Aurorin příběh! Je to jediný způsob, jak se dozvědět, jak se s tímto problémem vypořádala.",
+      "source": "pre_existing",
+      "original_cz": "Ano... vyhledejte Úryvky a obnovte Aurorin příběh! Je to jediný způsob, jak se dozvědět, jak se s tímto problémem vypořádala."
+    },
+    {
+      "key": "Lorekeeper_004_f",
+      "en": "Ah, yes. Such a mysterious sight, like something right out of a bedtime story.",
+      "cz": "Ach ano. Takový tajemný pohled, jako vystřižený z pohádky na dobrou noc.",
+      "source": "pre_existing",
+      "original_cz": "Ach ano. Takový tajemný pohled, jako vystřižený z pohádky na dobrou noc."
+    },
+    {
+      "key": "Lorekeeper_005_f",
+      "en": "The unknown is not to be feared, {PlayerName}. Every great story starts with a step into the unknown, doesn't it?",
+      "cz": "Neznámého se nemáš bát, {PlayerName}. Každý skvělý příběh začíná krokem do neznáma, že?",
+      "source": "pre_existing",
+      "original_cz": "Neznámého se nemáš bát, {PlayerName}. Každý skvělý příběh začíná krokem do neznáma, že?"
+    }
+  ],
+  "Expansion02Main_Lorekeeper/Lorekeeper_MRQS_E02_070_IntroGlory_MRQS_E02_070_IntroGlory_TalkTo01.locbin": [
+    {
+      "key": "Lorekeeper_001_f",
+      "en": "Ahh, {PlayerName}! Where has your story taken you? What have you uncovered?",
+      "cz": "Ááá, {PlayerName}! Kam tě tvůj příběh zavedl? Co jsi odhalil?",
+      "source": "pre_existing",
+      "original_cz": "Ááá, {PlayerName}! Kam tě tvůj příběh zavedl? Co jsi odhalil?"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "I journeyed into a golden field in Mythopia. That place is...",
+      "cz": "Cestal jsem na zlaté pole v Mythopii. To místo je...",
+      "source": "pre_existing",
+      "original_cz": "Cestal jsem na zlaté pole v Mythopii. To místo je..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "...so cool and epic!",
+      "cz": "...tak skvělé a epické!",
+      "source": "pre_existing",
+      "original_cz": "...tak skvělé a epické!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "...a really nice vacation spot.",
+      "cz": "...opravdu pěkné místo na dovolenou.",
+      "source": "pre_existing",
+      "original_cz": "...opravdu pěkné místo na dovolenou."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "...a total mess. So much ink!",
+      "cz": "...úplný chaos. Tolik inkoustu!",
+      "source": "pre_existing",
+      "original_cz": "...úplný chaos. Tolik inkoustu!"
+    },
+    {
+      "key": "Lorekeeper_002_f",
+      "en": "Why, of course it is. It's made up of stories of great heroism and grand adventure!",
+      "cz": "No, samozřejmě. Je to příběh o velkém hrdinství a velkolepém dobrodružství!",
+      "source": "pre_existing",
+      "original_cz": "No, samozřejmě. Je to příběh o velkém hrdinství a velkolepém dobrodružství!"
+    },
+    {
+      "key": "Lorekeeper_005_f",
+      "en": "I stumbled upon something else there.",
+      "cz": "Narazil jsem tam na něco jiného.",
+      "source": "pre_existing",
+      "original_cz": "Narazil jsem tam na něco jiného."
+    },
+    {
+      "key": "Lorekeeper_006_f",
+      "en": "It was another of those gateways, like the one that I found in Everafter!",
+      "cz": "Byla to další z těch bran, jako ta, kterou jsem našel v Everafteru!",
+      "source": "pre_existing",
+      "original_cz": "Byla to další z těch bran, jako ta, kterou jsem našel v Everafteru!"
+    },
+    {
+      "key": "Lorekeeper_007_f",
+      "en": "Ahhh... I know exactly what you've discovered.",
+      "cz": "Ááá... Vím přesně, co jsi objevil/a.",
+      "source": "pre_existing",
+      "original_cz": "Ááá... Vím přesně, co jsi objevil/a."
+    },
+    {
+      "key": "Lorekeeper_008_f",
+      "en": "Beyond that gateway, you will find a <Lore>Mythic Trial</Lore> waiting to test you.",
+      "cz": "Za touto branou na vás čeká <Lore>Mytická zkouška</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Za touto branou na vás čeká <Lore>Mytická zkouška</Lore>."
+    },
+    {
+      "key": "Lorekeeper_009_f",
+      "en": "When Hades took control of Mythopia... adding his own false version of Mount Olympus to one corner...",
+      "cz": "Když Hádes ovládl Mythopii... přidal do jednoho rohu svou vlastní falešnou verzi hory Olymp...",
+      "source": "pre_existing",
+      "original_cz": "Když Hádes ovládl Mythopii... přidal do jednoho rohu svou vlastní falešnou verzi hory Olymp..."
+    },
+    {
+      "key": "Lorekeeper_010_f",
+      "en": "...the magic went wrong. It all became corrupted and jumbled up, like an old story that's changed in the telling.",
+      "cz": "...magie se pokazila. Všechno se to zkazilo a popletlo, jako starý příběh, který se při vyprávění změnil.",
+      "source": "pre_existing",
+      "original_cz": "...magie se pokazila. Všechno se to zkazilo a popletlo, jako starý příběh, který se při vyprávění změnil."
+    },
+    {
+      "key": "Lorekeeper_014_f",
+      "en": "And pieces of Mount Olympus have been scattered across Mythopia, spreading magical corruption throughout the land!",
+      "cz": "A kusy hory Olymp byly rozptýleny po Mythopii a šíří magickou zkaženost po celé zemi!",
+      "source": "pre_existing",
+      "original_cz": "A kusy hory Olymp byly rozptýleny po Mythopii a šíří magickou zkaženost po celé zemi!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "What will I find inside?",
+      "cz": "Co najdu uvnitř?",
+      "source": "pre_existing",
+      "original_cz": "Co najdu uvnitř?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "What should I do next?",
+      "cz": "Co mám dělat dál?",
+      "source": "pre_existing",
+      "original_cz": "Co mám dělat dál?"
+    },
+    {
+      "key": "Lorekeeper_015_f",
+      "en": "I suspect you'll find old myths and tales of heroism gone awry.",
+      "cz": "Mám podezření, že zjistíte, že staré mýty a příběhy o hrdinství se vymykají kontrole.",
+      "source": "pre_existing",
+      "original_cz": "Mám podezření, že zjistíte, že staré mýty a příběhy o hrdinství se vymykají kontrole."
+    },
+    {
+      "key": "Lorekeeper_016_f",
+      "en": "Corrupted by the lord of the Underworld's rancor.",
+      "cz": "Zkaženo záští pána podsvětí.",
+      "source": "pre_existing",
+      "original_cz": "Zkaženo záští pána podsvětí."
+    },
+    {
+      "key": "Lorekeeper_017_f",
+      "en": "You must set them right and reach the very heart of them to undo what Hades has done.",
+      "cz": "Musíš je napravit a dosáhnout jejich samého jádra, abys odčinil, co Hádes udělal.",
+      "source": "pre_existing",
+      "original_cz": "Musíš je napravit a dosáhnout jejich samého jádra, abys odčinil, co Hádes udělal."
+    },
+    {
+      "key": "Lorekeeper_018_f",
+      "en": "So what should I do next?",
+      "cz": "Co mám tedy dělat dál?",
+      "source": "pre_existing",
+      "original_cz": "Co mám tedy dělat dál?"
+    },
+    {
+      "key": "Lorekeeper_019_f",
+      "en": "<Lore>Seek the aid of Merida</Lore>. She can help you get inside the Trial.",
+      "cz": "<Lore>Vyhledejte pomoc Meridy</Lore>. Může vám pomoci dostat se do Zkoušky.",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Vyhledejte pomoc Meridy</Lore>. Může vám pomoci dostat se do Zkoušky."
+    },
+    {
+      "key": "Lorekeeper_020_f",
+      "en": "Remember: With each Trial you face, you draw one step closer to reaching Hades and rescuing the Vale!",
+      "cz": "Pamatujte: S každou zkouškou, které čelíte, se o krok přibližujete k dosažení Hádu a záchraně Údolí!",
+      "source": "pre_existing",
+      "original_cz": "Pamatujte: S každou zkouškou, které čelíte, se o krok přibližujete k dosažení Hádu a záchraně Údolí!"
+    },
+    {
+      "key": "Lorekeeper_011_f",
+      "en": "It looked like some sort of... some sort of gateway, filled with ink.",
+      "cz": "Vypadalo to jako nějaká... nějaká brána, naplněná inkoustem.",
+      "source": "pre_existing",
+      "original_cz": "Vypadalo to jako nějaká... nějaká brána, naplněná inkoustem."
+    },
+    {
+      "key": "Lorekeeper_012_f",
+      "en": "Yes, it has a most extraordinary beauty to it, does it not? And no wonder. It's sewn together from stories of great heroism and grand adventure.",
+      "cz": "Ano, má v sobě neobyčejnou krásu, že? A není divu. Je sešitá z příběhů o velkém hrdinství a velkolepém dobrodružství.",
+      "source": "pre_existing",
+      "original_cz": "Ano, má v sobě neobyčejnou krásu, že? A není divu. Je sešitá z příběhů o velkém hrdinství a velkolepém dobrodružství."
+    },
+    {
+      "key": "Lorekeeper_013_f",
+      "en": "Oh dear. Before all that ink spilled from the ground, it was a beautiful place, sewn together from stories of great heroism and grand adventure.",
+      "cz": "Ach jo. Než se ze země vylil všechen ten inkoust, bylo to krásné místo, sešité z příběhů o velkém hrdinství a velkolepém dobrodružství.",
+      "source": "pre_existing",
+      "original_cz": "Ach jo. Než se ze země vylil všechen ten inkoust, bylo to krásné místo, sešité z příběhů o velkém hrdinství a velkolepém dobrodružství."
+    }
+  ],
+  "Expansion02Main_Lorekeeper/Lorekeeper_MRQS_E02_080_IntroFlame_MRQS_E02_080_IntroFlame_TalkTo02.locbin": [
+    {
+      "key": "Lorekeeper_001_f",
+      "en": "I understand you've run afoul of Hades.",
+      "cz": "Chápu, že ses dostal do konfliktu s Hádem.",
+      "source": "pre_existing",
+      "original_cz": "Chápu, že ses dostal do konfliktu s Hádem."
+    },
+    {
+      "key": "Lorekeeper_002_f",
+      "en": "Be careful around him, {PlayerName}. He's slippery.",
+      "cz": "Buď s ním opatrný, {PlayerName}. Je kluzký.",
+      "source": "pre_existing",
+      "original_cz": "Buď s ním opatrný, {PlayerName}. Je kluzký."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "He's actually kind of funny.",
+      "cz": "Je vlastně docela vtipný.",
+      "source": "pre_existing",
+      "original_cz": "Je vlastně docela vtipný."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "He seems okay.",
+      "cz": "Vypadá v pořádku.",
+      "source": "pre_existing",
+      "original_cz": "Vypadá v pořádku."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "He's a JERK is what he is.",
+      "cz": "Je to blbec, to je on.",
+      "source": "pre_existing",
+      "original_cz": "Je to blbec, to je on."
+    },
+    {
+      "key": "Lorekeeper_010_f",
+      "en": "Well, he uses a sharp tongue to hide his true malevolence. Don't fall for it.",
+      "cz": "No, používá ostrý jazyk, aby skryl svou skutečnou zlomyslnost. Nenaleťte na to.",
+      "source": "pre_existing",
+      "original_cz": "No, používá ostrý jazyk, aby skryl svou skutečnou zlomyslnost. Nenaleťte na to."
+    },
+    {
+      "key": "Lorekeeper_009_f",
+      "en": "...and find the Sacred Spring.",
+      "cz": "...a najdi Posvátný pramen.",
+      "source": "pre_existing",
+      "original_cz": "...a najdi Posvátný pramen."
+    },
+    {
+      "key": "Lorekeeper_015_f",
+      "en": "Is there something you wished to ask me about?",
+      "cz": "Chtěl/a byste se mě na něco zeptat?",
+      "source": "pre_existing",
+      "original_cz": "Chtěl/a byste se mě na něco zeptat?"
+    },
+    {
+      "key": "Lorekeeper_013_f",
+      "en": "I've come across some mysterious flames. Hades told me I need to find \"a Sacred Spring\" to get rid of them.",
+      "cz": "Narazil jsem na záhadné plameny. Hádes mi řekl, že musím najít „Posvátný pramen“, abych se jich zbavil.",
+      "source": "pre_existing",
+      "original_cz": "Narazil jsem na záhadné plameny. Hádes mi řekl, že musím najít „Posvátný pramen“, abych se jich zbavil."
+    },
+    {
+      "key": "Lorekeeper_003_f",
+      "en": "Hmm... a <Lore>Sacred Spring</Lore>! Yes, I remember it.",
+      "cz": "Hmm... <Lore>Posvátný pramen</Lore>! Ano, pamatuji si ho.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... <Lore>Posvátný pramen</Lore>! Ano, pamatuji si ho."
+    },
+    {
+      "key": "Lorekeeper_004_f",
+      "en": "Its waters could help extinguish any flame... even the magical flames scattered about by Maleficent and Hades.",
+      "cz": "Jeho vody by mohly pomoci uhasit jakýkoli plamen... dokonce i magické plameny rozptýlené Zlobou a Hádem.",
+      "source": "pre_existing",
+      "original_cz": "Jeho vody by mohly pomoci uhasit jakýkoli plamen... dokonce i magické plameny rozptýlené Zlobou a Hádem."
+    },
+    {
+      "key": "Lorekeeper_005_f",
+      "en": "But I'm afraid I've no idea where that spring might be.",
+      "cz": "Ale obávám se, že nemám tušení, kde by ten pramen mohl být.",
+      "source": "pre_existing",
+      "original_cz": "Ale obávám se, že nemám tušení, kde by ten pramen mohl být."
+    },
+    {
+      "key": "Lorekeeper_006_f",
+      "en": "I remember that Aurora found it once, with the help of the good fairies.",
+      "cz": "Vzpomínám si, že Aurora to jednou našla s pomocí dobrých víl.",
+      "source": "pre_existing",
+      "original_cz": "Vzpomínám si, že Aurora to jednou našla s pomocí dobrých víl."
+    },
+    {
+      "key": "Lorekeeper_007_f",
+      "en": "But this is another story that's become lost and scattered from my pages.",
+      "cz": "Ale tohle je další příběh, který se ztratil a rozptýlil z mých stránek.",
+      "source": "pre_existing",
+      "original_cz": "Ale tohle je další příběh, který se ztratil a rozptýlil z mých stránek."
+    },
+    {
+      "key": "Lorekeeper_008_f",
+      "en": "If you could <Lore>capture some of the Snippets</Lore> in Mythopia, perhaps you could restore this lost tale...",
+      "cz": "Kdybys dokázal <Lore>zachytit některé úryvky</Lore> z Mythopie, možná bys mohl obnovit tento ztracený příběh...",
+      "source": "pre_existing",
+      "original_cz": "Kdybys dokázal <Lore>zachytit některé úryvky</Lore> z Mythopie, možná bys mohl obnovit tento ztracený příběh..."
+    },
+    {
+      "key": "Lorekeeper_011_f",
+      "en": "He plays at being harmless when it suits him. Don't let it fool you.",
+      "cz": "Když se mu to hodí, hraje si na neškodného. Nenech se tím zmást.",
+      "source": "pre_existing",
+      "original_cz": "Když se mu to hodí, hraje si na neškodného. Nenech se tím zmást."
+    },
+    {
+      "key": "Lorekeeper_012_f",
+      "en": "I'm glad to see he hasn't pulled the wool over your eyes with his occasional charms. But he's more than just a cad.",
+      "cz": "Jsem rád, že tě svými občasnými šarmy nenaštval. Ale je víc než jen darebák.",
+      "source": "pre_existing",
+      "original_cz": "Jsem rád, že tě svými občasnými šarmy nenaštval. Ale je víc než jen darebák."
+    },
+    {
+      "key": "Lorekeeper_014_f",
+      "en": "Take heed. Hades can be quite dangerous.",
+      "cz": "Mějte se na pozoru. Hádes může být docela nebezpečný.",
+      "source": "pre_existing",
+      "original_cz": "Mějte se na pozoru. Hádes může být docela nebezpečný."
+    }
+  ],
+  "Expansion02Main_Lorekeeper/Lorekeeper_MRQS_E02_110_FeudEnd_MRQS_E02_110_FeudEnd_Intro.locbin": [
+    {
+      "key": "Lorekeeper_001_f",
+      "en": "{PlayerName}... I'm feeling more and more myself.",
+      "cz": "{PlayerName}... Cítím se čím dál víc sám sebou.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}... Cítím se čím dál víc sám sebou."
+    },
+    {
+      "key": "Lorekeeper_000_f",
+      "en": "I daresay my pages are crisp, and my spine is not so creased!",
+      "cz": "Troufám si říct, že moje stránky jsou ostré a můj hřbet není tak zmačkaný!",
+      "source": "pre_existing",
+      "original_cz": "Troufám si říct, že moje stránky jsou ostré a můj hřbet není tak zmačkaný!"
+    },
+    {
+      "key": "Lorekeeper_002_f",
+      "en": "Have you done it? Have you ended the feud between Maleficent and Hades?",
+      "cz": "Už jsi to dokázal/a? Ukončil/a jsi spor mezi Zlobou a Hádem?",
+      "source": "pre_existing",
+      "original_cz": "Už jsi to dokázal/a? Ukončil/a jsi spor mezi Zlobou a Hádem?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Not quite.",
+      "cz": "Ne tak docela.",
+      "source": "pre_existing",
+      "original_cz": "Ne tak docela."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'm so close!",
+      "cz": "Jsem tak blízko!",
+      "source": "pre_existing",
+      "original_cz": "Jsem tak blízko!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Those two are IMPOSSIBLE!",
+      "cz": "Ti dva jsou NEMŮŽNÍ!",
+      "source": "pre_existing",
+      "original_cz": "Ti dva jsou NEMŮŽNÍ!"
+    },
+    {
+      "key": "Lorekeeper_003_f",
+      "en": "Both of them want to hear an apology, but neither of them wants to apologize.",
+      "cz": "Oba chtějí slyšet omluvu, ale ani jeden z nich se nechce omluvit.",
+      "source": "pre_existing",
+      "original_cz": "Oba chtějí slyšet omluvu, ale ani jeden z nich se nechce omluvit."
+    },
+    {
+      "key": "Lorekeeper_004_f",
+      "en": "I'm not surprised. Nothing can be simple with those two.",
+      "cz": "To mě nepřekvapuje. S těmi dvěma nemůže být nic jednoduchého.",
+      "source": "pre_existing",
+      "original_cz": "To mě nepřekvapuje. S těmi dvěma nemůže být nic jednoduchého."
+    },
+    {
+      "key": "Lorekeeper_005_f",
+      "en": "I did discover something interesting though...",
+      "cz": "Objevil jsem ale něco zajímavého...",
+      "source": "pre_existing",
+      "original_cz": "Objevil jsem ale něco zajímavého..."
+    },
+    {
+      "key": "Lorekeeper_006_f",
+      "en": "Both of them stole Story Magic from your pages. Maybe that's what set this whole thing off?",
+      "cz": "Oba ti ukradli Příběhovou magii z tvých stránek. Možná tohle celé spustilo?",
+      "source": "pre_existing",
+      "original_cz": "Oba ti ukradli Příběhovou magii z tvých stránek. Možná tohle celé spustilo?"
+    },
+    {
+      "key": "Lorekeeper_007_f",
+      "en": "Why... why yes! Now I remember — Maleficent flipped through my pages and drained me of an old story about her...",
+      "cz": "Proč... proč ano! Teď si vzpomínám — Zloba mi listovala stránkami a vysávala ze mě starý příběh o ní...",
+      "source": "pre_existing",
+      "original_cz": "Proč... proč ano! Teď si vzpomínám — Zloba mi listovala stránkami a vysávala ze mě starý příběh o ní..."
+    },
+    {
+      "key": "Lorekeeper_008_f",
+      "en": "...and Hades did the same, ripping from me an old tale about him.",
+      "cz": "...a Hádes udělal totéž a vyrval ze mě starý příběh o něm.",
+      "source": "pre_existing",
+      "original_cz": "...a Hádes udělal totéž a vyrval ze mě starý příběh o něm."
+    },
+    {
+      "key": "Lorekeeper_009_f",
+      "en": "The Snippets in Maleficent's castle and the palace on Mount Olympus were causing all sorts of trouble. I captured them using my Royal Net!",
+      "cz": "Útržky v Maleficentině hradě a paláci na Olympu způsobovaly spoustu problémů. Chytil jsem je pomocí své Královské sítě!",
+      "source": "pre_existing",
+      "original_cz": "Útržky v Maleficentině hradě a paláci na Olympu způsobovaly spoustu problémů. Chytil jsem je pomocí své Královské sítě!"
+    },
+    {
+      "key": "Lorekeeper_010_f",
+      "en": "Why didn't you say so? <Lore>Restore them to my pages</Lore> at once!",
+      "cz": "Proč jsi to neřekl? <Lore>Obnov je na mých stránkách</Lore> okamžitě!",
+      "source": "pre_existing",
+      "original_cz": "Proč jsi to neřekl? <Lore>Obnov je na mých stránkách</Lore> okamžitě!"
+    }
+  ],
+  "Expansion02Main_Lorekeeper/Lorekeeper_MRQS_E02_110_FeudEnd_MRQS_E02_110_FeudEnd_Ongoing01.locbin": [
+    {
+      "key": "Lorekeeper_000_f",
+      "en": "Within my pages, you'll find a new tale to piece back together.",
+      "cz": "Na mých stránkách najdete nový příběh, který si můžete dát dohromady.",
+      "source": "pre_existing",
+      "original_cz": "Na mých stránkách najdete nový příběh, který si můžete dát dohromady."
+    },
+    {
+      "key": "Lorekeeper_001_f",
+      "en": "I'm sure it will hold the key to resolving Maleficent and Hades' feud once and for all.",
+      "cz": "Jsem si jistý, že to bude klíč k vyřešení sporu mezi Zlobou a Hádem jednou provždy.",
+      "source": "pre_existing",
+      "original_cz": "Jsem si jistý, že to bude klíč k vyřešení sporu mezi Zlobou a Hádem jednou provždy."
+    }
+  ],
+  "Expansion02Main_Lorekeeper/Lorekeeper_MRQS_E02_110_FeudEnd_MRQS_E02_110_FeudEnd_Ongoing03.locbin": [
+    {
+      "key": "Lorekeeper_000_f",
+      "en": "You'll need to make invitations that seem perfectly suited to both Maleficent and Hades.",
+      "cz": "Budete muset vytvořit pozvánky, které budou dokonale vyhovovat jak Zlobě, tak Hádovi.",
+      "source": "pre_existing",
+      "original_cz": "Budete muset vytvořit pozvánky, které budou dokonale vyhovovat jak Zlobě, tak Hádovi."
+    },
+    {
+      "key": "Lorekeeper_001_f",
+      "en": "With those two, a bit of flattery and respect will get you everywhere!",
+      "cz": "S těmi dvěma vás trocha lichocení a respektu dostane všude!",
+      "source": "pre_existing",
+      "original_cz": "S těmi dvěma vás trocha lichocení a respektu dostane všude!"
+    }
+  ],
+  "Expansion02Main_Lorekeeper/Lorekeeper_MRQS_E02_110_FeudEnd_MRQS_E02_110_FeudEnd_Ongoing04.locbin": [
+    {
+      "key": "Lorekeeper_000_f",
+      "en": "It looks like you've found all you need to make invitations that will astonish our fiery feuding friends.",
+      "cz": "Vypadá to, že jste našli vše potřebné k výrobě pozvánek, které ohromí naše vášnivé znepřátelené přátele.",
+      "source": "pre_existing",
+      "original_cz": "Vypadá to, že jste našli vše potřebné k výrobě pozvánek, které ohromí naše vášnivé znepřátelené přátele."
+    },
+    {
+      "key": "Lorekeeper_001_f",
+      "en": "All that remains is to craft the invitations and deliver them.",
+      "cz": "Zbývá už jen vyrobit pozvánky a doručit je.",
+      "source": "pre_existing",
+      "original_cz": "Zbývá už jen vyrobit pozvánky a doručit je."
+    }
+  ],
+  "Expansion02Main_Lorekeeper/Lorekeeper_MRQS_E02_110_FeudEnd_MRQS_E02_110_FeudEnd_Ongoing07.locbin": [
+    {
+      "key": "Lorekeeper_000_f",
+      "en": "Why, bring those invitations to Maleficent and Hades, of course!",
+      "cz": "No, samozřejmě přineste ty pozvánky Zlobě a Hádovi!",
+      "source": "pre_existing",
+      "original_cz": "No, samozřejmě přineste ty pozvánky Zlobě a Hádovi!"
+    }
+  ],
+  "Expansion02Main_Lorekeeper/Lorekeeper_MRQS_E02_110_FeudEnd_MRQS_E02_110_FeudEnd_Ongoing11.locbin": [
+    {
+      "key": "Lorekeeper_000_f",
+      "en": "Maleficent has finally descended from her castle.",
+      "cz": "Zláma konečně sestoupila ze svého hradu.",
+      "source": "pre_existing",
+      "original_cz": "Zláma konečně sestoupila ze svého hradu."
+    },
+    {
+      "key": "Lorekeeper_001_f",
+      "en": "And Hades has come to confront her!",
+      "cz": "A Hádes se jí přišel postavit!",
+      "source": "pre_existing",
+      "original_cz": "A Hádes se jí přišel postavit!"
+    },
+    {
+      "key": "Lorekeeper_002_f",
+      "en": "If fireballs start to fly, do be sure to duck.",
+      "cz": "Pokud začnou létat ohnivé koule, nezapomeňte se skrčit.",
+      "source": "pre_existing",
+      "original_cz": "Pokud začnou létat ohnivé koule, nezapomeňte se skrčit."
+    }
+  ],
+  "Expansion02Main_Lorekeeper/Lorekeeper_MRQS_E02_110_FeudEnd_MRQS_E02_110_FeudEnd_Ongoing12.locbin": [
+    {
+      "key": "Lorekeeper_000_f",
+      "en": "Oh dear. Maleficent has vanished! We must confer at once.",
+      "cz": "Ach jo. Zloba zmizela! Musíme se okamžitě poradit.",
+      "source": "pre_existing",
+      "original_cz": "Ach jo. Zloba zmizela! Musíme se okamžitě poradit."
+    }
+  ],
+  "Expansion02Main_Lorekeeper/Lorekeeper_MRQS_E02_110_FeudEnd_MRQS_E02_110_FeudEnd_Outro.locbin": [
+    {
+      "key": "Lorekeeper_001_f",
+      "en": "Oh... oh dear.",
+      "cz": "Ach... ach jo.",
+      "source": "pre_existing",
+      "original_cz": "Ach... ach jo."
+    },
+    {
+      "key": "Lorekeeper_002_f",
+      "en": "The feud between Maleficent and Hades has resolved at last...",
+      "cz": "Spor mezi Zlobou a Hádem se konečně vyřešil...",
+      "source": "pre_existing",
+      "original_cz": "Spor mezi Zlobou a Hádem se konečně vyřešil..."
+    },
+    {
+      "key": "Lorekeeper_003_f",
+      "en": "...but the Neverafter rages harder than ever.",
+      "cz": "...ale Neverafter zuří silněji než kdy dřív.",
+      "source": "pre_existing",
+      "original_cz": "...ale Neverafter zuří silněji než kdy dřív."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "What happened to Maleficent?",
+      "cz": "Co se stalo se Zlobou?",
+      "source": "pre_existing",
+      "original_cz": "Co se stalo se Zlobou?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "How do we fix this?",
+      "cz": "Jak to opravíme?",
+      "source": "pre_existing",
+      "original_cz": "Jak to opravíme?"
+    },
+    {
+      "key": "Lorekeeper_000_f",
+      "en": "The tiles on the floor began to glow...",
+      "cz": "Dlaždice na podlaze začaly zářit...",
+      "source": "pre_existing",
+      "original_cz": "Dlaždice na podlaze začaly zářit..."
+    },
+    {
+      "key": "Lorekeeper_005_f",
+      "en": "...the ones that form the shape of <Lore>Princess Aurora's face</Lore>!",
+      "cz": "...ty, které tvoří tvar <Lore>tváře princezny Aurory</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "...ty, které tvoří tvar <Lore>tváře princezny Aurory</Lore>!"
+    },
+    {
+      "key": "Lorekeeper_004_f",
+      "en": "I sense that to solve this once and for all, you will need to find Princess Aurora.",
+      "cz": "Mám pocit, že abyste tohle jednou provždy vyřešili, budete muset najít princeznu Auroru.",
+      "source": "pre_existing",
+      "original_cz": "Mám pocit, že abyste tohle jednou provždy vyřešili, budete muset najít princeznu Auroru."
+    },
+    {
+      "key": "Lorekeeper_007_f",
+      "en": "Until we discover more, keep tending to the Vale, {PlayerName}.",
+      "cz": "Dokud neobjevíme víc, {PlayerName}, pečuj o Údolí.",
+      "source": "pre_existing",
+      "original_cz": "Dokud neobjevíme víc, {PlayerName}, pečuj o Údolí."
+    },
+    {
+      "key": "Lorekeeper_008_f",
+      "en": "I'm sure clues are bound to turn up eventually.",
+      "cz": "Jsem si jistý, že se nakonec nějaké stopy objeví.",
+      "source": "pre_existing",
+      "original_cz": "Jsem si jistý, že se nakonec nějaké stopy objeví."
+    },
+    {
+      "key": "Lorekeeper_006_f",
+      "en": "We will need to get to the bottom of what happened to Maleficent.",
+      "cz": "Budeme muset zjistit, co se stalo se Zlobou.",
+      "source": "pre_existing",
+      "original_cz": "Budeme muset zjistit, co se stalo se Zlobou."
+    }
+  ],
+  "Expansion02Main_Lorekeeper/Lorekeeper_MRQS_E02_110_FeudEnd_MRQS_E02_110_FeudEnd_TalkTo01.locbin": [
+    {
+      "key": "Lorekeeper_003_f",
+      "en": "{PlayerName}, did you see what I saw within my pages? Maleficent and Hades share a deep wound.",
+      "cz": "{PlayerName}, viděl jsi, co já na svých stránkách? Zloba a Hádes sdílejí hlubokou ránu.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, viděl jsi, co já na svých stránkách? Zloba a Hádes sdílejí hlubokou ránu."
+    },
+    {
+      "key": "Lorekeeper_005_f",
+      "en": "Neither felt welcome at an important gathering. Both took the slight... rather personally.",
+      "cz": "Ani jeden z nich se na důležitém setkání necítil vítán. Oba si vzali tu urážku... poněkud osobně.",
+      "source": "pre_existing",
+      "original_cz": "Ani jeden z nich se na důležitém setkání necítil vítán. Oba si vzali tu urážku... poněkud osobně."
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "Maleficent wasn't invited to Aurora's honoring celebration.",
+      "cz": "Zláma nebyla pozvána na oslavu Aurory.",
+      "source": "pre_existing",
+      "original_cz": "Zláma nebyla pozvána na oslavu Aurory."
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "Hades didn't feel like anyone wanted him at the celebration of Hercules' birth.",
+      "cz": "Hádes neměl pocit, že by ho někdo chtěl mít na oslavě Herkulova narození.",
+      "source": "pre_existing",
+      "original_cz": "Hádes neměl pocit, že by ho někdo chtěl mít na oslavě Herkulova narození."
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "I don't get why this matters.",
+      "cz": "Nechápu, proč na tom záleží.",
+      "source": "pre_existing",
+      "original_cz": "Nechápu, proč na tom záleží."
+    },
+    {
+      "key": "Lorekeeper_018_f",
+      "en": "Precisely. Maleficent cursed Aurora from that day forward.",
+      "cz": "Přesně tak. Od toho dne Zloba proklela Auroru.",
+      "source": "pre_existing",
+      "original_cz": "Přesně tak. Od toho dne Zloba proklela Auroru."
+    },
+    {
+      "key": "Lorekeeper_019_f",
+      "en": "Yes, yes. After that ignominious snub, Hades was more determined than ever to overthrow Mount Olympus.",
+      "cz": "Ano, ano. Po té potupné pomluvě byl Hádes odhodlanější než kdy jindy svrhnout horu Olymp.",
+      "source": "pre_existing",
+      "original_cz": "Ano, ano. Po té potupné pomluvě byl Hádes odhodlanější než kdy jindy svrhnout horu Olymp."
+    },
+    {
+      "key": "Lorekeeper_020_f",
+      "en": "Because now I remember precisely what led Maleficent and Hades to steal away the Storybook Vale in the first place!",
+      "cz": "Protože si teď přesně vzpomínám, co vedlo Zlobu a Háda k tomu, aby ukradli Údolí pohádek!",
+      "source": "pre_existing",
+      "original_cz": "Protože si teď přesně vzpomínám, co vedlo Zlobu a Háda k tomu, aby ukradli Údolí pohádek!"
+    },
+    {
+      "key": "Lorekeeper_009_f",
+      "en": "During the Forgetting, my old friend Merlin neglected to invite the villainous pair to a great gathering of all the most powerful magic-wielders in the Valley.",
+      "cz": "Během Zapomnění můj starý přítel Merlin opomněl pozvat darebáckou dvojici na velké shromáždění všech nejmocnějších kouzelníků v Údolí.",
+      "source": "pre_existing",
+      "original_cz": "Během Zapomnění můj starý přítel Merlin opomněl pozvat darebáckou dvojici na velké shromáždění všech nejmocnějších kouzelníků v Údolí."
+    },
+    {
+      "key": "Lorekeeper_010_f",
+      "en": "He meant to, really. He merely forgot.",
+      "cz": "Myslel to vážně. Jen zapomněl.",
+      "source": "pre_existing",
+      "original_cz": "Myslel to vážně. Jen zapomněl."
+    },
+    {
+      "key": "Lorekeeper_011_f",
+      "en": "Maleficent and Hades swore revenge for being disrespected once more.",
+      "cz": "Zlá a Hádes si přísahali pomstu za to, že byli znovu zneuctění.",
+      "source": "pre_existing",
+      "original_cz": "Zlá a Hádes si přísahali pomstu za to, že byli znovu zneuctění."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "THAT'S what this is all about? Those two are SUCH babies.",
+      "cz": "O TO TO JDE? Ti dva jsou TAKOVÍ miminka.",
+      "source": "pre_existing",
+      "original_cz": "O TO TO JDE? Ti dva jsou TAKOVÍ miminka."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I get it. It feels bad not to be included.",
+      "cz": "Chápu to. Je mi líto, že tam nejsem.",
+      "source": "pre_existing",
+      "original_cz": "Chápu to. Je mi líto, že tam nejsem."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I'd probably have done the same thing.",
+      "cz": "Asi bych udělal totéž.",
+      "source": "pre_existing",
+      "original_cz": "Asi bych udělal totéž."
+    },
+    {
+      "key": "Lorekeeper_006_f",
+      "en": "They are childish, they are petulant, and despite being the Mistress of All Evil and lord of the Underworld...",
+      "cz": "Jsou dětinské, protivné a přestože jsou Paní všeho zla a pány podsvětí...",
+      "source": "pre_existing",
+      "original_cz": "Jsou dětinské, protivné a přestože jsou Paní všeho zla a pány podsvětí..."
+    },
+    {
+      "key": "Lorekeeper_007_f",
+      "en": "...their feelings are all too human, aren't they? No one likes to be left out. Not even a rather talkative book.",
+      "cz": "...jejich city jsou až příliš lidské, že? Nikdo nemá rád, když je vynechán. Ani poněkud upovídaná kniha.",
+      "source": "pre_existing",
+      "original_cz": "...jejich city jsou až příliš lidské, že? Nikdo nemá rád, když je vynechán. Ani poněkud upovídaná kniha."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I guess I can sort of understand that.",
+      "cz": "Asi to tak nějak chápu.",
+      "source": "pre_existing",
+      "original_cz": "Asi to tak nějak chápu."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Not buying it. Dealing with hurt feelings is part of being grown up.",
+      "cz": "Nevěřím tomu. Vyrovnávání se s uraženými city je součástí dospělosti.",
+      "source": "pre_existing",
+      "original_cz": "Nevěřím tomu. Vyrovnávání se s uraženými city je součástí dospělosti."
+    },
+    {
+      "key": "Lorekeeper_021_f",
+      "en": "We need not excuse their actions, only understand their motivations.",
+      "cz": "Nemusíme omlouvat jejich činy, stačí pochopit jejich motivaci.",
+      "source": "pre_existing",
+      "original_cz": "Nemusíme omlouvat jejich činy, stačí pochopit jejich motivaci."
+    },
+    {
+      "key": "Lorekeeper_022_f",
+      "en": "Perhaps if there was some way to make them both feel important and included...",
+      "cz": "Možná kdyby existoval nějaký způsob, jak jim oběma dát pocit důležitosti a začlenění...",
+      "source": "pre_existing",
+      "original_cz": "Možná kdyby existoval nějaký způsob, jak jim oběma dát pocit důležitosti a začlenění..."
+    },
+    {
+      "key": "Lorekeeper_023_f",
+      "en": "Something with <Lore>fancy invitations</Lore> made just for them?",
+      "cz": "Něco s <Lore>luxusními pozvánkami</Lore> vyrobenými jen pro ně?",
+      "source": "pre_existing",
+      "original_cz": "Něco s <Lore>luxusními pozvánkami</Lore> vyrobenými jen pro ně?"
+    },
+    {
+      "key": "Lorekeeper_028_f",
+      "en": "Yes, yes! Invite them to a great gathering to discuss how we can put a stop to the Neverafter once and for all.",
+      "cz": "Ano, ano! Pozvěte je na skvělé setkání, abychom prodiskutovali, jak můžeme jednou provždy zastavit Neverafter.",
+      "source": "pre_existing",
+      "original_cz": "Ano, ano! Pozvěte je na skvělé setkání, abychom prodiskutovali, jak můžeme jednou provždy zastavit Neverafter."
+    },
+    {
+      "key": "Lorekeeper_004_f",
+      "en": "We need a name for this endeavor. Something to unite us all...",
+      "cz": "Potřebujeme pro tento projekt název. Něco, co nás všechny spojí...",
+      "source": "pre_existing",
+      "original_cz": "Potřebujeme pro tento projekt název. Něco, co nás všechny spojí..."
+    },
+    {
+      "key": "Player_005_choice_000_f",
+      "en": "The Grand Council of the Neverafter.",
+      "cz": "Velká rada Neverafteru.",
+      "source": "pre_existing",
+      "original_cz": "Velká rada Neverafteru."
+    },
+    {
+      "key": "Player_005_choice_001_f",
+      "en": "The Guardians of the Vale.",
+      "cz": "Strážci údolí.",
+      "source": "pre_existing",
+      "original_cz": "Strážci údolí."
+    },
+    {
+      "key": "Player_005_choice_002_f",
+      "en": "The Lorekeeper's Legion.",
+      "cz": "Legie Strážců Vědomostí.",
+      "source": "pre_existing",
+      "original_cz": "Legie Strážců Vědomostí."
+    },
+    {
+      "key": "Lorekeeper_008_f",
+      "en": "Hrm... yes... it sounds quite official, doesn't it?",
+      "cz": "Hrm... ano... to zní docela oficiálně, že?",
+      "source": "pre_existing",
+      "original_cz": "Hrm... ano... to zní docela oficiálně, že?"
+    },
+    {
+      "key": "Lorekeeper_030_f",
+      "en": "It's time to convene the <Lore>Grand Council of the Neverafter</Lore>!",
+      "cz": "Je čas svolat <Lore>Velkou radu Neverafter</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Je čas svolat <Lore>Velkou radu Neverafter</Lore>!"
+    },
+    {
+      "key": "Lorekeeper_029_f",
+      "en": "{PlayerName}, <Lore>make the invitations and gather everyone</Lore> right here in the Library of Lore. I will prepare a stirring speech...",
+      "cz": "{PlayerName}, <Lore>vyrob pozvánky a shromáždi všechny</Lore> přímo tady v Knihovně Lore. Připravím strhující projev...",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, <Lore>vyrob pozvánky a shromáždi všechny</Lore> přímo tady v Knihovně Lore. Připravím strhující projev..."
+    },
+    {
+      "key": "Lorekeeper_012_f",
+      "en": "Oh, my. How heroic! Maleficent and Hades will feel quite flattered indeed.",
+      "cz": "Ach jo. Jak hrdinské! Zloba a Hádes se budou cítit opravdu polichoceni.",
+      "source": "pre_existing",
+      "original_cz": "Ach jo. Jak hrdinské! Zloba a Hádes se budou cítit opravdu polichoceni."
+    },
+    {
+      "key": "Lorekeeper_031_f",
+      "en": "It's time to assemble the <Lore>Guardians of the Vale</Lore>!",
+      "cz": "Je čas shromáždit <Lore>Strážce údolí</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Je čas shromáždit <Lore>Strážce údolí</Lore>!"
+    },
+    {
+      "key": "Lorekeeper_032_f",
+      "en": "Oh... you'd like to name it after me?",
+      "cz": "Aha... chtěl bys to pojmenovat po mně?",
+      "source": "pre_existing",
+      "original_cz": "Aha... chtěl bys to pojmenovat po mně?"
+    },
+    {
+      "key": "Lorekeeper_033_f",
+      "en": "I can't tell you how moved I am, {PlayerName}. Before you arrived, I feared the Vale was doomed to be overrun by ink.",
+      "cz": "Nedokážu ti ani říct, jak moc mě to dojalo, {PlayerName}. Než jsi dorazil, bál jsem se, že Údolí je odsouzeno k zaplavení inkoustem.",
+      "source": "pre_existing",
+      "original_cz": "Nedokážu ti ani říct, jak moc mě to dojalo, {PlayerName}. Než jsi dorazil, bál jsem se, že Údolí je odsouzeno k zaplavení inkoustem."
+    },
+    {
+      "key": "Lorekeeper_034_f",
+      "en": "It's an honor to convene the first meeting of the <Lore>Lorekeeper's Legion</Lore>.",
+      "cz": "Je mi ctí svolat první schůzi <Lore>Legie znalců tradice</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Je mi ctí svolat první schůzi <Lore>Legie znalců tradice</Lore>."
+    },
+    {
+      "key": "Lorekeeper_013_f",
+      "en": "Yes, despite being the Mistress of All Evil and the lord of the Underworld, their feelings are all too human, aren't they?",
+      "cz": "Ano, i když jsou Paní všeho zla a pánem podsvětí, jejich city jsou až příliš lidské, že?",
+      "source": "pre_existing",
+      "original_cz": "Ano, i když jsou Paní všeho zla a pánem podsvětí, jejich city jsou až příliš lidské, že?"
+    },
+    {
+      "key": "Lorekeeper_014_f",
+      "en": "I too can understand the all too human emotions that drove the Mistress of All Evil and the lord of the Underworld...",
+      "cz": "I já chápu ty až příliš lidské emoce, které poháněly Paní všeho zla a pána podsvětí...",
+      "source": "pre_existing",
+      "original_cz": "I já chápu ty až příliš lidské emoce, které poháněly Paní všeho zla a pána podsvětí..."
+    },
+    {
+      "key": "Lorekeeper_015_f",
+      "en": "...but are you truly implying that if you weren't invited to a party, you would sow chaos across the entire Vale?",
+      "cz": "...ale opravdu naznačuješ, že kdybys nebyl pozván na večírek, rozséval bys chaos po celém Údolí?",
+      "source": "pre_existing",
+      "original_cz": "...ale opravdu naznačuješ, že kdybys nebyl pozván na večírek, rozséval bys chaos po celém Údolí?"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Er... I guess not.",
+      "cz": "Ehm... asi ne.",
+      "source": "pre_existing",
+      "original_cz": "Ehm... asi ne."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Definitely. I take parties VERY seriously. Parties have cake!",
+      "cz": "Rozhodně. Beru večírky VELMI vážně. Večírky mají dort!",
+      "source": "pre_existing",
+      "original_cz": "Rozhodně. Beru večírky VELMI vážně. Večírky mají dort!"
+    },
+    {
+      "key": "Lorekeeper_016_f",
+      "en": "Good. I was worried for a moment there.",
+      "cz": "Dobře. Na chvíli jsem se o to bál.",
+      "source": "pre_existing",
+      "original_cz": "Dobře. Na chvíli jsem se o to bál."
+    },
+    {
+      "key": "Lorekeeper_025_f",
+      "en": "But back to the subject of Maleficent and Hades...",
+      "cz": "Ale zpět k tématu Zloby a Háda...",
+      "source": "pre_existing",
+      "original_cz": "Ale zpět k tématu Zloby a Háda..."
+    },
+    {
+      "key": "Lorekeeper_017_f",
+      "en": "Hrm. While I cannot eat cake myself, I do enjoy a good description of a cake.",
+      "cz": "Hrm. I když sám dort jíst nemůžu, rád si poslechnu jeho dobrý popis.",
+      "source": "pre_existing",
+      "original_cz": "Hrm. I když sám dort jíst nemůžu, rád si poslechnu jeho dobrý popis."
+    },
+    {
+      "key": "Player_004_choice_000_f",
+      "en": "A chocolate cake with a layer of extra-rich fondant on top...",
+      "cz": "Čokoládový dort s vrstvou extra bohatého fondánu navrchu...",
+      "source": "pre_existing",
+      "original_cz": "Čokoládový dort s vrstvou extra bohatého fondánu navrchu..."
+    },
+    {
+      "key": "Player_004_choice_001_f",
+      "en": "A coconut cake that's not too dry and not too gooey...",
+      "cz": "Kokosový dort, který není ani příliš suchý, ani příliš lepkavý...",
+      "source": "pre_existing",
+      "original_cz": "Kokosový dort, který není ani příliš suchý, ani příliš lepkavý..."
+    },
+    {
+      "key": "Player_004_choice_002_f",
+      "en": "I'll describe cakes to you later. Right now we gotta focus.",
+      "cz": "Dorty ti popíšu později. Teď se musíme soustředit.",
+      "source": "pre_existing",
+      "original_cz": "Dorty ti popíšu později. Teď se musíme soustředit."
+    },
+    {
+      "key": "Lorekeeper_024_f",
+      "en": "Hmmm! Delectable!",
+      "cz": "Hmmm! Lahodné!",
+      "source": "pre_existing",
+      "original_cz": "Hmmm! Lahodné!"
+    },
+    {
+      "key": "Lorekeeper_027_f",
+      "en": "Errr, but we mustn't get distracted by cakes. Back to Maleficent and Hades!",
+      "cz": "Ehm, ale nesmíme se nechat rozptylovat dorty. Zpátky ke Zlobě a Hádovi!",
+      "source": "pre_existing",
+      "original_cz": "Ehm, ale nesmíme se nechat rozptylovat dorty. Zpátky ke Zlobě a Hádovi!"
+    },
+    {
+      "key": "Lorekeeper_026_f",
+      "en": "Er, yes, yes. Back to Maleficent and Hades!",
+      "cz": "Ehm, ano, ano. Zpátky ke Zlobě a Hádovi!",
+      "source": "pre_existing",
+      "original_cz": "Ehm, ano, ano. Zpátky ke Zlobě a Hádovi!"
+    }
+  ],
+  "Expansion02Main_Lorekeeper/Lorekeeper_MRQS_E02_110_FeudEnd_MRQS_E02_110_FeudEnd_TalkTo03.locbin": [
+    {
+      "key": "Lorekeeper_000_f",
+      "en": "Maleficent and Hades have agreed to meet?",
+      "cz": "Zlá a Hádes se dohodli na setkání?",
+      "source": "pre_existing",
+      "original_cz": "Zlá a Hádes se dohodli na setkání?"
+    },
+    {
+      "key": "Lorekeeper_001_f",
+      "en": "They have. But something a little funny came up when I talked to both of them.",
+      "cz": "Ano. Ale když jsem s oběma mluvil, přišla na řadu trochu zvláštní věc.",
+      "source": "pre_existing",
+      "original_cz": "Ano. Ale když jsem s oběma mluvil, přišla na řadu trochu zvláštní věc."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "They both blamed the other for starting the feud.",
+      "cz": "Oba se navzájem obviňovali ze zahájení sváru.",
+      "source": "pre_existing",
+      "original_cz": "Oba se navzájem obviňovali ze zahájení sváru."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Are we SURE the Neverafter is connected with them?",
+      "cz": "Jsme si JISTI, že s nimi Neverafter souvisí?",
+      "source": "pre_existing",
+      "original_cz": "Jsme si JISTI, že s nimi Neverafter souvisí?"
+    },
+    {
+      "key": "Lorekeeper_002_f",
+      "en": "More finger pointing, of course. We should have expected as much.",
+      "cz": "Samozřejmě, že další obviňování. Měli jsme to očekávat.",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě, že další obviňování. Měli jsme to očekávat."
+    },
+    {
+      "key": "Lorekeeper_006_f",
+      "en": "I'm not so sure about that.",
+      "cz": "Tím si nejsem tak jistý.",
+      "source": "pre_existing",
+      "original_cz": "Tím si nejsem tak jistý."
+    },
+    {
+      "key": "Lorekeeper_004_f",
+      "en": "Maleficent and Hades both said that <Lore>the ink started showing up BEFORE their feud began</Lore>.",
+      "cz": "Zlá i Hádes oba řekli, že <Lore>se inkoust začal objevovat PŘEDTÍM, než jejich spor začal</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Zlá i Hádes oba řekli, že <Lore>se inkoust začal objevovat PŘEDTÍM, než jejich spor začal</Lore>."
+    },
+    {
+      "key": "Lorekeeper_005_f",
+      "en": "Why... they must be mistaken. The Neverafter is surely connected to their feud!",
+      "cz": "No... musejí se mýlit. Neverafter je jistě spojen s jejich sporem!",
+      "source": "pre_existing",
+      "original_cz": "No... musejí se mýlit. Neverafter je jistě spojen s jejich sporem!"
+    },
+    {
+      "key": "Lorekeeper_007_f",
+      "en": "If it isn't... then I'm afraid I don't have the faintest clue what's really causing all this trouble.",
+      "cz": "Pokud ne... pak se obávám, že nemám ani tušení, co doopravdy způsobuje všechny tyhle potíže.",
+      "source": "pre_existing",
+      "original_cz": "Pokud ne... pak se obávám, že nemám ani tušení, co doopravdy způsobuje všechny tyhle potíže."
+    },
+    {
+      "key": "Lorekeeper_008_f",
+      "en": "No. This MUST be the doing of those vile villains.",
+      "cz": "Ne. Tohle MUSÍ být dílo těch odporných padouchů.",
+      "source": "pre_existing",
+      "original_cz": "Ne. Tohle MUSÍ být dílo těch odporných padouchů."
+    },
+    {
+      "key": "Lorekeeper_009_f",
+      "en": "Oh dear... Speaking of which... the Mistress of All Evil has finally taken it upon herself to come down from her castle!",
+      "cz": "Ach jo... Když už o tom mluvíme... Paní všeho zla se konečně rozhodla sestoupit ze svého hradu!",
+      "source": "pre_existing",
+      "original_cz": "Ach jo... Když už o tom mluvíme... Paní všeho zla se konečně rozhodla sestoupit ze svého hradu!"
+    },
+    {
+      "key": "Lorekeeper_010_f",
+      "en": "And Hades is sure to be here at any moment.",
+      "cz": "A Hádes tu určitě bude každou chvíli.",
+      "source": "pre_existing",
+      "original_cz": "A Hádes tu určitě bude každou chvíli."
+    },
+    {
+      "key": "Lorekeeper_012_f",
+      "en": "Let the first meeting of the <Lore>Grand Council of the Neverafter</Lore> begin!",
+      "cz": "Ať začne první zasedání <Lore>Velké rady Neverafter</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Ať začne první zasedání <Lore>Velké rady Neverafter</Lore>!"
+    },
+    {
+      "key": "Lorekeeper_011_f",
+      "en": "If fireballs start to fly... do be sure to duck.",
+      "cz": "Pokud začnou létat ohnivé koule... nezapomeňte se skrčit.",
+      "source": "pre_existing",
+      "original_cz": "Pokud začnou létat ohnivé koule... nezapomeňte se skrčit."
+    },
+    {
+      "key": "Lorekeeper_013_f",
+      "en": "Let the first meeting of the <Lore>Guardians of the Vale</Lore> begin!",
+      "cz": "Ať začne první setkání <Lore>Strážců Údolí</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Ať začne první setkání <Lore>Strážců Údolí</Lore>!"
+    },
+    {
+      "key": "Lorekeeper_014_f",
+      "en": "Let the first meeting of the <Lore>Lorekeeper's Legion</Lore> begin!",
+      "cz": "Ať začne první setkání <Lore>Legie strážců věštby</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Ať začne první setkání <Lore>Legie strážců věštby</Lore>!"
+    },
+    {
+      "key": "Lorekeeper_003_f",
+      "en": "What do you mean? Why, it must be!",
+      "cz": "Co tím myslíš? Vždyť to tak musí být!",
+      "source": "pre_existing",
+      "original_cz": "Co tím myslíš? Vždyť to tak musí být!"
+    }
+  ],
+  "Expansion02Main_Lorekeeper/Lorekeeper_SEC_E02_Olaf_010_SEC_E02_Olaf_010_TalkTo01.locbin": [
+    {
+      "key": "Lorekeeper_000_f",
+      "en": "You and Olaf seem to be hitting it off.",
+      "cz": "Zdá se, že si s Olafem rozumíte.",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že si s Olafem rozumíte."
+    },
+    {
+      "key": "Lorekeeper_001_f",
+      "en": "He is quite... enthusiastic.",
+      "cz": "Je docela... nadšený.",
+      "source": "pre_existing",
+      "original_cz": "Je docela... nadšený."
+    },
+    {
+      "key": "Lorekeeper_002_f",
+      "en": "I would never wish to dampen the tiny snowman's love of scintillating trivia or a good story. But...",
+      "cz": "Nikdy bych nechtěl utlumit lásku malého sněhuláka k jiskřivým kvízům nebo dobrému příběhu. Ale...",
+      "source": "pre_existing",
+      "original_cz": "Nikdy bych nechtěl utlumit lásku malého sněhuláka k jiskřivým kvízům nebo dobrému příběhu. Ale..."
+    },
+    {
+      "key": "Lorekeeper_003_f",
+      "en": "...given my condition, I need far more rest now. *cough cough*",
+      "cz": "...vzhledem k mému stavu teď potřebuji mnohem víc odpočinku. *kašel kašel*",
+      "source": "pre_existing",
+      "original_cz": "...vzhledem k mému stavu teď potřebuji mnohem víc odpočinku. *kašel kašel*"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'll ask Olaf to leave you alone.",
+      "cz": "Požádám Olafa, aby tě nechal na pokoji.",
+      "source": "pre_existing",
+      "original_cz": "Požádám Olafa, aby tě nechal na pokoji."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "There must be another source of fun facts around here.",
+      "cz": "Musí tu být ještě nějaký další zdroj zábavných faktů.",
+      "source": "pre_existing",
+      "original_cz": "Musí tu být ještě nějaký další zdroj zábavných faktů."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Maybe we could trick him into talking to some other book.",
+      "cz": "Možná bychom ho mohli obelstít, aby si promluvil s nějakou jinou knihou.",
+      "source": "pre_existing",
+      "original_cz": "Možná bychom ho mohli obelstít, aby si promluvil s nějakou jinou knihou."
+    },
+    {
+      "key": "Lorekeeper_005_f",
+      "en": "Please be careful not to hurt the little snowman's feelings.",
+      "cz": "Prosím, dávejte pozor, abyste nezranili city malého sněhuláka.",
+      "source": "pre_existing",
+      "original_cz": "Prosím, dávejte pozor, abyste nezranili city malého sněhuláka."
+    },
+    {
+      "key": "Lorekeeper_006_f",
+      "en": "Perhaps if there was something else to occupy him, to keep him busy?",
+      "cz": "Možná kdyby ho něco jiného zaměstnávalo, udrželo ho v kondici?",
+      "source": "pre_existing",
+      "original_cz": "Možná kdyby ho něco jiného zaměstnávalo, udrželo ho v kondici?"
+    },
+    {
+      "key": "Lorekeeper_004_f",
+      "en": "There's one person who knows Olaf better than anybody.",
+      "cz": "Existuje jeden člověk, který zná Olafa lépe než kdokoli jiný.",
+      "source": "pre_existing",
+      "original_cz": "Existuje jeden člověk, který zná Olafa lépe než kdokoli jiný."
+    },
+    {
+      "key": "Lorekeeper_009_f",
+      "en": "Anna! I'll <Lore>talk to her</Lore> and see if we can find a new hobby for Olaf.",
+      "cz": "Anno! <Lore>Promluvím si s ní</Lore> a zkusím najít pro Olafa nový koníček.",
+      "source": "pre_existing",
+      "original_cz": "Anno! <Lore>Promluvím si s ní</Lore> a zkusím najít pro Olafa nový koníček."
+    },
+    {
+      "key": "Lorekeeper_007_f",
+      "en": "Yes, that's a fine idea — something else to occupy the little snowman.",
+      "cz": "Ano, to je skvělý nápad – něco dalšího, čím by se malý sněhulák zabavil.",
+      "source": "pre_existing",
+      "original_cz": "Ano, to je skvělý nápad – něco dalšího, čím by se malý sněhulák zabavil."
+    },
+    {
+      "key": "Lorekeeper_008_f",
+      "en": "The little snowman is far too clever for that. But something else to occupy his time is not a bad idea.",
+      "cz": "Malý sněhulák je na to až příliš chytrý. Ale zabavit ho něčím jiným není špatný nápad.",
+      "source": "pre_existing",
+      "original_cz": "Malý sněhulák je na to až příliš chytrý. Ale zabavit ho něčím jiným není špatný nápad."
+    }
+  ],
+  "Expansion02Main_Lorekeeper/Lorekeeper_VLG_Flyn_010_VLG_Flyn_010_TalkTo06.locbin": [
+    {
+      "key": "Lorekeeper_000_f",
+      "en": "Hello {PlayerName}. What brings you here?",
+      "cz": "Ahoj {PlayerName}. Co tě sem přivádí?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj {PlayerName}. Co tě sem přivádí?"
+    },
+    {
+      "key": "Lorekeeper_001_f",
+      "en": "I'm actually trying to help Flynn out right now.",
+      "cz": "Ve skutečnosti se teď snažím Flynnovi pomoct.",
+      "source": "pre_existing",
+      "original_cz": "Ve skutečnosti se teď snažím Flynnovi pomoct."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "He's howling mad at his situation.",
+      "cz": "Vyje zuřivě kvůli své situaci.",
+      "source": "pre_existing",
+      "original_cz": "Vyje zuřivě kvůli své situaci."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "He needs the support of his pack right now.",
+      "cz": "Právě teď potřebuje podporu své smečky.",
+      "source": "pre_existing",
+      "original_cz": "Právě teď potřebuje podporu své smečky."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "He's fur-getting himself.",
+      "cz": "Získává si srst.",
+      "source": "pre_existing",
+      "original_cz": "Získává si srst."
+    },
+    {
+      "key": "Lorekeeper_002_f",
+      "en": "... It's a wolf pun.",
+      "cz": "... Je to slovní hříčka s vlkem.",
+      "source": "pre_existing",
+      "original_cz": "... Je to slovní hříčka s vlkem."
+    },
+    {
+      "key": "Lorekeeper_005_f",
+      "en": "I know.",
+      "cz": "Já vím.",
+      "source": "pre_existing",
+      "original_cz": "Já vím."
+    },
+    {
+      "key": "Lorekeeper_006_f",
+      "en": "So, is it the case that Flynn still thinks he's the Wolf of the Wilds?",
+      "cz": "Takže je to tak, že si Flynn stále myslí, že je Vlk z divočiny?",
+      "source": "pre_existing",
+      "original_cz": "Takže je to tak, že si Flynn stále myslí, že je Vlk z divočiny?"
+    },
+    {
+      "key": "Lorekeeper_007_f",
+      "en": "Not exactly. He says he can't resist his urge to chase things, and the Frog Snippets have been particularly bothersome.",
+      "cz": "Ne tak docela. Říká, že nedokáže odolat své touze honit věci a Žabí úryvky jsou obzvlášť otravné.",
+      "source": "pre_existing",
+      "original_cz": "Ne tak docela. Říká, že nedokáže odolat své touze honit věci a Žabí úryvky jsou obzvlášť otravné."
+    },
+    {
+      "key": "Lorekeeper_008_f",
+      "en": "If Snippets are the problem, thankfully there is a simple solution.",
+      "cz": "Pokud jsou úryvky kódu problémem, naštěstí existuje jednoduché řešení.",
+      "source": "pre_existing",
+      "original_cz": "Pokud jsou úryvky kódu problémem, naštěstí existuje jednoduché řešení."
+    },
+    {
+      "key": "Lorekeeper_009_f",
+      "en": "The Snippets can be kept at bay by disrupting the Story Magic.",
+      "cz": "Úryvky lze držet na uzdě narušením Příběhové magie.",
+      "source": "pre_existing",
+      "original_cz": "Úryvky lze držet na uzdě narušením Příběhové magie."
+    },
+    {
+      "key": "Lorekeeper_010_f",
+      "en": "Great! What do I need to do?",
+      "cz": "Skvělé! Co musím udělat?",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Co musím udělat?"
+    },
+    {
+      "key": "Lorekeeper_011_f",
+      "en": "A <ActivityItem>Basic Faerie Snippet Repellent</ActivityItem> will do the trick. Here is the recipe for it.",
+      "cz": "<ActivityItem>Základní odpuzovač víl</ActivityItem> postačí. Zde je recept na něj.",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Základní odpuzovač víl</ActivityItem> postačí. Zde je recept na něj."
+    },
+    {
+      "key": "Lorekeeper_012_f",
+      "en": "That sounds perfect! Thank you!",
+      "cz": "To zní perfektně! Děkuji!",
+      "source": "pre_existing",
+      "original_cz": "To zní perfektně! Děkuji!"
+    }
+  ],
+  "Expansion02Main_Lorekeeper/Lorekeeper_VLG_Hade_010_VLG_Hade_010_TalkTo03.locbin": [
+    {
+      "key": "Lorekeeper_001_f",
+      "en": "Hi, Lorekeeper! I heard from some other Villagers that you might know something about lightning?",
+      "cz": "Ahoj, Lorekeeperu! Slyšel jsem od některých dalších vesničanů, že bys mohl něco vědět o bleskech?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, Lorekeeperu! Slyšel jsem od některých dalších vesničanů, že bys mohl něco vědět o bleskech?"
+    },
+    {
+      "key": "Lorekeeper_002_f",
+      "en": "Yes indeed, {PlayerName}. It is a tale from long ago...",
+      "cz": "Ano, vskutku, {PlayerName}. Je to příběh z dávných časů...",
+      "source": "pre_existing",
+      "original_cz": "Ano, vskutku, {PlayerName}. Je to příběh z dávných časů..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Do tell!",
+      "cz": "Řekni to!",
+      "source": "pre_existing",
+      "original_cz": "Řekni to!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Sorry, I don't have time for stories right now.",
+      "cz": "Promiňte, ale teď nemám čas na příběhy.",
+      "source": "pre_existing",
+      "original_cz": "Promiňte, ale teď nemám čas na příběhy."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Can we stick with the lightning instructions for now?",
+      "cz": "Můžeme se prozatím držet instrukcí pro blesky?",
+      "source": "pre_existing",
+      "original_cz": "Můžeme se prozatím držet instrukcí pro blesky?"
+    },
+    {
+      "key": "Lorekeeper_003_f",
+      "en": "Once upon a time there lived a poor scientist.",
+      "cz": "Kdysi dávno žil jeden chudý vědec.",
+      "source": "pre_existing",
+      "original_cz": "Kdysi dávno žil jeden chudý vědec."
+    },
+    {
+      "key": "Lorekeeper_004_f",
+      "en": "He longed to pierce the veil of ignorance and bring knowledge to the world!",
+      "cz": "Toužil proniknout závojem nevědomosti a přinést světu poznání!",
+      "source": "pre_existing",
+      "original_cz": "Toužil proniknout závojem nevědomosti a přinést světu poznání!"
+    },
+    {
+      "key": "Lorekeeper_005_f",
+      "en": "He was captivated by electricity and worked day and night to uncover how to harness it for the good of all.",
+      "cz": "Byl okouzlen elektřinou a dnem i nocí pracoval na tom, aby objevil, jak ji využít pro dobro všech.",
+      "source": "pre_existing",
+      "original_cz": "Byl okouzlen elektřinou a dnem i nocí pracoval na tom, aby objevil, jak ji využít pro dobro všech."
+    },
+    {
+      "key": "Lorekeeper_006_f",
+      "en": "Alas, his work was destroyed! A rival lied and besmirched his name.",
+      "cz": "Běda, jeho dílo bylo zničeno! Soupeř lhal a pošpinil jeho jméno.",
+      "source": "pre_existing",
+      "original_cz": "Běda, jeho dílo bylo zničeno! Soupeř lhal a pošpinil jeho jméno."
+    },
+    {
+      "key": "Lorekeeper_007_f",
+      "en": "A true tragedy, but his work lives on here.",
+      "cz": "Skutečná tragédie, ale jeho dílo tu žije dál.",
+      "source": "pre_existing",
+      "original_cz": "Skutečná tragédie, ale jeho dílo tu žije dál."
+    },
+    {
+      "key": "Lorekeeper_000_f",
+      "en": "For now, the <ActivityItem>Lightning Generator</ActivityItem> can be found in <Lore>the East wing of the Library of Lore, near a globe model</Lore>.",
+      "cz": "Prozatím lze <ActivityItem>Generátor blesků</ActivityItem> nalézt ve <Lore>východním křídle Knihovny Lore, poblíž modelu koule</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Prozatím lze <ActivityItem>Generátor blesků</ActivityItem> nalézt ve <Lore>východním křídle Knihovny Lore, poblíž modelu koule</Lore>."
+    },
+    {
+      "key": "Lorekeeper_009_f",
+      "en": "The machine is not powered now, but you can activate it by filling it with <Lore>Lightning Spice</Lore>.",
+      "cz": "Stroj nyní není zapnutý, ale můžete ho aktivovat naplněním <Lore>Bleskovým kořením</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Stroj nyní není zapnutý, ale můžete ho aktivovat naplněním <Lore>Bleskovým kořením</Lore>."
+    },
+    {
+      "key": "Lorekeeper_010_f",
+      "en": "But beware... Add more than five and the lightning may become unstable!",
+      "cz": "Ale pozor... Přidejte více než pět a blesk se může stát nestabilním!",
+      "source": "pre_existing",
+      "original_cz": "Ale pozor... Přidejte více než pět a blesk se může stát nestabilním!"
+    },
+    {
+      "key": "Lorekeeper_011_f",
+      "en": "Thanks, Lorekeeper!",
+      "cz": "Díky, Lorekeeperu!",
+      "source": "pre_existing",
+      "original_cz": "Díky, Lorekeeperu!"
+    },
+    {
+      "key": "Lorekeeper_008_f",
+      "en": "I understand — all stories must be told in their proper season. As to your immediate needs, there is something nearby that should help.",
+      "cz": "Rozumím – všechny příběhy musí být vyprávěny ve správnou chvíli. Co se týče tvých bezprostředních potřeb, je poblíž něco, co by ti mělo pomoci.",
+      "source": "pre_existing",
+      "original_cz": "Rozumím – všechny příběhy musí být vyprávěny ve správnou chvíli. Co se týče tvých bezprostředních potřeb, je poblíž něco, co by ti mělo pomoci."
+    }
+  ],
+  "Expansion02Main_Lorekeeper/Lorekeeper_VLG_Meri_040_VLG_Meri_040_TalkTo05.locbin": [
+    {
+      "key": "Lorekeeper_000_f",
+      "en": "{PlayerName}, what a surprise. I thought you might still be at Merida's festival...",
+      "cz": "{PlayerName}, to je překvapení. Myslel jsem, že bys mohl být ještě na festivalu v Meridě...",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, to je překvapení. Myslel jsem, že bys mohl být ještě na festivalu v Meridě..."
+    },
+    {
+      "key": "Player_000_f",
+      "en": "I came to check on you.",
+      "cz": "Přišel jsem se na tebe podívat.",
+      "source": "pre_existing",
+      "original_cz": "Přišel jsem se na tebe podívat."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Do you feel left out of the party?",
+      "cz": "Cítíte se odstrčený/á?",
+      "source": "pre_existing",
+      "original_cz": "Cítíte se odstrčený/á?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Do you like parties?",
+      "cz": "Máš rád/a večírky?",
+      "source": "pre_existing",
+      "original_cz": "Máš rád/a večírky?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Merida asked me to.",
+      "cz": "Merida mě o to požádala.",
+      "source": "pre_existing",
+      "original_cz": "Merida mě o to požádala."
+    },
+    {
+      "key": "Lorekeeper_003_f",
+      "en": "Bless Merida's heart. These papery pages simply don't have the constitution for bagpipes.",
+      "cz": "Buď požehnáno Meridě. Tyto papírové stránky prostě nemají konstituci pro dudy.",
+      "source": "pre_existing",
+      "original_cz": "Buď požehnáno Meridě. Tyto papírové stránky prostě nemají konstituci pro dudy."
+    },
+    {
+      "key": "Lorekeeper_005_f",
+      "en": "I truly am fine with being on the fringes here. But... I wonder if you might help me with <Lore>a gift for Merida</Lore>.",
+      "cz": "Opravdu mi nevadí být tady na okraji. Ale... Zajímalo by mě, jestli byste mi nemohli pomoct s <Lore>dárkem pro Meridu</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Opravdu mi nevadí být tady na okraji. Ale... Zajímalo by mě, jestli byste mi nemohli pomoct s <Lore>dárkem pro Meridu</Lore>."
+    },
+    {
+      "key": "Lorekeeper_006_f",
+      "en": "She has done much for the Vale. I would like to contribute to the celebration.",
+      "cz": "Udělala pro Údolí hodně. Rád bych přispěl k oslavě.",
+      "source": "pre_existing",
+      "original_cz": "Udělala pro Údolí hodně. Rád bych přispěl k oslavě."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Of course I'll help!",
+      "cz": "Samozřejmě, že pomůžu!",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě, že pomůžu!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Your relationship is so sweet.",
+      "cz": "Váš vztah je tak sladký.",
+      "source": "pre_existing",
+      "original_cz": "Váš vztah je tak sladký."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Kinda wanted to go back to the party...",
+      "cz": "Tak trochu jsem se chtěl vrátit na tu párty...",
+      "source": "pre_existing",
+      "original_cz": "Tak trochu jsem se chtěl vrátit na tu párty..."
+    },
+    {
+      "key": "Lorekeeper_008_f",
+      "en": "I knew you would. You have such a generous spirit.",
+      "cz": "Věděl jsem, že to uděláš. Máš tak štědrou duši.",
+      "source": "pre_existing",
+      "original_cz": "Věděl jsem, že to uděláš. Máš tak štědrou duši."
+    },
+    {
+      "key": "Lorekeeper_010_f",
+      "en": "Take this <Lore>tapestry</Lore>. I will need a little help from you to finish putting it on display but... it will show Merida how proud I am of her.",
+      "cz": "Vezmi si tuhle <Lore>tapiserii</Lore>. Budu od tebe potřebovat trochu pomoci, abych ji dokončil a vystavil, ale... ukáže to Meridě, jak moc jsem na ni hrdý.",
+      "source": "pre_existing",
+      "original_cz": "Vezmi si tuhle <Lore>tapiserii</Lore>. Budu od tebe potřebovat trochu pomoci, abych ji dokončil a vystavil, ale... ukáže to Meridě, jak moc jsem na ni hrdý."
+    },
+    {
+      "key": "Lorekeeper_007_f",
+      "en": "Merida is as important to me as I am to her.",
+      "cz": "Merida je pro mě stejně důležitá jako já pro ni.",
+      "source": "pre_existing",
+      "original_cz": "Merida je pro mě stejně důležitá jako já pro ni."
+    },
+    {
+      "key": "Lorekeeper_009_f",
+      "en": "You're in luck. My gift will be perfect FOR the party.",
+      "cz": "Máš štěstí. Můj dárek bude perfektní NA večírek.",
+      "source": "pre_existing",
+      "original_cz": "Máš štěstí. Můj dárek bude perfektní NA večírek."
+    },
+    {
+      "key": "Lorekeeper_002_f",
+      "en": "I like libraries. Libraries are... the opposite of parties.",
+      "cz": "Mám rád knihovny. Knihovny jsou... opak večírků.",
+      "source": "pre_existing",
+      "original_cz": "Mám rád knihovny. Knihovny jsou... opak večírků."
+    },
+    {
+      "key": "Lorekeeper_004_f",
+      "en": "She was here earlier... Perhaps not convinced I am fine on my own — what a dear girl.",
+      "cz": "Byla tu předtím... Možná si není jistá, že mi to jde samo – to je ale milá holka.",
+      "source": "pre_existing",
+      "original_cz": "Byla tu předtím... Možná si není jistá, že mi to jde samo – to je ale milá holka."
+    }
+  ]
+}

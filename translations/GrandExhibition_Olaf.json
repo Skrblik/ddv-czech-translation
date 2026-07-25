@@ -1,0 +1,766 @@
+{
+  "GrandExhibition_Olaf/Olaf_GEX_Meadow_010_GEX_Meadow_010_Intro.locbin": [
+    {
+      "key": "Olaf_001_f",
+      "en": "{PlayerName}, I have the most wonderful and magical idea for something we should do together!",
+      "cz": "{PlayerName}, mám ten nejúžasnější a nejkouzelnější nápad na něco, co bychom mohli společně podniknout!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, mám ten nejúžasnější a nejkouzelnější nápad na něco, co bychom mohli společně podniknout!"
+    },
+    {
+      "key": "Olaf_002_f",
+      "en": "I'm calling it my <Lore>Grand Exhibition</Lore>!",
+      "cz": "Říkám tomu moje <Lore>Velká výstava</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Říkám tomu moje <Lore>Velká výstava</Lore>!"
+    },
+    {
+      "key": "Olaf_005_f",
+      "en": "Picture this: a big, beautiful building. Every room inside is an incredible, magical display featuring a different Biome of the Valley.",
+      "cz": "Představte si to: velká, krásná budova. Každá místnost uvnitř je neuvěřitelnou, magickou přehlídkou s jiným biomem údolí.",
+      "source": "pre_existing",
+      "original_cz": "Představte si to: velká, krásná budova. Každá místnost uvnitř je neuvěřitelnou, magickou přehlídkou s jiným biomem údolí."
+    },
+    {
+      "key": "Olaf_006_f",
+      "en": "There will be flowers and animals, fruit, gemstones, fish and... Wait for it... Art that tells the Valley's stories!",
+      "cz": "Budou tam květiny a zvířata, ovoce, drahokamy, ryby a... Počkejte si... Umění, které vypráví příběhy údolí!",
+      "source": "pre_existing",
+      "original_cz": "Budou tam květiny a zvířata, ovoce, drahokamy, ryby a... Počkejte si... Umění, které vypráví příběhy údolí!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Sounds amazing. How do we get started?",
+      "cz": "Zní to úžasně. Jak začneme?",
+      "source": "pre_existing",
+      "original_cz": "Zní to úžasně. Jak začneme?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Sounds a little ambitious for just the two of us...",
+      "cz": "Zní to trochu ambiciózně jen pro nás dva...",
+      "source": "pre_existing",
+      "original_cz": "Zní to trochu ambiciózně jen pro nás dva..."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "You lost me at \"fish and art.\"",
+      "cz": "U \"ryb a umění\" jsi mě ztratil/a.",
+      "source": "pre_existing",
+      "original_cz": "U \"ryb a umění\" jsi mě ztratil/a."
+    },
+    {
+      "key": "Olaf_008_f",
+      "en": "I am SO glad you asked.",
+      "cz": "Jsem TAK rád/a, že ses zeptal/a.",
+      "source": "pre_existing",
+      "original_cz": "Jsem TAK rád/a, že ses zeptal/a."
+    },
+    {
+      "key": "Olaf_011_f",
+      "en": "I gathered up all the crayons, paint, and paper I could find to make a blueprint for the Exhibition building.",
+      "cz": "Sesbíral jsem všechny pastelky, barvy a papír, které jsem mohl najít, abych vytvořil plán budovy výstavy.",
+      "source": "pre_existing",
+      "original_cz": "Sesbíral jsem všechny pastelky, barvy a papír, které jsem mohl najít, abych vytvořil plán budovy výstavy."
+    },
+    {
+      "key": "Olaf_012_f",
+      "en": "Mr. McDuck agreed to build it. Isn't that nice?",
+      "cz": "Pan McDuck souhlasil, že to postaví. Není to hezké?",
+      "source": "pre_existing",
+      "original_cz": "Pan McDuck souhlasil, že to postaví. Není to hezké?"
+    },
+    {
+      "key": "Olaf_013_f",
+      "en": "The lad offered to pay me in carrots and friendship...",
+      "cz": "Ten kluk mi nabídl, že mi zaplatí mrkví a přátelstvím...",
+      "source": "pre_existing",
+      "original_cz": "Ten kluk mi nabídl, že mi zaplatí mrkví a přátelstvím..."
+    },
+    {
+      "key": "Olaf_014_f",
+      "en": "I told him, \"I'll not take your money.\" Instead, I want a share of whatever profits this new attraction makes.",
+      "cz": "Řekl jsem mu: „Nevezmu si od tebe peníze.“ Místo toho chci podíl na zisku, který tato nová atrakce vydělá.",
+      "source": "pre_existing",
+      "original_cz": "Řekl jsem mu: „Nevezmu si od tebe peníze.“ Místo toho chci podíl na zisku, který tato nová atrakce vydělá."
+    },
+    {
+      "key": "Olaf_015_f",
+      "en": "And we want YOU to choose where the Exhibition should go! So, will you <Lore>place the Grand Exhibition somewhere in the Valley</Lore>?",
+      "cz": "A chceme, abyste si VY vybrali, kam se má výstava konat! Takže, <Lore>umístíte Velkou výstavu někam do údolí</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "A chceme, abyste si VY vybrali, kam se má výstava konat! Takže, <Lore>umístíte Velkou výstavu někam do údolí</Lore>?"
+    },
+    {
+      "key": "Olaf_007_f",
+      "en": "Don't worry; that's why Mr. McDuck's here.",
+      "cz": "Nebojte se, proto je tady pan McDuck.",
+      "source": "pre_existing",
+      "original_cz": "Nebojte se, proto je tady pan McDuck."
+    },
+    {
+      "key": "Olaf_009_f",
+      "en": "Well, the Exhibition will have aquariums for fish. And art for... ART!",
+      "cz": "No, na výstavě budou akvária pro ryby. A umění pro... UMĚNÍ!",
+      "source": "pre_existing",
+      "original_cz": "No, na výstavě budou akvária pro ryby. A umění pro... UMĚNÍ!"
+    },
+    {
+      "key": "Olaf_010_f",
+      "en": "It'll probably be clearer if I just show you what I've made.",
+      "cz": "Asi to bude jasnější, když vám ukážu, co jsem udělal.",
+      "source": "pre_existing",
+      "original_cz": "Asi to bude jasnější, když vám ukážu, co jsem udělal."
+    }
+  ],
+  "GrandExhibition_Olaf/Olaf_GEX_Meadow_010_GEX_Meadow_010_Ongoing01.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "{PlayerName}, could you <Lore>put the Grand Exhibition</Lore> somewhere in the Valley?",
+      "cz": "{PlayerName}, mohl bys <Lore>umístit Velkou výstavu</Lore> někam do údolí?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, mohl bys <Lore>umístit Velkou výstavu</Lore> někam do údolí?"
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "I just KNOW you'll pick the perfect spot!",
+      "cz": "Prostě VÍM, že si vybereš to perfektní místo!",
+      "source": "pre_existing",
+      "original_cz": "Prostě VÍM, že si vybereš to perfektní místo!"
+    }
+  ],
+  "GrandExhibition_Olaf/Olaf_GEX_Meadow_010_GEX_Meadow_010_Ongoing02.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Ooh, I love where you placed the Exhibition!",
+      "cz": "Jé, moc se mi líbí, kam jsi umístil tu výstavu!",
+      "source": "pre_existing",
+      "original_cz": "Jé, moc se mi líbí, kam jsi umístil tu výstavu!"
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "All you need to do now is <Lore>use Mr. McDuck's construction sign</Lore> to build it. That is how you make things here, isn't it?",
+      "cz": "Teď už jen stačí <Lore>použít stavební ceduli pana McDucka</Lore> k jeho stavbě. Takhle se to tady dělá, že?",
+      "source": "pre_existing",
+      "original_cz": "Teď už jen stačí <Lore>použít stavební ceduli pana McDucka</Lore> k jeho stavbě. Takhle se to tady dělá, že?"
+    }
+  ],
+  "GrandExhibition_Olaf/Olaf_GEX_Meadow_010_GEX_Meadow_010_Ongoing03.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "<Lore>Follow me,</Lore> {PlayerName}.",
+      "cz": "<Lore>Pojď za mnou,</Lore> {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Pojď za mnou,</Lore> {PlayerName}."
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "We're headed to the <Lore>gate of the Peaceful Meadow room</Lore> inside our brand-new <Lore>Grand Exhibition</Lore>!",
+      "cz": "Míříme k <Lore>bráně místnosti Poklidné louka</Lore> v naší zbrusu nové <Lore>Velké výstavě</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Míříme k <Lore>bráně místnosti Poklidné louka</Lore> v naší zbrusu nové <Lore>Velké výstavě</Lore>!"
+    }
+  ],
+  "GrandExhibition_Olaf/Olaf_GEX_Meadow_010_GEX_Meadow_010_Ongoing04.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Let's visit the <Lore>Peaceful Meadow</Lore> room in the Grand Exhibition. I can't wait to see it!",
+      "cz": "Pojďme navštívit místnost <Lore>Poklidná louka</Lore> ve Velké výstavě. Už se nemůžu dočkat, až ji uvidím!",
+      "source": "pre_existing",
+      "original_cz": "Pojďme navštívit místnost <Lore>Poklidná louka</Lore> ve Velké výstavě. Už se nemůžu dočkat, až ji uvidím!"
+    }
+  ],
+  "GrandExhibition_Olaf/Olaf_GEX_Meadow_010_GEX_Meadow_010_Ongoing05.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "{PlayerName}, could you help me finish the Peaceful Meadow room in the Grand Exhibition?",
+      "cz": "{PlayerName}, mohl bys mi pomoct dokončit místnost Poklidná louka ve Velké výstavě?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, mohl bys mi pomoct dokončit místnost Poklidná louka ve Velké výstavě?"
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "Please <Lore>finish the Diorama</Lore>, <Lore>fill the Aquarium with Meadow fish</Lore>, and <Lore>add animals from the Meadow to the Habitat</Lore>.",
+      "cz": "Prosím <Lore>dokončete dioráma</Lore>, <Lore>naplňte akvárium lučními rybami</Lore> a <Lore>přidejte zvířata z louky do biotopu</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Prosím <Lore>dokončete dioráma</Lore>, <Lore>naplňte akvárium lučními rybami</Lore> a <Lore>přidejte zvířata z louky do biotopu</Lore>."
+    }
+  ],
+  "GrandExhibition_Olaf/Olaf_GEX_Meadow_010_GEX_Meadow_010_Ongoing06.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Meet me inside the Grand Exhibition building. EEE! I'm so excited. I'm all tingly!",
+      "cz": "Sejdeme se uvnitř budovy Velké výstavy. JÉÉÉ! Jsem tak nadšená. Celá mě mraví!",
+      "source": "pre_existing",
+      "original_cz": "Sejdeme se uvnitř budovy Velké výstavy. JÉÉÉ! Jsem tak nadšená. Celá mě mraví!"
+    }
+  ],
+  "GrandExhibition_Olaf/Olaf_GEX_Meadow_010_GEX_Meadow_010_Ongoing07.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "We should talk inside the Peaceful Meadow room in the Grand Exhibition.",
+      "cz": "Měli bychom si promluvit v místnosti Poklidná louka ve Velké výstavě.",
+      "source": "pre_existing",
+      "original_cz": "Měli bychom si promluvit v místnosti Poklidná louka ve Velké výstavě."
+    }
+  ],
+  "GrandExhibition_Olaf/Olaf_GEX_Meadow_010_GEX_Meadow_010_Ongoing08.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Hey, we have something REALLY important to talk about!",
+      "cz": "Hej, musíme si promluvit o něčem OPRAVDU důležitém!",
+      "source": "pre_existing",
+      "original_cz": "Hej, musíme si promluvit o něčem OPRAVDU důležitém!"
+    }
+  ],
+  "GrandExhibition_Olaf/Olaf_GEX_Meadow_010_GEX_Meadow_010_Outro.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "{PlayerName}... The Peaceful Meadow room... is...",
+      "cz": "{PlayerName}... Pokoj Poklidná louka... je...",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}... Pokoj Poklidná louka... je..."
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "...the most amazing thing I've ever seen!",
+      "cz": "...nejúžasnější věc, jakou jsem kdy viděl/a!",
+      "source": "pre_existing",
+      "original_cz": "...nejúžasnější věc, jakou jsem kdy viděl/a!"
+    },
+    {
+      "key": "Olaf_002_f",
+      "en": "It's even better than I imagined!",
+      "cz": "Je to ještě lepší, než jsem si představoval/a!",
+      "source": "pre_existing",
+      "original_cz": "Je to ještě lepší, než jsem si představoval/a!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Thank you, Olaf. We make a great team.",
+      "cz": "Děkuji, Olafe. Tvoříme skvělý tým.",
+      "source": "pre_existing",
+      "original_cz": "Děkuji, Olafe. Tvoříme skvělý tým."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "It's SO beautiful.",
+      "cz": "Je to TAK krásné.",
+      "source": "pre_existing",
+      "original_cz": "Je to TAK krásné."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Blueprints and crayons seem like an odd mix.",
+      "cz": "Modrotisky a pastelky se zdají být zvláštní směsicí.",
+      "source": "pre_existing",
+      "original_cz": "Modrotisky a pastelky se zdají být zvláštní směsicí."
+    },
+    {
+      "key": "Olaf_003_f",
+      "en": "I agree!",
+      "cz": "Souhlasím!",
+      "source": "pre_existing",
+      "original_cz": "Souhlasím!"
+    },
+    {
+      "key": "Olaf_005_f",
+      "en": "Oh! There are already Villagers coming by the Exhibition. They want to know when the OTHER rooms will be open.",
+      "cz": "Jé! Na výstavu už chodí vesničané. Chtějí vědět, kdy budou otevřené OSTATNÍ místnosti.",
+      "source": "pre_existing",
+      "original_cz": "Jé! Na výstavu už chodí vesničané. Chtějí vědět, kdy budou otevřené OSTATNÍ místnosti."
+    },
+    {
+      "key": "Olaf_006_f",
+      "en": "There's so much interest, AND I got more art done. So, I think we should <Lore>work on the room for Dazzle Beach next</Lore>.",
+      "cz": "Je o to velký zájem A ZÁROVEŇ jsem udělala víc grafiky. Takže si myslím, že bychom měli <Lore>příště zapracovat na pokoji pro Oslňující Pláž</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Je o to velký zájem A ZÁROVEŇ jsem udělala víc grafiky. Takže si myslím, že bychom měli <Lore>příště zapracovat na pokoji pro Oslňující Pláž</Lore>."
+    },
+    {
+      "key": "Olaf_011_f",
+      "en": "I can't wait to see it!",
+      "cz": "Už se nemůžu dočkat, až to uvidím!",
+      "source": "pre_existing",
+      "original_cz": "Už se nemůžu dočkat, až to uvidím!"
+    },
+    {
+      "key": "Olaf_009_f",
+      "en": "There's so much interest, AND I got more art done. Is there more to do in the <Lore>Dazzle Beach room</Lore>?",
+      "cz": "Zájem je obrovský, A navíc jsem stihla namalovat další obrázky. Je v místnosti <Lore>Oslňující Pláž</Lore> ještě co dělat?",
+      "source": "pre_existing",
+      "original_cz": "Zájem je obrovský, A navíc jsem stihla namalovat další obrázky. Je v místnosti <Lore>Oslňující Pláž</Lore> ještě co dělat?"
+    },
+    {
+      "key": "Olaf_004_f",
+      "en": "Mr. McDuck said the same thing!",
+      "cz": "Pan McDuck řekl totéž!",
+      "source": "pre_existing",
+      "original_cz": "Pan McDuck řekl totéž!"
+    }
+  ],
+  "GrandExhibition_Olaf/Olaf_GEX_Meadow_010_GEX_Meadow_010_TalkTo01.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Isn't this the most wonderful and stupendous place you've ever seen?",
+      "cz": "Není tohle to nejúžasnější a nejúžasnější místo, jaké jste kdy viděli?",
+      "source": "pre_existing",
+      "original_cz": "Není tohle to nejúžasnější a nejúžasnější místo, jaké jste kdy viděli?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Yes! It's amazing.",
+      "cz": "Ano! Je to úžasné.",
+      "source": "pre_existing",
+      "original_cz": "Ano! Je to úžasné."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'm still a little confused about what the Exhibition is for...",
+      "cz": "Pořád mi trochu vrtá hlavou, k čemu ta výstava vlastně je...",
+      "source": "pre_existing",
+      "original_cz": "Pořád mi trochu vrtá hlavou, k čemu ta výstava vlastně je..."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Not bad for a blueprint that was done in crayon.",
+      "cz": "Na plánek kreslený pastelkami to není špatné.",
+      "source": "pre_existing",
+      "original_cz": "Na plánek kreslený pastelkami to není špatné."
+    },
+    {
+      "key": "Olaf_002_f",
+      "en": "Oh, I was hoping you would love it!",
+      "cz": "Ach, doufal jsem, že se ti to bude líbit!",
+      "source": "pre_existing",
+      "original_cz": "Ach, doufal jsem, že se ti to bude líbit!"
+    },
+    {
+      "key": "Olaf_005_f",
+      "en": "<Lore>Follow me to the doorway of the Peaceful Meadow room.</Lore>",
+      "cz": "<Lore>Následujte mě ke dveřím pokoje Poklidná louka.</Lore>",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Následujte mě ke dveřím pokoje Poklidná louka.</Lore>"
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "Let's visit one of the rooms. I think once you see it, you'll love it as much as I do.",
+      "cz": "Pojďme navštívit jednu z místností. Myslím, že jakmile ji uvidíte, zamilujete si ji stejně jako já.",
+      "source": "pre_existing",
+      "original_cz": "Pojďme navštívit jednu z místností. Myslím, že jakmile ji uvidíte, zamilujete si ji stejně jako já."
+    },
+    {
+      "key": "Olaf_003_f",
+      "en": "And finger paint! That was a little tough for someone with twigs for hands.",
+      "cz": "A prstové barvy! To bylo trochu těžké pro někoho s větvičkami místo rukou.",
+      "source": "pre_existing",
+      "original_cz": "A prstové barvy! To bylo trochu těžké pro někoho s větvičkami místo rukou."
+    },
+    {
+      "key": "Olaf_004_f",
+      "en": "Say, why don't we explore?",
+      "cz": "Řekněte, proč to neprozkoumáme?",
+      "source": "pre_existing",
+      "original_cz": "Řekněte, proč to neprozkoumáme?"
+    }
+  ],
+  "GrandExhibition_Olaf/Olaf_GEX_Meadow_010_GEX_Meadow_010_TalkTo02.locbin": [
+    {
+      "key": "Olaf_001_f",
+      "en": "Behold, the Peaceful Meadow room!",
+      "cz": "Hle, pokoj Klidná louka!",
+      "source": "pre_existing",
+      "original_cz": "Hle, pokoj Klidná louka!"
+    },
+    {
+      "key": "Olaf_002_f",
+      "en": "Each room in the Exhibition is a tribute to a different part of the Valley. And every room has <Lore>three sections: Aquarium, Diorama, and Habitat</Lore>. Mr. McDuck suggested the names.",
+      "cz": "Každá místnost v expozici je poctou jiné části údolí. A každá místnost má <Lore>tři sekce: Akvárium, Dioráma a Biotop</Lore>. Názvy navrhl pan McDuck.",
+      "source": "pre_existing",
+      "original_cz": "Každá místnost v expozici je poctou jiné části údolí. A každá místnost má <Lore>tři sekce: Akvárium, Dioráma a Biotop</Lore>. Názvy navrhl pan McDuck."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Tell me more about the Aquarium.",
+      "cz": "Řekněte mi více o akváriu.",
+      "source": "pre_existing",
+      "original_cz": "Řekněte mi více o akváriu."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Tell me more about the Diorama.",
+      "cz": "Řekněte mi více o diorámě.",
+      "source": "pre_existing",
+      "original_cz": "Řekněte mi více o diorámě."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Tell me more about the Habitat.",
+      "cz": "Řekni mi víc o Habitatu.",
+      "source": "pre_existing",
+      "original_cz": "Řekni mi víc o Habitatu."
+    },
+    {
+      "key": "Player_000_choice_003_f",
+      "en": "What's our next step?",
+      "cz": "Jaký je náš další krok?",
+      "source": "pre_existing",
+      "original_cz": "Jaký je náš další krok?"
+    },
+    {
+      "key": "Olaf_004_f",
+      "en": "Oh, the Aquarium is a home for all the amazing fish and sea life you can find in that part of the Valley.",
+      "cz": "Ach, akvárium je domovem všech úžasných ryb a mořských živočichů, které v té části údolí najdete.",
+      "source": "pre_existing",
+      "original_cz": "Ach, akvárium je domovem všech úžasných ryb a mořských živočichů, které v té části údolí najdete."
+    },
+    {
+      "key": "Olaf_010_f",
+      "en": "Soon you'll fill it with <Lore>one of every kind of fish from the Peaceful Meadow</Lore>. It'll be like having your own play starring fish!",
+      "cz": "Brzy ji naplníš <Lore>jednou rybou od každého druhu z Poklidné louky</Lore>. Bude to jako mít vlastní divadlo s rybami v hlavní roli!",
+      "source": "pre_existing",
+      "original_cz": "Brzy ji naplníš <Lore>jednou rybou od každého druhu z Poklidné louky</Lore>. Bude to jako mít vlastní divadlo s rybami v hlavní roli!"
+    },
+    {
+      "key": "Olaf_026_f",
+      "en": "But BEFORE we do that, there's also a display case we need to fill with <Lore>gemstones</Lore>!",
+      "cz": "Ale NEŽ to uděláme, musíme si také vystavit vitrínu, kterou <Lore>drahokamy</Lore> naplníme!",
+      "source": "pre_existing",
+      "original_cz": "Ale NEŽ to uděláme, musíme si také vystavit vitrínu, kterou <Lore>drahokamy</Lore> naplníme!"
+    },
+    {
+      "key": "Olaf_003_f",
+      "en": "Well, the Diorama is a very, very special and important part of the room.",
+      "cz": "No, dioráma je velmi, velmi zvláštní a důležitá součást místnosti.",
+      "source": "pre_existing",
+      "original_cz": "No, dioráma je velmi, velmi zvláštní a důležitá součást místnosti."
+    },
+    {
+      "key": "Olaf_025_f",
+      "en": "It has a display case for all the flowers you can find in that Biome.",
+      "cz": "Má vitrínu na všechny květiny, které v daném biomu najdete.",
+      "source": "pre_existing",
+      "original_cz": "Má vitrínu na všechny květiny, které v daném biomu najdete."
+    },
+    {
+      "key": "Olaf_007_f",
+      "en": "It ALSO tells the story of the Biome: friends we found there, or big Valley events. Its history!",
+      "cz": "TAKÉ vypráví příběh biomu: přátele, které jsme si tam našli, nebo velké události v údolí. Jeho historii!",
+      "source": "pre_existing",
+      "original_cz": "TAKÉ vypráví příběh biomu: přátele, které jsme si tam našli, nebo velké události v údolí. Jeho historii!"
+    },
+    {
+      "key": "Olaf_008_f",
+      "en": "I did the art for the Dioramas with some help from the other Villagers. Now, all we need to do is set it up. We'll start with the flowers...",
+      "cz": "Dioramata jsem kreslil s trochou pomoci ostatních vesničanů. Teď už jen musíme všechno připravit. Začneme s květinami...",
+      "source": "pre_existing",
+      "original_cz": "Dioramata jsem kreslil s trochou pomoci ostatních vesničanů. Teď už jen musíme všechno připravit. Začneme s květinami..."
+    },
+    {
+      "key": "Olaf_009_f",
+      "en": "After that, you can <Lore>gather stuff from the Peaceful Meadow</Lore> and we can put it all together!",
+      "cz": "Pak si můžeš <Lore>nasbírat věci z Poklidné louky</Lore> a my to všechno dáme dohromady!",
+      "source": "pre_existing",
+      "original_cz": "Pak si můžeš <Lore>nasbírat věci z Poklidné louky</Lore> a my to všechno dáme dohromady!"
+    },
+    {
+      "key": "Olaf_005_f",
+      "en": "Well, you know how all the different parts of the Valley are home to such adorable animals?",
+      "cz": "No, víte, jak všechny ty různé části údolí jsou domovem tak rozkošných zvířat?",
+      "source": "pre_existing",
+      "original_cz": "No, víte, jak všechny ty různé části údolí jsou domovem tak rozkošných zvířat?"
+    },
+    {
+      "key": "Olaf_011_f",
+      "en": "The Habitat is a place to let them be their cute little selves together!",
+      "cz": "Habitat je místo, kde jim umožní být společně svými roztomilými malými já!",
+      "source": "pre_existing",
+      "original_cz": "Habitat je místo, kde jim umožní být společně svými roztomilými malými já!"
+    },
+    {
+      "key": "Olaf_012_f",
+      "en": "You'll start with <Lore>bringing lots of fruit and things that grow in the Peaceful Meadow</Lore>.",
+      "cz": "Začneš tím, že <Lore>přineseš spoustu ovoce a věcí, které rostou na Poklidné louce</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Začneš tím, že <Lore>přineseš spoustu ovoce a věcí, které rostou na Poklidné louce</Lore>."
+    },
+    {
+      "key": "Olaf_027_f",
+      "en": "After that, you can bring <Lore>one of every animal from the Peaceful Meadow</Lore>, and they'll be a cozy family.",
+      "cz": "Poté si můžete přinést <Lore>jedno od každého zvířete z Poklidné louky</Lore> a bude z nich útulná rodina.",
+      "source": "pre_existing",
+      "original_cz": "Poté si můžete přinést <Lore>jedno od každého zvířete z Poklidné louky</Lore> a bude z nich útulná rodina."
+    },
+    {
+      "key": "Olaf_006_f",
+      "en": "This is where my idea becomes OUR special \"together project,\" {PlayerName}!",
+      "cz": "A tady se můj nápad stává NAŠÍM speciálním „společným projektem“ {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "A tady se můj nápad stává NAŠÍM speciálním „společným projektem“ {PlayerName}!"
+    },
+    {
+      "key": "Olaf_000_f",
+      "en": "You need to collect <Lore>flowers, gemstones, crops, and fruit from the Peaceful Meadow</Lore> and put them on their displays.",
+      "cz": "Musíte sbírat <Lore>květiny, drahokamy, úrodu a ovoce z Poklidné louky</Lore> a vystavovat je.",
+      "source": "pre_existing",
+      "original_cz": "Musíte sbírat <Lore>květiny, drahokamy, úrodu a ovoce z Poklidné louky</Lore> a vystavovat je."
+    },
+    {
+      "key": "Olaf_013_f",
+      "en": "Then I need your help to <Lore>finish the Diorama</Lore> with stuff from the Peaceful Meadow. I don't think crayons and finger paint will work for this part.",
+      "cz": "Pak potřebuji vaši pomoc s <Lore>dokončením diorámatu</Lore> s věcmi z Poklidné louky. Myslím, že pastelky a malířky prsty na tuhle část nebudou fungovat.",
+      "source": "pre_existing",
+      "original_cz": "Pak potřebuji vaši pomoc s <Lore>dokončením diorámatu</Lore> s věcmi z Poklidné louky. Myslím, že pastelky a malířky prsty na tuhle část nebudou fungovat."
+    },
+    {
+      "key": "Olaf_014_f",
+      "en": "And FINALLY, you can <Lore>fill the Aquarium with Meadow fish</Lore> and <Lore>the Habitat with Meadow animals</Lore>!",
+      "cz": "A KONEČNĚ můžete <Lore>naplnit akvárium lučními rybami</Lore> a <Lore>obyvatelstvo lučními zvířaty</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "A KONEČNĚ můžete <Lore>naplnit akvárium lučními rybami</Lore> a <Lore>obyvatelstvo lučními zvířaty</Lore>!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I can't wait to get started!",
+      "cz": "Už se nemůžu dočkat, až začnu!",
+      "source": "pre_existing",
+      "original_cz": "Už se nemůžu dočkat, až začnu!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I LOVE collecting stuff.",
+      "cz": "MILUJI sbírání věcí.",
+      "source": "pre_existing",
+      "original_cz": "MILUJI sbírání věcí."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "You are one seriously creative snowman.",
+      "cz": "Jsi vážně kreativní sněhulák.",
+      "source": "pre_existing",
+      "original_cz": "Jsi vážně kreativní sněhulák."
+    },
+    {
+      "key": "Olaf_017_f",
+      "en": "Hooray! I can't wait to see this room really come to life.",
+      "cz": "Hurá! Už se nemůžu dočkat, až tenhle pokoj opravdu ožije.",
+      "source": "pre_existing",
+      "original_cz": "Hurá! Už se nemůžu dočkat, až tenhle pokoj opravdu ožije."
+    },
+    {
+      "key": "Olaf_019_f",
+      "en": "It's gonna be so fun when it's all finished!",
+      "cz": "Bude to taková zábava, až to všechno skončí!",
+      "source": "pre_existing",
+      "original_cz": "Bude to taková zábava, až to všechno skončí!"
+    },
+    {
+      "key": "Olaf_022_f",
+      "en": "Come find me when you're done, okay?",
+      "cz": "Až skončíš, přijď si mě najít, ano?",
+      "source": "pre_existing",
+      "original_cz": "Až skončíš, přijď si mě najít, ano?"
+    },
+    {
+      "key": "Olaf_023_f",
+      "en": "I'm gonna start working on art for the other rooms!",
+      "cz": "Začnu pracovat na umění do ostatních pokojů!",
+      "source": "pre_existing",
+      "original_cz": "Začnu pracovat na umění do ostatních pokojů!"
+    },
+    {
+      "key": "Olaf_016_f",
+      "en": "Me too! I collect trivia, and facts, and tidbits, and jokes, and butter dishes...",
+      "cz": "Já taky! Sbírám drobnosti, fakta, zajímavosti, vtipy a máslové misky...",
+      "source": "pre_existing",
+      "original_cz": "Já taky! Sbírám drobnosti, fakta, zajímavosti, vtipy a máslové misky..."
+    },
+    {
+      "key": "Olaf_020_f",
+      "en": "Um, what was I saying?",
+      "cz": "Ehm, co jsem to říkal/a?",
+      "source": "pre_existing",
+      "original_cz": "Ehm, co jsem to říkal/a?"
+    },
+    {
+      "key": "Olaf_021_f",
+      "en": "Oh!",
+      "cz": "Ó!",
+      "source": "pre_existing",
+      "original_cz": "Ó!"
+    },
+    {
+      "key": "Olaf_018_f",
+      "en": "Aw, you make me wish I could blush.",
+      "cz": "Ach, kvůli tobě si přeji, abych se mohla červenat.",
+      "source": "pre_existing",
+      "original_cz": "Ach, kvůli tobě si přeji, abych se mohla červenat."
+    }
+  ],
+  "GrandExhibition_Olaf/Olaf_GEX_Meadow_010_GEX_Meadow_010_TalkToDialog01.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "The Peaceful Meadow room is just through this doorway, waiting for us. Let's <Lore>go inside</Lore>!",
+      "cz": "Místnost Poklidná louka je hned za těmito dveřmi a čeká na nás. Pojďme <Lore>dovnitř</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Místnost Poklidná louka je hned za těmito dveřmi a čeká na nás. Pojďme <Lore>dovnitř</Lore>!"
+    }
+  ],
+  "GrandExhibition_Olaf/Olaf_GEX_Meadow_011_GEX_Meadow_011_Ongoing01.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Well, an important part of the Grand Exhibition's Dioramas is a display for <Lore>all the pretty flowers and plants</Lore>.",
+      "cz": "Důležitou součástí dioramat Velké výstavy je expozice <Lore>všech krásných květin a rostlin</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Důležitou součástí dioramat Velké výstavy je expozice <Lore>všech krásných květin a rostlin</Lore>."
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "So first, could you <Lore>collect one of every flower in the Peaceful Meadow</Lore> and put them in the Peaceful Meadow's display case?",
+      "cz": "Takže nejdřív, mohl bys <Lore>nasbírat po jednom květu z každé louky na Poklidné louce</Lore> a dát je do vitríny Poklidné louky?",
+      "source": "pre_existing",
+      "original_cz": "Takže nejdřív, mohl bys <Lore>nasbírat po jednom květu z každé louky na Poklidné louce</Lore> a dát je do vitríny Poklidné louky?"
+    }
+  ],
+  "GrandExhibition_Olaf/Olaf_GEX_Meadow_011_GEX_Meadow_011_Ongoing02.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Have you found our supplies, {PlayerName}? I can't wait to put the Diorama for the Peaceful Meadow together!",
+      "cz": "Našel jsi už naše zásoby, {PlayerName}? Už se nemůžu dočkat, až dám dohromady dioráma pro Poklidnou louku!",
+      "source": "pre_existing",
+      "original_cz": "Našel jsi už naše zásoby, {PlayerName}? Už se nemůžu dočkat, až dám dohromady dioráma pro Poklidnou louku!"
+    }
+  ],
+  "GrandExhibition_Olaf/Olaf_GEX_Meadow_011_GEX_Meadow_011_Ongoing03.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Let's <Lore>gather flowers from the Peaceful Meadow</Lore> for its room in the Grand Exhibition!",
+      "cz": "Pojďme <Lore>nasbírat květiny z Poklidné louky</Lore> pro její místo ve Velké výstavě!",
+      "source": "pre_existing",
+      "original_cz": "Pojďme <Lore>nasbírat květiny z Poklidné louky</Lore> pro její místo ve Velké výstavě!"
+    }
+  ],
+  "GrandExhibition_Olaf/Olaf_GEX_Meadow_011_GEX_Meadow_011_Ongoing04.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Have you picked one of every kind of flower in the Peaceful Meadow yet?",
+      "cz": "Už jsi natrhal/a jeden od každého druhu květiny na Poklidné louce?",
+      "source": "pre_existing",
+      "original_cz": "Už jsi natrhal/a jeden od každého druhu květiny na Poklidné louce?"
+    }
+  ],
+  "GrandExhibition_Olaf/Olaf_GEX_Meadow_011_GEX_Meadow_011_TalkTo01.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "The flowers are perfect, {PlayerName}!",
+      "cz": "Květiny jsou perfektní, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Květiny jsou perfektní, {PlayerName}!"
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "The next step might take a little longer. There are <Lore>four panels</Lore> for the Peaceful Meadow room that <Lore>have to be finished</Lore>.",
+      "cz": "Další krok možná potrvá o něco déle. Pro místnost \"Poklidná Louka\" zbývá <Lore>čtyři panely</Lore>, které <Lore>je třeba dokončit</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Další krok možná potrvá o něco déle. Pro místnost \"Poklidná Louka\" zbývá <Lore>čtyři panely</Lore>, které <Lore>je třeba dokončit</Lore>."
+    },
+    {
+      "key": "Olaf_002_f",
+      "en": "Just collect stuff from the Peaceful Meadow for each panel in the Diorama and bring it back to the stage. Ooh! I can't wait to see it all done!",
+      "cz": "Prostě sesbírejte věci z Poklidné louky pro každý panel v diorámatu a přineste je zpátky na jeviště. Jéé! Už se nemůžu dočkat, až to uvidím hotové!",
+      "source": "pre_existing",
+      "original_cz": "Prostě sesbírejte věci z Poklidné louky pro každý panel v diorámatu a přineste je zpátky na jeviště. Jéé! Už se nemůžu dočkat, až to uvidím hotové!"
+    }
+  ],
+  "GrandExhibition_Olaf/Olaf_GEX_Meadow_012_GEX_Meadow_012_Ongoing01.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "It's time to work on our beautiful Aquarium for the Peaceful Meadow part of the Exhibition. First, we need some shiny stuff.",
+      "cz": "Je čas začít pracovat na našem krásném akváriu pro část výstavy s názvem Poklidná louka. Nejdříve potřebujeme nějaké lesklé věci.",
+      "source": "pre_existing",
+      "original_cz": "Je čas začít pracovat na našem krásném akváriu pro část výstavy s názvem Poklidná louka. Nejdříve potřebujeme nějaké lesklé věci."
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "Let's collect <Lore>one of every gemstone from the Peaceful Meadow</Lore> for our display!",
+      "cz": "Pojďme si pro naši výstavu sesbírat <Lore>po jednom od každého drahokamu z Poklidné louky</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Pojďme si pro naši výstavu sesbírat <Lore>po jednom od každého drahokamu z Poklidné louky</Lore>!"
+    }
+  ],
+  "GrandExhibition_Olaf/Olaf_GEX_Meadow_012_GEX_Meadow_012_Ongoing02.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "The Aquarium looks so nice! It's all ready for its new aquarium-ers? Aquarium-idents? Yeah, \"aquarium-idents\" sounds right.",
+      "cz": "Akvárium vypadá tak krásně! Je připravené na své nové akvaristy? Akvaristy? Ano, „akvaristy“ zní správně.",
+      "source": "pre_existing",
+      "original_cz": "Akvárium vypadá tak krásně! Je připravené na své nové akvaristy? Akvaristy? Ano, „akvaristy“ zní správně."
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "Anyway, will you <Lore>catch the fish from the Peaceful Meadow</Lore> and <Lore>add them to the Aquarium in the Grand Exhibition</Lore>?",
+      "cz": "Každopádně, chytíš <Lore>ryby z Poklidné louky</Lore> a <Lore>přidáš je do akvária ve Velké výstavě</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "Každopádně, chytíš <Lore>ryby z Poklidné louky</Lore> a <Lore>přidáš je do akvária ve Velké výstavě</Lore>?"
+    }
+  ],
+  "GrandExhibition_Olaf/Olaf_GEX_Meadow_012_GEX_Meadow_012_Ongoing04.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Could you find some gemstones from the Peaceful Meadow to show off in the Grand Exhibition?",
+      "cz": "Našel bys z Poklidné louky nějaké drahokamy, které bys mohl vystavit na Velké výstavě?",
+      "source": "pre_existing",
+      "original_cz": "Našel bys z Poklidné louky nějaké drahokamy, které bys mohl vystavit na Velké výstavě?"
+    }
+  ],
+  "GrandExhibition_Olaf/Olaf_GEX_Meadow_012_GEX_Meadow_012_Ongoing06.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "Could you catch some fish in the Peaceful Meadow for our Exhibition Aquarium?",
+      "cz": "Mohli byste chytit nějaké ryby na Poklidné louce pro naše výstavní akvárium?",
+      "source": "pre_existing",
+      "original_cz": "Mohli byste chytit nějaké ryby na Poklidné louce pro naše výstavní akvárium?"
+    }
+  ],
+  "GrandExhibition_Olaf/Olaf_GEX_Meadow_013_GEX_Meadow_013_Ongoing01.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "{PlayerName}, could you collect fruit and other foods that grow in the Peaceful Meadow for the display in the Grand Exhibition?",
+      "cz": "{PlayerName}, mohl bys nasbírat ovoce a další potraviny, které rostou na Poklidné louce, pro vystavení na Velké výstavě?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, mohl bys nasbírat ovoce a další potraviny, které rostou na Poklidné louce, pro vystavení na Velké výstavě?"
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "Once you have it all, just put it on the special display stand. It's gonna look so yummy!",
+      "cz": "Jakmile to všechno budete mít, stačí to postavit na speciální stojan. Bude to vypadat tak chutně!",
+      "source": "pre_existing",
+      "original_cz": "Jakmile to všechno budete mít, stačí to postavit na speciální stojan. Bude to vypadat tak chutně!"
+    }
+  ],
+  "GrandExhibition_Olaf/Olaf_GEX_Meadow_013_GEX_Meadow_013_Ongoing02.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "The Peaceful Meadow Habitat is all ready for our furry friends!",
+      "cz": "Stanoviště Poklidné louky je připraveno pro naše chlupaté kamarády!",
+      "source": "pre_existing",
+      "original_cz": "Stanoviště Poklidné louky je připraveno pro naše chlupaté kamarády!"
+    },
+    {
+      "key": "Olaf_001_f",
+      "en": "Would you <Lore>introduce the animals from the Peaceful Meadow to the Habitat</Lore> in the Grand Exhibition?",
+      "cz": "Představil byste <Lore>zvířata z Poklidné louky v jejich prostředí</Lore> na Velké výstavě?",
+      "source": "pre_existing",
+      "original_cz": "Představil byste <Lore>zvířata z Poklidné louky v jejich prostředí</Lore> na Velké výstavě?"
+    }
+  ],
+  "GrandExhibition_Olaf/Olaf_GEX_Meadow_013_GEX_Meadow_013_Ongoing03.locbin": [
+    {
+      "key": "Olaf_000_f",
+      "en": "{PlayerName}, could you collect fruit and other foods that grow in the Peaceful Meadow for the display in the Grand Exhibition?",
+      "cz": "{PlayerName}, mohl bys nasbírat ovoce a další potraviny, které rostou na Poklidné louce, pro vystavení na Velké výstavě?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, mohl bys nasbírat ovoce a další potraviny, které rostou na Poklidné louce, pro vystavení na Velké výstavě?"
+    }
+  ]
+}

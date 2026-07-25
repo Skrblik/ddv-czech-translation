@@ -1,0 +1,2817 @@
+{
+  "Story/MRQS010_Welcome.locbin": [
+    {
+      "key": "Story!MRQS010_Welcome_Any_CompletedRequestDescription",
+      "en": "It's a <ActivityItem>Memory</ActivityItem>! Talk to Merlin to see what it means.",
+      "cz": "Je to <ActivityItem>Memory</ActivityItem>! Promluvte si s Merlinem a zjistěte, co to znamená.",
+      "source": "pre_existing",
+      "original_cz": "Je to <ActivityItem>Memory</ActivityItem>! Promluvte si s Merlinem a zjistěte, co to znamená."
+    },
+    {
+      "key": "Story!MRQS010_Welcome_AvailableDescription",
+      "en": "You arrive in a strange, desolate Village called Dreamlight Valley and encounter Merlin. Seems like he was expecting someone. Could that someone be you?",
+      "cz": "Přijíždíte do podivné, opuštěné vesnice zvané Údolí snů a narazíte na Merlina. Zdá se, že někoho očekával. Mohli byste tím někým být vy?",
+      "source": "pre_existing",
+      "original_cz": "Přijíždíte do podivné, opuštěné vesnice zvané Údolí snů a narazíte na Merlina. Zdá se, že někoho očekával. Mohli byste tím někým být vy?"
+    },
+    {
+      "key": "Story!MRQS010_Welcome_CompletedStoryDescription",
+      "en": "The Orb shows you an image of Mickey and Merlin in front of Dream Castle. You should talk to Merlin about it.",
+      "cz": "Orb ti ukazuje obrázek Mickeyho a Merlina před Hradem snů. Měl by sis o tom promluvit s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Orb ti ukazuje obrázek Mickeyho a Merlina před Hradem snů. Měl by sis o tom promluvit s Merlinem."
+    },
+    {
+      "key": "Story!MRQS010_Welcome_DisplayName",
+      "en": "Welcome to Dreamlight Valley",
+      "cz": "Vítejte v Údolí snů",
+      "source": "pre_existing",
+      "original_cz": "Vítejte v Údolí snů"
+    },
+    {
+      "key": "Story!MRQS010_Welcome_Group01_Step01_Unlock03_StepDescription",
+      "en": "Try to enter the House.",
+      "cz": "Zkuste vstoupit do domu.",
+      "source": "pre_existing",
+      "original_cz": "Zkuste vstoupit do domu."
+    },
+    {
+      "key": "Story!MRQS010_Welcome_Group02_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How do I remove the Night Thorns?",
+      "cz": "<smallcaps>{title}<smallcaps><br>Jak odstraním Noční trny?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}<smallcaps><br>Jak odstraním Noční trny?"
+    },
+    {
+      "key": "Story!MRQS010_Welcome_Group02_Step02_StepDescription",
+      "en": "Remove the Night Thorns inside the House.",
+      "cz": "Odstraňte noční trny uvnitř domu.",
+      "source": "pre_existing",
+      "original_cz": "Odstraňte noční trny uvnitř domu."
+    },
+    {
+      "key": "Story!MRQS010_Welcome_Group02_StoryDescription",
+      "en": "The Night Thorns have spread in the deserted building. Merlin asks for your help removing them.",
+      "cz": "Noční trny se rozšířily v opuštěné budově. Merlin vás žádá o pomoc s jejich odstraněním.",
+      "source": "pre_existing",
+      "original_cz": "Noční trny se rozšířily v opuštěné budově. Merlin vás žádá o pomoc s jejich odstraněním."
+    },
+    {
+      "key": "Story!MRQS010_Welcome_Group04_Step04_TalkToCharacter02_StepDescription",
+      "en": "Talk to Merlin to find out what to do next.",
+      "cz": "Promluvte si s Merlinem a zjistěte, co dělat dál.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Merlinem a zjistěte, co dělat dál."
+    },
+    {
+      "key": "Story!MRQS010_Welcome_Group05_Step05_Unlock02_StepDescription",
+      "en": "Investigate the glowing Orb using {input_interact}.",
+      "cz": "Prozkoumejte zářící kouli pomocí {input_interact}.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte zářící kouli pomocí {input_interact}."
+    },
+    {
+      "key": "Story!MRQS010_Welcome_Group05_StoryDescription",
+      "en": "A glowing Orb appears after removing the Night Thorns...",
+      "cz": "Po odstranění Nočních trnů se objeví zářící koule...",
+      "source": "pre_existing",
+      "original_cz": "Po odstranění Nočních trnů se objeví zářící koule..."
+    },
+    {
+      "key": "Story!MRQS010_Welcome_Group12_Step12_VisitArea01_StepDescription",
+      "en": "Go inside the House.",
+      "cz": "Jděte dovnitř domu.",
+      "source": "pre_existing",
+      "original_cz": "Jděte dovnitř domu."
+    },
+    {
+      "key": "Story!MRQS010_Welcome_Group12_StoryDescription",
+      "en": "Focusing your magic on the door, you remove the Night Thorns, gaining access to an abandoned House.",
+      "cz": "Soustředíš svou magii na dveře, odstraníš Noční trny a získáš přístup do opuštěného domu.",
+      "source": "pre_existing",
+      "original_cz": "Soustředíš svou magii na dveře, odstraníš Noční trny a získáš přístup do opuštěného domu."
+    },
+    {
+      "key": "Story!MRQS010_Welcome_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Go see who wants to talk to you.",
+      "cz": "<smallcaps>{title}</smallcaps><br>Jdi se podívat, kdo s tebou chce mluvit.",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Jdi se podívat, kdo s tebou chce mluvit."
+    }
+  ],
+  "Story/MRQS015_Pickaxe.locbin": [
+    {
+      "key": "Story!MRQS015_Pickaxe_Any_CompletedRequestDescription",
+      "en": "Talk to Merlin.",
+      "cz": "Promluvte si s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Merlinem."
+    },
+    {
+      "key": "Story!MRQS015_Pickaxe_AvailableDescription",
+      "en": "Merlin asks you to recover the lost <ActivityItem>Royal Tools</ActivityItem> in the Village. He mentions that the Pickaxe is stuck in a Stone in the Plaza. For as long as it's been there, darkness has hung over the Village.",
+      "cz": "Merlin vás požádá, abyste ve vesnici našli ztracené <ActivityItem>Královské nástroje</ActivityItem>. Zmíní, že krumpáč je zaseknutý v kameni na náměstí. Od té doby, co tam je, se nad vesnicí vznáší tma.",
+      "source": "pre_existing",
+      "original_cz": "Merlin vás požádá, abyste ve vesnici našli ztracené <ActivityItem>Královské nástroje</ActivityItem>. Zmíní, že krumpáč je zaseknutý v kameni na náměstí. Od té doby, co tam je, se nad vesnicí vznáší tma."
+    },
+    {
+      "key": "Story!MRQS015_Pickaxe_CompletedStoryDescription",
+      "en": "Pulling the Pickaxe from the Stone ends the darkness that was hanging over the Village. After acquiring the remaining <ActivityItem>Royal Tools</ActivityItem>, you are now set to bring changes to the Valley.",
+      "cz": "Vytažením krumpáče z kamene ukončíte temnotu, která se vznášela nad vesnicí. Po získání zbývajících <ActivityItem>Královských nástrojů</ActivityItem> jste nyní připraveni přinést změny do Údolí.",
+      "source": "pre_existing",
+      "original_cz": "Vytažením krumpáče z kamene ukončíte temnotu, která se vznášela nad vesnicí. Po získání zbývajících <ActivityItem>Královských nástrojů</ActivityItem> jste nyní připraveni přinést změny do Údolí."
+    },
+    {
+      "key": "Story!MRQS015_Pickaxe_DisplayName",
+      "en": "The Royal Tools",
+      "cz": "Královské nástroje",
+      "source": "pre_existing",
+      "original_cz": "Královské nástroje"
+    },
+    {
+      "key": "Story!MRQS015_Pickaxe_Group01_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What must I do?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co musím udělat?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co musím udělat?"
+    },
+    {
+      "key": "Story!MRQS015_Pickaxe_Group01_Step01_StepDescription",
+      "en": "Acquire the <ActivityItem>Royal Tools</ActivityItem> in the Village.",
+      "cz": "Získejte ve vesnici <ActivityItem>Královské nástroje</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Získejte ve vesnici <ActivityItem>Královské nástroje</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS015_Pickaxe_Group01_Step01_Unlock01_StepDescription",
+      "en": "Find the Royal Pickaxe in the Plaza and pull it from the Stone.",
+      "cz": "Najděte královský krumpáč na náměstí a vytáhněte ho z kamene.",
+      "source": "pre_existing",
+      "original_cz": "Najděte královský krumpáč na náměstí a vytáhněte ho z kamene."
+    },
+    {
+      "key": "Story!MRQS015_Pickaxe_Group01_Step01_Unlock02_StepDescription",
+      "en": "Find the Shovel in the Plaza.",
+      "cz": "Najděte lopatu na náměstí.",
+      "source": "pre_existing",
+      "original_cz": "Najděte lopatu na náměstí."
+    },
+    {
+      "key": "Story!MRQS015_Pickaxe_Group01_Step01_Unlock03_StepDescription",
+      "en": "Find the Watering Can in the Plaza.",
+      "cz": "Najděte konvici na krumpáči na náměstí.",
+      "source": "pre_existing",
+      "original_cz": "Najděte konvici na krumpáči na náměstí."
+    },
+    {
+      "key": "Story!MRQS015_Pickaxe_Group01_Step01_Unlock04_StepDescription",
+      "en": "Find the Fishing Rod in the Meadow.",
+      "cz": "Najděte rybářský prut na louce.",
+      "source": "pre_existing",
+      "original_cz": "Najděte rybářský prut na louce."
+    },
+    {
+      "key": "Story!MRQS015_Pickaxe_Group02_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What must I do?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co musím udělat?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co musím udělat?"
+    },
+    {
+      "key": "Story!MRQS015_Pickaxe_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Talk to Merlin.",
+      "cz": "Promluvte si s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Merlinem."
+    },
+    {
+      "key": "Story!MRQS015_Pickaxe_Group02_Step03_Unlock05_StepDescription",
+      "en": "Find the Shovel in the Plaza.",
+      "cz": "Najděte lopatu na náměstí.",
+      "source": "pre_existing",
+      "original_cz": "Najděte lopatu na náměstí."
+    },
+    {
+      "key": "Story!MRQS015_Pickaxe_Group02_Step03_Unlock06_StepDescription",
+      "en": "Find the Watering Can in the Plaza.",
+      "cz": "Najděte konvici na krumpáči na náměstí.",
+      "source": "pre_existing",
+      "original_cz": "Najděte konvici na krumpáči na náměstí."
+    },
+    {
+      "key": "Story!MRQS015_Pickaxe_Group02_Step03_Unlock07_StepDescription",
+      "en": "Find the Fishing Rod in the Meadow.",
+      "cz": "Najděte rybářský prut na louce.",
+      "source": "pre_existing",
+      "original_cz": "Najděte rybářský prut na louce."
+    },
+    {
+      "key": "Story!MRQS015_Pickaxe_Group02_StepDescription",
+      "en": "Acquire the <ActivityItem>Royal Tools</ActivityItem> in the Village.",
+      "cz": "Získejte ve vesnici <ActivityItem>Královské nástroje</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Získejte ve vesnici <ActivityItem>Královské nástroje</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS015_Pickaxe_Group02_StoryDescription",
+      "en": "You find a conspicuous rock formation with a Pickaxe stuck in its center. You pull it out and can feel it humming with magical energy.",
+      "cz": "Najdete nápadný skalní útvar, uprostřed kterého je zapíchnutý krumpáč. Vytáhnete ho a cítíte, jak hučí magickou energií.",
+      "source": "pre_existing",
+      "original_cz": "Najdete nápadný skalní útvar, uprostřed kterého je zapíchnutý krumpáč. Vytáhnete ho a cítíte, jak hučí magickou energií."
+    }
+  ],
+  "Story/MRQS020_Castle.locbin": [
+    {
+      "key": "Story!MRQS020_Castle_Any_CompletedRequestDescription",
+      "en": "Where do all these doors lead? Talk to Merlin in the Castle.",
+      "cz": "Kam vedou všechny tyto dveře? Promluvte si s Merlinem v hradě.",
+      "source": "pre_existing",
+      "original_cz": "Kam vedou všechny tyto dveře? Promluvte si s Merlinem v hradě."
+    },
+    {
+      "key": "Story!MRQS020_Castle_AvailableDescription",
+      "en": "Merlin is waiting for you at the Castle.",
+      "cz": "Merlin na vás čeká na hradě.",
+      "source": "pre_existing",
+      "original_cz": "Merlin na vás čeká na hradě."
+    },
+    {
+      "key": "Story!MRQS020_Castle_CompletedStoryDescription",
+      "en": "Inside, you discover doors. Merlin can certainly tell you more about them.",
+      "cz": "Uvnitř objevíte dveře. Merlin vám o nich jistě poví víc.",
+      "source": "pre_existing",
+      "original_cz": "Uvnitř objevíte dveře. Merlin vám o nich jistě poví víc."
+    },
+    {
+      "key": "Story!MRQS020_Castle_DisplayName",
+      "en": "The Dream Castle",
+      "cz": "Zámek snů",
+      "source": "pre_existing",
+      "original_cz": "Zámek snů"
+    },
+    {
+      "key": "Story!MRQS020_Castle_Group01_Step01_FollowCharacter01_StepDescription",
+      "en": "Follow Merlin.",
+      "cz": "Sledujte Merlina.",
+      "source": "pre_existing",
+      "original_cz": "Sledujte Merlina."
+    },
+    {
+      "key": "Story!MRQS020_Castle_Group01_Step01_FollowCharacter01_TalkToDescription",
+      "en": "Talk to Merlin.",
+      "cz": "Promluvte si s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Merlinem."
+    },
+    {
+      "key": "Story!MRQS020_Castle_Group01_StoryDescription",
+      "en": "He explains that the Giant Night Thorns blocking the way inside are nothing like the ones you've seen before. You're going to need stronger magic if you want to access the Castle.",
+      "cz": "Vysvětluje, že Obří noční trny blokující cestu dovnitř se vůbec nepodobají těm, které jste dosud viděli. Budete potřebovat silnější magii, pokud se chcete dostat do Hradu.",
+      "source": "pre_existing",
+      "original_cz": "Vysvětluje, že Obří noční trny blokující cestu dovnitř se vůbec nepodobají těm, které jste dosud viděli. Budete potřebovat silnější magii, pokud se chcete dostat do Hradu."
+    },
+    {
+      "key": "Story!MRQS020_Castle_Group03_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What should I do with the Dreamlight I gathered?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co mám dělat s nasbíraným Světlem Snů?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co mám dělat s nasbíraným Světlem Snů?"
+    },
+    {
+      "key": "Story!MRQS020_Castle_Group03_Step03_Unlock01_StepDescription",
+      "en": "Unlock the Dream Castle.",
+      "cz": "Odemkněte Hrad snů.",
+      "source": "pre_existing",
+      "original_cz": "Odemkněte Hrad snů."
+    },
+    {
+      "key": "Story!MRQS020_Castle_Group04_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What just happened?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co se právě stalo?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co se právě stalo?"
+    },
+    {
+      "key": "Story!MRQS020_Castle_Group04_Step04_VisitArea01_StepDescription",
+      "en": "Enter the Dream Castle.",
+      "cz": "Vstupte do Hradu snů.",
+      "source": "pre_existing",
+      "original_cz": "Vstupte do Hradu snů."
+    },
+    {
+      "key": "Story!MRQS020_Castle_Group04_StoryDescription",
+      "en": "After generating enough Dreamlight from the Wishing Well, you free the Castle from the Night Thorns.",
+      "cz": "Po vygenerování dostatečného množství snového světla ze Studny přání osvobodíte hrad od Nočních trnů.",
+      "source": "pre_existing",
+      "original_cz": "Po vygenerování dostatečného množství snového světla ze Studny přání osvobodíte hrad od Nočních trnů."
+    },
+    {
+      "key": "Story!MRQS020_Castle_Group05_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How can I gather Dreamlight?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Jak mohu shromáždit Světlem Snů?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Jak mohu shromáždit Světlem Snů?"
+    },
+    {
+      "key": "Story!MRQS020_Castle_Group05_Step06_Possess02_StepDescription",
+      "en": "Gather {ItemName} to open the Dream Castle.",
+      "cz": "Seberte {ItemName} k otevření Hrad snů.",
+      "source": "pre_existing",
+      "original_cz": "Seberte {ItemName} k otevření Hrad snů."
+    },
+    {
+      "key": "Story!MRQS020_Castle_Group05_Step11_RoyalDuties01_StepDescription",
+      "en": "Complete <ActivityItem>Dreamlight Duties</ActivityItem>.",
+      "cz": "Dokončete <ActivityItem>Povinnosti v Světla Snů</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Dokončete <ActivityItem>Povinnosti v Světla Snů</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS020_Castle_Group05_Step11_StepDescription",
+      "en": "(Access the Dreamlight menu from the Well or by pressing {input_mainmenu}.)",
+      "cz": "(Do menu Světla Snů se dostanete ze Studny nebo stisknutím {input_mainmenu}.)",
+      "source": "pre_existing",
+      "original_cz": "(Do menu Světla Snů se dostanete ze Studny nebo stisknutím {input_mainmenu}.)"
+    },
+    {
+      "key": "Story!MRQS020_Castle_Group05_Step11_StepDescriptionMobile",
+      "en": "(Access the Dreamlight menu from the Well or from the Main Menu.)",
+      "cz": "(Přístup k menu Světla Snů ze Studny nebo z Hlavní nabídky.)",
+      "source": "pre_existing",
+      "original_cz": "(Přístup k menu Světla Snů ze Studny nebo z Hlavní nabídky.)"
+    },
+    {
+      "key": "Story!MRQS020_Castle_Group05_StoryDescription",
+      "en": "Merlin shows you the source of Dreamlight in the Village: the Wishing Well. He encourages you to look into it to find out which Activities generate Dreamlight, as you need to gather it to open the Dream Castle.",
+      "cz": "Merlin vám ukáže zdroj Světla snů ve vesnici: Studnu přání. Povzbuzuje vás, abyste se do ní podívali a zjistili, které aktivity Světlo snů generují, protože ho potřebujete shromáždit k otevření Hradu snů.",
+      "source": "pre_existing",
+      "original_cz": "Merlin vám ukáže zdroj Světla snů ve vesnici: Studnu přání. Povzbuzuje vás, abyste se do ní podívali a zjistili, které aktivity Světlo snů generují, protože ho potřebujete shromáždit k otevření Hradu snů."
+    },
+    {
+      "key": "Story!MRQS020_Castle_Group06_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Where can I find Mickey?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Kde najdu Mickeyho?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Kde najdu Mickeyho?"
+    },
+    {
+      "key": "Story!MRQS020_Castle_Group06_Step05_Conditional02_StepDescription",
+      "en": "Check on Mickey at his House.",
+      "cz": "Zkontrolujte Mickeyho v jeho koleji.",
+      "source": "pre_existing",
+      "original_cz": "Zkontrolujte Mickeyho v jeho koleji."
+    },
+    {
+      "key": "Story!MRQS020_Castle_Group07_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What am I missing to unlock the Castle?",
+      "cz": "<smallcaps>{title}<smallcaps><br>Co mi chybí k odemčení hradu?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}<smallcaps><br>Co mi chybí k odemčení hradu?"
+    },
+    {
+      "key": "Story!MRQS020_Castle_Group07_Step08_StepDescription",
+      "en": "Keep exploring the Valley to find the four <ActivityItem>Royal Tools</ActivityItem> and talk to Merlin.",
+      "cz": "Pokračujte v prozkoumávání údolí, abyste našli čtyři <ActivityItem>Královské nástroje</ActivityItem> a promluvili si s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Pokračujte v prozkoumávání údolí, abyste našli čtyři <ActivityItem>Královské nástroje</ActivityItem> a promluvili si s Merlinem."
+    },
+    {
+      "key": "Story!MRQS020_Castle_Group08_Step07_FollowCharacter02_TalkToDescription",
+      "en": "Talk to Merlin.",
+      "cz": "Promluvte si s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Merlinem."
+    },
+    {
+      "key": "Story!MRQS020_Castle_Group08_StepDescription",
+      "en": "Find Merlin waiting for you at the Dream Castle.",
+      "cz": "Najděte Merlina, který na vás čeká v Hradě snů.",
+      "source": "pre_existing",
+      "original_cz": "Najděte Merlina, který na vás čeká v Hradě snů."
+    },
+    {
+      "key": "Story!MRQS020_Castle_Group10_Step10_TalkToCharacter04_StepDescription",
+      "en": "Talk to Merlin.",
+      "cz": "Promluvte si s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Merlinem."
+    }
+  ],
+  "Story/MRQS025_FriendshipIsEverything.locbin": [
+    {
+      "key": "Story!MRQS025_FriendshipIsEverything_Any_CompletedRequestDescription",
+      "en": "Return to Merlin.",
+      "cz": "Návrat k Merlinovi.",
+      "source": "pre_existing",
+      "original_cz": "Návrat k Merlinovi."
+    },
+    {
+      "key": "Story!MRQS025_FriendshipIsEverything_AvailableDescription",
+      "en": "Merlin has something fascinating to show you in the Village.",
+      "cz": "Merlin ti ve vesnici ukáže něco fascinujícího.",
+      "source": "pre_existing",
+      "original_cz": "Merlin ti ve vesnici ukáže něco fascinujícího."
+    },
+    {
+      "key": "Story!MRQS025_FriendshipIsEverything_CompletedStoryDescription",
+      "en": "After you restore the <ActivityItem>Orb of Friendship</ActivityItem> to its rightful place, the Well in the Meadow is rid of its curse.",
+      "cz": "Poté, co vrátíte <ActivityItem>Kouli přátelství</ActivityItem> na její právoplatné místo, Studna na louce se zbaví své kletby.",
+      "source": "pre_existing",
+      "original_cz": "Poté, co vrátíte <ActivityItem>Kouli přátelství</ActivityItem> na její právoplatné místo, Studna na louce se zbaví své kletby."
+    },
+    {
+      "key": "Story!MRQS025_FriendshipIsEverything_DisplayName",
+      "en": "Friendship Is Everything",
+      "cz": "Přátelství je všechno",
+      "source": "pre_existing",
+      "original_cz": "Přátelství je všechno"
+    },
+    {
+      "key": "Story!MRQS025_FriendshipIsEverything_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "Talk to Merlin.",
+      "cz": "Promluvte si s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Merlinem."
+    },
+    {
+      "key": "Story!MRQS025_FriendshipIsEverything_Group01_StoryDescription",
+      "en": "Merlin guides you to a strange stone with a hole at the top. What can it possibly be?",
+      "cz": "Merlin tě zavede k podivnému kameni s dírou nahoře. Co by to asi mohlo být?",
+      "source": "pre_existing",
+      "original_cz": "Merlin tě zavede k podivnému kameni s dírou nahoře. Co by to asi mohlo být?"
+    },
+    {
+      "key": "Story!MRQS025_FriendshipIsEverything_Group03_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How can I be a better friend to the Villagers?",
+      "cz": "<smallcaps>{title}<smallcaps><br>Jak se mohu stát lepším přítelem vesničanů?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}<smallcaps><br>Jak se mohu stát lepším přítelem vesničanů?"
+    },
+    {
+      "key": "Story!MRQS025_FriendshipIsEverything_Group03_Step03_Friend01_StepDescription",
+      "en": "Reach Friendship Level 5 with three Villagers.",
+      "cz": "Dosáhněte úrovně přátelství 5 se třemi vesničany.",
+      "source": "pre_existing",
+      "original_cz": "Dosáhněte úrovně přátelství 5 se třemi vesničany."
+    },
+    {
+      "key": "Story!MRQS025_FriendshipIsEverything_Group03_StoryDescription",
+      "en": "The strange stone is called the Pillar of Friendship. Once, it held the <ActivityItem>Orb of Friendship</ActivityItem>. But when the Old Ruler disappeared, the <ActivityItem>Orbs</ActivityItem> were scattered. Now, the <ActivityItem>Orb of Friendship</ActivityItem> is trapped, tangled up in Night Thorns. To free it, you'll have to become better friends with the Villagers by spending time with them. In Dreamlight Valley, that's called \"hanging out.\"",
+      "cz": "Ten podivný kámen se nazývá Pilíř přátelství. Kdysi v něm byla uložena <ActivityItem>Koule přátelství</ActivityItem>. Ale když Starý vládce zmizel, <ActivityItem>Koule</ActivityItem> se rozptýlily. Nyní je <ActivityItem>Koule přátelství</ActivityItem> uvězněna, zamotaná v Nočních trnech. Abyste ji vysvobodili, budete se muset s vesničany lépe spřátelit tím, že s nimi budete trávit čas. V Údolí snů se tomu říká „trávit čas“.",
+      "source": "pre_existing",
+      "original_cz": "Ten podivný kámen se nazývá Pilíř přátelství. Kdysi v něm byla uložena <ActivityItem>Koule přátelství</ActivityItem>. Ale když Starý vládce zmizel, <ActivityItem>Koule</ActivityItem> se rozptýlily. Nyní je <ActivityItem>Koule přátelství</ActivityItem> uvězněna, zamotaná v Nočních trnech. Abyste ji vysvobodili, budete se muset s vesničany lépe spřátelit tím, že s nimi budete trávit čas. V Údolí snů se tomu říká „trávit čas“."
+    },
+    {
+      "key": "Story!MRQS025_FriendshipIsEverything_Group04_Step04_TalkToCharacter02_StepDescription",
+      "en": "Talk to Merlin.",
+      "cz": "Promluvte si s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Merlinem."
+    },
+    {
+      "key": "Story!MRQS025_FriendshipIsEverything_Group05_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What do we do now?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co teď uděláme?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co teď uděláme?"
+    },
+    {
+      "key": "Story!MRQS025_FriendshipIsEverything_Group05_Step05_VisitArea02_StepDescription",
+      "en": "Go back to the Pillar in the Meadow.",
+      "cz": "Vrať se k Pilíři na louce.",
+      "source": "pre_existing",
+      "original_cz": "Vrať se k Pilíři na louce."
+    },
+    {
+      "key": "Story!MRQS025_FriendshipIsEverything_Group06_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What do we do now?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co teď uděláme?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co teď uděláme?"
+    },
+    {
+      "key": "Story!MRQS025_FriendshipIsEverything_Group06_Step06_Possess01_StepDescription",
+      "en": "Pick up the <ActivityItem>Orb of Friendship</ActivityItem> near the Pillar in the Meadow.",
+      "cz": "Seberte <ActivityItem>Kouli přátelství</ActivityItem> poblíž sloupu na louce.",
+      "source": "pre_existing",
+      "original_cz": "Seberte <ActivityItem>Kouli přátelství</ActivityItem> poblíž sloupu na louce."
+    },
+    {
+      "key": "Story!MRQS025_FriendshipIsEverything_Group07_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What do I do with the <ActivityItem>Orb of Friendship</ActivityItem>?",
+      "cz": "<smallcaps>{title}<smallcaps><br>Co mám dělat s <ActivityItem>Koulí přátelství</ActivityItem>?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}<smallcaps><br>Co mám dělat s <ActivityItem>Koulí přátelství</ActivityItem>?"
+    },
+    {
+      "key": "Story!MRQS025_FriendshipIsEverything_Group07_Step07_FillKeyhole01_StepDescription",
+      "en": "Place the <ActivityItem>Orb of Friendship</ActivityItem> in the Pillar.",
+      "cz": "Umístěte <ActivityItem>Kouli přátelství</ActivityItem> do sloupu.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte <ActivityItem>Kouli přátelství</ActivityItem> do sloupu."
+    },
+    {
+      "key": "Story!MRQS025_FriendshipIsEverything_Group08_Step08_Conditional01_StepDescription",
+      "en": "Gain access to a new Biome.",
+      "cz": "Získejte přístup k novému biomě.",
+      "source": "pre_existing",
+      "original_cz": "Získejte přístup k novému biomě."
+    },
+    {
+      "key": "Story!MRQS025_FriendshipIsEverything_Group09_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What happened when the <ActivityItem>Orb</ActivityItem> was returned?",
+      "cz": "<smallcaps>{title}<smallcaps><br>Co se stalo, když byla koule <ActivityItem>Orb</ActivityItem> vrácena?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}<smallcaps><br>Co se stalo, když byla koule <ActivityItem>Orb</ActivityItem> vrácena?"
+    },
+    {
+      "key": "Story!MRQS025_FriendshipIsEverything_Group09_Step10_FollowCharacter01_StepDescription",
+      "en": "Go check out the Well in the Meadow.",
+      "cz": "Jdi se podívat ke Studně na louce.",
+      "source": "pre_existing",
+      "original_cz": "Jdi se podívat ke Studně na louce."
+    },
+    {
+      "key": "Story!MRQS025_FriendshipIsEverything_Group09_Step10_FollowCharacter01_TalkToDescription",
+      "en": "Talk to Merlin about the Well.",
+      "cz": "Promluv si s Merlinem o Studně.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Merlinem o Studně."
+    },
+    {
+      "key": "Story!MRQS025_FriendshipIsEverything_Group10_Step09_FollowCharacter02_StepDescription",
+      "en": "Follow Merlin to the Pillar in the Meadow.",
+      "cz": "Následujte Merlina k Pilíři na louce.",
+      "source": "pre_existing",
+      "original_cz": "Následujte Merlina k Pilíři na louce."
+    },
+    {
+      "key": "Story!MRQS025_FriendshipIsEverything_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Do you need help, Merlin?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Potřebuješ pomoc, Merline??",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Potřebuješ pomoc, Merline??"
+    }
+  ],
+  "Story/MRQS030_MoneySpending.locbin": [
+    {
+      "key": "Story!MRQS030_MoneySpending_Any_CompletedRequestDescription",
+      "en": "You did it! Go see what Scrooge McDuck thinks.",
+      "cz": "Dokázal jsi to! Jdi se podívat, co si o tom myslí Skrblík McDuck.",
+      "source": "pre_existing",
+      "original_cz": "Dokázal jsi to! Jdi se podívat, co si o tom myslí Skrblík McDuck."
+    },
+    {
+      "key": "Story!MRQS030_MoneySpending_AvailableDescription",
+      "en": "You find Scrooge McDuck in front of his closed store. He explains to you that he used to sell furniture and clothing to Dreamlight Valley Villagers... but the Forgetting put him out of business. He is in desperate need of an investor for his grand reopening. He suggests you trade with Goofy to make some money.",
+      "cz": "Najdete Skrblík McDucka před jeho zavřeným obchodem. Vysvětlí vám, že dříve prodával nábytek a oblečení vesničanům z Dreamlight Valley... ale Zapomnění ho přivedlo k bankrotu. Zoufale potřebuje investora pro své velkolepé znovuotevření. Navrhne vám obchodovat s Goofym, abyste si vydělali nějaké peníze.",
+      "source": "pre_existing",
+      "original_cz": "Najdete Skrblík McDucka před jeho zavřeným obchodem. Vysvětlí vám, že dříve prodával nábytek a oblečení vesničanům z Dreamlight Valley... ale Zapomnění ho přivedlo k bankrotu. Zoufale potřebuje investora pro své velkolepé znovuotevření. Navrhne vám obchodovat s Goofym, abyste si vydělali nějaké peníze."
+    },
+    {
+      "key": "Story!MRQS030_MoneySpending_CompletedStoryDescription",
+      "en": "By gathering the money and paying for the repairs, you help Scrooge McDuck get back in business. He should be overjoyed by it. The only way to know for sure is to ask him directly.",
+      "cz": "Shromážděním peněz a zaplacením oprav pomůžete Skrblíkovi McDuckovi vrátit se do podnikání. Měl by z toho mít velkou radost. Jediný způsob, jak to zjistit jistě, je zeptat se ho přímo.",
+      "source": "pre_existing",
+      "original_cz": "Shromážděním peněz a zaplacením oprav pomůžete Skrblíkovi McDuckovi vrátit se do podnikání. Měl by z toho mít velkou radost. Jediný způsob, jak to zjistit jistě, je zeptat se ho přímo."
+    },
+    {
+      "key": "Story!MRQS030_MoneySpending_DisplayName",
+      "en": "Making Cents of Things",
+      "cz": "Vydělávání centů z věcí",
+      "source": "pre_existing",
+      "original_cz": "Vydělávání centů z věcí"
+    },
+    {
+      "key": "Story!MRQS030_MoneySpending_Group01_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How do I repair the store?",
+      "cz": "<smallcaps>{title}<smallcaps><br>Jak opravím obchod?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}<smallcaps><br>Jak opravím obchod?"
+    },
+    {
+      "key": "Story!MRQS030_MoneySpending_Group01_Step01_Unlock01_StepDescription",
+      "en": "Use the sign outside Scrooge McDuck's Store to repair it.",
+      "cz": "Použijte ceduli před obchodem Skrblík McDucka k jeho opravě.",
+      "source": "pre_existing",
+      "original_cz": "Použijte ceduli před obchodem Skrblík McDucka k jeho opravě."
+    },
+    {
+      "key": "Story!MRQS030_MoneySpending_Group02_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How do I earn Star Coins?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Jak získám hvězdné mince?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Jak získám hvězdné mince?"
+    },
+    {
+      "key": "Story!MRQS030_MoneySpending_Group02_Step02_Possess01_StepDescription",
+      "en": "Earn Star Coins to repair Scrooge McDuck's Store.",
+      "cz": "Získejte hvězdné mince na opravu obchodu Skrblík McDucka.",
+      "source": "pre_existing",
+      "original_cz": "Získejte hvězdné mince na opravu obchodu Skrblík McDucka."
+    },
+    {
+      "key": "Story!MRQS030_MoneySpending_Group03_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How can I invest?",
+      "cz": "<smallcaps>{title}<smallcaps><br>Jak mohu investovat?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}<smallcaps><br>Jak mohu investovat?"
+    },
+    {
+      "key": "Story!MRQS030_MoneySpending_Group03_Step03_PurchaseItem01_StepDescription",
+      "en": "Buy something from Scrooge McDuck's Store.",
+      "cz": "Kupte si něco v obchodě Skrblík McDucka.",
+      "source": "pre_existing",
+      "original_cz": "Kupte si něco v obchodě Skrblík McDucka."
+    },
+    {
+      "key": "Story!MRQS030_MoneySpending_Group04_Step04_TalkToCharacter01_StepDescription",
+      "en": "Talk to Scrooge McDuck.",
+      "cz": "Promluvte si se Skrblíkem McDuckem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Skrblíkem McDuckem."
+    },
+    {
+      "key": "Story!MRQS030_MoneySpending_Group05_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Where can I find Goofy?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Kde najdu Goofyho?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Kde najdu Goofyho?"
+    },
+    {
+      "key": "Story!MRQS030_MoneySpending_Group05_Step05_Conditional01_StepDescription",
+      "en": "Find Goofy in the Meadow.",
+      "cz": "Najděte Goofyho na louce.",
+      "source": "pre_existing",
+      "original_cz": "Najděte Goofyho na louce."
+    },
+    {
+      "key": "Story!MRQS030_MoneySpending_Group06_Step06_TalkToCharacter02_StepDescription",
+      "en": "Talk to Scrooge McDuck.",
+      "cz": "Promluvte si se Skrblíkm McDuckem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Skrblíkm McDuckem."
+    },
+    {
+      "key": "Story!MRQS030_MoneySpending_Group07_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Where can I find Goofy?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Kde najdu Goofyho?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Kde najdu Goofyho?"
+    },
+    {
+      "key": "Story!MRQS030_MoneySpending_Group07_Step07_Conditional02_StepDescription",
+      "en": "Help Goofy get back in business.",
+      "cz": "Pomozte Goofymu vrátit se do podnikání.",
+      "source": "pre_existing",
+      "original_cz": "Pomozte Goofymu vrátit se do podnikání."
+    },
+    {
+      "key": "Story!MRQS030_MoneySpending_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Mr. McDuck! Can I help you with something?",
+      "cz": "<smallcaps>{title}<smallcaps><br>Pane McDucku! Mohu vám s něčím pomoct?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}<smallcaps><br>Pane McDucku! Mohu vám s něčím pomoct?"
+    }
+  ],
+  "Story/MRQS035_SpreadTheWord.locbin": [
+    {
+      "key": "Story!MRQS035_SpreadTheWord_Any_CompletedRequestDescription",
+      "en": "Return to Scrooge McDuck.",
+      "cz": "Zpět k Skrblíkovi McDuckovi.",
+      "source": "pre_existing",
+      "original_cz": "Zpět k Skrblíkovi McDuckovi."
+    },
+    {
+      "key": "Story!MRQS035_SpreadTheWord_AvailableDescription",
+      "en": "Fixing the store was only part of the grand reopening. Scrooge McDuck needs you to promote his store around the Village.",
+      "cz": "Oprava obchodu byla jen součástí velkolepého znovuotevření. Skrblík McDuck tě potřebuje k propagaci jeho obchodu po celé vesnici.",
+      "source": "pre_existing",
+      "original_cz": "Oprava obchodu byla jen součástí velkolepého znovuotevření. Skrblík McDuck tě potřebuje k propagaci jeho obchodu po celé vesnici."
+    },
+    {
+      "key": "Story!MRQS035_SpreadTheWord_CompletedStoryDescription",
+      "en": "It's time to report to Scrooge McDuck so you can discover what he thinks about all of your hard work.",
+      "cz": "Je čas hlásit se Skrblík McDuckovi, abyste zjistili, co si myslí o vaší tvrdé práci.",
+      "source": "pre_existing",
+      "original_cz": "Je čas hlásit se Skrblík McDuckovi, abyste zjistili, co si myslí o vaší tvrdé práci."
+    },
+    {
+      "key": "Story!MRQS035_SpreadTheWord_DisplayName",
+      "en": "Scrooge McDuck's Grand Re-opening",
+      "cz": "Slavnostní znovuotevření Skrblík McDucka",
+      "source": "pre_existing",
+      "original_cz": "Slavnostní znovuotevření Skrblík McDucka"
+    },
+    {
+      "key": "Story!MRQS035_SpreadTheWord_Group01_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How can I help?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Jak mohu pomoci?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Jak mohu pomoci?"
+    },
+    {
+      "key": "Story!MRQS035_SpreadTheWord_Group01_Step05_DressUp01_StepDescription",
+      "en": "Put on the Scrooge's Store promotional T-shirt.",
+      "cz": "Oblékněte si propagační tričko s nápisem Skrblík's Store.",
+      "source": "pre_existing",
+      "original_cz": "Oblékněte si propagační tričko s nápisem Skrblík's Store."
+    },
+    {
+      "key": "Story!MRQS035_SpreadTheWord_Group02_Step04_TalkToCharacter01_StepDescription",
+      "en": "Show Scrooge McDuck your outfit.",
+      "cz": "Ukaž Skrblíkovi McDuckovi svůj outfit.",
+      "source": "pre_existing",
+      "original_cz": "Ukaž Skrblíkovi McDuckovi svůj outfit."
+    },
+    {
+      "key": "Story!MRQS035_SpreadTheWord_Group03_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What should I do with the signs?",
+      "cz": "<smallcaps>{title}<smallcaps><br>Co mám dělat se značkami?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}<smallcaps><br>Co mám dělat se značkami?"
+    },
+    {
+      "key": "Story!MRQS035_SpreadTheWord_Group03_Step03_Decorate01_StepDescription",
+      "en": "Place Scrooge's Store signs around the Village.",
+      "cz": "Umístěte cedule Skrblíkova obchodu po celé vesnici.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte cedule Skrblíkova obchodu po celé vesnici."
+    },
+    {
+      "key": "Story!MRQS035_SpreadTheWord_Group03_Step03_StepDescription",
+      "en": "(Press {input_inventory} to open your Backpack, then find the Scrooge's Store signs in the Furniture section.)",
+      "cz": "(Stiskněte {input_inventory} pro otevření batohu a poté v sekci Nábytek najděte cedule Skrblíkova obchodu.)",
+      "source": "pre_existing",
+      "original_cz": "(Stiskněte {input_inventory} pro otevření batohu a poté v sekci Nábytek najděte cedule Skrblíkova obchodu.)"
+    },
+    {
+      "key": "Story!MRQS035_SpreadTheWord_Group03_Step03_StepDescriptionMobile",
+      "en": "(Access your Inventory via the Backpack icon, then find the Scrooge's Store signs in the Furniture section.)",
+      "cz": "(Získejte přístup k inventáři přes ikonu batohu a poté v sekci Nábytek najděte cedule Skrblíkova obchodu.)",
+      "source": "pre_existing",
+      "original_cz": "(Získejte přístup k inventáři přes ikonu batohu a poté v sekci Nábytek najděte cedule Skrblíkova obchodu.)"
+    },
+    {
+      "key": "Story!MRQS035_SpreadTheWord_Group03_StoryDescription",
+      "en": "Once you're done crafting signs, Scrooge McDuck asks you to place them around the Village.",
+      "cz": "Jakmile skončíte s výrobou cedulí, Skrblík McDuck vás požádá, abyste je rozmístili po vesnici.",
+      "source": "pre_existing",
+      "original_cz": "Jakmile skončíte s výrobou cedulí, Skrblík McDuck vás požádá, abyste je rozmístili po vesnici."
+    },
+    {
+      "key": "Story!MRQS035_SpreadTheWord_Group04_Step02_TalkToCharacter02_StepDescription",
+      "en": "Talk to Scrooge McDuck.",
+      "cz": "Promluvte si se Skrblíkm McDuckem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Skrblíkm McDuckem."
+    },
+    {
+      "key": "Story!MRQS035_SpreadTheWord_Group05_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What do we do now?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co teď uděláme?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co teď uděláme?"
+    },
+    {
+      "key": "Story!MRQS035_SpreadTheWord_Group05_Step01_Decorate02_StepDescription",
+      "en": "Place the {ItemName} near Scrooge's Store.",
+      "cz": "Umístěte {ItemName} poblíž Skrblíkova obchodu.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte {ItemName} poblíž Skrblíkova obchodu."
+    },
+    {
+      "key": "Story!MRQS035_SpreadTheWord_Group06_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What do I need to do?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co musím udělat?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co musím udělat?"
+    },
+    {
+      "key": "Story!MRQS035_SpreadTheWord_Group06_Step06_CraftItem03_StepDescription",
+      "en": "Craft {ItemName} using the items collected.",
+      "cz": "Vyrobte {ItemName} s použitím nasbíraných předmětů.",
+      "source": "pre_existing",
+      "original_cz": "Vyrobte {ItemName} s použitím nasbíraných předmětů."
+    },
+    {
+      "key": "Story!MRQS035_SpreadTheWord_Group07_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How do I craft?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Jak mohu vyrábět?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Jak mohu vyrábět?"
+    },
+    {
+      "key": "Story!MRQS035_SpreadTheWord_Group07_Step07_CraftItem01_StepDescription",
+      "en": "Craft four signs for Scrooge's Store using a Crafting Station.",
+      "cz": "Vyrobte čtyři cedule pro Scroogův obchod pomocí řemeslné stanice.",
+      "source": "pre_existing",
+      "original_cz": "Vyrobte čtyři cedule pro Scroogův obchod pomocí řemeslné stanice."
+    },
+    {
+      "key": "Story!MRQS035_SpreadTheWord_Group08_Step08_TalkToCharacter03_StepDescription",
+      "en": "Scrooge McDuck has something else for you. Talk to him.",
+      "cz": "Skrblík McDuck pro tebe má něco dalšího. Promluv si s ním.",
+      "source": "pre_existing",
+      "original_cz": "Skrblík McDuck pro tebe má něco dalšího. Promluv si s ním."
+    },
+    {
+      "key": "Story!MRQS035_SpreadTheWord_Group10_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What do I need to do?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co musím udělat?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co musím udělat?"
+    },
+    {
+      "key": "Story!MRQS035_SpreadTheWord_Group10_Step10_Possess02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!MRQS035_SpreadTheWord_Group10_Step10_Possess03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!MRQS035_SpreadTheWord_Group10_Step10_StepDescription",
+      "en": "Gather the following items:",
+      "cz": "Shromážděte následující položky:",
+      "source": "pre_existing",
+      "original_cz": "Shromážděte následující položky:"
+    },
+    {
+      "key": "Story!MRQS035_SpreadTheWord_Group10_StoryDescription",
+      "en": "One last thing to do: Decorate the outside of the store to make it even more attractive to potential clients.",
+      "cz": "Ještě jedna věc: Vyzdobte exteriér obchodu, aby byl pro potenciální klienty ještě atraktivnější.",
+      "source": "pre_existing",
+      "original_cz": "Ještě jedna věc: Vyzdobte exteriér obchodu, aby byl pro potenciální klienty ještě atraktivnější."
+    },
+    {
+      "key": "Story!MRQS035_SpreadTheWord_Group11_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Where can I find {ItemName}?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Kde najdu {ItemName}?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Kde najdu {ItemName}?"
+    },
+    {
+      "key": "Story!MRQS035_SpreadTheWord_Group11_Step12_ReadyDescription",
+      "en": "Return to Scrooge McDuck.",
+      "cz": "Zpět k Skrblíkovi McDuckovi.",
+      "source": "pre_existing",
+      "original_cz": "Zpět k Skrblíkovi McDuckovi."
+    },
+    {
+      "key": "Story!MRQS035_SpreadTheWord_Group11_Step12_StepDescription",
+      "en": "Gather <ActivityItem>Softwood</ActivityItem> around the Village.",
+      "cz": "Shromážděte <ActivityItem>měkké dřevo</ActivityItem> po celé vesnici.",
+      "source": "pre_existing",
+      "original_cz": "Shromážděte <ActivityItem>měkké dřevo</ActivityItem> po celé vesnici."
+    },
+    {
+      "key": "Story!MRQS035_SpreadTheWord_Group11_StepDescription",
+      "en": "(Press {input_mainmenu} to access the Collection menu to learn where to find <ActivityItem>Softwood</ActivityItem>.)",
+      "cz": "(Stiskněte {input_mainmenu} pro přístup do nabídky Kolekce, kde se dozvíte, kde najdete <ActivityItem>Měkké dřevo</ActivityItem>.)",
+      "source": "pre_existing",
+      "original_cz": "(Stiskněte {input_mainmenu} pro přístup do nabídky Kolekce, kde se dozvíte, kde najdete <ActivityItem>Měkké dřevo</ActivityItem>.)"
+    },
+    {
+      "key": "Story!MRQS035_SpreadTheWord_Group11_StepDescriptionMobile",
+      "en": "(Access the Collection menu from the Main Menu to learn where to find <ActivityItem>Softwood</ActivityItem>.)",
+      "cz": "(Přístup k nabídce Kolekce z hlavní nabídky vám umožní zjistit, kde najít <ActivityItem>Měkké dřevo</ActivityItem>.)",
+      "source": "pre_existing",
+      "original_cz": "(Přístup k nabídce Kolekce z hlavní nabídky vám umožní zjistit, kde najít <ActivityItem>Měkké dřevo</ActivityItem>.)"
+    },
+    {
+      "key": "Story!MRQS035_SpreadTheWord_Group11_StoryDescription",
+      "en": "To help spread the word, Scrooge McDuck instructs you to put on a Scrooge's Store branded T-shirt to wear around Dreamlight Valley. Upon seeing it on you, he decides it'd be even better with some signs. He enlists you to craft some for him.",
+      "cz": "Aby se o tom dozvěděli, Skrblík McDuck vám nařídí, abyste si oblékli tričko se značkou Skrblík's Store a nosili ho v Údolí snů. Když ho na vás uvidí, rozhodne se, že by s nějakými cedulemi bylo ještě lepší. Požádá vás, abyste mu nějaké vyrobili.",
+      "source": "pre_existing",
+      "original_cz": "Aby se o tom dozvěděli, Skrblík McDuck vám nařídí, abyste si oblékli tričko se značkou Skrblík's Store a nosili ho v Údolí snů. Když ho na vás uvidí, rozhodne se, že by s nějakými cedulemi bylo ještě lepší. Požádá vás, abyste mu nějaké vyrobili."
+    }
+  ],
+  "Story/MRQS040_FindingTheFishingRod.locbin": [
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_Any_CompletedRequestDescription",
+      "en": "Talk to Goofy.",
+      "cz": "Promluv si s Goofym.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Goofym."
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_AvailableDescription",
+      "en": "There's a new friend in the Peaceful Meadow. It's time to meet them.",
+      "cz": "V Klidné louce je nový přítel. Je čas se s ním setkat.",
+      "source": "pre_existing",
+      "original_cz": "V Klidné louce je nový přítel. Je čas se s ním setkat."
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_CompletedStoryDescription",
+      "en": "After fishing with him and reopening his Stall, it's time for one last talk with Goofy.",
+      "cz": "Poté, co jsme s ním rybařili a znovu otevřeli jeho stánek, je čas na poslední rozhovor s Goofym.",
+      "source": "pre_existing",
+      "original_cz": "Poté, co jsme s ním rybařili a znovu otevřeli jeho stánek, je čas na poslední rozhovor s Goofym."
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_DisplayName",
+      "en": "Fishing Expedition",
+      "cz": "Rybářská expedice",
+      "source": "pre_existing",
+      "original_cz": "Rybářská expedice"
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_Group01_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What are you looking for?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co hledáte?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co hledáte?"
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_Group01_Step01_BringItem01_StepDescription",
+      "en": "Find Goofy's Lucky Fishing Rod in the Meadow.",
+      "cz": "Najděte na louce Goofyho šťastný rybářský prut.",
+      "source": "pre_existing",
+      "original_cz": "Najděte na louce Goofyho šťastný rybářský prut."
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_Group01_Step01_ReadyDescription",
+      "en": "You found Goofy's Lucky Fishing Rod, but it's all jammed up! Bring it to Goofy so he can fix it.",
+      "cz": "Našli jste Goofyho šťastný rybářský prut, ale je celý zaseknutý! Přineste ho Goofymu, aby ho opravil.",
+      "source": "pre_existing",
+      "original_cz": "Našli jste Goofyho šťastný rybářský prut, ale je celý zaseknutý! Přineste ho Goofymu, aby ho opravil."
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_Group01_StoryDescription",
+      "en": "Goofy has lost his Lucky Fishing Rod somewhere in the Peaceful Meadow. He asks you to look for it.",
+      "cz": "Goofy ztratil svůj Šťastný rybářský prut někde v Klidné louce. Žádá vás, abyste ho hledali.",
+      "source": "pre_existing",
+      "original_cz": "Goofy ztratil svůj Šťastný rybářský prut někde v Klidné louce. Žádá vás, abyste ho hledali."
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_Group02_Step02_FollowCharacter01_StepDescription",
+      "en": "Follow Goofy to a fishing spot.",
+      "cz": "Sledujte Goofyho na místo k rybolovu.",
+      "source": "pre_existing",
+      "original_cz": "Sledujte Goofyho na místo k rybolovu."
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_Group02_StoryDescription",
+      "en": "Now that he is reunited with his Lucky Fishing Rod, he wants to introduce you to his favorite hobby and leads you to a pond in the Peaceful Meadow.",
+      "cz": "Nyní, když se znovu setkal se svým Šťastným rybářským prutem, chce vám představit svůj oblíbený koníček a zavede vás k rybníku v Klidné louce.",
+      "source": "pre_existing",
+      "original_cz": "Nyní, když se znovu setkal se svým Šťastným rybářským prutem, chce vám představit svůj oblíbený koníček a zavede vás k rybníku v Klidné louce."
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_Group03_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How do I fish?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Jak lovím ryby?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Jak lovím ryby?"
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_Group03_Step03_CatchFish01_StepDescription",
+      "en": "Catch something with Goofy.",
+      "cz": "Chyť něco s Goofym.",
+      "source": "pre_existing",
+      "original_cz": "Chyť něco s Goofym."
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_Group04_Step04_TalkToCharacter02_StepDescription",
+      "en": "Show Goofy your big catch.",
+      "cz": "Ukaž Goofymu svůj velký úlovek.",
+      "source": "pre_existing",
+      "original_cz": "Ukaž Goofymu svůj velký úlovek."
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_Group05_Step05_FollowCharacter02_StepDescription",
+      "en": "Follow Goofy to his Stall.",
+      "cz": "Následujte Goofyho k jeho stánku.",
+      "source": "pre_existing",
+      "original_cz": "Následujte Goofyho k jeho stánku."
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_Group05_Step05_FollowCharacter02_TalkToDescription",
+      "en": "Talk to Goofy.",
+      "cz": "Promluv si s Goofym.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Goofym."
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_Group06_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How do I unlock the Stall?",
+      "cz": "<smallcaps>{title}<smallcaps><br>Jak odemknu stánek?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}<smallcaps><br>Jak odemknu stánek?"
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_Group06_Step06_Unlock01_StepDescription",
+      "en": "Use the Scrooge McDuck Sign to reopen Goofy's Stall.",
+      "cz": "Použijte ceduli Skrblík McDuck k opětovnému otevření Goofyho stánku.",
+      "source": "pre_existing",
+      "original_cz": "Použijte ceduli Skrblík McDuck k opětovnému otevření Goofyho stánku."
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_Group06_StoryDescription",
+      "en": "Goofy shows you his run-down Stall and asks you to help him by fixing it.",
+      "cz": "Goofy vám ukáže svůj zchátralý stánek a požádá vás o pomoc s jeho opravou.",
+      "source": "pre_existing",
+      "original_cz": "Goofy vám ukáže svůj zchátralý stánek a požádá vás o pomoc s jeho opravou."
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_Group07_Step07_TalkToCharacter01_StepDescription",
+      "en": "See what Goofy thinks.",
+      "cz": "Zjistěte, co si Goofy myslí.",
+      "source": "pre_existing",
+      "original_cz": "Zjistěte, co si Goofy myslí."
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_Group08_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What are you looking for?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co hledáte?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co hledáte?"
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_Group08_Step08_BringItem02_StepDescription",
+      "en": "Find Goofy's <ActivityItem>Lucky Fishing Rod</ActivityItem> in the Meadow.",
+      "cz": "Najděte Goofyho <ActivityItem>Šťastný rybářský prut</ActivityItem> na louce.",
+      "source": "pre_existing",
+      "original_cz": "Najděte Goofyho <ActivityItem>Šťastný rybářský prut</ActivityItem> na louce."
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_Group08_Step08_ReadyDescription",
+      "en": "You found a <ActivityItem>Broken Fishing Rod</ActivityItem>! Give it to Goofy.",
+      "cz": "Našli jste <ActivityItem>Zlomený rybářský prut</ActivityItem>! Dejte ho Goofymu.",
+      "source": "pre_existing",
+      "original_cz": "Našli jste <ActivityItem>Zlomený rybářský prut</ActivityItem>! Dejte ho Goofymu."
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_Group08_StoryDescription",
+      "en": "Goofy has lost his Lucky Fishing Rod somewhere in the Peaceful Meadow. He asks you to look for it.",
+      "cz": "Goofy ztratil svůj Šťastný rybářský prut někde v Klidné louce. Žádá vás, abyste ho hledali.",
+      "source": "pre_existing",
+      "original_cz": "Goofy ztratil svůj Šťastný rybářský prut někde v Klidné louce. Žádá vás, abyste ho hledali."
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_Group09_Step09_FollowCharacter03_StepDescription",
+      "en": "Follow Goofy to a fishing spot.",
+      "cz": "Sledujte Goofyho na místo k rybolovu.",
+      "source": "pre_existing",
+      "original_cz": "Sledujte Goofyho na místo k rybolovu."
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_Group09_StoryDescription",
+      "en": "Now that he is reunited with his Lucky Fishing Rod, he wants to introduce you to his favorite hobby and leads you to a pond in the Peaceful Meadow.",
+      "cz": "Nyní, když se znovu setkal se svým Šťastným rybářským prutem, chce vám představit svůj oblíbený koníček a zavede vás k rybníku v Klidné louce.",
+      "source": "pre_existing",
+      "original_cz": "Nyní, když se znovu setkal se svým Šťastným rybářským prutem, chce vám představit svůj oblíbený koníček a zavede vás k rybníku v Klidné louce."
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_Group10_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How do I fish?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Jak lovím ryby?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Jak lovím ryby?"
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_Group10_Step10_CatchFish02_StepDescription",
+      "en": "Catch something with Goofy.",
+      "cz": "Chyť něco s Goofym.",
+      "source": "pre_existing",
+      "original_cz": "Chyť něco s Goofym."
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_Group11_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What must I do?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co musím udělat?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co musím udělat?"
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_Group11_Step11_ReadyDescription",
+      "en": "You found a <ActivityItem>Broken Fishing Rod</ActivityItem>! Find the person it belongs to.",
+      "cz": "Našli jste <ActivityItem>Zlomený rybářský prut</ActivityItem>! Najděte osobu, které patří.",
+      "source": "pre_existing",
+      "original_cz": "Našli jste <ActivityItem>Zlomený rybářský prut</ActivityItem>! Najděte osobu, které patří."
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_Group11_Step11_StepDescription",
+      "en": "Find the missing <ActivityItem>Lucky Fishing Rod</ActivityItem> in the Meadow.",
+      "cz": "Najděte na louce chybějící <ActivityItem>Rybářský prut pro štěstí</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Najděte na louce chybějící <ActivityItem>Rybářský prut pro štěstí</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_Group11_StoryDescription",
+      "en": "As you're wandering the Peaceful Meadow, you stumble on a Broken Fishing Rod in the grass. Who could it belong to?",
+      "cz": "Při toulkách po Klidné louce narazíte v trávě na zlomený rybářský prut. Komu by mohl patřit?",
+      "source": "pre_existing",
+      "original_cz": "Při toulkách po Klidné louce narazíte v trávě na zlomený rybářský prut. Komu by mohl patřit?"
+    },
+    {
+      "key": "Story!MRQS040_FindingTheFishingRod_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Goofy! What can I help you with?",
+      "cz": "<smallcaps>{title}<smallcaps><br>Páni! S čím ti můžu pomoct?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}<smallcaps><br>Páni! S čím ti můžu pomoct?"
+    }
+  ],
+  "Story/MRQS050_MeetMickey.locbin": [
+    {
+      "key": "Story!MRQS050_MeetMickey_Any_CompletedRequestDescription",
+      "en": "Talk to Mickey.",
+      "cz": "Promluv si s Mickey.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Mickey."
+    },
+    {
+      "key": "Story!MRQS050_MeetMickey_AvailableDescription",
+      "en": "Looks like the Night Thorns have gotten to Mickey! You speak to him to see how you can help...",
+      "cz": "Vypadá to, že Noční trny se dostaly k Mickeymu! Promluvte si s ním, abyste zjistili, jak mu můžete pomoci...",
+      "source": "pre_existing",
+      "original_cz": "Vypadá to, že Noční trny se dostaly k Mickeymu! Promluvte si s ním, abyste zjistili, jak mu můžete pomoci..."
+    },
+    {
+      "key": "Story!MRQS050_MeetMickey_CompletedStoryDescription",
+      "en": "Now that you've found the recipe for <ActivityItem>Fruit Salad</ActivityItem>, it's time to talk to Mickey to learn about what's next for you.",
+      "cz": "Nyní, když jste našli recept na <ActivityItem>ovocný salát</ActivityItem>, je čas promluvit si s Mickey a zjistit, co vás čeká dál.",
+      "source": "pre_existing",
+      "original_cz": "Nyní, když jste našli recept na <ActivityItem>ovocný salát</ActivityItem>, je čas promluvit si s Mickey a zjistit, co vás čeká dál."
+    },
+    {
+      "key": "Story!MRQS050_MeetMickey_DisplayName",
+      "en": "Mickey's Memories",
+      "cz": "Mickeyho vzpomínky",
+      "source": "pre_existing",
+      "original_cz": "Mickeyho vzpomínky"
+    },
+    {
+      "key": "Story!MRQS050_MeetMickey_Group01_Step01_StepDescription",
+      "en": "You found the Recipe!",
+      "cz": "Našli jste recept!",
+      "source": "pre_existing",
+      "original_cz": "Našli jste recept!"
+    },
+    {
+      "key": "Story!MRQS050_MeetMickey_Group01_Step01_Unlock01_StepDescription",
+      "en": "Use the <ActivityItem>Fruit Salad Recipe</ActivityItem> in your Backpack.",
+      "cz": "Použijte <ActivityItem>Recept na ovocný salát</ActivityItem> ve svém batohu.",
+      "source": "pre_existing",
+      "original_cz": "Použijte <ActivityItem>Recept na ovocný salát</ActivityItem> ve svém batohu."
+    },
+    {
+      "key": "Story!MRQS050_MeetMickey_Group01_StoryDescription",
+      "en": "Not only did you find the recipe for <ActivityItem>Fruit Salad</ActivityItem>, you also discovered a new Tool: the Shovel!",
+      "cz": "Nejenže jste našli recept na <ActivityItem>Ovocný salát</ActivityItem>, ale také jste objevili nový nástroj: lopatu!",
+      "source": "pre_existing",
+      "original_cz": "Nejenže jste našli recept na <ActivityItem>Ovocný salát</ActivityItem>, ale také jste objevili nový nástroj: lopatu!"
+    },
+    {
+      "key": "Story!MRQS050_MeetMickey_Group02_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How can I find the Recipe?",
+      "cz": "<smallcaps>{title}<smallcaps><br>Jak najdu recept?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}<smallcaps><br>Jak najdu recept?"
+    },
+    {
+      "key": "Story!MRQS050_MeetMickey_Group02_Step02_Possess01_StepDescription",
+      "en": "Search the area to find the Recipe!",
+      "cz": "Prohledejte oblast a najděte recept!",
+      "source": "pre_existing",
+      "original_cz": "Prohledejte oblast a najděte recept!"
+    },
+    {
+      "key": "Story!MRQS050_MeetMickey_Group02_Step02_StepDescription",
+      "en": "(Press {input_mainmenu} to access the Collection menu to look at the Memory.)",
+      "cz": "(Stiskněte {input_mainmenu} pro přístup do nabídky Kolekce, kde si můžete prohlédnout Vzpomínku.)",
+      "source": "pre_existing",
+      "original_cz": "(Stiskněte {input_mainmenu} pro přístup do nabídky Kolekce, kde si můžete prohlédnout Vzpomínku.)"
+    },
+    {
+      "key": "Story!MRQS050_MeetMickey_Group02_Step02_StepDescriptionMobile",
+      "en": "(Open the Main Menu to access the Collection menu to look at the Memory.)",
+      "cz": "(Otevřete hlavní nabídku pro přístup do nabídky Kolekce, kde si můžete prohlédnout Vzpomínku.)",
+      "source": "pre_existing",
+      "original_cz": "(Otevřete hlavní nabídku pro přístup do nabídky Kolekce, kde si můžete prohlédnout Vzpomínku.)"
+    },
+    {
+      "key": "Story!MRQS050_MeetMickey_Group02_StepDescription",
+      "en": "Mickey hid a special recipe somewhere around Chez Remy!",
+      "cz": "Mickey někde u Remyho schoval speciální recept!",
+      "source": "pre_existing",
+      "original_cz": "Mickey někde u Remyho schoval speciální recept!"
+    },
+    {
+      "key": "Story!MRQS050_MeetMickey_Group07_StepDescription",
+      "en": "Remove the Night Thorns in Mickey's House.",
+      "cz": "Odstraňte noční trny v Mickeyho domě.",
+      "source": "pre_existing",
+      "original_cz": "Odstraňte noční trny v Mickeyho domě."
+    },
+    {
+      "key": "Story!MRQS050_MeetMickey_Group08_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What should I do with the <ActivityItem>Memory</ActivityItem>?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co mám dělat s <ActivityItem>Memory</ActivityItem>?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co mám dělat s <ActivityItem>Memory</ActivityItem>?"
+    },
+    {
+      "key": "Story!MRQS050_MeetMickey_Group08_Step08_Unlock03_StepDescription",
+      "en": "Investigate the <ActivityItem>Memory</ActivityItem> using {input_interact}.",
+      "cz": "Prozkoumejte <ActivityItem>Paměť</ActivityItem> pomocí {input_interact}.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte <ActivityItem>Paměť</ActivityItem> pomocí {input_interact}."
+    },
+    {
+      "key": "Story!MRQS050_MeetMickey_Group08_Step08_Unlock03_StepDescriptionMobile",
+      "en": "Investigate the <ActivityItem>Memory</ActivityItem> by picking it up.",
+      "cz": "Prozkoumejte <ActivityItem>Paměť</ActivityItem> tak, že jej seberete.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte <ActivityItem>Paměť</ActivityItem> tak, že jej seberete."
+    },
+    {
+      "key": "Story!MRQS050_MeetMickey_Group09_Step09_TalkToCharacter03_StepDescription",
+      "en": "Ask Mickey about the <ActivityItem>Memory</ActivityItem>.",
+      "cz": "Zeptejte se Mickeyho na <ActivityItem>Vzpomínku</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Zeptejte se Mickeyho na <ActivityItem>Vzpomínku</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS050_MeetMickey_Group10_Step10_StepDescription",
+      "en": "(Press {input_mainmenu} to access the Collection menu to look at the Memory.)",
+      "cz": "(Stiskněte {input_mainmenu} pro přístup do nabídky Kolekce, kde si můžete prohlédnout Vzpomínku.)",
+      "source": "pre_existing",
+      "original_cz": "(Stiskněte {input_mainmenu} pro přístup do nabídky Kolekce, kde si můžete prohlédnout Vzpomínku.)"
+    },
+    {
+      "key": "Story!MRQS050_MeetMickey_Group10_Step10_StepDescriptionMobile",
+      "en": "(Open the Main Menu to access the Collection menu to look at the Memory.)",
+      "cz": "(Otevřete hlavní nabídku pro přístup do nabídky Kolekce, kde si můžete prohlédnout Vzpomínku.)",
+      "source": "pre_existing",
+      "original_cz": "(Otevřete hlavní nabídku pro přístup do nabídky Kolekce, kde si můžete prohlédnout Vzpomínku.)"
+    },
+    {
+      "key": "Story!MRQS050_MeetMickey_Group10_Step10_VisitArea02_StepDescription",
+      "en": "Find the location in <ActivityItem>Mickey's Memory</ActivityItem>!",
+      "cz": "Najděte místo v <ActivityItem>Mickeyho vzpomínkách</ActivityItem>!",
+      "source": "pre_existing",
+      "original_cz": "Najděte místo v <ActivityItem>Mickeyho vzpomínkách</ActivityItem>!"
+    },
+    {
+      "key": "Story!MRQS050_MeetMickey_Group10_StoryDescription",
+      "en": "The <ActivityItem>Memory</ActivityItem> shows you an image of Dreamlight Valley's past. Mickey tells you about Remy's recipes. The Little Chef left all his recipes in Mickey's care. Mickey hid them all over the Valley to keep them safe. The recipe for the <ActivityItem>Fruit Salad</ActivityItem> is hidden somewhere in the Village. You need to find it!",
+      "cz": "<ActivityItem>Vzpomínka</ActivityItem> vám ukazuje obraz minulosti Údolí snů. Mickey vám vypráví o Remyho receptech. Malý kuchař nechal všechny své recepty v Mickeyho péči. Mickey je schoval po celém Údolí, aby je ochránil. Recept na <ActivityItem>Ovocný salát</ActivityItem> je schovaný někde ve vesnici. Musíte ho najít!",
+      "source": "pre_existing",
+      "original_cz": "<ActivityItem>Vzpomínka</ActivityItem> vám ukazuje obraz minulosti Údolí snů. Mickey vám vypráví o Remyho receptech. Malý kuchař nechal všechny své recepty v Mickeyho péči. Mickey je schoval po celém Údolí, aby je ochránil. Recept na <ActivityItem>Ovocný salát</ActivityItem> je schovaný někde ve vesnici. Musíte ho najít!"
+    },
+    {
+      "key": "Story!MRQS050_MeetMickey_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Wow! Can I help you with anything?",
+      "cz": "<smallcaps>{title}<smallcaps><br>Páni! Můžu vám s něčím pomoct?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}<smallcaps><br>Páni! Můžu vám s něčím pomoct?"
+    }
+  ],
+  "Story/MRQS060_Gardening.locbin": [
+    {
+      "key": "Story!MRQS060_Gardening_Any_CompletedRequestDescription",
+      "en": "See what Mickey thinks.",
+      "cz": "Zjistěte, co si o tom myslí Mickey.",
+      "source": "pre_existing",
+      "original_cz": "Zjistěte, co si o tom myslí Mickey."
+    },
+    {
+      "key": "Story!MRQS060_Gardening_AvailableDescription",
+      "en": "Now that you've found the recipe, it's time to bake with Mickey!",
+      "cz": "Teď, když jste našli recept, je čas péct s Mickey!",
+      "source": "pre_existing",
+      "original_cz": "Teď, když jste našli recept, je čas péct s Mickey!"
+    },
+    {
+      "key": "Story!MRQS060_Gardening_CompletedStoryDescription",
+      "en": "It is time to see if Mickey thinks your cooking skills are up to par with Remy's.",
+      "cz": "Je čas zjistit, jestli si Mickey myslí, že tvé kuchařské dovednosti jsou na úrovni Remyho.",
+      "source": "pre_existing",
+      "original_cz": "Je čas zjistit, jestli si Mickey myslí, že tvé kuchařské dovednosti jsou na úrovni Remyho."
+    },
+    {
+      "key": "Story!MRQS060_Gardening_DisplayName",
+      "en": "Foodception",
+      "cz": "Foodception",
+      "source": "pre_existing",
+      "original_cz": "Foodception"
+    },
+    {
+      "key": "Story!MRQS060_Gardening_Group01_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How do I plant seeds?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Jak mohu vysadit semena?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Jak mohu vysadit semena?"
+    },
+    {
+      "key": "Story!MRQS060_Gardening_Group01_Step01_GardeningPlant01_StepDescription",
+      "en": "Dig a hole and plant some <ActivityItem>Wheat</ActivityItem>.",
+      "cz": "Vykopejte díru a zasaďte do ní <ActivityItem>pšenici</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Vykopejte díru a zasaďte do ní <ActivityItem>pšenici</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS060_Gardening_Group01_Step11_StepDescription",
+      "en": "Use the book in your Backpack to learn the <ActivityItem>Crackers</ActivityItem> recipe.",
+      "cz": "Použijte knihu v batohu a naučte se recept na <ActivityItem>Krackery</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Použijte knihu v batohu a naučte se recept na <ActivityItem>Krackery</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS060_Gardening_Group01_StoryDescription",
+      "en": "Since home-grown ingredients are the best, Mickey walks you through how gardening works in Dreamlight Valley.",
+      "cz": "Protože domácí suroviny jsou nejlepší, Mickey vám ukáže, jak funguje zahradničení v Dreamlight Valley.",
+      "source": "pre_existing",
+      "original_cz": "Protože domácí suroviny jsou nejlepší, Mickey vám ukáže, jak funguje zahradničení v Dreamlight Valley."
+    },
+    {
+      "key": "Story!MRQS060_Gardening_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Well done! Talk to Mickey.",
+      "cz": "Výborně! Promluvte si s Mickey.",
+      "source": "pre_existing",
+      "original_cz": "Výborně! Promluvte si s Mickey."
+    },
+    {
+      "key": "Story!MRQS060_Gardening_Group03_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Where can I find a Watering Can?",
+      "cz": "<smallcaps>{title}<smallcaps><br>Kde najdu konvičku na zalévání?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}<smallcaps><br>Kde najdu konvičku na zalévání?"
+    },
+    {
+      "key": "Story!MRQS060_Gardening_Group03_Step03_Unlock01_StepDescription",
+      "en": "Find the Royal Watering Can near your House.",
+      "cz": "Najděte královskou konvici na zalévání poblíž svého domu.",
+      "source": "pre_existing",
+      "original_cz": "Najděte královskou konvici na zalévání poblíž svého domu."
+    },
+    {
+      "key": "Story!MRQS060_Gardening_Group03_StoryDescription",
+      "en": "To stop your newly planted crops from drying out, you start searching for a Watering Can.",
+      "cz": "Abyste zabránili vysychání nově zasazených plodin, začnete hledat konvici na zalévání.",
+      "source": "pre_existing",
+      "original_cz": "Abyste zabránili vysychání nově zasazených plodin, začnete hledat konvici na zalévání."
+    },
+    {
+      "key": "Story!MRQS060_Gardening_Group04_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How do I water crops?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Jak zalévám plodiny?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Jak zalévám plodiny?"
+    },
+    {
+      "key": "Story!MRQS060_Gardening_Group04_Step04_WaterPlant01_StepDescription",
+      "en": "Use the Watering Can to water your crops.",
+      "cz": "Použijte konvici k zalévání plodin.",
+      "source": "pre_existing",
+      "original_cz": "Použijte konvici k zalévání plodin."
+    },
+    {
+      "key": "Story!MRQS060_Gardening_Group04_Step04_WaterPlant01_StepDescriptionMobile",
+      "en": "Use the Watering Can via the Hand icon to water your crops.",
+      "cz": "K zalévání plodin použijte konvici s ikonou ruky.",
+      "source": "pre_existing",
+      "original_cz": "K zalévání plodin použijte konvici s ikonou ruky."
+    },
+    {
+      "key": "Story!MRQS060_Gardening_Group04_StoryDescription",
+      "en": "Having found a new Tool in the Village, you use it to water your crops.",
+      "cz": "Poté, co ve vesnici najdete nový nástroj, použijete ho k zalévání plodin.",
+      "source": "pre_existing",
+      "original_cz": "Poté, co ve vesnici najdete nový nástroj, použijete ho k zalévání plodin."
+    },
+    {
+      "key": "Story!MRQS060_Gardening_Group05_Step05_TalkToCharacter02_StepDescription",
+      "en": "Talk to Mickey while you wait for the crops to grow.",
+      "cz": "Promluv si s Mickey, zatímco čekáš, až vyroste úroda.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Mickey, zatímco čekáš, až vyroste úroda."
+    },
+    {
+      "key": "Story!MRQS060_Gardening_Group06_Step06_VisitArea01_StepDescription",
+      "en": "Go to your House with Mickey to start cooking!",
+      "cz": "Jdi s Mickey do svého domu a začni vařit!",
+      "source": "pre_existing",
+      "original_cz": "Jdi s Mickey do svého domu a začni vařit!"
+    },
+    {
+      "key": "Story!MRQS060_Gardening_Group07_Step07_TalkToCharacter03_StepDescription",
+      "en": "Where do we bake? Talk to Mickey.",
+      "cz": "Kde pečeme? Promluvte si s Mickey.",
+      "source": "pre_existing",
+      "original_cz": "Kde pečeme? Promluvte si s Mickey."
+    },
+    {
+      "key": "Story!MRQS060_Gardening_Group08_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How do I cook?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Jak vařím?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Jak vařím?"
+    },
+    {
+      "key": "Story!MRQS060_Gardening_Group08_Step08_CookMeal01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!MRQS060_Gardening_Group08_Step08_CookMeal02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!MRQS060_Gardening_Group08_Step08_StepDescription",
+      "en": "Cook the following meals using your Stove:",
+      "cz": "Uvařte následující jídla pomocí sporáku:",
+      "source": "pre_existing",
+      "original_cz": "Uvařte následující jídla pomocí sporáku:"
+    },
+    {
+      "key": "Story!MRQS060_Gardening_Group08_StoryDescription",
+      "en": "With gardening covered, you're ready to learn to cook. And what's better than starting with a <ActivityItem>Fruit Salad</ActivityItem> and some <ActivityItem>Crackers</ActivityItem>?",
+      "cz": "Po zvládnutí zahradničení jste připraveni naučit se vařit. A co je lepšího než začít s <ActivityItem>ovocným salátem</ActivityItem> a trochou <ActivityItem>krekrů</ActivityItem>?",
+      "source": "pre_existing",
+      "original_cz": "Po zvládnutí zahradničení jste připraveni naučit se vařit. A co je lepšího než začít s <ActivityItem>ovocným salátem</ActivityItem> a trochou <ActivityItem>krekrů</ActivityItem>?"
+    },
+    {
+      "key": "Story!MRQS060_Gardening_Group09_Step09_Decorate01_StepDescription",
+      "en": "Place the Stove in your House.",
+      "cz": "Umístěte kamna do svého domu.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte kamna do svého domu."
+    },
+    {
+      "key": "Story!MRQS060_Gardening_Group09_StepDescription",
+      "en": "The Stove is part of your Furniture. (Use {input_inventory} to open your Backpack and find the Furniture menu.)",
+      "cz": "Kamna jsou součástí vašeho nábytku. (Použijte {input_inventory} k otevření batohu a nalezení nabídky Nábytek.)",
+      "source": "pre_existing",
+      "original_cz": "Kamna jsou součástí vašeho nábytku. (Použijte {input_inventory} k otevření batohu a nalezení nabídky Nábytek.)"
+    },
+    {
+      "key": "Story!MRQS060_Gardening_Group09_StepDescriptionMobile",
+      "en": "The Stove is part of your Furniture. (Use the Backpack icon to open your Inventory and find the Furniture section.)",
+      "cz": "Kamna jsou součástí vašeho nábytku. (Pomocí ikony batohu otevřete inventář a vyhledejte sekci Nábytek.)",
+      "source": "pre_existing",
+      "original_cz": "Kamna jsou součástí vašeho nábytku. (Pomocí ikony batohu otevřete inventář a vyhledejte sekci Nábytek.)"
+    },
+    {
+      "key": "Story!MRQS060_Gardening_Group10_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Where can I find <ActivityItem>Apples</ActivityItem>?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Where can I find <ActivityItem>Apples</ActivityItem>?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Where can I find <ActivityItem>Apples</ActivityItem>?"
+    },
+    {
+      "key": "Story!MRQS060_Gardening_Group10_Step10_Possess01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!MRQS060_Gardening_Group10_Step10_Possess02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!MRQS060_Gardening_Group10_Step10_StepDescription",
+      "en": "Gather the following Ingredients:",
+      "cz": "Sestavte si následující ingredience:",
+      "source": "pre_existing",
+      "original_cz": "Sestavte si následující ingredience:"
+    },
+    {
+      "key": "Story!MRQS060_Gardening_Group11_Step12_TalkToCharacter04_StepDescription",
+      "en": "Talk to Mickey at his garden.",
+      "cz": "Promluvte si s Mickeyem v jeho zahradě.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Mickeyem v jeho zahradě."
+    }
+  ],
+  "Story/MRQS070_BeachStory.locbin": [
+    {
+      "key": "Story!MRQS070_BeachStory_Any_CompletedRequestDescription",
+      "en": "Let Merlin know that Ursula is free.",
+      "cz": "Dej Merlinovi vědět, že Ursula je volná.",
+      "source": "pre_existing",
+      "original_cz": "Dej Merlinovi vědět, že Ursula je volná."
+    },
+    {
+      "key": "Story!MRQS070_BeachStory_AvailableDescription",
+      "en": "Merlin needs to tell you about something important.",
+      "cz": "Merlin ti potřebuje říct něco důležitého.",
+      "source": "pre_existing",
+      "original_cz": "Merlin ti potřebuje říct něco důležitého."
+    },
+    {
+      "key": "Story!MRQS070_BeachStory_CompletedStoryDescription",
+      "en": "After overcoming the tests and restoring the <ActivityItem>Orb of Power</ActivityItem>, you have no choice but to tell Merlin about Ursula being free.",
+      "cz": "Po překonání zkoušek a obnovení <ActivityItem>Koule moci</ActivityItem> nemáte jinou možnost než říct Merlinovi, že je Ursula svobodná.",
+      "source": "pre_existing",
+      "original_cz": "Po překonání zkoušek a obnovení <ActivityItem>Koule moci</ActivityItem> nemáte jinou možnost než říct Merlinovi, že je Ursula svobodná."
+    },
+    {
+      "key": "Story!MRQS070_BeachStory_DisplayName",
+      "en": "With Great Power...",
+      "cz": "S velkou mocí...",
+      "source": "pre_existing",
+      "original_cz": "S velkou mocí..."
+    },
+    {
+      "key": "Story!MRQS070_BeachStory_Group01_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What should I do now?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co mám nyní dělat?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co mám nyní dělat?"
+    },
+    {
+      "key": "Story!MRQS070_BeachStory_Group01_Step01_FillKeyhole01_StepDescription",
+      "en": "Place Ursula's <ActivityItem>Crystal Key</ActivityItem> in a device near the locked entrance to a cave on Dazzle Beach.",
+      "cz": "Umístěte Ursulin <ActivityItem>Křišťálový klíč</ActivityItem> do zařízení poblíž zamčeného vchodu do jeskyně na pláži Dazzle.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte Ursulin <ActivityItem>Křišťálový klíč</ActivityItem> do zařízení poblíž zamčeného vchodu do jeskyně na pláži Dazzle."
+    },
+    {
+      "key": "Story!MRQS070_BeachStory_Group01_StoryDescription",
+      "en": "You promise to free Ursula from her cave in exchange for information. If you want to stop what's happening, you need to find the <ActivityItem>Orb of Power</ActivityItem> in a secret cavern locked by a key she gives you.",
+      "cz": "Slíbíš, že Ursule vysvobodíš z její jeskyně výměnou za informace. Pokud chceš zastavit to, co se děje, musíš najít <ActivityItem>Kouli moci</ActivityItem> v tajné jeskyni zamčené klíčem, který ti dá.",
+      "source": "pre_existing",
+      "original_cz": "Slíbíš, že Ursule vysvobodíš z její jeskyně výměnou za informace. Pokud chceš zastavit to, co se děje, musíš najít <ActivityItem>Kouli moci</ActivityItem> v tajné jeskyni zamčené klíčem, který ti dá."
+    },
+    {
+      "key": "Story!MRQS070_BeachStory_Group02_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What can I do for you?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co pro vás mohu udělat?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co pro vás mohu udělat?"
+    },
+    {
+      "key": "Story!MRQS070_BeachStory_Group02_StepDescription",
+      "en": "Explore the cursed cave.",
+      "cz": "Prozkoumejte prokletou jeskyni.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte prokletou jeskyni."
+    },
+    {
+      "key": "Story!MRQS070_BeachStory_Group03_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What should I do now?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co mám nyní dělat?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co mám nyní dělat?"
+    },
+    {
+      "key": "Story!MRQS070_BeachStory_Group03_Step12_Possess01_StepDescription",
+      "en": "Fish the <ActivityItem>Orb of Power</ActivityItem> out of the water in the Mystical Cave.",
+      "cz": "Vylov <ActivityItem>Kouli moci</ActivityItem> z vody v Mystické jeskyni.",
+      "source": "pre_existing",
+      "original_cz": "Vylov <ActivityItem>Kouli moci</ActivityItem> z vody v Mystické jeskyni."
+    },
+    {
+      "key": "Story!MRQS070_BeachStory_Group04_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How can I clear the Second Test?",
+      "cz": "<smallcaps>{title}<smallcaps><br>Jak mohu dokončit druhý test?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}<smallcaps><br>Jak mohu dokončit druhý test?"
+    },
+    {
+      "key": "Story!MRQS070_BeachStory_Group04_Step04_StepDescription",
+      "en": "Find a way to remove the second Magic Gate in the Mystical Cave.",
+      "cz": "Najděte způsob, jak odstranit druhou Magickou bránu v Mystické jeskyni.",
+      "source": "pre_existing",
+      "original_cz": "Najděte způsob, jak odstranit druhou Magickou bránu v Mystické jeskyni."
+    },
+    {
+      "key": "Story!MRQS070_BeachStory_Group05_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How can I clear the First Test?",
+      "cz": "<smallcaps>{title}<smallcaps><br>Jak mohu dokončit první test?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}<smallcaps><br>Jak mohu dokončit první test?"
+    },
+    {
+      "key": "Story!MRQS070_BeachStory_Group05_Step05_StepDescription",
+      "en": "Find a way to remove the first Magic Gate in the Mystical Cave.",
+      "cz": "Najděte způsob, jak odstranit první Magickou bránu v Mystické jeskyni.",
+      "source": "pre_existing",
+      "original_cz": "Najděte způsob, jak odstranit první Magickou bránu v Mystické jeskyni."
+    },
+    {
+      "key": "Story!MRQS070_BeachStory_Group05_StoryDescription",
+      "en": "Finding out how to open the cave was the easy part. Inside, you discover a series of vexing riddles.",
+      "cz": "Zjistit, jak otevřít jeskyni, byla ta snadná část. Uvnitř objevíte řadu otravných hádanek.",
+      "source": "pre_existing",
+      "original_cz": "Zjistit, jak otevřít jeskyni, byla ta snadná část. Uvnitř objevíte řadu otravných hádanek."
+    },
+    {
+      "key": "Story!MRQS070_BeachStory_Group06_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How can I clear the Third Test?",
+      "cz": "<smallcaps>{title}<smallcaps><br>Jak mohu dokončit třetí test?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}<smallcaps><br>Jak mohu dokončit třetí test?"
+    },
+    {
+      "key": "Story!MRQS070_BeachStory_Group06_Step06_StepDescription",
+      "en": "Find a way to remove the third Magic Gate in the Mystical Cave.",
+      "cz": "Najděte způsob, jak odstranit třetí Magickou bránu v Mystické jeskyni.",
+      "source": "pre_existing",
+      "original_cz": "Najděte způsob, jak odstranit třetí Magickou bránu v Mystické jeskyni."
+    },
+    {
+      "key": "Story!MRQS070_BeachStory_Group07_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What should I do now?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co mám nyní dělat?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co mám nyní dělat?"
+    },
+    {
+      "key": "Story!MRQS070_BeachStory_Group07_Step07_FillKeyhole05_StepDescription",
+      "en": "Place the <ActivityItem>Orb of Power</ActivityItem> in the Pillar near the Mystical Cave.",
+      "cz": "Umístěte <ActivityItem>Kouli moci</ActivityItem> do sloupu poblíž Mystické jeskyně.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte <ActivityItem>Kouli moci</ActivityItem> do sloupu poblíž Mystické jeskyně."
+    },
+    {
+      "key": "Story!MRQS070_BeachStory_Group08_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What should I do now?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co mám nyní dělat?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co mám nyní dělat?"
+    },
+    {
+      "key": "Story!MRQS070_BeachStory_Group08_Step08_TalkToCharacter02_StepDescription",
+      "en": "Return to Ursula in the cursed cave near Dazzle Beach.",
+      "cz": "Vraťte se za Ursulou do prokleté jeskyně poblíž pláže Dazzle.",
+      "source": "pre_existing",
+      "original_cz": "Vraťte se za Ursulou do prokleté jeskyně poblíž pláže Dazzle."
+    },
+    {
+      "key": "Story!MRQS070_BeachStory_Group09_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Merlin, how can I help?",
+      "cz": "<smallcaps>{title}<smallcaps><br>Merline, jak ti můžu pomoct?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}<smallcaps><br>Merline, jak ti můžu pomoct?"
+    },
+    {
+      "key": "Story!MRQS070_BeachStory_Group09_Step09_TalkToCharacter03_StepDescription",
+      "en": "Talk to Merlin.",
+      "cz": "Promluvte si s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Merlinem."
+    },
+    {
+      "key": "Story!MRQS070_BeachStory_Group09_Step10_TalkToCharacter04_StepDescription",
+      "en": "Explore the cursed cave on Dazzle Beach.",
+      "cz": "Prozkoumejte prokletou jeskyni na pláži Dazzle.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte prokletou jeskyni na pláži Dazzle."
+    },
+    {
+      "key": "Story!MRQS070_BeachStory_Group09_StoryDescription",
+      "en": "Merlin and some other Villagers fear the Forgetting is happening again. Dreamlight Valley's fate lies in the Sea Witch's hands.",
+      "cz": "Merlin a někteří další vesničané se obávají, že se Zapomnění opět děje. Osud Údolí snů leží v rukou Mořské čarodějnice.",
+      "source": "pre_existing",
+      "original_cz": "Merlin a někteří další vesničané se obávají, že se Zapomnění opět děje. Osud Údolí snů leží v rukou Mořské čarodějnice."
+    },
+    {
+      "key": "Story!MRQS070_BeachStory_Group10_Step11_TalkToCharacter05_StepDescription",
+      "en": "Talk to Merlin.",
+      "cz": "Promluvte si s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Merlinem."
+    },
+    {
+      "key": "Story!MRQS070_BeachStory_Group11_Step03_VisitArea01_StepDescription",
+      "en": "Explore the Mystical Cave.",
+      "cz": "Prozkoumejte mystickou jeskyni.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte mystickou jeskyni."
+    }
+  ],
+  "Story/MRQS080_TheDarkSide.locbin": [
+    {
+      "key": "Story!MRQS080_TheDarkSide_AvailableDescription",
+      "en": "A mysterious sound is coming from the Forest. What can it possibly be?",
+      "cz": "Z lesa se ozývá záhadný zvuk. Co by to asi mohlo být?",
+      "source": "pre_existing",
+      "original_cz": "Z lesa se ozývá záhadný zvuk. Co by to asi mohlo být?"
+    },
+    {
+      "key": "Story!MRQS080_TheDarkSide_CompletedStoryDescription",
+      "en": "Now that the <ActivityItem>Orb of Courage</ActivityItem> has been restored, maybe Donald can tell you the whole story.",
+      "cz": "Nyní, když byla <ActivityItem>Koule odvahy</ActivityItem> obnovena, možná vám Donald poví celý příběh.",
+      "source": "pre_existing",
+      "original_cz": "Nyní, když byla <ActivityItem>Koule odvahy</ActivityItem> obnovena, možná vám Donald poví celý příběh."
+    },
+    {
+      "key": "Story!MRQS080_TheDarkSide_DisplayName",
+      "en": "Lost in the Dark Grove",
+      "cz": "Ztraceni v Temném háji",
+      "source": "pre_existing",
+      "original_cz": "Ztraceni v Temném háji"
+    },
+    {
+      "key": "Story!MRQS080_TheDarkSide_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "It's Kristoff! Talk to him.",
+      "cz": "To je Kristoff! Promluvte si s ním.",
+      "source": "pre_existing",
+      "original_cz": "To je Kristoff! Promluvte si s ním."
+    },
+    {
+      "key": "Story!MRQS080_TheDarkSide_Group02_Step02_VisitArea01_StepDescription",
+      "en": "Go through the Dark Portal.",
+      "cz": "Go through the Dark Portal.",
+      "source": "pre_existing",
+      "original_cz": "Go through the Dark Portal."
+    },
+    {
+      "key": "Story!MRQS080_TheDarkSide_Group02_StoryDescription",
+      "en": "You find Kristoff lost in the woods near a strange portal Donald disappeared through. He asks you to find his friend.",
+      "cz": "Najdete Kristoffa ztraceného v lese poblíž podivného portálu, kterým Donald zmizel. Požádá vás, abyste našli jeho přítele.",
+      "source": "pre_existing",
+      "original_cz": "Najdete Kristoffa ztraceného v lese poblíž podivného portálu, kterým Donald zmizel. Požádá vás, abyste našli jeho přítele."
+    },
+    {
+      "key": "Story!MRQS080_TheDarkSide_Group03_Step03_StepDescription",
+      "en": "Follow the <ActivityItem>Enchanted Feather</ActivityItem> through the Dark Grove.",
+      "cz": "Sledujte <ActivityItem>Začarované pírko</ActivityItem> skrz Temný háj.",
+      "source": "pre_existing",
+      "original_cz": "Sledujte <ActivityItem>Začarované pírko</ActivityItem> skrz Temný háj."
+    },
+    {
+      "key": "Story!MRQS080_TheDarkSide_Group04_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How can I help you?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Jak vám mohu pomoci?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Jak vám mohu pomoci?"
+    },
+    {
+      "key": "Story!MRQS080_TheDarkSide_Group04_Step04_TalkToCharacter02_StepDescription",
+      "en": "Show Kristoff what you found.",
+      "cz": "Ukaž Kristoffovi, co jsi našel.",
+      "source": "pre_existing",
+      "original_cz": "Ukaž Kristoffovi, co jsi našel."
+    },
+    {
+      "key": "Story!MRQS080_TheDarkSide_Group04_StoryDescription",
+      "en": "As you explore the Dark Grove on the other side of the Portal, you find one of Donald's feathers.",
+      "cz": "Při prozkoumávání Temného háje na druhé straně portálu najdete jedno z Donaldových per.",
+      "source": "pre_existing",
+      "original_cz": "Při prozkoumávání Temného háje na druhé straně portálu najdete jedno z Donaldových per."
+    },
+    {
+      "key": "Story!MRQS080_TheDarkSide_Group05_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What do I do now?",
+      "cz": "<smallcaps>{title}</smallcaps><br>What do I do now?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>What do I do now?"
+    },
+    {
+      "key": "Story!MRQS080_TheDarkSide_Group05_Step05_TalkToCharacter03_StepDescription",
+      "en": "Ask Merlin for help to track down Donald Duck.",
+      "cz": "Požádejte Merlina o pomoc s nalezením Kačera Donalda.",
+      "source": "pre_existing",
+      "original_cz": "Požádejte Merlina o pomoc s nalezením Kačera Donalda."
+    },
+    {
+      "key": "Story!MRQS080_TheDarkSide_Group05_StoryDescription",
+      "en": "Kristoff suggests you ask Merlin for his help with a tracking spell.",
+      "cz": "Kristoff navrhuje, abyste požádali Merlina o pomoc se sledovacím kouzlem.",
+      "source": "pre_existing",
+      "original_cz": "Kristoff navrhuje, abyste požádali Merlina o pomoc se sledovacím kouzlem."
+    },
+    {
+      "key": "Story!MRQS080_TheDarkSide_Group06_Step06_FillKeyhole01_StepDescription",
+      "en": "Place the <ActivityItem>Orb of Courage</ActivityItem> in the Forest Pillar.",
+      "cz": "Umístěte <ActivityItem>Kouli odvahy</ActivityItem> do Lesního sloupu.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte <ActivityItem>Kouli odvahy</ActivityItem> do Lesního sloupu."
+    },
+    {
+      "key": "Story!MRQS080_TheDarkSide_Group06_StoryDescription",
+      "en": "When you find Donald Duck, he explains he was pursuing a Dark Entity that was stealing <ActivityItem>Orbs</ActivityItem>, before asking you to get him out of there and restore the <ActivityItem>Orb</ActivityItem>.",
+      "cz": "Když najdete Kačera Donalda, vysvětlí vám, že pronásledoval Temnou entitu, která krade <ActivityItem>Orbs</ActivityItem>, a poté vás požádá, abyste ho odtamtud dostali a <ActivityItem>Orb</ActivityItem> obnovili.",
+      "source": "pre_existing",
+      "original_cz": "Když najdete Kačera Donalda, vysvětlí vám, že pronásledoval Temnou entitu, která krade <ActivityItem>Orbs</ActivityItem>, a poté vás požádá, abyste ho odtamtud dostali a <ActivityItem>Orb</ActivityItem> obnovili."
+    },
+    {
+      "key": "Story!MRQS080_TheDarkSide_Group07_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>How can I help?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Jak mohu pomoci?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Jak mohu pomoci?"
+    },
+    {
+      "key": "Story!MRQS080_TheDarkSide_Group07_Step07_VisitArea02_StepDescription",
+      "en": "Return to the Dark Grove with the <ActivityItem>Enchanted Feather</ActivityItem>.",
+      "cz": "Vraťte se do Temného háje s <ActivityItem>Začarovaným pírkem</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Vraťte se do Temného háje s <ActivityItem>Začarovaným pírkem</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS080_TheDarkSide_Group08_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What can I do?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co mohu udělat?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co mohu udělat?"
+    },
+    {
+      "key": "Story!MRQS080_TheDarkSide_Group08_Step08_TalkToCharacter04_StepDescription",
+      "en": "Talk to Donald Duck.",
+      "cz": "Promluvte si s Kačerem Donaldem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Kačerem Donaldem."
+    },
+    {
+      "key": "Story!MRQS080_TheDarkSide_Group09_Step10_VisitArea03_StepDescription",
+      "en": "There's a strange sound coming from the Forest of Valor. Go see what it's all about.",
+      "cz": "Z Lesa statečnosti se ozývají zvláštní zvuky. Jděte se podívat, o co jde.",
+      "source": "pre_existing",
+      "original_cz": "Z Lesa statečnosti se ozývají zvláštní zvuky. Jděte se podívat, o co jde."
+    },
+    {
+      "key": "Story!MRQS080_TheDarkSide_Group10_Step11_BringItem01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!MRQS080_TheDarkSide_Group10_Step11_BringItem02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!MRQS080_TheDarkSide_Group10_Step11_BringItem03_StepDescription",
+      "en": "Plant from the Dark Grove.",
+      "cz": "Rostlina z Temného háje.",
+      "source": "pre_existing",
+      "original_cz": "Rostlina z Temného háje."
+    },
+    {
+      "key": "Story!MRQS080_TheDarkSide_Group10_Step11_BringItem04_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!MRQS080_TheDarkSide_Group10_Step11_ReadyDescription",
+      "en": "Bring the Ingredients for the tracking spell to Merlin.",
+      "cz": "Přineste Merlinovi ingredience pro sledovací kouzlo.",
+      "source": "pre_existing",
+      "original_cz": "Přineste Merlinovi ingredience pro sledovací kouzlo."
+    },
+    {
+      "key": "Story!MRQS080_TheDarkSide_Group10_Step11_StepDescription",
+      "en": "Gather the Ingredients for the tracking spell:",
+      "cz": "Seberte ingredience pro sledovací kouzlo:",
+      "source": "pre_existing",
+      "original_cz": "Seberte ingredience pro sledovací kouzlo:"
+    },
+    {
+      "key": "Story!MRQS080_TheDarkSide_Group11_Step09_Possess01_StepDescription",
+      "en": "Investigate the Dark Grove for clues about Donald Duck's whereabouts.",
+      "cz": "Prozkoumejte Temný háj a najděte stopy o tom, kde se nachází Kačer Donald.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte Temný háj a najděte stopy o tom, kde se nachází Kačer Donald."
+    },
+    {
+      "key": "Story!MRQS080_TheDarkSide_Group12_Step12_TalkToCharacter05_StepDescription",
+      "en": "Talk to Donald Duck.",
+      "cz": "Promluvte si s Kačerem Donaldem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Kačerem Donaldem."
+    },
+    {
+      "key": "Story!MRQS080_TheDarkSide_Group13_Step13_UnlockCharacter01_StepDescription",
+      "en": "Unlock Donald Duck.",
+      "cz": "Odemkněte Kačera Donalda.",
+      "source": "pre_existing",
+      "original_cz": "Odemkněte Kačera Donalda."
+    }
+  ],
+  "Story/MRQS090_TheCurse.locbin": [
+    {
+      "key": "Story!MRQS090_TheCurse_Any_CompletedRequestDescription",
+      "en": "Talk to Mother Gothel.",
+      "cz": "Promluvte si s Matkou Gothel.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Matkou Gothel."
+    },
+    {
+      "key": "Story!MRQS090_TheCurse_AvailableDescription",
+      "en": "Merlin has something to tell you.",
+      "cz": "Merlin ti chce něco říct.",
+      "source": "pre_existing",
+      "original_cz": "Merlin ti chce něco říct."
+    },
+    {
+      "key": "Story!MRQS090_TheCurse_CompletedStoryDescription",
+      "en": "After restoring the Pillar and breaking the curse, it's time to go back to Mother Gothel.",
+      "cz": "Po obnovení Pilíře a zlomení kletby je čas vrátit se k Matce Gothel.",
+      "source": "pre_existing",
+      "original_cz": "Po obnovení Pilíře a zlomení kletby je čas vrátit se k Matce Gothel."
+    },
+    {
+      "key": "Story!MRQS090_TheCurse_DisplayName",
+      "en": "The Curse",
+      "cz": "The Curse",
+      "source": "pre_existing",
+      "original_cz": "The Curse"
+    },
+    {
+      "key": "Story!MRQS090_TheCurse_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "Introduce yourself to Mother Gothel.",
+      "cz": "Představ se Matce Gothel.",
+      "source": "pre_existing",
+      "original_cz": "Představ se Matce Gothel."
+    },
+    {
+      "key": "Story!MRQS090_TheCurse_Group02_Step02_VisitArea01_StepDescription",
+      "en": "Explore the cabin inside the giant tree.",
+      "cz": "Prozkoumejte chatu uvnitř obřího stromu.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte chatu uvnitř obřího stromu."
+    },
+    {
+      "key": "Story!MRQS090_TheCurse_Group03_Step03_TalkToCharacter03_StepDescription",
+      "en": "Talk to Merlin about the curse.",
+      "cz": "Promluv si s Merlinem o kletbě.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s Merlinem o kletbě."
+    },
+    {
+      "key": "Story!MRQS090_TheCurse_Group03_Step03_TalkToCharacter04_StepDescription",
+      "en": "Find out if Ursula can help you.",
+      "cz": "Zjistěte, zda vám Ursula může pomoci.",
+      "source": "pre_existing",
+      "original_cz": "Zjistěte, zda vám Ursula může pomoci."
+    },
+    {
+      "key": "Story!MRQS090_TheCurse_Group03_StoryDescription",
+      "en": "You learn the Sea Witch is the only one who can cast the spell you need.",
+      "cz": "Dozvíte se, že Mořská čarodějnice je jediná, kdo dokáže seslat kouzlo, které potřebujete.",
+      "source": "pre_existing",
+      "original_cz": "Dozvíte se, že Mořská čarodějnice je jediná, kdo dokáže seslat kouzlo, které potřebujete."
+    },
+    {
+      "key": "Story!MRQS090_TheCurse_Group04_Step04_Possess02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!MRQS090_TheCurse_Group04_Step04_Possess03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!MRQS090_TheCurse_Group04_Step09_TalkToCharacter06_StepDescription",
+      "en": "Convince Kristoff to help you with the spell.",
+      "cz": "Přesvědč Kristoffa, aby ti pomohl s kouzlem.",
+      "source": "pre_existing",
+      "original_cz": "Přesvědč Kristoffa, aby ti pomohl s kouzlem."
+    },
+    {
+      "key": "Story!MRQS090_TheCurse_Group04_StepDescription",
+      "en": "Gather the following Ingredients for the enchantment:",
+      "cz": "Sestavte následující ingredience pro kouzlo:",
+      "source": "pre_existing",
+      "original_cz": "Sestavte následující ingredience pro kouzlo:"
+    },
+    {
+      "key": "Story!MRQS090_TheCurse_Group05_StepDescription",
+      "en": "Listen to Merlin and Ursula.",
+      "cz": "Poslechněte si Merlina a Ursulu.",
+      "source": "pre_existing",
+      "original_cz": "Poslechněte si Merlina a Ursulu."
+    },
+    {
+      "key": "Story!MRQS090_TheCurse_Group06_Step06_TalkToCharacter05_StepDescription",
+      "en": "Talk to Merlin.",
+      "cz": "Promluvte si s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Merlinem."
+    },
+    {
+      "key": "Story!MRQS090_TheCurse_Group07_Step07_Possess01_StepDescription",
+      "en": "Retrieve the <ActivityItem>Orb of Trust</ActivityItem> from the floating island in the Glade of Trust.",
+      "cz": "Získejte <ActivityItem>Kouli důvěry</ActivityItem> z plovoucího ostrova v Mýtině důvěry.",
+      "source": "pre_existing",
+      "original_cz": "Získejte <ActivityItem>Kouli důvěry</ActivityItem> z plovoucího ostrova v Mýtině důvěry."
+    },
+    {
+      "key": "Story!MRQS090_TheCurse_Group08_Step08_FillKeyhole01_StepDescription",
+      "en": "Put the <ActivityItem>Orb of Trust</ActivityItem> back into the Pillar in the Glade of Trust.",
+      "cz": "Vložte <ActivityItem>Kouli důvěry</ActivityItem> zpět do Pilíře v Mýtině důvěry.",
+      "source": "pre_existing",
+      "original_cz": "Vložte <ActivityItem>Kouli důvěry</ActivityItem> zpět do Pilíře v Mýtině důvěry."
+    },
+    {
+      "key": "Story!MRQS090_TheCurse_Group09_Step11_VisitArea02_StepDescription",
+      "en": "Find Merlin.",
+      "cz": "Najděte Merlina.",
+      "source": "pre_existing",
+      "original_cz": "Najděte Merlina."
+    },
+    {
+      "key": "Story!MRQS090_TheCurse_Group09_StoryDescription",
+      "en": "It appears the <ActivityItem>Orb of Trust</ActivityItem> is stuck between two realities. You need magical help.",
+      "cz": "Zdá se, že <ActivityItem>Koule důvěry</ActivityItem> uvízla mezi dvěma realitami. Potřebujete magickou pomoc.",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že <ActivityItem>Koule důvěry</ActivityItem> uvízla mezi dvěma realitami. Potřebujete magickou pomoc."
+    },
+    {
+      "key": "Story!MRQS090_TheCurse_Group10_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Where were we going?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Kam jsme se chystali?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Kam jsme se chystali?"
+    },
+    {
+      "key": "Story!MRQS090_TheCurse_Group10_Step15_FollowCharacter01_TalkToDescription",
+      "en": "Talk to Mother Gothel.",
+      "cz": "Promluvte si s matkou Gothel.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s matkou Gothel."
+    },
+    {
+      "key": "Story!MRQS090_TheCurse_Group10_Step15_StepDescription",
+      "en": "Follow Mother Gothel to the Pillar of Trust in the Glade.",
+      "cz": "Následujte Matku Gothel k Pilíři důvěry v Mýtině.",
+      "source": "pre_existing",
+      "original_cz": "Následujte Matku Gothel k Pilíři důvěry v Mýtině."
+    },
+    {
+      "key": "Story!MRQS090_TheCurse_Group10_StoryDescription",
+      "en": "You discover a cabin in a tree. Inside, Mother Gothel, cursed by the Old Ruler, waits. Opening the door unleashes Mother Gothel's Dark Magic on the whole Village. To fix it, you'll have to restore the Pillar of Trust.",
+      "cz": "Objevíte chatrč na stromě. Uvnitř čeká Matka Gothel, prokletá Starým vládcem. Otevřením dveří se na celou vesnici uvolní Matčina temná magie. Abyste to napravili, budete muset obnovit Pilíř důvěry.",
+      "source": "pre_existing",
+      "original_cz": "Objevíte chatrč na stromě. Uvnitř čeká Matka Gothel, prokletá Starým vládcem. Otevřením dveří se na celou vesnici uvolní Matčina temná magie. Abyste to napravili, budete muset obnovit Pilíř důvěry."
+    },
+    {
+      "key": "Story!MRQS090_TheCurse_Group12_Step13_BringItem01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!MRQS090_TheCurse_Group12_Step13_BringItem02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!MRQS090_TheCurse_Group12_Step13_ReadyDescription",
+      "en": "Give the Ingredients to Ursula.",
+      "cz": "Dejte ingredience Ursule.",
+      "source": "pre_existing",
+      "original_cz": "Dejte ingredience Ursule."
+    },
+    {
+      "key": "Story!MRQS090_TheCurse_Group12_Step13_StepDescription",
+      "en": "Gather the following Ingredients for the enchantment:",
+      "cz": "Sestavte následující ingredience pro kouzlo:",
+      "source": "pre_existing",
+      "original_cz": "Sestavte následující ingredience pro kouzlo:"
+    },
+    {
+      "key": "Story!MRQS090_TheCurse_Group12_StoryDescription",
+      "en": "Kristoff must lose his memories of Anna for the magic to work. He does it to help save the Valley.",
+      "cz": "Aby magie fungovala, Kristoff musí ztratit vzpomínky na Annu. Udělá to, aby pomohl zachránit Údolí.",
+      "source": "pre_existing",
+      "original_cz": "Aby magie fungovala, Kristoff musí ztratit vzpomínky na Annu. Udělá to, aby pomohl zachránit Údolí."
+    },
+    {
+      "key": "Story!MRQS090_TheCurse_Group13_Step14_VisitArea04_StepDescription",
+      "en": "Investigate the cursed tree in the Glade of Trust.",
+      "cz": "Prozkoumejte prokletý strom v Mýtině důvěry.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte prokletý strom v Mýtině důvěry."
+    },
+    {
+      "key": "Story!MRQS090_TheCurse_Group14_Step10_VisitArea03_StepDescription",
+      "en": "Meet Ursula in the cave where you first met.",
+      "cz": "Setkejte se s Uršulou v jeskyni, kde jste se poprvé setkali.",
+      "source": "pre_existing",
+      "original_cz": "Setkejte se s Uršulou v jeskyni, kde jste se poprvé setkali."
+    }
+  ],
+  "Story/MRQS100_TakingCareOfThings.locbin": [
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Any_CompletedRequestDescription",
+      "en": "Talk to Scar.",
+      "cz": "Promluv si se Scarem.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si se Scarem."
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_AvailableDescription",
+      "en": "A rock crumbles on the Sunlit Plateau, revealing the entrance to a mysterious lair...",
+      "cz": "Na Sluncem zalité plošině se drolí skála a odhaluje vchod do tajemného doupěte...",
+      "source": "pre_existing",
+      "original_cz": "Na Sluncem zalité plošině se drolí skála a odhaluje vchod do tajemného doupěte..."
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_CompletedStoryDescription",
+      "en": "You manage to restore life to the Sunlit Plateau with a little bit of nurturing and care. As for the Forgotten... the mystery lives on.",
+      "cz": "S trochou péče a péče se vám podaří obnovit život na Slunné plošině. Co se týče Zapomenutých... záhada žije dál.",
+      "source": "pre_existing",
+      "original_cz": "S trochou péče a péče se vám podaří obnovit život na Slunné plošině. Co se týče Zapomenutých... záhada žije dál."
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_DisplayName",
+      "en": "Nature & Nurture",
+      "cz": "Příroda a péče Sluncem Zalitá Pláň.",
+      "source": "pre_existing",
+      "original_cz": "Příroda a péče Sluncem Zalitá Pláň."
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group01_Step01_VisitArea01_StepDescription",
+      "en": "Investigate the <ActivityItem>Giant Skull</ActivityItem> in the Elephant Graveyard of the Sunlit Plateau.",
+      "cz": "Prozkoumejte <ActivityItem>Obří lebku</ActivityItem> na hřbitově slonů na Slunné plošině.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte <ActivityItem>Obří lebku</ActivityItem> na hřbitově slonů na Slunné plošině."
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Talk to Scar.",
+      "cz": "Promluv si se Scarem.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si se Scarem."
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group02_StoryDescription",
+      "en": "Inside the giant skull, you find Scar, who has been trapped there since not long after the Forgetting. Scar suggests you explore the Vitalys Mines to find what's blocking the river on the Sunlit Plateau.",
+      "cz": "Uvnitř obří lebky najdete Scara, který je tam uvězněn krátce po Zapomnění. Scar vám navrhne, abyste prozkoumali doly Vitalys a zjistili, co blokuje řeku na Sluncem Zalitá Pláň.",
+      "source": "pre_existing",
+      "original_cz": "Uvnitř obří lebky najdete Scara, který je tam uvězněn krátce po Zapomnění. Scar vám navrhne, abyste prozkoumali doly Vitalys a zjistili, co blokuje řeku na Sluncem Zalitá Pláň."
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group03_Step05_Interaction01_StepDescription",
+      "en": "Check the sign next to the barrel in the Vitalys Mines.",
+      "cz": "Podívejte se na ceduli vedle sudu v dolech Vitalys.",
+      "source": "pre_existing",
+      "original_cz": "Podívejte se na ceduli vedle sudu v dolech Vitalys."
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group04_Step04_VisitArea02_StepDescription",
+      "en": "Explore the Vitalys Mines and find whatever's blocking the river.",
+      "cz": "Prozkoumejte doly Vitalys a najděte vše, co blokuje řeku.",
+      "source": "pre_existing",
+      "original_cz": "Prozkoumejte doly Vitalys a najděte vše, co blokuje řeku."
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group05_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What next?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co dál?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co dál?"
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group05_StepDescription",
+      "en": "Talk to Merlin.",
+      "cz": "Promluvte si s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Merlinem."
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group06_Step06_VisitArea03_StepDescription",
+      "en": "Enter the Vitalys Mines at the mouth of the river on the Sunlit Plateau.",
+      "cz": "Vstupte do dolů Vitalys u ústí řeky na Sluncem Zalitá Pláň.",
+      "source": "pre_existing",
+      "original_cz": "Vstupte do dolů Vitalys u ústí řeky na Sluncem Zalitá Pláň."
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group07_Step08_VisitArea07_StepDescription",
+      "en": "Return to Dreamlight Valley.",
+      "cz": "Návrat do Údolí snů.",
+      "source": "pre_existing",
+      "original_cz": "Návrat do Údolí snů."
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group07_StoryDescription",
+      "en": "Leaving the Vitalys Mines, you spot the Forgotten, holding something. You chase them through a Dark Portal and recover the Orb of Nurturing. But you also discover that the Forgotten looks exactly like you...",
+      "cz": "Když opouštíte doly Vitalys, spatříte Zapomenuté, kteří něco drží. Pronásledujete je Temným portálem a získáte zpět Kouli péče. Ale také zjistíte, že Zapomenutí vypadá přesně jako vy...",
+      "source": "pre_existing",
+      "original_cz": "Když opouštíte doly Vitalys, spatříte Zapomenuté, kteří něco drží. Pronásledujete je Temným portálem a získáte zpět Kouli péče. Ale také zjistíte, že Zapomenutí vypadá přesně jako vy..."
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group08_StepDescription",
+      "en": "Prepare the {ItemName} at a Cooking Station using <ActivityItem>Dried Ginger</ActivityItem>, <ActivityItem>Vanilla</ActivityItem>, and <ActivityItem>Sugarcane</ActivityItem>.",
+      "cz": "Připravte si {ItemName} na varné stanici s použitím <ActivityItem>Sušeného zázvoru</ActivityItem>, <ActivityItem>Vanilek</ActivityItem> a <ActivityItem>Cukrové třtiny</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Připravte si {ItemName} na varné stanici s použitím <ActivityItem>Sušeného zázvoru</ActivityItem>, <ActivityItem>Vanilek</ActivityItem> a <ActivityItem>Cukrové třtiny</ActivityItem>."
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group09_Step09_FillKeyhole02_StepDescription",
+      "en": "Put the <ActivityItem>Extra Fizzy Root Beer</ActivityItem> and the <ActivityItem>Crackling Candies</ActivityItem> in the barrel.",
+      "cz": "Vložte <ActivityItem>Extra šumivé kořenové pivo</ActivityItem> a <ActivityItem>Šumivé bonbóny</ActivityItem> do sudu.",
+      "source": "pre_existing",
+      "original_cz": "Vložte <ActivityItem>Extra šumivé kořenové pivo</ActivityItem> a <ActivityItem>Šumivé bonbóny</ActivityItem> do sudu."
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group09_StepDescription",
+      "en": "Clear the Night Thorn roots blocking the water source in the mine.",
+      "cz": "Odstraňte kořeny nočních trnů, které blokují zdroj vody v dole.",
+      "source": "pre_existing",
+      "original_cz": "Odstraňte kořeny nočních trnů, které blokují zdroj vody v dole."
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group09_StoryDescription",
+      "en": "Inside the Vitalys Mines, you find Night Thorn roots blocking the river. You put together a very fizzy concoction to clear the Night Thorns.",
+      "cz": "Uvnitř dolů Vitalys najdete kořeny Nočního trnu, které blokují řeku. Připravíte velmi šumivou směs, abyste Noční trny vyčistili.",
+      "source": "pre_existing",
+      "original_cz": "Uvnitř dolů Vitalys najdete kořeny Nočního trnu, které blokují řeku. Připravíte velmi šumivou směs, abyste Noční trny vyčistili."
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group10_StepDescription",
+      "en": "Search the mining camp in the Vitalys Mines for the Ingredients.",
+      "cz": "Prohledejte hornický tábor v dolech Vitalys a najděte ingredience.",
+      "source": "pre_existing",
+      "original_cz": "Prohledejte hornický tábor v dolech Vitalys a najděte ingredience."
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group11_Step11_VisitArea04_StepDescription",
+      "en": "Return to the Sunlit Plateau to see if the river has been restored.",
+      "cz": "Vraťte se na Sluncem Zalitá Pláň a podívejte se, zda byla řeka obnovena.",
+      "source": "pre_existing",
+      "original_cz": "Vraťte se na Sluncem Zalitá Pláň a podívejte se, zda byla řeka obnovena."
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group12_Step12_VisitArea05_StepDescription",
+      "en": "Follow the Forgotten through the Dark Portal near the Elephant Graveyard.",
+      "cz": "Následujte Zapomenuté temným portálem poblíž Sloního hřbitova.",
+      "source": "pre_existing",
+      "original_cz": "Následujte Zapomenuté temným portálem poblíž Sloního hřbitova."
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group13_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What was I doing again?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co jsem to zase dělal?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co jsem to zase dělal?"
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group13_Step13_Possess01_StepDescription",
+      "en": "Pick it up.",
+      "cz": "Zvedni to.",
+      "source": "pre_existing",
+      "original_cz": "Zvedni to."
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group13_Step13_StepDescription",
+      "en": "The Forgotten dropped something!",
+      "cz": "Zapomenutý něco upustil!",
+      "source": "pre_existing",
+      "original_cz": "Zapomenutý něco upustil!"
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group14_StepDescription",
+      "en": "Show Merlin what you've found.",
+      "cz": "Ukaž Merlinovi, co jsi našel.",
+      "source": "pre_existing",
+      "original_cz": "Ukaž Merlinovi, co jsi našel."
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group15_Step15_Possess02_StepDescription",
+      "en": "Mine {ItemName} from rocks in the Vitalys Mines.",
+      "cz": "Vytěžte {ItemName} z kamenů v dolech Vitalys.",
+      "source": "pre_existing",
+      "original_cz": "Vytěžte {ItemName} z kamenů v dolech Vitalys."
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group15_Step15_Possess03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group15_Step15_Possess04_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group15_Step15_StepDescription",
+      "en": "Gather the following items needed for the <ActivityItem>Miracle Growth Elixir</ActivityItem>:",
+      "cz": "Shromážděte následující položky potřebné pro <ActivityItem>Zázračný růstový elixír</ActivityItem>:",
+      "source": "pre_existing",
+      "original_cz": "Shromážděte následující položky potřebné pro <ActivityItem>Zázračný růstový elixír</ActivityItem>:"
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group16_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What do I do next?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co mám dělat dál?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co mám dělat dál?"
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group16_Step16_CraftItem02_StepDescription",
+      "en": "Craft the {ItemName}.",
+      "cz": "Vytvořte si {ItemName}.",
+      "source": "pre_existing",
+      "original_cz": "Vytvořte si {ItemName}."
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group17_Step17_ConsumeItem01_StepDescription",
+      "en": "Use the {ItemName} in your Backpack to upgrade your Watering Can.",
+      "cz": "Použijte předmět {ItemName} z batohu k vylepšení konve na zalévání.",
+      "source": "pre_existing",
+      "original_cz": "Použijte předmět {ItemName} z batohu k vylepšení konve na zalévání."
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group18_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What now?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co nyní?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co nyní?"
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group18_Step18_GardeningPlant01_StepDescription",
+      "en": "Plant the {ItemName} at the Pillar on the Sunlit Plateau.",
+      "cz": "Zasaďte rostlinu {ItemName} u pilíře na Sluncem Zalitá Pláň.",
+      "source": "pre_existing",
+      "original_cz": "Zasaďte rostlinu {ItemName} u pilíře na Sluncem Zalitá Pláň."
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group19_Step19_MakeGarden02_StepDescription",
+      "en": "Tend to the <ActivityItem>Orb of Nurturing</ActivityItem> until it's fully restored. (This might take a few days!)",
+      "cz": "Pečujte se <ActivityItem>Orb péče</ActivityItem>, dokud se zcela neobnoví. (Může to trvat několik dní!)",
+      "source": "pre_existing",
+      "original_cz": "Pečujte se <ActivityItem>Orb péče</ActivityItem>, dokud se zcela neobnoví. (Může to trvat několik dní!)"
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group20_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What next?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co dál?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co dál?"
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group20_Step20_VisitArea06_StepDescription",
+      "en": "Check on the <ActivityItem>Orb of Nurturing</ActivityItem> on the Sunlit Plateau.",
+      "cz": "Zkontrolujte <ActivityItem>Orb péče</ActivityItem> na Sluncem Zalitá Pláň.",
+      "source": "pre_existing",
+      "original_cz": "Zkontrolujte <ActivityItem>Orb péče</ActivityItem> na Sluncem Zalitá Pláň."
+    },
+    {
+      "key": "Story!MRQS100_TakingCareOfThings_Group21_Step21_TalkToCharacter03_StepDescription",
+      "en": "Tell Merlin about what you've found.",
+      "cz": "Řekni Merlinovi, co jsi našel.",
+      "source": "pre_existing",
+      "original_cz": "Řekni Merlinovi, co jsi našel."
+    }
+  ],
+  "Story/ORQS_Mer_010_Buffs.locbin": [
+    {
+      "key": "Story!ORQS_Mer_010_Buffs_AvailableDescription",
+      "en": "Merlin has been holed up in the library, studying the Vitalys Crystals that you found in the mines beneath the Sunlit Plateau. Now, after days of fitful research, he's ready to tell you about what he's uncovered.",
+      "cz": "Merlin se ukrýval v knihovně a studoval krystaly Vitalys, které jste našli v dolech pod Sluncem Zalitá Pláň. Nyní, po dnech přerušovaného výzkumu, je připraven vám povědět o tom, co objevil.",
+      "source": "pre_existing",
+      "original_cz": "Merlin se ukrýval v knihovně a studoval krystaly Vitalys, které jste našli v dolech pod Sluncem Zalitá Pláň. Nyní, po dnech přerušovaného výzkumu, je připraven vám povědět o tom, co objevil."
+    },
+    {
+      "key": "Story!ORQS_Mer_010_Buffs_CompletedStoryDescription",
+      "en": "After much study, Merlin provides you with several ways to improve your Royal Tools. You'll have to use a Crafting Station if you wish to discover more.",
+      "cz": "Po dlouhém studiu vám Merlin nabízí několik způsobů, jak vylepšit vaše královské nástroje. Pokud chcete objevit více, budete muset použít řemeslnou stanici.",
+      "source": "pre_existing",
+      "original_cz": "Po dlouhém studiu vám Merlin nabízí několik způsobů, jak vylepšit vaše královské nástroje. Pokud chcete objevit více, budete muset použít řemeslnou stanici."
+    },
+    {
+      "key": "Story!ORQS_Mer_010_Buffs_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "Talk to Merlin.",
+      "cz": "Promluvte si s Merlinem.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Merlinem."
+    },
+    {
+      "key": "Story!ORQS_Mer_010_Buffs_Group01_StepDescription",
+      "en": "Merlin has something important to tell you!",
+      "cz": "Merlin ti chce říct něco důležitého!",
+      "source": "pre_existing",
+      "original_cz": "Merlin ti chce říct něco důležitého!"
+    }
+  ],
+  "Story/ORQS_Merl_010_Buffs.locbin": [
+    {
+      "key": "Story!ORQS_Merl_010_Buffs_DisplayName",
+      "en": "Working Miracles",
+      "cz": "Dělá zázraky",
+      "source": "pre_existing",
+      "original_cz": "Dělá zázraky"
+    }
+  ],
+  "Story/ORQS_Scro_010_Meadow.locbin": [
+    {
+      "key": "Story!ORQS_Scro_010_Meadow_Any_CompletedRequestDescription",
+      "en": "Talk to Scrooge.",
+      "cz": "Promluv si se Skrblíkm.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si se Skrblíkm."
+    },
+    {
+      "key": "Story!ORQS_Scro_010_Meadow_AvailableDescription",
+      "en": "Now that the Pillar in the Peaceful Meadow has been restored, it's time to spruce things up around here.",
+      "cz": "Nyní, když byl Sloup na Poklidná Louka obnoven, je čas to tady vylepšit.",
+      "source": "pre_existing",
+      "original_cz": "Nyní, když byl Sloup na Poklidná Louka obnoven, je čas to tady vylepšit."
+    },
+    {
+      "key": "Story!ORQS_Scro_010_Meadow_CompletedStoryDescription",
+      "en": "You made the Peaceful Meadow a more beautiful place.",
+      "cz": "Udělali jste z Poklidná Louka krásnější místo.",
+      "source": "pre_existing",
+      "original_cz": "Udělali jste z Poklidná Louka krásnější místo."
+    },
+    {
+      "key": "Story!ORQS_Scro_010_Meadow_DisplayName",
+      "en": "Rebuild the Valley: Peaceful Meadow",
+      "cz": "Obnovte údolí: Poklidná Louka",
+      "source": "pre_existing",
+      "original_cz": "Obnovte údolí: Poklidná Louka"
+    },
+    {
+      "key": "Story!ORQS_Scro_010_Meadow_Group01_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What must I do?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co musím udělat?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co musím udělat?"
+    },
+    {
+      "key": "Story!ORQS_Scro_010_Meadow_Group01_Step01_Decorate01_StepDescription",
+      "en": "Place {TargetAmount} pieces of furniture.",
+      "cz": "Umístěte {TargetAmount} kusů nábytku.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte {TargetAmount} kusů nábytku."
+    },
+    {
+      "key": "Story!ORQS_Scro_010_Meadow_Group01_Step01_StepDescription",
+      "en": "Decorate the Peaceful Meadow.",
+      "cz": "Vyzdobte Poklidná Louka.",
+      "source": "pre_existing",
+      "original_cz": "Vyzdobte Poklidná Louka."
+    },
+    {
+      "key": "Story!ORQS_Scro_010_Meadow_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Zahájení úkolu",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Zahájení úkolu"
+    }
+  ],
+  "Story/ORQS_Scro_020_Beach.locbin": [
+    {
+      "key": "Story!ORQS_Scro_020_Beach_Any_CompletedRequestDescription",
+      "en": "Talk to Scrooge.",
+      "cz": "Talk to Skrblík.",
+      "source": "pre_existing",
+      "original_cz": "Talk to Skrblík."
+    },
+    {
+      "key": "Story!ORQS_Scro_020_Beach_AvailableDescription",
+      "en": "Now that the Pillar on Dazzle Beach has been restored, it's time to develop this prime waterfront real estate.",
+      "cz": "Nyní, když byl pilíř na pláži Oslňující Pláž zrestaurován, je čas na rozvoj této prvotřídní nemovitosti na nábřeží.",
+      "source": "pre_existing",
+      "original_cz": "Nyní, když byl pilíř na pláži Oslňující Pláž zrestaurován, je čas na rozvoj této prvotřídní nemovitosti na nábřeží."
+    },
+    {
+      "key": "Story!ORQS_Scro_020_Beach_CompletedStoryDescription",
+      "en": "You decorated Dazzle Beach and developed some prime waterfront real estate.",
+      "cz": "Vyzdobili jste Oslňující Pláž a vytvořili jste prvotřídní nemovitosti na nábřeží.",
+      "source": "pre_existing",
+      "original_cz": "Vyzdobili jste Oslňující Pláž a vytvořili jste prvotřídní nemovitosti na nábřeží."
+    },
+    {
+      "key": "Story!ORQS_Scro_020_Beach_DisplayName",
+      "en": "Rebuild the Valley: Dazzle Beach",
+      "cz": "Obnovte údolí: Oslňující Pláž",
+      "source": "pre_existing",
+      "original_cz": "Obnovte údolí: Oslňující Pláž"
+    },
+    {
+      "key": "Story!ORQS_Scro_020_Beach_Group01_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What must I do?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co musím udělat?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co musím udělat?"
+    },
+    {
+      "key": "Story!ORQS_Scro_020_Beach_Group01_Step01_Decorate01_StepDescription",
+      "en": "Place {TargetAmount} pieces of furniture.",
+      "cz": "Umístěte {TargetAmount} kusů nábytku.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte {TargetAmount} kusů nábytku."
+    },
+    {
+      "key": "Story!ORQS_Scro_020_Beach_Group01_Step01_StepDescription",
+      "en": "Decorate Dazzle Beach.",
+      "cz": "Vyzdobte Oslňující Pláž.",
+      "source": "pre_existing",
+      "original_cz": "Vyzdobte Oslňující Pláž."
+    },
+    {
+      "key": "Story!ORQS_Scro_020_Beach_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Zahájení úkolu",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Zahájení úkolu"
+    }
+  ],
+  "Story/ORQS_Scro_030_Forest.locbin": [
+    {
+      "key": "Story!ORQS_Scro_030_Forest_Any_CompletedRequestDescription",
+      "en": "Talk to Scrooge.",
+      "cz": "Talk to Skrblík.",
+      "source": "pre_existing",
+      "original_cz": "Talk to Skrblík."
+    },
+    {
+      "key": "Story!ORQS_Scro_030_Forest_AvailableDescription",
+      "en": "Now that the Pillar in the Forest of Valor has been restored, it's time to spruce the place up.",
+      "cz": "Nyní, když byl Sloup v Les Odvahy obnoven, je čas toto místo vylepšit.",
+      "source": "pre_existing",
+      "original_cz": "Nyní, když byl Sloup v Les Odvahy obnoven, je čas toto místo vylepšit."
+    },
+    {
+      "key": "Story!ORQS_Scro_030_Forest_CompletedStoryDescription",
+      "en": "You made the Forest of Valor a perfect place for a hike.",
+      "cz": "Udělali jste z Les Odvahy perfektní místo pro túru.",
+      "source": "pre_existing",
+      "original_cz": "Udělali jste z Les Odvahy perfektní místo pro túru."
+    },
+    {
+      "key": "Story!ORQS_Scro_030_Forest_DisplayName",
+      "en": "Rebuild the Valley: Forest of Valor",
+      "cz": "Obnovte údolí: Les Odvahy",
+      "source": "pre_existing",
+      "original_cz": "Obnovte údolí: Les Odvahy"
+    },
+    {
+      "key": "Story!ORQS_Scro_030_Forest_Group01_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What must I do?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co musím udělat?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co musím udělat?"
+    },
+    {
+      "key": "Story!ORQS_Scro_030_Forest_Group01_Step01_Decorate01_StepDescription",
+      "en": "Place {TargetAmount} pieces of furniture.",
+      "cz": "Umístěte {TargetAmount} kusů nábytku.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte {TargetAmount} kusů nábytku."
+    },
+    {
+      "key": "Story!ORQS_Scro_030_Forest_Group01_Step01_StepDescription",
+      "en": "Decorate the Forest of Valor.",
+      "cz": "Vyzdobte Les statečnosti.",
+      "source": "pre_existing",
+      "original_cz": "Vyzdobte Les statečnosti."
+    },
+    {
+      "key": "Story!ORQS_Scro_030_Forest_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Zahájení úkolu",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Zahájení úkolu"
+    }
+  ],
+  "Story/ORQS_Scro_040_Glade.locbin": [
+    {
+      "key": "Story!ORQS_Scro_040_Glade_Any_CompletedRequestDescription",
+      "en": "Talk to Scrooge.",
+      "cz": "Talk to Skrblík.",
+      "source": "pre_existing",
+      "original_cz": "Talk to Skrblík."
+    },
+    {
+      "key": "Story!ORQS_Scro_040_Glade_AvailableDescription",
+      "en": "Now that the Pillar in the Glade of Trust has been restored, it's time to bring a little beauty back to the old swamp.",
+      "cz": "Nyní, když byl Sloup v Mýtině důvěry obnoven, je čas vrátit staré bažině trochu krásy.",
+      "source": "pre_existing",
+      "original_cz": "Nyní, když byl Sloup v Mýtině důvěry obnoven, je čas vrátit staré bažině trochu krásy."
+    },
+    {
+      "key": "Story!ORQS_Scro_040_Glade_CompletedStoryDescription",
+      "en": "You made the Glade of Trust into a beautiful place for the Villagers.",
+      "cz": "Proměnili jste Mýtinu důvěry v krásné místo pro vesničany.",
+      "source": "pre_existing",
+      "original_cz": "Proměnili jste Mýtinu důvěry v krásné místo pro vesničany."
+    },
+    {
+      "key": "Story!ORQS_Scro_040_Glade_DisplayName",
+      "en": "Rebuild the Valley: Glade of Trust",
+      "cz": "Obnovte údolí: Mýtina důvěry",
+      "source": "pre_existing",
+      "original_cz": "Obnovte údolí: Mýtina důvěry"
+    },
+    {
+      "key": "Story!ORQS_Scro_040_Glade_Group01_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What must I do?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co musím udělat?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co musím udělat?"
+    },
+    {
+      "key": "Story!ORQS_Scro_040_Glade_Group01_Step01_Decorate01_StepDescription",
+      "en": "Place {TargetAmount} pieces of furniture.",
+      "cz": "Umístěte {TargetAmount} kusů nábytku.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte {TargetAmount} kusů nábytku."
+    },
+    {
+      "key": "Story!ORQS_Scro_040_Glade_Group01_Step01_StepDescription",
+      "en": "Decorate the Glade of Trust.",
+      "cz": "Vyzdobte Mýtinu důvěry.",
+      "source": "pre_existing",
+      "original_cz": "Vyzdobte Mýtinu důvěry."
+    },
+    {
+      "key": "Story!ORQS_Scro_040_Glade_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Zahájení úkolu",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Zahájení úkolu"
+    }
+  ],
+  "Story/ORQS_Scro_050_Plateau.locbin": [
+    {
+      "key": "Story!ORQS_Scro_050_Plateau_Any_CompletedRequestDescription",
+      "en": "Talk to Scrooge.",
+      "cz": "Talk to Skrblík.",
+      "source": "pre_existing",
+      "original_cz": "Talk to Skrblík."
+    },
+    {
+      "key": "Story!ORQS_Scro_050_Plateau_AvailableDescription",
+      "en": "Now that the Pillar on the Sunlit Plateau has been restored, it's time to make the place a little less deserted with some furniture.",
+      "cz": "Nyní, když byl Sloup na Sluncem Zalitá Pláň obnoven, je čas toto místo trochu uvolnit pomocí nábytku.",
+      "source": "pre_existing",
+      "original_cz": "Nyní, když byl Sloup na Sluncem Zalitá Pláň obnoven, je čas toto místo trochu uvolnit pomocí nábytku."
+    },
+    {
+      "key": "Story!ORQS_Scro_050_Plateau_CompletedStoryDescription",
+      "en": "You turned the Sunlit Plateau into a beautiful place to visit.",
+      "cz": "Proměnili jste Sluncem Zalitá Pláň v krásné místo k návštěvě.",
+      "source": "pre_existing",
+      "original_cz": "Proměnili jste Sluncem Zalitá Pláň v krásné místo k návštěvě."
+    },
+    {
+      "key": "Story!ORQS_Scro_050_Plateau_DisplayName",
+      "en": "Rebuild the Valley: Sunlit Plateau",
+      "cz": "Obnovte údolí: Sluncem Zalitá Pláň",
+      "source": "pre_existing",
+      "original_cz": "Obnovte údolí: Sluncem Zalitá Pláň"
+    },
+    {
+      "key": "Story!ORQS_Scro_050_Plateau_Group01_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What must I do?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co musím udělat?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co musím udělat?"
+    },
+    {
+      "key": "Story!ORQS_Scro_050_Plateau_Group01_Step01_Decorate01_StepDescription",
+      "en": "Place {TargetAmount} pieces of furniture.",
+      "cz": "Umístěte {TargetAmount} kusů nábytku.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte {TargetAmount} kusů nábytku."
+    },
+    {
+      "key": "Story!ORQS_Scro_050_Plateau_Group01_Step01_StepDescription",
+      "en": "Decorate the Sunlit Plateau.",
+      "cz": "Ozdobte Sluncem Zalitá Pláň.",
+      "source": "pre_existing",
+      "original_cz": "Ozdobte Sluncem Zalitá Pláň."
+    },
+    {
+      "key": "Story!ORQS_Scro_050_Plateau_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Zahájení úkolu",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Zahájení úkolu"
+    }
+  ],
+  "Story/ORQS_Scro_060_Heights.locbin": [
+    {
+      "key": "Story!ORQS_Scro_060_Heights_Any_CompletedRequestDescription",
+      "en": "Talk to Scrooge.",
+      "cz": "Talk to Skrblík.",
+      "source": "pre_existing",
+      "original_cz": "Talk to Skrblík."
+    },
+    {
+      "key": "Story!ORQS_Scro_060_Heights_AvailableDescription",
+      "en": "Now that the Pillar in the Frosted Heights has been restored, it's time to make the place a little less frigid with some furniture.",
+      "cz": "Nyní, když byl Sloup v Mrazivé Výšiny zrestaurován, je čas toto místo trochu uklidnit pomocí nábytku.",
+      "source": "pre_existing",
+      "original_cz": "Nyní, když byl Sloup v Mrazivé Výšiny zrestaurován, je čas toto místo trochu uklidnit pomocí nábytku."
+    },
+    {
+      "key": "Story!ORQS_Scro_060_Heights_CompletedStoryDescription",
+      "en": "You made the Frosted Heights a little more warm and inviting.",
+      "cz": "Udělali jste Mrazivé Výšiny o něco teplejšími a lákavějšími.",
+      "source": "pre_existing",
+      "original_cz": "Udělali jste Mrazivé Výšiny o něco teplejšími a lákavějšími."
+    },
+    {
+      "key": "Story!ORQS_Scro_060_Heights_DisplayName",
+      "en": "Rebuild the Valley: Frosted Heights",
+      "cz": "Obnovte údolí: Mrazivé Výšiny",
+      "source": "pre_existing",
+      "original_cz": "Obnovte údolí: Mrazivé Výšiny"
+    },
+    {
+      "key": "Story!ORQS_Scro_060_Heights_Group01_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What must I do?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co musím udělat?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co musím udělat?"
+    },
+    {
+      "key": "Story!ORQS_Scro_060_Heights_Group01_Step01_Decorate01_StepDescription",
+      "en": "Place {TargetAmount} pieces of furniture.",
+      "cz": "Umístěte {TargetAmount} kusů nábytku.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte {TargetAmount} kusů nábytku."
+    },
+    {
+      "key": "Story!ORQS_Scro_060_Heights_Group01_Step01_StepDescription",
+      "en": "Decorate the Frosted Heights.",
+      "cz": "Vyzdobte Mrazivé Výšiny.",
+      "source": "pre_existing",
+      "original_cz": "Vyzdobte Mrazivé Výšiny."
+    },
+    {
+      "key": "Story!ORQS_Scro_060_Heights_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Zahájení úkolu",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Zahájení úkolu"
+    }
+  ],
+  "Story/ORQS_Scro_070_ForgottenLands.locbin": [
+    {
+      "key": "Story!ORQS_Scro_070_ForgottenLands_Any_CompletedRequestDescription",
+      "en": "Talk to Scrooge.",
+      "cz": "Promluvte si se Skrblíkm.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si se Skrblíkm."
+    },
+    {
+      "key": "Story!ORQS_Scro_070_ForgottenLands_AvailableDescription",
+      "en": "It'll be a challenge, but Scrooge McDuck has entrusted you with making the Forgotten Lands a more inviting place for visitors.",
+      "cz": "Bude to výzva, ale Skrblík McDuck vám svěřil úkol udělat ze Zapomenutá Země lákavější místo pro návštěvníky.",
+      "source": "pre_existing",
+      "original_cz": "Bude to výzva, ale Skrblík McDuck vám svěřil úkol udělat ze Zapomenutá Země lákavější místo pro návštěvníky."
+    },
+    {
+      "key": "Story!ORQS_Scro_070_ForgottenLands_CompletedStoryDescription",
+      "en": "You made the Forgotten Lands a little more inviting and a little less forgotten.",
+      "cz": "Udělali jste Zapomenutá Země o něco lákavějšími a o něco méně zapomenutými.",
+      "source": "pre_existing",
+      "original_cz": "Udělali jste Zapomenutá Země o něco lákavějšími a o něco méně zapomenutými."
+    },
+    {
+      "key": "Story!ORQS_Scro_070_ForgottenLands_DisplayName",
+      "en": "Rebuild the Valley: Forgotten Lands",
+      "cz": "Obnovte údolí: Zapomenutá Země",
+      "source": "pre_existing",
+      "original_cz": "Obnovte údolí: Zapomenutá Země"
+    },
+    {
+      "key": "Story!ORQS_Scro_070_ForgottenLands_Group01_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What must I do?",
+      "cz": "<smallcaps>{title}</smallcaps><br>Co musím udělat?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Co musím udělat?"
+    },
+    {
+      "key": "Story!ORQS_Scro_070_ForgottenLands_Group01_Step01_Decorate01_StepDescription",
+      "en": "Place {TargetAmount} pieces of furniture.",
+      "cz": "Umístěte {TargetAmount} kusů nábytku.",
+      "source": "pre_existing",
+      "original_cz": "Umístěte {TargetAmount} kusů nábytku."
+    },
+    {
+      "key": "Story!ORQS_Scro_070_ForgottenLands_Group01_Step01_StepDescription",
+      "en": "Decorate the Forgotten Lands.",
+      "cz": "Vyzdobte Zapomenutá Země.",
+      "source": "pre_existing",
+      "original_cz": "Vyzdobte Zapomenutá Země."
+    },
+    {
+      "key": "Story!ORQS_Scro_070_ForgottenLands_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Zahájení úkolu",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title}</smallcaps><br>Zahájení úkolu"
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "Aladdin_Anna/Anna_VLG_Jasm_040_VLG_Jasm_040_BringItem02.locbin": [
+    {
+      "key": "Anna_000_f",
+      "en": "Here you go! It's all of the chocolate I found around your House.",
+      "cz": "Tady máš! To je všechna čokoláda, co jsem u tebe doma našla.",
+      "source": "pre_existing",
+      "original_cz": "Tady máš! To je všechna čokoláda, co jsem u tebe doma našla."
+    },
+    {
+      "key": "Anna_001_f",
+      "en": "Oh... no, no, I can't even LOOK at more chocolate right now! Please, can you get rid of it for me?",
+      "cz": "Ale... ne, ne, na čokoládu se teď ani nemůžu podívat! Prosím, mohla bys mi jí dát pryč?",
+      "source": "pre_existing",
+      "original_cz": "Ale... ne, ne, na čokoládu se teď ani nemůžu podívat! Prosím, mohla bys mi jí dát pryč?"
+    },
+    {
+      "key": "Anna_002_f",
+      "en": "I suppose I COULD eat it for you... if you insist.",
+      "cz": "Asi bych to pro tebe MOHLA sníst... když na tom trváš.",
+      "source": "pre_existing",
+      "original_cz": "Asi bych to pro tebe MOHLA sníst... když na tom trváš."
+    },
+    {
+      "key": "Anna_003_f",
+      "en": "Yes! Please! Just get rid of it!",
+      "cz": "Ano! Prosím! Prostě se toho zbavte!",
+      "source": "pre_existing",
+      "original_cz": "Ano! Prosím! Prostě se toho zbavte!"
+    }
+  ],
+  "Aladdin_Anna/Anna_VLG_Jasm_040_VLG_Jasm_040_TalkTo02.locbin": [
+    {
+      "key": "Anna_000_f",
+      "en": "Oh {PlayerName}, I'm so glad you're here! I could really use some help.",
+      "cz": "Ach {PlayerName}, jsem tak rád/a, že jsi tady! Moc by se mi hodila pomoc.",
+      "source": "pre_existing",
+      "original_cz": "Ach {PlayerName}, jsem tak rád/a, že jsi tady! Moc by se mi hodila pomoc."
+    },
+    {
+      "key": "Anna_001_f",
+      "en": "What happened?",
+      "cz": "Co se stalo?",
+      "source": "pre_existing",
+      "original_cz": "Co se stalo?"
+    },
+    {
+      "key": "Anna_002_f",
+      "en": "I don't know... One second, I'm wishing I could eat chocolate every day, and the next... well...",
+      "cz": "Nevím... V jednu vteřinu si přeji, abych mohla jíst čokoládu každý den, a v další... no...",
+      "source": "pre_existing",
+      "original_cz": "Nevím... V jednu vteřinu si přeji, abych mohla jíst čokoládu každý den, a v další... no..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "All of your stuff turned into chocolate?",
+      "cz": "Všechno, co jsi měl, se proměnilo v čokoládu?",
+      "source": "pre_existing",
+      "original_cz": "Všechno, co jsi měl, se proměnilo v čokoládu?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "You discovered you have powers like Elsa, but with CHOCOLATE?",
+      "cz": "Zjistila jsi, že máš schopnosti jako Elsa, ale s ČOKOLÁDOU?",
+      "source": "pre_existing",
+      "original_cz": "Zjistila jsi, že máš schopnosti jako Elsa, ale s ČOKOLÁDOU?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Nothing happened and everything is fine?",
+      "cz": "Nic se nestalo a všechno je v pořádku?",
+      "source": "pre_existing",
+      "original_cz": "Nic se nestalo a všechno je v pořádku?"
+    },
+    {
+      "key": "Anna_003_f",
+      "en": "Not exactly, though you aren't far off.",
+      "cz": "Ne tak docela, i když od toho nejsi daleko.",
+      "source": "pre_existing",
+      "original_cz": "Ne tak docela, i když od toho nejsi daleko."
+    },
+    {
+      "key": "Anna_006_f",
+      "en": "Suddenly, everything I touch turns to chocolate!",
+      "cz": "Najednou se všechno, čeho se dotknu, promění v čokoládu!",
+      "source": "pre_existing",
+      "original_cz": "Najednou se všechno, čeho se dotknu, promění v čokoládu!"
+    },
+    {
+      "key": "Anna_007_f",
+      "en": "It's so weird! I wish for chocolate at LEAST once a day. But this time, something actually happened!",
+      "cz": "Je to tak divné! Přála bych si čokoládu ASPOŇ jednou denně. Ale tentokrát se něco opravdu stalo!",
+      "source": "pre_existing",
+      "original_cz": "Je to tak divné! Přála bych si čokoládu ASPOŇ jednou denně. Ale tentokrát se něco opravdu stalo!"
+    },
+    {
+      "key": "Anna_008_f",
+      "en": "I know what happened. There's some wish magic loose in the Valley. I haven't quite gotten to the bottom of it yet, but I'm working on it.",
+      "cz": "Vím, co se stalo. V Údolí se šíří nějaká magie přání. Ještě jsem se tomu úplně nedostal k jádru věci, ale pracuji na tom.",
+      "source": "pre_existing",
+      "original_cz": "Vím, co se stalo. V Údolí se šíří nějaká magie přání. Ještě jsem se tomu úplně nedostal k jádru věci, ale pracuji na tom."
+    },
+    {
+      "key": "Anna_009_f",
+      "en": "Wish magic? That sounds like it could get dangerous.",
+      "cz": "Kouzlo přání? To zní, jako by to mohlo být nebezpečné.",
+      "source": "pre_existing",
+      "original_cz": "Kouzlo přání? To zní, jako by to mohlo být nebezpečné."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Jasmine is looking into it.",
+      "cz": "Jasmína se na to podívá.",
+      "source": "pre_existing",
+      "original_cz": "Jasmína se na to podívá."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I won't let anything bad happen.",
+      "cz": "Nedovolím, aby se stalo něco špatného.",
+      "source": "pre_existing",
+      "original_cz": "Nedovolím, aby se stalo něco špatného."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "That's what I'm worried about!",
+      "cz": "Toho se bojím!",
+      "source": "pre_existing",
+      "original_cz": "Toho se bojím!"
+    },
+    {
+      "key": "Anna_010_f",
+      "en": "She'll let me know if anything bad can come of this.",
+      "cz": "Dá mi vědět, jestli z toho může být něco špatného.",
+      "source": "pre_existing",
+      "original_cz": "Dá mi vědět, jestli z toho může být něco špatného."
+    },
+    {
+      "key": "Anna_013_f",
+      "en": "But first things first, I'd like to help you with all of this chocolate in your House.",
+      "cz": "Ale v první řadě bych vám rád pomohl se vší tou čokoládou, co máte doma.",
+      "source": "pre_existing",
+      "original_cz": "Ale v první řadě bych vám rád pomohl se vší tou čokoládou, co máte doma."
+    },
+    {
+      "key": "Anna_014_f",
+      "en": "PLEASE! I can't eat any more chocolate today. I love it, but it's just not practical.",
+      "cz": "PROSÍM! Dnes už nemůžu jíst žádnou čokoládu. Miluju ji, ale prostě to není praktické.",
+      "source": "pre_existing",
+      "original_cz": "PROSÍM! Dnes už nemůžu jíst žádnou čokoládu. Miluju ji, ale prostě to není praktické."
+    },
+    {
+      "key": "Anna_015_f",
+      "en": "It's a delicious problem, but a problem nonetheless. I'll just go ahead and <Lore>pick up all the chocolate</Lore> for you!",
+      "cz": "Je to lahodný problém, ale přesto problém. Prostě ti <Lore>seberu všechnu čokoládu</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Je to lahodný problém, ale přesto problém. Prostě ti <Lore>seberu všechnu čokoládu</Lore>!"
+    },
+    {
+      "key": "Anna_011_f",
+      "en": "Jasmine and I are working on getting to the bottom of this.",
+      "cz": "S Jasmine pracujeme na tom, abychom tomu přišli na kloub.",
+      "source": "pre_existing",
+      "original_cz": "S Jasmine pracujeme na tom, abychom tomu přišli na kloub."
+    },
+    {
+      "key": "Anna_012_f",
+      "en": "Jasmine and I are working hard to get to the bottom of this before anything bad can happen.",
+      "cz": "S Jasmine usilovně pracujeme na tom, abychom to vyřešili, než se stane něco špatného.",
+      "source": "pre_existing",
+      "original_cz": "S Jasmine usilovně pracujeme na tom, abychom to vyřešili, než se stane něco špatného."
+    },
+    {
+      "key": "Anna_004_f",
+      "en": "Kind of, actually.",
+      "cz": "Tak nějak, vlastně.",
+      "source": "pre_existing",
+      "original_cz": "Tak nějak, vlastně."
+    },
+    {
+      "key": "Anna_005_f",
+      "en": "Oh, if only!",
+      "cz": "Ach, kdyby jen!",
+      "source": "pre_existing",
+      "original_cz": "Ach, kdyby jen!"
+    }
+  ],
+  "Aladdin_Anna/Anna_VLG_Jasm_040_VLG_Jasm_040_TalkTo08.locbin": [
+    {
+      "key": "Jasmine_000_f",
+      "en": "Oh, thank you so much, {PlayerName}! I didn't want any of that chocolate going to waste, but I couldn't eat another bite.",
+      "cz": "Moc děkuji, {PlayerName}! Nechtěla jsem, aby ta čokoláda přišla nazmar, ale už jsem nemohla sníst ani sousto.",
+      "source": "pre_existing",
+      "original_cz": "Moc děkuji, {PlayerName}! Nechtěla jsem, aby ta čokoláda přišla nazmar, ale už jsem nemohla sníst ani sousto."
+    },
+    {
+      "key": "Anna_000_f",
+      "en": "Eating chocolate to help a friend isn't such a bad way to spend my time.",
+      "cz": "Jíst čokoládu, abych pomohl kamarádovi, není tak špatný způsob, jak trávit čas.",
+      "source": "pre_existing",
+      "original_cz": "Jíst čokoládu, abych pomohl kamarádovi, není tak špatný způsob, jak trávit čas."
+    },
+    {
+      "key": "Anna_001_f",
+      "en": "Before you go, there's something else I wanted to mention.",
+      "cz": "Než půjdete, chtěl jsem zmínit ještě něco dalšího.",
+      "source": "pre_existing",
+      "original_cz": "Než půjdete, chtěl jsem zmínit ještě něco dalšího."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm listening.",
+      "cz": "Poslouchám.",
+      "source": "pre_existing",
+      "original_cz": "Poslouchám."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Oh no, what now?",
+      "cz": "Ale ne, co teď?",
+      "source": "pre_existing",
+      "original_cz": "Ale ne, co teď?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Is there more chocolate?",
+      "cz": "Je tam víc čokolády?",
+      "source": "pre_existing",
+      "original_cz": "Je tam víc čokolády?"
+    },
+    {
+      "key": "Anna_006_f",
+      "en": "I can't really explain this, but maybe you'll know what to do...",
+      "cz": "Neumím to moc vysvětlit, ale možná budeš vědět, co mám dělat...",
+      "source": "pre_existing",
+      "original_cz": "Neumím to moc vysvětlit, ale možná budeš vědět, co mám dělat..."
+    },
+    {
+      "key": "Anna_002_f",
+      "en": "Okay, so earlier today, even though I was completely freaked out about my chocolate dilemma, there WAS one person who could cheer me up.",
+      "cz": "Dobře, takže dneska, i když jsem byla kvůli svému čokoládovému dilematu úplně vyděšená, EXISTOVALA JEDNA osoba, která mě dokázala rozveselit.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, takže dneska, i když jsem byla kvůli svému čokoládovému dilematu úplně vyděšená, EXISTOVALA JEDNA osoba, která mě dokázala rozveselit."
+    },
+    {
+      "key": "Anna_009_f",
+      "en": "Oh really? Who?",
+      "cz": "Vážně? Kdo?",
+      "source": "pre_existing",
+      "original_cz": "Vážně? Kdo?"
+    },
+    {
+      "key": "Anna_010_f",
+      "en": "... Mike Wazowski.",
+      "cz": "... Mike Wazowski.",
+      "source": "pre_existing",
+      "original_cz": "... Mike Wazowski."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "He IS pretty funny!",
+      "cz": "On JE docela vtipný!",
+      "source": "pre_existing",
+      "original_cz": "On JE docela vtipný!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "That's a little random.",
+      "cz": "To je trochu náhodné.",
+      "source": "pre_existing",
+      "original_cz": "To je trochu náhodné."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Why is that so strange?",
+      "cz": "Proč je to tak zvláštní?",
+      "source": "pre_existing",
+      "original_cz": "Proč je to tak zvláštní?"
+    },
+    {
+      "key": "Anna_011_f",
+      "en": "He is, but the weird part is he was making me laugh even without telling jokes!",
+      "cz": "To je on, ale divné na tom je, že mě rozesmíval, i když nevyprávěl vtipy!",
+      "source": "pre_existing",
+      "original_cz": "To je on, ale divné na tom je, že mě rozesmíval, i když nevyprávěl vtipy!"
+    },
+    {
+      "key": "Anna_014_f",
+      "en": "This definitely sounds like more wish magic causing havoc. I'll go <Lore>talk to Mike</Lore> and see what he wished for exactly.",
+      "cz": "To rozhodně zní jako další kouzlo přání, které způsobuje chaos. Půjdu <Lore>promluvit si s Mikem</Lore> a zjistím, co si přesně přál.",
+      "source": "pre_existing",
+      "original_cz": "To rozhodně zní jako další kouzlo přání, které způsobuje chaos. Půjdu <Lore>promluvit si s Mikem</Lore> a zjistím, co si přesně přál."
+    },
+    {
+      "key": "Anna_012_f",
+      "en": "It's VERY random! Especially since he was making me laugh without even telling any jokes!",
+      "cz": "Je to ÚPLNĚ náhodné! Zvlášť když mě rozesmíval, aniž by vyprávěl nějaké vtipy!",
+      "source": "pre_existing",
+      "original_cz": "Je to ÚPLNĚ náhodné! Zvlášť když mě rozesmíval, aniž by vyprávěl nějaké vtipy!"
+    },
+    {
+      "key": "Anna_013_f",
+      "en": "Well, he was making me laugh without telling any jokes.",
+      "cz": "No, rozesmíval mě, aniž by vyprávěl vtipy.",
+      "source": "pre_existing",
+      "original_cz": "No, rozesmíval mě, aniž by vyprávěl vtipy."
+    },
+    {
+      "key": "Anna_007_f",
+      "en": "I'm not sure I have room for any more food-related emergencies.",
+      "cz": "Nejsem si jistý/á, jestli mám místo na další nouzové situace související s jídlem.",
+      "source": "pre_existing",
+      "original_cz": "Nejsem si jistý/á, jestli mám místo na další nouzové situace související s jídlem."
+    },
+    {
+      "key": "Anna_008_f",
+      "en": "Don't worry; it's nothing like that.",
+      "cz": "Neboj se, nic takového to není.",
+      "source": "pre_existing",
+      "original_cz": "Neboj se, nic takového to není."
+    },
+    {
+      "key": "Anna_004_f",
+      "en": "Or perhaps a different food-related issue? Do you have an abundance of sandwiches I could help you with?",
+      "cz": "Nebo možná jiný problém s jídlem? Máte dostatek sendvičů, se kterými bych vám mohl pomoci?",
+      "source": "pre_existing",
+      "original_cz": "Nebo možná jiný problém s jídlem? Máte dostatek sendvičů, se kterými bych vám mohl pomoci?"
+    },
+    {
+      "key": "Anna_005_f",
+      "en": "No, nothing like that!",
+      "cz": "Ne, nic takového!",
+      "source": "pre_existing",
+      "original_cz": "Ne, nic takového!"
+    }
+  ]
+}

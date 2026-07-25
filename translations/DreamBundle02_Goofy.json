@@ -1,0 +1,160 @@
+{
+  "DreamBundle02_Goofy/Goofy_PRM_Ursu_040_PRM_Ursu_040_BringItem01.locbin": [
+    {
+      "key": "Goofy_000_f",
+      "en": "Thanks, {PlayerName}!",
+      "cz": "Díky, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Díky, {PlayerName}!"
+    },
+    {
+      "key": "Goofy_001_f",
+      "en": "Now, I just need to catch the <ActivityItem>Seaweed</ActivityItem> and <ActivityItem>Red Algae</ActivityItem> Ursula asked for.",
+      "cz": "Teď už jen musím chytit <ActivityItem>Mořské řasy</ActivityItem> a <ActivityItem>Červené řasy</ActivityItem>, o které si Ursula přála.",
+      "source": "pre_existing",
+      "original_cz": "Teď už jen musím chytit <ActivityItem>Mořské řasy</ActivityItem> a <ActivityItem>Červené řasy</ActivityItem>, o které si Ursula přála."
+    },
+    {
+      "key": "Player_000_f",
+      "en": "Why don't I help you by catching half?",
+      "cz": "Proč ti nepomůžu tím, že chytím půlku?",
+      "source": "pre_existing",
+      "original_cz": "Proč ti nepomůžu tím, že chytím půlku?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "It'll be fun.",
+      "cz": "Bude to zábava.",
+      "source": "pre_existing",
+      "original_cz": "Bude to zábava."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "This way she'll have at least half of it.",
+      "cz": "Takhle bude mít alespoň polovinu.",
+      "source": "pre_existing",
+      "original_cz": "Takhle bude mít alespoň polovinu."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I'll show you how it's done!",
+      "cz": "Ukážu ti, jak se to dělá!",
+      "source": "pre_existing",
+      "original_cz": "Ukážu ti, jak se to dělá!"
+    },
+    {
+      "key": "Goofy_002_f",
+      "en": "Aw, that'd be swell! I always love goin' fishing with you.",
+      "cz": "To by bylo skvělé! Vždycky rád chodím s tebou na ryby.",
+      "source": "pre_existing",
+      "original_cz": "To by bylo skvělé! Vždycky rád chodím s tebou na ryby."
+    },
+    {
+      "key": "Goofy_003_f",
+      "en": "Great idea, {PlayerName}!",
+      "cz": "Skvělý nápad, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Skvělý nápad, {PlayerName}!"
+    },
+    {
+      "key": "Goofy_004_f",
+      "en": "Gawrsh, it'll be just like when you first got to the Village and helped me find my lucky fishing rod!",
+      "cz": "Páni, bude to úplně stejné, jako když jsi poprvé přišel do vesnice a pomohl mi najít můj šťastný rybářský prut!",
+      "source": "pre_existing",
+      "original_cz": "Páni, bude to úplně stejné, jako když jsi poprvé přišel do vesnice a pomohl mi najít můj šťastný rybářský prut!"
+    }
+  ],
+  "DreamBundle02_Goofy/Goofy_PRM_Ursu_040_PRM_Ursu_040_TalkTo01.locbin": [
+    {
+      "key": "Goofy_002_f",
+      "en": "Gawrsh, {PlayerName}, am I glad to see you.",
+      "cz": "Gawrsh, {PlayerName}, jsem rád, že tě vidím.",
+      "source": "pre_existing",
+      "original_cz": "Gawrsh, {PlayerName}, jsem rád, že tě vidím."
+    },
+    {
+      "key": "Goofy_003_f",
+      "en": "I got kind of a problem... Ursula offered to enchant one of my fishing rods if I agreed to bring her some seaweed and red algae...",
+      "cz": "Mám takový problém... Ursula mi nabídla, že mi očaruje jeden z mých rybářských prutů, když jí přinesu nějaké mořské řasy a červené řasy...",
+      "source": "pre_existing",
+      "original_cz": "Mám takový problém... Ursula mi nabídla, že mi očaruje jeden z mých rybářských prutů, když jí přinesu nějaké mořské řasy a červené řasy..."
+    },
+    {
+      "key": "Goofy_004_f",
+      "en": "But then, right after I signed her contract, I got nervous. I tried to catch all the stuff she asked for in a hurry.",
+      "cz": "Ale pak, hned poté, co jsem s ní podepsal smlouvu, jsem znervózněl. Snažil jsem se rychle stihnout všechno, co si přála.",
+      "source": "pre_existing",
+      "original_cz": "Ale pak, hned poté, co jsem s ní podepsal smlouvu, jsem znervózněl. Snažil jsem se rychle stihnout všechno, co si přála."
+    },
+    {
+      "key": "Goofy_006_f",
+      "en": "Then what went wrong?",
+      "cz": "Co se tedy pokazilo?",
+      "source": "pre_existing",
+      "original_cz": "Co se tedy pokazilo?"
+    },
+    {
+      "key": "Goofy_005_f",
+      "en": "Welp, my enchanted fishing rod broke! And now I've been having terrible luck.",
+      "cz": "No, můj okouzlující rybářský prut se zlomil! A teď mám hroznou smůlu.",
+      "source": "pre_existing",
+      "original_cz": "No, můj okouzlující rybářský prut se zlomil! A teď mám hroznou smůlu."
+    },
+    {
+      "key": "Goofy_007_f",
+      "en": "Ursula's not too happy about it. She's even talkin' about adding me to her garden!",
+      "cz": "Ursula z toho moc nadšená není. Dokonce mluví o tom, že si mě přidá do zahrady!",
+      "source": "pre_existing",
+      "original_cz": "Ursula z toho moc nadšená není. Dokonce mluví o tom, že si mě přidá do zahrady!"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "I'll help you. Let's fix your <ActivityItem>Enchanted Fishing Rod</ActivityItem> first...",
+      "cz": "Pomůžu ti. Nejdřív opravíme tvůj <ActivityItem>Začarovaný rybářský prut</ActivityItem>...",
+      "source": "pre_existing",
+      "original_cz": "Pomůžu ti. Nejdřív opravíme tvůj <ActivityItem>Začarovaný rybářský prut</ActivityItem>..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I can't leave you in this situation.",
+      "cz": "Nemůžu tě v této situaci nechat.",
+      "source": "pre_existing",
+      "original_cz": "Nemůžu tě v této situaci nechat."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "For the sake of the Village's peace.",
+      "cz": "V zájmu míru ve vesnici.",
+      "source": "pre_existing",
+      "original_cz": "V zájmu míru ve vesnici."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Ursula deserves to be paid.",
+      "cz": "Ursula si zaslouží být zaplacena.",
+      "source": "pre_existing",
+      "original_cz": "Ursula si zaslouží být zaplacena."
+    },
+    {
+      "key": "Goofy_008_f",
+      "en": "Thanks, {PlayerName}!",
+      "cz": "Díky, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Díky, {PlayerName}!"
+    },
+    {
+      "key": "Goofy_011_f",
+      "en": "To fix it, I'm gonna need <ActivityItem>Hardwood</ActivityItem> and <ActivityItem>Tinkering Parts</ActivityItem>.",
+      "cz": "K opravě budu potřebovat <ActivityItem>Tvrdé dřevo</ActivityItem> a <ActivityItem>Díly na drátkování</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "K opravě budu potřebovat <ActivityItem>Tvrdé dřevo</ActivityItem> a <ActivityItem>Díly na drátkování</ActivityItem>."
+    },
+    {
+      "key": "Goofy_010_f",
+      "en": "You're right. She did hold up her side of the bargain.",
+      "cz": "Máš pravdu. Dodržela svou část dohody.",
+      "source": "pre_existing",
+      "original_cz": "Máš pravdu. Dodržela svou část dohody."
+    }
+  ]
+}

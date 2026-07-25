@@ -1,0 +1,881 @@
+{
+  "ExpansionMain_Goofy/Goofy_BoardGame_Eager001.locbin": [
+    {
+      "key": "Goofy_000_f",
+      "en": "Hot dog! Are ya ready for some Scramblecoin, {PlayerName}?",
+      "cz": "Párek v rohlíku! Jsi připravený na trochu Scramblecoinu, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Párek v rohlíku! Jsi připravený na trochu Scramblecoinu, {PlayerName}?"
+    }
+  ],
+  "ExpansionMain_Goofy/Goofy_Dialogues_Postgame001.locbin": [
+    {
+      "key": "Goofy_000_f",
+      "en": "Gee!",
+      "cz": "Páni!",
+      "source": "pre_existing",
+      "original_cz": "Páni!"
+    },
+    {
+      "key": "Goofy_001_f",
+      "en": "Gawrsh, you sure are good at that game.",
+      "cz": "Gawrsh, v téhle hře jsi fakt dobrý.",
+      "source": "pre_existing",
+      "original_cz": "Gawrsh, v téhle hře jsi fakt dobrý."
+    },
+    {
+      "key": "Goofy_002_f",
+      "en": "Hey, that was some fine scramblin'. You'll get it next time for sure.",
+      "cz": "Hele, to byl ale pěkný šmejd. Příště to určitě zvládneš.",
+      "source": "pre_existing",
+      "original_cz": "Hele, to byl ale pěkný šmejd. Příště to určitě zvládneš."
+    }
+  ],
+  "ExpansionMain_Goofy/Goofy_Dialogues_Pregame001.locbin": [
+    {
+      "key": "Goofy_000_f",
+      "en": "Let's get scramblin'!",
+      "cz": "Pojďme se vyřádit!",
+      "source": "pre_existing",
+      "original_cz": "Pojďme se vyřádit!"
+    }
+  ],
+  "ExpansionMain_Goofy/Goofy_MRQS_E01_030_MRQS_E01_030_BringItem01.locbin": [
+    {
+      "key": "Goofy_001_f",
+      "en": "Gawrsh, {PlayerName}, where'd you find this old sign?",
+      "cz": "Gawrsh, {PlayerName}, kde jsi našel tuhle starou ceduli?",
+      "source": "pre_existing",
+      "original_cz": "Gawrsh, {PlayerName}, kde jsi našel tuhle starou ceduli?"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "I found it in Ancient's Landing on Eternity Isle.",
+      "cz": "Našel jsem to v Ancient's Landing na Eternity Isle.",
+      "source": "pre_existing",
+      "original_cz": "Našel jsem to v Ancient's Landing na Eternity Isle."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "You must have had a Stall there.",
+      "cz": "Musel jsi tam mít stánek.",
+      "source": "pre_existing",
+      "original_cz": "Musel jsi tam mít stánek."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Does it ring a bell?",
+      "cz": "Zní vám to něčemu známé?",
+      "source": "pre_existing",
+      "original_cz": "Zní vám to něčemu známé?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "You really do have Stalls EVERYWHERE, huh?",
+      "cz": "Vážně máš stánky VŠUDE, co?",
+      "source": "pre_existing",
+      "original_cz": "Vážně máš stánky VŠUDE, co?"
+    },
+    {
+      "key": "Goofy_003_f",
+      "en": "Ya know, I think I did!",
+      "cz": "Víš, myslím, že ano!",
+      "source": "pre_existing",
+      "original_cz": "Víš, myslím, že ano!"
+    },
+    {
+      "key": "Goofy_006_f",
+      "en": "I remember now...",
+      "cz": "Teď si vzpomínám...",
+      "source": "pre_existing",
+      "original_cz": "Teď si vzpomínám..."
+    },
+    {
+      "key": "Goofy_000_f",
+      "en": "I tried to bring my Stalls to Eternity Isle, but just as I was about to start sellin' stuff...",
+      "cz": "Snažil jsem se přivézt své stánky na Eternity Isle, ale zrovna když jsem se chystal začít prodávat věci...",
+      "source": "pre_existing",
+      "original_cz": "Snažil jsem se přivézt své stánky na Eternity Isle, ale zrovna když jsem se chystal začít prodávat věci..."
+    },
+    {
+      "key": "Goofy_002_f",
+      "en": "...the Forgetting started, and I went back to Dreamlight Valley to help my friends.",
+      "cz": "...zapomnění začalo a já se vrátil do Údolí snů, abych pomohl svým přátelům.",
+      "source": "pre_existing",
+      "original_cz": "...zapomnění začalo a já se vrátil do Údolí snů, abych pomohl svým přátelům."
+    },
+    {
+      "key": "Goofy_007_f",
+      "en": "Well, maybe we could finish what you started back then and open it!",
+      "cz": "No, možná bychom mohli dokončit, co jsi tehdy začal, a otevřít to!",
+      "source": "pre_existing",
+      "original_cz": "No, možná bychom mohli dokončit, co jsi tehdy začal, a otevřít to!"
+    },
+    {
+      "key": "Goofy_008_f",
+      "en": "Great idea! Let's start with the one in Ancient's Landing. C'mon; let's go see what it looks like.",
+      "cz": "Skvělý nápad! Začněme s tím v Ancient's Landing. Pojďme se podívat, jak to vypadá.",
+      "source": "pre_existing",
+      "original_cz": "Skvělý nápad! Začněme s tím v Ancient's Landing. Pojďme se podívat, jak to vypadá."
+    },
+    {
+      "key": "Goofy_004_f",
+      "en": "Welp, now that ya mention it, it sure does!",
+      "cz": "No, když už to zmiňuješ, tak to rozhodně funguje!",
+      "source": "pre_existing",
+      "original_cz": "No, když už to zmiňuješ, tak to rozhodně funguje!"
+    },
+    {
+      "key": "Goofy_005_f",
+      "en": "A-hyuck! I guess I do.",
+      "cz": "A-hyuck! Asi jo.",
+      "source": "pre_existing",
+      "original_cz": "A-hyuck! Asi jo."
+    }
+  ],
+  "ExpansionMain_Goofy/Goofy_MRQS_E01_030_MRQS_E01_030_BringItem02.locbin": [
+    {
+      "key": "Goofy_001_f",
+      "en": "Thanks, {PlayerName}!",
+      "cz": "Díky, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Díky, {PlayerName}!"
+    },
+    {
+      "key": "Goofy_002_f",
+      "en": "This is all I need to fix the Stall, but before I do... we need a proper ribbon cuttin' ceremony!",
+      "cz": "Tohle je vše, co potřebuji k opravě stánku, ale než to udělám... potřebujeme pořádný ceremoniál přestřižení pásky!",
+      "source": "pre_existing",
+      "original_cz": "Tohle je vše, co potřebuji k opravě stánku, ale než to udělám... potřebujeme pořádný ceremoniál přestřižení pásky!"
+    },
+    {
+      "key": "Goofy_003_f",
+      "en": "And since you're the expert ribbon cutter here, you should be the one to do it.",
+      "cz": "A protože jsi tady expert na stříhání pásky, měl bys to být ty, kdo to udělá.",
+      "source": "pre_existing",
+      "original_cz": "A protože jsi tady expert na stříhání pásky, měl bys to být ty, kdo to udělá."
+    }
+  ],
+  "ExpansionMain_Goofy/Goofy_MRQS_E01_030_MRQS_E01_030_Ongoing01.locbin": [
+    {
+      "key": "Goofy_000_f",
+      "en": "A-hyuck... Do you need anything?",
+      "cz": "A-hyuck... Potřebuješ něco?",
+      "source": "pre_existing",
+      "original_cz": "A-hyuck... Potřebuješ něco?"
+    },
+    {
+      "key": "Goofy_001_f",
+      "en": "There's this <ActivityItem>Sign</ActivityItem> I need to give you.",
+      "cz": "Musím ti dát tuhle <ActivityItem>ceduli</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Musím ti dát tuhle <ActivityItem>ceduli</ActivityItem>."
+    }
+  ],
+  "ExpansionMain_Goofy/Goofy_MRQS_E01_030_MRQS_E01_030_Ongoing02.locbin": [
+    {
+      "key": "Goofy_000_f",
+      "en": "Let's go see the Stall I used to have in Ancient's Landing.",
+      "cz": "Pojďme se podívat na stánek, který jsem míval v Ancient's Landing.",
+      "source": "pre_existing",
+      "original_cz": "Pojďme se podívat na stánek, který jsem míval v Ancient's Landing."
+    }
+  ],
+  "ExpansionMain_Goofy/Goofy_MRQS_E01_030_MRQS_E01_030_Ongoing03.locbin": [
+    {
+      "key": "Goofy_000_f",
+      "en": "Just some <ActivityItem>Copper</ActivityItem> and <ActivityItem>Plastic Scrap</ActivityItem> to fix the Stall.",
+      "cz": "Jen trochu <ActivityItem>mědi</ActivityItem> a <ActivityItem>plastového odpadu</ActivityItem> na opravu stánku.",
+      "source": "pre_existing",
+      "original_cz": "Jen trochu <ActivityItem>mědi</ActivityItem> a <ActivityItem>plastového odpadu</ActivityItem> na opravu stánku."
+    },
+    {
+      "key": "Goofy_001_f",
+      "en": "I'll get them for you.",
+      "cz": "Přinesu ti je.",
+      "source": "pre_existing",
+      "original_cz": "Přinesu ti je."
+    },
+    {
+      "key": "Goofy_002_f",
+      "en": "I think I saw some <ActivityItem>Plastic Scrap</ActivityItem> floating in the water outside of the ripples!",
+      "cz": "Myslím, že jsem viděl nějaký <ActivityItem>Plastový odpad</ActivityItem> plavat ve vodě mimo vlnky!",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že jsem viděl nějaký <ActivityItem>Plastový odpad</ActivityItem> plavat ve vodě mimo vlnky!"
+    },
+    {
+      "key": "Goofy_003_f",
+      "en": "And I'll bet the <Lore>Mining Rocks</Lore> around here have plenty of <ActivityItem>Copper</ActivityItem> in them!",
+      "cz": "A vsadím se, že v těch <Lore>Těžebních kamenech</Lore> v okolí je spousta <ActivityItem>Mědi</ActivityItem>!",
+      "source": "pre_existing",
+      "original_cz": "A vsadím se, že v těch <Lore>Těžebních kamenech</Lore> v okolí je spousta <ActivityItem>Mědi</ActivityItem>!"
+    }
+  ],
+  "ExpansionMain_Goofy/Goofy_MRQS_E01_030_MRQS_E01_030_Ongoing04.locbin": [
+    {
+      "key": "Goofy_000_f",
+      "en": "We've got everything we need. We just need you to open the Stall!",
+      "cz": "Máme všechno, co potřebujeme. Jen nám potřebujete, abyste otevřeli stánek!",
+      "source": "pre_existing",
+      "original_cz": "Máme všechno, co potřebujeme. Jen nám potřebujete, abyste otevřeli stánek!"
+    }
+  ],
+  "ExpansionMain_Goofy/Goofy_MRQS_E01_030_MRQS_E01_030_Outro.locbin": [
+    {
+      "key": "Goofy_001_f",
+      "en": "Gawrsh! It looks great! Thanks, {PlayerName}!",
+      "cz": "Páni! Vypadá to skvěle! Díky, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Páni! Vypadá to skvěle! Díky, {PlayerName}!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm glad I can help!",
+      "cz": "Jsem rád, že mohu pomoci!",
+      "source": "pre_existing",
+      "original_cz": "Jsem rád, že mohu pomoci!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Now I can buy all the seeds for my new garden.",
+      "cz": "Teď si můžu koupit všechna semena pro svou novou zahradu.",
+      "source": "pre_existing",
+      "original_cz": "Teď si můžu koupit všechna semena pro svou novou zahradu."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Once again doing all the work.",
+      "cz": "Zase dělám všechnu práci.",
+      "source": "pre_existing",
+      "original_cz": "Zase dělám všechnu práci."
+    },
+    {
+      "key": "Goofy_002_f",
+      "en": "Say, while you were lookin' for the materials to rebuild the Stall, I gathered some seeds and crops to sell. I think you should have some of 'em.",
+      "cz": "Řekni, zatímco jsi hledal materiál na přestavbu stáje, já jsem nasbíral nějaká semena a plodiny k prodeji. Myslím, že bys něco z toho měl mít.",
+      "source": "pre_existing",
+      "original_cz": "Řekni, zatímco jsi hledal materiál na přestavbu stáje, já jsem nasbíral nějaká semena a plodiny k prodeji. Myslím, že bys něco z toho měl mít."
+    },
+    {
+      "key": "Goofy_005_f",
+      "en": "Here ya go!",
+      "cz": "Tady to máte!",
+      "source": "pre_existing",
+      "original_cz": "Tady to máte!"
+    },
+    {
+      "key": "Goofy_003_f",
+      "en": "You betcha! And I gathered some already. Which is why I wanted to give these to ya. As a thank-you.",
+      "cz": "To se vsadím! A už jsem jich pár nasbíral. Proto jsem ti je chtěl dát. Jako poděkování.",
+      "source": "pre_existing",
+      "original_cz": "To se vsadím! A už jsem jich pár nasbíral. Proto jsem ti je chtěl dát. Jako poděkování."
+    },
+    {
+      "key": "Goofy_004_f",
+      "en": "You sure do a lot for everybody, {PlayerName}. Which is why I wanted to give these to ya. As a thank-you.",
+      "cz": "Děláš pro všechny opravdu hodně, {PlayerName}. Proto jsem ti tohle chtěl dát. Jako poděkování.",
+      "source": "pre_existing",
+      "original_cz": "Děláš pro všechny opravdu hodně, {PlayerName}. Proto jsem ti tohle chtěl dát. Jako poděkování."
+    }
+  ],
+  "ExpansionMain_Goofy/Goofy_MRQS_E01_030_MRQS_E01_030_TalkTo01.locbin": [
+    {
+      "key": "Goofy_000_f",
+      "en": "Aw fiddlesticks! Would ya look at that?",
+      "cz": "Páni! Podíval by ses na to?",
+      "source": "pre_existing",
+      "original_cz": "Páni! Podíval by ses na to?"
+    },
+    {
+      "key": "Goofy_001_f",
+      "en": "My Stalls aren't fancy places, but this one's a downright mess.",
+      "cz": "Moje stánky nejsou zrovna luxusní místa, ale tahle je naprostý chaos.",
+      "source": "pre_existing",
+      "original_cz": "Moje stánky nejsou zrovna luxusní místa, ale tahle je naprostý chaos."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "It just needs a little work.",
+      "cz": "Potřebuje to jen trochu zapracovat.",
+      "source": "pre_existing",
+      "original_cz": "Potřebuje to jen trochu zapracovat."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "What do you need to get it up and running?",
+      "cz": "Co potřebujete k jeho spuštění?",
+      "source": "pre_existing",
+      "original_cz": "Co potřebujete k jeho spuštění?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Maybe the critters around here tore it apart...",
+      "cz": "Možná to roztrhali ti potvorové z okolí...",
+      "source": "pre_existing",
+      "original_cz": "Možná to roztrhali ti potvorové z okolí..."
+    },
+    {
+      "key": "Goofy_003_f",
+      "en": "You're right, {PlayerName}!",
+      "cz": "Máš pravdu, {PlayerName}!",
+      "source": "pre_existing",
+      "original_cz": "Máš pravdu, {PlayerName}!"
+    },
+    {
+      "key": "Goofy_004_f",
+      "en": "Hmmm... Think we'll need some <ActivityItem>Copper</ActivityItem> and <ActivityItem>Plastic Scrap</ActivityItem> to fix it up.",
+      "cz": "Hmmm... Myslím, že na opravu budeme potřebovat trochu <ActivityItem>mědi</ActivityItem> a <ActivityItem>plastového odpadu</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Hmmm... Myslím, že na opravu budeme potřebovat trochu <ActivityItem>mědi</ActivityItem> a <ActivityItem>plastového odpadu</ActivityItem>."
+    },
+    {
+      "key": "Goofy_006_f",
+      "en": "I'll get them for you.",
+      "cz": "Přinesu ti je.",
+      "source": "pre_existing",
+      "original_cz": "Přinesu ti je."
+    },
+    {
+      "key": "Goofy_002_f",
+      "en": "I think I saw some <ActivityItem>Plastic Scrap</ActivityItem> floating in the water outside of the ripples!",
+      "cz": "Myslím, že jsem viděl nějaký <ActivityItem>Plastový odpad</ActivityItem> plavat ve vodě mimo vlnky!",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že jsem viděl nějaký <ActivityItem>Plastový odpad</ActivityItem> plavat ve vodě mimo vlnky!"
+    },
+    {
+      "key": "Goofy_007_f",
+      "en": "And I'll bet the <Lore>Mining Rocks</Lore> around here have plenty of <ActivityItem>Copper</ActivityItem> in them!",
+      "cz": "A vsadím se, že v těch <Lore>Těžebních kamenech</Lore> v okolí je spousta <ActivityItem>Mědi</ActivityItem>!",
+      "source": "pre_existing",
+      "original_cz": "A vsadím se, že v těch <Lore>Těžebních kamenech</Lore> v okolí je spousta <ActivityItem>Mědi</ActivityItem>!"
+    },
+    {
+      "key": "Goofy_005_f",
+      "en": "Welp, I'm sure if they did, it wasn't on purpose. Let's try and fix it.",
+      "cz": "No, jsem si jistý, že pokud to udělali, nebylo to úmyslně. Zkusme to opravit.",
+      "source": "pre_existing",
+      "original_cz": "No, jsem si jistý, že pokud to udělali, nebylo to úmyslně. Zkusme to opravit."
+    }
+  ],
+  "ExpansionMain_Goofy/Goofy_SEC_E01_Goofy_010_SEC_E01_Goofy_010_BringItem01.locbin": [
+    {
+      "key": "Goofy_000_f",
+      "en": "Well, would ya look at all of these!",
+      "cz": "No, podívejte se na tohle všechno!",
+      "source": "pre_existing",
+      "original_cz": "No, podívejte se na tohle všechno!"
+    },
+    {
+      "key": "Goofy_001_f",
+      "en": "Thanks, {PlayerName}. It's gonna be a lot easier to catch 'em now that I know the tricks.",
+      "cz": "Díky, {PlayerName}. Teď, když znám triky, bude mnohem snazší je chytit.",
+      "source": "pre_existing",
+      "original_cz": "Díky, {PlayerName}. Teď, když znám triky, bude mnohem snazší je chytit."
+    },
+    {
+      "key": "Goofy_002_f",
+      "en": "But say... I don't think I know any recipes for this stuff.",
+      "cz": "Ale řekněte... Myslím, že na tohle neznám žádné recepty.",
+      "source": "pre_existing",
+      "original_cz": "Ale řekněte... Myslím, že na tohle neznám žádné recepty."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Robot Fish Stew?",
+      "cz": "Rybí guláš z robota?",
+      "source": "pre_existing",
+      "original_cz": "Rybí guláš z robota?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Dunebopper Sandwich?",
+      "cz": "Sendvič z Dunebopperu?",
+      "source": "pre_existing",
+      "original_cz": "Sendvič z Dunebopperu?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Prisma Shrimp Pie?",
+      "cz": "Krevetový koláč Prisma?",
+      "source": "pre_existing",
+      "original_cz": "Krevetový koláč Prisma?"
+    },
+    {
+      "key": "Goofy_004_f",
+      "en": "A-hyuck, that might be somethin' worth tryin'!",
+      "cz": "Hej, to by mohlo stát za vyzkoušení!",
+      "source": "pre_existing",
+      "original_cz": "Hej, to by mohlo stát za vyzkoušení!"
+    },
+    {
+      "key": "Goofy_005_f",
+      "en": "How 'bout I take half the fish and see what I can come up with, and you keep the other half and do the same?",
+      "cz": "Co kdybych vzal půlku ryby a uviděl, co se mi podaří vymyslet, a ty bys si nechal tu druhou a udělal to samé?",
+      "source": "pre_existing",
+      "original_cz": "Co kdybych vzal půlku ryby a uviděl, co se mi podaří vymyslet, a ty bys si nechal tu druhou a udělal to samé?"
+    },
+    {
+      "key": "Goofy_006_f",
+      "en": "I bet <Lore>Remy'd have some tips</Lore> if you wanted to ask him.",
+      "cz": "Vsadím se, že <Lore>Remy by měl nějaké tipy</Lore>, kdybys ho chtěla požádat.",
+      "source": "pre_existing",
+      "original_cz": "Vsadím se, že <Lore>Remy by měl nějaké tipy</Lore>, kdybys ho chtěla požádat."
+    },
+    {
+      "key": "Goofy_007_f",
+      "en": "Oh, and here — I got some Ingredients to get ya started!",
+      "cz": "Aha, a tady – mám pár ingrediencí, abyste mohli začít!",
+      "source": "pre_existing",
+      "original_cz": "Aha, a tady – mám pár ingrediencí, abyste mohli začít!"
+    }
+  ],
+  "ExpansionMain_Goofy/Goofy_SEC_E01_Goofy_010_SEC_E01_Goofy_010_Intro.locbin": [
+    {
+      "key": "Goofy_000_f",
+      "en": "Say, {PlayerName}, I've been tryin' to fish around Eternity Isle, but my luck's been all luck-less!",
+      "cz": "Poslyš, {PlayerName}, zkoušel jsem rybařit kolem Eternity Isle, ale štěstí mi vůbec nepřišlo!",
+      "source": "pre_existing",
+      "original_cz": "Poslyš, {PlayerName}, zkoušel jsem rybařit kolem Eternity Isle, ale štěstí mi vůbec nepřišlo!"
+    },
+    {
+      "key": "Goofy_018_f",
+      "en": "Don't worry! I'll help!",
+      "cz": "Neboj se! Pomůžu!",
+      "source": "pre_existing",
+      "original_cz": "Neboj se! Pomůžu!"
+    },
+    {
+      "key": "Goofy_001_f",
+      "en": "Really?! Gawrsh, that'd be great!",
+      "cz": "Vážně?! Páni, to by bylo skvělé!",
+      "source": "pre_existing",
+      "original_cz": "Vážně?! Páni, to by bylo skvělé!"
+    },
+    {
+      "key": "Goofy_002_f",
+      "en": "Here, I'll tell ya what happened... First I saw this <Lore>funny fish that looked like a robot swimmin' around Ancient's Landing</Lore>...",
+      "cz": "Tady vám povím, co se stalo... Nejdřív jsem viděl tuhle <Lore>legrační rybu, která vypadala jako robot, jak plave kolem Ancient's Landing</Lore>...",
+      "source": "pre_existing",
+      "original_cz": "Tady vám povím, co se stalo... Nejdřív jsem viděl tuhle <Lore>legrační rybu, která vypadala jako robot, jak plave kolem Ancient's Landing</Lore>..."
+    },
+    {
+      "key": "Goofy_003_f",
+      "en": "I hooked it, but it nearly pulled me right into the water!",
+      "cz": "Zachytil jsem to, ale málem mě to stáhlo přímo do vody!",
+      "source": "pre_existing",
+      "original_cz": "Zachytil jsem to, ale málem mě to stáhlo přímo do vody!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Uh... why don't you leave catching that one to me.",
+      "cz": "Ehm... proč nenecháš chytání tohohle na mně?",
+      "source": "pre_existing",
+      "original_cz": "Ehm... proč nenecháš chytání tohohle na mně?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Just find some water skis and we'll have a new Village activity!",
+      "cz": "Stačí najít nějaké vodní lyže a budeme mít novou aktivitu ve vesnici!",
+      "source": "pre_existing",
+      "original_cz": "Stačí najít nějaké vodní lyže a budeme mít novou aktivitu ve vesnici!"
+    },
+    {
+      "key": "Goofy_004_f",
+      "en": "Sure thing! I'll watch you and see how it's done.",
+      "cz": "Jasně! Budu tě sledovat a uvidím, jak se to dělá.",
+      "source": "pre_existing",
+      "original_cz": "Jasně! Budu tě sledovat a uvidím, jak se to dělá."
+    },
+    {
+      "key": "Goofy_007_f",
+      "en": "Then, next I tried fishing for one of them <ActivityItem>Duneboppers</ActivityItem> in the quicksand in the Glittering Dunes...",
+      "cz": "Pak jsem se pokusil chytit jednoho z těch <ActivityItem>Dunebopperů</ActivityItem> v tekutém písku Třpytivých dun...",
+      "source": "pre_existing",
+      "original_cz": "Pak jsem se pokusil chytit jednoho z těch <ActivityItem>Dunebopperů</ActivityItem> v tekutém písku Třpytivých dun..."
+    },
+    {
+      "key": "Goofy_008_f",
+      "en": "But I lost nine fishing rods. And I don't think I'll be gettin' those ones back.",
+      "cz": "Ale ztratil jsem devět rybářských prutů. A nemyslím si, že je chytím zpátky.",
+      "source": "pre_existing",
+      "original_cz": "Ale ztratil jsem devět rybářských prutů. A nemyslím si, že je chytím zpátky."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "No worries. I'll handle catching that.",
+      "cz": "Žádný problém. Postarám se o to, abych to chytil.",
+      "source": "pre_existing",
+      "original_cz": "Žádný problém. Postarám se o to, abych to chytil."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "We could build a quicksand-proof diving suit...",
+      "cz": "Mohli bychom postavit potápěčský oblek odolný proti písku...",
+      "source": "pre_existing",
+      "original_cz": "Mohli bychom postavit potápěčský oblek odolný proti písku..."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Wanna try one more time to make it a nice even ten?",
+      "cz": "Chceš to zkusit ještě jednou, aby to bylo pěkně desítka?",
+      "source": "pre_existing",
+      "original_cz": "Chceš to zkusit ještě jednou, aby to bylo pěkně desítka?"
+    },
+    {
+      "key": "Goofy_009_f",
+      "en": "Aw, thanks! You're a real pal. I can't wait to see what the trick to it is.",
+      "cz": "Ach, díky! Jsi fakt kámoš. Už se nemůžu dočkat, až uvidím, v čem je ten trik.",
+      "source": "pre_existing",
+      "original_cz": "Ach, díky! Jsi fakt kámoš. Už se nemůžu dočkat, až uvidím, v čem je ten trik."
+    },
+    {
+      "key": "Goofy_014_f",
+      "en": "Now, the last one's real special. I was walking around the Wild Tangle and I spotted somethin' glowin' in the water.",
+      "cz": "Ten poslední je opravdu speciální. Procházel jsem se po Divoké spleti a zahlédl jsem něco, co ve vodě svítilo.",
+      "source": "pre_existing",
+      "original_cz": "Ten poslední je opravdu speciální. Procházel jsem se po Divoké spleti a zahlédl jsem něco, co ve vodě svítilo."
+    },
+    {
+      "key": "Goofy_015_f",
+      "en": "It was some kinda shrimp, but its shell was shinin' with all the colors of the rainbow!",
+      "cz": "Byla to nějaká kreveta, ale její krunýř se třpytil všemi barvami duhy!",
+      "source": "pre_existing",
+      "original_cz": "Byla to nějaká kreveta, ale její krunýř se třpytil všemi barvami duhy!"
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "Prisma Shrimp! I'll catch one for you.",
+      "cz": "Prisma krevety! Jednu ti chytím.",
+      "source": "pre_existing",
+      "original_cz": "Prisma krevety! Jednu ti chytím."
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "Now I've GOT to see this...",
+      "cz": "Teď tohle MUSÍM vidět...",
+      "source": "pre_existing",
+      "original_cz": "Teď tohle MUSÍM vidět..."
+    },
+    {
+      "key": "Goofy_016_f",
+      "en": "Oh boy! Let's go fishin'!",
+      "cz": "No páni! Jdeme na ryby!",
+      "source": "pre_existing",
+      "original_cz": "No páni! Jdeme na ryby!"
+    },
+    {
+      "key": "Goofy_010_f",
+      "en": "Quicksand snorkeling... now that could be fun!",
+      "cz": "Šnorchlování v tekutých píscích... to by mohla být zábava!",
+      "source": "pre_existing",
+      "original_cz": "Šnorchlování v tekutých píscích... to by mohla být zábava!"
+    },
+    {
+      "key": "Goofy_012_f",
+      "en": "But it does sound kinda dangerous.",
+      "cz": "Ale zní to docela nebezpečně.",
+      "source": "pre_existing",
+      "original_cz": "Ale zní to docela nebezpečně."
+    },
+    {
+      "key": "Goofy_013_f",
+      "en": "Okay, fair enough. Maybe I'll just handle catching that <ActivityItem>Dunebopper</ActivityItem>.",
+      "cz": "Dobře, fér. Možná se pustím do chycení toho <ActivityItem>Duneboppera</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, fér. Možná se pustím do chycení toho <ActivityItem>Duneboppera</ActivityItem>."
+    },
+    {
+      "key": "Goofy_011_f",
+      "en": "Gawrsh, no. Half the profits from my Stall are goin' to new fishing rods!",
+      "cz": "Páni, ne. Polovina zisku z mého stánku jde na nové rybářské pruty!",
+      "source": "pre_existing",
+      "original_cz": "Páni, ne. Polovina zisku z mého stánku jde na nové rybářské pruty!"
+    },
+    {
+      "key": "Goofy_005_f",
+      "en": "Say, do you think that'd work...?",
+      "cz": "Myslíš, že by to fungovalo...?",
+      "source": "pre_existing",
+      "original_cz": "Myslíš, že by to fungovalo...?"
+    },
+    {
+      "key": "Goofy_006_f",
+      "en": "Maybe... but I guess we should try catching one before we try to invent a new water sport. I'll handle that.",
+      "cz": "Možná... ale asi bychom měli zkusit nějakého chytit, než se pokusíme vymyslet nový vodní sport. O to se postarám já.",
+      "source": "pre_existing",
+      "original_cz": "Možná... ale asi bychom měli zkusit nějakého chytit, než se pokusíme vymyslet nový vodní sport. O to se postarám já."
+    }
+  ],
+  "ExpansionMain_Goofy/Goofy_SEC_E01_Goofy_010_SEC_E01_Goofy_010_Ongoing01.locbin": [
+    {
+      "key": "Goofy_000_f",
+      "en": "Weren't you showin' me how to fish for some of the funny fish around Eternity Isle?",
+      "cz": "Neukazoval jsi mi náhodou, jak se chytají nějaké legrační ryby kolem Eternity Isle?",
+      "source": "pre_existing",
+      "original_cz": "Neukazoval jsi mi náhodou, jak se chytají nějaké legrační ryby kolem Eternity Isle?"
+    },
+    {
+      "key": "Goofy_001_f",
+      "en": "Oh right! Gotta catch some <ActivityItem>Robot Fish from Ancient's Landing, Duneboppers from the Glittering Dunes, and Prisma Shrimp from the Wild Tangle</ActivityItem>!",
+      "cz": "Jo, jasně! Musím chytit nějaké <ActivityItem>robotické ryby z Přístaviště prastarých, dunové žabky z Třpytivých dun a prisma krevety z Divoké spleti</ActivityItem>!",
+      "source": "pre_existing",
+      "original_cz": "Jo, jasně! Musím chytit nějaké <ActivityItem>robotické ryby z Přístaviště prastarých, dunové žabky z Třpytivých dun a prisma krevety z Divoké spleti</ActivityItem>!"
+    }
+  ],
+  "ExpansionMain_Goofy/Goofy_SEC_E01_Goofy_010_SEC_E01_Goofy_010_Ongoing02.locbin": [
+    {
+      "key": "Goofy_000_f",
+      "en": "Did ya really catch all those fish? Well, let's see 'em!",
+      "cz": "Vážně jsi chytil všechny ty ryby? Tak se na ně podíváme!",
+      "source": "pre_existing",
+      "original_cz": "Vážně jsi chytil všechny ty ryby? Tak se na ně podíváme!"
+    }
+  ],
+  "ExpansionMain_Goofy/Goofy_SEC_E01_Goofy_010_SEC_E01_Goofy_010_Ongoing03.locbin": [
+    {
+      "key": "Goofy_000_f",
+      "en": "Gawrsh, I bet you could make a pretty good meal outta those fish we caught together.",
+      "cz": "Páni, vsadím se, že z těch ryb, co jsme spolu chytili, by se dalo udělat docela dobré jídlo.",
+      "source": "pre_existing",
+      "original_cz": "Páni, vsadím se, že z těch ryb, co jsme spolu chytili, by se dalo udělat docela dobré jídlo."
+    },
+    {
+      "key": "Goofy_001_f",
+      "en": "But if you're outta ideas, you could <Lore>try talkin' to Remy for some tips</Lore>.",
+      "cz": "Ale pokud ti docházejí nápady, mohla by sis <Lore>zkusit promluvit s Remym a požádat ho o nějaké rady</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Ale pokud ti docházejí nápady, mohla by sis <Lore>zkusit promluvit s Remym a požádat ho o nějaké rady</Lore>."
+    }
+  ],
+  "ExpansionMain_Goofy/Goofy_SEC_E01_Goofy_010_SEC_E01_Goofy_010_Outro.locbin": [
+    {
+      "key": "Goofy_000_f",
+      "en": "Tell me, pal, did you cook somethin' yummy?",
+      "cz": "Řekni mi, kámo, uvařil jsi něco chutného?",
+      "source": "pre_existing",
+      "original_cz": "Řekni mi, kámo, uvařil jsi něco chutného?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I made something amazing!",
+      "cz": "Vytvořil jsem něco úžasného!",
+      "source": "pre_existing",
+      "original_cz": "Vytvořil jsem něco úžasného!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I made something... but I'm not sure if it's edible...",
+      "cz": "Udělal jsem něco... ale nejsem si jistý, jestli je to jedlé...",
+      "source": "pre_existing",
+      "original_cz": "Udělal jsem něco... ale nejsem si jistý, jestli je to jedlé..."
+    },
+    {
+      "key": "Goofy_001_f",
+      "en": "That's great! I made a couple of things too.",
+      "cz": "To je skvělé! Taky jsem pár věcí udělal/a.",
+      "source": "pre_existing",
+      "original_cz": "To je skvělé! Taky jsem pár věcí udělal/a."
+    },
+    {
+      "key": "Goofy_003_f",
+      "en": "Why don't you try 'em?",
+      "cz": "Proč je nezkusíš?",
+      "source": "pre_existing",
+      "original_cz": "Proč je nezkusíš?"
+    },
+    {
+      "key": "Goofy_004_f",
+      "en": "I wanted to make a meat pie with all the fish in it, but I forgot to put the fish in.",
+      "cz": "Chtěl jsem udělat masový koláč se všemi rybami, ale zapomněl jsem tam ryby dát.",
+      "source": "pre_existing",
+      "original_cz": "Chtěl jsem udělat masový koláč se všemi rybami, ale zapomněl jsem tam ryby dát."
+    },
+    {
+      "key": "Goofy_005_f",
+      "en": "And then I got distracted and made a cake by accident. But the cake turned out pretty good!",
+      "cz": "A pak jsem se nechala rozptýlit a omylem jsem upekla dort. Ale dort se docela povedl!",
+      "source": "pre_existing",
+      "original_cz": "A pak jsem se nechala rozptýlit a omylem jsem upekla dort. Ale dort se docela povedl!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Oh, Goofy.",
+      "cz": "Ach, Goofy.",
+      "source": "pre_existing",
+      "original_cz": "Ach, Goofy."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Never be embarrassed about making cake!",
+      "cz": "Nikdy se nestyďte péct dort!",
+      "source": "pre_existing",
+      "original_cz": "Nikdy se nestyďte péct dort!"
+    },
+    {
+      "key": "Goofy_006_f",
+      "en": "Give it a try. Maybe you could make one yourself!",
+      "cz": "Zkuste to. Možná si jeden dokážete vyrobit sami!",
+      "source": "pre_existing",
+      "original_cz": "Zkuste to. Možná si jeden dokážete vyrobit sami!"
+    },
+    {
+      "key": "Goofy_002_f",
+      "en": "Aw, I bet it's real tasty. And hey, I made a couple of things too.",
+      "cz": "Jé, vsadím se, že je to fakt chutné. A taky jsem pár věcí udělala.",
+      "source": "pre_existing",
+      "original_cz": "Jé, vsadím se, že je to fakt chutné. A taky jsem pár věcí udělala."
+    }
+  ],
+  "ExpansionMain_Goofy/Goofy_VLG_Gast_020_VLG_Gast_020_TalkTo07.locbin": [
+    {
+      "key": "Goofy_003_f",
+      "en": "We're trying to shed some light on the situation!",
+      "cz": "Snažíme se situaci objasnit!",
+      "source": "pre_existing",
+      "original_cz": "Snažíme se situaci objasnit!"
+    },
+    {
+      "key": "Goofy_006_f",
+      "en": "Hmm, back to the search then!",
+      "cz": "Hmm, tak zpátky k hledání!",
+      "source": "pre_existing",
+      "original_cz": "Hmm, tak zpátky k hledání!"
+    },
+    {
+      "key": "Goofy_007_f",
+      "en": "Not too many people in the Valley use electricity — does that help?",
+      "cz": "V údolí moc lidí nepoužívá elektřinu – pomáhá to?",
+      "source": "pre_existing",
+      "original_cz": "V údolí moc lidí nepoužívá elektřinu – pomáhá to?"
+    }
+  ],
+  "ExpansionMain_Goofy/SEC_E01_Goofy_010.locbin": [
+    {
+      "key": "Secret!Expansion01!Goofy!SEC_E01_Goofy_010_Any_CompletedRequestDescription",
+      "en": "Tell Goofy about the meal you made.",
+      "cz": "Pověz Goofymu o jídle, které jsi uvařil/a.",
+      "source": "pre_existing",
+      "original_cz": "Pověz Goofymu o jídle, které jsi uvařil/a."
+    },
+    {
+      "key": "Secret!Expansion01!Goofy!SEC_E01_Goofy_010_AvailableDescription",
+      "en": "You wonder what Goofy thinks of all the new fish around Eternity Isle.",
+      "cz": "Zajímá vás, co si Goofy myslí o všech těch nových rybách kolem Eternity Isle.",
+      "source": "pre_existing",
+      "original_cz": "Zajímá vás, co si Goofy myslí o všech těch nových rybách kolem Eternity Isle."
+    },
+    {
+      "key": "Secret!Expansion01!Goofy!SEC_E01_Goofy_010_CompletedStoryDescription",
+      "en": "Your recipe experimentations are a success! You wonder how Goofy did...",
+      "cz": "Vaše experimenty s recepty jsou úspěšné! Divíte se, jak se Goofymu dařilo...",
+      "source": "pre_existing",
+      "original_cz": "Vaše experimenty s recepty jsou úspěšné! Divíte se, jak se Goofymu dařilo..."
+    },
+    {
+      "key": "Secret!Expansion01!Goofy!SEC_E01_Goofy_010_DisplayName",
+      "en": "The Ones That Got Away",
+      "cz": "Ti, co utekli",
+      "source": "pre_existing",
+      "original_cz": "Ti, co utekli"
+    },
+    {
+      "key": "Secret!Expansion01!Goofy!SEC_E01_Goofy_010_Group01_Step01_CatchFish01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Secret!Expansion01!Goofy!SEC_E01_Goofy_010_Group01_Step01_CatchFish02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Secret!Expansion01!Goofy!SEC_E01_Goofy_010_Group01_Step01_CatchFish03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Secret!Expansion01!Goofy!SEC_E01_Goofy_010_Group01_StepDescription",
+      "en": "Catch some of the strange new fish around the Isle:",
+      "cz": "Chyťte některé z podivných nových ryb kolem ostrova:",
+      "source": "pre_existing",
+      "original_cz": "Chyťte některé z podivných nových ryb kolem ostrova:"
+    },
+    {
+      "key": "Secret!Expansion01!Goofy!SEC_E01_Goofy_010_Group01_StoryDescription",
+      "en": "Goofy is fascinated by all the strange fish around the Island, but he's having trouble catching any of them himself! He wonders if you could give him a hand.",
+      "cz": "Goofyho fascinují všechny ty podivné ryby na ostrově, ale sám má problém je chytit! Říká si, jestli byste mu s tím nemohli pomoct.",
+      "source": "pre_existing",
+      "original_cz": "Goofyho fascinují všechny ty podivné ryby na ostrově, ale sám má problém je chytit! Říká si, jestli byste mu s tím nemohli pomoct."
+    },
+    {
+      "key": "Secret!Expansion01!Goofy!SEC_E01_Goofy_010_Group02_Step02_BringItem01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Secret!Expansion01!Goofy!SEC_E01_Goofy_010_Group02_Step02_BringItem03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Secret!Expansion01!Goofy!SEC_E01_Goofy_010_Group02_Step02_BringItem04_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Secret!Expansion01!Goofy!SEC_E01_Goofy_010_Group02_Step02_ReadyDescription",
+      "en": "Bring everything you caught to Goofy.",
+      "cz": "Všechno, co jsi chytil, přines Goofymu.",
+      "source": "pre_existing",
+      "original_cz": "Všechno, co jsi chytil, přines Goofymu."
+    },
+    {
+      "key": "Secret!Expansion01!Goofy!SEC_E01_Goofy_010_Group02_Step02_StepDescription",
+      "en": "Gather some of the strange new fish around the Island for Goofy:",
+      "cz": "Nasbírejte pro Goofyho nějaké ty podivné nové ryby z ostrova:",
+      "source": "pre_existing",
+      "original_cz": "Nasbírejte pro Goofyho nějaké ty podivné nové ryby z ostrova:"
+    },
+    {
+      "key": "Secret!Expansion01!Goofy!SEC_E01_Goofy_010_Group03_StepDescription",
+      "en": "Cook any meal using the Dunebopper, Robot Fish, or Prisma Shrimp.",
+      "cz": "Uvařte si jakékoli jídlo s Dunebopperem, Robotem Rybou nebo Krevetami Prisma.",
+      "source": "pre_existing",
+      "original_cz": "Uvařte si jakékoli jídlo s Dunebopperem, Robotem Rybou nebo Krevetami Prisma."
+    },
+    {
+      "key": "Secret!Expansion01!Goofy!SEC_E01_Goofy_010_Group03_StoryDescription",
+      "en": "Goofy is thrilled that you showed him how to catch fish around Eternity Isle. He decides it's time for a little cooking experiment. He'll take half the fish and try to see what he can make while you do the same.",
+      "cz": "Goofy je nadšený, že jste mu ukázali, jak chytat ryby v okolí Eternity Isle. Rozhodl se, že je čas na malý kulinářský experiment. Vezme si půlku ryby a zkusí, co umí připravit, zatímco vy budete dělat totéž.",
+      "source": "pre_existing",
+      "original_cz": "Goofy je nadšený, že jste mu ukázali, jak chytat ryby v okolí Eternity Isle. Rozhodl se, že je čas na malý kulinářský experiment. Vezme si půlku ryby a zkusí, co umí připravit, zatímco vy budete dělat totéž."
+    },
+    {
+      "key": "Secret!Expansion01!Goofy!SEC_E01_Goofy_010_Group04_Step04_TalkToCharacter02_StepDescription",
+      "en": "Talk to Goofy.",
+      "cz": "Promluvte si s Goofym.",
+      "source": "pre_existing",
+      "original_cz": "Promluvte si s Goofym."
+    },
+    {
+      "key": "Secret!Expansion01!Goofy!SEC_E01_Goofy_010_Group04_StepDescription",
+      "en": "Goofy must be fascinated by all the strange new fish around Eternity Isle!",
+      "cz": "Goofyho musí fascinovat všechny ty podivné nové ryby kolem Eternity Isle!",
+      "source": "pre_existing",
+      "original_cz": "Goofyho musí fascinovat všechny ty podivné nové ryby kolem Eternity Isle!"
+    },
+    {
+      "key": "Secret!Expansion01!Goofy!SEC_E01_Goofy_010_Group01_OngoingRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>What were we doing?",
+      "cz": "<smallcaps>{title} {smallcaps} <br>Co jsme to dělali?",
+      "source": "pre_existing",
+      "original_cz": "<smallcaps>{title} {smallcaps} <br>Co jsme to dělali?"
+    }
+  ]
+}

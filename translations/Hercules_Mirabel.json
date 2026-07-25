@@ -1,0 +1,88 @@
+{
+  "Hercules_Mirabel/Mirabel_VLG_Herc_010_VLG_Herc_010_TalkTo02.locbin": [
+    {
+      "key": "Mirabel_001_f",
+      "en": "Hi, Mirabel! Can I ask you for a little advice?",
+      "cz": "Ahoj, Mirabel! Můžu tě požádat o malou radu?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, Mirabel! Můžu tě požádat o malou radu?"
+    },
+    {
+      "key": "Mirabel_002_f",
+      "en": "Of course! How can I help?",
+      "cz": "Samozřejmě! Jak můžu pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě! Jak můžu pomoct?"
+    },
+    {
+      "key": "Mirabel_003_f",
+      "en": "Well, Hercules accidentally dropped Phil's prized urn, and now it's broken into pieces!",
+      "cz": "Herkules omylem upustil Philovu cennou urnu a teď je rozbitá na kousky!",
+      "source": "pre_existing",
+      "original_cz": "Herkules omylem upustil Philovu cennou urnu a teď je rozbitá na kousky!"
+    },
+    {
+      "key": "Mirabel_004_f",
+      "en": "We want to repair it, but I figured I'd get some advice first so I don't accidentally make it worse.",
+      "cz": "Chceme to opravit, ale říkal jsem si, že si nejdřív nechám poradit, abych to náhodou nezhoršil.",
+      "source": "pre_existing",
+      "original_cz": "Chceme to opravit, ale říkal jsem si, že si nejdřív nechám poradit, abych to náhodou nezhoršil."
+    },
+    {
+      "key": "Mirabel_005_f",
+      "en": "Well, that's very responsible of you.",
+      "cz": "No, to je od tebe velmi zodpovědné.",
+      "source": "pre_existing",
+      "original_cz": "No, to je od tebe velmi zodpovědné."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I try!",
+      "cz": "Snažím se!",
+      "source": "pre_existing",
+      "original_cz": "Snažím se!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Phil looked so heartbroken. I couldn't do more damage!",
+      "cz": "Phil vypadal tak zlomeně. Nemohl jsem způsobit větší škodu!",
+      "source": "pre_existing",
+      "original_cz": "Phil vypadal tak zlomeně. Nemohl jsem způsobit větší škodu!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I know, it's a new thing for me.",
+      "cz": "Já vím, je to pro mě něco nového.",
+      "source": "pre_existing",
+      "original_cz": "Já vím, je to pro mě něco nového."
+    },
+    {
+      "key": "Mirabel_006_f",
+      "en": "You know what? I think I might know just the thing!",
+      "cz": "Víš co? Myslím, že vím přesně tohle!",
+      "source": "pre_existing",
+      "original_cz": "Víš co? Myslím, že vím přesně tohle!"
+    },
+    {
+      "key": "Mirabel_007_f",
+      "en": "You'll have to glue the pieces back together, but not all glues are created equal.",
+      "cz": "Budete muset díly slepit zpět k sobě, ale ne všechna lepidla jsou stejná.",
+      "source": "pre_existing",
+      "original_cz": "Budete muset díly slepit zpět k sobě, ale ne všechna lepidla jsou stejná."
+    },
+    {
+      "key": "Mirabel_008_f",
+      "en": "You need <ActivityItem>Conservator's Glue</ActivityItem>. It'll spread evenly, won't stain any part of the urn, and it's reversible if you make a mistake.",
+      "cz": "Potřebujete <ActivityItem>lepidlo na konzervaci</ActivityItem>. Rozetře se rovnoměrně, nezanechá skvrny na žádné části urny a pokud uděláte chybu, je oboustranné.",
+      "source": "pre_existing",
+      "original_cz": "Potřebujete <ActivityItem>lepidlo na konzervaci</ActivityItem>. Rozetře se rovnoměrně, nezanechá skvrny na žádné části urny a pokud uděláte chybu, je oboustranné."
+    },
+    {
+      "key": "Mirabel_009_f",
+      "en": "All right, guess I better <Lore>gather the Ingredients and get crafting</Lore>.",
+      "cz": "Dobře, asi bych měl <Lore>shromáždit ingredience a začít s tvořením</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, asi bych měl <Lore>shromáždit ingredience a začít s tvořením</Lore>."
+    }
+  ]
+}

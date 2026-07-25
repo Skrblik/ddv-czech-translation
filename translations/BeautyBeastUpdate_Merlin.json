@@ -1,0 +1,454 @@
+{
+  "BeautyBeastUpdate_Merlin/Merlin_RLM_BeautyBeastIP_Bell_010_RLM_BeautyBeastIP_Bell_010_TalkTo05.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Merlin, I visited Belle and the Beast in their Realm, and I need some help.",
+      "cz": "Merline, navštívil jsem Bellu a zvíře v jejich říši a potřebuji s něčím pomoct.",
+      "source": "pre_existing",
+      "original_cz": "Merline, navštívil jsem Bellu a zvíře v jejich říši a potřebuji s něčím pomoct."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "It's a long story but... Do you know of any enchantments that can make paintings?",
+      "cz": "Je to dlouhý příběh, ale... Znáte nějaká kouzla, která dokážou vytvořit obrazy?",
+      "source": "pre_existing",
+      "original_cz": "Je to dlouhý příběh, ale... Znáte nějaká kouzla, která dokážou vytvořit obrazy?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "There's a conflict that only art can solve.",
+      "cz": "Existuje konflikt, který může vyřešit pouze umění.",
+      "source": "pre_existing",
+      "original_cz": "Existuje konflikt, který může vyřešit pouze umění."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I want to use the magic of creativity!",
+      "cz": "Chci využít kouzlo kreativity!",
+      "source": "pre_existing",
+      "original_cz": "Chci využít kouzlo kreativity!"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "They're in a rough patch, and I'm in the middle!",
+      "cz": "Jsou v těžké situaci a já jsem uprostřed!",
+      "source": "pre_existing",
+      "original_cz": "Jsou v těžké situaci a já jsem uprostřed!"
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "A creative quandary? That certainly is fascinating.",
+      "cz": "Tvůrčí dilema? To je jistě fascinující.",
+      "source": "pre_existing",
+      "original_cz": "Tvůrčí dilema? To je jistě fascinující."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "There are tools and charms that just might suit this purpose. They'll allow you to create an <ActivityItem>Enchanted Canvas</ActivityItem> — one that will paint itself!",
+      "cz": "Existují nástroje a amulety, které by se k tomuto účelu mohly hodit. Umožní vám vytvořit <ActivityItem>Okouzlené plátno</ActivityItem> – takové, které se samo maluje!",
+      "source": "pre_existing",
+      "original_cz": "Existují nástroje a amulety, které by se k tomuto účelu mohly hodit. Umožní vám vytvořit <ActivityItem>Okouzlené plátno</ActivityItem> – takové, které se samo maluje!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Have you used this spell?",
+      "cz": "Použil jsi toto kouzlo?",
+      "source": "pre_existing",
+      "original_cz": "Použil jsi toto kouzlo?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Why would a wizard enchant a canvas?",
+      "cz": "Proč by kouzelník očaroval plátno?",
+      "source": "pre_existing",
+      "original_cz": "Proč by kouzelník očaroval plátno?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Self-painting? Sounds... funny.",
+      "cz": "Malování sebe sama? Zní to... legračně.",
+      "source": "pre_existing",
+      "original_cz": "Malování sebe sama? Zní to... legračně."
+    },
+    {
+      "key": "Merlin_012_f",
+      "en": "Why, certainly!",
+      "cz": "No jistě!",
+      "source": "pre_existing",
+      "original_cz": "No jistě!"
+    },
+    {
+      "key": "Merlin_015_f",
+      "en": "On occasion, I feel the need to rearrange and redecorate my study to reinvigorate my imagination with new stimuli.",
+      "cz": "Občas cítím potřebu si uspořádat a znovu vyzdobit pracovnu, abych oživil svou fantazii novými podněty.",
+      "source": "pre_existing",
+      "original_cz": "Občas cítím potřebu si uspořádat a znovu vyzdobit pracovnu, abych oživil svou fantazii novými podněty."
+    },
+    {
+      "key": "Merlin_016_f",
+      "en": "So, I have used such canvases to preserve treasured moments and, as you might say, \"shake things up\"!",
+      "cz": "Takže jsem taková plátna použil k uchování vzácných okamžiků a, jak by se dalo říci, k „roztřesení věcí“!",
+      "source": "pre_existing",
+      "original_cz": "Takže jsem taková plátna použil k uchování vzácných okamžiků a, jak by se dalo říci, k „roztřesení věcí“!"
+    },
+    {
+      "key": "Merlin_017_f",
+      "en": "Now let's see... If I recall correctly, you'll need <ActivityItem>Softwood</ActivityItem> and <ActivityItem>Fiber</ActivityItem>.",
+      "cz": "Teď se podívejme... Pokud si dobře vzpomínám, budete potřebovat <ActivityItem>Měkké dřevo</ActivityItem> a <ActivityItem>Vlákno</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Teď se podívejme... Pokud si dobře vzpomínám, budete potřebovat <ActivityItem>Měkké dřevo</ActivityItem> a <ActivityItem>Vlákno</ActivityItem>."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "Then, you must gather <ActivityItem>White Daisies</ActivityItem>, <ActivityItem>Garnets</ActivityItem>, and <ActivityItem>Dream Shards</ActivityItem>.",
+      "cz": "Poté musíte nasbírat <ActivityItem>Bílé sedmikrásky</ActivityItem>, <ActivityItem>Granáty</ActivityItem> a <ActivityItem>Střepy snů</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Poté musíte nasbírat <ActivityItem>Bílé sedmikrásky</ActivityItem>, <ActivityItem>Granáty</ActivityItem> a <ActivityItem>Střepy snů</ActivityItem>."
+    },
+    {
+      "key": "Merlin_018_f",
+      "en": "Oh, and there is one more vital ingredient... one you won't be able to find in the Valley.",
+      "cz": "A je tu ještě jedna důležitá ingredience... kterou v Údolí nenajdete.",
+      "source": "pre_existing",
+      "original_cz": "A je tu ještě jedna důležitá ingredience... kterou v Údolí nenajdete."
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "Magic paintbrushes?",
+      "cz": "Kouzelné štětce?",
+      "source": "pre_existing",
+      "original_cz": "Kouzelné štětce?"
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "This is starting to sound difficult...",
+      "cz": "Tohle už začíná znít složitě...",
+      "source": "pre_existing",
+      "original_cz": "Tohle už začíná znít složitě..."
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "Is this a riddle?",
+      "cz": "Je tohle hádanka?",
+      "source": "pre_existing",
+      "original_cz": "Je tohle hádanka?"
+    },
+    {
+      "key": "Merlin_019_f",
+      "en": "No, no, nothing like that!",
+      "cz": "Ne, ne, nic takového!",
+      "source": "pre_existing",
+      "original_cz": "Ne, ne, nic takového!"
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "As you well know, {PlayerName}, the very best art comes from the heart — this is where our final spell component comes in.",
+      "cz": "Jak dobře víš, {PlayerName}, ta nejlepší kresba pochází ze srdce – a právě zde přichází na řadu naše poslední složka kouzla.",
+      "source": "pre_existing",
+      "original_cz": "Jak dobře víš, {PlayerName}, ta nejlepší kresba pochází ze srdce – a právě zde přichází na řadu naše poslední složka kouzla."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "You must have Belle tell the canvas a story. Ask her to <Lore>share a happy memory of a time she had with the Beast</Lore> to activate the magic.",
+      "cz": "Musíš nechat Belle vyprávět plátnu příběh. Požádej ji, aby se <Lore>podělila o šťastnou vzpomínku na čas, který strávila s Bestií</Lore>, aby se magie aktivovala.",
+      "source": "pre_existing",
+      "original_cz": "Musíš nechat Belle vyprávět plátnu příběh. Požádej ji, aby se <Lore>podělila o šťastnou vzpomínku na čas, který strávila s Bestií</Lore>, aby se magie aktivovala."
+    },
+    {
+      "key": "Merlin_022_f",
+      "en": "When she does, you'll see a new masterpiece bloom right before your eyes!",
+      "cz": "Až se tak stane, uvidíte před očima rozkvést nové mistrovské dílo!",
+      "source": "pre_existing",
+      "original_cz": "Až se tak stane, uvidíte před očima rozkvést nové mistrovské dílo!"
+    },
+    {
+      "key": "Merlin_021_f",
+      "en": "No need to worry. The last ingredient is not as elusive as it sounds...",
+      "cz": "Není třeba se bát. Poslední ingredience není tak nepolapitelná, jak se zdá...",
+      "source": "pre_existing",
+      "original_cz": "Není třeba se bát. Poslední ingredience není tak nepolapitelná, jak se zdá..."
+    },
+    {
+      "key": "Merlin_020_f",
+      "en": "No, though I should think of one next time someone asks... Now, where were we? Oh, yes...",
+      "cz": "Ne, i když bych si měl příště na něco vzpomenout, až se mě někdo zeptá... Tak, kde jsme to byli? Ach ano...",
+      "source": "pre_existing",
+      "original_cz": "Ne, i když bych si měl příště na něco vzpomenout, až se mě někdo zeptá... Tak, kde jsme to byli? Ach ano..."
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "We all need a creative outlet, my friend! Magic is an art, you know... and art is a kind of magic!",
+      "cz": "Všichni potřebujeme kreativní ventil, příteli! Kouzlo je umění, víš... a umění je druh magie!",
+      "source": "pre_existing",
+      "original_cz": "Všichni potřebujeme kreativní ventil, příteli! Kouzlo je umění, víš... a umění je druh magie!"
+    },
+    {
+      "key": "Merlin_014_f",
+      "en": "Hmph. Not all magic has to rattle the cosmos, you know! Now...",
+      "cz": "Hm. Ne všechna magie musí otřást vesmírem, víš! A teď...",
+      "source": "pre_existing",
+      "original_cz": "Hm. Ne všechna magie musí otřást vesmírem, víš! A teď..."
+    },
+    {
+      "key": "Merlin_013_f",
+      "en": "Belle and I are making a painting for the Beast.",
+      "cz": "Belle a já malujeme obraz pro Bestii.",
+      "source": "pre_existing",
+      "original_cz": "Belle a já malujeme obraz pro Bestii."
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "I see... Well, I have long believed that one of our greatest powers is the power of imagination! Of course, if you need a little help...",
+      "cz": "Rozumím... No, už dlouho věřím, že jednou z našich největších sil je síla představivosti! Samozřejmě, pokud potřebujete trochu pomoci...",
+      "source": "pre_existing",
+      "original_cz": "Rozumím... No, už dlouho věřím, že jednou z našich největších sil je síla představivosti! Samozřejmě, pokud potřebujete trochu pomoci..."
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "I must say I'm a bit perplexed as to how artwork might resolve the situation, but you seem certain of your strategy.",
+      "cz": "Musím říct, že jsem trochu zmatený, jak by umělecké dílo mohlo situaci vyřešit, ale zdá se, že si svou strategií jste jistý.",
+      "source": "pre_existing",
+      "original_cz": "Musím říct, že jsem trochu zmatený, jak by umělecké dílo mohlo situaci vyřešit, ale zdá se, že si svou strategií jste jistý."
+    }
+  ],
+  "BeautyBeastUpdate_Merlin/Merlin_VLG_Beas_030_VLG_Beas_030_TalkTo03.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Ah, what brings you to see me today, {PlayerName}?",
+      "cz": "Aha, co tě dnes ke mně přivedlo, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "Aha, co tě dnes ke mně přivedlo, {PlayerName}?"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "It's, uhh, a bit of a sensitive situation.",
+      "cz": "Je to, ehm, trochu citlivá situace.",
+      "source": "pre_existing",
+      "original_cz": "Je to, ehm, trochu citlivá situace."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "I could use some magical advice if you have a moment.",
+      "cz": "Pokud máš chvilku, hodila by se mi nějaká magická rada.",
+      "source": "pre_existing",
+      "original_cz": "Pokud máš chvilku, hodila by se mi nějaká magická rada."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Of course! What seems to be the trouble?",
+      "cz": "Samozřejmě! V čem je asi problém?",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě! V čem je asi problém?"
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "I'm trying to help the Beast with some self-improvement. He's got some... let's say, anger issues that he's trying to move past.",
+      "cz": "Snažím se Bestii pomoci se sebezdokonalováním. Má nějaké... řekněme, problémy s hněvem, které se snaží překonat.",
+      "source": "pre_existing",
+      "original_cz": "Snažím se Bestii pomoci se sebezdokonalováním. Má nějaké... řekněme, problémy s hněvem, které se snaží překonat."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "I see... Well, has he tried being a squirrel or a fish for an afternoon?",
+      "cz": "Rozumím... No, zkusil už být na odpoledne veverkou nebo rybou?",
+      "source": "pre_existing",
+      "original_cz": "Rozumím... No, zkusil už být na odpoledne veverkou nebo rybou?"
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "In my experience, spending time in animal form can be quite illuminating!",
+      "cz": "Z mé zkušenosti může být trávení času ve zvířecí podobě docela poučné!",
+      "source": "pre_existing",
+      "original_cz": "Z mé zkušenosti může být trávení času ve zvířecí podobě docela poučné!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I don't think the Beast would appreciate that.",
+      "cz": "Nemyslím si, že by se to Bestii líbilo.",
+      "source": "pre_existing",
+      "original_cz": "Nemyslím si, že by se to Bestii líbilo."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Tempting...",
+      "cz": "Lákavé...",
+      "source": "pre_existing",
+      "original_cz": "Lákavé..."
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "Hmmm, yes, I suppose not...",
+      "cz": "Hmmm, ano, asi ne...",
+      "source": "pre_existing",
+      "original_cz": "Hmmm, ano, asi ne..."
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "The Beast knows that he has a good heart. He just needs some help connecting to it.",
+      "cz": "Bestie ví, že má dobré srdce. Jen potřebuje trochu pomoci, aby se s ním propojila.",
+      "source": "pre_existing",
+      "original_cz": "Bestie ví, že má dobré srdce. Jen potřebuje trochu pomoci, aby se s ním propojila."
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "Ah! Say no more.",
+      "cz": "Ach! Už neříkej.",
+      "source": "pre_existing",
+      "original_cz": "Ach! Už neříkej."
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "There's an enchanted item that might be of use here — the <ActivityItem>Mirror of True Seeing</ActivityItem>.",
+      "cz": "Je tu jeden očarovaný předmět, který by se zde mohl hodit — <ActivityItem>Zrcadlo pravého vidění</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Je tu jeden očarovaný předmět, který by se zde mohl hodit — <ActivityItem>Zrcadlo pravého vidění</ActivityItem>."
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "Go on...",
+      "cz": "Jen do toho...",
+      "source": "pre_existing",
+      "original_cz": "Jen do toho..."
+    },
+    {
+      "key": "Merlin_012_f",
+      "en": "When one looks into the Mirror, it shows one's true self without any perceived illusions or self-deceptions.",
+      "cz": "Když se člověk podívá do Zrcadla, ukáže mu jeho pravé já bez jakýchkoli vnímaných iluzí nebo sebeklamů.",
+      "source": "pre_existing",
+      "original_cz": "Když se člověk podívá do Zrcadla, ukáže mu jeho pravé já bez jakýchkoli vnímaných iluzí nebo sebeklamů."
+    },
+    {
+      "key": "Merlin_013_f",
+      "en": "So if the Beast looks into it...",
+      "cz": "Takže pokud se na to Bestie podívá...",
+      "source": "pre_existing",
+      "original_cz": "Takže pokud se na to Bestie podívá..."
+    },
+    {
+      "key": "Merlin_014_f",
+      "en": "He will see his real inner strength, his compassion. Everything he doubts yet carries within.",
+      "cz": "Uvidí svou skutečnou vnitřní sílu, svůj soucit. Všechno, o čem pochybuje, ale přesto v sobě nosí.",
+      "source": "pre_existing",
+      "original_cz": "Uvidí svou skutečnou vnitřní sílu, svůj soucit. Všechno, o čem pochybuje, ale přesto v sobě nosí."
+    },
+    {
+      "key": "Merlin_015_f",
+      "en": "Perfect! How do I make it?",
+      "cz": "Perfektní! Jak to mám udělat?",
+      "source": "pre_existing",
+      "original_cz": "Perfektní! Jak to mám udělat?"
+    },
+    {
+      "key": "Merlin_016_f",
+      "en": "You'll need a <ActivityItem>Gold Ingot</ActivityItem>, <ActivityItem>Glass</ActivityItem>, <ActivityItem>Purified Night Shards</ActivityItem>, and <ActivityItem>Dream Shards</ActivityItem>.",
+      "cz": "Budete potřebovat <ActivityItem>zlatý ingot</ActivityItem>, <ActivityItem>sklo</ActivityItem>, <ActivityItem>očištěné noční střepy</ActivityItem> a <ActivityItem>střepy snů</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Budete potřebovat <ActivityItem>zlatý ingot</ActivityItem>, <ActivityItem>sklo</ActivityItem>, <ActivityItem>očištěné noční střepy</ActivityItem> a <ActivityItem>střepy snů</ActivityItem>."
+    },
+    {
+      "key": "Merlin_017_f",
+      "en": "I'll get started on that — thanks, Merlin!",
+      "cz": "Začnu s tím – díky, Merline!",
+      "source": "pre_existing",
+      "original_cz": "Začnu s tím – díky, Merline!"
+    },
+    {
+      "key": "Merlin_018_f",
+      "en": "So if Mother Gothel looks into it...",
+      "cz": "Takže pokud se na to Matka Gothel podívá...",
+      "source": "pre_existing",
+      "original_cz": "Takže pokud se na to Matka Gothel podívá..."
+    },
+    {
+      "key": "Merlin_019_f",
+      "en": "She shall see the part of her that acts so cruelly.",
+      "cz": "Uvidí tu část sebe, která se chová tak krutě.",
+      "source": "pre_existing",
+      "original_cz": "Uvidí tu část sebe, která se chová tak krutě."
+    },
+    {
+      "key": "Merlin_020_f",
+      "en": "But I think we're looking for more of an internal change.",
+      "cz": "Ale myslím, že hledáme spíše vnitřní změnu.",
+      "source": "pre_existing",
+      "original_cz": "Ale myslím, že hledáme spíše vnitřní změnu."
+    },
+    {
+      "key": "Merlin_021_f",
+      "en": "Well, we've been having some issues with Mother Gothel's treatment of the other Villagers.",
+      "cz": "No, máme nějaké problémy s tím, jak Matka Gothel zachází s ostatními vesničany.",
+      "source": "pre_existing",
+      "original_cz": "No, máme nějaké problémy s tím, jak Matka Gothel zachází s ostatními vesničany."
+    },
+    {
+      "key": "Merlin_022_f",
+      "en": "She was extremely rude to Belle and quite infuriated the Beast.",
+      "cz": "Byla k Belle extrémně hrubá a docela tím rozzuřila Bestii.",
+      "source": "pre_existing",
+      "original_cz": "Byla k Belle extrémně hrubá a docela tím rozzuřila Bestii."
+    },
+    {
+      "key": "Merlin_023_f",
+      "en": "Ahh, you wish to turn her into a frog for a bit? Say no more.",
+      "cz": "Ááá, chceš ji na chvíli proměnit v žábu? Už neříkej.",
+      "source": "pre_existing",
+      "original_cz": "Ááá, chceš ji na chvíli proměnit v žábu? Už neříkej."
+    },
+    {
+      "key": "Merlin_024_f",
+      "en": "That's a nice offer, but not exactly what I'm looking for...",
+      "cz": "To je hezká nabídka, ale ne zrovna to, co hledám...",
+      "source": "pre_existing",
+      "original_cz": "To je hezká nabídka, ale ne zrovna to, co hledám..."
+    },
+    {
+      "key": "Merlin_025_f",
+      "en": "Perhaps a squirrel? Or maybe a fish?",
+      "cz": "Možná veverka? Nebo možná ryba?",
+      "source": "pre_existing",
+      "original_cz": "Možná veverka? Nebo možná ryba?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Very tempting...",
+      "cz": "Velmi lákavé...",
+      "source": "pre_existing",
+      "original_cz": "Velmi lákavé..."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Nah, I think we'll stay away from transformations for now...",
+      "cz": "Ne, myslím, že se prozatím vyhneme transformacím...",
+      "source": "pre_existing",
+      "original_cz": "Ne, myslím, že se prozatím vyhneme transformacím..."
+    },
+    {
+      "key": "Merlin_026_f",
+      "en": "Spending time as an animal always teaches a lesson, in my experience.",
+      "cz": "Z mé zkušenosti mi čas strávený jako zvíře vždycky něco dá.",
+      "source": "pre_existing",
+      "original_cz": "Z mé zkušenosti mi čas strávený jako zvíře vždycky něco dá."
+    },
+    {
+      "key": "Merlin_027_f",
+      "en": "We need something that will show Mother Gothel exactly the kind of person she is.",
+      "cz": "Potřebujeme něco, co Matce Gothel přesně ukáže, jaký člověk je.",
+      "source": "pre_existing",
+      "original_cz": "Potřebujeme něco, co Matce Gothel přesně ukáže, jaký člověk je."
+    },
+    {
+      "key": "Merlin_028_f",
+      "en": "She's always so self-assured and arrogant! If she saw herself the way so many others see her, I don't think she'd be so quick to lash out.",
+      "cz": "Vždycky je tak sebevědomá a arogantní! Kdyby se viděla tak, jak ji vidí tolik ostatních, nemyslím si, že by tak rychle vybuchla.",
+      "source": "pre_existing",
+      "original_cz": "Vždycky je tak sebevědomá a arogantní! Kdyby se viděla tak, jak ji vidí tolik ostatních, nemyslím si, že by tak rychle vybuchla."
+    },
+    {
+      "key": "Merlin_029_f",
+      "en": "A pity!",
+      "cz": "Škoda!",
+      "source": "pre_existing",
+      "original_cz": "Škoda!"
+    }
+  ]
+}

@@ -1,0 +1,946 @@
+{
+  "PeterPan_PirateSkulls/PirateSkulls_MRQS140_Shadow_MRQS140_Shadow_TalkTo06.locbin": [
+    {
+      "key": "PirateSkulls_012_f",
+      "en": "All right, let's get started. What's the first riddle?",
+      "cz": "Dobře, začněme. Jaká je první hádanka?",
+      "source": "pre_existing",
+      "original_cz": "Dobře, začněme. Jaká je první hádanka?"
+    },
+    {
+      "key": "PirateSkulls_013_f",
+      "en": "<i>I'm used to explore the waters and shores, a swaying home atop the sea-foam. What am I?</i>",
+      "cz": "<i>Zvykl jsem si prozkoumávat vody a břehy, kymácející se domov na mořské pěně. Co jsem zač?</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Zvykl jsem si prozkoumávat vody a břehy, kymácející se domov na mořské pěně. Co jsem zač?</i>"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "A pirate ship.",
+      "cz": "Pirátská loď.",
+      "source": "pre_existing",
+      "original_cz": "Pirátská loď."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "A buoy.",
+      "cz": "Bóje.",
+      "source": "pre_existing",
+      "original_cz": "Bóje."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "A lifeboat.",
+      "cz": "Záchranný člun.",
+      "source": "pre_existing",
+      "original_cz": "Záchranný člun."
+    },
+    {
+      "key": "PirateSkulls_015_f",
+      "en": "<i>I'm a winged creature, small and bright, with magic dust to grant you flight. Don't be fooled; I've courage twice my size. Dare to doubt; that's just unwise. What am I?</i>",
+      "cz": "<i>Jsem okřídlený tvor, malý a zářivý, s magickým prachem, který ti umožní letět. Nenech se zmást; mám dvakrát větší odvahu než já. Opovažuj pochybovat; to je prostě nemoudré. Co jsem zač?</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Jsem okřídlený tvor, malý a zářivý, s magickým prachem, který ti umožní letět. Nenech se zmást; mám dvakrát větší odvahu než já. Opovažuj pochybovat; to je prostě nemoudré. Co jsem zač?</i>"
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "An eagle.",
+      "cz": "Orel.",
+      "source": "pre_existing",
+      "original_cz": "Orel."
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "A gryphon.",
+      "cz": "Gryfon.",
+      "source": "pre_existing",
+      "original_cz": "Gryfon."
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "A pixie.",
+      "cz": "Skřítek.",
+      "source": "pre_existing",
+      "original_cz": "Skřítek."
+    },
+    {
+      "key": "PirateSkulls_017_f",
+      "en": "<i>I'm an instrument of wind, and for him I'll always play, as he laughs and grins to lead the way. What am I?</i>",
+      "cz": "<i>Jsem dechový nástroj a pro něj budu vždy hrát, zatímco on se bude smát a šklebit, aby mi ukázal cestu. Co jsem?</i>",
+      "source": "pre_existing",
+      "original_cz": "<i>Jsem dechový nástroj a pro něj budu vždy hrát, zatímco on se bude smát a šklebit, aby mi ukázal cestu. Co jsem?</i>"
+    },
+    {
+      "key": "Player_004_choice_000_f",
+      "en": "A clarinet.",
+      "cz": "Klarinet.",
+      "source": "pre_existing",
+      "original_cz": "Klarinet."
+    },
+    {
+      "key": "Player_004_choice_001_f",
+      "en": "A pan flute.",
+      "cz": "Panova flétna.",
+      "source": "pre_existing",
+      "original_cz": "Panova flétna."
+    },
+    {
+      "key": "Player_004_choice_002_f",
+      "en": "A whistle.",
+      "cz": "Píšťalka.",
+      "source": "pre_existing",
+      "original_cz": "Píšťalka."
+    },
+    {
+      "key": "PirateSkulls_019_f",
+      "en": "You've answered all our riddles, but were ye correct fer all three?",
+      "cz": "Odpověděl jsi na všechny naše hádanky, ale u všech tří jsi měl pravdu?",
+      "source": "pre_existing",
+      "original_cz": "Odpověděl jsi na všechny naše hádanky, ale u všech tří jsi měl pravdu?"
+    },
+    {
+      "key": "PirateSkulls_020_f",
+      "en": "Indeed! You've knowledge of the important things, you do. Yer free to go through.",
+      "cz": "Vskutku! Znáš důležité věci, to víš. Můžeš si je projít.",
+      "source": "pre_existing",
+      "original_cz": "Vskutku! Znáš důležité věci, to víš. Můžeš si je projít."
+    },
+    {
+      "key": "PirateSkulls_021_f",
+      "en": "Ye missed an answer or two. Come back and try again once ya know the lore o' Skull Rock.",
+      "cz": "Zmeškal jsi jednu nebo dvě odpovědi. Vrať se a zkus to znovu, až budeš znát legendu Skalní skály.",
+      "source": "pre_existing",
+      "original_cz": "Zmeškal jsi jednu nebo dvě odpovědi. Vrať se a zkus to znovu, až budeš znát legendu Skalní skály."
+    },
+    {
+      "key": "PirateSkulls_000_f",
+      "en": "Hello?",
+      "cz": "Ahoj?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj?"
+    },
+    {
+      "key": "PirateSkulls_001_f",
+      "en": "Arrr! Who disrupts our eternal slumber?",
+      "cz": "Arrr! Kdo ruší náš věčný spánek?",
+      "source": "pre_existing",
+      "original_cz": "Arrr! Kdo ruší náš věčný spánek?"
+    },
+    {
+      "key": "PirateSkulls_003_f",
+      "en": "I'm {PlayerName}. I'm trying to get deeper into Skull Rock. This Shadow is helping me—",
+      "cz": "Jsem {PlayerName}. Snažím se dostat hlouběji do Skalní skály. Tento Stín mi pomáhá—",
+      "source": "pre_existing",
+      "original_cz": "Jsem {PlayerName}. Snažím se dostat hlouběji do Skalní skály. Tento Stín mi pomáhá—"
+    },
+    {
+      "key": "PirateSkulls_004_f",
+      "en": "Shadow?! If the Shadow is helpin' ya, yer in for a treat!",
+      "cz": "Stín?! Jestli ti Stín pomáhá, čeká tě lahůdka!",
+      "source": "pre_existing",
+      "original_cz": "Stín?! Jestli ti Stín pomáhá, čeká tě lahůdka!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "A treat? That sounds great!",
+      "cz": "Lahůdka? To zní skvěle!",
+      "source": "pre_existing",
+      "original_cz": "Lahůdka? To zní skvěle!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "What can you tell me about it?",
+      "cz": "Co mi k tomu můžete říct?",
+      "source": "pre_existing",
+      "original_cz": "Co mi k tomu můžete říct?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "So who does this Shadow belong to?",
+      "cz": "Takže komu tento Stín patří?",
+      "source": "pre_existing",
+      "original_cz": "Takže komu tento Stín patří?"
+    },
+    {
+      "key": "PirateSkulls_005_f",
+      "en": "Why, that Shadow there belongs to—",
+      "cz": "Vždyť ten Stín patří –",
+      "source": "pre_existing",
+      "original_cz": "Vždyť ten Stín patří –"
+    },
+    {
+      "key": "PirateSkulls_006_f",
+      "en": "Er, ya know, maybe you oughta see 'im for yerself.",
+      "cz": "Ehm, víš, možná by sis to měl/a prohlédnout na vlastní oči.",
+      "source": "pre_existing",
+      "original_cz": "Ehm, víš, možná by sis to měl/a prohlédnout na vlastní oči."
+    },
+    {
+      "key": "PirateSkulls_007_f",
+      "en": "Will you help me, at least?",
+      "cz": "Pomůžeš mi alespoň?",
+      "source": "pre_existing",
+      "original_cz": "Pomůžeš mi alespoň?"
+    },
+    {
+      "key": "PirateSkulls_008_f",
+      "en": "O'course! But first, ya have to answer our riddles. Ya didn't think you'd pass by for free, did ya?",
+      "cz": "Jasně! Ale nejdřív musíš vyřešit naše hádanky. Nemyslel sis, že tudy projdeš zadarmo, že ne?",
+      "source": "pre_existing",
+      "original_cz": "Jasně! Ale nejdřív musíš vyřešit naše hádanky. Nemyslel sis, že tudy projdeš zadarmo, že ne?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I kinda hoped so.",
+      "cz": "Tak trochu jsem v to doufal.",
+      "source": "pre_existing",
+      "original_cz": "Tak trochu jsem v to doufal."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I guess not.",
+      "cz": "Asi ne.",
+      "source": "pre_existing",
+      "original_cz": "Asi ne."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I'm not worried. I'm great at riddles.",
+      "cz": "Nemám obavy. Jsem skvělý v luštění hádanek.",
+      "source": "pre_existing",
+      "original_cz": "Nemám obavy. Jsem skvělý v luštění hádanek."
+    },
+    {
+      "key": "PirateSkulls_009_f",
+      "en": "Sorry to shiver yer timbers, matey, but without the riddles, there's no way to pass through.",
+      "cz": "Promiň, že ti třesu trámy, kámo, ale bez hádanek se tudy nedá projít.",
+      "source": "pre_existing",
+      "original_cz": "Promiň, že ti třesu trámy, kámo, ale bez hádanek se tudy nedá projít."
+    },
+    {
+      "key": "PirateSkulls_010_f",
+      "en": "Aye, we can't risk bein' hornswoggled, can we?",
+      "cz": "Jo, nemůžeme riskovat, že nás zmátnou, že ne?",
+      "source": "pre_existing",
+      "original_cz": "Jo, nemůžeme riskovat, že nás zmátnou, že ne?"
+    },
+    {
+      "key": "PirateSkulls_011_f",
+      "en": "Ah! Yer not the scallywag we thought! Good to hear it.",
+      "cz": "Ale nejsi takový blbec, jak jsme si mysleli! To rád slyším.",
+      "source": "pre_existing",
+      "original_cz": "Ale nejsi takový blbec, jak jsme si mysleli! To rád slyším."
+    },
+    {
+      "key": "Player_005_exit_000_f",
+      "en": "Strange skulls...",
+      "cz": "Podivné lebky...",
+      "source": "pre_existing",
+      "original_cz": "Podivné lebky..."
+    }
+  ],
+  "PeterPan_PirateSkulls/PirateSkulls_MRQS142_Symbols_MRQS142_Symbols_TalkTo03.locbin": [
+    {
+      "key": "Player_004_exit_000_f",
+      "en": "Strange skulls...",
+      "cz": "Podivné lebky...",
+      "source": "pre_existing",
+      "original_cz": "Podivné lebky..."
+    },
+    {
+      "key": "PirateSkulls_000_f",
+      "en": "Do you know how we can solve the strange barrel puzzle up ahead?",
+      "cz": "Víš, jak můžeme vyřešit tu podivnou hádanku se sudem před námi?",
+      "source": "pre_existing",
+      "original_cz": "Víš, jak můžeme vyřešit tu podivnou hádanku se sudem před námi?"
+    },
+    {
+      "key": "PirateSkulls_001_f",
+      "en": "Aye! Which bit do ya need help with first?",
+      "cz": "Jo! S čím potřebuješ nejdřív pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Jo! S čím potřebuješ nejdřív pomoct?"
+    },
+    {
+      "key": "Player_000_f",
+      "en": "I need help matching up the...",
+      "cz": "Potřebuji pomoct s párováním...",
+      "source": "pre_existing",
+      "original_cz": "Potřebuji pomoct s párováním..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "...Hook.",
+      "cz": "...Háček.",
+      "source": "pre_existing",
+      "original_cz": "...Háček."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "...Needle.",
+      "cz": "...Jehla.",
+      "source": "pre_existing",
+      "original_cz": "...Jehla."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Pixie.",
+      "cz": "Skřítek.",
+      "source": "pre_existing",
+      "original_cz": "Skřítek."
+    },
+    {
+      "key": "PirateSkulls_002_f",
+      "en": "Oh captain, poor captain,\nLost a hand to a croc.\nHe still gets a fright,\nWhen he hears a tick tock.",
+      "cz": "Ach kapitáne, chudák kapitáne,\nPřišel o ruku kvůli krokodýlovi.\nPořád se leká,\nkdyž slyší tik ťak.",
+      "source": "pre_existing",
+      "original_cz": "Ach kapitáne, chudák kapitáne,\nPřišel o ruku kvůli krokodýlovi.\nPořád se leká,\nkdyž slyší tik ťak."
+    },
+    {
+      "key": "PirateSkulls_018_f",
+      "en": "The hook is about a captain and something ticking... Got it!",
+      "cz": "Háček je o kapitánovi a něčem, co tiká... Mám to!",
+      "source": "pre_existing",
+      "original_cz": "Háček je o kapitánovi a něčem, co tiká... Mám to!"
+    },
+    {
+      "key": "PirateSkulls_005_f",
+      "en": "Do ya need help with the others?",
+      "cz": "Potřebujete pomoc s ostatními?",
+      "source": "pre_existing",
+      "original_cz": "Potřebujete pomoc s ostatními?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Yes. What about the Needle?",
+      "cz": "Ano. A co Jehla?",
+      "source": "pre_existing",
+      "original_cz": "Ano. A co Jehla?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Yes. What about the pixie?",
+      "cz": "Ano. A co ten skřítek?",
+      "source": "pre_existing",
+      "original_cz": "Ano. A co ten skřítek?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "No, I'm okay.",
+      "cz": "Ne, jsem v pořádku.",
+      "source": "pre_existing",
+      "original_cz": "Ne, jsem v pořádku."
+    },
+    {
+      "key": "PirateSkulls_009_f",
+      "en": "A boy looks down,\nHis Shadow be gone!\nHe'll return when he can,\nWith his Shadow sewed on.",
+      "cz": "Chlapec se dívá dolů,\nJeho stín je pryč!\nVrátí se, až bude moct,\nS přišitým stínem.",
+      "source": "pre_existing",
+      "original_cz": "Chlapec se dívá dolů,\nJeho stín je pryč!\nVrátí se, až bude moct,\nS přišitým stínem."
+    },
+    {
+      "key": "PirateSkulls_023_f",
+      "en": "So the needle is about a boy and his shadow? Okay, I think I get it.",
+      "cz": "Takže ta jehla je o chlapci a jeho stínu? Dobře, myslím, že to chápu.",
+      "source": "pre_existing",
+      "original_cz": "Takže ta jehla je o chlapci a jeho stínu? Dobře, myslím, že to chápu."
+    },
+    {
+      "key": "PirateSkulls_028_f",
+      "en": "Do ya need help with the last one?",
+      "cz": "Potřebujete s tím posledním pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Potřebujete s tím posledním pomoct?"
+    },
+    {
+      "key": "Player_005_choice_001_f",
+      "en": "Yes, tell me about the pixie!",
+      "cz": "Ano, pověz mi o tom skřítkovi!",
+      "source": "pre_existing",
+      "original_cz": "Ano, pověz mi o tom skřítkovi!"
+    },
+    {
+      "key": "Player_005_choice_002_f",
+      "en": "No thanks.",
+      "cz": "Ne, děkuji.",
+      "source": "pre_existing",
+      "original_cz": "Ne, děkuji."
+    },
+    {
+      "key": "PirateSkulls_034_f",
+      "en": "I'll speak of the pixie,\nPlease do listen well,\nShe chimes and she twinkles,\nLike sounds from a bell.",
+      "cz": "Budu mluvit o vílkovi,\nProsím, dobře poslouchejte,\nZvoní a třpytí se,\nJako zvuky zvonku.",
+      "source": "pre_existing",
+      "original_cz": "Budu mluvit o vílkovi,\nProsím, dobře poslouchejte,\nZvoní a třpytí se,\nJako zvuky zvonku."
+    },
+    {
+      "key": "PirateSkulls_050_f",
+      "en": "So this pixie makes a chiming sound... Interesting.",
+      "cz": "Takže tenhle skřítek vydává zvonivý zvuk... Zajímavé.",
+      "source": "pre_existing",
+      "original_cz": "Takže tenhle skřítek vydává zvonivý zvuk... Zajímavé."
+    },
+    {
+      "key": "PirateSkulls_052_f",
+      "en": "All right ya scallywag, be on yer way!",
+      "cz": "Dobře, ty šmejdku, jdi dál!",
+      "source": "pre_existing",
+      "original_cz": "Dobře, ty šmejdku, jdi dál!"
+    },
+    {
+      "key": "PirateSkulls_035_f",
+      "en": "Aye, then be on yer way!",
+      "cz": "Tak jo, tak jdi dál!",
+      "source": "pre_existing",
+      "original_cz": "Tak jo, tak jdi dál!"
+    },
+    {
+      "key": "PirateSkulls_010_f",
+      "en": "I'll speak of the pixie,\nPlease do listen well,\nShe chimes and she twinkles,\nLike sounds from a bell.",
+      "cz": "Budu mluvit o vílkovi,\nProsím, dobře poslouchejte,\nZvoní a třpytí se,\nJako zvuky zvonku.",
+      "source": "pre_existing",
+      "original_cz": "Budu mluvit o vílkovi,\nProsím, dobře poslouchejte,\nZvoní a třpytí se,\nJako zvuky zvonku."
+    },
+    {
+      "key": "PirateSkulls_025_f",
+      "en": "So this pixie makes a chiming sound... Interesting.",
+      "cz": "Takže tenhle skřítek vydává zvonivý zvuk... Zajímavé.",
+      "source": "pre_existing",
+      "original_cz": "Takže tenhle skřítek vydává zvonivý zvuk... Zajímavé."
+    },
+    {
+      "key": "PirateSkulls_031_f",
+      "en": "Do ya need help with the last one?",
+      "cz": "Potřebujete s tím posledním pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Potřebujete s tím posledním pomoct?"
+    },
+    {
+      "key": "Player_006_choice_000_f",
+      "en": "Yes, tell me about the Needle!",
+      "cz": "Ano, pověz mi o Jehle!",
+      "source": "pre_existing",
+      "original_cz": "Ano, pověz mi o Jehle!"
+    },
+    {
+      "key": "Player_006_choice_001_f",
+      "en": "No thanks.",
+      "cz": "Ne, děkuji.",
+      "source": "pre_existing",
+      "original_cz": "Ne, děkuji."
+    },
+    {
+      "key": "PirateSkulls_036_f",
+      "en": "A boy looks down,\nHis Shadow be gone!\nHe'll return when he can,\nWith his Shadow sewed on.",
+      "cz": "Chlapec se dívá dolů,\nJeho stín je pryč!\nVrátí se, až bude moct,\nS přišitým stínem.",
+      "source": "pre_existing",
+      "original_cz": "Chlapec se dívá dolů,\nJeho stín je pryč!\nVrátí se, až bude moct,\nS přišitým stínem."
+    },
+    {
+      "key": "PirateSkulls_051_f",
+      "en": "So the needle is about a boy and his shadow? Okay, I think I get it.",
+      "cz": "Takže ta jehla je o chlapci a jeho stínu? Dobře, myslím, že to chápu.",
+      "source": "pre_existing",
+      "original_cz": "Takže ta jehla je o chlapci a jeho stínu? Dobře, myslím, že to chápu."
+    },
+    {
+      "key": "PirateSkulls_053_f",
+      "en": "All right ya scallywag, be on yer way!",
+      "cz": "Dobře, ty šmejdku, jdi dál!",
+      "source": "pre_existing",
+      "original_cz": "Dobře, ty šmejdku, jdi dál!"
+    },
+    {
+      "key": "PirateSkulls_037_f",
+      "en": "Aye, then be on yer way!",
+      "cz": "Tak jo, tak jdi dál!",
+      "source": "pre_existing",
+      "original_cz": "Tak jo, tak jdi dál!"
+    },
+    {
+      "key": "PirateSkulls_011_f",
+      "en": "Aye, then be on yer way!",
+      "cz": "Tak jo, tak jdi dál!",
+      "source": "pre_existing",
+      "original_cz": "Tak jo, tak jdi dál!"
+    },
+    {
+      "key": "PirateSkulls_003_f",
+      "en": "A boy looks down,\nHis Shadow be gone!\nHe'll return when he can,\nWith his Shadow sewed on.",
+      "cz": "Chlapec se dívá dolů,\nJeho stín je pryč!\nVrátí se, až bude moct,\nS přišitým stínem.",
+      "source": "pre_existing",
+      "original_cz": "Chlapec se dívá dolů,\nJeho stín je pryč!\nVrátí se, až bude moct,\nS přišitým stínem."
+    },
+    {
+      "key": "PirateSkulls_019_f",
+      "en": "The needle is about a boy and his shadow? Okay, I think I get it.",
+      "cz": "Ta jehla je o chlapci a jeho stínu? Dobře, myslím, že to chápu.",
+      "source": "pre_existing",
+      "original_cz": "Ta jehla je o chlapci a jeho stínu? Dobře, myslím, že to chápu."
+    },
+    {
+      "key": "PirateSkulls_007_f",
+      "en": "Do ya need help with the others?",
+      "cz": "Potřebujete pomoc s ostatními?",
+      "source": "pre_existing",
+      "original_cz": "Potřebujete pomoc s ostatními?"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Yes. What about the Hook?",
+      "cz": "Ano. A co Háček?",
+      "source": "pre_existing",
+      "original_cz": "Ano. A co Háček?"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Yes. What about the pixie?",
+      "cz": "Ano. A co ten skřítek?",
+      "source": "pre_existing",
+      "original_cz": "Ano. A co ten skřítek?"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "No, I'm okay.",
+      "cz": "Ne, jsem v pořádku.",
+      "source": "pre_existing",
+      "original_cz": "Ne, jsem v pořádku."
+    },
+    {
+      "key": "PirateSkulls_015_f",
+      "en": "Oh captain, poor captain,\nLost a hand to a croc.\nHe still gets a fright,\nWhen he hears a tick tock.",
+      "cz": "Ach kapitáne, chudák kapitáne,\nPřišel o ruku kvůli krokodýlovi.\nPořád se leká,\nkdyž slyší tik ťak.",
+      "source": "pre_existing",
+      "original_cz": "Ach kapitáne, chudák kapitáne,\nPřišel o ruku kvůli krokodýlovi.\nPořád se leká,\nkdyž slyší tik ťak."
+    },
+    {
+      "key": "PirateSkulls_021_f",
+      "en": "So the hook is about a captain and something ticking... Got it!",
+      "cz": "Takže háček je o kapitánovi a něčem, co tiká... Chápu to!",
+      "source": "pre_existing",
+      "original_cz": "Takže háček je o kapitánovi a něčem, co tiká... Chápu to!"
+    },
+    {
+      "key": "PirateSkulls_029_f",
+      "en": "Do ya need help with the last one?",
+      "cz": "Potřebujete s tím posledním pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Potřebujete s tím posledním pomoct?"
+    },
+    {
+      "key": "Player_007_choice_000_f",
+      "en": "Yes, tell me about the pixie!",
+      "cz": "Ano, pověz mi o tom skřítkovi!",
+      "source": "pre_existing",
+      "original_cz": "Ano, pověz mi o tom skřítkovi!"
+    },
+    {
+      "key": "Player_007_choice_001_f",
+      "en": "No thanks.",
+      "cz": "Ne, děkuji.",
+      "source": "pre_existing",
+      "original_cz": "Ne, děkuji."
+    },
+    {
+      "key": "PirateSkulls_038_f",
+      "en": "I'll speak of the pixie,\nPlease do listen well,\nShe chimes and she twinkles,\nLike sounds from a bell.",
+      "cz": "Budu mluvit o vílkovi,\nProsím, dobře poslouchejte,\nZvoní a třpytí se,\nJako zvuky zvonku.",
+      "source": "pre_existing",
+      "original_cz": "Budu mluvit o vílkovi,\nProsím, dobře poslouchejte,\nZvoní a třpytí se,\nJako zvuky zvonku."
+    },
+    {
+      "key": "PirateSkulls_049_f",
+      "en": "So this pixie makes a chiming sound... Interesting.",
+      "cz": "Takže tenhle skřítek vydává zvonivý zvuk... Zajímavé.",
+      "source": "pre_existing",
+      "original_cz": "Takže tenhle skřítek vydává zvonivý zvuk... Zajímavé."
+    },
+    {
+      "key": "PirateSkulls_054_f",
+      "en": "All right ya scallywag, be on yer way!",
+      "cz": "Dobře, ty šmejdku, jdi dál!",
+      "source": "pre_existing",
+      "original_cz": "Dobře, ty šmejdku, jdi dál!"
+    },
+    {
+      "key": "PirateSkulls_039_f",
+      "en": "Aye, then be on yer way!",
+      "cz": "Tak jo, tak jdi dál!",
+      "source": "pre_existing",
+      "original_cz": "Tak jo, tak jdi dál!"
+    },
+    {
+      "key": "PirateSkulls_016_f",
+      "en": "I'll speak of the pixie,\nPlease do listen well,\nShe chimes and she twinkles,\nLike sounds from a bell.",
+      "cz": "Budu mluvit o vílkovi,\nProsím, dobře poslouchejte,\nZvoní a třpytí se,\nJako zvuky zvonku.",
+      "source": "pre_existing",
+      "original_cz": "Budu mluvit o vílkovi,\nProsím, dobře poslouchejte,\nZvoní a třpytí se,\nJako zvuky zvonku."
+    },
+    {
+      "key": "PirateSkulls_027_f",
+      "en": "So this pixie makes a chiming sound... Interesting.",
+      "cz": "Takže tenhle skřítek vydává zvonivý zvuk... Zajímavé.",
+      "source": "pre_existing",
+      "original_cz": "Takže tenhle skřítek vydává zvonivý zvuk... Zajímavé."
+    },
+    {
+      "key": "PirateSkulls_032_f",
+      "en": "Do ya need help with the last one?",
+      "cz": "Potřebujete s tím posledním pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Potřebujete s tím posledním pomoct?"
+    },
+    {
+      "key": "Player_008_choice_000_f",
+      "en": "Yes, tell me about the Hook!",
+      "cz": "Ano, pověz mi o tom Hooku!",
+      "source": "pre_existing",
+      "original_cz": "Ano, pověz mi o tom Hooku!"
+    },
+    {
+      "key": "Player_008_choice_001_f",
+      "en": "No thanks.",
+      "cz": "Ne, děkuji.",
+      "source": "pre_existing",
+      "original_cz": "Ne, děkuji."
+    },
+    {
+      "key": "PirateSkulls_040_f",
+      "en": "Oh captain, poor captain,\nLost a hand to a croc.\nHe still gets a fright,\nWhen he hears a tick tock.",
+      "cz": "Ach kapitáne, chudák kapitáne,\nPřišel o ruku kvůli krokodýlovi.\nPořád se leká,\nkdyž slyší tik ťak.",
+      "source": "pre_existing",
+      "original_cz": "Ach kapitáne, chudák kapitáne,\nPřišel o ruku kvůli krokodýlovi.\nPořád se leká,\nkdyž slyší tik ťak."
+    },
+    {
+      "key": "PirateSkulls_048_f",
+      "en": "So the hook is about a captain and something ticking... Got it!",
+      "cz": "Takže háček je o kapitánovi a něčem, co tiká... Chápu to!",
+      "source": "pre_existing",
+      "original_cz": "Takže háček je o kapitánovi a něčem, co tiká... Chápu to!"
+    },
+    {
+      "key": "PirateSkulls_055_f",
+      "en": "All right ya scallywag, be on yer way!",
+      "cz": "Dobře, ty šmejdku, jdi dál!",
+      "source": "pre_existing",
+      "original_cz": "Dobře, ty šmejdku, jdi dál!"
+    },
+    {
+      "key": "PirateSkulls_041_f",
+      "en": "Aye, then be on yer way!",
+      "cz": "Tak jo, tak jdi dál!",
+      "source": "pre_existing",
+      "original_cz": "Tak jo, tak jdi dál!"
+    },
+    {
+      "key": "PirateSkulls_017_f",
+      "en": "Aye, then be on yer way!",
+      "cz": "Tak jo, tak jdi dál!",
+      "source": "pre_existing",
+      "original_cz": "Tak jo, tak jdi dál!"
+    },
+    {
+      "key": "PirateSkulls_004_f",
+      "en": "I'll speak of the pixie,\nPlease do listen well,\nShe chimes and she twinkles,\nLike sounds from a bell.",
+      "cz": "Budu mluvit o vílkovi,\nProsím, dobře poslouchejte,\nZvoní a třpytí se,\nJako zvuky zvonku.",
+      "source": "pre_existing",
+      "original_cz": "Budu mluvit o vílkovi,\nProsím, dobře poslouchejte,\nZvoní a třpytí se,\nJako zvuky zvonku."
+    },
+    {
+      "key": "PirateSkulls_026_f",
+      "en": "So this pixie makes a chiming sound... Interesting.",
+      "cz": "Takže tenhle skřítek vydává zvonivý zvuk... Zajímavé.",
+      "source": "pre_existing",
+      "original_cz": "Takže tenhle skřítek vydává zvonivý zvuk... Zajímavé."
+    },
+    {
+      "key": "PirateSkulls_008_f",
+      "en": "Do ya need help with the others?",
+      "cz": "Potřebujete pomoc s ostatními?",
+      "source": "pre_existing",
+      "original_cz": "Potřebujete pomoc s ostatními?"
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "Yes. What about the Hook?",
+      "cz": "Ano. A co Háček?",
+      "source": "pre_existing",
+      "original_cz": "Ano. A co Háček?"
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "Yes. What about the Needle?",
+      "cz": "Ano. A co Jehla?",
+      "source": "pre_existing",
+      "original_cz": "Ano. A co Jehla?"
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "No, I'm okay.",
+      "cz": "Ne, jsem v pořádku.",
+      "source": "pre_existing",
+      "original_cz": "Ne, jsem v pořádku."
+    },
+    {
+      "key": "PirateSkulls_012_f",
+      "en": "Oh captain, poor captain,\nLost a hand to a croc.\nHe still gets a fright,\nWhen he hears a tick tock.",
+      "cz": "Ach kapitáne, chudák kapitáne,\nPřišel o ruku kvůli krokodýlovi.\nPořád se leká,\nkdyž slyší tik ťak.",
+      "source": "pre_existing",
+      "original_cz": "Ach kapitáne, chudák kapitáne,\nPřišel o ruku kvůli krokodýlovi.\nPořád se leká,\nkdyž slyší tik ťak."
+    },
+    {
+      "key": "PirateSkulls_022_f",
+      "en": "So the hook is about a captain and something ticking... Got it!",
+      "cz": "Takže háček je o kapitánovi a něčem, co tiká... Chápu to!",
+      "source": "pre_existing",
+      "original_cz": "Takže háček je o kapitánovi a něčem, co tiká... Chápu to!"
+    },
+    {
+      "key": "PirateSkulls_030_f",
+      "en": "Do ya need help with the last one?",
+      "cz": "Potřebujete s tím posledním pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Potřebujete s tím posledním pomoct?"
+    },
+    {
+      "key": "Player_009_choice_000_f",
+      "en": "Yes, tell me about the Needle!",
+      "cz": "Ano, pověz mi o Jehle!",
+      "source": "pre_existing",
+      "original_cz": "Ano, pověz mi o Jehle!"
+    },
+    {
+      "key": "Player_009_choice_001_f",
+      "en": "No thanks.",
+      "cz": "Ne, děkuji.",
+      "source": "pre_existing",
+      "original_cz": "Ne, děkuji."
+    },
+    {
+      "key": "PirateSkulls_042_f",
+      "en": "A boy looks down,\nHis Shadow be gone!\nHe'll return when he can,\nWith his Shadow sewed on.",
+      "cz": "Chlapec se dívá dolů,\nJeho stín je pryč!\nVrátí se, až bude moct,\nS přišitým stínem.",
+      "source": "pre_existing",
+      "original_cz": "Chlapec se dívá dolů,\nJeho stín je pryč!\nVrátí se, až bude moct,\nS přišitým stínem."
+    },
+    {
+      "key": "PirateSkulls_047_f",
+      "en": "So the needle is about a boy and his shadow? Okay, I think I get it.",
+      "cz": "Takže ta jehla je o chlapci a jeho stínu? Dobře, myslím, že to chápu.",
+      "source": "pre_existing",
+      "original_cz": "Takže ta jehla je o chlapci a jeho stínu? Dobře, myslím, že to chápu."
+    },
+    {
+      "key": "PirateSkulls_056_f",
+      "en": "All right ya scallywag, be on yer way!",
+      "cz": "Dobře, ty šmejdku, jdi dál!",
+      "source": "pre_existing",
+      "original_cz": "Dobře, ty šmejdku, jdi dál!"
+    },
+    {
+      "key": "PirateSkulls_043_f",
+      "en": "Aye, then be on yer way!",
+      "cz": "Tak jo, tak jdi dál!",
+      "source": "pre_existing",
+      "original_cz": "Tak jo, tak jdi dál!"
+    },
+    {
+      "key": "PirateSkulls_013_f",
+      "en": "A boy looks down,\nHis Shadow be gone!\nHe'll return when he can,\nWith his Shadow sewed on.",
+      "cz": "Chlapec se dívá dolů,\nJeho stín je pryč!\nVrátí se, až bude moct,\nS přišitým stínem.",
+      "source": "pre_existing",
+      "original_cz": "Chlapec se dívá dolů,\nJeho stín je pryč!\nVrátí se, až bude moct,\nS přišitým stínem."
+    },
+    {
+      "key": "PirateSkulls_024_f",
+      "en": "So the needle is about a boy and his shadow? Okay, I think I get it.",
+      "cz": "Takže ta jehla je o chlapci a jeho stínu? Dobře, myslím, že to chápu.",
+      "source": "pre_existing",
+      "original_cz": "Takže ta jehla je o chlapci a jeho stínu? Dobře, myslím, že to chápu."
+    },
+    {
+      "key": "PirateSkulls_033_f",
+      "en": "Do ya need help with the last one?",
+      "cz": "Potřebujete s tím posledním pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Potřebujete s tím posledním pomoct?"
+    },
+    {
+      "key": "Player_010_choice_000_f",
+      "en": "Yes, tell me about the Hook!",
+      "cz": "Ano, pověz mi o tom Hooku!",
+      "source": "pre_existing",
+      "original_cz": "Ano, pověz mi o tom Hooku!"
+    },
+    {
+      "key": "Player_010_choice_001_f",
+      "en": "No thanks.",
+      "cz": "Ne, děkuji.",
+      "source": "pre_existing",
+      "original_cz": "Ne, děkuji."
+    },
+    {
+      "key": "PirateSkulls_044_f",
+      "en": "Oh captain, poor captain,\nLost a hand to a croc.\nHe still gets a fright,\nWhen he hears a tick tock.",
+      "cz": "Ach kapitáne, chudák kapitáne,\nPřišel o ruku kvůli krokodýlovi.\nPořád se leká,\nkdyž slyší tik ťak.",
+      "source": "pre_existing",
+      "original_cz": "Ach kapitáne, chudák kapitáne,\nPřišel o ruku kvůli krokodýlovi.\nPořád se leká,\nkdyž slyší tik ťak."
+    },
+    {
+      "key": "PirateSkulls_046_f",
+      "en": "So the hook is about a captain and something ticking... Got it!",
+      "cz": "Takže háček je o kapitánovi a něčem, co tiká... Chápu to!",
+      "source": "pre_existing",
+      "original_cz": "Takže háček je o kapitánovi a něčem, co tiká... Chápu to!"
+    },
+    {
+      "key": "PirateSkulls_057_f",
+      "en": "All right ya scallywag, be on yer way!",
+      "cz": "Dobře, ty šmejdku, jdi dál!",
+      "source": "pre_existing",
+      "original_cz": "Dobře, ty šmejdku, jdi dál!"
+    },
+    {
+      "key": "PirateSkulls_045_f",
+      "en": "Aye, then be on yer way!",
+      "cz": "Tak jo, tak jdi dál!",
+      "source": "pre_existing",
+      "original_cz": "Tak jo, tak jdi dál!"
+    },
+    {
+      "key": "PirateSkulls_014_f",
+      "en": "Aye, then be on yer way!",
+      "cz": "Tak jo, tak jdi dál!",
+      "source": "pre_existing",
+      "original_cz": "Tak jo, tak jdi dál!"
+    }
+  ],
+  "PeterPan_PirateSkulls/PirateSkulls_MRQS144_MusicWalls_MRQS144_MusicWalls_TalkTo13.locbin": [
+    {
+      "key": "PirateSkulls_010_f",
+      "en": "I just have one riddle for ya, if ya dare...",
+      "cz": "Mám pro tebe jen jednu hádanku, jestli si troufneš...",
+      "source": "pre_existing",
+      "original_cz": "Mám pro tebe jen jednu hádanku, jestli si troufneš..."
+    },
+    {
+      "key": "PirateSkulls_019_f",
+      "en": "Let's do it.",
+      "cz": "Pojďme to udělat.",
+      "source": "pre_existing",
+      "original_cz": "Pojďme to udělat."
+    },
+    {
+      "key": "PirateSkulls_011_f",
+      "en": "Like stars in the sky,\nFrom wings does it fall.\nHappy, we fly,\nIt's magic for all.",
+      "cz": "Jako hvězdy na obloze,\nZ křídel to padá.\nŠťastně letíme,\nJe to kouzlo pro všechny.",
+      "source": "pre_existing",
+      "original_cz": "Jako hvězdy na obloze,\nZ křídel to padá.\nŠťastně letíme,\nJe to kouzlo pro všechny."
+    },
+    {
+      "key": "Player_004_choice_000_f",
+      "en": "The moon.",
+      "cz": "Měsíc.",
+      "source": "pre_existing",
+      "original_cz": "Měsíc."
+    },
+    {
+      "key": "Player_004_choice_001_f",
+      "en": "Pixie dust.",
+      "cz": "Skřítkový prach.",
+      "source": "pre_existing",
+      "original_cz": "Skřítkový prach."
+    },
+    {
+      "key": "Player_004_choice_002_f",
+      "en": "A magic carpet.",
+      "cz": "Kouzelný koberec.",
+      "source": "pre_existing",
+      "original_cz": "Kouzelný koberec."
+    },
+    {
+      "key": "PirateSkulls_014_f",
+      "en": "You've answered our riddle, but were ya correct?",
+      "cz": "Odpověděli jste na naši hádanku, ale měli jste pravdu?",
+      "source": "pre_existing",
+      "original_cz": "Odpověděli jste na naši hádanku, ale měli jste pravdu?"
+    },
+    {
+      "key": "PirateSkulls_015_f",
+      "en": "Aye! 'Twere luck or not, ye answered right! Here's that <ActivityItem>Glowing Musical Note</ActivityItem>.",
+      "cz": "Ano! Ať už jste měli štěstí nebo ne, odpověděli jste správně! Tady je ta <ActivityItem>Zářící hudební nota</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Ano! Ať už jste měli štěstí nebo ne, odpověděli jste správně! Tady je ta <ActivityItem>Zářící hudební nota</ActivityItem>."
+    },
+    {
+      "key": "PirateSkulls_016_f",
+      "en": "Ya missed it. Come back and try again if ya want that <ActivityItem>Glowing Musical Note</ActivityItem>.",
+      "cz": "Zmeškal jsi to. Vrať se a zkus to znovu, pokud chceš tu <ActivityItem>zářící hudební notu</ActivityItem>.",
+      "source": "pre_existing",
+      "original_cz": "Zmeškal jsi to. Vrať se a zkus to znovu, pokud chceš tu <ActivityItem>zářící hudební notu</ActivityItem>."
+    },
+    {
+      "key": "PirateSkulls_001_f",
+      "en": "I see you have one of the <ActivityItem>Glowing Musical Notes</ActivityItem>. I'm going to need that.",
+      "cz": "Vidím, že máš jednu z těch <ActivityItem>Zářících hudebních not</ActivityItem>. Budu ji potřebovat.",
+      "source": "pre_existing",
+      "original_cz": "Vidím, že máš jednu z těch <ActivityItem>Zářících hudebních not</ActivityItem>. Budu ji potřebovat."
+    },
+    {
+      "key": "PirateSkulls_002_f",
+      "en": "Nothin' comes for free, ya know.",
+      "cz": "Nic není zadarmo, víš?",
+      "source": "pre_existing",
+      "original_cz": "Nic není zadarmo, víš?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Not true! Some things are free!",
+      "cz": "To není pravda! Některé věci jsou zdarma!",
+      "source": "pre_existing",
+      "original_cz": "To není pravda! Některé věci jsou zdarma!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Seems it would be easy to just... let me take it...",
+      "cz": "Zdá se, že by bylo snadné prostě... nechat mě to vzít...",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že by bylo snadné prostě... nechat mě to vzít..."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Is this going to be more riddles?",
+      "cz": "Budou to další hádanky?",
+      "source": "pre_existing",
+      "original_cz": "Budou to další hádanky?"
+    },
+    {
+      "key": "PirateSkulls_009_f",
+      "en": "Well, not when a pirate's part o' the bargain.",
+      "cz": "No, ne, když je pirát součástí dohody.",
+      "source": "pre_existing",
+      "original_cz": "No, ne, když je pirát součástí dohody."
+    },
+    {
+      "key": "PirateSkulls_017_f",
+      "en": "Easy, aye. But not a bit of fun. Nah, we've got to test ya.",
+      "cz": "Snadné, ano. Ale žádná legrace. Ne, musíme tě otestovat.",
+      "source": "pre_existing",
+      "original_cz": "Snadné, ano. Ale žádná legrace. Ne, musíme tě otestovat."
+    },
+    {
+      "key": "PirateSkulls_018_f",
+      "en": "Yer a smart one, you are.",
+      "cz": "Jsi chytrý, to jsi.",
+      "source": "pre_existing",
+      "original_cz": "Jsi chytrý, to jsi."
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Strange skulls...",
+      "cz": "Podivné lebky...",
+      "source": "pre_existing",
+      "original_cz": "Podivné lebky..."
+    }
+  ]
+}

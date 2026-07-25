@@ -1,0 +1,688 @@
+{
+  "DarkMountainsUpdate_Mickey/Mickey_MRQS122_TheForgotten_MRQS122_TheForgotten_TalkTo01.locbin": [
+    {
+      "key": "Mickey_001_f",
+      "en": "Oh, hiya, {PlayerName}! You're just who I was lookin' for!",
+      "cz": "Ach, ahoj, {PlayerName}! Přesně jsi ten, koho jsem hledal!",
+      "source": "pre_existing",
+      "original_cz": "Ach, ahoj, {PlayerName}! Přesně jsi ten, koho jsem hledal!"
+    },
+    {
+      "key": "Mickey_002_f",
+      "en": "You were looking for me...? But... why?",
+      "cz": "Hledal jsi mě...? Ale... proč?",
+      "source": "pre_existing",
+      "original_cz": "Hledal jsi mě...? Ale... proč?"
+    },
+    {
+      "key": "Mickey_000_f",
+      "en": "Who cares about boring old me...?",
+      "cz": "Koho zajímá nudný starý já...?",
+      "source": "pre_existing",
+      "original_cz": "Koho zajímá nudný starý já...?"
+    },
+    {
+      "key": "Mickey_005_f",
+      "en": "Gosh, I care about you a ton! And uh... well, you haven't seemed like yourself lately. Is there anything you wanna talk about?",
+      "cz": "Páni, hrozně mi na tobě záleží! A ehm... no, v poslední době nevypadáš, že jsi sám sebou. Je něco, o čem bys chtěl mluvit?",
+      "source": "pre_existing",
+      "original_cz": "Páni, hrozně mi na tobě záleží! A ehm... no, v poslední době nevypadáš, že jsi sám sebou. Je něco, o čem bys chtěl mluvit?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "(Everything is awful!!!)",
+      "cz": "(Všechno je hrozné!!!)",
+      "source": "pre_existing",
+      "original_cz": "(Všechno je hrozné!!!)"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "(Nobody understands me!!!)",
+      "cz": "(Nikdo mi nerozumí!!!)",
+      "source": "pre_existing",
+      "original_cz": "(Nikdo mi nerozumí!!!)"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "(I'm angry all the time!!!)",
+      "cz": "(Jsem pořád naštvaný!!!)",
+      "source": "pre_existing",
+      "original_cz": "(Jsem pořád naštvaný!!!)"
+    },
+    {
+      "key": "Mickey_006_f",
+      "en": "I... I just...",
+      "cz": "Já... já jen...",
+      "source": "pre_existing",
+      "original_cz": "Já... já jen..."
+    },
+    {
+      "key": "Mickey_007_f",
+      "en": "No. Nothing is wrong. Everything is fine.",
+      "cz": "Ne. Nic se neděje. Všechno je v pořádku.",
+      "source": "pre_existing",
+      "original_cz": "Ne. Nic se neděje. Všechno je v pořádku."
+    },
+    {
+      "key": "Mickey_008_f",
+      "en": "<Forgotten>(Why can't I ever say how I feel? UGH...)</Forgotten>",
+      "cz": "<Zapomenuto>(Proč nikdy nedokážu říct, co cítím? Fuj...)</Zapomenuto>",
+      "source": "pre_existing",
+      "original_cz": "<Zapomenuto>(Proč nikdy nedokážu říct, co cítím? Fuj...)</Zapomenuto>"
+    },
+    {
+      "key": "Mickey_009_f",
+      "en": "... You sure everything's okay, pal?",
+      "cz": "... Jsi si jistý, že je všechno v pořádku, kámo?",
+      "source": "pre_existing",
+      "original_cz": "... Jsi si jistý, že je všechno v pořádku, kámo?"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "EVERYTHING...",
+      "cz": "VŠECHNO...",
+      "source": "pre_existing",
+      "original_cz": "VŠECHNO..."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "IS...",
+      "cz": "JE...",
+      "source": "pre_existing",
+      "original_cz": "JE..."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "BAD!!!",
+      "cz": "ŠPATNÉ!!!",
+      "source": "pre_existing",
+      "original_cz": "ŠPATNÉ!!!"
+    },
+    {
+      "key": "Mickey_014_f",
+      "en": "...",
+      "cz": "...",
+      "source": "pre_existing",
+      "original_cz": "..."
+    },
+    {
+      "key": "Mickey_016_f",
+      "en": "Sure. Fine. I'll pick you some flowers.",
+      "cz": "Jasně. Dobře. Natrhám ti nějaké květiny.",
+      "source": "pre_existing",
+      "original_cz": "Jasně. Dobře. Natrhám ti nějaké květiny."
+    },
+    {
+      "key": "Mickey_015_f",
+      "en": "<Forgotten>(I'll probably screw that up too. UGH.)</Forgotten>",
+      "cz": "<Zapomenuto>(To asi taky zkazím. Fuj.)</Zapomenuto>",
+      "source": "pre_existing",
+      "original_cz": "<Zapomenuto>(To asi taky zkazím. Fuj.)</Zapomenuto>"
+    },
+    {
+      "key": "Mickey_018_f",
+      "en": "Thanks, pal. And hey, just remember — I'm always here to talk.",
+      "cz": "Díky, kámo. A nezapomeň – vždycky si s tebou rád popovídám.",
+      "source": "pre_existing",
+      "original_cz": "Díky, kámo. A nezapomeň – vždycky si s tebou rád popovídám."
+    },
+    {
+      "key": "Mickey_010_f",
+      "en": "It's fine. I'm okay. I'm great. I'm amazing.",
+      "cz": "Je to v pořádku. Jsem v pořádku. Jsem skvělý. Jsem úžasný.",
+      "source": "pre_existing",
+      "original_cz": "Je to v pořádku. Jsem v pořádku. Jsem skvělý. Jsem úžasný."
+    },
+    {
+      "key": "Mickey_011_f",
+      "en": "<Forgotten>(What's the point? Nobody would get it anyway...)</Forgotten>",
+      "cz": "<Zapomenuto>(K čemu to je? Stejně by to nikdo nepochopil...)</Zapomenuto>",
+      "source": "pre_existing",
+      "original_cz": "<Zapomenuto>(K čemu to je? Stejně by to nikdo nepochopil...)</Zapomenuto>"
+    },
+    {
+      "key": "Mickey_012_f",
+      "en": "Welp, all right. But ya know if you ever need to talk, I'm always around.",
+      "cz": "No, dobře. Ale víš, že když si někdy budeš potřebovat promluvit, jsem vždycky poblíž.",
+      "source": "pre_existing",
+      "original_cz": "No, dobře. Ale víš, že když si někdy budeš potřebovat promluvit, jsem vždycky poblíž."
+    },
+    {
+      "key": "Mickey_013_f",
+      "en": "What did you want to talk to me about anyway?",
+      "cz": "O čem jsi se mnou vlastně chtěl mluvit?",
+      "source": "pre_existing",
+      "original_cz": "O čem jsi se mnou vlastně chtěl mluvit?"
+    },
+    {
+      "key": "Mickey_004_f",
+      "en": "Oh, right! I almost forgot. I noticed there are all sorts of new flowers growin' around the Valley.",
+      "cz": "Aha, jasně! Málem jsem zapomněl. Všiml jsem si, že v údolí rostou samé nové květiny.",
+      "source": "pre_existing",
+      "original_cz": "Aha, jasně! Málem jsem zapomněl. Všiml jsem si, že v údolí rostou samé nové květiny."
+    },
+    {
+      "key": "Mickey_019_f",
+      "en": "And I wanted to make a big bouquet for Minnie to show her just how special she is.",
+      "cz": "A chtěla jsem pro Minnie udělat velkou kytici, abych jí ukázala, jak je výjimečná.",
+      "source": "pre_existing",
+      "original_cz": "A chtěla jsem pro Minnie udělat velkou kytici, abych jí ukázala, jak je výjimečná."
+    },
+    {
+      "key": "Mickey_003_f",
+      "en": "I thought maybe you could help because, welp, you're the best in the whole Valley at pickin' out nice flowers.",
+      "cz": "Myslel jsem, že bys mi mohl pomoct, protože, no, jsi nejlepší v celém údolí ve vybírání krásných květin.",
+      "source": "pre_existing",
+      "original_cz": "Myslel jsem, že bys mi mohl pomoct, protože, no, jsi nejlepší v celém údolí ve vybírání krásných květin."
+    }
+  ],
+  "DarkMountainsUpdate_Mickey/Mickey_MRQS122_TheForgotten_MRQS122_TheForgotten_TalkTo02.locbin": [
+    {
+      "key": "Mickey_001_f",
+      "en": "Oh, hiya, pal! Did ya have any luck findin' some nice flowers?",
+      "cz": "Ahoj, kámo! Měl jsi štěstí při hledání pěkných květin?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, kámo! Měl jsi štěstí při hledání pěkných květin?"
+    },
+    {
+      "key": "Mickey_002_f",
+      "en": "I found some... uh, nice... flowers. Made a bouquet. Gave it to Minnie.",
+      "cz": "Našla jsem nějaké... ehm, hezké... květiny. Udělala jsem kytici. Dala jsem ji Minnie.",
+      "source": "pre_existing",
+      "original_cz": "Našla jsem nějaké... ehm, hezké... květiny. Udělala jsem kytici. Dala jsem ji Minnie."
+    },
+    {
+      "key": "Mickey_003_f",
+      "en": "You did?! Thanks, pal. But... uh, you didn't have to do all that on your own.",
+      "cz": "Udělal jsi to?! Díky, kámo. Ale... ehm, tohle všechno jsi nemusel dělat sám.",
+      "source": "pre_existing",
+      "original_cz": "Udělal jsi to?! Díky, kámo. Ale... ehm, tohle všechno jsi nemusel dělat sám."
+    },
+    {
+      "key": "Mickey_005_f",
+      "en": "You coulda just given 'em to me, and I woulda taken care of the rest. Or even better, we coulda made it together!",
+      "cz": "Mohl jsi mi je prostě dát a já bych se postaral o zbytek. Nebo ještě lépe, mohli jsme to zvládnout společně!",
+      "source": "pre_existing",
+      "original_cz": "Mohl jsi mi je prostě dát a já bych se postaral o zbytek. Nebo ještě lépe, mohli jsme to zvládnout společně!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "(I messed up again...)",
+      "cz": "(Zase jsem to zpackal...)",
+      "source": "pre_existing",
+      "original_cz": "(Zase jsem to zpackal...)"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Oh... right... makes sense...",
+      "cz": "Aha... jasně... dává to smysl...",
+      "source": "pre_existing",
+      "original_cz": "Aha... jasně... dává to smysl..."
+    },
+    {
+      "key": "Player_000_choice_003_f",
+      "en": "(So why didn't you tell me that?!)",
+      "cz": "(Tak proč jsi mi to neřekl?!)",
+      "source": "pre_existing",
+      "original_cz": "(Tak proč jsi mi to neřekl?!)"
+    },
+    {
+      "key": "Mickey_006_f",
+      "en": "...",
+      "cz": "...",
+      "source": "pre_existing",
+      "original_cz": "..."
+    },
+    {
+      "key": "Mickey_007_f",
+      "en": "Well, it's done. So... whatever... I guess...",
+      "cz": "No, je to hotové. Takže... cokoliv... asi...",
+      "source": "pre_existing",
+      "original_cz": "No, je to hotové. Takže... cokoliv... asi..."
+    },
+    {
+      "key": "Mickey_008_f",
+      "en": "That's okay, pal. I'll just go and see how Minnie liked 'em. Thanks again!",
+      "cz": "To je v pořádku, kámo. Jdu se podívat, jak se Minnie líbily. Ještě jednou díky!",
+      "source": "pre_existing",
+      "original_cz": "To je v pořádku, kámo. Jdu se podívat, jak se Minnie líbily. Ještě jednou díky!"
+    },
+    {
+      "key": "Mickey_009_f",
+      "en": "Oh, uh... say, I think Goofy's lookin' for ya. Maybe you could <Lore>go find him</Lore>.",
+      "cz": "Ach, ehm... řekni, myslím, že tě Goofy hledá. Možná bys ho mohla <Lore>jít najít</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Ach, ehm... řekni, myslím, že tě Goofy hledá. Možná bys ho mohla <Lore>jít najít</Lore>."
+    }
+  ],
+  "DarkMountainsUpdate_Mickey/Mickey_MRQS130A_LightInTheDark_MRQS130A_LightInTheDark_BringItem01.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "Gosh, {PlayerName}, things around the Village aren't looking so good.",
+      "cz": "Páni, {PlayerName}, věci ve vesnici nevypadají moc dobře.",
+      "source": "pre_existing",
+      "original_cz": "Páni, {PlayerName}, věci ve vesnici nevypadají moc dobře."
+    },
+    {
+      "key": "Mickey_005_f",
+      "en": "Those cracks in the sky are pretty scary. Is there anything I can do to help?",
+      "cz": "Ty trhliny na obloze jsou docela děsivé. Můžu s tím nějak pomoct?",
+      "source": "pre_existing",
+      "original_cz": "Ty trhliny na obloze jsou docela děsivé. Můžu s tím nějak pomoct?"
+    },
+    {
+      "key": "Mickey_006_f",
+      "en": "Maybe you can. Does this look familiar?",
+      "cz": "Možná ano. Zdá se vám to povědomé?",
+      "source": "pre_existing",
+      "original_cz": "Možná ano. Zdá se vám to povědomé?"
+    },
+    {
+      "key": "Mickey_007_f",
+      "en": "A book of fairy tales? You betcha. That's been in my House for just about as long as I can remember.",
+      "cz": "Kniha pohádek? To se vsadím. Ta je v mém koleji skoro tak dlouho, jak si pamatuji.",
+      "source": "pre_existing",
+      "original_cz": "Kniha pohádek? To se vsadím. Ta je v mém koleji skoro tak dlouho, jak si pamatuji."
+    },
+    {
+      "key": "Mickey_008_f",
+      "en": "We think it once belonged to the Forgotten. Do you know the story behind it?",
+      "cz": "Myslíme si, že kdysi patřilo Zapomenutým. Znáte příběh, který se za tím skrývá?",
+      "source": "pre_existing",
+      "original_cz": "Myslíme si, že kdysi patřilo Zapomenutým. Znáte příběh, který se za tím skrývá?"
+    },
+    {
+      "key": "Mickey_001_f",
+      "en": "It's funny. Now that you show it to me... I'm remembering everything!",
+      "cz": "To je vtipné. Teď, když mi to ukazuješ... Pamatuji si všechno!",
+      "source": "pre_existing",
+      "original_cz": "To je vtipné. Teď, když mi to ukazuješ... Pamatuji si všechno!"
+    },
+    {
+      "key": "Mickey_016_f",
+      "en": "When you were just a little kid, we read this together.",
+      "cz": "Když jsi byl ještě malý kluk, četli jsme si tohle spolu.",
+      "source": "pre_existing",
+      "original_cz": "Když jsi byl ještě malý kluk, četli jsme si tohle spolu."
+    },
+    {
+      "key": "Mickey_017_f",
+      "en": "At first, I'd read it to you. And then one day, all of a sudden, you were old enough to read it to me!",
+      "cz": "Nejdřív jsem ti to četl. A pak jednoho dne, najednou, jsi byl dost starý na to, abys mi to přečetl!",
+      "source": "pre_existing",
+      "original_cz": "Nejdřív jsem ti to četl. A pak jednoho dne, najednou, jsi byl dost starý na to, abys mi to přečetl!"
+    },
+    {
+      "key": "Mickey_018_f",
+      "en": "Oh, and sometimes, we'd just make up our own stories to go along with the pictures.",
+      "cz": "A mimochodem, někdy jsme si k obrázkům vymýšleli vlastní příběhy.",
+      "source": "pre_existing",
+      "original_cz": "A mimochodem, někdy jsme si k obrázkům vymýšleli vlastní příběhy."
+    },
+    {
+      "key": "Mickey_019_f",
+      "en": "I wish I could remember this...",
+      "cz": "Přál bych si, abych si tohle pamatoval...",
+      "source": "pre_existing",
+      "original_cz": "Přál bych si, abych si tohle pamatoval..."
+    },
+    {
+      "key": "Mickey_020_f",
+      "en": "It's a pretty special book. Lots of stories about brave heroics and evil villains. And everything comes out right just in time for the \"happily ever after.\"",
+      "cz": "Je to docela zvláštní kniha. Spousta příběhů o statečných hrdinských činech a zlých padouších. A všechno vychází přesně tak akorát, aby to bylo „šťastné až do smrti“.",
+      "source": "pre_existing",
+      "original_cz": "Je to docela zvláštní kniha. Spousta příběhů o statečných hrdinských činech a zlých padouších. A všechno vychází přesně tak akorát, aby to bylo „šťastné až do smrti“."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Maybe we can read it together again someday.",
+      "cz": "Možná si to někdy znovu přečteme společně.",
+      "source": "pre_existing",
+      "original_cz": "Možná si to někdy znovu přečteme společně."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "I wish things were really that simple.",
+      "cz": "Přál bych si, aby to bylo opravdu tak jednoduché.",
+      "source": "pre_existing",
+      "original_cz": "Přál bych si, aby to bylo opravdu tak jednoduché."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Sounds kind of boring. Needs some more action.",
+      "cz": "Zní to trochu nudně. Chce to trochu víc akce.",
+      "source": "pre_existing",
+      "original_cz": "Zní to trochu nudně. Chce to trochu víc akce."
+    },
+    {
+      "key": "Mickey_021_f",
+      "en": "Aw, I'd love that! We haven't read together since... since...",
+      "cz": "To by se mi moc líbilo! Nečetli jsme spolu od... od...",
+      "source": "pre_existing",
+      "original_cz": "To by se mi moc líbilo! Nečetli jsme spolu od... od..."
+    },
+    {
+      "key": "Mickey_024_f",
+      "en": "Hey, now that I think about it, the last time we read this together was right before the Forgetting.",
+      "cz": "Hele, když o tom tak přemýšlím, naposledy jsme tohle četli spolu těsně před Zapomněním.",
+      "source": "pre_existing",
+      "original_cz": "Hele, když o tom tak přemýšlím, naposledy jsme tohle četli spolu těsně před Zapomněním."
+    },
+    {
+      "key": "Mickey_026_f",
+      "en": "... But... gosh, that wasn't really you, was it? It was the Forgotten.",
+      "cz": "... Ale... proboha, to jsi nebyl doopravdy ty, že ne? Byl to Zapomenutý.",
+      "source": "pre_existing",
+      "original_cz": "... Ale... proboha, to jsi nebyl doopravdy ty, že ne? Byl to Zapomenutý."
+    },
+    {
+      "key": "Mickey_027_f",
+      "en": "They... they left the book with me. They seemed pretty mad.",
+      "cz": "Oni... oni mi tu knihu nechali. Vypadali dost naštvaně.",
+      "source": "pre_existing",
+      "original_cz": "Oni... oni mi tu knihu nechali. Vypadali dost naštvaně."
+    },
+    {
+      "key": "Mickey_028_f",
+      "en": "But I think deep down, they were really sad about something.",
+      "cz": "Ale myslím, že hluboko uvnitř byli kvůli něčemu opravdu smutní.",
+      "source": "pre_existing",
+      "original_cz": "Ale myslím, že hluboko uvnitř byli kvůli něčemu opravdu smutní."
+    },
+    {
+      "key": "Mickey_029_f",
+      "en": "Gee, I hope you can help the Forgotten out.",
+      "cz": "Páni, doufám, že pomůžeš Zapomenutým.",
+      "source": "pre_existing",
+      "original_cz": "Páni, doufám, že pomůžeš Zapomenutým."
+    },
+    {
+      "key": "Mickey_030_f",
+      "en": "Mickey, the storybook... the magic coming off of it is stronger than ever.",
+      "cz": "Mickey, ta pohádková kniha... kouzlo, které z ní vychází, je silnější než kdy dřív.",
+      "source": "pre_existing",
+      "original_cz": "Mickey, ta pohádková kniha... kouzlo, které z ní vychází, je silnější než kdy dřív."
+    },
+    {
+      "key": "Mickey_031_f",
+      "en": "You've done a lot to help. Now I'll do my part to try to save the Forgotten.",
+      "cz": "Udělal jsi pro pomoc hodně. Teď se já pokusím zachránit Zapomenuté.",
+      "source": "pre_existing",
+      "original_cz": "Udělal jsi pro pomoc hodně. Teď se já pokusím zachránit Zapomenuté."
+    },
+    {
+      "key": "Mickey_022_f",
+      "en": "Welp, I guess if life was always easy, we wouldn't need stories, would we?",
+      "cz": "No, kdyby byl život vždycky jednoduchý, tak bychom příběhy nepotřebovali, že ne?",
+      "source": "pre_existing",
+      "original_cz": "No, kdyby byl život vždycky jednoduchý, tak bychom příběhy nepotřebovali, že ne?"
+    },
+    {
+      "key": "Mickey_025_f",
+      "en": "But hey, now that I think about it, that's just what you said to me the last time we read this book together. Right before the Forgetting.",
+      "cz": "Ale no tak, když o tom tak přemýšlím, přesně tohle jsi mi řekl, když jsme tuhle knihu četli naposledy. Těsně před Zapomněním.",
+      "source": "pre_existing",
+      "original_cz": "Ale no tak, když o tom tak přemýšlím, přesně tohle jsi mi řekl, když jsme tuhle knihu četli naposledy. Těsně před Zapomněním."
+    },
+    {
+      "key": "Mickey_023_f",
+      "en": "Oh, don't worry. There's lots of action. There's even a story where a hero pulls a sword out of a stone!",
+      "cz": "Ale nebojte se. Je tam spousta akce. Dokonce je tam i příběh, kde hrdina vytáhne meč z kamene!",
+      "source": "pre_existing",
+      "original_cz": "Ale nebojte se. Je tam spousta akce. Dokonce je tam i příběh, kde hrdina vytáhne meč z kamene!"
+    },
+    {
+      "key": "Mickey_002_f",
+      "en": "Hmm... I know there's gotta be some kinda story behind it.",
+      "cz": "Hmm... Vím, že za tím musí být nějaký příběh.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Vím, že za tím musí být nějaký příběh."
+    },
+    {
+      "key": "Mickey_009_f",
+      "en": "But after the Forgetting, welp... I just can't remember much.",
+      "cz": "Ale po Zapomnění, no... si toho moc nepamatuju.",
+      "source": "pre_existing",
+      "original_cz": "Ale po Zapomnění, no... si toho moc nepamatuju."
+    },
+    {
+      "key": "Mickey_010_f",
+      "en": "Huh... ya know what? It's kind of funny. It seems like the more time I spend with you...",
+      "cz": "Hu... víš co? Je to docela vtipné. Zdá se mi, že čím víc času s tebou trávím...",
+      "source": "pre_existing",
+      "original_cz": "Hu... víš co? Je to docela vtipné. Zdá se mi, že čím víc času s tebou trávím..."
+    },
+    {
+      "key": "Mickey_011_f",
+      "en": "...the more I remember!",
+      "cz": "...čím víc si pamatuju!",
+      "source": "pre_existing",
+      "original_cz": "...čím víc si pamatuju!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "So our friendship... it could help restore those lost memories?",
+      "cz": "Takže naše přátelství... mohlo by pomoci obnovit ty ztracené vzpomínky?",
+      "source": "pre_existing",
+      "original_cz": "Takže naše přátelství... mohlo by pomoci obnovit ty ztracené vzpomínky?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Is this your way of asking me to hang out more often?",
+      "cz": "Je tohle tvůj způsob, jak mě požádat, abychom se scházeli častěji?",
+      "source": "pre_existing",
+      "original_cz": "Je tohle tvůj způsob, jak mě požádat, abychom se scházeli častěji?"
+    },
+    {
+      "key": "Mickey_012_f",
+      "en": "I think so. I just know that memory's in me somewhere...",
+      "cz": "Myslím, že ano. Jen vím, že ta vzpomínka je někde ve mně...",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že ano. Jen vím, že ta vzpomínka je někde ve mně..."
+    },
+    {
+      "key": "Mickey_015_f",
+      "en": "No problem. A little bonding time for {PlayerName} and Mickey should unlock those memories!",
+      "cz": "Žádný problém. Trocha společného života mezi {PlayerName} a Mickeym by měla odemknout ty vzpomínky!",
+      "source": "pre_existing",
+      "original_cz": "Žádný problém. Trocha společného života mezi {PlayerName} a Mickeym by měla odemknout ty vzpomínky!"
+    },
+    {
+      "key": "Mickey_013_f",
+      "en": "Ha-ha! That wouldn't be so bad, would it?",
+      "cz": "Ha-ha! To by nebylo tak hrozné, že ne?",
+      "source": "pre_existing",
+      "original_cz": "Ha-ha! To by nebylo tak hrozné, že ne?"
+    },
+    {
+      "key": "Mickey_014_f",
+      "en": "I just know that memory's in me somewhere. We just gotta get to it.",
+      "cz": "Vím, že ta vzpomínka je ve mně někde. Musíme se k ní prostě dostat.",
+      "source": "pre_existing",
+      "original_cz": "Vím, že ta vzpomínka je ve mně někde. Musíme se k ní prostě dostat."
+    }
+  ],
+  "DarkMountainsUpdate_Mickey/Mickey_MRQS130A_LightInTheDark_MRQS130A_LightInTheDark_BringItem02.locbin": [
+    {
+      "key": "Mickey_005_f",
+      "en": "{PlayerName}! All my memories about that book... I'm remembering them!",
+      "cz": "{PlayerName}! Všechny moje vzpomínky na tu knihu... Vzpomínám si na ně!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}! Všechny moje vzpomínky na tu knihu... Vzpomínám si na ně!"
+    },
+    {
+      "key": "Mickey_006_f",
+      "en": "You and me... When you were just a little kid, we'd read the book together.",
+      "cz": "Ty a já... Když jsi byl ještě malý kluk, četli jsme si spolu tu knížku.",
+      "source": "pre_existing",
+      "original_cz": "Ty a já... Když jsi byl ještě malý kluk, četli jsme si spolu tu knížku."
+    },
+    {
+      "key": "Mickey_007_f",
+      "en": "At first, I'd read it to you. And then one day, all of a sudden, you were old enough to read it to me.",
+      "cz": "Nejdřív jsem ti to četl. A pak jednoho dne, najednou, jsi byl dost starý na to, abys mi to přečetl.",
+      "source": "pre_existing",
+      "original_cz": "Nejdřív jsem ti to četl. A pak jednoho dne, najednou, jsi byl dost starý na to, abys mi to přečetl."
+    },
+    {
+      "key": "Mickey_008_f",
+      "en": "Oh, and sometimes, we'd just make up our own stories to go along with the pictures.",
+      "cz": "A mimochodem, někdy jsme si k obrázkům vymýšleli vlastní příběhy.",
+      "source": "pre_existing",
+      "original_cz": "A mimochodem, někdy jsme si k obrázkům vymýšleli vlastní příběhy."
+    },
+    {
+      "key": "Mickey_009_f",
+      "en": "I wish I could remember this...",
+      "cz": "Přál bych si, abych si tohle pamatoval...",
+      "source": "pre_existing",
+      "original_cz": "Přál bych si, abych si tohle pamatoval..."
+    },
+    {
+      "key": "Mickey_010_f",
+      "en": "It's a pretty special book. Lots of stories about brave heroics and evil villains. And everything comes out right just in time for the \"happily ever after.\"",
+      "cz": "Je to docela zvláštní kniha. Spousta příběhů o statečných hrdinských činech a zlých padouších. A všechno vyjde přesně tak akorát, aby to bylo „šťastné až do smrti“.",
+      "source": "pre_existing",
+      "original_cz": "Je to docela zvláštní kniha. Spousta příběhů o statečných hrdinských činech a zlých padouších. A všechno vyjde přesně tak akorát, aby to bylo „šťastné až do smrti“."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Maybe we can read it together again someday.",
+      "cz": "Možná si to někdy znovu přečteme společně.",
+      "source": "pre_existing",
+      "original_cz": "Možná si to někdy znovu přečteme společně."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I wish things were really that simple.",
+      "cz": "Přál bych si, aby to bylo opravdu tak jednoduché.",
+      "source": "pre_existing",
+      "original_cz": "Přál bych si, aby to bylo opravdu tak jednoduché."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Sounds kind of boring. Needs some more action.",
+      "cz": "Zní to trochu nudně. Chce to trochu víc akce.",
+      "source": "pre_existing",
+      "original_cz": "Zní to trochu nudně. Chce to trochu víc akce."
+    },
+    {
+      "key": "Mickey_011_f",
+      "en": "Aw, I'd love that! We haven't read together since... since...",
+      "cz": "To by se mi moc líbilo! Nečetli jsme spolu od... od...",
+      "source": "pre_existing",
+      "original_cz": "To by se mi moc líbilo! Nečetli jsme spolu od... od..."
+    },
+    {
+      "key": "Mickey_012_f",
+      "en": "Hey, now that I think about it, the last time we read this together was right before the Forgetting.",
+      "cz": "Hele, když o tom tak přemýšlím, naposledy jsme tohle četli spolu těsně před Zapomněním.",
+      "source": "pre_existing",
+      "original_cz": "Hele, když o tom tak přemýšlím, naposledy jsme tohle četli spolu těsně před Zapomněním."
+    },
+    {
+      "key": "Mickey_013_f",
+      "en": "... But... gosh, that wasn't really you, was it? It was the Forgotten.",
+      "cz": "... Ale... proboha, to jsi nebyl doopravdy ty, že ne? Byl to Zapomenutý.",
+      "source": "pre_existing",
+      "original_cz": "... Ale... proboha, to jsi nebyl doopravdy ty, že ne? Byl to Zapomenutý."
+    },
+    {
+      "key": "Mickey_014_f",
+      "en": "They... they left the book with me. They seemed pretty mad.",
+      "cz": "Oni... oni mi tu knihu nechali. Vypadali dost naštvaně.",
+      "source": "pre_existing",
+      "original_cz": "Oni... oni mi tu knihu nechali. Vypadali dost naštvaně."
+    },
+    {
+      "key": "Mickey_015_f",
+      "en": "But I think deep down, they were really sad about something.",
+      "cz": "Ale myslím, že hluboko uvnitř byli kvůli něčemu opravdu smutní.",
+      "source": "pre_existing",
+      "original_cz": "Ale myslím, že hluboko uvnitř byli kvůli něčemu opravdu smutní."
+    },
+    {
+      "key": "Mickey_016_f",
+      "en": "Gee, {PlayerName}, I hope you can help the Forgotten out.",
+      "cz": "Páni, {PlayerName}, doufám, že pomůžeš Zapomenutým.",
+      "source": "pre_existing",
+      "original_cz": "Páni, {PlayerName}, doufám, že pomůžeš Zapomenutým."
+    },
+    {
+      "key": "Mickey_017_f",
+      "en": "Mickey, the storybook... the magic coming off of it is stronger than ever.",
+      "cz": "Mickey, ta pohádková kniha... kouzlo, které z ní vychází, je silnější než kdy dřív.",
+      "source": "pre_existing",
+      "original_cz": "Mickey, ta pohádková kniha... kouzlo, které z ní vychází, je silnější než kdy dřív."
+    },
+    {
+      "key": "Mickey_018_f",
+      "en": "You've done a lot to help. Now I'll do my part to try to save the Forgotten.",
+      "cz": "Udělal jsi pro pomoc hodně. Teď se já pokusím zachránit Zapomenuté.",
+      "source": "pre_existing",
+      "original_cz": "Udělal jsi pro pomoc hodně. Teď se já pokusím zachránit Zapomenuté."
+    },
+    {
+      "key": "Mickey_019_f",
+      "en": "Welp, I guess if life was always easy, we wouldn't need stories, would we?",
+      "cz": "No, kdyby byl život vždycky jednoduchý, tak bychom příběhy nepotřebovali, že ne?",
+      "source": "pre_existing",
+      "original_cz": "No, kdyby byl život vždycky jednoduchý, tak bychom příběhy nepotřebovali, že ne?"
+    },
+    {
+      "key": "Mickey_020_f",
+      "en": "But hey, now that I think about it, that's just what you said to me the last time we read this book together. Right before the Forgetting.",
+      "cz": "Ale no tak, když o tom tak přemýšlím, přesně tohle jsi mi řekl, když jsme tuhle knihu četli naposledy. Těsně před Zapomněním.",
+      "source": "pre_existing",
+      "original_cz": "Ale no tak, když o tom tak přemýšlím, přesně tohle jsi mi řekl, když jsme tuhle knihu četli naposledy. Těsně před Zapomněním."
+    },
+    {
+      "key": "Mickey_021_f",
+      "en": "Oh, don't worry. There's lots of action. There's even one story where a hero pulls a sword out of a stone!",
+      "cz": "Ale nebojte se. Je tam spousta akce. Je tam dokonce i jeden příběh, kde hrdina vytáhne meč z kamene!",
+      "source": "pre_existing",
+      "original_cz": "Ale nebojte se. Je tam spousta akce. Je tam dokonce i jeden příběh, kde hrdina vytáhne meč z kamene!"
+    }
+  ],
+  "DarkMountainsUpdate_Mickey/Mickey_MRQS130A_LightInTheDark_MRQS130A_LightInTheDark_Ongoing01.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "Did ya have something you wanted me to see, pal?",
+      "cz": "Chtěl jsi mi něco ukázat, kámo?",
+      "source": "pre_existing",
+      "original_cz": "Chtěl jsi mi něco ukázat, kámo?"
+    }
+  ],
+  "DarkMountainsUpdate_Mickey/Mickey_MRQS130A_LightInTheDark_MRQS130A_LightInTheDark_Ongoing02.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "Something's starting to come back to me about that book, {PlayerName}.",
+      "cz": "Něco si s tou knihou začínám uvědomovat, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Něco si s tou knihou začínám uvědomovat, {PlayerName}."
+    },
+    {
+      "key": "Mickey_001_f",
+      "en": "But I think we'll need to spend some more time together before I remember everything.",
+      "cz": "Ale myslím, že budeme muset strávit spolu ještě nějaký čas, než si na všechno vzpomenu.",
+      "source": "pre_existing",
+      "original_cz": "Ale myslím, že budeme muset strávit spolu ještě nějaký čas, než si na všechno vzpomenu."
+    },
+    {
+      "key": "Mickey_002_f",
+      "en": "I just know our friendship can fight back the Forgetting!",
+      "cz": "Já prostě vím, že naše přátelství dokáže zastavit Zapomnění!",
+      "source": "pre_existing",
+      "original_cz": "Já prostě vím, že naše přátelství dokáže zastavit Zapomnění!"
+    }
+  ],
+  "DarkMountainsUpdate_Mickey/Mickey_MRQS130A_LightInTheDark_MRQS130A_LightInTheDark_Ongoing03.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "Oh! {PlayerName}! I finally remembered something about the book. We gotta talk quick!",
+      "cz": "Ach! {PlayerName}! Konečně jsem si na něco vzpomněl o té knize. Musíme si rychle promluvit!",
+      "source": "pre_existing",
+      "original_cz": "Ach! {PlayerName}! Konečně jsem si na něco vzpomněl o té knize. Musíme si rychle promluvit!"
+    }
+  ]
+}

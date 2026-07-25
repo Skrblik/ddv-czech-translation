@@ -1,0 +1,1796 @@
+{
+  "Oswald_Merlin/Merlin_MRQS_E01_150_Ruins_MRQS_E01_150_Ruins_BringItem01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "{PlayerName}! You've succeeded yet again.",
+      "cz": "{PlayerName}! Zase se ti to povedlo.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}! Zase se ti to povedlo."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "The magic of the Spark is all around us. Now we need only harness it.",
+      "cz": "Kouzlo Jiskry je všude kolem nás. Teď ho už jen musíme využít.",
+      "source": "pre_existing",
+      "original_cz": "Kouzlo Jiskry je všude kolem nás. Teď ho už jen musíme využít."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "<Lore>Follow me to the Ancient Ruins!</Lore> This will require all the power of your Hourglass.",
+      "cz": "<Lore>Následujte mě do starověkých ruin!</Lore> To bude vyžadovat veškerou sílu vašich přesýpacích hodin.",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Následujte mě do starověkých ruin!</Lore> To bude vyžadovat veškerou sílu vašich přesýpacích hodin."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "<Lore>Meet me on Eternity Isle!</Lore> I'll lead the way to the Ancient Ruins. We'll need all the magic in that Hourglass of yours.",
+      "cz": "<Lore>Sejdeme se na Ostrově Věčnosti!</Lore> Vedu tě k Starověkým ruinám. Budeme potřebovat všechnu magii z tvých Přesýpacích hodin.",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Sejdeme se na Ostrově Věčnosti!</Lore> Vedu tě k Starověkým ruinám. Budeme potřebovat všechnu magii z tvých Přesýpacích hodin."
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_150_Ruins_MRQS_E01_150_Ruins_Ongoing01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "AH-HA! {PlayerName}, I've made a breakthrough in my research.",
+      "cz": "AH-HA! {PlayerName}, ve svém výzkumu jsem dosáhl průlomu.",
+      "source": "pre_existing",
+      "original_cz": "AH-HA! {PlayerName}, ve svém výzkumu jsem dosáhl průlomu."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "We must meet in my Library. Get here as quickly as you can!",
+      "cz": "Musíme se sejít v mé knihovně. Přijďte sem co nejrychleji!",
+      "source": "pre_existing",
+      "original_cz": "Musíme se sejít v mé knihovně. Přijďte sem co nejrychleji!"
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_150_Ruins_MRQS_E01_150_Ruins_Ongoing02.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Use your Hourglass to find <ActivityItem>Flickers</ActivityItem> of the Spark's magic!",
+      "cz": "Použijte přesýpací hodiny k nalezení <ActivityItem>Záblesků</ActivityItem> Jiskrovy magie!",
+      "source": "pre_existing",
+      "original_cz": "Použijte přesýpací hodiny k nalezení <ActivityItem>Záblesků</ActivityItem> Jiskrovy magie!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'll try my best to figure out where they might be on my own...",
+      "cz": "Snažím se sám zjistit, kde by mohli být...",
+      "source": "pre_existing",
+      "original_cz": "Snažím se sám zjistit, kde by mohli být..."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Come on. You must have a theory. Gimme a hint?",
+      "cz": "No tak. Musíš mít nějakou teorii. Dej mi nějakou nápovědu?",
+      "source": "pre_existing",
+      "original_cz": "No tak. Musíš mít nějakou teorii. Dej mi nějakou nápovědu?"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "I suspect your theory will be as good as mine.",
+      "cz": "Myslím, že tvoje teorie bude stejně dobrá jako ta moje.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že tvoje teorie bude stejně dobrá jako ta moje."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "Hmm... Well, perhaps you could try <Lore>searching near the Wishing Well in the Plaza</Lore> in Dreamlight Valley and <Lore>the Wishing Well near the Docks</Lore> on Eternity Isle.",
+      "cz": "Hmm... No, možná bys mohl/a zkusit <Lore>hledat poblíž Studny přání na náměstí</Lore> v Údolí snů a <Lore>Studnu přání poblíž doků</Lore> na Ostrově věčnosti.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... No, možná bys mohl/a zkusit <Lore>hledat poblíž Studny přání na náměstí</Lore> v Údolí snů a <Lore>Studnu přání poblíž doků</Lore> na Ostrově věčnosti."
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_150_Ruins_MRQS_E01_150_Ruins_Ongoing04.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Have you found all the <ActivityItem>Flickers</ActivityItem> we need?",
+      "cz": "Našli jste všechny <ActivityItem>Flickery</ActivityItem>, které potřebujeme?",
+      "source": "pre_existing",
+      "original_cz": "Našli jste všechny <ActivityItem>Flickery</ActivityItem>, které potřebujeme?"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Then we must speak at once!",
+      "cz": "Pak musíme promluvit okamžitě!",
+      "source": "pre_existing",
+      "original_cz": "Pak musíme promluvit okamžitě!"
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_150_Ruins_MRQS_E01_150_Ruins_Ongoing05.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "We have everything we need for our enchantment. Now we must return to Eternity Isle.",
+      "cz": "Máme vše, co potřebujeme pro naše kouzlo. Teď se musíme vrátit na Ostrov Věčnosti.",
+      "source": "pre_existing",
+      "original_cz": "Máme vše, co potřebujeme pro naše kouzlo. Teď se musíme vrátit na Ostrov Věčnosti."
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_150_Ruins_MRQS_E01_150_Ruins_Ongoing06.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Follow me, my friend! To uncover the Spark of Imagination, we must turn back time itself!",
+      "cz": "Následuj mě, příteli! Abychom odhalili Jiskru představivosti, musíme vrátit čas!",
+      "source": "pre_existing",
+      "original_cz": "Následuj mě, příteli! Abychom odhalili Jiskru představivosti, musíme vrátit čas!"
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_150_Ruins_MRQS_E01_150_Ruins_Ongoing07.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Meet me inside the Ancient Ruins on Eternity Isle!",
+      "cz": "Sejdeme se ve Starověkých ruinách na Ostrově Věčnosti!",
+      "source": "pre_existing",
+      "original_cz": "Sejdeme se ve Starověkých ruinách na Ostrově Věčnosti!"
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_150_Ruins_MRQS_E01_150_Ruins_Ongoing09.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "We must find some way to open this door. Perhaps try <Lore>investigating the other chambers</Lore> on this level.",
+      "cz": "Musíme najít způsob, jak otevřít tyto dveře. Možná zkusíme <Lore>prozkoumat ostatní komnaty</Lore> na této úrovni.",
+      "source": "pre_existing",
+      "original_cz": "Musíme najít způsob, jak otevřít tyto dveře. Možná zkusíme <Lore>prozkoumat ostatní komnaty</Lore> na této úrovni."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "You got it. I'll <Lore>bring you a picture</Lore> of anything I find.",
+      "cz": "Máš pravdu. <Lore>Přinesu ti fotku</Lore> čehokoli, co najdu.",
+      "source": "pre_existing",
+      "original_cz": "Máš pravdu. <Lore>Přinesu ti fotku</Lore> čehokoli, co najdu."
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_150_Ruins_MRQS_E01_150_Ruins_Ongoing10.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "I'm afraid I need more time to look into this <ActivityItem>Spark of Imagination</ActivityItem> that Jafar's after.",
+      "cz": "Obávám se, že potřebuji více času na prozkoumání té <ActivityItem>Jiskry představivosti</ActivityItem>, po které Jafar touží.",
+      "source": "pre_existing",
+      "original_cz": "Obávám se, že potřebuji více času na prozkoumání té <ActivityItem>Jiskry představivosti</ActivityItem>, po které Jafar touží."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "I must consult my books. So, I'll... uh, I'll be in the Library.",
+      "cz": "Musím se podívat do svých knih. Takže... ehm, budu v knihovně.",
+      "source": "pre_existing",
+      "original_cz": "Musím se podívat do svých knih. Takže... ehm, budu v knihovně."
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_150_Ruins_MRQS_E01_150_Ruins_Outro.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "How curious... It seems the other chambers hold the key to opening the trap door.",
+      "cz": "To je zvláštní... Zdá se, že ostatní komnaty drží klíč k otevření padacích dveří.",
+      "source": "pre_existing",
+      "original_cz": "To je zvláštní... Zdá se, že ostatní komnaty drží klíč k otevření padacích dveří."
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "These must be tests! Tests of the precise qualities this ancient civilization valued.",
+      "cz": "Tohle musí být testy! Testy přesně těch vlastností, kterých si tato starověká civilizace cenila.",
+      "source": "pre_existing",
+      "original_cz": "Tohle musí být testy! Testy přesně těch vlastností, kterých si tato starověká civilizace cenila."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "The Ancient Console in the North Chamber?",
+      "cz": "Starověká konzole v severní komoře?",
+      "source": "pre_existing",
+      "original_cz": "Starověká konzole v severní komoře?"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "The raised platform in the West Chamber?",
+      "cz": "Vyvýšená plošina v Západní komoře?",
+      "source": "pre_existing",
+      "original_cz": "Vyvýšená plošina v Západní komoře?"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "The musical notes in the East Chamber?",
+      "cz": "Hudební noty ve Východní komoře?",
+      "source": "pre_existing",
+      "original_cz": "Hudební noty ve Východní komoře?"
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "It is some form of ancient technology. The ancient civilization valued technological innovation.",
+      "cz": "Je to nějaká forma starověké technologie. Starověká civilizace si cenila technologických inovací.",
+      "source": "pre_existing",
+      "original_cz": "Je to nějaká forma starověké technologie. Starověká civilizace si cenila technologických inovací."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "You'll have to find someone on Eternity Isle who can speak to this contraption. Someone well-versed in such things.",
+      "cz": "Budeš muset na Eternity Isle najít někoho, kdo s tímhle vynálezem dokáže mluvit. Někoho, kdo se v takových věcech vyzná.",
+      "source": "pre_existing",
+      "original_cz": "Budeš muset na Eternity Isle najít někoho, kdo s tímhle vynálezem dokáže mluvit. Někoho, kdo se v takových věcech vyzná."
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "EVE?",
+      "cz": "EVA?",
+      "source": "pre_existing",
+      "original_cz": "EVA?"
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "WALL·E?",
+      "cz": "WALL·E?",
+      "source": "pre_existing",
+      "original_cz": "WALL·E?"
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "Goofy?",
+      "cz": "Blbost?",
+      "source": "pre_existing",
+      "original_cz": "Blbost?"
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "Yes, EVE would be perfect! She spent ages on Eternity Isle, surrounded by all this ancient technology.",
+      "cz": "Ano, EVE by byla perfektní! Strávila věky na Eternity Isle, obklopená vší tou starověkou technologií.",
+      "source": "pre_existing",
+      "original_cz": "Ano, EVE by byla perfektní! Strávila věky na Eternity Isle, obklopená vší tou starověkou technologií."
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "Got it. I'll ask EVE for help.",
+      "cz": "Rozumím. Požádám EVE o pomoc.",
+      "source": "pre_existing",
+      "original_cz": "Rozumím. Požádám EVE o pomoc."
+    },
+    {
+      "key": "Merlin_031_f",
+      "en": "There you have it! The ancient civilization must have prized <Lore>strength and heroism, technological know-how and innovation, and creativity and music</Lore>.",
+      "cz": "A to je ono! Starověká civilizace si musela cenit <Lore>síly a hrdinství, technologického know-how a inovací a kreativity a hudby</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "A to je ono! Starověká civilizace si musela cenit <Lore>síly a hrdinství, technologického know-how a inovací a kreativity a hudby</Lore>."
+    },
+    {
+      "key": "Merlin_033_f",
+      "en": "But no one person could have embodied all those talents. So perhaps what they valued most of all was...",
+      "cz": "Ale nikdo by nemohl ztělesnit všechny tyto talenty. Takže si možná nejvíce cenili...",
+      "source": "pre_existing",
+      "original_cz": "Ale nikdo by nemohl ztělesnit všechny tyto talenty. Takže si možná nejvíce cenili..."
+    },
+    {
+      "key": "Merlin_034_f",
+      "en": "...friendship and collaboration! Which means, no individual can reach the Spark of Imagination on their own.",
+      "cz": "...přátelství a spolupráce! Což znamená, že žádný jednotlivec nemůže dosáhnout Jiskry představivosti sám.",
+      "source": "pre_existing",
+      "original_cz": "...přátelství a spolupráce! Což znamená, že žádný jednotlivec nemůže dosáhnout Jiskry představivosti sám."
+    },
+    {
+      "key": "Merlin_032_f",
+      "en": "But with the help of <Lore>Gaston, EVE, and Rapunzel</Lore>, I'm sure you'll get there.",
+      "cz": "Ale s pomocí <Lore>Gastona, EVE a Lociky</Lore> se tam určitě dostanete.",
+      "source": "pre_existing",
+      "original_cz": "Ale s pomocí <Lore>Gastona, EVE a Lociky</Lore> se tam určitě dostanete."
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "WALL·E... Hmm, not a bad suggestion. But someone like EVE might be even more helpful.",
+      "cz": "WALL·E... Hmm, to není špatný návrh. Ale někdo jako EVE by mohl být ještě užitečnější.",
+      "source": "pre_existing",
+      "original_cz": "WALL·E... Hmm, to není špatný návrh. Ale někdo jako EVE by mohl být ještě užitečnější."
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "She spent ages on Eternity Isle, surrounded by all this ancient technology.",
+      "cz": "Strávila věky na Ostrově Věčnosti, obklopená veškerou tou starobylou technologií.",
+      "source": "pre_existing",
+      "original_cz": "Strávila věky na Ostrově Věčnosti, obklopená veškerou tou starobylou technologií."
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "Goofy?! Oh, no, no, no! Why, even a fishing rod can become a major malfunction in his hands!",
+      "cz": "Blbý?! Ale ne, ne, ne! Vždyť i rybářský prut se v jeho rukou může stát pořádnou závadou!",
+      "source": "pre_existing",
+      "original_cz": "Blbý?! Ale ne, ne, ne! Vždyť i rybářský prut se v jeho rukou může stát pořádnou závadou!"
+    },
+    {
+      "key": "Merlin_012_f",
+      "en": "Someone like EVE would be much more helpful.",
+      "cz": "Někdo jako EVE by byl mnohem užitečnější.",
+      "source": "pre_existing",
+      "original_cz": "Někdo jako EVE by byl mnohem užitečnější."
+    },
+    {
+      "key": "Merlin_013_f",
+      "en": "Why, it looks like some sort of podium. I suspect a statue of a pair of great heroes once stood here, but it's long crumbled away.",
+      "cz": "Vypadá to jako nějaké pódium. Mám podezření, že tu kdysi stála socha dvou velkých hrdinů, ale ta se už dávno rozpadla.",
+      "source": "pre_existing",
+      "original_cz": "Vypadá to jako nějaké pódium. Mám podezření, že tu kdysi stála socha dvou velkých hrdinů, ale ta se už dávno rozpadla."
+    },
+    {
+      "key": "Merlin_025_f",
+      "en": "You must find someone quite hefty to stand on it and trigger it. Someone who can strike a heroic pose.",
+      "cz": "Musíš najít někoho pořádně statného, ​​kdo se na něj postaví a spustí ho. Někoho, kdo dokáže zaujmout hrdinskou pózu.",
+      "source": "pre_existing",
+      "original_cz": "Musíš najít někoho pořádně statného, ​​kdo se na něj postaví a spustí ho. Někoho, kdo dokáže zaujmout hrdinskou pózu."
+    },
+    {
+      "key": "Merlin_014_f",
+      "en": "Evidently, this ancient civilization prized strength and heroism. We'll require someone like that.",
+      "cz": "Je zřejmé, že tato starověká civilizace cenila síly a hrdinství. Budeme někoho takového potřebovat.",
+      "source": "pre_existing",
+      "original_cz": "Je zřejmé, že tato starověká civilizace cenila síly a hrdinství. Budeme někoho takového potřebovat."
+    },
+    {
+      "key": "Player_004_choice_000_f",
+      "en": "Maui?",
+      "cz": "Maui?",
+      "source": "pre_existing",
+      "original_cz": "Maui?"
+    },
+    {
+      "key": "Player_004_choice_001_f",
+      "en": "Gaston?",
+      "cz": "Gastone?",
+      "source": "pre_existing",
+      "original_cz": "Gastone?"
+    },
+    {
+      "key": "Player_004_choice_002_f",
+      "en": "Me, of course!",
+      "cz": "Já, samozřejmě!",
+      "source": "pre_existing",
+      "original_cz": "Já, samozřejmě!"
+    },
+    {
+      "key": "Merlin_015_f",
+      "en": "The idea has merit, but I daresay Maui might be a bit TOO much for this platform. The ancient civilization could not have depended on succeeding generations having a demigod in their midst.",
+      "cz": "Ta myšlenka má své opodstatnění, ale troufám si říct, že Maui by pro tuto platformu mohlo být trochu PŘÍLIŠ. Starověká civilizace se nemohla spoléhat na to, že další generace budou mít mezi sebou poloboha.",
+      "source": "pre_existing",
+      "original_cz": "Ta myšlenka má své opodstatnění, ale troufám si říct, že Maui by pro tuto platformu mohlo být trochu PŘÍLIŠ. Starověká civilizace se nemohla spoléhat na to, že další generace budou mít mezi sebou poloboha."
+    },
+    {
+      "key": "Merlin_017_f",
+      "en": "Gaston, though... he would do quite nicely.",
+      "cz": "Gastone, ale... ten by se docela dobře hodil.",
+      "source": "pre_existing",
+      "original_cz": "Gastone, ale... ten by se docela dobře hodil."
+    },
+    {
+      "key": "Merlin_022_f",
+      "en": "Great. I'll talk to Gaston about how to trigger that one.",
+      "cz": "Skvělé. Promluvím si s Gastonem o tom, jak to spustit.",
+      "source": "pre_existing",
+      "original_cz": "Skvělé. Promluvím si s Gastonem o tom, jak to spustit."
+    },
+    {
+      "key": "Merlin_016_f",
+      "en": "Brilliant! Gaston should work nicely.",
+      "cz": "Skvělé! Gaston by měl fungovat dobře.",
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Gaston by měl fungovat dobře."
+    },
+    {
+      "key": "Merlin_018_f",
+      "en": "Well, you ARE quite heroic, {PlayerName}, but I'm not sure you'll do the trick this time.",
+      "cz": "No, jsi docela hrdinský, {PlayerName}, ale nejsem si jistý, jestli to tentokrát zvládneš.",
+      "source": "pre_existing",
+      "original_cz": "No, jsi docela hrdinský, {PlayerName}, ale nejsem si jistý, jestli to tentokrát zvládneš."
+    },
+    {
+      "key": "Merlin_019_f",
+      "en": "We need someone with a thicker neck... and perhaps a stomach full of eggs...",
+      "cz": "Potřebujeme někoho s tlustším krkem... a možná i s břichem plným vajec...",
+      "source": "pre_existing",
+      "original_cz": "Potřebujeme někoho s tlustším krkem... a možná i s břichem plným vajec..."
+    },
+    {
+      "key": "Merlin_020_f",
+      "en": "... Gaston?",
+      "cz": "... Gastone?",
+      "source": "pre_existing",
+      "original_cz": "... Gastone?"
+    },
+    {
+      "key": "Merlin_021_f",
+      "en": "Yes! Gaston would do quite nicely.",
+      "cz": "Ano! Gaston by byl docela dobrý.",
+      "source": "pre_existing",
+      "original_cz": "Ano! Gaston by byl docela dobrý."
+    },
+    {
+      "key": "Merlin_023_f",
+      "en": "Hmm... It seems the ancient civilization prized creativity, and specifically music as one of the purest creative forms.",
+      "cz": "Hmm... Zdá se, že starověká civilizace si cenila kreativity, a konkrétně hudby jako jedné z nejčistších forem kreativity.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... Zdá se, že starověká civilizace si cenila kreativity, a konkrétně hudby jako jedné z nejčistších forem kreativity."
+    },
+    {
+      "key": "Merlin_024_f",
+      "en": "You'll have to find someone with a bit of musical know-how to unlock that one.",
+      "cz": "Budeš muset najít někoho s trochou hudebního know-how, abys to odemkl.",
+      "source": "pre_existing",
+      "original_cz": "Budeš muset najít někoho s trochou hudebního know-how, abys to odemkl."
+    },
+    {
+      "key": "Player_005_choice_000_f",
+      "en": "Scrooge McDuck?",
+      "cz": "Scrooge McDuck?",
+      "source": "pre_existing",
+      "original_cz": "Scrooge McDuck?"
+    },
+    {
+      "key": "Player_005_choice_001_f",
+      "en": "Remy?",
+      "cz": "Remy?",
+      "source": "pre_existing",
+      "original_cz": "Remy?"
+    },
+    {
+      "key": "Player_005_choice_002_f",
+      "en": "Rapunzel?",
+      "cz": "Locika?",
+      "source": "pre_existing",
+      "original_cz": "Locika?"
+    },
+    {
+      "key": "Merlin_026_f",
+      "en": "I've heard Scrooge croon some fine Scottish folk tunes, but in this case, well... er... I'm not sure he's quite the fellow for the task.",
+      "cz": "Slyšel jsem Scrooge zpívat si pár krásných skotských lidových melodií, ale v tomto případě, no... ehm... nejsem si jistý, jestli je pro tento úkol úplně ten pravý.",
+      "source": "pre_existing",
+      "original_cz": "Slyšel jsem Scrooge zpívat si pár krásných skotských lidových melodií, ale v tomto případě, no... ehm... nejsem si jistý, jestli je pro tento úkol úplně ten pravý."
+    },
+    {
+      "key": "Merlin_029_f",
+      "en": "Perhaps you could ask Rapunzel? She's a fine singer and also a lovely guitar player.",
+      "cz": "Možná byste se mohli zeptat Lociky? Je to skvělá zpěvačka a také krásná kytaristka.",
+      "source": "pre_existing",
+      "original_cz": "Možná byste se mohli zeptat Lociky? Je to skvělá zpěvačka a také krásná kytaristka."
+    },
+    {
+      "key": "Merlin_030_f",
+      "en": "Great. I'll go talk to Rapunzel.",
+      "cz": "Skvělé. Půjdu si promluvit s Locikou.",
+      "source": "pre_existing",
+      "original_cz": "Skvělé. Půjdu si promluvit s Locikou."
+    },
+    {
+      "key": "Merlin_027_f",
+      "en": "Remy is an excellent cook, but I think we're in need of someone who can sing and play an instrument.",
+      "cz": "Remy je vynikající kuchař, ale myslím, že potřebujeme někoho, kdo umí zpívat a hrát na nějaký nástroj.",
+      "source": "pre_existing",
+      "original_cz": "Remy je vynikající kuchař, ale myslím, že potřebujeme někoho, kdo umí zpívat a hrát na nějaký nástroj."
+    },
+    {
+      "key": "Merlin_028_f",
+      "en": "A most astute suggestion. She's a fine singer and instrumentalist!",
+      "cz": "Velmi chytrý návrh. Je to skvělá zpěvačka a instrumentalistka!",
+      "source": "pre_existing",
+      "original_cz": "Velmi chytrý návrh. Je to skvělá zpěvačka a instrumentalistka!"
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_150_Ruins_MRQS_E01_150_Ruins_TalkTo01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Hmmm... I know I put it here somewhere... Oh, blast it all!",
+      "cz": "Hmmm... Vím, že jsem to sem někde dal... Ach, sakra!",
+      "source": "pre_existing",
+      "original_cz": "Hmmm... Vím, že jsem to sem někde dal... Ach, sakra!"
+    },
+    {
+      "key": "Merlin_029_f",
+      "en": "What was it called again? Splinter of Inspiration...? Shard of Creativity...?",
+      "cz": "Jak se to vlastně jmenovalo? Tříska inspirace...? Úlomek kreativity...?",
+      "source": "pre_existing",
+      "original_cz": "Jak se to vlastně jmenovalo? Tříska inspirace...? Úlomek kreativity...?"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Spark of Imagination!",
+      "cz": "Jiskra představivosti!",
+      "source": "pre_existing",
+      "original_cz": "Jiskra představivosti!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Hello? Earth to Merlin?",
+      "cz": "Haló? Země volá Merlinovi?",
+      "source": "pre_existing",
+      "original_cz": "Haló? Země volá Merlinovi?"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Yes! Yes! That's it! <Lore>The Spark of Imagination!</Lore>",
+      "cz": "Ano! Ano! To je ono! <Lore>Jiskra představivosti!</Lore>",
+      "source": "pre_existing",
+      "original_cz": "Ano! Ano! To je ono! <Lore>Jiskra představivosti!</Lore>"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "I've uncovered some notes about the <Lore>ancient civilization</Lore> that once lived in Dreamlight Valley.",
+      "cz": "Objevil jsem nějaké poznámky o <Lore>starodávné civilizaci</Lore>, která kdysi žila v Údolí snů.",
+      "source": "pre_existing",
+      "original_cz": "Objevil jsem nějaké poznámky o <Lore>starodávné civilizaci</Lore>, která kdysi žila v Údolí snů."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "It seems they created this \"Spark of Imagination\" to give them the ability to bend Dreamlight Valley to their whim.",
+      "cz": "Zdá se, že stvořili tuto „Jiskru představivosti“, aby si mohli přizpůsobit Údolí snů svému rozmaru.",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že stvořili tuto „Jiskru představivosti“, aby si mohli přizpůsobit Údolí snů svému rozmaru."
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "Its power is what holds this entire Valley together! You see, it's the source of all Dreamlight. So, we must find it before Jafar does.",
+      "cz": "Jeho síla drží celé toto Údolí pohromadě! Víte, je to zdroj veškerého Světla Snů. Takže ho musíme najít dříve, než to udělá Jafar.",
+      "source": "pre_existing",
+      "original_cz": "Jeho síla drží celé toto Údolí pohromadě! Víte, je to zdroj veškerého Světla Snů. Takže ho musíme najít dříve, než to udělá Jafar."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "So Dreamlight Valley is more than just my dream?",
+      "cz": "Takže Údolí snů je víc než jen můj sen?",
+      "source": "pre_existing",
+      "original_cz": "Takže Údolí snů je víc než jen můj sen?"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "What sorts of things could this Spark do?",
+      "cz": "Co by tato jiskra mohla dělat?",
+      "source": "pre_existing",
+      "original_cz": "Co by tato jiskra mohla dělat?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "How do we find the Spark?",
+      "cz": "Jak najdeme Jiskru?",
+      "source": "pre_existing",
+      "original_cz": "Jak najdeme Jiskru?"
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "Well yes, yes, it is a dream. After all, you got here by falling asleep, didn't you?",
+      "cz": "No ano, ano, je to sen. Koneckonců, dostal ses sem tak, že jsi usnul, že?",
+      "source": "pre_existing",
+      "original_cz": "No ano, ano, je to sen. Koneckonců, dostal ses sem tak, že jsi usnul, že?"
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "But remember: Just because it's a dream doesn't mean it isn't real.",
+      "cz": "Ale pamatujte: Jen proto, že je to sen, neznamená, že to není skutečné.",
+      "source": "pre_existing",
+      "original_cz": "Ale pamatujte: Jen proto, že je to sen, neznamená, že to není skutečné."
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Got it.",
+      "cz": "Rozumím.",
+      "source": "pre_existing",
+      "original_cz": "Rozumím."
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Seems confusing, but I think I'm getting it.",
+      "cz": "Zdá se to matoucí, ale myslím, že tomu rozumím.",
+      "source": "pre_existing",
+      "original_cz": "Zdá se to matoucí, ale myslím, že tomu rozumím."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "I shouldn't have asked...",
+      "cz": "Neměl jsem se ptát...",
+      "source": "pre_existing",
+      "original_cz": "Neměl jsem se ptát..."
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "I knew you would.",
+      "cz": "Věděl jsem, že to uděláš.",
+      "source": "pre_existing",
+      "original_cz": "Věděl jsem, že to uděláš."
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "Then you're right on time. Confusion is the first step towards enlightenment, you know.",
+      "cz": "Pak jsi přišel přesně včas. Zmatek je prvním krokem k osvícení, víš?",
+      "source": "pre_existing",
+      "original_cz": "Pak jsi přišel přesně včas. Zmatek je prvním krokem k osvícení, víš?"
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "Never be sorry for asking. Questioning is the only way we get to the truth!",
+      "cz": "Nikdy nelituj, že se ptáš. Ptát se je jediný způsob, jak se dostat k pravdě!",
+      "source": "pre_existing",
+      "original_cz": "Nikdy nelituj, že se ptáš. Ptát se je jediný způsob, jak se dostat k pravdě!"
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "Oh, I fear if someone truly knew how to wield it, its power would be unstoppable.",
+      "cz": "Obávám se, že kdyby někdo skutečně věděl, jak s ním zacházet, jeho síla by byla nezastavitelná.",
+      "source": "pre_existing",
+      "original_cz": "Obávám se, že kdyby někdo skutečně věděl, jak s ním zacházet, jeho síla by byla nezastavitelná."
+    },
+    {
+      "key": "Merlin_012_f",
+      "en": "Why, it could be as powerful as a genie's wish. With just a snap of his fingers, Jafar could change all of Dreamlight Valley to his liking.",
+      "cz": "Vždyť by to mohlo být stejně mocné jako přání džina. Pouhým lusknutím prstů by Jafar mohl změnit celé Údolí snů podle svých představ.",
+      "source": "pre_existing",
+      "original_cz": "Vždyť by to mohlo být stejně mocné jako přání džina. Pouhým lusknutím prstů by Jafar mohl změnit celé Údolí snů podle svých představ."
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "I'm not gonna let that happen.",
+      "cz": "To nedopustím.",
+      "source": "pre_existing",
+      "original_cz": "To nedopustím."
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "He'd probably put statues of himself everywhere...",
+      "cz": "Pravděpodobně by si všude postavil své sochy...",
+      "source": "pre_existing",
+      "original_cz": "Pravděpodobně by si všude postavil své sochy..."
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "This Spark sounds pretty useful.",
+      "cz": "Tenhle Spark zní docela užitečně.",
+      "source": "pre_existing",
+      "original_cz": "Tenhle Spark zní docela užitečně."
+    },
+    {
+      "key": "Merlin_013_f",
+      "en": "As long as we work together to stop him, it most certainly will not.",
+      "cz": "Dokud budeme spolupracovat na jeho zastavení, tak se to rozhodně nepodaří.",
+      "source": "pre_existing",
+      "original_cz": "Dokud budeme spolupracovat na jeho zastavení, tak se to rozhodně nepodaří."
+    },
+    {
+      "key": "Merlin_014_f",
+      "en": "That would be a tragedy after all the marvelous work you've done here. But I fear statuary is the least of the harm he could cause.",
+      "cz": "To by byla tragédie po vší té úžasné práci, kterou jste tady odvedl. Ale obávám se, že sochařství je to nejmenší z toho, co by mohl způsobit.",
+      "source": "pre_existing",
+      "original_cz": "To by byla tragédie po vší té úžasné práci, kterou jste tady odvedl. Ale obávám se, že sochařství je to nejmenší z toho, co by mohl způsobit."
+    },
+    {
+      "key": "Merlin_015_f",
+      "en": "Don't be tempted, {PlayerName}. If we find it, we must keep it safe, study it, and absolutely nothing more! It's far too dangerous.",
+      "cz": "Nepodléhej pokušení, {PlayerName}. Pokud to najdeme, musíme to uschovat, prostudovat a absolutně nic víc! Je to až příliš nebezpečné.",
+      "source": "pre_existing",
+      "original_cz": "Nepodléhej pokušení, {PlayerName}. Pokud to najdeme, musíme to uschovat, prostudovat a absolutně nic víc! Je to až příliš nebezpečné."
+    },
+    {
+      "key": "Merlin_016_f",
+      "en": "My research shows that the Spark was once kept somewhere quite special...",
+      "cz": "Můj výzkum ukazuje, že Jiskra byla kdysi uložena na docela zvláštním místě...",
+      "source": "pre_existing",
+      "original_cz": "Můj výzkum ukazuje, že Jiskra byla kdysi uložena na docela zvláštním místě..."
+    },
+    {
+      "key": "Merlin_017_f",
+      "en": "An <Lore>Ancient Temple</Lore> near Ancient's Landing. However, I'm afraid there's... Well, there's a problem.",
+      "cz": "<Lore>Starověký chrám</Lore> poblíž Ancient's Landing. Obávám se však, že je tu... No, je tu problém.",
+      "source": "pre_existing",
+      "original_cz": "<Lore>Starověký chrám</Lore> poblíž Ancient's Landing. Obávám se však, že je tu... No, je tu problém."
+    },
+    {
+      "key": "Merlin_018_f",
+      "en": "The door to the temple was worn away by time, and the entire temple has sunk into the water. Currently, there's no way inside.",
+      "cz": "Dveře do chrámu byly časem opotřebované a celý chrám se ponořil do vody. V současné době se dovnitř nevede dostat.",
+      "source": "pre_existing",
+      "original_cz": "Dveře do chrámu byly časem opotřebované a celý chrám se ponořil do vody. V současné době se dovnitř nevede dostat."
+    },
+    {
+      "key": "Player_004_choice_000_f",
+      "en": "I know exactly the place you mean! The sunken door, between the two waterfalls?",
+      "cz": "Přesně vím, o kterém místě mluvíš! Ty propadlé dveře mezi dvěma vodopády?",
+      "source": "pre_existing",
+      "original_cz": "Přesně vím, o kterém místě mluvíš! Ty propadlé dveře mezi dvěma vodopády?"
+    },
+    {
+      "key": "Player_004_choice_001_f",
+      "en": "Guess it's lost forever then.",
+      "cz": "Takže je to asi navždy ztraceno.",
+      "source": "pre_existing",
+      "original_cz": "Takže je to asi navždy ztraceno."
+    },
+    {
+      "key": "Player_004_choice_002_f",
+      "en": "Well... if we can't get it, Jafar can't either, right?",
+      "cz": "No... když to nedostaneme my, tak ani Jafar, že?",
+      "source": "pre_existing",
+      "original_cz": "No... když to nedostaneme my, tak ani Jafar, že?"
+    },
+    {
+      "key": "Merlin_019_f",
+      "en": "Yes! Yes! That's it!",
+      "cz": "Ano! Ano! To je ono!",
+      "source": "pre_existing",
+      "original_cz": "Ano! Ano! To je ono!"
+    },
+    {
+      "key": "Player_005_choice_000_f",
+      "en": "I'll try my best to figure out where that might be on my own...",
+      "cz": "Zkusím co nejlépe zjistit, kde by to mohlo být sám...",
+      "source": "pre_existing",
+      "original_cz": "Zkusím co nejlépe zjistit, kde by to mohlo být sám..."
+    },
+    {
+      "key": "Player_005_choice_001_f",
+      "en": "Come on. You must have a theory. Gimme a hint?",
+      "cz": "No tak. Musíš mít nějakou teorii. Dej mi nějakou nápovědu?",
+      "source": "pre_existing",
+      "original_cz": "No tak. Musíš mít nějakou teorii. Dej mi nějakou nápovědu?"
+    },
+    {
+      "key": "Merlin_020_f",
+      "en": "And I know precisely how we can get to the Spark... By <Lore>harnessing the magic of your Hourglass to turn back time</Lore>!",
+      "cz": "A já přesně vím, jak se k Jiskrě dostaneme... <Lore>využitím magie přesýpacích hodin k návratu času</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "A já přesně vím, jak se k Jiskrě dostaneme... <Lore>využitím magie přesýpacích hodin k návratu času</Lore>!"
+    },
+    {
+      "key": "Merlin_021_f",
+      "en": "Tiny <Lore>Flickers</Lore> of the Spark's magic are scattered throughout <Lore>the Valley, Eternity Isle, and the Realms</Lore>.",
+      "cz": "Drobné <Lore>Záblesky</Lore> Jiskriny magie jsou rozptýleny po <Lore>Údolí, na Ostrově Věčnosti a v Říších</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Drobné <Lore>Záblesky</Lore> Jiskriny magie jsou rozptýleny po <Lore>Údolí, na Ostrově Věčnosti a v Říších</Lore>."
+    },
+    {
+      "key": "Merlin_034_f",
+      "en": "Here. I found this one in the course of my research.",
+      "cz": "Zde. Na tohle jsem narazil během svého výzkumu.",
+      "source": "pre_existing",
+      "original_cz": "Zde. Na tohle jsem narazil během svého výzkumu."
+    },
+    {
+      "key": "Merlin_022_f",
+      "en": "You must <Lore>venture into the Realms</Lore> and use your Hourglass to uncover more of them.",
+      "cz": "Musíš se <Lore>vydat do Říší</Lore> a použít přesýpací hodiny, abys jich objevil/a více.",
+      "source": "pre_existing",
+      "original_cz": "Musíš se <Lore>vydat do Říší</Lore> a použít přesýpací hodiny, abys jich objevil/a více."
+    },
+    {
+      "key": "Merlin_023_f",
+      "en": "Then <Lore>use your Hourglass around Eternity Isle and Dreamlight Valley</Lore> to uncover additional <Lore>Flickers</Lore>.",
+      "cz": "Pak <Lore>použijte své přesýpací hodiny kolem Eternity Isle a Dreamlight Valley</Lore> k odhalení dalších <Lore>Flickers</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Pak <Lore>použijte své přesýpací hodiny kolem Eternity Isle a Dreamlight Valley</Lore> k odhalení dalších <Lore>Flickers</Lore>."
+    },
+    {
+      "key": "Merlin_030_f",
+      "en": "The Valley and the Isle are big places. Where should I look?",
+      "cz": "Údolí a ostrov jsou velká místa. Kam se mám dívat?",
+      "source": "pre_existing",
+      "original_cz": "Údolí a ostrov jsou velká místa. Kam se mám dívat?"
+    },
+    {
+      "key": "Merlin_031_f",
+      "en": "I suspect you'll find them <Lore>where Villagers first arrive</Lore> from the Realms.",
+      "cz": "Myslím, že je najdete <Lore>tam, kam vesničané poprvé dorazí</Lore> z Říší.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že je najdete <Lore>tam, kam vesničané poprvé dorazí</Lore> z Říší."
+    },
+    {
+      "key": "Merlin_032_f",
+      "en": "I suspect your theory will be as good as mine.",
+      "cz": "Myslím, že tvoje teorie bude stejně dobrá jako ta moje.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že tvoje teorie bude stejně dobrá jako ta moje."
+    },
+    {
+      "key": "Merlin_024_f",
+      "en": "Once you're finished, your Hourglass should be able to channel the magic of the Spark and <Lore>restore the doorway to the sunken temple</Lore>.",
+      "cz": "Jakmile skončíte, vaše Přesýpací hodiny by měly být schopny nasměrovat magii Jiskry a <Lore>obnovit dveře do potopeného chrámu</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Jakmile skončíte, vaše Přesýpací hodiny by měly být schopny nasměrovat magii Jiskry a <Lore>obnovit dveře do potopeného chrámu</Lore>."
+    },
+    {
+      "key": "Merlin_033_f",
+      "en": "Hmm... Well, perhaps you could try <Lore>searching near the Wishing Well in the Plaza</Lore> in Dreamlight Valley and <Lore>the Wishing Well near the Docks</Lore> on Eternity Isle.",
+      "cz": "Hmm... No, možná bys mohl zkusit <Lore>hledat poblíž Studny přání na náměstí</Lore> v Údolí snů a <Lore>Studnu přání poblíž doků</Lore> na Ostrově věčnosti.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... No, možná bys mohl zkusit <Lore>hledat poblíž Studny přání na náměstí</Lore> v Údolí snů a <Lore>Studnu přání poblíž doků</Lore> na Ostrově věčnosti."
+    },
+    {
+      "key": "Merlin_025_f",
+      "en": "Now then, haven't you learned by now that in Dreamlight Valley, nothing is lost forever?",
+      "cz": "Tak co, už jsi nenaučil, že v Údolí snů není nic navždy ztraceno?",
+      "source": "pre_existing",
+      "original_cz": "Tak co, už jsi nenaučil, že v Údolí snů není nic navždy ztraceno?"
+    },
+    {
+      "key": "Merlin_026_f",
+      "en": "I wouldn't count on that.",
+      "cz": "Na to bych nespoléhal.",
+      "source": "pre_existing",
+      "original_cz": "Na to bych nespoléhal."
+    },
+    {
+      "key": "Merlin_027_f",
+      "en": "Jafar can be quite ingenious when it comes to getting what he wants.",
+      "cz": "Džafar dokáže být docela vynalézavý, pokud jde o získání toho, co chce.",
+      "source": "pre_existing",
+      "original_cz": "Džafar dokáže být docela vynalézavý, pokud jde o získání toho, co chce."
+    },
+    {
+      "key": "Merlin_028_f",
+      "en": "Spark of Imagination! Yes, that's it... Oh, {PlayerName}! I was so absorbed in my research that I scarcely saw you there.",
+      "cz": "Jiskra představivosti! Ano, přesně tak... Ach, {PlayerName}! Byl jsem tak pohlcen svým výzkumem, že jsem tě tam sotva zahlédl.",
+      "source": "pre_existing",
+      "original_cz": "Jiskra představivosti! Ano, přesně tak... Ach, {PlayerName}! Byl jsem tak pohlcen svým výzkumem, že jsem tě tam sotva zahlédl."
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_150_Ruins_MRQS_E01_150_Ruins_TalkToDialog01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "This is it, {PlayerName}. Do you see that door?",
+      "cz": "Tohle je ono, {PlayerName}. Vidíš ty dveře?",
+      "source": "pre_existing",
+      "original_cz": "Tohle je ono, {PlayerName}. Vidíš ty dveře?"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Through there, you'll find the answers we seek.",
+      "cz": "Tam najdete odpovědi, které hledáme.",
+      "source": "pre_existing",
+      "original_cz": "Tam najdete odpovědi, které hledáme."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's make with the magic!",
+      "cz": "Pojďme to tvořit s magií!",
+      "source": "pre_existing",
+      "original_cz": "Pojďme to tvořit s magií!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "This spell isn't dangerous, is it?",
+      "cz": "Tohle kouzlo není nebezpečné, že ne?",
+      "source": "pre_existing",
+      "original_cz": "Tohle kouzlo není nebezpečné, že ne?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "If only I could swim like a mermaid...",
+      "cz": "Kdybych tak uměla plavat jako mořská panna...",
+      "source": "pre_existing",
+      "original_cz": "Kdybych tak uměla plavat jako mořská panna..."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "I... Well, I couldn't have said it better myself.",
+      "cz": "Já... No, sám bych to lépe neřekl.",
+      "source": "pre_existing",
+      "original_cz": "Já... No, sám bych to lépe neřekl."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Focus the magic of your Hourglass on the doorway...",
+      "cz": "Zaměřte kouzlo svých přesýpacích hodin na dveře...",
+      "source": "pre_existing",
+      "original_cz": "Zaměřte kouzlo svých přesýpacích hodin na dveře..."
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "It worked! And the fabric of reality didn't unravel as I feared it might.",
+      "cz": "Fungovalo to! A struktura reality se nerozpadla, jak jsem se obával.",
+      "source": "pre_existing",
+      "original_cz": "Fungovalo to! A struktura reality se nerozpadla, jak jsem se obával."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Whoa! That place looks huge!",
+      "cz": "Páni! To místo vypadá obrovské!",
+      "source": "pre_existing",
+      "original_cz": "Páni! To místo vypadá obrovské!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Guess it's time to delve into some ancient ruins!",
+      "cz": "Asi je čas ponořit se do starověkých ruin!",
+      "source": "pre_existing",
+      "original_cz": "Asi je čas ponořit se do starověkých ruin!"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Excuse me?! Unravel the fabric of what now?!",
+      "cz": "Promiňte?! Čeho teď rozplést?!",
+      "source": "pre_existing",
+      "original_cz": "Promiňte?! Čeho teď rozplést?!"
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "It seems our ancient friends did everything in their power to keep the Spark safe.",
+      "cz": "Zdá se, že naši dávní přátelé udělali vše, co bylo v jejich silách, aby Jiskru udrželi v bezpečí.",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že naši dávní přátelé udělali vše, co bylo v jejich silách, aby Jiskru udrželi v bezpečí."
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "Now then, the Spark of Imagination lies deep within the temple. And I'm sure there will be some vexing mysteries inside. These sorts of ancient ruins are always full of such conundrums.",
+      "cz": "Hluboko v chrámu se ukrývá Jiskra představivosti. A jsem si jistý, že uvnitř se skrývá několik znepokojivých záhad. Tyto starobylé ruiny jsou vždycky plné takových hádanek.",
+      "source": "pre_existing",
+      "original_cz": "Hluboko v chrámu se ukrývá Jiskra představivosti. A jsem si jistý, že uvnitř se skrývá několik znepokojivých záhad. Tyto starobylé ruiny jsou vždycky plné takových hádanek."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "We must <Lore>press on through the doorway to discover what's inside</Lore>.",
+      "cz": "Musíme <Lore>protlačit se dveřmi, abychom objevili, co je uvnitř</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Musíme <Lore>protlačit se dveřmi, abychom objevili, co je uvnitř</Lore>."
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "There's nothing as exciting as uncovering the past. Quite literally, in this case!",
+      "cz": "Není nic tak vzrušujícího jako odhalování minulosti. V tomto případě doslova!",
+      "source": "pre_existing",
+      "original_cz": "Není nic tak vzrušujícího jako odhalování minulosti. V tomto případě doslova!"
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "Oh, never mind that. The odds of a total collapse of the universe were infinitesimal, {PlayerName}.",
+      "cz": "Na tom nezáleží. Šance úplného kolapsu vesmíru byla nekonečně malá, {PlayerName}.",
+      "source": "pre_existing",
+      "original_cz": "Na tom nezáleží. Šance úplného kolapsu vesmíru byla nekonečně malá, {PlayerName}."
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "Well, er... meddling with time always has its dangers. But as far as these sorts of things go, the spell ought to be quite safe.",
+      "cz": "No, ehm... zasahování do času má vždycky svá nebezpečí. Ale co se týče těchto věcí, kouzlo by mělo být docela bezpečné.",
+      "source": "pre_existing",
+      "original_cz": "No, ehm... zasahování do času má vždycky svá nebezpečí. Ale co se týče těchto věcí, kouzlo by mělo být docela bezpečné."
+    },
+    {
+      "key": "Merlin_012_f",
+      "en": "Perhaps someday, {PlayerName}. But for now, we'll just have to rely on magic.",
+      "cz": "Možná jednou, {PlayerName}. Ale prozatím se budeme muset spolehnout na magii.",
+      "source": "pre_existing",
+      "original_cz": "Možná jednou, {PlayerName}. Ale prozatím se budeme muset spolehnout na magii."
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_150_Ruins_MRQS_E01_150_Ruins_TalkToDialog02.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "How curious... Do you see this, {PlayerName}?",
+      "cz": "To je zvláštní... Vidíš to, {PlayerName}?",
+      "source": "pre_existing",
+      "original_cz": "To je zvláštní... Vidíš to, {PlayerName}?"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "I believe that's... well, it's <Lore>a trap door</Lore>!",
+      "cz": "Myslím, že to jsou... no, jsou to <Lore>padací dveře</Lore>!",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že to jsou... no, jsou to <Lore>padací dveře</Lore>!"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "It wouldn't be an adventure without a trap door.",
+      "cz": "Bez padacích dveří by to nebylo dobrodružství.",
+      "source": "pre_existing",
+      "original_cz": "Bez padacích dveří by to nebylo dobrodružství."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "There must be something cool under there.",
+      "cz": "Tam dole musí být něco skvělého.",
+      "source": "pre_existing",
+      "original_cz": "Tam dole musí být něco skvělého."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Guess I should avoid stepping there?",
+      "cz": "Asi bych se tam měl vyhnout?",
+      "source": "pre_existing",
+      "original_cz": "Asi bych se tam měl vyhnout?"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Heh-heh... Yes, it's quite a classic.",
+      "cz": "Heh-heh... Ano, je to docela klasika.",
+      "source": "pre_existing",
+      "original_cz": "Heh-heh... Ano, je to docela klasika."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "I'm certain that what we seek lies beneath us.",
+      "cz": "Jsem si jistý, že to, co hledáme, leží pod námi.",
+      "source": "pre_existing",
+      "original_cz": "Jsem si jistý, že to, co hledáme, leží pod námi."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "So, we must find some way to open this door. I'll keep examining it for clues. Perhaps you could try <Lore>investigating the other chambers</Lore> on this level.",
+      "cz": "Takže musíme najít nějaký způsob, jak otevřít tyto dveře. Budu je dál zkoumat, jestli tam nenajdete nějaké stopy. Možná bys mohl zkusit <Lore>prozkoumat ostatní komnaty</Lore> na této úrovni.",
+      "source": "pre_existing",
+      "original_cz": "Takže musíme najít nějaký způsob, jak otevřít tyto dveře. Budu je dál zkoumat, jestli tam nenajdete nějaké stopy. Možná bys mohl zkusit <Lore>prozkoumat ostatní komnaty</Lore> na této úrovni."
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "I noticed some sort of <Lore>ancient technological device</Lore> in the North Chamber...",
+      "cz": "Všiml jsem si nějakého <Lore>starodávného technologického zařízení</Lore> v Severní komoře...",
+      "source": "pre_existing",
+      "original_cz": "Všiml jsem si nějakého <Lore>starodávného technologického zařízení</Lore> v Severní komoře..."
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "...a <Lore>strange pedestal</Lore> in the West Chamber...",
+      "cz": "...<Lore>podivný podstavec</Lore> v Západní komoře...",
+      "source": "pre_existing",
+      "original_cz": "...<Lore>podivný podstavec</Lore> v Západní komoře..."
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "...and a <Lore>display of music notes</Lore> in the East Chamber.",
+      "cz": "...a <Lore>výstava hudebních not</Lore> ve Východní komoře.",
+      "source": "pre_existing",
+      "original_cz": "...a <Lore>výstava hudebních not</Lore> ve Východní komoře."
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "You got it. I'll <Lore>bring you a picture</Lore> of anything I find.",
+      "cz": "Máš pravdu. <Lore>Přinesu ti fotku</Lore> čehokoli, co najdu.",
+      "source": "pre_existing",
+      "original_cz": "Máš pravdu. <Lore>Přinesu ti fotku</Lore> čehokoli, co najdu."
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Ah, it's not merely \"cool\"...",
+      "cz": "Aha, to není jen „cool“...",
+      "source": "pre_existing",
+      "original_cz": "Aha, to není jen „cool“..."
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "Quite the contrary!",
+      "cz": "Právě naopak!",
+      "source": "pre_existing",
+      "original_cz": "Právě naopak!"
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_190_UpperTemple_MRQS_E01_190_UpperTemple_Ongoing01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "It appears your friends are ready to help you. Simply return to the Ancient Ruins.",
+      "cz": "Zdá se, že tvoji přátelé jsou připraveni ti pomoci. Prostě se vrať do Starověkých ruin.",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že tvoji přátelé jsou připraveni ti pomoci. Prostě se vrať do Starověkých ruin."
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_190_UpperTemple_MRQS_E01_190_UpperTemple_Ongoing02.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Your friends have assembled inside the Ancient Ruins. Now you must instruct them in what to do.",
+      "cz": "Tvoji přátelé se shromáždili uvnitř Starověkých ruin. Teď jim musíš říct, co mají dělat.",
+      "source": "pre_existing",
+      "original_cz": "Tvoji přátelé se shromáždili uvnitř Starověkých ruin. Teď jim musíš říct, co mají dělat."
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_190_UpperTemple_MRQS_E01_190_UpperTemple_Ongoing03.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Start by helping EVE in the North Chamber.",
+      "cz": "Začněte tím, že budete pomáhat EVE v Severní komoře.",
+      "source": "pre_existing",
+      "original_cz": "Začněte tím, že budete pomáhat EVE v Severní komoře."
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_190_UpperTemple_MRQS_E01_190_UpperTemple_Ongoing04.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "It seems you must find some way to restore power to the console.",
+      "cz": "Zdá se, že musíte najít nějaký způsob, jak obnovit napájení konzole.",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že musíte najít nějaký způsob, jak obnovit napájení konzole."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Have you tried searching in the rubble scattered about?",
+      "cz": "Zkoušel jsi hledat v troskách roztroušených kolem?",
+      "source": "pre_existing",
+      "original_cz": "Zkoušel jsi hledat v troskách roztroušených kolem?"
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_190_UpperTemple_MRQS_E01_190_UpperTemple_Ongoing05.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "As you've finished with the console, see to the others who require your aid.",
+      "cz": "Jakmile skončíš s konzolí, podívej se na ostatní, kteří potřebují tvou pomoc.",
+      "source": "pre_existing",
+      "original_cz": "Jakmile skončíš s konzolí, podívej se na ostatní, kteří potřebují tvou pomoc."
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_190_UpperTemple_MRQS_E01_190_UpperTemple_Ongoing06.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "You must clear some of that <ActivityItem>Rubble</ActivityItem> from the West Chamber so Gaston can reach the pedestal.",
+      "cz": "Musíš odklidit část té <ActivityItem>suti</ActivityItem> ze Západní komory, aby se Gaston mohl dostat na podstavec.",
+      "source": "pre_existing",
+      "original_cz": "Musíš odklidit část té <ActivityItem>suti</ActivityItem> ze Západní komory, aby se Gaston mohl dostat na podstavec."
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_190_UpperTemple_MRQS_E01_190_UpperTemple_Ongoing07.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Gaston has taken his place on the pedestal, but it seems something is missing to complete the scene...",
+      "cz": "Gaston zaujal své místo na podstavci, ale zdá se, že k dokončení scény něco chybí...",
+      "source": "pre_existing",
+      "original_cz": "Gaston zaujal své místo na podstavci, ale zdá se, že k dokončení scény něco chybí..."
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_190_UpperTemple_MRQS_E01_190_UpperTemple_Ongoing08.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "It appears that a second weight is required to trigger the puzzle.",
+      "cz": "Zdá se, že ke spuštění hádanky je potřeba druhá váha.",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že ke spuštění hádanky je potřeba druhá váha."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Perhaps that jewel-encrusted coconut creation would do the trick.",
+      "cz": "Možná by stačil ten kokosový výtvor posázený drahokamy.",
+      "source": "pre_existing",
+      "original_cz": "Možná by stačil ten kokosový výtvor posázený drahokamy."
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_190_UpperTemple_MRQS_E01_190_UpperTemple_Ongoing09.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Perhaps Rapunzel has cracked our musical muddle...",
+      "cz": "Možná Locika rozluštila náš hudební zmatek...",
+      "source": "pre_existing",
+      "original_cz": "Možná Locika rozluštila náš hudební zmatek..."
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_190_UpperTemple_MRQS_E01_190_UpperTemple_Ongoing10.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Hmm... there must be a clue to the right order of all the notes in that East Chamber.",
+      "cz": "Hmm... musí existovat nějaká nápověda k správnému pořadí všech not v té Východní komoře.",
+      "source": "pre_existing",
+      "original_cz": "Hmm... musí existovat nějaká nápověda k správnému pořadí všech not v té Východní komoře."
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_190_UpperTemple_MRQS_E01_190_UpperTemple_Ongoing11.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Success! The help of your friends was precisely what was needed to open the way!",
+      "cz": "Úspěch! Pomoc tvých přátel byla přesně to, co bylo potřeba k otevření cesty!",
+      "source": "pre_existing",
+      "original_cz": "Úspěch! Pomoc tvých přátel byla přesně to, co bylo potřeba k otevření cesty!"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Now you must venture deeper into the Ancient Ruins. I'll be along to meet you down there later. I'm fascinated by some of these archaeological structures. I must examine them first.",
+      "cz": "Teď se musíš vydat hlouběji do Starověkých ruin. Později se s tebou dole setkám. Některé z těchto archeologických staveb mě fascinují. Nejdřív je musím prozkoumat.",
+      "source": "pre_existing",
+      "original_cz": "Teď se musíš vydat hlouběji do Starověkých ruin. Později se s tebou dole setkám. Některé z těchto archeologických staveb mě fascinují. Nejdřív je musím prozkoumat."
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_190_UpperTemple_MRQS_E01_190_UpperTemple_Ongoing12.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "You saw a... er... a foot disappearing around the corner?",
+      "cz": "Viděl jsi... ehm... nohu mizet za rohem?",
+      "source": "pre_existing",
+      "original_cz": "Viděl jsi... ehm... nohu mizet za rohem?"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "An oddly two-dimensional looking foot?",
+      "cz": "Podivně dvourozměrně vypadající noha?",
+      "source": "pre_existing",
+      "original_cz": "Podivně dvourozměrně vypadající noha?"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "How peculiar. I suppose you'll have to go after it.",
+      "cz": "Jak zvláštní. Asi se po tom budeš muset vydat.",
+      "source": "pre_existing",
+      "original_cz": "Jak zvláštní. Asi se po tom budeš muset vydat."
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_190_UpperTemple_MRQS_E01_190_UpperTemple_Ongoing13.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "It seems there's only one thing that remains to open the trap door. There's a fourth pressure plate, which someone must step on. I'll let you do the honors.",
+      "cz": "Zdá se, že k otevření padacích dveří zbývá už jen jedna věc. Je tam čtvrtá přítlačná deska, na kterou musí někdo šlápnout. Tu čest nechám na tobě.",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že k otevření padacích dveří zbývá už jen jedna věc. Je tam čtvrtá přítlačná deska, na kterou musí někdo šlápnout. Tu čest nechám na tobě."
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_190_UpperTemple_MRQS_E01_190_UpperTemple_Ongoing15.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Speak to EVE and see what she makes of that Ancient Console.",
+      "cz": "Promluv si s EVE a zjisti, co si o té Starověké konzoli myslí.",
+      "source": "pre_existing",
+      "original_cz": "Promluv si s EVE a zjisti, co si o té Starověké konzoli myslí."
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_190_UpperTemple_MRQS_E01_190_UpperTemple_Ongoing16.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Since you've resolved one conundrum in the North Chamber, you must help Gaston and Rapunzel solve the others.",
+      "cz": "Jelikož jsi vyřešil jednu hádanku v Severní komnatě, musíš pomoci Gastonovi a Locice vyřešit i ty ostatní.",
+      "source": "pre_existing",
+      "original_cz": "Jelikož jsi vyřešil jednu hádanku v Severní komnatě, musíš pomoci Gastonovi a Locice vyřešit i ty ostatní."
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_190_UpperTemple_MRQS_E01_190_UpperTemple_Ongoing17.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "You've solved the puzzle in the West Chamber. Now all that remains is the East Chamber's musical riddle.",
+      "cz": "Vyřešili jste hádanku v Západní komoře. Teď už jen zbývá hudební hádanka Východní komnaty.",
+      "source": "pre_existing",
+      "original_cz": "Vyřešili jste hádanku v Západní komoře. Teď už jen zbývá hudební hádanka Východní komnaty."
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_190_UpperTemple_MRQS_E01_190_UpperTemple_Ongoing18.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "You've cleared away the <ActivityItem>Rubble</ActivityItem>? Then there's nothing to it but to return to Gaston!",
+      "cz": "Odklidili jste <ActivityItem>sutiny</ActivityItem>? Pak už nezbývá nic jiného než se vrátit ke Gastonovi!",
+      "source": "pre_existing",
+      "original_cz": "Odklidili jste <ActivityItem>sutiny</ActivityItem>? Pak už nezbývá nic jiného než se vrátit ke Gastonovi!"
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_190_UpperTemple_MRQS_E01_190_UpperTemple_Ongoing20.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "You must activate some sort of pressure plate in order to power up the trap door.",
+      "cz": "Abyste mohli zapnout padací dveře, musíte aktivovat nějakou přítlačnou desku.",
+      "source": "pre_existing",
+      "original_cz": "Abyste mohli zapnout padací dveře, musíte aktivovat nějakou přítlačnou desku."
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_190_UpperTemple_MRQS_E01_190_UpperTemple_Outro.locbin": [
+    {
+      "key": "Merlin_020_f",
+      "en": "I've done some investigation, {PlayerName}, and I can confirm what I suspected.",
+      "cz": "Provedl jsem nějaké vyšetřování, {PlayerName}, a mohu potvrdit své podezření.",
+      "source": "pre_existing",
+      "original_cz": "Provedl jsem nějaké vyšetřování, {PlayerName}, a mohu potvrdit své podezření."
+    },
+    {
+      "key": "Merlin_021_f",
+      "en": "Jafar's experiments have begun to <Lore>cause parts of Dreamlight Valley's past to leak through to the present</Lore>.",
+      "cz": "Jafarovy experimenty začaly <Lore>způsobovat prosakování částí minulosti Údolí snů do současnosti</Lore>.",
+      "source": "pre_existing",
+      "original_cz": "Jafarovy experimenty začaly <Lore>způsobovat prosakování částí minulosti Údolí snů do současnosti</Lore>."
+    },
+    {
+      "key": "Merlin_022_f",
+      "en": "How do we stop him?",
+      "cz": "Jak ho zastavíme?",
+      "source": "pre_existing",
+      "original_cz": "Jak ho zastavíme?"
+    },
+    {
+      "key": "Merlin_023_f",
+      "en": "For now, at least, it appears he hasn't a clue how to work the Spark's magic. There must be some trick to it...",
+      "cz": "Prozatím se zdá, že alespoň netuší, jak ovládat Jiskrovu magii. Musí na to být nějaký trik...",
+      "source": "pre_existing",
+      "original_cz": "Prozatím se zdá, že alespoň netuší, jak ovládat Jiskrovu magii. Musí na to být nějaký trik..."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Maybe he doesn't know the magic word?",
+      "cz": "Možná nezná kouzelné slovo?",
+      "source": "pre_existing",
+      "original_cz": "Možná nezná kouzelné slovo?"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Maybe the Spark is busted?",
+      "cz": "Možná je Spark rozbitý?",
+      "source": "pre_existing",
+      "original_cz": "Možná je Spark rozbitý?"
+    },
+    {
+      "key": "Player_000_choice_003_f",
+      "en": "Maybe you need to be pure of heart?",
+      "cz": "Možná potřebuješ být čistého srdce?",
+      "source": "pre_existing",
+      "original_cz": "Možná potřebuješ být čistého srdce?"
+    },
+    {
+      "key": "Merlin_000_f",
+      "en": "I suppose it's possible that a magic word is required, but I haven't found anything like that in my research.",
+      "cz": "Předpokládám, že je možné, že je vyžadováno magické slovo, ale nic takového jsem při svém výzkumu nenašel.",
+      "source": "pre_existing",
+      "original_cz": "Předpokládám, že je možné, že je vyžadováno magické slovo, ale nic takového jsem při svém výzkumu nenašel."
+    },
+    {
+      "key": "Merlin_013_f",
+      "en": "Hey, speaking of the Spark and things from the past... do you happen to know a rabbit by the name of Oswald?",
+      "cz": "Hej, když už mluvíme o Jiskrě a věcech z minulosti... neznáš náhodou králíka jménem Oswald?",
+      "source": "pre_existing",
+      "original_cz": "Hej, když už mluvíme o Jiskrě a věcech z minulosti... neznáš náhodou králíka jménem Oswald?"
+    },
+    {
+      "key": "Merlin_014_f",
+      "en": "Hmm? Why, er... no, I can't say that I do.",
+      "cz": "Hmm? Proč, ehm... ne, nemůžu říct, že ano.",
+      "source": "pre_existing",
+      "original_cz": "Hmm? Proč, ehm... ne, nemůžu říct, že ano."
+    },
+    {
+      "key": "Merlin_015_f",
+      "en": "I discovered him in the Ancient Ruins. But he seems to be having some trouble communicating.",
+      "cz": "Objevil jsem ho ve Starověkých ruinách. Ale zdá se, že má nějaké problémy s komunikací.",
+      "source": "pre_existing",
+      "original_cz": "Objevil jsem ho ve Starověkých ruinách. Ale zdá se, že má nějaké problémy s komunikací."
+    },
+    {
+      "key": "Merlin_016_f",
+      "en": "I think he might have been here in Dreamlight Valley before any of us.",
+      "cz": "Myslím, že tu v Údolí snů mohl být dříve než my.",
+      "source": "pre_existing",
+      "original_cz": "Myslím, že tu v Údolí snů mohl být dříve než my."
+    },
+    {
+      "key": "Merlin_017_f",
+      "en": "How peculiar.",
+      "cz": "Jak zvláštní.",
+      "source": "pre_existing",
+      "original_cz": "Jak zvláštní."
+    },
+    {
+      "key": "Merlin_018_f",
+      "en": "Well, perhaps if you befriend this rabbit, you'll uncover more about Dreamlight Valley's past.",
+      "cz": "No, možná když se s tímto králíkem spřátelíš, odhalíš víc o minulosti Údolí snů.",
+      "source": "pre_existing",
+      "original_cz": "No, možná když se s tímto králíkem spřátelíš, odhalíš víc o minulosti Údolí snů."
+    },
+    {
+      "key": "Merlin_019_f",
+      "en": "That might be just the key to preserving its future!",
+      "cz": "To by mohl být klíč k zachování jeho budoucnosti!",
+      "source": "pre_existing",
+      "original_cz": "To by mohl být klíč k zachování jeho budoucnosti!"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Oh dear, I... I hope not. I fear that would mean Dreamlight Valley itself could start coming apart at the seams.",
+      "cz": "Ach jo, já... to doufám, že ne. Obávám se, že by to znamenalo, že samotné Údolí Světla Snů by se mohlo začít rozpadat ve švech.",
+      "source": "pre_existing",
+      "original_cz": "Ach jo, já... to doufám, že ne. Obávám se, že by to znamenalo, že samotné Údolí Světla Snů by se mohlo začít rozpadat ve švech."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Yes, perhaps one must have a certain quality within to wield the Spark. Though I'm not sure purity of heart is quite the right one...",
+      "cz": "Ano, možná člověk musí mít v sobě určitou vlastnost, aby ovládal Jiskru. I když si nejsem jistý, zda je čistota srdce úplně ta správná...",
+      "source": "pre_existing",
+      "original_cz": "Ano, možná člověk musí mít v sobě určitou vlastnost, aby ovládal Jiskru. I když si nejsem jistý, zda je čistota srdce úplně ta správná..."
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_200_Spark_MRQS_E01_200_Spark_TalkTo02.locbin": [
+    {
+      "key": "Oswald_000_f",
+      "en": "Why, hello!",
+      "cz": "Ale ahoj!",
+      "source": "pre_existing",
+      "original_cz": "Ale ahoj!"
+    },
+    {
+      "key": "Merlin_000_f",
+      "en": "It, er... it seems you have found the Spark of Imagination.",
+      "cz": "Zdá se, že jste, ehm... nalezli Jiskru představivosti.",
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že jste, ehm... nalezli Jiskru představivosti."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Merlin! I was just gonna go find you!",
+      "cz": "Merline! Právě jsem tě chtěl najít!",
+      "source": "pre_existing",
+      "original_cz": "Merline! Právě jsem tě chtěl najít!"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Phewf! It's just you. Scared me for a second.",
+      "cz": "Uf! To jsi jen ty. Na chvilku mě to vyděsilo.",
+      "source": "pre_existing",
+      "original_cz": "Uf! To jsi jen ty. Na chvilku mě to vyděsilo."
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "How'd you get down here so quickly...?",
+      "cz": "Jak ses sem dostal tak rychle...?",
+      "source": "pre_existing",
+      "original_cz": "Jak ses sem dostal tak rychle...?"
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "No need. No need. For I, Merlin, have used one of my pedestrian parlor tricks to find you first.",
+      "cz": "Není třeba. Není třeba. Protože já, Merline, jsem použil jeden ze svých triků v pěším salonku, abych tě našel první.",
+      "source": "pre_existing",
+      "original_cz": "Není třeba. Není třeba. Protože já, Merline, jsem použil jeden ze svých triků v pěším salonku, abych tě našel první."
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Now then, hand the Spark of Imagination over to me. I must do some of my endless research upon it.",
+      "cz": "A teď mi předejte Jiskru představivosti. Musím se o ní ponořit do svého nekonečného výzkumu.",
+      "source": "pre_existing",
+      "original_cz": "A teď mi předejte Jiskru představivosti. Musím se o ní ponořit do svého nekonečného výzkumu."
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "And I solemnly swear, I will keep it safe from that nefarious, cunning, and devilishly handsome Jafar.",
+      "cz": "A slavnostně přísahám, že to ochráním před tím zlým, lstivým a ďábelsky pohledným Džafarem.",
+      "source": "pre_existing",
+      "original_cz": "A slavnostně přísahám, že to ochráním před tím zlým, lstivým a ďábelsky pohledným Džafarem."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Here you go!",
+      "cz": "Tady to máte!",
+      "source": "pre_existing",
+      "original_cz": "Tady to máte!"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Something about this doesn't seem right...",
+      "cz": "Něco na tomhle nesedí...",
+      "source": "pre_existing",
+      "original_cz": "Něco na tomhle nesedí..."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "If you're really Merlin, what are your magic words?",
+      "cz": "Jestli jsi opravdu Merlin, jaká jsou tvá kouzelná slova?",
+      "source": "pre_existing",
+      "original_cz": "Jestli jsi opravdu Merlin, jaká jsou tvá kouzelná slova?"
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Ah-ha-ha-ha-ha-ha! Once again, you prove to be an utter fool!",
+      "cz": "Ah-ha-ha-ha-ha-ha! Zase se ukazuješ jako naprostý blázen!",
+      "source": "pre_existing",
+      "original_cz": "Ah-ha-ha-ha-ha-ha! Zase se ukazuješ jako naprostý blázen!"
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "Oh, come now. It is I, your magical mentor. Have I ever steered you wrong before?",
+      "cz": "Ale no tak. To jsem já, tvůj magický mentor. Už jsem tě někdy svedl z cesty?",
+      "source": "pre_existing",
+      "original_cz": "Ale no tak. To jsem já, tvůj magický mentor. Už jsem tě někdy svedl z cesty?"
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "I don't know...",
+      "cz": "Nevím...",
+      "source": "pre_existing",
+      "original_cz": "Nevím..."
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "Stop being foolish. If you will not give the Spark to me...",
+      "cz": "Přestaň být hloupý. Jestli mi nedáš Jiskru...",
+      "source": "pre_existing",
+      "original_cz": "Přestaň být hloupý. Jestli mi nedáš Jiskru..."
+    },
+    {
+      "key": "Merlin_012_f",
+      "en": "...then I shall simply take it!",
+      "cz": "...pak si to prostě vezmu!",
+      "source": "pre_existing",
+      "original_cz": "...pak si to prostě vezmu!"
+    },
+    {
+      "key": "Merlin_014_f",
+      "en": "My... my magic words?",
+      "cz": "Moje... moje kouzelná slova?",
+      "source": "pre_existing",
+      "original_cz": "Moje... moje kouzelná slova?"
+    },
+    {
+      "key": "Merlin_015_f",
+      "en": "Do not be foolish. We both know precisely what my magic words are.",
+      "cz": "Nebuď hloupý. Oba přesně víme, jaká jsou má kouzelná slova.",
+      "source": "pre_existing",
+      "original_cz": "Nebuď hloupý. Oba přesně víme, jaká jsou má kouzelná slova."
+    },
+    {
+      "key": "Merlin_016_f",
+      "en": "Okay then. Let's hear them.",
+      "cz": "Dobře tedy. Pojďme si je poslechnout.",
+      "source": "pre_existing",
+      "original_cz": "Dobře tedy. Pojďme si je poslechnout."
+    },
+    {
+      "key": "Merlin_017_f",
+      "en": "...",
+      "cz": "...",
+      "source": "pre_existing",
+      "original_cz": "..."
+    },
+    {
+      "key": "Merlin_013_f",
+      "en": "Higity...",
+      "cz": "Výška...",
+      "source": "pre_existing",
+      "original_cz": "Výška..."
+    },
+    {
+      "key": "Merlin_018_f",
+      "en": "...figity?",
+      "cz": "...figity?",
+      "source": "pre_existing",
+      "original_cz": "...figity?"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Huh. That SOUNDS right. Here you go!",
+      "cz": "Hm. To ZNÍ PRAVDIVĚ. Tady to máte!",
+      "source": "pre_existing",
+      "original_cz": "Hm. To ZNÍ PRAVDIVĚ. Tady to máte!"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "That didn't sound right at all. Try again.",
+      "cz": "To vůbec neznělo dobře. Zkuste to znovu.",
+      "source": "pre_existing",
+      "original_cz": "To vůbec neznělo dobře. Zkuste to znovu."
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "So you're totally Jafar in disguise, huh?",
+      "cz": "Takže jsi úplně převlečený Džafar, co?",
+      "source": "pre_existing",
+      "original_cz": "Takže jsi úplně převlečený Džafar, co?"
+    },
+    {
+      "key": "Merlin_021_f",
+      "en": "Er, uh... wait. I misspoke.",
+      "cz": "Ehm, ehm... počkat. Přemluvil jsem se.",
+      "source": "pre_existing",
+      "original_cz": "Ehm, ehm... počkat. Přemluvil jsem se."
+    },
+    {
+      "key": "Merlin_022_f",
+      "en": "I of course meant...",
+      "cz": "Samozřejmě jsem myslel...",
+      "source": "pre_existing",
+      "original_cz": "Samozřejmě jsem myslel..."
+    },
+    {
+      "key": "Merlin_023_f",
+      "en": "Flippitus... floppitus?",
+      "cz": "Flippitus... floppitus?",
+      "source": "pre_existing",
+      "original_cz": "Flippitus... floppitus?"
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "That seems right. Here you go!",
+      "cz": "To se zdá správné. Tady to máte!",
+      "source": "pre_existing",
+      "original_cz": "To se zdá správné. Tady to máte!"
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "That seems even more wrong. Try again.",
+      "cz": "To se zdá být ještě horší. Zkuste to znovu.",
+      "source": "pre_existing",
+      "original_cz": "To se zdá být ještě horší. Zkuste to znovu."
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "Okay, you are DEFINITELY Jafar in disguise.",
+      "cz": "Dobře, jsi URČITĚ Džafar v přestrojení.",
+      "source": "pre_existing",
+      "original_cz": "Dobře, jsi URČITĚ Džafar v přestrojení."
+    },
+    {
+      "key": "Merlin_024_f",
+      "en": "Er... uh...",
+      "cz": "Ehm... ehm...",
+      "source": "pre_existing",
+      "original_cz": "Ehm... ehm..."
+    },
+    {
+      "key": "Merlin_025_f",
+      "en": "Zim zaba rim bim!",
+      "cz": "Zim zaba ráfek bim!",
+      "source": "pre_existing",
+      "original_cz": "Zim zaba ráfek bim!"
+    },
+    {
+      "key": "Player_004_choice_000_f",
+      "en": "That seems right. Here you go!",
+      "cz": "To se zdá správné. Tady to máte!",
+      "source": "pre_existing",
+      "original_cz": "To se zdá správné. Tady to máte!"
+    },
+    {
+      "key": "Player_004_choice_001_f",
+      "en": "That's enough of this charade, Jafar.",
+      "cz": "Dost už téhle šarády, Jafare.",
+      "source": "pre_existing",
+      "original_cz": "Dost už téhle šarády, Jafare."
+    },
+    {
+      "key": "Player_004_choice_002_f",
+      "en": "That is DEFINITELY wrong. Try again.",
+      "cz": "To je URČITĚ špatně. Zkuste to znovu.",
+      "source": "pre_existing",
+      "original_cz": "To je URČITĚ špatně. Zkuste to znovu."
+    },
+    {
+      "key": "Merlin_020_f",
+      "en": "Jafar?! Bah! What a PREPOSTEROUS accusation.",
+      "cz": "Džafar?! Fuj! To je ale ABSURDNÍ obvinění.",
+      "source": "pre_existing",
+      "original_cz": "Džafar?! Fuj! To je ale ABSURDNÍ obvinění."
+    },
+    {
+      "key": "Merlin_027_f",
+      "en": "I am afraid I must come to a sad conclusion.",
+      "cz": "Obávám se, že musím dojít k smutnému závěru.",
+      "source": "pre_existing",
+      "original_cz": "Obávám se, že musím dojít k smutnému závěru."
+    },
+    {
+      "key": "Merlin_028_f",
+      "en": "The Forgetting has made me forget my magic words.",
+      "cz": "Zapomnění mi dalo zapomenout na má magická slova.",
+      "source": "pre_existing",
+      "original_cz": "Zapomnění mi dalo zapomenout na má magická slova."
+    },
+    {
+      "key": "Player_005_choice_000_f",
+      "en": "That makes sense. Here you go.",
+      "cz": "To dává smysl. Tady to máte.",
+      "source": "pre_existing",
+      "original_cz": "To dává smysl. Tady to máte."
+    },
+    {
+      "key": "Player_005_choice_001_f",
+      "en": "Oh, come on, Jafar. Give it up!",
+      "cz": "No tak, Jafare. Vzdej to!",
+      "source": "pre_existing",
+      "original_cz": "No tak, Jafare. Vzdej to!"
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "There is no need to fear. It is merely I, Merlin, as I am sure you can tell from this unnecessarily voluminous white beard and impractical hat.",
+      "cz": "Není třeba se bát. Jsem to jen já, Merlin, jak jistě poznáte z tohoto zbytečně objemného bílého vousu a nepraktického klobouku.",
+      "source": "pre_existing",
+      "original_cz": "Není třeba se bát. Jsem to jen já, Merlin, jak jistě poznáte z tohoto zbytečně objemného bílého vousu a nepraktického klobouku."
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "How did I get down here...? Why, I am Merlin. I simply used one of my pedestrian parlor tricks to appear before you.",
+      "cz": "Jak jsem se sem dostal...? Vždyť jsem Merlin. Jen jsem použil jeden ze svých běžeckých triků, abych se před vámi objevil.",
+      "source": "pre_existing",
+      "original_cz": "Jak jsem se sem dostal...? Vždyť jsem Merlin. Jen jsem použil jeden ze svých běžeckých triků, abych se před vámi objevil."
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_210_TimeFissure_MRQS_E01_210_TimeFissure_Ongoing01.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "You'd best come see me, {PlayerName}. Something quite disturbing is occurring.",
+      "cz": "Raději bys měl přijít za mnou, {PlayerName}. Děje se tu něco dost znepokojivého.",
+      "source": "pre_existing",
+      "original_cz": "Raději bys měl přijít za mnou, {PlayerName}. Děje se tu něco dost znepokojivého."
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_210_TimeFissure_MRQS_E01_210_TimeFissure_Ongoing02.locbin": [
+    {
+      "key": "Merlin_001_f",
+      "en": "There's chaos across Eternity Isle. I suggest you check on how our friends are faring as you investigate the issue.",
+      "cz": "Na ostrově Eternity panuje chaos. Navrhuji, abyste se při vyšetřování problému podívali, jak se daří našim přátelům.",
+      "source": "pre_existing",
+      "original_cz": "Na ostrově Eternity panuje chaos. Navrhuji, abyste se při vyšetřování problému podívali, jak se daří našim přátelům."
+    }
+  ],
+  "Oswald_Merlin/Merlin_MRQS_E01_210_TimeFissure_MRQS_E01_210_TimeFissure_TalkTo01.locbin": [
+    {
+      "key": "Merlin_002_f",
+      "en": "Gracious, {PlayerName}! What happened?!",
+      "cz": "Proboha, {PlayerName}! Co se stalo?!",
+      "source": "pre_existing",
+      "original_cz": "Proboha, {PlayerName}! Co se stalo?!"
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Don't tell me you attempted to harness the power of the Spark of Imagination without guidance?",
+      "cz": "Neříkej mi, že ses pokusil využít sílu Jiskry představivosti bez vedení?",
+      "source": "pre_existing",
+      "original_cz": "Neříkej mi, že ses pokusil využít sílu Jiskry představivosti bez vedení?"
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "Not quite. I was trying to leave the Ancient Ruins with the Spark of Imagination...",
+      "cz": "Ne tak docela. Snažil jsem se opustit Starověké ruiny s jiskrou představivosti...",
+      "source": "pre_existing",
+      "original_cz": "Ne tak docela. Snažil jsem se opustit Starověké ruiny s jiskrou představivosti..."
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "...when I ran into YOU.",
+      "cz": "...když jsem narazil na TEBE.",
+      "source": "pre_existing",
+      "original_cz": "...když jsem narazil na TEBE."
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "You ran into ME?! That's... that's preposterous! I most certainly was not there.",
+      "cz": "Narazil jsi na MĚ?! To je... to je absurdní! Já tam rozhodně nebyl.",
+      "source": "pre_existing",
+      "original_cz": "Narazil jsi na MĚ?! To je... to je absurdní! Já tam rozhodně nebyl."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "It was Jafar in disguise.",
+      "cz": "Byl to přestrojený Džafar.",
+      "source": "pre_existing",
+      "original_cz": "Byl to přestrojený Džafar."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "It was a certain Royal Vizier in disguise.",
+      "cz": "Byl to jistý královský vezír v přestrojení.",
+      "source": "pre_existing",
+      "original_cz": "Byl to jistý královský vezír v přestrojení."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I'll let you figure this out on your own.",
+      "cz": "Nechám vás, ať si na to přijdete sami.",
+      "source": "pre_existing",
+      "original_cz": "Nechám vás, ať si na to přijdete sami."
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "Jafar?! Ugh, of course it was him. That would-be usurper has no shortage of schemes up his sleeve when it comes to getting what he wants.",
+      "cz": "Džafar?! Fuj, samozřejmě, že to byl on. Ten rádoby uzurpátor má v rukávu spoustu intrik, jak dosáhnout toho, co chce.",
+      "source": "pre_existing",
+      "original_cz": "Džafar?! Fuj, samozřejmě, že to byl on. Ten rádoby uzurpátor má v rukávu spoustu intrik, jak dosáhnout toho, co chce."
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "And it appears he's already begun experimenting with the Spark of Imagination.",
+      "cz": "A zdá se, že už začal experimentovat s Jiskrou představivosti.",
+      "source": "pre_existing",
+      "original_cz": "A zdá se, že už začal experimentovat s Jiskrou představivosti."
+    },
+    {
+      "key": "Merlin_012_f",
+      "en": "We must investigate. I'll consult my notes.",
+      "cz": "Musíme to prošetřit. Prohlédnu si své poznámky.",
+      "source": "pre_existing",
+      "original_cz": "Musíme to prošetřit. Prohlédnu si své poznámky."
+    },
+    {
+      "key": "Merlin_013_f",
+      "en": "In the meantime, why don't you <Lore>check in with the Villagers</Lore> and <Lore>investigate those rifts</Lore>?",
+      "cz": "Mezitím, proč se <Lore>nezeptáš vesničanů</Lore> a <Lore>neprošetříš ty trhliny</Lore>?",
+      "source": "pre_existing",
+      "original_cz": "Mezitím, proč se <Lore>nezeptáš vesničanů</Lore> a <Lore>neprošetříš ty trhliny</Lore>?"
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "Royal Vizier...? Why, it couldn't have been...? No, it wasn't...?",
+      "cz": "Královský vezír...? Vždyť to nemohlo být...? Ne, to nemohlo být...?",
+      "source": "pre_existing",
+      "original_cz": "Královský vezír...? Vždyť to nemohlo být...? Ne, to nemohlo být...?"
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "Unless I did meet you there, but the residual effects of the Forgetting erased it from my...?",
+      "cz": "Ledaže bych tě tam potkal, ale zbytkové účinky Zapomnění mi to vymazaly z...?",
+      "source": "pre_existing",
+      "original_cz": "Ledaže bych tě tam potkal, ale zbytkové účinky Zapomnění mi to vymazaly z...?"
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "No, couldn't be. It must have been someone else. Someone in disguise. Someone like...",
+      "cz": "Ne, to nemohlo být. Musel to být někdo jiný. Někdo v přestrojení. Někdo jako...",
+      "source": "pre_existing",
+      "original_cz": "Ne, to nemohlo být. Musel to být někdo jiný. Někdo v přestrojení. Někdo jako..."
+    }
+  ]
+}

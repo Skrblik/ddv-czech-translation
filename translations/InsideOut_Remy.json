@@ -1,0 +1,230 @@
+{
+  "InsideOut_Remy/Remy_VLG_Sadn_010_VLG_Sadn_010_TalkTo04.locbin": [
+    {
+      "key": "Remy_001_f",
+      "en": "Oh {PlayerName}, PLEASE tell me you know what's going on! I need these rain clouds out of here!",
+      "cz": "Ach {PlayerName}, PROSÍM, řekni mi, že víš, co se děje! Potřebuji, aby se odsud ty dešťové mraky dostaly pryč!",
+      "source": "pre_existing",
+      "original_cz": "Ach {PlayerName}, PROSÍM, řekni mi, že víš, co se děje! Potřebuji, aby se odsud ty dešťové mraky dostaly pryč!"
+    },
+    {
+      "key": "Remy_002_f",
+      "en": "Actually, we think the clouds might be here because of <i>you</i>.",
+      "cz": "Vlastně si myslíme, že ty mraky tu mohou být kvůli <i>vám</i>.",
+      "source": "pre_existing",
+      "original_cz": "Vlastně si myslíme, že ty mraky tu mohou být kvůli <i>vám</i>."
+    },
+    {
+      "key": "Remy_003_f",
+      "en": "Remy... how have you been feeling lately?",
+      "cz": "Remy... jak se v poslední době cítíš?",
+      "source": "pre_existing",
+      "original_cz": "Remy... jak se v poslední době cítíš?"
+    },
+    {
+      "key": "Remy_004_f",
+      "en": "Other than annoyed by these clouds? I'm fine.",
+      "cz": "Kromě toho, že mě tyhle mraky štvou? Jsem v pohodě.",
+      "source": "pre_existing",
+      "original_cz": "Kromě toho, že mě tyhle mraky štvou? Jsem v pohodě."
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "That's... surprising.",
+      "cz": "To je... překvapivé.",
+      "source": "pre_existing",
+      "original_cz": "To je... překvapivé."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Really? You don't feel anxious or depressed or miserable in any way?",
+      "cz": "Vážně? Necítíš se úzkostně, depresivně ani mizerně?",
+      "source": "pre_existing",
+      "original_cz": "Vážně? Necítíš se úzkostně, depresivně ani mizerně?"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Sure you're not feeling bad about <i>something</i>?",
+      "cz": "Jsi si jistý/á, že se kvůli <i>něčemu</i> necítíš špatně?",
+      "source": "pre_existing",
+      "original_cz": "Jsi si jistý/á, že se kvůli <i>něčemu</i> necítíš špatně?"
+    },
+    {
+      "key": "Remy_005_f",
+      "en": "We're here to listen if you need to talk about something.",
+      "cz": "Jsme tu, abychom si vás vyslechli, pokud si potřebujete o něčem promluvit.",
+      "source": "pre_existing",
+      "original_cz": "Jsme tu, abychom si vás vyslechli, pokud si potřebujete o něčem promluvit."
+    },
+    {
+      "key": "Remy_006_f",
+      "en": "Well... okay. The truth is, I've been worried about the restaurant. I want to make some new and exciting dishes, but what if no one likes them? And if I don't do something new, what if everyone gets bored and stops eating here?",
+      "cz": "No... dobře. Pravda je, že jsem si o restauraci dělal starosti. Chci vařit nějaká nová a zajímavá jídla, ale co když je nikdo nebude mít rád? A když neudělám nic nového, co když se všichni začnou nudit a přestanou tu jíst?",
+      "source": "pre_existing",
+      "original_cz": "No... dobře. Pravda je, že jsem si o restauraci dělal starosti. Chci vařit nějaká nová a zajímavá jídla, ale co když je nikdo nebude mít rád? A když neudělám nic nového, co když se všichni začnou nudit a přestanou tu jíst?"
+    },
+    {
+      "key": "Remy_007_f",
+      "en": "I'm not sure what would be worse: losing my restaurant or disappointing my diners.",
+      "cz": "Nejsem si jistý, co by bylo horší: přijít o restauraci, nebo zklamat hosty.",
+      "source": "pre_existing",
+      "original_cz": "Nejsem si jistý, co by bylo horší: přijít o restauraci, nebo zklamat hosty."
+    },
+    {
+      "key": "Remy_008_f",
+      "en": "That sounds like a difficult situation.",
+      "cz": "To zní jako obtížná situace.",
+      "source": "pre_existing",
+      "original_cz": "To zní jako obtížná situace."
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Losing your restaurant would be like losing your dream.",
+      "cz": "Ztráta restaurace by byla jako ztráta snu.",
+      "source": "pre_existing",
+      "original_cz": "Ztráta restaurace by byla jako ztráta snu."
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Disappointing your diners would feel like failing, huh?",
+      "cz": "Zklamat hosty by bylo jako selhat, co?",
+      "source": "pre_existing",
+      "original_cz": "Zklamat hosty by bylo jako selhat, co?"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I don't know which would be harder for me, either.",
+      "cz": "Taky nevím, co by pro mě bylo těžší.",
+      "source": "pre_existing",
+      "original_cz": "Taky nevím, co by pro mě bylo těžší."
+    },
+    {
+      "key": "Remy_009_f",
+      "en": "Exactly! I've wanted to be a chef my whole life! Not being able to do that anymore would be horrible.",
+      "cz": "Přesně! Celý život jsem chtěl být šéfkuchařem! Kdybych to už nemohl dělat, bylo by hrozné.",
+      "source": "pre_existing",
+      "original_cz": "Přesně! Celý život jsem chtěl být šéfkuchařem! Kdybych to už nemohl dělat, bylo by hrozné."
+    },
+    {
+      "key": "Remy_012_f",
+      "en": "Remy, you're an amazing chef. I can't imagine you ever losing your restaurant.",
+      "cz": "Remy, jsi úžasný šéfkuchař. Nedokážu si představit, že bys někdy přišel o svou restauraci.",
+      "source": "pre_existing",
+      "original_cz": "Remy, jsi úžasný šéfkuchař. Nedokážu si představit, že bys někdy přišel o svou restauraci."
+    },
+    {
+      "key": "Remy_015_f",
+      "en": "You're right. You're right. I guess I just panicked a bit. Thanks, {PlayerName}. And you too, Sadness. Talking about this has really helped.",
+      "cz": "Máš pravdu. Máš pravdu. Asi jsem jen trochu zpanikařil. Díky, {PlayerName}. A tobě taky, Smutku. Povídání si o tom opravdu pomohlo.",
+      "source": "pre_existing",
+      "original_cz": "Máš pravdu. Máš pravdu. Asi jsem jen trochu zpanikařil. Díky, {PlayerName}. A tobě taky, Smutku. Povídání si o tom opravdu pomohlo."
+    },
+    {
+      "key": "Remy_016_f",
+      "en": "That's good. Oh, {PlayerName}, look! I think the clouds are starting to disappear.",
+      "cz": "To je dobré. Jé, {PlayerName}, podívej! Myslím, že mraky začínají mizet.",
+      "source": "pre_existing",
+      "original_cz": "To je dobré. Jé, {PlayerName}, podívej! Myslím, že mraky začínají mizet."
+    },
+    {
+      "key": "Remy_017_f",
+      "en": "It's working! Come on, Sadness; <Lore>we should go to Mr. McDuck's shop</Lore> next and get him to talk things out with us, too.",
+      "cz": "Funguje to! No tak, Smutku; <Lore>měli bychom příště zajít do obchodu pana McDucka</Lore> a nechat ho, aby si s námi taky promluvil.",
+      "source": "pre_existing",
+      "original_cz": "Funguje to! No tak, Smutku; <Lore>měli bychom příště zajít do obchodu pana McDucka</Lore> a nechat ho, aby si s námi taky promluvil."
+    },
+    {
+      "key": "Remy_010_f",
+      "en": "Exactly! If the diners don't like my food, what would that say about my skills as a chef? This is the only thing I've ever wanted to do!",
+      "cz": "Přesně tak! Pokud hostům moje jídlo nechutná, co by to vypovídalo o mých kuchařských dovednostech? Tohle je jediná věc, kterou jsem kdy chtěl dělat!",
+      "source": "pre_existing",
+      "original_cz": "Přesně tak! Pokud hostům moje jídlo nechutná, co by to vypovídalo o mých kuchařských dovednostech? Tohle je jediná věc, kterou jsem kdy chtěl dělat!"
+    },
+    {
+      "key": "Remy_013_f",
+      "en": "Remy, your food is some of the most delicious I've ever eaten! And I'm sure everyone who dines at Chez Remy agrees.",
+      "cz": "Remy, tvé jídlo je jedno z nejchutnějších, jaké jsem kdy jedl! A jsem si jistý, že se mnou souhlasí všichni, kdo večeří v Chez Remy.",
+      "source": "pre_existing",
+      "original_cz": "Remy, tvé jídlo je jedno z nejchutnějších, jaké jsem kdy jedl! A jsem si jistý, že se mnou souhlasí všichni, kdo večeří v Chez Remy."
+    },
+    {
+      "key": "Remy_011_f",
+      "en": "Exactly! It feels like there's no good outcome.",
+      "cz": "Přesně tak! Zdá se, že z toho nic dobrého neplyne.",
+      "source": "pre_existing",
+      "original_cz": "Přesně tak! Zdá se, že z toho nic dobrého neplyne."
+    },
+    {
+      "key": "Remy_014_f",
+      "en": "I understand why you're worried, but the truth is you're an amazing chef. People love eating at Chez Remy!",
+      "cz": "Chápu, proč se bojíš, ale pravdou je, že jsi úžasný šéfkuchař. Lidé milují jídlo v Chez Remy!",
+      "source": "pre_existing",
+      "original_cz": "Chápu, proč se bojíš, ale pravdou je, že jsi úžasný šéfkuchař. Lidé milují jídlo v Chez Remy!"
+    }
+  ],
+  "InsideOut_Remy/Remy_VLG_Sadn_030_VLG_Sadn_030_TalkTo07.locbin": [
+    {
+      "key": "Remy_000_f",
+      "en": "Hey there, {PlayerName}. Is it true Sadness is hosting a talking session?",
+      "cz": "Ahoj, {PlayerName}. Je pravda, že Sadness pořádá přednášku?",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}. Je pravda, že Sadness pořádá přednášku?"
+    },
+    {
+      "key": "Remy_001_f",
+      "en": "Yup! Did you want to come?",
+      "cz": "Jo! Chtěl jsi přijít?",
+      "source": "pre_existing",
+      "original_cz": "Jo! Chtěl jsi přijít?"
+    },
+    {
+      "key": "Remy_002_f",
+      "en": "Yeah, I think I do. I'm realizing that I still have a lot of feelings about my restaurant that are bothering me.",
+      "cz": "Jo, myslím, že ano. Uvědomuji si, že mě k té restauraci pořád trápí spousta pocitů.",
+      "source": "pre_existing",
+      "original_cz": "Jo, myslím, že ano. Uvědomuji si, že mě k té restauraci pořád trápí spousta pocitů."
+    },
+    {
+      "key": "Player_000_f",
+      "en": "That makes sense!",
+      "cz": "To dává smysl!",
+      "source": "pre_existing",
+      "original_cz": "To dává smysl!"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "You do have a lot of responsibility on your shoulders.",
+      "cz": "Máte na bedrech spoustu zodpovědnosti.",
+      "source": "pre_existing",
+      "original_cz": "Máte na bedrech spoustu zodpovědnosti."
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "There are a lot of expectations that come with running Chez Remy.",
+      "cz": "S provozováním restaurace Chez Remy se pojí mnoho očekávání.",
+      "source": "pre_existing",
+      "original_cz": "S provozováním restaurace Chez Remy se pojí mnoho očekávání."
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "With all you do, you must be overwhelmed.",
+      "cz": "Ze všeho, co děláš, musíš být ohromen/a.",
+      "source": "pre_existing",
+      "original_cz": "Ze všeho, co děláš, musíš být ohromen/a."
+    },
+    {
+      "key": "Remy_003_f",
+      "en": "You can say that again. And talking things out did help with those indoor rain clouds.",
+      "cz": "Můžeš to říct znovu. A rozhovor o věcech pomohl s těmi dešťovými mraky v interiéru.",
+      "source": "pre_existing",
+      "original_cz": "Můžeš to říct znovu. A rozhovor o věcech pomohl s těmi dešťovými mraky v interiéru."
+    },
+    {
+      "key": "Remy_004_f",
+      "en": "I'll meet you there!",
+      "cz": "Sejdeme se tam!",
+      "source": "pre_existing",
+      "original_cz": "Sejdeme se tam!"
+    }
+  ]
+}
