@@ -2,6 +2,10 @@
 
 Kompletní český překlad pro hru **Disney Dreamlight Valley** včetně Adventure Packu **Honeyglow Woods** (Medvídek Pú, Prasátko, Ijáček a Stokorcový les).
 
+> [!IMPORTANT]
+> **Kompatibilní verze hry:** `v1.24.2.6` + **4 DLCs**
+> Překlad je určen pro uvedenou verzi hry. Na novějších verzích nemusí být všechny texty funkční.
+
 ## 📊 Stav překladu
 
 | Metrika | Počet |
