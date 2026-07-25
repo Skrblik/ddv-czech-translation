@@ -1,6 +1,6 @@
 # 🏰 Disney Dreamlight Valley – Český překlad
 
-Kompletní český překlad pro hru **Disney Dreamlight Valley** včetně DLC **A Rift in Time** (Winnie the Pooh / Stokorcový les).
+Kompletní český překlad pro hru **Disney Dreamlight Valley** včetně DLC **A Rift in Time** (Trhlina v čase) s oblastí Stokorcový les (Hundred Acre Wood) a postavami z Medvídka Pú.
 
 ## 📊 Stav překladu
 
@@ -18,7 +18,7 @@ Kompletní český překlad pro hru **Disney Dreamlight Valley** včetně DLC **
 
 Náš překlad pokrývá **6 114 klíčů**, které v originální české lokalizaci chyběly. Jedná se především o:
 
-### DLC "A Rift in Time" (Stokorcový les) – kompletní překlad
+### DLC "A Rift in Time" (Trhlina v čase) – kompletní překlad
 | Kategorie | Náš překlad | Celkem |
 |-----------|-------------|--------|
 | WinnieDLC_Winnie | 1 715 | 1 736 |
