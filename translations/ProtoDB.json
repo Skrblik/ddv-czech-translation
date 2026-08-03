@@ -546,6 +546,14 @@
       "original_cz": "{DoNotTranslate}Snížení nákladů na energii při těžbě"
     }
   ],
+  "ProtoDB/CharityOffers_CharityOfferUpd24.locbin": [
+    {
+      "key": "WarningMessage",
+      "en": "Gameloft will donate all net revenues coming from the bundle after platform fees and deductions to the Nature Conservancy of Canada. This bundle will be available from July 29 until September 23, 2026, and includes 800 Moonstones.",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
   "ProtoDB/Cliff_MRQS110_AmethystRight.locbin": [
     {
       "key": "MenuTitleLocIDOverride",
@@ -666,6 +674,42 @@
       "cz": "Stanoviště",
       "source": "pre_existing",
       "original_cz": "Stanoviště"
+    },
+    {
+      "key": "SectionName_012",
+      "en": "Habitat",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "SectionName_013",
+      "en": "Diorama",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "SectionName_014",
+      "en": "Aquarium",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "SectionName_015",
+      "en": "Habitat",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "SectionName_016",
+      "en": "Diorama",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "SectionName_017",
+      "en": "Aquarium",
+      "cz": "",
+      "source": "untranslated"
     },
     {
       "key": "SubSectionName_000",
@@ -918,6 +962,114 @@
       "cz": "Akvárium Glade of Trust",
       "source": "pre_existing",
       "original_cz": "Akvárium Glade of Trust"
+    },
+    {
+      "key": "SubSectionName_036",
+      "en": "Sunlit Plateau Gems",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "SubSectionName_037",
+      "en": "Sunlit Plateau Aquarium",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "SubSectionName_038",
+      "en": "Sunlit Plateau Flowers",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "SubSectionName_039",
+      "en": "Root Causes",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "SubSectionName_040",
+      "en": "Be Mine?",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "SubSectionName_041",
+      "en": "Crystal Clear",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "SubSectionName_042",
+      "en": "The Lion's Share",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "SubSectionName_043",
+      "en": "Sunlit Plateau Food",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "SubSectionName_044",
+      "en": "Sunlit Plateau Habitat",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "SubSectionName_045",
+      "en": "Frosted Heights Gems",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "SubSectionName_046",
+      "en": "Frosted Heights Aquarium",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "SubSectionName_047",
+      "en": "Frosted Heights Flowers",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "SubSectionName_048",
+      "en": "The Snowman's Nose",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "SubSectionName_049",
+      "en": "A Pillar of the Community",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "SubSectionName_050",
+      "en": "Just Chilling",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "SubSectionName_051",
+      "en": "Chasing the Carrot",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "SubSectionName_052",
+      "en": "Frosted Heights Food",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "SubSectionName_053",
+      "en": "Frosted Heights Habitat",
+      "cz": "",
+      "source": "untranslated"
     }
   ],
   "ProtoDB/DesignChallenges_DreamSnap002_test4.locbin": [
@@ -1085,6 +1237,76 @@
       "original_cz": "Aktivujte Hvězdnou stezku, získejte stylové oblečení, unikátní nábytek a mnohem více! Zakoupené Měsíční kameny lze použít pouze na stejné platformě, kde byly zakoupeny."
     }
   ],
+  "ProtoDB/EventFloatingIsland_EFI_Parks_PlantArea01.locbin": [
+    {
+      "key": "Description",
+      "en": "Add fresh flowers here for a stunning garden arrangement.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Flower Planter",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "ProtoDB/EventFloatingIsland_EFI_Parks_PlantArea02.locbin": [
+    {
+      "key": "Description",
+      "en": "Add fresh flowers here for a stunning garden arrangement.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Flower Planter",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "ProtoDB/EventFloatingIsland_EFI_Parks_PlantArea03.locbin": [
+    {
+      "key": "Description",
+      "en": "Add fresh flowers here for a stunning garden arrangement.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Flower Planter",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "ProtoDB/EventFloatingIsland_EFI_Parks_PlantArea04.locbin": [
+    {
+      "key": "Description",
+      "en": "Add fresh flowers here for a stunning garden arrangement.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Flower Planter",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "ProtoDB/EventFloatingIsland_EFI_Parks_PlantArea05.locbin": [
+    {
+      "key": "Description",
+      "en": "Add fresh flowers here for a stunning garden arrangement.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Flower Planter",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
   "ProtoDB/EventFloatingIsland_Halloween2025_Puzzle03_CursedTree.locbin": [
     {
       "key": "MenuTitleLocIDOverride",
@@ -1092,6 +1314,20 @@
       "cz": "Strašidelný strom",
       "source": "pre_existing",
       "original_cz": "Strašidelný strom"
+    }
+  ],
+  "ProtoDB/EventFloatingIsland_Parks_Puzzle01_TrashBins.locbin": [
+    {
+      "key": "Description",
+      "en": "Place your trash here for proper disposal.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Adventureland Trash Bins",
+      "cz": "",
+      "source": "untranslated"
     }
   ],
   "ProtoDB/EventFloatingIsland_Spring2026_Puzzle02_BambooFountain.locbin": [
@@ -1620,7 +1856,7 @@
   "ProtoDB/GrandExhibition_Beach_Aquarium.locbin": [
     {
       "key": "Description",
-      "en": "Place one of each Dazzle Beach marine animals here: Fugu, Cod, Herring, Kingfish, Swordfish, Shrimp, Clam, Scallop, and Oyster.",
+      "en": "Place one of each Dazzle Beach marine creature here: Fugu, Cod, Herring, Kingfish, Swordfish, Shrimp, Clam, Scallop, and Oyster.",
       "cz": "Sem umístěte po jednom od každého mořského živočicha z Dazzle Beach: fugu, tresku, sledě, ledňáčka, mečouna, krevetu, škebli, hřebenatku a ústřici.",
       "source": "pre_existing",
       "original_cz": "Sem umístěte po jednom od každého mořského živočicha z Dazzle Beach: fugu, tresku, sledě, ledňáčka, mečouna, krevetu, škebli, hřebenatku a ústřici."
@@ -1724,6 +1960,102 @@
       "cz": "Mávání ahoj",
       "source": "pre_existing",
       "original_cz": "Mávání ahoj"
+    }
+  ],
+  "ProtoDB/GrandExhibition_Cliff_Aquarium.locbin": [
+    {
+      "key": "Description",
+      "en": "Place one of each Frosted Heights marine animal here: Bass, Salmon, Tilapia, White Sturgeon, and Crab.",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "ProtoDB/GrandExhibition_Cliff_Companions.locbin": [
+    {
+      "key": "Description",
+      "en": "There's room for all the critters from the Frosted Heights here: White Fox, Classic Fox, Black Fox, Blue Fox, and Red Fox.",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "ProtoDB/GrandExhibition_Cliff_Flowers.locbin": [
+    {
+      "key": "Description",
+      "en": "Place Frosted Heights flowers here: White Passion Lily, Blue Passion Lily, Black Passion Lily, Red Passion Lily, and Green Passion Lily.",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "ProtoDB/GrandExhibition_Cliff_Food.locbin": [
+    {
+      "key": "Description",
+      "en": "Place Frosted Heights crops and foraging finds here: Asparagus, Cherry, Cucumber, Eggplant, Gooseberry, and Mint.",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "ProtoDB/GrandExhibition_Cliff_Gems.locbin": [
+    {
+      "key": "Description",
+      "en": "Place Frosted Heights gems here: Shiny Amethyst, Onyx, Shiny Tourmaline, Amethyst, and Tourmaline.",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "ProtoDB/GrandExhibition_Cliff_StoryBeats01.locbin": [
+    {
+      "key": "Description",
+      "en": "Provide materials needed to finish this section of the Diorama: Snow, Dry Wood, White Passion Lily, Red Passion Lily, and Purified Night Shards.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "The Snowman's Nose",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "ProtoDB/GrandExhibition_Cliff_StoryBeats02.locbin": [
+    {
+      "key": "Description",
+      "en": "Provide materials needed to finish this section of the Diorama: Stone, Amethyst, and Tourmaline.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "A Pillar of the Community",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "ProtoDB/GrandExhibition_Cliff_StoryBeats03.locbin": [
+    {
+      "key": "Description",
+      "en": "Provide materials needed to finish this section of the Diorama: Snow, Iron Ore, Blue Passion Lily, and Dream Shards.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Just Chilling",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "ProtoDB/GrandExhibition_Cliff_StoryBeats04.locbin": [
+    {
+      "key": "Description",
+      "en": "Provide materials needed to finish this section of the Diorama: Hardwood, Soil, Green Passion Lily, and Night Shards.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Chasing the Carrot",
+      "cz": "",
+      "source": "untranslated"
     }
   ],
   "ProtoDB/GrandExhibition_Forest_Aquarium.locbin": [
@@ -1950,6 +2282,102 @@
       "cz": "Zajistěte materiály potřebné k dokončení této části diorámatu: měkké dřevo, mořské řasy, červené řasy a střep snů.",
       "source": "pre_existing",
       "original_cz": "Zajistěte materiály potřebné k dokončení této části diorámatu: měkké dřevo, mořské řasy, červené řasy a střep snů."
+    }
+  ],
+  "ProtoDB/GrandExhibition_Savannah_Aquarium.locbin": [
+    {
+      "key": "Description",
+      "en": "Place one of each Sunlit Plateau fish here: Bass, Salmon, Tilapia, Carp, Perch, and Walleye.",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "ProtoDB/GrandExhibition_Savannah_Companions.locbin": [
+    {
+      "key": "Description",
+      "en": "There's room for all the critters from the Sunlit Plateau here: Red Sunbird, Turquoise Sunbird, Emerald Sunbird, Golden Sunbird, and Orchid Sunbird.",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "ProtoDB/GrandExhibition_Savannah_Flowers.locbin": [
+    {
+      "key": "Description",
+      "en": "Place Sunlit Plateau flowers here: Pink Bromeliad, Red Bromeliad, Yellow Bromeliad, Orange Houseleek, and Pink Houseleek.",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "ProtoDB/GrandExhibition_Savannah_Food.locbin": [
+    {
+      "key": "Description",
+      "en": "Place Sunlit Plateau crops and foraging finds here: Chili Pepper, Cocoa Bean, Soya, Zucchini, Cherry, and Vanilla.",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "ProtoDB/GrandExhibition_Savannah_Gems.locbin": [
+    {
+      "key": "Description",
+      "en": "Place Sunlit Plateau gems here: Shiny Citrine, Onyx, Shiny Tourmaline, Citrine, and Tourmaline.",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "ProtoDB/GrandExhibition_Savannah_StoryBeats01.locbin": [
+    {
+      "key": "Description",
+      "en": "Provide materials needed to finish this section of the Diorama: Hardwood, Dreamlight Fruit, Orange Houseleeks, and Dream Shards.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Root Causes",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "ProtoDB/GrandExhibition_Savannah_StoryBeats02.locbin": [
+    {
+      "key": "Description",
+      "en": "Provide materials needed to finish this section of the Diorama: Vitalys Crystals, Iron Ore, Gold Nuggets, Sapphires, and Rubies.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Be Mine?",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "ProtoDB/GrandExhibition_Savannah_StoryBeats03.locbin": [
+    {
+      "key": "Description",
+      "en": "Provide materials needed to finish this section of the Diorama: Vitalys Crystals, Citrines, and Tourmalines.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Crystal Clear",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "ProtoDB/GrandExhibition_Savannah_StoryBeats04.locbin": [
+    {
+      "key": "Description",
+      "en": "Provide materials needed to finish this section of the Diorama: Dry Wood, Hardwood, Pink Bromeliad, Pink Houseleek, and Purified Night Shards.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "The Lion's Share",
+      "cz": "",
+      "source": "untranslated"
     }
   ],
   "ProtoDB/GrandExhibition_Wetland_Aquarium.locbin": [
@@ -3120,6 +3548,12 @@
   ],
   "ProtoDB/ShopConfigs_Global.locbin": [
     {
+      "key": "Title_CharityOffer",
+      "en": "Charity",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
       "key": "Title_DreamBundles",
       "en": "Dream Bundles",
       "cz": "Balíčky snů",
@@ -3377,6 +3811,30 @@
       "cz": "S tímto speciálním efektem rozprouďte vzduch kolem sebe zábavou a okouzlením!",
       "source": "pre_existing",
       "original_cz": "S tímto speciálním efektem rozprouďte vzduch kolem sebe zábavou a okouzlením!"
+    },
+    {
+      "key": "Description_Presets",
+      "en": "Transform your Valley instantly with Decoration Presets! This exclusive pre-made set includes curated props and furniture in one seamless, beautiful design. Find it in your Furniture Menu under Presets and place it in your House or Valley with one click!",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Description_EnvironmentSky",
+      "en": "Transform the sky over any Biome with a dazzling new effect!",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Description_EnvironmentSpecial",
+      "en": "Large visual effects. Specific to a Village Biome or a Floating Island.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Description_AvatarOnAnHouse",
+      "en": "Interact with the House using your Phone Royal Tool, allowing your Avatar to be positioned in Photo Mode. Each House can be placed once in the Valley and once per Expansion area. (You will also be able to place it once on Floating Islands.)",
+      "cz": "",
+      "source": "untranslated"
     },
     {
       "key": "Title_CompanionBundles",
@@ -4551,6 +5009,12 @@
   ],
   "ProtoDB/StoreFrontGroup_Steam.locbin": [
     {
+      "key": "Description_000",
+      "en": "Gameloft will donate all net revenues coming from the bundle after platform fees and deductions to the Nature Conservancy of Canada (a charity registered in Canada, with charity number 11924 6544 RR0001) to support the conservation of important landscapes for species like the grizzly bear. This adorable grizzly bear cub companion will be available from July 29 until September 23, 2026, and comes with 800 Moonstones.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
       "key": "Description_001",
       "en": "Explore the Honeyglow Woods, and reconnect with Disney's Winnie the Pooh, Eeyore and Piglet in a brand-new Adventure Pack! Includes 2,000 Moonstones.",
       "cz": "Prozkoumej Medový les a znovu se setkej s Disneyho Medvídkem Pú, Íjáčkem a Prasátkem v zbrusu novém balíčku dobrodružství! Obsahuje 2 000 měsíčních kamenů.",
@@ -4592,8 +5056,14 @@
       "original_cz": "Prožijte svůj vysněný život ve světě Disney s Ultimate Edition, která obsahuje základní hru a dvě rozšíření. Tato edice obsahuje také exkluzivní digitální předměty. Přístup k hrám Disney Dreamlight Valley, Disney Dreamlight Valley: Wishblossom Ranch a Disney Dreamlight Valley: The Storybook Vale, 18 000 měsíčních kamenů, exkluzivní mount (Sven z Disneyho Ledového království), exkluzivní jezdecký outfit z Arendellianu a exkluzivní zasněžený alpský styl domu."
     },
     {
+      "key": "Description_007",
+      "en": "This bundle includes the Disney Dreamlight Valley base game; the new Expansion, Disney Dreamlight Valley: Honeyglow Woods Adventure Pack; and 10,000 Moonstones.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
       "key": "Name_000",
-      "en": "Disney Dreamlight Valley — Honeyglow Woods Edition",
+      "en": "Grizzly Bear Cub Bundle for Charity",
       "cz": "Disney Dreamlight Valley — edice Medový les",
       "source": "our_translation"
     },
@@ -4637,6 +5107,12 @@
       "cz": "Disney Dreamlight Valley – Ultimátní edice",
       "source": "pre_existing",
       "original_cz": "Disney Dreamlight Valley – Ultimátní edice"
+    },
+    {
+      "key": "Name_008",
+      "en": "Disney Dreamlight Valley — Honeyglow Woods Edition",
+      "cz": "",
+      "source": "untranslated"
     }
   ],
   "ProtoDB/Story_MRQS100_Barrel.locbin": [
@@ -5903,6 +6379,34 @@
       "cz": "Řecká scéna",
       "source": "pre_existing",
       "original_cz": "Řecká scéna"
+    }
+  ],
+  "ProtoDB/Update24_MemoryMania_UI_2026.locbin": [
+    {
+      "key": "Description",
+      "en": "From {from:MemoryMania_UI_2026:StartDate:M} to {from:MemoryMania_UI_2026:EndDate:M}, you're invited to celebrate Inside Out with Disney Dreamlight Valley's Memory Mania event!\nThis year, you'll solve some Memory mysteries with Joy to unlock a mysterious new critter companion.\nAlso, search your Valley and the Realms to collect Riley's Hockey Gear, Trophies, and Birthday Cakes and unlock Memory Pieces. Complete these Memories for exclusive new critters and more!",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Title",
+      "en": "Memory Mania Event",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "ProtoDB/Update24_SummerSizzle_UI_2026.locbin": [
+    {
+      "key": "Description",
+      "en": "From {from:SummerSizzle_UI_2026:StartDate:M} to {from:SummerSizzle_UI_2026:EndDate:M}, get ready to celebrate Summer Sizzle in the Valley with our mini-event!\nThis year you can complete daily quests with Remy, Goofy, or Ursula for summer fun and great prizes.\nJust like last year, you'll also be able to search the Valley for specialty Marshmallows. Then, use those Marshmallows to make tasty treats for exclusive rewards!",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Title",
+      "en": "Summer Sizzle Event",
+      "cz": "",
+      "source": "untranslated"
     }
   ]
 }

@@ -1037,6 +1037,12 @@
       "source": "our_translation"
     },
     {
+      "key": "Story!Mini01!MRQS_M01_050_Dungeon01_Group22_Step22_TalkToCharacter06_WrongSceneDescription",
+      "en": "Go back inside the Everoak Tree.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
       "key": "Story!Mini01!MRQS_M01_050_Dungeon01_Group23_Step23_VisitArea03_StepDescription",
       "en": "Leave the Everoak Tree and return to Drowsybloom Acre.",
       "cz": "Opusťte Věčný dub a vraťte se na Dřímající pole.",
@@ -1914,7 +1920,7 @@
     },
     {
       "key": "Story!Mini01!MRQS_M01_080_EeyoreHome_Group19_Step17_StepDescription",
-      "en": "Gather materials to craft a <ActivityItem>Amber Brushwoods Upgrade</ActivityItem> for your Pickaxe:",
+      "en": "Gather materials to craft an <ActivityItem>Amber Brushwoods Upgrade</ActivityItem> for your Pickaxe:",
       "cz": "Nasbírejte materiály k výrobě <ActivityItem>Vylepšení na jantarové houštiny</ActivityItem> pro svůj krumpáč:",
       "source": "our_translation"
     },
@@ -2316,18 +2322,6 @@
       "key": "Story!Mini01!MRQS_M01_100_TheDoor_Group02_Step02_VisitArea02_StepDescription",
       "en": "Look around and explore the Braveheart Grove.",
       "cz": "Rozhlédněte se a prozkoumejte Hájek odvahy.",
-      "source": "our_translation"
-    },
-    {
-      "key": "Story!Mini01!MRQS_M01_100_TheDoor_Group03_Step03_Interaction01_StepDescription",
-      "en": "Remove the corrupted Honey Swirls around <Lore>Piglet's House</Lore>.",
-      "cz": "Odstraňte zkažené medové víry kolem <Lore>Prasátkova domečku</Lore>.",
-      "source": "our_translation"
-    },
-    {
-      "key": "Story!Mini01!MRQS_M01_100_TheDoor_Group03_Step03_StepDescription",
-      "en": "Looks like someone is inside that House!",
-      "cz": "Vypadá to, že uvnitř toho domečku někdo je!",
       "source": "our_translation"
     },
     {

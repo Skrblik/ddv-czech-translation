@@ -418,15 +418,21 @@
     },
     {
       "key": "Village!Winnie!Winnie!VLG_Winn_010_Group13_StepDescription",
-      "en": "Follow the <ActivityItem>Toy Butterfly</ActivityItem> through Drowsybloom Acre.",
+      "en": "Follow the <ActivityItem>Toy Butterfly</ActivityItem> through Drowsybloom Acre and catch it when it reaches its destination.",
       "cz": "Následujte <ActivityItem>Hračkářského motýla</ActivityItem> přes Dřímotový lán.",
       "source": "our_translation"
     },
     {
       "key": "Village!Winnie!Winnie!VLG_Winn_010_Group14_Step15_Possess04_StepDescription",
-      "en": "Pick up the <ActivityItem>Butterfly Key</ActivityItem> in Drowsybloom Acre.",
+      "en": "It's in Drowsybloom Acre next to a cluster of white birch trees.",
       "cz": "Seberte <ActivityItem>Motýlí klíč</ActivityItem> v Dřímotovém lánu.",
       "source": "our_translation"
+    },
+    {
+      "key": "Village!Winnie!Winnie!VLG_Winn_010_Group14_Step15_StepDescription",
+      "en": "Pick up the <ActivityItem>Butterfly Key</ActivityItem>.",
+      "cz": "",
+      "source": "untranslated"
     },
     {
       "key": "Village!Winnie!Winnie!VLG_Winn_010_Group15_Step16_FillKeyhole06_StepDescription",
@@ -442,7 +448,7 @@
     },
     {
       "key": "Village!Winnie!Winnie!VLG_Winn_010_Group17_Step18_Possess05_StepDescription",
-      "en": "Find out what was in the chest in your Inventory.",
+      "en": "Open the chest and discover what's inside.",
       "cz": "Zjistěte ve svém inventáři, co bylo v té truhle.",
       "source": "our_translation"
     },
@@ -662,7 +668,7 @@
     },
     {
       "key": "Village!Winnie!Winnie!VLG_Winn_030_AvailableDescription",
-      "en": "<Lore>Winnie the Pooh</Lore> has an idea he wants to talk about.",
+      "en": "Winnie the Pooh has an idea he wants to talk about.",
       "cz": "Medvídek Pú má nápad, o kterém si chce promluvit.",
       "source": "our_translation"
     },
@@ -703,6 +709,12 @@
       "source": "our_translation"
     },
     {
+      "key": "Village!Winnie!Winnie!VLG_Winn_030_Group01_StoryDescription",
+      "en": "Winnie the Pooh is curious about how grown-ups spend their time. He'd like to try some grown-up jobs. First up, accounting (or, as he puts it, a-counting).",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
       "key": "Village!Winnie!Winnie!VLG_Winn_030_Group02_Step02_StepDescription",
       "en": "Sort rocks and sticks into their proper places in <Lore>Pooh's House</Lore>.",
       "cz": "Roztřiďte kameny a klacíky na jejich správná místa v <Lore>Púově domečku</Lore>.",
@@ -710,7 +722,7 @@
     },
     {
       "key": "Village!Winnie!Winnie!VLG_Winn_030_Group03_Step03_TalkToCharacter01_StepDescription",
-      "en": "Talk to <Lore>Winnie the Pooh</Lore> about his dislike for the accounting and what he wants to cook.",
+      "en": "Talk to <Lore>Winnie the Pooh</Lore> about how the accounting went and if he might want to cook instead.",
       "cz": "Promluvte si s <Lore>Medvídkem Púem</Lore> o jeho odporu k účetnictví a o tom, co chce vařit.",
       "source": "our_translation"
     },
@@ -751,6 +763,12 @@
       "source": "our_translation"
     },
     {
+      "key": "Village!Winnie!Winnie!VLG_Winn_030_Group04_StoryDescription",
+      "en": "Accounting doesn't seem to be the grown-up job for Pooh. Maybe he'd prefer cooking instead.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
       "key": "Village!Winnie!Winnie!VLG_Winn_030_Group05_Step05_VisitArea01_StepDescription",
       "en": "Go inside <Lore>Remy's Restaurant</Lore> with <Lore>Winnie the Pooh</Lore>.",
       "cz": "Běžte s <Lore>Medvídkem Púem</Lore> dovnitř do <Lore>Remyho restaurace</Lore>.",
@@ -779,6 +797,12 @@
       "en": "Talk to <Lore>Aladdin</Lore> about collecting gems.",
       "cz": "Promluvte si s <Lore>Aladinem</Lore> o sbírání drahokamů.",
       "source": "our_translation"
+    },
+    {
+      "key": "Village!Winnie!Winnie!VLG_Winn_030_Group08_StoryDescription",
+      "en": "Hmm, cooking doesn't seem to suit Pooh either. Maybe mining will go better.",
+      "cz": "",
+      "source": "untranslated"
     },
     {
       "key": "Village!Winnie!Winnie!VLG_Winn_030_Group09_Step09_MineMineral01_StepDescription",
@@ -845,6 +869,12 @@
       "en": "Pick flowers:",
       "cz": "Nasbírejte květiny:",
       "source": "our_translation"
+    },
+    {
+      "key": "Village!Winnie!Winnie!VLG_Winn_030_Group12_StoryDescription",
+      "en": "Mining seems a little too hard for Pooh. Maybe he could be a florist.",
+      "cz": "",
+      "source": "untranslated"
     },
     {
       "key": "Village!Winnie!Winnie!VLG_Winn_030_Group13_Step13_CraftItem01_StepDescription",
@@ -3513,22 +3543,6 @@
       "source": "our_translation"
     }
   ],
-  "WinnieDLC_Winnie/Winnie_MRQS_M01_022_TheRestaurant_MRQS_M01_022_TheRestaurant_Ongoing01.locbin": [
-    {
-      "key": "Winnie_000_f",
-      "en": "Oh, bother, that little sprout looks like it's trying very hard to get your attention, {PlayerName}.",
-      "cz": "Ach jo, ten malý výhonek se očividně hrozně moc snaží získat tvou pozornost, {PlayerName}.",
-      "source": "our_translation"
-    }
-  ],
-  "WinnieDLC_Winnie/Winnie_MRQS_M01_022_TheRestaurant_MRQS_M01_022_TheRestaurant_Ongoing13.locbin": [
-    {
-      "key": "Winnie_000_f",
-      "en": "I think the tree sprout wants a few things before it finishes growing.",
-      "cz": "Myslím, že ten výhonek stromu potřebuje pár věcí, než dokončí svůj růst.",
-      "source": "our_translation"
-    }
-  ],
   "WinnieDLC_Winnie/Winnie_MRQS_M01_030_TheFog_MRQS_M01_030_TheFog_Intro.locbin": [
     {
       "key": "Winnie_000_f",
@@ -3942,30 +3956,6 @@
       "key": "Winnie_011_f",
       "en": "All right! I'll <Lore>restore it</Lore> so you can sit here properly again.",
       "cz": "Dobře! Obnovím ho, abys tu mohl zase v klidu sedět.",
-      "source": "our_translation"
-    }
-  ],
-  "WinnieDLC_Winnie/Winnie_MRQS_M01_032_TheStore_MRQS_M01_032_TheStore_Ongoing01.locbin": [
-    {
-      "key": "Winnie_000_f",
-      "en": "Oh, bother, that little sprout looks like it's trying very hard to get your attention, {PlayerName}.",
-      "cz": "Ach jo, ten malý výhonek se očividně hrozně moc snaží získat tvou pozornost, {PlayerName}.",
-      "source": "our_translation"
-    }
-  ],
-  "WinnieDLC_Winnie/Winnie_MRQS_M01_032_TheStore_MRQS_M01_032_TheStore_Ongoing12.locbin": [
-    {
-      "key": "Winnie_000_f",
-      "en": "It looks like that tree leads somewhere interesting, {PlayerName}.",
-      "cz": "Vypadá to, že ten strom vede někam na zajímavé místo, {PlayerName}.",
-      "source": "our_translation"
-    }
-  ],
-  "WinnieDLC_Winnie/Winnie_MRQS_M01_032_TheStore_MRQS_M01_032_TheStore_Ongoing13.locbin": [
-    {
-      "key": "Winnie_000_f",
-      "en": "Maybe if you feed the tree sprout what it wants, it'll grow into something special.",
-      "cz": "Možná, když dáš výhonku stromu to, co chce, vyroste v něco výjimečného.",
       "source": "our_translation"
     }
   ],
@@ -4599,6 +4589,14 @@
       "en": "Let's go to an art-full place.",
       "cz": "Pojďme na nějaké umělecké místo.",
       "source": "our_translation"
+    }
+  ],
+  "WinnieDLC_Winnie/Winnie_MRQS_M01_050_Dungeon01_MRQS_M01_050_Dungeon01_Ongoing21.locbin": [
+    {
+      "key": "Winnie_000_f",
+      "en": "Let's go talk inside the Everoak Tree, Pooh Bear.",
+      "cz": "",
+      "source": "untranslated"
     }
   ],
   "WinnieDLC_Winnie/Winnie_MRQS_M01_050_Dungeon01_MRQS_M01_050_Dungeon01_Ongoing22.locbin": [
@@ -8945,33 +8943,15 @@
       "source": "our_translation"
     },
     {
-      "key": "Player_000_choice_000_f",
-      "en": "Buy.",
-      "cz": "Koupit.",
-      "source": "our_translation"
-    },
-    {
       "key": "Player_000_choice_003_f",
       "en": "Buy.",
       "cz": "Koupit.",
       "source": "our_translation"
     },
     {
-      "key": "Player_000_choice_001_f",
-      "en": "Sell.",
-      "cz": "Prodat.",
-      "source": "our_translation"
-    },
-    {
       "key": "Player_000_choice_004_f",
       "en": "Sell.",
       "cz": "Prodat.",
-      "source": "our_translation"
-    },
-    {
-      "key": "Player_000_choice_002_f",
-      "en": "Never mind.",
-      "cz": "Nic.",
       "source": "our_translation"
     },
     {
@@ -9587,6 +9567,14 @@
       "source": "our_translation"
     }
   ],
+  "WinnieDLC_Winnie/Winnie_VLG_Winn_010_VLG_Winn_010_Ongoing04.locbin": [
+    {
+      "key": "Winnie_000_f",
+      "en": "What was in that chest you opened?",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
   "WinnieDLC_Winnie/Winnie_VLG_Winn_010_VLG_Winn_010_Ongoing05.locbin": [
     {
       "key": "Winnie_000_f",
@@ -9624,14 +9612,6 @@
       "key": "Winnie_000_f",
       "en": "Would you bring me that little <ActivityItem>Toy Butterfly</ActivityItem> we found, {PlayerName}?",
       "cz": "Přinesl/a bys mi toho malého <ActivityItem>hračkového motýla</ActivityItem>, kterého jsme našli, {PlayerName}?",
-      "source": "our_translation"
-    }
-  ],
-  "WinnieDLC_Winnie/Winnie_VLG_Winn_010_VLG_Winn_010_Ongoing11.locbin": [
-    {
-      "key": "Winnie_000_f",
-      "en": "Shall we play with the <ActivityItem>Toy Butterfly</ActivityItem> outside?",
-      "cz": "Budeme si s tím <ActivityItem>hračkovým motýlem</ActivityItem> hrát venku?",
       "source": "our_translation"
     }
   ],

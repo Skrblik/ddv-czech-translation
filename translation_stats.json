@@ -1,8 +1,8 @@
 {
-  "total_keys": 142401,
-  "pre_existing": 135067,
-  "our_translation": 6118,
-  "untranslated": 169,
+  "total_keys": 145001,
+  "pre_existing": 135058,
+  "our_translation": 6102,
+  "untranslated": 2794,
   "do_not_translate": 1047,
   "categories": {
     "Aladdin_Aladdin": {
@@ -896,6 +896,681 @@
       "do_not_translate": 0,
       "translated_pct": 100.0
     },
+    "BestFriends_Aladdin": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Alice": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Anna": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Ariel": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Aurora": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Beast": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Belle": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Buzz": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_CheshireCat": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Cinderella": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Cogsworth": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Cruella": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Daisy": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Donald": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_EVE": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Eeyore": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Elsa": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_EventQuizz": {
+      "files": 1,
+      "total": 1,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 1,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_FairyGodMother": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Flynn": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Gaston": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Goofy": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Hades": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Hercules": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_JackSkellington": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Jafar": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Jasmine": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Joy": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Kristoff": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Lady": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Lumiere": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Maleficent": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Maui": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Merida": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Merlin": {
+      "files": 8,
+      "total": 32,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 32,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Mickey": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_MikeWazowski": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Minnie": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Mirabel": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Moana": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_MotherGothel": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Mulan": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Mushu": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Nala": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Olaf": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Oswald": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_PeterPan": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Phil": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Piglet": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Pocahontas": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_PrinceEric": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Pumbaa": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Ralph": {
+      "files": 1,
+      "total": 1,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 1,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Rapunzel": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Remy": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Sadness": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Sally": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Scar": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Scrooge": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Simba": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_SnowWhite": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Stitch": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Sully": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_SwordInStone": {
+      "files": 1,
+      "total": 10,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 10,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_TheForgotten": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Tiana": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Tigger": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Timon": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_TinkerBell": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Tramp": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Ursula": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Vanellope": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_WallE": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Winnie": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "BestFriends_Woody": {
+      "files": 2,
+      "total": 2,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 2,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
     "Boutique Furniture": {
       "files": 1,
       "total": 20,
@@ -1354,6 +2029,24 @@
       "untranslated": 0,
       "do_not_translate": 0,
       "translated_pct": 100.0
+    },
+    "DecorationPreset24_Scrooge": {
+      "files": 8,
+      "total": 44,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 44,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "DecorationPreset24_Story": {
+      "files": 1,
+      "total": 16,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 16,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
     },
     "DesignChallenges_Anna": {
       "files": 1,
@@ -2803,6 +3496,24 @@
       "untranslated": 0,
       "do_not_translate": 0,
       "translated_pct": 100.0
+    },
+    "FloatingFestival24_EFI_Parks_QuizCharacter": {
+      "files": 1,
+      "total": 32,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 32,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "FloatingFestival24_Parks": {
+      "files": 1,
+      "total": 1,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 1,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
     },
     "FloatingIslandMiniEvent_EventQuizz": {
       "files": 2,
@@ -4379,6 +5090,60 @@
       "do_not_translate": 0,
       "translated_pct": 100.0
     },
+    "MiniEvent24_Goofy": {
+      "files": 7,
+      "total": 16,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 16,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "MiniEvent24_Joy": {
+      "files": 35,
+      "total": 80,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 80,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "MiniEvent24_MemoryMania": {
+      "files": 4,
+      "total": 35,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 35,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "MiniEvent24_Remy": {
+      "files": 10,
+      "total": 19,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 19,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "MiniEvent24_SummerSizzle": {
+      "files": 3,
+      "total": 36,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 36,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "MiniEvent24_Ursula": {
+      "files": 10,
+      "total": 20,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 20,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
     "Minnie": {
       "files": 69,
       "total": 530,
@@ -5037,13 +5802,13 @@
       "translated_pct": 100.0
     },
     "ProtoDB": {
-      "files": 283,
-      "total": 771,
+      "files": 310,
+      "total": 846,
       "pre_existing": 714,
       "our_translation": 57,
-      "untranslated": 0,
+      "untranslated": 75,
       "do_not_translate": 0,
-      "translated_pct": 100.0
+      "translated_pct": 91.1
     },
     "RajahBundle_Aladdin": {
       "files": 13,
@@ -5577,13 +6342,13 @@
       "translated_pct": 100.0
     },
     "Root": {
-      "files": 72,
-      "total": 28626,
-      "pre_existing": 27569,
-      "our_translation": 911,
-      "untranslated": 131,
+      "files": 75,
+      "total": 29380,
+      "pre_existing": 27560,
+      "our_translation": 907,
+      "untranslated": 898,
       "do_not_translate": 15,
-      "translated_pct": 99.5
+      "translated_pct": 96.9
     },
     "Sally_Daisy": {
       "files": 3,
@@ -5712,13 +6477,13 @@
       "translated_pct": 100.0
     },
     "Scrooge": {
-      "files": 200,
-      "total": 1281,
+      "files": 201,
+      "total": 1289,
       "pre_existing": 1281,
       "our_translation": 0,
-      "untranslated": 0,
+      "untranslated": 8,
       "do_not_translate": 0,
-      "translated_pct": 100.0
+      "translated_pct": 99.4
     },
     "Simba": {
       "files": 130,
@@ -6442,12 +7207,12 @@
     },
     "WinnieDLC_Mini01": {
       "files": 19,
-      "total": 737,
+      "total": 736,
       "pre_existing": 0,
-      "our_translation": 673,
-      "untranslated": 14,
+      "our_translation": 671,
+      "untranslated": 15,
       "do_not_translate": 50,
-      "translated_pct": 98.0
+      "translated_pct": 97.8
     },
     "WinnieDLC_Minnie": {
       "files": 1,
@@ -6477,10 +7242,10 @@
       "translated_pct": 100.0
     },
     "WinnieDLC_Piglet": {
-      "files": 266,
-      "total": 1236,
+      "files": 265,
+      "total": 1235,
       "pre_existing": 0,
-      "our_translation": 1196,
+      "our_translation": 1195,
       "untranslated": 5,
       "do_not_translate": 35,
       "translated_pct": 99.6
@@ -6549,13 +7314,13 @@
       "translated_pct": 95.2
     },
     "WinnieDLC_Winnie": {
-      "files": 384,
-      "total": 1736,
+      "files": 380,
+      "total": 1734,
       "pre_existing": 0,
-      "our_translation": 1715,
-      "untranslated": 2,
+      "our_translation": 1706,
+      "untranslated": 9,
       "do_not_translate": 19,
-      "translated_pct": 99.9
+      "translated_pct": 99.5
     },
     "Woody": {
       "files": 113,
@@ -6565,6 +7330,96 @@
       "untranslated": 0,
       "do_not_translate": 34,
       "translated_pct": 100.0
+    },
+    "WreckItRalph_ArcadeRalph": {
+      "files": 3,
+      "total": 3,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 3,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "WreckItRalph_MotherGothel": {
+      "files": 1,
+      "total": 23,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 23,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "WreckItRalph_Placeholder_FakeNPCArcade": {
+      "files": 1,
+      "total": 3,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 3,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "WreckItRalph_Ralph": {
+      "files": 165,
+      "total": 1001,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 1001,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "WreckItRalph_Scar": {
+      "files": 1,
+      "total": 13,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 13,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "WreckItRalph_Stitch": {
+      "files": 1,
+      "total": 27,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 27,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "WreckItRalph_Sully": {
+      "files": 1,
+      "total": 19,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 19,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "WreckItRalph_TheForgotten": {
+      "files": 26,
+      "total": 121,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 121,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "WreckItRalph_Ursula": {
+      "files": 2,
+      "total": 23,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 23,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
+    },
+    "WreckItRalph_Vanellope": {
+      "files": 3,
+      "total": 49,
+      "pre_existing": 0,
+      "our_translation": 0,
+      "untranslated": 49,
+      "do_not_translate": 0,
+      "translated_pct": 0.0
     },
     "daisy_Anna": {
       "files": 1,

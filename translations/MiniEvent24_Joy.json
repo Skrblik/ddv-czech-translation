@@ -1,0 +1,552 @@
+{
+  "MiniEvent24_Joy/Joy_CrossNPCDialogues_Joy_DarkGoose_Joy_MemoryMania_040_Listen01.locbin": [
+    {
+      "key": "Joy_000_f",
+      "en": "A goose?",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Joy_002_f",
+      "en": "Excuse me, may I ask why you're dressed like a Dark Secret?",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Joy_001_f",
+      "en": "*honk!*",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Joy_003_f",
+      "en": "Aw, you're not a thief. You're just a confused little goose guy!",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_010_Joy_MemoryMania_010_BringItem01.locbin": [
+    {
+      "key": "Joy_000_f",
+      "en": "What's this? A <ActivityItem>Black Feather</ActivityItem>?",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Joy_001_f",
+      "en": "It must belong to whoever moved the tissue box.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Joy_002_f",
+      "en": "We need more clues. Stay tuned for the ongoing investigation!",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_010_Joy_MemoryMania_010_Intro.locbin": [
+    {
+      "key": "Joy_000_f",
+      "en": "Hey, {PlayerName}! Got a minute? There's something pretty weird happening in Remote Headquarters.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's solve a mystery!",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Let's talk later.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Joy_001_f",
+      "en": "Great! I'll meet you there.",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_010_Joy_MemoryMania_010_Ongoing01.locbin": [
+    {
+      "key": "Joy_000_f",
+      "en": "Are you gonna open that Memory I gave you?",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_010_Joy_MemoryMania_010_Ongoing02.locbin": [
+    {
+      "key": "Joy_000_f",
+      "en": "Could you check out the spot where the tissue box went missing?",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_010_Joy_MemoryMania_010_Ongoing03.locbin": [
+    {
+      "key": "Joy_000_f",
+      "en": "Meet me in Remote Headquarters!",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_010_Joy_MemoryMania_010_Ongoing04.locbin": [
+    {
+      "key": "Joy_000_f",
+      "en": "We need to talk about what's in the Memory and what's missing. Meet me in Remote Headquarters!",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_010_Joy_MemoryMania_010_Ongoing05.locbin": [
+    {
+      "key": "Joy_000_f",
+      "en": "Bring me any clues you find in Remote Headquarters.",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_010_Joy_MemoryMania_010_TalkTo01.locbin": [
+    {
+      "key": "Joy_000_f",
+      "en": "You're here! Thank you so much for coming to help.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Joy_001_f",
+      "en": "Ever since I got up this morning, I've been positive that something in this room <Lore>is missing</Lore>, but I can't figure out what!",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Joy_002_f",
+      "en": "Could you use this <Lore>Memory</Lore> to see what it is?",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_010_Joy_MemoryMania_010_TalkTo02.locbin": [
+    {
+      "key": "Joy_000_f",
+      "en": "Okay, Detective {PlayerName}. What's missing from Remote Headquarters?",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "A teddy bear.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "A bottle of perfume.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "A tissue box.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Joy_001_f",
+      "en": "Are you sure? Maybe have another look.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Joy_003_f",
+      "en": "Of course! Let's <Lore>take a closer look at where the tissue box was in the Memory</Lore>. Maybe we'll find a clue to its disappearance!",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_020_Joy_MemoryMania_020_BringItem01.locbin": [
+    {
+      "key": "Joy_001_f",
+      "en": "Another <ActivityItem>Black Feather</ActivityItem>?",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Joy_000_f",
+      "en": "Hmm, this doesn't look like it belongs to Daisy, Mr. McDuck or Donald...",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Joy_002_f",
+      "en": "Well, the mystery continues!",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_020_Joy_MemoryMania_020_Intro01.locbin": [
+    {
+      "key": "Joy_000_f",
+      "en": "Guess what, {PlayerName}? We have ANOTHER mystery.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Joy_001_f",
+      "en": "Something went missing from Goofy's House!",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's investigate!",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Let's talk about this later.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Joy_002_f",
+      "en": "Great! I'll <Lore>meet you there</Lore>!",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_020_Joy_MemoryMania_020_Ongoing01.locbin": [
+    {
+      "key": "Joy_001_f",
+      "en": "Meet me in Goofy's House!",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_020_Joy_MemoryMania_020_Ongoing02.locbin": [
+    {
+      "key": "Joy_001_f",
+      "en": "We better talk to Goofy about this at the scene of the crime: inside his House!",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_020_Joy_MemoryMania_020_Ongoing03.locbin": [
+    {
+      "key": "Joy_001_f",
+      "en": "Did you open the Memory that Goofy gave you?",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_020_Joy_MemoryMania_020_Ongoing04.locbin": [
+    {
+      "key": "Joy_001_f",
+      "en": "We need to talk about what's missing from Goofy's House.",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_020_Joy_MemoryMania_020_Ongoing05.locbin": [
+    {
+      "key": "Joy_001_f",
+      "en": "Could you look for clues in the place the boot was last seen in Goofy's House?",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_020_Joy_MemoryMania_020_Ongoing06.locbin": [
+    {
+      "key": "Joy_000_f",
+      "en": "Did you find anything interesting?",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_020_Joy_MemoryMania_020_TalkTo01.locbin": [
+    {
+      "key": "Joy_001_f",
+      "en": "Thanks for joining us, {PlayerName}! You know the drill. We need you to look at the Memory and <Lore>spot what's missing</Lore>.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Joy_000_f",
+      "en": "Here ya go!",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_020_Joy_MemoryMania_020_TalkTo02.locbin": [
+    {
+      "key": "Joy_001_f",
+      "en": "What's the news, Detective {PlayerName}? What's missing from Goofy's House?",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "A boot.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "A fish on the wall.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "A book.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Joy_002_f",
+      "en": "Makes sense to me! Let's <Lore>search the place it went missing for clues</Lore>.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Joy_000_f",
+      "en": "Hmm... Maybe you should <Lore>check the Memory again</Lore>.",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_030_Joy_MemoryMania_030_BringItem01.locbin": [
+    {
+      "key": "Joy_000_f",
+      "en": "Ah-ha! A THIRD <ActivityItem>Black Feather</ActivityItem>! Wait a minute... This reminds me of an animal I've seen somewhere...",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Joy_001_f",
+      "en": "We'll have to keep an eye out for where this feathered thief strikes next.",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_030_Joy_MemoryMania_030_Intro.locbin": [
+    {
+      "key": "Joy_000_f",
+      "en": "{PlayerName}, the black-feathered thief is at it AGAIN. This is just like one of Riley's mystery novels!",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Joy_001_f",
+      "en": "Can you meet me <Lore>in Mickey's House</Lore>?",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's investigate!",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'll get back to you.",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_030_Joy_MemoryMania_030_Ongoing01.locbin": [
+    {
+      "key": "Joy_000_f",
+      "en": "Meet me in Mickey's House!",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_030_Joy_MemoryMania_030_Ongoing02.locbin": [
+    {
+      "key": "Joy_000_f",
+      "en": "You need to open the Memory that Mickey gave you and see what's missing from his House.",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_030_Joy_MemoryMania_030_Ongoing03.locbin": [
+    {
+      "key": "Joy_000_f",
+      "en": "Could you take a look at the last place we saw the photo frame in Mickey's House?",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_030_Joy_MemoryMania_030_Ongoing04.locbin": [
+    {
+      "key": "Joy_000_f",
+      "en": "Let's go over the case details, {PlayerName}.",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_030_Joy_MemoryMania_030_Ongoing05.locbin": [
+    {
+      "key": "Joy_000_f",
+      "en": "Let's talk to Mickey about the scene of the crime in his House. I mean, literally. Let's talk to him about the scene of the crime in his House WHILE standing in his House.",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_030_Joy_MemoryMania_030_Ongoing06.locbin": [
+    {
+      "key": "Joy_000_f",
+      "en": "Let's check the place we last saw Mickey's photo frame in his House.",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_030_Joy_MemoryMania_030_TalkTo01.locbin": [
+    {
+      "key": "Joy_000_f",
+      "en": "Hey there, {PlayerName}! I sure am glad you're here. Joy says you're the best detective in the Village.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Joy_001_f",
+      "en": "That's right!",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Joy_002_f",
+      "en": "Here's the <Lore>Memory</Lore>, pal. Can ya tell us what's missing?",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_030_Joy_MemoryMania_030_TalkTo02.locbin": [
+    {
+      "key": "Joy_000_f",
+      "en": "All right, Detective {PlayerName}, what's missing from Mickey's House?",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "A rug.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "A photo frame.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "A chair.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Joy_001_f",
+      "en": "Hmm... I'm not sure about that. Could you check again?",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Joy_002_f",
+      "en": "That's gotta be it! Well, you know what to do. <Lore>Take a closer look at the place the frame went missing.</Lore>",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_040_Joy_MemoryMania_040_Intro.locbin": [
+    {
+      "key": "Joy_000_f",
+      "en": "{PlayerName}, I've had a major break in \"The Case of the Black Feathers.\"",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Joy_004_f",
+      "en": "I finally think it can be solved!",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm ready to solve this mystery for good!",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Let's talk about this later.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Joy_001_f",
+      "en": "I saw a trail of black feathers leading to the <Lore>Cursed Cave on Dazzle Beach</Lore>.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Joy_005_f",
+      "en": "I'm guessing the culprit's inside!",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_040_Joy_MemoryMania_040_Ongoing01.locbin": [
+    {
+      "key": "Joy_000_f",
+      "en": "We need to go to the Cursed Cave on Dazzle Beach.",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_040_Joy_MemoryMania_040_Ongoing02.locbin": [
+    {
+      "key": "Joy_000_f",
+      "en": "Is that a goose in the Cursed Cave?! Let me try and talk to it.",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_040_Joy_MemoryMania_040_Ongoing03.locbin": [
+    {
+      "key": "Joy_000_f",
+      "en": "Let's close this case, {PlayerName}.",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "MiniEvent24_Joy/Joy_Joy_MemoryMania_040_Joy_MemoryMania_040_TalkTo01.locbin": [
+    {
+      "key": "Joy_000_f",
+      "en": "So the culprit taking all the stuff from Villagers' Houses WASN'T a master thief at all!",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Joy_001_f",
+      "en": "It was just a cute little goose who needs someone to look after it.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Joy_002_f",
+      "en": "I know you'll do a great job, {PlayerName}. Mystery solved!",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ]
+}

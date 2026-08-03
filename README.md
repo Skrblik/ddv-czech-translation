@@ -1,26 +1,26 @@
 # 🏰 Disney Dreamlight Valley – Český překlad
 
-Kompletní český překlad pro hru **Disney Dreamlight Valley** včetně Adventure Packu **Honeyglow Woods** (Medvídek Pú, Prasátko, Ijáček a Stokorcový les).
+Kompletní český překlad pro hru **Disney Dreamlight Valley** včetně Adventure Packu **Honeyglow Woods** (Medvídek Pú, Prasátko, Ijáček a Stokorcový les) a updatu **Pixel Perfect** (Raubíř Ralph a Vanelopka).
 
 > ### ⚠️ Důležité – verze hry
-> **Kompatibilní verze hry:** `v1.24.2.6` + **4 DLCs**  
+> **Kompatibilní verze hry:** `v1.24.11.2` + **4 DLCs**  
 > Překlad je určen pro uvedenou verzi hry. Na novějších verzích nemusí být všechny texty funkční.
 
 ## 📊 Stav překladu
 
 | Metrika | Počet |
 |---------|-------|
-| **Celkem klíčů** | 142 401 |
-| **Přeložitelné klíče** | 141 354 |
-| **Přeloženo celkem** | 141 181 (99,9 %) |
-| ↳ Předexistující překlad ([666joxer](https://komunitni-preklady.org/preklad/disney-dreamlight-valley)) | 135 067 |
-| ↳ **Náš překlad (AI-assisted)** | **6 114** |
-| Nepřeloženo | 173 |
+| **Celkem klíčů** | 145 001 |
+| **Přeložitelné klíče** | 143 954 |
+| **Přeloženo celkem** | 141 160 (98,1 %) |
+| ↳ Předexistující překlad ([666joxer](https://komunitni-preklady.org/preklad/disney-dreamlight-valley)) | 135 058 |
+| ↳ **Náš překlad (AI-assisted)** | **6 102** |
+| Nepřeloženo | 2 794 |
 | Systémové tagy (nepřekládá se) | 1 047 |
 
 ## 🎯 Co jsme přeložili my
 
-Náš překlad pokrývá **6 114 klíčů**, které v originální české lokalizaci chyběly. Jedná se především o:
+Náš překlad pokrývá **6 102 klíčů**, které v originální české lokalizaci chyběly. Jedná se především o:
 
 ### Adventure Pack "Honeyglow Woods" (Medvídek Pú) – kompletní překlad
 | Kategorie | Náš překlad | Celkem |
@@ -69,7 +69,7 @@ ddv-czech-translation/
     ├── WinnieDLC_Winnie.json  # Medvídek Pú dialogy
     ├── WinnieDLC_Piglet.json  # Prasátko dialogy
     ├── WinnieDLC_Eeyore.json  # Ijáček dialogy
-    ├── ...                    # a další (751 kategorií)
+    ├── ...                    # a další (846 kategorií)
     └── [kategorie].json
 ```
 
@@ -127,6 +127,15 @@ Při překladu jsme dodržovali tyto české názvy:
 | Busy Bees' House | Dům pilných včelek |
 | Everoak Tree | Věčný dub |
 | Ursula | Uršula |
+| Wreck-It Ralph | Raubíř Ralph |
+| Vanellope | Vanelopka |
+| Sulley | Sully |
+| The Forgotten | Zapomenutý |
+| Scrooge McDuck | Scrooge McKvák |
+| Star Path | Hvězdná stezka |
+| Dreamlight | Dreamlight |
+| Star Coins | Hvězdné mince |
+| Moonstones | Měsíční kameny |
 
 ## ⚙️ Technické detaily
 
