@@ -201,10 +201,44 @@ def apply_translations(translation_json):
             by_file[fpath] = {}
         by_file[fpath][audio_id] = translation_text
         
-    # We open the game's current LocDB_en-US.zip, and copy everything to a temp zip, modifying the translated files
+    # We open the game's current LocDB_en-US.zip, copy everything to a temp zip,
+    # also add any missing files from backup, then apply translations
     with zipfile.ZipFile(zip_game, 'r') as z_in, \
+         zipfile.ZipFile(zip_backup, 'r') as z_back, \
          zipfile.ZipFile(zip_temp, 'w', compression=zipfile.ZIP_DEFLATED) as z_out:
-         
+        
+        game_files = set(z_in.namelist())
+        back_files = set(z_back.namelist())
+        
+        # First: copy missing locbin files from backup into output
+        missing = back_files - game_files
+        missing_added = 0
+        for f in sorted(missing):
+            if f.endswith('.locbin'):
+                if f in by_file:
+                    # Apply translations to the missing file too
+                    data = z_back.read(f)
+                    entries = parse_locbin(data)
+                    new_entries = []
+                    file_translations = by_file[f]
+                    applied_count = 0
+                    for audio_id, text in entries:
+                        if audio_id in file_translations:
+                            new_entries.append((audio_id, file_translations[audio_id]))
+                            applied_count += 1
+                        else:
+                            new_entries.append((audio_id, text))
+                    modified_data = serialize_locbin(new_entries)
+                    z_out.writestr(f, modified_data)
+                    print(f"  Added+translated {applied_count} in missing file {f}")
+                else:
+                    z_out.writestr(f, z_back.read(f))
+                missing_added += 1
+        
+        if missing_added:
+            print(f"  Added {missing_added} missing files from backup")
+        
+        # Then: process existing game files
         for f in z_in.namelist():
             if f in by_file:
                 # Modify file
