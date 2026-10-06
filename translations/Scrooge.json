@@ -4779,6 +4779,44 @@
       "original_cz": "Ale tohle je rozumná investice! *povzdech* No, vrať se sem, až se vzpamatuješ."
     }
   ],
+  "Scrooge/Scrooge_UnlocksAndUpgrades_OogieBoogieHouseUnlock.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "A House for Oogie Boogie? Good grief, if we MUST.",
+      "cz": "Dům pro Oogie Boogieho? No nazdar, když tedy MUSÍME.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's build his House! (Use <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>",
+      "cz": "Postavme mu dům! (Použít <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Perhaps some other time.",
+      "cz": "Možná někdy jindy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "I hope you know what you're doin', {PlayerName}. One House comin' right up...",
+      "cz": "Doufám, že víš, co děláš, {PlayerName}. Jeden dům hned bude...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Seems you don't have the funds for this particular property. I cannae lie, I'm quite relieved we have peace for a bit longer... *sigh*",
+      "cz": "Zdá se, že na tuhle nemovitost nemáš dost peněz. Nebudu lhát, docela se mi ulevilo, že budeme mít ještě chvíli klid... *vzdech*",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "We're in agreement on that! Take your time with this one, aye?",
+      "cz": "V tom se shodneme! S tímhle si dej načas, ano?",
+      "source": "our_translation"
+    }
+  ],
   "Scrooge/Scrooge_UnlocksAndUpgrades_PeterPanHouseUnlock.locbin": [
     {
       "key": "Scrooge_000_f",
@@ -5261,50 +5299,50 @@
     {
       "key": "Scrooge_000_f",
       "en": "Och, I heard about poor Ralph's predicament.",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Ach, slyšel jsem o Ralfově tíživé situaci.",
+      "source": "our_translation"
     },
     {
       "key": "Scrooge_001_f",
       "en": "Stuck is he? Well, let's see if we can help the muckle fella.",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Zasekl se, co? No, uvidíme, jestli tomu velkému chlapíkovi pomůžeme.",
+      "source": "our_translation"
     },
     {
       "key": "Player_000_choice_000_f",
       "en": "Let's build a House for Ralph! (Use {UpgradePrice}<sprite=\"iconCurrencySoft\" index=0>)",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Pojďme Ralfovi postavit dům! (Použít {UpgradePrice}<sprite=\"iconCurrencySoft\" index=0>)",
+      "source": "our_translation"
     },
     {
       "key": "Player_000_choice_001_f",
       "en": "I need one last picture with T-Pose Ralph!",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Potřebuju ještě jednu fotku s T-Pose Ralfem!",
+      "source": "our_translation"
     },
     {
       "key": "Scrooge_003_f",
       "en": "Aye, I'm gonna BUILD IT!",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Aye, POSTAVÍM to!",
+      "source": "our_translation"
     },
     {
       "key": "Scrooge_002_f",
       "en": "Heh-heh. Just a wee joke instead of \"wreck it.\" Och, never mind.",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Heh-heh. Jen malý vtípek místo \"rozbít to.\" Ach, to je jedno.",
+      "source": "our_translation"
     },
     {
       "key": "Scrooge_004_f",
       "en": "You've not got the Star Coins for this, {PlayerName}. You see, I've made a few upgrades to Ralph's humble abode. Come back as soon as you've got the funds.",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Na tohle nemáš dost Hvězdných mincí, {PlayerName}. Víš, udělal jsem pár vylepšení Ralfova skromného příbytku. Přijď, až budeš mít prostředky.",
+      "source": "our_translation"
     },
     {
       "key": "Scrooge_005_f",
       "en": "Very well. *sigh* Let's get him unstuck as soon as we can though.",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Dobrá. *povzdech* Ale pojďme ho odsud dostat co nejdřív.",
+      "source": "our_translation"
     }
   ],
   "Scrooge/Scrooge_UnlocksAndUpgrades_RemyHouseUnlock.locbin": [

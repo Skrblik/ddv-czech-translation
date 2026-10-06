@@ -1,28 +1,50 @@
 # 🏰 Disney Dreamlight Valley – Český překlad
 
-Kompletní český překlad pro hru **Disney Dreamlight Valley** včetně Adventure Packu **Honeyglow Woods** (Medvídek Pú, Prasátko, Ijáček a Stokorcový les) a updatu **Pixel Perfect** (Raubíř Ralph a Vanelopka).
+Kompletní český překlad pro hru **Disney Dreamlight Valley** včetně Adventure Packu **Honeyglow Woods** (Medvídek Pú, Prasátko, Ijáček a Stokorcový les), updatu **Pixel Perfect** (Raubíř Ralph a Vanelopka) a updatu **Season of Scares v1.25** (Oogie Boogie questy, Lucifer bundle, halloweenský Floating Festival).
 
 > ### ⚠️ Důležité – verze hry
-> **Kompatibilní verze hry:** `v1.24.11.2` + **4 DLCs**  
+> **Kompatibilní verze hry:** `v1.25.0-8687` + **4 DLCs**  
 > Překlad je určen pro uvedenou verzi hry. Na novějších verzích nemusí být všechny texty funkční.
 
 ## 📊 Stav překladu
 
 | Metrika | Počet |
 |---------|-------|
-| **Celkem klíčů** | 145 001 |
-| **Přeložitelné klíče** | 143 954 |
-| **Přeloženo celkem** | 141 160 (98,1 %) |
-| ↳ Předexistující překlad ([666joxer](https://komunitni-preklady.org/preklad/disney-dreamlight-valley)) | 135 058 |
-| ↳ **Náš překlad (AI-assisted)** | **6 102** |
-| Nepřeloženo | 2 794 |
+| **Celkem klíčů** | 147 733 |
+| **Přeložitelné klíče** | 146 686 |
+| **Přeloženo celkem** | 146 103 (99,6 %) |
+| ↳ Předexistující překlad ([666joxer](https://komunitni-preklady.org/preklad/disney-dreamlight-valley)) | 134 943 |
+| ↳ **Náš překlad (AI-assisted)** | **11 160** |
+| Nepřeloženo | 583 |
 | Systémové tagy (nepřekládá se) | 1 047 |
 
-## 🎯 Co jsme přeložili my
+## 🎯 Co jsme přeložili my (nově ve v1.25 – Season of Scares)
 
-Náš překlad pokrývá **6 102 klíčů**, které v originální české lokalizaci chyběly. Jedná se především o:
+Náš překlad nově pokrývá **update Season of Scares (v1.25)** – Oogie Boogie questy, Lucifer bundle, halloweenský Floating Festival a nové předměty:
 
-### Adventure Pack "Honeyglow Woods" (Medvídek Pú) – kompletní překlad
+| Kategorie | Náš překlad | Celkem |
+|-----------|-------------|--------|
+| Root (UI, menu, předměty – nové v 1.25) | 2 492 | 30 384 |
+| OogieBoogie_OogieBoogie (questy Oogie Boogieho) | 1 003 | 1 017 |
+| WreckItRalph_Ralph (Raubíř Ralph dialogy) | 920 | 999 |
+| StarPathFTUE_Merlin | 149 | 149 |
+| WreckItRalph_TheForgotten | 116 | 122 |
+| OogieBoogie_OogieBoogieQuizz (kvíz) | 67 | 73 |
+| LuciferBundle25_Cinderella (Lucifer + Popelka) | 41 | 41 |
+| LuciferBundle25_FairyGodMother | 40 | 40 |
+| LuciferBundle25_Merlin | 32 | 32 |
+| LuciferBundle25_Remy | 31 | 31 |
+| LuciferBundle25_Mickey | 30 | 30 |
+| OogieBoogie_Scrooge | 28 | 28 |
+| OogieBoogie_Merlin | 23 | 24 |
+| WreckItRalph_Vanellope | 49 | 49 |
+| WreckItRalph_MotherGothel | 23 | 23 |
+| WreckItRalph_Sully | 19 | 19 |
+| OogieBoogie_Remy | 19 | 19 |
+| OogieBoogie_Mickey | 17 | 17 |
+| + další LuciferBundle25 postavy (Ariel, Jack, Jasmína, Stitch…) | 65 | 65 |
+
+### Adventure Pack "Honeyglow Woods" (Medvídek Pú) – kompletní překlad (z minulé verze)
 | Kategorie | Náš překlad | Celkem |
 |-----------|-------------|--------|
 | WinnieDLC_Winnie | 1 715 | 1 736 |

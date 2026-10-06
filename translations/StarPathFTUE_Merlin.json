@@ -1,0 +1,938 @@
+{
+  "StarPathFTUE_Merlin/Merlin_Barks_BoardState.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Oh? It would seem something new has appeared on our Event Board!",
+      "cz": "Ale? Zdá se, že se na naší Nástěnce událostí objevilo něco nového!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Ah! It seems your efforts have been rewarded. Don't forget to gather the fruits of your labor.",
+      "cz": "Ach! Zdá se, že tvé úsilí bylo odměněno. Nezapomeň sklidit plody své práce.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Splendid! Your efforts have brought even more magic to the Valley, my friend.",
+      "cz": "Výtečně! Tvé úsilí přineslo do Údolí ještě více kouzel, příteli.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Ah, yes. Well, you'd best get to it. As will I, my friend!",
+      "cz": "Ach ano. Tak se do toho raději pusť. Stejně jako já, příteli!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "Such a peaceful day in the Valley is quite rare. Let's enjoy it, shall we?",
+      "cz": "Takový klidný den v Údolí je poměrně vzácný. Užijme si ho, ano?",
+      "source": "our_translation"
+    }
+  ],
+  "StarPathFTUE_Merlin/Merlin_FTUE_Merl_StarPath_010_FTUE_Merl_StarPath_010_Ongoing01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "The optimal spot for the Event Board would be near your <Lore>House</Lore>. That way, you're certain to pass by it every day.",
+      "cz": "Nejvhodnější místo pro Nástěnku událostí by bylo poblíž tvého <Lore>domu</Lore>. Tak kolem ní každý den určitě projdeš.",
+      "source": "our_translation"
+    }
+  ],
+  "StarPathFTUE_Merlin/Merlin_FTUE_Merl_StarPath_010_FTUE_Merl_StarPath_010_Ongoing02.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Step up to the Event Board, my friend. You'll find all of today's items of interest waiting for you there.",
+      "cz": "Přistup k Nástěnce událostí, příteli. Najdeš tam vše zajímavé pro dnešní den.",
+      "source": "our_translation"
+    }
+  ],
+  "StarPathFTUE_Merlin/Merlin_FTUE_Merl_StarPath_010_FTUE_Merl_StarPath_010_Ongoing03.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Ah, it seems you've already completed your first activity.",
+      "cz": "Ach, zdá se, že jsi již dokončil svou první aktivitu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Go ahead and mark it as complete on the Event Board. I find ticking things off of lists to be rather satisfying, don't you?",
+      "cz": "Jen to na nástěnce událostí označ jako splněné. Odškrtávat si položky ze seznamu je nesmírně uspokojivé, nemyslíš?",
+      "source": "our_translation"
+    }
+  ],
+  "StarPathFTUE_Merlin/Merlin_FTUE_Merl_StarPath_010_FTUE_Merl_StarPath_010_Ongoing04.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Bravo! Your efforts have already been rewarded. You may now collect your first prize.",
+      "cz": "Bravo! Tvé úsilí už bylo odměněno. Nyní si můžeš vyzvednout svou první cenu.",
+      "source": "our_translation"
+    }
+  ],
+  "StarPathFTUE_Merlin/Merlin_FTUE_Merl_StarPath_010_FTUE_Merl_StarPath_010_Ongoing05.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Carry on with the activities from the Event Board, my friend.",
+      "cz": "Pokračuj v činnostech z nástěnky událostí, příteli můj.",
+      "source": "our_translation"
+    }
+  ],
+  "StarPathFTUE_Merlin/Merlin_FTUE_Merl_StarPath_010_FTUE_Merl_StarPath_010_Ongoing06.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "The Event Board still has more <Lore>enchanted opportunities</Lore> waiting for you. I have a feeling they'll reveal more about these mysterious shooting stars.",
+      "cz": "Na nástěnce událostí na tebe stále čekají další <Lore>kouzelné příležitosti</Lore>. Mám takový pocit, že nám prozradí více o těch záhadných padajících hvězdách.",
+      "source": "our_translation"
+    }
+  ],
+  "StarPathFTUE_Merlin/Merlin_FTUE_Merl_StarPath_010_FTUE_Merl_StarPath_010_Ongoing07.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Go on, my friend! You've earned these treasures through kindness.",
+      "cz": "Jen do toho, příteli můj! Tyto poklady sis vysloužil svou laskavostí.",
+      "source": "our_translation"
+    }
+  ],
+  "StarPathFTUE_Merlin/Merlin_FTUE_Merl_StarPath_010_FTUE_Merl_StarPath_010_Ongoing08.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Dreamlight Valley has a way of recognizing kindness. Be sure to collect what awaits you.",
+      "cz": "Dreamlight Valley umí laskavost ocenit. Nezapomeň si vyzvednout to, co na tebe čeká.",
+      "source": "our_translation"
+    }
+  ],
+  "StarPathFTUE_Merlin/Merlin_FTUE_Merl_StarPath_010_FTUE_Merl_StarPath_010_Ongoing09.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Ah, there you are, my friend! I could use your assistance with a rather curious matter. Come speak to me as soon as you have a moment!",
+      "cz": "Á, tady jsi, příteli můj! Potřeboval bych tvou pomoc v jedné dosti kuriózní záležitosti. Přijď si se mnou promluvit, jakmile budeš mít chvilku!",
+      "source": "our_translation"
+    }
+  ],
+  "StarPathFTUE_Merlin/Merlin_FTUE_Merl_StarPath_010_FTUE_Merl_StarPath_010_Ongoing10.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Go on, my friend. Have a look at the <Lore>Event Board</Lore> and see what the Valley has in store for you today.",
+      "cz": "Jen do toho, příteli můj. Podívej se na <Lore>nástěnku událostí</Lore> a zjisti, co si pro tebe dnes Údolí přichystalo.",
+      "source": "our_translation"
+    }
+  ],
+  "StarPathFTUE_Merlin/Merlin_FTUE_Merl_StarPath_010_FTUE_Merl_StarPath_010_Ongoing11.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Excellent! Now then, there is another curious matter I'd like to discuss with you.",
+      "cz": "Výborně! A teď bych s tebou rád probral další kuriózní záležitost.",
+      "source": "our_translation"
+    }
+  ],
+  "StarPathFTUE_Merlin/Merlin_FTUE_Merl_StarPath_010_FTUE_Merl_StarPath_010_Ongoing12.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Have you made use of one of the treasures you've discovered with the Event Board yet, {PlayerName}?",
+      "cz": "Využil jsi už některý z pokladů, které jsi díky nástěnce událostí objevil, {PlayerName}?",
+      "source": "our_translation"
+    }
+  ],
+  "StarPathFTUE_Merlin/Merlin_FTUE_Merl_StarPath_010_FTUE_Merl_StarPath_010_Outro.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "{PlayerName}, you're just in time. According to my calculations, our venture has been an unqualified success!",
+      "cz": "{PlayerName}, jdeš právě včas. Podle mých výpočtů měl náš podnik naprosto jednoznačný úspěch!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "The Event Board has become exactly what I'd hoped it would be. The Villagers are discovering new activities, lending one another a hand, and making Dreamlight Valley livelier than ever.",
+      "cz": "Nástěnka událostí se stala přesně tím, v co jsem doufal. Vesničané objevují nové činnosti, pomáhají si navzájem a dělají Dreamlight Valley živějším než kdy dřív.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "It seems everyone enjoys using it.",
+      "cz": "Zdá se, že ji všichni rádi používají.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Your experiment was a success!",
+      "cz": "Tvůj experiment byl úspěšný!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "There's always something new to do now.",
+      "cz": "Teď je tu vždycky něco nového na práci.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "And nothing could please me more.",
+      "cz": "A nic by mě nemohlo potěšit víc.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "{PlayerName}, you've embraced every opportunity to help the Valley, all while never losing sight of our curious celestial mystery. You've collected a great number of our shooting star shards — a wonderful achievement all its own!",
+      "cz": "{PlayerName}, chopil ses každé příležitosti pomoci Údolí, a přitom jsi nikdy neztratil ze zřetele naši kuriózní nebeskou záhadu. Nasbíral jsi spoustu úlomků našich padajících hvězd – což je samo o sobě obdivuhodný úspěch!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I was happy to help.",
+      "cz": "Bylo mi potěšením pomoci.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "We're still only getting started.",
+      "cz": "Teprve začínáme.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I couldn't have done it without everyone else.",
+      "cz": "Bez ostatních by to nešlo.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "And your assistance is greatly appreciated.",
+      "cz": "A tvé pomoci si nesmírně vážím.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "You know, stars do far more than brighten the night sky.",
+      "cz": "Víš, hvězdy dělají mnohem víc, než jen že rozjasňují noční oblohu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_012_f",
+      "en": "For countless ages, they've guided travelers on journeys through the darkness.",
+      "cz": "Po nesčetné věky vedly poutníky na jejich cestách temnotou.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_013_f",
+      "en": "I believe the Event Board serves much the same purpose. Each small activity, each kind deed, helps guide the Villagers toward one another and makes Dreamlight Valley shine just a little brighter.",
+      "cz": "Věřím, že nástěnka událostí slouží velmi podobnému účelu. Každá drobná činnost, každý laskavý skutek pomáhá vést vesničany k sobě navzájem a rozzáří Dreamlight Valley o něco jasněji.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_014_f",
+      "en": "I never thought of it that way.",
+      "cz": "Takto jsem o tom nikdy nepřemýšlel.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_015_f",
+      "en": "The brightest constellations are not made from a single star but from many, each playing its part.",
+      "cz": "Nejzářivější souhvězdí netvoří jediná hvězda, ale mnoho hvězd, z nichž každá hraje svou roli.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_016_f",
+      "en": "Thanks to your generosity and your determination to uncover the mystery of the fallen star, I hereby name you an <i>Honorary Astronomer of Dreamlight Valley</i>.",
+      "cz": "Za tvou štědrost a odhodlání odhalit záhadu padlé hvězdy tě tímto jmenuji <i>Čestným astronomem Dreamlight Valley</i>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "I rather hoped you'd say that.",
+      "cz": "Tak trochu jsem doufal, že tohle řekneš.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "The finest discoveries are rarely made alone.",
+      "cz": "Ty nejlepší objevy se jen zřídka rodí o samotě.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "I was cautiously optimistic, but the results far exceeded my expectations.",
+      "cz": "Byl jsem opatrně optimistický, ale výsledky dalece předčily má očekávání.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "Just as it should be in a thriving Valley.",
+      "cz": "Přesně tak, jak to má být v prosperujícím Údolí.",
+      "source": "our_translation"
+    }
+  ],
+  "StarPathFTUE_Merlin/Merlin_FTUE_Merl_StarPath_010_FTUE_Merl_StarPath_010_TalkTo01.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Splendid! Placed there, I'd say the Event Board will be quite helpful.",
+      "cz": "Výborně! Tam umístěná bude Nástěnka událostí jistě velmi užitečná.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Now then, before you rush off, is there anything you'd like to know about it? Questions are the sign of a curious mind, you know.",
+      "cz": "Nuže, než odběhneš, je ještě něco, co bys o ní chtěl vědět? Otázky jsou známkou zvídavé mysli, víš.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "What will I find on it?",
+      "cz": "Co na ní najdu?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Should I check it often?",
+      "cz": "Mám ji kontrolovat často?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Let's see what needs doing today!",
+      "cz": "Tak se podíváme, co je dnes potřeba udělat!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Why, all sorts of happenings from across the Valley! New activities, special occasions, and even rewards waiting to be claimed.",
+      "cz": "Ale ovšem, všelijaké události z celého Údolí! Nové aktivity, výjimečné příležitosti, a dokonce i odměny čekající na vyzvednutí.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "The Event Board has an excellent memory. Much more so than most of us. Heh-heh.",
+      "cz": "Nástěnka událostí má výbornou paměť. Mnohem lepší než většina z nás. Hehe.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "I would. I may have understated its magical properties before. The board has been enchanted to keep itself up to date. As new happenings unfold across the Valley, you'll see them listed there.",
+      "cz": "To bys měl. Možná jsem její kouzelné vlastnosti předtím trochu podcenil. Nástěnka je očarovaná, aby se sama aktualizovala. Jakmile se v Údolí objeví nové události, uvidíš je tam vypsané.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "A quick glance now and then may save you from missing something exciting.",
+      "cz": "Letmý pohled tu a tam tě může zachránit před tím, aby ti uniklo něco vzrušujícího.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "Excellent! The best way to learn is by doing!",
+      "cz": "Výborně! Nejlépe se člověk učí praxí!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "You must merely walk over to the Event Board and <Lore>have a look at today's activities</Lore>. You may find a new adventure or some treasure waiting for you.",
+      "cz": "Stačí dojít k Nástěnce událostí a <Lore>podívat se na dnešní aktivity</Lore>. Možná tam na tebe čeká nové dobrodružství nebo nějaký poklad.",
+      "source": "our_translation"
+    }
+  ],
+  "StarPathFTUE_Merlin/Merlin_FTUE_Merl_StarPath_010_FTUE_Merl_StarPath_010_TalkTo02.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Ah-ha! It seems my little experiment was a success after all.",
+      "cz": "Aha! Zdá se, že můj malý experiment byl nakonec úspěšný.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "Splendid! The Event Board is doing exactly what I'd hoped. Keeping the Valley's happenings in one place should prove quite useful.",
+      "cz": "Výborně! Nástěnka událostí dělá přesně to, v co jsem doufal. Mít všechny události v Údolí na jednom místě se jistě ukáže jako velmi užitečné.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Ah, that reminds me! Speaking of happenings...",
+      "cz": "Ach, to mi připomíná! Když už mluvíme o událostech...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Go on, I'm listening.",
+      "cz": "Povídej, poslouchám.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Another mystery?",
+      "cz": "Další záhada?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Don't keep me in suspense!",
+      "cz": "Nenapínej mě!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "Last night, while observing the stars, I witnessed something most unusual.",
+      "cz": "Včera v noci jsem při pozorování hvězd spatřil něco velice neobvyklého.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "One of them seemed to break apart overhead. Rather than fading away, it scattered countless tiny fragments across the Valley.",
+      "cz": "Jedna z nich se zdánlivě rozpadla přímo nad námi. Místo aby pohasla, rozesela po celém Údolí nespočet drobných úlomků.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "I've searched every volume on celestial magic I have — and that's quite a respectable collection — but I can find no mention of such a phenomenon.",
+      "cz": "Prohledal jsem každý svazek o nebeské magii, který vlastním – a to je sbírka vpravdě úctyhodná – ale o takovém jevu jsem nenašel ani zmínku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Should we be worried?",
+      "cz": "Měli bychom se obávat?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Could the fragments be magical?",
+      "cz": "Mohly by být ty úlomky kouzelné?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Looks like we have another mystery to solve.",
+      "cz": "Vypadá to, že máme další záhadu k vyřešení.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "I certainly hope not, though experience has taught me that unusual magic deserves our attention.",
+      "cz": "Rozhodně doufám, že ne, ačkoliv mě zkušenost naučila, že neobvyklá magie si zaslouží naši pozornost.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_014_f",
+      "en": "For now, let's keep an eye on the Event Board for any changes. You may also wish to spread the word that it's there to the other Villagers.",
+      "cz": "Prozatím bedlivě sledujme nástěnku událostí, zda se na ní něco nezmění. Možná bys také mohl ostatním vesničanům povědět, že tu je.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_015_f",
+      "en": "I suggest you speak with <Lore>Mickey</Lore>, <Lore>Goofy</Lore>, and <Lore>Scrooge McDuck</Lore>. Tell them about the Event Board and ask whether they've seen anything unusual since the star fell.",
+      "cz": "Navrhuji, abys promluvil s <Lore>Mickeym</Lore>, <Lore>Goofym</Lore> a <Lore>Strýčkem Skrblíkem</Lore>. Pověz jim o nástěnce událostí a zeptej se, zda od pádu hvězdy neviděli něco neobvyklého.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_012_f",
+      "en": "I would be most surprised if they weren't. A star behaving so strangely is seldom an ordinary occurrence.",
+      "cz": "Velice by mě překvapilo, kdyby nebyly. Hvězda, která se chová tak podivně, jen zřídka věstí něco obyčejného.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_013_f",
+      "en": "Yes, well, curiosity has served us nicely before. I daresay it shall again.",
+      "cz": "Ano, nu, zvědavost nám už dříve dobře posloužila. Troufám si říct, že poslouží znovu.",
+      "source": "our_translation"
+    }
+  ],
+  "StarPathFTUE_Merlin/Merlin_FTUE_Merl_StarPath_010_FTUE_Merl_StarPath_010_TalkTo03.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Ah, there you are, my friend! I must say, I'm delighted to see the Villagers making use of the Event Board. Our little project appears to be working rather well, wouldn't you say?",
+      "cz": "Á, tady jsi, příteli! Musím říct, že mě těší vidět, jak vesničané využívají nástěnku událostí. Zdá se, že náš malý projekt funguje docela dobře, nemyslíš?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "It seems to be helping everyone.",
+      "cz": "Zdá se, že to pomáhá všem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "You were right!",
+      "cz": "Měl jsi pravdu!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I think the Villagers like having everything in one place.",
+      "cz": "Myslím, že vesničané rádi mají všechno na jednom místě.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Splendid! That's just as I'd hoped.",
+      "cz": "Výtečně! Přesně v to jsem doufal.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_005_f",
+      "en": "Of course, Dreamlight Valley never stays the same for long. New opportunities seem to appear with each passing day.",
+      "cz": "Dreamlight Valley ovšem nikdy nezůstává dlouho stejné. Zdá se, že s každým dalším dnem se objevují nové příležitosti.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "It would serve you well to make a habit of taking a close look at the Event Board. You never know what curious activity might appear next.",
+      "cz": "Uděláš dobře, když si zvykneš nástěnku událostí pozorně prohlížet. Nikdy nevíš, jaká podivuhodná činnost se na ní příště objeví.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I'll keep an eye on it.",
+      "cz": "Budu ji sledovat.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I wonder what will show up next.",
+      "cz": "Jsem zvědavý, co se objeví příště.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "I hope there are more surprises waiting.",
+      "cz": "Doufám, že nás čeká ještě víc překvapení.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "See that you do.",
+      "cz": "Tak to dodrž.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "Now then, have you made use of one of the rewards you've earned?",
+      "cz": "Nuže, využil jsi už některou z odměn, které jsi získal?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "It would be a rather nice way to show the Villagers what awaits those who lend a helping hand.",
+      "cz": "Byl by to docela pěkný způsob, jak vesničanům ukázat, co čeká ty, kdo podají pomocnou ruku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "As do I! Curiosity has led to many remarkable discoveries.",
+      "cz": "Já také! Zvědavost vedla k mnoha pozoruhodným objevům.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "A little encouragement never hurts, provided it inspires good deeds.",
+      "cz": "Trocha povzbuzení nikdy neuškodí, pokud inspiruje k dobrým skutkům.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_003_f",
+      "en": "Heh-heh. It's always satisfying when a theory proves correct.",
+      "cz": "Heh-heh. Vždycky potěší, když se teorie ukáže jako správná.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "As they should! Simple and straightforward beats chaos any day.",
+      "cz": "Jak se patří! Jednoduchost a přímočarost nad chaosem vítězí každý den.",
+      "source": "our_translation"
+    }
+  ],
+  "StarPathFTUE_Merlin/Merlin_FTUE_Merl_StarPath_010_FTUE_Merl_StarPath_010_TalkTo04.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Ah, there you are, my friend! Just who I was hoping to see.",
+      "cz": "Á, tady jsi, příteli můj! Právě tebe jsem doufal spatřit.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_001_f",
+      "en": "I'm sure you've noticed all the goings on around Dreamlight Valley...",
+      "cz": "Určitě ti neuniklo všechno to dění tady v Dreamlight Valley...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_002_f",
+      "en": "Why, there's nearly as much to keep track of as there are white hairs in my beard! Heh-heh.",
+      "cz": "No páni, je toho ke sledování skoro tolik, kolik mám bílých vlasů v plnovousu! He-he.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "There's definitely never a dull moment around here.",
+      "cz": "Tady se člověk rozhodně nikdy nenudí.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Even you're getting overwhelmed? That's saying something.",
+      "cz": "I ty jsi zahlcený? To už o něčem svědčí.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Maybe the Valley just likes keeping us busy...",
+      "cz": "Možná nás Údolí prostě rádo zaměstnává...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_004_f",
+      "en": "Right you are.",
+      "cz": "Máš naprostou pravdu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_006_f",
+      "en": "Now then, I've tried filling page after page with notes to track it all, but that led to unruly mountains of scrap paper everywhere!",
+      "cz": "Nuže, zkoušel jsem popsat stránku za stránkou poznámkami, abych to všechno sledoval, ale vedlo to jen k nezkrotným horám popsaných papírků všude kolem!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_007_f",
+      "en": "And as much as I relish a journal, the Valley needs something a bit more visible, for all to see, don't you think?",
+      "cz": "A ačkoliv si deník nade vše vychutnávám, Údolí potřebuje něco viditelnějšího, pro všechny na očích, nemyslíš?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "A magical solution?",
+      "cz": "Magické řešení?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "What did you have in mind?",
+      "cz": "Co máš na mysli?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Please don't say \"more paperwork.\"",
+      "cz": "Prosím, jen neříkej „více papírování.“",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_008_f",
+      "en": "Magic? No, not on its own! Magic has a sneaky habit of making simple things far too complicated. I was thinking of something much more practical with just a touch of magic in it.",
+      "cz": "Magie? Ne, ne samotná! Magie má záludný zvyk dělat z jednoduchých věcí až příliš složité. Myslel jsem na něco mnohem praktičtějšího, jen s kapkou magie.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_011_f",
+      "en": "An <Lore>Event Board</Lore>! A place where everyone can see what activities are happening around the Valley and what help is needed.",
+      "cz": "<Lore>Nástěnka událostí</Lore>! Místo, kde každý uvidí, jaké aktivity se v Údolí konají a kde je potřeba pomoc.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_012_f",
+      "en": "That way, no one has to rely on me and my journals to remember everything. I've research to get on with, you know.",
+      "cz": "Tak se nikdo nebude muset spoléhat na mě a mé deníky, aby si všechno pamatoval. Mám přece výzkum, kterému se musím věnovat, víš.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "I like that idea!",
+      "cz": "Ten nápad se mi líbí!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Sounds useful for everyone.",
+      "cz": "Zní to užitečně pro všechny.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "I'll gladly help test it!",
+      "cz": "S radostí pomůžu s testováním!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_014_f",
+      "en": "Splendid! I was hoping you'd say that.",
+      "cz": "Výtečně! Doufal jsem, že to řekneš.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_016_f",
+      "en": "I've already prepared one. Here you are, {PlayerName}.",
+      "cz": "Jednu už jsem připravil. Tady ji máš, {PlayerName}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_017_f",
+      "en": "You might place it near your <Lore>House</Lore>. After all, it's rather difficult to miss something you walk past every day!",
+      "cz": "Umísti si ji poblíž svého <Lore>domu</Lore>. Koneckonců, něco, kolem čeho chodíš každý den, se dá jen těžko přehlédnout!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_018_f",
+      "en": "Once you've done that, return to me.",
+      "cz": "Až to uděláš, vrať se za mnou.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_009_f",
+      "en": "Something simple. Much like you'd find at a school or town center. I mean, of course...",
+      "cz": "Něco jednoduchého. Podobného, jako najdeš ve škole nebo v centru města. Totiž, samozřejmě...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Merlin_010_f",
+      "en": "Goodness, no! I've had quite enough paperwork to last me several centuries... and possibly a few extra. I'm speaking of...",
+      "cz": "Proboha, ne! Papírování jsem si užil dost na několik staletí... a možná i na pár navíc. Mluvím o...",
+      "source": "our_translation"
+    }
+  ],
+  "StarPathFTUE_Merlin/Merlin_FTUE_Merl_StarPath_010_FTUE_Merl_StarPath_010_TalkTo05.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Hi, Mickey! Merlin and I just set up something new in the Valley: an Event Board.",
+      "cz": "Ahoj, Mickey! S Merlinem jsme v Údolí připravili něco nového: nástěnku událostí.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Mickey_000_f",
+      "en": "It's a place where everyone can keep track of activities and special happenings.",
+      "cz": "Je to místo, kde budou mít všichni přehled o aktivitách a mimořádných událostech.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Mickey_001_f",
+      "en": "Gosh, that sounds pretty handy!",
+      "cz": "Páni, to zní vážně šikovně!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Mickey_002_f",
+      "en": "Also, have you noticed anything unusual around the Valley lately? Merlin said he saw a shooting star break apart last night.",
+      "cz": "A taky – nevšiml sis v poslední době v Údolí něčeho neobvyklého? Merlin říkal, že včera v noci viděl rozpadnout se padající hvězdu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Mickey_003_f",
+      "en": "Really? Wow! The Valley sure is full of unusual things.",
+      "cz": "Vážně? Páni! Údolí je ale plné neobvyklých věcí.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Fair point.",
+      "cz": "To je pravda.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "This was unusual, even for the Valley.",
+      "cz": "Tohle bylo neobvyklé, i na Údolí.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I'm looking for little star fragments.",
+      "cz": "Hledám malé úlomky hvězd.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Mickey_004_f",
+      "en": "Hmm... I didn't see anything unusual last night, though. Certainly not any star pieces.",
+      "cz": "Hmm... Včera v noci jsem ale nic neobvyklého neviděl. Rozhodně žádné kousky hvězd.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Mickey_009_f",
+      "en": "Thanks, Mickey. I'll let you know if we learn anything more.",
+      "cz": "Díky, Mickey. Dám ti vědět, jestli zjistíme něco dalšího.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Mickey_010_f",
+      "en": "Thanks! And if ya happen to see another shooting star, save a wish for me, pal!",
+      "cz": "Není zač! A kdybys náhodou uviděl další padající hvězdu, schovej mi jedno přání, kamaráde!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Mickey_005_f",
+      "en": "Well, if Merlin thinks so, I'd definitely pay attention.",
+      "cz": "No, jestli si to myslí Merlin, určitě bych to nepodceňoval.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Mickey_006_f",
+      "en": "Star fragments? Gosh, I'll keep an eye out for ya, but I haven't seen any so far.",
+      "cz": "Úlomky hvězd? Páni, budu se ti po nich dívat, ale zatím jsem žádné neviděl.",
+      "source": "our_translation"
+    }
+  ],
+  "StarPathFTUE_Merlin/Merlin_FTUE_Merl_StarPath_010_FTUE_Merl_StarPath_010_TalkTo06.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Hi, Goofy! Merlin and I just put up a new Event Board. It should make it easier to keep up with everything happening around the Valley.",
+      "cz": "Ahoj, Goofy! S Merlinem jsme postavili novou nástěnku událostí. Mělo by být snazší mít přehled o všem, co se v Údolí děje.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Goofy_000_f",
+      "en": "Gawrsh, that's a swell idea! I bet it'll help me keep track of stuff I usually forget about when I go fishin'.",
+      "cz": "Jéje, to je skvělý nápad! Vsadím se, že mi to pomůže hlídat věci, na které obvykle zapomenu, když jdu na ryby.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Goofy_001_f",
+      "en": "There's one more thing. Merlin says he saw a star break apart last night, and now we're looking for the pieces.",
+      "cz": "Je tu ještě jedna věc. Merlin říká, že včera v noci viděl rozpadnout se hvězdu, a teď hledáme její kousky.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Goofy_002_f",
+      "en": "A whole star? I'll be! I always wondered where shootin' stars were shootin' off to.",
+      "cz": "Celá hvězda? No ne! Vždycky mě zajímalo, kam ty padající hvězdy vlastně padají.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Have you noticed anything unusual?",
+      "cz": "Nevšiml sis něčeho neobvyklého?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Do you think one landed nearby?",
+      "cz": "Myslíš, že nějaká přistála poblíž?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Merlin thinks the fragments are scattered around the Valley.",
+      "cz": "Merlin si myslí, že úlomky jsou rozeseté po celém Údolí.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Goofy_003_f",
+      "en": "I don't think so. But...",
+      "cz": "Nemyslím si. Ale...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Goofy_006_f",
+      "en": "Ya know, fishin' at night is one of my favorite things to do.",
+      "cz": "Víš, noční rybaření patří k mým nejoblíbenějším věcem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Goofy_007_f",
+      "en": "Sometimes the stars shine so bright on the water, it almost looks like ya could reel one in! No luck yet, though.",
+      "cz": "Někdy se hvězdy na vodě třpytí tak jasně, že to skoro vypadá, že bys jednu mohl vytáhnout! Ale zatím žádné štěstí.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Goofy_008_f",
+      "en": "Prob'ly for the best. I don't think a fishing rod is meant for catching stars.",
+      "cz": "Asi je to tak nejlepší. Nemyslím si, že je rybářský prut dělaný na chytání hvězd.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Goofy_009_f",
+      "en": "Well, shucks... Good luck, {PlayerName}. I sure hope ya figure out what happened to that one!",
+      "cz": "No, safra... Hodně štěstí, {PlayerName}. Opravdu doufám, že zjistíš, co se s tou hvězdou stalo!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Goofy_004_f",
+      "en": "I don't know, but I'll sure look for it.",
+      "cz": "Nevím, ale určitě se po tom podívám.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Goofy_005_f",
+      "en": "Wowie! That must've been quite a sight.",
+      "cz": "Júj! To musela být podívaná.",
+      "source": "our_translation"
+    }
+  ],
+  "StarPathFTUE_Merlin/Merlin_FTUE_Merl_StarPath_010_FTUE_Merl_StarPath_010_TalkTo07.locbin": [
+    {
+      "key": "Merlin_000_f",
+      "en": "Hello, Mr. McDuck. Merlin and I have set up a new Event Board. It'll help everyone keep track of activities and special happenings around the Valley.",
+      "cz": "Dobrý den, pane Skrblíku. S Merlinem jsme postavili novou nástěnku událostí. Pomůže všem sledovat aktivity a výjimečné dění v Údolí.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_000_f",
+      "en": "Och, that sounds efficient. And efficiency saves time, which is nearly as valuable as money!",
+      "cz": "Ach, to zní efektivně. A efektivita šetří čas, a ten je skoro stejně cenný jako peníze!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Merlin also asked me to ask around about something rather unusual. He saw a star break apart last night, and we're trying to track down the fragments.",
+      "cz": "Merlin mě také požádal, abych se poptal po něčem dost neobvyklém. Včera v noci viděl rozpadnout se hvězdu a snažíme se vystopovat její úlomky.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "A shattered star, ya say? Hmm... Sounds like a rare collector's item!",
+      "cz": "Rozbitá hvězda, povídáš? Hmm... To zní jako vzácný sběratelský kousek!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Do you think they're valuable?",
+      "cz": "Myslíš, že mají cenu?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Merlin believes they're important.",
+      "cz": "Merlin věří, že jsou důležité.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Anything catch your eye lately?",
+      "cz": "Nezaujalo tě v poslední době něco?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "I'd never dismiss the value of a rare find without proper investigation.",
+      "cz": "Hodnotu vzácného nálezu bych nikdy nezavrhoval bez pořádného prozkoumání.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "'Course folks have admired the stars for eons.",
+      "cz": "Lidé hvězdy samozřejmě obdivují od nepaměti.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_007_f",
+      "en": "Though, I'm not quite sure there's a monetary value that can be placed on 'em. But I'm happy to look into it further!",
+      "cz": "I když si nejsem tak docela jistý, že se dají vyčíslit penězi. Ale rád se na to podívám blíž!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_008_f",
+      "en": "I had a feeling you might say something like that.",
+      "cz": "Měl jsem pocit, že něco takového řekneš.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_009_f",
+      "en": "Either way, a star breakin' apart is a sight even money cannae buy.",
+      "cz": "Ať tak či tak, rozpadající se hvězda je podívaná, kterou si ani za peníze nekoupíš.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "Aye, if Merlin says they're important, I'd wager they're worth payin' attention to.",
+      "cz": "Jo, jestli Merlin říká, že jsou důležité, vsadil bych se, že stojí za pozornost.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "Not that I can remember.",
+      "cz": "Pokud si vzpomínám, tak ne.",
+      "source": "our_translation"
+    }
+  ]
+}

@@ -549,9 +549,9 @@
   "ProtoDB/CharityOffers_CharityOfferUpd24.locbin": [
     {
       "key": "WarningMessage",
-      "en": "Gameloft will donate all net revenues coming from the bundle after platform fees and deductions to the Nature Conservancy of Canada. This bundle will be available from July 29 until September 23, 2026, and includes 800 Moonstones.",
-      "cz": "",
-      "source": "untranslated"
+      "en": "Gameloft will donate all net revenues coming from the bundle, after platform fees are deducted, to the Nature Conservancy of Canada. This bundle will be available from July 29 until September 23, 2026, and includes 800 Moonstones.",
+      "cz": "Gameloft věnuje veškeré čisté příjmy z balíčku po odečtení poplatků platformy organizaci Nature Conservancy of Canada. Tento balíček bude k dispozici od 29. července do 23. září 2026 a obsahuje 800 Měsíčních kamenů.",
+      "source": "our_translation"
     }
   ],
   "ProtoDB/Cliff_MRQS110_AmethystRight.locbin": [
@@ -684,14 +684,14 @@
     {
       "key": "SectionName_013",
       "en": "Diorama",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Dioráma",
+      "source": "our_translation"
     },
     {
       "key": "SectionName_014",
       "en": "Aquarium",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Akvárium",
+      "source": "our_translation"
     },
     {
       "key": "SectionName_015",
@@ -702,14 +702,50 @@
     {
       "key": "SectionName_016",
       "en": "Diorama",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Dioráma",
+      "source": "our_translation"
     },
     {
       "key": "SectionName_017",
       "en": "Aquarium",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Akvárium",
+      "source": "our_translation"
+    },
+    {
+      "key": "SectionName_021",
+      "en": "Aquarium",
+      "cz": "Akvárium",
+      "source": "our_translation"
+    },
+    {
+      "key": "SectionName_022",
+      "en": "Diorama",
+      "cz": "Dioráma",
+      "source": "our_translation"
+    },
+    {
+      "key": "SectionName_023",
+      "en": "Habitat",
+      "cz": "Biotop",
+      "source": "our_translation"
+    },
+    {
+      "key": "SectionName_024",
+      "en": "Habitat",
+      "cz": "Biotop",
+      "source": "our_translation"
+    },
+    {
+      "key": "SectionName_025",
+      "en": "Diorama 1",
+      "cz": "Dioráma 1",
+      "source": "our_translation"
+    },
+    {
+      "key": "SectionName_026",
+      "en": "Diorama 2",
+      "cz": "Dioráma 2",
+      "source": "our_translation"
     },
     {
       "key": "SubSectionName_000",
@@ -966,110 +1002,224 @@
     {
       "key": "SubSectionName_036",
       "en": "Sunlit Plateau Gems",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Drahokamy Sluncem zalité planiny",
+      "source": "our_translation"
     },
     {
       "key": "SubSectionName_037",
       "en": "Sunlit Plateau Aquarium",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Akvárium Sluncem zalité planiny",
+      "source": "our_translation"
     },
     {
       "key": "SubSectionName_038",
       "en": "Sunlit Plateau Flowers",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Květiny Sluncem zalité planiny",
+      "source": "our_translation"
     },
     {
       "key": "SubSectionName_039",
       "en": "Root Causes",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Kořenové příčiny",
+      "source": "our_translation"
     },
     {
       "key": "SubSectionName_040",
       "en": "Be Mine?",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Budeš moje?",
+      "source": "our_translation"
     },
     {
       "key": "SubSectionName_041",
       "en": "Crystal Clear",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Křišťálově čisté",
+      "source": "our_translation"
     },
     {
       "key": "SubSectionName_042",
       "en": "The Lion's Share",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Lví podíl",
+      "source": "our_translation"
     },
     {
       "key": "SubSectionName_043",
       "en": "Sunlit Plateau Food",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Jídlo Sluncem zalité planiny",
+      "source": "our_translation"
     },
     {
       "key": "SubSectionName_044",
       "en": "Sunlit Plateau Habitat",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Habitat Sluncem zalité planiny",
+      "source": "our_translation"
     },
     {
       "key": "SubSectionName_045",
       "en": "Frosted Heights Gems",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Drahokamy Mrazivých výšin",
+      "source": "our_translation"
     },
     {
       "key": "SubSectionName_046",
       "en": "Frosted Heights Aquarium",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Akvárium Mrazivých výšin",
+      "source": "our_translation"
     },
     {
       "key": "SubSectionName_047",
       "en": "Frosted Heights Flowers",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Květiny Mrazivých výšin",
+      "source": "our_translation"
     },
     {
       "key": "SubSectionName_048",
       "en": "The Snowman's Nose",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Sněhulákův nos",
+      "source": "our_translation"
     },
     {
       "key": "SubSectionName_049",
       "en": "A Pillar of the Community",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Pilíř komunity",
+      "source": "our_translation"
     },
     {
       "key": "SubSectionName_050",
       "en": "Just Chilling",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Jen tak v klídku",
+      "source": "our_translation"
     },
     {
       "key": "SubSectionName_051",
       "en": "Chasing the Carrot",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Honba za mrkví",
+      "source": "our_translation"
     },
     {
       "key": "SubSectionName_052",
       "en": "Frosted Heights Food",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Jídlo Mrazivých výšin",
+      "source": "our_translation"
     },
     {
       "key": "SubSectionName_053",
       "en": "Frosted Heights Habitat",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Habitat Mrazivých výšin",
+      "source": "our_translation"
+    },
+    {
+      "key": "SubSectionName_066",
+      "en": "Forgotten Lands Gems",
+      "cz": "Drahokamy Zapomenutých zemí",
+      "source": "our_translation"
+    },
+    {
+      "key": "SubSectionName_067",
+      "en": "Forgotten Lands Aquarium",
+      "cz": "Akvárium Zapomenutých zemí",
+      "source": "our_translation"
+    },
+    {
+      "key": "SubSectionName_068",
+      "en": "Forgotten Lands Flowers",
+      "cz": "Květiny Zapomenutých zemí",
+      "source": "our_translation"
+    },
+    {
+      "key": "SubSectionName_069",
+      "en": "What's This?",
+      "cz": "Co je tohle?",
+      "source": "our_translation"
+    },
+    {
+      "key": "SubSectionName_070",
+      "en": "The Dark Tree House",
+      "cz": "Temný dům na stromě",
+      "source": "our_translation"
+    },
+    {
+      "key": "SubSectionName_071",
+      "en": "Furious Flames",
+      "cz": "Zuřivé plameny",
+      "source": "our_translation"
+    },
+    {
+      "key": "SubSectionName_072",
+      "en": "Tending the Pumpkins",
+      "cz": "Péče o dýně",
+      "source": "our_translation"
+    },
+    {
+      "key": "SubSectionName_073",
+      "en": "Forgotten Lands Food",
+      "cz": "Jídlo Zapomenutých zemí",
+      "source": "our_translation"
+    },
+    {
+      "key": "SubSectionName_074",
+      "en": "Forgotten Lands Habitat",
+      "cz": "Prostředí Zapomenutých zemí",
+      "source": "our_translation"
+    },
+    {
+      "key": "SubSectionName_075",
+      "en": "Forgotten but Not Gone",
+      "cz": "Zapomenuté, ale ne pryč",
+      "source": "our_translation"
+    },
+    {
+      "key": "SubSectionName_076",
+      "en": "A Door to Discovery",
+      "cz": "Dveře k objevování",
+      "source": "our_translation"
+    },
+    {
+      "key": "SubSectionName_077",
+      "en": "A Magical Mentor",
+      "cz": "Kouzelný mentor",
+      "source": "our_translation"
+    },
+    {
+      "key": "SubSectionName_078",
+      "en": "A Duck and His Dream",
+      "cz": "Kačer a jeho sen",
+      "source": "our_translation"
+    },
+    {
+      "key": "SubSectionName_079",
+      "en": "The Royal Pickaxe",
+      "cz": "Královský krumpáč",
+      "source": "our_translation"
+    },
+    {
+      "key": "SubSectionName_080",
+      "en": "A Familiar Friend",
+      "cz": "Starý známý",
+      "source": "our_translation"
+    },
+    {
+      "key": "SubSectionName_081",
+      "en": "Plaza Gems",
+      "cz": "Drahokamy z Náměstí",
+      "source": "our_translation"
+    },
+    {
+      "key": "SubSectionName_082",
+      "en": "Plaza Flowers",
+      "cz": "Květiny z Náměstí",
+      "source": "our_translation"
+    },
+    {
+      "key": "SubSectionName_083",
+      "en": "Plaza Food",
+      "cz": "Jídlo z Náměstí",
+      "source": "our_translation"
+    },
+    {
+      "key": "SubSectionName_084",
+      "en": "Plaza Habitat",
+      "cz": "Prostředí Náměstí",
+      "source": "our_translation"
     }
   ],
   "ProtoDB/DesignChallenges_DreamSnap002_test4.locbin": [
@@ -1237,74 +1387,242 @@
       "original_cz": "Aktivujte Hvězdnou stezku, získejte stylové oblečení, unikátní nábytek a mnohem více! Zakoupené Měsíční kameny lze použít pouze na stejné platformě, kde byly zakoupeny."
     }
   ],
+  "ProtoDB/EventFloatingIsland!Halloween!Update25!_EFI_Halloween_Bookshelf01.locbin": [
+    {
+      "key": "Description",
+      "en": "Is there a book about animals that fits in this space?",
+      "cz": "Najde se kniha o zvířatech, která se vejde právě sem?",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Frightful Fauna Library Shelf",
+      "cz": "Strašidelná police – Fauna",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/EventFloatingIsland_EFI_Halloween2026_Altar.locbin": [
+    {
+      "key": "Description",
+      "en": "A page has been torn out of this book. It feels... sad?",
+      "cz": "Z této knihy byla vytržena stránka. Působí... smutně?",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Damaged Magic Book",
+      "cz": "Poškozená kouzelná kniha",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/EventFloatingIsland_EFI_Halloween2026_BasementDoor.locbin": [
+    {
+      "key": "Description",
+      "en": "It's locked... But why?",
+      "cz": "Je zamčeno... Ale proč?",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Eerie Basement Door",
+      "cz": "Strašidelné dveře do sklepa",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/EventFloatingIsland_EFI_Halloween2026_BedroomDoor.locbin": [
+    {
+      "key": "Description",
+      "en": "This door is locked...",
+      "cz": "Tyhle dveře jsou zamčené...",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Haunted House Bedroom Door",
+      "cz": "Dveře do ložnice strašidelného domu",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/EventFloatingIsland_EFI_Halloween2026_Bookshelf03.locbin": [
+    {
+      "key": "Description",
+      "en": "A book about space would fit right in here.",
+      "cz": "Sem by se přesně hodila kniha o vesmíru.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Abominable Astronomy Library Shelf",
+      "cz": "Ohavná astronomická knihovní polička",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/EventFloatingIsland_EFI_Halloween2026_Bookshelf04.locbin": [
+    {
+      "key": "Description",
+      "en": "This shelf is missing a book about music.",
+      "cz": "Na téhle poličce chybí kniha o hudbě.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Monstrous Music Library Shelf",
+      "cz": "Příšerná hudební knihovní polička",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/EventFloatingIsland_EFI_Halloween2026_Pumpkin01.locbin": [
+    {
+      "key": "Description",
+      "en": "Put something bright here to help this pumpkin lighten up.",
+      "cz": "Polož sem něco zářivého, ať se tahle dýně rozzáří.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Unlit Jack-o'—Lantern",
+      "cz": "Nerozsvícená dýňová lucerna",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/EventFloatingIsland_EFI_Halloween2026_Pumpkin02.locbin": [
+    {
+      "key": "Description",
+      "en": "Put something bright here to help this pumpkin lighten up.",
+      "cz": "Polož sem něco zářivého, ať se tahle dýně rozzáří.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Unlit Jack-o'—Lantern",
+      "cz": "Nerozsvícená dýňová lucerna",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/EventFloatingIsland_EFI_Halloween2026_Pumpkin03.locbin": [
+    {
+      "key": "Description",
+      "en": "Put something bright here to help this pumpkin lighten up.",
+      "cz": "Polož sem něco zářivého, ať se tahle dýně rozzáří.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Unlit Jack-o'—Lantern",
+      "cz": "Nerozsvícená dýňová lucerna",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/EventFloatingIsland_EFI_Halloween2026_Pumpkin04.locbin": [
+    {
+      "key": "Description",
+      "en": "Put something bright here to help this pumpkin lighten up.",
+      "cz": "Polož sem něco zářivého, ať se tahle dýně rozzáří.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Unlit Jack-o'—Lantern",
+      "cz": "Nerozsvícená dýňová lucerna",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/EventFloatingIsland_EFI_Halloween2026_RedChest.locbin": [
+    {
+      "key": "Description",
+      "en": "It looks like you need some kind of key.",
+      "cz": "Vypadá to, že budeš potřebovat nějaký klíč.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Locked Red Chest",
+      "cz": "Zamčená červená truhla",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/EventFloatingIsland_EFI_Halloween_Bookshelf02.locbin": [
+    {
+      "key": "Description",
+      "en": "A book about flowers should go here.",
+      "cz": "Sem patří kniha o květinách.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Fearsome Flora Library Shelf",
+      "cz": "Děsivá květinová knihovní polička",
+      "source": "our_translation"
+    }
+  ],
   "ProtoDB/EventFloatingIsland_EFI_Parks_PlantArea01.locbin": [
     {
       "key": "Description",
       "en": "Add fresh flowers here for a stunning garden arrangement.",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Přidejte sem čerstvé květiny pro ohromující zahradní aranžmá.",
+      "source": "our_translation"
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Flower Planter",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Květinový truhlík",
+      "source": "our_translation"
     }
   ],
   "ProtoDB/EventFloatingIsland_EFI_Parks_PlantArea02.locbin": [
     {
       "key": "Description",
       "en": "Add fresh flowers here for a stunning garden arrangement.",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Přidejte sem čerstvé květiny pro ohromující zahradní aranžmá.",
+      "source": "our_translation"
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Flower Planter",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Květinový truhlík",
+      "source": "our_translation"
     }
   ],
   "ProtoDB/EventFloatingIsland_EFI_Parks_PlantArea03.locbin": [
     {
       "key": "Description",
       "en": "Add fresh flowers here for a stunning garden arrangement.",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Přidejte sem čerstvé květiny pro ohromující zahradní aranžmá.",
+      "source": "our_translation"
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Flower Planter",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Květinový truhlík",
+      "source": "our_translation"
     }
   ],
   "ProtoDB/EventFloatingIsland_EFI_Parks_PlantArea04.locbin": [
     {
       "key": "Description",
       "en": "Add fresh flowers here for a stunning garden arrangement.",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Přidejte sem čerstvé květiny pro ohromující zahradní aranžmá.",
+      "source": "our_translation"
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Flower Planter",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Květinový truhlík",
+      "source": "our_translation"
     }
   ],
   "ProtoDB/EventFloatingIsland_EFI_Parks_PlantArea05.locbin": [
     {
       "key": "Description",
       "en": "Add fresh flowers here for a stunning garden arrangement.",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Přidejte sem čerstvé květiny pro ohromující zahradní aranžmá.",
+      "source": "our_translation"
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Flower Planter",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Květinový truhlík",
+      "source": "our_translation"
     }
   ],
   "ProtoDB/EventFloatingIsland_Halloween2025_Puzzle03_CursedTree.locbin": [
@@ -1320,14 +1638,14 @@
     {
       "key": "Description",
       "en": "Place your trash here for proper disposal.",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Sem vyhoďte odpadky k řádné likvidaci.",
+      "source": "our_translation"
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Adventureland Trash Bins",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Koše v Adventurelandu",
+      "source": "our_translation"
     }
   ],
   "ProtoDB/EventFloatingIsland_Spring2026_Puzzle02_BambooFountain.locbin": [
@@ -1874,7 +2192,7 @@
   "ProtoDB/GrandExhibition_Beach_Flowers.locbin": [
     {
       "key": "Description",
-      "en": "Place Dazzle Beach flowers here: Blue Hydrangea, Yellow Sunflower, Pink Hydrangea, White & Red Hydrangea, and Purple Hydrangea.",
+      "en": "Place Dazzle Beach flowers here: Blue Hydrangea, Sunflower, Pink Hydrangea, White & Red Hydrangea, and Purple Hydrangea.",
       "cz": "Umístěte sem květiny z Dazzle Beach: modrou hortenzii, žlutou slunečnici, růžovou hortenzii, bíločervenou hortenzii a fialovou hortenzii.",
       "source": "pre_existing",
       "original_cz": "Umístěte sem květiny z Dazzle Beach: modrou hortenzii, žlutou slunečnici, růžovou hortenzii, bíločervenou hortenzii a fialovou hortenzii."
@@ -1966,96 +2284,192 @@
     {
       "key": "Description",
       "en": "Place one of each Frosted Heights marine animal here: Bass, Salmon, Tilapia, White Sturgeon, and Crab.",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Umístěte sem po jednom z každého mořského živočicha z Mrazivých výšin: Okoun, Losos, Tilapie, Bílý jeseter a Krab.",
+      "source": "our_translation"
     }
   ],
   "ProtoDB/GrandExhibition_Cliff_Companions.locbin": [
     {
       "key": "Description",
       "en": "There's room for all the critters from the Frosted Heights here: White Fox, Classic Fox, Black Fox, Blue Fox, and Red Fox.",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Je tu místo pro všechny tvory z Mrazivých výšin: Bílá liška, Klasická liška, Černá liška, Modrá liška a Červená liška.",
+      "source": "our_translation"
     }
   ],
   "ProtoDB/GrandExhibition_Cliff_Flowers.locbin": [
     {
       "key": "Description",
       "en": "Place Frosted Heights flowers here: White Passion Lily, Blue Passion Lily, Black Passion Lily, Red Passion Lily, and Green Passion Lily.",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Umístěte sem květiny z Mrazivých výšin: Bílá mučenka, Modrá mučenka, Černá mučenka, Červená mučenka a Zelená mučenka.",
+      "source": "our_translation"
     }
   ],
   "ProtoDB/GrandExhibition_Cliff_Food.locbin": [
     {
       "key": "Description",
       "en": "Place Frosted Heights crops and foraging finds here: Asparagus, Cherry, Cucumber, Eggplant, Gooseberry, and Mint.",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Umístěte sem plodiny a sběrové nálezy z Mrazivých výšin: Chřest, Třešeň, Okurka, Lilek, Angrešt a Máta.",
+      "source": "our_translation"
     }
   ],
   "ProtoDB/GrandExhibition_Cliff_Gems.locbin": [
     {
       "key": "Description",
       "en": "Place Frosted Heights gems here: Shiny Amethyst, Onyx, Shiny Tourmaline, Amethyst, and Tourmaline.",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Umístěte sem drahokamy z Mrazivých výšin: Lesklý ametyst, Onyx, Lesklý turmalín, Ametyst a Turmalín.",
+      "source": "our_translation"
     }
   ],
   "ProtoDB/GrandExhibition_Cliff_StoryBeats01.locbin": [
     {
       "key": "Description",
       "en": "Provide materials needed to finish this section of the Diorama: Snow, Dry Wood, White Passion Lily, Red Passion Lily, and Purified Night Shards.",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Dodejte materiály potřebné k dokončení této části Diorámy: Sníh, Suché dřevo, Bílá mučenka, Červená mučenka a Očištěné noční střepy.",
+      "source": "our_translation"
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "The Snowman's Nose",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Sněhulákův nos",
+      "source": "our_translation"
     }
   ],
   "ProtoDB/GrandExhibition_Cliff_StoryBeats02.locbin": [
     {
       "key": "Description",
       "en": "Provide materials needed to finish this section of the Diorama: Stone, Amethyst, and Tourmaline.",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Dodejte materiály potřebné k dokončení této části Diorámy: Kámen, Ametyst a Turmalín.",
+      "source": "our_translation"
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "A Pillar of the Community",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Pilíř společnosti",
+      "source": "our_translation"
     }
   ],
   "ProtoDB/GrandExhibition_Cliff_StoryBeats03.locbin": [
     {
       "key": "Description",
       "en": "Provide materials needed to finish this section of the Diorama: Snow, Iron Ore, Blue Passion Lily, and Dream Shards.",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Dodejte materiály potřebné k dokončení této části Diorámy: Sníh, Železná ruda, Modrá mučenka a Střepy snů.",
+      "source": "our_translation"
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Just Chilling",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Jen tak chladím",
+      "source": "our_translation"
     }
   ],
   "ProtoDB/GrandExhibition_Cliff_StoryBeats04.locbin": [
     {
       "key": "Description",
       "en": "Provide materials needed to finish this section of the Diorama: Hardwood, Soil, Green Passion Lily, and Night Shards.",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Dodejte materiály potřebné k dokončení této části Diorámy: Tvrdé dřevo, Půda, Zelená mučenka a Noční střepy.",
+      "source": "our_translation"
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Chasing the Carrot",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Honba za mrkví",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/GrandExhibition_DarkMountains_Aquarium.locbin": [
+    {
+      "key": "Description",
+      "en": "Place one of each Forgotten Lands marine animal here: Sole, Cod, Lancetfish, Tuna, Anglerfish, and Squid.",
+      "cz": "Umísti sem po jednom mořském živočichovi ze Zapomenutých zemí: jazyk, treska, lancetnice, tuňák, ďas a oliheň.",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/GrandExhibition_DarkMountains_Companions.locbin": [
+    {
+      "key": "Description",
+      "en": "There's room for all the critters from the Forgotten Lands here: Classic Raven, Blue Raven, Brown Raven, Red Raven, and White Raven.",
+      "cz": "Je tu místo pro všechna zvířátka ze Zapomenutých zemí: klasický havran, modrý havran, hnědý havran, červený havran a bílý havran.",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/GrandExhibition_DarkMountains_Flowers.locbin": [
+    {
+      "key": "Description",
+      "en": "Place Forgotten Lands flowers here: Yellow Nasturtium, Orange Nasturtium, Red Nasturtium, Purple Impatiens, and White Impatiens.",
+      "cz": "Umísti sem květiny ze Zapomenutých zemí: žlutá lichořeřišnice, oranžová lichořeřišnice, červená lichořeřišnice, fialová netýkavka a bílá netýkavka.",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/GrandExhibition_DarkMountains_Food.locbin": [
+    {
+      "key": "Description",
+      "en": "Place Forgotten Lands crops and foraging finds here: Gooseberry, Leek, Potato, Pumpkin, Apple, and Ginger.",
+      "cz": "Umísti sem plodiny a sběratelské nálezy ze Zapomenutých zemí: angrešt, pórek, brambora, dýně, jablko a zázvor.",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/GrandExhibition_DarkMountains_Gems.locbin": [
+    {
+      "key": "Description",
+      "en": "Place Forgotten Lands gems here: Amethyst, Shiny Amethyst, Diamond, Shiny Diamond, and Onyx.",
+      "cz": "Umísti sem drahokamy ze Zapomenutých zemí: ametyst, lesklý ametyst, diamant, lesklý diamant a onyx.",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/GrandExhibition_DarkMountains_StoryBeats01.locbin": [
+    {
+      "key": "Description",
+      "en": "Provide materials needed to finish this section of the Diorama: Dark Wood, Crystal, Purple Impatiens, and Night Shards.",
+      "cz": "Poskytni materiály potřebné k dokončení této části diorámatu: tmavé dřevo, krystal, fialové netýkavky a noční střepy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "What's This?",
+      "cz": "Co je to?",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/GrandExhibition_DarkMountains_StoryBeats02.locbin": [
+    {
+      "key": "Description",
+      "en": "Provide materials needed to finish this section of the Diorama: Dark Wood, Gold Nuggets, Yellow Nasturtiums, and Dream Shards.",
+      "cz": "Poskytni materiály potřebné k dokončení této části diorámatu: tmavé dřevo, zlaté nugety, žluté lichořeřišnice a střepy snů.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "The Dark Tree House",
+      "cz": "Temný dům na stromě",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/GrandExhibition_DarkMountains_StoryBeats03.locbin": [
+    {
+      "key": "Description",
+      "en": "Provide materials needed to finish this section of the Diorama: Pebbles, Amethyst, and Diamond.",
+      "cz": "Poskytni materiály potřebné k dokončení této části diorámatu: oblázky, ametyst a diamant.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Furious Flames",
+      "cz": "Zuřivé plameny",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/GrandExhibition_DarkMountains_StoryBeats04.locbin": [
+    {
+      "key": "Description",
+      "en": "Provide materials needed to finish this section of the Diorama: Pumpkins, Ginger, Soil, Orange Nasturtiums, and Purified Night Shards.",
+      "cz": "Poskytni materiály potřebné k dokončení této části diorámatu: dýně, zázvor, hlína, oranžové lichořeřišnice a pročištěné noční střepy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Tending the Pumpkins",
+      "cz": "Péče o dýně",
+      "source": "our_translation"
     }
   ],
   "ProtoDB/GrandExhibition_Forest_Aquarium.locbin": [
@@ -2288,96 +2702,212 @@
     {
       "key": "Description",
       "en": "Place one of each Sunlit Plateau fish here: Bass, Salmon, Tilapia, Carp, Perch, and Walleye.",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Umístěte sem po jednom z každé ryby ze Sluncem zalité planiny: Okoun, Losos, Tilapie, Kapr, Okounek a Candát.",
+      "source": "our_translation"
     }
   ],
   "ProtoDB/GrandExhibition_Savannah_Companions.locbin": [
     {
       "key": "Description",
       "en": "There's room for all the critters from the Sunlit Plateau here: Red Sunbird, Turquoise Sunbird, Emerald Sunbird, Golden Sunbird, and Orchid Sunbird.",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Je tu místo pro všechny tvory ze Sluncem zalité planiny: Červený kolibřík, Tyrkysový kolibřík, Smaragdový kolibřík, Zlatý kolibřík a Orchidejový kolibřík.",
+      "source": "our_translation"
     }
   ],
   "ProtoDB/GrandExhibition_Savannah_Flowers.locbin": [
     {
       "key": "Description",
       "en": "Place Sunlit Plateau flowers here: Pink Bromeliad, Red Bromeliad, Yellow Bromeliad, Orange Houseleek, and Pink Houseleek.",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Umístěte sem květiny ze Sluncem zalité planiny: Růžová bromélie, Červená bromélie, Žlutá bromélie, Oranžový netřesk a Růžový netřesk.",
+      "source": "our_translation"
     }
   ],
   "ProtoDB/GrandExhibition_Savannah_Food.locbin": [
     {
       "key": "Description",
       "en": "Place Sunlit Plateau crops and foraging finds here: Chili Pepper, Cocoa Bean, Soya, Zucchini, Cherry, and Vanilla.",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Umístěte sem plodiny a sběrové nálezy ze Sluncem zalité planiny: Chilli, Kakaový bob, Sója, Cuketa, Třešeň a Vanilka.",
+      "source": "our_translation"
     }
   ],
   "ProtoDB/GrandExhibition_Savannah_Gems.locbin": [
     {
       "key": "Description",
       "en": "Place Sunlit Plateau gems here: Shiny Citrine, Onyx, Shiny Tourmaline, Citrine, and Tourmaline.",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Umístěte sem drahokamy ze Sluncem zalité planiny: Lesklý citrín, Onyx, Lesklý turmalín, Citrín a Turmalín.",
+      "source": "our_translation"
     }
   ],
   "ProtoDB/GrandExhibition_Savannah_StoryBeats01.locbin": [
     {
       "key": "Description",
       "en": "Provide materials needed to finish this section of the Diorama: Hardwood, Dreamlight Fruit, Orange Houseleeks, and Dream Shards.",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Dodejte materiály potřebné k dokončení této části Diorámy: Tvrdé dřevo, Ovoce snového světla, Oranžové netřesky a Střepy snů.",
+      "source": "our_translation"
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Root Causes",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Kořenové příčiny",
+      "source": "our_translation"
     }
   ],
   "ProtoDB/GrandExhibition_Savannah_StoryBeats02.locbin": [
     {
       "key": "Description",
       "en": "Provide materials needed to finish this section of the Diorama: Vitalys Crystals, Iron Ore, Gold Nuggets, Sapphires, and Rubies.",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Dodejte materiály potřebné k dokončení této části Diorámy: Krystaly Vitalys, Železná ruda, Zlaté nugety, Safíry a Rubíny.",
+      "source": "our_translation"
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Be Mine?",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Budeš můj?",
+      "source": "our_translation"
     }
   ],
   "ProtoDB/GrandExhibition_Savannah_StoryBeats03.locbin": [
     {
       "key": "Description",
       "en": "Provide materials needed to finish this section of the Diorama: Vitalys Crystals, Citrines, and Tourmalines.",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Dodejte materiály potřebné k dokončení této části Diorámy: Krystaly Vitalys, Citríny a Turmalíny.",
+      "source": "our_translation"
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Crystal Clear",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Křišťálově jasné",
+      "source": "our_translation"
     }
   ],
   "ProtoDB/GrandExhibition_Savannah_StoryBeats04.locbin": [
     {
       "key": "Description",
       "en": "Provide materials needed to finish this section of the Diorama: Dry Wood, Hardwood, Pink Bromeliad, Pink Houseleek, and Purified Night Shards.",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Dodejte materiály potřebné k dokončení této části Diorámy: Suché dřevo, Tvrdé dřevo, Růžová bromélie, Růžový netřesk a Očištěné noční střepy.",
+      "source": "our_translation"
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "The Lion's Share",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Lví podíl",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/GrandExhibition_Urban_Companions.locbin": [
+    {
+      "key": "Description",
+      "en": "There's room for all the critters from the Plaza here: Classic Squirrel, Black Squirrel, Gray Squirrel, Red Squirrel, and White Squirrel.",
+      "cz": "Je tu místo pro všechny zvířecí společníky z Náměstí: klasická veverka, černá veverka, šedá veverka, zrzavá veverka a bílá veverka.",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/GrandExhibition_Urban_FirstStoryBeats01.locbin": [
+    {
+      "key": "Description",
+      "en": "Provide materials needed to finish this section of the Diorama: Stone, Garnet, and Purified Night Shards.",
+      "cz": "Poskytni materiály potřebné k dokončení této části diorámatu: kámen, granát a pročištěné noční střepy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "A Duck and His Dream",
+      "cz": "Kačer a jeho sen",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/GrandExhibition_Urban_FirstStoryBeats02.locbin": [
+    {
+      "key": "Description",
+      "en": "Provide materials needed to finish this section of the Diorama: Stone, Coal, and White & Pink Falling Penstemons.",
+      "cz": "Poskytni materiály potřebné k dokončení této části diorámatu: kámen, uhlí a bílo-růžové převislé penstemony.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "The Royal Pickaxe",
+      "cz": "Královský krumpáč",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/GrandExhibition_Urban_FirstStoryBeats03.locbin": [
+    {
+      "key": "Description",
+      "en": "Provide materials needed to finish this section of the Diorama: Apples, Topaz, and Purified Night Shards.",
+      "cz": "Poskytni materiály potřebné k dokončení této části diorámatu: jablka, topaz a pročištěné noční střepy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "A Familiar Friend",
+      "cz": "Starý přítel",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/GrandExhibition_Urban_Flowers.locbin": [
+    {
+      "key": "Description",
+      "en": "Place Plaza flowers here: Blue Falling Penstemon, Purple Falling Penstemon, White & Pink Falling Penstemon, Red Falling Penstemon, and Dandelion.",
+      "cz": "Umísti sem květiny z Náměstí: modrý převislý penstemon, fialový převislý penstemon, bílo-růžový převislý penstemon, červený převislý penstemon a pampeliška.",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/GrandExhibition_Urban_Food.locbin": [
+    {
+      "key": "Description",
+      "en": "Place Plaza crops and foraging finds here: Apple, Raspberry, and Oregano.",
+      "cz": "Umísti sem plodiny a sběratelské nálezy z Náměstí: jablko, malina a oregano.",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/GrandExhibition_Urban_Gems.locbin": [
+    {
+      "key": "Description",
+      "en": "Place Plaza gems here: Shiny Garnet, Garnet, Shiny Topaz, Topaz, and Onyx.",
+      "cz": "Umísti sem drahokamy z Náměstí: lesklý granát, granát, lesklý topaz, topaz a onyx.",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/GrandExhibition_Urban_SecondStoryBeats01.locbin": [
+    {
+      "key": "Description",
+      "en": "Provide materials needed to finish this section of the Diorama: Coal, Onyx, and Night Shards.",
+      "cz": "Poskytni materiály potřebné k dokončení této části diorámatu: uhlí, onyx a noční střepy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Forgotten but Not Gone",
+      "cz": "Zapomenuté, ale ne ztracené",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/GrandExhibition_Urban_SecondStoryBeats02.locbin": [
+    {
+      "key": "Description",
+      "en": "Provide materials needed to finish this section of the Diorama: Stone, Purple Falling Penstemons, and Dandelions.",
+      "cz": "Poskytni materiály potřebné k dokončení této části diorámatu: kámen, fialové převislé penstemony a pampelišky.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "A Door to Discovery",
+      "cz": "Dveře k objevům",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/GrandExhibition_Urban_SecondStoryBeats03.locbin": [
+    {
+      "key": "Description",
+      "en": "Provide materials needed to finish this section of the Diorama: Oregano, Softwood, and Purified Night Shards.",
+      "cz": "Poskytni materiály potřebné k dokončení této části diorámatu: oregano, měkké dřevo a pročištěné noční střepy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "A Magical Mentor",
+      "cz": "Kouzelný rádce",
+      "source": "our_translation"
     }
   ],
   "ProtoDB/GrandExhibition_Wetland_Aquarium.locbin": [
@@ -3550,8 +4080,8 @@
     {
       "key": "Title_CharityOffer",
       "en": "Charity",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Charita",
+      "source": "our_translation"
     },
     {
       "key": "Title_DreamBundles",
@@ -3580,6 +4110,12 @@
       "cz": "Časově omezené nabídky",
       "source": "pre_existing",
       "original_cz": "Časově omezené nabídky"
+    },
+    {
+      "key": "Title_Mirage",
+      "en": "Mirage",
+      "cz": "",
+      "source": "untranslated"
     },
     {
       "key": "Title_Moonstones",
@@ -3815,26 +4351,44 @@
     {
       "key": "Description_Presets",
       "en": "Transform your Valley instantly with Decoration Presets! This exclusive pre-made set includes curated props and furniture in one seamless, beautiful design. Find it in your Furniture Menu under Presets and place it in your House or Valley with one click!",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Proměňte své Údolí okamžitě pomocí Dekoračních předvoleb! Tato exkluzivní předpřipravená sada obsahuje pečlivě vybrané rekvizity a nábytek v jednom bezchybném, krásném designu. Najdete ji v Nabídce nábytku pod Předvolbami a umístěte ji do svého Domu nebo Údolí jedním kliknutím!",
+      "source": "our_translation"
     },
     {
       "key": "Description_EnvironmentSky",
       "en": "Transform the sky over any Biome with a dazzling new effect!",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Proměň oblohu nad jakýmkoliv biomem oslnivým novým efektem!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Description_MountGears",
+      "en": "Add a unique personal touch to your mounts with this special accessory.",
+      "cz": "Dodej svým ořům jedinečný osobní nádech s tímto speciálním doplňkem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Description_NPCHouseSkin",
+      "en": "Update the look of a lucky Villager's House with a magical new Dream Style. (Remember: You must have the Villager's original House unlocked!)",
+      "cz": "Změň vzhled domu šťastného obyvatele pomocí nového kouzelného vysněného stylu. (Nezapomeň: Musíš mít odemčený původní dům daného obyvatele!)",
+      "source": "our_translation"
+    },
+    {
+      "key": "Description_Pose",
+      "en": "Special emotes you can use in Photo Mode, or to express yourself in the Valley!",
+      "cz": "Speciální emoce, které můžeš použít ve fotografickém režimu nebo se s nimi vyjádřit v Údolí!",
+      "source": "our_translation"
     },
     {
       "key": "Description_EnvironmentSpecial",
       "en": "Large visual effects. Specific to a Village Biome or a Floating Island.",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Velké vizuální efekty. Specifické pro biom Vesnice nebo Plovoucí ostrov.",
+      "source": "our_translation"
     },
     {
       "key": "Description_AvatarOnAnHouse",
       "en": "Interact with the House using your Phone Royal Tool, allowing your Avatar to be positioned in Photo Mode. Each House can be placed once in the Valley and once per Expansion area. (You will also be able to place it once on Floating Islands.)",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Interaguj s Domem pomocí telefonu — Královského nástroje, a umožni umístění svého Avatara ve Fotorežimu. Každý Dům lze umístit jednou v Údolí a jednou v každé rozšiřující oblasti. (Budete ho moci umístit také jednou na Plovoucích ostrovech.)",
+      "source": "our_translation"
     },
     {
       "key": "Title_CompanionBundles",
@@ -5010,54 +5564,7 @@
   "ProtoDB/StoreFrontGroup_Steam.locbin": [
     {
       "key": "Description_000",
-      "en": "Gameloft will donate all net revenues coming from the bundle after platform fees and deductions to the Nature Conservancy of Canada (a charity registered in Canada, with charity number 11924 6544 RR0001) to support the conservation of important landscapes for species like the grizzly bear. This adorable grizzly bear cub companion will be available from July 29 until September 23, 2026, and comes with 800 Moonstones.",
-      "cz": "",
-      "source": "untranslated"
-    },
-    {
-      "key": "Description_001",
-      "en": "Explore the Honeyglow Woods, and reconnect with Disney's Winnie the Pooh, Eeyore and Piglet in a brand-new Adventure Pack! Includes 2,000 Moonstones.",
-      "cz": "Prozkoumej Medový les a znovu se setkej s Disneyho Medvídkem Pú, Íjáčkem a Prasátkem v zbrusu novém balíčku dobrodružství! Obsahuje 2 000 měsíčních kamenů.",
-      "source": "our_translation"
-    },
-    {
-      "key": "Description_002",
-      "en": "Disney Dreamlight Valley — G1.0",
-      "cz": "Disney Dreamlight Valley — G1.0",
-      "source": "pre_existing",
-      "original_cz": "Disney Dreamlight Valley — G1.0"
-    },
-    {
-      "key": "Description_003",
-      "en": "Explore a magical world in Disney Dreamlight Valley alongside Disney and Pixar friends, and travel to the Storybook Vale, a land made up of fairy tales and myths!",
-      "cz": "Prozkoumejte kouzelný svět v Disney Dreamlight Valley po boku přátel od Disneyho a Pixaru a vydejte se do Storybook Vale, země plné pohádek a mýtů!",
-      "source": "pre_existing",
-      "original_cz": "Prozkoumejte kouzelný svět v Disney Dreamlight Valley po boku přátel od Disneyho a Pixaru a vydejte se do Storybook Vale, země plné pohádek a mýtů!"
-    },
-    {
-      "key": "Description_004",
-      "en": "Explore a magical world in Disney Dreamlight Valley alongside Disney and Pixar friends, and expand your journey to Eternity Isle and the Storybook Vale where more adventures await!",
-      "cz": "Prozkoumejte kouzelný svět v Disney Dreamlight Valley po boku přátel od Disney a Pixaru a rozšiřte svou cestu na Eternity Isle a Storybook Vale, kde na vás čekají další dobrodružství!",
-      "source": "pre_existing",
-      "original_cz": "Prozkoumejte kouzelný svět v Disney Dreamlight Valley po boku přátel od Disney a Pixaru a rozšiřte svou cestu na Eternity Isle a Storybook Vale, kde na vás čekají další dobrodružství!"
-    },
-    {
-      "key": "Description_005",
-      "en": "This bundle includes the Disney Dreamlight Valley base game; the new Expansion, Disney Dreamlight Valley: Wishblossom Ranch; and 13,000 Moonstones.",
-      "cz": "Tento balíček obsahuje základní hru Disney Dreamlight Valley, nové rozšíření Disney Dreamlight Valley: Wishblossom Ranch a 13 000 měsíčních kamenů.",
-      "source": "pre_existing",
-      "original_cz": "Tento balíček obsahuje základní hru Disney Dreamlight Valley, nové rozšíření Disney Dreamlight Valley: Wishblossom Ranch a 13 000 měsíčních kamenů."
-    },
-    {
-      "key": "Description_006",
-      "en": "Live your Disney dream life with the Ultimate Edition, which includes the base game and two Expansions. This edition also contains exclusive digital items. Access to Disney Dreamlight Valley, Disney Dreamlight Valley: Wishblossom Ranch and Disney Dreamlight Valley: The Storybook Vale, 18,000 Moonstones, exclusive mount (Sven from Disney's Frozen), exclusive Arendellian riding ensemble outfit, and an exclusive snowy alpine House Style.",
-      "cz": "Prožijte svůj vysněný život ve světě Disney s Ultimate Edition, která obsahuje základní hru a dvě rozšíření. Tato edice obsahuje také exkluzivní digitální předměty. Přístup k hrám Disney Dreamlight Valley, Disney Dreamlight Valley: Wishblossom Ranch a Disney Dreamlight Valley: The Storybook Vale, 18 000 měsíčních kamenů, exkluzivní mount (Sven z Disneyho Ledového království), exkluzivní jezdecký outfit z Arendellianu a exkluzivní zasněžený alpský styl domu.",
-      "source": "pre_existing",
-      "original_cz": "Prožijte svůj vysněný život ve světě Disney s Ultimate Edition, která obsahuje základní hru a dvě rozšíření. Tato edice obsahuje také exkluzivní digitální předměty. Přístup k hrám Disney Dreamlight Valley, Disney Dreamlight Valley: Wishblossom Ranch a Disney Dreamlight Valley: The Storybook Vale, 18 000 měsíčních kamenů, exkluzivní mount (Sven z Disneyho Ledového království), exkluzivní jezdecký outfit z Arendellianu a exkluzivní zasněžený alpský styl domu."
-    },
-    {
-      "key": "Description_007",
-      "en": "This bundle includes the Disney Dreamlight Valley base game; the new Expansion, Disney Dreamlight Valley: Honeyglow Woods Adventure Pack; and 10,000 Moonstones.",
+      "en": "Gameloft will donate all net revenues coming from the bundle, after platform fees are deducted, to the Nature Conservancy of Canada (a charity registered in Canada, with charity number 11924 6544 RR0001) to support the conservation of important landscapes for species like the grizzly bear. This adorable grizzly bear cub companion will be available from July 29 until September 23, 2026, and comes with 800 Moonstones.",
       "cz": "",
       "source": "untranslated"
     },
@@ -5066,53 +5573,6 @@
       "en": "Grizzly Bear Cub Bundle for Charity",
       "cz": "Disney Dreamlight Valley — edice Medový les",
       "source": "our_translation"
-    },
-    {
-      "key": "Name_001",
-      "en": "Disney Dreamlight Valley: Honeyglow Woods",
-      "cz": "Disney Dreamlight Valley: Medový les",
-      "source": "our_translation"
-    },
-    {
-      "key": "Name_002",
-      "en": "Disney Dreamlight Valley — G1.0",
-      "cz": "Disney Dreamlight Valley — G1.0",
-      "source": "pre_existing",
-      "original_cz": "Disney Dreamlight Valley — G1.0"
-    },
-    {
-      "key": "Name_003",
-      "en": "Disney Dreamlight Valley — The Storybook Vale Bundle",
-      "cz": "Disney Dreamlight Valley — Balíček Storybook Vale",
-      "source": "pre_existing",
-      "original_cz": "Disney Dreamlight Valley — Balíček Storybook Vale"
-    },
-    {
-      "key": "Name_004",
-      "en": "Disney Dreamlight Valley — Enchanted Edition",
-      "cz": "Disney Dreamlight Valley – Kouzelná edice",
-      "source": "pre_existing",
-      "original_cz": "Disney Dreamlight Valley – Kouzelná edice"
-    },
-    {
-      "key": "Name_005",
-      "en": "Disney Dreamlight Valley — Wishblossom Ranch Edition",
-      "cz": "Disney Dreamlight Valley — edice Wishblossom Ranch",
-      "source": "pre_existing",
-      "original_cz": "Disney Dreamlight Valley — edice Wishblossom Ranch"
-    },
-    {
-      "key": "Name_006",
-      "en": "Disney Dreamlight Valley — Ultimate Edition",
-      "cz": "Disney Dreamlight Valley – Ultimátní edice",
-      "source": "pre_existing",
-      "original_cz": "Disney Dreamlight Valley – Ultimátní edice"
-    },
-    {
-      "key": "Name_008",
-      "en": "Disney Dreamlight Valley — Honeyglow Woods Edition",
-      "cz": "",
-      "source": "untranslated"
     }
   ],
   "ProtoDB/Story_MRQS100_Barrel.locbin": [
@@ -6385,28 +6845,58 @@
     {
       "key": "Description",
       "en": "From {from:MemoryMania_UI_2026:StartDate:M} to {from:MemoryMania_UI_2026:EndDate:M}, you're invited to celebrate Inside Out with Disney Dreamlight Valley's Memory Mania event!\nThis year, you'll solve some Memory mysteries with Joy to unlock a mysterious new critter companion.\nAlso, search your Valley and the Realms to collect Riley's Hockey Gear, Trophies, and Birthday Cakes and unlock Memory Pieces. Complete these Memories for exclusive new critters and more!",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Od {from:MemoryMania_UI_2026:StartDate:M} do {from:MemoryMania_UI_2026:EndDate:M} jste zváni oslavit V hlavě s Disney Dreamlight Valley při eventu Vzpomínkové šílenství!\\nLetos budete s Radostí řešit vzpomínkové záhady a odemknete záhadného nového mazlíčka.\\nTaké prohledejte své Údolí a Říše a sbírejte Rileyino hokejové vybavení, Trofeje a Narozeninové dorty a odemkněte Vzpomínkové dílky. Dokončete tyto Vzpomínky pro exkluzivní nové mazlíčky a další!",
+      "source": "our_translation"
     },
     {
       "key": "Title",
       "en": "Memory Mania Event",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Event Vzpomínkové šílenství",
+      "source": "our_translation"
     }
   ],
   "ProtoDB/Update24_SummerSizzle_UI_2026.locbin": [
     {
       "key": "Description",
       "en": "From {from:SummerSizzle_UI_2026:StartDate:M} to {from:SummerSizzle_UI_2026:EndDate:M}, get ready to celebrate Summer Sizzle in the Valley with our mini-event!\nThis year you can complete daily quests with Remy, Goofy, or Ursula for summer fun and great prizes.\nJust like last year, you'll also be able to search the Valley for specialty Marshmallows. Then, use those Marshmallows to make tasty treats for exclusive rewards!",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Od {from:SummerSizzle_UI_2026:StartDate:M} do {from:SummerSizzle_UI_2026:EndDate:M} se připravte oslavit Letní žár v Údolí s naším mini-eventem!\\nLetos můžete plnit denní questy s Remym, Goofym nebo Uršulou a užít si letní zábavu a skvělé odměny.\\nStejně jako loni budete moct hledat v Údolí speciální Marshmallowy. Pak z nich udělejte chutné pochoutky za exkluzivní odměny!",
+      "source": "our_translation"
     },
     {
       "key": "Title",
       "en": "Summer Sizzle Event",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Event Letní žár",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Update25_SEC_Oogi_030_ZeroKHole.locbin": [
+    {
+      "key": "Description",
+      "en": "Place an object enchanted by Merlin here to sabotage Oogie Boogie's Lucky Wheel.",
+      "cz": "Umísti sem předmět očarovaný Merlinem a sabotuj tak Kolo štěstí Oogie Boogieho.",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Update25_SEC_Oogi_050_TileKeyHole.locbin": [
+    {
+      "key": "Description",
+      "en": "Add the Oogie Boogie Tiles here.",
+      "cz": "Vlož sem destičky Oogie Boogieho.",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Update25_TrickOrTreat_2026.locbin": [
+    {
+      "key": "Description",
+      "en": "From October 14 to October 31, you're invited to celebrate the Halloween season in the Valley with our special Trick-or-Treat Event!\nFind special Candy Bowls by trick-or-treating at Houses with jack-o'—lanterns outside, or by searching the Village Plaza!\nKeep an eye out for the Houses of Mickey, WALL·E, Daisy, Stitch, Mike, and Jack. They might have some sweet surprises waiting for you!",
+      "cz": "Od 14. října do 31. října jsi zvána/zván oslavit halloweenskou sezónu v Údolí s naší speciální akcí Halloweenská koleda!\nSpeciální mísy s bonbóny najdeš koledováním u domů s dýňovými lucernami před vchodem, nebo hledáním na Náměstí ve vesnici!\nDávej pozor na domy Mickeyho, WALL·Eho, Daisy, Stitche, Mikea a Jacka. Možná na tebe čekají sladká překvapení!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Title",
+      "en": "Trick-or-Treat Event",
+      "cz": "Halloweenská koleda",
+      "source": "our_translation"
     }
   ]
 }

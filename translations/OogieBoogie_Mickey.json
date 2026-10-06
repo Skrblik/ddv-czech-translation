@@ -1,0 +1,108 @@
+{
+  "OogieBoogie_Mickey/Mickey_CrossNPCDialogues_Mickey_Mickey_SEC_Oogi_020_MickeyScared.locbin": [
+    {
+      "key": "Mickey_001_f",
+      "en": "Phew, I sure am glad {PlayerName} warned me about the Ghosties. Hiya fellas!",
+      "cz": "Uf, jsem moc rád za varování před Ducháčky od {PlayerName}. Zdravím, kamarádi!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Mickey_002_f",
+      "en": "G-g-g-ghosts!?! Uh-oh! What am I gonna do?!",
+      "cz": "D-d-d-duchové!?! Jejda! Co budu dělat?!",
+      "source": "our_translation"
+    }
+  ],
+  "OogieBoogie_Mickey/Mickey_SEC_Oogi_020_SEC_Oogi_020_TalkTo11.locbin": [
+    {
+      "key": "Mickey_000_f",
+      "en": "Hi {PlayerName}! What's up?",
+      "cz": "Ahoj {PlayerName}! Co se děje?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_f",
+      "en": "(Should I warn Mickey about the Ghosties?)",
+      "cz": "(Mám Mickeyho varovat před Ducháčky?)",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I need to tell you about something...",
+      "cz": "Musím ti něco říct...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Uh, don't worry; nothing scary happening here...",
+      "cz": "Ehm, neboj, nic strašidelného se tu neděje...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Mickey_004_f",
+      "en": "I've gotten myself into a situation with Oogie Boogie. Now I have to release Ghosties inside your House...",
+      "cz": "Mám trable s Oogiem Boogiem. Teď musím vypustit Ducháčky u tebe doma...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Mickey_005_f",
+      "en": "Gosh, sounds like you've had a frightening time. Are you okay?",
+      "cz": "Páni, to zní jako pořádně strašidelné dobrodružství. Jsi v pořádku?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm totally fine!",
+      "cz": "Jsem úplně v pohodě!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I just wanted to make sure YOU are okay.",
+      "cz": "Jde mi jen o to, jestli jsi v pořádku TY.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I think warning you will make Oogie Boogie mad, hehehe.",
+      "cz": "Myslím, že varování pro tebe by Oogieho Boogieho rozzlobilo, hehehe.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Mickey_006_f",
+      "en": "It's a long story, but I think the Ghosties are harmless, and they'll fly out on their own eventually.",
+      "cz": "Je to dlouhý příběh, ale myslím, že Ducháčci jsou neškodní a časem sami odletí.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Mickey_003_f",
+      "en": "Gotcha.",
+      "cz": "Jasně.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Mickey_001_f",
+      "en": "Thanks for the warning, {PlayerName}! I didn't know <Lore>Oogie Boogie</Lore> was back in the Valley.",
+      "cz": "Díky za varování, {PlayerName}! Nevěděl jsem, že je <Lore>Oogie Boogie</Lore> zpátky v Údolí.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Mickey_008_f",
+      "en": "I just hope he's not too mad...",
+      "cz": "Jen doufám, že se moc nezlobí...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Mickey_002_f",
+      "en": "Oh no! What just happened?",
+      "cz": "Ach ne! Co se to právě stalo?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Mickey_007_f",
+      "en": "Sorry...",
+      "cz": "Promiň...",
+      "source": "our_translation"
+    }
+  ]
+}
