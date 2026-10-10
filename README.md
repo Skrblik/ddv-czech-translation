@@ -10,13 +10,15 @@ Kompletní český překlad pro hru **Disney Dreamlight Valley** včetně Advent
 
 | Metrika | Počet |
 |---------|-------|
-| **Celkem klíčů** | 147 733 |
-| **Přeložitelné klíče** | 146 686 |
-| **Přeloženo celkem** | 146 103 (99,6 %) |
-| ↳ Předexistující překlad ([666joxer](https://komunitni-preklady.org/preklad/disney-dreamlight-valley)) | 134 943 |
+| **Celkem klíčů** | 147 866 |
+| **Přeložitelné klíče** | 146 819 |
+| **Přeloženo celkem** | 146 216 (99,6 %) |
+| ↳ Předexistující překlad ([666joxer](https://komunitni-preklady.org/preklad/disney-dreamlight-valley)) | 135 056 |
 | ↳ **Náš překlad (AI-assisted)** | **11 160** |
-| Nepřeloženo | 583 |
+| Nepřeloženo | 603 |
 | Systémové tagy (nepřekládá se) | 1 047 |
+
+> **Oprava schránky (mailbox fix):** vývojáři ve v1.25 z databáze smazali 98 starších dopisů (`CharacterMail!*`), které ale starší savy pořád obsahují – hra pak ukazovala chybový řetězec místo textu. Tyto dopisy jsme vrátili zpět do balíčku v původní češtině od 666joxer, takže schránka zase funguje.
 
 ## 🎯 Co jsme přeložili my (nově ve v1.25 – Season of Scares)
 

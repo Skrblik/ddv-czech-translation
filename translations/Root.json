@@ -143,6 +143,12 @@
       "en": "Tulip Town Preset",
       "cz": "Šablona Tulipánové město",
       "source": "our_translation"
+    },
+    {
+      "key": "PremadeElementalCity_DisplayName",
+      "en": "Elemental City Hall Set",
+      "cz": "",
+      "source": "untranslated"
     }
   ],
   "ActivityItem.locbin": [
@@ -50159,6 +50165,27 @@
       "cz": "Cuketové lupínky",
       "source": "pre_existing",
       "original_cz": "Cuketové lupínky"
+    },
+    {
+      "key": "Mission!Event!FloatingFestival!Halloween2025!WhiteRose_DisplayName",
+      "en": "Haunted White Rose",
+      "cz": "",
+      "source": "pre_existing",
+      "original_cz": "Strašidelná bílá růže"
+    },
+    {
+      "key": "Mission!Event!FloatingFestival!Halloween2025!CrowFeather_DisplayName",
+      "en": "Haunted Crow Feather",
+      "cz": "",
+      "source": "pre_existing",
+      "original_cz": "Strašidelné vraní pero"
+    },
+    {
+      "key": "Mission!Event!FloatingFestival!Halloween2025!SkeletonFish_DisplayName",
+      "en": "Haunted Skeleton Fish",
+      "cz": "",
+      "source": "pre_existing",
+      "original_cz": "Strašidelná kostra ryby"
     }
   ],
   "Aladdin_Dialogue.locbin": [
@@ -75757,6 +75784,692 @@
       "cz": "Máš srdce, chlapče.",
       "source": "pre_existing",
       "original_cz": "Máš srdce, chlapče."
+    },
+    {
+      "key": "CharacterMail!Tangled!MotherGothel_Mail001_MessageTitle",
+      "en": "I have thoughts.",
+      "cz": "Mám myšlenky.",
+      "source": "pre_existing",
+      "original_cz": "Mám myšlenky."
+    },
+    {
+      "key": "CharacterMail!Tangled!MotherGothel_Mail001_Message",
+      "en": "{PlayerName}, are you feeling run down? I couldn't help but notice the Village was looking a little tired, dear. I'm concerned! I thought perhaps you could liven things up with some flower beds to improve the look of the village. Of course you'll have to pick the blooms, but I can't do everything around here, can I?",
+      "cz": "{PlayerName}, cítíš se unaveně? Nemohla jsem si nevšimnout, že vesnice vypadá trochu unaveně, drahoušku. Mám obavy! Napadlo mě, že bys mohla oživit okolí nějakými záhony, aby se vylepšil vzhled vesnice. Samozřejmě budeš muset květiny natrhat, ale já tu nemůžu dělat všechno, že ne?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, cítíš se unaveně? Nemohla jsem si nevšimnout, že vesnice vypadá trochu unaveně, drahoušku. Mám obavy! Napadlo mě, že bys mohla oživit okolí nějakými záhony, aby se vylepšil vzhled vesnice. Samozřejmě budeš muset květiny natrhat, ale já tu nemůžu dělat všechno, že ne?"
+    },
+    {
+      "key": "CharacterMail!Moana!Moana_Mail001_Message",
+      "en": "{PlayerName}, I thought it could be nice to have a fire bowl made of granite on the Beach. A little easier to keep going than a campfire, and a place the Villagers could gather to sing songs and tell stories! I gathered some supplies to get you started. What do you think?",
+      "cz": "{PlayerName}, myslel jsem si, že by bylo fajn mít na pláži ohniště ze žuly. Udržování ohně by bylo o něco snazší než táborák a zároveň by to bylo místo, kde by se vesničané mohli scházet, zpívat písně a vyprávět si příběhy! Nashromáždil jsem nějaké věci, které ti pomohou začít. Co si o tom myslíš?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, myslel jsem si, že by bylo fajn mít na pláži ohniště ze žuly. Udržování ohně by bylo o něco snazší než táborák a zároveň by to bylo místo, kde by se vesničané mohli scházet, zpívat písně a vyprávět si příběhy! Nashromáždil jsem nějaké věci, které ti pomohou začít. Co si o tom myslíš?"
+    },
+    {
+      "key": "CharacterMail!LilMermaid!Ariel_Mail001_Message",
+      "en": "{PlayerName}, I found these while diving off the shore of Dazzle Beach. I already have some in my collection... Maybe you could use these to add a beautiful festive pennant to the Beach? Or whatever you like!",
+      "cz": "{PlayerName}, Našel jsem je při potápění u břehu Dazzle Beach. Už nějaké mám ve své sbírce... Možná byste je mohli použít jako krásnou slavnostní vlajku na pláži? Nebo cokoli jiného, ​​co se vám líbí!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, Našel jsem je při potápění u břehu Dazzle Beach. Už nějaké mám ve své sbírce... Možná byste je mohli použít jako krásnou slavnostní vlajku na pláži? Nebo cokoli jiného, ​​co se vám líbí!"
+    },
+    {
+      "key": "CharacterMail!LilMermaid!Eric_Mail001_MessageTitle",
+      "en": "A possible project?",
+      "cz": "Možný projekt?",
+      "source": "pre_existing",
+      "original_cz": "Možný projekt?"
+    },
+    {
+      "key": "CharacterMail!Tangled!Rapunzel_Mail001_MessageTitle",
+      "en": "For your art?",
+      "cz": "Pro vaše umění?",
+      "source": "pre_existing",
+      "original_cz": "Pro vaše umění?"
+    },
+    {
+      "key": "CharacterMail!BeautyBeast!Beast_Mail001_Message",
+      "en": "{PlayerName}, I was walking through the Valley with Belle when she commented on how nice it would be to have a vegetable patch with a trellis or two. I found you the supplies to make such a thing if you wish. Of course, do with them what you will.",
+      "cz": "{PlayerName}, Procházel jsem se údolím s Belle, když poznamenala, jak by bylo hezké mít zeleninový záhon s jednou nebo dvěma trelážmi. Sehnala jsem ti potřebné věci, abys něco takového mohla vyrobit, pokud si to přeješ. Samozřejmě si s nimi udělej, co chceš.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, Procházel jsem se údolím s Belle, když poznamenala, jak by bylo hezké mít zeleninový záhon s jednou nebo dvěma trelážmi. Sehnala jsem ti potřebné věci, abys něco takového mohla vyrobit, pokud si to přeješ. Samozřejmě si s nimi udělej, co chceš."
+    },
+    {
+      "key": "CharacterMail!ToyStory!Buzz_Mail001_MessageTitle",
+      "en": "Your next mission.",
+      "cz": "Vaše další mise.",
+      "source": "pre_existing",
+      "original_cz": "Vaše další mise."
+    },
+    {
+      "key": "CharacterMail!LilMermaid!Ursula_Mail001_Message",
+      "en": "Angelfish, don't be so surprised. I've got these little tokens for you. Use them as you will but if you listen to your poor dear Ursula, make a bookshelf for your lair... or keep it for something else. But remember that it was me who sent these materials to you out of the goodness of my heart.",
+      "cz": "Angelfish, nebuď tak překvapená. Mám pro tebe tyhle malé žetony. Použij je, jak chceš, ale pokud budeš poslouchat svou ubohou drahou Uršulu, udělej si z toho doupě knihovnu... nebo si ji nech na něco jiného. Ale pamatuj, že jsem to já, kdo ti tyto materiály poslal z dobroty svého srdce.",
+      "source": "pre_existing",
+      "original_cz": "Angelfish, nebuď tak překvapená. Mám pro tebe tyhle malé žetony. Použij je, jak chceš, ale pokud budeš poslouchat svou ubohou drahou Uršulu, udělej si z toho doupě knihovnu... nebo si ji nech na něco jiného. Ale pamatuj, že jsem to já, kdo ti tyto materiály poslal z dobroty svého srdce."
+    },
+    {
+      "key": "CharacterMail!Encanto!Mirabel_Mail001_Message",
+      "en": "Hola, {PlayerName}! I have a super fun project idea for you — something I think my cousin Antonio would approve of. Why not add some bird feeders around the Village to feed our feathered friends? I included some supplies in case you think this is a good idea. I'm sure whatever you use them for will be great!",
+      "cz": "Ahoj, {PlayerName}! Mám pro tebe super nápad na zábavný projekt – něco, co by asi můj bratranec Antonio schválil. Proč neumístit po vesnici krmítka pro ptáky, abychom mohli nakrmit naše opeřené kamarády? Přiložila jsem i nějaké pomůcky, kdybys náhodou myslela, že je to dobrý nápad. Jsem si jistá, že ať už je použiješ k čemukoli, bude to skvělé!",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}! Mám pro tebe super nápad na zábavný projekt – něco, co by asi můj bratranec Antonio schválil. Proč neumístit po vesnici krmítka pro ptáky, abychom mohli nakrmit naše opeřené kamarády? Přiložila jsem i nějaké pomůcky, kdybys náhodou myslela, že je to dobrý nápad. Jsem si jistá, že ať už je použiješ k čemukoli, bude to skvělé!"
+    },
+    {
+      "key": "CharacterMail!Frozen!Anna_Mail001_MessageTitle",
+      "en": "Found something neat...",
+      "cz": "Našel jsem něco šikovného...",
+      "source": "pre_existing",
+      "original_cz": "Našel jsem něco šikovného..."
+    },
+    {
+      "key": "CharacterMail!Encanto!Mirabel_Mail002_Message",
+      "en": "Hola {PlayerName}! I have great news! The Mystery Giver struck again. I found a beautiful bunch of flowers at my door! They're as pretty as the ones my sister Isabela grows. Anyway, I thought maybe you could take these and make some flower boxes for the Valley? Hasta luego, Mirabel",
+      "cz": "Ahoj {PlayerName}! Mám skvělou zprávu! Tajemný dárce opět udeřil. Našla jsem u dveří krásnou kytici květin! Jsou stejně krásné jako ty, které pěstuje moje sestra Isabela. Každopádně jsem si říkala, že bys je mohla vzít a vyrobit z nich květináče do Údolí? A teď, Mirabel",
+      "source": "pre_existing",
+      "original_cz": "Ahoj {PlayerName}! Mám skvělou zprávu! Tajemný dárce opět udeřil. Našla jsem u dveří krásnou kytici květin! Jsou stejně krásné jako ty, které pěstuje moje sestra Isabela. Každopádně jsem si říkala, že bys je mohla vzít a vyrobit z nich květináče do Údolí? A teď, Mirabel"
+    },
+    {
+      "key": "CharacterMail!Mickey!Donald_Mail001_Message",
+      "en": "Hey, {PlayerName}! I was fishin' last night on Dazzle Beach. It was real dark and I thought, \"HEY! Wouldn't this look real pretty all lit up?\" I even found some supplies to make a couple of torches — maybe that's silly or maybe you like it? Anyway, do whatever you want; you've got great ideas!",
+      "cz": "Hej, {PlayerName}! Včera večer jsem rybařil na pláži Dazzle Beach. Byla fakt tma a já si pomyslel: „HEJ! Nevypadalo by tohle celé osvětlené fakt hezky?“ Dokonce jsem sehnal i nějaké věci na výrobu pár pochodní – možná je to hloupé, nebo se ti to líbí? Každopádně si dělej, co chceš; máš skvělé nápady!",
+      "source": "pre_existing",
+      "original_cz": "Hej, {PlayerName}! Včera večer jsem rybařil na pláži Dazzle Beach. Byla fakt tma a já si pomyslel: „HEJ! Nevypadalo by tohle celé osvětlené fakt hezky?“ Dokonce jsem sehnal i nějaké věci na výrobu pár pochodní – možná je to hloupé, nebo se ti to líbí? Každopádně si dělej, co chceš; máš skvělé nápady!"
+    },
+    {
+      "key": "CharacterMail!Moana!Maui_Mail001_MessageTitle",
+      "en": "For a legend!",
+      "cz": "Pro legendu!",
+      "source": "pre_existing",
+      "original_cz": "Pro legendu!"
+    },
+    {
+      "key": "CharacterMail!DreamlightValley!Forgotten_Mail001_MessageTitle",
+      "en": "... Whatever.",
+      "cz": "... Ať je to jakkoli.",
+      "source": "pre_existing",
+      "original_cz": "... Ať je to jakkoli."
+    },
+    {
+      "key": "CharacterMail!Mickey!Daisy_Mail002_MessageTitle",
+      "en": "We've almost solved it...",
+      "cz": "Už jsme to skoro vyřešili...",
+      "source": "pre_existing",
+      "original_cz": "Už jsme to skoro vyřešili..."
+    },
+    {
+      "key": "CharacterMail!Nightmare!JackSkellington_Mail001_MessageTitle",
+      "en": "An eerie suggestion!",
+      "cz": "Děsivý návrh!",
+      "source": "pre_existing",
+      "original_cz": "Děsivý návrh!"
+    },
+    {
+      "key": "CharacterMail!Ralph!Vanellope_Mail002_Message",
+      "en": "Hey {PlayerName}! So this Mystery Giver left me some cool gemstones! But I already got a pretty big collection of gems and shiny junk from spelunking in the Valley. So, I wanted to share 'em with you. The Mystery Giver must be some kinda rich to be handing out gems huh? Catch ya later, Vanellope",
+      "cz": "Ahoj {PlayerName}! Takže tenhle Tajemný Dárce mi nechal pár skvělých drahokamů! Ale už jsem si nashromáždil docela velkou sbírku drahokamů a lesklého haraburdí z jeskynního průzkumu v Údolí. Tak jsem se s tebou o ně chtěl podělit. Tajemný Dárce musí být pěkně bohatý, když rozdává drahokamy, co? Uvidíme se později, Vanellope.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj {PlayerName}! Takže tenhle Tajemný Dárce mi nechal pár skvělých drahokamů! Ale už jsem si nashromáždil docela velkou sbírku drahokamů a lesklého haraburdí z jeskynního průzkumu v Údolí. Tak jsem se s tebou o ně chtěl podělit. Tajemný Dárce musí být pěkně bohatý, když rozdává drahokamy, co? Uvidíme se později, Vanellope."
+    },
+    {
+      "key": "CharacterMail!SwordInStone!Merlin_Mail001_Message",
+      "en": "{PlayerName}, I've noticed that the grounds around the Dreamlight Library could perhaps look a tad more inviting. Decorating is not my forte... but I've assembled some materials that you ought to be able to make something out of. Might I suggest making some colorful lampposts for placement near the Library? It's up to you, of course.",
+      "cz": "{PlayerName}, všiml jsem si, že by pozemek kolem knihovny Dreamlight mohl vypadat o něco lákavěji. Zdobení není moje silná stránka... ale shromáždil jsem pár materiálů, ze kterých bys měl být schopen něco vyrobit. Mohl bych navrhnout výrobu barevných lamp, které by se daly umístit poblíž knihovny? Je to samozřejmě na tobě.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, všiml jsem si, že by pozemek kolem knihovny Dreamlight mohl vypadat o něco lákavěji. Zdobení není moje silná stránka... ale shromáždil jsem pár materiálů, ze kterých bys měl být schopen něco vyrobit. Mohl bych navrhnout výrobu barevných lamp, které by se daly umístit poblíž knihovny? Je to samozřejmě na tobě."
+    },
+    {
+      "key": "CharacterMail!ToyStory!Woody_Mail002_MessageTitle",
+      "en": "Who could it be?",
+      "cz": "Kdo by to mohl být?",
+      "source": "pre_existing",
+      "original_cz": "Kdo by to mohl být?"
+    },
+    {
+      "key": "CharacterMail!Mickey!Minnie_Mail001_Message",
+      "en": "{PlayerName}, I've seen you running around the Valley lately and you must be getting awfully hungry. I decided to make you a pie! But then I couldn't figure out what kind of pie to make you... so I thought I'd just give you all the Ingredients you need and let YOU decide! Never forget: You're special to all of us.",
+      "cz": "{PlayerName}, v poslední době jsem tě viděla pobíhat po údolí a musíš mít hrozný hlad. Rozhodla jsem se ti upéct koláč! Ale pak jsem nemohla přijít na to, jaký koláč ti mám upéct... tak jsem si říkala, že ti prostě dám všechny potřebné ingredience a nechám TY, abys se rozhodl/a! Nikdy nezapomeň: Jsi pro nás všechny výjimečný/á.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, v poslední době jsem tě viděla pobíhat po údolí a musíš mít hrozný hlad. Rozhodla jsem se ti upéct koláč! Ale pak jsem nemohla přijít na to, jaký koláč ti mám upéct... tak jsem si říkala, že ti prostě dám všechny potřebné ingredience a nechám TY, abys se rozhodl/a! Nikdy nezapomeň: Jsi pro nás všechny výjimečný/á."
+    },
+    {
+      "key": "CharacterMail!Mickey!ScroogeMcDuck_Message",
+      "en": "Dear {PlayerName}, as of late I've had balloon arches on the brain. Not only do they draw customers in, they also look great at any celebration. I thought I'd send along some supplies if you were getting ready for anything special soon — you've done so much for the Valley; it's the least I could do. I've sent along something to get you started on a balloon arch of your own! I trust you'll make good use of them however you can.",
+      "cz": "Milý/á {PlayerName}, v poslední době mě napadly balónkové oblouky. Nejenže přitahují zákazníky, ale také skvěle vypadají na každé oslavě. Říkal/a jsem si, že ti pošlu nějaké věci, pokud se brzy chystáš na něco speciálního – udělal/a jsi pro Údolí tolik; je to nejmenší, co můžu udělat. Poslal/a jsem ti něco, co ti pomůže začít s vlastním balónkovým obloukem! Věřím, že je využiješ, jak jen bude možné.",
+      "source": "pre_existing",
+      "original_cz": "Milý/á {PlayerName}, v poslední době mě napadly balónkové oblouky. Nejenže přitahují zákazníky, ale také skvěle vypadají na každé oslavě. Říkal/a jsem si, že ti pošlu nějaké věci, pokud se brzy chystáš na něco speciálního – udělal/a jsi pro Údolí tolik; je to nejmenší, co můžu udělat. Poslal/a jsem ti něco, co ti pomůže začít s vlastním balónkovým obloukem! Věřím, že je využiješ, jak jen bude možné."
+    },
+    {
+      "key": "CharacterMail!MonstersInc!MikeWazowski_Message",
+      "en": "Because it was licked! HAHA! Just a nice little joke for you. Also, happened to notice you might need a little more storage around here, so Sulley and I scrounged up the stuff to build a brand-new chest. Well... Mostly. You still gotta add the Dreamlight. We weren't sure where to find that stuff! Anyway — enjoy!",
+      "cz": "Protože to bylo vylízané! HAHA! Jen takový milý malý vtip. Taky jsem si náhodou všiml, že bys tu mohl potřebovat trochu víc úložného prostoru, tak jsme se Sulleym ty věci sehnali, abychom si z nich postavili úplně novou truhlu. No... Většinou. Ještě musíš přidat Dreamlight. Nevěděli jsme, kde ho sehnat! Každopádně – užij si to!",
+      "source": "pre_existing",
+      "original_cz": "Protože to bylo vylízané! HAHA! Jen takový milý malý vtip. Taky jsem si náhodou všiml, že bys tu mohl potřebovat trochu víc úložného prostoru, tak jsme se Sulleym ty věci sehnali, abychom si z nich postavili úplně novou truhlu. No... Většinou. Ještě musíš přidat Dreamlight. Nevěděli jsme, kde ho sehnat! Každopádně – užij si to!"
+    },
+    {
+      "key": "CharacterMail!LilMermaid!Ariel_Mail002_Message",
+      "en": "Hi {PlayerName}! I can't believe how lucky I am! The Mystery Giver left me some softwood and stone. These are just what we need to make a small chest to hold a collection. Whoever it is, they're putting so much thought into these gifts: They must know how much I love collecting things — and sharing too! Please take some of what they gave me, so you can make a chest or anything else you'd like. See you soon, Ariel",
+      "cz": "Ahoj {PlayerName}! Nemůžu uvěřit, jaké mám štěstí! Tajemný dárce mi nechal trochu měkkého dřeva a kamene. To je přesně to, co potřebujeme na výrobu malé truhlice na sbírku. Ať už je to kdokoli, s těmito dary si tolik myslel: Musí vědět, jak moc ráda sbírám věci – a také se o ně dělím! Prosím, vezmi si něco z toho, co mi dali, ať si z toho můžeš vyrobit truhlici nebo cokoli jiného, ​​co by se ti líbilo. Brzy na viděnou, Ariel",
+      "source": "pre_existing",
+      "original_cz": "Ahoj {PlayerName}! Nemůžu uvěřit, jaké mám štěstí! Tajemný dárce mi nechal trochu měkkého dřeva a kamene. To je přesně to, co potřebujeme na výrobu malé truhlice na sbírku. Ať už je to kdokoli, s těmito dary si tolik myslel: Musí vědět, jak moc ráda sbírám věci – a také se o ně dělím! Prosím, vezmi si něco z toho, co mi dali, ať si z toho můžeš vyrobit truhlici nebo cokoli jiného, ​​co by se ti líbilo. Brzy na viděnou, Ariel"
+    },
+    {
+      "key": "CharacterMail!Encanto!Mirabel_Mail002_MessageTitle",
+      "en": "Mystery Giver news!",
+      "cz": "Novinky o dárci záhad!",
+      "source": "pre_existing",
+      "original_cz": "Novinky o dárci záhad!"
+    },
+    {
+      "key": "CharacterMail!Tangled!MotherGothel_Mail002_Message",
+      "en": "Dear {PlayerName}, when I heard there was a mysterious gift giver in the Valley, I knew it was only a matter of time before I'd find a package on my doorstep. It wouldn't be my first secret admirer, unlike you. Oh, I'm just teasing! Well, I was given these materials and have no idea what to do with all this coal. But I do know you like to cook. I'm sure my admirer will soon remember that FLOWERS are far more appropriate. Your acquaintance, Mother Gothel",
+      "cz": "Milý/á {PlayerName}, když jsem slyšel/a, že v Údolí žije záhadný dárce, věděl/a jsem, že je jen otázkou času, než najdu balíček před dveřmi. Nebyl by to můj první tajný ctitel, na rozdíl od tebe. Jen si dělám legraci! No, dostal/a jsem tyto materiály a nemám tušení, co s tím vším uhlím. Ale vím, že rád/a vaříš. Jsem si jistý/á, že si můj ctitel brzy vzpomene, že KVĚTINY jsou mnohem vhodnější. Tvoje známá, Matka Gothel",
+      "source": "pre_existing",
+      "original_cz": "Milý/á {PlayerName}, když jsem slyšel/a, že v Údolí žije záhadný dárce, věděl/a jsem, že je jen otázkou času, než najdu balíček před dveřmi. Nebyl by to můj první tajný ctitel, na rozdíl od tebe. Jen si dělám legraci! No, dostal/a jsem tyto materiály a nemám tušení, co s tím vším uhlím. Ale vím, že rád/a vaříš. Jsem si jistý/á, že si můj ctitel brzy vzpomene, že KVĚTINY jsou mnohem vhodnější. Tvoje známá, Matka Gothel"
+    },
+    {
+      "key": "CharacterMail!Frozen!Anna_Mail002_Message",
+      "en": "Dear {PlayerName}, do you have any idea who this Mystery Giver is? Everyone in the Village seems to be talking about it — except Mr. McDuck. Maybe he thinks they're silly for giving things away? I'll have to think about that. Anyway, the Mystery Giver left me Ingredients to make Hot Cocoa! It's the perfect drink to have before bed, after an exciting family game night or for breakfast... Actually, there's no BAD time for chocolate, right? Please enjoy! I have plenty. Sincerely, Anna",
+      "cz": "Milý/á {PlayerName}, máš tušení, kdo je ten Záhadný dárce? Zdá se, že o tom mluví všichni ve vesnici – kromě pana McDucka. Možná si myslí, že jsou hloupí, že rozdávají věci? O tom si budu muset popřemýšlet. Každopádně mi Záhadný dárce nechal ingredience na horké kakao! Je to perfektní nápoj před spaním, po vzrušujícím rodinném herním večeru nebo k snídani... Vlastně na čokoládu není ŠPATNÁ chvíle, že? Prosím, dobrou chuť! Mám jí spoustu. S pozdravem, Anna",
+      "source": "pre_existing",
+      "original_cz": "Milý/á {PlayerName}, máš tušení, kdo je ten Záhadný dárce? Zdá se, že o tom mluví všichni ve vesnici – kromě pana McDucka. Možná si myslí, že jsou hloupí, že rozdávají věci? O tom si budu muset popřemýšlet. Každopádně mi Záhadný dárce nechal ingredience na horké kakao! Je to perfektní nápoj před spaním, po vzrušujícím rodinném herním večeru nebo k snídani... Vlastně na čokoládu není ŠPATNÁ chvíle, že? Prosím, dobrou chuť! Mám jí spoustu. S pozdravem, Anna"
+    },
+    {
+      "key": "CharacterMail!ToyStory!Woody_Mail001_MessageTitle",
+      "en": "For my favorite deputy.",
+      "cz": "Pro mého nejoblíbenějšího zástupce.",
+      "source": "pre_existing",
+      "original_cz": "Pro mého nejoblíbenějšího zástupce."
+    },
+    {
+      "key": "CharacterMail!Ratatouille!Remy_Mail002_Message",
+      "en": "Hey {PlayerName}, someone left me an unexpected gift at the restaurant, and I have no idea who it came from! Have you heard anything about this? While I appreciate the gift, I've got more soya and wheat than I need now. Maybe you could make some vegetarian dumplings? Just remember to add the vegetables! Bon appétit! Remy",
+      "cz": "Ahoj {PlayerName}, někdo mi v restauraci nechal nečekaný dárek a já nemám tušení, od koho je! Slyšel jsi o tom něco? I když si dárku vážím, mám víc sóji a pšenice, než teď potřebuji. Možná bys mohl upéct nějaké vegetariánské knedlíčky? Jen nezapomeň přidat zeleninu! Dobrou chuť! Remy",
+      "source": "pre_existing",
+      "original_cz": "Ahoj {PlayerName}, někdo mi v restauraci nechal nečekaný dárek a já nemám tušení, od koho je! Slyšel jsi o tom něco? I když si dárku vážím, mám víc sóji a pšenice, než teď potřebuji. Možná bys mohl upéct nějaké vegetariánské knedlíčky? Jen nezapomeň přidat zeleninu! Dobrou chuť! Remy"
+    },
+    {
+      "key": "CharacterMail!Tangled!MotherGothel_Mail002_MessageTitle",
+      "en": "I have a secret admirer!",
+      "cz": "Mám tajného ctitele!",
+      "source": "pre_existing",
+      "original_cz": "Mám tajného ctitele!"
+    },
+    {
+      "key": "CharacterMail!LiloStitch!Stitch_Mail002_Message",
+      "en": "{PlayerName}, Stitch share gift with you!!! Takka, Mystery Giver! You make COCONUT CAKE, yeah? Good. Bye, Stitch",
+      "cz": "{PlayerName}, Stitch, poděl se s tebou o dárek!!! Takka, Tajemný dárce! Upečeš KOKOSOVÝ DORT, jo? Tak jo. Čau, Stitch.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, Stitch, poděl se s tebou o dárek!!! Takka, Tajemný dárce! Upečeš KOKOSOVÝ DORT, jo? Tak jo. Čau, Stitch."
+    },
+    {
+      "key": "CharacterMail!Frozen!Kristoff_Mail002_MessageTitle",
+      "en": "Gotta keep warm...",
+      "cz": "Musím se zahřát...",
+      "source": "pre_existing",
+      "original_cz": "Musím se zahřát..."
+    },
+    {
+      "key": "CharacterMail!Encanto!Mirabel_Mail001_MessageTitle",
+      "en": "Our feathery neighbors.",
+      "cz": "Naši opeření sousedé.",
+      "source": "pre_existing",
+      "original_cz": "Naši opeření sousedé."
+    },
+    {
+      "key": "CharacterMail!LilMermaid!Ariel_Mail001_MessageTitle",
+      "en": "An interesting discovery!",
+      "cz": "Zajímavý objev!",
+      "source": "pre_existing",
+      "original_cz": "Zajímavý objev!"
+    },
+    {
+      "key": "CharacterMail!Oswald!Oswald_Mail001_Message",
+      "en": "Ho there, {PlayerName}! I was thinkin' about how we could get the Valley into shape — or should I say SHAPES? Why not shake things up with some geometric garden beds with black and white flowers? I think that'd be swell. I even gathered up all the stuff so you can get right to business. Of course, you can use them for whatever you like. It's your Valley, after all.",
+      "cz": "Nazdar, {PlayerName}! Přemýšlela jsem, jak bychom mohli dát údolí do nějakého tvaru – nebo bych měla říct do TVARŮ? Proč to neoživit geometrickými záhony s černobílými květinami? Myslím, že by to bylo skvělé. Dokonce jsem všechny ty věci nasbírala, abyste se mohli rovnou pustit do práce. Samozřejmě je můžete použít na cokoli chcete. Koneckonců je to vaše údolí.",
+      "source": "pre_existing",
+      "original_cz": "Nazdar, {PlayerName}! Přemýšlela jsem, jak bychom mohli dát údolí do nějakého tvaru – nebo bych měla říct do TVARŮ? Proč to neoživit geometrickými záhony s černobílými květinami? Myslím, že by to bylo skvělé. Dokonce jsem všechny ty věci nasbírala, abyste se mohli rovnou pustit do práce. Samozřejmě je můžete použít na cokoli chcete. Koneckonců je to vaše údolí."
+    },
+    {
+      "key": "CharacterMail!Cinderella!FairyGodMother_Mail001_Message",
+      "en": "My dear, enclosed is a little token of my appreciation, to thank you for all of your hard work. This will allow you to make a beautiful basket of marigolds to add to the Village if you wish, or to keep for yourself. Whatever you think is best, child.",
+      "cz": "Miláčku, v příloze ti posílám malý projev mého uznání za tvou tvrdou práci. Díky němu budeš moci uplést krásný košík měsíčků, který můžeš dle libosti přidat do vesnice, nebo si ho nechat pro sebe. Cokoli uznáš za nejlepší, dítě.",
+      "source": "pre_existing",
+      "original_cz": "Miláčku, v příloze ti posílám malý projev mého uznání za tvou tvrdou práci. Díky němu budeš moci uplést krásný košík měsíčků, který můžeš dle libosti přidat do vesnice, nebo si ho nechat pro sebe. Cokoli uznáš za nejlepší, dítě."
+    },
+    {
+      "key": "CharacterMail!LilMermaid!Eric_Mail001_Message",
+      "en": "{PlayerName}, I feel you and I are alike. We both appreciate storage — something you need plenty of on a ship when out at sea for months. With that in mind, I thought I'd send you some items I found while tidying up my ship — I think you could put them towards building a chest. Of course, I know you'll make good use of these supplies whatever you do.",
+      "cz": "{PlayerName}, myslím, že jsme si podobní. Oba si ceníme úložného prostoru – něco, čeho na lodi potřebujete spoustu, když jste na moři celé měsíce. S ohledem na to jsem si říkal, že ti pošlu pár věcí, které jsem našel při úklidu lodi – myslím, že bys je mohl použít na stavbu truhly. Samozřejmě vím, že tyto zásoby dobře využiješ, ať už děláš cokoli.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, myslím, že jsme si podobní. Oba si ceníme úložného prostoru – něco, čeho na lodi potřebujete spoustu, když jste na moři celé měsíce. S ohledem na to jsem si říkal, že ti pošlu pár věcí, které jsem našel při úklidu lodi – myslím, že bys je mohl použít na stavbu truhly. Samozřejmě vím, že tyto zásoby dobře využiješ, ať už děláš cokoli."
+    },
+    {
+      "key": "CharacterMail!Mickey!Mickey_Mail002_Message",
+      "en": "Hiya pal! I got a present from the Mystery Giver! They left a basket of raspberries and a white feather right on my doorstep. Think this could be a clue? Anyway, I just went raspberry picking, so now I've got too many! Maybe you can take these and make a pie with them. Or anything else you'd like. See ya real soon, Mickey",
+      "cz": "Čau kámo! Dostal jsem dárek od Tajemného dárce! Nechali mi přímo před dveřmi košík malin a bílé pírko. Myslíš, že by to mohla být stopa? Každopádně jsem si šel sbírat maliny, takže jich teď mám moc! Možná by sis je mohl vzít a upéct z nich koláč. Nebo cokoli jiného, ​​co bys chtěl. Brzy na viděnou, Mickey.",
+      "source": "pre_existing",
+      "original_cz": "Čau kámo! Dostal jsem dárek od Tajemného dárce! Nechali mi přímo před dveřmi košík malin a bílé pírko. Myslíš, že by to mohla být stopa? Každopádně jsem si šel sbírat maliny, takže jich teď mám moc! Možná by sis je mohl vzít a upéct z nich koláč. Nebo cokoli jiného, ​​co bys chtěl. Brzy na viděnou, Mickey."
+    },
+    {
+      "key": "CharacterMail!Mickey!ScroogeMcDuck_Mail002_MessageTitle",
+      "en": "Aye, it's me!",
+      "cz": "Ano, to jsem já!",
+      "source": "pre_existing",
+      "original_cz": "Ano, to jsem já!"
+    },
+    {
+      "key": "CharacterMail!ToyStory!Buzz_Mail001_Message",
+      "en": "Hey, Space Ranger! Have you considered adding more Crafting Stations around the Valley for easier access to your tools? I think it would be a game changer for your various projects. I scraped together a few supplies for another Crafting Station in case you agree and want to get started. Do whatever you want with them — just a suggestion of course!",
+      "cz": "Hej, Vesmírný Strážče! Zvažoval jsi, že bys v údolí přidal další řemeslné stanice pro snazší přístup k tvému ​​nářadí? Myslím, že by to pro tvé různé projekty zásadně změnilo pravidla hry. Nasbíral jsem pár zásob na další řemeslnou stanici, pro případ, že bys souhlasil a chtěl začít. Dělej s nimi, co chceš – samozřejmě jen návrh!",
+      "source": "pre_existing",
+      "original_cz": "Hej, Vesmírný Strážče! Zvažoval jsi, že bys v údolí přidal další řemeslné stanice pro snazší přístup k tvému ​​nářadí? Myslím, že by to pro tvé různé projekty zásadně změnilo pravidla hry. Nasbíral jsem pár zásob na další řemeslnou stanici, pro případ, že bys souhlasil a chtěl začít. Dělej s nimi, co chceš – samozřejmě jen návrh!"
+    },
+    {
+      "key": "CharacterMail!Mickey!Donald_Mail001_MessageTitle",
+      "en": "Whaddaya think?",
+      "cz": "Co si myslíš?",
+      "source": "pre_existing",
+      "original_cz": "Co si myslíš?"
+    },
+    {
+      "key": "CharacterMail!Moana!Moana_Mail001_MessageTitle",
+      "en": "For the Beach.",
+      "cz": "Pro pláž.",
+      "source": "pre_existing",
+      "original_cz": "Pro pláž."
+    },
+    {
+      "key": "CharacterMail!Nightmare!JackSkellington_Mail002_Message",
+      "en": "Dear {PlayerName}, a mysterious someone is leaving gifts for everyone in the Valley! Just like my old friend Sandy Claws! I feel newly inspired to share in the giving spirit thanks to this benevolent benefactor. They gifted me these marvelous snowballs. And I want YOU to take them along with this carrot, fabric, and some pebbles to make a snowman! How fun! Your friend, Jack Skellington",
+      "cz": "Milý/á {PlayerName}, tajemná osoba nechává dárky pro všechny v Údolí! Stejně jako moje stará kamarádka Sandy Claws! Díky tomuto laskavému dobrodinci se cítím znovu inspirována k tomu, abych se s vámi podělila o ducha štědrosti. Darovali mi tyto úžasné sněhové koule. A chci, abyste si je TY vzal/a spolu s touto mrkví, látkou a kamínky a vyrobil/a si sněhuláka! To je ale zábava! Tvůj přítel, Jack Skellington",
+      "source": "pre_existing",
+      "original_cz": "Milý/á {PlayerName}, tajemná osoba nechává dárky pro všechny v Údolí! Stejně jako moje stará kamarádka Sandy Claws! Díky tomuto laskavému dobrodinci se cítím znovu inspirována k tomu, abych se s vámi podělila o ducha štědrosti. Darovali mi tyto úžasné sněhové koule. A chci, abyste si je TY vzal/a spolu s touto mrkví, látkou a kamínky a vyrobil/a si sněhuláka! To je ale zábava! Tvůj přítel, Jack Skellington"
+    },
+    {
+      "key": "CharacterMail!Frozen!Elsa_Mail001_MessageTitle",
+      "en": "Just an idea.",
+      "cz": "Jen nápad.",
+      "source": "pre_existing",
+      "original_cz": "Jen nápad."
+    },
+    {
+      "key": "CharacterMail!Frozen!Anna_Mail001_Message",
+      "en": "Hey, {PlayerName}! I just found something kind of cool hidden in a stump in the Forest of Valor. It looks like somebody stashed a whole bunch of iron and brick there. I was thinking maybe you could use them to make a fence for your Plaza — or anywhere you need to protect your territories from the Weaseltons of the world. Or just use it for whatever! You're so creative. I'm sure you'll think of something.",
+      "cz": "Ahoj, {PlayerName}! Právě jsem našel něco docela skvělého schovaného v pařezu v Lese statečnosti. Vypadá to, jako by tam někdo schoval hromadu železa a cihel. Napadlo mě, že bys je mohl použít k výrobě plotu pro své náměstí – nebo kdekoli, kde potřebuješ chránit svá území před Lasičkami z celého světa. Nebo je prostě použít k čemukoli! Jsi tak kreativní. Jsem si jistý, že něco vymyslíš.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}! Právě jsem našel něco docela skvělého schovaného v pařezu v Lese statečnosti. Vypadá to, jako by tam někdo schoval hromadu železa a cihel. Napadlo mě, že bys je mohl použít k výrobě plotu pro své náměstí – nebo kdekoli, kde potřebuješ chránit svá území před Lasičkami z celého světa. Nebo je prostě použít k čemukoli! Jsi tak kreativní. Jsem si jistý, že něco vymyslíš."
+    },
+    {
+      "key": "CharacterMail!Cinderella!FairyGodMother_Mail001_MessageTitle",
+      "en": "An offer of flowers.",
+      "cz": "Nabídka květin.",
+      "source": "pre_existing",
+      "original_cz": "Nabídka květin."
+    },
+    {
+      "key": "CharacterMail!DreamlightValley!Forgotten_Mail001_Message",
+      "en": "Hey, {PlayerName}. I was wandering around the Valley looking for the best place to write poetry when I almost tripped on a tree root and fell on my face. After I wrote a haiku about falling, I found some stuff for you to make a road. Just an idea, or whatever...",
+      "cz": "Ahoj, {PlayerName}. Toulal jsem se údolím a hledal nejlepší místo k psaní básní, když jsem málem zakopl o kořen stromu a upadl na obličej. Poté, co jsem napsal haiku o pádu, jsem pro tebe našel pár věcí na stavbu cesty. Jen nápad, nebo co...",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}. Toulal jsem se údolím a hledal nejlepší místo k psaní básní, když jsem málem zakopl o kořen stromu a upadl na obličej. Poté, co jsem napsal haiku o pádu, jsem pro tebe našel pár věcí na stavbu cesty. Jen nápad, nebo co..."
+    },
+    {
+      "key": "CharacterMail!Frozen!Kristoff_Mail001_MessageTitle",
+      "en": "Something useful.",
+      "cz": "Něco užitečného.",
+      "source": "pre_existing",
+      "original_cz": "Něco užitečného."
+    },
+    {
+      "key": "CharacterMail!MonstersInc!Sulley_Mail001_Message",
+      "en": "Hey {PlayerName}, yesterday evening I was gathering some Ingredients for a sushi party when I asked myself, \"You know who would probably like some sushi? My old friend {PlayerName}.\" So here are some extra Ingredients I got for you. Enjoy.",
+      "cz": "Ahoj {PlayerName}, včera večer jsem sbíral ingredience na sushi párty, když jsem si řekl: „Víš, kdo by si asi dal sushi? Můj starý kamarád {PlayerName}.“ Tak tady je pár ingrediencí navíc, které jsem pro tebe sehnal. Dobrou chuť.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj {PlayerName}, včera večer jsem sbíral ingredience na sushi párty, když jsem si řekl: „Víš, kdo by si asi dal sushi? Můj starý kamarád {PlayerName}.“ Tak tady je pár ingrediencí navíc, které jsem pro tebe sehnal. Dobrou chuť."
+    },
+    {
+      "key": "CharacterMail!Mickey!ScroogeMcDuck_Mail002_Message",
+      "en": "Dear {PlayerName}, I'm sure you've figured it out already, but aye, I'm the Mystery Giver. I think some of the Villagers are onto me by now. I'll just say that sometimes I want to share my wealth without taking credit. And here's a little something for you for keeping my secret and for being the most giving person in the Valley by a mile! Sincerely, Scrooge McDuck",
+      "cz": "Milý/á {PlayerName}, jsem si jistý/á, že jsi na to už přišel/a, ale ano, já jsem Tajemný dárce. Myslím, že někteří vesničané už si mě všimli. Jen řeknu, že se někdy chci podělit o své bohatství, aniž bych si připisoval/a zásluhy. A tady je malá odměna pro tebe za to, že ochráníš mé tajemství a že jsi zdaleka nejštědřejší člověk v údolí! S pozdravem, Scrooge McDuck",
+      "source": "pre_existing",
+      "original_cz": "Milý/á {PlayerName}, jsem si jistý/á, že jsi na to už přišel/a, ale ano, já jsem Tajemný dárce. Myslím, že někteří vesničané už si mě všimli. Jen řeknu, že se někdy chci podělit o své bohatství, aniž bych si připisoval/a zásluhy. A tady je malá odměna pro tebe za to, že ochráníš mé tajemství a že jsi zdaleka nejštědřejší člověk v údolí! S pozdravem, Scrooge McDuck"
+    },
+    {
+      "key": "CharacterMail!BeautyBeast!Belle_Mail001_MessageTitle",
+      "en": "Something delicious.",
+      "cz": "Něco lahodného.",
+      "source": "pre_existing",
+      "original_cz": "Něco lahodného."
+    },
+    {
+      "key": "CharacterMail!Mickey!Minnie_Mail001_MessageTitle",
+      "en": "A special treat just for you!",
+      "cz": "Speciální pochoutka jen pro vás!",
+      "source": "pre_existing",
+      "original_cz": "Speciální pochoutka jen pro vás!"
+    },
+    {
+      "key": "CharacterMail!Frozen!Olaf_Mail001_MessageTitle",
+      "en": "Beach Day? Yay!",
+      "cz": "Den na pláži? Paráda!",
+      "source": "pre_existing",
+      "original_cz": "Den na pláži? Paráda!"
+    },
+    {
+      "key": "CharacterMail!SwordInStone!Merlin_Mail001_MessageTitle",
+      "en": "A small request.",
+      "cz": "Malá prosba.",
+      "source": "pre_existing",
+      "original_cz": "Malá prosba."
+    },
+    {
+      "key": "CharacterMail!Mickey!ScroogeMcDuck_MessageTitle",
+      "en": "Feel like celebrating?",
+      "cz": "Máte chuť oslavit?",
+      "source": "pre_existing",
+      "original_cz": "Máte chuť oslavit?"
+    },
+    {
+      "key": "CharacterMail!ToyStory!Woody_Mail002_Message",
+      "en": "Howdy {PlayerName}! By now you must've heard about this Mystery Giver sending gifts to everyone. Turns out today's my lucky day! Someone left a whole lot of wood at my place. Gotta hand it to 'em, that's pretty clever, considering my name's Woody. Anyway, I thought about using it to make ANOTHER toy box, but I figured you could build some new furniture instead. Hope it comes in handy. Your pal, Woody",
+      "cz": "Nazdar {PlayerName}! Už jsi určitě slyšel o tomhle Záhadném Dárci, co posílá dárky všem. Ukázalo se, že dnes mám štěstí! Někdo u mě nechal spoustu dřeva. Musím uznat, že je to docela chytré, když uvážím, že se jmenuji Woody. Každopádně jsem přemýšlel, že bych z něj udělal DALŠÍ krabici na hračky, ale napadlo mě, že by se místo toho dal postavit nový nábytek. Doufám, že se ti to bude hodit. Tvůj kamarád Woody.",
+      "source": "pre_existing",
+      "original_cz": "Nazdar {PlayerName}! Už jsi určitě slyšel o tomhle Záhadném Dárci, co posílá dárky všem. Ukázalo se, že dnes mám štěstí! Někdo u mě nechal spoustu dřeva. Musím uznat, že je to docela chytré, když uvážím, že se jmenuji Woody. Každopádně jsem přemýšlel, že bych z něj udělal DALŠÍ krabici na hračky, ale napadlo mě, že by se místo toho dal postavit nový nábytek. Doufám, že se ti to bude hodit. Tvůj kamarád Woody."
+    },
+    {
+      "key": "CharacterMail!ToyStory!Woody_Mail001_Message",
+      "en": "Howdy, partner! I've been exploring Dreamlight Valley and gathered up some special materials for ya! They'll help you to craft a nifty ball you can place anywhere in the Valley, and help bring a little more fun to the place. Or keep 'em — every cowboy surviving in the wild learns when to use resources and when to keep 'em in their satchel...",
+      "cz": "Nazdar, parťáku! Prozkoumával jsem Údolí snů a nashromáždil jsem pro tebe pár speciálních materiálů! Pomůžou ti vyrobit šikovný míč, který můžeš umístit kamkoli v Údolí a vnést do něj trochu víc zábavy. Nebo si je schovej – každý kovboj, který přežívá v divočině, se naučí, kdy používat zdroje a kdy je schovávat v brašně...",
+      "source": "pre_existing",
+      "original_cz": "Nazdar, parťáku! Prozkoumával jsem Údolí snů a nashromáždil jsem pro tebe pár speciálních materiálů! Pomůžou ti vyrobit šikovný míč, který můžeš umístit kamkoli v Údolí a vnést do něj trochu víc zábavy. Nebo si je schovej – každý kovboj, který přežívá v divočině, se naučí, kdy používat zdroje a kdy je schovávat v brašně..."
+    },
+    {
+      "key": "CharacterMail!Ratatouille!Remy_Mail001_MessageTitle",
+      "en": "Catch of the Day!",
+      "cz": "Úlovek dne!",
+      "source": "pre_existing",
+      "original_cz": "Úlovek dne!"
+    },
+    {
+      "key": "CharacterMail!Mickey!Mickey_Mail002_MessageTitle",
+      "en": "A Mystery Giver clue!",
+      "cz": "Nápověda pro dárce záhad!",
+      "source": "pre_existing",
+      "original_cz": "Nápověda pro dárce záhad!"
+    },
+    {
+      "key": "CharacterMail!Ralph!Vanellope_Mail001_MessageTitle",
+      "en": "This is my JAM!",
+      "cz": "Tohle je můj DŽEM!",
+      "source": "pre_existing",
+      "original_cz": "Tohle je můj DŽEM!"
+    },
+    {
+      "key": "CharacterMail!Mickey!Mickey_Mail001_MessageTitle",
+      "en": "Thought you might enjoy!",
+      "cz": "Myslel jsem, že by se ti mohlo líbit!",
+      "source": "pre_existing",
+      "original_cz": "Myslel jsem, že by se ti mohlo líbit!"
+    },
+    {
+      "key": "CharacterMail!Ratatouille!Remy_Mail001_Message",
+      "en": "{PlayerName}, fishing this morning, Donald brought me this beautiful Walleye. I think it would cook into a fantastic Walleye en Papillote. Give it a try — don't forget the fresh Oregano and a vegetable too! Bon appétit!",
+      "cz": "{PlayerName} Dnes ráno jsem rybařil a Donald mi přinesl tohohle krásného candáta. Myslím, že by se z něj dal udělat fantastický candát v papillotě. Zkuste to – nezapomeňte taky na čerstvý oregano a nějakou zeleninu! Dobrou chuť!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName} Dnes ráno jsem rybařil a Donald mi přinesl tohohle krásného candáta. Myslím, že by se z něj dal udělat fantastický candát v papillotě. Zkuste to – nezapomeňte taky na čerstvý oregano a nějakou zeleninu! Dobrou chuť!"
+    },
+    {
+      "key": "CharacterMail!Mickey!Mickey_Mail001_Message",
+      "en": "Hey, {PlayerName}! I love giving treats to my pals, and you are ONE great pal! I know you're a real hands-on kinda person, so I thought I'd send you some Ingredients for fresh-baked Chocolate Chip Cookies — just don't forget to get some Wheat to round out the recipe. They're a hit at every picnic I bring 'em to! Let me know whatcha think!",
+      "cz": "Ahoj, {PlayerName}! Miluju rozdávání dobrot svým kamarádům a ty jsi JEDNA skvělá kamarádka! Vím, že jsi fakt šikovný člověk, tak jsem si říkala, že ti pošlu pár ingrediencí na čerstvě upečené sušenky s čokoládovými lupínky – jen nezapomeň koupit trochu pšenice, aby recept byl ještě lepší. Jsou hitem na každém pikniku, kam je beru! Dej mi vědět, co si o nich myslíš!",
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}! Miluju rozdávání dobrot svým kamarádům a ty jsi JEDNA skvělá kamarádka! Vím, že jsi fakt šikovný člověk, tak jsem si říkala, že ti pošlu pár ingrediencí na čerstvě upečené sušenky s čokoládovými lupínky – jen nezapomeň koupit trochu pšenice, aby recept byl ještě lepší. Jsou hitem na každém pikniku, kam je beru! Dej mi vědět, co si o nich myslíš!"
+    },
+    {
+      "key": "CharacterMail!SwordInStone!Merlin_Mail002_MessageTitle",
+      "en": "A mystery to solve...",
+      "cz": "Záhada k vyřešení...",
+      "source": "pre_existing",
+      "original_cz": "Záhada k vyřešení..."
+    },
+    {
+      "key": "CharacterMail!Frozen!Kristoff_Mail002_Message",
+      "en": "Hey {PlayerName}, guess what? I got a gift from the Mystery Giver! Seems to be everything it takes to make a campfire. I've already got all the supplies I need, so I thought I'd share this with you. Stay warm, Kristoff",
+      "cz": "Hej {PlayerName}, víš co? Dostal jsem dárek od Tajemného dárce! Zdá se, že je to všechno potřeba k rozdělání táboráku. Už mám všechny potřebné věci, tak jsem si říkal, že se s tebou o to podělím. Zůstaň v teple, Kristoffe.",
+      "source": "pre_existing",
+      "original_cz": "Hej {PlayerName}, víš co? Dostal jsem dárek od Tajemného dárce! Zdá se, že je to všechno potřeba k rozdělání táboráku. Už mám všechny potřebné věci, tak jsem si říkal, že se s tebou o to podělím. Zůstaň v teple, Kristoffe."
+    },
+    {
+      "key": "CharacterMail!Mickey!Goofy_Mail001_MessageTitle",
+      "en": "New project for ya!",
+      "cz": "Nový projekt pro vás!",
+      "source": "pre_existing",
+      "original_cz": "Nový projekt pro vás!"
+    },
+    {
+      "key": "CharacterMail!MonstersInc!MikeWazowski_MessageTitle",
+      "en": "Why did the envelope lose its fight?",
+      "cz": "Proč obálka prohrála svůj boj?",
+      "source": "pre_existing",
+      "original_cz": "Proč obálka prohrála svůj boj?"
+    },
+    {
+      "key": "CharacterMail!LilMermaid!Ursula_Mail001_MessageTitle",
+      "en": "A little gift, no strings attached.",
+      "cz": "Malý dárek, bez závazků.",
+      "source": "pre_existing",
+      "original_cz": "Malý dárek, bez závazků."
+    },
+    {
+      "key": "CharacterMail!BeautyBeast!Beast_Mail001_MessageTitle",
+      "en": "For you.",
+      "cz": "Pro tebe.",
+      "source": "pre_existing",
+      "original_cz": "Pro tebe."
+    },
+    {
+      "key": "CharacterMail!Mickey!Goofy_Mail002_MessageTitle",
+      "en": "Gawrsh, what a gift!",
+      "cz": "Gawrsh, to je ale dárek!",
+      "source": "pre_existing",
+      "original_cz": "Gawrsh, to je ale dárek!"
+    },
+    {
+      "key": "CharacterMail!Nightmare!JackSkellington_Mail002_MessageTitle",
+      "en": "What's this?",
+      "cz": "Co je tohle?",
+      "source": "pre_existing",
+      "original_cz": "Co je tohle?"
+    },
+    {
+      "key": "CharacterMail!LiloStitch!Stitch_Mail001_Message",
+      "en": "Did you know coffee and chocolate are good? Stitch send you coffee & milk — add cocoa. So good!",
+      "cz": "Věděli jste, že káva a čokoláda jsou dobré? Stitch vám posílám kávu a mléko – a přidejte si kakao. Tak dobré!",
+      "source": "pre_existing",
+      "original_cz": "Věděli jste, že káva a čokoláda jsou dobré? Stitch vám posílám kávu a mléko – a přidejte si kakao. Tak dobré!"
+    },
+    {
+      "key": "CharacterMail!MonstersInc!Sulley_Mail001_MessageTitle",
+      "en": "Something fishy.",
+      "cz": "Něco podezřelého.",
+      "source": "pre_existing",
+      "original_cz": "Něco podezřelého."
+    },
+    {
+      "key": "CharacterMail!LilMermaid!Ariel_Mail002_MessageTitle",
+      "en": "A collector's dream come true!",
+      "cz": "Splněný sen sběratele!",
+      "source": "pre_existing",
+      "original_cz": "Splněný sen sběratele!"
+    },
+    {
+      "key": "CharacterMail!Ralph!Vanellope_Mail002_MessageTitle",
+      "en": "Check out this treasure!",
+      "cz": "Podívejte se na tento poklad!",
+      "source": "pre_existing",
+      "original_cz": "Podívejte se na tento poklad!"
+    },
+    {
+      "key": "CharacterMail!SwordInStone!Merlin_Mail002_Message",
+      "en": "Dear {PlayerName}, I have been visited by a mysterious benefactor! Someone left a small package of precious gems for me in my Library. Little did they know, they gave me something much more valuable: a mystery! Please take these gems for your purposes, as I've no immediate use for them. Who could this Mystery Giver be? Most sincerely, Merlin",
+      "cz": "Milý/á {PlayerName}, navštívil mě záhadný dobrodinec! Někdo mi v knihovně nechal malý balíček drahokamů. Netušil, že mi dal něco mnohem cennějšího: záhadu! Prosím, vezmi si tyto drahokamy pro své účely, protože je nemám k okamžitému využití. Kdo by mohl být tímto dárcem záhad? S pozdravem, Merlin",
+      "source": "pre_existing",
+      "original_cz": "Milý/á {PlayerName}, navštívil mě záhadný dobrodinec! Někdo mi v knihovně nechal malý balíček drahokamů. Netušil, že mi dal něco mnohem cennějšího: záhadu! Prosím, vezmi si tyto drahokamy pro své účely, protože je nemám k okamžitému využití. Kdo by mohl být tímto dárcem záhad? S pozdravem, Merlin"
+    },
+    {
+      "key": "CharacterMail!Ralph!Vanellope_Mail001_Message",
+      "en": "{PlayerName}, have you had Jam Waffles before? JAM. WAFFLES. They're SO delicious! I've included all the Ingredients you need — just add ANY fruit, cook, and DEVOUR. (Or do whatever you want with them; I'm not your boss.)",
+      "cz": "{PlayerName}, už jste někdy jedli vafle s džemem? DŽEM. VAFLE. Jsou TAK lahodné! Přidala jsem všechny potřebné ingredience – stačí přidat JAKÉKOLI ovoce, uvařit a DOBŘE SI UŽIJTE. (Nebo si s nimi udělejte, co chcete; nejsem váš šéf.)",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, už jste někdy jedli vafle s džemem? DŽEM. VAFLE. Jsou TAK lahodné! Přidala jsem všechny potřebné ingredience – stačí přidat JAKÉKOLI ovoce, uvařit a DOBŘE SI UŽIJTE. (Nebo si s nimi udělejte, co chcete; nejsem váš šéf.)"
+    },
+    {
+      "key": "CharacterMail!Frozen!Olaf_Mail001_Message",
+      "en": "{PlayerName}, as a being made of enchanted snow, there is nothing I love more than a day on the beach. I was sun bathing but I got bored SO I gathered up some things so you could make this special parasol and towel! Once you make them, you can decorate them however you like? Isn't that NEAT?",
+      "cz": "{PlayerName}, jako bytost stvořená ze začarovaného sněhu, nemám nic radši než den na pláži. Opalovala jsem se, ale nudila jsem se, TAK jsem nashromáždila pár věcí, abyste si mohli vyrobit tento speciální slunečník a ručník! Jakmile je vyrobíte, můžete si je ozdobit, jak chcete? Není to SKVĚLÉ?",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, jako bytost stvořená ze začarovaného sněhu, nemám nic radši než den na pláži. Opalovala jsem se, ale nudila jsem se, TAK jsem nashromáždila pár věcí, abyste si mohli vyrobit tento speciální slunečník a ručník! Jakmile je vyrobíte, můžete si je ozdobit, jak chcete? Není to SKVĚLÉ?"
+    },
+    {
+      "key": "CharacterMail!BeautyBeast!Belle_Mail001_Message",
+      "en": "Oh {PlayerName}! I wanted to share a special recipe with you — the Gray Stuff. It was one of the kitchen's specialties at the Beast's Castle, and I just know you'll find it as delicious and enchanting as I do. I gathered all the Ingredients so you could make it on your own — of course, you can use them for whatever you like. I know you have a wonderful imagination!",
+      "cz": "Ach {PlayerName}! Chtěla jsem se s vámi podělit o speciální recept – Šedou věc. Byla to jedna z kuchyňských specialit v Hradě bestií a já vím, že vám bude chutnat stejně lahodně a okouzlující jako mně. Shromáždila jsem všechny ingredience, abyste si ji mohli připravit sami – samozřejmě je můžete použít na cokoli chcete. Vím, že máte úžasnou fantazii!",
+      "source": "pre_existing",
+      "original_cz": "Ach {PlayerName}! Chtěla jsem se s vámi podělit o speciální recept – Šedou věc. Byla to jedna z kuchyňských specialit v Hradě bestií a já vím, že vám bude chutnat stejně lahodně a okouzlující jako mně. Shromáždila jsem všechny ingredience, abyste si ji mohli připravit sami – samozřejmě je můžete použít na cokoli chcete. Vím, že máte úžasnou fantazii!"
+    },
+    {
+      "key": "CharacterMail!Mickey!Goofy_Mail001_Message",
+      "en": "Say, {PlayerName}, I was just thinkin' about trellis arches. There's nothin' in the world like a well-built trellis arch, ya know? I think one in the middle of the Meadow would be just perfect — maybe close to a garden or pond. I gathered up some stuff if ya wanna make one! Or make whatever ya like.",
+      "cz": "Řekni, {PlayerName}, zrovna jsem přemýšlel o mřížových obloucích. Na světě není nic lepšího než dobře postavený mřížový oblouk, víš? Myslím, že jeden uprostřed louky by byl perfektní – třeba blízko zahrady nebo rybníka. Nashromáždil jsem pár věcí, jestli si chceš jeden postavit! Nebo si vyrob, co chceš.",
+      "source": "pre_existing",
+      "original_cz": "Řekni, {PlayerName}, zrovna jsem přemýšlel o mřížových obloucích. Na světě není nic lepšího než dobře postavený mřížový oblouk, víš? Myslím, že jeden uprostřed louky by byl perfektní – třeba blízko zahrady nebo rybníka. Nashromáždil jsem pár věcí, jestli si chceš jeden postavit! Nebo si vyrob, co chceš."
+    },
+    {
+      "key": "CharacterMail!Ratatouille!Remy_Mail002_MessageTitle",
+      "en": "The Mystery Giver struck again!",
+      "cz": "Tajemný dárce znovu udeřil!",
+      "source": "pre_existing",
+      "original_cz": "Tajemný dárce znovu udeřil!"
+    },
+    {
+      "key": "CharacterMail!Nightmare!JackSkellington_Mail001_Message",
+      "en": "{PlayerName}, I've come upon an amazing opportunity to add a little bit of the Halloween spirit to the Village all year round. I already took the liberty of gathering the materials. You might use them to make a monstrous decoration and add it anywhere you want in the Valley for a scary surprise. How fun!",
+      "cz": "{PlayerName}, narazil jsem na úžasnou příležitost, jak do vesnice vnést trochu halloweenské nálady po celý rok. Už jsem si dovolil shromáždit potřebné materiály. Můžete je použít k výrobě obludné dekorace a umístit ji kamkoli chcete v údolí, abyste vytvořili děsivé překvapení. To je zábava!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, narazil jsem na úžasnou příležitost, jak do vesnice vnést trochu halloweenské nálady po celý rok. Už jsem si dovolil shromáždit potřebné materiály. Můžete je použít k výrobě obludné dekorace a umístit ji kamkoli chcete v údolí, abyste vytvořili děsivé překvapení. To je zábava!"
+    },
+    {
+      "key": "CharacterMail!Mickey!Daisy_Mail001_Message",
+      "en": "{PlayerName}, you and I think VERY much alike. Which is why I'm sure you agree that the Valley would look GREAT with the addition of a gazebo! Oh, I know it's ambitious, but I've gathered up some supplies to get you on your way! Of course, I know you'll find something wonderful to do with them no matter what. xoxo",
+      "cz": "{PlayerName}, myslíme si VELMI podobně. Proto se určitě shodneš, že by Údolí vypadalo SKVĚLE s altánkem! Vím, že je to ambiciózní, ale shromáždila jsem pár věcí, které tě dostanou na cestu! Samozřejmě vím, že s nimi najdeš něco skvělého, co s nimi budeš dělat, ať se děje cokoli. xoxo",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, myslíme si VELMI podobně. Proto se určitě shodneš, že by Údolí vypadalo SKVĚLE s altánkem! Vím, že je to ambiciózní, ale shromáždila jsem pár věcí, které tě dostanou na cestu! Samozřejmě vím, že s nimi najdeš něco skvělého, co s nimi budeš dělat, ať se děje cokoli. xoxo"
+    },
+    {
+      "key": "CharacterMail!Oswald!Oswald_Mail001_MessageTitle",
+      "en": "Getting this place in shape...",
+      "cz": "Dát tohle místo do pořádku...",
+      "source": "pre_existing",
+      "original_cz": "Dát tohle místo do pořádku..."
+    },
+    {
+      "key": "CharacterMail!Frozen!Elsa_Mail001_Message",
+      "en": "{PlayerName}, I was practicing with my power in the Frosted Heights, and thought I could give you what I made as building material. With some stones, it might help you make a road up there to ease travel. That's only a suggestion — please do with it whatever you like. I love to see your creativity shine.",
+      "cz": "{PlayerName}, cvičil jsem se svou silou v Mrázných výšinách a myslel jsem si, že bych ti mohl dát to, co jsem vyrobil, jako stavební materiál. S trochou kamenů bys mohl postavit cestu tam nahoru, která by ti usnadnila cestování. To je jen návrh – prosím, udělej si s tím, co chceš. Rád vidím, jak zářivá tvá kreativita.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, cvičil jsem se svou silou v Mrázných výšinách a myslel jsem si, že bych ti mohl dát to, co jsem vyrobil, jako stavební materiál. S trochou kamenů bys mohl postavit cestu tam nahoru, která by ti usnadnila cestování. To je jen návrh – prosím, udělej si s tím, co chceš. Rád vidím, jak zářivá tvá kreativita."
+    },
+    {
+      "key": "CharacterMail!Mickey!Goofy_Mail002_Message",
+      "en": "Howdy {PlayerName}, the Valley Mystery Giver surprised me with some tasty seafood and veggies that are perfect for a Bouillabaisse! I already caught plenty of fish today and don't want it to go bad, so I'm giving the gift to you. Whoever it is sure has some fancy taste, huh? Bye for now, Goofy",
+      "cz": "Ahoj {PlayerName}, Dárce záhad z údolí mě překvapil chutnými mořskými plody a zeleninou, které jsou ideální pro bouillabaisse! Dnes jsem už chytil spoustu ryb a nechci, aby se zkazily, takže dárek dávám tobě. Ať už je to kdokoli, má určitě vychytaný vkus, co? Zatím ahoj, Goofy.",
+      "source": "pre_existing",
+      "original_cz": "Ahoj {PlayerName}, Dárce záhad z údolí mě překvapil chutnými mořskými plody a zeleninou, které jsou ideální pro bouillabaisse! Dnes jsem už chytil spoustu ryb a nechci, aby se zkazily, takže dárek dávám tobě. Ať už je to kdokoli, má určitě vychytaný vkus, co? Zatím ahoj, Goofy."
+    },
+    {
+      "key": "CharacterMail!BeautyBeast!Gaston_Mail001_MessageTitle",
+      "en": "To my sidekik.",
+      "cz": "Mému pomocníkovi.",
+      "source": "pre_existing",
+      "original_cz": "Mému pomocníkovi."
+    },
+    {
+      "key": "CharacterMail!LiloStitch!Stitch_Mail002_MessageTitle",
+      "en": "Coconuts for Stitch!",
+      "cz": "Kokosy pro Stitche!",
+      "source": "pre_existing",
+      "original_cz": "Kokosy pro Stitche!"
+    },
+    {
+      "key": "CharacterMail!BeautyBeast!Gaston_Mail001_Message",
+      "en": "{PlayerName}, I am riting you to send you some materials. I need you to make a crate I can climb on to adresse my admirers... Plasse it near Ainshents Landing. Or don't, I don't care. People love lissteningue to me anyway.",
+      "cz": "{PlayerName}, píšu ti, abys mi poslal nějaké materiály. Potřebuji, abys mi vyrobil bednu, na kterou bych mohl vylézt a oslovit své obdivovatele... Umísti ji poblíž Ainshents Landing. Nebo ne, je mi to jedno. Lidé mě stejně rádi poslouchají.",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, píšu ti, abys mi poslal nějaké materiály. Potřebuji, abys mi vyrobil bednu, na kterou bych mohl vylézt a oslovit své obdivovatele... Umísti ji poblíž Ainshents Landing. Nebo ne, je mi to jedno. Lidé mě stejně rádi poslouchají."
+    },
+    {
+      "key": "CharacterMail!Mickey!Daisy_Mail001_MessageTitle",
+      "en": "Feeling ambitious?",
+      "cz": "Cítíte se ambiciózní?",
+      "source": "pre_existing",
+      "original_cz": "Cítíte se ambiciózní?"
+    },
+    {
+      "key": "CharacterMail!LilMermaid!Ursula_Mail002_MessageTitle",
+      "en": "I'm onto you, angelfish.",
+      "cz": "Chápu tě, anděle.",
+      "source": "pre_existing",
+      "original_cz": "Chápu tě, anděle."
+    },
+    {
+      "key": "CharacterMail!Tangled!Rapunzel_Mail001_Message",
+      "en": "Hi {PlayerName}! I was just thinking about how great it would be for you to have a nice big table to work on. It would be good for art, or cooking or... well, ANYTHING! That's why I found you a bunch of materials to make a beautiful new table. Use it for whatever you like, but I just know it would look great in your home!",
+      "cz": "Ahoj {PlayerName}! Právě jsem přemýšlela, jak skvělé by pro tebe bylo mít velký stůl, na kterém by se dalo pracovat. Hodil by se na něj na umění, vaření nebo... no, COKOLIV! Proto jsem ti našla spoustu materiálů na výrobu krásného nového stolu. Použij ho k čemukoliv, ale já jen vím, že by u tebe doma vypadal skvěle!",
+      "source": "pre_existing",
+      "original_cz": "Ahoj {PlayerName}! Právě jsem přemýšlela, jak skvělé by pro tebe bylo mít velký stůl, na kterém by se dalo pracovat. Hodil by se na něj na umění, vaření nebo... no, COKOLIV! Proto jsem ti našla spoustu materiálů na výrobu krásného nového stolu. Použij ho k čemukoliv, ale já jen vím, že by u tebe doma vypadal skvěle!"
+    },
+    {
+      "key": "CharacterMail!LiloStitch!Stitch_Mail001_MessageTitle",
+      "en": "COFFEE!!!!!!!!!!",
+      "cz": "KÁVA!!!!!!!!!!",
+      "source": "pre_existing",
+      "original_cz": "KÁVA!!!!!!!!!!"
+    },
+    {
+      "key": "CharacterMail!Moana!Maui_Mail001_Message",
+      "en": "{PlayerName}, I woke up this morning thinking about all the hard work you do for the Village. You remind me of me — seriously! I thought some special fishing bait might make it a little easier to get your catch of the day. I've gathered up stuff to get you started — but had a hard time tracking down the Dreamlight. Of course, you could use these supplies for OTHER elixirs or whatever you want. It's your day — go seize it!",
+      "cz": "{PlayerName}, dnes ráno jsem se probudil a přemýšlel o všech těch těžkých pracích, které pro vesnici děláš. Připomínáš mi mě samotného – vážně! Myslel jsem, že by nějaká speciální rybářská návnada mohla usnadnit tvůj dnešní úlovek. Nashromáždil jsem věci, které ti pomohou začít – ale měl jsem problém vystopovat Světlo snů. Samozřejmě bys tyto zásoby mohl použít na JINÉ elixíry nebo na cokoli chceš. Je to tvůj den – jdi ho využít!",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, dnes ráno jsem se probudil a přemýšlel o všech těch těžkých pracích, které pro vesnici děláš. Připomínáš mi mě samotného – vážně! Myslel jsem, že by nějaká speciální rybářská návnada mohla usnadnit tvůj dnešní úlovek. Nashromáždil jsem věci, které ti pomohou začít – ale měl jsem problém vystopovat Světlo snů. Samozřejmě bys tyto zásoby mohl použít na JINÉ elixíry nebo na cokoli chceš. Je to tvůj den – jdi ho využít!"
+    },
+    {
+      "key": "CharacterMail!LilMermaid!Ursula_Mail002_Message",
+      "en": "{PlayerName}, you're the Mystery Giver, aren't you? This sort of over-the-top generosity seems right up your stream. If I'm right, you can take back your gifts and make yourself a nice Nautical Couch instead. I know better than to accept gifts out of the blue. You never get something for nothing, you know. Yours, Ursula",
+      "cz": "{PlayerName}, jsi Tajemný Dárce, že? Tahle přehnaná štědrost ti naprosto odpovídá. Pokud mám pravdu, můžeš si vzít své dary zpět a místo toho si udělat pěknou Námořnickou pohovku. Vím, že je lepší nepřijímat dary jen tak z ničeho nic. Nikdy nic nedostaneš zadarmo, víš? S pozdravem, Ursula",
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, jsi Tajemný Dárce, že? Tahle přehnaná štědrost ti naprosto odpovídá. Pokud mám pravdu, můžeš si vzít své dary zpět a místo toho si udělat pěknou Námořnickou pohovku. Vím, že je lepší nepřijímat dary jen tak z ničeho nic. Nikdy nic nedostaneš zadarmo, víš? S pozdravem, Ursula"
+    },
+    {
+      "key": "CharacterMail!Frozen!Anna_Mail002_MessageTitle",
+      "en": "A mystery better than charades!",
+      "cz": "Lepší záhada než šarády!",
+      "source": "pre_existing",
+      "original_cz": "Lepší záhada než šarády!"
+    },
+    {
+      "key": "CharacterMail!Frozen!Kristoff_Mail001_Message",
+      "en": "Hey {PlayerName}, I was wondering if it could be possible to add a tool rack to the Village in case anybody needs it? I gathered the materials in case you liked the idea. But it's up to you really...",
+      "cz": "Ahoj {PlayerName}, zajímalo by mě, jestli by se do vesnice nedalo přidat stojan na nářadí, kdyby ho někdo potřeboval? Sehnal jsem materiály, kdyby se ti ten nápad líbil. Ale je to opravdu na tobě...",
+      "source": "pre_existing",
+      "original_cz": "Ahoj {PlayerName}, zajímalo by mě, jestli by se do vesnice nedalo přidat stojan na nářadí, kdyby ho někdo potřeboval? Sehnal jsem materiály, kdyby se ti ten nápad líbil. Ale je to opravdu na tobě..."
+    },
+    {
+      "key": "CharacterMail!Mickey!Daisy_Mail002_Message",
+      "en": "Dear {PlayerName}, I've been investigating, and I've gathered the following clues about the Mystery Giver... They left a feather with Mickey, so they have to have oodles of money, and they must've been in the Valley a long time to know so many Villagers so well. Based on the things they left me, they clearly know what great taste I have in décor! Maybe you can use this to make a gorgeous balloon arrangement for the Valley? I'll write if I learn more. xoxo, Daisy",
+      "cz": "Milý/á {PlayerName}, provedl/a jsem průzkum a shromáždil/a jsem následující indicie o Tajemném dárci... Zanechal/a Mickeymu pírko, takže musí mít spoustu peněz a museli být v Údolí dlouho, aby tak dobře znali tolik vesničanů. Na základě věcí, které mi zanechali, evidentně vědí, jaký skvělý vkus mám na dekorace! Možná bys to mohla použít k vytvoření nádherné balónkové výzdoby do Údolí? Napíšu ti, až se dozvím víc. xoxo, Daisy",
+      "source": "pre_existing",
+      "original_cz": "Milý/á {PlayerName}, provedl/a jsem průzkum a shromáždil/a jsem následující indicie o Tajemném dárci... Zanechal/a Mickeymu pírko, takže musí mít spoustu peněz a museli být v Údolí dlouho, aby tak dobře znali tolik vesničanů. Na základě věcí, které mi zanechali, evidentně vědí, jaký skvělý vkus mám na dekorace! Možná bys to mohla použít k vytvoření nádherné balónkové výzdoby do Údolí? Napíšu ti, až se dozvím víc. xoxo, Daisy"
     }
   ],
   "Currency.locbin": [
@@ -86269,6 +86982,18 @@
       "en": "Meteor Shower",
       "cz": "Meteorický roj",
       "source": "our_translation"
+    },
+    {
+      "key": "EnvFx_AuroraBorealis_DisplayName",
+      "en": "Aurora Borealis",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "EnvFx_MeteorShower_DisplayName",
+      "en": "Meteor Shower",
+      "cz": "",
+      "source": "untranslated"
     }
   ],
   "Expansion02Main_Dialogue.locbin": [
@@ -129838,6 +130563,36 @@
       "cz": "{Placeholder}30 m",
       "source": "pre_existing",
       "original_cz": "{Placeholder}30 m"
+    },
+    {
+      "key": "Mission!Story!Mini01!MRQS_M01_110_BigForest!MRQS_M01_110_RattlingHive_DisplayName",
+      "en": "Buzzing Hive Cluster",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Mission!Story!Mini01!MRQS_M01_150_Camp!MRQS_M01_150_MonstersWelcomeSign_DisplayName",
+      "en": "Welcoming Signpost",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Mission!Story!Mini01!MRQS_M01_060_MissingTail!MRQS_M01_060_HedgehogHome_DisplayName",
+      "en": "Hedgehog Companion Home",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Mission!Village!Piglet!VLG_Pigl_010_RusticJacuzziWithARubberDuck_DisplayName",
+      "en": "Rustic Jacuzzi",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Mission!Story!Mini01!MRQS_M01_160_NewWind!MRSQ_M01_160_OldWindmill_DisplayName",
+      "en": "Old Windmill",
+      "cz": "",
+      "source": "untranslated"
     }
   ],
   "InternetStation.locbin": [
@@ -158795,6 +159550,34 @@
       "cz": "Cesta hvězd čarodějnického myšlení začala!",
       "source": "pre_existing",
       "original_cz": "Cesta hvězd čarodějnického myšlení začala!"
+    },
+    {
+      "key": "Bundle_CinderellaHorseGears_Description_001",
+      "en": "Add a unique personal touch to your mounts with this special accessory.",
+      "cz": "",
+      "source": "pre_existing",
+      "original_cz": "Dodejte svým držákům jedinečný osobní nádech s tímto speciálním příslušenstvím."
+    },
+    {
+      "key": "News_PatchNotesUpdate23_Title",
+      "en": "A Hero's Journey",
+      "cz": "",
+      "source": "pre_existing",
+      "original_cz": "Cesta hrdiny"
+    },
+    {
+      "key": "Bundle_CinderellaHorseGears_Description_000",
+      "en": "Add a unique personal touch to your mounts with this special accessory.",
+      "cz": "",
+      "source": "pre_existing",
+      "original_cz": "Dodejte svým držákům jedinečný osobní nádech s tímto speciálním příslušenstvím."
+    },
+    {
+      "key": "News_PatchNotesUpdate23_Description",
+      "en": "\n<align=\"left\"><b><size=120%>A Hero's Journey</size></b>\n\n<align=\"left\">Step through the Realm door to arrive on a training island owned by the wise satyr, Phil, from Disney's Hercules! But wait, this once illuminated island is severely dimmed... Could this be the Realmweaver's handiwork? Train and prove you're fit to be a hero and help illuminate the island once again!\n\n\n<align=\"left\"><b><size=120%>Heroism on Display</size></b>\n\n<align=\"left\">Join forces with Hercules from Disney's Hercules to reach the gods by any means necessary and restore Phil's training island back to its former glory, before inviting this dynamic duo back to your Valley!\n\n\n<align=\"left\"><b><size=120%>Godly Glamor Star Path</size></b>\n\n<align=\"left\">Channel your inner deity and embrace your power with new radiant attires and ancient furniture, creating an atmosphere fit for the gods! Journey through the Star Path to unlock a new Mythical Cloud Glider, Pink Baby Pegasus, Hercules' Divine Glow Dream Style and the Olympian Cloud Mansion House Style!\n\n\n<align=\"left\"><b><size=120%>Presets</size></b>\n\n<align=\"left\">Behold, an all-new way to decorate your Valley with decoration presets! These presets work alongside Group Mode and will now allow you to select a section of your Valley and save the items placed inside as a preset, allowing you to be able to remove, copy, and replace decorated sections with ease!\n\n\n<align=\"left\"><b><size=120%>Returning and New Events</size></b>\n\n<align=\"left\">From June 10 to June 30, the Dreamlight Parks Fest Event is back! Find and collect buttons appearing around your Valley for the chance to earn all previous and new rewards! Then from July 15 to July 28, embark on the new Picture Pursuit Event! Complete daily quests from certain Villagers, locate and snap a photo of strange motifs to unlock them for personal use and collect them all for an exclusive Photo Mode frame!\n\n\n<align=\"left\"><b><size=120%>Improvements</size></b>\n\n<align=\"left\">Level up with the new player level cap, going up from 40 to 50! Earn Friendship XP and progress through even more levels to unlock new exclusive fashions and furniture items. Strike a pose with new Photo Mode options that will let you choose exactly where and how to place Villagers! Finally, Olaf's Grand Exhibition will open two new rooms — the Forest of Valor and the Glade of Trust!\n\n\n<align=\"left\"><b><size=120%>Premium Shop</size></b>\n\n<align=\"left\">Check out the new Gilded Agora building kit, featuring a new Athens-inspired building kit, Grecian Villa House Style and the ability to summon a fierce new ally with the new good-good-good puppy companion! Jasmine's loyal companion, Rajah, will also be arriving in the new Cozy Companion Rajah Bundle, bringing unique interactions, Photo Mode poses, an exclusive Friendship reward, and even a baby tiger companion! You'll also want to keep an eye out for an exquisite new Dream Style for Ariel, and Moana's very own parade float!",
+      "cz": "",
+      "source": "pre_existing",
+      "original_cz": "\n<align=\"left\" /><b><size=120%>Cesta hrdiny</size></b>\n\n<align=\"left\" />Projděte dveřmi Říše a dorazte na výcvikový ostrov, který vlastní moudrý satyr Phil z Disneyho Herkula! Ale počkejte, tento kdysi osvětlený ostrov je nyní silně ztlumen... Mohlo by to být dílo Tkadlec Říše? Trénujte a dokažte, že jste způsobilí stát se hrdinou, a pomozte znovu osvětlit ostrov!\n\n\n<align=\"left\" /><b><size=120%>Hrdinství na očích</size></b>\n\n<align=\"left\" />Spojte síly s Herkulem z Disneyho Herkula, abyste se jakýmikoli prostředky dostali k bohům a obnovili Philův výcvikový ostrov zpět do jeho bývalé slávy, než pozvete toto dynamické duo zpět do svého Údolí!\n\n\n<align=\"left\" /><b><size=120%>Hvězdná cesta božského půvabu</size></b>\n\n<align=\"left\" />Probuďte své vnitřní božstvo a přijměte svou sílu s novými zářivými oděvy a starobylým nábytkem a vytvořte atmosféru hodnou bohů! Vydejte se na cestu Hvězdnou stezkou a odemkněte si nový mýtický oblačný kluzák, růžového malého pegase, styl Herkulova božského snu a styl olympského oblačného sídla!\n\n\n<align=\"left\" /><b><size=120%>Předvolby</size></b>\n\n<align=\"left\" />Hle, zcela nový způsob, jak si vyzdobit údolí pomocí předvoleb dekorací! Tyto předvolby fungují společně se skupinovým režimem a nyní vám umožní vybrat část údolí a uložit předměty umístěné uvnitř jako předvolbu, což vám umožní snadno odstraňovat, kopírovat a nahrazovat zdobené části!\n\n\n<align=\"left\" /><b><size=120%>Návrat a nové události</size></b>\n\n<align=\"left\" />Od 10. do 30. června je zpět událost Dreamlight Parks Fest! Najděte a sbírejte tlačítka, která se objevují kolem vašeho údolí, a získejte šanci získat všechny předchozí i nové odměny! Poté se od 15. do 28. července vydejte za novou událostí Picture Pursuit! Plňte denní úkoly od určitých vesničanů, najděte a vyfoťte podivné motivy, abyste si je odemkli pro osobní použití, a všechny je sbírejte pro exkluzivní snímek v režimu fotografie!\n\n\n<align=\"left\" /><b><size=120%>Vylepšení</size></b>\n\n<align=\"left\" />Zvyšujte úroveň s novým limitem hráče, který se zvyšuje ze 40 na 50! Získejte zkušenosti přátelství a postupujte ještě více úrovněmi, abyste odemkli nové exkluzivní módní doplňky a nábytek. Zapózujte s novými možnostmi režimu fotografie, které vám umožní přesně si vybrat, kam a jak vesničany umístíte! A konečně, Olafova velká výstava otevře dvě nové místnosti – Les statečnosti a Mýtinu důvěry!\n\n\n<align=\"left\" /><b><size=120%>Prémiový obchod</size></b>\n\n<align=\"left\" />Podívejte se na novou stavebnici Pozlacená Agora, která obsahuje novou stavebnici inspirovanou Athénami, styl řecké vily a možnost přivolat nového divokého spojence s novým dobrým štěněcím společníkem! Jasmínin věrný společník Rajah dorazí také v novém balíčku Cozy Companion Rajah Bundle, který přinese jedinečné interakce, pózy v režimu Photo Mode, exkluzivní odměnu Přátelství a dokonce i mládě tygra!Také si budete chtít dát pozor na nádherný nový styl snů pro Ariel a na Vaianin vlastní průvodní vůz!"
     }
   ],
   "LuciferBundle25_Dialogue.locbin": [
@@ -169306,6 +170089,12 @@
       "cz": "Kolekce \"Touch of Magic\"",
       "source": "pre_existing",
       "original_cz": "Kolekce \"Touch of Magic\""
+    },
+    {
+      "key": "38_Nightmare!f_Nightmare_Update24_DisplayName",
+      "en": "{DoNotTranslate} Nightmare Furniture 24",
+      "cz": "",
+      "source": "untranslated"
     }
   ],
   "Shop.locbin": [
