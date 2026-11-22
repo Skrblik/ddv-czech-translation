@@ -1,0 +1,86 @@
+{
+  "Expansion04Main_Scrooge/Scrooge_UnlocksAndUpgrades_Exp04_GoofyStallGenericUpgrade.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Improvin' this Stall would be a sound investment. Goofy could buy and sell more products, so you could make more improvements to the Isle!",
+      "cz": "Vylepšení tohohle stánku by byla rozumná investice. Goofy by mohl nakupovat a prodávat víc zboží, takže bys mohl na ostrově provést další vylepšení!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's improve the Stall. (Use <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>",
+      "cz": "Vylepšeme ten stánek. (Použít <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Perhaps some other time.",
+      "cz": "Možná jindy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "Would ya look at that! What a selection of items to purchase!",
+      "cz": "No podívej na to! To je ale výběr zboží k nákupu!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Och! You don't have enough Star Coins to improve the Stall! Come back when you have the funds, {PlayerName}.",
+      "cz": "Och! Nemáš dostatek Star Coinů na vylepšení stánku! Vrať se, až budeš mít potřebné prostředky, {{PlayerName}}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "But this is a sound investment! *sigh* Well, come back here when you come to your senses.",
+      "cz": "Ale tohle je rozumná investice! *povzdech* No dobrá, vrať se, až přijdeš k rozumu.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Scrooge/Scrooge_UnlocksAndUpgrades_Exp04_GoofyStallUnlock.locbin": [
+    {
+      "key": "Scrooge_006_f",
+      "en": "If ya help set up the Stall here, it'll save you the hassle of travelin' so far. And you can make more deals with more products!",
+      "cz": "Když tu pomůžeš postavit stánek, ušetříš si to věčné cestování sem a tam. A navíc budeš moct uzavírat víc obchodů s vícero produkty!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's set up the Stall. (Use <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>",
+      "cz": "Pojďme ten stánek postavit. (Použít <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Perhaps some other time.",
+      "cz": "Možná někdy jindy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_007_f",
+      "en": "Knock me over with a feather! Look at all there is to buy!",
+      "cz": "To mě podrž! Podívej se na tu hromadu věcí k zakoupení!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_008_f",
+      "en": "Och! You don't have enough Star Coins to set up the Stall! Come back when you have the funds, {PlayerName}.",
+      "cz": "Och! Nemáš dost Star Coinů na postavení stánku! Vrať se, až budeš mít dostatek prostředků, {PlayerName}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_009_f",
+      "en": "Curse me kilts! This is a sound investment! Come back when you've come to your senses.",
+      "cz": "U mých skotských sukní! Tohle je rozumná investice! Vrať se, až dostaneš rozum.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Scrooge/Scrooge_VLG_Milo_020_VLG_Milo_020_TalkTo08.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Aye, those <Lore>Unfathomable Keys</Lore> should still be around the <Lore>Underwater Crossing</Lore>. But if I were you, I'd ask the Bosun for a finder's fee for returning 'em!",
+      "cz": "Páni! Ty <Lore>Unfathomable Keys</Lore>... naprosto fascinující, že? Podle mých výpočtů – a trochy té lingvistické dedukce – by měly být stále někde u <Lore>Underwater Crossing</Lore>. Ale poslyš, {{PlayerName}}, kdybych byl tebou, určitě bych si od loďmistra řekl o nějaké to nálezné za jejich vrácení! Tedy, pokud se zrovna nepokoušíš zachránit ztracenou civilizaci, pak na penězích asi tolik nesejde, že?",
+      "source": "our_translation"
+    }
+  ]
+}

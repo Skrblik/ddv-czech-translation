@@ -4,7 +4,8 @@
       "key": "Winnie_000_f",
       "en": "Here you are, {PlayerName}. Perhaps next time, we could look for honey!",
       "cz": "Tady to máš, {PlayerName}. Příště bychom mohli hledat med!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Tady to máš, {PlayerName}. Příště bychom mohli hledat med!"
     }
   ],
   "BestFriends_Winnie/Winnie_BestFriendsRequests_BFRequest001.locbin": [
@@ -12,7 +13,8 @@
       "key": "Winnie_000_f",
       "en": "I'd rather like to help. Shall I see you tomorrow?",
       "cz": "Docela rád bych pomohl. Uvidíme se zítra?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Docela rád bych pomohl. Uvidíme se zítra?"
     }
   ]
 }

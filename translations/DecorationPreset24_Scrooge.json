@@ -4,115 +4,134 @@
       "key": "Scrooge_000_f",
       "en": "Aye, there ya are, {PlayerName}. It's a good thing you came by, for I've got a brilliant new way to decorate, if ya care to hear about it.",
       "cz": "Aye, tady jsi, {PlayerName}. Je dobře, že jsi přišel/a, protože mám skvělý nový způsob dekorování, jestli tě to zajímá.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Aye, tady jsi, {PlayerName}. Je dobře, že jsi přišel/a, protože mám skvělý nový způsob dekorování, jestli tě to zajímá."
     },
     {
       "key": "Player_000_choice_000_f",
       "en": "Yes, I would.",
       "cz": "Ano, rád/a si poslechnu.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Ano, rád/a si poslechnu."
     },
     {
       "key": "Player_000_choice_001_f",
       "en": "No, I don't have time right now.",
       "cz": "Ne, teď nemám čas.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Ne, teď nemám čas."
     },
     {
       "key": "Scrooge_002_f",
       "en": "Well, ya know all the fine decor items you've been collectin', your rugs and potted plants and what not? What if I told ya there's a faster and easier way to arrange it?",
       "cz": "Tak víš, ty všechny krásné dekorační předměty, co jsi sbíral/a, koberce a květináče a tak? Co kdybych ti řekl, že existuje rychlejší a jednodušší způsob, jak je uspořádat?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Tak víš, ty všechny krásné dekorační předměty, co jsi sbíral/a, koberce a květináče a tak? Co kdybych ti řekl, že existuje rychlejší a jednodušší způsob, jak je uspořádat?"
     },
     {
       "key": "Player_001_choice_000_f",
       "en": "Great, I love decorating!",
       "cz": "Skvělé, zbožňuju dekorování!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Skvělé, zbožňuju dekorování!"
     },
     {
       "key": "Player_001_choice_001_f",
       "en": "If it makes decorating simpler, I'm in.",
       "cz": "Pokud to zjednoduší dekorování, jsem pro.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Pokud to zjednoduší dekorování, jsem pro."
     },
     {
       "key": "Player_001_choice_002_f",
       "en": "Does it involve L-shaped couches?",
       "cz": "Zahrnuje to pohovky do L?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Zahrnuje to pohovky do L?"
     },
     {
       "key": "Scrooge_004_f",
       "en": "Then you'll love this!",
       "cz": "Tak to se ti bude líbit!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Tak to se ti bude líbit!"
     },
     {
       "key": "Scrooge_007_f",
       "en": "I dug up an invention that my old friend Gyro Gearloose built. He calls it a <Lore>Decor Preset</Lore>. That's a fancy way of sayin' you can <Lore>group decor items you've placed</Lore>, so you can use the same arrangement more than once.",
       "cz": "Vykopal jsem vynález, který postavil můj starý přítel Gyro Gearloose. Říká tomu <Lore>Šablona dekorací</Lore>. To je módní způsob, jak říct, že můžeš <Lore>seskupit dekorační předměty, které jsi umístil/a</Lore>, aby sis mohl/a stejné uspořádání použít víckrát.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Vykopal jsem vynález, který postavil můj starý přítel Gyro Gearloose. Říká tomu <Lore>Šablona dekorací</Lore>. To je módní způsob, jak říct, že můžeš <Lore>seskupit dekorační předměty, které jsi umístil/a</Lore>, aby sis mohl/a stejné uspořádání použít víckrát."
     },
     {
       "key": "Scrooge_008_f",
       "en": "You'll find Gyro's <Lore>Presets</Lore> in your magical Backpack along with the rest of your items.",
       "cz": "Gyrovy <Lore>Šablony</Lore> najdeš ve svém kouzelném Batohu spolu s ostatními předměty.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Gyrovy <Lore>Šablony</Lore> najdeš ve svém kouzelném Batohu spolu s ostatními předměty."
     },
     {
       "key": "Scrooge_009_f",
       "en": "After ya make a <Lore>Preset</Lore>, use it as many times as you like! Assuming, of course, you've got the decor items to fill it up... But more about that later.",
       "cz": "Když si vytvoříš <Lore>Šablonu</Lore>, můžeš ji používat, kolikrát chceš! Samozřejmě za předpokladu, že máš dekorační předměty k vyplnění... Ale o tom později.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Když si vytvoříš <Lore>Šablonu</Lore>, můžeš ji používat, kolikrát chceš! Samozřejmě za předpokladu, že máš dekorační předměty k vyplnění... Ale o tom později."
     },
     {
       "key": "Player_002_f",
       "en": "So, I could make a <Lore>Decor Preset</Lore> for...",
       "cz": "Takže bych si mohl/a vytvořit <Lore>Šablonu dekorací</Lore> pro...",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Takže bych si mohl/a vytvořit <Lore>Šablonu dekorací</Lore> pro..."
     },
     {
       "key": "Player_002_choice_000_f",
       "en": "...a table and chairs?",
       "cz": "...stůl a židle?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "...stůl a židle?"
     },
     {
       "key": "Player_002_choice_001_f",
       "en": "...a fountain with bushes and rocks nearby?",
       "cz": "...fontánu s keři a kameny poblíž?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "...fontánu s keři a kameny poblíž?"
     },
     {
       "key": "Player_002_choice_002_f",
       "en": "...pictures on a wall?",
       "cz": "...obrázky na zdi?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "...obrázky na zdi?"
     },
     {
       "key": "Scrooge_011_f",
       "en": "Aye! The possibilities are nearly endless. Why don't ya try makin' one right now?",
       "cz": "Aye! Možnosti jsou téměř nekonečné. Co kdybys to zkusil/a hned teď?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Aye! Možnosti jsou téměř nekonečné. Co kdybys to zkusil/a hned teď?"
     },
     {
       "key": "Scrooge_005_f",
       "en": "Simple as falling off a log, and far less painful too!",
       "cz": "Jednodušší než spadnout z klády, a mnohem méně bolestivé!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Jednodušší než spadnout z klády, a mnohem méně bolestivé!"
     },
     {
       "key": "Scrooge_006_f",
       "en": "It can! In fact, it's an especially good idea for L-shaped couches.",
       "cz": "Může! Vlastně je to zvláště dobrý nápad pro pohovky do L.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Může! Vlastně je to zvláště dobrý nápad pro pohovky do L."
     },
     {
       "key": "Scrooge_001_f",
       "en": "Och, you dinnae know what you're missin'!",
       "cz": "Ach, nevíš, o co přicházíš!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Ach, nevíš, o co přicházíš!"
     }
   ],
   "DecorationPreset24_Scrooge/Scrooge_MRQS045_DecorationPreset_MRQS045_DecorationPreset_Ongoing01.locbin": [
@@ -120,7 +139,8 @@
       "key": "Scrooge_000_f",
       "en": "Go on now. Open that magical Backpack of yours, arrange some decor items, and then turn it into a <Lore>Preset</Lore>!",
       "cz": "Tak do toho. Otevři ten svůj kouzelný Batoh, uspořádej nějaké dekorační předměty a pak z toho udělej <Lore>Šablonu</Lore>!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Tak do toho. Otevři ten svůj kouzelný Batoh, uspořádej nějaké dekorační předměty a pak z toho udělej <Lore>Šablonu</Lore>!"
     }
   ],
   "DecorationPreset24_Scrooge/Scrooge_MRQS045_DecorationPreset_MRQS045_DecorationPreset_Ongoing02.locbin": [
@@ -128,7 +148,8 @@
       "key": "Scrooge_000_f",
       "en": "If you've already made a <Lore>Decor Preset</Lore>, you can re-use it anytime. Just find it in your magical Backpack, put it down wherever ya like, and Bob McRobert's your uncle!",
       "cz": "Když sis už vytvořil/a <Lore>Šablonu dekorací</Lore>, můžeš ji použít kdykoli. Prostě ji najdi ve svém kouzelném Batohu, polož ji, kam se ti líbí, a hotovo!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Když sis už vytvořil/a <Lore>Šablonu dekorací</Lore>, můžeš ji použít kdykoli. Prostě ji najdi ve svém kouzelném Batohu, polož ji, kam se ti líbí, a hotovo!"
     }
   ],
   "DecorationPreset24_Scrooge/Scrooge_MRQS045_DecorationPreset_MRQS045_DecorationPreset_Ongoing03.locbin": [
@@ -136,7 +157,8 @@
       "key": "Scrooge_000_f",
       "en": "That <ActivityItem>Picnic Decor Preset</ActivityItem> should be in your magical Backpack along with the other <Lore>Presets</Lore>. Just take it out and put it down wherever ya like.",
       "cz": "Ta <ActivityItem>Šablona piknikové dekorace</ActivityItem> by měla být ve tvém kouzelném Batohu spolu s ostatními <Lore>Šablonami</Lore>. Prostě ji vytáhni a polož, kam se ti líbí.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Ta <ActivityItem>Šablona piknikové dekorace</ActivityItem> by měla být ve tvém kouzelném Batohu spolu s ostatními <Lore>Šablonami</Lore>. Prostě ji vytáhni a polož, kam se ti líbí."
     }
   ],
   "DecorationPreset24_Scrooge/Scrooge_MRQS045_DecorationPreset_MRQS045_DecorationPreset_Ongoing04.locbin": [
@@ -144,7 +166,8 @@
       "key": "Scrooge_000_f",
       "en": "That <Lore>Preset</Lore> seems to have a piece missing. Try adding some crafting materials to finish it off.",
       "cz": "Té <Lore>Šabloně</Lore> zřejmě chybí kousek. Zkus přidat nějaké řemeslné materiály, aby byla kompletní.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Té <Lore>Šabloně</Lore> zřejmě chybí kousek. Zkus přidat nějaké řemeslné materiály, aby byla kompletní."
     }
   ],
   "DecorationPreset24_Scrooge/Scrooge_MRQS045_DecorationPreset_MRQS045_DecorationPreset_Outro.locbin": [
@@ -152,13 +175,15 @@
       "key": "Scrooge_000_f",
       "en": "Just as I suspected, {PlayerName}; ya took to <Lore>Decor Presets</Lore> like gravy to haggis!",
       "cz": "Přesně jak jsem čekal, {PlayerName}; vzal/a sis <Lore>Šablony dekorací</Lore> k srdci jako omáčku k haggisu!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Přesně jak jsem čekal, {PlayerName}; vzal/a sis <Lore>Šablony dekorací</Lore> k srdci jako omáčku k haggisu!"
     },
     {
       "key": "Scrooge_001_f",
       "en": "If ya make use of <Lore>Decor Presets</Lore>, you'll have an easier time decoratin' your home, the Valley, and lands beyond.",
       "cz": "Když budeš používat <Lore>Šablony dekorací</Lore>, budeš mít jednodušší dekorování domu, Údolí i krajin za ním.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Když budeš používat <Lore>Šablony dekorací</Lore>, budeš mít jednodušší dekorování domu, Údolí i krajin za ním."
     }
   ],
   "DecorationPreset24_Scrooge/Scrooge_MRQS045_DecorationPreset_MRQS045_DecorationPreset_TalkTo01.locbin": [
@@ -166,61 +191,71 @@
       "key": "Scrooge_000_f",
       "en": "Well, sparkle me spats, {PlayerName}! That's a fine job of decoratin' you've done.",
       "cz": "No to mě podrž, {PlayerName}! To je pěkná práce s dekorováním.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "No to mě podrž, {PlayerName}! To je pěkná práce s dekorováním."
     },
     {
       "key": "Scrooge_001_f",
       "en": "Gyro gave me a <Lore>Preset</Lore> I'm happy to pass along to you. He calls it a <Lore>Premade Decor Preset</Lore>, seein' as how he's already done the design work.",
       "cz": "Gyro mi dal <Lore>Šablonu</Lore>, kterou ti rád předám. Říká tomu <Lore>Předpřipravená šablona dekorací</Lore>, protože design už udělal za tebe.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Gyro mi dal <Lore>Šablonu</Lore>, kterou ti rád předám. Říká tomu <Lore>Předpřipravená šablona dekorací</Lore>, protože design už udělal za tebe."
     },
     {
       "key": "Player_000_f",
       "en": "Thanks, Mr. McDuck!",
       "cz": "Díky, pane McDucku!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Díky, pane McDucku!"
     },
     {
       "key": "Player_000_choice_000_f",
       "en": "I appreciate it!",
       "cz": "Vážím si toho!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Vážím si toho!"
     },
     {
       "key": "Player_000_choice_001_f",
       "en": "That's unexpectedly generous of you.",
       "cz": "To je od vás nečekaně štědré.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "To je od vás nečekaně štědré."
     },
     {
       "key": "Player_000_choice_002_f",
       "en": "There's got to be a catch.",
       "cz": "V tom musí být háček.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "V tom musí být háček."
     },
     {
       "key": "Scrooge_003_f",
       "en": "Well now, nothing's for free, of course. If someone gives you a <Lore>Premade Decor Preset</Lore>, that doesn't mean they're givin' away the decor items too.",
       "cz": "No, nic není zadarmo, samozřejmě. Když ti někdo dá <Lore>Předpřipravenou šablonu dekorací</Lore>, neznamená to, že ti dává i dekorační předměty.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "No, nic není zadarmo, samozřejmě. Když ti někdo dá <Lore>Předpřipravenou šablonu dekorací</Lore>, neznamená to, že ti dává i dekorační předměty."
     },
     {
       "key": "Scrooge_004_f",
       "en": "When you're placin' a <Lore>Preset</Lore>, ya might notice some parts of it are shadowy like a <Lore>Mirage</Lore>. That's to let ya know that item's not in your Backpack yet.",
       "cz": "Když umisťuješ <Lore>Šablonu</Lore>, můžeš si všimnout, že některé její části jsou stínové jako <Lore>Přelud</Lore>. To ti říká, že ten předmět ještě nemáš v Batohu.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Když umisťuješ <Lore>Šablonu</Lore>, můžeš si všimnout, že některé její části jsou stínové jako <Lore>Přelud</Lore>. To ti říká, že ten předmět ještě nemáš v Batohu."
     },
     {
       "key": "Scrooge_005_f",
       "en": "Depending on what the missing item is, you can craft it or buy it after you've put the <Lore>Preset</Lore> in place. Both convenient options for my favorite customer!",
       "cz": "Podle toho, co chybějící předmět je, ho můžeš vyrobit nebo koupit poté, co <Lore>Šablonu</Lore> umístíš. Obojí pohodlné možnosti pro mého oblíbeného zákazníka!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Podle toho, co chybějící předmět je, ho můžeš vyrobit nebo koupit poté, co <Lore>Šablonu</Lore> umístíš. Obojí pohodlné možnosti pro mého oblíbeného zákazníka!"
     },
     {
       "key": "Scrooge_006_f",
       "en": "Why don't ya give it a try? The <Lore>Preset</Lore> I just gave ya will make for a grand picnic.",
       "cz": "Co to zkusit? Ta <Lore>Šablona</Lore>, co jsem ti právě dal, se bude hodit na skvělý piknik.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Co to zkusit? Ta <Lore>Šablona</Lore>, co jsem ti právě dal, se bude hodit na skvělý piknik."
     }
   ],
   "DecorationPreset24_Scrooge/Scrooge_MRQS045_DecorationPreset_MRQS045_DecorationPreset_TalkTo02.locbin": [
@@ -228,55 +263,64 @@
       "key": "Scrooge_000_f",
       "en": "Are ya having any trouble setting up the <Lore>Picnic Decor Preset</Lore> I gave ya?",
       "cz": "Máš nějaké potíže s nastavením <Lore>Šablony piknikové dekorace</Lore>, co jsem ti dal?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Máš nějaké potíže s nastavením <Lore>Šablony piknikové dekorace</Lore>, co jsem ti dal?"
     },
     {
       "key": "Player_000_choice_000_f",
       "en": "I don't know where to start.",
       "cz": "Nevím, kde začít.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Nevím, kde začít."
     },
     {
       "key": "Player_000_choice_001_f",
       "en": "I'm missing some pieces.",
       "cz": "Chybí mi některé díly.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Chybí mi některé díly."
     },
     {
       "key": "Player_000_choice_002_f",
       "en": "I'm fine, thanks.",
       "cz": "Jsem v pohodě, díky.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Jsem v pohodě, díky."
     },
     {
       "key": "Scrooge_001_f",
       "en": "Well, just open up your magical Backpack like you normally do to place decor items. You should see <Lore>Presets</Lore> in there.",
       "cz": "No, prostě otevři svůj kouzelný Batoh jako obvykle pro umísťování dekorací. Měl/a bys tam vidět <Lore>Šablony</Lore>.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "No, prostě otevři svůj kouzelný Batoh jako obvykle pro umísťování dekorací. Měl/a bys tam vidět <Lore>Šablony</Lore>."
     },
     {
       "key": "Scrooge_004_f",
       "en": "Then, choose the <Lore>Picnic Decor Preset</Lore> and set it down anywhere ya like.",
       "cz": "Pak vyber <Lore>Šablonu piknikové dekorace</Lore> a polož ji kamkoli.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Pak vyber <Lore>Šablonu piknikové dekorace</Lore> a polož ji kamkoli."
     },
     {
       "key": "Scrooge_002_f",
       "en": "Aye, that can be a problem. You might not have a <ActivityItem>Floral Fae Picnic Blanket</ActivityItem> yet, so it'll show up as a shadowy <Lore>Mirage</Lore>.",
       "cz": "Aye, to může být problém. Možná ještě nemáš <ActivityItem>Květinovou vílu piknikovou deku</ActivityItem>, takže se ukáže jako stínový <Lore>Přelud</Lore>.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Aye, to může být problém. Možná ještě nemáš <ActivityItem>Květinovou vílu piknikovou deku</ActivityItem>, takže se ukáže jako stínový <Lore>Přelud</Lore>."
     },
     {
       "key": "Scrooge_005_f",
       "en": "Just take a good look at the <Lore>Preset</Lore> after you've set it in place and add the missing crafting materials. Mind ya, other <Lore>Presets</Lore> might require Star Coins instead. After all, I've got to keep my business thriving!",
       "cz": "Prostě se dobře podívej na <Lore>Šablonu</Lore> poté, co ji umístíš, a přidej chybějící řemeslné materiály. Pozor, jiné <Lore>Šablony</Lore> mohou vyžadovat Hvězdné mince. Koneckonců musím udržet svůj obchod v chodu!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Prostě se dobře podívej na <Lore>Šablonu</Lore> poté, co ji umístíš, a přidej chybějící řemeslné materiály. Pozor, jiné <Lore>Šablony</Lore> mohou vyžadovat Hvězdné mince. Koneckonců musím udržet svůj obchod v chodu!"
     },
     {
       "key": "Scrooge_003_f",
       "en": "Then go on, set up that <Lore>Picnic Decor Preset</Lore> somewhere nice and charming.",
       "cz": "Tak do toho, nastav tu <Lore>Šablonu piknikové dekorace</Lore> někam pěkného a okouzlujícího.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Tak do toho, nastav tu <Lore>Šablonu piknikové dekorace</Lore> někam pěkného a okouzlujícího."
     }
   ]
 }

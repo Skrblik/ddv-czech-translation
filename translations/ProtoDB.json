@@ -167,7 +167,8 @@
       "key": "Description_005",
       "en": "Water flowers to make them Honeyglow!",
       "cz": "Zalij květiny, aby zářily jako Medový les!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Zalij květiny, aby zářily jako Medový les!"
     },
     {
       "key": "DisplayName",
@@ -215,7 +216,8 @@
       "key": "DisplayName_005",
       "en": "Honeyglow Bloom Elixir",
       "cz": "Květinový elixír z Medového lesa",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Květinový elixír z Medového lesa"
     }
   ],
   "ProtoDB/Buffs_StaticDefaultBuffData.locbin": [
@@ -546,12 +548,27 @@
       "original_cz": "{DoNotTranslate}Snížení nákladů na energii při těžbě"
     }
   ],
+  "ProtoDB/CaptJackSparrow_VLG_Capt_040_ShipBlueprint.locbin": [
+    {
+      "key": "Description",
+      "en": "Fragmented and waterlogged, but this Ship isn't out of the running yet.",
+      "cz": "Je to sice jen hromada mokrýho dříví a trosek, parťáku, ale tahle krasavice ještě nehodlá jít ke dnu!",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Jack's Wrecked Ship",
+      "cz": "Jackova ztroskotaná bárka",
+      "source": "our_translation"
+    }
+  ],
   "ProtoDB/CharityOffers_CharityOfferUpd24.locbin": [
     {
       "key": "WarningMessage",
       "en": "Gameloft will donate all net revenues coming from the bundle, after platform fees are deducted, to the Nature Conservancy of Canada. This bundle will be available from July 29 until September 23, 2026, and includes 800 Moonstones.",
       "cz": "Gameloft věnuje veškeré čisté příjmy z balíčku po odečtení poplatků platformy organizaci Nature Conservancy of Canada. Tento balíček bude k dispozici od 29. července do 23. září 2026 a obsahuje 800 Měsíčních kamenů.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Gameloft věnuje veškeré čisté příjmy z balíčku po odečtení poplatků platformy organizaci Nature Conservancy of Canada. Tento balíček bude k dispozici od 29. července do 23. září 2026 a obsahuje 800 Měsíčních kamenů."
     }
   ],
   "ProtoDB/Cliff_MRQS110_AmethystRight.locbin": [
@@ -678,74 +695,86 @@
     {
       "key": "SectionName_012",
       "en": "Habitat",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Habitat",
+      "source": "pre_existing",
+      "original_cz": "Habitat"
     },
     {
       "key": "SectionName_013",
       "en": "Diorama",
       "cz": "Dioráma",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Dioráma"
     },
     {
       "key": "SectionName_014",
       "en": "Aquarium",
       "cz": "Akvárium",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Akvárium"
     },
     {
       "key": "SectionName_015",
       "en": "Habitat",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Habitat",
+      "source": "pre_existing",
+      "original_cz": "Habitat"
     },
     {
       "key": "SectionName_016",
       "en": "Diorama",
       "cz": "Dioráma",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Dioráma"
     },
     {
       "key": "SectionName_017",
       "en": "Aquarium",
       "cz": "Akvárium",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Akvárium"
     },
     {
       "key": "SectionName_021",
       "en": "Aquarium",
       "cz": "Akvárium",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Akvárium"
     },
     {
       "key": "SectionName_022",
       "en": "Diorama",
       "cz": "Dioráma",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Dioráma"
     },
     {
       "key": "SectionName_023",
       "en": "Habitat",
       "cz": "Biotop",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Biotop"
     },
     {
       "key": "SectionName_024",
       "en": "Habitat",
       "cz": "Biotop",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Biotop"
     },
     {
       "key": "SectionName_025",
       "en": "Diorama 1",
       "cz": "Dioráma 1",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Dioráma 1"
     },
     {
       "key": "SectionName_026",
       "en": "Diorama 2",
       "cz": "Dioráma 2",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Dioráma 2"
     },
     {
       "key": "SubSectionName_000",
@@ -1003,223 +1032,260 @@
       "key": "SubSectionName_036",
       "en": "Sunlit Plateau Gems",
       "cz": "Drahokamy Sluncem zalité planiny",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Drahokamy Sluncem zalité planiny"
     },
     {
       "key": "SubSectionName_037",
       "en": "Sunlit Plateau Aquarium",
       "cz": "Akvárium Sluncem zalité planiny",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Akvárium Sluncem zalité planiny"
     },
     {
       "key": "SubSectionName_038",
       "en": "Sunlit Plateau Flowers",
       "cz": "Květiny Sluncem zalité planiny",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Květiny Sluncem zalité planiny"
     },
     {
       "key": "SubSectionName_039",
       "en": "Root Causes",
       "cz": "Kořenové příčiny",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Kořenové příčiny"
     },
     {
       "key": "SubSectionName_040",
       "en": "Be Mine?",
       "cz": "Budeš moje?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Budeš moje?"
     },
     {
       "key": "SubSectionName_041",
       "en": "Crystal Clear",
       "cz": "Křišťálově čisté",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Křišťálově čisté"
     },
     {
       "key": "SubSectionName_042",
       "en": "The Lion's Share",
       "cz": "Lví podíl",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Lví podíl"
     },
     {
       "key": "SubSectionName_043",
       "en": "Sunlit Plateau Food",
       "cz": "Jídlo Sluncem zalité planiny",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Jídlo Sluncem zalité planiny"
     },
     {
       "key": "SubSectionName_044",
       "en": "Sunlit Plateau Habitat",
       "cz": "Habitat Sluncem zalité planiny",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Habitat Sluncem zalité planiny"
     },
     {
       "key": "SubSectionName_045",
       "en": "Frosted Heights Gems",
       "cz": "Drahokamy Mrazivých výšin",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Drahokamy Mrazivých výšin"
     },
     {
       "key": "SubSectionName_046",
       "en": "Frosted Heights Aquarium",
       "cz": "Akvárium Mrazivých výšin",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Akvárium Mrazivých výšin"
     },
     {
       "key": "SubSectionName_047",
       "en": "Frosted Heights Flowers",
       "cz": "Květiny Mrazivých výšin",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Květiny Mrazivých výšin"
     },
     {
       "key": "SubSectionName_048",
       "en": "The Snowman's Nose",
       "cz": "Sněhulákův nos",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Sněhulákův nos"
     },
     {
       "key": "SubSectionName_049",
       "en": "A Pillar of the Community",
       "cz": "Pilíř komunity",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Pilíř komunity"
     },
     {
       "key": "SubSectionName_050",
       "en": "Just Chilling",
       "cz": "Jen tak v klídku",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Jen tak v klídku"
     },
     {
       "key": "SubSectionName_051",
       "en": "Chasing the Carrot",
       "cz": "Honba za mrkví",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Honba za mrkví"
     },
     {
       "key": "SubSectionName_052",
       "en": "Frosted Heights Food",
       "cz": "Jídlo Mrazivých výšin",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Jídlo Mrazivých výšin"
     },
     {
       "key": "SubSectionName_053",
       "en": "Frosted Heights Habitat",
       "cz": "Habitat Mrazivých výšin",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Habitat Mrazivých výšin"
     },
     {
       "key": "SubSectionName_066",
       "en": "Forgotten Lands Gems",
       "cz": "Drahokamy Zapomenutých zemí",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Drahokamy Zapomenutých zemí"
     },
     {
       "key": "SubSectionName_067",
       "en": "Forgotten Lands Aquarium",
       "cz": "Akvárium Zapomenutých zemí",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Akvárium Zapomenutých zemí"
     },
     {
       "key": "SubSectionName_068",
       "en": "Forgotten Lands Flowers",
       "cz": "Květiny Zapomenutých zemí",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Květiny Zapomenutých zemí"
     },
     {
       "key": "SubSectionName_069",
       "en": "What's This?",
       "cz": "Co je tohle?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Co je tohle?"
     },
     {
       "key": "SubSectionName_070",
       "en": "The Dark Tree House",
       "cz": "Temný dům na stromě",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Temný dům na stromě"
     },
     {
       "key": "SubSectionName_071",
       "en": "Furious Flames",
       "cz": "Zuřivé plameny",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Zuřivé plameny"
     },
     {
       "key": "SubSectionName_072",
       "en": "Tending the Pumpkins",
       "cz": "Péče o dýně",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Péče o dýně"
     },
     {
       "key": "SubSectionName_073",
       "en": "Forgotten Lands Food",
       "cz": "Jídlo Zapomenutých zemí",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Jídlo Zapomenutých zemí"
     },
     {
       "key": "SubSectionName_074",
       "en": "Forgotten Lands Habitat",
       "cz": "Prostředí Zapomenutých zemí",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Prostředí Zapomenutých zemí"
     },
     {
       "key": "SubSectionName_075",
       "en": "Forgotten but Not Gone",
       "cz": "Zapomenuté, ale ne pryč",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Zapomenuté, ale ne pryč"
     },
     {
       "key": "SubSectionName_076",
       "en": "A Door to Discovery",
       "cz": "Dveře k objevování",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Dveře k objevování"
     },
     {
       "key": "SubSectionName_077",
       "en": "A Magical Mentor",
       "cz": "Kouzelný mentor",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Kouzelný mentor"
     },
     {
       "key": "SubSectionName_078",
       "en": "A Duck and His Dream",
       "cz": "Kačer a jeho sen",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Kačer a jeho sen"
     },
     {
       "key": "SubSectionName_079",
       "en": "The Royal Pickaxe",
       "cz": "Královský krumpáč",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Královský krumpáč"
     },
     {
       "key": "SubSectionName_080",
       "en": "A Familiar Friend",
       "cz": "Starý známý",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Starý známý"
     },
     {
       "key": "SubSectionName_081",
       "en": "Plaza Gems",
       "cz": "Drahokamy z Náměstí",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Drahokamy z Náměstí"
     },
     {
       "key": "SubSectionName_082",
       "en": "Plaza Flowers",
       "cz": "Květiny z Náměstí",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Květiny z Náměstí"
     },
     {
       "key": "SubSectionName_083",
       "en": "Plaza Food",
       "cz": "Jídlo z Náměstí",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Jídlo z Náměstí"
     },
     {
       "key": "SubSectionName_084",
       "en": "Plaza Habitat",
       "cz": "Prostředí Náměstí",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Prostředí Náměstí"
     }
   ],
   "ProtoDB/DesignChallenges_DreamSnap002_test4.locbin": [
@@ -1392,13 +1458,15 @@
       "key": "Description",
       "en": "Is there a book about animals that fits in this space?",
       "cz": "Najde se kniha o zvířatech, která se vejde právě sem?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Najde se kniha o zvířatech, která se vejde právě sem?"
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Frightful Fauna Library Shelf",
       "cz": "Strašidelná police – Fauna",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Strašidelná police – Fauna"
     }
   ],
   "ProtoDB/EventFloatingIsland_EFI_Halloween2026_Altar.locbin": [
@@ -1406,13 +1474,15 @@
       "key": "Description",
       "en": "A page has been torn out of this book. It feels... sad?",
       "cz": "Z této knihy byla vytržena stránka. Působí... smutně?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Z této knihy byla vytržena stránka. Působí... smutně?"
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Damaged Magic Book",
       "cz": "Poškozená kouzelná kniha",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Poškozená kouzelná kniha"
     }
   ],
   "ProtoDB/EventFloatingIsland_EFI_Halloween2026_BasementDoor.locbin": [
@@ -1420,13 +1490,15 @@
       "key": "Description",
       "en": "It's locked... But why?",
       "cz": "Je zamčeno... Ale proč?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Je zamčeno... Ale proč?"
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Eerie Basement Door",
       "cz": "Strašidelné dveře do sklepa",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Strašidelné dveře do sklepa"
     }
   ],
   "ProtoDB/EventFloatingIsland_EFI_Halloween2026_BedroomDoor.locbin": [
@@ -1434,13 +1506,15 @@
       "key": "Description",
       "en": "This door is locked...",
       "cz": "Tyhle dveře jsou zamčené...",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Tyhle dveře jsou zamčené..."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Haunted House Bedroom Door",
       "cz": "Dveře do ložnice strašidelného domu",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Dveře do ložnice strašidelného domu"
     }
   ],
   "ProtoDB/EventFloatingIsland_EFI_Halloween2026_Bookshelf03.locbin": [
@@ -1448,13 +1522,15 @@
       "key": "Description",
       "en": "A book about space would fit right in here.",
       "cz": "Sem by se přesně hodila kniha o vesmíru.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Sem by se přesně hodila kniha o vesmíru."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Abominable Astronomy Library Shelf",
       "cz": "Ohavná astronomická knihovní polička",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Ohavná astronomická knihovní polička"
     }
   ],
   "ProtoDB/EventFloatingIsland_EFI_Halloween2026_Bookshelf04.locbin": [
@@ -1462,13 +1538,15 @@
       "key": "Description",
       "en": "This shelf is missing a book about music.",
       "cz": "Na téhle poličce chybí kniha o hudbě.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Na téhle poličce chybí kniha o hudbě."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Monstrous Music Library Shelf",
       "cz": "Příšerná hudební knihovní polička",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Příšerná hudební knihovní polička"
     }
   ],
   "ProtoDB/EventFloatingIsland_EFI_Halloween2026_Pumpkin01.locbin": [
@@ -1476,13 +1554,15 @@
       "key": "Description",
       "en": "Put something bright here to help this pumpkin lighten up.",
       "cz": "Polož sem něco zářivého, ať se tahle dýně rozzáří.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Polož sem něco zářivého, ať se tahle dýně rozzáří."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Unlit Jack-o'—Lantern",
       "cz": "Nerozsvícená dýňová lucerna",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Nerozsvícená dýňová lucerna"
     }
   ],
   "ProtoDB/EventFloatingIsland_EFI_Halloween2026_Pumpkin02.locbin": [
@@ -1490,13 +1570,15 @@
       "key": "Description",
       "en": "Put something bright here to help this pumpkin lighten up.",
       "cz": "Polož sem něco zářivého, ať se tahle dýně rozzáří.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Polož sem něco zářivého, ať se tahle dýně rozzáří."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Unlit Jack-o'—Lantern",
       "cz": "Nerozsvícená dýňová lucerna",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Nerozsvícená dýňová lucerna"
     }
   ],
   "ProtoDB/EventFloatingIsland_EFI_Halloween2026_Pumpkin03.locbin": [
@@ -1504,13 +1586,15 @@
       "key": "Description",
       "en": "Put something bright here to help this pumpkin lighten up.",
       "cz": "Polož sem něco zářivého, ať se tahle dýně rozzáří.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Polož sem něco zářivého, ať se tahle dýně rozzáří."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Unlit Jack-o'—Lantern",
       "cz": "Nerozsvícená dýňová lucerna",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Nerozsvícená dýňová lucerna"
     }
   ],
   "ProtoDB/EventFloatingIsland_EFI_Halloween2026_Pumpkin04.locbin": [
@@ -1518,13 +1602,15 @@
       "key": "Description",
       "en": "Put something bright here to help this pumpkin lighten up.",
       "cz": "Polož sem něco zářivého, ať se tahle dýně rozzáří.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Polož sem něco zářivého, ať se tahle dýně rozzáří."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Unlit Jack-o'—Lantern",
       "cz": "Nerozsvícená dýňová lucerna",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Nerozsvícená dýňová lucerna"
     }
   ],
   "ProtoDB/EventFloatingIsland_EFI_Halloween2026_RedChest.locbin": [
@@ -1532,13 +1618,15 @@
       "key": "Description",
       "en": "It looks like you need some kind of key.",
       "cz": "Vypadá to, že budeš potřebovat nějaký klíč.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Vypadá to, že budeš potřebovat nějaký klíč."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Locked Red Chest",
       "cz": "Zamčená červená truhla",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Zamčená červená truhla"
     }
   ],
   "ProtoDB/EventFloatingIsland_EFI_Halloween_Bookshelf02.locbin": [
@@ -1546,13 +1634,15 @@
       "key": "Description",
       "en": "A book about flowers should go here.",
       "cz": "Sem patří kniha o květinách.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Sem patří kniha o květinách."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Fearsome Flora Library Shelf",
       "cz": "Děsivá květinová knihovní polička",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Děsivá květinová knihovní polička"
     }
   ],
   "ProtoDB/EventFloatingIsland_EFI_Parks_PlantArea01.locbin": [
@@ -1560,13 +1650,15 @@
       "key": "Description",
       "en": "Add fresh flowers here for a stunning garden arrangement.",
       "cz": "Přidejte sem čerstvé květiny pro ohromující zahradní aranžmá.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Přidejte sem čerstvé květiny pro ohromující zahradní aranžmá."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Flower Planter",
       "cz": "Květinový truhlík",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Květinový truhlík"
     }
   ],
   "ProtoDB/EventFloatingIsland_EFI_Parks_PlantArea02.locbin": [
@@ -1574,13 +1666,15 @@
       "key": "Description",
       "en": "Add fresh flowers here for a stunning garden arrangement.",
       "cz": "Přidejte sem čerstvé květiny pro ohromující zahradní aranžmá.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Přidejte sem čerstvé květiny pro ohromující zahradní aranžmá."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Flower Planter",
       "cz": "Květinový truhlík",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Květinový truhlík"
     }
   ],
   "ProtoDB/EventFloatingIsland_EFI_Parks_PlantArea03.locbin": [
@@ -1588,13 +1682,15 @@
       "key": "Description",
       "en": "Add fresh flowers here for a stunning garden arrangement.",
       "cz": "Přidejte sem čerstvé květiny pro ohromující zahradní aranžmá.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Přidejte sem čerstvé květiny pro ohromující zahradní aranžmá."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Flower Planter",
       "cz": "Květinový truhlík",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Květinový truhlík"
     }
   ],
   "ProtoDB/EventFloatingIsland_EFI_Parks_PlantArea04.locbin": [
@@ -1602,13 +1698,15 @@
       "key": "Description",
       "en": "Add fresh flowers here for a stunning garden arrangement.",
       "cz": "Přidejte sem čerstvé květiny pro ohromující zahradní aranžmá.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Přidejte sem čerstvé květiny pro ohromující zahradní aranžmá."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Flower Planter",
       "cz": "Květinový truhlík",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Květinový truhlík"
     }
   ],
   "ProtoDB/EventFloatingIsland_EFI_Parks_PlantArea05.locbin": [
@@ -1616,13 +1714,15 @@
       "key": "Description",
       "en": "Add fresh flowers here for a stunning garden arrangement.",
       "cz": "Přidejte sem čerstvé květiny pro ohromující zahradní aranžmá.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Přidejte sem čerstvé květiny pro ohromující zahradní aranžmá."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Flower Planter",
       "cz": "Květinový truhlík",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Květinový truhlík"
     }
   ],
   "ProtoDB/EventFloatingIsland_Halloween2025_Puzzle03_CursedTree.locbin": [
@@ -1639,13 +1739,15 @@
       "key": "Description",
       "en": "Place your trash here for proper disposal.",
       "cz": "Sem vyhoďte odpadky k řádné likvidaci.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Sem vyhoďte odpadky k řádné likvidaci."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Adventureland Trash Bins",
       "cz": "Koše v Adventurelandu",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Koše v Adventurelandu"
     }
   ],
   "ProtoDB/EventFloatingIsland_Spring2026_Puzzle02_BambooFountain.locbin": [
@@ -2098,12 +2200,719 @@
       "original_cz": "Větrný mlýn na ranči Wishblossom"
     }
   ],
+  "ProtoDB/Expansion04_AquariumTemple_blueprint.locbin": [
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Regal Coral Aquarium",
+      "cz": "Vznešené korálové akvárium",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_Exp04ChezRemy_Blueprint.locbin": [
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Chez Remy",
+      "cz": "",
+      "source": "untranslated"
+    }
+  ],
+  "ProtoDB/Expansion04_Exp04ScroogeStore_Blueprint.locbin": [
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Scrooge McDuck's General Store",
+      "cz": "Obchod strýčka Skrblíka",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_GiantGumballMachine_blueprint.locbin": [
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Giant Gumball Machine",
+      "cz": "Obří automat na žvýkačky",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_GlacierMintStation_blueprint.locbin": [
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Icy Mint Station",
+      "cz": "Mrazivá mátová stanice",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_HotAirBalloon_blueprint.locbin": [
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Candy Airship and Mooring Tower",
+      "cz": "Cukrová vzducholoď a kotvicí věž",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_KiddyPirateTavern_blueprint.locbin": [
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Jaunty Pirate Inn",
+      "cz": "Švihácká pirátská krčma",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E03_021_BookKeyhole.locbin": [
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Missing Book",
+      "cz": "Chybějící kniha",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E03_021_ShoesKeyhole.locbin": [
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Missing Shoes",
+      "cz": "Chybějící boty",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E03_021_ToysKeyhole.locbin": [
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Missing Toys",
+      "cz": "Ztracené hračky",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_010_DiscoveryBottlesKeyhole.locbin": [
+    {
+      "key": "Description",
+      "en": "One bottle is missing. You should try placing that one you found here...",
+      "cz": "Jedna láhev chybí. Zkus sem umístit tu, kterou jsi našel...",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Altar of Discovery",
+      "cz": "Oltář objevů",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_010_GateKeyHole_A.locbin": [
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Clamshell",
+      "cz": "Lastura",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_010_UW_GateKeyHoleA.locbin": [
+    {
+      "key": "Description",
+      "en": "This clamshell is hungry for a missing pearl.",
+      "cz": "Tahle škeble prahne po chybějící perle.",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_010_UW_GateKeyHoleB.locbin": [
+    {
+      "key": "Description",
+      "en": "This clamshell is hungry for a missing pearl.",
+      "cz": "Tahle mušle prahne po chybějící perle.",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_010_UnderwaterGateKeyHole_B.locbin": [
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Clamshell",
+      "cz": "Mušle",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_011_UW_C1_DiscoveryPlank.locbin": [
+    {
+      "key": "Description",
+      "en": "There must be something around here that could fill this space.",
+      "cz": "Tady někde musí být něco, čím by se tohle prázdné místo dalo zaplnit.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Missing Plank",
+      "cz": "Chybějící prkno",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_020_Gate.locbin": [
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Gate to Peddler's Post",
+      "cz": "Brána k obchodníkovu stanovišti",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_020_GateKeyhole.locbin": [
+    {
+      "key": "Description",
+      "en": "This jury-rigged lock needs a special key to open it.",
+      "cz": "Tenhle provizorně sestrojený zámek potřebuje k otevření speciální klíč.",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_021_1B_BookKeyhole.locbin": [
+    {
+      "key": "Description",
+      "en": "There's a spot here where a book would go perfectly.",
+      "cz": "Tady je místečko, kam by jedna kniha padla jako ulitá.",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_021_1B_ShoesKeyhole.locbin": [
+    {
+      "key": "Description",
+      "en": "This spot looks like it would be perfect for a pair of shoes.",
+      "cz": "Tohle místo vypadá jako stvořené pro pár bot.",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_021_1B_ToysKeyhole.locbin": [
+    {
+      "key": "Description",
+      "en": "This spot looks like it's missing something playful.",
+      "cz": "Vypadá to, že tomuhle místu chybí něco hravého.",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_031_2C_Keyhole_Rotator02.locbin": [
+    {
+      "key": "Description",
+      "en": "An item that could complete the path is missing.",
+      "cz": "Chybí předmět, který by propojil cestu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Missing Connector",
+      "cz": "Chybějící spojka",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_031_2C_Keyhole_Rotator03.locbin": [
+    {
+      "key": "Description",
+      "en": "An item that could complete the path is missing.",
+      "cz": "Chybí předmět, který by dokončil cestu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Missing Connector",
+      "cz": "Chybějící spojka",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_031_2C_Keyhole_Rotator04.locbin": [
+    {
+      "key": "Description",
+      "en": "An item that could complete the path is missing.",
+      "cz": "Chybí předmět, který by mohl dokončit cestu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Missing Connector",
+      "cz": "Chybějící spojka",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_040_LeverHandleKeyhole.locbin": [
+    {
+      "key": "Description",
+      "en": "Someone has hastily torn out the crank of this drawbridge.",
+      "cz": "Někdo narychlo vytrhl kliku tohoto padacího mostu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Missing Drawbridge Crank",
+      "cz": "Chybějící klika padacího mostu",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_040_ResilienceBottlesKeyhole.locbin": [
+    {
+      "key": "Description",
+      "en": "The Keepsakes that you found beneath the sea must belong here.",
+      "cz": "Tyto památky, které jsi našel pod mořskou hladinou, musí patřit sem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Altar of Resilience",
+      "cz": "Oltář houževnatosti",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_041_3C_Keyhole_Table.locbin": [
+    {
+      "key": "Description",
+      "en": "The centerpiece and parasol are missing.",
+      "cz": "Chybí stolní dekorace a slunečník.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Dining Table",
+      "cz": "Jídelní stůl",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_060_ArchKeyhole01.locbin": [
+    {
+      "key": "Description",
+      "en": "Fish around Candy Cove for something with a hardened shell and many legs and place it here.",
+      "cz": "Zkus v Cukrové zátoce vylovit něco s tvrdým krunýřem a mnoha nohama a pak to vlož sem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "The Riddle of the Sea",
+      "cz": "Hádanka moře",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_060_ArchKeyhole02.locbin": [
+    {
+      "key": "Description",
+      "en": "Mine around Candy Cove for a nugget of this soft and chewy treat and place it here.",
+      "cz": "Těž v okolí Candy Cove, najdi kousek téhle měkké a žvýkací dobroty a vlož ho sem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "The Riddle of the Rock",
+      "cz": "Záhada skály",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_060_ArchKeyhole03.locbin": [
+    {
+      "key": "Description",
+      "en": "Dig in the ground around Candy Cove for some surprisingly sweet rocks and place them here.",
+      "cz": "Prohledej zem v okolí Cukrové zátoky, najdi pár překvapivě sladkých kamenů a vlož je sem.",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_060_CakeArchKeyholeData.locbin": [
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "The Riddle of the Dirt",
+      "cz": "Hádanka v hlíně",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_060_WaffleKeyhole.locbin": [
+    {
+      "key": "Description",
+      "en": "There is something missing here. You can't go further until you find it.",
+      "cz": "Něco tu chybí. Dokud to nenajdeš, dál se nedostaneš.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Missing Bridge",
+      "cz": "Chybějící most",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_060_WaffleKeyhole2.locbin": [
+    {
+      "key": "Description",
+      "en": "There is a gap here. You won't be able to cross until you find something to fill it.",
+      "cz": "Tady zeje mezera. Nepodaří se ti přejít, dokud nenajdeš něco, čím ji zaplníš.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Missing Bridge",
+      "cz": "Chybějící most",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_061_1A_CrayonKeyhole.locbin": [
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Missing Art Supplies",
+      "cz": "Chybějící výtvarné potřeby",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_061_1A_SuppliesKeyhole.locbin": [
+    {
+      "key": "Description",
+      "en": "This spot looks like it is missing tools to empower creativity.",
+      "cz": "Zdá se, že na tomto místě chybí nástroje k povzbuzení tvořivosti.",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_061_1B_LetterKeyhole.locbin": [
+    {
+      "key": "Description",
+      "en": "The students seem to be waiting for secret messages. Maybe the notes are hidden around the class.",
+      "cz": "Vypadá to, že studenti čekají na tajné zprávy. Možná jsou vzkazy schované někde po třídě.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Student's Desktop",
+      "cz": "Studentská lavice",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_071_2C_Snowman01Keyhole.locbin": [
+    {
+      "key": "Description",
+      "en": "This snowman is missing something...",
+      "cz": "Tomuhle sněhulákovi něco chybí...",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Incomplete Snowman",
+      "cz": "Nedokončený sněhulák",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_071_2C_Snowman02Keyhole.locbin": [
+    {
+      "key": "Description",
+      "en": "This snowman is missing something...",
+      "cz": "Tomuto sněhulákovi něco chybí...",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Incomplete Snowman",
+      "cz": "Nedokončený sněhulák",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_071_2C_Snowman03Keyhole.locbin": [
+    {
+      "key": "Description",
+      "en": "This snowman is missing something...",
+      "cz": "Tomuhle sněhulákovi něco chybí...",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Incomplete Snowman",
+      "cz": "Nedokončený sněhulák",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_080_GuardianExpKeyholeData.locbin": [
+    {
+      "key": "Description",
+      "en": "This Guardian will only awaken when you place the right three Keepsakes before her.",
+      "cz": "Tato Strážkyně procitne pouze tehdy, když před ni položíš ty správné tři upomínkové předměty.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Altar of Expression",
+      "cz": "Oltář vyjádření",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_081_3B_DoughKeyhole.locbin": [
+    {
+      "key": "Description",
+      "en": "We need Ingredients to make cookies.",
+      "cz": "Na výrobu sušenek budeme potřebovat suroviny.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Cookie Dough Bowl",
+      "cz": "Mísa s těstem na sušenky",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_081_3B_OvenKeyhole.locbin": [
+    {
+      "key": "Description",
+      "en": "The cookies are ready to be baked.",
+      "cz": "Sušenky jsou připravené k pečení.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Oven",
+      "cz": "Trouba",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_081_3C_CookieBoxAKeyhole.locbin": [
+    {
+      "key": "Description",
+      "en": "Place the right box of cookies here.",
+      "cz": "Sem polož tu správnou krabici sušenek.",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_081_3C_CookieBoxBKeyhole.locbin": [
+    {
+      "key": "Description",
+      "en": "Place the right box of cookies here.",
+      "cz": "Sem polož tu správnou krabici sušenek.",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_081_3C_CookieBoxCKeyhole.locbin": [
+    {
+      "key": "Description",
+      "en": "Place the right box of cookies here.",
+      "cz": "Sem polož tu správnou krabici sušenek.",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_081_CookieBoxAKeyhole.locbin": [
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Special Delivery!",
+      "cz": "Mimořádná zásilka!",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_081_CookieBoxBKeyhole.locbin": [
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Special Delivery!",
+      "cz": "Speciální zásilka!",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_081_CookieBoxCKeyhole.locbin": [
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Special Delivery!",
+      "cz": "Speciální zásilka!",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_101_PowerlineIKeyhole.locbin": [
+    {
+      "key": "Description",
+      "en": "An item that could complete the path is missing.",
+      "cz": "Chybí předmět, který by mohl tuto cestu zkompletovat.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Missing Connector",
+      "cz": "Chybějící spojka",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_101_PowerlineLKeyhole.locbin": [
+    {
+      "key": "Description",
+      "en": "An item that could complete the path is missing.",
+      "cz": "Chybí předmět, který by mohl tuto cestu zkompletovat.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Missing Connector",
+      "cz": "Chybějící spojka",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_120_BoldnessBottlesKeyhole.locbin": [
+    {
+      "key": "Description",
+      "en": "The Keepsakes that you found beneath the sea must belong here.",
+      "cz": "Tyto upomínky, které jsi našel pod mořskou hladinou, určitě patří sem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Altar of Boldness",
+      "cz": "Oltář odvahy",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_120_ThroneRoomDoor.locbin": [
+    {
+      "key": "Description",
+      "en": "The keys are missing. Maybe a certain pirate captain knows where they are.",
+      "cz": "Klíče chybí. Možná jistý pirátský kapitán ví, kde se nacházejí.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Throne Room Door",
+      "cz": "Dveře do trůnního sálu",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_125_ForgeKiln.locbin": [
+    {
+      "key": "Description",
+      "en": "A kiln for items to be turned into magical Keepsakes.",
+      "cz": "Pec určená k přeměně předmětů na kouzelné památky.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "The Keepsake Forge",
+      "cz": "Kovárna památek",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_130_AxolotlKeyhole01.locbin": [
+    {
+      "key": "Description",
+      "en": "Something seems to be missing here.",
+      "cz": "Vypadá to, že tu něco chybí.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Missing Statue",
+      "cz": "Chybějící socha",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_130_AxolotlKeyhole02.locbin": [
+    {
+      "key": "Description",
+      "en": "Something seems to be missing here.",
+      "cz": "Vypadá to, že tu něco chybí.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Missing Statue",
+      "cz": "Chybějící socha",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_130_AxolotlKeyhole03.locbin": [
+    {
+      "key": "Description",
+      "en": "Something seems to be missing here.",
+      "cz": "Zdá se, že tu něco chybí.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Missing Statue",
+      "cz": "Chybějící socha",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_130_GuardianBeleifKeyhole.locbin": [
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "The Final Altar",
+      "cz": "Poslední oltář",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_130_GuardianBeliefKeyhole.locbin": [
+    {
+      "key": "Description",
+      "en": "There's a Keepsake missing here.",
+      "cz": "Tady chybí nějaká památka.",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_131_1B_Plushes_Keyhole.locbin": [
+    {
+      "key": "Description",
+      "en": "Time to pass on your old plushies.",
+      "cz": "Je čas poslat tvé staré plyšáky dál.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Box for Plushies",
+      "cz": "Krabice na plyšáky",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_131_1B_Toys_Keyhole.locbin": [
+    {
+      "key": "Description",
+      "en": "Time to pass on your old toys.",
+      "cz": "Je čas poslat tvé staré hračky dál.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Box for Toys",
+      "cz": "Krabice na hračky",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_131_1B_Vhs_Keyhole.locbin": [
+    {
+      "key": "Description",
+      "en": "Time to pass on your old movies.",
+      "cz": "Je načase poslat tvé staré filmy dál.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Box for Movies",
+      "cz": "Krabice na filmy",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MRQS_E04_131_TVKeyhole.locbin": [
+    {
+      "key": "Description",
+      "en": "Waiting for a good movie.",
+      "cz": "Čeká na nějaký dobrý film.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "VCR",
+      "cz": "Videopřehrávač",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_MilosGate_blueprint.locbin": [
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Pirate Ship Archway",
+      "cz": "Brána pirátské lodi! Tedy, technicky vzato spíše monumentální námořní oblouk... naprosto fascinující konstrukce, nemyslíte?",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_TradingPostDockyard_blueprint.locbin": [
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Dockyard Trading Post",
+      "cz": "Přístavní obchodní stanice",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Expansion04_WaterfallFountainAqueduct_blueprint.locbin": [
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Regal Coral Aqueduct",
+      "cz": "Vznešený korálový akvadukt",
+      "source": "our_translation"
+    }
+  ],
   "ProtoDB/ExpansionData_Expansion01.locbin": [
     {
       "key": "Description",
       "en": "Expand your journey to Eternity Isle, where more adventures await, offering new story arcs, Characters, Biomes, and a whole wealth of surprises.",
       "cz": "Rozšiř svou cestu na Ostrov věčnosti, kde na tebe čekají další dobrodružství, nové příběhy, postavy, biomy a spousta překvapení.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Rozšiř svou cestu na Ostrov věčnosti, kde na tebe čekají další dobrodružství, nové příběhy, postavy, biomy a spousta překvapení."
     },
     {
       "key": "Description_000",
@@ -2115,10 +2924,17 @@
   ],
   "ProtoDB/ExpansionData_Expansion02.locbin": [
     {
+      "key": "AlternateVanitiesTitle_000",
+      "en": "The Storybook Vale — Magical Upgrade",
+      "cz": "Pohádkové údolí – Kouzelné vylepšení",
+      "source": "our_translation"
+    },
+    {
       "key": "Description",
       "en": "Travel to a new world and capture treasured tales to unveil beloved Disney and Pixar stories!",
       "cz": "Cestuj do nového sveta a zachyť vzácné příběhy, abys odhalil oblíbené pohádky od Disneyho a Pixaru!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Cestuj do nového sveta a zachyť vzácné příběhy, abys odhalil oblíbené pohádky od Disneyho a Pixaru!"
     },
     {
       "key": "Description_000",
@@ -2137,10 +2953,17 @@
   ],
   "ProtoDB/ExpansionData_Expansion03.locbin": [
     {
+      "key": "AlternateVanitiesTitle_000",
+      "en": "Wishblossom Ranch — Deluxe Upgrade",
+      "cz": "Ranč Květů přání – Deluxe vylepšení",
+      "source": "our_translation"
+    },
+    {
       "key": "Description",
       "en": "Rebuild the ranch of your dreams, forge bonds with your horses, and befriend new Villagers as you saddle up for a new Disney adventure!",
       "cz": "Znovu vybuduj ranč svých snů, vytvoř si pouto se svými koňmi a spřátel se s novými vesničany při sedlání na nové Disney dobrodružství!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Znovu vybuduj ranč svých snů, vytvoř si pouto se svými koňmi a spřátel se s novými vesničany při sedlání na nové Disney dobrodružství!"
     },
     {
       "key": "Description_000",
@@ -2157,18 +2980,46 @@
       "original_cz": "Přestavte si ranč svých snů, navažte pouta se svými koňmi a spřátelte se s novými vesničany, zatímco se vydáváte na nové Disney dobrodružství! Součástí je 5 000 měsíčních kamenů."
     }
   ],
+  "ProtoDB/ExpansionData_Expansion04.locbin": [
+    {
+      "key": "AlternateVanitiesTitle_000",
+      "en": "The Keepsake Sea — Deluxe Upgrade",
+      "cz": "Moře vzpomínek – Deluxe vylepšení",
+      "source": "our_translation"
+    },
+    {
+      "key": "Description",
+      "en": "Become a magical merfolk and plunge into the waters of the Keepsake Sea! Uncover what secrets lie beneath the waves and embark on a thrilling new ocean adventure.",
+      "cz": "Staň se kouzelnou mořskou bytostí a ponoř se do vod Moře vzpomínek! Odhal tajemství skrytá pod hladinou a vydej se na vzrušující nové oceánské dobrodružství.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Description_000",
+      "en": "This Deluxe Edition contains 10,000 Moonstones and exclusive digital items, including Flounder and Sebastian from Disney's The Little Mermaid as Adventure Companions! Become a magical merfolk and plunge into the waters of the Keepsake Sea!",
+      "cz": "Tato Deluxe edice obsahuje 10 000 měsíčních kamenů a exkluzivní digitální předměty, včetně Šupinky a Sebastiana z Disneyho Malé mořské víly jako tvých společníků na dobrodružství! Staň se kouzelnou mořskou bytostí a ponoř se do vln Moře vzpomínek!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Description_001",
+      "en": "Become a magical merfolk and plunge into the waters of the Keepsake Sea! Uncover what secrets lie beneath the waves and embark on a thrilling new ocean adventure. Includes 5,000 Moonstones.",
+      "cz": "Staň se kouzelnou mořskou bytostí a ponoř se do vod Moře vzpomínek! Odhal tajemství skrytá pod hladinou a vydej se na vzrušující nové oceánské dobrodružství. Obsahuje 5 000 měsíčních kamenů.",
+      "source": "our_translation"
+    }
+  ],
   "ProtoDB/ExpansionData_WinnieDLC.locbin": [
     {
       "key": "Description",
       "en": "Explore the Honeyglow Woods, and reconnect with Disney's Winnie the Pooh, Eeyore and Piglet in a brand-new Adventure Pack!",
       "cz": "Prozkoumej Medový les a znovu se setkej s Disneyho Medvídkem Pú, Íjáčkem a Prasátkem v zbrusu novém balíčku dobrodružství!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Prozkoumej Medový les a znovu se setkej s Disneyho Medvídkem Pú, Íjáčkem a Prasátkem v zbrusu novém balíčku dobrodružství!"
     },
     {
       "key": "Description_000",
       "en": "Explore the Honeyglow Woods, and reconnect with Disney's Winnie the Pooh, Eeyore and Piglet in a brand-new Adventure Pack! Includes 2,000 Moonstones.",
       "cz": "Prozkoumej Medový les a znovu se setkej s Disneyho Medvídkem Pú, Íjáčkem a Prasátkem v zbrusu novém balíčku dobrodružství! Obsahuje 2 000 měsíčních kamenů.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Prozkoumej Medový les a znovu se setkej s Disneyho Medvídkem Pú, Íjáčkem a Prasátkem v zbrusu novém balíčku dobrodružství! Obsahuje 2 000 měsíčních kamenů."
     }
   ],
   "ProtoDB/GrandExhibition_Beach_Aquarium.locbin": [
@@ -2285,7 +3136,8 @@
       "key": "Description",
       "en": "Place one of each Frosted Heights marine animal here: Bass, Salmon, Tilapia, White Sturgeon, and Crab.",
       "cz": "Umístěte sem po jednom z každého mořského živočicha z Mrazivých výšin: Okoun, Losos, Tilapie, Bílý jeseter a Krab.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Umístěte sem po jednom z každého mořského živočicha z Mrazivých výšin: Okoun, Losos, Tilapie, Bílý jeseter a Krab."
     }
   ],
   "ProtoDB/GrandExhibition_Cliff_Companions.locbin": [
@@ -2293,7 +3145,8 @@
       "key": "Description",
       "en": "There's room for all the critters from the Frosted Heights here: White Fox, Classic Fox, Black Fox, Blue Fox, and Red Fox.",
       "cz": "Je tu místo pro všechny tvory z Mrazivých výšin: Bílá liška, Klasická liška, Černá liška, Modrá liška a Červená liška.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Je tu místo pro všechny tvory z Mrazivých výšin: Bílá liška, Klasická liška, Černá liška, Modrá liška a Červená liška."
     }
   ],
   "ProtoDB/GrandExhibition_Cliff_Flowers.locbin": [
@@ -2301,7 +3154,8 @@
       "key": "Description",
       "en": "Place Frosted Heights flowers here: White Passion Lily, Blue Passion Lily, Black Passion Lily, Red Passion Lily, and Green Passion Lily.",
       "cz": "Umístěte sem květiny z Mrazivých výšin: Bílá mučenka, Modrá mučenka, Černá mučenka, Červená mučenka a Zelená mučenka.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Umístěte sem květiny z Mrazivých výšin: Bílá mučenka, Modrá mučenka, Černá mučenka, Červená mučenka a Zelená mučenka."
     }
   ],
   "ProtoDB/GrandExhibition_Cliff_Food.locbin": [
@@ -2309,7 +3163,8 @@
       "key": "Description",
       "en": "Place Frosted Heights crops and foraging finds here: Asparagus, Cherry, Cucumber, Eggplant, Gooseberry, and Mint.",
       "cz": "Umístěte sem plodiny a sběrové nálezy z Mrazivých výšin: Chřest, Třešeň, Okurka, Lilek, Angrešt a Máta.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Umístěte sem plodiny a sběrové nálezy z Mrazivých výšin: Chřest, Třešeň, Okurka, Lilek, Angrešt a Máta."
     }
   ],
   "ProtoDB/GrandExhibition_Cliff_Gems.locbin": [
@@ -2317,7 +3172,8 @@
       "key": "Description",
       "en": "Place Frosted Heights gems here: Shiny Amethyst, Onyx, Shiny Tourmaline, Amethyst, and Tourmaline.",
       "cz": "Umístěte sem drahokamy z Mrazivých výšin: Lesklý ametyst, Onyx, Lesklý turmalín, Ametyst a Turmalín.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Umístěte sem drahokamy z Mrazivých výšin: Lesklý ametyst, Onyx, Lesklý turmalín, Ametyst a Turmalín."
     }
   ],
   "ProtoDB/GrandExhibition_Cliff_StoryBeats01.locbin": [
@@ -2325,13 +3181,15 @@
       "key": "Description",
       "en": "Provide materials needed to finish this section of the Diorama: Snow, Dry Wood, White Passion Lily, Red Passion Lily, and Purified Night Shards.",
       "cz": "Dodejte materiály potřebné k dokončení této části Diorámy: Sníh, Suché dřevo, Bílá mučenka, Červená mučenka a Očištěné noční střepy.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Dodejte materiály potřebné k dokončení této části Diorámy: Sníh, Suché dřevo, Bílá mučenka, Červená mučenka a Očištěné noční střepy."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "The Snowman's Nose",
       "cz": "Sněhulákův nos",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Sněhulákův nos"
     }
   ],
   "ProtoDB/GrandExhibition_Cliff_StoryBeats02.locbin": [
@@ -2339,13 +3197,15 @@
       "key": "Description",
       "en": "Provide materials needed to finish this section of the Diorama: Stone, Amethyst, and Tourmaline.",
       "cz": "Dodejte materiály potřebné k dokončení této části Diorámy: Kámen, Ametyst a Turmalín.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Dodejte materiály potřebné k dokončení této části Diorámy: Kámen, Ametyst a Turmalín."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "A Pillar of the Community",
       "cz": "Pilíř společnosti",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Pilíř společnosti"
     }
   ],
   "ProtoDB/GrandExhibition_Cliff_StoryBeats03.locbin": [
@@ -2353,13 +3213,15 @@
       "key": "Description",
       "en": "Provide materials needed to finish this section of the Diorama: Snow, Iron Ore, Blue Passion Lily, and Dream Shards.",
       "cz": "Dodejte materiály potřebné k dokončení této části Diorámy: Sníh, Železná ruda, Modrá mučenka a Střepy snů.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Dodejte materiály potřebné k dokončení této části Diorámy: Sníh, Železná ruda, Modrá mučenka a Střepy snů."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Just Chilling",
       "cz": "Jen tak chladím",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Jen tak chladím"
     }
   ],
   "ProtoDB/GrandExhibition_Cliff_StoryBeats04.locbin": [
@@ -2367,13 +3229,15 @@
       "key": "Description",
       "en": "Provide materials needed to finish this section of the Diorama: Hardwood, Soil, Green Passion Lily, and Night Shards.",
       "cz": "Dodejte materiály potřebné k dokončení této části Diorámy: Tvrdé dřevo, Půda, Zelená mučenka a Noční střepy.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Dodejte materiály potřebné k dokončení této části Diorámy: Tvrdé dřevo, Půda, Zelená mučenka a Noční střepy."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Chasing the Carrot",
       "cz": "Honba za mrkví",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Honba za mrkví"
     }
   ],
   "ProtoDB/GrandExhibition_DarkMountains_Aquarium.locbin": [
@@ -2381,7 +3245,8 @@
       "key": "Description",
       "en": "Place one of each Forgotten Lands marine animal here: Sole, Cod, Lancetfish, Tuna, Anglerfish, and Squid.",
       "cz": "Umísti sem po jednom mořském živočichovi ze Zapomenutých zemí: jazyk, treska, lancetnice, tuňák, ďas a oliheň.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Umísti sem po jednom mořském živočichovi ze Zapomenutých zemí: jazyk, treska, lancetnice, tuňák, ďas a oliheň."
     }
   ],
   "ProtoDB/GrandExhibition_DarkMountains_Companions.locbin": [
@@ -2389,7 +3254,8 @@
       "key": "Description",
       "en": "There's room for all the critters from the Forgotten Lands here: Classic Raven, Blue Raven, Brown Raven, Red Raven, and White Raven.",
       "cz": "Je tu místo pro všechna zvířátka ze Zapomenutých zemí: klasický havran, modrý havran, hnědý havran, červený havran a bílý havran.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Je tu místo pro všechna zvířátka ze Zapomenutých zemí: klasický havran, modrý havran, hnědý havran, červený havran a bílý havran."
     }
   ],
   "ProtoDB/GrandExhibition_DarkMountains_Flowers.locbin": [
@@ -2397,7 +3263,8 @@
       "key": "Description",
       "en": "Place Forgotten Lands flowers here: Yellow Nasturtium, Orange Nasturtium, Red Nasturtium, Purple Impatiens, and White Impatiens.",
       "cz": "Umísti sem květiny ze Zapomenutých zemí: žlutá lichořeřišnice, oranžová lichořeřišnice, červená lichořeřišnice, fialová netýkavka a bílá netýkavka.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Umísti sem květiny ze Zapomenutých zemí: žlutá lichořeřišnice, oranžová lichořeřišnice, červená lichořeřišnice, fialová netýkavka a bílá netýkavka."
     }
   ],
   "ProtoDB/GrandExhibition_DarkMountains_Food.locbin": [
@@ -2405,7 +3272,8 @@
       "key": "Description",
       "en": "Place Forgotten Lands crops and foraging finds here: Gooseberry, Leek, Potato, Pumpkin, Apple, and Ginger.",
       "cz": "Umísti sem plodiny a sběratelské nálezy ze Zapomenutých zemí: angrešt, pórek, brambora, dýně, jablko a zázvor.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Umísti sem plodiny a sběratelské nálezy ze Zapomenutých zemí: angrešt, pórek, brambora, dýně, jablko a zázvor."
     }
   ],
   "ProtoDB/GrandExhibition_DarkMountains_Gems.locbin": [
@@ -2413,7 +3281,8 @@
       "key": "Description",
       "en": "Place Forgotten Lands gems here: Amethyst, Shiny Amethyst, Diamond, Shiny Diamond, and Onyx.",
       "cz": "Umísti sem drahokamy ze Zapomenutých zemí: ametyst, lesklý ametyst, diamant, lesklý diamant a onyx.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Umísti sem drahokamy ze Zapomenutých zemí: ametyst, lesklý ametyst, diamant, lesklý diamant a onyx."
     }
   ],
   "ProtoDB/GrandExhibition_DarkMountains_StoryBeats01.locbin": [
@@ -2421,13 +3290,15 @@
       "key": "Description",
       "en": "Provide materials needed to finish this section of the Diorama: Dark Wood, Crystal, Purple Impatiens, and Night Shards.",
       "cz": "Poskytni materiály potřebné k dokončení této části diorámatu: tmavé dřevo, krystal, fialové netýkavky a noční střepy.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Poskytni materiály potřebné k dokončení této části diorámatu: tmavé dřevo, krystal, fialové netýkavky a noční střepy."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "What's This?",
       "cz": "Co je to?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Co je to?"
     }
   ],
   "ProtoDB/GrandExhibition_DarkMountains_StoryBeats02.locbin": [
@@ -2435,13 +3306,15 @@
       "key": "Description",
       "en": "Provide materials needed to finish this section of the Diorama: Dark Wood, Gold Nuggets, Yellow Nasturtiums, and Dream Shards.",
       "cz": "Poskytni materiály potřebné k dokončení této části diorámatu: tmavé dřevo, zlaté nugety, žluté lichořeřišnice a střepy snů.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Poskytni materiály potřebné k dokončení této části diorámatu: tmavé dřevo, zlaté nugety, žluté lichořeřišnice a střepy snů."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "The Dark Tree House",
       "cz": "Temný dům na stromě",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Temný dům na stromě"
     }
   ],
   "ProtoDB/GrandExhibition_DarkMountains_StoryBeats03.locbin": [
@@ -2449,13 +3322,15 @@
       "key": "Description",
       "en": "Provide materials needed to finish this section of the Diorama: Pebbles, Amethyst, and Diamond.",
       "cz": "Poskytni materiály potřebné k dokončení této části diorámatu: oblázky, ametyst a diamant.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Poskytni materiály potřebné k dokončení této části diorámatu: oblázky, ametyst a diamant."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Furious Flames",
       "cz": "Zuřivé plameny",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Zuřivé plameny"
     }
   ],
   "ProtoDB/GrandExhibition_DarkMountains_StoryBeats04.locbin": [
@@ -2463,13 +3338,15 @@
       "key": "Description",
       "en": "Provide materials needed to finish this section of the Diorama: Pumpkins, Ginger, Soil, Orange Nasturtiums, and Purified Night Shards.",
       "cz": "Poskytni materiály potřebné k dokončení této části diorámatu: dýně, zázvor, hlína, oranžové lichořeřišnice a pročištěné noční střepy.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Poskytni materiály potřebné k dokončení této části diorámatu: dýně, zázvor, hlína, oranžové lichořeřišnice a pročištěné noční střepy."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Tending the Pumpkins",
       "cz": "Péče o dýně",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Péče o dýně"
     }
   ],
   "ProtoDB/GrandExhibition_Forest_Aquarium.locbin": [
@@ -2703,7 +3580,8 @@
       "key": "Description",
       "en": "Place one of each Sunlit Plateau fish here: Bass, Salmon, Tilapia, Carp, Perch, and Walleye.",
       "cz": "Umístěte sem po jednom z každé ryby ze Sluncem zalité planiny: Okoun, Losos, Tilapie, Kapr, Okounek a Candát.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Umístěte sem po jednom z každé ryby ze Sluncem zalité planiny: Okoun, Losos, Tilapie, Kapr, Okounek a Candát."
     }
   ],
   "ProtoDB/GrandExhibition_Savannah_Companions.locbin": [
@@ -2711,7 +3589,8 @@
       "key": "Description",
       "en": "There's room for all the critters from the Sunlit Plateau here: Red Sunbird, Turquoise Sunbird, Emerald Sunbird, Golden Sunbird, and Orchid Sunbird.",
       "cz": "Je tu místo pro všechny tvory ze Sluncem zalité planiny: Červený kolibřík, Tyrkysový kolibřík, Smaragdový kolibřík, Zlatý kolibřík a Orchidejový kolibřík.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Je tu místo pro všechny tvory ze Sluncem zalité planiny: Červený kolibřík, Tyrkysový kolibřík, Smaragdový kolibřík, Zlatý kolibřík a Orchidejový kolibřík."
     }
   ],
   "ProtoDB/GrandExhibition_Savannah_Flowers.locbin": [
@@ -2719,7 +3598,8 @@
       "key": "Description",
       "en": "Place Sunlit Plateau flowers here: Pink Bromeliad, Red Bromeliad, Yellow Bromeliad, Orange Houseleek, and Pink Houseleek.",
       "cz": "Umístěte sem květiny ze Sluncem zalité planiny: Růžová bromélie, Červená bromélie, Žlutá bromélie, Oranžový netřesk a Růžový netřesk.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Umístěte sem květiny ze Sluncem zalité planiny: Růžová bromélie, Červená bromélie, Žlutá bromélie, Oranžový netřesk a Růžový netřesk."
     }
   ],
   "ProtoDB/GrandExhibition_Savannah_Food.locbin": [
@@ -2727,7 +3607,8 @@
       "key": "Description",
       "en": "Place Sunlit Plateau crops and foraging finds here: Chili Pepper, Cocoa Bean, Soya, Zucchini, Cherry, and Vanilla.",
       "cz": "Umístěte sem plodiny a sběrové nálezy ze Sluncem zalité planiny: Chilli, Kakaový bob, Sója, Cuketa, Třešeň a Vanilka.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Umístěte sem plodiny a sběrové nálezy ze Sluncem zalité planiny: Chilli, Kakaový bob, Sója, Cuketa, Třešeň a Vanilka."
     }
   ],
   "ProtoDB/GrandExhibition_Savannah_Gems.locbin": [
@@ -2735,7 +3616,8 @@
       "key": "Description",
       "en": "Place Sunlit Plateau gems here: Shiny Citrine, Onyx, Shiny Tourmaline, Citrine, and Tourmaline.",
       "cz": "Umístěte sem drahokamy ze Sluncem zalité planiny: Lesklý citrín, Onyx, Lesklý turmalín, Citrín a Turmalín.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Umístěte sem drahokamy ze Sluncem zalité planiny: Lesklý citrín, Onyx, Lesklý turmalín, Citrín a Turmalín."
     }
   ],
   "ProtoDB/GrandExhibition_Savannah_StoryBeats01.locbin": [
@@ -2743,13 +3625,15 @@
       "key": "Description",
       "en": "Provide materials needed to finish this section of the Diorama: Hardwood, Dreamlight Fruit, Orange Houseleeks, and Dream Shards.",
       "cz": "Dodejte materiály potřebné k dokončení této části Diorámy: Tvrdé dřevo, Ovoce snového světla, Oranžové netřesky a Střepy snů.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Dodejte materiály potřebné k dokončení této části Diorámy: Tvrdé dřevo, Ovoce snového světla, Oranžové netřesky a Střepy snů."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Root Causes",
       "cz": "Kořenové příčiny",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Kořenové příčiny"
     }
   ],
   "ProtoDB/GrandExhibition_Savannah_StoryBeats02.locbin": [
@@ -2757,13 +3641,15 @@
       "key": "Description",
       "en": "Provide materials needed to finish this section of the Diorama: Vitalys Crystals, Iron Ore, Gold Nuggets, Sapphires, and Rubies.",
       "cz": "Dodejte materiály potřebné k dokončení této části Diorámy: Krystaly Vitalys, Železná ruda, Zlaté nugety, Safíry a Rubíny.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Dodejte materiály potřebné k dokončení této části Diorámy: Krystaly Vitalys, Železná ruda, Zlaté nugety, Safíry a Rubíny."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Be Mine?",
       "cz": "Budeš můj?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Budeš můj?"
     }
   ],
   "ProtoDB/GrandExhibition_Savannah_StoryBeats03.locbin": [
@@ -2771,13 +3657,15 @@
       "key": "Description",
       "en": "Provide materials needed to finish this section of the Diorama: Vitalys Crystals, Citrines, and Tourmalines.",
       "cz": "Dodejte materiály potřebné k dokončení této části Diorámy: Krystaly Vitalys, Citríny a Turmalíny.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Dodejte materiály potřebné k dokončení této části Diorámy: Krystaly Vitalys, Citríny a Turmalíny."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Crystal Clear",
       "cz": "Křišťálově jasné",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Křišťálově jasné"
     }
   ],
   "ProtoDB/GrandExhibition_Savannah_StoryBeats04.locbin": [
@@ -2785,13 +3673,15 @@
       "key": "Description",
       "en": "Provide materials needed to finish this section of the Diorama: Dry Wood, Hardwood, Pink Bromeliad, Pink Houseleek, and Purified Night Shards.",
       "cz": "Dodejte materiály potřebné k dokončení této části Diorámy: Suché dřevo, Tvrdé dřevo, Růžová bromélie, Růžový netřesk a Očištěné noční střepy.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Dodejte materiály potřebné k dokončení této části Diorámy: Suché dřevo, Tvrdé dřevo, Růžová bromélie, Růžový netřesk a Očištěné noční střepy."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "The Lion's Share",
       "cz": "Lví podíl",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Lví podíl"
     }
   ],
   "ProtoDB/GrandExhibition_Urban_Companions.locbin": [
@@ -2799,7 +3689,8 @@
       "key": "Description",
       "en": "There's room for all the critters from the Plaza here: Classic Squirrel, Black Squirrel, Gray Squirrel, Red Squirrel, and White Squirrel.",
       "cz": "Je tu místo pro všechny zvířecí společníky z Náměstí: klasická veverka, černá veverka, šedá veverka, zrzavá veverka a bílá veverka.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Je tu místo pro všechny zvířecí společníky z Náměstí: klasická veverka, černá veverka, šedá veverka, zrzavá veverka a bílá veverka."
     }
   ],
   "ProtoDB/GrandExhibition_Urban_FirstStoryBeats01.locbin": [
@@ -2807,13 +3698,15 @@
       "key": "Description",
       "en": "Provide materials needed to finish this section of the Diorama: Stone, Garnet, and Purified Night Shards.",
       "cz": "Poskytni materiály potřebné k dokončení této části diorámatu: kámen, granát a pročištěné noční střepy.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Poskytni materiály potřebné k dokončení této části diorámatu: kámen, granát a pročištěné noční střepy."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "A Duck and His Dream",
       "cz": "Kačer a jeho sen",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Kačer a jeho sen"
     }
   ],
   "ProtoDB/GrandExhibition_Urban_FirstStoryBeats02.locbin": [
@@ -2821,13 +3714,15 @@
       "key": "Description",
       "en": "Provide materials needed to finish this section of the Diorama: Stone, Coal, and White & Pink Falling Penstemons.",
       "cz": "Poskytni materiály potřebné k dokončení této části diorámatu: kámen, uhlí a bílo-růžové převislé penstemony.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Poskytni materiály potřebné k dokončení této části diorámatu: kámen, uhlí a bílo-růžové převislé penstemony."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "The Royal Pickaxe",
       "cz": "Královský krumpáč",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Královský krumpáč"
     }
   ],
   "ProtoDB/GrandExhibition_Urban_FirstStoryBeats03.locbin": [
@@ -2835,13 +3730,15 @@
       "key": "Description",
       "en": "Provide materials needed to finish this section of the Diorama: Apples, Topaz, and Purified Night Shards.",
       "cz": "Poskytni materiály potřebné k dokončení této části diorámatu: jablka, topaz a pročištěné noční střepy.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Poskytni materiály potřebné k dokončení této části diorámatu: jablka, topaz a pročištěné noční střepy."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "A Familiar Friend",
       "cz": "Starý přítel",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Starý přítel"
     }
   ],
   "ProtoDB/GrandExhibition_Urban_Flowers.locbin": [
@@ -2849,7 +3746,8 @@
       "key": "Description",
       "en": "Place Plaza flowers here: Blue Falling Penstemon, Purple Falling Penstemon, White & Pink Falling Penstemon, Red Falling Penstemon, and Dandelion.",
       "cz": "Umísti sem květiny z Náměstí: modrý převislý penstemon, fialový převislý penstemon, bílo-růžový převislý penstemon, červený převislý penstemon a pampeliška.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Umísti sem květiny z Náměstí: modrý převislý penstemon, fialový převislý penstemon, bílo-růžový převislý penstemon, červený převislý penstemon a pampeliška."
     }
   ],
   "ProtoDB/GrandExhibition_Urban_Food.locbin": [
@@ -2857,7 +3755,8 @@
       "key": "Description",
       "en": "Place Plaza crops and foraging finds here: Apple, Raspberry, and Oregano.",
       "cz": "Umísti sem plodiny a sběratelské nálezy z Náměstí: jablko, malina a oregano.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Umísti sem plodiny a sběratelské nálezy z Náměstí: jablko, malina a oregano."
     }
   ],
   "ProtoDB/GrandExhibition_Urban_Gems.locbin": [
@@ -2865,7 +3764,8 @@
       "key": "Description",
       "en": "Place Plaza gems here: Shiny Garnet, Garnet, Shiny Topaz, Topaz, and Onyx.",
       "cz": "Umísti sem drahokamy z Náměstí: lesklý granát, granát, lesklý topaz, topaz a onyx.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Umísti sem drahokamy z Náměstí: lesklý granát, granát, lesklý topaz, topaz a onyx."
     }
   ],
   "ProtoDB/GrandExhibition_Urban_SecondStoryBeats01.locbin": [
@@ -2873,13 +3773,15 @@
       "key": "Description",
       "en": "Provide materials needed to finish this section of the Diorama: Coal, Onyx, and Night Shards.",
       "cz": "Poskytni materiály potřebné k dokončení této části diorámatu: uhlí, onyx a noční střepy.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Poskytni materiály potřebné k dokončení této části diorámatu: uhlí, onyx a noční střepy."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Forgotten but Not Gone",
       "cz": "Zapomenuté, ale ne ztracené",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Zapomenuté, ale ne ztracené"
     }
   ],
   "ProtoDB/GrandExhibition_Urban_SecondStoryBeats02.locbin": [
@@ -2887,13 +3789,15 @@
       "key": "Description",
       "en": "Provide materials needed to finish this section of the Diorama: Stone, Purple Falling Penstemons, and Dandelions.",
       "cz": "Poskytni materiály potřebné k dokončení této části diorámatu: kámen, fialové převislé penstemony a pampelišky.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Poskytni materiály potřebné k dokončení této části diorámatu: kámen, fialové převislé penstemony a pampelišky."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "A Door to Discovery",
       "cz": "Dveře k objevům",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Dveře k objevům"
     }
   ],
   "ProtoDB/GrandExhibition_Urban_SecondStoryBeats03.locbin": [
@@ -2901,13 +3805,15 @@
       "key": "Description",
       "en": "Provide materials needed to finish this section of the Diorama: Oregano, Softwood, and Purified Night Shards.",
       "cz": "Poskytni materiály potřebné k dokončení této části diorámatu: oregano, měkké dřevo a pročištěné noční střepy.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Poskytni materiály potřebné k dokončení této části diorámatu: oregano, měkké dřevo a pročištěné noční střepy."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "A Magical Mentor",
       "cz": "Kouzelný rádce",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Kouzelný rádce"
     }
   ],
   "ProtoDB/GrandExhibition_Wetland_Aquarium.locbin": [
@@ -3017,6 +3923,30 @@
       "cz": "Self Abs-ORB-ed",
       "source": "pre_existing",
       "original_cz": "Self Abs-ORB-ed"
+    }
+  ],
+  "ProtoDB/Hook_VLG_Hook_020_KholetableTrial.locbin": [
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Training Equipment Table",
+      "cz": "Stůl s náčiním pro nácvik šermířského umění",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Hook_VLG_Hook_030_KholeChestRelic.locbin": [
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Treasure Chest",
+      "cz": "Truhlice s drahocenným lupem",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Hook_VLG_Hook_030_KholeSkullKey.locbin": [
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Candy Skull Key Pillar",
+      "cz": "Pilíř pro klíč oné cukrové lebky",
+      "source": "our_translation"
     }
   ],
   "ProtoDB/IapData_Global.locbin": [
@@ -3289,6 +4219,34 @@
       "original_cz": "{Placeholder}Nový soused"
     }
   ],
+  "ProtoDB/Megara_VLG_Mega_010_StatueKeyhole.locbin": [
+    {
+      "key": "Description",
+      "en": "This broken-down thing looks like it could use a hand... or two.",
+      "cz": "Tahle zchátralá věc vypadá, že by potřebovala pomocnou ruku... nebo radši dvě. Ale nepočítej s tím, že si kvůli ní ušpiním nehty.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Broken Statue",
+      "cz": "Rozbitá socha",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Megara_VLG_Mega_030_CauldronMegaraKeyhole.locbin": [
+    {
+      "key": "Description",
+      "en": "Perfect for destroying all sorts of Unbreakable Legal Documents(tm).",
+      "cz": "Naprosto ideální pro likvidaci všech těch „nerozbitných“ právních dokumentů(tm). Věř mi, trocha žáru vyřeší i ty nejmenší háčky v písmu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Contract Cauldron",
+      "cz": "Kotlík na smlouvy",
+      "source": "our_translation"
+    }
+  ],
   "ProtoDB/MessageConfigs_Global.locbin": [
     {
       "key": "Title_FreeActivation",
@@ -3342,12 +4300,41 @@
       "original_cz": "Nápadná knihovna"
     }
   ],
+  "ProtoDB/Milo_VLG_Milo_020_DeskArtefacts.locbin": [
+    {
+      "key": "Description",
+      "en": "Curiosities and artifacts go here.",
+      "cz": "Tady, {{PlayerName}}, sem patří všechny ty... no, ty úžasné kuriozity a artefakty! Každý úlomek, každý <smallcaps>předmět</smallcaps> má svůj příběh. Jen to nesmíme pomíchat s mými poznámkami o <Lore>Atlantidě</Lore>!",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Cartographer's Desk",
+      "cz": "Kartografův pracovní stůl",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Milo_VLG_Milo_020_KeyBlue.locbin": [
+    {
+      "key": "Description",
+      "en": "Use the three Unfathomable Keys here to reveal a secret cache.",
+      "cz": "Když sem vložíte ty tři <smallcaps>Nepochopitelné klíče</smallcaps> – mimochodem, ta lingvistická symbolika na nich je naprosto fascinující! – mělo by se nám podařit odhalit tajnou skrýš. <i>Jen doufám, že tam nejsou žádné mechanické pasti... nebo obří korýši.</i>",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Secret Pirate Cache",
+      "cz": "Tajná pirátská skrýš",
+      "source": "our_translation"
+    }
+  ],
   "ProtoDB/Mini01_HoneyglowWoodChest01.locbin": [
     {
       "key": "Description",
       "en": "The chest is stuck. Use a stick to reach it.",
       "cz": "Truhla je zaseknutá. Použij klacek, abys na ni dosáhl.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Truhla je zaseknutá. Použij klacek, abys na ni dosáhl."
     }
   ],
   "ProtoDB/Mini01_HoneyglowWoodChest02.locbin": [
@@ -3355,7 +4342,8 @@
       "key": "Description",
       "en": "The chest is stuck. Use a stick to reach it.",
       "cz": "Truhla je zaseknutá. Použij klacek, abys na ni dosáhl.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Truhla je zaseknutá. Použij klacek, abys na ni dosáhl."
     }
   ],
   "ProtoDB/Mini01_HoneyglowWoodChest03.locbin": [
@@ -3363,7 +4351,8 @@
       "key": "Description",
       "en": "The chest is stuck. Use a stick to reach it.",
       "cz": "Truhla je zaseknutá. Použij klacek, abys na ni dosáhl.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Truhla je zaseknutá. Použij klacek, abys na ni dosáhl."
     }
   ],
   "ProtoDB/Mini01_HoneyglowWoodChest04.locbin": [
@@ -3371,7 +4360,8 @@
       "key": "Description",
       "en": "The chest is stuck. Use a stick to reach it.",
       "cz": "Truhla je zaseknutá. Použij klacek, abys na ni dosáhl.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Truhla je zaseknutá. Použij klacek, abys na ni dosáhl."
     }
   ],
   "ProtoDB/Mini01_HoneyglowWoodChest05.locbin": [
@@ -3379,7 +4369,8 @@
       "key": "Description",
       "en": "The chest is stuck. Use a stick to reach it.",
       "cz": "Truhla je zaseknutá. Použij klacek, abys na ni dosáhl.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Truhla je zaseknutá. Použij klacek, abys na ni dosáhl."
     }
   ],
   "ProtoDB/Mini01_MRQS_M01_022_RestaurantSprout_Blueprint.locbin": [
@@ -3387,7 +4378,8 @@
       "key": "MenuTitleLocIDOverride",
       "en": "Chez Remy Tree",
       "cz": "Strom u Chez Remy",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Strom u Chez Remy"
     }
   ],
   "ProtoDB/Mini01_MRQS_M01_032_ScroogeStoreSprout_Blueprint.locbin": [
@@ -3395,7 +4387,8 @@
       "key": "MenuTitleLocIDOverride",
       "en": "Scrooge's Store Tree",
       "cz": "Strom u Skrblíkova obchodu",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Strom u Skrblíkova obchodu"
     }
   ],
   "ProtoDB/Mini01_MRQS_M01_040_DrawingCanvasKeyhole.locbin": [
@@ -3403,7 +4396,8 @@
       "key": "MenuTitleLocIDOverride",
       "en": "Art-full Place",
       "cz": "Umělecké místo",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Umělecké místo"
     }
   ],
   "ProtoDB/Mini01_MRQS_M01_090_BrokenDialKeyholeData.locbin": [
@@ -3411,7 +4405,8 @@
       "key": "MenuTitleLocIDOverride",
       "en": "Broken Puzzle Tile Hole",
       "cz": "Otvor pro chybějící dílek skládačky",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Otvor pro chybějící dílek skládačky"
     }
   ],
   "ProtoDB/Mini01_MRQS_M01_090_DungeonEntranceKeyhole.locbin": [
@@ -3419,7 +4414,8 @@
       "key": "MenuTitleLocIDOverride",
       "en": "Art-full Place",
       "cz": "Umělecké místo",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Umělecké místo"
     }
   ],
   "ProtoDB/Mini01_MRQS_M01_090_RepairedPotKeyhole.locbin": [
@@ -3427,7 +4423,8 @@
       "key": "MenuTitleLocIDOverride",
       "en": "Sun-Glow Honeypot Place",
       "cz": "Místo pro zářící hrnec medu",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Místo pro zářící hrnec medu"
     }
   ],
   "ProtoDB/Mini01_MRQS_M01_120_TreeBarkCanvas.locbin": [
@@ -3435,7 +4432,8 @@
       "key": "MenuTitleLocIDOverride",
       "en": "Art-full Place",
       "cz": "Umělecké místo",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Umělecké místo"
     }
   ],
   "ProtoDB/Mini01_MRQS_M01_130_AlcoveKeyhole.locbin": [
@@ -3443,7 +4441,8 @@
       "key": "MenuTitleLocIDOverride",
       "en": "Sun-Glow Honeypot Alcove",
       "cz": "Výklenek pro zářící hrnec medu",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Výklenek pro zářící hrnec medu"
     }
   ],
   "ProtoDB/Mini01_MRQS_M01_130_BlueHoneypotKeyhole.locbin": [
@@ -3451,7 +4450,8 @@
       "key": "MenuTitleLocIDOverride",
       "en": "Blue Honeypot Spot",
       "cz": "Místo pro modrý hrnec s medem",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Místo pro modrý hrnec s medem"
     }
   ],
   "ProtoDB/Mini01_MRQS_M01_130_BrownHoneypotKeyhole.locbin": [
@@ -3459,7 +4459,8 @@
       "key": "MenuTitleLocIDOverride",
       "en": "Brown Honeypot Spot",
       "cz": "Místo pro hnědý hrnec s medem",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Místo pro hnědý hrnec s medem"
     }
   ],
   "ProtoDB/Mini01_MRQS_M01_130_PinkHoneypotKeyhole.locbin": [
@@ -3467,7 +4468,8 @@
       "key": "MenuTitleLocIDOverride",
       "en": "Pink Honeypot Spot",
       "cz": "Místo pro růžový hrnec s medem",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Místo pro růžový hrnec s medem"
     }
   ],
   "ProtoDB/Mini01_MRQS_M01_130_YellowHoneypotKeyhole.locbin": [
@@ -3475,7 +4477,8 @@
       "key": "MenuTitleLocIDOverride",
       "en": "Yellow Honeypot Spot",
       "cz": "Místo pro žlutý hrnec s medem",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Místo pro žlutý hrnec s medem"
     }
   ],
   "ProtoDB/Mini01_MRQS_M01_160_TreeBarkFrame.locbin": [
@@ -3483,7 +4486,8 @@
       "key": "MenuTitleLocIDOverride",
       "en": "Art-full Place",
       "cz": "Umělecké místo",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Umělecké místo"
     }
   ],
   "ProtoDB/Mini01_MRQS_M01_170_PillarOfCuriosityKeyhole.locbin": [
@@ -3491,7 +4495,8 @@
       "key": "MenuTitleLocIDOverride",
       "en": "Mysterious Pillar",
       "cz": "Záhadný pilíř",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Záhadný pilíř"
     }
   ],
   "ProtoDB/Mini01_MRQS_M01_Dungeon01_050_HoneyKeyholeData.locbin": [
@@ -3499,7 +4504,8 @@
       "key": "MenuTitleLocIDOverride",
       "en": "Sun-Glow Honeypot Place",
       "cz": "Místo pro zářící hrnec medu",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Místo pro zářící hrnec medu"
     }
   ],
   "ProtoDB/Mini01_SB2BeeBox_Blueprint.locbin": [
@@ -3507,13 +4513,15 @@
       "key": "Description",
       "en": "Add materials to complete the Busy Bees' House.",
       "cz": "Přidej materiály k dokončení domku pro pilné včely.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Přidej materiály k dokončení domku pro pilné včely."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "The Busy Bees' House",
       "cz": "Domek pro pilné včely",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Domek pro pilné včely"
     }
   ],
   "ProtoDB/Mini01_SB3BeeBox_Blueprint.locbin": [
@@ -3521,13 +4529,15 @@
       "key": "Description",
       "en": "Add materials to complete the Busy Bees' House.",
       "cz": "Přidej materiály k dokončení domku pro pilné včely.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Přidej materiály k dokončení domku pro pilné včely."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "The Busy Bees' House",
       "cz": "Domek pro pilné včely",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Domek pro pilné včely"
     }
   ],
   "ProtoDB/Mini01_ShortcutBridgeUpgradeBlueprint.locbin": [
@@ -3535,13 +4545,15 @@
       "key": "Description",
       "en": "Add missing materials to repair the Shortcut Bridge.",
       "cz": "Přidej chybějící materiály k opravě zkratkového mostu.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Přidej chybějící materiály k opravě zkratkového mostu."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Shortcut Bridge",
       "cz": "Zkratkový most",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Zkratkový most"
     }
   ],
   "ProtoDB/Mini01_SubbiomeBlocker01.locbin": [
@@ -3549,13 +4561,15 @@
       "key": "Description",
       "en": "Add missing materials to clear the way.",
       "cz": "Přidej chybějící materiály k uvolnění cesty.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Přidej chybějící materiály k uvolnění cesty."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Corrupted Honey Wall",
       "cz": "Narušená medová stěna",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Narušená medová stěna"
     }
   ],
   "ProtoDB/Mini01_SubbiomeBlocker02.locbin": [
@@ -3563,13 +4577,15 @@
       "key": "Description",
       "en": "Add missing materials to clear the way.",
       "cz": "Přidej chybějící materiály k uvolnění cesty.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Přidej chybějící materiály k uvolnění cesty."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Corrupted Honey Wall",
       "cz": "Narušená medová stěna",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Narušená medová stěna"
     }
   ],
   "ProtoDB/Mini01_SubbiomeBlockerStairs_Keyhole.locbin": [
@@ -3577,13 +4593,15 @@
       "key": "Description",
       "en": "Add missing materials to repair the Woodland Rope-and-Plank Bridge.",
       "cz": "Přidej chybějící materiály k opravě lesního provazového mostu.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Přidej chybějící materiály k opravě lesního provazového mostu."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Woodland Rope-and-Plank Bridge",
       "cz": "Lesní provazový most",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Lesní provazový most"
     }
   ],
   "ProtoDB/Mini01_VLG_Winn_010_ChestKeyhole.locbin": [
@@ -3591,7 +4609,8 @@
       "key": "MenuTitleLocIDOverride",
       "en": "Locked Chest",
       "cz": "Zamčená truhla",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Zamčená truhla"
     }
   ],
   "ProtoDB/Mini01_VLG_Winn_010_HiddenChestKeyhole.locbin": [
@@ -3599,13 +4618,15 @@
       "key": "Description",
       "en": "A certain stick should work here.",
       "cz": "Tady by měl fungovat nějaký klacek.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Tady by měl fungovat nějaký klacek."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "Hidden Treasure",
       "cz": "Skrytý poklad",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Skrytý poklad"
     }
   ],
   "ProtoDB/Mini01_VLG_Winn_010_ShelfKeyhole1.locbin": [
@@ -3613,7 +4634,8 @@
       "key": "MenuTitleLocIDOverride",
       "en": "Toy Shelf",
       "cz": "Police na hračky",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Police na hračky"
     }
   ],
   "ProtoDB/Mini01_VLG_Winn_010_ShelfKeyhole2.locbin": [
@@ -3621,7 +4643,8 @@
       "key": "MenuTitleLocIDOverride",
       "en": "Toy Shelf",
       "cz": "Police na hračky",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Police na hračky"
     }
   ],
   "ProtoDB/Mini01_VLG_Winn_010_ShelfKeyhole3.locbin": [
@@ -3629,7 +4652,8 @@
       "key": "MenuTitleLocIDOverride",
       "en": "Toy Shelf",
       "cz": "Police na hračky",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Police na hračky"
     }
   ],
   "ProtoDB/Mini01_VLG_Winn_010_ShelfKeyhole4.locbin": [
@@ -3637,7 +4661,8 @@
       "key": "MenuTitleLocIDOverride",
       "en": "Toy Shelf",
       "cz": "Police na hračky",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Police na hračky"
     }
   ],
   "ProtoDB/Mini01_VLG_Winn_030_AccountingKeyhole.locbin": [
@@ -3645,7 +4670,8 @@
       "key": "MenuTitleLocIDOverride",
       "en": "A-Counting Place",
       "cz": "Místo pro počítání",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Místo pro počítání"
     }
   ],
   "ProtoDB/Mini01_VLG_Winn_030_AccountingKeyhole_Driftwood.locbin": [
@@ -3653,13 +4679,15 @@
       "key": "Description",
       "en": "A place for things that have learned to swim.",
       "cz": "Místo pro věci, které se naučily plavat.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Místo pro věci, které se naučily plavat."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "A-Counting Place",
       "cz": "Místo pro počítání",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Místo pro počítání"
     }
   ],
   "ProtoDB/Mini01_VLG_Winn_030_AccountingKeyhole_Hardwood.locbin": [
@@ -3667,13 +4695,15 @@
       "key": "Description",
       "en": "A place for a precious stone that shines like honey.",
       "cz": "Místo pro drahokam, který se třpytí jako med.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Místo pro drahokam, který se třpytí jako med."
     },
     {
       "key": "MenuTitleLocIDOverride",
       "en": "A-Counting Place",
       "cz": "Místo pro počítání",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Místo pro počítání"
     }
   ],
   "ProtoDB/Mini01_VLG_Winn_030_AccountingKeyhole_Stone.locbin": [
@@ -3681,7 +4711,8 @@
       "key": "Description",
       "en": "A place for soft round carve-able things.",
       "cz": "Místo pro měkké, kulaté věci vhodné k vyřezávání.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Místo pro měkké, kulaté věci vhodné k vyřezávání."
     }
   ],
   "ProtoDB/Mini01_VLG_Winn_040_RiverKeyhole.locbin": [
@@ -3689,7 +4720,8 @@
       "key": "MenuTitleLocIDOverride",
       "en": "Soapy Spot",
       "cz": "Mydlinkové místo",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Mydlinkové místo"
     }
   ],
   "ProtoDB/MiniEvent_MixedHalloweenEvent.locbin": [
@@ -4081,7 +5113,8 @@
       "key": "Title_CharityOffer",
       "en": "Charity",
       "cz": "Charita",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Charita"
     },
     {
       "key": "Title_DreamBundles",
@@ -4114,8 +5147,9 @@
     {
       "key": "Title_Mirage",
       "en": "Mirage",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "Mirage",
+      "source": "pre_existing",
+      "original_cz": "Mirage"
     },
     {
       "key": "Title_Moonstones",
@@ -4352,43 +5386,50 @@
       "key": "Description_Presets",
       "en": "Transform your Valley instantly with Decoration Presets! This exclusive pre-made set includes curated props and furniture in one seamless, beautiful design. Find it in your Furniture Menu under Presets and place it in your House or Valley with one click!",
       "cz": "Proměňte své Údolí okamžitě pomocí Dekoračních předvoleb! Tato exkluzivní předpřipravená sada obsahuje pečlivě vybrané rekvizity a nábytek v jednom bezchybném, krásném designu. Najdete ji v Nabídce nábytku pod Předvolbami a umístěte ji do svého Domu nebo Údolí jedním kliknutím!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Proměňte své Údolí okamžitě pomocí Dekoračních předvoleb! Tato exkluzivní předpřipravená sada obsahuje pečlivě vybrané rekvizity a nábytek v jednom bezchybném, krásném designu. Najdete ji v Nabídce nábytku pod Předvolbami a umístěte ji do svého Domu nebo Údolí jedním kliknutím!"
     },
     {
       "key": "Description_EnvironmentSky",
       "en": "Transform the sky over any Biome with a dazzling new effect!",
       "cz": "Proměň oblohu nad jakýmkoliv biomem oslnivým novým efektem!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Proměň oblohu nad jakýmkoliv biomem oslnivým novým efektem!"
     },
     {
       "key": "Description_MountGears",
       "en": "Add a unique personal touch to your mounts with this special accessory.",
       "cz": "Dodej svým ořům jedinečný osobní nádech s tímto speciálním doplňkem.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Dodej svým ořům jedinečný osobní nádech s tímto speciálním doplňkem."
     },
     {
       "key": "Description_NPCHouseSkin",
       "en": "Update the look of a lucky Villager's House with a magical new Dream Style. (Remember: You must have the Villager's original House unlocked!)",
       "cz": "Změň vzhled domu šťastného obyvatele pomocí nového kouzelného vysněného stylu. (Nezapomeň: Musíš mít odemčený původní dům daného obyvatele!)",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Změň vzhled domu šťastného obyvatele pomocí nového kouzelného vysněného stylu. (Nezapomeň: Musíš mít odemčený původní dům daného obyvatele!)"
     },
     {
       "key": "Description_Pose",
       "en": "Special emotes you can use in Photo Mode, or to express yourself in the Valley!",
       "cz": "Speciální emoce, které můžeš použít ve fotografickém režimu nebo se s nimi vyjádřit v Údolí!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Speciální emoce, které můžeš použít ve fotografickém režimu nebo se s nimi vyjádřit v Údolí!"
     },
     {
       "key": "Description_EnvironmentSpecial",
       "en": "Large visual effects. Specific to a Village Biome or a Floating Island.",
       "cz": "Velké vizuální efekty. Specifické pro biom Vesnice nebo Plovoucí ostrov.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Velké vizuální efekty. Specifické pro biom Vesnice nebo Plovoucí ostrov."
     },
     {
       "key": "Description_AvatarOnAnHouse",
       "en": "Interact with the House using your Phone Royal Tool, allowing your Avatar to be positioned in Photo Mode. Each House can be placed once in the Valley and once per Expansion area. (You will also be able to place it once on Floating Islands.)",
       "cz": "Interaguj s Domem pomocí telefonu — Královského nástroje, a umožni umístění svého Avatara ve Fotorežimu. Každý Dům lze umístit jednou v Údolí a jednou v každé rozšiřující oblasti. (Budete ho moci umístit také jednou na Plovoucích ostrovech.)",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Interaguj s Domem pomocí telefonu — Královského nástroje, a umožni umístění svého Avatara ve Fotorežimu. Každý Dům lze umístit jednou v Údolí a jednou v každé rozšiřující oblasti. (Budete ho moci umístit také jednou na Plovoucích ostrovech.)"
     },
     {
       "key": "Title_CompanionBundles",
@@ -4401,7 +5442,8 @@
       "key": "Title_DLCBundles",
       "en": "Expansions",
       "cz": "Rozšíření",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Rozšíření"
     }
   ],
   "ProtoDB/ShopConfigs_Shop20240618.locbin": [
@@ -5566,105 +6608,14 @@
       "key": "Description_000",
       "en": "Gameloft will donate all net revenues coming from the bundle, after platform fees are deducted, to the Nature Conservancy of Canada (a charity registered in Canada, with charity number 11924 6544 RR0001) to support the conservation of important landscapes for species like the grizzly bear. This adorable grizzly bear cub companion will be available from July 29 until September 23, 2026, and comes with 800 Moonstones.",
       "cz": "",
-      "source": "untranslated"
+      "source": "pre_existing"
     },
     {
       "key": "Name_000",
       "en": "Grizzly Bear Cub Bundle for Charity",
       "cz": "Disney Dreamlight Valley — edice Medový les",
-      "source": "our_translation"
-    },
-    {
-      "key": "Description_004",
-      "en": "Explore a magical world in Disney Dreamlight Valley alongside Disney and Pixar friends, and expand your journey to Eternity Isle and the Storybook Vale where more adventures await!",
-      "cz": "",
       "source": "pre_existing",
-      "original_cz": "Prozkoumejte kouzelný svět v Disney Dreamlight Valley po boku přátel od Disney a Pixaru a rozšiřte svou cestu na Eternity Isle a Storybook Vale, kde na vás čekají další dobrodružství!"
-    },
-    {
-      "key": "Name_001",
-      "en": "Disney Dreamlight Valley: Honeyglow Woods",
-      "cz": "",
-      "source": "untranslated"
-    },
-    {
-      "key": "Description_006",
-      "en": "Live your Disney dream life with the Ultimate Edition, which includes the base game and two Expansions. This edition also contains exclusive digital items. Access to Disney Dreamlight Valley, Disney Dreamlight Valley: Wishblossom Ranch and Disney Dreamlight Valley: The Storybook Vale, 18,000 Moonstones, exclusive mount (Sven from Disney's Frozen), exclusive Arendellian riding ensemble outfit, and an exclusive snowy alpine House Style.",
-      "cz": "",
-      "source": "pre_existing",
-      "original_cz": "Prožijte svůj vysněný život ve světě Disney s Ultimate Edition, která obsahuje základní hru a dvě rozšíření. Tato edice obsahuje také exkluzivní digitální předměty. Přístup k hrám Disney Dreamlight Valley, Disney Dreamlight Valley: Wishblossom Ranch a Disney Dreamlight Valley: The Storybook Vale, 18 000 měsíčních kamenů, exkluzivní mount (Sven z Disneyho Ledového království), exkluzivní jezdecký outfit z Arendellianu a exkluzivní zasněžený alpský styl domu."
-    },
-    {
-      "key": "Name_003",
-      "en": "Disney Dreamlight Valley — The Storybook Vale Bundle",
-      "cz": "",
-      "source": "pre_existing",
-      "original_cz": "Disney Dreamlight Valley — Balíček Storybook Vale"
-    },
-    {
-      "key": "Name_002",
-      "en": "Disney Dreamlight Valley — G1.0",
-      "cz": "",
-      "source": "untranslated"
-    },
-    {
-      "key": "Description_005",
-      "en": "This bundle includes the Disney Dreamlight Valley base game; the new Expansion, Disney Dreamlight Valley: Wishblossom Ranch; and 13,000 Moonstones.",
-      "cz": "",
-      "source": "pre_existing",
-      "original_cz": "Tento balíček obsahuje základní hru Disney Dreamlight Valley, nové rozšíření Disney Dreamlight Valley: Wishblossom Ranch a 13 000 měsíčních kamenů."
-    },
-    {
-      "key": "Name_004",
-      "en": "Disney Dreamlight Valley — Enchanted Edition",
-      "cz": "",
-      "source": "pre_existing",
-      "original_cz": "Disney Dreamlight Valley – Kouzelná edice"
-    },
-    {
-      "key": "Name_008",
-      "en": "Disney Dreamlight Valley — Honeyglow Woods Edition",
-      "cz": "",
-      "source": "untranslated"
-    },
-    {
-      "key": "Description_001",
-      "en": "Explore the Honeyglow Woods, and reconnect with Disney's Winnie the Pooh, Eeyore and Piglet in a brand-new Adventure Pack! Includes 2,000 Moonstones.",
-      "cz": "",
-      "source": "untranslated"
-    },
-    {
-      "key": "Description_003",
-      "en": "Explore a magical world in Disney Dreamlight Valley alongside Disney and Pixar friends, and travel to the Storybook Vale, a land made up of fairy tales and myths!",
-      "cz": "",
-      "source": "pre_existing",
-      "original_cz": "Prozkoumejte kouzelný svět v Disney Dreamlight Valley po boku přátel od Disneyho a Pixaru a vydejte se do Storybook Vale, země plné pohádek a mýtů!"
-    },
-    {
-      "key": "Description_002",
-      "en": "Disney Dreamlight Valley — G1.0",
-      "cz": "",
-      "source": "untranslated"
-    },
-    {
-      "key": "Name_005",
-      "en": "Disney Dreamlight Valley — Wishblossom Ranch Edition",
-      "cz": "",
-      "source": "pre_existing",
-      "original_cz": "Disney Dreamlight Valley — edice Wishblossom Ranch"
-    },
-    {
-      "key": "Name_006",
-      "en": "Disney Dreamlight Valley — Ultimate Edition",
-      "cz": "",
-      "source": "pre_existing",
-      "original_cz": "Disney Dreamlight Valley – Ultimátní edice"
-    },
-    {
-      "key": "Description_007",
-      "en": "This bundle includes the Disney Dreamlight Valley base game; the new Expansion, Disney Dreamlight Valley: Honeyglow Woods Adventure Pack; and 10,000 Moonstones.",
-      "cz": "",
-      "source": "untranslated"
+      "original_cz": "Disney Dreamlight Valley — edice Medový les"
     }
   ],
   "ProtoDB/Story_MRQS100_Barrel.locbin": [
@@ -6938,13 +7889,15 @@
       "key": "Description",
       "en": "From {from:MemoryMania_UI_2026:StartDate:M} to {from:MemoryMania_UI_2026:EndDate:M}, you're invited to celebrate Inside Out with Disney Dreamlight Valley's Memory Mania event!\nThis year, you'll solve some Memory mysteries with Joy to unlock a mysterious new critter companion.\nAlso, search your Valley and the Realms to collect Riley's Hockey Gear, Trophies, and Birthday Cakes and unlock Memory Pieces. Complete these Memories for exclusive new critters and more!",
       "cz": "Od {from:MemoryMania_UI_2026:StartDate:M} do {from:MemoryMania_UI_2026:EndDate:M} jste zváni oslavit V hlavě s Disney Dreamlight Valley při eventu Vzpomínkové šílenství!\\nLetos budete s Radostí řešit vzpomínkové záhady a odemknete záhadného nového mazlíčka.\\nTaké prohledejte své Údolí a Říše a sbírejte Rileyino hokejové vybavení, Trofeje a Narozeninové dorty a odemkněte Vzpomínkové dílky. Dokončete tyto Vzpomínky pro exkluzivní nové mazlíčky a další!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Od {from:MemoryMania_UI_2026:StartDate:M} do {from:MemoryMania_UI_2026:EndDate:M} jste zváni oslavit V hlavě s Disney Dreamlight Valley při eventu Vzpomínkové šílenství!\\nLetos budete s Radostí řešit vzpomínkové záhady a odemknete záhadného nového mazlíčka.\\nTaké prohledejte své Údolí a Říše a sbírejte Rileyino hokejové vybavení, Trofeje a Narozeninové dorty a odemkněte Vzpomínkové dílky. Dokončete tyto Vzpomínky pro exkluzivní nové mazlíčky a další!"
     },
     {
       "key": "Title",
       "en": "Memory Mania Event",
       "cz": "Event Vzpomínkové šílenství",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Event Vzpomínkové šílenství"
     }
   ],
   "ProtoDB/Update24_SummerSizzle_UI_2026.locbin": [
@@ -6952,13 +7905,15 @@
       "key": "Description",
       "en": "From {from:SummerSizzle_UI_2026:StartDate:M} to {from:SummerSizzle_UI_2026:EndDate:M}, get ready to celebrate Summer Sizzle in the Valley with our mini-event!\nThis year you can complete daily quests with Remy, Goofy, or Ursula for summer fun and great prizes.\nJust like last year, you'll also be able to search the Valley for specialty Marshmallows. Then, use those Marshmallows to make tasty treats for exclusive rewards!",
       "cz": "Od {from:SummerSizzle_UI_2026:StartDate:M} do {from:SummerSizzle_UI_2026:EndDate:M} se připravte oslavit Letní žár v Údolí s naším mini-eventem!\\nLetos můžete plnit denní questy s Remym, Goofym nebo Uršulou a užít si letní zábavu a skvělé odměny.\\nStejně jako loni budete moct hledat v Údolí speciální Marshmallowy. Pak z nich udělejte chutné pochoutky za exkluzivní odměny!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Od {from:SummerSizzle_UI_2026:StartDate:M} do {from:SummerSizzle_UI_2026:EndDate:M} se připravte oslavit Letní žár v Údolí s naším mini-eventem!\\nLetos můžete plnit denní questy s Remym, Goofym nebo Uršulou a užít si letní zábavu a skvělé odměny.\\nStejně jako loni budete moct hledat v Údolí speciální Marshmallowy. Pak z nich udělejte chutné pochoutky za exkluzivní odměny!"
     },
     {
       "key": "Title",
       "en": "Summer Sizzle Event",
       "cz": "Event Letní žár",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Event Letní žár"
     }
   ],
   "ProtoDB/Update25_SEC_Oogi_030_ZeroKHole.locbin": [
@@ -6966,7 +7921,8 @@
       "key": "Description",
       "en": "Place an object enchanted by Merlin here to sabotage Oogie Boogie's Lucky Wheel.",
       "cz": "Umísti sem předmět očarovaný Merlinem a sabotuj tak Kolo štěstí Oogie Boogieho.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Umísti sem předmět očarovaný Merlinem a sabotuj tak Kolo štěstí Oogie Boogieho."
     }
   ],
   "ProtoDB/Update25_SEC_Oogi_050_TileKeyHole.locbin": [
@@ -6974,7 +7930,8 @@
       "key": "Description",
       "en": "Add the Oogie Boogie Tiles here.",
       "cz": "Vlož sem destičky Oogie Boogieho.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Vlož sem destičky Oogie Boogieho."
     }
   ],
   "ProtoDB/Update25_TrickOrTreat_2026.locbin": [
@@ -6982,12 +7939,36 @@
       "key": "Description",
       "en": "From October 14 to October 31, you're invited to celebrate the Halloween season in the Valley with our special Trick-or-Treat Event!\nFind special Candy Bowls by trick-or-treating at Houses with jack-o'—lanterns outside, or by searching the Village Plaza!\nKeep an eye out for the Houses of Mickey, WALL·E, Daisy, Stitch, Mike, and Jack. They might have some sweet surprises waiting for you!",
       "cz": "Od 14. října do 31. října jsi zvána/zván oslavit halloweenskou sezónu v Údolí s naší speciální akcí Halloweenská koleda!\nSpeciální mísy s bonbóny najdeš koledováním u domů s dýňovými lucernami před vchodem, nebo hledáním na Náměstí ve vesnici!\nDávej pozor na domy Mickeyho, WALL·Eho, Daisy, Stitche, Mikea a Jacka. Možná na tebe čekají sladká překvapení!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Od 14. října do 31. října jsi zvána/zván oslavit halloweenskou sezónu v Údolí s naší speciální akcí Halloweenská koleda!\nSpeciální mísy s bonbóny najdeš koledováním u domů s dýňovými lucernami před vchodem, nebo hledáním na Náměstí ve vesnici!\nDávej pozor na domy Mickeyho, WALL·Eho, Daisy, Stitche, Mikea a Jacka. Možná na tebe čekají sladká překvapení!"
     },
     {
       "key": "Title",
       "en": "Trick-or-Treat Event",
       "cz": "Halloweenská koleda",
+      "source": "pre_existing",
+      "original_cz": "Halloweenská koleda"
+    }
+  ],
+  "ProtoDB/Wendy_VLG_Wend_020_CandyClamKeyhole.locbin": [
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Ticklish Clam",
+      "cz": "Lechtivá mušle",
+      "source": "our_translation"
+    }
+  ],
+  "ProtoDB/Wendy_VLG_Wend_040_TapestryKeyhole.locbin": [
+    {
+      "key": "Description",
+      "en": "Replace the sad memories with better ones.",
+      "cz": "Nahraďme ty smutné vzpomínky jinými, mnohem líbeznějšími.",
+      "source": "our_translation"
+    },
+    {
+      "key": "MenuTitleLocIDOverride",
+      "en": "Throne Room Wall",
+      "cz": "Stěna v trůnním sále",
       "source": "our_translation"
     }
   ]

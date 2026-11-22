@@ -1,0 +1,1006 @@
+{
+  "Expansion04Main_Flounder/Flounder_Barks_Bark001.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "Have you seen Ariel around anywhere?",
+      "cz": "Neviděl jsi někde Ariel?",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Barks_Bark002.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "I love adventures... sometimes... as long as they're not too scary.",
+      "cz": "Miluju dobrodružství... někdy... pokud nejsou příliš strašidelná.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Barks_Bark003.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "Gee, I uh... I think I may be coming down with something. I've got this cough...",
+      "cz": "Jé, já... myslím, že na mě něco leze. Mám tenhle kašel...",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Barks_Bark004.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "Ariel's my best friend. I'd do anything for her!",
+      "cz": "Ariel je moje nejlepší kamarádka. Udělal bych pro ni cokoliv!",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Barks_Bark005.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "I've explored lots of shipwrecks! Just... just not by myself.",
+      "cz": "Prozkoumal jsem spoustu vraků! Jen... jen ne sám.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Barks_Bark006.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "Wanna see my shark impression? Grrrrr! Was that scary?",
+      "cz": "Chceš vidět můj žraločí dojem? Grrrrr! Bylo to strašidelné?",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Barks_Bark007.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "Do YOU know what a dinglehopper is?",
+      "cz": "Víš, co je dinglehopper?",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Barks_Bark008.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "Wh-what was that?! Did you hear something?",
+      "cz": "Co-co to bylo?! Slyšel jsi něco?",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Barks_MorningBark001.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "We should do something today!",
+      "cz": "Měli bychom dnes něco podniknout!",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Barks_NightBark001.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "My friend Scuttle says those lights in the sky are jellyfish who live in a really dark ocean.",
+      "cz": "Můj kamarád Scuttle říká, že ty světla na obloze jsou medúzy, které žijí v opravdu temném oceánu.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Barks_RainyBark001.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "It's raining again? Bet all those people on land are happy. The water's great!",
+      "cz": "Zase prší? Vsadím se, že všichni ti lidé na souši jsou šťastní. Voda je skvělá!",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Barks_SunnyBark001.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "Wow, that sun sure is bright today. Sometimes it's hard to tell from under the sea.",
+      "cz": "Wow, to slunce je dnes opravdu jasné. Někdy je těžké to poznat z pod moře.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_BestFriendsReceives_BFReceive001.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "Oh, hey! Here you go, {PlayerName}.",
+      "cz": "Oh, ahoj! Tady máš, {PlayerName}.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_BestFriendsRequests_BFRequest001.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "Can I help? Sure!",
+      "cz": "Mohu pomoci? Jistě!",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Discussion_Discussion001.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "I'm great! How 'bout you?",
+      "cz": "Mám se skvěle! A co ty?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm great, too!",
+      "cz": "Mám se taky skvěle!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'm okay, I guess.",
+      "cz": "Jsem v pořádku, myslím.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Not so good, actually.",
+      "cz": "Vlastně to není tak dobré.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_001_f",
+      "en": "That's good.",
+      "cz": "To je dobré.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_004_f",
+      "en": "Because otherwise, that would be... well, it would be sad. Or upsetting. Or worry-ish? Worry-ing? Yeah, it would be worrying.",
+      "cz": "Protože jinak by to bylo... no, bylo by to smutné. Nebo znepokojující. Nebo starostlivé? Starostlivé? Jo, bylo by to znepokojující.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_002_f",
+      "en": "Oh, uh... sometimes I feel that way too.",
+      "cz": "Oh, ehm... někdy se tak cítím taky.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_005_f",
+      "en": "Not great, but not bad, just somewhere in the middle.",
+      "cz": "Není to skvělé, ale ani špatné, prostě tak někde uprostřed.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_003_f",
+      "en": "Oh, uh... I'm sorry.",
+      "cz": "Oh, ehm... omlouvám se.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_006_f",
+      "en": "I hope your day starts to get better. Let me know if I can help, okay?",
+      "cz": "Doufám, že se tvůj den začne zlepšovat. Dej mi vědět, jestli můžu pomoct, jo?",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Discussion_Discussion002.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "Um... Sometimes? When they're not scary.",
+      "cz": "Ehm... Někdy? Když nejsou děsivé.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_001_f",
+      "en": "Do you like them?",
+      "cz": "Líbí se ti?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I love them!",
+      "cz": "Miluju je!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "It depends on the adventure.",
+      "cz": "Záleží na dobrodružství.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I'm like you; I get too scared!",
+      "cz": "Jsem jako ty; mám příliš velký strach!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_002_f",
+      "en": "You sound like Ariel.",
+      "cz": "Zníš jako Ariel.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_003_f",
+      "en": "Bet you're brave like her, huh?",
+      "cz": "Vsadím se, že jsi statečný jako ona, co?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_004_f",
+      "en": "That makes sense.",
+      "cz": "To dává smysl.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_005_f",
+      "en": "My favorite ones are when we look for treasure on the sea floor, not in some dark, scary shipwreck.",
+      "cz": "Moje oblíbené jsou, když hledáme poklad na mořském dně, ne v nějaké temné, děsivé vraku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_006_f",
+      "en": "Hey, sometimes it's smart to be scared.",
+      "cz": "Hele, někdy je chytré mít strach.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_007_f",
+      "en": "Like with sharks, and giant squid, and... and King Triton when he's yelling.",
+      "cz": "Třeba s žraloky, obřími chobotnicemi a... a králem Tritonem, když křičí.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Discussion_Discussion003.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "Hey, how'd you know?",
+      "cz": "Hele, jak jsi to věděl?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_001_f",
+      "en": "I wanna get Ariel a gift, but I don't know what to get her.",
+      "cz": "Chci Ariel koupit dárek, ale nevím, co jí mám dát.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Just follow your gut.",
+      "cz": "Prostě se řiď svým instinktem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Hm, yeah, giving gifts can be stressful.",
+      "cz": "Hm, jo, dávat dárky může být stresující.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "What sort of things does she like?",
+      "cz": "Jaké věci má ráda?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_002_f",
+      "en": "Is that like the thoughts in my head? 'Cause that's the problem — I don't have any! Guess I'll just keep swimming and see if I get an idea.",
+      "cz": "Je to jako myšlenky v mé hlavě? Protože to je problém — žádné nemám! Asi budu jen plavat dál a uvidím, jestli mě něco napadne.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_003_f",
+      "en": "Well, she loves human stuff.",
+      "cz": "No, ona miluje lidské věci.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_004_f",
+      "en": "You know, anything they use that we don't have under the sea.",
+      "cz": "Víš, cokoliv, co používají a co my pod mořem nemáme.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "What about a fork?",
+      "cz": "Co takhle vidlici?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "A book?",
+      "cz": "Knihu?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "A pair of shoes?",
+      "cz": "Pár bot?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_005_f",
+      "en": "I don't know what that is. But I can ask Scuttle next time I see him.",
+      "cz": "Nevím, co to je. Ale můžu se na to zeptat Scuttla, až ho příště uvidím.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_006_f",
+      "en": "I guess I just need to think some more.",
+      "cz": "Asi si na to musím ještě víc promyslet.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_007_f",
+      "en": "I don't know what that is. But I can ask Scuttle next time I see him.",
+      "cz": "Nevím, co to je. Ale můžu se na to zeptat Scuttla, až ho příště uvidím.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_008_f",
+      "en": "You mean like humans wear on their, uh... oh, their feet? I think she's already got some of those.",
+      "cz": "Myslíš jako to, co nosí lidé na, ehm... oh, na nohou? Myslím, že už nějaké má.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Discussion_Discussion004.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "Sometimes, I guess... but I have lots of friends.",
+      "cz": "Někdy, asi... ale mám spoustu přátel.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_001_f",
+      "en": "Hey, uh... are you feeling lonely, {PlayerName}?",
+      "cz": "Ahoj, ehm... cítíš se osaměle, {PlayerName}?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Nope, I'm never lonely!",
+      "cz": "Ne, nikdy se necítím osaměle!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I do sometimes, but I'm okay now.",
+      "cz": "Někdy ano, ale teď jsem v pořádku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "A little, yeah.",
+      "cz": "Trochu, jo.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_002_f",
+      "en": "Gee, uh... that's great!",
+      "cz": "Jé, ehm... to je skvělé!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_003_f",
+      "en": "I'm glad you aren't.",
+      "cz": "Jsem rád, že nejsi.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_004_f",
+      "en": "Guess everybody feels lonely sometimes, huh?",
+      "cz": "Asi se někdy každý cítí osaměle, co?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_005_f",
+      "en": "But I'm glad you're okay now.",
+      "cz": "Ale jsem rád, že teď jsi v pořádku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_006_f",
+      "en": "Can I help?",
+      "cz": "Můžu ti nějak pomoci?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Just talking about it helped already.",
+      "cz": "Už jen mluvení o tom pomohlo.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Maybe we can hang out a bit?",
+      "cz": "Možná si můžeme trochu popovídat?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Tell me a joke?",
+      "cz": "Pověz mi vtip?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_007_f",
+      "en": "It did? Wow! How 'bout you come talk to me when you're lonely, and I'll come talk to you when I am?",
+      "cz": "Opravdu? Páni! Co kdybys přišel za mnou, když se cítíš osaměle, a já za tebou přijdu, když se budu cítit osaměle já?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_008_f",
+      "en": "Sure!",
+      "cz": "Jasně!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_009_f",
+      "en": "I always like spending time with you.",
+      "cz": "Vždycky rád trávím čas s tebou.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_010_f",
+      "en": "Okay... Uh... Oh, I know! How do big fish tell you they're sad?",
+      "cz": "Dobře... Ehm... Oh, už vím! Jak ti velké ryby říkají, že jsou smutné?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_011_f",
+      "en": "They let out a BLUE WHALE.",
+      "cz": "Vydávají MODRÉHO VELRYBU.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Discussion_Discussion005.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "Um, I don't know. I guess I never really thought about it.",
+      "cz": "Ehm, nevím. Asi jsem o tom nikdy moc nepřemýšlel.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_005_f",
+      "en": "What do you think I should do?",
+      "cz": "Co si myslíš, že bych měl udělat?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Go on BIG adventures!",
+      "cz": "Vydej se na VELKÁ dobrodružství!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Work in King Triton's court.",
+      "cz": "Pracuj na dvoře krále Tritona.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Have yourself a fishy family.",
+      "cz": "Založ si rybí rodinku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_002_f",
+      "en": "Maybe. I've already done lots of that, though.",
+      "cz": "Možná. Už jsem toho hodně zažil.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_003_f",
+      "en": "You mean be like Sebastian? I'm not sure. That seems pretty stressful.",
+      "cz": "Myslíš být jako Sebastian? Nejsem si jistý. To vypadá dost stresující.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_004_f",
+      "en": "That sounds kinda nice. I mean, in the future. Way, WAY in the future!",
+      "cz": "To zní docela hezky. Myslím, v budoucnu. O hodně, O HODNĚ v budoucnu!",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Discussion_Discussion006.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "I never really thought about it.",
+      "cz": "O tom jsem nikdy moc nepřemýšlel.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_001_f",
+      "en": "I always did wonder why Ariel wanted to, though.",
+      "cz": "Vždycky mě zajímalo, proč to Ariel chtěla.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "She wanted to find her own way in the world.",
+      "cz": "Chtěla najít svou vlastní cestu ve světě.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "She was in love!",
+      "cz": "Byla zamilovaná!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Yeah, I don't get it. The ocean is better!",
+      "cz": "Jo, to nechápu. Oceán je lepší!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_002_f",
+      "en": "Yeah, I think you're right.",
+      "cz": "Jo, myslím, že máš pravdu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_005_f",
+      "en": "She always wants to learn more and see new stuff. She's pretty incredible like that.",
+      "cz": "Vždycky chce vědět víc a vidět nové věci. Je v tom opravdu úžasná.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_003_f",
+      "en": "Oh, she wanted to live on land way before she fell in love.",
+      "cz": "Ona chtěla žít na souši dávno předtím, než se zamilovala.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_006_f",
+      "en": "But that made her find a way to do it.",
+      "cz": "Ale to jí pomohlo najít způsob, jak to udělat.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_004_f",
+      "en": "I think so, too. At least for me.",
+      "cz": "Myslím, že taky. Aspoň pro mě.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Discussion_Discussion007.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "Well, I guess I spend lots of time with Sebastian now... but Scuttle's lots funnier.",
+      "cz": "No, asi teď trávím hodně času se Sebastianem... ale Scuttle je mnohem vtipnější.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_001_f",
+      "en": "How about you?",
+      "cz": "A co ty?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "All the Villagers are my best friends!",
+      "cz": "Všichni vesničané jsou moji nejlepší přátelé!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "A family member.",
+      "cz": "Člen rodiny.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "An old childhood friend.",
+      "cz": "Starý kamarád z dětství.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_002_f",
+      "en": "Really? Wow! That's cool.",
+      "cz": "Opravdu? Páni! To je super.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_005_f",
+      "en": "You sure are lucky, huh?",
+      "cz": "Ty jsi fakt šťastný, co?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_003_f",
+      "en": "That's nice.",
+      "cz": "To je hezké.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_006_f",
+      "en": "Family IS really important.",
+      "cz": "Rodina je OPRAVDU důležitá.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_004_f",
+      "en": "Like me and Ariel!",
+      "cz": "Jako já a Ariel!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_007_f",
+      "en": "That's great, {PlayerName}.",
+      "cz": "To je skvělé, {PlayerName}.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Discussion_Discussion008.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "I try to be brave, but mostly I guess I yell and try to swim away really fast...",
+      "cz": "Snažím se být statečný, ale většinou asi jen křičím a snažím se rychle uplavat...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_001_f",
+      "en": "What about you?",
+      "cz": "A co ty?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Pretty much the same as you.",
+      "cz": "Docela podobně jako ty.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I try to stay brave.",
+      "cz": "Snažím se zůstat statečný.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I NEVER feel scared!",
+      "cz": "NIKDY se nebojím!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_002_f",
+      "en": "You do?",
+      "cz": "Opravdu?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_005_f",
+      "en": "Thanks for telling me. It's nice to know I'm not the only one.",
+      "cz": "Díky, že jsi mi to řekl. Je fajn vědět, že nejsem sám.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_003_f",
+      "en": "That's great, {PlayerName}.",
+      "cz": "To je skvělé, {PlayerName}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_006_f",
+      "en": "You'll have to give me some tips.",
+      "cz": "Budeš mi muset dát pár tipů.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_004_f",
+      "en": "Never?",
+      "cz": "Nikdy?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_007_f",
+      "en": "Whoa...",
+      "cz": "Jé...",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Discussion_Discussion009.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "Me? No way! Nuh-uh!",
+      "cz": "Já? Ani náhodou! Nene!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_001_f",
+      "en": "Well... okay, maybe a little. A lot. But isn't everyone?",
+      "cz": "No... dobře, možná trochu. Hodně. Ale není to tak u každého?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Sharks aren't so bad.",
+      "cz": "Žraloci nejsou tak špatní.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Yeah, sharks definitely scare me.",
+      "cz": "Jo, žraloci mě rozhodně děsí.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "There are WAY scarier things out there.",
+      "cz": "Tam venku jsou mnohem děsivější věci.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_002_f",
+      "en": "Some maybe, but I don't think I've met any of them.",
+      "cz": "Některé možná, ale myslím, že jsem se s žádným z nich nesetkal.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_003_f",
+      "en": "If they didn't have such pointy teeth, it might not be so bad.",
+      "cz": "Kdyby neměli tak ostré zuby, možná by to nebylo tak špatné.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_004_f",
+      "en": "There ARE?!",
+      "cz": "Opravdu jsou?!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_005_f",
+      "en": "Well, I definitely don't wanna know about 'em!",
+      "cz": "No, rozhodně nechci o nich vědět!",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Discussion_Discussion010.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "Being with Ariel. She's my best friend.",
+      "cz": "Být s Ariel. Je to moje nejlepší kamarádka.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_001_f",
+      "en": "How about you?",
+      "cz": "A co ty?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Same for me: friends and family!",
+      "cz": "To samé pro mě: přátelé a rodina!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Swimming all around the ocean.",
+      "cz": "Plavu si po celém oceánu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Quiet activities where I can be alone.",
+      "cz": "Klidné aktivity, kde můžu být sám.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_002_f",
+      "en": "That's great! I bet they love being with you, too.",
+      "cz": "To je skvělé! Vsadím se, že tě mají taky rádi.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_003_f",
+      "en": "Oh yeah, I like that too.",
+      "cz": "Jo, to se mi taky líbí.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_005_f",
+      "en": "Even if sometimes I get nervous, I do like exploring.",
+      "cz": "I když se občas bojím, rád objevuju.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_004_f",
+      "en": "Yeah, sometimes it's great to be alone.",
+      "cz": "Jo, někdy je fajn být sám.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Flounder_006_f",
+      "en": "It's kinda hard to do that sometimes, though. It's pretty busy under the sea.",
+      "cz": "Někdy je to ale docela těžké. Pod mořem je dost rušno.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_GiftThanks_HappyGiftThanks001.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "For me? Thanks!",
+      "cz": "Pro mě? Děkuju!",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_GiftThanks_HappyGiftThanks002.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "Wow! I've never gotten anything like this before.",
+      "cz": "Wow! Ještě jsem nikdy nic takového nedostal.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_GiftThanks_HappyGiftThanks003.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "This is great!",
+      "cz": "To je skvělé!",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Greetings_Greeting001.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "Great day for a swim, huh, {PlayerName}?",
+      "cz": "Skvělý den na plavání, co říkáš, {PlayerName}?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Sorry, I can't talk now.",
+      "cz": "Omlouvám se, teď nemůžu mluvit.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Greetings_Greeting002.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "You can have legs OR a tail? Does Ariel know about this?!",
+      "cz": "Máš nohy NEBO ocas? Ví o tom Ariel?!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Sorry, I can't right now.",
+      "cz": "Omlouvám se, teď nemůžu.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Greetings_Greeting003.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "You're not gonna tell King Triton we're here, are you?",
+      "cz": "Neřekneš králi Tritonovi, že jsme tady, že ne?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Sorry, I can't right now.",
+      "cz": "Omlouvám se, teď nemůžu.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Greetings_Greeting004.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "Oh, hey there, {PlayerName}!",
+      "cz": "Ahoj, {PlayerName}!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Sorry, I can't right now.",
+      "cz": "Omlouvám se, teď nemůžu.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Greetings_Greeting005.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "You haven't seen any sharks here, have you?",
+      "cz": "Neviděl jsi tady žádné žraloky, že ne?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Sorry, I can't right now.",
+      "cz": "Omlouvám se, teď nemůžu.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Greetings_Greeting006.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "Wanna do something fun today? I'm not busy or anything.",
+      "cz": "Chceš dneska dělat něco zábavného? Nejsem zaneprázdněný nebo tak.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Sorry, I can't right now.",
+      "cz": "Omlouvám se, teď nemůžu.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Greetings_Greeting007.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "The ocean's really clear today. That helps with my allergies.",
+      "cz": "Dnes je oceán opravdu čistý. To mi pomáhá s alergiemi.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Sorry, I can't right now.",
+      "cz": "Omlouvám se, teď nemůžu.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Greetings_MorningGreeting001.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "Oh, hey! I wondered if I'd see you today.",
+      "cz": "Ahoj! Přemýšlel jsem, jestli tě dnes uvidím.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Sorry, I can't right now.",
+      "cz": "Omlouvám se, teď nemůžu.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Greetings_NightGreeting001.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "The ocean's pretty at night, huh?",
+      "cz": "Oceán je v noci pěkný, co říkáš?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Sorry, I can't right now.",
+      "cz": "Omlouvám se, teď nemůžu.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Greetings_RainyGreeting001.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "Rain is so weird. It's just ocean, but in the air.",
+      "cz": "Déšť je tak zvláštní. Je to jen oceán, ale ve vzduchu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Sorry, I can't right now.",
+      "cz": "Omlouvám se, teď nemůžu.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Greetings_SunnyGreeting001.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "Ariel always likes watching the sun come up on the surface. It is kinda pretty, I guess.",
+      "cz": "Ariel vždy ráda sleduje, jak vychází slunce na hladině. Je to vlastně docela hezké, myslím.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Sorry, I can't right now.",
+      "cz": "Omlouvám se, teď nemůžu.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Hangouts_EndHangout001.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "I had fun and there was no sharks! I'll be around, {PlayerName}!",
+      "cz": "Bylo to zábavné a nebyly žádné žraloci! Budu tady, {PlayerName}!",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Flounder/Flounder_Hangouts_StartHangout001.locbin": [
+    {
+      "key": "Flounder_000_f",
+      "en": "Sure... As long as there are no sharks...",
+      "cz": "Jasně... Pokud tu nebudou žádní žraloci...",
+      "source": "our_translation"
+    }
+  ]
+}

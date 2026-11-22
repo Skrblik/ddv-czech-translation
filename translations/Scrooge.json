@@ -3679,6 +3679,32 @@
       "original_cz": "Budeš si muset promluvit s Goofym o tom, jak to dát do pořádku, než budeme moci mít slavnostní otevření."
     }
   ],
+  "Scrooge/Scrooge_UnlocksAndUpgrades_Exp04_GoofyStallUnlock_Pirates.locbin": [
+    {
+      "key": "Scrooge_001_f",
+      "en": "Looks like you and Goofy have already put in some work fixin' up this Stall! Why don't I finish it off for ya?",
+      "cz": "Vypadá to, že jste s Goofym na opravě tohohle stánku už odvedli kus práce! Co kdybych to za vás dorazil?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "You'll be able to buy all sorts of new Ingredients now!",
+      "cz": "Teď si tu budeš moct koupit nejrůznější nové suroviny!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "But say, don't forget to set up Stalls everywhere in the Keepsake Sea. That way, you'll be able to keep buying fresh new Ingredients!",
+      "cz": "Ale poslyš, nezapomeň postavit stánky po celém Moři vzpomínek. Díky tomu si budeš moct i dál kupovat čerstvé suroviny!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "Time for the grand opening!",
+      "cz": "Je čas na slavnostní otevření!",
+      "source": "our_translation"
+    }
+  ],
   "Scrooge/Scrooge_UnlocksAndUpgrades_Expansion01RestaurantUnlock.locbin": [
     {
       "key": "Scrooge_000_f",
@@ -3818,6 +3844,18 @@
       "cz": "Oprava této studny znamená, že se sem můžete rychle dostat odkudkoli z hor. To mi zní jako kvalitní nabídka.",
       "source": "pre_existing",
       "original_cz": "Oprava této studny znamená, že se sem můžete rychle dostat odkudkoli z hor. To mi zní jako kvalitní nabídka."
+    },
+    {
+      "key": "Scrooge_006_f",
+      "en": "Repairing this Well means you can quickly travel here from anywhere in the Keepsake Sea. That sounds like a quality deal to me.",
+      "cz": "Oprava téhle studny znamená, že sem můžeš bleskově cestovat odkudkoliv z Moře vzpomínek. To mi zní jako náramně výhodný obchod!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_007_f",
+      "en": "Repairing this Well means you can quickly travel here from anywhere in the Honeyglow Woods. That sounds like a quality deal to me.",
+      "cz": "Oprava téhle studny znamená, že sem můžeš bleskově cestovat odkudkoliv z Lesa Medové záře. To mi zní jako náramně výhodný obchod!",
+      "source": "our_translation"
     },
     {
       "key": "Scrooge_003_f",
@@ -4200,6 +4238,44 @@
       "original_cz": "Osobně bych Filoktéta nikdy nenechal čekat."
     }
   ],
+  "Scrooge/Scrooge_UnlocksAndUpgrades_HookHouseUnlock.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "I agree. Captain Hook's too dangerous to let sail about willy-nilly. I'd be happy to help ya maroon him on land... if you'll cover the cost of materials, of course.",
+      "cz": "Souhlasím. Kapitán Hook je až příliš nebezpečný, než aby se mohl jen tak zbůhdarma toulat po vlnách. S nesmírným potěšením jej pomohu zanechat na souši... pokud ovšem, drahoušku, laskavě uhradíte veškeré náklady na materiál.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's get Hook's House up on land. (Use {UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)",
+      "cz": "Pojďme Hookovo sídlo umístit na souš. (Použít {UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Perhaps some other time.",
+      "cz": "Snad někdy jindy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "One dry dock for Hook's ship, just as ya asked.",
+      "cz": "Jeden suchý dok pro Hookovu loď, přesně podle vašeho vznešeného přání.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Och! You don't have enough Star Coins for this property! Come back when you have the funds, {PlayerName}.",
+      "cz": "Ach! Obávám se, že nedisponujete dostatečným množstvím hvězdných mincí pro tuto nemovitost! Vraťte se, až budou vaše truhly přetékat zlatem, {{PlayerName}}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "I'll be waitin' when ya change your mind. But we'd best deal with Hook sooner rather than later.",
+      "cz": "Budu zde trpělivě očekávat vaši změnu názoru. Avšak bylo by nanejvýš moudré vypořádat se s Hookem dříve, než nám všem dojde trpělivost.",
+      "source": "our_translation"
+    }
+  ],
   "Scrooge/Scrooge_UnlocksAndUpgrades_JackHouseUnlock.locbin": [
     {
       "key": "Scrooge_000_f",
@@ -4242,6 +4318,50 @@
       "cz": "Nečekej příliš dlouho, {PlayerName} – jsem si jistý, že Jack Skellington ocení místo k bydlení.",
       "source": "pre_existing",
       "original_cz": "Nečekej příliš dlouho, {PlayerName} – jsem si jistý, že Jack Skellington ocení místo k bydlení."
+    }
+  ],
+  "Scrooge/Scrooge_UnlocksAndUpgrades_JackSparrowHouseUnlock.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "Looking to invest some doubloons in a place for him to rest while he's ashore?",
+      "cz": "Chceš investovat pár dublonů do místa, kde by si tenhle pirát mohl hodit šlofíka, když je zrovna na souši, parťáku?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's make a House for Jack Sparrow. (Use {UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)",
+      "cz": "Postavme Jacku Sparrowovi dům. (Použít {UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Perhaps some other time.",
+      "cz": "Snad jindy, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "I've an idea of just the sort of place that'll suit Jack Sparrow.",
+      "cz": "Mám v hlavě přesně to pravé místo, co by Jacku Sparrowovi seklo. Savvy?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Och! You don't have enough Star Coins! Come back when you have the funds, {PlayerName}.",
+      "cz": "U všech mořských nestvůr! Nemáš dost hvězdných mincí! Vrať se, až budeš mít truhlu plnou zlata, {PlayerName}, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "But this is a sound investment! *sigh* Well, come back here when you come to your senses.",
+      "cz": "Ale tohle je naprosto skvělá kořist... teda investice! *povzdech* No dobrá, vrať se, až dostaneš rozum, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "That Jack Sparrow fella is an adventurer after me own heart.",
+      "cz": "Ten Jack Sparrow je dobrodruh přesně podle mýho pirátskýho gusta, parťáku.",
+      "source": "our_translation"
     }
   ],
   "Scrooge/Scrooge_UnlocksAndUpgrades_JasmineHouseUnlock.locbin": [
@@ -4427,6 +4547,44 @@
       "original_cz": "Na co se tu zaměřit? Maui potřebuje dům a firma McDuck Construction je připravena ho postavit! Raději se brzy vraťte!"
     }
   ],
+  "Scrooge/Scrooge_UnlocksAndUpgrades_MegaraHouseUnlock.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "You want me to cobble something together for Megara? Ah, it's been an age since I saw the lass. I'll do it gladly!",
+      "cz": "Chceš, abych pro Megaru něco spíchnul? Á, už je to věčnost, co jsem to děvče viděl. Udělám to rád!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's make a House for Megara. (Use {UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)",
+      "cz": "Postavme pro Megaru dům. (Použít {UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Perhaps some other time.",
+      "cz": "Možná jindy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "One home for Megara, ready in a jiffy.",
+      "cz": "Jeden domov pro Megaru, bude to co by dup.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Och! You don't have enough Star Coins for this property! Come back when you have the funds, {PlayerName}.",
+      "cz": "Och! Na tuhle nemovitost nemáš dost staromincí! Vrať se, až budeš mít finance, {PlayerName}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "But this is a sound investment! *sigh* Well, come back when you've come to your senses.",
+      "cz": "Ale tohle je rozumná investice! *povzdech* No dobrá, vrať se, až dostaneš rozum.",
+      "source": "our_translation"
+    }
+  ],
   "Scrooge/Scrooge_UnlocksAndUpgrades_MikeSulleyHouseUnlock.locbin": [
     {
       "key": "Scrooge_000_f",
@@ -4469,6 +4627,50 @@
       "cz": "*povzdech* Dobře. Tak, budu tu, až budeš připravený/á.",
       "source": "pre_existing",
       "original_cz": "*povzdech* Dobře. Tak, budu tu, až budeš připravený/á."
+    }
+  ],
+  "Scrooge/Scrooge_UnlocksAndUpgrades_MiloHouseUnlock.locbin": [
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's make a home for Milo. (Use {UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)",
+      "cz": "Pojďme... pojďme vytvořit domov pro Mila! (Použít {UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Perhaps some other time.",
+      "cz": "Možná jindy... musím ještě... eh, zkontrolovat tyhle mapy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "I'll get right to work converting this old submarine into a right cozy home for Milo.",
+      "cz": "Hned se pustím do práce! Přestavím tuhle starou ponorku na... na naprosto útulný domov pro Mila. Bude to... fascinující!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Och! You don't have enough Star Coins! Come back when you have the funds, {PlayerName}.",
+      "cz": "Ach! Vy... vy nemáte dostatek Star Coins? To je... to je drobný logistický zádrhel. Vraťte se, až budete mít prostředky, {{PlayerName}}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Milo can't go without a home forever! Come back once you've got the funds, {PlayerName}.",
+      "cz": "Milo přece nemůže zůstat bez domova navždy! To je jako... jako expedice bez kompasu! Vraťte se, až budete mít finance, {{PlayerName}}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "Milo's back you say? Well, sparkle me spats! He's got the heart of an explorer, just like myself.",
+      "cz": "Milo je zpět, říkáte? No páni! To je... to je naprosto fascinující! Má srdce průzkumníka, přesně jako... no, jako já!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_005_f",
+      "en": "With a bit of investment, I could turn Milo's wrecked submarine into a home for him.",
+      "cz": "S trochou... řekněme, investic... bych mohl tuhle ztroskotanou ponorku proměnit v domov. Je to... je to archeologicky i technicky vzrušující!",
+      "source": "our_translation"
     }
   ],
   "Scrooge/Scrooge_UnlocksAndUpgrades_MinnieHouseUnlock.locbin": [
@@ -4784,37 +4986,43 @@
       "key": "Scrooge_000_f",
       "en": "A House for Oogie Boogie? Good grief, if we MUST.",
       "cz": "Dům pro Oogie Boogieho? No nazdar, když tedy MUSÍME.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Dům pro Oogie Boogieho? No nazdar, když tedy MUSÍME."
     },
     {
       "key": "Player_000_choice_000_f",
       "en": "Let's build his House! (Use <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>",
       "cz": "Postavme mu dům! (Použít <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Postavme mu dům! (Použít <nobr>{UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)</nobr>"
     },
     {
       "key": "Player_000_choice_001_f",
       "en": "Perhaps some other time.",
       "cz": "Možná někdy jindy.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Možná někdy jindy."
     },
     {
       "key": "Scrooge_001_f",
       "en": "I hope you know what you're doin', {PlayerName}. One House comin' right up...",
       "cz": "Doufám, že víš, co děláš, {PlayerName}. Jeden dům hned bude...",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Doufám, že víš, co děláš, {PlayerName}. Jeden dům hned bude..."
     },
     {
       "key": "Scrooge_002_f",
       "en": "Seems you don't have the funds for this particular property. I cannae lie, I'm quite relieved we have peace for a bit longer... *sigh*",
       "cz": "Zdá se, že na tuhle nemovitost nemáš dost peněz. Nebudu lhát, docela se mi ulevilo, že budeme mít ještě chvíli klid... *vzdech*",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Zdá se, že na tuhle nemovitost nemáš dost peněz. Nebudu lhát, docela se mi ulevilo, že budeme mít ještě chvíli klid... *vzdech*"
     },
     {
       "key": "Scrooge_003_f",
       "en": "We're in agreement on that! Take your time with this one, aye?",
       "cz": "V tom se shodneme! S tímhle si dej načas, ano?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "V tom se shodneme! S tímhle si dej načas, ano?"
     }
   ],
   "Scrooge/Scrooge_UnlocksAndUpgrades_PeterPanHouseUnlock.locbin": [
@@ -5300,49 +5508,57 @@
       "key": "Scrooge_000_f",
       "en": "Och, I heard about poor Ralph's predicament.",
       "cz": "Ach, slyšel jsem o Ralfově tíživé situaci.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Ach, slyšel jsem o Ralfově tíživé situaci."
     },
     {
       "key": "Scrooge_001_f",
       "en": "Stuck is he? Well, let's see if we can help the muckle fella.",
       "cz": "Zasekl se, co? No, uvidíme, jestli tomu velkému chlapíkovi pomůžeme.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Zasekl se, co? No, uvidíme, jestli tomu velkému chlapíkovi pomůžeme."
     },
     {
       "key": "Player_000_choice_000_f",
       "en": "Let's build a House for Ralph! (Use {UpgradePrice}<sprite=\"iconCurrencySoft\" index=0>)",
       "cz": "Pojďme Ralfovi postavit dům! (Použít {UpgradePrice}<sprite=\"iconCurrencySoft\" index=0>)",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Pojďme Ralfovi postavit dům! (Použít {UpgradePrice}<sprite=\"iconCurrencySoft\" index=0>)"
     },
     {
       "key": "Player_000_choice_001_f",
       "en": "I need one last picture with T-Pose Ralph!",
       "cz": "Potřebuju ještě jednu fotku s T-Pose Ralfem!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Potřebuju ještě jednu fotku s T-Pose Ralfem!"
     },
     {
       "key": "Scrooge_003_f",
       "en": "Aye, I'm gonna BUILD IT!",
       "cz": "Aye, POSTAVÍM to!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Aye, POSTAVÍM to!"
     },
     {
       "key": "Scrooge_002_f",
       "en": "Heh-heh. Just a wee joke instead of \"wreck it.\" Och, never mind.",
       "cz": "Heh-heh. Jen malý vtípek místo \"rozbít to.\" Ach, to je jedno.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Heh-heh. Jen malý vtípek místo \"rozbít to.\" Ach, to je jedno."
     },
     {
       "key": "Scrooge_004_f",
       "en": "You've not got the Star Coins for this, {PlayerName}. You see, I've made a few upgrades to Ralph's humble abode. Come back as soon as you've got the funds.",
       "cz": "Na tohle nemáš dost Hvězdných mincí, {PlayerName}. Víš, udělal jsem pár vylepšení Ralfova skromného příbytku. Přijď, až budeš mít prostředky.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Na tohle nemáš dost Hvězdných mincí, {PlayerName}. Víš, udělal jsem pár vylepšení Ralfova skromného příbytku. Přijď, až budeš mít prostředky."
     },
     {
       "key": "Scrooge_005_f",
       "en": "Very well. *sigh* Let's get him unstuck as soon as we can though.",
       "cz": "Dobrá. *povzdech* Ale pojďme ho odsud dostat co nejdřív.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Dobrá. *povzdech* Ale pojďme ho odsud dostat co nejdřív."
     }
   ],
   "Scrooge/Scrooge_UnlocksAndUpgrades_RemyHouseUnlock.locbin": [
@@ -5876,6 +6092,50 @@
       "cz": "Dobře, ale WALL·E do téhle vesnice nevkročí — ehm, neudělá ani krok — dokud si nenajde místo, kde se bude cítit bezpečně. Vrať se, až budeš připravený investovat!",
       "source": "pre_existing",
       "original_cz": "Dobře, ale WALL·E do téhle vesnice nevkročí — ehm, neudělá ani krok — dokud si nenajde místo, kde se bude cítit bezpečně. Vrať se, až budeš připravený investovat!"
+    }
+  ],
+  "Scrooge/Scrooge_UnlocksAndUpgrades_WendyHouseUnlock.locbin": [
+    {
+      "key": "Scrooge_000_f",
+      "en": "You've found Wendy, after all this time? I was wonderin' where the wee lass might be.",
+      "cz": "Vskutku jsi po tom všem čase našel Wendy? Už jsem přemítal, kam se to milé děvče mohlo zatoulat.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_004_f",
+      "en": "She was always such a joy to have about the shop. And always keen to hear stories of my adventures. Why, I'd be happy to start construction on a home for her right away.",
+      "cz": "Vždy bylo takovým potěšením mít ji v obchodě nablízku. Pokaždé tak dychtivě naslouchala vyprávění o mých dobrodružstvích. Inu, s největší radostí se ihned pustím do stavby domova, který by jí náležel.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Let's make a House for Wendy. (Use {UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)",
+      "cz": "Postavme pro Wendy dům. (Použít {UpgradePrice} <sprite=\"iconCurrencySoft\" index=0>)",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Perhaps some other time.",
+      "cz": "Snad někdy jindy, až nastane ten správný čas.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_001_f",
+      "en": "One House fit for a London lass, comin' right up.",
+      "cz": "Jeden dům hodný mladé dámy z Londýna, hned to bude.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_002_f",
+      "en": "Och! You don't have enough Star Coins to fund construction! Come back when you've got the funds, {PlayerName}.",
+      "cz": "Ach, zdá se, že nemáš dostatek hvězdných mincí na zaplacení stavby. Vrať se, prosím, až budeš mít potřebné prostředky, {PlayerName}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Scrooge_003_f",
+      "en": "Poor Wendy's in need of a House. *sigh* Well, come back when you're ready to fund the construction.",
+      "cz": "Chudinka Wendy, tak moc by potřebovala svůj vlastní domov. *povzdech* Nuže, přijď, až budeš připraven financovat jeho stavbu.",
+      "source": "our_translation"
     }
   ],
   "Scrooge/Scrooge_UnlocksAndUpgrades_WoodyHouseUnlock.locbin": [

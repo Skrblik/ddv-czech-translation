@@ -4,13 +4,15 @@
       "key": "Remy_000_f",
       "en": "Thanks for your help trying out this recipe!",
       "cz": "Díky za pomoc s vyzkoušením tohoto receptu!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Díky za pomoc s vyzkoušením tohoto receptu!"
     },
     {
       "key": "Remy_001_f",
       "en": "And as promised... a gourmet picnic!",
       "cz": "A jak jsem slíbil... gurmánský piknik!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "A jak jsem slíbil... gurmánský piknik!"
     }
   ],
   "MiniEvent24_Remy/Remy_RPT_Remy_DailySummer_010_RPT_Remy_DailySummer_010_BringItem02.locbin": [
@@ -18,13 +20,15 @@
       "key": "Remy_000_f",
       "en": "Thanks for your help trying out this recipe!",
       "cz": "Díky za pomoc s vyzkoušením tohoto receptu!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Díky za pomoc s vyzkoušením tohoto receptu!"
     },
     {
       "key": "Remy_001_f",
       "en": "And as promised... a gourmet picnic!",
       "cz": "A jak jsem slíbil... gurmánský piknik!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "A jak jsem slíbil... gurmánský piknik!"
     }
   ],
   "MiniEvent24_Remy/Remy_RPT_Remy_DailySummer_010_RPT_Remy_DailySummer_010_BringItem03.locbin": [
@@ -32,13 +36,15 @@
       "key": "Remy_000_f",
       "en": "Thanks for your help trying out this recipe!",
       "cz": "Díky za pomoc s vyzkoušením tohoto receptu!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Díky za pomoc s vyzkoušením tohoto receptu!"
     },
     {
       "key": "Remy_001_f",
       "en": "And as promised... a gourmet picnic!",
       "cz": "A jak jsem slíbil... gurmánský piknik!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "A jak jsem slíbil... gurmánský piknik!"
     }
   ],
   "MiniEvent24_Remy/Remy_RPT_Remy_DailySummer_010_RPT_Remy_DailySummer_010_Intro.locbin": [
@@ -46,43 +52,50 @@
       "key": "Remy_000_f",
       "en": "Hey, {PlayerName}. I'm working on a summer-inspired menu for the restaurant.",
       "cz": "Hej, {PlayerName}. Pracuju na letním menu pro restauraci.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Hej, {PlayerName}. Pracuju na letním menu pro restauraci."
     },
     {
       "key": "Remy_002_f",
       "en": "Think you could give me a hand with recipe testing? I'll make you a gourmet picnic basket in return.",
       "cz": "Mohl/a bys mi pomoct s testováním receptů? Na oplátku ti udělám gurmánský piknikový koš.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Mohl/a bys mi pomoct s testováním receptů? Na oplátku ti udělám gurmánský piknikový koš."
     },
     {
       "key": "Player_000_choice_000_f",
       "en": "I'm ready to cook up a storm!",
       "cz": "Jsem připraven/a vařit jako o život!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Jsem připraven/a vařit jako o život!"
     },
     {
       "key": "Player_000_choice_001_f",
       "en": "Some other time.",
       "cz": "Někdy jindy.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Někdy jindy."
     },
     {
       "key": "Remy_004_f",
       "en": "Could you prepare a <ActivityItem>Boba Tea</ActivityItem>?",
       "cz": "Mohl/a bys připravit <ActivityItem>Boba čaj</ActivityItem>?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Mohl/a bys připravit <ActivityItem>Boba čaj</ActivityItem>?"
     },
     {
       "key": "Remy_005_f",
       "en": "Could you cook a <ActivityItem>Roasted Marshmallow</ActivityItem>?",
       "cz": "Mohl/a bys uvařit <ActivityItem>Opečený marshmallow</ActivityItem>?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Mohl/a bys uvařit <ActivityItem>Opečený marshmallow</ActivityItem>?"
     },
     {
       "key": "Remy_006_f",
       "en": "Could you cook a <ActivityItem>S'more</ActivityItem>?",
       "cz": "Mohl/a bys uvařit <ActivityItem>S'more</ActivityItem>?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Mohl/a bys uvařit <ActivityItem>S'more</ActivityItem>?"
     }
   ],
   "MiniEvent24_Remy/Remy_RPT_Remy_DailySummer_010_RPT_Remy_DailySummer_010_Ongoing01.locbin": [
@@ -90,7 +103,8 @@
       "key": "Remy_000_f",
       "en": "How's the recipe testing going? I'm up to my ears in gazpacho!",
       "cz": "Jak jde testování receptů? Já jsem po uši v gazpachu!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Jak jde testování receptů? Já jsem po uši v gazpachu!"
     }
   ],
   "MiniEvent24_Remy/Remy_RPT_Remy_DailySummer_010_RPT_Remy_DailySummer_010_Ongoing02.locbin": [
@@ -98,7 +112,8 @@
       "key": "Remy_000_f",
       "en": "How's the recipe testing going? I'm up to my ears in gazpacho!",
       "cz": "Jak jde testování receptů? Já jsem po uši v gazpachu!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Jak jde testování receptů? Já jsem po uši v gazpachu!"
     }
   ],
   "MiniEvent24_Remy/Remy_RPT_Remy_DailySummer_010_RPT_Remy_DailySummer_010_Ongoing03.locbin": [
@@ -106,7 +121,8 @@
       "key": "Remy_000_f",
       "en": "How's the recipe testing going? I'm up to my ears in gazpacho!",
       "cz": "Jak jde testování receptů? Já jsem po uši v gazpachu!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Jak jde testování receptů? Já jsem po uši v gazpachu!"
     }
   ],
   "MiniEvent24_Remy/Remy_RPT_Remy_DailySummer_010_RPT_Remy_DailySummer_010_Ongoing04.locbin": [
@@ -114,7 +130,8 @@
       "key": "Remy_000_f",
       "en": "How's the recipe testing going? I'm up to my ears in gazpacho!",
       "cz": "Jak jde testování receptů? Já jsem po uši v gazpachu!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Jak jde testování receptů? Já jsem po uši v gazpachu!"
     }
   ],
   "MiniEvent24_Remy/Remy_RPT_Remy_DailySummer_010_RPT_Remy_DailySummer_010_Ongoing05.locbin": [
@@ -122,7 +139,8 @@
       "key": "Remy_000_f",
       "en": "How's the recipe testing going? I'm up to my ears in gazpacho!",
       "cz": "Jak jde testování receptů? Já jsem po uši v gazpachu!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Jak jde testování receptů? Já jsem po uši v gazpachu!"
     }
   ],
   "MiniEvent24_Remy/Remy_RPT_Remy_DailySummer_010_RPT_Remy_DailySummer_010_Ongoing06.locbin": [
@@ -130,7 +148,8 @@
       "key": "Remy_000_f",
       "en": "How's the recipe testing going? I'm up to my ears in gazpacho!",
       "cz": "Jak jde testování receptů? Já jsem po uši v gazpachu!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Jak jde testování receptů? Já jsem po uši v gazpachu!"
     }
   ]
 }

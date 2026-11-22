@@ -1,20 +1,20 @@
 # 🏰 Disney Dreamlight Valley – Český překlad
 
-Kompletní český překlad pro hru **Disney Dreamlight Valley** včetně Adventure Packu **Honeyglow Woods** (Medvídek Pú, Prasátko, Ijáček a Stokorcový les), updatu **Pixel Perfect** (Raubíř Ralph a Vanelopka) a updatu **Season of Scares v1.25** (Oogie Boogie questy, Lucifer bundle, halloweenský Floating Festival).
+Kompletní český překlad pro hru **Disney Dreamlight Valley** včetně Adventure Packu **Honeyglow Woods** (Medvídek Pú, Prasátko, Ijáček a Stokorcový les), updatu **Pixel Perfect** (Raubíř Ralph a Vanelopka) a updatu **Expansion 04 v1.26.2 (Jack Sparrow, Hook, Wendy, Milo, Megara)** (Oogie Boogie questy, Lucifer bundle, halloweenský Floating Festival).
 
 > ### ⚠️ Důležité – verze hry
-> **Kompatibilní verze hry:** `v1.25.0-8687` + **4 DLCs**  
+> **Kompatibilní verze hry:** `v1.26.2` + **4 DLCs**  
 > Překlad je určen pro uvedenou verzi hry. Na novějších verzích nemusí být všechny texty funkční.
 
 ## 📊 Stav překladu
 
 | Metrika | Počet |
 |---------|-------|
-| **Celkem klíčů** | 147 866 |
-| **Přeložitelné klíče** | 146 819 |
-| **Přeloženo celkem** | 146 216 (99,6 %) |
+| **Celkem klíčů** | 158 373 |
+| **Přeložitelné klíče** | 157 258 |
+| **Přeloženo celkem** | 156 938 (99,8 %) |
 | ↳ Předexistující překlad ([666joxer](https://komunitni-preklady.org/preklad/disney-dreamlight-valley)) | 135 056 |
-| ↳ **Náš překlad (AI-assisted)** | **11 160** |
+| ↳ **Náš překlad (AI-assisted)** | **10 266** |
 | Nepřeloženo | 603 |
 | Systémové tagy (nepřekládá se) | 1 047 |
 

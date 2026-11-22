@@ -17,9 +17,9 @@ import os
 import sys
 import re
 
-zip_backup = r"G:\Games\Disney Dreamlight Valley\ddv_Data\StreamingAssets\Localization\záloha\LocDB_en-US.zip"
+zip_backup = r"G:\Games\Disney Dreamlight Valley\ddv_Data\StreamingAssets\Localization\záloha\LocDB_en-US_v1.26.2_orig.zip"
 zip_game = r"G:\Games\Disney Dreamlight Valley\ddv_Data\StreamingAssets\Localization\LocDB_en-US.zip"
-zip_orig_cz = r"G:\Games\Disney Dreamlight Valley\ddv_Data\StreamingAssets\Localization\LocDB_en-US.cz_original.bak"
+zip_orig_cz = r"G:\Games\Disney Dreamlight Valley\ddv_Data\StreamingAssets\Localization\záloha\LocDB_en-US2.zip"
 
 OUTPUT_DIR = sys.argv[1] if len(sys.argv) > 1 else r"C:\Users\Martin\AppData\LocalLow\Gameloft\Disney Dreamlight Valley\windows_default_r\ddv-czech-translation"
 

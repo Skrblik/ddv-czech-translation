@@ -4,7 +4,8 @@
       "key": "Joy_000_f",
       "en": "Ta-da!",
       "cz": "Tadá!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Tadá!"
     }
   ],
   "BestFriends_Joy/Joy_BestFriendsRequests_BFRequest001.locbin": [
@@ -12,7 +13,8 @@
       "key": "Joy_000_f",
       "en": "You can count on me, {PlayerName}!",
       "cz": "Na mě se můžeš spolehnout, {PlayerName}!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Na mě se můžeš spolehnout, {PlayerName}!"
     }
   ]
 }

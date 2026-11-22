@@ -4,43 +4,50 @@
       "key": "Goofy_000_f",
       "en": "Say, {PlayerName}, isn't this summer weather great?",
       "cz": "Řekni, {PlayerName}, není tohle letní počasí skvělé?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Řekni, {PlayerName}, není tohle letní počasí skvělé?"
     },
     {
       "key": "Goofy_002_f",
       "en": "How 'bout doin' some fishin' with your ol' pal Goofy? I've got a picnic basket made just for you!",
       "cz": "Co kdyby sis šel/a zarybařit se svým starým kámošem Goofym? Mám piknikový košík přímo pro tebe!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Co kdyby sis šel/a zarybařit se svým starým kámošem Goofym? Mám piknikový košík přímo pro tebe!"
     },
     {
       "key": "Player_000_choice_000_f",
       "en": "I'm up for some fishing!",
       "cz": "Na rybaření mám náladu!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Na rybaření mám náladu!"
     },
     {
       "key": "Player_000_choice_001_f",
       "en": "Maybe later.",
       "cz": "Možná později.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Možná později."
     },
     {
       "key": "Goofy_004_f",
       "en": "Could ya catch five fish off Dazzle Beach?",
       "cz": "Mohl/a bys chytit pět ryb na Oslnivé pláži?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Mohl/a bys chytit pět ryb na Oslnivé pláži?"
     },
     {
       "key": "Goofy_005_f",
       "en": "Could ya catch five fish in the Peaceful Meadow?",
       "cz": "Mohl/a bys chytit pět ryb na Klidné louce?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Mohl/a bys chytit pět ryb na Klidné louce?"
     },
     {
       "key": "Goofy_006_f",
       "en": "Can ya catch at least TWO fish weighing 2 pounds or more?",
       "cz": "Dokážeš chytit alespoň DVĚ ryby vážící 2 libry nebo víc?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Dokážeš chytit alespoň DVĚ ryby vážící 2 libry nebo víc?"
     }
   ],
   "MiniEvent24_Goofy/Goofy_RPT_Goof_DailySummer_010_RPT_Goof_DailySummer_010_Ongoing01.locbin": [
@@ -48,7 +55,8 @@
       "key": "Goofy_000_f",
       "en": "How's the fishin' goin', {PlayerName}? Have ya caught what you're looking for yet?",
       "cz": "Jak jde rybaření, {PlayerName}? Chytil/a jsi už, co hledáš?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Jak jde rybaření, {PlayerName}? Chytil/a jsi už, co hledáš?"
     }
   ],
   "MiniEvent24_Goofy/Goofy_RPT_Goof_DailySummer_010_RPT_Goof_DailySummer_010_Ongoing03.locbin": [
@@ -56,7 +64,8 @@
       "key": "Goofy_000_f",
       "en": "How's the fishin' goin', {PlayerName}? Have ya caught what you're looking for yet?",
       "cz": "Jak jde rybaření, {PlayerName}? Chytil/a jsi už, co hledáš?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Jak jde rybaření, {PlayerName}? Chytil/a jsi už, co hledáš?"
     }
   ],
   "MiniEvent24_Goofy/Goofy_RPT_Goof_DailySummer_010_RPT_Goof_DailySummer_010_Ongoing04.locbin": [
@@ -64,7 +73,8 @@
       "key": "Goofy_000_f",
       "en": "How's the fishin' goin', {PlayerName}? Have ya caught what you're looking for yet?",
       "cz": "Jak jde rybaření, {PlayerName}? Chytil/a jsi už, co hledáš?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Jak jde rybaření, {PlayerName}? Chytil/a jsi už, co hledáš?"
     }
   ],
   "MiniEvent24_Goofy/Goofy_RPT_Goof_DailySummer_010_RPT_Goof_DailySummer_010_TalkTo01.locbin": [
@@ -72,13 +82,15 @@
       "key": "Goofy_001_f",
       "en": "Well, looky there! That's quite a catch, {PlayerName}.",
       "cz": "No podívej se na to! To je pěkný úlovek, {PlayerName}.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "No podívej se na to! To je pěkný úlovek, {PlayerName}."
     },
     {
       "key": "Goofy_002_f",
       "en": "Here's the picnic basket I told ya about.",
       "cz": "Tady je piknikový košík, o kterém jsem ti říkal.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Tady je piknikový košík, o kterém jsem ti říkal."
     }
   ],
   "MiniEvent24_Goofy/Goofy_RPT_Goof_DailySummer_010_RPT_Goof_DailySummer_010_TalkTo02.locbin": [
@@ -86,13 +98,15 @@
       "key": "Goofy_000_f",
       "en": "Well, looky there! That's quite a catch, {PlayerName}.",
       "cz": "No podívej se na to! To je pěkný úlovek, {PlayerName}.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "No podívej se na to! To je pěkný úlovek, {PlayerName}."
     },
     {
       "key": "Goofy_001_f",
       "en": "Here's the picnic basket I told ya about.",
       "cz": "Tady je piknikový košík, o kterém jsem ti říkal.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Tady je piknikový košík, o kterém jsem ti říkal."
     }
   ],
   "MiniEvent24_Goofy/Goofy_RPT_Goof_DailySummer_010_RPT_Goof_DailySummer_010_TalkTo03.locbin": [
@@ -100,13 +114,15 @@
       "key": "Goofy_000_f",
       "en": "Well, looky there! That's quite a catch, {PlayerName}.",
       "cz": "No podívej se na to! To je pěkný úlovek, {PlayerName}.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "No podívej se na to! To je pěkný úlovek, {PlayerName}."
     },
     {
       "key": "Goofy_001_f",
       "en": "Here's the picnic basket I told ya about.",
       "cz": "Tady je piknikový košík, o kterém jsem ti říkal.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Tady je piknikový košík, o kterém jsem ti říkal."
     }
   ]
 }

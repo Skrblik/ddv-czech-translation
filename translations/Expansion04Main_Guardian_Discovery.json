@@ -1,0 +1,374 @@
+{
+  "Expansion04Main_Guardian_Discovery/Guardian_Discovery_Greetings_Greeting001.locbin": [
+    {
+      "key": "Guardian_Discovery_000_f",
+      "en": "Oh, hello...",
+      "cz": "Och, ahoj...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Sorry, I can't right now.",
+      "cz": "Promiň, teď nemůžu.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Guardian_Discovery/Guardian_Discovery_MRQS_E04_010_AKingdomAcrossTheSea_MRQS_E04_010_AKingdomAcrossTheSea_TalkTo08.locbin": [
+    {
+      "key": "Guardian_Discovery_001_f",
+      "en": "*yawnnnnn*",
+      "cz": "*zívvvvv*",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_002_f",
+      "en": "You know the problem with a nap? You always feel MORE tired after!",
+      "cz": "Znáš ten problém se šlofíkem? Člověk se po něm cítí ještě VÍC unavený!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_003_f",
+      "en": "Hey. Wait just a minute here! Who are you?",
+      "cz": "Hele. Momentíček! Kdo jsi?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "{PlayerName}.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "The Ruler of Dreamlight Valley? Duh.",
+      "cz": "Vládce Dreamlight Valley? No přece.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Who am I? Who are YOU, big talking magical mermaid statue?",
+      "cz": "Kdo jsem já? Kdo jsi TY, ty velká mluvící kouzelná socho mořské panny?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_004_f",
+      "en": "{PlayerName}... Okay, I've DEFINITELY heard that name before.",
+      "cz": "{PlayerName}... Dobrá, tohle jméno už jsem ROZHODNĚ někdy slyšela.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_005_f",
+      "en": "You look almost like...",
+      "cz": "Vypadáš skoro jako...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_010_f",
+      "en": "But no. You're too old.",
+      "cz": "Ale ne. Jsi na to moc starý.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_011_f",
+      "en": "Way too old to be the Legendary Adventurer.",
+      "cz": "Až moc na to, abys byl ten Legendární dobrodruh.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I'm older now, but I was younger once.",
+      "cz": "Teď jsem starší, ale kdysi jsem byl mladší.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Just who is this Legendary Adventurer?",
+      "cz": "Kdo je vlastně ten Legendární dobrodruh?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Hey! Who are you calling old?",
+      "cz": "Hej! Koho to tady nazýváš starým?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_018_f",
+      "en": "Wait. You're right! That's TOTALLY how linear time works! You could be the Legendary Adventurer... just older!",
+      "cz": "Počkej. Máš pravdu! Přesně TAKHLE lineární čas funguje! Mohl bys být ten Legendární dobrodruh... jenom starší!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_021_f",
+      "en": "I've been waiting for the Legendary Adventurer to come back and wake me up for... well, I don't know how long, since I was asleep the whole time and it felt like a blink for me.",
+      "cz": "Čekala jsem, až se Legendární dobrodruh vrátí a probudí mě... no, ani nevím jak dlouho, protože jsem celou dobu spala a mně to přišlo jen jako mrknutí oka.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_000_f",
+      "en": "Let me tell you a little story.",
+      "cz": "Povím ti takový krátký příběh.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_027_f",
+      "en": "Soooo. If you really are the Legendary Adventurer...",
+      "cz": "Takžeee. Jestli jsi vážně ten Legendární dobrodruh...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_013_f",
+      "en": "...you're gonna have to <Lore>prove yourself</Lore>.",
+      "cz": "...budeš se muset <Lore>osvědčit</Lore>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_014_f",
+      "en": "I've got a little challenge for you. A set of riddles that will show me whether you've really got the spirit of discovery.",
+      "cz": "Mám pro tebe takovou malou výzvu. Sérii hádanek, které mi ukážou, jestli v sobě vážně máš objevitelského ducha.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_016_f",
+      "en": "Prove yourself to me, and I'll tell you how to get to the kingdom.",
+      "cz": "Dokaž mi, co v tobě je, a já ti řeknu, jak se dostat do království.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_017_f",
+      "en": "Good luck! You got this!",
+      "cz": "Hodně štěstí! To zvládneš!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_019_f",
+      "en": "You know. The one who does all sorts of legendary adventure-y stuff.",
+      "cz": "Však víš. Ten, co dělá všechny ty legendární dobrodružné věci.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_020_f",
+      "en": "I didn't say OLD. I said OLDER. As in, OLDER than the Legendary Adventurer. Which you DEFINITELY are.",
+      "cz": "Neřekla jsem STARÝ. Řekla jsem STARŠÍ. Jakože STARŠÍ než ten Legendární dobrodruh. Což ROZHODNĚ jsi.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_006_f",
+      "en": "Dreamlight Valley? Okay, that's ringing a bell.",
+      "cz": "Dreamlight Valley? Dobrá, to mi něco říká.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_007_f",
+      "en": "Don't worry. We'll get to that. Eventually.",
+      "cz": "Neboj. K tomu se dostaneme. Časem.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Guardian_Discovery/Guardian_Discovery_MRQS_E04_020_TheFourGuardians_MRQS_E04_020_TheFourGuardians_TalkTo03.locbin": [
+    {
+      "key": "Guardian_Discovery_000_f",
+      "en": "Huh. You... you completed my riddles...?",
+      "cz": "No teda. Ty... ty jsi ty moje hádanky opravdu vyluštil/a...?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_001_f",
+      "en": "Gotta admit, {PlayerName}... I'm impressed!",
+      "cz": "Musím uznat, {PlayerName}... udělal/a jsi na mě dojem!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_002_f",
+      "en": "I feel the magic being restored to me. Heh-heh! You really do have the spirit of discovery.",
+      "cz": "Cítím, jak se mi vrací magie. Hehe! V tobě se ten objevitelský duch vážně nezapře.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Your challenge was actually... pretty fun!",
+      "cz": "Tvoje výzva byla vlastně... docela zábavná!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "It was tough, but I managed it.",
+      "cz": "Bylo to těžké, ale zvládl/a jsem to.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Please tell me you don't have more CHORES for me.",
+      "cz": "Prosím tě, řekni mi, že pro mě nemáš další POVINNOSTI.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_004_f",
+      "en": "I see that old sparkle coming back to your eyes. You're <Lore>just the way I remembered you</Lore>.",
+      "cz": "Vidím, jak se ti do očí vrací ta stará jiskra. Jsi <Lore>přesně takový/á, jak si tě pamatuju</Lore>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_020_f",
+      "en": "Finally, there was my youngest sister, <Lore>Boldness</Lore>.",
+      "cz": "A nakonec tu byla moje nejmladší sestra, <Lore>Odvážnost</Lore>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_003_f",
+      "en": "Who stood for the spirit that never asks itself \"why not?\"",
+      "cz": "Která ztělesňovala ducha, co se nikdy neptá „proč ne?“",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_023_f",
+      "en": "To <Lore>reach the kingdom</Lore>... you must <Lore>awaken my sisters</Lore>.",
+      "cz": "Abys <Lore>dosáhl/a království</Lore>... musíš <Lore>probudit mé sestry</Lore>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "I'll do whatever I have to.",
+      "cz": "Udělám cokoli, co bude potřeba.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "How exactly do I do that?",
+      "cz": "Jak přesně to mám udělat?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Got it. Craft one giant alarm clock.",
+      "cz": "Chápu. Vyrobit jeden obří budík.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_017_f",
+      "en": "You <i>are</i> the Legendary Adventurer. I'm sure of it now. You've just forgotten.",
+      "cz": "Ty <i>jsi</i> ten legendární dobrodruh. Teď už jsem si jistá. Jen jsi na to zapomněl/a.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_010_f",
+      "en": "With a touch of Dreamlight Magic, the Adventurer created me and my sisters to watch over this place and keep it safe.",
+      "cz": "S dotekem magie Dreamlight nás Dobrodruh stvořil – mě i mé sestry – abychom na toto místo dohlížely a chránily ho.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_011_f",
+      "en": "First came little old me, <Lore>Discovery</Lore>, the spirit that sent our Adventurer out into these uncharted waters.",
+      "cz": "Jako první jsem přišla na řadu já, <Lore>Objevitelka</Lore>, duch, který vyslal našeho Dobrodruha do těchto neprobádaných vod.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_012_f",
+      "en": "Next came my sister at the lighthouse in the grotto beyond Shipwreck Shores.",
+      "cz": "Pak přišla moje sestra u majáku v jeskyni za Pobřežím vraků.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_013_f",
+      "en": "Her magic was <Lore>Resilience</Lore>, the very same strength that helped our Adventurer rise above skinned knees and hurt feelings.",
+      "cz": "Její magií byla <Lore>Houževnatost</Lore>, přesně ta síla, která našemu Dobrodruhovi pomáhala překonat odřená kolena i pošramocené city.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_014_f",
+      "en": "Next, in the waters beyond <Lore>Candy Cove</Lore>, was my sister <Lore>Expression</Lore>...",
+      "cz": "Další, ve vodách za <Lore>Cukrátkovou zátokou</Lore>, byla moje sestra <Lore>Sebevyjádření</Lore>...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_015_f",
+      "en": "...who represented the bravery of adventurers to be utterly themselves.",
+      "cz": "...která představovala odvahu dobrodruhů být naprosto sami sebou.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_026_f",
+      "en": "Love that!",
+      "cz": "To se mi líbí!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_016_f",
+      "en": "Oh. Oh! This is fascinating.",
+      "cz": "Ó. Ó! To je fascinující.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_018_f",
+      "en": "Here. You take a look and meet me over by the gate when you're ready. Pretty sure I know EXACTLY what we need to do next.",
+      "cz": "Tady. Podívej se na to a až budeš ready, sejdi se se mnou u brány. Jsem si skoro jistá, že vím PŘESNĚ, co musíme udělat dál.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_024_f",
+      "en": "You already know how to do it.",
+      "cz": "Ty už víš, jak na to.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_025_f",
+      "en": "After all, you managed to awaken me, didn't you?",
+      "cz": "Koneckonců, mě se ti probudit podařilo, ne?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_008_f",
+      "en": "Find the <Lore>Sunken Echoes</Lore> beneath the waves. Each one holds the memory of something you've lost.",
+      "cz": "Najdi pod vlnami <Lore>Potopené ozvěny</Lore>. Každá z nich v sobě nese vzpomínku na něco, co jsi ztratil/a.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_021_f",
+      "en": "Bring the <Lore>Keepsakes</Lore> you find there to my sisters. The ones in the glowing bottles.",
+      "cz": "Přines ty <Lore>Upomínky</Lore>, co tam najdeš, mým sestrám. Jsou v těch zářících lahvích.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_022_f",
+      "en": "Then prove yourself to them. Easy-peasy!",
+      "cz": "Pak se jim prokaž. Brkačka!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_028_f",
+      "en": "I even have a <Lore>map</Lore> to help you do it.",
+      "cz": "Mám dokonce i <Lore>mapu</Lore>, která ti s tím pomůže.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_009_f",
+      "en": "Wait, did you say \"map\"? May I see that?",
+      "cz": "Počkat, řekl/a jsi „mapu“? Můžu ji vidět?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_027_f",
+      "en": "*sigh* If only it were that simple. But don't worry.",
+      "cz": "*povzdech* Kéž by to bylo tak jednoduché. Ale neboj se.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_005_f",
+      "en": "That's that can-do spirit that I remember.",
+      "cz": "To je přesně ten odhodlaný duch, kterého si pamatuju.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_006_f",
+      "en": "Chores, tasks, questions, riddles... tomatoes, tomahtoes.",
+      "cz": "Povinnosti, úkoly, otázky, hádanky... prašť jako uhoď.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Discovery_007_f",
+      "en": "You've changed so much, {PlayerName}. <Lore>I barely recognize you.</Lore>",
+      "cz": "Tak moc jsi se změnil/a, {PlayerName}. <Lore>Sotva tě poznávám.</Lore>",
+      "source": "our_translation"
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "Expansion04Main_Guardian_Resilience/Guardian_Resilience_Greetings_Greeting001.locbin": [
+    {
+      "key": "Guardian_Resilience_000_f",
+      "en": "Oh, hello...",
+      "cz": "Och, ahoj...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Sorry, I can't right now.",
+      "cz": "Promiň, teď nemůžu.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Guardian_Resilience/Guardian_Resilience_MRQS_E04_040_SkeletonCrew_MRQS_E04_040_SkeletonCrew_TalkTo02.locbin": [
+    {
+      "key": "Guardian_Resilience_000_f",
+      "en": "*yawn*",
+      "cz": "*zív*",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_002_f",
+      "en": "Is it time to get up already...?",
+      "cz": "To už je čas vstávat...?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_001_f",
+      "en": "... But I don't wanna... zzzzZZZZzzz...",
+      "cz": "... Ale mně se nechce... chrrr-pííí-chrrr...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I can come back some other time?",
+      "cz": "Mám přijít jindy?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Please. I need your help.",
+      "cz": "Prosím. Potřebuju tvou pomoc.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "WAKE UP!",
+      "cz": "VSTÁVEJ!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_003_f",
+      "en": "Huh? Hmm. No, no. I've slept long enough.",
+      "cz": "Cože? Hmm. Ne, ne. Spala jsem už dost dlouho.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_006_f",
+      "en": "Oh... you're... No... you couldn't be...?",
+      "cz": "Och... ty jsi... Ne... to snad ani není možné...?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_007_f",
+      "en": "Are you the Legendary Adventurer?",
+      "cz": "Ty jsi ten Legendární dobrodruh?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Yes. I've returned. I've returned to fix everything here.",
+      "cz": "Ano. Vracím se, abych tu všechno dal/a do pořádku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I don't know. I can't remember. I hope so.",
+      "cz": "Nevím. Nepamatuju si to. Doufám, že ano.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "No. I'm not. I'm just {PlayerName}.",
+      "cz": "Ne, nejsem. Jsem jen {{PlayerName}}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_008_f",
+      "en": "You don't expect me to believe you so easily, do you?",
+      "cz": "Snad nečekáš, že ti tak snadno uvěřím?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_017_f",
+      "en": "How exactly do we do that?",
+      "cz": "Jak přesně to uděláme?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_018_f",
+      "en": "Not through flattery like that, that's for sure!",
+      "cz": "Takovým lichocením určitě ne, to si piš!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_019_f",
+      "en": "Only the Legendary Adventurer can be allowed to pass. To prove yourself... you'll need to solve my riddles.",
+      "cz": "Projít smí jen Legendární dobrodruh. Aby ses prokázal/a... budeš muset vyřešit mé hádanky.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Ooh! More riddles! Fun!",
+      "cz": "Ó! Další hádanky! To bude zábava!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Hm. More riddles. Okay...",
+      "cz": "Hm. Další hádanky. Tak dobrá...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Agh! More riddles?! No!!!",
+      "cz": "Ach ne! Další hádanky?! To snad ne!!!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_014_f",
+      "en": "Well... whoever you are... hello!",
+      "cz": "No... ať už jsi kdokoli... zdravím!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_015_f",
+      "en": "I'm the Guardian of Resilience. Don't wear it out.",
+      "cz": "Jsem Strážkyně houževnatosti. Tak ji hned neopotřebuj.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_020_f",
+      "en": "Just beyond this grotto are the waters of <Lore>Candy Cove</Lore>...",
+      "cz": "Hned za touto jeskyní jsou vody <Lore>Cukrové zátoky</Lore>...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_021_f",
+      "en": "...an island that I'm sworn to guard.",
+      "cz": "...ostrova, který jsem přísahala chránit.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_009_f",
+      "en": "We, uh... well, we met your sister already, back in Shipwreck Shores. Does that help?",
+      "cz": "My, eh... no, už jsme potkali tvou sestru tam v Pobřeží vraků. Pomůže to?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_010_f",
+      "en": "Oh, yes. My sister, Discovery.",
+      "cz": "Och, ano. Moje sestra, Objevitelka.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_011_f",
+      "en": "You may have made friends with her, but you haven't proven yourself to me yet.",
+      "cz": "Možná ses s ní spřátelil/a, ale mně jsi ještě nic nedokázal/a.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_016_f",
+      "en": "Tell us, oh Guardian of infinite wisdom and whatnot...",
+      "cz": "Pověz nám, ó Strážkyně nekonečné moudrosti a tak vůbec...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_022_f",
+      "en": "Love that enthusiasm. You're gonna do great.",
+      "cz": "To nadšení se mi líbí. Povede se ti skvěle.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_026_f",
+      "en": "These ought to prove that you have the <Lore>spirit of resilience</Lore>.",
+      "cz": "Tyhle by měly dokázat, že máš <Lore>ducha houževnatosti</Lore>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_027_f",
+      "en": "Good luck!",
+      "cz": "Hodně štěstí!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_024_f",
+      "en": "Wow, don't sound so excited. Don't worry. I know you're gonna do great.",
+      "cz": "Páni, nepřeháněj to s tím nadšením. Neboj. Vím, že to zvládneš skvěle.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_025_f",
+      "en": "Don't worry. I just know you're going to have so much fun doing my riddles!",
+      "cz": "Neboj se. Úplně vidím, jak se u mých hádanek budeš bavit!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_012_f",
+      "en": "Dear, if you don't believe in yourself, how do you expect anybody else to believe in you?",
+      "cz": "Drahý/á, když si nevěříš ty, jak můžeš čekat, že ti bude věřit někdo jiný?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_013_f",
+      "en": "Never heard of you. But you look an awful lot like a certain Legendary Adventurer.",
+      "cz": "Nikdy jsem o tobě neslyšela. Ale vypadáš úplně jako jeden jistý Legendární dobrodruh.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_004_f",
+      "en": "Mmm. All right, all right. I've slept long enough.",
+      "cz": "Mmm. Tak dobrá, tak dobrá. Spala jsem už dost dlouho.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_005_f",
+      "en": "Ahhh! Okay, okay. I'm up already.",
+      "cz": "Ááá! Dobrá, dobrá. Už jsem vzhůru.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Guardian_Resilience/Guardian_Resilience_MRQS_E04_050_SlipperySituation_MRQS_E04_050_SlipperySituation_TalkTo06.locbin": [
+    {
+      "key": "Guardian_Resilience_001_f",
+      "en": "Ah, you've completed my riddles.",
+      "cz": "Á, mé hádanky máš zdárně za sebou.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_000_f",
+      "en": "Beyond this gate lies <Lore>Candy Cove</Lore>, an island made of sugar and sweets.",
+      "cz": "Za touto bránou leží <Lore>Cukrová zátoka</Lore>, ostrov stvořený z cukru a sladkostí.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_002_f",
+      "en": "Let me open the way for you. When you reach land, keep an eye out for <Lore>the Oracle</Lore>. She'll be able to help you find the next Sunken Echoes.",
+      "cz": "Dovol mi, abych ti otevřel cestu. Jakmile dorazíš na pevninu, poohlédni se po <Lore>Věštkyni</Lore>. Ta ti pomůže najít další Potopené ozvěny.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Who is this Oracle?",
+      "cz": "Kdo je ta Věštkyně zač?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Can I get a description? Height, hair, eye color...",
+      "cz": "Můžeš mi ji popsat? Výška, vlasy, barva očí...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Oh great. More mysterious people to watch out for.",
+      "cz": "No skvělé. Další tajemné postavy, na které si musím dávat pozor.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_003_f",
+      "en": "That, you'll have to learn for yourself.",
+      "cz": "To už budeš muset zjistit na vlastní pěst.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_004_f",
+      "en": "But be careful. There's also a <Lore>villainous pirate</Lore> waiting for you in the waters beyond.",
+      "cz": "Ale buď na pozoru. Ve vodách, které tě čekají, číhá i jeden <Lore>podlý pirát</Lore>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_005_f",
+      "en": "Don't worry though. Now I know you have the resilience to face anything that awaits you.",
+      "cz": "Ale žádné strachy. Teď už vím, že máš dostatek odhodlání čelit všemu, co tě tam venku potká.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_006_f",
+      "en": "Sail on, Legendary Adventurer. You got this.",
+      "cz": "Šťastnou plavbu, legendární dobrodruhu. Ty to zvládneš.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_007_f",
+      "en": "Don't worry. She's very Oracle-y. I bet you won't have any trouble at all.",
+      "cz": "Neboj se. Je to věštkyně každým coulem. Vsadím se, že ji poznáš bez sebemenších potíží.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Guardian_Resilience_008_f",
+      "en": "Trust me, the Oracle is worth the search.",
+      "cz": "Věř mi, Věštkyni se vyplatí hledat.",
+      "source": "our_translation"
+    }
+  ]
+}

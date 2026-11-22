@@ -1,0 +1,784 @@
+{
+  "Expansion04Main_CaptJackSparrow/VLG_Capt_010.locbin": [
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_010_AvailableDescription",
+      "en": "Jack Sparrow has been moping around, mourning the loss of his Ship, but recently he seems particularly chipper...",
+      "cz": "Jack Sparrow se potloukal smutně, oplakávaje ztrátu svého lodi, ale v poslední době se zdá být zvlášť veselý...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_010_CompletedStoryDescription",
+      "en": "Success! After cutting your teeth on some simple wrecks, Jack guided your ship out to the wreck he had heard about. Sure enough, it contained a seashell covered in markings that Jack says is a fragment of a larger map... that will lead to his Ship!",
+      "cz": "Úspěch! Po tom, co jste získali zkušenosti na několika jednoduchých troskách, Jack vás navedl k trosce, o které slyšel. A skutečně, obsahovala lasturu pokrytou značkami, o které Jack říká, že je fragmentem větší mapy... která povede k jeho lodi!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_010_DisplayName",
+      "en": "Bring Me That Horizon",
+      "cz": "Přines mi ten obzor",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_010_Group01_StepDescription",
+      "en": "Open the {ItemName} from your Inventory.",
+      "cz": "Otevřete {ItemName} ze svého inventáře.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_010_Group02_Step17_BoatCustomization01_StepDescription",
+      "en": "Add a motif to your flag.",
+      "cz": "Přidejte na svou vlajku motiv.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_010_Group02_Step17_BoatCustomization02_StepDescription",
+      "en": "Change the texture of your flag or sails.",
+      "cz": "Změňte texturu své vlajky nebo plachet.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_010_Group02_Step17_StepDescription",
+      "en": "(Customize your vessel by pressing {input_boatactioncustomizefromdock} on your docked ship.)",
+      "cz": "(Přizpůsobte si své plavidlo stisknutím {input_boatactioncustomizefromdock} na vašem zakotveném plavidle.)",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_010_Group02_StepDescription",
+      "en": "Create your own Pirate Flag.",
+      "cz": "Vytvořte si vlastní pirátskou vlajku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_010_Group03_Step03_DressUp01_StepDescription",
+      "en": "Put on any Bold or Traditional clothes.",
+      "cz": "Oblékněte si jakýkoli odvážný nebo tradiční oděv.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_010_Group03_Step03_StepDescription",
+      "en": "Dress like a proper pirate.",
+      "cz": "Obleč se jako správný pirát.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_010_Group03_Step04_StepDescription",
+      "en": "(Optional) Order some proper pirate clothes from Scrooge McDuck.",
+      "cz": "(Volitelné) Objednejte si od Káčera Škrétu nějaké pořádné pirátské oblečení.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_010_Group04_Step05_TalkToCharacter01_StepDescription",
+      "en": "Return to {TargetNPC}.",
+      "cz": "Vraťte se k {TargetNPC}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_010_Group04_StoryDescription",
+      "en": "Jack Sparrow has a lead on where to find his Ship, but wants to train up your pirate skills so you can properly help with the hunt. After designing a pirate flag and dressing up in a pirate outfit, it's time to see if Jack approves of your progress.",
+      "cz": "Jack Sparrow má stopu, kde najít svůj loď, ale chce trénovat vaše pirátské dovednosti, abyste mohli správně pomoci při hledání. Po navržení pirátské vlajky a oblečení se do pirátského kostýmu je čas zjistit, zda Jack schvaluje váš pokrok.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_010_Group05_StepDescription",
+      "en": "Recruit someone who's good with <Lore>maps, languages, and tools</Lore> to your pirate crew.",
+      "cz": "Najměte někoho, kdo je dobrý v <Lore>mapách, jazycích a nástrojích</Lore>, do své pirátské posádky.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_010_Group06_Step07_BoatCrewMember01_StepDescription",
+      "en": "Assign a crew to your docked ship with the <Lore>Customize menu</Lore>.",
+      "cz": "Přiřaďte posádku ke své zakotvené lodi pomocí <Lore>menu Přizpůsobit</Lore>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_010_Group06_StepDescription",
+      "en": "Assign <Lore>Milo</Lore> and <Lore>Jack Sparrow</Lore> to your ship.",
+      "cz": "Přiřaďte <Lore>Mila</Lore> a <Lore>Jacka Sparrowa</Lore> ke své lodi.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_010_Group07_Step08_VisitArea01_StepDescription",
+      "en": "Enter your cabin with {input_boatactioncaptainscabin} at a dock or while at sea.",
+      "cz": "Vstupte do své kajuty s {input_boatactioncaptainscabin} u mola nebo na moři.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_010_Group08_Step09_TalkToCharacter03_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluv si s {TargetNPC}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_010_Group09_Step10_StepDescription",
+      "en": "(Use {input_boatactionsalvaging} to salvage near a ripple in the high seas.)",
+      "cz": "(Použijte {input_boatactionsalvaging} k záchraně poblíž vlny na otevřeném moři.)",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_010_Group09_StepDescription",
+      "en": "Sail at sea and salvage a treasure in your boat.",
+      "cz": "Plujte po moři a zachraňte poklad ve své lodi.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_010_Group09_StoryDescription",
+      "en": "Your transforming into a fearsome pirate continues! Now that you've painstakingly selected a fearsome crew, it's nearly time to set sail!",
+      "cz": "Tvá proměna v hrozivého piráta pokračuje! Teď, když jsi pečlivě vybral hrozivou posádku, je téměř čas vyplout!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_010_Group10_Step12_VisitArea02_StepDescription",
+      "en": "(Press {input_boatactioncaptainscabin} to enter the cabin while sailing.)",
+      "cz": "(Stiskněte {input_boatactioncaptainscabin} pro vstup do kajuty během plavby.)",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_010_Group10_StepDescription",
+      "en": "Enter your Captain's Cabin directly from your boat.",
+      "cz": "Vstupte do kajuty Kapitána přímo z vaší lodě.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_010_Group11_Step13_TalkToCharacter04_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluvte si s {TargetNPC}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_010_Group12_Step14_VisitArea03_StepDescription",
+      "en": "Sail toward the south shipwrecks to salvage more booty around Hideout Island.",
+      "cz": "Plujte na jih k vrakům lodí, abyste na ostrově úkrytu ulovili více kořisti.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_010_Group13_Step15_StepDescription",
+      "en": "Sail carefully between the shipwrecks to reach the salvage points near Hideout Island.",
+      "cz": "Plujte opatrně mezi vraky lodí, abyste dosáhli záchranných bodů poblíž Ostrova skrýše.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_010_Group13_StepDescription",
+      "en": "Salvage treasures between the shipwrecks near Hideout Island.",
+      "cz": "Vykupujte poklady mezi vraky lodí poblíž Ostrova úkrytu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_010_Group14_Step16_ReadyDescription",
+      "en": "Return to {TargetNPC} and show him the {ItemName}.",
+      "cz": "Vraťte se k {TargetNPC} a ukažte mu {ItemName}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_010_Group14_Step16_StepDescription",
+      "en": "Make sure you have the {ItemName}.",
+      "cz": "Ujistěte se, že máte {ItemName}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_010_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Začít úkol",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_CaptJackSparrow/VLG_Capt_020.locbin": [
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_020_AvailableDescription",
+      "en": "Jack has been hard at work examining the seashell map fragment you helped him find.",
+      "cz": "Jack pilně pracoval na zkoumání fragmentu mapy mušle, který mu pomohl najít.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_020_CompletedStoryDescription",
+      "en": "Once woken up, the Jade Skull Pirate introduced itself as First Mate Marcus — the only friendly pirate of the bunch. He told his story of being marooned and confirmed that there's a secret layer to the map that can only be revealed by mystical Jade Light.",
+      "cz": "Jakmile se probudil, pirát s nefritovou lebkou se představil jako První důstojník Marcus — jediný přátelský pirát z celé skupiny. Vyprávěl svůj příběh o tom, jak byl opuštěn na ostrově, a potvrdil, že existuje tajná vrstva mapy, kterou lze odhalit pouze mystickým Nefritovým světlem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_020_DisplayName",
+      "en": "Shellfish Behavior",
+      "cz": "Chování korýšů",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_020_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "(Hint: Equip Dory as a companion or find her in the Underwater Crossing.)",
+      "cz": "(Nápověda: Vybavte Dory jako společníka nebo ji najděte v Podvodním přechodu.)",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_020_Group01_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluvte si s {TargetNPC}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_020_Group02_Step17_VisitArea01_StepDescription",
+      "en": "Dive in the Underwater Crossing.",
+      "cz": "Ponořte se do podvodního přechodu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_020_Group03_Step04_BringItem01_StepDescription",
+      "en": "Surge through bubbles to collect all the seashells.",
+      "cz": "Proplouvej bublinkami a sbírej všechny mušle.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_020_Group03_Step04_ReadyDescription",
+      "en": "Give all the {ItemName} to {TargetNPC}.",
+      "cz": "Dej všechny {ItemName} {TargetNPC}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_020_Group03_Step04_StepDescription",
+      "en": "Find all the {ItemName} in the Underwater Crossing.",
+      "cz": "Najděte všechny {ItemName} v Podvodním Přechodu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_020_Group03_Step04_WrongSceneDescription",
+      "en": "Meet {TargetNPC} back in his House.",
+      "cz": "Setkejte se s {TargetNPC} zpět v jeho domě.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_020_Group04_Step05_CompleteStory01_StepDescription",
+      "en": "Assemble the map by interacting with the puzzle on the wall in Jack Sparrow's House.",
+      "cz": "Sestavte mapu interakcí s hádankou na zdi v domě Jacka Sparrowa.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_020_Group05_Step06_TalkToCharacter02_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluvte si s {TargetNPC}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_020_Group05_Step06_TalkToCharacter02_WrongSceneDescription",
+      "en": "Return to {TargetNPC} in his House.",
+      "cz": "Vraťte se k {TargetNPC} do jeho domu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_020_Group06_Step07_SailingAction01_StepDescription",
+      "en": "(Hint: Review the map in your Memories by pressing {input_mainmenucollection})",
+      "cz": "(Nápověda: Prohlédněte si mapu ve svých Vzpomínkách stisknutím {input_mainmenucollection})",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_020_Group06_StepDescription",
+      "en": "Dock your ship where the X marks the spot on Jack Sparrow's treasure map.",
+      "cz": "Zakotvěte svou loď tam, kde X označuje místo na pokladu Jacka Sparrowa.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_020_Group07_Step09_StepDescription",
+      "en": "Use your Pickaxe to remove heavy bushes from the path on Hideout Island.",
+      "cz": "Použij svůj krumpáč k odstranění hustých keřů z cesty na Ostrově skrýše.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_020_Group07_StepDescription",
+      "en": "Search for the treasure on Hideout Island.",
+      "cz": "Hledej poklad na Ostrově úkrytu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_020_Group08_Step10_Interaction01_StepDescription",
+      "en": "Dig up the buried treasure on Hideout Island.",
+      "cz": "Vykopej zakopaný poklad na Ostrově skrýše.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_020_Group09_Step11_TalkToCharacter03_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluv si s {TargetNPC}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_020_Group09_StepDescription",
+      "en": "There was a strange <Lore>Jade Skull</Lore> inside the chest...",
+      "cz": "Uvnitř truhly byla podivná <Lore>Jadeová lebka</Lore>...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_020_Group10_Step12_Possess02_StepDescription",
+      "en": "Pick up the strange <Lore>Jade Skull</Lore> that came out of the chest.",
+      "cz": "Zvedněte podivnou <Lore>Jadeovou lebku</Lore>, která vyšla z truhly.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_020_Group11_Step13_VisitArea03_StepDescription",
+      "en": "Return to Jack Sparrow's House.",
+      "cz": "Vraťte se do domu Jacka Sparrowa.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_020_Group12_Step14_TalkToCharacter04_StepDescription",
+      "en": "Talk to the mysterious <Lore>Jade Skull</Lore>?",
+      "cz": "Promluvit si s tajemnou <Lore>Jade Skull</Lore>?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_020_Group12_Step14_TalkToCharacter04_WrongSceneDescription",
+      "en": "Return to Jack Sparrow's House.",
+      "cz": "Vraťte se do domu Jacka Sparrowa.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_020_Group13_Step18_BoatCrewMember02_StepDescription",
+      "en": "Assign Jack Sparrow to your ship's crew.",
+      "cz": "Přiřaďte Jacka Sparrowa ke své posádce.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_020_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Začít úkol",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_CaptJackSparrow/VLG_Capt_030.locbin": [
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Any_CompletedRequestDescription",
+      "en": "Talk to Jack Sparrow.",
+      "cz": "Promluv si s Jackem Sparrowem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_AvailableDescription",
+      "en": "Jack has been hard at work trying to uncover the secret of the Jade Flame, but wait... Is that smoke you smell on the wind?",
+      "cz": "Jack usilovně pracuje na odhalení tajemství Jadelního Plamene, ale počkej... Je to ten kouř, který cítíš ve větru?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_CompletedStoryDescription",
+      "en": "You solved the puzzle, but instead of finding Jack's Compass, you found a note from Captain Hook! He has taken the Compass and now demands that Jack work with him to trap Peter Pan. But Jack's on your side... right?",
+      "cz": "Vyřešil jsi hádanku, ale místo toho, abys našel Jackův kompas, našel jsi poznámku od Kapitána Hooka! Vzal kompas a nyní požaduje, aby Jack pracoval s ním, aby chytil Petra Pana. Ale Jack je na tvé straně... že?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_DisplayName",
+      "en": "Not All Treasure Is Gold",
+      "cz": "Ne všechen poklad je zlato",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Group01_Step01_VisitArea01_StepDescription",
+      "en": "Go inside Jack Sparrow's House.",
+      "cz": "Vejdi do domu Jacka Sparrowa.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Group02_Step02_RemoveBlocker01_StepDescription",
+      "en": "Extinguish the green flames in Jack Sparrow's House.",
+      "cz": "Uhaste zelené plameny v domě Jacka Sparrowa.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Group03_Step04_TalkToCharacter01_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluvte si s {TargetNPC}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Group03_Step04_TalkToCharacter01_WrongSceneDescription",
+      "en": "Return to Jack Sparrow's House.",
+      "cz": "Vraťte se do domu Jacka Sparrowa.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Group04_Step05_Possess01_StepDescription",
+      "en": "{ItemName} from the extinguished fires.",
+      "cz": "{ItemName} z uhašených požárů.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Group04_Step05_Possess02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Group04_Step05_Possess03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Group04_Step05_Possess04_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Group04_Step05_StepDescription",
+      "en": "Gather material to craft the <ActivityItem>Ship's Lantern</ActivityItem>.",
+      "cz": "Shromážděte materiál pro výrobu <ActivityItem>lodního lucerny</ActivityItem>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Group04_StoryDescription",
+      "en": "After putting out some literal fires in your Captain's Cabin, you may have a lead on how to uncover the secret layer in the Shell Map — you just need a lantern to use it safely.",
+      "cz": "Po uhašení několika doslovných požárů ve vaší kapitánově kajutě můžete mít vodítko, jak odhalit tajnou vrstvu v mapě ulit — potřebujete jen lucernu, abyste ji mohli bezpečně použít.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Group05_Step06_CraftItem01_StepDescription",
+      "en": "Craft the {ItemName}.",
+      "cz": "Vytvořte {ItemName}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Group06_Step07_FillKeyhole01_StepDescription",
+      "en": "Hang the <ActivityItem>Ship's Lantern</ActivityItem> next to the Shell Map in Jack Sparrow's House.",
+      "cz": "Pověste <ActivityItem>lodní lucernu</ActivityItem> vedle mapy mušlí v domě Jacka Sparrows.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Group07_Step08_TalkToCharacter02_StepDescription",
+      "en": "Ask {TargetNPC} about the map.",
+      "cz": "Zeptej se {TargetNPC} na mapu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Group07_Step08_TalkToCharacter02_WrongSceneDescription",
+      "en": "Return to Jack Sparrow's House.",
+      "cz": "Vraťte se do domu Jacka Sparrowa.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Group08_Step09_VisitArea02_StepDescription",
+      "en": "Sail toward Toucan Island as revealed on your map.",
+      "cz": "Plujte směrem k ostrovu Toucan, jak je znázorněno na vaší mapě.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Group08_StoryDescription",
+      "en": "Sure enough, once the Green Flame was safely contained in a lantern, you were able to use it to reveal a new location on the Shell Map. To the seas!",
+      "cz": "Jistě, jakmile byla Zelená Plamen bezpečně uzavřena do lucerny, mohl jsi ji použít k odhalení nového místa na Mapě mušle. K mořím!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Group09_Step10_SailingAction01_StepDescription",
+      "en": "Dock on Toucan Island with Jack Sparrow.",
+      "cz": "Přistavte na ostrově Toucan s Jackem Sparrowem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Group10_StepDescription",
+      "en": "Make your way with Jack Sparrow along the edge of Toucan Island.",
+      "cz": "Vydejte se s Jackem Sparrowem podél okraje ostrova Tučňáků.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Group10_StoryDescription",
+      "en": "The Shell Map led you and Jack on a new treasure hunt and to a new pirate puzzle, but solving this one should finally reunite Jack Sparrow with his Compass!",
+      "cz": "Mapa mušlí vás vedla, vás a Jacka, na nový lov pokladů a k nové pirátské hádance, ale vyřešení této by mělo konečně znovu spojit Jacka Sparrowa s jeho kompasem!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Group11_Step12_FollowCharacter01_StepDescription",
+      "en": "Meet with {TargetNPC} near the strange tiles on Toucan Island.",
+      "cz": "Setkejte se s {TargetNPC} u zvláštních dlaždic na ostrově Toucan.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Group11_Step12_FollowCharacter01_TalkToDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluv si s {TargetNPC}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Group11_Step12_FollowCharacter01_WrongSceneDescription",
+      "en": "Return to Toucan Island.",
+      "cz": "Návrat na ostrov Tukan.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Group12_Step13_StepDescription",
+      "en": "Use your Royal Shovel to complete the Toucan Island puzzle.",
+      "cz": "Použijte svou královskou lopatu k dokončení hádanky na ostrově Tukan.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Group12_Step14_TalkToCharacter03_StepDescription",
+      "en": "(Optional) Ask {TargetNPC} for advice.",
+      "cz": "(Nepovinné) Požádejte {TargetNPC} o radu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Group13_Step15_Interaction01_StepDescription",
+      "en": "Dig up the <ActivityItem>Jade Pirate Treasure Chest</ActivityItem> and open it.",
+      "cz": "Vykopejte <ActivityItem>Jade Pirate Treasure Chest</ActivityItem> a otevřete jej.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Group14_Step16_ConsumeItem01_StepDescription",
+      "en": "Read the note on the ground of Toucan Island.",
+      "cz": "Přečtěte si poznámku na zemi na Toucan Island.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Group14_StepDescription",
+      "en": "The chest was empty... almost.",
+      "cz": "Truhla byla prázdná... téměř.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Group15_Step17_BoatCrewMember01_StepDescription",
+      "en": "Assign Jack Sparrow to your ship's crew.",
+      "cz": "Přiřaďte Jacka Sparrowa ke své posádce.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Group16_Step24_ConsumeItem02_StepDescription",
+      "en": "Open the Memory in Jack Sparrow's House.",
+      "cz": "Otevři vzpomínku v domě Jacka Sparrowa.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_Group16_StepDescription",
+      "en": "A Memory appeared near the Shell Map!",
+      "cz": "Vzpomínka se objevila poblíž mapy lastury!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_030_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Začít úkol",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_CaptJackSparrow/VLG_Capt_040.locbin": [
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Any_CompletedRequestDescription",
+      "en": "Return to Jack Sparrow.",
+      "cz": "Vrať se k Jackovi Sparrowovi.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_AvailableDescription",
+      "en": "With Jack's Compass in Hook's clutches, Jack has been withdrawn as he plots his revenge. However, he seems to have resolved to take action — better go talk to him.",
+      "cz": "S Jackovým kompasem v rukou Hooka se Jack stáhl do sebe, zatímco plánuje svou pomstu. Zdá se však, že se rozhodl zakročit — bylo by lepší jít s ním promluvit.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_CompletedStoryDescription",
+      "en": "Jack has retrieved his Ship! With your help it's now fixed up and raised from the bottom of the seas. With a celebratory beach party with the rest of the Villagers, Jack is now free to properly enjoy himself.",
+      "cz": "Jack získal svou loď zpět! S vaší pomocí je nyní opravena a vyzdvižena z hlubin moře. S oslavou na pláži s ostatními vesničany může Jack nyní svobodně užívat života.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_DisplayName",
+      "en": "Them Crooked Pirates",
+      "cz": "Ti křiví piráti",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group01_Step01_Possess01_StepDescription",
+      "en": "Dig out {ItemName} on the beach of Galleon Gulf.",
+      "cz": "Vykopej {ItemName} na pláži zálivu Galleon.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group01_Step01_Possess02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group01_Step01_Possess04_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group01_StepDescription",
+      "en": "Gather materials for the <ActivityItem>Loudly Ticking Clock</ActivityItem>.",
+      "cz": "Shromážděte materiály pro <ActivityItem>Hlasitě tykající hodiny</ActivityItem>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group02_Step02_CraftItem01_StepDescription",
+      "en": "Assemble the {ItemName} at a Crafting Station.",
+      "cz": "Sestavte {ItemName} na řemeslné stanici.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group03_Step03_TalkToCharacter01_StepDescription",
+      "en": "Where's Jack Sparrow? Talk to {TargetNPC}.",
+      "cz": "Kde je Jack Sparrow? Promluv si s {TargetNPC}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group03_Step03_TalkToCharacter01_WrongSceneDescription",
+      "en": "Meet Jack Sparrow inside his House.",
+      "cz": "Setkejte se s Jackem Sparrowem uvnitř jeho domu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group04_Step04_VisitArea01_StepDescription",
+      "en": "Investigate Captain Hook's Jolly Roger.",
+      "cz": "Prozkoumejte Kapitánův hákový Jolly Roger.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group05_Step05_TalkToCharacter02_StepDescription",
+      "en": "Confront {TargetNPC} in Captain Hook's House.",
+      "cz": "Postav se {TargetNPC} v domě Kapitána Hooka.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group05_Step05_TalkToCharacter02_WrongSceneDescription",
+      "en": "Return to Captain Hook's House.",
+      "cz": "Vraťte se do domu Kapitána Hooka.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group05_StoryDescription",
+      "en": "Jack Sparrow claims to be trying to regain his Compass, but Meg and Milo are concerned that he's about to betray Wendy to Captain Hook! Better go make sure that Jack isn't getting any ideas...",
+      "cz": "Jack Sparrow tvrdí, že se snaží získat svůj kompas zpět, ale Meg a Milo mají obavy, že právě chystá zradit Wendy kapitánu Hookovi! Raději se jděte ujistit, že Jack nedostane žádné nápady...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group06_Step06_TalkToCharacter03_StepDescription",
+      "en": "Return to {TargetNPC}.",
+      "cz": "Vraťte se k {TargetNPC}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group06_Step06_TalkToCharacter03_WrongSceneDescription",
+      "en": "Return to {TargetNPC} in Captain Hook's House.",
+      "cz": "Vraťte se k {TargetNPC} v Hookově domě.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group07_Step08_VisitArea02_StepDescription",
+      "en": "Go to the Coral Depths in the Kingdom of Oublié.",
+      "cz": "Jděte do Korálových hlubin v Království Oublié.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group08_Step09_FollowCharacter02_StepDescription",
+      "en": "Follow {TargetNPC} to the Coral Depths.",
+      "cz": "Následuj {TargetNPC} do Korálových hlubin.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group08_Step09_FollowCharacter02_TalkToDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluvte si s {TargetNPC}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group08_Step09_FollowCharacter02_WrongSceneDescription",
+      "en": "Return to the Coral Depths.",
+      "cz": "Vraťte se do korálových hlubin.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group08_StoryDescription",
+      "en": "Jack claims to have been working with Wendy this whole time to double-cross Hook. He's got his Compass back so it seems to have worked. Now, you both just need to follow the Compass to find Jack's Ship!",
+      "cz": "Jack tvrdí, že celou dobu spolupracoval s Wendy, aby přelstil Hooka. Získal zpět svůj kompas, takže to zřejmě fungovalo. Teď už jen musíte následovat kompas, abyste našli Jackovu loď!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group09_Step10_PickUp01_StepDescription",
+      "en": "Reach Captain Jack Sparrow's Ship by removing all the Dark Kelp.",
+      "cz": "Dostaňte se na loď Kapitána Jacka Sparrowa odstraněním všeho tmavého chaluhy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group10_Step11_Possess05_StepDescription",
+      "en": "{ItemName} near the Dark Kelp.",
+      "cz": "{ItemName} poblíž Temného chaluhy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group10_Step11_Possess06_StepDescription",
+      "en": "{ItemName} from around the Ship.",
+      "cz": "{ItemName} kolem lodi.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group10_Step11_Possess07_StepDescription",
+      "en": "{ItemName} from bubbles.",
+      "cz": "{ItemName} z bublin.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group10_Step11_Possess08_StepDescription",
+      "en": "{ItemName} from bubbles.",
+      "cz": "{ItemName} z bublin.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group10_Step11_Possess09_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group10_StepDescription",
+      "en": "Collect items to repair Jack's Ship in the Coral Depths.",
+      "cz": "Sbírejte předměty k opravě Jackova plavidla v Korálových hlubinách.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group11_Step12_FillKeyhole01_StepDescription",
+      "en": "Complete the blueprint of the shipwreck.",
+      "cz": "Dokončete plán vraku lodi.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group11_StoryDescription",
+      "en": "You found Jack's Ship! Sunk to the bottom of the sea and shrouded in tough kelp, it just needs some repairs before it can be raised to the surface once more.",
+      "cz": "Našli jste Jackovu loď! Potopila se ke dnu moře a je zahalena v hustých řasách, potřebuje jen pár oprav, než ji bude možné znovu vyzdvihnout na hladinu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group12_Step13_TalkToCharacter04_StepDescription",
+      "en": "Return to {TargetNPC} near his Ship.",
+      "cz": "Vraťte se k {TargetNPC} u jeho lodi.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group12_Step13_TalkToCharacter04_WrongSceneDescription",
+      "en": "Return to the Coral Depths.",
+      "cz": "Vraťte se do korálových hlubin.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group13_Step14_FollowCharacter03_StepDescription",
+      "en": "Meet Jack Sparrow at Galleon Gulf where you first met him.",
+      "cz": "Setkejte se s Jackem Sparrowem v Zálivu Galeon, kde jste se s ním poprvé setkali.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group13_Step14_FollowCharacter03_WrongSceneDescription",
+      "en": "Return to Shipwreck Shores.",
+      "cz": "Návrat na Pláže Vraku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group14_Step15_Decorate01_StepDescription",
+      "en": "Set Jack Sparrow's Ship afloat in Galleon Gulf.",
+      "cz": "Uvolněte loď Jacka Sparrowa v Zálivu galeonů.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_Group15_Step16_TakePicture01_StepDescription",
+      "en": "Take a picture of Jack Sparrow in front of his Ship.",
+      "cz": "Vyfoťte Jacka Sparrowa před jeho lodí.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Village!Pirates!CaptJackSparrow!VLG_Capt_040_StartRequestButton",
+      "en": "<smallcaps>{title}</smallcaps><br>Start Quest",
+      "cz": "<smallcaps>{title}</smallcaps><br>Začít úkol",
+      "source": "our_translation"
+    }
+  ]
+}

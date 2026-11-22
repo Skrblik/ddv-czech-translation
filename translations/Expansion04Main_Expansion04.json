@@ -1,0 +1,3814 @@
+{
+  "Expansion04Main_Expansion04/MRQS_E04_000_Prologue.locbin": [
+    {
+      "key": "Story!Expansion04!MRQS_E04_000_Prologue_AvailableDescription",
+      "en": "You've always wondered what secrets might lie beneath the seas in Dreamlight Valley. A new adventure begins to discover just what might await you in the fathoms beneath.",
+      "cz": "Vždycky jste se ptali, jaká tajemství se skrývají pod mořem v Dreamlight Valley. Nové dobrodružství začíná, abyste objevili, co na vás čeká v hlubinách.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_000_Prologue_DisplayName",
+      "en": "Just Keep Swimming",
+      "cz": "Prostě plavat, prostě plavat",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_000_Prologue_Group01_Step01_Possess01_StepDescription",
+      "en": "Claim the message \"Kindly keep your things off my beach...\" from your mailbox.",
+      "cz": "Vyzvedněte si zprávu \"Prosím, nenechávejte své věci na mé pláži...\" ze své schránky.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_000_Prologue_Group01_Step01_StepDescription",
+      "en": "Uh-oh. Ursula's sent you an angry letter.",
+      "cz": "Uh-oh. Ursula vám poslala naštvaný dopis.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_000_Prologue_Group02_Step02_ConsumeItem01_StepDescription",
+      "en": "Interact with the <ActivityItem>Torn Label</ActivityItem> in your Inventory to examine it.",
+      "cz": "Interagujte s <ActivityItem>Roztrženou etiketou</ActivityItem> ve svém inventáři, abyste ji prozkoumali.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_000_Prologue_Group03_Step03_TalkToCharacter01_StepDescription",
+      "en": "Talk to Ursula.",
+      "cz": "Promluvte si s Ursulou.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_000_Prologue_Group03_Step03_TalkToCharacter01_WrongSceneDescription",
+      "en": "Visit Ursula's <Lore>Cursed Cave</Lore> on Dazzle Beach.",
+      "cz": "Navštivte Ursulinu <Lore>Prokletou jeskyni</Lore> na Dazzle Beach.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_000_Prologue_Group04_Step04_Conditional01_StepDescription",
+      "en": "Make sure Ursula is in her aquatic form.",
+      "cz": "Ujistěte se, že je Ursula ve své vodní podobě.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_000_Prologue_Group04_Step04_StepDescription",
+      "en": "Ursula needs you to join her in the water... somehow?",
+      "cz": "Ursula potřebuje, abyste se k ní nějak dostali do vody...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_000_Prologue_Group04_StoryDescription",
+      "en": "Ursula told you something about a mysterious seashell statue and a secret beach. She beckoned you to follow her.",
+      "cz": "Ursula vám řekla něco o tajemné soše mušle a tajné pláži. Pokynula vám, abyste ji následovali.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_000_Prologue_Group05_Step05_FollowCharacter01_StepDescription",
+      "en": "Meet Ursula in the waters outside her cave.",
+      "cz": "Setkejte se s Ursulou ve vodách u její jeskyně.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_000_Prologue_Group05_Step05_FollowCharacter01_TalkToDescription",
+      "en": "Talk to Ursula.",
+      "cz": "Promluvte si s Ursulou.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_000_Prologue_Group06_Step06_FollowCharacter02_StepDescription",
+      "en": "Follow Ursula in the water.",
+      "cz": "Následujte Ursulu ve vodě.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_000_Prologue_Group06_Step06_FollowCharacter02_TalkToDescription",
+      "en": "Talk to Ursula in the water.",
+      "cz": "Promluvte si s Ursulou ve vodě.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_000_Prologue_Group06_Step06_FollowCharacter02_WrongSceneDescription",
+      "en": "Meet Ursula in Dreamlight Valley to learn how to swim.",
+      "cz": "Setkejte se s Ursulou v Dreamlight Valley, abyste se naučili plavat.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_000_Prologue_Group06_Step06_StepDescription",
+      "en": "You've transformed into a merfolk!",
+      "cz": "Proměnili jste se v mořskou pannu!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_000_Prologue_Group07_Step07_CatchFish01_StepDescription",
+      "en": "Hint: You can catch fish by swimming through ripples and outside of ripples as well.",
+      "cz": "Nápověda: Můžete chytat ryby plaváním skrz vlnky i mimo ně.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_000_Prologue_Group07_Step07_StepDescription",
+      "en": "Catch fish while Sea-Combing as a merfolk on the surface.",
+      "cz": "Chyťte ryby při mořském sběru jako mořská panna na hladině.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_000_Prologue_Group07_Step11_MermaidTrawlDistance01_StepDescription",
+      "en": "Swim for 200 meters.",
+      "cz": "Plavte 200 metrů.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_000_Prologue_Group07_Step11_StepDescription",
+      "en": "Collect any fish by <Lore>Sea-Combing</Lore> on the surface of the water throughout Dazzle Beach by holding {input_mermaidactiontrawl}.",
+      "cz": "Získejte jakoukoli rybu pomocí <Lore>mořského sběru</Lore> na hladině vody po celém Dazzle Beach držením {input_mermaidactiontrawl}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_000_Prologue_Group07_StepDescription",
+      "en": "Being a merfolk makes fishing a breeze!",
+      "cz": "Být mořskou pannou dělá rybaření hračkou!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_000_Prologue_Group08_Step08_FollowCharacter03_StepDescription",
+      "en": "Swim out with Ursula to the <Lore>secret beach</Lore> in the waters near Dazzle Beach.",
+      "cz": "Plavte s Ursulou k <Lore>tajné pláži</Lore> ve vodách poblíž Dazzle Beach.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_000_Prologue_Group08_Step08_FollowCharacter03_TalkToDescription",
+      "en": "Talk to Ursula.",
+      "cz": "Promluvte si s Ursulou.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_000_Prologue_Group08_Step08_FollowCharacter03_WrongSceneDescription",
+      "en": "Meet Ursula in the waters of Dazzle Beach in Dreamlight Valley.",
+      "cz": "Setkejte se s Ursulou ve vodách Dazzle Beach v Dreamlight Valley.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_000_Prologue_Group09_Step10_CatchFish02_StepDescription",
+      "en": "Catch any fish as a merfolk by approaching a fishing ripple and pressing {input_mermaidactiontrawl}.",
+      "cz": "Chyťte jakoukoli rybu jako mořská panna přiblížením se k rybářské vlnce a stisknutím {input_mermaidactiontrawl}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_000_Prologue_Group09_Step10_StepDescription",
+      "en": "Interact with fishing ripples on the surface as a merfolk to catch fish.",
+      "cz": "Interaguj s rybářskými vlnkami na povrchu jako mořská víla, abys chytil ryby.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_000_Prologue_Group10_Step09_Conditional02_StepDescription",
+      "en": "Return to your merfolk form by approaching the edge of the water in Dazzle Beach and holding {input_MermaidTransform}.",
+      "cz": "Vrať se do své podoby mořské víly tím, že se přiblížíš k okraji vody na Dazzle Beach a podržíš {input_MermaidTransform}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_000_Prologue_Group11_Step12_Conditional03_StepDescription",
+      "en": "Return to your merfolk form by approaching the edge of the water in Dazzle Beach and holding {input_MermaidTransform}.",
+      "cz": "Vrať se do své podoby mořské víly tím, že se přiblížíš k okraji vody na Dazzle Beach a podržíš {input_MermaidTransform}.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Expansion04/MRQS_E04_010_AKingdomAcrossTheSea.locbin": [
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_AvailableDescription",
+      "en": "A mysterious map has led you to the first step of your journey.",
+      "cz": "Tajemná mapa tě dovedla k prvnímu kroku tvé cesty.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_CompletedStoryDescription",
+      "en": "The mysterious statue revealed itself to be something called a guardian. For now, its secrets remain locked away until you prove yourself worthy.",
+      "cz": "Tajemná socha se ukázala jako něco, co se nazývá strážce. Prozatím zůstávají její tajemství uzamčena, dokud se neprokážeš jako hodný.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_DisplayName",
+      "en": "A Kingdom Across the Sea",
+      "cz": "Království napříč mořem",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_DisplayName_001",
+      "en": "Mystery",
+      "cz": "Tajemství",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "Investigate the <Lore>Strange Mermaid Statue</Lore> on Ursula's Beach behind Skull Rock.",
+      "cz": "Prozkoumej <Lore>Podivnou sochu mořské víly</Lore> na Ursulině pláži za Skull Rock.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group02_Step02_Decorate01_StepDescription",
+      "en": "Open Furniture Mode and place the <ActivityItem>Mysterious Seashell Statue</ActivityItem> in the waters of Dazzle Beach.",
+      "cz": "Otevři režim nábytku a umísti <ActivityItem>Tajemnou sochu mušle</ActivityItem> do vod Dazzle Beach.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group03_Step03_StepDescription",
+      "en": "A <Lore>Whirlpool</Lore> opened up at the base of the statue!",
+      "cz": "Na základně sochy se otevřel <Lore>Vír</Lore>!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group03_Step03_VisitArea01_StepDescription",
+      "en": "Swim to the statue and <Lore>Dive</Lore> into the Whirlpool.",
+      "cz": "Plav k soše a <Lore>Potop se</Lore> do víru.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group04_Step04_StepDescription",
+      "en": "You've uncovered strange hidden ruins in Dreamlight Valley. Could these lead to the lost kingdom?",
+      "cz": "Objevil jsi podivné skryté ruiny v Dreamlight Valley. Mohou tyto vést k ztracenému království?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group04_Step04_VisitArea02_StepDescription",
+      "en": "Explore the underwater ruins.",
+      "cz": "Prozkoumej podvodní ruiny.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group04_StoryDescription",
+      "en": "Beneath the waters of Dreamlight Valley, you found mysterious hidden ruins to explore as a merfolk.",
+      "cz": "Pod vodami Dreamlight Valley jsi našel tajemné skryté ruiny, které můžeš prozkoumat jako mořská víla.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group05_Step05_StepDescription",
+      "en": "A gate blocks the way!",
+      "cz": "Brána blokuje cestu!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group05_Step05_VisitArea03_StepDescription",
+      "en": "Swim up by holding {input_mermaidactionrise}.",
+      "cz": "Plav vzhůru podržením {input_mermaidactionrise}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group06_Step06_StepDescription",
+      "en": "Explore deeper in the underwater ruins.",
+      "cz": "Prozkoumej hlouběji podvodní ruiny.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group06_Step06_VisitArea04_StepDescription",
+      "en": "Dive lower by holding {input_mermaidactiondive}.",
+      "cz": "Potop se hlouběji podržením {input_mermaidactiondive}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group07_Step07_PickUp01_StepDescription",
+      "en": "Break through the bubble by swimming faster with {input_mermaidactiontrawl}.",
+      "cz": "Prolom bublinu tím, že budeš plavat rychleji s {input_mermaidactiontrawl}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group08_Step08_VisitArea05_StepDescription",
+      "en": "Explore deeper in the underwater ruins.",
+      "cz": "Prozkoumej hlouběji podvodní ruiny.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group09_Step09_Conditional02_StepDescription",
+      "en": "A strange door blocks the way. Find a way to open it.",
+      "cz": "Podivné dveře blokují cestu. Najdi způsob, jak je otevřít.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group10_Step10_VisitArea06_StepDescription",
+      "en": "Keep exploring the underwater ruins.",
+      "cz": "Pokračuj v prozkoumávání podvodních ruin.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group11_Step11_StepDescription",
+      "en": "You've come across a <Lore>strange submarine</Lore> trapped in kelp.",
+      "cz": "Narazil jsi na <Lore>podivnou ponorku</Lore> uvězněnou v chaluhách.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group11_Step11_TalkToCharacter02_StepDescription",
+      "en": "Try talking to the person inside.",
+      "cz": "Zkus promluvit s osobou uvnitř.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group12_Step12_Conditional03_StepDescription",
+      "en": "Approach and interact with the <Lore>Mysterious Glowing Binoculars</Lore>.",
+      "cz": "Přibliž se a interaguj s <Lore>Tajemnými svítícími dalekohledy</Lore>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group12_StoryDescription",
+      "en": "Deep within the ruins, you found a mysterious figure in a submarine... and some sort of strange holographic structure.",
+      "cz": "Hluboko v ruinách jsi našel tajemnou postavu v ponorce... a jakousi podivnou holografickou strukturu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group13_Step13_Conditional04_StepDescription",
+      "en": "Complete the \"Sunken Echo: The Binoculars\" quest.",
+      "cz": "Dokonči úkol \"Prostě plavat, prostě plavat: Dalekohledy\".",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group14_Step14_TalkToCharacter03_StepDescription",
+      "en": "Talk to the submarine pilot.",
+      "cz": "Promluv si s pilotem ponorky.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group15_Step15_Conditional01_StepDescription",
+      "en": "Hold {input_MermaidTransform} at the water's edge to transform back into your human form.",
+      "cz": "Drž {input_MermaidTransform} na okraji vody, abys se proměnil zpět na člověka.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group15_Step15_Conditional01_StepDescriptionMobile",
+      "en": "Hold {input_HumanTransform} at the water's edge to transform back into your human form.",
+      "cz": "Drž {input_HumanTransform} na okraji vody, abys se proměnil zpět na člověka.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group15_Step15_StepDescription",
+      "en": "Investigate the <Lore>Strange Mermaid Statue</Lore> on Ursula's Beach behind Skull Rock.",
+      "cz": "Prozkoumej <Lore>Podivnou sochu mořské panny</Lore> na Ursulině pláži za Skalním útesem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group16_Step16_VisitArea07_StepDescription",
+      "en": "Use the Whirlpool to reach the surface.",
+      "cz": "Použij vír, abys se dostal na hladinu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group16_StoryDescription",
+      "en": "With the help of the submarine's pilot, you solved the mystery and headed for the surface.",
+      "cz": "S pomocí pilota ponorky jsi vyřešil záhadu a vyrazil na hladinu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group17_Step17_FollowCharacter02_StepDescription",
+      "en": "Emerge from the water and meet the mysterious submarine pilot on land.",
+      "cz": "Vynoř se z vody a setkej se s tajemným pilotem ponorky na souši.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group17_Step17_FollowCharacter02_TalkToDescription",
+      "en": "Talk to Milo.",
+      "cz": "Promluv si s Milem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group17_Step17_FollowCharacter02_WrongSceneDescription",
+      "en": "Return to Barnacle Bay in the Keepsake Sea to meet the submarine pilot.",
+      "cz": "Vrať se do Barnacle Bay v Moři památek, abys se setkal s pilotem ponorky.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group18_Step18_FollowCharacter03_StepDescription",
+      "en": "Meet Milo at the strange cave to the east when you're done exploring.",
+      "cz": "Setkej se s Milom v podivné jeskyni na východě, až skončíš s prozkoumáváním.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group18_Step18_FollowCharacter03_TalkToDescription",
+      "en": "Talk to Milo.",
+      "cz": "Promluv si s Milom.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group18_Step18_StepDescription",
+      "en": "Explore Barnacle Bay.",
+      "cz": "Prozkoumej Barnacle Bay.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group18_StoryDescription",
+      "en": "The submarine's pilot turned out to be none other than Milo Thatch, cartographer and linguist.",
+      "cz": "Pilot ponorky se ukázal být nikdo jiný než Milo Thatch, kartograf a lingvista.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group19_Step19_FillKeyhole01_StepDescription",
+      "en": "Place the <Lore>Bottled Binoculars</Lore> on the pedestal before the <Lore>giant mermaid statue</Lore>.",
+      "cz": "Umísti <Lore>Dalekohledy v láhvi</Lore> na podstavec před <Lore>obrovskou sochou mořské panny</Lore>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group20_Step20_TalkToCharacter04_StepDescription",
+      "en": "Talk to the <Lore>mysterious mermaid statue</Lore>.",
+      "cz": "Promluv si s <Lore>tajemnou sochou mořské panny</Lore>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group20_Step20_TalkToCharacter04_WrongSceneDescription",
+      "en": "Find the Guardian of Discovery in the Keepsake Sea.",
+      "cz": "Najdi Strážce objevů v Moři památek.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group20_StoryDescription",
+      "en": "Milo was convinced that a strange statue in a cave nearby was connected to the mystery.",
+      "cz": "Milo byl přesvědčen, že podivná socha v blízké jeskyni je spojena se záhadou.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group21_Step21_TalkToCharacter05_StepDescription",
+      "en": "Talk to Milo.",
+      "cz": "Promluv si s Milom.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_010_AKingdomAcrossTheSea_Group22_Step22_Conditional05_StepDescription",
+      "en": "Hold {input_MermaidTransform} at the water's edge to transform into a merfolk.",
+      "cz": "Drž {input_MermaidTransform} na okraji vody, abys se proměnil na mořského lid.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Expansion04/MRQS_E04_011_Puzzle01.locbin": [
+    {
+      "key": "Story!Expansion04!MRQS_E04_011_Puzzle01_AvailableDescription",
+      "en": "You uncovered a mysterious puzzle beneath the waves.",
+      "cz": "Objevil jsi tajemnou hádanku pod vlnami.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_011_Puzzle01_DisplayName",
+      "en": "Sunken Echo: The Binoculars",
+      "cz": "Prostě plavat, prostě plavat: Dalekohledy",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_011_Puzzle01_DisplayName_001",
+      "en": "Mystery",
+      "cz": "Záhada",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_011_Puzzle01_Group01_Step01_Conditional01_StepDescription",
+      "en": "Solve the first mysterious underwater puzzle.",
+      "cz": "Vyřeš první tajemnou podvodní hádanku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_011_Puzzle01_Group01_Step02_Interaction01_StepDescription",
+      "en": "(Optional) Examine the note in front of the first puzzle for clues.",
+      "cz": "(Volitelné) Prozkoumej poznámku před prvním puzzlem pro nápovědy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_011_Puzzle01_Group02_Step03_Conditional02_StepDescription",
+      "en": "Solve the second mysterious underwater puzzle.",
+      "cz": "Vyřeš druhý tajemný podvodní puzzle.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_011_Puzzle01_Group02_Step04_Interaction02_StepDescription",
+      "en": "(Optional) Examine the note in front of the second puzzle for clues.",
+      "cz": "(Volitelné) Prozkoumej poznámku před druhým puzzlem pro nápovědy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_011_Puzzle01_Group03_Step05_Conditional03_StepDescription",
+      "en": "Solve the third mysterious underwater puzzle.",
+      "cz": "Vyřeš třetí tajemný podvodní puzzle.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_011_Puzzle01_Group03_Step06_Interaction03_StepDescription",
+      "en": "(Optional) Examine the note in front of the third puzzle for clues.",
+      "cz": "(Volitelné) Prozkoumej poznámku před třetím puzzlem pro nápovědy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_011_Puzzle01_Group04_Step07_Possess01_StepDescription",
+      "en": "Pick up the <Lore>Bottled Binoculars</Lore>.",
+      "cz": "Zvedni <Lore>lahvové dalekohledy</Lore>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_011_Puzzle01_Group04_Step07_StepDescription",
+      "en": "A mysterious bottle appeared!",
+      "cz": "Objevila se tajemná láhev!",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Expansion04/MRQS_E04_020_TheFourGuardians.locbin": [
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Any_CompletedRequestDescription",
+      "en": "Talk to Milo.",
+      "cz": "Promluv si s Milom.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_AvailableDescription",
+      "en": "If you were ever to prove that you had the spirit of discovery, you'd need to forge forward into Peddler's Post. Milo beckoned you to follow him.",
+      "cz": "Pokud bys někdy chtěl dokázat, že máš ducha objevitele, musíš se vydat do Peddler's Post. Milo tě vyzval, abys ho následoval.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_DisplayName",
+      "en": "The Four Guardians",
+      "cz": "Čtyři strážci",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group01_Step01_Conditional01_StepDescription",
+      "en": "Use {input_mainmenudreamlight} to view the Guardian Trials menu.",
+      "cz": "Použij {input_mainmenudreamlight} pro zobrazení menu zkoušek strážců.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group01_Step01_Conditional01_StepDescriptionMobile",
+      "en": "Go to the Dreamlight menu to view the Guardian Trails.",
+      "cz": "Přejdi do menu Dreamlight pro zobrazení zkoušek strážců.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group01_StepDescription",
+      "en": "Complete the Guardian of Discovery's riddles.",
+      "cz": "Vyřeš hádanky strážce objevování.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group02_Step02_StepDescription",
+      "en": "You've completed the Guardian of Discovery's Trial!",
+      "cz": "Dokončil jsi zkoušku strážce objevování!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Return to the Guardian of Discovery at the grotto in Barnacle Bay.",
+      "cz": "Vrať se k strážci objevování v jeskyni v Barnacle Bay.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group03_Step03_ConsumeItem01_StepDescription",
+      "en": "Examine the map in your Inventory.",
+      "cz": "Prozkoumej mapu ve svém inventáři.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group04_Step04_FollowCharacter01_StepDescription",
+      "en": "Meet Milo at the gate to Peddler's Post.",
+      "cz": "Setkej se s Milom u brány do Peddler's Post.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group04_Step04_FollowCharacter01_TalkToDescription",
+      "en": "Talk to Milo.",
+      "cz": "Promluv si s Milom.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group04_Step04_FollowCharacter01_WrongSceneDescription",
+      "en": "Meet Milo at the gate to Peddler's Post in the Keepsake Sea.",
+      "cz": "Setkej se s Milom u brány do Peddler's Post v Moři památek.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group05_Step05_FollowCharacter02_StepDescription",
+      "en": "Follow Milo to the dock in Barnacle Bay.",
+      "cz": "Následuj Milu k molu v Barnacle Bay.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group05_Step05_FollowCharacter02_TalkToDescription",
+      "en": "Talk to Milo.",
+      "cz": "Promluv si s Milom.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group05_Step05_FollowCharacter02_WrongSceneDescription",
+      "en": "Meet Milo in the Keepsake Sea.",
+      "cz": "Setkej se s Milom v Moři památek.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group06_Step06_VisitArea01_StepDescription",
+      "en": "Swim out and interact with the <Lore>Whirlpool</Lore> in the waters of Barnacle Bay to dive beneath the water.",
+      "cz": "Plav se ven a interaguj s <Lore>vírem</Lore> ve vodách Barnacle Bay, abys se ponořil pod vodu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group06_StoryDescription",
+      "en": "But stepping into Peddler's Post would be easier said than done. Milo had lost the key beneath the waves. To find it, you'd have to venture into the waters of Barnacle Bay.",
+      "cz": "Ale vstoupit do Peddler's Post by bylo snazší říct než udělat. Milo ztratil klíč pod vlnami. Abychom ho našli, musíme se vydat do vod Barnacle Bay.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group07_Step07_StepDescription",
+      "en": "That blue fish nearby seems like she knows her way around.",
+      "cz": "Ta modrá ryba poblíž vypadá, že se v tom vyzná.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group07_Step07_TalkToCharacter02_StepDescription",
+      "en": "Talk to Dory.",
+      "cz": "Promluv s Dory.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group07_Step07_TalkToCharacter02_WrongSceneDescription",
+      "en": "Head down into the Doubloon Depths to search for the key.",
+      "cz": "Sestup do hlubin Doubloon Depths a hledej klíč.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group08_Step08_FollowCharacter03_StepDescription",
+      "en": "Follow Dory to find <Lore>Milo's Key</Lore>.",
+      "cz": "Následuj Dory, abys našel <Lore>Miloův klíč</Lore>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group08_Step08_FollowCharacter03_TalkToDescription",
+      "en": "Talk to Dory.",
+      "cz": "Promluv s Dory.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group08_Step08_FollowCharacter03_WrongSceneDescription",
+      "en": "Dive down into the Doubloon Depths from Barnacle Bay to meet Dory.",
+      "cz": "Skoč do hlubin Doubloon Depths z Barnacle Bay, abys se setkal s Dory.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group09_Step09_FollowCharacter04_StepDescription",
+      "en": "Follow Dory... hopefully, for real this time.",
+      "cz": "Následuj Dory... snad tentokrát opravdu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group09_Step09_FollowCharacter04_TalkToDescription",
+      "en": "Talk to Dory.",
+      "cz": "Promluv s Dory.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group09_Step09_FollowCharacter04_WrongSceneDescription",
+      "en": "Dive down into the Doubloon Depths from Barnacle Bay to meet Dory.",
+      "cz": "Skoč do hlubin Doubloon Depths z Barnacle Bay, abys se setkal s Dory.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group10_Step10_Possess01_StepDescription",
+      "en": "Pick up {ItemName} from the bottom of the Doubloon Depths.",
+      "cz": "Zvedni {ItemName} ze dna Doubloon Depths.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group11_Step11_VisitArea02_StepDescription",
+      "en": "Return to the beach of Barnacle Bay.",
+      "cz": "Vrať se na pláž Barnacle Bay.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group11_StoryDescription",
+      "en": "Beneath the waves, you found a talkative but forgetful blue tang fish... and after a great deal of trial and error, the key you were looking for.",
+      "cz": "Pod vlnami jsi našel ukecanou, ale zapomnětlivou modrou rybku... a po mnoha pokusech a omylech klíč, který jsi hledal.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group12_Step12_TalkToCharacter03_StepDescription",
+      "en": "Talk to Milo in Barnacle Bay.",
+      "cz": "Promluv s Milom v Barnacle Bay.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group12_Step12_TalkToCharacter03_WrongSceneDescription",
+      "en": "Return to Milo in the Keepsake Sea.",
+      "cz": "Vrať se k Milovi v Keepsake Sea.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group13_Step13_FillKeyhole01_StepDescription",
+      "en": "Open the gate to <Lore>Peddler's Post</Lore> using <ActivityItem>Milo's Key</ActivityItem>.",
+      "cz": "Otevři bránu k <Lore>Peddler's Post</Lore> pomocí <ActivityItem>Miloova klíče</ActivityItem>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group14_Step14_TalkToCharacter04_StepDescription",
+      "en": "Talk to Milo about finding the next Sunken Echo.",
+      "cz": "Promluv s Milom o hledání dalšího Sunken Echo.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group14_StoryDescription",
+      "en": "At last, the Guardian of Discovery felt you had proved yourself to her. She revealed that to reach the kingdom, you'd need to awaken her three slumbering sisters. To do that, you'd need to venture beneath the waves and uncover the secrets resting there.",
+      "cz": "Konečně, Strážkyně Objevu cítila, že jsi se jí prokázal. Odhalila, že k dosažení království budeš muset probudit její tři spící sestry. K tomu se musíš vydat pod vlny a odhalit tajemství, která tam odpočívají.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group15_Step15_FollowCharacter05_StepDescription",
+      "en": "Follow Milo to the <Lore>Pirate Ship Archway</Lore>.",
+      "cz": "Následuj Milu k <Lore>Pirátské lodi Archway</Lore>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group15_Step15_FollowCharacter05_TalkToDescription",
+      "en": "Talk to Milo.",
+      "cz": "Promluv s Milom.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group15_Step15_FollowCharacter05_WrongSceneDescription",
+      "en": "Meet Milo in the Keepsake Sea.",
+      "cz": "Setkej se s Milom v Keepsake Sea.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group16_Step16_Possess02_StepDescription",
+      "en": "Mine for {ItemName}.",
+      "cz": "Hledej {ItemName}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group16_Step16_Possess03_StepDescription",
+      "en": "Forage for {ItemName}.",
+      "cz": "Sbírej {ItemName}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group16_Step16_Possess04_StepDescription",
+      "en": "Forage for {ItemName}.",
+      "cz": "Sbírej {ItemName}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group16_Step16_Possess05_StepDescription",
+      "en": "Mine for {ItemName}.",
+      "cz": "Hledej {ItemName}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group16_Step16_StepDescription",
+      "en": "Gather the materials needed to repair the <Lore>Pirate Ship Archway</Lore>:",
+      "cz": "Nasbírej materiály potřebné k opravě <Lore>Pirátské lodi Archway</Lore>:",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group17_Step17_FillKeyhole02_StepDescription",
+      "en": "Interact with the <Lore>Pirate Ship Archway</Lore> in Peddler's Post to repair it.",
+      "cz": "Interaguj s <Lore>Pirátskou lodí Archway</Lore> v Peddler's Post, abys ji opravil.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group18_Step18_VisitArea03_StepDescription",
+      "en": "Venture through the <Lore>Hidden Whirlpool</Lore> beyond the repaired archway in Peddler's Post.",
+      "cz": "Prozkoumejte <Lore>Skrytý vír</Lore> za opraveným obloukem v Peddler's Post.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group19_Step19_Conditional02_StepDescription",
+      "en": "Complete the quest \"Sunken Echo: The Rain Boots.\"",
+      "cz": "Dokončete úkol \"Potopená ozvěna: Deštníkové boty.\"",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group20_Step20_VisitArea04_StepDescription",
+      "en": "Return to Shipwreck Shores.",
+      "cz": "Vraťte se na Pobřeží vraků.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group20_StoryDescription",
+      "en": "Beneath Peddler's Post, you found another mysterious Sunken Echo. Solving it earned you a mysterious pair of rain boots.",
+      "cz": "Pod Peddler's Post jste našli další tajemnou Potopenou ozvěnu. Její vyřešení vám přineslo tajemné deštníkové boty.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group21_Step21_TalkToCharacter05_StepDescription",
+      "en": "Talk to Milo.",
+      "cz": "Promluvte si s Milom.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group22_Step22_PlaceBuilding01_StepDescription",
+      "en": "Place the foundations of Milo's House.",
+      "cz": "Položte základy Miloova domu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group23_Step23_Unlock01_StepDescription",
+      "en": "Use the Scrooge McDuck Sign near Milo's House to finish its construction.",
+      "cz": "Použijte značku Scrooge McDuck poblíž Miloova domu k dokončení jeho stavby.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group24_Step24_UnlockCharacter01_StepDescription",
+      "en": "Welcome Milo!",
+      "cz": "Vítej, Milo!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group24_StoryDescription",
+      "en": "With Milo welcomed to the Valley, you looked to the next phase of your journey. You would need to get inside the pirate fortress on the other side of the island next.",
+      "cz": "S Miloem přijatým do Údolí jste se podívali na další fázi vaší cesty. Nyní budete muset proniknout do pirátské pevnosti na druhé straně ostrova.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_020_TheFourGuardians_Group25_Step25_Conditional03_StepDescription",
+      "en": "Equip Dory by navigating to the Adventure Companions section of your Wardrobe menu.",
+      "cz": "Oblékněte Dory tím, že přejdete do sekce Dobrodružní společníci ve vašem menu šatníku.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Expansion04/MRQS_E04_021_Puzzle02.locbin": [
+    {
+      "key": "Story!Expansion04!MRQS_E04_021_Puzzle02_AvailableDescription",
+      "en": "Beneath the waves, you once more found a strange echo of something from the distant past.",
+      "cz": "Pod vlnami jste opět našli podivnou ozvěnu něčeho z dávné minulosti.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_021_Puzzle02_CompletedStoryDescription",
+      "en": "By solving the mysterious puzzle beneath the sea, you uncovered a new Keepsake: a pair of rain boots. Looking at them gives you a strange feeling.",
+      "cz": "Vyřešením tajemné hádanky pod mořem jste odhalili nový suvenýr: pár deštníkových bot. Pohled na ně ve vás vyvolává podivný pocit.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_021_Puzzle02_DisplayName",
+      "en": "Sunken Echo: The Rain Boots",
+      "cz": "Potopená ozvěna: Deštníkové boty",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_021_Puzzle02_Group01_Step01_Conditional01_StepDescription",
+      "en": "Solve the first mysterious puzzle after passing through the Whirlpool in Peddler's Post.",
+      "cz": "Vyřešte první tajemnou hádanku po průchodu vírem v Peddler's Post.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_021_Puzzle02_Group01_Step02_Interaction01_StepDescription",
+      "en": "(Optional) Examine the note in front of the first puzzle for clues.",
+      "cz": "(Volitelné) Prozkoumejte poznámku před první hádankou pro nápovědu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_021_Puzzle02_Group02_Step03_Conditional02_StepDescription",
+      "en": "Solve the second mysterious puzzle after passing through the Whirlpool in Peddler's Post.",
+      "cz": "Vyřešte druhou tajemnou hádanku po průchodu vírem v Peddler's Post.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_021_Puzzle02_Group02_Step04_Interaction02_StepDescription",
+      "en": "(Optional) Examine the note in front of the second puzzle for clues.",
+      "cz": "(Volitelné) Prozkoumejte poznámku před druhou hádankou pro nápovědu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_021_Puzzle02_Group03_Step05_Conditional03_StepDescription",
+      "en": "Solve the third mysterious puzzle after passing through the Whirlpool in Peddler's Post.",
+      "cz": "Vyřešte třetí tajemnou hádanku po průchodu vírem v Peddler's Post.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_021_Puzzle02_Group03_Step06_Interaction03_StepDescription",
+      "en": "(Optional) Examine the note in front of the third puzzle for clues.",
+      "cz": "(Volitelné) Prozkoumejte poznámku před třetí hádankou pro nápovědu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_021_Puzzle02_Group04_Step07_Possess01_StepDescription",
+      "en": "Pick up the <Lore>Keepsake</Lore> after passing through the Whirlpool in Peddler's Post.",
+      "cz": "Zvedněte <Lore>suvenýr</Lore> po průchodu vírem v Peddler's Post.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_021_Puzzle02_Group04_Step07_StepDescription",
+      "en": "A mysterious bottle appeared!",
+      "cz": "Objevila se tajemná láhev!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_021_Puzzle02_Group05_Step08_Conditional04_StepDescription",
+      "en": "Interact with the <ActivityItem>Rain Boots Keepsake</ActivityItem> beneath the Whirlpool in Peddler's Post.",
+      "cz": "Interagujte se <ActivityItem>suvenýrem deštníkových bot</ActivityItem> pod vírem v Peddler's Post.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Expansion04/MRQS_E04_030_CaptainOfTheDead.locbin": [
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_AvailableDescription",
+      "en": "Your linguist and cartographer friend had a little hunch that Ursula might know something about the mysterious crew of skeletons on the other side of the isle.",
+      "cz": "Váš lingvista a kartograf měl tušení, že Ursula by mohla vědět něco o tajemné posádce kostlivců na druhé straně ostrova.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_DisplayName",
+      "en": "Captain of the Dead",
+      "cz": "Kapitán mrtvých",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_DisplayName_000",
+      "en": "Mystery",
+      "cz": "Záhada",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "Talk to Ursula about crossing the strange gate to the Infernal Fortress.",
+      "cz": "Promluv s Ursulou o překročení podivné brány do Pekelné pevnosti.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group01_Step01_TalkToCharacter01_WrongSceneDescription",
+      "en": "Talk to Ursula in the Keepsake Sea.",
+      "cz": "Promluv s Ursulou v Moři vzpomínek.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group02_Step02_StepDescription",
+      "en": "Catch all the Floating Skulls in Peddler's Post and Barnacle Bay.",
+      "cz": "Chyť všechny Plovoucí lebky v Peddler's Post a Barnacle Bay.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group03_Step03_BringItem01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group03_Step03_ReadyDescription",
+      "en": "Bring what you've caught back to Ursula.",
+      "cz": "Přines, co jsi chytil, zpět k Ursule.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group03_Step03_StepDescription",
+      "en": "Make sure you have the following in your Inventory:",
+      "cz": "Ujisti se, že máš ve svém inventáři následující:",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group04_Step04_Possess01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group04_Step04_Possess02_StepDescription",
+      "en": "Search underwater for {ItemName}.",
+      "cz": "Hledej pod vodou {ItemName}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group04_Step04_Possess03_StepDescription",
+      "en": "Fish around the waters of Shipwreck Shores to find some {ItemName}.",
+      "cz": "Rybař na vodách Shipwreck Shores, abys našel nějaké {ItemName}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group04_Step04_Possess04_StepDescription",
+      "en": "Forage for {ItemName}.",
+      "cz": "Sbírej {ItemName}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group04_Step04_StepDescription",
+      "en": "Gather the materials needed to craft a cloak:",
+      "cz": "Shromáždi materiály potřebné k výrobě pláště:",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group05_Step05_CraftItem01_StepDescription",
+      "en": "Craft the <ActivityItem>Tattered Phantom Cloak</ActivityItem>.",
+      "cz": "Vyrob <ActivityItem>Roztrhaný fantomový plášť</ActivityItem>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group06_Step06_DressUp01_StepDescription",
+      "en": "Put on the <ActivityItem>Tattered Phantom Cloak</ActivityItem>.",
+      "cz": "Oblékni si <ActivityItem>Roztrhaný fantomový plášť</ActivityItem>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group07_Step07_StepDescription",
+      "en": "Test the <ActivityItem>Tattered Phantom Cloak</ActivityItem>.",
+      "cz": "Otestuj <ActivityItem>Roztrhaný fantomový plášť</ActivityItem>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group07_Step07_VisitArea01_StepDescription",
+      "en": "Try <Lore>crossing through the gate to the Infernal Fortress</Lore>.",
+      "cz": "Zkus <Lore>překročit bránu do Pekelné pevnosti</Lore>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group07_StoryDescription",
+      "en": "With the Sea Witch's help, you wove a cloak to help you pass into the pirate fortress on the other side of the island.",
+      "cz": "S pomocí Mořské čarodějnice jsi upletla plášť, který ti pomůže projít do pirátské pevnosti na druhé straně ostrova.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group08_Step08_TalkToCharacter02_StepDescription",
+      "en": "Knock on the door of the Infernal Fortress.",
+      "cz": "Zaklepej na dveře Pekelné pevnosti.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group09_Step09_Possess05_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group09_Step09_Possess06_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group09_Step09_Possess07_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group09_Step09_Possess08_StepDescription",
+      "en": "Any Protein.",
+      "cz": "Jakýkoli protein.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group09_Step09_Possess09_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group09_Step09_Possess10_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group09_Step09_Possess11_StepDescription",
+      "en": "Any Fruit.",
+      "cz": "Jakékoli ovoce.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group09_Step09_StepDescription",
+      "en": "Gather the Ingredients needed to prepare the Skeleton Captain's meal:",
+      "cz": "Shromáždi ingredience potřebné k přípravě jídla pro Kostlivého kapitána:",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group10_Step10_CookMeal01_StepDescription",
+      "en": "{ItemName}, a local treat.",
+      "cz": "{ItemName}, místní pochoutka.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group10_Step10_CookMeal02_StepDescription",
+      "en": "{ItemName}, for dessert.",
+      "cz": "{ItemName}, na dezert.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group10_Step10_StepDescription",
+      "en": "Cook the Skeleton Captain a worthy meal:",
+      "cz": "Připravte Kostlivému kapitánovi důstojné jídlo:",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group10_StoryDescription",
+      "en": "In the depths of the pirate fortress, you found a door. Behind that door was a tricky captain who asked you to cook for him to earn his favor.",
+      "cz": "V hlubinách pirátské pevnosti jste našli dveře. Za těmito dveřmi byl mazaný kapitán, který vás požádal, abyste mu uvařili, abyste si získali jeho přízeň.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group11_Step11_BringItem02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group11_Step11_BringItem03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group11_Step11_ReadyDescription",
+      "en": "Bring the meals to the Skeleton Captain at the door in the Infernal Fortress.",
+      "cz": "Přineste jídla Kostlivému kapitánovi u dveří v Pekelné pevnosti.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group11_Step11_StepDescription",
+      "en": "Make sure you have the following in your Inventory:",
+      "cz": "Ujistěte se, že máte následující ve svém inventáři:",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group12_Step12_VisitArea02_StepDescription",
+      "en": "Explore the <Lore>Secret Passageway</Lore> on the other side of the door with the giant skull on the east side of the Infernal Fortress.",
+      "cz": "Prozkoumejte <Lore>Tajnou chodbu</Lore> na druhé straně dveří s obrovskou lebkou na východní straně Pekelné pevnosti.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group12_StoryDescription",
+      "en": "The captain opened the way for you, deeper into the fortress.",
+      "cz": "Kapitán vám otevřel cestu hlouběji do pevnosti.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group13_Step13_VisitArea03_StepDescription",
+      "en": "Enter the Whirlpool near the Infernal Fortress's Secret Beach.",
+      "cz": "Vstupte do Vortexu poblíž Tajné pláže Pekelné pevnosti.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group14_Step14_Conditional01_StepDescription",
+      "en": "Complete the quest \"Sunken Echo: First Aid Kit\" to progress.",
+      "cz": "Dokončete úkol \"Ztracená ozvěna: První pomoc\" pro postup.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group15_Step15_TalkToCharacter03_StepDescription",
+      "en": "Return to the Skeleton Captain at the door in the Infernal Fortress.",
+      "cz": "Vraťte se k Kostlivému kapitánovi u dveří v Pekelné pevnosti.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group15_StoryDescription",
+      "en": "Beneath the waves, you found more secrets, more strange echoes of a past you can't remember. The mysterious pirate behind the door surely held more answers.",
+      "cz": "Pod vlnami jste našli více tajemství, více podivných ozvěn minulosti, kterou si nepamatujete. Tajemný pirát za dveřmi jistě měl více odpovědí.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group16_Step16_TalkToCharacter04_StepDescription",
+      "en": "Talk to Jack Sparrow.",
+      "cz": "Promluvte si s Jackem Sparrowem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_030_CaptainOfTheDead_Group16_StoryDescription",
+      "en": "The pirate captain turned out to be none other than Jack Sparrow.",
+      "cz": "Pirátský kapitán se ukázal být nikdo jiný než Jack Sparrow.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Expansion04/MRQS_E04_031_Puzzle03.locbin": [
+    {
+      "key": "Story!Expansion04!MRQS_E04_031_Puzzle03_AvailableDescription",
+      "en": "Beneath the waves, you found another mysterious fragment of the past.",
+      "cz": "Pod vlnami jste našli další tajemný fragment minulosti.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_031_Puzzle03_DisplayName",
+      "en": "Sunken Echo: First Aid Kit",
+      "cz": "Ztracená ozvěna: První pomoc",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_031_Puzzle03_Group01_Step01_Conditional01_StepDescription",
+      "en": "Solve the first mysterious puzzle after passing through the Whirlpool in the Infernal Fortress.",
+      "cz": "Vyřešte první tajemnou hádanku po průchodu Vortexem v Pekelné pevnosti.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_031_Puzzle03_Group01_Step02_Interaction01_StepDescription",
+      "en": "(Optional) Examine the note in front of the first puzzle for clues.",
+      "cz": "(Volitelné) Prozkoumejte poznámku před první hádankou pro nápovědu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_031_Puzzle03_Group02_Step03_Conditional02_StepDescription",
+      "en": "Interact with the <ActivityItem>First Aid Kit Keepsake</ActivityItem> after passing through the Whirlpool in the Infernal Fortress.",
+      "cz": "Interagujte s <ActivityItem>Památkou První pomoci</ActivityItem> po průchodu Vortexem v Pekelné pevnosti.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_031_Puzzle03_Group03_Step05_Conditional03_StepDescription",
+      "en": "Solve the second mysterious puzzle after passing through the Whirlpool in the Infernal Fortress.",
+      "cz": "Vyřešte druhou tajemnou hádanku po průchodu Vortexem v Pekelné pevnosti.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_031_Puzzle03_Group03_Step06_Interaction03_StepDescription",
+      "en": "(Optional) Examine the note in front of the second puzzle for clues.",
+      "cz": "(Volitelné) Prozkoumejte poznámku před druhou hádankou pro nápovědu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_031_Puzzle03_Group04_Step07_Possess01_StepDescription",
+      "en": "Pick up the <Lore>Keepsake</Lore> after passing through the Whirlpool in the Infernal Fortress.",
+      "cz": "Zvedněte <Lore>Památku</Lore> po průchodu Vortexem v Pekelné pevnosti.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_031_Puzzle03_Group04_Step07_StepDescription",
+      "en": "A mysterious bottle appeared!",
+      "cz": "Objevila se tajemná láhev!",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Expansion04/MRQS_E04_040_SkeletonCrew.locbin": [
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Any_CompletedRequestDescription",
+      "en": "Talk to Jack Sparrow.",
+      "cz": "Promluv si s Jackem Sparrowem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_AvailableDescription",
+      "en": "Jack Sparrow told you of an enchanted pirate ship, wrecked on the other side of the isle. If you were the Legendary Adventurer, it must have once belonged to you.",
+      "cz": "Jack Sparrow ti vyprávěl o kouzelné pirátské lodi, která se ztroskotala na druhé straně ostrova. Pokud jsi byl Legendární Dobrodruh, musela ti kdysi patřit.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_DisplayName",
+      "en": "The Enchanted Ship",
+      "cz": "Kouzelná loď",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group01_Step01_FollowCharacter01_StepDescription",
+      "en": "Follow Jack Sparrow.",
+      "cz": "Následuj Jacka Sparrowa.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group01_Step01_FollowCharacter01_TalkToDescription",
+      "en": "Talk to Jack Sparrow.",
+      "cz": "Promluv si s Jackem Sparrowem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group01_Step01_FollowCharacter01_WrongSceneDescription",
+      "en": "Meet up with Jack Sparrow in the Keepsake Sea.",
+      "cz": "Setkej se s Jackem Sparrowem v Moři památek.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group02_Step02_BringItem01_StepDescription",
+      "en": "The <Lore>Enchanted Crow's Nest</Lore> in Barnacle Bay.",
+      "cz": "Kouzelný <Lore>Hnízdo</Lore> v Zátoce Barnacle.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group02_Step02_BringItem02_StepDescription",
+      "en": "The <Lore>Enchanted Wheel</Lore> in Peddler's Post.",
+      "cz": "Kouzelný <Lore>Kolo</Lore> v Peddler's Post.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group02_Step02_BringItem03_StepDescription",
+      "en": "The <Lore>Enchanted Sail</Lore> in the Infernal Fortress.",
+      "cz": "Kouzelný <Lore>Plachtu</Lore> v Pekelné pevnosti.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group02_Step02_BringItem04_StepDescription",
+      "en": "The <Lore>Enchanted Crane</Lore> in Galleon Gulf.",
+      "cz": "Kouzelný <Lore>Jeřáb</Lore> v Zálivu Galleon.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group02_Step02_BringItem05_StepDescription",
+      "en": "The <Lore>Enchanted Anchor</Lore> at the bottom of the Doubloon Depths.",
+      "cz": "Kouzelný <Lore>Hák</Lore> na dně Hloubky Doubloon.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group02_Step02_ReadyDescription",
+      "en": "Bring the <ActivityItem>Enchanted Ship Parts</ActivityItem> back to Jack Sparrow.",
+      "cz": "Přines <ActivityItem>Kouzelnou loď</ActivityItem> zpět k Jacku Sparrowovi.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group02_Step02_StepDescription",
+      "en": "Search Shipwreck Shores for the lost parts of the Legendary Adventurer's ship:",
+      "cz": "Prozkoumej Pobřeží ztroskotání po ztracené části lodi Legendárního Dobrodruha:",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group02_StoryDescription",
+      "en": "Jack Sparrow showed you to the enchanted ship allegedly once captained by the Legendary Adventurer. It was... in need of some repairs. (Perhaps an understatement.)",
+      "cz": "Jack Sparrow ti ukázal kouzelnou loď, kterou údajně kdysi vedl Legendární Dobrodruh. Byla... v potřebě oprav. (Možná mírně řečeno.)",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group03_Step03_VisitArea01_StepDescription",
+      "en": "Search the <Lore>Infernal Fortress</Lore> for the drawbridge.",
+      "cz": "Prozkoumej <Lore>Pekelnou pevnost</Lore> po padacím mostě.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group04_Step04_Conditional01_StepDescription",
+      "en": "Find a way to lower the drawbridge.",
+      "cz": "Najdi způsob, jak spustit padací most.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group05_Step05_VisitArea02_StepDescription",
+      "en": "Find the secret Whirlpool near the tail of <Lore>Sharkfin Isle</Lore>.",
+      "cz": "Najdi tajný vír poblíž ocasu <Lore>Sharkfin Isle</Lore>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group06_Step06_VisitArea03_StepDescription",
+      "en": "Enter the Whirlpool on Sharkfin Isle.",
+      "cz": "Vstup do víru na Sharkfin Isle.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group07_Step07_Conditional02_StepDescription",
+      "en": "Complete the quest \"Sunken Echo: The Helmet.\"",
+      "cz": "Dokonči úkol \"Ztracená ozvěna: Helma.\"",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group08_Step08_TalkToCharacter01_StepDescription",
+      "en": "Return to Jack Sparrow at the dock in Galleon Gulf.",
+      "cz": "Vrať se k Jacku Sparrowovi na molu v Zálivu Galleon.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group08_StoryDescription",
+      "en": "On Sharkfin Isle, you found yet another Sunken Echo. With some clever thinking, you recovered another long lost relic.",
+      "cz": "Na Sharkfin Isle jsi našel další Ztracenou ozvěnu. S trochou důvtipu jsi získal další dávno ztracenou relikvii.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group09_Step09_SailingAction02_StepDescription",
+      "en": "Interact with the bell on the dock at Galleon Gulf to summon your ship.",
+      "cz": "Interaguj se zvonem na molu v Zálivu Galleon, abys přivolal svou loď.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group10_Step10_Conditional03_StepDescription",
+      "en": "Stand close to the Enchanted Pirate Ship and use {input_boatactionboard} to board.",
+      "cz": "Stůj blízko Kouzelné pirátské lodi a použij {input_boatactionboard} k nalodění.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group11_Step11_VisitArea04_StepDescription",
+      "en": "Explore the seas and sail to the Guardian of Resilience's island.",
+      "cz": "Prozkoumej moře a plav na ostrov Strážce Odolnosti.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group12_Step12_FillKeyhole01_StepDescription",
+      "en": "Place the Keepsakes on the pedestal in the grotto on the Guardian of Resilience's island.",
+      "cz": "Umísti památky na podstavec v jeskyni na ostrově Strážce Odolnosti.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group13_Step13_TalkToCharacter02_StepDescription",
+      "en": "Talk to the Guardian of Resilience.",
+      "cz": "Promluv s Ochráncem Odolnosti.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group13_StoryDescription",
+      "en": "Setting sail in your new ship, you made your way to the Guardian's grotto.",
+      "cz": "S vyplutím na tvé nové lodi jsi zamířil do jeskyně Ochránce.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group14_Step14_StepDescription",
+      "en": "You've awakened the Guardian of Resilience!",
+      "cz": "Probudil jsi Ochránce Odolnosti!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group14_Step14_TalkToCharacter03_StepDescription",
+      "en": "Talk to Jack Sparrow.",
+      "cz": "Promluv s Jackem Sparrowem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group14_StoryDescription",
+      "en": "Once you awoke the sleeping Guardian, you learned you'd need to complete yet more riddles to prove yourself.",
+      "cz": "Jakmile jsi probudil spícího Ochránce, dozvěděl jsi se, že budeš muset vyřešit další hádanky, abys se prokázal.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group15_Step15_PlaceBuilding01_StepDescription",
+      "en": "Place the foundations of Jack Sparrow's House anywhere in Shipwreck Shores.",
+      "cz": "Umísti základy Jackova Sparrowova domu kdekoli na Pobřeží vraků.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group16_Step16_Unlock01_StepDescription",
+      "en": "Use the Scrooge McDuck Sign to finish the construction of Jack Sparrow's House.",
+      "cz": "Použij značku Scrooge McDuck, abys dokončil stavbu Jackova Sparrowova domu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group17_Step17_UnlockCharacter01_StepDescription",
+      "en": "Welcome Jack Sparrow!",
+      "cz": "Vítej, Jacku Sparrowe!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group17_StoryDescription",
+      "en": "You made a home for Jack Sparrow on Shipwreck Shores. But to journey further in the Keepsake Sea, you would need to answer the Guardian's riddles.",
+      "cz": "Vytvořil jsi domov pro Jacka Sparrowa na Pobřeží vraků. Ale abys mohl pokračovat v cestě po Moři památek, budeš muset odpovědět na hádanky Ochránce.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group18_Step18_BoatCrewMember01_StepDescription",
+      "en": "Approach your ship and use {input_boatactioncustomizefromdock} to open up the Crew menu and <Lore>add Jack Sparrow to the Bow</Lore>.",
+      "cz": "Přistup k své lodi a použij {input_boatactioncustomizefromdock}, abys otevřel menu posádky a <Lore>přidal Jacka Sparrowa na příď</Lore>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group18_Step18_BoatCrewMember02_StepDescription",
+      "en": "(Optional) Add any Villager to the Crow's Nest. (Note that certain Villagers might be too large.)",
+      "cz": "(Volitelné) Přidej jakéhokoli Občana do Vraního hnízda. (Pozor, někteří Občané mohou být příliš velcí.)",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_040_SkeletonCrew_Group18_Step18_StepDescription",
+      "en": "Before taking to the sea, you need a crew.",
+      "cz": "Než vypluješ na moře, potřebuješ posádku.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Expansion04/MRQS_E04_041_Puzzle04.locbin": [
+    {
+      "key": "Story!Expansion04!MRQS_E04_041_Puzzle04_AvailableDescription",
+      "en": "Beneath the waves, you found another mysterious fragment of the past.",
+      "cz": "Pod vlnami jsi našel další tajemný fragment minulosti.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_041_Puzzle04_DisplayName",
+      "en": "Sunken Echo: The Helmet",
+      "cz": "Ztracené echo: Helma",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_041_Puzzle04_Group01_Step01_Conditional01_StepDescription",
+      "en": "Solve the first mysterious puzzle after passing through the Whirlpool on Sharkfin Isle.",
+      "cz": "Vyřeš první tajemnou hádanku po průchodu vírem na Ostrově žraločího hřbetu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_041_Puzzle04_Group01_Step02_Interaction01_StepDescription",
+      "en": "(Optional) Examine the note in front of the first puzzle for clues.",
+      "cz": "(Volitelné) Prozkoumej poznámku před první hádankou pro nápovědu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_041_Puzzle04_Group02_Step03_Conditional02_StepDescription",
+      "en": "Solve the second mysterious puzzle after passing through the Whirlpool on Sharkfin Isle.",
+      "cz": "Vyřeš druhou tajemnou hádanku po průchodu vírem na Ostrově žraločího hřbetu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_041_Puzzle04_Group02_Step04_Interaction02_StepDescription",
+      "en": "(Optional) Examine the note in front of the second puzzle for clues.",
+      "cz": "(Volitelné) Prozkoumej poznámku před druhou hádankou pro nápovědu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_041_Puzzle04_Group03_Step05_Conditional03_StepDescription",
+      "en": "Solve the third mysterious puzzle after passing through the Whirlpool on Sharkfin Isle.",
+      "cz": "Vyřeš třetí tajemnou hádanku po průchodu vírem na Ostrově žraločího hřbetu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_041_Puzzle04_Group03_Step06_Interaction03_StepDescription",
+      "en": "(Optional) Examine the note in front of the third puzzle for clues.",
+      "cz": "(Volitelné) Prozkoumej poznámku před třetí hádankou pro nápovědu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_041_Puzzle04_Group04_Step07_Possess01_StepDescription",
+      "en": "Pick up the <Lore>Keepsake</Lore> after passing through the Whirlpool on Sharkfin Isle.",
+      "cz": "Zvedni <Lore>Památník</Lore> po průchodu vírem na Ostrově žraločího hřbetu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_041_Puzzle04_Group04_Step07_StepDescription",
+      "en": "A mysterious bottle appeared!",
+      "cz": "Objevila se tajemná láhev!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_041_Puzzle04_Group05_Step08_Conditional04_StepDescription",
+      "en": "Interact with the <ActivityItem>Helmet Keepsake</ActivityItem> after passing through the Whirlpool on Sharkfin Isle.",
+      "cz": "Interaguj s <ActivityItem>Helmou Památkou</ActivityItem> po průchodu vírem na Ostrově žraločího hřbetu.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Expansion04/MRQS_E04_050_SlipperySituation.locbin": [
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_AvailableDescription",
+      "en": "To go further toward the kingdom, you would need to prove yourself to the Guardian of Resilience.",
+      "cz": "Aby ses mohl posunout dál k království, budeš se muset prokázat Ochránci Odolnosti.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_DisplayName",
+      "en": "A Slippery Situation",
+      "cz": "Kluzká situace",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_DisplayName_001",
+      "en": "Mystery",
+      "cz": "Záhada",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group01_Step01_VisitArea02_StepDescription",
+      "en": "Sail onwards to Candy Cove!",
+      "cz": "Plavte dál do Candy Cove!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group01_StepDescription",
+      "en": "Sail to <Lore>Candy Cove</Lore> and dock at the <Lore>Frosted Fjord</Lore> beach.",
+      "cz": "Plavte do <Lore>Candy Cove</Lore> a zakotvěte na pláži <Lore>Frosted Fjord</Lore>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group01_StoryDescription",
+      "en": "The Guardian of Resilience told you that you should seek out an \"oracle\" on the island of Candy Cove.",
+      "cz": "Strážce odolnosti ti řekl, že bys měl hledat \"orákulum\" na ostrově Candy Cove.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group02_Step02_StepDescription",
+      "en": "You've uncovered an island made of candy and sweets.",
+      "cz": "Objevil jsi ostrov z cukrovinek a sladkostí.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Explore <Lore>Frosted Fjord</Lore>.",
+      "cz": "Prozkoumej <Lore>Frosted Fjord</Lore>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group03_Step03_VisitArea01_StepDescription",
+      "en": "Explore the <Lore>Dessert Depths</Lore> by using the whirlpool to go underwater in Frosted Fjord.",
+      "cz": "Prozkoumej <Lore>Dessert Depths</Lore> pomocí víru, abys se dostal pod vodu v Frosted Fjord.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group03_StoryDescription",
+      "en": "Further inland, you met a woman named Megara (her friends call her Meg) who promised to introduce you to the Oracle if you'd help her. First order of business: Fix the broken bridge made of ribbon candy.",
+      "cz": "Dále do vnitrozemí jsi potkal ženu jménem Megara (její přátelé jí říkají Meg), která ti slíbila, že tě seznámí s Orákulem, pokud jí pomůžeš. První úkol: Opravit rozbitý most z cukrové stuhy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group04_Step04_TalkToCharacter02_StepDescription",
+      "en": "Dory's here! Talk to her.",
+      "cz": "Dory je tady! Promluv si s ní.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group05_Step05_Possess01_StepDescription",
+      "en": "Search the <Lore>Dessert Depths</Lore> for broken pieces of the Ribbon Candy Bridge.",
+      "cz": "Hledej v <Lore>Dessert Depths</Lore> rozbité kusy mostu z cukrové stuhy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group06_Step06_TalkToCharacter03_StepDescription",
+      "en": "Return to {TargetNPC}.",
+      "cz": "Vrať se k {TargetNPC}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group06_Step06_TalkToCharacter03_WrongSceneDescription",
+      "en": "Return to the surface to fix the Broken Ribbon Candy Bridge.",
+      "cz": "Vrať se na povrch, abys opravil rozbitý most z cukrové stuhy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group07_Step07_StepDescription",
+      "en": "Interact with the floating Memory in Frosted Fjord to repair the bridge.",
+      "cz": "Interaguj s plovoucí vzpomínkou v Frosted Fjord, abys opravil most.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group08_Step08_FollowCharacter01_StepDescription",
+      "en": "Follow Meg.",
+      "cz": "Následuj Meg.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group08_Step08_FollowCharacter01_TalkToDescription",
+      "en": "Talk to Meg.",
+      "cz": "Promluv si s Meg.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group08_Step08_FollowCharacter01_WrongSceneDescription",
+      "en": "Return to the Keepsake Sea.",
+      "cz": "Vrať se do Keepsake Sea.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group08_Step08_StepDescription",
+      "en": "You fixed the bridge!",
+      "cz": "Opravil jsi most!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group08_StoryDescription",
+      "en": "With a bit of help from Dory, you repaired the bridge and journeyed deeper inland with Meg. (Sorry, Megara.)",
+      "cz": "S trochou pomoci od Dory jsi opravil most a vyrazil hlouběji do vnitrozemí s Meg. (Omlouvám se, Megaro.)",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group09_Step09_FillKeyhole01_StepDescription",
+      "en": "Repair the <Lore>Broken Gumball Machine</Lore>.",
+      "cz": "Opravit <Lore>Rozbitý stroj na gumičky</Lore>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group09_StoryDescription",
+      "en": "Meg laid out her plan to you: Break the ice using an avalanche of gumballs. Simple, right?",
+      "cz": "Meg ti představila svůj plán: Rozbij led pomocí laviny gumiček. Jednoduché, že?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group10_Step10_TalkToCharacter04_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluv si s {TargetNPC}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group11_Step11_FollowCharacter02_StepDescription",
+      "en": "Follow Meg to the icy slope.",
+      "cz": "Následuj Meg k ledovému svahu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group11_Step11_FollowCharacter02_TalkToDescription",
+      "en": "Talk to Meg.",
+      "cz": "Promluv si s Meg.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group11_Step11_FollowCharacter02_WrongSceneDescription",
+      "en": "Return to the Keepsake Sea.",
+      "cz": "Vrať se do Keepsake Sea.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group12_Step12_FollowCharacter03_StepDescription",
+      "en": "Follow Meg to meet the Oracle.",
+      "cz": "Následuj Meg, abys se setkal s Orákulem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group12_Step12_FollowCharacter03_TalkToDescription",
+      "en": "Talk to Meg.",
+      "cz": "Promluv s Meg.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group12_Step12_FollowCharacter03_WrongSceneDescription",
+      "en": "Return to the Keepsake Sea.",
+      "cz": "Vrať se k Moři vzpomínek.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group12_StoryDescription",
+      "en": "With the way clear, you and Meg stepped into the shadow of a giant mountain made of shortcake.",
+      "cz": "S volnou cestou jste s Meg vkročili do stínu obrovské hory z dortíku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group13_Step13_Conditional01_StepDescription",
+      "en": "(Optional) Help Milo by completing his first Friendship Quest.",
+      "cz": "(Volitelné) Pomoz Milovi splnit jeho první úkol přátelství.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group13_Step13_Conditional02_StepDescription",
+      "en": "Complete the Guardian of Resilience's Riddles. (Open them using {input_mainmenudreamlight}.)",
+      "cz": "Vyřeš hádanky Strážce odolnosti. (Otevři je pomocí {input_mainmenudreamlight}.)",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group13_Step13_Conditional04_StepDescription",
+      "en": "(Optional) Help Jack Sparrow by completing his first Friendship Quest.",
+      "cz": "(Volitelné) Pomoz Jacku Sparrowovi splnit jeho první úkol přátelství.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group14_Step14_Possess02_StepDescription",
+      "en": "Dig for {itemName}.",
+      "cz": "Hledej {itemName}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group14_Step14_Possess03_StepDescription",
+      "en": "Mine for {itemName}.",
+      "cz": "Těž {itemName}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group14_Step14_Possess04_StepDescription",
+      "en": "Forage for {itemName}.",
+      "cz": "Sbírej {itemName}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group14_Step14_Possess05_StepDescription",
+      "en": "Forage for {itemName}.",
+      "cz": "Sbírej {itemName}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group14_Step14_Possess06_StepDescription",
+      "en": "Mine for {itemName}.",
+      "cz": "Těž {itemName}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group14_Step14_StepDescription",
+      "en": "Gather materials to repair the broken Gumball Machine:",
+      "cz": "Nasbírej materiály na opravu rozbitého automatu na bonbóny:",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_050_SlipperySituation_Group15_Step15_TalkToCharacter05_StepDescription",
+      "en": "Return to the {TargetNPC} in her grotto near the dock in Galleon Gulf.",
+      "cz": "Vrať se k {TargetNPC} v její jeskyni poblíž mola v Zálivu galeonů.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Expansion04/MRQS_E04_060_CakeMountain.locbin": [
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Any_CompletedRequestDescription",
+      "en": "Talk to Meg.",
+      "cz": "Promluv s Meg.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_AvailableDescription",
+      "en": "Megara led you to your next challenge, which was sure to be a piece of cake.",
+      "cz": "Megara tě zavedla k tvé další výzvě, která určitě bude hračka.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_CompletedStoryDescription",
+      "en": "Meg told you about the next step in your journey. It would bring you closer to the lost kingdom... but also closer to a villain named Hook.",
+      "cz": "Meg ti řekla o dalším kroku na tvé cestě. Přiblíží tě k ztracenému království... ale také k padouchovi jménem Hook.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_DisplayName",
+      "en": "A Piece of Cake",
+      "cz": "Kousek dortu",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group01_Step01_FollowCharacter01_StepDescription",
+      "en": "Meet Meg near the archway at the base of the mountain when you're ready for the next part of your adventure.",
+      "cz": "Setkej se s Meg u oblouku na úpatí hory, když budeš připraven na další část svého dobrodružství.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group01_Step01_FollowCharacter01_TalkToDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluv s {TargetNPC}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group01_Step01_FollowCharacter01_WrongSceneDescription",
+      "en": "Return to the Keepsake Sea.",
+      "cz": "Vrať se k Moři vzpomínek.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group01_StoryDescription",
+      "en": "Explore the area around Shortcake Summit.",
+      "cz": "Prozkoumej oblast kolem Vrcholu dortíku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group02_Step02_FillKeyhole01_StepDescription",
+      "en": "The Riddle of the Sea. (Look for the fishing hook symbol.)",
+      "cz": "Hádanka moře. (Hledej symbol rybářského háčku.)",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group02_Step03_FillKeyhole02_StepDescription",
+      "en": "The Riddle of the Rocks. (Look for the pickaxe symbol.)",
+      "cz": "Hádanka skal. (Hledej symbol krumpáče.)",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group02_Step04_FillKeyhole03_StepDescription",
+      "en": "The Riddle of the Dirt. (Look for the shovel symbol.)",
+      "cz": "Hádanka hlíny. (Hledej symbol lopaty.)",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group02_StepDescription",
+      "en": "Search around <Lore>Shortcake Summit</Lore> for the three riddles and find the right item for each one.",
+      "cz": "Prozkoumej okolí <Lore>Vrcholu dortíku</Lore> a najdi tři hádanky a správný předmět pro každou z nich.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group02_StoryDescription",
+      "en": "Megara and Milo helped you uncover the next step of your journey: three riddles to allow you passage up the mountain.",
+      "cz": "Megara a Milo ti pomohli odhalit další krok tvé cesty: tři hádanky, které ti umožní projít na horu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group03_Step05_Possess01_StepDescription",
+      "en": "Confectioner's Hat.",
+      "cz": "Klobouk cukráře.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group03_Step05_Possess03_StepDescription",
+      "en": "Confectioner's Dress.",
+      "cz": "Šaty cukráře.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group03_Step05_Possess04_StepDescription",
+      "en": "Confectioner's Outfit.",
+      "cz": "Oblečení cukráře.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group03_Step05_StepDescription",
+      "en": "Pick up and open the pouches that have appeared next to the Riddle Pillars in Shortcake Summit to collect:",
+      "cz": "Seber a otevři pytlíky, které se objevily vedle Hádankových pilířů na Shortcake Summit, abys nasbíral:",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group04_Step06_DressUp01_StepDescription",
+      "en": "Confectioner's Hat.",
+      "cz": "Klobouk cukráře.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group04_Step06_DressUp03_StepDescription",
+      "en": "Confectioner's Dress or Confectioner's Outfit.",
+      "cz": "Šaty cukráře nebo Oblečení cukráře.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group04_Step06_StepDescription",
+      "en": "Dress up in your new Legendary Confectioner outfit.",
+      "cz": "Oblékni se do svého nového legendárního oblečení cukráře.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group05_Step07_TalkToCharacter01_StepDescription",
+      "en": "Return to Meg.",
+      "cz": "Vrať se k Meg.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group06_Step08_RemoveBlocker01_StepDescription",
+      "en": "Remove the Frosting Blockers using your Shovel.",
+      "cz": "Odstraň blokátory polevy pomocí své lopaty.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group07_Step09_StepDescription",
+      "en": "Light up all the candles on the first layer of cake.",
+      "cz": "Rozsviť všechny svíčky na první vrstvě dortu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group07_StepDescription",
+      "en": "Climb the first layer of Shortcake Summit, lighting all the candles along the way.",
+      "cz": "Vylez na první vrstvu Shortcake Summit a rozsvěcuj všechny svíčky po cestě.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group08_Step10_StepDescription",
+      "en": "Light up all the candles on the second layer of cake.",
+      "cz": "Rozsviť všechny svíčky na druhé vrstvě dortu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group08_StepDescription",
+      "en": "Climb the next layer of Shortcake Summit, lighting all the candles as you go.",
+      "cz": "Vylez na další vrstvu Shortcake Summit a rozsvěcuj všechny svíčky po cestě.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group08_StoryDescription",
+      "en": "With the help of Megara, you climbed higher and higher, lighting candles of the cake as you went.",
+      "cz": "S pomocí Megary jsi vylezl výš a výš, rozsvěcujíc svíčky na dortu po cestě.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group09_Step11_StepDescription",
+      "en": "Light up all the candles on the top layer of cake.",
+      "cz": "Rozsviť všechny svíčky na vrchní vrstvě dortu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group09_StepDescription",
+      "en": "Almost done! Climb to the very peak of Shortcake Summit.",
+      "cz": "Téměř hotovo! Vylez na samotný vrchol Shortcake Summit.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group10_Step12_TalkToCharacter02_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluv si s {TargetNPC}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group11_Step13_VisitArea01_StepDescription",
+      "en": "Enter the Whirlpool at the peak of Shortcake Summit.",
+      "cz": "Vstup do víru na vrcholu Shortcake Summit.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group11_StoryDescription",
+      "en": "At the peak of Shortcake Summit, you learned the truth: The \"Oracle\" you were seeking was Megara herself.",
+      "cz": "Na vrcholu Shortcake Summit jsi se dozvěděl pravdu: \"Orákulum\", které jsi hledal, byla sama Megara.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group12_Step14_Conditional19_StepDescription",
+      "en": "Complete the quest to retrieve the Sunken Echo.",
+      "cz": "Dokonči úkol, abys získal Potopenou ozvěnu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group13_Step15_VisitArea02_StepDescription",
+      "en": "Return to the surface.",
+      "cz": "Vrať se na povrch.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group14_Step16_TalkToCharacter03_StepDescription",
+      "en": "Talk to {TargetNPC} at the peak of Shortcake Summit.",
+      "cz": "Promluv si s {TargetNPC} na vrcholu Shortcake Summit.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group15_Step17_PlaceBuilding01_StepDescription",
+      "en": "Place Megara's House.",
+      "cz": "Umísti Megarův dům.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group15_StoryDescription",
+      "en": "Beneath the sea, you found yet another long lost memory and another Keepsake. It was time to invite Meg to the Valley.",
+      "cz": "Pod mořem jsi našel další dávno ztracenou vzpomínku a další suvenýr. Bylo načase pozvat Meg do Údolí.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group16_Step18_Unlock01_StepDescription",
+      "en": "Unlock Megara's House by interacting with the Scrooge McDuck Sign beside it.",
+      "cz": "Odemkni Megarův dům interakcí se značkou Scrooge McDuck vedle něj.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group17_Step19_UnlockCharacter01_StepDescription",
+      "en": "Welcome Meg to the Keepsake Sea!",
+      "cz": "Vítej, Mega, v Moři památek!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_060_CakeMountain_Group18_Step20_TalkToCharacter04_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluv s {TargetNPC}.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Expansion04/MRQS_E04_061_Puzzle05.locbin": [
+    {
+      "key": "Story!Expansion04!MRQS_E04_061_Puzzle05_AvailableDescription",
+      "en": "You've uncovered another mysterious puzzle beneath the waves.",
+      "cz": "Objevil jsi další tajemnou hádanku pod vlnami.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_061_Puzzle05_DisplayName",
+      "en": "Sunken Echo: The Art Supplies",
+      "cz": "Ztracená ozvěna: Umělecké potřeby",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_061_Puzzle05_Group01_Step01_Conditional01_StepDescription",
+      "en": "Interact with the <ActivityItem>Art Supplies Keepsake</ActivityItem> after passing through the Whirlpool on top of Shortcake Summit.",
+      "cz": "Interaguj s <ActivityItem>Památník uměleckých potřeb</ActivityItem> po průchodu vírem na vrcholu Shortcake Summit.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_061_Puzzle05_Group02_Step02_Conditional02_StepDescription",
+      "en": "Solve the first mysterious puzzle after passing through the Whirlpool on top of Shortcake Summit.",
+      "cz": "Vyřeš první tajemnou hádanku po průchodu vírem na vrcholu Shortcake Summit.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_061_Puzzle05_Group02_Step03_Interaction01_StepDescription",
+      "en": "(Optional) Examine the note in front of the first puzzle for clues.",
+      "cz": "(Volitelné) Prozkoumej poznámku před první hádankou pro nápovědy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_061_Puzzle05_Group03_Step04_Conditional03_StepDescription",
+      "en": "Solve the second mysterious puzzle after passing through the Whirlpool on top of Shortcake Summit.",
+      "cz": "Vyřeš druhou tajemnou hádanku po průchodu vírem na vrcholu Shortcake Summit.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_061_Puzzle05_Group03_Step05_Interaction02_StepDescription",
+      "en": "(Optional) Examine the note in front of the second puzzle for clues.",
+      "cz": "(Volitelné) Prozkoumej poznámku před druhou hádankou pro nápovědy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_061_Puzzle05_Group04_Step06_Possess01_StepDescription",
+      "en": "Pick up the <Lore>Keepsake</Lore> after passing through the Whirlpool on top of Shortcake Summit.",
+      "cz": "Zvedni <Lore>Památník</Lore> po průchodu vírem na vrcholu Shortcake Summit.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Expansion04/MRQS_E04_070_DonutIsland.locbin": [
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Any_CompletedRequestDescription",
+      "en": "Talk to Captain Hook.",
+      "cz": "Promluv s Kapitánem Hookem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_AvailableDescription",
+      "en": "With the way clear, you forged forward into Peppermint Plaza, keeping a watchful eye for a vile villain last seen in the area: Captain Hook.",
+      "cz": "S cestou volnou jsi se vydal do Peppermint Plaza, přičemž jsi bedlivě sledoval zlovolného padoucha, který byl naposledy spatřen v oblasti: Kapitán Hook.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_DisplayName",
+      "en": "Donut of Destiny",
+      "cz": "Donut osudu",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_DisplayName_001",
+      "en": "Mystery",
+      "cz": "Tajemství",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group01_Step01_VisitArea01_StepDescription",
+      "en": "Search Peppermint Plaza for signs of Captain Hook.",
+      "cz": "Prohledej Peppermint Plaza po stopách Kapitána Hooka.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group02_Step02_Interaction01_StepDescription",
+      "en": "Search around for clues.",
+      "cz": "Prohledej okolí po nápovědách.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group02_Step02_StepDescription",
+      "en": "You discovered some sort of pirate hideout tucked away in Candy Cove.",
+      "cz": "Objevil jsi jakýsi pirátský úkryt schovaný v Candy Cove.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group03_Step03_ConsumeItem01_StepDescription",
+      "en": "Investigate the <Lore>Memory</Lore> in the pirate hideout in Peppermint Plaza.",
+      "cz": "Prozkoumej <Lore>Vzpomínku</Lore> v pirátském úkrytu v Peppermint Plaza.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group04_Step04_StepDescription",
+      "en": "Time to set sail on your <Lore>Enchanted Pirate Ship</Lore>!",
+      "cz": "Je čas vyplout na tvé <Lore>Zakleté pirátské lodi</Lore>!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group04_Step04_VisitArea02_StepDescription",
+      "en": "Explore the seas around Candy Cove to find <Lore>Donut Island</Lore> marked on your map.",
+      "cz": "Prozkoumej moře kolem Candy Cove, abys našel <Lore>Donut Island</Lore> vyznačený na tvé mapě.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group05_Step05_Interaction02_StepDescription",
+      "en": "Search for any signs of life on Donut Island.",
+      "cz": "Hledej jakékoli známky života na Donut Island.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group05_Step05_StepDescription",
+      "en": "You've found the island in the sea, shaped like a donut.",
+      "cz": "Našel jsi ostrov v moři, tvarovaný jako donut.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group06_Step06_StepDescription",
+      "en": "Who's that pirate who just emerged from the trap door?",
+      "cz": "Kdo je ten pirát, který právě vyšel z tajného vchodu?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group06_Step06_TalkToCharacter01_StepDescription",
+      "en": "Talk to Captain Hook on Donut Island.",
+      "cz": "Promluv s Kapitánem Hookem na Donut Island.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group07_Step07_Possess01_StepDescription",
+      "en": "Search for hidden Treasure on the Donut Island.",
+      "cz": "Hledej sk hidden poklad na Donut Island.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group08_Step08_StepDescription",
+      "en": "You've found some broken sunglasses?",
+      "cz": "Našel jsi nějaké rozbité sluneční brýle?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group08_Step08_TalkToCharacter02_StepDescription",
+      "en": "Show what you found to Hook.",
+      "cz": "Ukaž, co jsi našel, Hookovi.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group09_Step09_TalkToCharacter03_StepDescription",
+      "en": "Go talk to a REAL pirate for advice.",
+      "cz": "Jdi si pro radu k OPRAVDOVÉMU pirátovi.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group10_Step10_Possess02_StepDescription",
+      "en": "{itemName}.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group10_Step10_Possess03_StepDescription",
+      "en": "{itemName}.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group10_Step10_Possess04_StepDescription",
+      "en": "{itemName}.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group10_Step10_StepDescription",
+      "en": "Gather materials to repair the Enchanted Sunglasses.",
+      "cz": "Nasbírej materiály na opravu Kouzelných slunečních brýlí.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group11_Step11_CraftItem01_StepDescription",
+      "en": "Repair the Enchanted Sunglasses at a Crafting Station.",
+      "cz": "Opravit Kouzelné sluneční brýle na dílně.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group12_Step12_VisitArea03_StepDescription",
+      "en": "Return to Donut Island where Hook is waiting for you.",
+      "cz": "Vrať se na Donut Island, kde na tebe čeká Hook.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group13_Step13_TalkToCharacter04_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluv si s {TargetNPC}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group14_Step14_DressUp01_StepDescription",
+      "en": "Equip the Enchanted Sunglasses.",
+      "cz": "Oblékni si Kouzelné sluneční brýle.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group15_Step15_Conditional03_StepDescription",
+      "en": "Search Donut Island for anything unusual.",
+      "cz": "Prozkoumej Donut Island, jestli nenajdeš něco neobvyklého.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group16_Step16_StepDescription",
+      "en": "Whoa! This isn't a donut. It's a CINNAMON ROLL with a WHIRLPOOL SWIRL!",
+      "cz": "Jé! To není donut. To je SKOŘICOVÁ ROHLÍK s VÍŘIVÝM VZOREM!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group16_Step16_VisitArea04_StepDescription",
+      "en": "Enter the Whirlpool on the Cinnamon Roll Island.",
+      "cz": "Vstup do Vír na ostrově Skořicového rohlíku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group17_Step17_Conditional01_StepDescription",
+      "en": "Complete the quest to retrieve the next Keepsake.",
+      "cz": "Dokonči úkol, abys získal další suvenýr.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group18_Step18_VisitArea05_StepDescription",
+      "en": "Return to the surface.",
+      "cz": "Vrať se na povrch.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group19_Step19_TalkToCharacter05_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluv si s {TargetNPC}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group20_Step20_BoatCrewMember01_StepDescription",
+      "en": "Add Hook to your Ship Crew. (You can customize your ship at any dock!)",
+      "cz": "Přidej Hooka do své posádky lodi. (Loď si můžeš přizpůsobit na jakémkoli doku!)",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group21_Step21_VisitArea06_StepDescription",
+      "en": "Sail to the gate behind the giant cake to open it with Hook.",
+      "cz": "Plav k bráně za obrovským dortem, abys ji otevřel s Hookem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_070_DonutIsland_Group22_Step22_StepDescription",
+      "en": "Dock your ship in Sweetwater Wharf at the far side of Candy Cove.",
+      "cz": "Zastav svou loď v Sweetwater Wharf na druhé straně Candy Cove.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Expansion04/MRQS_E04_071_Puzzle06.locbin": [
+    {
+      "key": "Story!Expansion04!MRQS_E04_071_Puzzle06_AvailableDescription",
+      "en": "You've uncovered another mysterious puzzle beneath the waves.",
+      "cz": "Objevil jsi další tajemnou hádanku pod vlnami.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_071_Puzzle06_DisplayName",
+      "en": "Sunken Echo: The Fancy Hat",
+      "cz": "Potopená ozvěna: Pěkný klobouk",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_071_Puzzle06_Group01_Step01_Conditional01_StepDescription",
+      "en": "Interact with the <ActivityItem>Hat Keepsake</ActivityItem> after passing through the Whirlpool on Donut Island.",
+      "cz": "Interaguj s <ActivityItem>suvenýrem klobouku</ActivityItem> po průchodu vírem na Donut Island.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_071_Puzzle06_Group02_Step02_Conditional02_StepDescription",
+      "en": "Solve the first mysterious puzzle after passing through the Whirlpool on Donut Island.",
+      "cz": "Vyřeš první tajemnou hádanku po průchodu vírem na Donut Island.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_071_Puzzle06_Group02_Step03_Interaction01_StepDescription",
+      "en": "(Optional) Examine the note in front of the first puzzle for clues.",
+      "cz": "(Volitelné) Prozkoumejte poznámku před prvním puzzlem pro nápovědy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_071_Puzzle06_Group03_Step04_Conditional03_StepDescription",
+      "en": "Solve the second mysterious puzzle after passing through the Whirlpool on Donut Island.",
+      "cz": "Vyřešte druhý tajemný puzzle po projití vírem na Donut Island.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_071_Puzzle06_Group03_Step05_Interaction02_StepDescription",
+      "en": "(Optional) Examine the note in front of the first puzzle for clues.",
+      "cz": "(Volitelné) Prozkoumejte poznámku před prvním puzzlem pro nápovědy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_071_Puzzle06_Group04_Step06_Possess01_StepDescription",
+      "en": "Pick up the <Lore>Keepsake</Lore> after passing through the Whirlpool on Donut Island.",
+      "cz": "Zvedněte <Lore>suvenýr</Lore> po projití vírem na Donut Island.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Expansion04/MRQS_E04_080_SpeakNarwhal.locbin": [
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_AvailableDescription",
+      "en": "Captain Hook was relieved to finally be back on the mainland. He set out in search of his ship.",
+      "cz": "Kapitán Hook byl rád, že se konečně vrátil na pevninu. Vydal se hledat svou loď.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_DisplayName",
+      "en": "I CaaAAAannn SpeeeaAAAAAAKKkk WWWHHAAAAALEeee!!!",
+      "cz": "Já Můůůůžu Mluvit SSSSSSSSSSSSSSSS Velrybou!!!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group01_Step01_StepDescription",
+      "en": "Explore Sweetwater Wharf.",
+      "cz": "Prozkoumejte Sweetwater Wharf.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group01_Step01_VisitArea01_StepDescription",
+      "en": "Find Captain Hook when you're ready for the next step in your adventure.",
+      "cz": "Najděte kapitána Hooka, když budete připraveni na další krok ve svém dobrodružství.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluvte si s {TargetNPC}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group03_Step03_BringItem03_StepDescription",
+      "en": "{itemName}.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group03_Step03_BringItem04_StepDescription",
+      "en": "{itemName}.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group03_Step03_BringItem05_StepDescription",
+      "en": "{itemName}.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group03_Step03_BringItem06_StepDescription",
+      "en": "{itemName}.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group03_Step03_ReadyDescription",
+      "en": "Bring the materials to {TargetNPC}.",
+      "cz": "Přineste materiály k {TargetNPC}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group03_Step03_StepDescription",
+      "en": "Gather materials to fix Hook's ship:",
+      "cz": "Nasbírejte materiály k opravě Hookovy lodi:",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group06_Step06_TalkToCharacter04_StepDescription",
+      "en": "Talk to Dory. (Dory can be summoned at any time by equipping her as an Adventure Companion!)",
+      "cz": "Promluvte si s Dory. (Dory můžete kdykoli přivolat, když ji vybavíte jako dobrodružného společníka!)",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group07_Step07_VisitArea02_StepDescription",
+      "en": "Swim out to the Narwhal floating in the sea of Sweetwater Wharf.",
+      "cz": "Plavte se k Narvalovi, který plave v moři Sweetwater Wharf.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group08_Step08_TalkToCharacter05_StepDescription",
+      "en": "Talk to the Narwhal.",
+      "cz": "Promluvte si s Narvalem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group09_Step09_CookMeal01_StepDescription",
+      "en": "{itemName}.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group09_Step09_CookMeal02_StepDescription",
+      "en": "{itemName}.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group09_Step09_StepDescription",
+      "en": "Cook the meals for the Narwhal.",
+      "cz": "Uvařte jídlo pro Narvala.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group10_Step10_BringItem01_StepDescription",
+      "en": "{itemName}.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group10_Step10_BringItem02_StepDescription",
+      "en": "{itemName}.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group10_Step10_ReadyDescription",
+      "en": "Return to the Narwhal in the sea off of Sweetwater Wharf and deliver the meals.",
+      "cz": "Vraťte se k Narvalovi v moři u Sweetwater Wharf a doručte jídlo.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group10_Step10_StepDescription",
+      "en": "Make sure you have {itemName} in your Inventory.",
+      "cz": "Ujistěte se, že máte {itemName} ve svém inventáři.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group11_Step11_VisitArea03_StepDescription",
+      "en": "Enter the Whirlpool in the Narwhal's den off Sweetwater Wharf.",
+      "cz": "Vstupte do víru v narvalově doupěti u Sweetwater Wharf.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group12_Step12_Conditional01_StepDescription",
+      "en": "Complete the quest to retrieve the Keepsake.",
+      "cz": "Dokončete úkol pro získání památky.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group13_Step13_VisitArea04_StepDescription",
+      "en": "Return to the surface.",
+      "cz": "Vraťte se na povrch.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group14_Step14_FollowCharacter01_StepDescription",
+      "en": "Meet up with Meg near where Hook's ship was.",
+      "cz": "Setkejte se s Meg poblíž místa, kde byla Hookova loď.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group14_Step14_FollowCharacter01_TalkToDescription",
+      "en": "Talk to Meg near Hook's missing ship.",
+      "cz": "Promluvte si s Meg poblíž chybějící Hookovy lodi.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group14_Step14_FollowCharacter01_WrongSceneDescription",
+      "en": "Return to the Keepsake Sea.",
+      "cz": "Vraťte se do moře památek.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group14_Step14_StepDescription",
+      "en": "Hook's ship is missing!",
+      "cz": "Hookova loď chybí!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group15_Step15_StepDescription",
+      "en": "You have all 3 Keepsakes!",
+      "cz": "Máte všechny 3 památky!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group15_Step15_VisitArea05_StepDescription",
+      "en": "Sail to the Guardian of Expression's island.",
+      "cz": "Plujte na ostrov Strážce výrazu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group16_Step16_StepDescription",
+      "en": "Put the 3 Keepsakes on the pedestal in front of the Guardian of Expression.",
+      "cz": "Položte 3 památky na podstavec před Strážce výrazu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group17_Step17_TalkToCharacter06_StepDescription",
+      "en": "Talk to the Guardian of Expression.",
+      "cz": "Promluvte si se Strážcem výrazu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group19_Step19_Possess01_StepDescription",
+      "en": "{itemName}.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group19_Step19_Possess02_StepDescription",
+      "en": "{itemName}.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group19_Step19_Possess03_StepDescription",
+      "en": "{itemName}.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group19_Step19_Possess04_StepDescription",
+      "en": "{itemName}.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group19_Step19_Possess05_StepDescription",
+      "en": "{itemName}.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group19_Step19_Possess06_StepDescription",
+      "en": "Any Grain.",
+      "cz": "Jakékoli zrno.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_080_SpeakNarwhal_Group19_Step19_StepDescription",
+      "en": "Gather Ingredients for the Narwhal's meals:",
+      "cz": "Nasbírejte ingredience pro jídla narvala:",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Expansion04/MRQS_E04_081_Puzzle07.locbin": [
+    {
+      "key": "Story!Expansion04!MRQS_E04_081_Puzzle07_AvailableDescription",
+      "en": "You uncovered another mysterious puzzle beneath the waves.",
+      "cz": "Objevili jste další tajemnou hádanku pod vlnami.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_081_Puzzle07_DisplayName",
+      "en": "Sunken Echo: The Cookie Cutters",
+      "cz": "Ztracená ozvěna: Formičky na sušenky",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_081_Puzzle07_Group01_Step01_Conditional01_StepDescription",
+      "en": "Solve the first mysterious puzzle after passing through the Whirlpool in Sweetwater Wharf.",
+      "cz": "Vyřešte první tajemnou hádanku po průchodu vírem u Sweetwater Wharf.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_081_Puzzle07_Group01_Step02_Interaction01_StepDescription",
+      "en": "(Optional) Examine the note in front of the first puzzle for clues.",
+      "cz": "(Volitelné) Prozkoumejte poznámku před první hádankou pro nápovědu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_081_Puzzle07_Group02_Step02_Conditional02_StepDescription",
+      "en": "Solve the second mysterious puzzle after passing through the Whirlpool in Sweetwater Wharf.",
+      "cz": "Vyřešte druhou tajemnou hádanku po průchodu vírem u Sweetwater Wharf.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_081_Puzzle07_Group02_Step04_Interaction02_StepDescription",
+      "en": "(Optional) Examine the note in front of the first puzzle for clues.",
+      "cz": "(Volitelné) Prozkoumejte poznámku před první hádankou pro nápovědu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_081_Puzzle07_Group04_Step04_Possess01_StepDescription",
+      "en": "Pick up the <Lore>Keepsake</Lore> after passing through the Whirlpool in Sweetwater Wharf.",
+      "cz": "Zvedněte <Lore>památku</Lore> po průchodu vírem u Sweetwater Wharf.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_081_Puzzle07_Group04_Step06_Conditional03_StepDescription",
+      "en": "Interact with the <ActivityItem>Cookie Cutter Keepsake</ActivityItem> inside the Whirlpool in Sweetwater Wharf.",
+      "cz": "Interaguj s <ActivityItem>sušenkovým vykrajovátkem</ActivityItem> uvnitř víru v Sweetwater Wharf.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Expansion04/MRQS_E04_090_APiratesHonor.locbin": [
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Any_CompletedRequestDescription",
+      "en": "Talk to Captain Hook.",
+      "cz": "Promluv si s kapitánem Hookem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_AvailableDescription",
+      "en": "The Guardian of Expression opened the way for the Legendary Adventurer to journey ever deeper into the Keepsake Sea. The mysterious Kingdom of Oublié lay further ahead.",
+      "cz": "Strážce výrazu otevřel cestu Legendárnímu dobrodruhovi, aby se mohl vydat hlouběji do moře vzpomínek. Tajemné království Oublié leželo dál.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_DisplayName",
+      "en": "No Pirates Allowed",
+      "cz": "Piráti zakázáni",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group01_Step01_Conditional01_StepDescription",
+      "en": "Use {input_mainmenudreamlight} to view the Guardian Trials menu.",
+      "cz": "Použij {input_mainmenudreamlight} k zobrazení nabídky zkoušek strážců.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group01_Step01_Conditional03_StepDescription",
+      "en": "(Optional) Complete Megara's first Friendship Quest.",
+      "cz": "(Volitelné) Dokonči první přátelskou misi Megary.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group01_Step01_StepDescription",
+      "en": "Overcome the Guardian of Expression's Trial to progress.",
+      "cz": "Překonej zkoušku Strážce výrazu, abys mohl pokračovat.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group02_Step02_StepDescription",
+      "en": "Talk to the Guardian of Expression on her island in Sweetwater Wharf.",
+      "cz": "Promluv si se Strážcem výrazu na jejím ostrově v Sweetwater Wharf.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group03_Step03_StepDescription",
+      "en": "The Guardian of Expression has granted you passage.",
+      "cz": "Strážce výrazu ti udělil povolení k průchodu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group03_Step03_VisitArea01_StepDescription",
+      "en": "Sail through the tunnel next to the Guardian of Expression's island and dock in the Kingdom of Oublié.",
+      "cz": "Pluj tunelem vedle ostrova Strážce výrazu a zakotvi v království Oublié.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group04_Step04_VisitArea02_StepDescription",
+      "en": "Explore <Lore>the Coral Coast</Lore> for any signs of your old friend.",
+      "cz": "Prozkoumej <Lore>korálové pobřeží</Lore> a hledej stopy svého starého přítele.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group05_Step05_Conditional02_StepDescription",
+      "en": "Find a way to open the gate. There must be some clues around the Coral Coast.",
+      "cz": "Najdi způsob, jak otevřít bránu. Musí tu být nějaké stopy kolem korálového pobřeží.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group05_Step05_StepDescription",
+      "en": "The gate to <Lore>the Grand Garden</Lore> is locked.",
+      "cz": "Brána do <Lore>Velké zahrady</Lore> je zamčená.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group06_Step06_StepDescription",
+      "en": "The gate is opened!",
+      "cz": "Brána je otevřená!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group06_Step06_VisitArea03_StepDescription",
+      "en": "Search for the mysterious \"W\" in the Grand Garden.",
+      "cz": "Hledej tajemné \"W\" ve Velké zahradě.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group07_Step07_StepDescription",
+      "en": "Captain Hook is trapped in that cage!",
+      "cz": "Kapitán Hook je uvězněn v té kleci!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group07_Step07_TalkToCharacter02_StepDescription",
+      "en": "Talk to Captain Hook.",
+      "cz": "Promluv si s kapitánem Hookem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group07_StoryDescription",
+      "en": "Deeper in the kingdom, you stumbled on Captain Hook... imprisoned in a cage.",
+      "cz": "Hlouběji v království jsi narazil na kapitána Hooka... uvězněného v kleci.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group08_Step08_BringItem01_StepDescription",
+      "en": "Search for a <Lore>strange tablet</Lore> between the waterfall and the gate to the Grand Garden.",
+      "cz": "Hledej <Lore>podivnou desku</Lore> mezi vodopádem a bránou do Velké zahrady.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group08_Step08_ReadyDescription",
+      "en": "Bring the <Lore>Mysterious Tablet</Lore> back to Captain Hook.",
+      "cz": "Přines <Lore>Tajemnou desku</Lore> zpět kapitánu Hookovi.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group09_Step09_CookMeal01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group09_Step09_CookMeal02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group09_Step09_CookMeal03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group09_Step09_StepDescription",
+      "en": "Prepare a meal for Jack and Hook.",
+      "cz": "Připrav jídlo pro Jacka a Hooka.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group10_Step10_BringItem02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group10_Step10_BringItem03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group10_Step10_BringItem04_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group10_Step10_ReadyDescription",
+      "en": "Bring back the meals to Captain Hook in the Grand Garden.",
+      "cz": "Přines jídlo zpět kapitánu Hookovi do Velké zahrady.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group10_Step10_StepDescription",
+      "en": "Make sure the following are in your Inventory:",
+      "cz": "Ujisti se, že máš v inventáři následující:",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group11_Step11_TalkToCharacter03_StepDescription",
+      "en": "Talk to Captain Hook in the cage.",
+      "cz": "Promluv si s kapitánem Hookem v kleci.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group11_StoryDescription",
+      "en": "Jack Sparrow had captured the hook-handed captain, and now a curse had befallen the island.",
+      "cz": "Jack Sparrow zajal kapitána s hákem a na ostrov padla kletba.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group12_Step12_Possess01_StepDescription",
+      "en": "Catch it using your merfolk abilities.",
+      "cz": "Chyť to pomocí svých mořských schopností.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group12_Step12_StepDescription",
+      "en": "Hook mentioned a large fish near his ship in the waters off the Coral Coast.",
+      "cz": "Hook zmínil velkou rybu poblíž své lodi ve vodách u Korálového pobřeží.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group13_Step13_ReadyDescription",
+      "en": "Bring the <ActivityItem>Rare Mango Wrasse</ActivityItem> back to Captain Hook.",
+      "cz": "Přines <ActivityItem>Vzácného mango wrasse</ActivityItem> zpět kapitánu Hookovi.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group13_Step13_StepDescription",
+      "en": "Make sure the <ActivityItem>Rare Mango Wrasse</ActivityItem> is in your Inventory.",
+      "cz": "Ujisti se, že máš <ActivityItem>Vzácného mango wrasse</ActivityItem> v inventáři.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group14_Step14_TalkToCharacter04_StepDescription",
+      "en": "Talk to Captain Hook.",
+      "cz": "Promluv si s kapitánem Hookem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group15_Step15_PlaceBuilding01_StepDescription",
+      "en": "Place the foundations of the Jolly Roger.",
+      "cz": "Polož základy Jolly Roger.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group15_Step15_StepDescription",
+      "en": "Hook has agreed to dry dock his ship as a show of good faith.",
+      "cz": "Hook souhlasil, že dá svou loď do suchého doku jako projev dobré vůle.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group15_StoryDescription",
+      "en": "With the help of Milo, you resolved the dispute between Captain Hook and Jack Sparrow. For now, Captain Hook would stay landlocked!",
+      "cz": "S pomocí Mila jsi vyřešil spor mezi kapitánem Hookem a Jackem Sparrowem. Na chvíli zůstane kapitán Hook na pevnině!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group16_Step16_Unlock01_StepDescription",
+      "en": "Use the Scrooge McDuck Sign near <Lore>the Jolly Roger</Lore> to finish its construction.",
+      "cz": "Použij značku Scrooge McDuck poblíž <Lore>Jolly Roger</Lore>, abys dokončil jeho stavbu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_090_APiratesHonor_Group17_Step17_UnlockCharacter01_StepDescription",
+      "en": "Welcome Captain Hook!",
+      "cz": "Vítej, kapitáne Hooku!",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Expansion04/MRQS_E04_100_OutgrownFriendship.locbin": [
+    {
+      "key": "Story!Expansion04!MRQS_E04_100_OutgrownFriendship_Any_CompletedRequestDescription",
+      "en": "Return to Wendy.",
+      "cz": "Vrať se k Wendy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_100_OutgrownFriendship_AvailableDescription",
+      "en": "With the feud between Hook and Sparrow resolved, the Legendary Adventurer set out once more for the Kingdom, where an old friend was sure to be waiting.",
+      "cz": "S vyřešeným sporem mezi Hookem a Sparrowem se Legendární dobrodruh opět vydal do Království, kde na něj určitě čekal starý přítel.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_100_OutgrownFriendship_DisplayName",
+      "en": "The Pinky Promise",
+      "cz": "Růžový slib",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_100_OutgrownFriendship_DisplayName_001",
+      "en": "Mystery",
+      "cz": "Záhada",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_100_OutgrownFriendship_Group01_Step01_StepDescription",
+      "en": "The magical curse is lifted.",
+      "cz": "Magická kletba byla zlomena.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_100_OutgrownFriendship_Group01_Step01_VisitArea01_StepDescription",
+      "en": "Return to the Grand Garden to find your old friend.",
+      "cz": "Vrať se do Velké zahrady, abys našel svého starého přítele.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_100_OutgrownFriendship_Group02_Step02_StepDescription",
+      "en": "A new door has opened...",
+      "cz": "Otevřely se nové dveře...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_100_OutgrownFriendship_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Talk to \"W.\"",
+      "cz": "Promluv si s \"W.\"",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_100_OutgrownFriendship_Group03_Step03_StepDescription",
+      "en": "Interact with the Axolotl Fountains to repair them.",
+      "cz": "Interaguj s axolotl fontánami, abys je opravil.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_100_OutgrownFriendship_Group03_Step04_StepDescription",
+      "en": "Repair the Regal Coral Aquarium Blueprint in the Grand Garden.",
+      "cz": "Opravit plán Regálního korálového akvária v Grand Garden.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_100_OutgrownFriendship_Group03_Step05_StepDescription",
+      "en": "Take a picture of an Axolotl. (A real one, not a statue!)",
+      "cz": "Vyfoť axolotla. (Skutečného, ne sochu!)",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_100_OutgrownFriendship_Group03_StepDescription",
+      "en": "Perform acts of care around the Grand Garden in the Kingdom of Oublié:",
+      "cz": "Proveďte péči v Grand Garden v království Oublié:",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_100_OutgrownFriendship_Group04_Step06_StepDescription",
+      "en": "The Kingdom of Oublié is looking good!",
+      "cz": "Království Oublié vypadá skvěle!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_100_OutgrownFriendship_Group04_Step06_TalkToCharacter02_StepDescription",
+      "en": "Return to Wendy.",
+      "cz": "Vrať se k Wendy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_100_OutgrownFriendship_Group05_Step07_VisitArea02_StepDescription",
+      "en": "Use the Whirlpool off the beach of the Coral Coast to reach the Coral Depths.",
+      "cz": "Použij vír u pláže Korálového pobřeží, abys se dostal do Korálových hlubin.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_100_OutgrownFriendship_Group06_Step08_Possess01_StepDescription",
+      "en": "Search the Coral Depths for pieces of <Lore>Wendy's Scattered Picture</Lore>.<br><br>Remember: Use {input_mermaidactiontrawl} to burst bubbles and collect their contents!",
+      "cz": "Hledej v Korálových hlubinách kousky <Lore>Wendyiny rozptýlené fotografie</Lore>.<br><br>Pamatuj: Použij {input_mermaidactiontrawl} k prasknutí bublin a sbírání jejich obsahu!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_100_OutgrownFriendship_Group07_Step09_VisitArea03_StepDescription",
+      "en": "Leave the Coral Depths.",
+      "cz": "Opusť Korálové hloubky.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_100_OutgrownFriendship_Group08_Step10_BringItem01_StepDescription",
+      "en": "Make sure the pieces of <ActivityItem>Wendy's Picture</ActivityItem> are in your Inventory.",
+      "cz": "Ujisti se, že kousky <ActivityItem>Wendyiny fotografie</ActivityItem> máš ve svém inventáři.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_100_OutgrownFriendship_Group08_Step10_ReadyDescription",
+      "en": "Return to Wendy.",
+      "cz": "Vrať se k Wendy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_100_OutgrownFriendship_Group09_Step11_CompleteStory01_StepDescription",
+      "en": "Interact with the table in Wendy's Study to reorder the Picture Pieces.",
+      "cz": "Interaguj se stolem v Wendyině pracovně, abys přeuspořádal kousky fotografie.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_100_OutgrownFriendship_Group10_Step12_VisitArea04_StepDescription",
+      "en": "Find the location displayed in the Picture.",
+      "cz": "Najdi místo zobrazené na fotografii.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_100_OutgrownFriendship_Group11_Step13_StepDescription",
+      "en": "You found the secret entrance to the next Sunken Echo!",
+      "cz": "Našel jsi tajný vchod k dalšímu Potopenému echu!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_100_OutgrownFriendship_Group11_Step13_VisitArea05_StepDescription",
+      "en": "Use the Whirlpool in the Coral Coast's secret grotto.",
+      "cz": "Použij vír v tajné jeskyni Korálového pobřeží.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_100_OutgrownFriendship_Group12_Step14_Conditional05_StepDescription",
+      "en": "Complete the quest \"Sunken Echo: The Pool Floatie\" to progress.",
+      "cz": "Dokonči úkol \"Potopené echo: Plovoucí hračky\", abys mohl pokračovat.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_100_OutgrownFriendship_Group13_Step15_VisitArea06_StepDescription",
+      "en": "Leave the Coral Depths.",
+      "cz": "Opusť Korálové hloubky.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Expansion04/MRQS_E04_101_Puzzle08.locbin": [
+    {
+      "key": "Story!Expansion04!MRQS_E04_101_Puzzle08_AvailableDescription",
+      "en": "Beneath the waves, you discovered another mysterious puzzle to be solved.",
+      "cz": "Pod vlnami jsi objevil další tajemnou hádanku, kterou je třeba vyřešit.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_101_Puzzle08_DisplayName",
+      "en": "Sunken Echo: The Pool Floatie",
+      "cz": "Potopené echo: Plovoucí hračky",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_101_Puzzle08_Group01_Step01_StepDescription",
+      "en": "Interact with the <ActivityItem>Pool Floatie Keepsake</ActivityItem> after passing through the Whirlpool behind the waterfall on Coral Coast.",
+      "cz": "Interaguj s <ActivityItem>plovoucí hračkou</ActivityItem> po průchodu vírem za vodopádem na Korálovém pobřeží.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_101_Puzzle08_Group02_Step02_Conditional02_StepDescription",
+      "en": "Solve the first mysterious puzzle after passing through the Whirlpool behind the waterfall on Coral Coast.",
+      "cz": "Vyřeš první tajemnou hádanku po průchodu vírem za vodopádem na Korálovém pobřeží.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_101_Puzzle08_Group02_Step03_Interaction01_StepDescription",
+      "en": "(Optional) Examine the note in front of the first puzzle for clues.",
+      "cz": "(Volitelné) Prozkoumej poznámku před první hádankou pro nápovědu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_101_Puzzle08_Group03_Step04_Conditional03_StepDescription",
+      "en": "Solve the second mysterious puzzle after passing through the Whirlpool behind the waterfall on Coral Coast.",
+      "cz": "Vyřeš druhou tajemnou hádanku po průchodu vírem za vodopádem na Korálovém pobřeží.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_101_Puzzle08_Group03_Step05_Interaction02_StepDescription",
+      "en": "(Optional) Examine the note in front of the second puzzle for clues.",
+      "cz": "(Volitelné) Prozkoumej poznámku před druhou hádankou pro nápovědu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_101_Puzzle08_Group04_Step06_Possess01_StepDescription",
+      "en": "Pick up the <Lore>Keepsake</Lore> after passing through the Whirlpool behind the waterfall on Coral Coast.",
+      "cz": "Zvedni <Lore>suvenýr</Lore> po průchodu vírem za vodopádem na Korálovém pobřeží.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Expansion04/MRQS_E04_120_AStormBrewing.locbin": [
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_Any_CompletedRequestDescription",
+      "en": "Return to Wendy.",
+      "cz": "Vrať se k Wendy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_AvailableDescription",
+      "en": "The Legendary Adventurer had finally found Wendy, the long lost friend. Now, the two of them would need to forge forward into the Throne Room.",
+      "cz": "Legendární dobrodruh konečně našel Wendy, dlouho ztracenou přítelkyni. Nyní se oba musí vydat do Trůnního sálu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_CompletedStoryDescription",
+      "en": "Back on the surface, the Adventurer conferred with Wendy about what to do next.",
+      "cz": "Na povrchu se dobrodruh poradil s Wendy, co dělat dál.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_DisplayName",
+      "en": "The Forgotten Throne Room",
+      "cz": "Zapomenutý Trůnní sál",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_Group01_Step01_FollowCharacter01_StepDescription",
+      "en": "When you're ready, meet Wendy at the gate in the Grand Garden.",
+      "cz": "Až budeš připravený, potkej se s Wendy u brány v Grand Garden.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_Group01_Step01_FollowCharacter01_TalkToDescription",
+      "en": "Talk to Wendy.",
+      "cz": "Promluv si s Wendy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_Group02_Step02_FollowCharacter02_StepDescription",
+      "en": "Follow Wendy.",
+      "cz": "Následuj Wendy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_Group02_Step02_FollowCharacter02_TalkToDescription",
+      "en": "Talk to Wendy.",
+      "cz": "Promluv si s Wendy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_Group03_Step03_StepDescription",
+      "en": "There's only one way to find those missing Throne Room Keys.",
+      "cz": "Existuje jen jeden způsob, jak najít chybějící klíče od Trůnního sálu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_Group03_Step03_TalkToCharacter01_StepDescription",
+      "en": "Talk to <Lore>Captain Hook</Lore>.",
+      "cz": "Promluv si s <Lore>Kapitánem Hookem</Lore>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_Group03_StoryDescription",
+      "en": "At the gates of the Throne Room, the Legendary Adventurer learned of a night long ago when Hook stole the keys. A visit to Hook was in order.",
+      "cz": "U brány Trůnního sálu se Legendární dobrodruh dozvěděl o noci, kdy Hook ukradl klíče. Bylo na čase navštívit Hooka.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_Group04_Step04_Possess01_StepDescription",
+      "en": "South of Sharkfin Isle.",
+      "cz": "Na jih od Sharkfin Isle.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_Group04_Step04_Possess02_StepDescription",
+      "en": "East of Sweetwater Wharf.",
+      "cz": "Na východ od Sweetwater Wharf.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_Group04_Step04_Possess03_StepDescription",
+      "en": "Southwest of the Forgotten Lagoon.",
+      "cz": "Na jihozápad od Zapomenuté laguny.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_Group04_Step04_StepDescription",
+      "en": "Salvage the Throne Room Keys from shipwrecks in the high seas:",
+      "cz": "Získej klíče od Trůnního sálu z vraků na širém moři:",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_Group05_Step05_FillKeyhole01_StepDescription",
+      "en": "Place the three Throne Keys in the right lock of the Throne Door Room in Saltwater Square.",
+      "cz": "Vlož tři klíče od Trůnu do správného zámku Trůnních dveří v Saltwater Square.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_Group06_Step06_FollowCharacter03_StepDescription",
+      "en": "Follow Wendy.",
+      "cz": "Následuj Wendy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_Group06_Step06_FollowCharacter03_TalkToDescription",
+      "en": "Talk to Wendy.",
+      "cz": "Promluv si s Wendy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_Group06_StoryDescription",
+      "en": "With the keys in hand, the Legendary Adventurer stepped inside the forgotten Throne Room.",
+      "cz": "S klíči v ruce vstoupil Legendární dobrodruh do zapomenutého Trůnního sálu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_Group07_Step07_Conditional01_StepDescription",
+      "en": "Look around the Throne Room for anything out of the ordinary.",
+      "cz": "Prozkoumej Trůnní sál, jestli nenajdeš něco neobvyklého.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_Group08_Step08_FollowCharacter04_StepDescription",
+      "en": "Meet Wendy in the Throne Room.",
+      "cz": "Potkej se s Wendy v Trůnním sále.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_Group08_Step08_FollowCharacter04_TalkToDescription",
+      "en": "Talk to Wendy about it.",
+      "cz": "Promluv si s Wendy o tom.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_Group08_Step08_StepDescription",
+      "en": "The floor of the Throne Room is a map!",
+      "cz": "Podlaha Trůnního sálu je mapa!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_Group08_StoryDescription",
+      "en": "In the Throne Room, Wendy and the Adventurer found a mysterious map on the floor. It seemed to point to an island at the center of the sea.",
+      "cz": "V Trůnním sále našli Wendy a dobrodruh tajemnou mapu na podlaze. Zdálo se, že ukazuje na ostrov uprostřed moře.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_Group09_Step09_Conditional02_StepDescription",
+      "en": "Interact with the center of the Throne Room's floor.",
+      "cz": "Interaguj se středem podlahy Trůnního sálu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_Group10_Step10_TalkToCharacter02_StepDescription",
+      "en": "Investigate the magical door.",
+      "cz": "Prozkoumej magické dveře.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_Group11_Step11_StepDescription",
+      "en": "The magical door let you though to the last Sunken Echo.",
+      "cz": "Magická brána tě pustila k poslednímu Potopenému Echu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_Group11_Step11_VisitArea01_StepDescription",
+      "en": "Dive into the Whirlpool from the Throne Room.",
+      "cz": "Skoč do Vortexu z Trůnního sálu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_Group11_StoryDescription",
+      "en": "After a talk with a chatty door, the Legendary Adventurer discovered another Sunken Echo. What secrets awaited in the depths?",
+      "cz": "Po rozhovoru s ukecanou bránou objevil Legendární Dobrodruh další Potopené Echo. Jaká tajemství na ně čekala v hlubinách?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_Group12_Step12_Conditional03_StepDescription",
+      "en": "Complete the quest \"Sunken Echo: The Seashell\" to progress.",
+      "cz": "Dokonči úkol \"Potopené Echo: Mušle\", abys mohl pokračovat.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_120_AStormBrewing_Group13_Step13_VisitArea02_StepDescription",
+      "en": "Leave the Coral Depths.",
+      "cz": "Opusť Korálové Hloubky.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Expansion04/MRQS_E04_121_Puzzle10.locbin": [
+    {
+      "key": "Story!Expansion04!MRQS_E04_121_Puzzle10_AvailableDescription",
+      "en": "You uncovered a mysterious puzzle beneath the waves.",
+      "cz": "Objevil jsi tajemnou hádanku pod vlnami.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_121_Puzzle10_DisplayName",
+      "en": "Sunken Echo: The Seashell",
+      "cz": "Potopené Echo: Mušle",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_121_Puzzle10_Group01_Step01_Conditional01_StepDescription",
+      "en": "Interact with the <Lore>Seashell Keepsake</Lore> after passing through the Whirlpool in the forgotten Throne Room.",
+      "cz": "Interaguj s <Lore>Mušlovým Suvenýrem</Lore> po průchodu Vortexem v zapomenutém Trůním sále.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_121_Puzzle10_Group02_Step02_Conditional02_StepDescription",
+      "en": "Solve the first mysterious puzzle after passing through the Whirlpool in the forgotten Throne Room.",
+      "cz": "Vyřeš první tajemnou hádanku po průchodu Vortexem v zapomenutém Trůním sále.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_121_Puzzle10_Group02_Step03_Interaction01_StepDescription",
+      "en": "(Optional) Examine the note in front of the first puzzle for clues.",
+      "cz": "(Volitelné) Prozkoumej poznámku před první hádankou pro nápovědu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_121_Puzzle10_Group03_Step04_Conditional03_StepDescription",
+      "en": "Solve the second mysterious puzzle after passing through the Whirlpool in the forgotten Throne Room.",
+      "cz": "Vyřeš druhou tajemnou hádanku po průchodu Vortexem v zapomenutém Trůním sále.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_121_Puzzle10_Group03_Step05_Interaction02_StepDescription",
+      "en": "(Optional) Examine the note in front of the second puzzle for clues.",
+      "cz": "(Volitelné) Prozkoumej poznámku před druhou hádankou pro nápovědu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_121_Puzzle10_Group04_Step06_Possess01_StepDescription",
+      "en": "Pick up the <Lore>Seashell Keepsake</Lore> after passing through the Whirlpool in the forgotten Throne Room.",
+      "cz": "Zvedni <Lore>Mušlový Suvenýr</Lore> po průchodu Vortexem v zapomenutém Trůním sále.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Expansion04/MRQS_E04_125_TheForge.locbin": [
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Any_CompletedRequestDescription",
+      "en": "Talk to Wendy.",
+      "cz": "Promluv si s Wendou.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_AvailableDescription",
+      "en": "Wendy led the Legendary Adventurer towards the final Sunken Echo.",
+      "cz": "Wenda vedla Legendárního Dobrodruha k poslednímu Potopenému Echu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_CompletedStoryDescription",
+      "en": "Together, the Legendary Adventurer and Wendy learned of a secret final Guardian on the isle at the center of the sea. Soon, they would be able to reach it together and discover what awaited them.",
+      "cz": "Společně se Legendární Dobrodruh a Wenda dozvěděli o tajemném posledním Strážci na ostrově uprostřed moře. Brzy se k němu budou moci dostat a zjistit, co je tam čeká.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_DisplayName",
+      "en": "Forging Friendships",
+      "cz": "Kováním přátelství",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group01_Step01_FollowCharacter01_StepDescription",
+      "en": "Meet Wendy in the Forgotten Lagoon.",
+      "cz": "Setkej se s Wendou v Zapomenuté laguně.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group01_Step01_FollowCharacter01_TalkToDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluv si s {TargetNPC}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group02_Step02_VisitArea01_StepDescription",
+      "en": "Dive into the Whirlpool inside the overgrown grotto in the Forgotten Lagoon.",
+      "cz": "Skoč do Vortexu uvnitř zarostlé jeskyně v Zapomenuté laguně.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group03_Step03_Interaction01_StepDescription",
+      "en": "Something's wrong... Where is the Keepsake? Investigate the Broken Bottle.",
+      "cz": "Něco je špatně... Kde je Suvenýr? Prozkoumej Rozbitou lahev.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group04_Step04_TalkToCharacter01_StepDescription",
+      "en": "Return to Wendy.",
+      "cz": "Vrať se k Wendě.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group04_StoryDescription",
+      "en": "But beneath the sea, the Legendary Adventurer found... nothing. Something was horribly amiss.",
+      "cz": "Ale pod mořem Legendární Dobrodruh našel... nic. Něco bylo hrozně špatně.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group05_Step05_FollowCharacter02_StepDescription",
+      "en": "Follow Wendy.",
+      "cz": "Následuj Wendu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group05_Step05_FollowCharacter02_TalkToDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluv si s {TargetNPC}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group06_Step06_Possess01_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group06_Step06_Possess02_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group06_Step06_Possess03_StepDescription",
+      "en": "{ItemName}.",
+      "cz": "",
+      "source": "do_not_translate"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group06_Step06_StepDescription",
+      "en": "Gather the Ingredients required to make the <Lore>Narwhal Treat</Lore>:",
+      "cz": "Nasbírej ingredience potřebné k výrobě <Lore>Narwhal Treat</Lore>:",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group07_Step07_CraftItem01_StepDescription",
+      "en": "Craft the Narwhal Treat.",
+      "cz": "Vyrob Narwhal Treat.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group08_Step08_ReadyDescription",
+      "en": "Bring the Narwhal Treat to Wendy.",
+      "cz": "Přines Narwhal Treat Wendy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group08_Step08_StepDescription",
+      "en": "Make sure the Narwhal Treat is in your Inventory.",
+      "cz": "Ujisti se, že máš Narwhal Treat ve svém inventáři.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group09_Step09_FollowCharacter03_StepDescription",
+      "en": "Follow Wendy across the bridge.",
+      "cz": "Následuj Wendy přes most.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group09_Step09_FollowCharacter03_TalkToDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Promluv si s {TargetNPC}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group09_Step09_StepDescription",
+      "en": "The bridge is accessible again!",
+      "cz": "Most je opět přístupný!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group09_StoryDescription",
+      "en": "With some help from a trusty Narwhal, Wendy, Megara, and the Legendary Adventurer found the Forge where the Keepsakes were first made.",
+      "cz": "S pomocí důvěryhodného Narwhala našli Wendy, Megara a Legendární Dobrodruh Kovářství, kde byly Keepsakes poprvé vyrobeny.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group10_Step10_VisitArea02_StepDescription",
+      "en": "When you're ready, head to your ship's cabin.",
+      "cz": "Až budeš připravený, vydej se do kajuty své lodi.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group11_Step11_StepDescription",
+      "en": "Speak to each member of your crew to discover what Boldness means to them:",
+      "cz": "Promluv si s každým členem své posádky a zjisti, co pro ně znamená Odvaha:",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group11_Step11_TalkToCharacter02_StepDescription",
+      "en": "{TargetNPC}.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group11_Step11_TalkToCharacter03_StepDescription",
+      "en": "{TargetNPC}.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group11_Step11_TalkToCharacter04_StepDescription",
+      "en": "{TargetNPC}.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group11_Step11_TalkToCharacter05_StepDescription",
+      "en": "{TargetNPC}.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group11_Step11_TalkToCharacter06_StepDescription",
+      "en": "{TargetNPC}.",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group12_Step12_FollowCharacter04_StepDescription",
+      "en": "Meet Wendy by the kiln in the Forge.",
+      "cz": "Potkej Wendy u pece v Kovářství.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group12_Step12_FollowCharacter04_TalkToDescription",
+      "en": "Talk to Wendy.",
+      "cz": "Promluv si s Wendy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group13_Step13_FillKeyhole01_StepDescription",
+      "en": "Place all the items representing Boldness in the kiln.",
+      "cz": "Umísti všechny předměty představující Odvahu do pece.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group13_StoryDescription",
+      "en": "Each friend who helped the Legendary Adventurer along the way helped to forge a new Keepsake to awaken the final Guardian.",
+      "cz": "Každý přítel, který pomohl Legendárnímu Dobrodruhovi na cestě, přispěl k vytvoření nového Keepsake, aby probudil posledního Strážce.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group14_Step14_Possess04_StepDescription",
+      "en": "Pick up the reforged Keepsake.",
+      "cz": "Zvedni znovu vyrobený Keepsake.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group15_Step15_FollowCharacter05_StepDescription",
+      "en": "Meet Wendy by the Guardian of Boldness's statue.",
+      "cz": "Potkej Wendy u sochy Strážce Odvahy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group16_Step16_FillKeyhole02_StepDescription",
+      "en": "Place the 3 Keepsakes on the altar of the Guardian of Boldness in the Forgotten Lagoon.",
+      "cz": "Umísti 3 Keepsakes na oltář Strážce Odvahy v Zapomenuté laguně.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group17_Step17_TalkToCharacter07_StepDescription",
+      "en": "Talk to the Guardian of Boldness.",
+      "cz": "Promluv s Strážcem Odvahy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group18_Step18_PlaceBuilding01_StepDescription",
+      "en": "Place the foundations of Wendy's House.",
+      "cz": "Polož základy Wendyina domu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group19_Step19_Unlock01_StepDescription",
+      "en": "Use the Scrooge McDuck Sign near Wendy's House to finish construction.",
+      "cz": "Použij značku Scrooge McDuck poblíž Wendyina domu k dokončení stavby.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_125_TheForge_Group20_Step20_UnlockCharacter01_StepDescription",
+      "en": "Welcome Wendy!",
+      "cz": "Vítej, Wendy!",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Expansion04/MRQS_E04_130_FinalIsland.locbin": [
+    {
+      "key": "Story!Expansion04!MRQS_E04_130_FinalIsland_Any_CompletedRequestDescription",
+      "en": "Talk to Wendy.",
+      "cz": "Promluv s Wendy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_130_FinalIsland_AvailableDescription",
+      "en": "The Legendary Adventurer would need to sail into the heart of the storm and find what was waiting there. But one more trial was waiting first.",
+      "cz": "Legendární dobrodruh by musel plout do srdce bouře a najít, co tam na něj čeká. Ale nejprve ho čekala ještě jedna zkouška.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_130_FinalIsland_DisplayName",
+      "en": "You Have to Believe",
+      "cz": "Musíš věřit",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_130_FinalIsland_Group01_Step01_Conditional01_StepDescription",
+      "en": "Complete the Guardian of Boldness's Trial to progress. (Open it by using {input_mainmenudreamlight}.)",
+      "cz": "Dokonči zkoušku Strážce Odvahy, abys postoupil. (Otevři ji pomocí {input_mainmenudreamlight}.)",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_130_FinalIsland_Group01_Step14_Conditional03_StepDescription",
+      "en": "(Optional) Help Wendy by completing her first Friendship Quest.",
+      "cz": "(Volitelné) Pomoz Wendy dokončit její první přátelskou misi.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_130_FinalIsland_Group01_Step15_Conditional04_StepDescription",
+      "en": "(Optional) Help Hook by completing his first Friendship Quest.",
+      "cz": "(Volitelné) Pomoz Hookovi dokončit jeho první přátelskou misi.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_130_FinalIsland_Group02_Step02_TalkToCharacter01_StepDescription",
+      "en": "Return to the Guardian of Boldness.",
+      "cz": "Vrať se k Strážci Odvahy.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_130_FinalIsland_Group03_Step03_VisitArea01_StepDescription",
+      "en": "Navigate the high seas and dock at <Lore>Memento Island</Lore>.",
+      "cz": "Pluj po širém moři a zakotvi na <Lore>Memento Island</Lore>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_130_FinalIsland_Group04_Step04_FillKeyhole01_StepDescription",
+      "en": "Progress through the first level.",
+      "cz": "Postupuj prvním levelem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_130_FinalIsland_Group04_StepDescription",
+      "en": "Explore Memento Island to find a way to the top.",
+      "cz": "Prozkoumej Memento Island a najdi cestu na vrchol.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_130_FinalIsland_Group05_Step05_FillKeyhole02_StepDescription",
+      "en": "Progress through the second level.",
+      "cz": "Postupuj druhým levelem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_130_FinalIsland_Group05_StepDescription",
+      "en": "Explore Memento Island to find a way to the top.",
+      "cz": "Prozkoumej Memento Island a najdi cestu na vrchol.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_130_FinalIsland_Group06_Step06_FillKeyhole03_StepDescription",
+      "en": "Progress through the third level.",
+      "cz": "Postupuj třetím levelem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_130_FinalIsland_Group06_StepDescription",
+      "en": "Explore Memento Island to find a way to the top.",
+      "cz": "Prozkoumej Memento Island a najdi cestu na vrchol.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_130_FinalIsland_Group07_Step07_VisitArea02_StepDescription",
+      "en": "Reach the top of Memento Island to meet the final Guardian.",
+      "cz": "Dostaň se na vrchol Memento Island a setkej se s posledním Strážcem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_130_FinalIsland_Group08_Step08_TalkToCharacter02_StepDescription",
+      "en": "Talk to the final Guardian.",
+      "cz": "Promluv s posledním Strážcem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_130_FinalIsland_Group09_Step09_VisitArea03_StepDescription",
+      "en": "Head into the Whirlpool behind the last Guardian.",
+      "cz": "Vstup do víru za posledním Strážcem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_130_FinalIsland_Group10_Step10_Conditional02_StepDescription",
+      "en": "Complete the quest to retrieve the Sunken Echo.",
+      "cz": "Dokonči úkol pro získání Potopené Ozvěny.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_130_FinalIsland_Group11_Step11_VisitArea04_StepDescription",
+      "en": "Return to the surface.",
+      "cz": "Vrať se na povrch.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_130_FinalIsland_Group12_Step12_FillKeyhole04_StepDescription",
+      "en": "Put the last Sunken Echo in front of the last Guardian on Memento Island.",
+      "cz": "Polož poslední Potopenou Ozvěnu před posledního Strážce na Memento Island.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_130_FinalIsland_Group13_Step13_TalkToCharacter03_StepDescription",
+      "en": "Talk to the final Guardian on Memento Island.",
+      "cz": "Promluv s posledním Strážcem na Memento Island.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Expansion04/MRQS_E04_131_Puzzle11.locbin": [
+    {
+      "key": "Story!Expansion04!MRQS_E04_131_Puzzle11_AvailableDescription",
+      "en": "To save the Keepsake Sea, the Legendary Adventurer would need to solve one final Sunken Echo.",
+      "cz": "Aby zachránil Moře památek, musí Legendární dobrodruh vyřešit poslední Potopenou ozvěnu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_131_Puzzle11_DisplayName",
+      "en": "Sunken Echo: The Most Valuable Treasure",
+      "cz": "Potopená ozvěna: Nejcennější poklad",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_131_Puzzle11_Group01_Step01_Conditional01_StepDescription",
+      "en": "Interact with the <Lore>Mysterious Box Keepsake</Lore> after passing through the Whirlpool on Memento Island.",
+      "cz": "Interaguj s <Lore>Tajemnou krabičkou památkou</Lore> po průchodu vírem na Ostrově vzpomínek.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_131_Puzzle11_Group02_Step02_Conditional02_StepDescription",
+      "en": "Solve the first mysterious puzzle after passing through the Whirlpool on Memento Island.",
+      "cz": "Vyřeš první tajemnou hádanku po průchodu vírem na Ostrově vzpomínek.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_131_Puzzle11_Group02_Step03_Interaction01_StepDescription",
+      "en": "(Optional) Examine the note in front of the first puzzle for clues.",
+      "cz": "(Volitelné) Prozkoumej poznámku před první hádankou pro nápovědu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_131_Puzzle11_Group03_Step04_Conditional03_StepDescription",
+      "en": "Solve the second mysterious puzzle after passing through the Whirlpool on Memento Island.",
+      "cz": "Vyřeš druhou tajemnou hádanku po průchodu vírem na Ostrově vzpomínek.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_131_Puzzle11_Group03_Step05_Interaction02_StepDescription",
+      "en": "(Optional) Examine the note in front of the first puzzle for clues.",
+      "cz": "(Volitelné) Prozkoumej poznámku před první hádankou pro nápovědu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_131_Puzzle11_Group04_Step06_Conditional04_StepDescription",
+      "en": "Solve the third mysterious puzzle after passing through the Whirlpool on Memento Island.",
+      "cz": "Vyřeš třetí tajemnou hádanku po průchodu vírem na Ostrově vzpomínek.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_131_Puzzle11_Group04_Step07_Interaction03_StepDescription",
+      "en": "(Optional) Examine the note in front of the first puzzle for clues.",
+      "cz": "(Volitelné) Prozkoumej poznámku před první hádankou pro nápovědu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!MRQS_E04_131_Puzzle11_Group05_Step08_Possess01_StepDescription",
+      "en": "Pick up the <Lore>Final Keepsake</Lore> after passing through the Whirlpool on Memento Island.",
+      "cz": "Zvedni <Lore>Poslední památku</Lore> po průchodu vírem na Ostrově vzpomínek.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Expansion04/ORQS_E04_Arie_010.locbin": [
+    {
+      "key": "Story!Expansion04!ORQS_E04_Arie_010_Any_CompletedRequestDescription",
+      "en": "Talk to {TargetNPC} about your adventure together.",
+      "cz": "Povídej si s {TargetNPC} o tvém společném dobrodružství.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!ORQS_E04_Arie_010_AvailableDescription",
+      "en": "It looks like Ariel has some exciting news!",
+      "cz": "Vypadá to, že Ariel má nějaké vzrušující novinky!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!ORQS_E04_Arie_010_DisplayName",
+      "en": "Undersea Reunion",
+      "cz": "Podmořské setkání",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!ORQS_E04_Arie_010_Group01_Step01_TalkToCharacter01_StepDescription",
+      "en": "Talk to {TargetNPC}.",
+      "cz": "Povídej si s {TargetNPC}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!ORQS_E04_Arie_010_Group02_Step02_VisitArea01_StepDescription",
+      "en": "Transform into a merfolk and go underwater in the Doubloon Depths.",
+      "cz": "Proměň se v mořskou bytost a jdi pod vodu do Hloubky doubloonů.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!ORQS_E04_Arie_010_Group03_Step03_TalkToCharacter03_StepDescription",
+      "en": "Talk to {TargetNPC} about where to go.",
+      "cz": "Povídej si s {TargetNPC} o tom, kam jít.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!ORQS_E04_Arie_010_Group03_Step03_TalkToCharacter03_WrongSceneDescription",
+      "en": "Go underwater in the Doubloon Depths.",
+      "cz": "Jdi pod vodu do Hloubky doubloonů.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!ORQS_E04_Arie_010_Group04_Step04_TalkToCharacter02_StepDescription",
+      "en": "There are your friends! Talk to {TargetNPC}.",
+      "cz": "Tady jsou tvoji přátelé! Povídej si s {TargetNPC}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!ORQS_E04_Arie_010_Group04_Step04_TalkToCharacter02_WrongSceneDescription",
+      "en": "Go underwater in the Doubloon Depths.",
+      "cz": "Jdi pod vodu do Hloubky doubloonů.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!ORQS_E04_Arie_010_Group05_Step05_Conditional01_StepDescription",
+      "en": "(Talk to Ariel and select \"Let's hang out!\")",
+      "cz": "(Povídej si s Ariel a vyber \"Pojďme se pobavit!\")",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!ORQS_E04_Arie_010_Group05_Step05_StepDescription",
+      "en": "Have a hangout with Ariel underwater.",
+      "cz": "Užij si čas s Ariel pod vodou.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!ORQS_E04_Arie_010_Group06_Step06_Conditional02_StepDescription",
+      "en": "<Lore>Flounder.</Lore>",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Story!Expansion04!ORQS_E04_Arie_010_Group06_Step06_Conditional03_StepDescription",
+      "en": "<Lore>Sebastian.</Lore>",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Story!Expansion04!ORQS_E04_Arie_010_Group06_Step06_StepDescription",
+      "en": "Equip Sebastian and Flounder as Adventure Companions.",
+      "cz": "Vybav Sebastiana a Floundera jako dobrodružné společníky.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!ORQS_E04_Arie_010_Group07_Step07_FollowCharacter01_StepDescription",
+      "en": "Follow Ariel to meet your friends.",
+      "cz": "Následuj Ariel, abys potkal své přátele.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!ORQS_E04_Arie_010_Group07_Step07_FollowCharacter01_WrongSceneDescription",
+      "en": "Go underwater in the Doubloon Depths.",
+      "cz": "Jdi pod vodu do Hloubky doubloonů.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Story!Expansion04!ORQS_E04_Arie_010_Group08_Step08_PickUp02_StepDescription",
+      "en": "Surge through bubbles by swimming with Ariel, Sebastian and Flounder.",
+      "cz": "Proplouvej bublinkami s Ariel, Sebastianem a Flounderem.",
+      "source": "our_translation"
+    }
+  ]
+}

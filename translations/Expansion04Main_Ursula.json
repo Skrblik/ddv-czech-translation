@@ -1,0 +1,886 @@
+{
+  "Expansion04Main_Ursula/Ursula_MRQS_E04_000_Prologue_MRQS_E04_000_Prologue_Ongoing01.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Checked that mailbox of yours lately, angelfish?",
+      "cz": "Copak, copak... už jsi v poslední době nakoukla do té své schránky, moje drahá rybičko?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_001_f",
+      "en": "I've sent you an extremely important letter.",
+      "cz": "Poslala jsem ti totiž dopis... a věř mi, je <i>nesmírně</i> důležitý.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Ursula/Ursula_MRQS_E04_000_Prologue_MRQS_E04_000_Prologue_Ongoing02.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Have you opened that letter I sent you?",
+      "cz": "Copak, drahoušku, už jsi konečně otevřel ten dopis, který jsem ti tak laskavě poslala?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_001_f",
+      "en": "I'm guessing not, since my beach is still littered with human debris.",
+      "cz": "Očividně ne, když je má drahocenná pláž stále zaneřáděná tím ubohým lidským harampádím.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Ursula/Ursula_MRQS_E04_000_Prologue_MRQS_E04_000_Prologue_Ongoing03.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Well, I suppose I'll have to change for this next part, won't I?",
+      "cz": "Inu, hádám, že pro tuhle další část se budu muset trochu... změnit, nemám pravdu?",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Ursula/Ursula_MRQS_E04_000_Prologue_MRQS_E04_000_Prologue_Ongoing04.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "You look fabulous, dearie. Now, let's swim out a bit and have a little chat.",
+      "cz": "Vypadáš naprosto úchvatně, drahoušku. A teď, vyplujme kousek dál a trochu si spolu... popovídejme.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Ursula/Ursula_MRQS_E04_000_Prologue_MRQS_E04_000_Prologue_Ongoing05.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "I'm waiting, dearie. Have you gathered that seaweed and caught those fish yet?",
+      "cz": "Stále čekám, drahoušku. Copak, ještě jsi nenasbíral ty řasy a nepochytal ty ryby?",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Ursula/Ursula_MRQS_E04_000_Prologue_MRQS_E04_000_Prologue_Ongoing06.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Come and meet me.",
+      "cz": "Jen pojď blíž, drahoušku... je na čase, abychom se konečně setkali tváří v tvář.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Ursula/Ursula_MRQS_E04_000_Prologue_MRQS_E04_000_Prologue_Ongoing09.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "We really should chat. Come by my cave, angelfish.",
+      "cz": "Opravdu bychom si měli promluvit. Zastav se v mé jeskyni, andílku.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Ursula/Ursula_MRQS_E04_000_Prologue_MRQS_E04_000_Prologue_Ongoing10.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Meet me in the waters outside my cave, angelfish.",
+      "cz": "Připluj za mnou do vod před mou jeskyni, ty můj sladký andílku.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Ursula/Ursula_MRQS_E04_000_Prologue_MRQS_E04_000_Prologue_Ongoing16.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Go on, dearie. Snatch some fish from those fishing ripples.",
+      "cz": "Jen do toho, drahoušku. Vylov si pár těch ubohých rybiček z těch čeřin na hladině.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Ursula/Ursula_MRQS_E04_000_Prologue_MRQS_E04_000_Prologue_TalkTo01.locbin": [
+    {
+      "key": "Ursula_001_f",
+      "en": "You've got a lot of nerve, angelfish!",
+      "cz": "Máš ale kuráž, ty moje malá rybičko!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_002_f",
+      "en": "Leaving all that junk lying around my <Lore>secret beach</Lore>.",
+      "cz": "Nechat se povalovat všechen tenhle brak na mé <Lore>tajné pláži</Lore>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Huh? What junk?",
+      "cz": "Cože? Jaký brak?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Wait a second. You have a secret beach?",
+      "cz": "Počkej chvilku. Ty máš tajnou pláž?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Be nice, Ursula. Or I'll seal you back up in this cave.",
+      "cz": "Buď milá, Ursulo. Nebo tě v téhle jeskyni zase uvězním.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_006_f",
+      "en": "HAH! Don't act so innocent with me, dearie.",
+      "cz": "CHA! Přede mnou si na neviňátko nehraj, drahoušku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_003_f",
+      "en": "I was enjoying a swim today when what did I find...",
+      "cz": "Dnes jsem si zrovna užívala ranní koupel, když vtom jsem narazila na...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_004_f",
+      "en": "...but a curious <Lore>Mermaid Statue</Lore> in a crate, rudely left on the shores where I relax.",
+      "cz": "...podivnou <Lore>sochu mořské panny</Lore> v bedně, kterou někdo neomaleně zanechal na břehu, kde obvykle rozjímám.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_005_f",
+      "en": "Be the goody-goody that you are and <Lore>remove it</Lore>.",
+      "cz": "Buď to hodné dítko, jakým jsi, a koukej ji <Lore>odstranit</Lore>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I honestly have no idea what you're talking about.",
+      "cz": "Vážně netuším, o čem to mluvíš.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "How do I even get to this \"secret beach\"?",
+      "cz": "Jak se na tu „tajnou pláž“ vůbec dostanu?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_003_f",
+      "en": "The message said something about a \"villain\" and a \"kingdom.\" Any idea what it meant?",
+      "cz": "V té zprávě se psalo něco o „padouchovi“ a „království“. Tušíš, co to mělo znamenat?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_012_f",
+      "en": "Hmm... You really don't know, do you?",
+      "cz": "Hmm... Ty o tom vážně nic nevíš, viď?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_011_f",
+      "en": "Meet me in the waters outside my cave.",
+      "cz": "Sejdeme se ve vlnách před mou jeskyní.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_014_f",
+      "en": "Stop playing coy with me.",
+      "cz": "Přestaň se přede mnou dělat tak skromnou.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_000_f",
+      "en": "Hmm... you really don't know what this is about, do you? Interesting. Let's get to the bottom of it together.",
+      "cz": "Hmm... ty vážně netušíš, o co tu kráčí, že? Jak zajímavé. Pojďme tomu společně přijít na kloub.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_007_f",
+      "en": "I thought I did before you so rudely ruined it.",
+      "cz": "Myslela jsem, že ji mám, než jsi mi ji tak neomaleně zneuctila.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_008_f",
+      "en": "Ah, feisty today, are we? Let me see if I can explain this in a way you'll understand.",
+      "cz": "Á, dneska jsme nějak nabroušení, co? No tak uvidíme, jestli ti to dokážu vysvětlit způsobem, který tvůj mozeček pobere.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Ursula/Ursula_MRQS_E04_000_Prologue_MRQS_E04_000_Prologue_TalkTo02.locbin": [
+    {
+      "key": "Ursula_008_f",
+      "en": "See, angelfish? My <Lore>secret beach</Lore> is just a short swim away.",
+      "cz": "Vidíš, ty moje malá rybičko? Moje <Lore>tajná pláž</Lore> je jen co bys ploutví doplula.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_009_f",
+      "en": "It's safe from all the prying eyes of the obnoxious residents of this Village.",
+      "cz": "Je v bezpečí před všetečnými zraky těch nesnesitelných obyvatel téhle vesnice.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "But how am I supposed to get over there?",
+      "cz": "Ale jak se tam mám asi dostat?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Okay, I'll go craft a boat. 500 pieces of Softwood, 200 Iron Ingots?",
+      "cz": "Dobře, půjdu vyrobit loď. 500 kusů měkkého dřeva, 200 železných ingotů?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Should I ask Merlin for help? Usually I have to ask Merlin for help with this kind of thing.",
+      "cz": "Mám požádat Merlina o pomoc? Obvykle musím s takovými věcmi žádat o pomoc jeho.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_001_f",
+      "en": "Just dive in and—",
+      "cz": "Prostě tam skoč a—",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_007_f",
+      "en": "Oh. Right.",
+      "cz": "Ach. Jistě.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_003_f",
+      "en": "You can't swim nearly as well as I can, can you?",
+      "cz": "Ty neumíš plavat ani zdaleka tak ladně jako já, že ne, drahoušku?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_004_f",
+      "en": "Well, we'll just have to— Wait! There was something else I found with the crate. I have a hunch...",
+      "cz": "No, budeme muset zkrátka— Počkat! Našla jsem u té bedny ještě něco jiného. Mám takové tušení...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_005_f",
+      "en": "Here. I was going to keep it for myself, but I think I know what this jewel is meant for... <Lore>Take this Strange Gem</Lore>.",
+      "cz": "Tady. Původně jsem si ho chtěla nechat pro sebe, ale myslím, že vím, k čemu je tenhle šperk určen... <Lore>Vezmi si tenhle podivný drahokam</Lore>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "I'll never pass up something shiny.",
+      "cz": "Nikdy neodmítnu nic, co se tak pěkně leskne.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Wait... What does it do?",
+      "cz": "Počkat... Co to vlastně dělá?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_003_f",
+      "en": "You are DEFINITELY up to something.",
+      "cz": "Ty ROZHODNĚ něco chystáš.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_011_f",
+      "en": "This is no mere shiny trinket, {PlayerName}.",
+      "cz": "Tohle není jen tak nějaké obyčejné lesklé cingrlátko, {PlayerName}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_013_f",
+      "en": "Take it. It has some sort of enchantment inside it.",
+      "cz": "Jen si ho vezmi. Je v něm ukryto jakési kouzlo.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_002_f",
+      "en": "And if my suspicions prove true, <Lore>meet me in the depths of the water</Lore>.",
+      "cz": "A pokud se mé tušení potvrdí, <Lore>setkej se se mnou v hlubinách vod</Lore>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_014_f",
+      "en": "Here's an idea. Stop wasting my time.",
+      "cz": "Mám pro tebe návrh. Přestaň marnit můj drahocenný čas.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_012_f",
+      "en": "Oh, {PlayerName}, you're always so suspicious of my good intentions.",
+      "cz": "Ach, {PlayerName}, ty jsi vždycky tak podezíravý k mým šlechetným úmyslům.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_015_f",
+      "en": "There's only one way to find out, now, isn't there?",
+      "cz": "Existuje jen jeden způsob, jak to zjistit, nemám pravdu?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_016_f",
+      "en": "Ugh! I don't have time to wait for that!",
+      "cz": "Ugh! Nemám čas na to, abych tady na tebe čekala!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_000_f",
+      "en": "Bah! There's no reason to involve that puffed-up prattler.",
+      "cz": "Bah! Není nejmenší důvod do toho tahat toho nafoukaného mluvku.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Ursula/Ursula_MRQS_E04_000_Prologue_MRQS_E04_000_Prologue_TalkToDialog01.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Nicely done, {PlayerName}.",
+      "cz": "Výborně, {PlayerName}. Skutečně... působivé.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_006_f",
+      "en": "I've a feeling this isn't the first time you've taken this form and swam with me.",
+      "cz": "Mám takové tušení, že to není poprvé, co jsi na sebe vzal tuhle podobu a proháněl se vlnami po mém boku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_005_f",
+      "en": "The enchantment in that gem was made by you with your Dreamlight Magic!",
+      "cz": "To očarování v tom drahokamu jsi stvořil ty svou magií Dreamlight!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "So... so I made that gem? This is my magic?",
+      "cz": "Takže... ten drahokam jsem stvořil já? To je moje magie?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Then somebody else can use Dreamlight Magic. Because I didn't make this.",
+      "cz": "Pak musí magii Dreamlight ovládat i někdo jiný. Protože tohle jsem já nevyrobil.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I don't remember ever having a scaly tail. And it's the sort of thing you remember!",
+      "cz": "Nepamatuji se, že bych kdy měl šupinatý ocas. A to je přece věc, na kterou se nezapomíná!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_007_f",
+      "en": "It makes sense, doesn't it?",
+      "cz": "Dává to dokonalý smysl, nemyslíš?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_010_f",
+      "en": "In any case, now that you've got your sea legs...",
+      "cz": "Každopádně, teď když už ses ve vodě trochu rozkoukal...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_011_f",
+      "en": "...kindly <Lore>look into that strange statue</Lore> and get it off my beach!",
+      "cz": "...buď tak laskav, <Lore>prozkoumej tu podivnou sochu</Lore> a kliď ji z mé pláže!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_008_f",
+      "en": "The Forgetting washed away loads of memories. Why not that one?",
+      "cz": "Zapomnění spláchlo do hlubin spoustu vzpomínek, drahoušku. Proč by tahle měla být výjimkou?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_009_f",
+      "en": "The Forgetting is powerful, {PlayerName}. It can wash away even a memory like that.",
+      "cz": "Zapomnění je mocné, {PlayerName}. Dokáže vymazat i takovou vzpomínku, jako je tahle.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Ursula/Ursula_MRQS_E04_000_Prologue_MRQS_E04_000_Prologue_TalkToDialog02.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Ah-ha. Just as I suspected.",
+      "cz": "Á-há! Přesně jak jsem si myslela, drahoušku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_001_f",
+      "en": "That gem <i>was</i> imbued with magic. Though not the kind I'm familiar with.",
+      "cz": "Ten drahokam *byl* skutečně prosycen magií. I když to není zrovna ten druh, na který jsem zvyklá...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_002_f",
+      "en": "It's transformed you into a creature of the fabulous sea!",
+      "cz": "Proměnilo tě to v hotové stvoření z hlubin toho našeho úžasného moře!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "I'm a beautiful mermaid!",
+      "cz": "Jsem krásná mořská panna!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I'm a fearsome sea creature!",
+      "cz": "Jsem děsivý mořský tvor!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "THIS IS SO WEIRD, URSULA. WHAT IS HAPPENING???",
+      "cz": "TO JE TAK DIVNÉ, URŠULO. CO SE TO DĚJE???",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_003_f",
+      "en": "Yes, indeed. For what it's worth, I'm much more fond of you than any of Triton's simpering daughters.",
+      "cz": "Ano, vskutku. A musím říct, že tě mám mnohem raději než kteroukoli z těch Tritonových upejpavých dcerušek.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_006_f",
+      "en": "You've got lots to learn about swimming, angelfish.",
+      "cz": "O plavání se toho musíš ještě hodně naučit, ty moje malá rybičko.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_007_f",
+      "en": "So, you'd better practice. Look for some <Lore>ripples in the water</Lore> and see how much easier it is to snatch a fish.",
+      "cz": "Takže raději koukej trénovat. Najdi nějaké <Lore>vlnky na hladině</Lore> a uvidíš, o kolik snazší je ulovit si nějakou tu rybku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_008_f",
+      "en": "Then, swim around and <Lore>gather some seaweed</Lore>.",
+      "cz": "Potom si trochu zaplav a <Lore>nasbírej nějaké ty mořské řasy</Lore>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_009_f",
+      "en": "I'll meet you out a bit further when you're ready.",
+      "cz": "Až budeš hotov, najdeš mě o kousek dál na volném moři.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_004_f",
+      "en": "We'll see about that.",
+      "cz": "No, to se teprve uvidí, drahoušku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_005_f",
+      "en": "I just explained it, dearie. Keep up.",
+      "cz": "Vždyť jsem ti to právě vysvětlila, zlato. Tak se trochu snaž.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Ursula/Ursula_MRQS_E04_030_CaptainOfTheDead_MRQS_E04_030_CaptainOfTheDead_TalkTo01.locbin": [
+    {
+      "key": "Ursula_001_f",
+      "en": "Enjoying your swims, dearie?",
+      "cz": "Užíváš si to ráchání ve slané vodě, parťáku? Doufám, že nemáš v botě kraba.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_002_f",
+      "en": "Shipwreck Shores is just brimming with folks yearning for something that only I can bring them.",
+      "cz": "Pobřeží vraků je přímo narvané lidmi, co prahnou po něčem, co jim můžu dát jenom já... a možná trocha rumu, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_009_f",
+      "en": "Are you in need of my services? You know they're more than worth their price.",
+      "cz": "Potřebuješ snad mé služby? Víš, že stojí za každou minci... nebo aspoň za láhev něčeho ostřejšího, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "How convenient. A sea witch is just what I need.",
+      "cz": "Jak příhodné. Mořská čarodějnice je přesně to, co mi chybělo k úplnému štěstí, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "As much as I hate asking YOU... Yes. I need help.",
+      "cz": "I když se mi z toho zvedá žaludek víc než z prázdné láhve... Ano. Potřebuju pomoc, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I'm broke. You're going to have to help me for free.",
+      "cz": "Mám v kapsách jen vítr a díry, parťáku. Budeš mi muset pomoct úplně zadarmo.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_008_f",
+      "en": "Then tell me... what can I do for you?",
+      "cz": "Tak mi vyklop... co pro tebe můžu udělat, parťáku?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_011_f",
+      "en": "I need to get into the Infernal Fortress on the other side of the island. But some sort of enchantment is blocking the way.",
+      "cz": "Musím se dostat do té Pekelné pevnosti na druhé straně ostrova. Ale nějaké čáry máry mi blokují cestu, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_003_f",
+      "en": "Ah, that. It's curious magic, isn't it? I've only seen it wielded by one person.",
+      "cz": "Ah, tohle. Zvláštní magie, že? Viděl jsem ji používat jen jednoho člověka... a ten neměl zrovna nejlepší pověst, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_004_f",
+      "en": "YOU, {PlayerName}. That's Dreamlight Magic. Very powerful Dreamlight Magic.",
+      "cz": "TEBE, {{PlayerName}}. To je magie Světla snů. Hodně silná magie, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Okay, great. So I must be able to get past it.",
+      "cz": "No skvěle. Takže bych se přes to měl dostat levou zadní, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Are you saying... I made the enchantment on this gate?",
+      "cz": "Chceš říct... že jsem to kouzlo na tu bránu upatlal já sám, parťáku?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "So someone else can wield Dreamlight Magic. That's scary!",
+      "cz": "Takže tu magii Světla snů ovládá ještě někdo jiný? To nahání hrůzu i mně, parťáku!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_005_f",
+      "en": "Perhaps. But you'll have to work for it, first.",
+      "cz": "Možná. Ale nejdřív si to budeš muset odmakat, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_013_f",
+      "en": "Those <Lore>Enchanted Skulls</Lore> can come and go as they please.",
+      "cz": "Tyhle <Lore>Zakleté lebky</Lore> si můžou chodit sem a tam, jak se jim zachce, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_014_f",
+      "en": "They also leave a trail of <Lore>Pixie Dust</Lore> behind them.",
+      "cz": "A taky za sebou nechávají stopu z <Lore>Vílího prachu</Lore>, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_015_f",
+      "en": "<Lore>Catch a few of them</Lore> and bring me some of that Pixie Dust. Then I might be able to whip up something that'll let you pass through the gate.",
+      "cz": "<Lore>Pár jich chyť</Lore> a přines mi ten Vílí prach. Pak možná ukuchtím něco, co tě tou bránou protáhne, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_006_f",
+      "en": "It certainly looks that way to me.",
+      "cz": "Mně se to tak rozhodně zdá, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_012_f",
+      "en": "Unless... you're not as special as you think you are.",
+      "cz": "Ledaže... bys nebyl tak výjimečný, jak si o sobě myslíš, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Maybe not...",
+      "cz": "Možná nejsem... parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "I need to investigate this more.",
+      "cz": "Musím to víc prozkoumat, parťáku. Čuchám v tom nějakou levárnu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Well, that's definitely not true. I'm amazing.",
+      "cz": "No, to rozhodně není pravda. Jsem naprosto úžasný, parťáku!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_017_f",
+      "en": "Well, if you want to get past that gate, you'll have to work for it.",
+      "cz": "No, jestli chceš prolézt tou bránou, budeš muset hnout kostrou, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_018_f",
+      "en": "Then let's see just how amazing you are, angelfish. Getting past that gate won't be easy.",
+      "cz": "Tak uvidíme, jak moc jsi úžasný, ty moje rybičko. Projít tou bránou nebude jen tak, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_007_f",
+      "en": "True. Maybe you're not as special as you think you are.",
+      "cz": "Pravda. Možná nejsi takové terno, jak si myslíš, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_016_f",
+      "en": "I'll ignore that little knock. Get to your point.",
+      "cz": "Tuhle urážku budu ignorovat. Vyklop, co máš na srdci, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_010_f",
+      "en": "Then you'll be in my debt. Which is even more useful.",
+      "cz": "V tom případě mi budeš dlužit. A dluhy, ty já mám tuze rád, parťáku.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Ursula/Ursula_MRQS_E04_030_CaptainOfTheDead_MRQS_E04_030_CaptainOfTheDead_TalkTo02.locbin": [
+    {
+      "key": "Ursula_001_f",
+      "en": "You caught some of those jade pests? Here, let me see...",
+      "cz": "Tak ty jsi lapil pár těch nefritových potvor, parťáku? No tak, ukaž mi je, neschovávej je v rukávu...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_002_f",
+      "en": "Ah, yes. I know precisely how they pass through the gate now.",
+      "cz": "Ah, ano. Už přesně chápu, jak se ty mršky dostávají skrz tu bránu. Je to prosté, až je to k vzteku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_003_f",
+      "en": "I'll just turn this into an <ActivityItem>Enchanted Dye</ActivityItem> for you.",
+      "cz": "Proměním tuhle věcičku v <ActivityItem>Začarované barvivo</ActivityItem> přímo pro tebe, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_004_f",
+      "en": "Use it to make a <ActivityItem>Cloak</ActivityItem> to pass through the gate.",
+      "cz": "Použij ho na výrobu <ActivityItem>Pláště</ActivityItem>, ať můžeme proklouznout tou bránou jako stíny v noci.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "A fashionable pirate cloak, of course.",
+      "cz": "Módní pirátský plášť, jak jinak, parťáku. Styl je základ!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "How long will this take?",
+      "cz": "Jak dlouho to bude trvat? Čas jsou peníze... nebo v horším případě rum, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "Aw, I've gotta craft something? Can't I just drink it instead?",
+      "cz": "Ach, to musím zase něco vyrábět? Nemůžu to radši prostě vypít, parťáku?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_005_f",
+      "en": "I've no doubt that anything you throw together will be fashionable, dearie.",
+      "cz": "Vůbec nepochybuju, že cokoliv spíchneš dohromady, bude nesmírně šik, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_008_f",
+      "en": "One thing I can say about you, you've certainly got a sense for style.",
+      "cz": "Jednu věc ti uznám, parťáku, máš vytříbený cit pro styl. Skoro jako já.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Aw, thanks!",
+      "cz": "Ó, díky, parťáku! Konečně někdo, kdo ocení mou genialitu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I get nervous when you start being too nice to me...",
+      "cz": "Začínám bejt trochu nervózní, když jsi na mě až moc milej, parťáku...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_012_f",
+      "en": "I know good taste when I see it.",
+      "cz": "Poznám dobrej vkus, když ho vidím. A tohle je... no, rozhodně je to něco!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_011_f",
+      "en": "A trifle like this should only take a moment...",
+      "cz": "Takovouhle maličkost zmáknu za chvilku, ani si nestihneš přepočítat zlaťáky...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_009_f",
+      "en": "Here you are!",
+      "cz": "Tady to máš, parťáku! Čerstvě uvařeno.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_010_f",
+      "en": "One <ActivityItem>Enchanted Dye</ActivityItem>. Good luck, angelfish!",
+      "cz": "Jedno <ActivityItem>Začarované barvivo</ActivityItem>. Hodně štěstí, ty moje mořská rybko, parťáku!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_013_f",
+      "en": "Is it wise to doubt me, dearie? Especially when I'm doing you a favor.",
+      "cz": "Je moudrý o mně pochybovat, parťáku? Zvlášť když ti prokazuju takovou nesmírnou laskavost.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_006_f",
+      "en": "You're impatient for someone with so little to trade.",
+      "cz": "Na někoho, kdo nemá skoro nic na výměnu, jsi dost netrpělivej, parťáku. Trochu klidu do té plavby!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_007_f",
+      "en": "Try that and you'll be more seasick than you can even imagine.",
+      "cz": "Zkus to vypít a bude ti hůř než po tejdnu na rozbouřeným moři bez kapky rumu, parťáku. To mi věř.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Ursula/Ursula_VLG_Mega_030_VLG_Mega_030_BringItem02.locbin": [
+    {
+      "key": "Ursula_001_f",
+      "en": "Well, well, well. You've finally come to see me about <ActivityItem>Wendy's Unbreakable Contract</ActivityItem>. About time.",
+      "cz": "Ale ale, copak to tu máme? Konečně ses uráčila přijít za mnou kvůli té <ActivityItem>Wendyině nezrušitelné smlouvě</ActivityItem>. Už bylo načase, drahoušku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Can you help, Ursula?",
+      "cz": "Můžeš nám pomoct, Ursulo?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "How do you know about that?",
+      "cz": "Jak o tom vůbec víš?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "You're our last resort.",
+      "cz": "Jsi naše poslední naděje.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_002_f",
+      "en": "Sorry, angelfish.",
+      "cz": "Je mi líto, ty moje malá rybičko.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_007_f",
+      "en": "I can't help with this, but YOU might be able to save poor little Wendy.",
+      "cz": "Já s tímhle nic nezmůžu... ale TY bys možná mohla tu ubohou malou Wendy zachránit.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Anything. What do I need to do?",
+      "cz": "Cokoliv. Co musím udělat?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I knew you'd have an answer!",
+      "cz": "Věděla jsem, že budeš znát odpověď!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Are you saying I'm more powerful than you?",
+      "cz": "Chceš tím říct, že jsem mocnější než ty?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_008_f",
+      "en": "The contract was forged in a special cauldron. And it might be undone in a similar one.",
+      "cz": "Ta smlouva byla ukována ve velmi speciálním kotli. A jen v podobném by se dala... rozvázat.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_014_f",
+      "en": "We'll discuss price later. Gather what you need for the cauldron, forge it, and bring it back to me.",
+      "cz": "O ceně si promluvíme později, na to je času dost. Teď nasbírej vše potřebné pro ten kotel, ukov ho a pak mi ho hezky přines.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_009_f",
+      "en": "Careful.",
+      "cz": "Ale opatrně...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_003_f",
+      "en": "Dearie, the Keepsake Sea's a tempest of gossip. And you could say yours truly had a hand in writing this.",
+      "cz": "Drahoušku, Moře vzpomínek je hotové vlnobití drbů. A dalo by se říct, že tvá drahá Ursula měla při sepisování téhle věcičky prsty v inkoustu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "If you wrote it, you can UNwrite it.",
+      "cz": "Pokud jsi ji napsala, můžeš ji i zrušit.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Please, Ursula. Out of the goodness of your heart?",
+      "cz": "Prosím, Ursulo. Udělej to z dobroty svého srdce.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "I knew you couldn't help us.",
+      "cz": "Věděla jsem, že nám nepomůžeš.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_004_f",
+      "en": "A little flattery wouldn't hurt you, {PlayerName}.",
+      "cz": "Trocha toho lichocení by ti neuškodila, {{PlayerName}}.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Ursula/Ursula_VLG_Mega_030_VLG_Mega_030_BringItem03.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "Nicely done, angelfish. Now, let's set this up in my House and we'll really get things started.",
+      "cz": "Výborně, má drahá andělská rybičko. Teď to pěkně naaranžujeme v mém domě a pak... pak teprve začne ta pravá zábava!",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Ursula/Ursula_VLG_Milo_020_VLG_Milo_020_TalkTo01.locbin": [
+    {
+      "key": "Ursula_003_f",
+      "en": "Oh, angelfish, why are you dealing with that miserable Bosun Barnaby? He only wants to take advantage of your generosity, you know.",
+      "cz": "Tedy, {{PlayerName}}, proč vlastně... no, proč ztrácíte čas s tím Barnabym? Podle mých pozorování – a věřte mi, studoval jsem lidské chování skoro stejně dlouho jako dialekty – se vás snaží jen využít! Je to naprosto neetické, nemyslíte?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_000_f",
+      "en": "Unlike him, I'll give you a tip for free... Those <Lore>Unfathomable Keys</Lore> he wants you to find are in the <Lore>Underwater Crossing</Lore>. Toodle-ooo!",
+      "cz": "Na rozdíl od něj vám dám radu úplně zdarma... fascinující, opravdu! Ty <Lore>Unfathomable Keys</Lore>, které po vás chce, se nacházejí v <Lore>Underwater Crossing</Lore>. Tedy, pokud jsou mé mapy přesné, a ty jsou obvykle na milimetr přesné! Tak zatím, musím běžet!",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_Ursula/Ursula_VLG_Milo_040_VLG_Milo_040_TalkTo16.locbin": [
+    {
+      "key": "Ursula_000_f",
+      "en": "An underwater museum? Finally, a venue designed for me! You know, I have quite a collection in my garden. Care to make a deal for a joint venture?",
+      "cz": "Podvodní muzeum? Konečně místo navržené přímo pro mě! Víš, ve své zahradě mám docela slušnou sbírku. Co takhle uzavřít dohodu o společném podniku?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Ursula_001_f",
+      "en": "That would be a hard no. But enjoy yourself, Ursula!",
+      "cz": "To by bylo... eh, naprosto vyloučené. Tedy, kategorické ne! Ale klidně si to tam užij, Ursulo!",
+      "source": "our_translation"
+    }
+  ]
+}

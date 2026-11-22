@@ -4836,14 +4836,14 @@
   "LadyTramp_Lady/Lady_SEC_Lady_030_SEC_Lady_030_Ongoing01.locbin": [
     {
       "key": "Lady_000_f",
-      "en": "Hey, Lady. I think I've found every <ActivityItem>Shiny Tomato</ActivityItem> in the Valley.",
+      "en": "Hey, Lady. I'm still thinking about what to do with the <ActivityItem>Shiny Tomato</ActivityItem> I found.",
       "cz": "Hej, paní. Myslím, že jsem našel každé <ActivityItem>Lesklé rajče</ActivityItem> v údolí.",
       "source": "pre_existing",
       "original_cz": "Hej, paní. Myslím, že jsem našel každé <ActivityItem>Lesklé rajče</ActivityItem> v údolí."
     },
     {
       "key": "Lady_001_f",
-      "en": "That's wonderful! But... what do we do now? We have all this odd food and no answer to our mystery.",
+      "en": "That's wonderful! But... what do we do now?",
       "cz": "To je skvělé! Ale... co teď budeme dělat? Máme všechno tohle divné jídlo a žádnou odpověď na naši záhadu.",
       "source": "pre_existing",
       "original_cz": "To je skvělé! Ale... co teď budeme dělat? Máme všechno tohle divné jídlo a žádnou odpověď na naši záhadu."
@@ -10886,11 +10886,10 @@
       "original_cz": "Promluvte si s {TargetNPC} a začněte s portrétním focením."
     },
     {
-      "key": "Village!LadyAndTheTramp!Lady!VLG_Lady_040_Group12_Step16_ConsumeItem01_StepDescription",
+      "key": "Village!LadyAndTheTramp!Lady!VLG_Lady_040_Group12_Step16_StepDescription",
       "en": "(Optional) Unlock the <Lore>Edwardian Photo Frame</Lore> from your Inventory.",
-      "cz": "(Volitelné) Odemkněte si <Lore>Edwardianský fotorámeček</Lore> z inventáře.",
-      "source": "pre_existing",
-      "original_cz": "(Volitelné) Odemkněte si <Lore>Edwardianský fotorámeček</Lore> z inventáře."
+      "cz": "(Nepovinné) Odemkni <Lore>Edwardiánský fotorámeček</Lore> ze svého inventáře.",
+      "source": "our_translation"
     },
     {
       "key": "Village!LadyAndTheTramp!Lady!VLG_Lady_040_Group12_StepDescription",

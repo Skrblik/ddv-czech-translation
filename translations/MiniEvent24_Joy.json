@@ -4,25 +4,29 @@
       "key": "Joy_000_f",
       "en": "A goose?",
       "cz": "Husa?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Husa?"
     },
     {
       "key": "Joy_002_f",
       "en": "Excuse me, may I ask why you're dressed like a Dark Secret?",
       "cz": "Promiňte, smím se zeptat, proč jste oblečená jako Temné tajemství?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Promiňte, smím se zeptat, proč jste oblečená jako Temné tajemství?"
     },
     {
       "key": "Joy_001_f",
       "en": "*honk!*",
-      "cz": "",
-      "source": "untranslated"
+      "cz": "*honk!*",
+      "source": "pre_existing",
+      "original_cz": "*honk!*"
     },
     {
       "key": "Joy_003_f",
       "en": "Aw, you're not a thief. You're just a confused little goose guy!",
       "cz": "Ale ne, ty nejsi zloděj. Jsi jen zmatený malý husák!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Ale ne, ty nejsi zloděj. Jsi jen zmatený malý husák!"
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_010_Joy_MemoryMania_010_BringItem01.locbin": [
@@ -30,19 +34,22 @@
       "key": "Joy_000_f",
       "en": "What's this? A <ActivityItem>Black Feather</ActivityItem>?",
       "cz": "Co je to? <ActivityItem>Černé pírko</ActivityItem>?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Co je to? <ActivityItem>Černé pírko</ActivityItem>?"
     },
     {
       "key": "Joy_001_f",
       "en": "It must belong to whoever moved the tissue box.",
       "cz": "Musí patřit tomu, kdo přesunul krabičku s kapesníky.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Musí patřit tomu, kdo přesunul krabičku s kapesníky."
     },
     {
       "key": "Joy_002_f",
       "en": "We need more clues. Stay tuned for the ongoing investigation!",
       "cz": "Potřebujeme víc vodítek. Zůstaňte naladěni na probíhající vyšetřování!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Potřebujeme víc vodítek. Zůstaňte naladěni na probíhající vyšetřování!"
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_010_Joy_MemoryMania_010_Intro.locbin": [
@@ -50,25 +57,29 @@
       "key": "Joy_000_f",
       "en": "Hey, {PlayerName}! Got a minute? There's something pretty weird happening in Remote Headquarters.",
       "cz": "Hej, {PlayerName}! Máš chvilku? Děje se něco dost divného ve Vzdáleném velitelství.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Hej, {PlayerName}! Máš chvilku? Děje se něco dost divného ve Vzdáleném velitelství."
     },
     {
       "key": "Player_000_choice_000_f",
       "en": "Let's solve a mystery!",
       "cz": "Pojďme vyřešit záhadu!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Pojďme vyřešit záhadu!"
     },
     {
       "key": "Player_000_choice_001_f",
       "en": "Let's talk later.",
       "cz": "Promluvíme si později.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Promluvíme si později."
     },
     {
       "key": "Joy_001_f",
       "en": "Great! I'll meet you there.",
       "cz": "Skvělé! Sejdeme se tam.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Skvělé! Sejdeme se tam."
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_010_Joy_MemoryMania_010_Ongoing01.locbin": [
@@ -76,7 +87,8 @@
       "key": "Joy_000_f",
       "en": "Are you gonna open that Memory I gave you?",
       "cz": "Otevřeš tu Vzpomínku, co jsem ti dal/a?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Otevřeš tu Vzpomínku, co jsem ti dal/a?"
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_010_Joy_MemoryMania_010_Ongoing02.locbin": [
@@ -84,7 +96,8 @@
       "key": "Joy_000_f",
       "en": "Could you check out the spot where the tissue box went missing?",
       "cz": "Mohl/a bys prozkoumat místo, kde zmizela krabička s kapesníky?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Mohl/a bys prozkoumat místo, kde zmizela krabička s kapesníky?"
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_010_Joy_MemoryMania_010_Ongoing03.locbin": [
@@ -92,7 +105,8 @@
       "key": "Joy_000_f",
       "en": "Meet me in Remote Headquarters!",
       "cz": "Sejdeme se ve Vzdáleném velitelství!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Sejdeme se ve Vzdáleném velitelství!"
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_010_Joy_MemoryMania_010_Ongoing04.locbin": [
@@ -100,7 +114,8 @@
       "key": "Joy_000_f",
       "en": "We need to talk about what's in the Memory and what's missing. Meet me in Remote Headquarters!",
       "cz": "Musíme si promluvit o tom, co je ve Vzpomínce a co chybí. Sejdeme se ve Vzdáleném velitelství!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Musíme si promluvit o tom, co je ve Vzpomínce a co chybí. Sejdeme se ve Vzdáleném velitelství!"
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_010_Joy_MemoryMania_010_Ongoing05.locbin": [
@@ -108,7 +123,8 @@
       "key": "Joy_000_f",
       "en": "Bring me any clues you find in Remote Headquarters.",
       "cz": "Přines mi všechna vodítka, co najdeš ve Vzdáleném velitelství.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Přines mi všechna vodítka, co najdeš ve Vzdáleném velitelství."
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_010_Joy_MemoryMania_010_TalkTo01.locbin": [
@@ -116,19 +132,22 @@
       "key": "Joy_000_f",
       "en": "You're here! Thank you so much for coming to help.",
       "cz": "Jsi tady! Mockrát děkuju, že jsi přišel/a pomoct.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Jsi tady! Mockrát děkuju, že jsi přišel/a pomoct."
     },
     {
       "key": "Joy_001_f",
       "en": "Ever since I got up this morning, I've been positive that something in this room <Lore>is missing</Lore>, but I can't figure out what!",
       "cz": "Od dnešního rána mám pocit, že v téhle místnosti něco <Lore>chybí</Lore>, ale nemůžu přijít na co!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Od dnešního rána mám pocit, že v téhle místnosti něco <Lore>chybí</Lore>, ale nemůžu přijít na co!"
     },
     {
       "key": "Joy_002_f",
       "en": "Could you use this <Lore>Memory</Lore> to see what it is?",
       "cz": "Mohl/a bys použít tuhle <Lore>Vzpomínku</Lore> a zjistit, co to je?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Mohl/a bys použít tuhle <Lore>Vzpomínku</Lore> a zjistit, co to je?"
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_010_Joy_MemoryMania_010_TalkTo02.locbin": [
@@ -136,37 +155,43 @@
       "key": "Joy_000_f",
       "en": "Okay, Detective {PlayerName}. What's missing from Remote Headquarters?",
       "cz": "Tak co, detektive {PlayerName}. Co chybí ve Vzdáleném velitelství?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Tak co, detektive {PlayerName}. Co chybí ve Vzdáleném velitelství?"
     },
     {
       "key": "Player_000_choice_000_f",
       "en": "A teddy bear.",
       "cz": "Plyšový medvídek.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Plyšový medvídek."
     },
     {
       "key": "Player_000_choice_001_f",
       "en": "A bottle of perfume.",
       "cz": "Flakón parfému.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Flakón parfému."
     },
     {
       "key": "Player_000_choice_002_f",
       "en": "A tissue box.",
       "cz": "Krabička s kapesníky.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Krabička s kapesníky."
     },
     {
       "key": "Joy_001_f",
       "en": "Are you sure? Maybe have another look.",
       "cz": "Jsi si jistý/á? Možná se podívej znovu.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Jsi si jistý/á? Možná se podívej znovu."
     },
     {
       "key": "Joy_003_f",
       "en": "Of course! Let's <Lore>take a closer look at where the tissue box was in the Memory</Lore>. Maybe we'll find a clue to its disappearance!",
       "cz": "Jasně! Pojďme se <Lore>podívat blíž na místo, kde byla krabička s kapesníky ve Vzpomínce</Lore>. Možná najdeme vodítko k jejímu zmizení!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Jasně! Pojďme se <Lore>podívat blíž na místo, kde byla krabička s kapesníky ve Vzpomínce</Lore>. Možná najdeme vodítko k jejímu zmizení!"
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_020_Joy_MemoryMania_020_BringItem01.locbin": [
@@ -174,19 +199,22 @@
       "key": "Joy_001_f",
       "en": "Another <ActivityItem>Black Feather</ActivityItem>?",
       "cz": "Další <ActivityItem>Černé pírko</ActivityItem>?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Další <ActivityItem>Černé pírko</ActivityItem>?"
     },
     {
       "key": "Joy_000_f",
       "en": "Hmm, this doesn't look like it belongs to Daisy, Mr. McDuck or Donald...",
       "cz": "Hmm, tohle nevypadá, že by patřilo Daisy, panu McDuckovi nebo Donaldovi...",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Hmm, tohle nevypadá, že by patřilo Daisy, panu McDuckovi nebo Donaldovi..."
     },
     {
       "key": "Joy_002_f",
       "en": "Well, the mystery continues!",
       "cz": "No, záhada pokračuje!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "No, záhada pokračuje!"
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_020_Joy_MemoryMania_020_Intro01.locbin": [
@@ -194,31 +222,36 @@
       "key": "Joy_000_f",
       "en": "Guess what, {PlayerName}? We have ANOTHER mystery.",
       "cz": "Hádej co, {PlayerName}? Máme DALŠÍ záhadu.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Hádej co, {PlayerName}? Máme DALŠÍ záhadu."
     },
     {
       "key": "Joy_001_f",
       "en": "Something went missing from Goofy's House!",
       "cz": "Něco zmizelo z Goofyho domu!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Něco zmizelo z Goofyho domu!"
     },
     {
       "key": "Player_000_choice_000_f",
       "en": "Let's investigate!",
       "cz": "Pojďme vyšetřovat!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Pojďme vyšetřovat!"
     },
     {
       "key": "Player_000_choice_001_f",
       "en": "Let's talk about this later.",
       "cz": "Promluvíme si o tom později.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Promluvíme si o tom později."
     },
     {
       "key": "Joy_002_f",
       "en": "Great! I'll <Lore>meet you there</Lore>!",
       "cz": "Skvělé! <Lore>Sejdeme se tam</Lore>!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Skvělé! <Lore>Sejdeme se tam</Lore>!"
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_020_Joy_MemoryMania_020_Ongoing01.locbin": [
@@ -226,7 +259,8 @@
       "key": "Joy_001_f",
       "en": "Meet me in Goofy's House!",
       "cz": "Sejdeme se v Goofyho domě!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Sejdeme se v Goofyho domě!"
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_020_Joy_MemoryMania_020_Ongoing02.locbin": [
@@ -234,7 +268,8 @@
       "key": "Joy_001_f",
       "en": "We better talk to Goofy about this at the scene of the crime: inside his House!",
       "cz": "Měli bychom si o tom promluvit s Goofym na místě činu: uvnitř jeho domu!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Měli bychom si o tom promluvit s Goofym na místě činu: uvnitř jeho domu!"
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_020_Joy_MemoryMania_020_Ongoing03.locbin": [
@@ -242,7 +277,8 @@
       "key": "Joy_001_f",
       "en": "Did you open the Memory that Goofy gave you?",
       "cz": "Otevřel/a jsi Vzpomínku, kterou ti Goofy dal?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Otevřel/a jsi Vzpomínku, kterou ti Goofy dal?"
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_020_Joy_MemoryMania_020_Ongoing04.locbin": [
@@ -250,7 +286,8 @@
       "key": "Joy_001_f",
       "en": "We need to talk about what's missing from Goofy's House.",
       "cz": "Musíme si promluvit o tom, co chybí z Goofyho domu.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Musíme si promluvit o tom, co chybí z Goofyho domu."
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_020_Joy_MemoryMania_020_Ongoing05.locbin": [
@@ -258,7 +295,8 @@
       "key": "Joy_001_f",
       "en": "Could you look for clues in the place the boot was last seen in Goofy's House?",
       "cz": "Mohl/a bys hledat vodítka na místě, kde byla bota naposledy viděna v Goofyho domě?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Mohl/a bys hledat vodítka na místě, kde byla bota naposledy viděna v Goofyho domě?"
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_020_Joy_MemoryMania_020_Ongoing06.locbin": [
@@ -266,7 +304,8 @@
       "key": "Joy_000_f",
       "en": "Did you find anything interesting?",
       "cz": "Našel/la jsi něco zajímavého?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Našel/la jsi něco zajímavého?"
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_020_Joy_MemoryMania_020_TalkTo01.locbin": [
@@ -274,13 +313,15 @@
       "key": "Joy_001_f",
       "en": "Thanks for joining us, {PlayerName}! You know the drill. We need you to look at the Memory and <Lore>spot what's missing</Lore>.",
       "cz": "Díky, že ses přidal/a, {PlayerName}! Znáš to. Potřebujeme, abys prohlédl/a Vzpomínku a <Lore>odhalil/a, co chybí</Lore>.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Díky, že ses přidal/a, {PlayerName}! Znáš to. Potřebujeme, abys prohlédl/a Vzpomínku a <Lore>odhalil/a, co chybí</Lore>."
     },
     {
       "key": "Joy_000_f",
       "en": "Here ya go!",
       "cz": "Tady máš!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Tady máš!"
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_020_Joy_MemoryMania_020_TalkTo02.locbin": [
@@ -288,37 +329,43 @@
       "key": "Joy_001_f",
       "en": "What's the news, Detective {PlayerName}? What's missing from Goofy's House?",
       "cz": "Jaké jsou novinky, detektive {PlayerName}? Co chybí z Goofyho domu?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Jaké jsou novinky, detektive {PlayerName}? Co chybí z Goofyho domu?"
     },
     {
       "key": "Player_000_choice_000_f",
       "en": "A boot.",
       "cz": "Bota.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Bota."
     },
     {
       "key": "Player_000_choice_001_f",
       "en": "A fish on the wall.",
       "cz": "Ryba na zdi.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Ryba na zdi."
     },
     {
       "key": "Player_000_choice_002_f",
       "en": "A book.",
       "cz": "Kniha.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Kniha."
     },
     {
       "key": "Joy_002_f",
       "en": "Makes sense to me! Let's <Lore>search the place it went missing for clues</Lore>.",
       "cz": "To dává smysl! Pojďme <Lore>prohledat místo, kde zmizela</Lore>.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "To dává smysl! Pojďme <Lore>prohledat místo, kde zmizela</Lore>."
     },
     {
       "key": "Joy_000_f",
       "en": "Hmm... Maybe you should <Lore>check the Memory again</Lore>.",
       "cz": "Hmm... Možná by ses měl/a <Lore>podívat na Vzpomínku znovu</Lore>.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Hmm... Možná by ses měl/a <Lore>podívat na Vzpomínku znovu</Lore>."
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_030_Joy_MemoryMania_030_BringItem01.locbin": [
@@ -326,13 +373,15 @@
       "key": "Joy_000_f",
       "en": "Ah-ha! A THIRD <ActivityItem>Black Feather</ActivityItem>! Wait a minute... This reminds me of an animal I've seen somewhere...",
       "cz": "Aha! TŘETÍ <ActivityItem>Černé pírko</ActivityItem>! Moment... Tohle mi připomíná zvíře, které jsem někde viděla...",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Aha! TŘETÍ <ActivityItem>Černé pírko</ActivityItem>! Moment... Tohle mi připomíná zvíře, které jsem někde viděla..."
     },
     {
       "key": "Joy_001_f",
       "en": "We'll have to keep an eye out for where this feathered thief strikes next.",
       "cz": "Budeme muset dávat pozor, kde opeřený zloděj udeří příště.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Budeme muset dávat pozor, kde opeřený zloděj udeří příště."
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_030_Joy_MemoryMania_030_Intro.locbin": [
@@ -340,25 +389,29 @@
       "key": "Joy_000_f",
       "en": "{PlayerName}, the black-feathered thief is at it AGAIN. This is just like one of Riley's mystery novels!",
       "cz": "{PlayerName}, opeřený zloděj s černými pírky udeřil ZNOVU. Tohle je jako z jednoho z Rileyiných detektivních románů!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, opeřený zloděj s černými pírky udeřil ZNOVU. Tohle je jako z jednoho z Rileyiných detektivních románů!"
     },
     {
       "key": "Joy_001_f",
       "en": "Can you meet me <Lore>in Mickey's House</Lore>?",
       "cz": "Mohl/a bys mě potkat <Lore>v Mickeyho domě</Lore>?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Mohl/a bys mě potkat <Lore>v Mickeyho domě</Lore>?"
     },
     {
       "key": "Player_000_choice_000_f",
       "en": "Let's investigate!",
       "cz": "Pojďme vyšetřovat!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Pojďme vyšetřovat!"
     },
     {
       "key": "Player_000_choice_001_f",
       "en": "I'll get back to you.",
       "cz": "Ozvu se ti.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Ozvu se ti."
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_030_Joy_MemoryMania_030_Ongoing01.locbin": [
@@ -366,7 +419,8 @@
       "key": "Joy_000_f",
       "en": "Meet me in Mickey's House!",
       "cz": "Sejdeme se v Mickeyho domě!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Sejdeme se v Mickeyho domě!"
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_030_Joy_MemoryMania_030_Ongoing02.locbin": [
@@ -374,7 +428,8 @@
       "key": "Joy_000_f",
       "en": "You need to open the Memory that Mickey gave you and see what's missing from his House.",
       "cz": "Musíš otevřít Vzpomínku, kterou ti Mickey dal, a podívat se, co v jeho domě chybí.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Musíš otevřít Vzpomínku, kterou ti Mickey dal, a podívat se, co v jeho domě chybí."
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_030_Joy_MemoryMania_030_Ongoing03.locbin": [
@@ -382,7 +437,8 @@
       "key": "Joy_000_f",
       "en": "Could you take a look at the last place we saw the photo frame in Mickey's House?",
       "cz": "Mohl/a bys se podívat na poslední místo, kde jsme viděli fotorámeček v Mickeyho domě?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Mohl/a bys se podívat na poslední místo, kde jsme viděli fotorámeček v Mickeyho domě?"
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_030_Joy_MemoryMania_030_Ongoing04.locbin": [
@@ -390,7 +446,8 @@
       "key": "Joy_000_f",
       "en": "Let's go over the case details, {PlayerName}.",
       "cz": "Pojďme si projít detaily případu, {PlayerName}.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Pojďme si projít detaily případu, {PlayerName}."
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_030_Joy_MemoryMania_030_Ongoing05.locbin": [
@@ -398,7 +455,8 @@
       "key": "Joy_000_f",
       "en": "Let's talk to Mickey about the scene of the crime in his House. I mean, literally. Let's talk to him about the scene of the crime in his House WHILE standing in his House.",
       "cz": "Pojďme si promluvit s Mickeym o místě činu v jeho domě. Tím myslím doslova. Pojďme si s ním promluvit o místě činu v jeho domě, ZATÍMCO stojíme v jeho domě.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Pojďme si promluvit s Mickeym o místě činu v jeho domě. Tím myslím doslova. Pojďme si s ním promluvit o místě činu v jeho domě, ZATÍMCO stojíme v jeho domě."
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_030_Joy_MemoryMania_030_Ongoing06.locbin": [
@@ -406,7 +464,8 @@
       "key": "Joy_000_f",
       "en": "Let's check the place we last saw Mickey's photo frame in his House.",
       "cz": "Pojďme zkontrolovat místo, kde jsme naposledy viděli Mickeyho fotorámeček v jeho domě.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Pojďme zkontrolovat místo, kde jsme naposledy viděli Mickeyho fotorámeček v jeho domě."
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_030_Joy_MemoryMania_030_TalkTo01.locbin": [
@@ -414,19 +473,22 @@
       "key": "Joy_000_f",
       "en": "Hey there, {PlayerName}! I sure am glad you're here. Joy says you're the best detective in the Village.",
       "cz": "Ahoj, {PlayerName}! Jsem moc rád, že jsi tady. Radost říká, že jsi nejlepší detektiv ve Vesnici.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Ahoj, {PlayerName}! Jsem moc rád, že jsi tady. Radost říká, že jsi nejlepší detektiv ve Vesnici."
     },
     {
       "key": "Joy_001_f",
       "en": "That's right!",
       "cz": "To je pravda!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "To je pravda!"
     },
     {
       "key": "Joy_002_f",
       "en": "Here's the <Lore>Memory</Lore>, pal. Can ya tell us what's missing?",
       "cz": "Tady je ta <Lore>Vzpomínka</Lore>, kámo. Řekneš nám, co chybí?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Tady je ta <Lore>Vzpomínka</Lore>, kámo. Řekneš nám, co chybí?"
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_030_Joy_MemoryMania_030_TalkTo02.locbin": [
@@ -434,37 +496,43 @@
       "key": "Joy_000_f",
       "en": "All right, Detective {PlayerName}, what's missing from Mickey's House?",
       "cz": "Tak co, detektive {PlayerName}, co chybí z Mickeyho domu?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Tak co, detektive {PlayerName}, co chybí z Mickeyho domu?"
     },
     {
       "key": "Player_000_choice_000_f",
       "en": "A rug.",
       "cz": "Koberec.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Koberec."
     },
     {
       "key": "Player_000_choice_001_f",
       "en": "A photo frame.",
       "cz": "Fotorámeček.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Fotorámeček."
     },
     {
       "key": "Player_000_choice_002_f",
       "en": "A chair.",
       "cz": "Židle.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Židle."
     },
     {
       "key": "Joy_001_f",
       "en": "Hmm... I'm not sure about that. Could you check again?",
       "cz": "Hmm... Tím si nejsem jistá. Mohl/a bys to zkontrolovat znovu?",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Hmm... Tím si nejsem jistá. Mohl/a bys to zkontrolovat znovu?"
     },
     {
       "key": "Joy_002_f",
       "en": "That's gotta be it! Well, you know what to do. <Lore>Take a closer look at the place the frame went missing.</Lore>",
       "cz": "To musí být ono! Tak víš, co dělat. <Lore>Podívej se blíž na místo, kde rámeček zmizel.</Lore>",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "To musí být ono! Tak víš, co dělat. <Lore>Podívej se blíž na místo, kde rámeček zmizel.</Lore>"
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_040_Joy_MemoryMania_040_Intro.locbin": [
@@ -472,37 +540,43 @@
       "key": "Joy_000_f",
       "en": "{PlayerName}, I've had a major break in \"The Case of the Black Feathers.\"",
       "cz": "{PlayerName}, mám zásadní průlom v \"Případu černých pírek.\"",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "{PlayerName}, mám zásadní průlom v \"Případu černých pírek.\""
     },
     {
       "key": "Joy_004_f",
       "en": "I finally think it can be solved!",
       "cz": "Konečně si myslím, že ho lze vyřešit!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Konečně si myslím, že ho lze vyřešit!"
     },
     {
       "key": "Player_000_choice_000_f",
       "en": "I'm ready to solve this mystery for good!",
       "cz": "Jsem připraven/a tuhle záhadu vyřešit jednou provždy!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Jsem připraven/a tuhle záhadu vyřešit jednou provždy!"
     },
     {
       "key": "Player_000_choice_001_f",
       "en": "Let's talk about this later.",
       "cz": "Promluvíme si o tom později.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Promluvíme si o tom později."
     },
     {
       "key": "Joy_001_f",
       "en": "I saw a trail of black feathers leading to the <Lore>Cursed Cave on Dazzle Beach</Lore>.",
       "cz": "Viděla jsem stopu z černých pírek vedoucí do <Lore>Prokleté jeskyně na Oslnivé pláži</Lore>.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Viděla jsem stopu z černých pírek vedoucí do <Lore>Prokleté jeskyně na Oslnivé pláži</Lore>."
     },
     {
       "key": "Joy_005_f",
       "en": "I'm guessing the culprit's inside!",
       "cz": "Tipuji, že pachatel je uvnitř!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Tipuji, že pachatel je uvnitř!"
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_040_Joy_MemoryMania_040_Ongoing01.locbin": [
@@ -510,7 +584,8 @@
       "key": "Joy_000_f",
       "en": "We need to go to the Cursed Cave on Dazzle Beach.",
       "cz": "Musíme jít do Prokleté jeskyně na Oslnivé pláži.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Musíme jít do Prokleté jeskyně na Oslnivé pláži."
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_040_Joy_MemoryMania_040_Ongoing02.locbin": [
@@ -518,7 +593,8 @@
       "key": "Joy_000_f",
       "en": "Is that a goose in the Cursed Cave?! Let me try and talk to it.",
       "cz": "To je husa v Prokleté jeskyni?! Zkusím si s ní promluvit.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "To je husa v Prokleté jeskyni?! Zkusím si s ní promluvit."
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_040_Joy_MemoryMania_040_Ongoing03.locbin": [
@@ -526,7 +602,8 @@
       "key": "Joy_000_f",
       "en": "Let's close this case, {PlayerName}.",
       "cz": "Pojďme uzavřít tento případ, {PlayerName}.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Pojďme uzavřít tento případ, {PlayerName}."
     }
   ],
   "MiniEvent24_Joy/Joy_Joy_MemoryMania_040_Joy_MemoryMania_040_TalkTo01.locbin": [
@@ -534,19 +611,22 @@
       "key": "Joy_000_f",
       "en": "So the culprit taking all the stuff from Villagers' Houses WASN'T a master thief at all!",
       "cz": "Takže pachatel kradoucí věci z domů Vesničanů VŮBEC nebyl mistrovský zloděj!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Takže pachatel kradoucí věci z domů Vesničanů VŮBEC nebyl mistrovský zloděj!"
     },
     {
       "key": "Joy_001_f",
       "en": "It was just a cute little goose who needs someone to look after it.",
       "cz": "Byla to jen roztomilá malá husa, která potřebuje, aby se o ni někdo postaral.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Byla to jen roztomilá malá husa, která potřebuje, aby se o ni někdo postaral."
     },
     {
       "key": "Joy_002_f",
       "en": "I know you'll do a great job, {PlayerName}. Mystery solved!",
       "cz": "Vím, že to zvládneš skvěle, {PlayerName}. Záhada vyřešena!",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Vím, že to zvládneš skvěle, {PlayerName}. Záhada vyřešena!"
     }
   ]
 }

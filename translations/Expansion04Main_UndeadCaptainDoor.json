@@ -1,0 +1,682 @@
+{
+  "Expansion04Main_UndeadCaptainDoor/UndeadCaptainDoor_Greetings_Greeting001.locbin": [
+    {
+      "key": "UndeadCaptainDoor_000_f",
+      "en": "Who goes there?",
+      "cz": "Kdo se to tam potlouká, parťáku? Mluv, nebo tě nechám projít pod kýlem!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Sorry, I can't right now.",
+      "cz": "Promiň, parťáku, ale zrovna nemám čas na zdvořilosti. Horizont volá!",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_UndeadCaptainDoor/UndeadCaptainDoor_MRQS_E04_030_CaptainOfTheDead_MRQS_E04_030_CaptainOfTheDead_BringItem02.locbin": [
+    {
+      "key": "UndeadCaptainDoor_000_f",
+      "en": "*sniff* Mmmm... Now then, slide the food through the slot in the door.",
+      "cz": "*nasaje nosem* Mmmm... Tak dobrá, parťáku, prostrč ten dlabanec škvírou ve dveřích.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_001_f",
+      "en": "I trust you haven't poisoned anything?",
+      "cz": "Věřím, že jsi do toho nepřimíchal žádný jed? To by bylo... nezdvořilé, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Why don't you open the door? I'll take a bite of them myself, right in front of you.",
+      "cz": "A co ty dveře prostě otevřít? Klidně si kousnu první, přímo před tvýma očima, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Of course not. I need you alive.",
+      "cz": "Samozřejmě že ne. Potřebuju tě živého... nebo aspoň v tomhle stavu, v jakém jsi.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I'm not a dirty double-crosser!",
+      "cz": "Nejsem žádný prašivý zrádce, parťáku! Čestné pirátské.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_002_f",
+      "en": "Nice try. I'm not keen on sharing my spoils.",
+      "cz": "Hezký pokus. Ale o svou kořist se dělím nerad. Vlastně vůbec.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_005_f",
+      "en": "*loud, messy chewing noises*",
+      "cz": "*hlasité, mlaskavé a nepořádné žvýkání*",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_006_f",
+      "en": "*belch*",
+      "cz": "*říhnutí*",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_007_f",
+      "en": "Delicious. My compliments to the chef.",
+      "cz": "Lahodné. Vyřiď mé poklony kuchaři, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "Why, thank you!",
+      "cz": "No, děkuji uctivě!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "I held up my end of the bargain. You hold up yours.",
+      "cz": "Já svou část dohody splnil. Teď je řada na tobě, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Anybody ever tell you that you're a bit disgusting?",
+      "cz": "Řekl ti už někdy někdo, že jsi poněkud... nechutný?",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_015_f",
+      "en": "If you're ever looking for work, any ship could use your skills in the galley.",
+      "cz": "Kdybys někdy hledal práci, každá loď by tvoje kuchařské umění v lodní kuchyni brala všemi deseti.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_016_f",
+      "en": "Now, I suppose it's my turn...",
+      "cz": "A teď, předpokládám, je řada na mně...",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_009_f",
+      "en": "That Whirlpool you're looking for... There's one nearby, hidden in the depths of this old fort.",
+      "cz": "Ten Vír, co hledáš... jeden je kousek odtud, schovaný v hlubinách téhle staré pevnosti.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_008_f",
+      "en": "This place is full of torturous traps and twisted passages.",
+      "cz": "Tohle místo je prolezlé mučivými pastmi a křivolakými chodbami, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_010_f",
+      "en": "The lever I'm looking for ought to be right... over...",
+      "cz": "Ta páka, kterou hledám, by měla být přesně... támhle...",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_011_f",
+      "en": "...here! *click*",
+      "cz": "...tady! *cvak*",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "What did you just do?",
+      "cz": "Co jsi to právě udělal, parťáku?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "I heard a click. Is that bad?",
+      "cz": "Slyšel jsem cvaknutí. Je to zlé?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "I heard a click. Is that good?",
+      "cz": "Slyšel jsem cvaknutí. Je to dobré znamení?",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_012_f",
+      "en": "I opened a <Lore>secret passageway</Lore> for you.",
+      "cz": "Otevřel jsem ti <Lore>tajnou chodbu</Lore>, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_017_f",
+      "en": "Unless I pulled the wrong lever, in which case I opened a trap door and dropped you into a pit of spikes.",
+      "cz": "Tedy pokud jsem nezatáhl za špatnou páku. V tom případě jsem otevřel propadlo a poslal tě přímo do jámy s kůly.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_019_f",
+      "en": "Any chance you just fell into a pit of spikes?",
+      "cz": "Není náhodou nějaká šance, že jsi právě zahučel do té jámy s kůly?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "No.",
+      "cz": "Ne.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "Yes.",
+      "cz": "Ano.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "AGGGHHHH! THE SPIKES! THEY HURT!!!",
+      "cz": "ÁÁÁÁÁÁ! TY KŮLY! TO TAK BOLÍ!!!",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_020_f",
+      "en": "Good. The secret passage it is, then.",
+      "cz": "Výborně. Takže to byla ta tajná chodba. Savvy?",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_018_f",
+      "en": "Should be just to your right.",
+      "cz": "Měla by být přímo po tvé pravici.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_013_f",
+      "en": "Do come back if you find any <Lore>treasure</Lore>.",
+      "cz": "Určitě se vrať, jestli najdeš nějaký <Lore>poklad</Lore>, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_014_f",
+      "en": "If it's shiny enough, it just might tempt me into opening this door.",
+      "cz": "Když se to bude dostatečně blýskat, možná mě to i zláká k otevření těchhle dveří.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_021_f",
+      "en": "Seeing as you're not screaming in agony, I'll take that as a poor attempt at a jest.",
+      "cz": "Vzhledem k tomu, že neřveš bolestí, budu to brát jako chabý pokus o vtip, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_024_f",
+      "en": "So the secret passage it was.",
+      "cz": "Takže to přece jen byla ta tajná chodba.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_022_f",
+      "en": "Knew I ought to have marked those levers better.",
+      "cz": "Věděl jsem, že jsem si ty páky měl označit líp.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_023_f",
+      "en": "Just kidding. No pit of spikes here.",
+      "cz": "Dělám si šoufky. Žádná jáma s kůly tu není.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_025_f",
+      "en": "I was just getting around to that, mate.",
+      "cz": "Právě jsem se k tomu dostával, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_026_f",
+      "en": "Usually right before they slap me. Good thing you're on the other side of the door.",
+      "cz": "Většinou mi to říkají těsně předtím, než mi vrazí facku. Ještě že jsi na druhý straně dveří, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_027_f",
+      "en": "But for now, let's stick to me upholding my end of our bargain.",
+      "cz": "Ale pro teď zůstaňme u toho, že já dodržím svou část naší dohody.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_003_f",
+      "en": "Good point.",
+      "cz": "Dobrý postřeh.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_004_f",
+      "en": "Sounds like something a dirty double-crosser might say. Suppose there's only one way to find out.",
+      "cz": "To zní přesně jako něco, co by řekl prašivý zrádce. Ale hádám, že je jen jeden způsob, jak to zjistit.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_UndeadCaptainDoor/UndeadCaptainDoor_MRQS_E04_030_CaptainOfTheDead_MRQS_E04_030_CaptainOfTheDead_TalkTo06.locbin": [
+    {
+      "key": "UndeadCaptainDoor_003_f",
+      "en": "*knock knock*",
+      "cz": "*ťuk ťuk*",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_004_f",
+      "en": "...",
+      "cz": "",
+      "source": "untranslated"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "(Knock again.)",
+      "cz": "(Znovu zaklepat.)",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "(Pound on the door.)",
+      "cz": "(Zabouchat na dveře.)",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "(Pound relentlessly on the door.)",
+      "cz": "(Neúnavně bušit na dveře.)",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_003_f",
+      "en": "HEY! ANYBODY IN THERE???",
+      "cz": "HEJ! JE TAM NĚKDO???",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_006_f",
+      "en": "*snore... snore*",
+      "cz": "*chrrrr... chrrrr*",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_007_f",
+      "en": "*snore...* Huh? ... *snore*",
+      "cz": "*chrrrr...* Cože? ... *chrrrr*",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_016_f",
+      "en": "Wha?! Bother... *snore...*",
+      "cz": "Co?! Otravové... *chrrrr...*",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_008_f",
+      "en": "Moment!",
+      "cz": "Momentík, parťáku!",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_001_f",
+      "en": "Who is that vociferously pounding on my door?",
+      "cz": "Kdo to tak nehorázně a hlučně buší na mé dveře?",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_002_f",
+      "en": "Woke me out of a dead sleep, you did. And I don't particularly appreciate it.",
+      "cz": "Vzbudil jsi mě z mrtvolného spánku, to jsi udělal. A musím říct, že to zrovna dvakrát neoceňuji, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Are you the Skeleton Captain?",
+      "cz": "Jsi ty ten Kostlivý kapitán?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "You're a hard man to reach.",
+      "cz": "Je docela těžké se k tobě dostat.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I'm Captain {PlayerName}. I'd like to parley.",
+      "cz": "Jsem kapitán {{PlayerName}}. Rád bych vyjednával, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_009_f",
+      "en": "Is that what they're calling me these days?",
+      "cz": "Tak takhle mi teďka říkají, parťáku?",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_017_f",
+      "en": "Let's say that I am. Which I'm not. Unless I am.",
+      "cz": "Řekněme, že jsem. Což nejsem. Tedy pokud nejsem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_018_f",
+      "en": "It all depends what trouble you're bringing to my doorstep.",
+      "cz": "Všechno to závisí na tom, jaké potíže mi neseš k prahu.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_022_f",
+      "en": "I'm {PlayerName}.",
+      "cz": "Já jsem {{PlayerName}}.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_023_f",
+      "en": "I'm looking for <Lore>Whirlpools</Lore> to investigate the secrets of the depths.",
+      "cz": "Hledám <Lore>Whirlpools</Lore>, abych prozkoumal tajemství hlubin, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "Help me and I'd be in your debt.",
+      "cz": "Pomoz mi a budu tvým dlužníkem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "It's the only way to stop the tempest at the center of the sea.",
+      "cz": "Je to jediný způsob, jak zastavit tu bouři uprostřed moře.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Secrets... and valuable treasures.",
+      "cz": "Tajemství... a cenné poklady.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_015_f",
+      "en": "Hmmm. That's an alluring proposition.",
+      "cz": "Hmmm. To je vskutku lákavá nabídka, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_024_f",
+      "en": "Supposing I were to know something about these <Lore>Whirlpools</Lore>.",
+      "cz": "Předpokládejme, že bych o těch <Lore>Whirlpools</Lore> něco věděl.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_020_f",
+      "en": "I'd feel more inclined to conversate about it if I weren't feeling a mite peckish.",
+      "cz": "Měl bych větší chuť o tom konverzovat, kdybych se necítil tak trochu vyhládlý.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "What a coincidence! I'm a terrific cook!",
+      "cz": "To je ale náhoda! Jsem naprosto úžasný kuchař!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "You're seriously asking me to cook for you?",
+      "cz": "To po mně vážně chceš, abych ti uvařil?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "The only food I'm good at making comes from a microwave.",
+      "cz": "Jediné jídlo, které umím připravit, leze z mikrovlnky.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_026_f",
+      "en": "Every galley needs one, mate.",
+      "cz": "Každá kuchyně jednoho takového potřebuje, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_030_f",
+      "en": "There's a local delicacy I'm quite partial to... <ActivityItem>Kraken's Catch</ActivityItem>.",
+      "cz": "Je tu jedna místní delikatesa, na kterou si potrpím... <ActivityItem>Kraken's Catch</ActivityItem>.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_033_f",
+      "en": "That'll do to start. Then I'll need a main course... Oh, and mustn't forget dessert...",
+      "cz": "To bude pro začátek stačit. Pak budu potřebovat hlavní chod... Ó, a nesmíme zapomenout na dezert...",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_032_f",
+      "en": "I'll slip the recipes through the slot in the door.",
+      "cz": "Prostrčím ti recepty škvírou ve dveřích, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_031_f",
+      "en": "You <Lore>cook me all that</Lore>, and I'll sing like the proverbial nightingale.",
+      "cz": "Když mi <Lore>tohle všechno uvaříš</Lore>, budu zpívat jako ten pověstný slavík.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_027_f",
+      "en": "Think of all that I could've asked for and my price won't seem so high.",
+      "cz": "Pomysli na všechno, o co jsem si mohl říct, a moje cena ti nebude připadat tak vysoká, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_028_f",
+      "en": "A... what wave? Sorry, mate, I'm more familiar with waves of the tidal sort.",
+      "cz": "Mikro... cože vlna? Promiň, parťáku, já se vyznám spíš v těch mořských vlnách.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_029_f",
+      "en": "Uh, don't worry about it. What do you want me to cook for you?",
+      "cz": "Ehm, nelámej si s tím hlavu. Co chceš, abych ti uvařil?",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_010_f",
+      "en": "Hard to reach, harder to forget.",
+      "cz": "Těžko k dosažení, ještě hůř k zapomnění.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_021_f",
+      "en": "Best remember that, mate.",
+      "cz": "To si radši pamatuj, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_011_f",
+      "en": "Parlelelelele... parle... par... —snip, parsley...",
+      "cz": "Parlelelelele... parle... par... —střih, petržel...",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_012_f",
+      "en": "Parley! That's it.",
+      "cz": "Parlé! No jasně, to je ono, parťáku!",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_013_f",
+      "en": "Blame the French for that one.",
+      "cz": "Za tohle můžeš vinit Francouze, parťáku. Ti za to můžou vždycky!",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_014_f",
+      "en": "Now, state your business.",
+      "cz": "Tak a teď mi vyklop, co máš za lubem, parťáku. Ven s tím!",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_UndeadCaptainDoor/UndeadCaptainDoor_MRQS_E04_030_CaptainOfTheDead_MRQS_E04_030_CaptainOfTheDead_TalkTo07.locbin": [
+    {
+      "key": "UndeadCaptainDoor_011_f",
+      "en": "Begone, siren!",
+      "cz": "Ztrať se, ty siréno jedna proklatá!",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_012_f",
+      "en": "Keep away from my door, or I'll... I'll... Let's just say it will be extremely unpleasant and involve bees.",
+      "cz": "Běž dál od mých dveří, parťáku, nebo já... já... no, řekněme, že to bude tuze nepříjemné a budou v tom figurovat včely. Spousta včel!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "I'm NOT a merperson. I'm a regular person with an enchantment.",
+      "cz": "Nejsem ŽÁDNÁ mořská potvora. Jsem normální člověk, jen tak trochu... očarovaný, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "Tell me. Have you ever known a siren to crawl this far inland?",
+      "cz": "Pověz mi, viděl jsi někdy sirénu, co by se doplazila takhle daleko do vnitrozemí?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Open the door. I promise I won't eat you.",
+      "cz": "Otevři ty dveře. Slibuju na svou čest, že tě nesežeru.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_013_f",
+      "en": "Hmm... That would explain how you've made it so far inland.",
+      "cz": "Hmm... To by vysvětlovalo, jak ses dostal tak daleko od slaný vody, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_017_f",
+      "en": "I'm opening the door. But I'm going to do it very slowly. No sudden moves.",
+      "cz": "Otevírám ty dveře. Ale pěkně pomaloučku, polehoučku. Žádný prudký pohyby, jasný?",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_014_f",
+      "en": "You're right. You are a bit far from home.",
+      "cz": "Máš pravdu. Jsi tak trochu... z ruky od domova.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_015_f",
+      "en": "Word to the wise, mate. A promise like that is sure to get broken.",
+      "cz": "Dobrá rada nad zlato, parťáku. Takovýhle sliby se obvykle lámou dřív než stěžeň v bouři.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_016_f",
+      "en": "Door stays shut.",
+      "cz": "Dveře zůstanou zavřený. Na petlici!",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_001_f",
+      "en": "I'm impressed, mate. You made it back alive.",
+      "cz": "Smekám klobouk, parťáku. Ty ses vrátil živej a zdravej!",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_002_f",
+      "en": "I was sure you'd get lost or happen upon some more unpleasant fate.",
+      "cz": "Byl jsem si jistej, že se ztratíš, nebo tě potká nějakej... mnohem méně voňavej osud.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Being able to turn into a merperson has its advantages.",
+      "cz": "Moct se proměnit v mořskou bytost má svý výhody, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Me too. But I got lucky.",
+      "cz": "Já taky. Ale měl jsem prostě kliku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I'm not someone you should underestimate.",
+      "cz": "Nejsem někdo, koho bys měl podceňovat, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_003_f",
+      "en": "Merperson? You never mentioned being merfolk.",
+      "cz": "Mořská bytost? O tom, že jsi z rybího příbuzenstva, nepadlo ani slovo!",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_000_f",
+      "en": "A siren then, leading seafarers like myself to our dooms?",
+      "cz": "Takže siréna, co? Lákaš poctivý mořeplavce, jako jsem já, do záhuby?",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_008_f",
+      "en": "Tell me. Do you mean to eat me? Or just keep me as your captive?",
+      "cz": "Pověz mi... hodláš mě sežrat? Nebo si mě jen nechat jako suvenýr v zajetí?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "What? Neither! I don't eat people!",
+      "cz": "Cože? Ani jedno! Já lidi nejím, parťáku!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Let me explain. I'm not a REAL merperson...",
+      "cz": "Dovol mi to vysvětlit. Nejsem SKUTEČNÁ mořská panna...",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Eat you??? What do you think merfolk are???",
+      "cz": "Sežrat tě??? Co si sakra myslíš, že jsme my mořský lidi zač???",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_009_f",
+      "en": "Not buying it, mate.",
+      "cz": "To ti nesežeru, parťáku. Ani s rumem.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_010_f",
+      "en": "The door stays shut.",
+      "cz": "Dveře zůstanou zavřený. Tečka.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_004_f",
+      "en": "I don't think luck had anything to do with it.",
+      "cz": "Nemyslím si, že v tom měla prsty jenom štěstěna.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_006_f",
+      "en": "It's about time that you and I were introduced proper-like.",
+      "cz": "Je nejvyšší čas, abychom se my dva seznámili... tak nějak oficiálně.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_007_f",
+      "en": "Without this effective but rather rude door between us.",
+      "cz": "Bez těhle sice účinnejch, ale poněkud nezdvořilejch dveří mezi náma.",
+      "source": "our_translation"
+    },
+    {
+      "key": "UndeadCaptainDoor_005_f",
+      "en": "Not to worry. I've got your estimate just right.",
+      "cz": "Žádný strachy. Můj odhad na tebe je naprosto přesnej, parťáku.",
+      "source": "our_translation"
+    }
+  ]
+}

@@ -4,7 +4,8 @@
       "key": "Buzz_000_f",
       "en": "I believe I've found everything you requested, {PlayerName}.",
       "cz": "Věřím, že jsem našel vše, o co jsi požádal/a, {PlayerName}.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Věřím, že jsem našel vše, o co jsi požádal/a, {PlayerName}."
     }
   ],
   "BestFriends_Buzz/Buzz_BestFriendsRequests_BFRequest001.locbin": [
@@ -12,7 +13,8 @@
       "key": "Buzz_000_f",
       "en": "I accept your challenge. Let's rendezvous tomorrow for delivery.",
       "cz": "Přijímám tvou výzvu. Setkáme se zítra k předání.",
-      "source": "our_translation"
+      "source": "pre_existing",
+      "original_cz": "Přijímám tvou výzvu. Setkáme se zítra k předání."
     }
   ]
 }

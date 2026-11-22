@@ -165,10 +165,16 @@
     },
     {
       "key": "Repeatable!Event!Park!Wood_ParkFest_010_Group02_Step02_ReadyDescription",
-      "en": "Bring the checkerboard materials to Woody.",
+      "en": "Bring all the checkerboard materials to Woody.",
       "cz": "Dones Woodymu materiály na šachovnici.",
       "source": "pre_existing",
       "original_cz": "Dones Woodymu materiály na šachovnici."
+    },
+    {
+      "key": "Repeatable!Event!Park!Wood_ParkFest_010_Group02_Step02_StepDescription",
+      "en": "Make sure you have all the checkerboard materials in your Inventory.",
+      "cz": "Ujisti se, že máš v inventáři všechny materiály na šachovnici.",
+      "source": "our_translation"
     },
     {
       "key": "Repeatable!Event!Park!Wood_ParkFest_010_StartRequestButton",

@@ -1,0 +1,334 @@
+{
+  "Expansion04Main_JadeSkull_FirstMate/JadeSkull_FirstMate_Greetings_Greeting001.locbin": [
+    {
+      "key": "JadeSkull_FirstMate_000_f",
+      "en": "Ahoy, there!",
+      "cz": "Ahoj, ty tam!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_exit_000_f",
+      "en": "Sorry, I can't right now.",
+      "cz": "Promiň, teď nemůžu.",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_JadeSkull_FirstMate/JadeSkull_FirstMate_VLG_Capt_020_VLG_Capt_020_TalkTo05.locbin": [
+    {
+      "key": "JadeSkull_FirstMate_001_f",
+      "en": "YARGH! Bleh! Ptooey! Sand in me gristly green molars!",
+      "cz": "YARGH! Bleh! Pfuuuj! Písek v mých starých zelených stoličkách, parťáku!",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_000_f",
+      "en": "Marcus?! Suppose I shouldn't be surprised. Good to see you, mate.",
+      "cz": "Marcus?! Předpokládám, že bych neměl být překvapen. Rád tě vidím, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_002_f",
+      "en": "Cap'n Sparrow? A thousand thanks to you and your friend for digging me out.",
+      "cz": "Kapitán Sparrow? Tisíceré díky tobě a tvému příteli, že jste mě vyhrabali, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "Why exactly were you buried in the sand?",
+      "cz": "Proč jsi byl vlastně zakopaný v písku, parťáku?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Are you all right?",
+      "cz": "Jsi v pořádku, parťáku?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "You do not look like a Compass.",
+      "cz": "Nevypadáš jako kompas, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_004_f",
+      "en": "Oh, 'tis quite a tale.",
+      "cz": "Ó, to je vskutku barvitý příběh, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_009_f",
+      "en": "I was a member of the fearsome Jade Skull Pirates who Cap'n Sparrow met when he first arrived in the Keepsake Sea.",
+      "cz": "Byl jsem členem obávaných pirátů z Nefritové lebky, které Kapitán Sparrow potkal, když poprvé dorazil do Moře vzpomínek, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_025_f",
+      "en": "Well, the crew wanted to steal his Compass, find his Ship and make it their own. Just for a bit of a laugh.",
+      "cz": "No, posádka mu chtěla ukrást kompas, najít jeho loď a přivlastnit si ji. Jen tak pro trochu té pirátské legrace, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_012_f",
+      "en": "But Cap'n Sparrow's a good egg, so I voted against it. Well, me crew decided to maroon me. Said I was disloyal.",
+      "cz": "Ale Kapitán Sparrow je správný chlapík, tak jsem hlasoval proti. No, a má posádka se mě rozhodla vysadit na pustém ostrově. Prý jsem neloajální, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_013_f",
+      "en": "They buried me in the sand and I was stuck there till you came along.",
+      "cz": "Zakopali mě do písku a já tam trčel, dokud jste se neobjevili vy, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_002_choice_000_f",
+      "en": "They marooned you because of a joke?",
+      "cz": "Vysadili tě kvůli vtipu, parťáku?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_002_choice_001_f",
+      "en": "How could anyone do such a thing?",
+      "cz": "Jak mohl někdo udělat takovou věc, parťáku?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_002_choice_002_f",
+      "en": "Harsh, bro.",
+      "cz": "Drsný, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_014_f",
+      "en": "Pirates.",
+      "cz": "Piráti, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_007_f",
+      "en": "Much better now, thank ye. Say, what's a kind heart like yours doing with the likes of Cap'n Sparrow?",
+      "cz": "Už je to mnohem lepší, díky. Pověz, co dělá takové dobré srdce ve společnosti někoho, jako je Kapitán Sparrow, parťáku?",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_008_f",
+      "en": "I'm teaching {PlayerName} the ways of piracy in exchange for help finding my Compass. Any word on that, mate?",
+      "cz": "Učím {{PlayerName}} pirátskému řemeslu výměnou za pomoc při hledání mého kompasu. Nějaké zprávy, parťáku?",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_015_f",
+      "en": "All I heard before they buried me in the sand was that they'd put it in our secret treasure cache. You'll need the <Lore>Shell Map</Lore> to find it!",
+      "cz": "Všechno, co jsem slyšel, než mě zakopali do písku, bylo, že ho dali do naší tajné skrýše s pokladem. Budeš potřebovat <Lore>Mušlovou mapu</Lore>, abys ho našel, parťáku!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_000_f",
+      "en": "But... we followed the Shell Map to you!",
+      "cz": "Ale... my jsme podle té Mušlové mapy došli až k tobě, parťáku!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_001_f",
+      "en": "Did we read the map wrong?",
+      "cz": "Přečetli jsme tu mapu špatně, parťáku?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_001_choice_002_f",
+      "en": "Oh! There must be a secret to reading it!",
+      "cz": "Aha! V tom čtení musí být nějaké tajemství, parťáku!",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_017_f",
+      "en": "Aye, but clearly the Compass is not here!",
+      "cz": "Jo, ale je očividné, že kompas tu není, parťáku!",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_018_f",
+      "en": "Me old crew didn't want just anyone finding their treasures. We used a cunningly crafted ink that was invisible to all but our <Lore>glow</Lore>.",
+      "cz": "Moje stará posádka nechtěla, aby jejich poklady našel jen tak někdo. Používali jsme mazaně vyrobený inkoust, který byl neviditelný pro všechny kromě naší <Lore>záře</Lore>, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_020_f",
+      "en": "But I's the only one that don't <Lore>glow</Lore>, ya see. I need a special green flame to see the ink.",
+      "cz": "Jenže já jsem jediný, kdo <Lore>nezáří</Lore>, chápeš. Potřebuju speciální zelený plamen, abych ten inkoust viděl, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_003_choice_000_f",
+      "en": "Cool!",
+      "cz": "Hustý, parťáku!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_003_choice_001_f",
+      "en": "Clever!",
+      "cz": "Mazaný, parťáku!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_003_choice_002_f",
+      "en": "Creepy!",
+      "cz": "Děsivý, parťáku!",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_021_f",
+      "en": "Interesting... Seems I need to have a little talk with young Mister Thatch. I heard him yammering on about green fire.",
+      "cz": "Zajímavé... Zdá se, že si budu muset promluvit s mladým panem Thatchem. Slyšel jsem ho žvanit o zeleném ohni, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_022_f",
+      "en": "Thought he might've swallowed a bit too much sea water.",
+      "cz": "Myslel jsem si, že se asi nalokal příliš velkého množství mořské vody, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_023_f",
+      "en": "{PlayerName}! Keep practicing your sailing. I'll come find you when I've made progress on this <ActivityItem>Green Flame</ActivityItem> business. Marcus, you may stay here with me. For the time being.",
+      "cz": "{{PlayerName}}! Cvič se dál v plavbě. Najdu si tě, až se pohnu s tím kšeftem se <ActivityItem>Zeleným plamenem</ActivityItem>. Marcusi, ty můžeš zůstat tady se mnou. Zatím, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_016_f",
+      "en": "Indeed there is!",
+      "cz": "To si piš, že je, parťáku!",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_005_f",
+      "en": "Compass, eh? I take it you be meaning Cap'n Sparrow's Compass?",
+      "cz": "Kompas, co? Předpokládám, že máš na mysli kompas Kapitána Sparrowa, parťáku?",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_JadeSkull_FirstMate/JadeSkull_FirstMate_VLG_Capt_030_VLG_Capt_030_TalkTo02.locbin": [
+    {
+      "key": "JadeSkull_FirstMate_001_f",
+      "en": "It works! I mean, of COURSE it works!",
+      "cz": "Ono to funguje! Tedy, CHÁPEŠ, samozřejmě, že to funguje, parťáku!",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_011_f",
+      "en": "Blinkin' barnacles! Look at THAT!",
+      "cz": "U všech mořskejch vší! Koukni na TOHLE, parťáku!",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_002_f",
+      "en": "There's an island on the map that's visible in the green flame. It <Lore>wasn't here before</Lore>.",
+      "cz": "Na tý mapě je ostrov, co se zjevil v tom zeleným plameni. <Lore>Předtím tam nebyl</Lore>, parťáku. Čestný pirátský!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_000_f",
+      "en": "A secret island?! Let's go!",
+      "cz": "Tajnej ostrov?! Tak na co čekáme, parťáku? Vzhůru tam!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "Yarr! To adventure!",
+      "cz": "Yarr! Za dobrodružstvím, parťáku!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "If your Compass isn't there, I'm going to be quite irate.",
+      "cz": "Jestli tam nebude ten tvůj kompas, parťáku, budu vážně, ale vážně dopálenej.",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_004_f",
+      "en": "To adventure!",
+      "cz": "Za dobrodružstvím! A možná i za trochou toho rumu, parťáku!",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_008_f",
+      "en": "Let us set sail! To the Compass. To my Ship! To freedom!",
+      "cz": "Napnout plachty! Pro kompas. Pro mou loď! Za svobodou, parťáku!",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_012_f",
+      "en": "Er... also, make sure you keep that <ActivityItem>Ship's Lantern</ActivityItem> in case we encounter other objects ensorcelled into invisibility, eh?",
+      "cz": "Ehm... a taky si radši nech tu <ActivityItem>lodní lucernu</ActivityItem>, kdybychom narazili na další věcičky, co si hrajou na schovávanou díky kouzlům, co ty na to, parťáku?",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_006_f",
+      "en": "Ha! That's the spirit, young'un! Aye! YARRR!",
+      "cz": "Ha! To je ono, mladej! Jo! YARRR, parťáku!",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_007_f",
+      "en": "I'm going to ignore the two of you for the sake of our crew and the aforementioned path of destiny ahead.",
+      "cz": "Budu vás oba ignorovat v zájmu naší posádky a tý... no, tý cesty osudu, co nás čeká, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_009_f",
+      "en": "{PlayerName}, if my Compass isn't there, I will be even more irate.",
+      "cz": "{{PlayerName}}, jestli tam můj kompas nebude, budu ještě víc dopálenej než ty, parťáku. A to už je co říct!",
+      "source": "our_translation"
+    }
+  ],
+  "Expansion04Main_JadeSkull_FirstMate/JadeSkull_FirstMate_VLG_Capt_030_VLG_Capt_030_TalkTo03.locbin": [
+    {
+      "key": "JadeSkull_FirstMate_000_f",
+      "en": "Yar, I don't much remember this <i>particular</i> part of hiding our treasure.",
+      "cz": "Arrr, na tuhle <i>konkrétní</i> část schovávání našeho pokladu si teda moc nevzpomínám, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_001_f",
+      "en": "Not to worry; I'm a puzzle-y wuzzle-y sort.",
+      "cz": "Žádný strachy, jsem takovej... hádankovej a rébusovej typ, víš?",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_002_f",
+      "en": "{PlayerName}, what say you take that golden spade of yours and dig until something more revealing reveals itself, eh?",
+      "cz": "{{PlayerName}}, co takhle vzít ten tvůj zlatej rýč a kopat tak dlouho, dokud se nevyjeví něco víc... vyjevujícího, co, parťáku?",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_001_f",
+      "en": "I get it!",
+      "cz": "Už mi to pálí!",
+      "source": "our_translation"
+    },
+    {
+      "key": "Player_000_choice_002_f",
+      "en": "I need more explanation.",
+      "cz": "Potřebuju to vysvětlit trochu víc.",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_004_f",
+      "en": "I thought you might.",
+      "cz": "To jsem si přesně myslel, parťáku.",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_005_f",
+      "en": "What Cap'n Jack here means is that you should flip the tiles with your fancy Shovel with clues you find on the island!",
+      "cz": "To, co se tady kapitán Jack snaží říct, je, že bys měl tou svou parádní lopatou otáčet dlaždice podle stop, co najdeš na ostrově, parťáku!",
+      "source": "our_translation"
+    },
+    {
+      "key": "JadeSkull_FirstMate_003_f",
+      "en": "(Is that <i>real</i> gold, by the way?)",
+      "cz": "(Mimochodem, je to <i>opravdický</i> zlato?)",
+      "source": "our_translation"
+    }
+  ]
+}
